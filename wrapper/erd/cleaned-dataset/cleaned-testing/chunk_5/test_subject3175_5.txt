@@ -1,0 +1,83 @@
+ This is a response to both your comments and a general overview of the paper for everyone, the points I make are generalized but to help understand what might be going on:
+
+The paper (see here, open access: http://ehp.niehs.nih.gov/wp-content/uploads/advpub/2015/1/ehp.1408698.acco.pdf) wanted to see if the beneficial effects of exercise on mortality were changed if exercise was performed in a more polluted area. The basic findings were that exercising (mainly cycling in this paper) decreased your mortality risk regardless of how polluted the air was compared to those who did not exercise. They did some analysis on the amount of exercise done (supplementary table 1)  but they didn't have enough data to take anything from it really due to the nature of the questionnaire, so really this is a general exercise vs. no exercise.
+
+Acute exposure to polluted air can decrease lung and vascular function (see pg 4 and 5 of the paper for refs) and chronic exposure is linked/causes increased respiratory and cardiovascular illness and mortality. In this paper they termed high pollution as over 19ug/m2 of NO2, which can cause oxidative stress in cells. 
+
+The benefits of exercise can include increased strength, mitochondrial density and endurance, additionally the mitochondria and cells are better able to resist oxidative stress (http://hyper.ahajournals.org/content/54/6/1206.full that's free access not the best source as it refers more to exercise with people with hypertension but the same effects are seen in healthy people). The better resistance to oxidative stress will enable you to better "resist" the pollutants in the air, improve vascular function etc.
+
+There is obviously a balancing act, too much pollutant vs the benefits of exercise. The key thing to take into account is how long the exercise takes and how much your breathing rate increases. The intensity of exercise wasn't taken into account but if you say 15 breaths per min at rest and 45 breaths per min with exercise (that's intense exercise levels, 30 breaths per min might be a better number). In a week, you would have 151200 breaths with no exercise and 158400 breaths if you exercise for 4hrs at a very high intensity which is 4.75% more breaths/wk. That's a relatively small increase in breath no. for exercising intensely as a whole and given the more you exercise the better your cells should be able to resist oxidative stress it's not surprising that the benefits of exercise outweigh the slight increase in air intake. (Breath volume would increase with exercise too but that's really variable in people and the intense exercise breath rate should hopefully account for that).
+
+An interesting study they reference is this one from Hong Kong http://www.ncbi.nlm.nih.gov/pubmed/17291575
+
+Here the high levels of pollution are 6-times that in this study (120ug/m3 NO) and their minimum levels are the high level in the Copenhagen study. They see the same effect, exercise keeps you healthy even where smog is very high. It should be noted that they didn't specify that all exercise was outside in the smog but some of it would have been and they were exposed to way high levels. They also looked at what air pollutants correlate to disease, NO3, O3 and particulates below 10um had the most negative effects. The benefits of exercise were more pronounced with the high levels of pollution than the lower levels in the Copenhagen study.
+
+**TL;DR:** The basic message is that exercise will keep you more healthy compared to not exercising. The benefits of exercise seem to increase in more polluted areas. If you can exercise somewhere away from pollution great but if you can't it shouldn't put you off because you think you might inhale more pollutants. 
+
+
+
+
+ This is an opinion piece by a professor at UC Davis about his own experiences during his career only. It's good to see this kind of article published in an actual journal despite it just being an opinion article (i.e. it's not based on reviewing employment practices at multiple institutes). 
+
+
+
+
+
+
+
+
+
+ Hmm it'll be interesting to see how this plays out. A couple of points about how this might affect the process:
+
+1. There is a $1495 publishing fee already, **if** your paper is accepted - the high cost is because it is an open access journal - I.e. No paywall. The cost (unclear to what that is) for the sped up process would be mandatory if the paper was accepted or refused
+
+2. The journal aims for a decision within 30 days already - this is not a guarantee, I've submitted to journals with this aim and had to wait up to 10 weeks for the initial decision. Having a guaranteed decision time is great for the submitting authors (assuming it is peer-reviewed correctly etc.)
+
+3. It seems that this process will use reviewers employed an external company. Typical peer review is sent to somebody (ideally 3 reviewers) in the field of study who review it free of charge - it's something that at least in academia you are expected to do. The downside of this is that reviewer may be time pressed due to work commitments which results in either a delayed response time or a poor review. I've had a review where only comments on the abstract were made and took 10 weeks to get, the paper was accepted but I wouldn't class that as a peer review (there was one other reviewer who did a slightly better job). It's interesting that scientifc reports says they only guarantee one reviewer, which I think is complete bullshit. There should be 3 reviewers to enable the editor to make an informed decision and get a more representative view. Hopefully they do send it out to 3 reviewers and it's more of a legal thing by guaranteeing one reviewer as sometimes a reviewer can accept a paper but not return it in time.
+
+4. The main concern would be what level of reviewers this company has. Are they up to date in the field of the study? Is the field their speciality or just given to them as they have some form of biology background? What level of education do they have? 
+
+5. The benefits of the reviewers from this company is that they may have the time and pressure to submit a good detailed review (I.e. If there are complaints about the review they may receive less work). If they have more time they may read up on the specifics of the paper which will let them perform a more detailed, nuanced review. As an academic, if I was to give a rubbish review as I volunteered to do it nothing would be said to me. Perhaps the editor may put an asterisk to my name to not send me a review again (which is what a good editor would do) but I doubt many do this (I know of one who does, other editors seems to have its a luck of the draw thing based on my letter to the editor following the peer review of my abstract).
+
+6. The extra fee should, in theory, go to the external reviewing company and not NPG (though they probably will take a small cut - based on my cynical business views!). The company will pay the reviewers a fee for doing the job on time and take a cut themselves. The people reviewing the document shouldn't really care if it's accepted as they get paid regardless, same with the company. Scientific reports will in the vast majority of cases go with the reviewers decision so they won't care if you've paid or not.
+
+In short, if the company has good quality reviewers then this may be a good thing. If they don't then the integrity of the journal could take a hit if poor papers are accepted and poor papers will be released into the community (this happens anyway for some of the reasons I've given above). 
+
+
+
+
+ The link is to the open access paper. Here's the abstract anyway:
+
+The molecular mechanisms behind aging-related declines in muscle function are not well understood, but the growth factor myostatin (MSTN) appears to play an important role in this process. Additionally, epidemiological studies have identified a positive correlation between skeletal muscle mass and longevity. Given the role of myostatin in regulating muscle size, and the correlation between muscle mass and longevity, we tested the hypotheses that the deficiency of myostatin would protect oldest-old mice (2830 months old) from an aging-related loss in muscle size and contractility, and would extend the maximum lifespan of mice. We found that MSTN+/ and MSTN/ mice were protected from aging-related declines in muscle mass and contractility. While no differences were detected between MSTN+/+ and MSTN/ mice, MSTN+/ mice had an approximately 15% increase in maximal lifespan. These results suggest that targeting myostatin may protect against aging-related changes in skeletal muscle and contribute to enhanced longevity. 
+
+
+
+
+
+
+
+
+
+ The paper is open access but here's the abstract:
+
+The molecular mechanisms behind aging-related declines in muscle function are not well understood, but the growth factor myostatin (MSTN) appears to play an important role in this process. Additionally, epidemiological studies have identified a positive correlation between skeletal muscle mass and longevity. Given the role of myostatin in regulating muscle size, and the correlation between muscle mass and longevity, we tested the hypotheses that the deficiency of myostatin would protect oldest-old mice (2830 months old) from an aging-related loss in muscle size and contractility, and would extend the maximum lifespan of mice. We found that MSTN+/ and MSTN/ mice were protected from aging-related declines in muscle mass and contractility. While no differences were detected between MSTN+/+ and MSTN/ mice, MSTN+/ mice had an approximately 15% increase in maximal lifespan. These results suggest that targeting myostatin may protect against aging-related changes in skeletal muscle and contribute to enhanced longevity. 
+
+
+
+
+
+
+
+
+
+ In this paper, Collagen isoforms 10, 13 and 120 were shown to increase longevity to a similar amount and combining them didn't have an additive effect. 
+
+Collagen isoforms such as collagen IV and VI and are implicated in cancer, these help form basement membranes which help promote angiogenesis (blood vessel growth). These collagen isoforms may also bind to growth factor receptors on cancer cells and promote growth of the cancer cells themselves. Other collagen isoforms like collagen I may prevent tumor progression but may be implicated in the negative aspects of aging.
+
+In terms of what you saw it may be what I'm referring to but it could be approaches that scientist use to study cancer in vitro. It's increasingly common for scientist to grow cancer cells (and other cell types) in a 3D extracellular matrix as this better models the in vivo environment and the cells behave more like they do in the body. This **should** reduce the number of artifacts (it's not perfect and needs improving further) from cell culture experiments and help scientist better understand the physiology and biology of cells. Collagen is often used, as is Matrigel which is a basement membrane matrix (rich in collagen IV among others) isolated from a mouse tumor and can promote cancer phenotypes in healthy and cancer cells.
+
+Like with most studies that get reported on this is the first step so knowing what to do or eat is hard to extrapolate without taking into consideration that this is in worms! 
+
+
+
+

@@ -1,0 +1,1084 @@
+
+
+
+
+
+ What is a deleriant exactly? I see that term thrown around a lot but I've never seen it well defined. 
+
+
+
+
+ Yeah, that level of effect doesn't seem worth it with the unpredictable potential for nastiness that exists with them. I'm also looking at 4-HO-DMT, do you know anything about that? 
+
+
+
+
+ Yep, I've read that page carefully. Thanks for the advice, I am considering steering clear of amanitas for the time being. 
+
+
+
+
+ After reading this board and other sources for about a year I think I'm ready for my first psychedelic experience. I've sort of settled on Amanitas since they're legal, readily available from high-rated sellers, and organic (the white-powder RC's from shady vendors scare me).
+
+However people seem to have very mixed experiences with with these mushrooms, with a large number of dud and bad trips. Is there anyone who's had success with Amanitas that would like to offer some tips on how to make the experience a good one, or am I off on the wrong track choosing them for a first trip? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you, someone with a common-sense answer to this silly debate. There might be areas of reality evolved minds are blind to, but that's not the same thing as saying they're just as likely to produce false beliefs as true beliefs.
+ 
+
+
+
+
+ Force or not, we need a way to describe gravity on quantum scales, and such a thing has proven elusive so far.
+
+Wouldn't entropic gravity be a description of gravity on the quantum scale? That is, the theory is that there are more random quantum "opportunities" for a particle to move in the direction of the gravitational (pseudo)-force than in the opposite direction, or am I misunderstanding? 
+
+
+
+
+ Nope, it was in a chapter before the CLT was introduced. 
+
+
+
+
+ Mostly makes sense -  what's still weird to me is that the math seems to be implying that *averaging* more than 4 strokes over 18 holes is *more likely* than getting more than 4 strokes on any given hole. That seems backwards... 
+
+
+
+
+ Informative answer, thanks 
+
+
+
+
+ The problem in question stated "a golfer has a long-term mean of 3.9 strokes per hole. What is the probability that he scores more than a 72 in an 18-hole game?"
+
+The textbook said to solve this using Poisson and P(x4) for a mean of 3.9 - I don't think this is valid since the probability of getting more than four strokes on any given hole cannot be equated to *averaging* more than 4 strokes over the course of 18 holes, because of the Law of Large Numbers.
+
+The problem is, when I solved P(x72) using a mean of 70.2 (3.9 times 18), it evaluated to a *greater* probability than what was in the textbook. I would have thought the Law of Large Numbers would imply a smaller probability.
+
+Here are the relevant calculations. Can anyone tell me the error in my reasoning?
+
+[P(x4| mean = 3.9) = 0.351635](http://www.wolframalpha.com/input/?i=1-+%28sum+%283.9^x%29%28e^%28-3.9%29%29%2F%28x!%29+for+x+from+0+to+4%29)
+
+[P(x72| mean= 70.2) = 0.384819](http://www.wolframalpha.com/input/?i=1-+[sum+%2870.2^x%29%28e^%28-70.2%29%29%2F%28x!%29+for+x+from+0+to+72]) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Moribito? It's a series not a movie, but it matches the description otherwise. 
+
+
+
+
+ One guy who was given an intravenous drip of DMT in an experiment in New Mexico recently estimated he was "gone" for 1,000 years. 
+
+
+
+
+ Very curious. Lucid dreamers also report that it is hard to reach the moon while in a lucid state. 
+
+
+
+
+
+
+
+
+
+ We could ask about it over on /r/yoga, but I took a look around and it doesn't seem like an esoteric sort of crowd over there. There are some instruction manuals and youtube videos floating around - and a debate between people who say "it's all a metaphor" and the tendon-cutters. Ah, religion! 
+
+
+
+
+ I would hesitate to call someone a fanatic unless they are imposing their beliefs on others. It is a recognized yogic practice in India, it wasn't invented by some nut on the Internet. Those pictures of Indian gods, especially Shiva and Kali, that you see with long tongues sticking out are supposedly references to the practice. 
+
+Apparently though, there is a reasoning behind it that goes beyond the merely spiritual: According to what I've heard, in the throat cavity there are two sensitive regions that are very similar to what is found in the genitals. "Celibate" yogis would get their tongue up in there and basically get themselves off. Bizarrely enough, this was basically the plot of that 70's porno "Deep Throat" though a tongue wasn't the instrument used...
+
+I do not know if any of this is true and I'm not about to cut my tongue tendon to find out, though if anyone on here has done such a practice I'd love to hear from them! 
+
+
+
+
+ The Pranayama crowd is pretty hard-core. Some of them even cut the tendons under their tongue so they can stuff the tongue up into their throat cavity to better conduct the Prana. And they say people who take drugs are nuts! On the other hand, there must be something to the experience if people are willing to physically mutilate themselves to get more of it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He was part of the same organisation as Einstein, von Ossietzky and Kurt Tucholsky?
+
+Those must have been some interesting fundraisers. 
+
+
+
+
+ Understood. I see your point. I read his reply as "No, we don't have any evidence for a Crusade involving actual *children*, it was a misunderstanding of a real Crusade that involved *peasants*" which does in a way answer the question. 
+
+
+
+
+ True, but you can look up the book and see what its sources were. He's not just making unsourced claims. 
+
+
+
+
+ He did provide a reference. 
+
+
+
+
+
+
+
+
+
+ It's been an open secret for a while that disability has become welfare for white people. I could name several people I know on disability who could certainly work if they really wanted to, but would rather sit around all day pontificating on how Obama is a Socialist giving money and "free health care" to people on welfare - as if they aren't on welfare themselves. 
+
+
+
+
+ Hmm, it might be a bit of a stretch but could we consider a function with a variable arity, perhaps one that varied according to a probability distribution? 
+
+For example, I could imagine a random walk that always changes its x and y coordinates for each step of the walk, but only changes the z coordinate when a uniform random variable on [0,1] that is calculated at each step of the walk has a value above 0.5.
+
+Could such a walk be considered to be moving in 2.5 dimensions? If so, what would the probability be that it returns to its starting point? We know that for two dimensions it will always return, but for 3 it only returns about 34% of the time. 
+
+
+
+
+ I was thinking this myself yesterday. I heard a documentary on in the background with a female narrator and I just knew it was early 80's without even seeing the video quality or hearing much about the subject matter. Turns out it was 1981. 
+
+My completely unscientific theory is there was some leftover "hippie" intonation that sort of merged with the "polite secretary" but was then pushed out by the "valley girl" and the "local news announcer" sometime in the mid-80's. I fondly wish for the return of that old female accent but I'm not too hopeful. In fact the default female public-speaking voice seems to have become even harsher and more aloof-sounding in recent years, especially on radio commercials. 
+
+
+
+
+ [Fractal dimension.](http://en.wikipedia.org/wiki/Fractal_dimension) 
+
+
+
+
+ They're just the galactic hicks who haven't figured out the spin-foam stuff yet. 
+
+
+
+
+ If there is a quantum component to how the brain works (which is highly speculative), then changing our brain chemistry might give us access to their realm.
+
+PS those Tulpa people are nuts! I thought I had some crazy ideas but they take the cake! 
+
+
+
+
+ We need one of those really smart people to come along and tell us how gravity works in fractal dimensions between 3 and 4... 
+
+
+
+
+ Interesting. But what if gravity was 1/r^2 regardless of dimension? 
+
+
+
+
+ This discussion presupposes that by "volume" it is meant some type of hyper-volume (the type changes with the dimension.) A ball in 4D has a "surface" that is a 3D volume. It still might be nonsense from a physics perspective (unless you're into String Theory) but the math is interesting. 
+
+
+
+
+  Now what is the expected value for age of coin in this magic room if you pick one coin randomly?
+
+It depends on how long this spawning process has been going on for. However, that doesn't apply to my original post because we are looking at a *ratio* of young to old universes, not the expected age of a randomly chosen universe. In the magic coin room, it's pretty clear that the ratio of "new" (1-year-old or less) coins to "old" coins will always be 1:1, and in the theory the ratio of young to old universes will always be very very large. 
+
+
+
+
+ True, but chances are (if this theory is correct), that we are at the beginning of this process, not down the road. Even if our Universe will ultimately have many civilizations, chances are we're the first. I don't necessarily believe in this theory (it's pretty out there), but the lack of aliens could be seen as supporting evidence for it in a Bayesian sense. 
+
+
+
+
+ Not if this particular brand of Inflation Theory is correct. It goes against the intuition though, I agree. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's part of Eternal Inflation Cosmology (EIC), which states that universes are constantly bubbling into existence as part of an Eternal Big Bang. You may have heard the saying "The Big Bang never ended." That is talking about EIC.
+
+Depending on how you set the parameters for the formulas in this theory, the rate of universe production might appear to be increasing drastically every second. 
+
+Imagine a room that, for every person of age "x," has a million people of age "x-1." The vast majority of people in that room will be very young.
+
+What does that have to do with the Fermi Paradox? Well, imagine that room again. Take the number of people in that room who have had time to have children of their own. The vast majority of people with children will have had only one. There are a trillion 18-year olds for every 20-year old, after all. Replace "children" with "spawned an intelligent civilization," and you have the idea. 
+
+
+
+
+ This one's my favorite:
+
+Cosmologist Alan Guth proposed a multi-verse solution to the Fermi Paradox. In this theory, using the synchronous gauge probability distribution, young universes exceedingly outnumber older ones (by a factor of e1037 for every second of age). Therefore, averaged over all universes, universes with civilizations will almost always have just one, the first to develop.
+
+Always thinking outside the box, that guy.  
+
+
+
+
+ Your description of the chakras, especially considering you had never studied that subject before, is particularly intriguing
+
+I don't know, dude knows terms like "merkaba" yet he's never looked into chakras before? Could be, but I doubt it. Sounds like he had a real mind-blowing experience but I'd be willing to bet he had some knowledge of the classical depictions of chakras stashed somewhere in his memory banks. 
+
+
+
+
+ I'm not sure, but it wouldn't surprise me. It seemed the obvious "next step" in his analysis, the fascinating thing might be to investigate why he never got there (ideology? a "scholarly" rather than a "critical" approach to mythology? maybe he was trapped in the myth himself?)
+
+I've read some criticism of Campbell that claimed he was proto-Fascist for reducing all of human culture to the struggle of the Hero, I think that's going too far, but it could be that he was too wedded to his idea of the Monomyth to see the dialectical possibility in the Hero breaking out of it. 
+
+
+
+
+ Also, both these empires relied on Arab tribes to guard their borders.  The Ghassanids and the Lakhmids, specifically. When these tribes were successfully converted to Islam, all of a sudden the gates were wide open.  
+
+
+
+
+ On two occasions I did see some weird shit. 
+
+Care to elaborate? 
+
+
+
+
+ Campbell was very erudite but he consistently missed the dialectical turn that always lay just beneath the surface of the Hero's Myth: The final monster for the Hero to slay is the constrictive, neurotic-repetitive form of the Monomyth itself in which he is imprisoned. 
+
+I was certain when watching this series for the first time that this was the "twist" waiting at the end, but Campbell either never saw it or didn't think it was suitable for public consumption. He maybe hints at it in his discussion of the Native American "twins" myth cycle (where the twins witness their own story being written by the gods and try to reject it.) 
+
+
+
+
+
+
+
+
+
+ If you're asked to do a probability in the problem, you have to be careful. If all the outcomes in the space are listed first, then one is picked at random, the probability of that outcome is just 1/(30 C 10). *However*, if each *card* is chosen at random one by one, then things become dicier and you get a (generalized) Binomial Distribution. The outcomes with more repeats will be less likely than those with fewer. 
+
+
+
+
+ No problem. These used to stump me in school too. Some texts avoid them because it is hard to construct probabilities unambiguously on multiset spaces without being very careful in how you state the problem. Their sizes are clear, but it is not always clear if all outcomes in such spaces are equally likely. 
+
+
+
+
+
+
+
+
+
+ You don't need Excel, this is one of the simpler spaces: It is called a multiset (or a multichoose) Sometimes it is called a "stars and bars" problem because of how it is diagrammed. A multiset shows up when you are choosing with replacement (allowing duplicates), but you don't care about the order in which the choices were made (which I assume is happening here since you used the word combination.)
+
+You can turn a multiset into a regular combination by using the formula (n + r - 1) C (r). So, n = 21 and r = 10 for your example, so the size of the sample space would be 30 C 10 = 30,045,015
+
+If you *do* care about order then the size is just n^r, so 21^10 which is around 16.7 trillion. 
+
+
+
+
+ I often encounter these terms when reading about the Middle Ages, but they never seem to be well-defined. Confusingly, monasteries often tend to be headed by abbots, but abbots are also found in abbeys. 
+
+Are these vague terms that were used interchangeably, or did they have specific meanings in Church law, etc.? 
+
+
+
+
+
+
+
+
+
+ The claim is you can't read in your dreams (or if you can the text changes) because the part of your brain that controls reading is "still asleep" during a dream. I don't know of any scientific evidence to back this up and I've found it not to be true for me.
+
+That having been said, many people *do* experience changing or unreadable text, and use it as a good reality check. 
+
+
+
+
+
+
+
+
+
+ I don't think that, you misunderstood my comment. I said that line of reasoning does not make sense. 
+
+
+
+
+ I never did understand that line of reasoning. If the brain creates or even mediates consciousness, and consciousness causes the wavefunction collapse, giving rise to "classical" reality, then what collapsed the classical systems in the brain that allowed this process in the first place?
+
+These views seem to try to split the difference between science and mysticism and end up making a mess of both. 
+
+
+
+
+
+
+
+
+
+ *Sunyata* is a term in Buddhism that is often translated as "emptiness" or "void." But as with most translations, it leaves something to be desired. *Sunyata* is like the emptiness of a cup, not the emptiness of "nothingness." The air or water inside the cup is not part of the cup itself, yet, without it, the cup would cease to be a cup. That is, the cup's very identity as a cup depends on some part of itself being not-cup. 
+
+If we reflect on it, the same is true of ourselves. If you are not willing to change yourself, if you are not open to growth or new experiences, then you might as well be a pre-programmed computer or robot. Anyone who actually attains an eternal, unchanging self (*atta*), immediately ceases to be a self at all, and becomes an object with no more life in them than a rock has. 
+
+Therefore our continuation as subjects is dependent on being open and receptive to non-self, to a willingness to incorporate that which is non-self into our identities (using discernment of course.)
+
+Sometimes for these reasons you will see *sunyata* translated as "receptivity" instead of "emptiness." My feeling is it's somewhere in-between these two concepts.  
+
+
+
+
+ All good points. I've heard of Assagioli in passing but have not read his work.  
+
+
+
+
+ (yet Reich was out of the mainstream both among Freudians and Marxists)
+
+That's an understatement. Reich would be classified as "New Age" if he were alive today. In fact his works are still popular in New Age circles, whereas both Freudian and Marxist thinkers tend to dismiss them. Reich was sort of a latter-day Jung with even more of a mystical bent, but the US government found him threatening enough that he was actually imprisoned and died in jail. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Maybe you have someone on witness protection living on your block - or a crime boss looking for a "nice, quiet retirement." You never know... 
+
+
+
+
+ A possible explanation comes to mind - they could be kids doing one of those all-day fasts for charity/hunger awareness and the pizza shop agreed to feed them at Midnight. I would expect getting through that last half hour could be pretty intense and there probably wouldn't be that much socializing going on. 
+
+
+
+
+ It sounds like you stumbled upon the end of a police surveillance shift. 
+ 
+
+
+
+
+ That's because it's a mix of "traditional" Buddhism, the native Bon religion, and Tantrism. Whether this mix is a higher form, just a different vehicle, or a degeneration of the original teaching is very much in the eye of the beholder.
+
+ 
+
+
+
+
+ Chakras aren't discussed in *Therevada* Buddhism. Tibetan Buddhism, they're all over the place. 
+
+
+
+
+ Done. 
+
+
+
+
+ If/when I am able, that is the plan. But if someone with more access to the stuff wants to try first, I will supply the number, keep the key primes private, and wait to see what response comes back. 
+
+
+
+
+ I was inspired by a skeptic who was contacted by a woman who claimed to be in contact with intelligent supercomputers from the future. The skeptic told the woman to ask these supercomputers to factor a large random integer. Of course "they" couldn't do it and she was cured of her delusion.
+
+So my ambition would be to convince someone to go on a DMT trip - or to go on one myself- armed with a large random integer and ask any "intelligences" they meet to factor it. 
+
+Any takers? 
+
+
+
+
+
+
+
+
+
+ Universes that appear to be undergoing a singularity state change from the inside (quickly, from rare to saturated intelligence) are being run in order to generate shared concepts, used to communicate with peers.
+
+I think there might be something to this. Of course one would expect technological change to accelerate over time, but the rate of acceleration we've been experiencing lately seems somehow "unnatural" to me. If the rumors going around about reactionless drives and successful LENR (cold fusion) prototypes actually pan out, that will reinforce my suspicions.  
+
+
+
+
+ [It's in Chapter 2 of his book](http://www.homeschoolnewslink.com/homeschool/columnists/gatto/lesssch.shtml)
+
+Thats an ancient Egyptian idea symbolized by the pyramid with an eye on top thats on the other side of George Washington on our one-dollar bill. Everyone is a stone defined by position on the pyramid. This theory has been presented in many different ways, but at bottom, it signals the world view of minds obsessed by dominance and strategies of intervention to maintain that dominance.
+
+ 
+
+
+
+
+ I get the nagging sense when watching the Simpsons that Bart is somehow smarter than Lisa, he's just hiding it, playing a game with life for some reason or another. I can't point to any specific scenes that would "prove" this theory, or if it's anything intentional that the writers put in the show.
+
+I'm wondering if anyone else ever got the same hunch and can flesh out this idea a little bit more... 
+
+
+
+
+ The giant white pyramid in Tibet I swallowed, but I stopped watching when he claimed the average temperature during the Ice Age was 50 degrees below zero.  
+
+
+
+
+ The actual doctrine is "anatta" which is usually (mis)-translated as "no-self." The Vedic concept of the "atta" is very different from the modern Western ideas about a "self." The atta was said to be eternal, unchanging, and identical with the Universal Principle (Brahman).
+
+This is the "self" that the Buddha demolished philosophically, not the idea of a changing, growing, interconnected self.
+
+If you think about it, an unchanging self isn't a subject at all, but an object. It is those who believe in an atta who have to ask "for whom is this done?" since there is no way to change the atta. Buddhism can answer - it is done out of compassion for our future selves as well as other beings. 
+
+
+
+
+ What was the book about? I sometimes get this with music and it doesn't seem to be any song I remembered hearing while awake. It is mostly Classical music and I don't listen to much of that (while awake anyway.) 
+
+
+
+
+ On the contrary, I think this is great for beginners. Buddhism can seem so gloomy with the "all is suffering" aspect to the teaching that it turns so many people off to the practice.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I just read that cosmic "ray" is a misnomer and they are not photons - my mistake!  
+
+
+
+
+  nuclear gamma rays we observed at 10^7 eV or astrophysical gamma rays that we observed at 10^13 eV would, to this cosmic ray, have energies of over 10^18 or 10^24 eV, respectively.
+
+It seems like here you are describing things from the point of view of the cosmic ray. 
+
+
+
+
+ Over on the "what came before the Big Bang?" thread, it was stated that photons don't have a frame of reference and can't be said to "observe" (measure) anything. I take it you disagree with this? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Perhaps he should have phrased the question "Is the spacetime created by the Big Bang part of a larger system." 
+
+
+
+
+  I got to the part where the theory is that each bubble universe could have radically different physical laws, and my reaction was like this:
+
+Wow that's really cool ......... wait....... why? ...........
+
+Even beyond that, there must be some super-set of laws that governs the eternal inflation itself. And from there one could speculate about an ensemble of super-multiverses where the inflation laws worked differently. 
+
+
+
+
+ Can photons have a point of view? That is, can they make a measurement in the quantum-mechanical sense?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Good point... I covered it up.  
+
+
+
+
+ There are a number of theories. One is that it externalizes/structures the fear of the audience (mostly teenagers) of being caught and punished for what many of them are planning to do after the movie. In that case it is not so much trying to promote conservative values as it is simply reflecting them to increase the fear/enjoyment of the audience. 
+
+
+
+
+ Uh, I doubt that Hollywood has killed every character who ever said "God dammit." On the other hand, that punishing disbelief thing is very real though you're not the first to notice it. Part of it is just the convention of telling a good story - it's hard to make a good ghost story where the ghost turns out to be a hoax*, so of course the disbelievers in a horror movie will end up looking like idiots, but part of it is indeed playing to the desire the audience has for the paranormal/supernatural to indeed be real.
+
+Critics have also long noted that supposedly "liberal" Hollywood movies also tend to punish people who have unconventional, kinky, underage or casual sex, especially in the horror genre. Say "God dammit" and you're probably safe, but be a teen having sex in a horror movie, you're screwed.
+
+*Exception: [Heart of Midnight](/spoiler) 
+
+
+
+
+
+
+
+
+
+ Shows pretty vividly the "neo-Conservative" migration from the left to the right that happened from the 70's through the Bush years. 
+
+
+
+
+
+
+
+
+
+ I know for sure one of the gang days was October 30 of that year, but I'm not sure if they go that day every year.
+
+Well, that explains my odd experience at Six Flags on Halloween. It gradually dawned on us that the "Zombie" blocking the line was a crackhead, not an employee in costume... also my gf at the time bought one of those velcro monkeys and someone stole it from around her neck. 
+
+
+
+
+ I've come across this guy's blog several times. Either I'm not educated enough to understand what he's talking about or he writes very incoherent blog posts on everything from black holes to psychology. He's obviously trying to say something about the Qualia debate here but beyond that I can't make sense of it. 
+
+
+
+
+ There are, I just went with the print version. 
+
+
+
+
+
+
+
+
+
+ I don't know much about the history of that area except for the Acadians who were Catholic. You might want to ask a local historian about any weird religious groups or cults that might have existed in your area. 
+
+
+
+
+ It reminds me of the Byzantine Empire and the riots of the Greens vs. the Blues in the Hippodrome. I think eventually something similar did happen there - the Emperor banned chariot races and turned the Hippodrome into a Monastery.  
+
+
+
+
+ Is that exactly how the problem was stated to you? Because I can't make much sense out of it. It looks like a Combinatorial problem, those sometimes have special cases for n=1. 
+
+
+
+
+  Also, it says alcohol prohibits lucid dreaming but i've had plenty of them after a night of heavily drinking, (some of my longest ones also) I think this misconception needs to be addressed. 
+
+Same here. Once I was drunk in the dream too and at a bar (that was interesting.) The bartender offered me a drink and I told him no, I'd had enough when I was awake! 
+
+
+
+
+
+
+
+
+
+ Names were things like Guy, and Girl, and no these weren't infants, though many were children or in their early teens, sometimes whole families.
+
+That reminds me of something I once heard or read that there were certain schismatic Anabaptist groups that went out into the backwoods - if you were in one of these groups, you wouldn't get a "Christian" name until you were formally baptized into the church, and even some adults were not given that privilege (perhaps they had misbehaved or offended the church leaders), so they were just called "man" or something like that for their entire lives. 
+
+On the other hand, an Anabaptist church probably wouldn't have an organ. Where was this church located? 
+
+
+
+
+ 'speedtrap hill'... At the bottom of the hill was a rather large pond that some of my naughtier friends and I used to smoke weed at pretty regularily. 
+
+Ghost deer aside, that might not have been the best place to smoke weed. 
+
+
+
+
+ Thanks, great reply. Are you a lawyer? 
+
+
+
+
+ I've gotten used to it at those places too, but for the first time today I got the same question at a convenience store. I wasn't actually buying gum but pretty close. 
+
+
+
+
+ And Gatto is a crank who believes the Illuminati put secret messages in the dollar bill. The enemy of your enemy is not always your friend - especially if he's crazy. 
+
+
+
+
+ I'm sure this has something to do with customer tracking, wanting to spam me, etc., but is this really so lucrative that companies tolerate slowing down their lines and pissing off their customers like this?  
+
+
+
+
+ All true, my skepticism was over whether or not this was a conscious choice (in the US at least) to lower long-term wealth in exchange for present-day power monopolies. It is more likely that the "plutocrats" simply subscribe to a feel-good ideology that believes the measures you mention *promote* long-term growth (even though they don't.)
+
+African dictatorships, whole 'nother story... 
+
+
+
+
+ I'm skeptical of that - I don't think "they" are that self-aware and have any definite agenda of that magnitude. 
+
+
+
+
+ But the pie doesn't grow as fast, or at all, so over the long run even they lose out. 
+
+
+
+
+
+
+
+
+
+ I was trying to read The Hobbit...it was around midnight when someone knocked 3 times on the front door.
+
+That would have been Gandalf. You missed out on quite the adventure. 
+
+
+
+
+ I still think stuff like "Yea we should totaly do that" in my head when I'm thinking of something I should do ALONE.
+
+Sort of embarrassing but I started doing that Freshman year of college when I was having a tough time socially. The "we" was me and one of my friends from HS who had gone to a different college. I don't know why I picked him probably because he was the most laid-back of my HS friends so he was a good imaginary companion. The weird thing is I talked to the real friend online but never told him I made an imaginary version of him to keep me company... I think that might have ended the real friendship pretty quick.
+
+Anyway now years later I still say "we have to go shopping" to myself but I'm not thinking specifically of that friend anymore, it's just a generalized "we" made up of all the different aspects of myself. 
+
+
+
+
+ Elsewhere on this thread which has unexpectedly turned quite creepy a few people mentioned such things might be imaginary friends who *became real* (aka [tulpas](http://www.reddit.com/r/Tulpas/) ). That is somehow more creepy than ghosts in my book. That link by the way goes to a sub full of people who actually want to create these things. 
+
+
+
+
+ Yep. It was within two minutes of 6:30. I think I encountered my inner body clock or something! 
+
+
+
+
+ Story please?? 
+
+
+
+
+ I was leaving a regular, non-lucid dream when I suddenly became lucid. I was hovering above an "overview" timeline of the next morning and saw a graphical "menu" of three "exit" times when I could wake up: Noon, 8 AM and 6:30 AM. I chose the earliest time, and, sure enough, woke up at 6:30. 
+
+Not the most exciting lucid dream ever, but I thought it was interesting enough to share. 
+
+
+
+
+ It depends who the host is. Since they went to the rotating hosts, some are much more political than others. Basically the political spectrum on that show now spans from "Obama is evil" to "Obama is evil, but so was Bush."
+
+Edit: If you go to Art Bell's Facebook it says "I wish my name was no longer associated with what Coast has become!" As an avid (if skeptical) fan of the show back when I was a kid, I couldn't agree more. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 60 is a good number for measuring time because it has a lot of factors: 2,3,4,5,6,10,12,15,20,30 - and thus a lot of ways to divide it without remainder.
+
+Same with 24... 
+
+
+
+
+ No, your math is right. Paradoxes like this one form part of the philosophical argument against Actual Infinities. 
+
+
+
+
+ After all, a de facto government agency cant serve only one small group of people. 
+
+Somewhere a DoD procurement officer is laughing... 
+
+
+
+
+ There would be a shortage in the consumer markets before the government (especially the military) felt any real shortage. At least in the US the government controls huge energy stockpiles. My guess is these would be used to build the nuclear plants, along with strict consumer rationing. This isn't too different from the situation in WWII. 
+
+
+
+
+ If they were working trades I would be all for it, but that's not what they're doing. They are going to McDonald's and Wal-Mart. 
+
+
+
+
+ It's a bad idea because they aren't getting any job experience that would integrate with a high school education. They're doing jobs that someone with a 5th grade education or less could do. The fact that they're getting HS credit for this is ludicrous. 
+
+
+
+
+ The school let him leave at lunch his jr and sr years so he could work.
+
+Funny, that is now the hot trend in education again. Our Juniors and Seniors get three class credits for "job training" at the local fast food places and Wal-Mart. They can leave school at lunch. Needless to say this program is quite popular. Our district has even won awards for its "progressive" "apprenticeship" program. Of course it is all nonsense. Sometimes these students get fired and the employer forgets to tell the school and the kids just go home at lunch or hang out on the streets. 
+
+
+
+
+ Things get done in a hurry when people are desperate. Almost overnight (really like five months), a whole Depression's worth of closed factories were turned into massive arms production centers for WWII. Granted, the tech of a nuclear power plant is more complicated than a bomber assembly line, but don't count civilization out just because it (always) needs a crisis to get its ass in gear. 
+
+
+
+
+
+
+
+
+
+ he didnt have any Jesuits found in his basement
+
+Might that have just been good luck on his part though? What do you make of the theory that Shakespeare was a closet Catholic? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Was it available at one point outside the US and then taken away? Or did they just never have it outside the US? Sounds stupid either way! I fail to see why businesses deliberately antagonize their customers like this. 
+
+
+
+
+ This was seven months ago, the instant queue is still there - I think it's safe to say this idea went nowhere. 
+
+
+
+
+ Check out info about the Ajna or Third Eye - lots of mysticism to sort through, but perhaps some useful data as well. 
+
+
+
+
+ Me too, except my mom is more a believer in that stuff than I am! 
+
+
+
+
+ Any sources on the more obscure items? This reminds me of the "Tales of the Weird" booklets they used to sell at supermarket checkout counters. A lot of the "tales" were misreported or just plain made up. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How do people pay for stuff there? Barter? Or do most people still live off the land? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ eh, not really - very heavy tourist traffic there in the summer. Abbie Hoffman is famous for hiding out in the 1000 islands, but he actually lived in a resort town under a fake name, not on some shack on a deserted island. 
+
+However, head north into Canadian lake country from the St. Lawrence, that's a different story. Plenty of Unabomber shack possibilities up there. Just sayin'. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Unless black holes are producing new Universes, then it is reproducing (though in a boringly asexual manner) 
+
+
+
+
+ So a documentary on, say, the definitive fact that [a large number of sports stars are clearly extraterrestrials](http://nyc.barstoolsports.com/random-thoughts/the-definitive-athletes-who-look-like-aliens-list/) would be popular around here?
+
+ 
+
+
+
+
+ how? mini-wormholes? 
+
+
+
+
+
+
+
+
+
+ You might want to try /r/AskHistorians  
+
+
+
+
+ His great unfinished work was planned for a premiere at the base of the Himalayas. Scriabin believed it would cause an apocalyptic transformation in the nature of the universe and give rise to a race of spiritual hermaphrodites. 
+
+
+
+
+ He also created a quartet for helicopters and an enormously long allegorical play that was supposed to represent the days of the week. One scene for "Thursday" involved a man dressed as a pencil shoved inside a giant pencil sharpener.
+
+One weird dude. Scriabin was even stranger. 
+
+
+
+
+ Sounds like an Indian Caligula - what was his name? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ An individual doesn't need to recognise something as being an adaptive mechanism for it to indeed be such.
+
+True, but if you *tell* him it's just an adaptive mechanism, he's likely to disagree vehemently. My point was there is a conflict between religion and science *on this level*. Other than that I think we agree. 
+
+
+
+
+ That is correct - or they thought they were just giving the right to traverse the land or for whites to settle in the area but who would still be subject to the native chiefdom. A lot of treaty wars started with these kinds of misunderstandings. 
+
+Of course a lot of the time they were *deliberate* misunderstandings, on both sides. Tribe X would sell land that had been occupied by Tribe Y for years, and Y didn't know anything about it. The white settlers knew Tribe Y lived in the area, but they just wanted a legal fig leaf to conquer the area. All of a sudden white settlers show up and begin kicking the members of Tribe Y out of the territory. 
+
+
+
+
+ Seriously, their last emperor had an entire city slaughtered because their king would not give him a tree that would not even survive in Tenochtitlan's climate. They took the tree and it died.
+
+Do you have more info about this incident? Seems like the king refused to give a symbolic tribute. It seems hard to believe that the Aztec emperor really cared about a single tree if there wasn't some symbolism attached to it. 
+
+
+
+
+ Calvinism   Predestination was always a very small minority belief within Christianity. Very few Christians were Calvinists even at its height and it has virtually died out today. Even churches that are still officially Calvinist (like Presbyterians and Dutch Reformed) do not promote the belief (sort of like modern Mormons and the whole Kolob thing...) 
+
+
+
+
+ otherwise the human race would be full of good looking people by now. Obviously this person doesn't go to walmart very often.
+
+Many of those people *were* reasonably good-looking in High School when they began their reproductive careers though...
+
+All in all, saying that darwinian evolution worldview cannot align with a religious worldview demonstrates a lack of understanding of evolution and a lack of understanding of religion.
+
+Maybe, but religion considers itself true, not just useful. There is a conflict on that level. Very few people follow a religion just because they think it is a socially convenient myth. I've only met one person like this in my entire life, and he was a very creepy and manipulative psychiatrist at a "Christian" hospital. 
+
+
+
+
+ Social Darwinism used race as a virtual synonym for species, which it clearly is not - human races are 100% inter-fertile. 
+
+Similarly, Social Darwinism argued for a political authority that would wield a kind of "artificial selection" that could replace and "hurry up" the process of natural selection, and used dog breeding as an example. 
+
+The problem with this was dog breeding took hundreds of years on an animal with a much shorter generational cycle than humans, and actually increased the diversity of dogs - it did not lead to one breed of "Master Dog" the way many Social Darwinists wanted to (re)-create the "Master Race."
+
+So not only was there moral horror from Scientific Darwinists against Social Darwinism, there was scientific outrage as well, since Social Darwinism was the crudest form of pseudoscience used to advance political ends. 
+
+
+
+
+ You might want to look into the Catholic answer to this question. Catholic dogma today accepts evolution but suggests that during some point in the process of Evolution God gave the developing man and woman a soul, and this was Adam and Eve.
+
+I personally don't believe in this, but it is an example of a belief that attempts to reconcile Darwin and the Bible. 
+
+
+
+
+ First, the theory of evolution makes soul-body dualism hard to conceive of, which in turn poses significant problems for explaining how the afterlife is supposed to work. 
+
+I know this is picky, but orthodox Christians don't believe in soul-body dualism, they believe in a bodily resurrection on Earth, not body-less souls floating around heaven, despite the popular "folk Christian" idea that this what the afterlife is like. 
+
+
+
+
+
+
+
+
+

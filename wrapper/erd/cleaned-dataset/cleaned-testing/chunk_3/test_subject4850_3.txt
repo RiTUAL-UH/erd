@@ -1,0 +1,56 @@
+ My favorite Star Wars ship is the Voyager, and my favorite Star Trek captain is Han Solo. 
+
+
+
+
+ Huge fan Bill!  Just wanted to ask, what are your thoughts on all of the gifs on the internet with you in them? 
+
+
+
+
+ I cannot up-vote this enough........ 
+
+
+
+
+ I hadn't seen any simple C++ libraries for the Oculus Rift other than the normal SDK, which seemed a bit overly complicated, so a friend and I made one for our senior project.  It also includes support for the Microsoft Kinect, and I'll be adding support for the recent updates to the Rift SDK soon.  I've also got a new Kinect 2.0 that I plan to add as well.
+
+https://github.com/gemisis/Project-Virtua
+
+We have a website over at http://www.projectvirtua.com that includes documentation and stuff too.  There's also some example projects you can look at as well there. 
+
+
+
+
+ If you could go back in time and change one thing about the original Tony Hawk's Pro Skater games, what would you change and why?
+
+Side note, huge fan! :D 
+
+
+
+
+ It's the one where [Hey, Who turned out the lights?](/spoiler) 
+
+
+
+
+
+
+
+
+
+ $20 I don't have sadly.  Most of the tech here I'm either borrowing or was given to me as a gift. 
+
+
+
+
+ If I had the money for UE4 that may have been an option, but assuming it has Kinect support then yes, that would look better. Big goal here was to do so on a low software budget.  
+
+
+
+
+ Yeah, we were kind of pressed for time XD I'll try and get a better demo setup at some point that shows the Kinect off. First goal is to get it to use the new alpha sensor though.   
+
+
+
+

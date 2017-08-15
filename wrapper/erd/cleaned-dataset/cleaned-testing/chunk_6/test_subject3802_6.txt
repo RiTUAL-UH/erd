@@ -1,0 +1,613 @@
+ Make sure notifications are enabled again in the stock messages app. SMS replacement apps disable stock notifications so you don't get double.  
+
+
+
+
+ SlimBean has a feature called "The Real Dark Slim" which nightmode-ifies all the system apps on your phone (from messages to the play store). For this to work with gapps like gmail and play store, you have to flash the slimbean gapps (I think). This is because the setting just switches out the apks for the inverted ones when you turn it on and vice versa.  
+
+
+
+
+ Can't say I've run into that issue yet, on any ROM. Sorry.  
+
+
+
+
+ To be honest I'm not entirely sure. I'd flash the slimbean package just to be safe.  
+
+
+
+
+ Battery life is about the same, 18-22 hours with 3-4 hours SOT. 
+
+
+
+
+ **ROM Name:** Slim Bean
+
+**ROM Version:** 4.3 Build 1 (09/15)
+
+**Android Version:** 4.3
+
+**Download Link:** [slimroms.net](http://www.slimroms.net/index.php/downloads)
+
+**Kernel:** Slim-4.3-JWR-RC-1.1 (default ROM kernel)
+
+**General Feedback:** I initially tried this ROM because it was one of the few ROMs that had a JWR+JSS hybrid kernel - I was on CM 10.2 nightlies w/ Franco kernel and I kept running into the JSS deadlock issue. I initially intended it to be a temporary thing but after running this ROM for a few days, there is nothing I miss from CM (read: SlimBean has all of CM's features) but I would certainly miss some features of this ROM if I went back, so it looks like I'll be staying for the foreseeable future.
+
+**Hardware Comments:** Nothing really comes to mind... there have been no bumps in the road in terms of hardware issues, which is to be expected from a Nexus device.
+
+**Features:** All of CM's features + way more (and their ROM size is somehow ~100mb smaller than the average CM release!). My favourite have been the way they handle custom navigation buttons/layouts (the UI/options for it are better than CM's implementation IMO, plus you can do things like have custom actions done on long-press of a button, which as far as I'm aware of, isn't available on CM) and transparent navbar and notification bar on the homescreen (which results in a simply beautiful [homescreen](http://i.imgur.com/c49K0Tk.jpg)). There are just so many more options for things, and it doesn't at all seem bloated.
+
+**Stability   Performance:** Both have been absolutely stellar on the stable release. On CM10.2 I was experiencing daily random reboots and keyboard freezes due to bugs in the JSS AOSP build - granted I was running a nightly of CM compared to a stable release, but CM only has nightlies for Android 4.3 ATM and I wanted to be on the latest. It just seems lighter overall.
+
+**Caveats   Warnings:** Honestly, at this stage, absolutely none. I've been gushing about this ROM to all my friends (well, those who know what a custom ROM is) ever since I installed it. I have only been running it for 3 or 4 days though, so there may be some hidden bug that I have yet to discover. 
+
+
+
+
+ I'm in the market for an alternative messaging app myself, here's a few that I've found;
+
+[88SMS](https://play.google.com/store/apps/details?id=com.thinkleft.eightyeightsms.mms) - Pretty much the stock SMS pulled from Jellybean with some enhancements (such as quickmessage popup, night mode and emoji support)
+
+[Textra](https://play.google.com/store/apps/details?id=com.textra) - Quite nice. I used this for quite a while before switching back to stock.
+
+[Pansi SMS](https://play.google.com/store/apps/details?id=com.pansi.msg) - Has a very similar UI/style to iOS 7 messaging, I suggest you give this one a try if you like the iOS 7 messaging.
+
+[Now SMS](https://play.google.com/store/apps/details?id=crometh.android.nowsms) - Google Now-inspired UI
+
+[Sliding Messaging](https://play.google.com/store/apps/details?id=com.klinker.android.messaging_donate) - This has the best UI out of all of the messaging apps (IMO). The hangouts UI and animations are just phenomenal. The only reason I'm not using this as my only SMS app is the fact that it freezes quite often. Really unfortunate. 
+
+
+
+
+ Source? 
+
+
+
+
+ In the meantime you can install supersu. Should fix the issue.  
+
+
+
+
+ [Auto HD for Youtube](https://chrome.google.com/webstore/detail/auto-hd-for-youtube/koiaokdomkpjdgniimnkhgbilbjgpeak) 
+
+
+
+
+ Yeah its fine. Running it now.  
+
+
+
+
+ Uhh, no. 10.2 is based on aosp 4.3. There is no 10.3 and there are only nightly releases for 10.2 at the moment.  
+
+
+
+
+ You can do that with onandroid, which is tightly integrated with nandroid manager.  
+
+
+
+
+ But that's where I'm confused. I'm not talking about restoring the whole nandroid - nandroid manager allows you to explore the nandroid and pull individual apks and their data from the nandroid.  
+
+
+
+
+ I'm actually confused why it seems that everyone does a backup of their apps AND a nandroid (which includes the /data partition anyway!). I simply do a nandroid and restore my apps/texts/wifi passwords from the nandroid itself using [Nandroid Manager](https://play.google.com/store/apps/details?id=com.h3r3t1c.bkrestore). Saves a lot of time and storage space. 
+
+
+
+
+ S3 mini? Wouldn't bet on it.  
+
+
+
+
+ Why stay on 4.2? 
+
+
+
+
+ I was in the exact same position as you a few days ago. Was rocking an S2 and I hadn't done any research on the sim tray so when my N4 finally arrived I realized I couldn't just pop my sim in. Cut it down to size with a pair of pliers and a nail file. Took me about an hour and it works fine.  
+
+
+
+
+ Nope, only the 10.2 9/6 and 9/7 nightlies (as the title says).  
+
+
+
+
+ Except for the part where, on some devices, nightlies are the only option for CM.  
+
+
+
+
+ Well that's wrong. I dirty flashed the 9/6 nightly over the 9/5 one and it still didn't boot.  
+
+
+
+
+ Meant to say CM 10.2 in the title *
+
+[XDA Thread](http://forum.xda-developers.com/showthread.php?t=2408130 page=15) 
+
+
+
+
+ Did you do a full wipe and use the latest gapps package? 
+
+
+
+
+ To be fair, it didn't commit suicide. You dropped it... 
+
+
+
+
+ But is there really? I mean if the n4 had hardware buttons, wouldn't they be in the same place as the software ones and the screen would be smaller? I don't get this argument.  
+
+
+
+
+ Did you download the latest gapps package? 
+
+
+
+
+ I think its a software issue with the default camera app. I have this lag on the default camera app but not CM's Focal.  
+
+
+
+
+ You can talk about them, just don't make it obvious that they are an ex. Simply say "my friend" or "a girl I know" etc.
+
+After breaking up with my girlfriend of 4 years, I realized that most, if not all, of the interesting anecdotes of my life that would be good in a conversation were with her present. This is an easy way to tell those stories without directly advertising the fact that she was my partner.  
+
+
+
+
+ The camera shortcut is hard coded into the lockscreen, similar to how the camera shortcut on iPhones are. Your best bet is a lockscreen replacement.  
+
+
+
+
+ I'm pretty sure that this isn't possible unless the app dev specifically codes it.  
+
+
+
+
+ An app called nandroid manager can restore data + apps (including SMS and mms) from a nandroid.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki?hl=en-GB 
+
+
+
+
+ I recently visited an abandoned mental asylum with a friend. Wouldn't mind some comments. :) 
+
+http://www.flickr.com/photos/lukeboland/sets/72157634842265372/ 
+
+
+
+
+ May not be much help but osx is ridiculously easy to pirate since it has no DRM or activation process.  
+
+
+
+
+ I went to Melbourne for a few days with family.
+
+http://www.flickr.com/photos/lukeboland/sets/72157634479326388/ 
+
+
+
+
+ Yeah, clinical depression or depression that isn't brought about by a bad situation (where you are chemically imbalanced) can only ever be managed. There isn't really a "cure" or way to "beat" it, you just learn to live with it and manage it in a way that allows you to have a relatively happy life. For some people this means medication and others therapy (oftentimes both). 
+
+
+
+
+ I tried to do this for my final photography assessment in high school: http://www.flickr.com/photos/lukeboland/7970256258/in/set-72157631432902674 
+
+
+
+
+ http://i.imgur.com/HrDNydV.jpg 
+
+
+
+
+ Apparently they're bringing Effy back in gen 4. 
+
+
+
+
+ Wouldn't you say more contrast? 
+
+
+
+
+ Cloudy With a Chance of Meatballs 2 
+
+
+
+
+ I love me some Justin Bieber hate train, but has anyone stopped to think that maybe his PR people have told him to have this facial expression because its smoldering or something? Exhibit [A](http://justinbieberpages.com/wp-content/uploads/2013/01/justin-bieber-januari-2013-photo.jpg) [B](http://images6.fanpop.com/image/photos/33600000/justin-bieber-2013-justin-bieber-33633043-1500-1548.jpg) [C](http://images6.fanpop.com/image/photos/33300000/justin-bieber-2013-justin-bieber-33337595-1500-1559.jpg) [D](http://www.panotur.com/search/justin-bieber-2013-wallpaper-hd). 
+
+
+
+
+ I think this is due to me overexposing the shot. Even though I shot in RAW I don't seem to be able to prevent the highlights from being so blown out. Any suggestions? 
+
+
+
+
+ Not exactly new here but its my first post and I have a tendency to over process, just wondering what you guys thought;
+
+processed: http://i.imgur.com/rn88uV0.jpg
+
+original: http://i.imgur.com/doLvzfW.jpg 
+
+
+
+
+ pushbullet 
+
+
+
+
+ Not entirely correct. A parallel for self harm is (arguably) drug use. Some people do it to look cool/for attention and others do it because they do derive pleasure for it and it is a coping mechanism... I am probably wrong here (I don't have a source for you and I'm on my phone) but I remember reading somewhere that self harm releases endorphins into the body in response to the pain, and people can get addicted to that as well. 
+
+There are also the psychological reasons behind it, such as feeling in control (when the self harmer feels that all other aspects of their life are out of their control, so they self harm because they can control the pain and it makes them feel empowered)
+
+And say what you want about attention seeking, but if someone is so desperate for attention that they feel the only way to get it is to deface their body, don't you think they need some help, regardless of the severity of their self harm? 
+
+
+
+
+
+
+
+
+
+ You obviously don't know much about anxiety. Although it is a mental illness, anxiety manifests itself in sometimes debilitating physical ways. Saying that people that suffer from anxiety suck for not just manning up and dealing with people is similar to telling a person without legs to "just walk" and getting angry at them for not doing so. 
+
+
+
+
+ What controller are you using? 
+
+
+
+
+ [Stepmonster](http://www.youtube.com/watch?v=WjXt-TgqXhs). It was rated as a child's movie but it really should have been for mature audiences... I had severe night terrors from it for almost an entire year. Awful. 
+
+
+
+
+ Lied to me and broke my trust multiple times, then had the nerve to turn around and claim that I was the one who didn't love her. She was co-dependent on me being depressed and miserable, and when I started medication and getting better the relationship started to turn sour. Then, when I broke up with her, she made me out to be some psycho and that I broke up with her because she was hanging out with a gay guy, when she knows full well that I left her because of trust issues we'd been struggling with for well over a year (because of *her* actions).
+
+I loved her and genuinely thought I was going to spend the rest of my life with her. She was my best friend and soulmate, but best friends don't do that to each other, especially if they are supposedly in love. 
+
+
+
+
+ I love the new UI, but there is one issue that bugs me: with the previous version, when you launched the app it would automatically open up to the last screen/activity you had when you were in the app (for me this would often be all songs in alphabetical order). The new app no longer does this, and instead always opens directly to the "listen now" page.
+
+I only use my phone to play songs in my car, so it is quite annoying with the new app, as it takes 7-8 taps and swipes to get to "all songs" when it previously took one. 
+
+
+
+
+ Just an fyi, you can't have a link + text post in the same post. Its a limitation (or intentional design choice) of reddit itself, not your app. 
+
+
+
+
+ For the sake of technicality, the features oi are talking about are just Google Search. Google Now is a part of Google search that automatic all populates the search page with relevant cards/info, without user input.  
+
+
+
+
+ Has anyone ever told you you look like [Ali Larter](http://images4.fanpop.com/image/photos/20900000/Ali-Larter-ali-larter-20919460-1600-1200.jpg)? 
+
+
+
+
+ Its not really an alternative to either, since is doesn't integrate SMS. No, it requires a data connection to function.  
+
+
+
+
+ http://www.reddit.com/r/Android/comments/1efl52/what_features_need_to_be_added_to_google_hangouts/
+
+http://www.reddit.com/r/Android/comments/1ef9yp/the_new_hangouts_am_i_missing_something_heres_my/
+
+http://www.reddit.com/r/Android/comments/1ef71j/hanging_out_with_google_hangouts_googles_new/ 
+
+
+
+
+ Letmewatchthis and 1channel are actually the same site. 
+
+
+
+
+ Its almost as if the internet is full of people with varying opinions.  
+
+
+
+
+ Just try both and stick with the one you like the best. ROMs are like softdrink flavours; you can't have someone tell you your preference. 
+
+
+
+
+ they don't just push out builds if they are not 100% satisfied they are production ready for end users.
+
+Uhh, that is objectively incorrect. The last "M" build put a few of the Galaxy line in a bootloop. 
+
+
+
+
+ To be fair, PS2 is terribly unoptimized. 
+
+
+
+
+ Sorry I wasn't quite sure whether you were serious or not haha. 
+
+
+
+
+ ... so we should take an inability to answer as consent? 
+
+
+
+
+ There's nothing "wrong" with it, but don't you think its a little unfair to take that choice away from a child? 
+
+
+
+
+ He, like me, could be browsing /r/all. 
+
+
+
+
+ Are you sure its **SMS** and not a Facebook message? Make sure you try to input multiple *phone numbers* and that the send button is **green**. Because when I try, on the latest Messenger app, it gives me this; http://i.imgur.com/S9ZQU4x.png 
+
+
+
+
+ If you are only using ChompSMS for the popup than [this](https://play.google.com/store/apps/details?id=net.everythingandroid.smspopup feature=search_result#?t=W251bGwsMSwxLDEsIm5ldC5ldmVyeXRoaW5nYW5kcm9pZC5zbXNwb3B1cCJd) might be of interest to you. 
+
+
+
+
+ Just to be clear, the comment above yours is talking strictly about FB Messages only. You can set Messenger to handle SMS as well, but it does not support group SMS (try adding more than one **phone number** to a message, it gives you an error). It also doesn't support the sending of MMS, so you have to switch back to Go SMS or stock MMS to send pictures. 
+
+
+
+
+ Huh? Just tap the edge of the page.  
+
+
+
+
+ The 2 year club is a lonely one, my friend. 
+
+
+
+
+ Sorry, you just confused me here;
+
+Nope, sorry
+
+Which implied that what I was saying was wrong. It isn't, stock android does not have this feature.
+
+ninja edit: btw, the feature is system-wide for iOS. It probably has to be hard-coded into the app for the touchwiz implementation. Am I correct in saying that the same feature wouldn't work in 3rd party apps eg. Chrome or Facebook? 
+
+
+
+
+ That is specific to samsung devices. We're talking about stock android here. 
+
+
+
+
+ In iOS, tapping the notification bar in a scrollable app/view will scroll quickly to the top of it. Eg in safari you read a page and scroll down through a blog post or something, and then you want to quickly get to the top to click on one of the site's navigation buttons, you just tap the top bar. In android you have to scroll up.  
+
+
+
+
+ You know you can disable chat heads, right? 
+
+
+
+
+ Thanks for the comments, I'll definitely fix up the horizon on that photo. I had trouble with the exposure because this is the first time I've taken photos in such harsh light, I really should have shot in RAW but I didn't, they're JPGs so I couldn't get much more of the sky out of them (well, I could get some back on a few of them, like you said). They are mostly unedited except for the first few, so I'll go back over them and try to fix up the things you suggested. Thanks! 
+
+
+
+
+ Might be a bit late, but here's a few shots I took a couple of months ago with my girlfriend;
+http://imgur.com/a/sQDBt 
+
+
+
+
+
+
+
+
+
+ This was all over r/android a few days ago haha.  
+
+
+
+
+ http://i.imgur.com/xlkHses.gif 
+
+
+
+
+ Or just from fat princess, the game... 
+
+
+
+
+ There have been numerous posts about this issue over the years since Android's release. Someone ended up making a google docs spreadsheet of all the apps that did it the correct way, can anyone provide a link? 
+
+
+
+
+ That was only a secondary point. My main argument was that he was saying Facebook? oh that's probably why I have no idea (HAHA GUYS LOOK I DON'T USE FACEBOOK) instead of a "Oh okay, I don't use Facebook so I wasn't aware." or better yet, no reply at all... 
+
+
+
+
+ Well that doesn't mean much, the Facebook app is codenamed katana.  
+
+
+
+
+ He was downvoted because he said it condescendingly - like "Facebook? Too mainstream for me, no wonder I have no idea what it is." Not only that but fb home / chat heads has been all this subreddit has talked about for the last few days. Its kinda hard to miss.  
+
+
+
+
+ You actually don't need to change all those values, if you change model, name and device to i9300 it works. 
+
+
+
+
+ No, it doesn't. I really wish it worked like that but it doesn't. Activating the SMS feature simply creates a new chat thread for each contact, so you have two for each one; SMS and Facebook messages. If you want to send them a Facebook message, you have to go to the fb one and its the same for SMS. It does not intelligently switch between the two a la iMessage. Which is such a shame because I would really love it if it did that. 
+
+
+
+
+ It does show as incompatible on the play store. This is the screen you get when you manually install the apk on an unsupported device.  
+
+
+
+
+ Yeah it doesn't merge the two, you've got two separate threads for each person.  
+
+
+
+
+ 4.2.x+ supports group messaging.  
+
+
+
+
+ How big is the 2000mah one? Does it fit inside the stock casing? 
+
+
+
+
+ In the meantime feel free to use [app2zip](https://play.google.com/store/apps/details?id=scd.app2zip feature=search_result#?t=W251bGwsMSwxLDEsInNjZC5hcHAyemlwIl0.). 
+
+
+
+
+ How are you going with that? To be honest I barely get a day (16 hours) with my SGS2 on CM10.1. I have nothing to compare it to either, cause I've been flashing AOSP roms on it since day 1. 
+
+
+
+
+ Your pinkies will ache like no tomorrow. 
+
+
+
+
+ Haxsync does this.  
+
+
+
+
+ Or you could, you know, just teach your child how to properly wash themselves. 
+
+
+
+
+ "Oooh burn." 
+
+
+
+
+ No, some computers will actually freeze up when loading high-quality gifs. Source: I have previously owned a crappy computer. 
+
+
+
+
+ logicalincrements.com 
+
+
+
+
+ http://i.imgur.com/uz0gJDP.gif 
+
+
+
+
+ Every single time you mention Morrowind on the internet, someone, somewhere, reinstalls it. Then spends so many hours installing and configuring mods for it, that by the time they get to playing they don't feel like it anymore.  
+
+
+
+
+ haha what? this was posted in /r/pcgaming  
+
+
+
+
+ Windows 8 has proven to be faster than windows 7, especially in boot times. The new start menu is a purely aesthetic change, literally no functionality has been lost when compared with windows 7.  
+
+
+
+
+ Why? 
+
+
+
+
+ The problem with that is that there were numerous parts in the game that forced you to fight (ie there was no choice to run away) 
+
+
+
+
+ I think a little bit of in game dialogue would fix this issue. "Did you see that?" "See what?"
+
+And the fact that it would still occur in split screen, when no possible latency could be occurring.  
+
+
+
+
+ Droid wall in whitelist mode.  
+
+
+
+

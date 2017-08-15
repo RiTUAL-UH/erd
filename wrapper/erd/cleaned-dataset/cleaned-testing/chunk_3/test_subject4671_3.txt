@@ -1,0 +1,482 @@
+ i've had success with ripit4me and dvd decryptor/encoder 
+
+
+
+
+ is there a GPU monitoring software/benchmarking software that you would suggest? 
+
+
+
+
+ Below is the build i did. Twice I have been playing a game and gotten to a particularly intense part and my speakers have put out two hard beeps and then my screen turns pink with some static. I have to reboot the pc to get out of this state. Any ideas on what I might need to look at?
+
+
+[Part list permalink](http://pcpartpicker.com/p/6bf6) / [Part price breakdown by merchant](http://pcpartpicker.com/p/6bf6/by_merchant/) / [Benchmarks](http://pcpartpicker.com/p/6bf6/benchmarks/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-2500K 3.3GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80623i52500k) | $179.99 @ Microcenter 
+**Motherboard** | [ASRock H61M/U3S3 Micro ATX  LGA1155 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-h61mu3s3) | $69.99 @ Newegg 
+**Memory** | [Corsair XMS3 8GB (2 x 4GB) DDR3-1333 Memory](http://pcpartpicker.com/part/corsair-memory-cmx8gx3m2a1333c9) | $35.78 @ NCIX US 
+**Hard Drive** | [Seagate Barracuda 2TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st2000dm001) | $119.99 @ NCIX US 
+**Video Card** | [EVGA GeForce GTX 560 Ti 1GB Video Card](http://pcpartpicker.com/part/evga-video-card-01gp31561ar) | $224.99 @ Newegg 
+**Case** | [Zalman Z9 Plus ATX Mid Tower Case](http://pcpartpicker.com/part/zalman-case-z9plus) | $39.99 @ NCIX US 
+**Power Supply** | [Corsair 500W ATX12V Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cmpsu500cxv2) | $39.99 @ Newegg 
+**Optical Drive** | [Lite-On iHAS124-04 DVD/CD Writer](http://pcpartpicker.com/part/lite-on-optical-drive-ihas124-04) | $17.99 @ Newegg 
+**Monitor** | [Acer V243HAJbd 24.0" Monitor](http://pcpartpicker.com/part/acer-monitor-etfv3hpa02) | $169.00 @ Mac Connection 
+**Operating System** | [Microsoft Windows 7 Home Premium SP1 (64-bit)](http://pcpartpicker.com/part/microsoft-os-gfc02050) | $99.99 @ Newegg 
+ | | **Total**
+ | Prices include shipping and discounts when available. | $997.70
+ | Generated 2012-04-10 11:05 EDT-0400 |
+
+EDIT: Did some googling and found suggestions that this may be an issue with the latest drivers and that falling back to driver v295.73 will fix. Will try out when i get home and update this thread. 
+
+
+
+
+ haha thanks...since then i finished all 90 days and strarted insanity 
+
+
+
+
+ question:best virus protection software? 
+
+
+
+
+ yeah got it working this morning..i removed the front panel for installation and forgot to reconnect the power coupling to my power button :-/ And I cleaned up the cables i promise! 
+
+
+
+
+ yeah i definitely did...but i forgot to take a pic afterwards 
+
+
+
+
+ i had no desire to overclock...i only bought the 2500k bc it was cheaper. As for the radeon 7850, that would have put me over my $1000 budget so I had to stick with the 560 ti. Same with the H61. If my budget was higher i would have gone AsRock Gen3 MoBo as well 
+
+
+
+
+ So my laptop started to go on me last week and [THIS](http://i.imgur.com/onylq.jpg) is the pc i built to replace it. This pic is taken pre-cable management. Thanks for all the help from BaPC, especially from Thenecron who reminded me last night that I can indeed plug in my Sata cables into the connectors when i started panicing. I installed all the drivers this morning but haven't gotten to do any performance measures yet.
+
+[Part list permalink](http://pcpartpicker.com/p/6bf6) / [Part price breakdown by merchant](http://pcpartpicker.com/p/6bf6/by_merchant/) / [Benchmarks](http://pcpartpicker.com/p/6bf6/benchmarks/)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-2500K 3.3GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80623i52500k) | $179.99 @ Microcenter 
+**Motherboard** | [ASRock H61M/U3S3 Micro ATX  LGA1155 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-h61mu3s3) | $69.99 @ Newegg 
+**Memory** | [Corsair XMS3 8GB (2 x 4GB) DDR3-1333 Memory](http://pcpartpicker.com/part/corsair-memory-cmx8gx3m2a1333c9) | $35.78 @ NCIX US 
+**Hard Drive** | [Seagate Barracuda 2TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st2000dm001) | $119.99 @ NCIX US 
+**Video Card** | [EVGA GeForce GTX 560 Ti 1GB Video Card](http://pcpartpicker.com/part/evga-video-card-01gp31561ar) | $224.99 @ Newegg 
+**Case** | [Zalman Z9 Plus ATX Mid Tower Case](http://pcpartpicker.com/part/zalman-case-z9plus) | $39.99 @ NCIX US 
+**Power Supply** | [Corsair 500W ATX12V Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cmpsu500cxv2) | $39.99 @ Newegg 
+**Optical Drive** | [Lite-On iHAS124-04 DVD/CD Writer](http://pcpartpicker.com/part/lite-on-optical-drive-ihas124-04) | $17.99 @ Newegg 
+**Monitor** | [Acer V243HAJbd 24.0" Monitor](http://pcpartpicker.com/part/acer-monitor-etfv3hpa02) | $169.00 @ Mac Connection 
+**Operating System** | [Microsoft Windows 7 Home Premium SP1 (64-bit)](http://pcpartpicker.com/part/microsoft-os-gfc02050) | $99.99 @ Newegg 
+ | | **Total**
+ | Prices include shipping and discounts when available. | $997.70
+ | Generated 2012-04-10 11:05 EDT-0400 | 
+
+
+
+
+ i dont think so..i placed the reset connector where i had the power connected and that allowed the system to power up....the system is running fine..just no power button on the case it seems. 
+
+
+
+
+ i connected everything up and it seems that nothing will start.... any help on this one? i thought there was a guide for this 
+
+
+
+
+ yeah like i said i feel dumb about it. thanks for the help...now to figure out all the other wires
+ 
+
+
+
+
+ i understand where the sata2 and sata3 connectors are...I was just trying to figure out if there is any reason to use the sata2(since the have slower speeds)
+ 
+
+
+
+
+ First time builder and i think i'm doing okay so far...I'm using a Lite-On iHAS124-04 DVD/CD Writer with a ASRock H61M/U3S3 Micro ATX LGA1155 Motherboard....i'm try to figure out how i determine whether i plug into Sata 2 or Sata 3...I feel dumb..any help? 
+
+
+
+
+ insane...like plyo on steroids 
+
+
+
+
+ they actually suggest a cool down period...i walked around and ran for two days before i decided i was done resting and hopped into insanity 
+
+
+
+
+ but wasn't parting really low on money? i feel like they pointed out that he was broke right before the engagement...i agree that parting had probably won...but then again i remember thinking goswser had beaten mkp once and mkp came back via micro 
+
+
+
+
+ from what i can tell its a giant pyramid scheme...that being said....there still is the possibility of being successful in it. 
+
+
+
+
+ I bought windows 7 OEM and the packagin suggest using microsoft's OPK...I'm assuming that this isn't actually neccesary. Can someone confirm for me? 
+
+
+
+
+ O.o mommy i'm scared lol 
+
+
+
+
+ i did pay with credit card 
+
+
+
+
+ you know this how? haha gold level terran 
+
+
+
+
+ I placed a $375 order with ncix for my i5,a 2 Tb harddrive, and my case on thursday. I've called them twice since then and they say they are getting to my order and i should get an email soon. However, all the parts where in stock and i don't get why its taking so long(especially since on thursday they told me it would be processed by friday). Anyone else have issues getting stuff from them? 
+
+
+
+
+ i go to walmart here and don't even bother with coupons etc. what i listed covers me dinner and breakfast. lunch's i buy some deli meat, some salad, and lite dressing. maybe additional $10? 
+
+
+
+
+ you can basically get a 5 pack of chicken breast, some fresh/frozen veggies, some fresh/frozen fruits, eggs, and bread for $30 a week and it should feed youmost your meals. add some tuna/cans of soup for the other meals and you can easily stay under $35 a week. 
+
+
+
+
+ i've shared my results pics enough around here. i dont want to karma whore too much :P 
+
+
+
+
+ and I started Insanity yesterday....Plyo looks like cake now. 
+
+
+
+
+ yeah the i5-2500 was more expensive so I said went with the cheaper(but yet overclockable 2500k) 
+
+
+
+
+ First time trying to/thinking about buying a pc. I mainly want the pc to be able to play sc2/Lol at high framerates. It also needs to be able to handle live streaming in HD and coding work. Any tips on driving the price down a little?
+
+[Part list permalink](http://pcpartpicker.com/p/6bf6) / [Part price breakdown by merchant](http://pcpartpicker.com/p/6bf6/by_merchant)
+
+Type|Item|Price
+:----|:----|:----
+**CPU** | [Intel Core i5-2500K 3.3GHz Quad-Core Processor](http://pcpartpicker.com/part/intel-cpu-bx80623i52500k) | $179.99 @ Microcenter 
+**Motherboard** | [ASRock H61M/U3S3 Micro ATX  LGA1155 Motherboard](http://pcpartpicker.com/part/asrock-motherboard-h61mu3s3) | $69.99 @ Newegg 
+**Memory** | [Corsair XMS3 8GB (2 x 4GB) DDR3-1333 Memory](http://pcpartpicker.com/part/corsair-memory-cmx8gx3m2a1333c9) | $35.78 @ NCIX US 
+**Hard Drive** | [Seagate Barracuda 2TB 3.5" 7200RPM Internal Hard Drive](http://pcpartpicker.com/part/seagate-internal-hard-drive-st2000dm001) | $119.99 @ NCIX US 
+**Video Card** | [EVGA GeForce GTX 560 Ti 1GB Video Card](http://pcpartpicker.com/part/evga-video-card-01gp31561ar) | $219.99 @ Newegg 
+**Case** | [Zalman Z9 Plus ATX Mid Tower Case](http://pcpartpicker.com/part/zalman-case-z9plus) | $34.99 @ NCIX US 
+**Power Supply** | [Corsair 500W ATX12V Power Supply](http://pcpartpicker.com/part/corsair-power-supply-cmpsu500cxv2) | $41.98 @ Newegg 
+**Optical Drive** | [Lite-On iHAS124-04 DVD/CD Writer](http://pcpartpicker.com/part/lite-on-optical-drive-ihas124-04) | $17.99 @ SuperBiiz 
+**Monitor** | [Acer V243HAJbd 24.0" Monitor](http://pcpartpicker.com/part/acer-monitor-etfv3hpa02) | $169.00 @ Mac Connection 
+**Operating System** | [Microsoft Windows 7 Home Premium SP1 (64-bit)](http://pcpartpicker.com/part/microsoft-os-gfc02050) | $99.99 @ Newegg 
+ | | **Total**
+ | Prices include shipping and discounts when available. | $989.69
+ | Generated 2012-03-28 09:38 EDT-0400 | 
+
+
+
+
+ [official p90x nutrition guide](http://www.teambeachbody.com/home/-/dl_get_file/32ea4c06-2287-4660-8adc-8db758929d28 ) 
+
+
+
+
+ please let me know how this does especially with Sc2. Right now my current rig can't process even on low and that means i can't get past gold league :(  
+
+
+
+
+ find a calorie tracking website(like loseit.com) and use that. The general idea is that as long as you it fits the macros(50%protein, 25% carbs, 25% fat that you can eat whatever and it shouldn't matter much. 
+
+
+
+
+ I modify one handed by placing my hand close to my body for balance instead of behind my back. kinda like over under pushups in Core Synergistic
+ 
+
+
+
+
+ i understand..that plyo/yoga/legs days kills your legs. While i wouldn't stop leg and back days all together(you do want nice calfs/quads right?) I would say maybe every other week ish wouldn't kill you 
+
+
+
+
+ yeah. The fog might mean you want to up your carb and/calorie count a little. Play with that and see if it helps. As for getting your but kicked I'm right there with you. The way I look at it now is that I'm stronger/more endurance so I can lift heavier and longer which means I'm not taking as many breaks in the beginning..hence butt getting kicked 
+
+
+
+
+ you may want to kill the pasta...especially late at night....various studies have shown that its best to get all your carbs in by lunch so that more fat is burnt over night.(also there will be no carbs for your body to turn to fat) 
+
+
+
+
+ i found the best way to prepare for p90x is to put on some workout clothes, grab a bottle of water and a towel, and finally pop the dvd in 
+
+
+
+
+ since i know the moves by heart i turn off the video and just start doing them at my pace. It gives me my rest time and means i get all the reps out 
+
+
+
+
+ my advice is to be asian, find someone to cut your hair like his......but seriously diet and lots of hard work 
+
+
+
+
+ the thing that scares me as a meching terran is fast hive. You have to remember that i can't be spread out much...so you can easily expand all over the map and quick drone/tech
+ 
+
+
+
+
+ forget about looks just for a second...are you stronger? Can you do more reps/higher weights. Since you didnt start out fat the changes are going to be harder to see so you really need to focus on the strength numbers. If you aren't improving there then THAT mean you aren't "bringing it" 
+
+
+
+
+ I just bout the 90lb power blocks....but that a really good deal so i would go with it 
+
+
+
+
+ gold level terran an occassional LoL player...would be willing. PM for character ID :) 
+
+
+
+
+ If ALL you are looking for is losing weight I believe Insanity is your option. P90x focuses on lowering fat by increasing muscle. Also, 2 weeks is nothing! as a fellow ADD person i can tell you that you need to focus your thoughts elsewhere. If you do either completely you will get results. Also, p90x takes 90 days with most gains coming in the last 30 minutes and Insanity only takes 60 
+
+
+
+
+ that sounds like a lot of carbs. Are you sticking to the 50% protein, 25% carbs, 25% fat macros suggested? 
+
+
+
+
+ loseit.com 
+
+
+
+
+ at the time i was in phase 1 i was 190 and depending on the protein bar/yogurt/sides/protein shake it would fluctuate. That being said I went back to my food logs and I was getting 170-235g a day 
+
+
+
+
+ There should be a post in this thread showing my stats as far as working out..I played 2 hours of basketball a day in middle school/highschool. College I gained 50lb(135 to 190) and worked my butt to get back down to 175. I was back up to 200 before i started p90x...now at 180
+
+EDIT: as for health wise...I'm a cardio monster bc of sports but lack(ed) upper  body strength
+ 
+
+
+
+
+ Breakfast for week: nonfat Yogurt + protein bar OR oatmeal with banana..on weekends i'll cook 5 eggwhites and have two pieces wheat toast
+
+Lunch for week: salad with turkey/ham( i keep a supply of spinach leafs, tomatoes, carrots, and turkey/ham from the deli in my work fridge) with some super low fat dressing(i use a honey mustard dressing i found at my local walmart)
+
+DINNER for the week:
+
+Sunday: Cook a whole bunch of chicken breast(5). Eat one with some brocolli. Store rest in fridge. Monday: Take one chicken breast(precooked) and make a chicken chili with navy beans and garbanzo beans(this should leave a bunch of leftovers that you can eat on days you don't feel like cooking. Tuesday: One Chicken breast and saute with one bell pepper(like fajitas!) Sprinkle low fat cheese on top and serve with vegi of choice. Weds: Take one chicken breast, shred and mix with 1/4 cup bbq sauce(low sugar!). sprinkle with a little cheese. Place on top of wheat english muffins and bake for 10 minutes to make mini-chicken pizza's(2-3 english muffins cut in half should be fine) Thursday:Remember that chicken chili? leftover time Friday:cut remaining chicken breast in half. shred and serve on top of salad. Saturday: Finish chicken chili at lunch. Other half chicken used in dinner of choice
+
+combine this with a post workout proteinshake/recovery drink and you should be hitting 1900 calories per day and keeping pretty close to the 50% p, 25% c, 25%f suggested by P90x. When I get tired of chicken I'll change it up by having salmon or turkey italian sausage or a turkey burger. 
+
+
+
+
+
+
+
+
+
+ Info of interests:
+
+* Day1: 0 normal pushups(had to do on knees), 0 normal pullups(couldn't do a negative either), 15 lb curl for 12 reps
+* Day 27: 20 High/low pushups(from core synergistics), 25 negative pullups, 25lb curl for 20 reps
+* day 56: 30 pushups, 5 REAL PULLUPS!!!!, 25lb curl for 20 reps 
+
+
+
+
+
+
+
+
+
+ hmm...honestly it felt like most the weekend. But some times i feel the same way about tastosis or Day9. I think if i had to verbalize it i would say this felt like you casting for Playhem(which i'll mention is awesome).  i just expect a slightly more serious cast out of MLG than i would out of Playhem.  Once again, Just my personal opinion on that one. I really feel the next step for you is getting comfortable in front of that camera so that when you come on stage at a big MLG, you'll fit in.
+
+ALSO, you'd better watch out for Tumba's fiance talking about him like that.  
+
+
+
+
+ Hey robin,
+
+I thought over all you did really well especially when compared to Beta stream last year. If i could give some advice it would be
+
+* i didn't mind the camera work but it did seem off and/or too frequent. When you do a zoom/rotation there needs to be meaning behind it(aka getting a better view of the action)
+* you need to find a line in between joking caster robin and serious caster robin. I thought when you casted Korean qualifiers with JP you had it spot on...this weekend you seemed a little too "jokey"  but thats just my opinion
+* you need to become less aware of the camera when you have a cocaster. During the finals when Tumba asked you a question you would speak to the camera with an occasional glimpse to him...it really should be the other way 
+
+
+
+
+ i'm in america and getting crazy amount of lag at 240p 
+
+
+
+
+ I would suggest trying to get some more protein from natural sources instead of bars/shakes personally but it seems okay...honestly using a site like loseit.com to track the calories your intaking  and the  macros 
+would be best 
+
+
+
+
+ also wanted to add that I did this by keeping 10ish almonds on my desk for when i get hungry.. 
+
+
+
+
+ Hey I'm also on week 7(yesterday being my yoga day) and I added around 200 calories to my diet and it made me feel a ton better. You know what? it may diminish my results but I don't care because this is about making a change I can live with for the rest of my life..if my results are a little slower but I feel better than I think its worth the trade off :) 
+
+
+
+
+ Speaking from experience, you can't just go in with the mind set of looking better would be nice...you need to go in with the mind set that "90 days from now you ARE going to be in such chiseled shape that your body will be like a gods". I love to cook...guess what i did? I took the principles of the p90x diet(50% protein, 25% carbs, 25% fat) and logged my meals in loseit.com and I cooked meals i thought i would like that still fit into that plan(Last night i made a delicious honey glazed salmon). 
+
+
+
+
+ i'm a gold level terran(and i'd like to think my zerg is silver level) and i'd be willing to help.
+
+test_subject4671.465 I'm normally on after 7pm EST 
+
+
+
+
+ when i get a case of the blahs i try to substitute one of my workouts for another less formal workout...this usually looks like me replacing kenpo by going to the gym and playing basketball. changes up the routine a little which i'm all for 
+
+
+
+
+ I had been struggling to hit 1900 calories and even though p90x suggested 2400 i thought i was doing well. I uped m caloric intake by 200 for a week and saw weight loss....so i would try adding a couple hundred calories for a week and see what happens...at the worst you gain a(single) lb and find out that its not the issue. 
+
+
+
+
+ I'm going to a concert tonight...hopefully my plyo jumping will come into full affect tonight. Really starting to kill pullups and this make me happy. 
+
+
+
+
+ I have the Gold's gym 25. They work really well when dropping weight but can be a little tedious if you are going up a weight...they work for what i need and were cheap. My only complaint is there light weight as i'm now reaching the point where i need heavier weights 
+
+
+
+
+ i just don't like playing tvt there...i mean i dont like tvt in general...but any map where you can seige up on a ledge and kill me and i cant stop it i try to downvote 
+
+
+
+
+ yesterday was back and biceps...i upped the weight on almost every bicep workout by at least 5 lbs. I really struggle with form here..using my back to get weights up instead of isolating my biceps. Today starts the stretch of the week i dislike the most (yoga, into legs, into cardio day) 
+
+
+
+
+ week 6 Day 4 today. starting the section that really kills me..my legs are still sore from Plyo and I have yoga today, leg/back tomorrow, and then Basketball(which i replaced kenpo with)I haven't weighed myself in a couple weeks but i think i'm down 2 lbs last i checked. Significant strength gains though. 
+
+
+
+
+ i downvoted antiga bc of close spawns and taldarim(doesn't suit my play style) 
+
+
+
+
+ you are going to run out of space if you link to every day for the rest of the program ;)  
+
+
+
+
+ this seems like carb overload...i don't know how you could meet the 50%,25%,25% with that much carbs unless you had nothing else with carbs in it the rest of the day 
+
+
+
+
+ yeah when i took my post 4 week pics i actually could tell a major difference despite the consistent weight. So i'm not complaining. Week 6 now and going strong 
+
+
+
+
+ i'm jealous of your core. two years ago i was killing ab ripper x every other day....this year i still haven't hit every single rep 
+
+
+
+
+ i think the thing i notice most is the better posture. Yoga + strengthening in the back probably have helped a lot with that. Good Job 
+
+
+
+
+ I did chest/tri/shoulders today. Must admit i really didn't feel like doing the workout. I went to the rivalry basketball game at my alma mater and we lost a heart breaker...I really wanted to eat pizza and drink beer afterwards...instead i came home, did my workout, had a cup of chocolate milk, cooked some chicken tenders, and had the tenders with a protein shake(I WAS REALLY low on calories today) 
+
+
+
+
+ I don't know if you saw my results when i posted them last week but that is exactly what i've been doing using the program(lose belly, gain muscle). I personally eat a 1900(plus or minus 200) calorie diet using the 50% protein, 25% carb, 25% fat principles of the fat shredder. I use loseit.com to track my nutrients 
+
+
+
+
+ you must not play either of those two races bc if you did you would know that the statement you made above is just not true. Zerg has to constantly set up flanks to creat good engagements and still lose half the time. Stutterstep is anything but bronze level friendly especially when you need to macro at the same time. 
+
+
+
+
+ Good because we need protoss to be more of a HERP DERP 1-A race...must remember the new snipe will now effect TvP late game which was already craptastical 
+
+
+
+
+ I believe D is used for wide grip. E F are probably just used for casual pull ups? idk about those two 
+
+
+
+
+ there is a lot of angst against people who are already in decent shape so thats probably why the downvotes on the main reddit. Good job on starting, keep it up! Also don't be afraid to go to your knees to get more reps 
+
+
+
+

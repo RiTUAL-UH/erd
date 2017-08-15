@@ -1,0 +1,977 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ broken link 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for thetrippyindian:
+
+domain submitted from|count|%
+:-|-:|-:
+[thetrippyindian.com](/search?q=%28and+site%3A%27thetrippyindian.com%27+author%3A%27thetrippyindian%27+is_self%3A0+%29 restrict_sr=off sort=new)|20|95%
+[self.Psychonaut](/r/Psychonaut/search?q=%28and+author%3A%27thetrippyindian%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|5%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[Psychonaut](/r/Psychonaut/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|3|14%
+[LSD](/r/LSD/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|3|14%
+[psytrance](/r/psytrance/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|2|10%
+[woahdude](/r/woahdude/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|2|10%
+[funny](/r/funny/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[festivals](/r/festivals/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[aves](/r/aves/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[Music](/r/Music/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[EDM](/r/EDM/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[trippy](/r/trippy/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[Art](/r/Art/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[ImaginaryMonsters](/r/ImaginaryMonsters/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[Heavymind](/r/Heavymind/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[dubstep](/r/dubstep/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5%
+[trap](/r/trap/search?q=author%3A%27thetrippyindian%27 restrict_sr=on sort=new)|1|5% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.abc.net.au/news/2014-03-13/class-action-begins-over-alleged-abuse-of-child-migrants/5319066
+
+http://www.amazon.co.uk/Forgotten-Children-Fairbridge-Betrayal-Australia/dp/1741666147/ref=sr_1_4?ie=UTF8 qid=1435701028 sr=8-4 keywords=The+Forgotten+Children
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Edit: Changed "Europe" -- "Central European Time" and "Brazil" to "Rio de Janeiro, Brazil".
+
+[oops](http://i.imgur.com/PEMHLAP.png)? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  but it might be easier to directly contact the script authors.
+
+not always easy now userscripts.org is down :( 
+
+
+
+
+  The other thing is try loading reddit on http not https, however, my script will still working then. If you need it to, I could allow http as well as https.
+
+I tried using http/reddit today   was redirected to https.
+
+http://www.pcworld.com/article/2937448/reddit-defaults-to-https-as-internet-titans-rush-to-embrace-encryption.html
+
+You've never had gold? Shame on reddit, you're of value to the community, if only for the "admin box" script :) And being helpful is always a plus. 
+
+I'm still puzzled as to why I seem to be the only one experiencing these errors? There surely has to be 100's of mods using GM scripts? Is it something GM themselves need to address? 
+
+
+
+
+ To get 1.16 installed I followed the link above, then clicked on the 'Raw' button. 
+
+Well THAT'S helpful github, who wudda thunk it?
+
+Hoorah!
+
+http://i.imgur.com/shcReC0.png
+
+You sir, are a clever man. Now, how is this related to none of my other GM scripts working (I have to assume it IS related)? And please PLEASE tell me there's a global fix, my lack of scripts is crippling my mod-work :( I'm surely not the only one this is happening to ? 
+
+
+
+
+
+
+
+
+
+ OK I overwrote  the current .js content with the 1.16 code linked above,   a refresh of "admin box" gives me:
+
+Executing first time fetch
+writeRMA: {"version":"1.11","moderated":{},"fetched":false,"reqcount":1,"nextModFetch":"","debug":true}
+
+I don't see a way of downloading an actual .js file to import into GM from that link? (told you I was dim) 
+
+
+
+
+  In the screenshot you provided, bottom right of the admin box, you'll see a 'refresh' link and a 'debug' link. Hit refresh first see if that fixes things. If not, hit debug and look to see if there is any data displayed
+
+The subs I mod are public record :) Refresh does nothing, debug gives me:
+
+writeRMA: {"version":"1.11","moderated":{},"fetched":false,"reqcount":1,"nextModFetch":"","debug":true}
+
+Not yet been able to install 1.15 it's just a wall of text to me, I'll fix it in the AM, but my main worry is why nearly ALL of my GM scripts have stopped working 
+
+
+
+
+  As it to refresh and see how that goes. You could click 'debug' too to see what data it is storing. 
+
+I don't know how to do any of that (I'm not very bright) :( 
+
+
+
+
+ What version is Admin Box?
+
+
+1.11 I'm wondering if this is something to do with reddit's switch to https? It's the only recent major change I can think of? But what's puzzling is reddit reveal 1.0 (shows user karma on hover) works fine, so it's not ALL GM scripts, just most of them? The "mod event reports generator", for example, seems to work fine? 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for tuankdvcom:
+
+domain submitted from|count|%
+:-|-:|-:
+[maytinhdongbo.com](/search?q=%28and+site%3A%27maytinhdongbo.com%27+author%3A%27tuankdvcom%27+is_self%3A0+%29 restrict_sr=off sort=new)|21|53%
+[pcmart.vn](/search?q=%28and+site%3A%27pcmart.vn%27+author%3A%27tuankdvcom%27+is_self%3A0+%29 restrict_sr=off sort=new)|11|28%
+[western.com.vn](/search?q=%28and+site%3A%27western.com.vn%27+author%3A%27tuankdvcom%27+is_self%3A0+%29 restrict_sr=off sort=new)|6|15%
+[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27tuankdvcom%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[biz.giare365.net](/search?q=%28and+site%3A%27biz.giare365.net%27+author%3A%27tuankdvcom%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[business](/r/business/search?q=author%3A%27tuankdvcom%27 restrict_sr=on sort=new)|36|90%
+[funny](/r/funny/search?q=author%3A%27tuankdvcom%27 restrict_sr=on sort=new)|1|3%
+[manga](/r/manga/search?q=author%3A%27tuankdvcom%27 restrict_sr=on sort=new)|1|3%
+[mildlyinteresting](/r/mildlyinteresting/search?q=author%3A%27tuankdvcom%27 restrict_sr=on sort=new)|1|3%
+[MakeupRehab](/r/MakeupRehab/search?q=author%3A%27tuankdvcom%27 restrict_sr=on sort=new)|1|3% 
+
+
+
+
+ "Grease monkey" 
+
+
+
+
+ "admin box" is not working either
+
+http://i.imgur.com/Ybwlo71.png 
+
+
+
+
+  The favicon flashing is exactly what I've been experiencing for a couple months now.
+
+ditto 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Recent Submission history for adheeth:
+
+domain submitted from|count|%
+:-|-:|-:
+[fashionbangalore.com](/search?q=%28and+site%3A%27fashionbangalore.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|4|36%
+[kochivibe.com](/search?q=%28and+site%3A%27kochivibe.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|18%
+[adheeth.com](/search?q=%28and+site%3A%27adheeth.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|18%
+[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|9%
+[justascrap.com](/search?q=%28and+site%3A%27justascrap.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|9%
+[techdosa.com](/search?q=%28and+site%3A%27techdosa.com%27+author%3A%27adheeth%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|9%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[reddit.com](/r/reddit.com/search?q=author%3A%27adheeth%27 restrict_sr=on sort=new)|6|55%
+[fashion](/r/fashion/search?q=author%3A%27adheeth%27 restrict_sr=on sort=new)|3|27%
+[funny](/r/funny/search?q=author%3A%27adheeth%27 restrict_sr=on sort=new)|1|9%
+[coupons](/r/coupons/search?q=author%3A%27adheeth%27 restrict_sr=on sort=new)|1|9% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ referring to:
+
+http://www.reddit.com/r/gif/comments/3ayfch/how_on_earth/ 
+
+
+
+
+
+
+
+
+
+ for 1 brief second I automatically read that as "barking skills" 
+
+
+
+
+ not guilty, found it under imgur.com/new, ran it through karmadecay (no hits), then submitted the direct image-link instead of http://imgur.com/2ci5Zpt, shrug
+
+ 
+
+
+
+
+ Oh BS, check my profile, I rarely post gifs, I found this at the top of imgur.com/new 3 hours ago   thought it amusing. Do you not think that, as a mod in here, I'd know better than to "chronically repost" ANYTHING (like I'd need to)? The imgur upload is actually only 4 hours old
+
+http://imgur.com/2ci5Zpt 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for ConvivialCamera:
+
+domain submitted from|count|%
+:-|-:|-:
+[dailygazette.com](/search?q=%28and+site%3A%27dailygazette.com%27+author%3A%27ConvivialCamera%27+is_self%3A0+%29 restrict_sr=off sort=new)|56|93%
+[imgur.com](/search?q=%28and+site%3A%27imgur.com%27+author%3A%27ConvivialCamera%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|2%
+[self.Wordpress](/r/Wordpress/search?q=%28and+author%3A%27ConvivialCamera%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|2%
+[self.HIMYM](/r/HIMYM/search?q=%28and+author%3A%27ConvivialCamera%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|2%
+[self.schenectady](/r/schenectady/search?q=%28and+author%3A%27ConvivialCamera%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|2%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[schenectady](/r/schenectady/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|26|43%
+[news](/r/news/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|4|7%
+[WTF](/r/WTF/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|3|5%
+[aww](/r/aww/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|3|5%
+[Albany](/r/Albany/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|3|5%
+[MorbidReality](/r/MorbidReality/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|3|5%
+[JusticePorn](/r/JusticePorn/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|2|3%
+[videos](/r/videos/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|2|3%
+[community](/r/community/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[pitbulls](/r/pitbulls/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[bicycling](/r/bicycling/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[firstworldanarchists](/r/firstworldanarchists/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[Softball](/r/Softball/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[Horses](/r/Horses/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[harrypotter](/r/harrypotter/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[labor](/r/labor/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[Marriage](/r/Marriage/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[modeltrains](/r/modeltrains/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[PTSDCombat](/r/PTSDCombat/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+[mildlyinteresting](/r/mildlyinteresting/search?q=author%3A%27ConvivialCamera%27 restrict_sr=on sort=new)|1|2%
+
+_^...and ^2 ^more_ 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for Lin_Jin:
+
+domain submitted from|count|%
+:-|-:|-:
+[self.funny](/r/funny/search?q=%28and+author%3A%27Lin_Jin%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|33%
+[self.news](/r/news/search?q=%28and+author%3A%27Lin_Jin%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|33%
+[self.dataisbeautiful](/r/dataisbeautiful/search?q=%28and+author%3A%27Lin_Jin%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|33%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[funny](/r/funny/search?q=author%3A%27Lin_Jin%27 restrict_sr=on sort=new)|1|33%
+[news](/r/news/search?q=author%3A%27Lin_Jin%27 restrict_sr=on sort=new)|1|33%
+[dataisbeautiful](/r/dataisbeautiful/search?q=author%3A%27Lin_Jin%27 restrict_sr=on sort=new)|1|33% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/rant /r/AskReddit /r/conspiracy /r/subredditcancer  
+
+
+
+
+   US only (again) :( 
+
+
+
+
+   US only (again) :( 
+
+
+
+
+
+
+
+
+
+ source: http://eunnieboo.tumblr.com/post/75326438054/yeah 
+
+
+
+
+ source: http://molgh.tumblr.com/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Recent Submission history for NotAMichaelBoltonFan:
+
+domain submitted from|count|%
+:-|-:|-:
+[newsexaminer.net](/search?q=%28and+site%3A%27newsexaminer.net%27+author%3A%27NotAMichaelBoltonFan%27+is_self%3A0+%29 restrict_sr=off sort=new)|8|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[Stuff](/r/Stuff/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|2|25%
+[funny](/r/funny/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13%
+[phoenix](/r/phoenix/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13%
+[PoliticalHumor](/r/PoliticalHumor/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13%
+[technology](/r/technology/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13%
+[shittyrobots](/r/shittyrobots/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13%
+[McDonalds](/r/McDonalds/search?q=author%3A%27NotAMichaelBoltonFan%27 restrict_sr=on sort=new)|1|13% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Broken Link  
+
+
+
+
+  media_author (starts-with): "Zsolt R"
+
+Genius! Many thanks 
+
+
+
+
+ Link:
+
+https://www.youtube.com/watch?v=9sXmEtgD5aM
+
+submission:
+
+http://www.reddit.com/r/funny/comments/3ap8zt/respect_to_this_scooter_kid/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  America gets a lot of shit for a lot of things but I see nothing but pure love here. Much respect from Ireland.
+
+ditto from the UK, the uplifting part to me was the people who were simply there to support, respect   acknowledge duty done for their country, total strangers 
+
+
+
+
+  Sad. On the other hand, what is it with these titles with a sentence then a comma and then one word
+
+dunno, that's simply the title supplied to me when I clicked "submit" :) 
+
+
+
+
+
+
+
+
+
+ here you go
+
+https://www.dropbox.com/s/12x5f6bomw3zujt/Final%20ride%20for%20beloved%20pet%2C%20military%20dog%20draws%20crowds%2C%20tears-1.mp4?dl=0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Broken Link  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Nano materials have a way of accumulating and causing tumors in most biological organisms. 
+
+so the cure is potentially as dangerous as the illness? That's depressing 
+
+
+
+
+  As long as you can deal with that one pesky little problem. How do you prevent nano scale anything from being carcinogenic itself? 
+
+carcinogenic? Why? The immune system you mean? Surely that's a trivial problem to overcome ? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Recent Submission history for FuckTheDonut:
+
+domain submitted from|count|%
+:-|-:|-:
+[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27FuckTheDonut%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|40%
+[self.nin](/r/nin/search?q=%28and+author%3A%27FuckTheDonut%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|20%
+[imgur.com](/search?q=%28and+site%3A%27imgur.com%27+author%3A%27FuckTheDonut%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|20%
+[youtu.be](/search?q=%28and+site%3A%27youtu.be%27+author%3A%27FuckTheDonut%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|20%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[nin](/r/nin/search?q=author%3A%27FuckTheDonut%27 restrict_sr=on sort=new)|3|60%
+[FilthyFrank](/r/FilthyFrank/search?q=author%3A%27FuckTheDonut%27 restrict_sr=on sort=new)|1|20%
+[deathgrips](/r/deathgrips/search?q=author%3A%27FuckTheDonut%27 restrict_sr=on sort=new)|1|20% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/Assistance  
+
+
+
+
+
+
+
+
+
+ /r/UpliftingNews  
+
+
+
+
+
+
+
+
+
+  Broken Link  
+
+
+
+
+
+
+
+
+
+ Recent Submission history for savdonahue14:
+
+domain submitted from|count|%
+:-|-:|-:
+[thecelebritycafe.com](/search?q=%28and+site%3A%27thecelebritycafe.com%27+author%3A%27savdonahue14%27+is_self%3A0+%29 restrict_sr=off sort=new)|6|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27savdonahue14%27 restrict_sr=on sort=new)|2|33%
+[Music](/r/Music/search?q=author%3A%27savdonahue14%27 restrict_sr=on sort=new)|1|17%
+[GetMotivated](/r/GetMotivated/search?q=author%3A%27savdonahue14%27 restrict_sr=on sort=new)|1|17%
+[creepy](/r/creepy/search?q=author%3A%27savdonahue14%27 restrict_sr=on sort=new)|1|17%
+[videos](/r/videos/search?q=author%3A%27savdonahue14%27 restrict_sr=on sort=new)|1|17% 
+
+
+
+
+
+
+
+
+
+  Why is this special. 2. Why is this uplifting? Women earning a scholarship is nothing new. 
+
+---
+
+But the biggest challenge for the 17-year-old at Thomas Jefferson High School for Science and Technology came during her senior year, when she had the third complete reconstructive surgery on her hips in two years. Additional surgery is scheduled less than two weeks after she graduates Saturday. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Recent Submission history for bclaxton888:
+
+domain submitted from|count|%
+:-|-:|-:
+[raisingthemug.wordpress.com](/search?q=%28and+site%3A%27raisingthemug.wordpress.com%27+author%3A%27bclaxton888%27+is_self%3A0+%29 restrict_sr=off sort=new)|187|78%
+[raisingthemug.com](/search?q=%28and+site%3A%27raisingthemug.com%27+author%3A%27bclaxton888%27+is_self%3A0+%29 restrict_sr=off sort=new)|54|22%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[UpliftingNews](/r/UpliftingNews/search?q=author%3A%27bclaxton888%27 restrict_sr=on sort=new)|238|99%
+[funny](/r/funny/search?q=author%3A%27bclaxton888%27 restrict_sr=on sort=new)|2|1%
+[mildlyinteresting](/r/mildlyinteresting/search?q=author%3A%27bclaxton888%27 restrict_sr=on sort=new)|1|0% 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.vectorbelly.com/ 
+
+
+
+
+
+
+
+
+

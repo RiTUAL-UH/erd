@@ -1,0 +1,209 @@
+ I just hope for this blasphemy all his apps will be downgraded to Froyo !  
+
+
+
+
+
+
+
+
+
+ This is "normal", and that is also a reason why I own a Samsung Gear Live - because it uses USB which is way faster.
+
+I would suggest: get USB Android Wear watch, or use emulator for most of test and only for finish touches push to moto 360. 
+
+
+
+
+
+
+
+
+
+ Exactly as Jush said. Greenrobot's works but then you will have two not connected ones, one on Wear and second one on mobile - no way to send events between. With that modification your events are propagated as well on other devices - so you have methods post(), postRemote(), postLocal(). 
+
+
+
+
+
+
+
+
+
+ Units. 
+
+
+
+
+
+
+
+
+
+ Just yesterday - a small app to rate drivers base on their license plate.
+It uses existing portal for data. Sorry it is in Polish because it is used only locally.
+
+https://play.google.com/store/apps/details?id=pl.tajchert.tablicarejestracyjna
+
+https://github.com/tajchert/RegistrationPlate 
+
+
+
+
+ Why don't you connect PayPal with your existing bank card (debit or credit one)?
+
+Than you don't need to put any money on PayPal account as it is drawn from your card automatically. 
+
+
+
+
+
+
+
+
+
+ G+ post: https://plus.google.com/114892667463719782631/posts/G8rRCNPpqV7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You should not shout when asking a question.
+
+It helps. 
+
+
+
+
+ I would say... Samsung - it is (unfortunately) biggest Android manufacture and if something will broke... it will be on Samsung (many bloatware apps, tweaks of original Android etc.). 
+
+
+
+
+ Yeah, shop looks decent, if you are not sure what kind of stuff they are going to buy just make sure to order a "KARTA MAXI" card as using that they can choose from any store listed on their site. So they can use it in bookstore or any other kind of store.
+
+I don't know where do you live but 200PLN is a decent amount for present and for sure they will be happy with it. Just to put amount of money in perspective in McDonald's cheeseburger is 5PLN if I'm correct, average lunch in Warsaw (capital, so it can be lower in other cities) is ~20-25PLN. However electronics etc. are in the same prices as in any Western Europe country (just add 15-20% to USA prices as we got way bigger tax). 
+
+
+
+
+ Yes, we can order from Amazon.co.uk but for some products there is no shipping to Poland. However most products are ok.
+
+Also you can search for "karty podarunkowe" which is "gift cards" and look for some other store as well - depending on interests.
+I would suggest looking for merlin.pl (mainly bookstore), empik.com (similar, probably bigger=more items), or agito.pl (as Amazon, however everything is sold by one company).
+
+And keep in mind that if you buy for example Google Play card (awesome because we got access to movies and ebooks lately) they are sold for particular country so you have to look for "polish" one. 
+
+
+
+
+
+
+
+
+
+ Moto E (confirmed, but arrival date is yet not known). 
+
+
+
+
+ I already commented that post, and pasted link to this reddit so author can respond by himself but he doesn't look interested in.
+If anything I can translate (but I don't think it would be necessary). 
+
+
+
+
+ Translation: "*The result exceeded expectations, and it is better on Kitkat than on the Lollipop"*. 
+
+
+
+
+ So friend of mine re-shared post of somebody who succeed at replacing default battery in Nexus 5 for LG G2 one - 700mAh (30%) more.
+https://plus.google.com/u/0/102008505105093990793/posts/cdMJc6R8UST
+
+From his post - he needed to cut one border that holds battery to fit it, and no more Qi charging.
+
+Did anybody else tried it? What is your opinion on that? 
+
+
+
+
+
+
+
+
+
+ Twitter: https://twitter.com/jensdriller/status/535737514762711040 
+
+
+
+
+
+
+
+
+
+ To gather data we used: Routers with running script on OpenWrt, and upload saved data to MySQL database (each minute).
+
+To visualize - python scripts (ffmpeg and imagemagick), data in yaml, csv and json format, finishing with plain HTML (with small jquerys help) to present the data and javascript to provide the interactivity.
+
+More details: https://www.polidea.com/heartbeat/blog/MCE_heatmap
+Or even whole GitHub: https://github.com/polidea/mce-heatmap 
+
+
+
+
+
+
+
+
+
+ To gather data was used:
+Routers with running script on OpenWrt, and upload it to MySQL database (each minute).
+
+To visualize - python scripts (ffmpeg and imagemagick), storing processed data in yaml, csv and json format, finishing with plain HTML (with small jquerys help) to present the data and javascript to provide the interactivity.
+
+
+More details: https://www.polidea.com/heartbeat/blog/MCE_heatmap
+
+Or even whole GitHub: https://github.com/polidea/mce-heatmap 
+
+
+
+
+
+
+
+
+
+ Worst repost ever... even same title.
+
+http://www.reddit.com/r/funny/comments/21r672/the_creation_of_reddit/?limit=500 
+
+
+
+
+ On the other hand, they are decent enough. 
+
+
+
+
+
+
+
+
+

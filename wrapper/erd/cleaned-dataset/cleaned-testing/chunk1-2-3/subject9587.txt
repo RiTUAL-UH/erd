@@ -1,0 +1,2883 @@
+  DRACO
+
+So, these only work on cells containing double-stranded RNA (it has to do with some very specific chemistry), so DNA viruses like HSV would not be affected by DRACO.  That being said, some of the big emerging viruses (SARS, MERS, Influenza, Dengue, etc) are great targets for this, so it definitely has very important uses - just not in the treatment of herpes. 
+
+
+
+
+ I have heard of and read some literature to that effect, yes.  It has been studied, although it isn't my particular field. 
+
+
+
+
+ It is one, but not the only agent which can cause viral meningitis.  Many viruses, through one way or another can cross the BBB, and basically wreak havoc on the brain cells.  It seems largely to be host factors, as in general the virus doesn't really "want" to kill its host. 
+
+
+
+
+ It is dormant (we say "latent") in neurons in the ganglia of the host.  It never really goes away, but stays in these neurons until conditions are right for it to reactivate as Shingles.  Sometimes it is something as simple as the host's immune system being a little too weak, sometimes the immunity you developed from childhood just wanes. 
+
+
+
+
+ Generally this is the case, yes. 
+
+
+
+
+ Yes, it certainly can!  This is largely because steroids can hinder the immune system, and when you do that, all kinds of herpes viruses can reactivate. 
+
+
+
+
+ This virus is entirely unrelated to herpes simplex virus.  Just for starters, HSV is a double-stranded DNA virus, whereas herpangina is cause by coxsackievirus - a single-stranded (+) RNA virus.  To compare it to something you've heard of: this virus is related to poliovirus.
+
+These are not my specialty, though. 
+
+
+
+
+ Keep up with your undergrad science classes.  Try to spend the summer between your junior and senior years doing research as an undergrad.  There are lots of programs, called Research Experience for Undergraduates (REUs) that can give you an idea of what labwork is like.  It is very important to know if you really want this path.
+
+In the fall of your fourth year, start deciding if you want to do graduate work and identify the areas that interest you.  Look into specific departments or programs offered in the big research universities.
+ 
+
+
+
+
+ It seems to be a kind of booster effect.  With a recent booster, the body is better at keeping the virus dormant.
+
+Using the shingles vaccine has only been in wide practice for the last 10 years or so, though, so we are still learning a lot about its efficacy. 
+
+
+
+
+ So, shingles is the reactivated Varicella Zoster Virus (VZV, causitive agent of chickenpox).  So, I can't catch shingles from your shingles, but I could probably catch chickenpox from your shingles, if I wasn't already immunized against VZV from earlier in life. 
+
+
+
+
+ Redditor for 3 years.
+
+Yep, this one checks out. 
+
+
+
+
+ Figure out if a graduate education is something that you really want to do.  If virology is what you really want, identify some schools with a good reputation for virus work and see if you are interested in those programs. You can even send emails to PIs and ask questions of them, directly, and some will reply. 
+
+
+
+
+ The very first stimulus can be a number of things, including but not limited to:  emotional stress, menses (in women), local sunburn or normal burn, injury, other infection, etc.
+
+It is thought that each of these stimuli triggers the neuron in one way or another, likely through some signal transduction pathway.  The virus appears to be attuned to these as well, and "recognizes" that, due to the insult, it might be an advantageous time to reactivate. 
+
+
+
+
+ That is indeed the generally accepted definition in the field.  The definition of "latency" is currently in a state of flux, and we are trying to come up with something more clear. 
+
+
+
+
+ The "Chromatin Remodellers" which I mention seek to act in just this fashion - perhaps interfering with the enzymes which make a more active or open epigenetic state for the virus, which is essential for reactivation.  
+
+
+
+
+ Look around at some of the graduate schools that have a very good reputation for virology if you are unsure of what precisely interest you, or if you know what specifically interests you, look to specific labs and see how their program works.
+
+I believe that a standard vaccine will likely have a hard time being 100% effective.  I think other options may prove fruitful, however (see top comments for these ideas) 
+
+
+
+
+ Check one of the top comments, I link some Lysine study, and other share their stories, as well! 
+
+
+
+
+ This can and does happen.  It is more likely if the second person is female, but can happen regardless. 
+
+
+
+
+ That is *definitely* one stimulus.
+
+Others include sunburns, other infections, local injury (burn / cut). 
+
+
+
+
+ Exactly, we talk about the virus "wanting" and "realizing" and "acting", but it is more accurate to say, "The virus has evolved to react to X stimulus in Y fashion". 
+
+
+
+
+ PM me or reply right here, buddy.  I can help you out at least a bit.
+ 
+
+
+
+
+ I like your questions!
+
+i)  I use primary neuronal cells in culture in order to study latency.  Immortalised cells lines aren't great for modelling latency.
+
+ii)  I am not sure about the level of innate immunity with regards to HSV, but I am sure it plays at least some role in controlling the virus.
+
+iii) The primary cultures which I use develop fully-formed axons and network really effectively.
+
+iv)  LATs are the big question - what do they do, how do they do it, etc, etc.  My group is in fact looking directly at the epigenome of latently infected cells, and there are some great stories.  It is clear, for example, that HSV does not control expression through direct methylation of DNA (CpG islands, for instance) but from specific post-translational modification of histone tails!  So, during latency, there is H3K27me3 all over the lytic genes, but more active marks around the LATs.  It has been proposed that the LATs act in some way to direct chromatin remodellers or Polycomb group proteins to epigenetically control the virus.  
+
+
+
+
+ In another thread I mentioned being in attendance at a workshop where issues of latency were discussed with the very top scientists in the field.  The issues were introduced by having each scientist write a question on a 3x5 card and placing it in a hat, and we drew questions and posed them to the group.
+
+Anyway, my boss asked your question!  The general consensus was that all latently infected neurons probably do not die upon reactivation, but we didn't know for sure! 
+
+
+
+
+ It is even more than that:  Of the women who have showed no previous symptoms (i.e., had no idea they were infected), 43% (in this study in Canada) had HSV-1 previously.
+ 
+
+
+
+
+ I mentioned the link to dementia in another comment somewhere.
+
+And there are definite neurological effects:  viral meningitis is possible (very unlikely, but possible) 
+
+
+
+
+ This kind of depends on what you mean by "cured".  But I have an answer anyway:
+
+Smallpox was "cured" when an effective vaccine was developed and widely distributed.  It is now eradicated in nature and exists only in laboratories (and maybe frozen in some corpses in the arctics). 
+
+
+
+
+ 1.  The virus is generally thought to stay in the neuron where it is latent, but a smoldering cell to cell infection is also possible in the ganglia
+
+2.  Auto-innoculation is definitely possible and happens often.
+
+3. It is possible, but there is not much known about genital - oral transmission rates.  Suffice to say it is likely nonzero, though.
+
+4.  HSV and VZV belong to the alphaherpesviruses.  I think what you are looking for, though, is "neurotropic". 
+
+
+
+
+ Did see it;  the virus does not exist outside of the host for very long at all, as it is enveloped.  If it dries out or is treated with alcohol or something it will be dead. 
+
+
+
+
+ I would not worry at all.  The virus you have described has no replication genes, will cause no disease, and likely couldn't infect you unless you injected it directly into your body.
+
+It is now nothing more than a tool for understanding the answer to your question.  It is basically a hammer.  While it is possible to hurt yourself with a hammer, if you use it wisely and correctly, there should be zero issue. 
+
+
+
+
+ A similar drug Valacyclovir works similarly and has similar results, so that is something else to discuss with your doctor. 
+
+
+
+
+ Yeah, I really like the epigenetic remodeller approach as well, and I mentioned it in a couple of other comments.  The fact that there are different, competing techniques really leads me to believe that a lot of good work towards a cure (functional or actual) is on the way. 
+
+
+
+
+ You should be able to find the answer to this elsewhere in the thread.
+
+But, in short, it tricks the virus into using it instead of Guanosine when the virus is replicating its DNA.  This is a problem, because Acyclovir is a chain terminator, and no more bases can be added to the growing chain.  Hence, no more viral DNA replication! 
+
+
+
+
+ Prions just seem to be protein which encourage other proteins to aggregate in a dominant-negative fashion.  I am not well-versed in their biology, so to speak, but I do not consider them living, although I have not looked into the subject thoroughly. 
+
+
+
+
+ if ALL of the neurons harboring virus were destroyed, then yes that would likely cure the infection.
+
+But neurons do not grow back, and it seems technically difficult to target only infected ones.  Plus, you may end up needing to destroy a significant number of them. 
+
+
+
+
+ Such an understanding is exactly what I (and many others) are working on, and I can say with some confidence that we are definitely on the right track.
+
+Some stories I can tell involve signal transduction alerting the neuron, resulting in a remodelling of HSV chromatin into a more active state and then general reactivation followed by the more canonical IE, E, L transcription, but a lot of the research is very new and needs to be further developed before the idea of a complete mechanism is developed. 
+
+
+
+
+ In between you have the virus laying dormant (latent) in the neurons of your body.  It is not entirely well known why the immune system fails to repress the reactivation of the same virus, but some believe that the new infection along the entire dermatome introduces local inflammation leading to the pain from shingles.  It could just be that the antibodies are very old and you need a booster to help stave off shingles, and this is why the chickenpox vaccine has been recommended for people in their 60's (which I would highly recommend). 
+
+
+
+
+ It is possible that you were infected in utero, if your mom was experiencing an infection during pregnancy.  This happens with CMV, another herpes virus, for instance. 
+
+
+
+
+ It is likely a combination of several factors, including:  the strain of HSV, the capability of your immune system, the site of infection, etc.   
+
+
+
+
+ I don't know the answers to all of these things, but I know some of them, but only in a relative sense.
+
+In general, the more protection (barriers and prophylactic medication) is used, the less is the transmission rate, but it will never be zero, unfortunately.
+
+It appears that female genitalia are more likely to become infected during oral sex than male, likely because the epithelial skin of the labia is more conducive to microabrasions than the skin of the penis.  
+
+Bottom line:  there do appear to be differences in the rate of transmission, but it is hard to be absolute about these.  Suffice to say, your risk will never be zero. 
+
+
+
+
+ Possibly.  I know it is also being undertaken as a method for reducing the latent reservoir of HIV. 
+
+
+
+
+ Yeah, you're fine!  Don't worry, there's plenty of herpes questions to go around. 
+
+
+
+
+ First, delivery to these neuronal tissue would likely be done through tissue-specific viral vectors.  Labs in the field have shown that a particular AAV serotype can deliver a transgene to sensory ganglia with 80% efficiency, for example.
+
+Further, once there, it isn't really well known how much of the latent reservoir would be needed to significantly reduce reactivation.  It may prove true that removing even a modest number of latent genomes could tip the scales in favor of the immune system, or other, commensurate treatments.
+
+I am not saying that it will 100% work, as there are still immense theoretical barriers, but I think there is a good enough chance to be excited about it. 
+
+
+
+
+ Unfortunately, I do not know why that would be the case, as that isn't really my field.  But,  I once trained under an amazing ophthalmologist who specializes in viral infections of the eye.  I will ask if such a thing has been observed before and get back to you.  
+
+
+
+
+ This is exactly it.  The VZV virus is latent in a ganglion, and when it reactivates you get shingles on the skin surrounding that dermatome (the area where those nerves go).  Because the nerves start near the spine and go around, that is why it is usually only one side. 
+
+
+
+
+ 1.  I think the best answer is that we know some of the receptors that HSV binds to on the cell surface, but not all of them.  Heparan Sulfate, for example, is known to be one HSV receptor.
+
+2.  I answered this elsewhere, but essentially this class of antiviral is a chain-terminator for which the viral polymerase has fairly high affinity, resulting in a retardation of viral DNA replication 
+
+
+
+
+ There is lots and lots of research investigating what triggers herpesviruses coming out of their latent state, but much of it is very technical.
+
+Suffice to say that the virus needs to do all of these things to enter a lytic cycle:
+
+1.  Switch from condensed DNA to more open, active DNA
+2.  Stop latent transcription program and start lytic program
+3.  Make new virus in the neuron.
+4.  Travel to the end of the nerve (axon) and enter the skin cell at the periphery
+5.  Start an entire new infection in the skin cell.
+
+And, each of those steps has MANY things going on.  I was at a meeting specifically devoted to studying Latency in HSV-1, HSV-2, and VZV (chickenpox), and there were talks which ran the entire gamut! 
+
+
+
+
+ I have answered #1 a couple of times earlier.
+
+#2 - I am excited about drugs targetting Chromatin Remodellers.  Basically, chromatin is how DNA is compressed down small enough to fit in the nucleus.  And, in order to reactivate, HSV needs to unravel its chromatin in very specific ways.  New drugs are being discovered which prevent these things from happening.  Maybe we can arrange it where the virus is still always in you, but cannot reactivate at all! 
+
+
+
+
+ I have posted an interesting study in another l-lysine thread.  Go have a look! 
+
+
+
+
+ This is very close to true.  I have cited specific figures in other answers, but suffice to say that HSV is a very common and successful human pathogen. 
+
+
+
+
+ Self-innoculation is pretty common, and can occur.  You may show some symptoms, but you could definitely be asymptomatic, as well.  If you already have antibodies from a previous infection, it is less likely that you get infected elsewhere, but is still entirely possible. 
+
+
+
+
+ I have mentioned this elsewhere, but here is a note from a workshop where the investigators looking at developing an HSV vaccine discuss the current state of knowledge, the problems, future goals/solutions, etc.
+
+http://www.sciencedirect.com/science/article/pii/S0264410X14000917 
+
+
+
+
+ I really like /u/MentalMarketer 's answer, and can second much of it.
+
+I have known people who did PhD work in virology and then bail to do something else, and I have seen Post-docs join my lab who came from non-virology backgrounds, too.
+
+I agree that it would be easier to do more advanced virology work (Post doc in academia or industry, for example) if your PhD thesis was at least related to virology, but it is not 100% necessary.  In reality, if you do good work as a graduate student and have the applicable skills, most virology labs will insist that they can teach you the virology. 
+
+
+
+
+ Soap will probably not help.  And, bottom line is that condoms will make transmission less likely, but they will not reduce the risk to zero. 
+
+
+
+
+ Acyclovir and Valcyclovir both work in essentially the same way, and I think once I explain their mechanism of action you will feel better.
+
+These drugs are known as nucleoside analogues.  This means that they are VERY closely related to the nucleosides which make up the bases (A, C, G, T) of your DNA and, more importantly, the viral DNA ( in particular, these are analogues of the "G").  But, there is one important difference - when these agents are used, they **completely terminate** the replicating DNA.  Hence, they are "chain terminators".
+
+The reason they are effective antivirals is that the viral protein which replicates DNA is *more efficient* at using the analogue than is your own protein.  So, the virus uses the chain terminator better than you do, basically incorporating a broken part into its DNA, preventing viral replication!
+
+As to side effects, there are always going to be some, but the appear to happen fairly infrequently (1% of patients). 
+
+
+
+
+ The Shingles vaccine is not effective at treating HSV outbreaks, unfotunately.  While VZV and HSV are related, they are different enough that you don't really see protective cross-reactivity between these viruses. 
+
+
+
+
+ I have not personally heard of HSV infection of the retina, but infection of the cornea is a fairly common occurrence (See [Herpes Stromal Keratitis] (http://en.wikipedia.org/wiki/Herpes_of_the_eye)) 
+
+
+
+
+ I was not aware of this particular treatment, but maybe I should have been.  Here's an abstract from 1987!:
+
+A double-blind, placebo-controlled, multicenter trial of oral L-lysine monohydrochloride for the prevention and treatment of recurrent herpes simplex (HSV) infection was conducted. The treatment group was given L-Lysine monohydrochloride tablets (1,000 mg L-lysine per dose) 3 times a day for 6 months. A total of 27 (6 male and 21 female) subjects on L-lysine and 25 (6 male and 19 female) subjects on placebo completed the trial. The L-lysine treatment group had an average of 2.4 (p less than 0.05) less HSV infections, symptoms were significantly (p less than 0.05) diminished in severity and healing time was significantly reduced (p less than 0.05). L-Lysine appears to be an effective agent for reduction of occurrence, severity and healing time for recurrent HSV infection.
+
+TL;DR - A 1987 study ([here] (http://www.ncbi.nlm.nih.gov/pubmed/3115841)) shows that l-lysine appears to be effective. 
+
+
+
+
+ This has been mentioned in a number of the other comments, but it is definitely possible to transmit HSV despite having no symptoms.  This is because it is becoming clear that infected individuals often shed the virus without clinical signs of an outbreak.  Since there is less virus being shed during this time than when there are visible sores, it is less likely to transmit while "dormant" compared to durin an outbreak but it is still possible.
+
+TL;DR -  You most definitely **CAN** transmit the virus even if it appears to be dormant. 
+
+
+
+
+ /u/Felonessthrowaway and /u/ReneeAraneae have great answers to this question. 
+
+
+
+
+ HSV seems to be a reasonable oncolytic agent, likely as effective as poxvirus and adenovirus ones.  It appears to me that depending on the particular cancer, one of these viruses may be the most effective agent to develope/use.  
+
+For gene vectors, I am less sure.  It seems difficult to get transient expression for the life of the host due to the virus' ability to nearly completely shut down its transcriptional profile.
+
+I have not done research on EBV, largely because that is a gammaherpesvirus, and is just very different.  I am not very well versed on EBV's oncogenic capacity, but I know that KSHV is very, very oncogenic. 
+
+
+
+
+ Valtrex for the symptoms is the best thing that I can recommend.  There are a lot of anecdotal treatments like ice cubes or certain foods or whatnot, but I can't say for certain that those work.
+
+ 
+
+
+
+
+ IT is largely the strength of the person's immune system.  Also, it is pretty clear that some HSV strains are far more pathenogenic than others.  So, one strain may more effectively go latent after a very modest acute infection - while another strain may cause more damage. 
+
+
+
+
+ There are investigators out there who think that most of the time HSV reactivates and tries to undergo a reproductive cycle, the immune system catches it and everything is fine.
+
+But, sometimes, it appears that the virus overcomes this, and is able to productively infect again.  It may be related to more individual reactivation evens (so, 10 neurons pop off instead of just 1 or 2, for example). 
+
+
+
+
+ You can certainly acquire the virus in the absence of visible outbreaks.  There is always a non-zero risk associated with sexual contact.
+
+I believe that since many people are asymptomatic, and generally handle the infection and outbreak fairly well, that there has not been much of a push to practice safe oral sex.  In fact, oral sex is considered inherently, "safe" - but that is likely not the case. 
+
+
+
+
+ I think the greatest misconception likely involves the social stigma that many associate with HSV infection (1 or 2).
+
+HSV is a very successful pathogen.  As I mentioned in other posts, ~54% of Americans were found to be seropositive for HSV-1, and ~16% for HSV2 (taking 14-49 year olds) in America.  In addition, even taking *only women who have shown no signs of HSV infection, ever*, a study in Canada showed that 45% of the women were HSV-1+, and 2.5% were HSV-2+!
+
+Hence, the virus infects most people, and many of them are not even aware.  There can be complications associated with HSV infection which are pretty unfortunate, but largely the stigma associated with a diagnosis is far out of proportion. 
+
+
+
+
+ I gave another answer similar to this, but yours has an extra element.  I think that reforming the definition of life to include viruses would be a meaningful endeavor.  It would be very tricky, though, as viruses are very different from the other organisms that we classify as "living". 
+
+
+
+
+ There are lots of studies out there with regard to how many people have HSV.  The most recent one performed by the CDC (hence, looking only at Americans) can be seen [here] (http://www.ncbi.nlm.nih.gov/pubmed/24136792)
+
+TL;DR - using 2005-2010 data for 14-49 year olds, they found that 53.9% were HSV-1 positive, and 15.7% were HSV-2 positive.
+
+I believe that the "most accurate test" that you describe was an Antibody-based Western Blot test (which are pretty expensive).  These do have false-negative rates, but they are fairly low, as the Western Blot is the gold-standard for HSV seropositivity testing. 
+
+
+
+
+ The answer to this question is not entirely understood, but I know the general hypotheses:
+
+1.  The immune system may become better and better at controlling reactivation events over the life of the host.
+
+2.  Reactivating virus may damage the neurons, to the point of reducing the latent reservoir over time.
+
+3.  The virus may become less sensitive to reactivation stimuli over time, possibly due to #2
+
+ 
+
+
+
+
+ It is possible that he contracted it from the girl, and it is possible that he had HSV asymptomatically beforehand and he is experiencing a reactivation event.  It is really hard to tell which of these is the case, unfortunately.  I would think that the former would be more likely, but it is near impossible to be certain of such things absent some epidemiological investigation of some kind. 
+
+
+
+
+ This is WAY less of a stretch than you seem to think.  It is very possible to become infected through contact with someone who was shedding asymptomatically. 
+
+
+
+
+ I am on the side of the debate that viruses should be considered living organisms.  There are plenty of higher organisms which require others to reproduce or live (any obligate parasite, really).  In my view, viruses have simply perfected this to the point that some are capable of existing and reproducing despite their modest genetic load.
+
+As for how they came to exist, I believe that very early on, one group of "organisms" came to parasitize another group - taking advantage of the "host's" cellular processes.  When that was enough to reproduce, there was no reason to continue coding for its own versions of these processes.
+
+Here's another wild idea:  what if virus are so ancient that they were a primary evolutionary force in the development of the rest of life, as we know it?  In essence, what if being targetted by one kind of virus versus another lead to the Eukaryote / Bacteria / Archaea split?    
+
+
+
+
+ This is not my area of expertise, but it appears that there is some correlation between particular infectious burdens (IB) and Alzheimer's Disease, including a couple of herpesviruses like HSV and CMV.  [This] (http://www.ncbi.nlm.nih.gov/pubmed/24910016) recent publication shows such correlation, for example.  The hypothesis is that infection and/or inflammation could be and underlying cause for these kinds of diseases.
+
+However, as many have noted, correlation does not imply causation.  In addition, since seropositivity to these viruses is greater than 90% in the older population, it may be difficult to parse this out in this fashion.
+
+So, for my money, the jury is still out on this question.  But, I am sure more studies are being undertaken, as this is a very important question. 
+
+
+
+
+ Link:
+
+http://www.reddit.com/r/science/comments/28vuzr/science_ama_series_iama_virologist_who_studies/ 
+
+
+
+
+ So, viruses are awesome. They are little bundles of genetic material that only really care about making more little bundles of genetic material - and some of them do it really, really well! Take the herpesviruses, for instance: it has been suggested that this family has existed for over 100 millions years, and different species have evolved to infect most mammals, some fish, and even bivalves. This amazing evolutionary success is likely due to a particular infection strategy: all herpesviruses have an acute (or lytic) infection where they replicate and cause some damage to their host, but they also have a latent infection where they stop replicating, and basically just chill out undetected until they want to wake up again. For my virus, HSV-1 and HSV-2 (and to a lesser extent, the Chickenpox virus, VZV), the infection follows this basic narrative: 
+
+1. The virus infects mucosal epithelial (skin) cells and replicates, destroying the cells and causing lesions. 
+
+2. New virus enters into the nerve endings nearby and travels to the body of the neuron. Here it will become silent, ever waiting until . . . 
+
+3. The virus reactivates! It will replicate in the neuron, travel back to the nerve ending, and re-infect the same site of the initial infection - and then maybe someone else. 
+
+4. Rinse/Repeat! 
+
+With those basics in mind - what have you always wanted to know about Herpes? What about Chickenpox / Shingles? Or about studying them for a living, navigating a Ph.D., giving talks at international meetings, or anything else that comes with the life of a Virologist? AMA!
+
+
+EDIT:  I had a great time answering questions and discussing aspects of the study of viruses.  I think it is incredibly important for the general population to have a good grasp of the basics of virology, as it is an important research topic that oftentimes feels very intimidating and scary to a layperson, so I am always happy to discuss virology!  I spend a solid three hours answering your questions, and thoroughly enjoyed it!  Thanks to the Mods at /r/Science for the opportunity, and thanks to all of you who showed interest!
+
+EDIT2:  I would also like to point out to other virologists how popular this AMA was, and suggest to them that the readers of /r/Science would likely be interested in their work, as well.  I got questions about HPV, HIV, Chickengunya, Ebola, Flu, and others!  If you are studying a particular virus, consider what you can teach an audience about your pathogen - it benefits everyone! 
+
+
+
+
+ With M  amp; R Vermouth.  3:1, and two Luxardo cherries.  Obviously, Angostura. The wife suggests we watch, "The Big Lebowski".
+
+So, it's going okay. 
+
+
+
+
+ Templeton Manhattan with M  amp; R; 3:1.  Two Luxardo cherries.  Angostura, obv.
+
+And the wife suggests we watch "Lebowski" just for the fuck of it.
+
+I am in heaven. 
+
+
+
+
+ Sometimes, I try to figure out my favorite Simpsons' jokes that fit a very narrow description.  One day, I came up with this one:  
+
+What is the best joke in "The Simpsons" where the punchline is only a single word or sound?
+
+Here, I have an album with a few of my suggestions:  http://imgur.com/a/nlNif
+
+(Homer's, "Uhh . . . yeah!" may be stretching the, "One word" rule, but it is close).
+
+Any other submissions? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Here's how it happened for me, Patriots fans:
+
+The Broncos win their first two Super Bowls, and I am on cloud nine.  The next few years are kind of a bummer as Elway retires and Terrell Davis suffers an unfortunate injury.  Boo-hoo, I know.  The Rams win the next Super Bowl, and by the time they make it back, it is as gigantic favorites against your home team.  By then, I have grown tired of the "Greatest Show on Turf", I dig that the Pats just sent the Raiders and Steelers home crying, and I just want to see a good, close game.  I didn't really think that the Patriots could win, and when they did I was very happy for them.  Good on ya, Pats!
+
+Then, if you'll remember, you guys missed the playoffs the next year before going on to win two more Super Bowls.  You guys instantly became the thing I was always rooting against:  a dynasty.  I am not happy about dynasties (unless they are Broncos one, obviously).  I hated the Cowboys in the early 90's, and if I would have been conscious in the 80's, I would have hated the 49ers, too.  So, when the Pats became the early 2000's dynasty, and you all felt like they were God's gift to football, they instantly became very easy to hate.  It was part jealousy, 3 SB in 4 years is incredible.  It was part begrudging respect.  And it was part disappointment for not being able to field a team which could contend with you.  That changed soon thereafter.
+
+In 2005, the Broncos gave Bellichick and Brady their first playoff loss, and it was SWEET!  Clearly, the Broncos flubbed the rest of that post-season and were downright mediocre for a long time afterwards, while the Patriots took on a new, more sinister feel.  They set records, and sneered at people while doing it.  They had the gall to try to challenge the '72 Dolphins.  And so forth.  They were so easy to hate.  I am not ashamed to say that your first loss to the Giants was my favorite Super Bowl I have ever seen, except the two won by my Broncos.  And it never changed' the Patriots were always near the top, always contending, while by boys were stagnant.  I hoped that stealing McDaniels from you would help, but he turned out to be a smarmy fratboy who was better at fist-pumping and X's and O's than he was at running a team.  Even through the whole Tebow fiasco it was clear that you were the superior team, and I loved hating you for it, despite how rarely I got to celebrate a win against you.
+
+Now, to the reason that I decided to write this little diatribe.  New England Patriots:  while I may despise the way the media gets all over your genital region, and hate the way some of your fans handle themselves, I have so much damn respect for your organization, win or lose.  You play football the right way, and even though you might be The Evil Empire, I would be proud to have Bellichick as a coach, or Brady as a quarterback.  I feel like Kraft and Bowlen are two of the best owners in sports, and I think their respective records support that opinion. 
+
+Honestly, this QB rivalry is in its winter years.  I don't know how much longer Bellichick will continue coaching, nor how similar our teams will look down the road.  But let me tell you this:  We will play many times in the future, and I hope many of them are on the way to the Lombardi trophy.  Because it is a damn pleasure to be tested by the best franchises this league has to offer.  I am glad that we came out on top this time, but I fully expect that it could be different in the future.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In the first 3 quarters, the Broncos have outscored their opposition in the playoffs 37-3.
+
+Keep on it, Defense.  You guys have played your hearts out.
+
+ 
+
+
+
+
+ You Are Never Ever Getting Back Wes Welker
+
+[Click for tune] (http://www.youtube.com/watch?v=WA4iX5D9Z64)
+
+*
+
+I remember when you got cut, from San D,
+
+Think that this was wrong, a big screw-up, [Marty] (http://www.utsandiego.com/news/2013/mar/08/wes-welker-marty-schottenheimer-chargers/)?
+
+You didnt even make it off the wire,
+
+When the, Dolphins, picked you, up - what?
+
+Then you played a few years with the Fins,
+
+Welky, before they up and traded you again.
+
+To the, [Patriots] (http://www.secsportsfan.com/images/patriots_spygate_logo.gif) who hail from New England.
+
+They say, [You drop some!] (http://www.youtube.com/watch?v=pT6XziIQ5RI), they hate you, just come here, well love you!
+
+*
+
+
+Oo-oo-oo-oo-ooh, you called us up to sign the deal,
+
+And oo-oo-oo-oo-ooh, Brady, Im telling you, Im telling you . . .
+
+
+You, are never, ever, ever getting back [Wes Welker] (http://www.youtube.com/watch?v=evocKm4Qzc0)
+
+You-oo are never, ever, ever getting back Wes Welker
+
+Toss your pass to Dobson, throw 
+
+to Danny, screen to Shane.
+
+But you-oo are never, ever, ever, ever getting back Wes Welker
+
+Like ever . . . .
+
+*
+
+
+Youre really gonna miss him moving chains
+
+And him, catching easy touchdowns, its insane!
+
+And we, will throw him screens, and digs, and ins, and bombs
+
+From some, [Sportsman QB thats much better than Tom] (http://sportsillustrated.cnn.com/sportsman/news/20131215/peyton-manning-sportsman-2013/).
+
+Oo-oo-oo-oo-ooh, he caught two scores again tonight
+And oo-oo-oo-oo-ooh, this time, were telling you, were telling you:
+
+*
+
+
+You (you!), are never, ever, ever getting back Wes Welker
+
+You-oo are never ever ever getting back Wes Welker
+
+He will catch a dozen, run the patterns, score TDs
+
+And you-oo are never ever, ever, ever, getting back Wes Welker  
+
+
+I used to think, that he, was a Pat forever
+
+And I used to say, **FUCK YOU WES WELKER!**
+
+(Talking)
+What?  So, ESPN is reporting that Wes Welker is going to Sign with the Denver Broncos and Im like, Im just, I mean, this is **AMAZING**.  Fuck you, New England, You are never get back Wes Welker.  Like Ever.  **NOOO!**
+
+*
+
+
+You, are never, ever, ever getting back Wes Welker
+
+You-oo are never, ever, ever getting back Wes Welker
+
+[Aarons] (http://sarahamastroni.files.wordpress.com/2013/06/hernandez-arrest.jpg) in the big house, Gronks on crutches, poor [Brady] (http://www.worldwideinterweb.com/component/joomgallery/image.raw?view=image type=img id=2118)
+
+And you-oo are never ever ever ever, getting back Wes Welker
+
+
+You, oooh, ooooh, not your Wes Welker, you---ouuu
+
+Oh, getting back Wes Welker
+
+*
+
+Watch him catch the big one, clinch the Superbowl for us!
+
+Cause you are never ever, ever, ever, getting back Wes Welker!!!
+
+~~~~
+
+Edit:  Now that it has been unburied I look like an asshole, as it has gotten much love, even being gilded by some nice person.
+ 
+
+
+
+
+ All over the place, I am seeing plenty of analysis talking about how the Chargers have a very good chance of the upset, how they are the nightmare match up for the Broncos, how Peyton plays poorly against them, etc, etc.  I think there is a big piece missing from this analysis, and I hope to point it out here.  Largely, I will show how the game in Denver was basically a perfect storm for a Chargers victory, with factors which will likely not be present this weekend.
+
+Let's begin with the premise that the Chargers are the team with less talent.  I think even the most die-hard Chargers fans would agree with that premise.  Of course, this does not mean that the Chargers can't win or wont win, just that talent levels are skewed against them.  So, if that is the case, how do they win?
+
+The answer has already been given, although not in these terms.  When you are the less-talented team, it is to your advantage to do whatever you can to prevent that talent gap from being exploited by the other team.  As such, you want to shorten the game by running the ball and having a high TOP. The Chargers are excellent at this, as we have seen in the two previous meetings.  Unfortunately, this only works if the Chargers score touchdowns, not field goals.  Taking 10 mins off the clock to score 3, only to let Denver score 7 in 3 minutes accomplishes nothing.
+
+Another option is to use non-traditional, low-percentage/high reward play-calling.  We have also seen this (fake punt in game 1).  I would predict a great deal of this coming up.  Expect surprise onsides-kicks, going for it on 4th down (especially in the "Maroon Zone", the area between the 20-40 where distance of the 4th down try may make going for it advantageous), and maybe even a couple trick plays (be on the watchout for Ronnie Brown-led HB Passes, especially).
+
+Finally, another way to shorten the talent gap is to put both teams in a difficult scenario.  The more-talented team is dragged down to the other team's level (or closer to it, at least) in these kinds of scenarios.  Example of this could be inclement weather (very cold, snowy, windy, rainy), very bad officiating going both ways, playing on a short week, etc.  You could also place injuries to key players in this category, if you wanted.
+
+So, let's look at the games vs. the Chargers in greater detail.
+
+Game 1 had the Broncos, relatively healthy and of a bye week.  TOP was dominated by the Chargers, who extended drives with 4th-down conversions, but their first two red-zone trips ended in FG, and a third at the end of the half resulted in a missed FG.  Manning and Co. easily put up 28 points and the Chargers had to play catch-up.
+
+It is clear that in this game, the Chargers failed to abrogate the talent gap.  Their tactics to do so were not effective, and they didn't get any help from the schedule, injuries, referees, or anything else.
+
+By contrast, look at the game in Denver.  Off the bat, there were only 4 days between games for each team.  This clearly helps the less-talented team.  In addition, the Broncos were playing their first game this season w/o Wes Welker, necessitating adjustments for the offense.  Additionally, on defense we were forced to but Kayvon Webster as one of our two cornerbacks.  The Chargers were able to extend drives and score touchdowns, and forced the Denver offense into three straight three-and-outs.  Denver had season lows in both possessions and rushing yards.  This, along with a very timely interception, allowed the Chargers to prevail.
+
+I submit that the game this weekend will more resemble the first game played than the last game:  the Broncos are off a bye, with Welker, and relatively healthy, whereas the Chargers have played recently and are a little banged up (starting Center and RB, esp).  In game, it will be key for Denver to get the Chargers off the field on third downs, especially in the Red Zone.  If the Chargers are forced to kick field goals, they will lose.  Building an early lead, or at least offensive rhythm will go a long way towards keeping the defense rested and keep good flow to the game.  If this is the case, the Broncos should be able to play with the lead and eventually force the Chargers to take additional risks.  At that point, a single play could bury their chances.
+
+tl;dr - The Broncos are the more-talented team and must realize that the Chargers will make a concerted effort to reduce that gap through their preparation and gameplay, in effect replicating the second meeting between the two teams.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am lazy, so I was scrolling through Netflix the other day and came across Jumanji. Having not seen it for years, I decided that I could watch it while relaxing on the internet. By the end, I was horrified and confused and disturbed by the power of this game. Not because it can materialize infinite creatures, but because it is basically a time machine a la Primer.
+
+Basic plot: Kids start playing Jumanji game in 1969. Sarah is bad, Alan is worse. 30-ish years later, Judy and Peter start playing. They are a little better, continue through the game. There's monsters and baddies, etc. Game ends. Then what? We are back in 1969. Alan and Sarah are young again, the entire world is exactly as they left it, with one exception: they still have all the knowledge that they acquire in the previous timeline (evidence by the fact that Alan attempts to find Judy and Peter).
+
+This makes Jumanji, the game, a very powerful tool. Imagine being able to continue life over and over again, changing your course each time. All you have to do is start the game with a roll:
+
+Player 1: First roll. Game start. Time-0 established.
+
+Wait X years
+
+Player 2: Throw dice. Game continues
+
+Player 1 and 2: Finish game quickly. If you survive, return to time 0, with all the knowledge of the world acquired since time 0. We know that each new roll will supersede the previous roll, like when Judy rolls the dice to stop Alan from drowning in quicksand. Also, the track is very short, only 30 spaces. Since the average die roll on 2d6 is 7, you should finish in 4 or 5 moves, very easy to do with two people.
+
+We know that things play out essentially the same way the next time through the timeline, because Peter and Judy almost have their parents killed in the same way. And we also know that things can be changed, because Alan's dad is still living in the second timeline. Thus, you are perfectly capable of making lots of money (think Biff in BttF:PII) and / or just trying out a different life.
+
+That game is NUTS. Why did they throw it away?
+
+Edit:  The words of the Jumanji game:
+
+Jumanji:
+
+A game for those who seek to find *a way to leave their world behind*.  You roll the dice to move your token.  Doubles get another turn.  The first to reach the end wins.
+
+Adventurers Beware:
+Do not begin unless you intend to finish.  *The exciting consequences of the game* will vanish only when a player has reached Jumanji and called out its name.
+
+(italics mine)
+
+To me, this shows that: 
+a).  The game creates and alternate reality.
+b).  Finishing the game collapses the alternate reality, returning the players to their state just before the game began.
+
+tl;dr - Jumanji is OP, should not be thrown away.
+ 
+
+
+
+
+ I am lazy, so I was scrolling through Netflix the other day and came across *Jumanji*.  Having not seen it for years, I decided that I could watch it while relaxing on the internet.  By the end, I was horrified and confused and disturbed by the power of this game.  Not because it can materialize infinite creatures, but because it is basically a time machine a la *Primer*.
+
+Basic plot:  Kids start playing Jumanji game in 1969.  Sarah is bad, Alan is worse.  30-ish years later, Judy and Peter start playing.  They are a little better, continue through the game.  There's monsters and baddies, etc.  Game ends.  Then what?  **We are back in 1969.**  Alan and Sarah are young again, the entire world is exactly as they left it, with one exception:  they still have all the knowledge that they acquire in the previous timeline (evidence by the fact that Alan attempts to find Judy and Peter).
+
+This makes Jumanji, the game, a very powerful tool.  Imagine being able to continue life over and over again, changing your course each time.  All you have to do is start the game with a roll:
+
+Player 1:  First roll.  Game start.  Time-0 established.
+
+Wait X years
+
+Player 2: Throw dice. Game continues
+
+Player 1 and 2:  Finish game quickly.  If you survive, return to time 0, with all the knowledge of the world acquired since time 0.  We know that each new roll will supersede the previous roll, like when Judy rolls the dice to stop Alan from drowning in quicksand.  Also, the track is very short, only 30 spaces.  Since the average die roll on 2d6 is 7, you should finish in 4 or 5 moves, very easy to do with two people.
+
+We know that things play out essentially the same way the next time through the timeline, because Peter and Judy almost have their parents killed in the same way.  And we also know that things can be changed, because Alan's dad is still living in the second timeline.  Thus, you are perfectly capable of making lots of money (think Biff in BttF:PII) and / or just trying out a different life.
+
+That game is NUTS.  Why did they throw it away?
+
+tl;dr - Jumanji is OP, should not be thrown away. 
+
+
+
+
+ Previous Episodes:  [I]( http://www.reddit.com/r/fatpeoplestories/comments/1fh79x/research_experience_for_an_ungulate_or_how_i/), [II]( http://www.reddit.com/r/fatpeoplestories/comments/1fqn6d/research_experience_for_an_ungulate_episode_ii/), [III] (http://www.reddit.com/r/fatpeoplestories/comments/1g9xds/research_experience_for_an_ungulate_episode_iii/)
+
+Attending an REU in Florida in the summer definitely has its benefits.  While we were expected to work hard during the week, the program planned a fair amount of excursions into the surrounding areas.  We went canoeing, took trips to springs and estuaries, and even drove down to the Florida Keyes for a long weekend trip (a future story).  One trip we had planned was for a snorkeling trip off the gulf coast of Florida, a place called Cedar Key.  Unfortunately, the Cedar Key trip overlapped with a very important date:  the midnight release of the final Harry Potter book!
+
+I had already planned (in secret), to head out to the local Walmart with Geode and Browneye, two **huge** Harry Potter fans, in order to get ourselves a copy.  When we learned that the Keys trip would interfere with us, we needed a new plan . . .
+
+ Be me, three days before Cedar Key trip.
+
+ Read details of trip in email from chaperone  drive two hours on day 1, stop at such-and-such hotel, etc. etc.
+
+ Cross reference route with booksellers
+
+ [mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/04/Animation3.gif) Walmart *across the street* from our first hotel!
+
+ Inform Geode, Browneye of the plan:  get to hotel ~ 8pm, eat dinner, camp in Walmart to get book @ midnight.
+
+ Theyre in!
+
+  Trip is getting started, we are taking two large passenger vans.
+
+  Beginning of trip uneventful, Browneye lets our plan be known.
+
+ No one else in our van is willing to stay out until midnight at Walmart, but one girls asks Browneye if shell pick her up a copy.
+
+ Pull into Sleep-Easy motel, can spy Walmart across the street.
+
+  Location is your basic hicktown stripmall.  Grocery store, a few restaurants, Walmart, etc.
+
+  Dinner is consumed, Geode and I head to the grocery to get snacks for the night and next day.
+
+ [orw] (http://www.reactiongifs.us/wp-content/uploads/2013/05/high_five_snl.gif) We find *Harry Potter Cupcakes*, six-pack.
+
+ We figure we have plenty of cupcakes and food, and return to the hotel to show BrownEye our terrific find.
+
+ I am carrying most food, Geode has cupcakes in the see-through tin.
+
+  Knock on Browneyes door.
+
+  Knocking continues after I have stopped.
+
+ Getting faster.
+
+ And closer.
+
+ Could a jackhammer have fallen over in a bowling alley?
+
+  Nope, just Hamhock, stampeding towards us.  It could be me, but I think she is getting heavier.  About one month into our REU, and I dont think Ive seen her do anything exercise excepting the futbol game.
+
+  Hamhock:  Ohmigawd, I thought you guys were going to leave me.  I heard about your Harry Potter plans from Fitgirl.  I wanna come too!  Its been forever since I hung out with you, test_subject9587!
+
+  Fucking Fitgirl.
+
+  Okay, fine, come sit with us.  Whatever.
+
+ Unload the food in Browneyes room and show everyone the cupcakes.  
+
+ Each cupcake has a Harry Potter plastic ring on it, embedded in a thick frosting of two colors (Gold/Crimson for Gryffindor, and Purple/Green for Slytherin).
+
+ Hamhock has to have one now.  Argues, Itll be like pre-gaming the snacks!
+
+  Sure, whatever.  Mention to everyone not to eat the plastic ring.
+
+  Hamhock opines, Ha ha, test_subject9587.  Youre so funny in between bites.
+
+  We decide against eating the rest of the cupcakes, and will bring them to give out to someone else in line.
+
+  Bring a few other snacks too.  I carry some, Hamhock has some, and Browneye and Geode have blankets/pillows.
+
+Head to the Walmart.  Hamhock bringing up the rear.
+
+  Harry Potter line is very short, we are one of the first ten people.  They even have the special edition available!
+
+  We start chatting and munching.  Talk about predictions, which books/movies we liked the best, etc.
+
+  I say, Goblet of Fire was probably my favorite, but that last book sure had a great ending.  Ive got a friend back at school who even thinks that Dumbledore isnt actually dead . . .
+
+  Hamhock slaps my knee and leaves her hand there:  OHMIGHAWD!, ME TOO! See because you never see the body and where did his ring go and why would he say this and R.E.B stands forandDumbledoreisawesomeand . . .
+
+  Tell her to calm down, and scoot out of her meager reach.  She scoots too.
+
+ Geode gives me a queer look.  Kind of like [this] (http://www.reactiongifs.com/wp-content/uploads/2012/11/tumblr_md5h6phUZY1rnvwt1.gif).
+
+  I head off to the bathroom, wander around the store a little after I am done (scoping out movies and videogames and such).
+
+  When I get back, it is only Geode waiting in line; other people have wandered off.
+
+  Geode:  You will not believe what Hamhock just said.
+
+  Let me guess:  Shes hungry, and if off buying deep-fried something?
+
+  No, close though.  She says shes into you.
+
+  [mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/04/NeoNo.gif)
+
+
+
+ Why.  **BUT, WHY!!!**
+
+ Geode explains that we got off to a bad start, but since then:  1.  I defended her during soccer game, 2.  She only wanted to watch movie because I would be there, 3. Realized after getting mad that she was fucking it all up, so got much nicer.
+
+ I suspect some new horror is in store, but I am not too troubled.  Afterall, shell get the idea if I make it clear enough.
+
+  Hamhock returns, sits down.  Geode and I have hatched a plan.
+
+  Geode, So, test_subject9587, how is your girlfriends summer internship going?
+
+ Hamhock turns her head way too fast; is clearly taken aback by this.
+
+ test_subject9587 . . . you have a g/f?
+
+ Yes, I explain.
+
+  For the next half hour or so, Hamhock makes vainly subtle attempts to learn as much as she can about my relationship back home.
+
+ Oh, that sounds interesting.  So, what kind of internship is your g/f working at?
+
+ She sounds nice, howd you two meet?
+
+ I am trying to picture what kind of girl would be able to nab you  whats she look like? (**seriously?**)
+
+ I say, Oh, shes pretty nice.  A little shorter than I am, weighs a little more, but pretty athletic.  One time I nailed her in the eye when we were playing racquetball.  It was definitely her fault.
+
+ Oh, so shes one of those exercise is life kind of girls, huh?
+
+ Not sure how to respond to that, change subject.
+
+ Some little kids (maybe 7 and 10 years old?) walk by with their mom, and they are *adorable*.  They are both dressed in robes and have hats and wands.
+
+  I start talking to them about Harry Potter, and ask them if they are excited.  Shocker:  they are.
+
+  I tell them, Well, if it is okay with your mom, we have two extra *Harry Potter Cupcakes*.  Would you like them?
+
+  They look up at their mom, who nods to them and has a very appreciative look in her eye.
+
+ Hamhock:  But, test_subject9587, we dont have those cupcakes anymore.
+
+  Me:  Why not?  I know the answer before I finish my question . . .
+
+  Well, I ate them already.
+
+ [mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/06/dean-what-gif.gif)
+
+ [little girls fw] (http://www.reactiongifs.com/wp-content/uploads/2012/12/unfair.gif)
+
+ [mothers fw] (http://www.reactiongifs.com/wp-content/uploads/2013/01/maad.gif)
+
+ Kids are crying now.  Mother says, Thanks a lot.  And I mumble and embarrassed apology.  They head back to their spot in line.
+
+  I turn to Hamhock, What.  The.  Fuck.  Why did you eat the other cupcakes?  When?
+
+  I ate them on the way over, after you said you were giving them away.
+
+  Yes.  **To other people**.  Not to you.  You already had one.  Then you just scarffed down two more on our way over here?  And then you didnt even tell us?
+
+  I didnt think it was a big deal  . . . my blood sugar was feeling low and I was hungry
+
+  It wouldnt have been a big deal, *if* you had told us.  Then I wouldnt have accidentally tortured an entire family!  And how were you hungry?  We had dinner an hour earlier, and you already had one cupcake!
+
+  Silence.
+
+ She blurts out, Fuck this, I am going back to the room.
+
+ At least five separate children gasp at her outburst.
+
+  Hamhock struggles to her feet and waddles away in huff, without a book.  Everyone in the near vicinity who witnessed the event feels terrible.  Except for Geode, who is smiling.
+
+ Whats so funny?
+
+  I wonder how hot she is for you now . . .
+
+  Get bent, Geode.  Get bent.
+
+tl;dr  I promise cupcakes to pre-teen wizards; Hamplanet has already inhaled them.
+
+Be sure to join me next time as I tell the story about the trip to the Florida Keys, and how three of the girls get a man fired in, Episode V:  Thin Privilege is Enjoying Paradise
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Episode I can be found [here] (http://www.reddit.com/r/fatpeoplestories/comments/1fh79x/research_experience_for_an_ungulate_or_how_i/) and Episode II [here] (http://www.reddit.com/r/fatpeoplestories/comments/1fqn6d/research_experience_for_an_ungulate_episode_ii/).  Also, this story is very movie-centric, and so may contain spoilers for: Fargo, The Departed, and minor spoilers for a couple more.
+
+
+A few days after the events in Episode II, I was regaling Geode with the story of how Hamhock announced her retirement from the game of pick-up futbol, and she smiled and laughed more than I had ever seen as we both continued eating dinner.  See, at this particular REU, there was something of a campus, where the students lived.  
+
+
+There were four apartments, a few trailers, and one set of dormitories.  Roomie and I, being the only two guys, were given one of the four apartments, and the girls each got a dorm room to themselves.  The dorms had a common kitchen, and a common entertainment room with a TV, where our apartment had its own kitchen, and also Roomies TV and PS2 in the living room.  Honestly, Roomie and I **really** lucked out.
+
+
+Geode and I had started hanging out more, and when it came out that we like the same kinds of food, we made it an ongoing plan to cook food together in the apartment kitchen once every few days or so.  This was extremely helpful for her, as she was already getting tired of the dirty dishes, messy counter tops, and food pieces in the communal kitchen.  She also had a sneaking suspicion that Hamhock was taking small portions of food from her, and maybe from everyone.  Also, it is much easier to cook portions for two people than one person for some things.
+
+
+Later in the evening we were watching a movie from my collection, something with either Alec Baldwin or Mark Walhberg.  Eventually, I said, This movies fine, but if you want to see a *serious* movie with this guy in it, you should watch *The Departed*.  When she said she hadnt seen it, we resolved to watch it sometime over the weekend.  It turned into an event by Friday, as almost no one had seen the flick, and a couple of girls who had wanted to see it again.  One of those girls was Hamhock.  Greentext, go!
+
+
+Be me, ready to blow some ladies minds with *The Departed*.
+
+Take movie, drink, minor snack from apartment to dorm common room.
+
+Avengers assemble!  It is Geode, Browneye, Footsteps, Hamhock and myself.
+
+Footsteps is a very average-looking girl with brown hair and one of those almost-pretty faces, probably 55, 170lbs.  Her mother is a researcher at the university, and she has always loved helping out in the lab.  Definitely not Hamplanet status, and I don't think I ever heard any Fatty Logic, but maybe a little overweight. 
+
+Browneye and Geode greet me, are excited for the movie.
+
+Hamhock says nothing.  She has two bowls of popcorn, one on the arm of the sofa, one on the coffee table.  Also a bag of chips.
+
+Hamhock looks a little steamed.  Well, maybe not steamed, that would be too healthy.  Deep-fried.
+
+Whatever.  I sit next to Geode and prepare the movie.
+
+itisawesome.mp4
+
+Opening lines from Nicholson moves me from six to midnight.
+
+Hamhock is basically double-fisting chips and popcorn (drink kind, not sex kind).  
+
+Hamhock is the woodchipper, and chip crumbs  / popcorn are poor Steve Buscemi from *Fargo*.
+
+random chattering occurs throughout the movie, but mostly people are paying attention.
+
+Hamhock tromps away to the restroom or something.
+
+I notice that the popcorn and bags are miraculously not empty so I elbow Geode and make a hand motion to them.
+
+[hfw] (http://i.imgur.com/FmwryTi.gif)
+
+She explains, Those are ALL Hamhocks snacks. She made a huge deal about how she wasnt going to share them because she paid for them, and she thinks that someone already ate one of her popcorn bags.
+
+ I bought a pack of eight, and I had one Saturday, two on Monday, and then  . . . etc etc.
+
+Whatever, no big deal.  Hamhock returns, flops back into position, and the force of her sitting down propels a single kernel of popcorn into the air (she must have dropped it somewhere on the couch).
+
+Movie continues, gets to some really good part where Leo is chasing Matt Damon through the streets.
+
+ Browneye says, God, Leo is so hot in this movie!
+
+ I say, Well, obviously!  Hes so attractive that **I** might fuck him!  But seriously, as long as youre not watching *Whats Eating Gilbert Grape*, when is that NOT true? 
+
+At that moment, there is a small gurgling noise, as if a mire somewhere is bubbling up noxious fumes.
+
+Maybe someone in the distance emits a screech, maybe claws draw across a chalkboard.  Maybe fuck yourself.
+
+ Oh, its just Hamhock, working up some angries.
+
+I have misspoken, and Hamhock is pissed.  A central character in *Gilbert Grape* is a morbidly obese woman who cant even leave her house.  Obviously, I intended this comment as a slight against Mrs. *A Fridge Too Far*, here.
+
+She says, Oh, so now youre going to make fun of fat people **and** retarded people, huh?
+
+justajoke.zip
+
+ Well, it isnt even funny.  And why is it Leonardo Dicaprio who is hot?  That kind of physique is only available to like 1% of people, if that.  Its *gen-et-tics* (she enunciates very clearly and slowly, like this is a foreign concept to four biology majors).  And to get it, he had to diet and work out and basically torture/starve himself.  Then people like you call it, attractive, like your opinion in the only one that matters.
+
+  Look Hamhock, says Geode, Were just watching the movie and talking.  No one here is attacking you or anything.  Just relax.  Have some more popcorn.
+
+Possibly the wrong thing to say.
+
+ Hey, Twiggy, I am not taking eating advice from a stick like you.  I am just fine as I am, thank you.  People back at my school LURVE MAH CUHRVES! (okay, maybe she didnt say it *exactly* like that).  And you know what?  This movie sucks anyways because  **LEO DIES AT THE END!!!**
+
+[are you fucking kidding me?] (http://i1.kym-cdn.com/photos/images/original/000/288/304/2fe.jpg)
+
+Upset with *Forest Gunt* for her ridiculously petty outburst, I say, Well, thanks for ruining the fun.  You sure seem to be good at that.
+
+ Its your fault.  You dont know how hard it is to have bad metabolism genetics, so you go around insulting bigger people like me and Footsteps.
+
+ Footsteps:  Watch your mouth, I aint nearly as big as you, and I dont think he was being mean.  Just trying to be funny.  Like all of us.  God, chill out!
+
+With that, *Assablanca* heaves herself up, knocks the half-eaten bowl of popcorn off of the chair and onto the floor, and leaves for her dorm room.
+
+ Watch another 10 minutes of movie in silence.
+
+ *Apollo 13 Tons* comes out of her room in a huff, takes her snack bowls and chips, and retreats back to her dungeon of shame-eating and self-loathing.
+
+ We vainly attempt to stifle our guffaws until she is gone, but eventually burst out laughing.
+
+ Geode recovers first and deadpans, Does Leo really die at the end?
+
+  Oh, be still my heart . . .
+
+  Finish movie.  *Everyone* dies.
+
+  Browneye is upset with the movie, does not approve.
+
+  Also, pissed that Hamhock fucked up the ending  Browneye was waiting for the Leo kill, and it took her out of the movie.
+
+prettyreasonableopinion.txt
+
+have 10-15 min discussion about the merits of movie.  I love it, so does Geode, with Browneye hating it and Footsteps lukewarm.
+
+ *A Clockwork Orange Chicken Bowl* emerges from her room, still upset.
+
+  I say, Hey, Hamhock, were kinda split on the movie  . . . Did you like it?
+
+  She completely ignores me as she is looking for more food.
+
+ I say, Fine; but you really should come over here and clean up your mess.  This is a communal room, and I have come to understand that this popcorn is ALL YOURS.
+
+ [ofw] (http://www.reactiongifs.com/wp-content/uploads/2013/06/Marty-McFly-What.gif) Okay, yeah.  Sorry about that.  I think I over-reacted a little bit.  Ill clean that up once you guys leave.  And, test_subject9587, sorry for exploding on you  I am sure you wouldnt mean to hurt me.
+
+ What new devilry is this?
+
+Hamhock's adventures are not over yet.  Join us next time for *REU:  Episode IV:  Hammy Planet and the Deathly Hollows Cupcakes*, a story of the midnight release of book seven.
+
+tl;dr:  Fatty inhales snacks, flips out, ruins surprise ending to movie as retribution.
+ 
+
+
+
+
+ Part I of the Hamhock saga can be found [here] (http://www.reddit.com/r/fatpeoplestories/comments/1fh79x/research_experience_for_an_ungulate_or_how_i/).
+
+There was only minor fallout from the events dramatized in Episode I.  Since everyone had just met, most people were quick to give the benefit of the doubt to Hamhock and me regarding our exchange at the pizza night.  Basically, the other students in the program didnt want to judge either Hamhock or me too harshly for what they thought was just a misunderstanding (or, at worst, a good ol foot-in-the-mouth kind of thing).  That is, of course, except for Geode.  
+
+A few days after I arrived, I ran into her in the common kitchen, cooking some noodles or something, and I asked her if she was okay after what had happened.  She said that she would be fine, but that she had been thin-shamed by people like Hamhock before, and it was always by a person who turned out to be *very* shitty, so she wasnt holding out hope that Hamhock would just be a benign presence.  She also thanked me for standing up for her, and the resulting conversation established her as the person with whom I was most happy to spend time.
+
+The first couple of weeks of the program move on without a hitch, everyone getting established into their labs and projects.  Then came the fateful afternoon when we learned that the permanent residents of the facility (grad students and some faculty), would get together for a little pick-up futbol (soccer) on Tuesdays.  With that, we engage greentext.
+
+ Be Tuesday.  Spend 8 hours in lab. Email checking at end of day.
+
+ email from another student, says there is futbol game if folk are interested
+
+Be not good at futbol
+
+Decide to go anyway.  What the hell, it is just for fun, right?
+
+Somewhere, there is a rumbling, a massive hungry stomach, a portent of just how un-fun *some people* can make something as casual as a pick-up game of anything.
+
+Head to the field where there is futbol.
+
+  Set-up is low-key.   Some of the grad students are from Europe, Africa, etc.  Point being: they have played futbol often in their youths, they have made small goals out of PVC pipe (think, Hockey or Lacrosse sized), they came to game.
+
+ other students arrive, I shall introduce a couple more here:
+
+Be not BrownEye, an athletic brunette who played futbol in high school.  Kinda fussy and bitchy, but a nice girl overall
+
+Be not YoungGirl, a rising sophomore who somehow managed to get accepted to this program despite having very little experience in biology.  Also a very nice girl, not so into sports, just having fun with new people
+
+ Be not Fitgirl, who just got back from some kind of jog, saw we were up to something, and wanted to join.
+
+ In addition to these folk, there were grad students, a couple of faculty, and some lab techs.  11 folk in total
+
+ uneventeams.sadface
+
+ Oh wait, maybe this bus in the distance will contain a player to join us!
+
+  Wait a second, Jurassic Park ground tremors register in our bones
+
+  The bus is moving too slow.
+
+ Thats no bus.  Its a ~~space station~~ hamplanet.
+
+Hamhock walks up and asks us what we are doing.
+
+[ofw] (http://www.reactiongifs.com/wp-content/uploads/2012/12/bert-n-ernie.gif) Oh, Hamhock, were just getting a futbol game together!
+
+[mfw] (http://i.imgur.com/1LuJmS0.gif) is hear her say, Oh, that sounds fun, I want to play!
+
+ No worries, maybe it is good that she is trying to exercise?
+
+ Maybe she just wants to have fun and bond with others in the program?
+
+ Maybe this will be fine.
+
+[Maybe] (http://i.imgur.com/seh6p.gif)
+
+ Teams are picked, and Hamhock is on my team.
+
+ westillgotthis.pro
+
+The game starts, and I am pretty horrible.  I cant really dribble, I have a hard time guarding the better players, and the ball rarely goes where I want it to when I kick it.  But, I have always been minorly athletic, and begin to turn a figurative corner.
+
+Hamhock slowly jogs in the vicinity of where the ball was less than 15 seconds ago.  She is not fast, she is not coordinated, but if one squints you could convince yourself that she was trying.  I decide against telling her that she should pretend the ball is a cookie or wafer or something.  Also, bonus points for not bitching.  
+
+ This is hard, it is so humid out today!
+
+Well, scratch that I guess.
+
+ One of the better players on my team puts a centering pass about a foot off the ground in front of the goal, and all I have to do it stick my foot out and the ball easily deflects into the goal.
+
+fuckyeah.mp4
+
+Hamhock has gotten tired; she makes no pretenses about vaguely following the ball around.  Now she stands in the middle of the field, walking back and forth about 10 yards, depending on which team has the ball.  She is content simply encouraging her teammates.  Sometimes, if the ball/people happen by her, she will vainly flail the lower half of one of her legs (seemingly chosen at random) until the ball goes away.
+
+  [hfw] (http://www.reactiongifs.com/wp-content/uploads/2013/06/oh-you.gif) one time, the ball ricochets off of her shin, providing her with the delusion that she is helping
+
+ Two goals scored on our team while Hamhock is a glorified cheerleader who is also in the way.
+
+  During a rest timeout, she says, Guys, this isnt fun for me.  I cant run like you can.  It isnt fair!  I should be goalie so I dont have to chase after the ball all the time.
+
+ Say, Dont worry, I am pretty sure you havent chased after the ball yet.
+
+Beady little hamplanet eyes glare at me.  Her face is almost beet red, and she is sweating profusely.
+
+  BrownEye pipes up, Relax.  Hamhock, you can be goalie.  Remember, dont use your hands (house rule we were using due to the small goals), and trying to stay in front of the ball
+
+ Hamhock answers in the snottiest tone, Well, obviously.  Thats helpful.
+
+ Game starts up again, we score a couple of goals, going up 3-2.  Weve got about 10 more minutes.
+
+[mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/04/Joel_McHale.gif) Hamhock stops the first shot
+
+ Of course, [this] (http://img.pandawhale.com/63225-if-you-think-this-has-a-happy-ruVi.png)
+
+ The next shot goes in, Hamhock didnt even touch it.  She is frustrated.
+
+  The shot after that she tries to stop by stretching out her gigantic clodhopper, but instead she misses the ball and falls over
+
+  Frustration is increasing
+
+  Next ball is kicked up high. She non-chalantly catches it with her hands.
+
+ [ofw] (http://www.reactiongifs.com/wp-content/uploads/2013/03/bridesmaids.gif) Oh, I am not supposed to do that, huh?
+
+ For brevity, I will omit the other FIVE GOALS scored on her, before the end of the game.
+
+  By then, Hamhock has completely stopped caring, and our team is hopelessly behind.  It is still all for fun and games, though, so only BrownEye is taking it badly.  Muttering things like, Unbelievable, and Seriously? under her breath when Hamhocks latest slight lean to one side fails to prevent another goal.
+
+  Near the very end up the game, BrownEye makes a bad pass, (to this day, she swears it was an accident, but I have my doubts), right to the best player on the other team, about 10-15 feet in front of our goal.
+
+ He has a point blank shot that he puts a little too much leg into.  Meanwhile, Hamhock is LITERALLY ducking, not caring about giving up a goal anymore.
+
+But, because she is ducking, her head is way closer to the ground than the shooter thought it would be.
+
+[ofw] (http://www.gifbin.com/982989) the ball pegs Hamhock right in the fivehead, rebounding up and out into the parking lot, putting her flat on her back and angrier than even that time when they told her she could only have one banana split.
+
+ To be fair, it was easily her best save of the day.
+
+  She is PISSED.  She rolls herself up to her feet and starts screaming, You asshole, whyd you kick it that hard?  Didnt you see I was giving up?  And you! (to BrownEye), did you give it to him on purpose? Are you trying to get me hurt, bitch?
+
+ He says, I didnt know you were going to bend down and try to stop it with your face!  Relax, it was an accident.  It is just how things happen sometime.  If you dont like the risks, then dont play
+
+ BrownEye says that it was just a bad pass, that she was frustrated that they were losing, and made a bad play;  it happens.  No need for name-calling.
+
+Hamhock starts to calm down a little bit and says, This game is stupid, I dont want to play anymore.  You ath-a-le-tic people can play soccer all you want, I am done with this.  I am going to go cook dinner.
+
+ I dont know what made it so funny: the ball off her forehead, the explosion followed by Hamhocks retirement from the game of futbol, or the fact that as she gave her little speech at the end, there were visible imprints from the ball on her forehead.
+
+probablyallthree.justice
+
+Hamhock will be back in: Research Experience for an Ungulate,  Part III:  Rotten Hamhock, the Tale of a Spoiling
+
+tl;dr - Hamplanet wishes to join pick-up futbol.  Is terrible, takes ball to face and bitches/moans.
+Update:  Episode III is now available [here] (http://www.reddit.com/r/fatpeoplestories/comments/1g9xds/research_experience_for_an_ungulate_episode_iii/) 
+
+
+
+
+ Okay, I have been lurking through fps for about a month now, quietly snickering to myself and silently wishing that I had a story to regale all you loveable folk.  Yesterday, I mentioned this sub to an IRL friend and he sent this text later:  This sub is hilarious.  So, are you drafting up a story about Hamhock?.  I immediately felt my pulse race. OH. MY. GOD.  I had forgotten.  I not only had a story (one in particular is the episode that I tell most friends), but a few other isolated incidents.
+
+So first, some background.  About six years ago I was just about to finish my junior year at a small liberal arts college in the midwest.  I was actually pretty skinny and small (59, 140 lbs).  Most of the credit for that goes to a friend who was into lifting weights and running, and one day I asked him if he would buddy with me and teach me things.  Since then, I focused much more on how I ate (got into paleo, although only moderately, because small school cafeteria, read up on the science, worked out, etc).  I had decided to apply for summer undergraduate research in molecular biology (experience in a lab is BIG for applying to graduate school).   We will pick the story up there.  Engage greentext (first time!)
+
+Be me, applying for REU (research experience for undergraduate) programs all over the country.
+
+eyeofthetiger.mp3
+
+[mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/05/original.gif) Florida e-mails:  Youre In!  Weve got a roommate set up for you!
+
+ Florida  Iowa (possible oversimplification).
+
+Email roommate, asking what kinds of things he is bringing.
+
+Roomie responds, seems cool.
+
+ I confirm the things he is bringing.  I dont want us both to bring TVs or something. Jokingly, I say, It would be stupid for both of us to bring our rock tumblers to the beach.
+
+Roomie ignores comment, well figure it all out when were showing up.  End communication.
+
+Be next month, on my trip to Florida.
+
+fuckyeah.jpeg
+
+Get picked up at airport by cool old guy.
+
+ [mfw] (http://www.reactiongifs.com/wp-content/uploads/2012/11/what.gif) he tells me he is the MAYOR of the small town where research facility is located 
+
+Hour later, we arrive at facility.  My school is in session until late May.  I am last to arrive.
+
+Just in time for a pizza dinner, get-to-know-the-students kind of thing.  Pizza is laid out on picnic tables.
+
+time2meetpeeps.heregoes
+
+See only one other guy.  Assume it must be Roomie.  He informs me that we are the only two guys.  Among 10 girls.  Is this real life?
+
+ sit down, talking to Roomie, things are warm, happy, sunshine.  Meet the girls.  Sit next to one, I will call her Geode.
+
+Geode is pretty tiny.  53, maybe 110.  Fit-looking, with red/auburn hair.  Very cute.
+
+ Start to feel funny (a bad kind).
+
+ Things feel darker, sadder, less sunshiney
+
+ The joy seems to dissipate, casual chatter becomes strained, and the sun visibly darkens
+
+ Tectonic plates groan, shift, and barely hold
+
+Is this some ominous cloud, a harbinger of the troubles to come?
+
+Well, kind of. But no cloud.  A hamplanet.
+
+ [mfw] (http://www.reactiongifs.com/wp-content/uploads/2013/02/no.gif) behind me, there is a squat, brunette girl built like a bowling ball
+
+  Girl sits down across from me and Geode, next to the Roomie, introduces herself
+
+  She is slightly shorter than I, but at least twice my weight.  I think 55, 280 is probably about right.
+
+  Person-in-charge says, Lets wait until everyone shows up to start the food, well give em five minutes.
+
+  Thank all that is holy that this man didnt physically get between Hammy and the food.
+
+ Seriously?  Just because a couple girls are late I have to sit here starving?  This is bull.
+
+  At this point, girl sits down, clears throat, and spits one of the nastiest loogies I had ever seen (or seen since), over the side of the table, into the grass.
+
+ [ofw] (http://www.reactiongifs.com/wp-content/uploads/2013/02/yuck.gif)  We shall call this planet, Hamhock
+
+  Geode says, Umm, what the hell?
+
+ Oddly, Hamhock is apologetic.  Says, I am not used to being around people who care about stuff like that.
+
+ Geode, Roomie and I look to each other for the meaning of this comment.  We do not find the answers in each others eyes.
+
+weareallgoingtodie.yup
+
+  everyone arrives.  Pizzatime!
+
+ Hamhock grabs half of a pie, folds it over itself, creating some kind of unholy pizza-sandwich, and starts digging in.
+
+[ofw] (http://www.reactiongifs.com/wp-content/uploads/2013/02/imgur_9CUtI.gif)  Its easier to eat this way
+
+ Easier than [what] (http://24.media.tumblr.com/tumblr_mend69jUi21rtvqzco1_500.gif)?
+
+ Anyway, we start doing some basic introductions.  The girls are oddly aware of my rock tumbler email.
+
+ Roomie tells me that he wasnt sure if I was serious, thought maybe I was some kind of rock-hound super nerd, so he told all the girls about it.
+
+ Regardless, Geode thought it was funny, and told me she was into rocks, had a geode she brought with her, etc.  Hence, her name.
+
+Hamhock, done with her first half pizza, gets up to scour the boxes for seconds.  I am quite full with my two pieces, and Geode has nibbled away only about half of hers.
+
+  Hamhock returns, and plops several of her folds on the picnic bench.
+
+  This is pretty good pizza, but back home they have better kinds
+
+  Were eating chain pizza.  Well-known chain pizza.  Of course there is better pizza.  Words begin to fail me.
+
+  I say, Yeah, it is alright.  I usually dont eat so much but I had a short connection and missed lunch
+
+ [hwf] (http://25.media.tumblr.com/0c6649ef147636b8d42d00fbf72b4fe8/tumblr_mfr5qk00QA1riiw1do1_250.gif) she is trying to work out if I meant that as an insult (hint:  I didnt)
+
+ Well, test_subject9587, I think that some people dont eat enough.  They starve themselves and try to look all twiggy and they think its pretty. But it isnt pretty, it is sad.  They should just be happy with what they have.  I may not be super-healthy, but I feel good about myself, at least.
+
+ The table realizes that I have said something to set off these interminable whale sounds, which only through retrospect I identify as Fatty Logic
+
+  But next to me, Geode is tearing up.
+
+  I catch her eyes with a slightly quizzical look.  Realization must crawl over my face, because she looks down quickly
+
+ uhoh.mpeg
+
+  Geode stands up and says, It isnt always that simple! in a real shakey voice, and walks away, over to where the dorm rooms are.
+
+hellodarknessmydearfriend.mp3
+
+Hamhock has the nerve to say, What the hell is her problem?
+
+This sets me over the edge a little.  Jimmies, they are a rustlin.
+
+ Are you serious?  Obviously, she has dealt with an eating disorder before.  You cant possibly think it is okay to shout bromides about body image at a table full of girls.  You never know what a person has been through  especially with a group you just met!
+
+  Oh, I guess she is really skinny.  And she wasnt eating much.  How sad.
+
+  [mfw] (http://i.imgur.com/HV7Z3JG.gif) THAT IS NOT THE FUCKING POINT!
+
+   We at the table start to try to convince her to apologize, goes over poorly.
+
+  Well, make test_subject9587 apologize to me first!
+
+ I tell her, I am sorry if you thought I was implying that you ate too much, but I was just describing my own eating habits.  There, happy?
+
+  She grumbles something that cant quite escape the event horizon that is her mouth, and truffle-shuffles off to the dorms, obv carrying her pizza with her.
+
+  Roomie looks at me, Holy shit, man.
+
+  I say, Yeah, 10 girls in forced proximity for a summer in Florida.  Forget TNT, were about to know some *real* drama.
+
+tl;dr - Hamplanet disgusts, shames ex-anorexic girl, feels nothing.
+
+Update: Episode II can now be found [here] (http://www.reddit.com/r/fatpeoplestories/comments/1fqn6d/research_experience_for_an_ungulate_episode_ii/) and Episode III [here] (http://www.reddit.com/r/fatpeoplestories/comments/1g9xds/research_experience_for_an_ungulate_episode_iii/).
+ 
+
+
+
+
+ As the title suggests, some friends and I will be spending about two days traveling the Bourbon Trail.  As of now, the general plan is to arrive on a Thursday night, and then spend all day Friday and Saturday stopping at distilleries and having a great bourbon-fueled time.
+
+Does anybody have any recommendations from their own pilgrimage on the trail?  Something that we absolutely must stop and see?  We are planning to be self-guided and pretty cheap with hotel rooms and car rentals (but not so cheap with the whiskey) 
+
+
+
+
+ March Madness, Simpsons style.
+
+We gotta speed this up a little bit, so in the comments below, please find the next 8 "games" to be played in the first round (there are 32 games in first round). Please feel free to reminisce about the episodes with quotes, memories, thoughts, whatever. And please argue for your favorite, using whatever Simpsons logic that you'd like; maybe you'll even change someone's mind. Make sure to be clear which episode you vote for, as well. I'll tally the votes for each game and at the end of one week, winners will be announced, and we'll move on to new games
+
+For your convenience, here is a link to the episode guide, where you can remind yourself of the episode, if you like:
+
+http://simpsons.wikia.com/wiki/Episode_Guide
+
+additionally, here are the earlier entries from round 1. I will continue to compile the results from the first round until all 32 "games" have been played, so get over there and vote, if you haven't already!
+
+Round 1a: http://www.reddit.com/r/TheSimpsons/comments/1aaz6d/march_madness_simpsons_style_round_1a/
+
+Round 1b:  http://www.reddit.com/r/TheSimpsons/comments/1azd6b/march_madness_simpsons_style_round_1b/
+
+Upvotes will keep the post near the front, and increase the number of votes.  Just saying is all.
+ 
+
+
+
+
+ I am going to try a fish stew tonight, boiling up the heads and fins for a nice stock and then just basically throwing in the things that we got on hand.  So far, I am thinking about tomato, celery, onion, green peppers, maybe sweet potato.  Fish will be bought at a nice local fishmonger, so I can either get the whole animal or some fillets + offal (do they call fish heads/fins/etc offal?).
+
+But, I don't have any specific plans or a recipe.  Does anyone out there? 
+
+
+
+
+ March Madness, Simpsons style.
+
+In the comments below, please find the next 4 "games" to be played in the first round (there are 32 games in first round). Please feel free to reminisce about the episodes with quotes, memories, thoughts, whatever. And please argue for your favorite, using whatever Simpsons logic that you'd like; maybe you'll even change someone's mind. Make sure to be clear which episode you vote for, as well. I'll tally the votes for each game and at the end of one week, winners will be announced, and we'll move on to new games
+
+For your convenience, here is a link to the episode guide, where you can remind yourself of the episode, if you like:
+
+http://simpsons.wikia.com/wiki/Episode_Guide
+
+additionally, here is Round 1a, from last week.  I will continue to compile the results from the first round until all 32 "games" have been played, so get over there and vote, if you haven't already!
+
+Round 1a:  http://www.reddit.com/r/TheSimpsons/comments/1aaz6d/march_madness_simpsons_style_round_1a/
+
+edit:  be sure to upvote the post to keep the tourney on the front page of /r/TheSimpsons 
+
+
+
+
+ Hello, /r/TheSimpsons!
+
+While I plenty enjoy seeing Simpsons images and relevant quotes taking up the majority of this subreddit, I'd also like to see people arguing/discussion/quoting their favorite episodes.  Now, I am aware that plenty of threads exist for that, so I wanted to do something a little bit different.
+
+With March Madness right around the corner, I started thinking about a Simpsons-Themed 64-team tournament.  When I looked into it more, I realized that in three of the show's best seasons, seasons 4-6 (some would say the shows THREE BEST EVER), there are 69 episodes (ha ha, I know).  If you remove Treehouse of Horror episodes, and the two clip shows during those seasons, you get EXACTLY 64!
+
+With that in mind, I plugged all 64 episode names into a bracket generator, randomized the seeding, and BAM:
+
+March Madness, Simpsons style.
+
+In the comments below, please find the first 4 "games" to be played in the first round (there are 32 games in first round).  Please feel free to reminisce about the episodes with quotes, memories, thoughts, whatever.  And please argue for your favorite, using whatever Simpsons logic that you'd like; maybe you'll even change someone's mind.  Make sure to be clear which episode you vote for, as well.  I'll tally the votes for each game and at the end of one week, winners will be announced, and we'll move on to new games
+
+For your convenience, here is a link to the episode guide, where you can remind yourself of the episode, if you like:
+
+http://simpsons.wikia.com/wiki/Episode_Guide 
+
+
+
+
+ Hello everyone!  I have been a Reddit lurker for quite some time now, but have clearly never posted before this time.  My wife-to-be bought be "The Ultimate Bar Book" as a Christmas present, and I am not entirely sure she knew what she was getting into.  Whereas before I was basically a Wine drinker who would stay stocked up on Kahlua and Vodka for White Russians (inspired largely by my love for a certain Coen Bros. film), now I am stocking up a nice bar to try all kinds of things.
+
+So, yesterday I came home with a nice grip of liquor, including a pair of whiskeys which were recommended by those posting in this subreddit:  Maker's Mark and Buffalo Trace.
+
+Yesterday I tried the Maker's Mark clean, and found myself to really like it.  I have yet to try the Buffalo Trace, but I plan to try that in the next couple of days.  Then I want to try tastes of them side-by-side, to see if I can distinguish between them.  Interestingly, I basically grew up in a family that loved to drink Jack Daniels (and sometimes Jim Beam), so I am familiar with the whiskey milieu.  I even got to drink some as a youngster during sporting events (Whenever the Avalanche would score a goal in the Stanley Cup).  So, I am excited to branch out a little more, and try some different things.  I was fortunate enough to try some Pappy Van Winkle 15yr last week when a bunch of coworkers went out to a whiskey bar, and I think that is what finally convinced me that I might like whiskey as an adult (a few years back, I tried some Jack Daniels, and didn't much care for it). 
+
+In the nest week or so, I expect to get a shipment form Amazon containing some Angostura Bitters and cherries, so that I can make some Manhattans and Old Fashioneds.  In the meantime, I just wanted to pop out from lurking, thank the posters in the reddit for good recommendations, and introduce myself.
+
+Thanks again! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ When we play the Seahawks in week 3, we will be underdogs (and rightfully so - predict 4.5 points or so).  That being said, the Broncos have the talent and tools to compete and win that game.  Seattle looked strong, but they did not look immortal by any means.   
+
+
+
+
+ They have outtakes, but they call them, "Mulligans". 
+
+
+
+
+ I want to die.
+
+Source:  playing against a buddy who has Harvin, Lynch, and Hauscha. 
+
+
+
+
+ K, FanBro.
+
+Most people sort by new to follow the game.  People don't up vote very long because they are trying to keep up.  Cool your tits.  Fuck the Raiders. 
+
+
+
+
+ I would say 80% hate him, 10% tolerate him, and 10% apologize for him. 
+
+
+
+
+ Well when he tosses their salad and tastes his salty discharge, he'll know. 
+
+
+
+
+ New Glarus?  Ale Asylum? 
+
+
+
+
+ Fair statement.  
+
+
+
+
+ Don't worry, we'll get em week3. 
+
+
+
+
+ I am also playing against Beast Mode right now.  I am 40 points in the hole because my buddy has 3 seahawks.  
+
+
+
+
+ I have redemption rye.
+
+Cannonball comin! 
+
+
+
+
+ All year.  It's what they do.  Remember how long Flacco/Moore was mentioned off hand Last year? 
+
+
+
+
+ Feels bad, right?
+
+Hug it in bros, I live in Madison now.  Feel many of your pains. 
+
+
+
+
+ Is it 1991? 
+
+
+
+
+ Yeah, that was a big win for the Pack. 
+
+
+
+
+ Wow, you're a great human being. 
+
+
+
+
+ That was poor. 
+
+
+
+
+ He does.  He is a mixture of Al Gore ' s boring Ness and Hitler ' s meanness. 
+
+
+
+
+ Yeah, I think so. 
+Seems fine.  I'd watch, "Denzel Washington takes names all day". 
+
+
+
+
+ I know right?   NBC cherry picking plays to meet their narrative of, "Wilson is maturing as a passer by getting rid of it quickly" 
+
+
+
+
+ Collinsworth is flabbergasted that an NFL player can run all the way down the field . . . 
+
+
+
+
+ Oh man, I don't know.  I have never seen them out of the Midwest.  
+
+
+
+
+ I love football. 
+
+
+
+
+ We have a superior version called cheese curds.  
+
+
+
+
+ GE, getting weird and awesome on us. 
+
+
+
+
+ I know right?  Leave willy wonka alone. 
+
+
+
+
+ We've always been at war with Eastasia 
+
+
+
+
+ Yeah, that is pretty great. 
+
+
+
+
+ Richard?  Ya dead? 
+
+
+
+
+ Oops, I'm racist. 
+
+
+
+
+ Coooooooooooooooooooooon! 
+
+
+
+
+ Awkward.  Blocked right into it. 
+
+
+
+
+ Yes; for statistical purposes, a gain of 0 for the QB is a sack, and the closest defender gets credit if he runs out of bounds. 
+
+
+
+
+ 5 yard penalty; was only 4th and 2. 
+
+
+
+
+ Back to back errors by the Pack. 
+
+
+
+
+ Chipped my tooth on my fork tonight. 
+
+DM; HF. 
+
+
+
+
+ Bad news:  Three of the most improved teams are in the Central. 
+
+Good news:  At least the Avs are one of them.
+
+Starting to get really stoked for hockey! 
+
+
+
+
+ Me too, actually.  I love to hate the Raiders more than the Chiefs and Chargers.  I want our rivals back! 
+
+
+
+
+ Of course you're right.  As a fanbase, the Seattle loss hit us pretty hard.  Many newer fans weren't invested during the 80's blowouts, so Superbowls were fun and games to them.  Seattle taught many of them how horrible "The Big Game" can really be.  Hence, our hatred for Seattle is very fresh in our mind, and I want to destroy them.
+
+That being said - if, by some miracle, Super Bowl 49 features a dominant Seahawks team vs. Derek Carr and the scrappy, surprise Raiders, I will be rooting for the Seahawks to destroy you filthy Raiders *44*-8, leading them to be declared the a new Dynasty, the greatest defense ever, and listening to their fans harp on about how "only the NFC West plays real football" for the next decade.
+
+Any Broncos fan who feels otherwise has simply lost perspective. 
+
+
+
+
+ I think one side is logos, and the other side is colors, right?  Logos are all the same, but half are orange and half are blue? 
+
+
+
+
+ I think it is very reasonable to pick up Bubba (I am yelling in my wife's ear to grab him for her last bench slot right now).  Remember last year when Welker was out with his concussion and Bubba was the best player in the Thursday night loss vs. San Diego?
+
+No reason that kind of thing can't happen again.  
+
+You'd need a pretty deep league (12+ players, and at least 1 flex, maybe two) to give him a serious start those first four weeks, but in later rounds it is hard to see that much upside. 
+
+
+
+
+ Your Montee team should be called, "The Montee Ball Problem".
+
+ 
+
+
+
+
+ I came here to say this.  I always thought of Mostromart when seeing the Publix slogan. 
+
+
+
+
+ The herpesvirus family has three groups:  alpha, beta, and gamma.  They are largely classified by the site where they establish a latent infection. 
+
+Alphaherpesviruses are HSV1, HSV2,  and Varicella Zoster Virus (VZV, which causes chickenpox upon initial infection, and shingles upon reactivation later in life).  Site of latency:  neurons.
+
+Betaherpesviruses are things like Cytomegalovirus (CMV), and a few lesser known ones like HHV-6.  They are latent in certain progenitor blood cells.
+
+Gammaherpesviruses are Epstein-Barr Virus, KSHV, and a few others.  They are latent in some immune blood cells.
+
+So: tl; dr --  Related by genetics and similar life cycles, but specific sites of latency and disease states are different. 
+
+
+
+
+ I think you've got it exactly right - the potential for a latent infection poses a real challenge for vaccination.  In addition, these viruses seem to be very good at modulating the immune system just enough to stay under the radar.
+
+That being said, that a vaccination exists for Chicken Pox is encouraging. 
+
+
+
+
+ Also, it was just in /r/ science:
+
+http://www.reddit.com/r/science/comments/28vuzr/science_ama_series_iama_virologist_who_studies/ 
+
+
+
+
+ Officially it was a Ph.D. In Biomedical Sciences -- Immunology   Microbiology.
+
+Now I am studying a different herpes virus,  CMV, as a Post-doc.  This virus is also mentioned in the article that is posted, so I am planning on giving it a close read tomorrow. 
+
+
+
+
+ Hey there!  I studied hsv-1 for my PhD thesis and did an AMA on /r/askscience.  Lots of great questions asked that day - many about distinguishing hsv 1 and 2. 
+
+
+
+
+ I don't think that's right . . . 
+
+
+
+
+ I am going with "The Montee Ball Problem". 
+
+
+
+
+ This.  My worst fantasy season came with Stafford as my QB.
+
+He'd throw three picks and flirt with a negative point total one week, and then go for 30+ the next week (after I benched him, obviously).
+
+Do not go down the Matt Stafford road.  It is folly. 
+
+
+
+
+ The Montee Ball Problem 
+
+
+
+
+ Juwanaman!!! 
+
+
+
+
+ *sigh* I'd watch it. 
+
+
+
+
+ Man, his cheeks are going to be so warm in December . . . 
+
+
+
+
+ http://www.reddit.com/r/nfl/comments/1vdfaa/conference_championship_trash_talk_thr
+
+Comment 6 or so 
+
+
+
+
+ We're you around for the Taylor Swift parody fight between me and a Pats fan in the Championship Trask talk thread?  Seems like it might be up your alley. 
+
+
+
+
+ These are definitely the Raiders.  
+
+
+
+
+ Gotta say, Raiders are looking better than I thought. 
+
+Seattle might actually kill Rodgers on opening night if this o line doesn't improve. 
+
+
+
+
+ Whoo preseason!  I would watch another game too, but the Packers are on local TV so I don't have to hook up a computer. 
+
+
+
+
+ Oh my god, YES! 
+
+Can Phil Simms say more blatantly incorrect things? 
+
+
+
+
+ [NO SPRINGS!] (https://www.youtube.com/watch?v=OO-_LJZbG7E)
+ 
+
+
+
+
+ Eh, forget my lawyer. 
+
+
+
+
+ Hitler, North Dakota?
+ 
+
+
+
+
+ I don't think so . . . 
+
+
+
+
+ You mean at the end?  I think Homer told her over the phone that they were going to try one more place, and she decided to show up, too. 
+
+
+
+
+ Yeah, Homer kind of white-washed how sexy that stag party was going to be, but that really isn't that big of a problem - he didn't lie to her about anything.
+
+And, her criticism that he is teaching Bart that it is okay to objectify women is really unfair.  He is just dancing with a stripper - who isn't even partially naked!   
+
+
+
+
+ Keep in mind that sometimes the Broncos can go 5 wide.  
+
+Last year it was usually DT, Decker, Orange, Welker, and Caldwell.  Caldwell caught one of the opening day 7 TDs this way.
+
+A similar 5-wide this year could include any from this group of 6:  DT, Orange, Sanders, Welker, Caldwell, Latimer.
+
+So, he will get some snaps, even without injuries.  There's also the distinct possibility of him spelling DT after one of those long screen plays or some other deep-ball.
+
+Of course, if a WR gets nicked up a bit, it will be much easier for him to get in there. 
+
+
+
+
+ I would like to challenge your interpretation of the ending.
+
+The final scene is Donald Duck, awakening from a nightmare wearing USA-themed pajamas with a *Home, Sweet Home* decoration behind his bed, and a shadow on his wall, seemingly cast by a Nazi heiling (possibly even Hitler).
+
+It is then revealed that the shadow is cast by a novelty Statue of Liberty, upon which Donald hugs and kisses it and says, "Oh boy, am I glad to be a citizen of the United States of America "
+
+So, three things here:  
+
+First, the immense over-the-top patriotism noted both by the pajamas and the statement could easily be interpreted as approaching caricature - suggesting that such high praise for the USA is questionable, at best.
+
+Second, there is the rather obvious observation that the Statue of Liberty casts a shadow image which is indicative of oppression and fascism.  This can be interpreted as a suggestion that even a system supposedly based on liberty could in fact be something else.  I believe if you check some of the leading intellectuals at the time, the idea that "freedom" was just another kind of control, and "tyranny" just another form of freedom was often discussed.
+
+Finally, I consider it important that Donald's statement was in the form of a question.  If you are going for a happy, exclamatory statement about how great the USA is, it removes nothing to have Donald actually state it.  The fact that he asks the question, "Am I glad. . . ?" is telling.
+
+Surface level, sure, it is very, very anti-Nazi.  But isn't there something going on underneath?  I think it is ultimately a cartoon pondering the danger of becoming the evil that you purport to be fighting against, in this case, due to overuse of propaganda, stereotypes, and stolen symbols.
+
+ 
+
+
+
+
+ Oh, gotcha.  I was thinking "plot" all the way. 
+
+
+
+
+ Yeah, that's the cat.
+ 
+
+
+
+
+ This is indeed a disturbing universe. 
+
+
+
+
+ My team's wins don't count, yet.
+
+*YET.* 
+
+
+
+
+ I would've gone with "Poltergeist". 
+
+
+
+
+ Respect.
+
+I mean, hatred too, obviously.
+
+But still respect.
+
+PS:  We're catching you in wins this year! 
+
+
+
+
+ I think he means the weird-looking bespectacled dude with the long straight hair who always gets mustard or soda spilled all over his nice suit, often by J.P. (JG-L's buddy). 
+
+
+
+
+ Happily upvoted a Raiders fan because he is 100% dead-on correct. 
+
+
+
+
+ Be reasonable.  He can't be that awful. 
+
+
+
+
+ Omar had really good coverage on that 3rd down there.  Defense is looking okay so far. 
+
+
+
+
+ See, I like Carroll the least of them.  Sherman is loud and obnoxious, but backs it up so you tip your cap.  Wilson is scrappy and a leader who earned his spot and the Seahawks are riding the boon of paying him pittance for now (ditto *many* others).
+
+Carroll just some failure Jets coach who cheated his way through a college system which rewards renown and flew the coop back to the pros when the writing was on the wall.
+
+Fuck Pete Carroll.  
+
+
+
+
+ Strangely, this is often my thought. 
+
+
+
+
+ I mean, I will still contend that if those teams play 10 games, neither wins 7.  Seahawks won the one they played,  so who cares.
+
+Week three will be horrible and awesome. 
+
+
+
+
+ I mean, sometimes your shit gets tossed.  Happens to all of us.  All you can do is put on the orange, wear it proud, and go after the next trophy even harder. 
+
+ 
+
+
+
+
+ Oh!  You mean like a pussy! 
+
+
+
+
+ New strategy discussion: 
+
+Isn't being up 6 better than up 5 or 4?
+
+I mean 5 and 4 are basically no different,  but six means 2 FG ties and even a touchdown forced a make from 33 yards.  Seems like Broncos should go for 2 there. 
+
+
+
+
+ People hate Seattle because they are the new kids on the block and act like they are the fucking 49ers.
+
+Fans and players and coach alike.
+
+I mean, it's fine if you want to act that way, but shit comes around in this league.  
+
+
+
+
+ In "Fuck the Raiders" news:
+
+Seattle ' s third string QB started for you last year.  And he looks bad against other third stringers.
+
+And in related, "Fuck the Steelers" news:  you made him look good. 
+
+
+
+
+ Thompson #40 jersey purchsed.
+
+#notreallybutseriouslyamiright? 
+
+
+
+
+ Yeah, seems dumb, but NFL wants to try it out. 
+
+
+
+
+ Allegedly. 
+
+
+
+
+ Check new rules.
+
+For first 2 preseason games, all PAT will be snapped from 15.  Trial period for possible rule change this offseason. 
+
+
+
+
+ Oh don't get me wrong; I am pissing and moaning at the tv, too, and getting way too riled up insinuating various phallus - pleasing transactions involving referees.
+
+Thing is - we should relax. 
+
+
+
+
+ Most starters should be out now (except for the de facto starters like Kayvon), and I was very pleased with both first team O and D.  I don't think anyone can say that the Broncos didn't show up and go toe to toe with, and likely best, the Superbowl champs.
+
+Way pleased. 
+
+
+
+
+ So here's the deal:  The refs are in their first preseason game too.  It is very fresh in their minds what they need to emphasize and call.  Much of it has been horribly tricky tack and pretty bullshit.   They should tone it down when the games matter, because it just looks stupid when they watch the film and a LB gets called for illegal contact on a 1 second play when the defender MISSES his man. 
+
+
+
+
+ The wife and I just moved to Madison (first week anniversary, woo!).  Any resident Broncos fans or local hangouts?  Probably wont get too excited for the preseason, but I think once the games mean something we would love to meet up! 
+
+
+
+
+ First, it is important to recognize that only certain kinds of viruses can do this.  Let's divide all human viruses into three broad categories:  DNA, RNA, and Retro- viruses.
+
+RNA viruses only ever use RNA as their genetic material.  They will not leave DNA in our genome at all.  Flu, Cold, and the newly popular Chikungunya are a few examples. 
+
+DNA viruses act pretty much like extra, tiny chromosomes, transcribing and replicating in a very similar fashion.  Some of these may have mechanisms for inserting their DNA into the host, but some of that research is still controversial.  Your DNA viruses are things like the herpesviruses,  HPV, Adenovirus and Poxviruses.
+
+The Kings of integration, though, are Retroviruses (HIV being the most well known).  These viruses use RNA as their genetic material, but reverse - transcribe to DNA as an intermediate!  One part of the process involves an enzyme called integrase - it's job is to put the DNA intermediate into the host genome for subsequent activation (leaving it dormant).  Trouble is, sometimes the integration site isn't specific, and you can imagine how inserting Kilobases into a random gene could cause problems.   
+
+
+
+
+ I would agree with you.  Having that line would be akin to Harrison Ford's stupid voice-over chiming in right after the "Like tears in rain" line in *Blade Runner*.
+
+ 
+
+
+
+
+ Okay, I'll be there next week. 
+
+
+
+
+ Struggled to come up with Brandon Lloyd, then it clicked with 1:30 left to go!
+
+It was also fortunate that only two receivers who accomplished this feat *before* I was born:  Watson and Taylor.
+
+One is prominently featured in numerous Elway documentaries, and the other is on the ring of fame.
+
+Also, I spelled "Lelie" wrong about four times before I got him. 
+
+
+
+
+ Good point;  we're on Verizon. 
+
+
+
+
+ Will I have a pretty good view from behind my desk? 
+
+
+
+
+ Awesome.  That will be an early visit, as the wife has never had cheese curds.  In fact, I had to explain what they were last week! 
+
+
+
+
+ Standard deal; I understand. 
+
+
+
+
+ Hey folk!
+
+I am moving to Madison in about a week with my wife for a new job, and we are getting all of our Ps and Qs in order for the move (it is non-trivial; we are coming from Florida).
+
+Some of the FAQs which interest me most are a bit outdated due to the nature of the questions, so I thought I would throw out another set of questions.
+
+First, we are probably bailing on Bank of America.  They are fine, but it appears that the closest BoA in in Illinois - and while most of the stuff we would need is very do-able via the internet, it is probably best to be able to visit the bank in person just in case.  So, what kinds of banking / credit unions have impressed you?  We are looking at Chase, US Bank, and a couple credit unions.
+
+Of equal importance - ISPs.  The FAQ in the sidebar is from three years ago, so I wanted a bit of an update.  What is the landscape of ISPs in Madison?  We are in western Madison, out by the Beltline Hwy, if that matters at all.  I know I can google up answers to these things, but I want any personal accounts of how things function for you folk.
+
+Thanks a bunch!
+
+
+Edit:  One day later and I've gotten a bunch of thought-out, awesome responses.  We've started researching some of the specifics, and you fine folk are definitely making the transition easier.  Many thanks! 
+
+
+
+
+ It is still the same virus, the condition it causes is just called something else (because it has different effects). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.thematinggrounds.com/
+
+
+Seriously. 
+
+
+
+
+ I loved Tyrone!  In "Elway's Greatest Comebacks", a Steve Sabol film that we had on VHS when I was little, Braxton is featured heavily commenting on the *other* game-winning drive that started on the 2 yard line:
+
+[The Drive II] (http://youtu.be/03pqRihRbMA?t=18m20s) 
+
+
+
+
+ http://youtu.be/NRItYDKSqpQ 
+
+
+
+
+ Fuck you Seahawk!
+
+In all seriousness, it was my very favorite too.  Boomer and TJ, with that iconic music that they would get into:  Duh-duhduh-duuuuuhduhduh-duh-duhduh.  Duh-duh-duhduhduhduhduh-duhduhduhduhduhduh (duh duh duh!)  and so on . . .
+
+We had season tickets through the end of my elementary years into high school, and sometimes I was legitimately disappointed we didn't make it back home in time to see the highlights from a game we just won . . . Maybe even against division rival Seattle (I was at the game where TD got to 2000 against you! )
+
+Just a reality in a non Internet world, I guess. 
+
+
+
+
+ That was fucking awesome.
+
+Prime time.  Prime time.  Prime time. 
+
+
+
+
+ Let the man dance for his fucking record ya cunts, jeez. 
+
+
+
+
+ Yay a first down!
+
+Oh, he fumbled.  
+
+
+
+
+ I KNOW I NEED TO BE LESS LAZY. 
+
+
+
+
+ Good point.
+
+Go fuck yourself. 
+
+
+
+
+ Personal Foul, Taunting, Offense, #87.
+
+100%.  Isn't that so stupid? 
+
+
+
+
+ that was hard.  you could get some kind of flukey magic, a turnover-fest, or lose 9-3 to the chiefs at home.
+
+ 
+
+
+
+
+ I like "felipe rios"!
+
+I do "Joe Table" and "Pete Waiter" all the time, but never from english to non-english. 
+
+
+
+
+ i give extra points for the subtle call-back to the original ("run away from the D"). 
+
+
+
+
+ Remember that time when your star receiver said that the solution was to throw him more balls?  And then next week they did and he dropped them all*?
+
+Or how about the time where your running back slipped and hitting the ground caused him to fumble?   The ground.  I mean, it's right there - not moving at all.  maybe protect the rock a little when you're falling down like an asshole.
+
+*hyperbole 
+
+
+
+
+ No chance.  Manning can't win in the cold. 
+
+
+
+
+ Definitely not MLA or Chicago guidelines.
+ 
+
+
+
+
+ even bronco fans know that a fear of blucifer is healthy and justified. 
+
+
+
+
+ Poncho:  Billy!  You know something.
+
+BIlly:  I'm scared, Poncho.
+
+Poncho:  Bullshit!  You ain't afraid of no man.
+
+Billy:  There's something out there hunting us.  And it ain't no man.
+
+
+
+ 
+
+
+
+
+ this is going to be like that movie where the creature they made escapes and causes problems. 
+
+
+
+
+ Just shadows on the cave, friend.
+
+Shadows on the cave.
+
+And our horse shadows shall prevail against the bird shadows! 
+
+
+
+
+ They totally should've just cast, "He Hate Me" in that role.  I mean who gives a shit? 
+
+
+
+
+ I think filmmakers get tax credits or something for shooting there.  so, maybe those hollywood types would be a little miffed before just going to Shreveport. 
+
+
+
+
+ okay, you're right.  The steelers were the first team to ever popularize waving around a towel.
+
+Happy now? 
+
+
+
+
+ I mean, they only played 14 games back then.  I bet Goodell would kept the ratio the same (1/8th).
+
+So it's 1.75 games for killing your wife.  He could play in the 4th quarter of game 2, with fresh legs while the defense was all tired out.  Seems fair. 
+
+
+
+
+ richard sherman downvotes comments saying he isn't elite because he disagrees with them, not because they don't add anything to the discussion. 
+
+
+
+
+ hey, seattle!  our game is going to be blown out of proportion, over-analyzed, and made out to determine the best team in the league . . . in week 3.
+
+then we have to let it sink in over a bye week.
+
+yay 
+
+
+
+
+ Let's just hope it isn't like *rocky balboa*:  unnecessary and forgettable. 
+
+
+
+
+ yeah, but that was for another crime, dick! 
+
+
+
+
+ For what it is worth, Vegas has the line at Seahawks (-4.5), and it is getting a lot of action.  In fact, the Broncos (+4.5) is one of the best bets this week, offering only -105.
+
+I think that's interesting.  I would probably take the points. 
+
+
+
+
+ I mean, the Colts went 4/13 on third downs in week 1, so I wouldn't be super concerned about it.  It could just be a small sample size and a bit of a statistical anomaly.  Teams will not usually convert so many 3rd and longs, just on average.
+
+That being said, 3rd down is what makes a good defense great - and the Broncos need to focus on and improve that aspect of their game. 
+
+
+
+
+ Well, Seattle is definitely going to rush the right side of the O-line to go at Clark.  It will be noisy, and he got wrecked in the SB.  So, if he improves at all against the Seahawks, I will count it as a win.  If he doesn't, Peyton may die. 
+
+
+
+
+ At the tackles, specifically.  Up the middle it looks okay. 
+
+
+
+
+ Nah, that's an absurd position to hold.  You don't lose by 35 by "Not showing up".  You probably don't lose by 35 by being outplayed, either.  You lose by 35 by getting outplayed AND by "not showing up".  It is definitely both things together forming a perfect storm of shittiness (or awesomeness, depending on your viewpoint). 
+
+
+
+
+ If Kennan Allen / Eddie Royal have the speed to complete short, quick passes against Sherman, then so does Emmanuel Sanders.
+
+If Antonio Gates can catch three TDs from Phillip Rivers, then "Orange" Julius "Too Strong" Thomas can catch some from PFM.
+
+Oh, and we'll have DT on Maxwell again, the lone bright spot of the Superbowl for our offense.
+
+We'll be fine on offense.  If the defense can keep Seattle less than 40% on third down, I say we win. 
+
+
+
+
+ No kidding.  If one of the beers pulled their sponsorship (or Nike!), you can bet Goodell would be out on his ass before the fucking ink was dry. 
+
+
+
+
+ Currently residing in Madison.  Am aware not everyone has an outrageous northern midwest accent.
+
+But every now and then there's a real doozy. 
+
+
+
+
+ The truth Ertz. 
+
+
+
+
+ Yes!!!  Gif available?  
+
+
+
+
+ See?  I like this guy.  
+
+
+
+
+ No see, bad calls make up 14 points and also playcalling which invites a turnover in the redzone.
+
+Damn refs.  OP. 
+
+
+
+
+ I can change.  You can change.  WE ALL CAN CHANGE!!! 
+
+
+
+
+ Oh man.  That would be sweet. 
+
+
+
+
+ I mean, they still have the Patriots and Bengals from their 1st place finish, then the Steelers and Ravens from the AFC North ( and the Browns sure don't look too shabby either).  And I know the NFC East is kinda the button of a lot of jokes over here, but sometimes those cowboys and Giants teams just decide to show up, and the Indigenous Persons just hung a 40 burger.  And then there is the division which is always a crapshoot (Broncos and Seahawks went 5-1 in their respective divisions last year,  for example).
+
+They will be very fortunate to get to 11-5.  I would take the under. 
+
+
+
+
+ FINALLY!  Someone got it. 
+
+
+
+
+ Fair enough.   
+
+
+
+
+ Was going for the [Ted Nugent band] ( http://en.m.wikipedia.org/wiki/Damn_Yankees_(band)), but that works, too. 
+
+
+
+
+ You will be missed. 
+
+
+
+
+ This is a non - sore loser, here.  /R/NFL, recognize.  
+
+
+
+
+ I know.  Why cares what sex/gender the prosecutor is? 
+
+
+
+
+ I have more than one female friend that would suck him off at a moment's notice (it came up in conversation,  okay?).  One male friend,  too. (NOT ME).
+
+(Okay, me). 
+
+
+
+
+ I don't think Elway can play an instrument . . . 
+
+
+
+
+ I don't get it. 
+
+
+
+
+ I am having fun making snooty comments all around.  Way fun. 
+
+
+
+
+ Unless proceeded by, " . . . A narcotic." 
+
+
+
+
+ Gruden even called it.  He said any throw needed to be safe.  Boom interception.  
+
+
+
+
+ I think I owe Satan (or some obscure Norse or Egyptian God) for getting Elway.  I am well aware that six thousand things had to go a certain way for Elway to get traded to the Broncos (and not the Niners, Raiders,  etc), and at least one of them was that Irsay was an incompetent boob dealt a shitty situation by a spoiled brat Stanford Boy who wanted to play baseball for the Yankees. 
+
+
+
+
+ Just think about his millions of dollars and your tens of dollars.  That will help. 
+
+
+
+
+ Try out 5.0 yet?  Andrew can be our DM! 
+
+
+
+
+ Ugh. How moist is it? 
+
+
+
+
+ You really should capitalize, "King Neck Beard." 
+
+
+
+
+ Likewise,  friend.
+
+Fuck the Raiders. 
+
+
+
+
+ Let me check . . . Oh.  It seems that Eagles are 2-0.  Oh my.  Colts are 0-2, as well.  Maybe just move on. 
+
+(FYI: Broncos also 2-0) 
+
+
+
+
+ It isn't nearly as bad as folk are making out.  There was a tug on T.Y.'s jersey that sent him to the floor as an interception happened, and then another tug to Shady ' s jersey that was knee - jerk ed as a whorescollar but wasn't.  Two fairly innocuous mistakes (but still mistakes).
+
+But it wasn't any Superbowl 40 or Replacement refs Hail Mary touchdown. 
+
+
+
+
+ Weird grudge to hold.  You stole a team, too. 
+
+
+
+
+ Still better than the 3 point game in hockey. 
+
+
+
+
+ Still stings?
+
+Yeah, 43-8.  I know.
+
+Still stings. 
+
+
+
+
+ Shave head.  Solved.  
+
+Maybe you even pull 9 a Heisenberg. 
+
+
+
+
+ Hahahah.  What a dick.  Love it. 
+
+
+
+
+ I need gif of zoom in on despondent Mr. Neck Beard. 
+
+
+
+
+ Get fucked lady!   Khaki Man just bought yo groceries!!!
+
+You gotta want it. 
+
+
+
+
+ Pretty sure my neighbors think I am insane as I yell, "Sproles is too good . . . SPROLES OP . . . PLEASE NERF SPROLES!!!" As that screen unfolded. 
+
+
+
+
+ "Get a ticket,  and go watch the Eagles play."
+
+I call that for SAS. 
+
+
+
+
+ He needs to tighten has hat. 
+
+
+
+
+ Yeah, well, you know,  it's the Radisson, so it's pretty nice. 
+
+
+
+
+ yeah, that is just inexcusably bad.  We could have had 1 full minute with at least 1 timeout, just in case they score.  Very very bad decisions.  
+
+
+
+
+ I am happy with the win, for many reasons.
+
+First, it is clear to me that absent many, many mental mistakes, this game would not have been nearly as close.  There were multiple 3rd and longs which were converted, and I put some of that on the defensive playcalling.  Malik's roughing was borderline bs, but still inexcusable.  Offside OMFG.  These are mental mistakes, and not deficiencies in scheme or talent.
+
+You like to see the offense be better in the 2nd half, but so many 3 and outs, dropped balls, poor recognition of audibles has really cost us there.
+
+The O line has been very inconsistent.   Sometimes they look dominant, and sometimes they look awful.  Chris Clark in particular had a horrible game.  But  Ball and C.J. ran well today regardless.
+
+These are all fixable problems, and completely reasonable ones to have in games 1 and 2.  In the end, don't complain about 7 point victories where offense, defense, and special teams all play a significant role in the victory.   Go Broncos and Fuck The Raiders. 
+
+
+
+
+ This was indeed poor, poor game management by Fox.   
+
+
+
+
+ This is patently false.
+
+No mere WR foot has a chance against the Manning Fivehead. 
+
+
+
+
+ To be fair, he found out he had diabetes in his last year with us, and really dialed in his health that year. 
+
+
+
+
+ Should I buy a PS4?  Semi-serious question.  I could get Destiny and The Last of Us and be happy for once. 
+
+
+
+
+ I watched that movie on a lark one slow Netflix day, because sometimes things going explodey are fine.
+
+It entertained me.  The main dude is kinda stupid, the acting wasn't any good, and I really didn't understand the alien motivation.  I wont watch it again, but I am not unhappy that I saw it.
+
+Not the most ringing endorsement, perhaps, but better than an actual garbage fire like the most recent Spiderman or, I don't know, Transformers Too-High-A-Number. 
+
+
+
+
+ Just like the wrong two Beatles died.
+
+(credit to George Carlin, also incorrectly dead)
+ 
+
+
+
+
+ There's no probably about it.
+
+Did you ever hear about the Rolling Stone interview where they asked Steven Tyler what he thought the essence of Rock   Roll was?
+
+"For me, Rock   Roll has always been about 'The Three Ms':  Music, Money, and Mmmmmmmm, Pussy!" 
+
+
+
+
+ And Belcher!  There's plenty of misery to go around. 
+
+
+
+
+ That was Carolina/SF, wasn't it? 
+
+
+
+
+ MASSIVE penalties for the off-hand there, as I think pitchforks count as large weapons. 
+
+
+
+
+ I hope you are right, but I would temper that optimism.  I think it is very possible that Goodell runs the old scapegoat play - if the AP reports that so-and-so *definitely* received a copy of the tape, Goodell could pin it all on this "fall guy" for not making the video the attention of everyone.
+
+Not likely anyone would believe him, but this is a reasonable direction to expect.
+ 
+
+
+
+
+ My grandfather used to say of Chiefs vs. Raiders, "Let's hope for a 0-0 tie, and they kill each other".  Not a man to mince AFC West hatreds.
+
+I look at it another way:  when I loathe both teams, I just root for horrible things to happen to one or both of them (not injuries - I'm not a monster).  I want blocked field goals as time expires, or fumbles on the opening kickoff of overtime, or hail-mary passes from the 50 that get batted up in the air, and then dropped, only to have PI called so that a FB dive can get stuffed on an untimed down from the 1.  [Muffed punts late in the game](https://www.youtube.com/watch?v=USBAqX8QUEg), [huge blown leads](http://youtu.be/iZxSANhjCag?t=4m2s), [apparent fumbled return TDs foiled at the goal line] (https://www.youtube.com/watch?v=AjVNzbQF9jA), holding penalties on a 52-yard FG to win the game, [shanked extra points after a Stanford/Cal-like Hook-and-Ladder touchdown to "tie" the game](https://www.youtube.com/watch?v=kTGco82JKHo) - these must be your desires when two despised foes go to battle. 
+
+
+
+
+ China.  Duh.
+ 
+
+
+
+
+ Not today. 
+
+
+
+
+ And the coach deserves it.  Horrible game management.  
+
+
+
+
+ Exactly.  When a team goes for 2 twice - they did something wrong. 
+
+
+
+
+ I feel like that is a corollary to the YouTube comment rule:
+
+There is no such thing as a youtube comment that is, "too stupid". 
+
+
+
+
+ My first thought too. 
+
+
+
+
+ That is always so awkward - I've been at games where it was clear the right call was against the Broncos' best wishes, but I am just one man - I can't tell every chanting hill person to quit their hollerin'. 
+
+
+
+
+ I like when Boomer does a MNF or playoff baseball.
+
+ 
+
+
+
+
+ Solved!  I did this and Chris said that they aren't allowed to do the field-level things this year.  A bummer, but oh well. 
+
+
+
+
+ Good catch - I knew it was a casino, AKA, a place with some of the greatest surveillance on Earth, but mixed up the actual city.   
+
+
+
+
+ I feel that *Joe Dirt* is vastly under-rated by the movie-watching public. 
+
+
+
+
+ Oh, so TMZ can afford to buy the video, but the NFL can't persuade someone to just have access to it? 
+
+You know, for a time-sensitive investigation into one if its players?
+
+I call bullshit.  Most likely it went down like this (dramatized and exaggerated):
+
+NFL: A star player hit his fiancee?  In vegas?  In front of how many cameras?
+
+Video-haver:  Yes.  Many angles.  Elevator and everything.
+
+NFL:  Well, should we see that?
+
+Video-haver:  Probably, but it might cost you.
+
+NFL:  Eh, fuck that - we'll make our decision based on hearsay and conjecture.  Those are *kinds* of evidence. 
+
+
+
+
+ It's the wrong tone.  You do it again, I'll stab you in the face with a soldering iron. 
+
+
+
+
+ So, I have looked all over the official Broncos website; it seems like they have discontinued the field-level highlights with the audio from the radio broadcast, in favor of having individual highlights with Logan's call.
+
+Does anyone know if this is the direction they'll be going in the future for sure?  Are my field-level highlights all gone forever? 
+
+
+
+
+ Manning is definitely not super crisp tonight.  
+
+
+
+
+ It is not cool to just let plays like that go.  Officials you need to pull your heads out of your ass and stop relying on the replay booth to do your goddamn job.  People are going to get hurt chasing down people after a play should have been blown dead. 
+
+
+
+
+ Honestly, I clicked on this expecting much, much worse.  I was actually reasonably impressed, despite the gigantic mistakes made in these arguments.  Obviously, I despise the conceit of framing the question this way in the first place - it puts defenders of Rand on the back foot and loads the deck against them (but, these two people don't care, and even consider it funny).  Interestingly, as others here have said, the contention that Rand is "nonsense" seems to be largely based on a basic misunderstanding:  Klavin believes that Rand is equivocating "altruism" and "selflessness". Klavin believes that the concept of selflessness is essentially impossible, in that one cannot be truly without self (at least, without dying), but altruism is a good, comprising the good feelings that you have when helping people.  The problem is, Rand never equivocates these concepts - she uses "altruism" as the well-understood ethical concept which has been agreed upon, and goes to show precisely how it **requires** selflessness, which is therefore impossible.  She is not equivocating - she is showing the relationship between the two.  Klavan simply misses the connection because his definition of "altruism" almost equates to "kindness", a phenomenon which Rand wrote and analyzed often.
+
+That is why I was more pleased than I thought it would be.  This is a basic misunderstanding which could be rectified.  It isn't someone arguing from ignorance, mispronouncing Rand's name, and talking about how she condones Rape and killing of the poor.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

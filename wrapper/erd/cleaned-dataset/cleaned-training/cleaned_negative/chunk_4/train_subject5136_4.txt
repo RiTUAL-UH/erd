@@ -1,0 +1,792 @@
+ Too bad. This is over. Next year Rafa.  
+
+
+
+
+ Nice Matrix reference. 
+
+
+
+
+ I would agree with you, but he isn't the same Rafa today.  
+
+
+
+
+ Then tell that to the other thread. Get out of here. We don't care about Murray here. 
+
+
+
+
+ So McEnroe is saying Nadal is making him sick to his stomach, or the Ump is making McEnroe sick to his stomach? 
+
+
+
+
+ Why did he say that? I'm not watching the game, I'm at work. 
+
+
+
+
+ For sure. But looks like he is going to get demolished today.
+
+EDIT: WOW what a turnaround by Raffa. 
+
+
+
+
+
+
+
+
+
+ I feel violated. 
+
+
+
+
+  Abandoned in a jungle with monkey shit all over him.
+
+Best comment on this thread by far 
+
+
+
+
+ JUST DO IT 
+
+
+
+
+  Director: Deaf Bodybuilders
+
+I honestly laughed out loud at that. 
+
+
+
+
+ 'Too', not 'to'. 
+
+Grammar motherfucker. 
+
+
+
+
+ JUST DO IT 
+
+
+
+
+ You should post this on /r/interstellar maybe 
+
+
+
+
+ Nice username 
+
+
+
+
+ See you on the other side slick! 
+
+
+
+
+ I like the idea of returning a String. Good call!  
+
+
+
+
+     if (fizzbuzz == "") fizzbuzz += i;
+
+Wouldn't you want to do something like 
+
+    if (fizzbuzz.equals("")) fizzbuzz += i;
+
+instead? 
+
+
+
+
+ Djokovic and Nadal have played 43 times to date; Nadal leads 2320. **In Grand Slams, Nadal leads 93, in Grand Slams finals Nadal leads 43. In best-of-five matches, Nadal leads 103.** In finals, Djokovic leads 1210. 
+
+
+
+
+ I have a solution [here](https://gist.github.com/anonymous/3ad82de8f0627732acb5) (also didn't know I could make anonymous gists if I am not logged into github).
+
+Am I missing something, or is this probably the best most simplest way to implement the solution? 
+
+Anyone have a better solution? 
+
+
+
+
+ I'll be honest, I don't even know what COBOL is, or what exactly it's used for. I just know it's old, and only old people know it, and it's still used to some degree. 
+
+
+
+
+ New users on godaddy.com can get domains for under $2. I bought a domain for fun for $1.87 I think. 
+
+
+
+
+ I am wondering though - what if the supply of COBOL developers becomes so low, that companies invest out of using COBOL. Possible? 
+
+
+
+
+ I'm not sure. I think someone who actually knows how to code, so they can do Javascript (**and** be able to do fizzbuzz), html, css etc - I think so. 
+
+
+
+
+ Thanks Obama 
+
+
+
+
+ We will see a bubble in the webdev sector. Although legitimate developers will be OK, all these 'front end developers' who learn to code in three months - will not be in demand. There will be too many of these types of people. Salaries won't keep exploding. I think they are close to peak. CS is becoming more and more of a popular degree. The difficulty of finding a 'good developer' will diminish over time. 
+
+
+
+
+ Absolutely. What happens when all these 50 year old COBOL deveoplers retire? 
+
+
+
+
+ Ha you put into words what I was thinking. "Overzealous designer" makes a lot of sense. I can picture it quite clearly. 
+
+
+
+
+  git is some stripped down version of github.
+
+Lol does that actually happen? That's so bad it's kind of funny.
+
+Anyway I started going through Atlassian's tutorial on git, and it is quite good. 
+
+
+
+
+ Go to any sports website, and you will see a big picture with a short title showing who won the most recent matchup. Example -
+
+NHL.com - If you went there after Saturday's game, you would see a picture of a Blackhawks player, and a title that says, "Hawks storm their way to a 3rd Stanley Cup playoff"
+
+Or something like that. I shouldn't have to scroll or look for scores. It should be obvious. 
+
+
+
+
+ I hear. I guess I like using multiple devices and having remote storage. Setting that up myself sounds painful. 
+
+
+
+
+ I mean for a second it looks cool - but practically speaking, to get the information I want - it's painful. Without scrolling I should be able to see what matches completed today **and** what the results are. 
+
+
+
+
+ To be clear, I am specifically talking about the desktop. I haven't tried out mobile. 
+
+
+
+
+
+
+
+
+
+ I think people forget that Djokavic has off games. Everyone here seems to think Djokavic will be in top form - not a certainty. Remember last FO final? Djokavic did not play so well. Could easily happen again. 
+
+
+
+
+ Definitely mentally weaker - and that was one of his biggest strengths. But straight sets? Hard to imagine.  
+
+
+
+
+ If you want to keep your code private and secure, use Bitbucket.
+
+Am I missing something? Public code I would show to future employers I put on Github. But that side project I wouldn't want anyone to steal (and I might make money off of it one day) I host on bitbucket. It's *private*.  
+
+
+
+
+ I just want to see the most simplest thing, like seeing on the front of the page "Nadal beats Sock in 4 sets". Instead I have to scroll around and find the right link. I find the website layout to be horrendous. It feels like a young web developer made it with cool new features, but forgot the absolute basics. 
+
+
+
+
+  I know programming make a crap ton, but we are actually worth more than a crap ton in this current climate.
+
+I hear that. It's just kind of funny. 
+
+
+
+
+ Why is this in /r/athiesm? No really, I'm confused. 
+
+
+
+
+ I have a good friend of mine who just finished residency. I think he's 30. And he is going to do a fellowship or something like that. That $200k-$400k salary takes a while to get. But ya, once you are 40 years old your debt will probably be gone for the most part and you'll be making bank. 
+
+
+
+
+ You forgot to mention that final will probably be Federer. He will have to beat Djok, Murray, then Federer to win the Open 
+
+
+
+
+ An extra 4 years of school, then 3 years of 70 hour weeks in residency? Enormous debt? Long term its good, but not until you are 35 
+
+
+
+
+ Any thoughts on HERE maps? 
+
+
+
+
+ I have a college account with unlimited and a regular gmail account. Anyway to apply that unlimited to my regular account? I graduated and not really interested in using my college account 
+
+
+
+
+ In a conservative who voted against Biden, but your comment is ridicously offensive, ignorant, stupid, and in poor timing.
+
+Bush and Iraq? The previous administration didn't get anyone killed? His son just died for crying out loud. Say something nice, or shut up. 
+
+
+
+
+ Lol - people that park this way. No gender/race is immune to this behavior. 
+
+
+
+
+ Or maybe people should learn proper parking etiquette. This is a 'blame the victim' argument. 
+
+
+
+
+ Haha yea. And I am annoyed with the "chill the fuck out" comments. I wasn't freaking out about this. I actually have an example of an even bigger parking etiquette fail, 2x Cara behind this pickup.
+
+Oh, and the pickup is still there 
+
+
+
+
+ It's probably the same entitled selfish jerks who claim dibs in the winter. Basically, inconsiderate people who don't really care when their actions inconvenience others. 
+
+
+
+
+  Software engineers are underpaid in the bay area
+
+Lol. Really? Are you sure?  
+
+
+
+
+ No unions at all, and none in the foreseeable future. Our skill sets alone allow us to make high demands. We get paid well, great benefits, good job security. Why the hell do I need to pay union bosses to negotiate my salary? Screw that. 
+
+
+
+
+ Didn't say it's legal. It's just not enforced. Basically never. I saw someone get a ticket for parking too close to the sidewalk - but his rear end was about 1 foot from the sidewalk. 
+
+
+
+
+ That is true in many cases, but not this one. There was no car that was in the 4 foot spot in front of this pickup. Nor any of the other dozen times I see this happen 
+
+
+
+
+  It solves your problem by finding parking
+
+First off, these types of apps already exist, and aren't terribly successful. The adoption rate is quite low, and would be a waste of my time unless I really felt like sitting down and making a beautiful app - which I don't.
+
+You think anyone in my area has spare parking spots? Anyone with a garage uses it. The problem is not communication. It's supply. There is a nursing home nearby I can park at, but it's not so close. 
+
+I wasn't posting this to get irrelevant advice.  
+
+
+
+
+ That's nice but do you think I'd be complaining if I own property? 
+
+Thanks for the very obvious and irrelevant information.
+
+How will my app prevent users from parking like assholes?
+How does that solve my problem? 
+Why are you telling me to do something that you are too lazy or too stupid to do yourself? 
+
+
+
+
+ Are you brain-dead? Homeowners and business **own their parking space**. *Street parking belongs to the city*. 
+
+*You cannot rent out something that does not belong to you*. 
+
+
+
+
+ "Hack an app"
+
+Is this how people really talk nowadays? It's strange people interchange the word "code/program" with "hack". 
+
+That doesn't make sense anyway because you can't rent out something you don't own. 
+
+
+
+
+ You can be pregnant **and** have a baby in your hand... they are not mutually exclusive...
+
+Ah, unless you are making a funny. Good one sir. 
+
+
+
+
+ "Losing my mind"
+
+I didn't know making a Reddit post qualifies as losing my mind, but OK.
+
+I get pissed when people are inconsiderate and lazy, and negatively impacts other people.  
+
+
+
+
+ I am the ultimate dibs hater. **Dibs are evil.** My wife isn't entitled to anything. It's just infuriating when a spot is wasted, when it didn't have to be that way. 
+
+Don't assume. Dibs are evil.  
+
+
+
+
+ Interesting, but not around these parts. I've parked with my nose 5-6 inches beyond the pole - overnight - dozens of times. I see cars all the way up to the pole, including large ones. Parking 20 ft within a sidewalk might be the law, but it is not enforced. And in this neighborhood, no one parks farther than 5 feet away from the sidewalk. 
+
+
+
+
+ I am saying this is not the case. Trust me. And this happens ALL the time. I've seen these people park like this, without any obstacle preventing them parking like a normal person. 
+
+
+
+
+  Maybe move to a neighborhood where you fell more comfortable walking around?
+
+Yea that's the answer. Move.
+
+Thanks dude. I'm calling my realtor now
+
+/s 
+
+
+
+
+ West Rogers Park 
+
+
+
+
+ I'm not freaking out. Not slashing tires. Not fighting with people. Just asking people not to park this way. It wastes valuable street parking space.
+
+Is that a problem? 
+
+
+
+
+ Who says I'm in the car? When I'm at work my wife uses the car, baby in hand. 
+
+
+
+
+ SFH? It's a part of West Rogers Park that has 4 apartment buildings within a short block of each other. This intersection has 2 apartment buildings. I sometimes have to find parking very far away - and when my wife comes home at night, I have to go downstairs and park the car for her - so she doesn't walk so far at night by herself. 
+
+
+
+
+ Seriously I'm posting a pic on Reddit. Not keying the car or slashing tires. I'm not freaking out. It's just annoying. It would be nice if we parked more efficiently. 
+
+
+
+
+ I'm telling you, if he moved up all the way, we'd be able to park 4 cars here. Instead, we can only park three. Maybe I should submit a picture of that also. 
+
+
+
+
+ I'm 27.
+
+I didn't leave a note yet. I'd like too though. 
+
+
+
+
+ Half a car length makes the difference, especially when you are already taking up so much space because you are a pickup truck.
+
+And yes it is a no parking sign, pointing in front of the pole. 
+
+
+
+
+ Of course it's open. That's the middle of the day. Come back at night time and there is no where to park, and this ass is still here. 
+
+
+
+
+ It's the middle of the day. There is always parking then. It's night time that's the problem.  
+
+
+
+
+ For the record, my street does not have ample parking at night due to apartments. This strip has enough round to fit 4 cars, even if 1-2 of the cars are longer than normal. This is provided some asshole like this doesn't take up an extra 3 feet. my wife is pregnant and this spot is right in front of my apartment. It's really infuriating when she or I have to park really far away when there could have been a spot at our front door. 
+
+
+
+
+ EDIT 
+
+
+
+
+ EDIT 
+
+
+
+
+ Nope. I see this all the time in the same spot. People are just inconsiderate idiots. 
+
+
+
+
+ That's your comparison? A sport where the swinger misses often? Shanks are normal? You need to be able to hit the ball *every time* in tennis. There is no reason to 'guess' where the ball is going. You have a significantly longer reaction time allowed in tennis than in cricket. 
+
+If you are looking away from the ball in the last moment, after you are halfway through your *forward swing*, you will probably be ok. 
+
+You've used two completely different sports to make a comparison to tennis anyway. And check the attitude if you are going to respond. This isn't /r/politics.
+ 
+
+
+
+
+
+
+
+
+
+ When people respond to the AskReddit question underneath someone's comment, instead of as a new comment. Karma piggybacking motherfuckers. 
+
+
+
+
+  your brain already knows exactly where that ball is going to end up.
+
+No - your brain knows the *area* it will end up. If you want to hit the ball in the sweetspot, and not shank it, you need to watch the ball until it comes very close to you.
+
+Btw, that wasn't a story. 
+
+
+
+
+ And that is only the number caught *and* expelled. I had Chinese students in my Humanities class who blatantly plagiarized their paper. They got an F for the assignment, but were not expelled. 
+
+
+
+
+ If g-d created a tree yesterday, how old is that tree? 
+
+If you say one day, you would be correct. But you might also say 5 years, since it takes that long for the tree to appear that way (5 years is arbitrary, but obviously a tree cannot be 1 day old- it had to grow first).
+
+That's how I think of it.
+
+Also I'm not sure when arguing with creationists, we use carbon dating as an example. A much better proof of the age of the universe is to look at the stars. Billions of light years away. If they were 6000 years old - we wouldn't be able to see them. 
+
+
+
+
+ I'd hardly call keeping national parks open comparable to hurricane relief. The worst part of the sequester was the congestion at airports due to less air traffic controllers. That is still not comparable to disaster relief - and was avoidable even with the sequester. 
+
+And I think you are mixing up things anyway. Shutting down the government due to a disagreement of budgeting - that's not pork. That's what a budget is. "Make these spending cuts, or we won't agree on a budget". Very related. 
+
+If Republicans made a demand that is *not* related to the budget/spending, then that would be similar. Still, does not compare to relief funds or other kind of emergency funding. 
+
+
+
+
+  I don't think there is that big a difference, it's just that one is more distasteful than the other because there is human suffering involved. Other than that, it's all the same.
+
+That's a big fucking difference. One bill - "We need to pass it TODAY. PEOPLE NEED THIS BILL TODAY" vs. "We can pass this bill today, tomorrow, next week, or next month - it's not a big deal".
+
+Not to mention when you need both democrats and republicans to vote for a bill, it *has* to have something that both sides want in order for it to pass.
+
+Relief bills are non-partisan, no brainer, non-political bills that should **never** have pork in them.  
+
+
+
+
+ A 5 dimensional sphere 
+
+
+
+
+ Although pork barrel spending add ons are typical - for immediate disaster relief funding, I find it unacceptable. 
+
+There is a very big difference between adding pork barrel spending to a bill that is not an emergency, vs using this tactic when emergency relief funds are required.
+
+If Republicans tacked on tax breaks to the relief fund bill, wouldn't Democrats vote against it? Wouldn't that be downright disgusting? But that's basically what happened here.  
+
+
+
+
+ There is a BIG difference between adding garbage legislation to an emergency bill, and adding legislation on a non-critical bill that has been back and forth for a month. The latter is acceptable and typical. The former is unacceptable, and I'm glad it got voted against. Using emergency funding to push a political agenda is disgusting, and it was clearly a completely political move.  
+
+
+
+
+ This is likely because relief funds were bundled with a bunch of other unrelated legislature that had no business being part of the relief bill. 
+
+
+
+
+ Sweet. Already got a dollar on my account 
+
+
+
+
+ No one wants to openly admit that one particular demographic is responsible for the vast majority of this obnoxious behavior. This is my personal experience from riding from Howard to 35th street, 5 days a week for almost 2.5 years. 
+
+
+
+
+ Intersting. Will keep on eye on it. It's one of those stocks that will do nothing for 1-2 years, and then pop like crazy. 
+
+
+
+
+ Everyone on Reddit is a bot except you.
+
+Oh oops. wrong post. 
+
+
+
+
+ Was waiting for this comment to show up 
+
+
+
+
+ Did you really just name two private ivy-league schools? As if they are even part of this conversation. Anyone going to those schools have no problems getting jobs out of college. And post-doc work? This entire discussion has been about undergraduate studies. Not ivy league graduate students and PhDs. That's not your average student. Those are not the students that typically struggle with unemployment and high student loans. 
+
+
+
+
+ Someone making $75k straight out of college will be making $90k in a few years. And if they only had to take out $30k, their loans would all be quite low in percentage (probably no private loans needed). Of course it would be better to have less debt.
+
+However my point is that the numbers are no even close to what I'm saying. Average student debt is greater than $30k, and the average salary is closer to $40k (many students don't even get jobs). That is the problem. If we were all only at a 40% debt ratio, we wouldn't have 35% of people between 22-30 living in their parents homes.
+
+And your high school comparison is nice, but I'd take the $30k debt any day over no debt and a $9/hr job. That $9/hr job won't get you anywhere. So yea that's nice you can do it for cheaper, but it is not an end result. 
+
+ To suggest that 40% of your income going toward student loans is fine is financially irresponsible.
+
+Who said 40% of your income goes to the loan? You pay the loan over 10-25 years. Your payment will be less than 10% of your income. 
+
+I can tell you because the numbers I used is exactly my position. I have $30k in loans, $75k income, and my loans payments are about 5% of my income. Over the life of my loan I'll pay around $6,000 interest. Considering the job that I have, and the career I have ahead of me, it was more than worth it. 
+
+However to only have $30k in loans, I had to go to community college for two years, and have my parents assistance in paying some of my tuition. $30k is after all of that. The system is messed up. Period. The tuition is just too damn high. The loans are not the problem. They are a symptom of a much bigger and complicated issue. 
+
+
+
+
+  So, if I understand the habits of you people correctly
+
+Excuse me?
+
+It's interesting how the Post dissects one of the dozens of times Gruber said about masking the cost of Obamacare in order to get it passed. This article from the post would make sense - if that was the only quote we have a Gruber. And let us not forget our President himself who promised we could keep our doctors, which he knew to be a flat-out lie.
+
+If this was a little bill, it probably wouldn't matter. But this was the biggest piece of legislature in the past 2-3 decades (maybe more), so you can't just throw your hands up in the air and say, "Oh haha that's how they do it in politics!".
+
+ I'd like to see Republicans say that when defending Bush's invasion of Iraq, and see how liberals take it. "haha yea we lied about WMDs. You know, people are stupid. If we told them the truth, we would have never been able to invade Iraq! HAHAHA"
+
+Yea, I'm sure you'd think that's totally legit.
+
+And my initial comment was a joke. But it's also poking at liberals who are quoting an Republican Senator in a Liberal state who is now claiming the court cases are built on lies - that's a story here. But building the entire premise of Obamacare on lies? That's not a story. That's my point. They are connected in a way. And it's kind of worthless to be quoting a Republican is who likely just trying to appeal to her Democratic constituents in her state. 
+
+
+
+
+ I don't think you understand supply and demand. If every single person has a diploma - then the value of the diploma (from the recruiter's perspective) is exactly zero. Everyone has one. If only 30% of people have one, then finding a candidate with a diploma is more difficult. The diploma now has value. The person with the diploma now has an easier time finding a job (compared to those without diplomas).
+
+Growing up I used to always hear the stats on how someone with a diploma vs someone without, will end up making $1,000,000 more over 25 years (or something like that). Those stats are not valid anymore, as even those with diplomas cannot get jobs - or take jobs they probably could have gotten without a diploma.  
+
+
+
+
+   I'd also say the job market is partially to blame for demanding college degrees for jobs that don't need it.
+
+You have the cause and effect backwards. Since so many people have degrees (the supply is high), they can demand degrees. I mean, why would you take an employee without a degree when an employee with a degree is so damn easy to find?
+
+ I don't think the government is subsidizing it though, they actually turn a profit on student loans last time I checked. Students are getting shackled with loans many of which are at 8% interest.
+
+Two things wrong with these statements:
+
+* 8% interest is private loans that has nothing to do with government loans
+* Any profit the government makes is solely due to graduate degrees (doctors, lawyers, MBAs). If we look at undergraduate only, the government absolutely does not make a profit.
+
+A good quote from a Forbes article [here](http://www.forbes.com/sites/jeffreydorfman/2014/04/19/student-loan-profits-show-government-should-get-out-of-student-loan-business/)
+
+ Are student loans different in a sense that we should allow borrowers to place themselves under debt burdens they cannot carry? I dont think so. If some students cannot borrow money for college because they will likely be unable to repay their debts, the student is probably better off without the loan. If such a system means some students are encouraged to study a subject expected to produce earnings upon graduation rather than a subject which is not, society will not only survive but likely benefit. 
+
+
+
+
+ This was poke at Gruber - who although wasn't a Senator, has been recorded openly that Obamacare was sold on a complete lie. I said 'Senator' because I thought it was clever to almost match the title of the post. 
+
+One of the greatest overhaul's and changes to American economic/political/medical policy - with a trillion dollar + consequence - was sold on lies. That somehow, is of no consequence to liberal on /r/politics or /r/liberal, or liberals in general. 
+
+
+
+
+  You made a great point in your first sentence! But. . . I think you also refuted yourself :s
+ Yes, just like Germany, a smaller country with less resources and people yet accomplishing more than the USA. Yes. With a higher barrier for entry to get into college, yes! That way you're not subsidizing 1,000,000 sociology degrees and yes, not everyone gets to go to college.
+
+Yea sorry if I wasn't clear, but I'm saying Germany *could be a good model*. But Germany's model is **not what Bernie is proposing** - that's the problem.  
+
+
+
+
+ "Former Democrat Senator Admits Obamacare Was Built on Lies" 
+
+
+
+
+  Nearly all of what you listed are post-education issues, but here goes.
+
+Yea that's what we are talking about here when Bernie says he wants to make tuition free. So yes, post-education is what we are talking about.
+
+ Education is first and foremost designed to teach you how to think
+
+12 years of formal education can't do this? The idea that somehow we need to spend 4 years to 'learn how to think' is absolutely appalling. Not to mention the free resources available to students today can easily replace much (not all) of the material covered in college. The 4 year college experience should not be required to be considered an educated person. If that's your goal - do it in two years at the most. You simply don't need 4.
+
+ The argument that there are too many diplomas obscures the issue that for many in the job market the diploma is a necessity--this is a problem with the job market and not with the number if diplomas.
+
+The more diplomas, the less valuable each diploma is. Period. It's quite simple. 
+
+Your comments about researchers is bothersome. So you think it is OK for us to be taking money from a 19 year old, with no job, with no income, and use their debt to increase the reputation/esteem/prestige of the college? Shouldn't that money only be going to enhance their education? Wtf is that about? Young students are paying for public universities to have high tech research - which in turn does nothing to help them have a better education.
+
+Saying that the entire problem lies with the fact that taxpayers don't provide free tuition - it's not only short sighted- it's just plain stupid. 
+
+
+
+
+  Nearly all of what you listed are post-education issues, but here goes.
+
+Yea that's what we are talking about here when Bernie says he wants to make tuition free. So yes, post-education is what we are talking about.
+
+ Education is first and foremost designed to teach you how to think
+
+12 years of formal education can't do this? The idea that somehow we need to spend 4 years to 'learn how to think' is absolutely appalling. Not to mention the free resources available to students today can easily replace much (not all) of the material covered in college. The 4 year college experience should not be required to be considered an educated person. If that's your goal - do it in two years at the most. You simply don't need 4.
+
+ The argument that there are too many diplomas obscures the issue that for many in the job market the diploma is a necessity--this is a problem with the job market and not with the number if diplomas.
+
+The more diplomas, the less valuable each diploma is. Period. It's quite simple. 
+
+Your comments about researchers is bothersome. So you think it is OK for us to be taking money from a 19 year old, with no job, with no income, and use their debt to increase the reputation/esteem/prestige of the college? Shouldn't that money only be going to enhance their education? Wtf is that about? Young students are paying for public universities to have high tech research - which in turn does nothing to help them have a better education.
+
+Saying that the entire problem lies with the fact that taxpayers don't provide free tuition - it's not only short sighted- it's just plain stupid. 
+
+
+
+
+  how are the current government conservative policies not "short-sighted."
+
+Didn't say the aren't short-sighted. It is possible to criticize a liberal idea, while at the same time not agreeing with some Republicans and their policies. 
+
+I would do the following:
+
+* Freeze all tuition for public schools
+* Limit the amount of money public schools can spend on research
+* Force schools to take a larger percentage of the burden buy forcing them to use more of their endowments to make tuition cheaper for students
+* Encourage/discourage certain degrees by offering a set amount of grants/loans for certain majors. For example, provide full grants for 1,000,000 engineering majors a year, but only 50,000 to sociology majors. 
+* Offer more incentives/funding to non-4 year institutions that provide training
+
+Just some things to do. We need to completely turn around the entire 'college experience'. It's a drain on our economy, it's a drain on parents and on students. And for what? So that they 'can learn how to think'? What nonsense is that? We need to spend $100,000 to 'learn how to think'? And then 'learn how to live in your parents basement', and then 'learn how to collect unemployment'? We are doing a disservice to our children and setting them up to fail. 
+
+
+
+
+  What I'm saying is that the rate of transactions today is not good for the end users of these mechanisms, but it is grand for the middlemen who get to claim their piece every time money moves around
+
+Really? You can go read study after study on how HFT and derivative trading greatly reduces volatility in the market - because it is those traders that absorb the volatility. 
+
+ Reducing the pace of capital transactions is not at all the same thing as contracting the economy, and it may be an excellent way to grow the economy.
+
+Honestly I'm just going to stop here because you skipped ECON 101 
+
+
+
+
+ You're backtracking and sidestepping all the bullshit you wrote earlier.. but OK. The fact is, about 80% or more of the middle class *already* relies on pensions or 401Ks. Period. Bernie himself has said that he wants to contract the economy. His goal is to actually *fuck up the economy*. I seriously hope this guy doesn't get elected. 
+
+
+
+
+  The straw man is the argument
+
+Haha /u/Demonweed calling out a strawman argument. Irony. 
+
+
+
+
+ I would eliminate the word 'reality' from your vocabulary, because you clearly don't understand what it is.
+
+ "Greatly effect" is clearly a lie
+
+In 2009, the number of Americans who had a pension or 401k was around 40%. Now considering anyone below the age of 18 would never have a pension/401k, that means the majority of the **middle class** has some form of pension or 401k.
+
+  but those who do are harmed insignificantly by the change (save for the middlemen who rake in commissions by uselessly churning other people's money.)
+
+You pulled that out of your ass. What reality do you live in? The funds that are behind pensions and 401ks will get hit by the cost, and will increase their commission rates, or simply lower their return. It's not just HFT that will get hurt - we all will.
+
+Not to mention that even more liberal countries like England refuse to have such a law, as they know companies will just move to France or Germany. The net result would be less revenue - which defeats the entire purpose of the law. 
+
+And for some simple math - if you have a $1 billion fund - lets say you make $300 million in trades a month - that is $3.6 billion in trades. .5% of $3.6 billion is $18 million. That's a 1.8% overall tax on the entire fun. That tax is now taken out of the return to the customer. What you are left is with a significant decrease to the rate of return for pensions and 401k. 
+
+Bernie's proposal is not new or revolutionary. It's been discussed before [here is a short article](http://www.forbes.com/sites/timworstall/2013/05/08/the-financial-transactions-tax-will-just-kill-the-banking-economy/) 
+
+
+
+
+ /u/Demonweed you are an ignorant s###. Seriously. Why don't you go read up on the "Robin Hood" tax, and how it will tax and greatly effect anyone with a 401k or a pension- **also called the entire middle class**. You are making ridiculously stupid assumptions that are completely false, and then telling others their ideas/arguments are not in reality.
+
+tl;dr: /u/Demonweed is an ignorant s***. The "Robin Hood" tax will tax the middle class, along with the wealthy. No trickle down bullshit here.  
+
+
+
+
+ Root causes/problems: 
+
+* rising tuition costs - not actually the cost of education, but the rising dollar amount that institutions charge to students. This is the biggest problem. We wouldn't care about student debt if tuition was $2,500 a year. 
+* Increased number of diplomas given out, diminishes the value of the diplomas
+* Poor economy and job placement after college.
+* Too many students getting majors that cost too much, and have no hope of paying back the loans.
+* Not enough students going to trade schools or other fields that do not require a 4 year degree.
+* Governments continuing to allow public schools to raise tuition 
+* Institutions using students' money, and taxpayer money to make lavish campuses - but not to better the actual education.
+* Institutions using students' money, and taxpayer money to increase their reputation by hiring elite researchers (at no benefit to undergraduates)
+* The *culture* pushed by k-12 that everyone should go to college- if they don't, they are somehow a failure.
+
+The problem is the *cost*, and the *job placement* after college. I think we would all be OK with $30,000 of debt, if we all had jobs that paid $75,000 out of college.
+
+The fact that students are struggling with debt is the symptom of a lot of other issues (that I mentioned). Bernie's solution does nothing but eliminate debt - which is nice - but doesn't fix the root problems - and in fact would likely exacerbate many of them. 
+
+
+
+

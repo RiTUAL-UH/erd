@@ -1,0 +1,4954 @@
+ Yes, it has been for years:
+
+http://nypost.com/2013/12/08/fbi-can-turn-on-your-web-cam/ 
+
+
+
+
+ I'd like to see Blake2b (and Blake2s if necessary) support. It's much faster than either one (5x than SHA256 and 3x than SHA3) and has strong security. 
+
+https://blake2.net/ 
+
+
+
+
+ Wouldn't Ed25519 be even better for its constant-time protection? 
+
+
+
+
+ American Exceptionalism. 
+
+
+
+
+ Are you kidding? It used to be a lot more than $1/GB. 
+
+
+
+
+ Still doesn't say if it will keep nagging you with Windows Genuine. 
+
+
+
+
+ You're assuming a lot of stuff.
+
+Do you get the installer in Windows 10 Technical Preview now, when you have to update to a "new build"? No, you do not. So why would you assume they would somehow give you the link to the installer or whatever? 
+
+
+
+
+ I hear Vulkan is going to be even more amazing. 
+
+
+
+
+ Mantle gave like 45 percent performance improvement to Battlefield 4. 
+
+
+
+
+ Do we need to wait until DX12 cards appear, or will we just see updated drivers? 
+
+
+
+
+ Clearly "cybersecurity" is *not that important* to them then. 
+
+
+
+
+ What a bad title, implying that Apple and Microsoft were already against ending mass surveillance, and Google *just now* got around to supporting that movement, too, when in fact they were among the [first founders](https://www.reformgovernmentsurveillance.com/) of this alliance, and probably the most outspoken from it.
+
+Remember, it's Apple and Microsoft the ones that have recently agreed to share zero-day vulnerabilities that can be used for spying with the US government, while Google refused to do that. 
+
+
+
+
+ By then Earth will probably be desert-land. 
+
+
+
+
+ Guys, I think we found Pinocchio.  
+
+
+
+
+ There ought to be a law against this. 
+
+
+
+
+ Samsung doesn't design its own *CPU cores*, though. With the AMD acquisition Samsung could be designing *both the CPU and GPU* (unlike Apple who buys the GPU from Imagination). 
+
+
+
+
+ In that case Intel won't be allowed to use AMD's x64 license, either. Let's see if Intel likes that one. Not like x64 is that important these days - right?! 
+
+
+
+
+ late 2015! Hehe, I doubt it. Probably too late to catch that cycle. But maybe they can catch the next one. 
+
+
+
+
+ Ugh, I don't know who would invest in AMD at this point. Why would you invest in a company that has had poor performance for the past few years? At this point it's better not to sell anymore though. Wait until the acquisition, and maybe sell afterwards. 
+
+
+
+
+ Yup, no way the integration will happen that fast. I will take 3 more years at least. 
+
+
+
+
+ Yup, no way the integration will happen that fast. I will take 3 more years at least. 
+
+
+
+
+ This might make Samsung go back to the server market, too, now that it has AMD. 
+
+
+
+
+ Nvidia's main problem is one of strategy/vision, not one of technical expertise.
+
+Nvidia's chips keep remaining power hungry as a *choice* made by Nvidia, because they want to win the "performance" game *at all costs*, and because they keep focusing on "tablets or larger" form factors. As such, it's really no wonder that their chips are *usually* (cough Snapdragon 810 cough) more power hungry than Qualcomm's chips, which focuses primarily on *smartphones* (with their low power envelope).
+
+If Nvidia actually tried to make chips for phones with 1,500 mAh batteries, I'm sure they could release something competitive. But they *don't want* to do that. And unfortunately, I think they never will. They seem more interested in automotive and mini-consoles these days, which rely even less on power efficiency as a competitive goal. 
+
+
+
+
+ Yes, it won't. Worst case scenario, Intel forces Samsung to pay royalty a little more than AMD did. But as you said, x64 is actually much more critical now than x86 is. If something has good negotiators, they might even squeeze a *lower* royalty rate. 
+
+
+
+
+ Cash, marketing...not to mention the process node. Samsung's process node is the closest the industry has to Intel's now.
+
+Not only was GloFo's node behind Samsung's or TSMC's before, but AMD itself, due to lack of money, didn't adopt the latest node too fast, which put them at an even greater disadvantage compared to Intel.
+
+There are really very few negatives to Samsung buying it (even the Intel licensing thing - I'm sure Samsung and Intel can figure something out), and many more positives.
+
+There was an article on TomsHardware last year that may have contributed to this:
+
+http://www.tomshardware.com/news/samsung-amd-win-win-acquisition,28403.html 
+
+
+
+
+ Didn't he quit the Android team to go work for the robot division?  
+
+
+
+
+ That's...not that fast.
+
+The good news is that once more phones start using Type-C USB, we can just get more powerful 3A+ chargers to charge the phones safely and in under an hour (fully). 
+
+
+
+
+ That's a good idea, but they have to be designed in such a way that the airbag doesn't end up throwing the pedestrian into the nearest pole or building. 
+
+
+
+
+ Yes. Google it. 
+
+
+
+
+ So what's the *real* color of plants then? 
+
+
+
+
+ I thin we can survive on this planet a few hundred more years, at least. We'll get to building vertical farms, eat lab-made meat, and so on.
+
+Also, don't forget that right now most people feel *pressured* into having a child by a certain age (especially women). What if we knew for a fact that we could live 500 years, or 5,000 years? Would you still want to have a baby at 25? 
+
+Maybe eventually most of us won't even want kids (we could already see that as a *small* trend in well educated societies, where people postpone having kids). What if we figure out that we don't *need* to "extend our legacy" through kids, when we can just *be* that legacy ourselves? Why try to be "immortal" indirectly through a kid, when you can be *actually* immortal yourself? 
+
+
+
+
+ Ironically, most traffic cops probably *won't* like this. 
+
+
+
+
+ Here comes Microsoft bloatware, or "moatware". 
+
+
+
+
+ Dislike the orange icons and I prefer the original Win10 build Start Menu. I don't really like the much-metrofied brand new one. 
+
+
+
+
+ Has he said for a fact that he will be able to live forever? From what I recall he was *hoping* that people his age may be saved "just in time." - But of course, that's the *average* or most people, not everyone. Not everyone who is now 65 or whatever his age, will live to 90. Maybe those who do, will be saved. Those who will die at 70, won't be.
+
+I also know about all the pills he's taking to prolong his life, but again, I don't know if he said for a fact they will keep him alive that long, just trying to prolong his life as best as he can for now. 
+
+
+
+
+ Imi place optimismul tau.  
+
+
+
+
+ Reminds me of when Obama said we should just "look forward" and away from Bush's crimes and torture. 
+
+
+
+
+ Get ready for even more broken hi-dpi scaling. 
+
+
+
+
+ Amazon is also among the few remaining large tech companies that *don't use HTTPS on their main site*. 
+
+
+
+
+ It better be limited to that, and not use other browsing history. Otherwise Google is no better than AT T here. In fact, you could even say AT T is "better" (ugh, just puked a little in my mouth) because at least it offers the so called "option" to opt-out of that tracking (by paying $30 more per month). 
+
+
+
+
+ Sounds very anti-competitive if you ask me: "Use our apps, or else!"
+
+It's bad enough that bogus patents owned by large corporations can be used as a monopolistic tool against other companies to either make their products more expensive or ban them from the market - but now those same companies get to use that patent hammer to get other kind of deals, too? 
+
+
+
+
+ How? By replacing it with other bloatware? (MS apps) 
+
+
+
+
+ Killer drone operators - relax, the AI will take it over from here.
+
+....and that's how we get the Terminator future. 
+
+
+
+
+ More bloatware. 
+
+
+
+
+ Adica recunoaste ca sunt toti corupti si au furat? 
+
+
+
+
+ Democracy.
+
+We don't let people *kill* others just because it's easy and they can do it. In the same way, we shouldn't let spy agencies spy on anyone just because it's easy and technically possible. 
+
+That's the whole point of a law system - to stop and/or *punish* those who don't obey a set of rules that the *People* have decided upon. Spy agencies  should not be let to work *outside of the law*. 
+
+
+
+
+ Si eu am primit mesaje pe tocmai si olx pe limba engleza. Sunt scams. 
+
+
+
+
+ I HATE CAPS LOCK HEADLINES WHICH ARE ALSO SHITTY TO SHARE. IT'S LIKE THEY DON'T WANT US TO SHARE THEIR STUFF. 
+
+
+
+
+ The government has no intention of passing actual security bills. All they care about is more spying and more fat checks for their friends in the *offense* industry.
+
+The new NSA chief even said yesterday that they don't want more "security" stuff - they want more *offense* powers. 
+
+
+
+
+ Why no focus speed comparison? 
+
+
+
+
+ So why would you get it - as opposed to a pirated version of Windows 10? 
+
+
+
+
+ I get the feeling that HBO and Sony won't need to "cut a deal" with the local ISP to give them a "faster lane". 
+
+
+
+
+ Will Amazon fucking adopt HTTPS already? What major company as large as Amazon doesn't use HTTPS, even one configured in a shitty way? And Amazon is supposed to be the "king of the cloud". What kind of message does that send to its cloud customers when it can't even secure its major business' site? 
+
+
+
+
+ [Approval voting](http://www.electology.org/#!approval-voting/cc04) could change that.  
+
+
+
+
+  but that all takes place within GPU memory.
+
+But wouldn't you want to use the CPU as well for compute, and combine the two? That should be easier when both share the same memory. 
+
+
+
+
+ I think you mean a new record in Transparency. 
+
+
+
+
+ But you know...in reverse. 
+
+
+
+
+ Imagination/MIPS needs to come out with a competitor to Cortex A57 or faster something faster. So far it has only pushed low-end/mid-range CPUs. I get it that there won't be huge demand for such a chip anyway, but without that nobody will even take them seriously.
+
+Show you can beat the best of the best from the ARM world and on the latest process, and then we're talking. 
+
+
+
+
+ Is is. Read the article. This is for lower-end phones. 
+
+
+
+
+ Well hopefully they can be made to see the light by Valve at least. 
+
+
+
+
+ This comment pisses me off, because what you said *exactly* is not accurate.
+
+It's not the users' fault that the "uptake of new technology" is slow, which is what you're implying. When Apple releases a new technology in their OS, they update hundreds of millions of devices at once, and *that's how iOS users* get to all use that new technology at once.
+
+On Android that's not really possible, because there are so many OEMs, each with their own goals, and sometimes they even push back against Google when Google is trying to make a new technology mainstream (such as Google Wallet). 
+
+
+
+
+ Your question is confusing. Are you asking if Android Wear is compatible with the iPhone? If so, then yes Google is working on that (but it's not currently compatible).
+
+http://www.cultofandroid.com/72407/android-wear-code-confirms-google-has-been-working-on-iphone-support/ 
+
+
+
+
+ I think I read somewhere that TPM 2.0 is supposed to come with some major improvements (and arriving this year) - is that true, and does it solve TPM 1.x's main problems?
+
+Also from what I read, Intel's SGX is supposed to be much more secure and more advanced - with the "only" problem that Intel will have the key to all your "secured" apps, and they can have it stolen/give it to NSA with perfect plausible deniability ("Why really, we had no idea!").
+
+EDIT: I found something, but meh, it doesn't seem to support ephemeral keys either:
+
+http://www.iaik.tugraz.at/content/about_iaik/events/ETISS_INTRUST_2013/ETISS/slides/ETISS-INTRUST-2013-LiqunChen.pdf 
+
+
+
+
+ Dude, you have 500 years to start your own business. How much of a cog in the system do you really want to be? Even if you need to save for 150 years, you should still have enough money to start a small business eventually. 
+
+
+
+
+ I think everyone here knows Microsoft is just saying that because the Xbox One is too weak for VR, so they have to pretend they didn't want to go the VR route anyway. 
+
+
+
+
+ No electoral fraud in Israel? 
+
+
+
+
+ No matter how "fluid" it is, at the end of the day the *interface* sucks - and that's an order of magnitude more important for most people than being a few micro-seconds faster in animations. 
+
+
+
+
+ We all know what it means. But there's hardly any benefit, when they could just pirate it and be able to do the same things with it. 
+
+
+
+
+ And this is here because...?
+
+It's like r/Android is invaded by Microsoft related stories lately. Where are you, mods?! 
+
+
+
+
+ Maybe someone could even come up with an idea such as "Customer is respected...or is king" or something along those lines, that any company could follow to do well in business. 
+
+
+
+
+ Or they could...you know, hack the device remotely?
+
+What they meant is that that stuff is not given to 3rd party servers, so they can't steal it from there - from millions of people at once. Now they have to hack every single device. But I'm sure someone like the NSA, which can already infiltrate any hard disk drive, can do that en mass, still. 
+
+
+
+
+ Problema e ca dupa 2 saptamani, DNA va cere arestarea la domiciliu - care nu cred ca il va opri prea mult pe Mazare din a-si desfasura activitatea mafiota.
+
+Sunt oarecum impartial deocamdata la ce face DNA pentru ca cred ca e un "rau necesar" la nivelul de coruptie de o avem noi, si ca sa putem sa ii prindem pe toti pana la urma. 
+
+Dar pe termen lung, DNA de fapt abuzeaza sistemul, si ii aresteaza pe multi asa nu pentru ca ar fi ei nevinovati neaparat (sau poate sunt dar DNA nu are dovezile necesare - ceea ce iar e rau si abuziv daca aresteaza fara dovezi), ci pentru ca vor sa ii *sperie* pe multi pentru a da in vileag pe altii. Asta nu e o calitate a unui sistem de justitie *corect*. E o chestie abuziva.
+
+Dar cum am zis, pe termen scurt, cred ca e oarecum necesar asta. Dar DNA nu mai poate continua prea mult asa pentru ca o sa inceapa sa isi piarda credibilitatea daca "aresteaza" 10, iar apoi le da drumul la 9 din ei. Incep sa isi dea oamenii seama ca aia 9 de fapt au fost arestati doar ca sa il prinda pe ala 1, si sa forteze o confesiune de la ei.
+
+Oricum in cazul acesta, cred ca chiar vor sa il tina pe Mazare la inchisoare, nu doar sa obtina o confesiune impotriva lui Vanghelie sau mai stiu eu care. Dar in general cam asta tinde sa faca DNA. 
+
+
+
+
+ Asta are gandire americana "daca expunem tortura, ne va face rau imaginii in lume!"
+
+Bai idiotilor (si asta, si americanii), ce face rau imaginii e ca *fapta s-a intamplat deja* - nu ca e *expusa*.
+
+Romania are o imagine din cauza coruptiei existente, nu din cauza ca vorbim despre ea. 
+
+
+
+
+ Cops here: *Fuck yeah!* 
+
+
+
+
+ I'd rather it was written in Rust for the memory safety and multi-threading performance. 
+
+
+
+
+ Exactly. Not like there's been a secret alien invasion and they are systematically taking out our animal species. What's happening is relatively predictable. 
+
+
+
+
+ Astia se aud vorbind? 
+
+
+
+
+ That's what they must say in Russia, too. 
+
+
+
+
+ The most transparent administration in history, huh? 
+
+
+
+
+ Didn't Google already invest $500 million in them? Or was that just the initial rumor? 
+
+
+
+
+ Also it's on 14nm FinFET, which significantly reduces leakage.  
+
+
+
+
+ Only because they wanted to milk Krait for longer than they should have. 
+
+
+
+
+ Mainly because most tech media is in US and the phones get promoted and *reviewed* there first - so we just ended up picking up US's shitty measuring system, instead of having them covert to the international one. 
+
+
+
+
+ Apparently those media entities don't want actual journalists there. 
+
+
+
+
+ And probably the price. If it's more than $3000 right now, it won't go far too fast (it will probably still succeed though, unless they run out of funds or the investors get pissed off that it takes 10 years to recover their money). 
+
+
+
+
+ Maybe a Russian Spring? 
+
+
+
+
+ Lizard Putin. 
+
+
+
+
+ Also from what I read Moto E still has a shit camera, too. Moto G 2nd gen has quite a good camera. Can't complain about much else, other that I wish it had a Cortex A53 processor, too. It's crazy that the "lower-end" Moto E gets it half a year before Moto G 3rd gen will. It should've been 2nd gen Moto G the one to get it first - and don't tell me that "it wasn't available then", because I'm certain it was. HTC Desire 510 and others had it, and they launched before 2nd gen Moto G. 
+
+
+
+
+ What would a honeypot even mean in this case? 
+
+
+
+
+ I don't think it's about these documents per se. It's about the culture the government has now, that it should hide as much as possible from the public, and always try to skirt the law through loopholes.
+
+In this case they must be thinking "Sure, we don't really care about these documents, but if we let them see it, they'll just come back and ask for other more recent documents, and we don't want that to happen!" 
+
+
+
+
+ If they have nothing to hide, maybe they shouldn't be doing it - right, Schmidt? 
+
+
+
+
+ It doesn't. Only the elites. 
+
+
+
+
+ Hopefully the tank doesn't have just a USB port. 
+
+
+
+
+ And it would've been much better.  Being acquired by Facebook is almost as bad as being acquired by Oracle. I'm sure Oculus had "options" they could've explored. But because Andreessen is a Facebook investor and an Oculus one, guess who forced/pushed for a sale to Facebook? 
+
+
+
+
+ Except they originally intended to launch CV1 in like 2013. So yeah...of course DK2 or the actual CV1 would be improved by early 2016. 
+
+
+
+
+ No, that's so they can create their own closed version of Android, that they hope would be more popular than "Google's Android." 
+
+
+
+
+ Azure literally has the *worst* uptimes from all the major cloud providers. You might've noticed it yourself, too, as Microsoft's own blog posts crash on a weekly basis under not even too much traffic. 
+
+
+
+
+ By then WP will be dead and forgotten. 
+
+
+
+
+ Also what Surface RT early adopters said. 
+
+
+
+
+ I don't think there's a way to do it "end-to-end" with VPNs right now, only through HTTPS or some kind of public key infrastructure, which means they own the private key and can decrypt that data. 
+
+
+
+
+ They should be reported to FCC, especially after the new net neutrality rules pass. That's unacceptable. They're only doing that because they want to track you and inject ads into your browsing. 
+
+
+
+
+ What I want to know if it will be "zero-knowledge" or "we know everything you're visiting, including your credentials" type of VPN. Knowing Google, it's probably the latter. 
+
+
+
+
+ It's the least accurate personal assistant out of the three:
+
+ 
+
+
+
+
+ I see no reason for that to happen. Windows 10 will not make developers want to make more "Metro apps". 
+
+
+
+
+ I couldn't give two shits about it. As if I'd ever trust Microsoft to record what I'm saying:
+
+http://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data 
+
+
+
+
+ Ma incanta acest lucru. Daca relatia cu SUA inseamna "sa spioneze romanii mai usor" - atunci you can go fuck off USA!
+
+Tocmai din acest motiv am fost foarte de acord cu ideea de a ne apropia mai mult de EU si centrul EU (Germania) decat de tari ca SUA sau faux-state ale SUA (UK).
+
+ ntrebrile au fost adresate de mai muli ziariti n contextul vizitei pe care directorul FBI, James Comey, a efectuat-o pe 3 martie n Romnia.
+
+Acum am inteles. Asta e *cretinul* care zicea ca ar trebui sa fie backdoors in toate produsele tehnologice (nu, nu Cameron din UK - ala e alt cretin la fel de mare). Comey asta chiar e "commie", if you know what I mean. 
+
+
+
+
+ Si ar trebui ca *toate* tarile EU sa faca asta, pentru ca a fost declarata **invalida** de Curtea Europeana de Justitie, dar vad ca nu prea se grabesc prea multe tari sa isi scoata acele legi.
+
+https://www.eff.org/deeplinks/2014/04/data-retention-violates-human-rights-says-eus-highest-court 
+
+
+
+
+ EA/Dice already started using Mantle, and Valve is also heavily involved, so probably not too long for some. Two years at most I would say, considering it will take almost a year to have hardware come out with support for it. 
+
+
+
+
+ All benchmarks showed 8.0 to be only 5% faster, *at best*, than Windows 7.
+
+But all the Microsoft fanbois saw Windows 8 gets somewhat faster *boot time*, and thought "Oh maaan....Windows 8 is soooo much *faster*", as if the speed of the boot time had any impact on general performance.
+
+Also the faster *boot time* is faster in part because it doesn't boot the OS directly, but stops at the "lockscreen" (or whatever Microsoft calls that screen), but it still takes at least a minute after that to load everything up. 
+
+
+
+
+ If you don't think Microsoft is "repaid" in huge government contracts for pretending to not see some FBI/NSA backdoors, you're very naive. Microsoft has been doing this "team play" with the government for a long time.
+
+You get "rewarded" for "working with the government" with big contracts, and get punished if you don't. 
+
+
+
+
+ Scapegoats. They fired a couple of people to look good in the media, while the agency as a whole does much worse as a matter of policy. 
+
+
+
+
+ Figured that this would be written by the American side of TheGuardian.
+
+The Euro has NOT lost value - guy from a country with a different currency here, and the Euro value has been the same. *However* the dollar has *increased* in value.
+
+So it's not that the Euro has lost value, but that the dollar has gained value. The difference here is that the title implies the Euro hasn't been stabled and has lost value, when in fact it's the dollar which hasn't been stable. By the headline's logic, *all the other currencies* would have "dropped in value" by 35 percent, too.
+
+For Americans who are glad about this - I probably wouldn't be. You can import stuff that is cheaper now, but US companies might have to lay-off employees as they can't afford to pay them the same amount as before. Think of it as a "free" 20-30 percent increase in salary for everyone over the past 12 months. Obviously that will put a strain on most companies who don't make billions in profit every quarter or have huge margins. 
+
+
+
+
+ There's good news everyone. The CIA will stop doing that now...because Apple will *give them* those vulnerabilities from now on (cyber threat sharing), in order for Apple to get big fat government contracts (Apple Pay for federal services, and more later).
+
+Same for Microsoft, but Microsoft already started doing that many years ago. 
+
+
+
+
+ Oh ok, that's good then. 
+
+
+
+
+ Only at having more features. But by that logic TouchWiz is better than iOS (I assume you would agree with that conclusion, too, but I think many others do not). 
+
+
+
+
+ We use Docs in the "corporate" environment. It's fast and easy. 
+
+
+
+
+ Is anyone affected?
+
+*Everyone* is. Why? Because *all data* and messages are *analyzed* in real-time, so if you say something - anything - "interesting" to them (remember, *they* get to decide what is "interesting" - not *you*), and then they could put you on automatic "lists", and follow you more closely, hack you if necessary,  without you even knowing that it "affects you". 
+
+
+
+
+ That's how it feels like. 
+
+"Oh shit, they know our plans now - well then we better do everything faster now, so it's too late for the People to do anything about it." 
+
+
+
+
+ It was only like 2 years ago when we were talking about a "doomsday scenario" of even the police having the same powers and capabilities as NSA and the CIA. Except this has already been happening for longer than that. 
+
+
+
+
+ Until Microsoft tightens its grip around Cyanogen, which then will tight its grip around its own OS, too. I'm sorry, but I don't see how any company backed by Microsoft of all companies will be an "open" company. That's just nonsense PR stuff. If or when they would get 50+ percent market share (they never will, but let's just assume it for now), they would get just as closed if not more so. 
+
+
+
+
+ Will it? Isn't Silent Text data-only? (just like Signal/TextSecure now) 
+
+
+
+
+ Yup, same for Google and others. Every character is saved as you type it to "improve your experience". And there's a "privacy" policy in Windows 10 that says exactly the same thing. 
+
+
+
+
+ A "honeypot" would imply that this is the only way to get those criminals, when in fact *all the other ways are much simpler*. Tor makes it harder to find people - not impossible, but much harder, and the more people use it, the better it gets. 
+
+
+
+
+ Nici eu nu sunt un "cunoscator al sistemului electoral estonian", dar sunt altii, care se pare ca i-au gasit niste probleme (am dat linkul si in post-ul de sus)
+
+https://www.youtube.com/watch?v=JY_pHvhE4os
+
+Intr-o lume in care NSA poate [infiltra orice hard disk](http://www.wired.com/2015/02/nsa-firmware-hacking/) vor ei, e totusi greu de crezut ca vreun sistem, cat de laudat ar fi el, e foarte sigur pana la urma.
+
+Nici macar nu au aparut bine pe piata standardele FIDO si EIDAS, si noi deja vrem vot electronic? Oricum sunt sigur ca o sa propuna ceva stupid si cu asta, cum ar fi sa ceara ca sa *stocheze ei* fingerprinturile noastre in baza de date - adica exact cum face si Estonia pentru programul de e-citizenship. Orice baza de date de acest fel va fi sparta intr-o saptamana de alte natiuni. Totusi sper ca sistemele care tin fingerprintul *pe telefon* in "secure storage" (cum face Apple Touch ID sau Qualcomm's Sense ID) si nu-l lasa niciunde altundeva sa "castige" pe piata.
+
+Dar totusi eu zic sa vedem vreo 10 ani asa macar cum se comporta si sistemele de autentificare biometrica, si apoi mai vedem cu votul electronic. 
+
+
+
+
+ Tax them on local revenue, not profits. Weren't high profit taxes the reason why they avoided paying them in those countries in the first place? 
+
+
+
+
+ This is why Tesla can't have huge profits right now. It needs to invest in the supercharger network as fast as it can, with all of its profits. So those worried about "Tesla's profits" are missing the point. 
+
+
+
+
+ Android will probably stick to mobile. Google seems to have no interest in making Android a desktop OS right now (unfortunately).
+
+So Steam OS can still be the "OS of VR" for PCs. 
+
+
+
+
+ Well I don't think anyone seriously thought Putin murdered him himself, right? Obviously he would hire some low-life, and he wouldn't do that himself either, nor his closest employees. As a former KGB agent, I'm sure he would know how to do it without anyone pointing back at him (except those who he ordered directly to find him an assassin). 
+
+
+
+
+ Astia trateaza problema de parca ar fi un "business" in care au investit ei *banii lor*, iar apoi vor sa faca "profit". 
+
+
+
+
+ Why? Do you really have to ask if you've been paying attention to this subreddit over the past few months? 
+
+
+
+
+ I'm not sure what that means. TextSecure is open source. Anyone can use it in their messaging systems, and the TextSecure guys *would like that to happen*. 
+
+Moxie did consult Whatsapp in implementing it, as he would Google, Apple or Microsoft if they had decided to use it, too, but he's not going to guarantee that Whatsapp will never sellout to certain governments of the world from US to France to Iran.
+
+ 
+
+
+
+
+ Shame they don't have auto-update for apps in the free version, though. 
+
+
+
+
+ Cisco is the one which invented the "lawful intercept" backdoor protocol for routers that IETF approved as standard. I would never trust them again.
+
+Unfortunately there are still some IETF Cisco co-chairs that get to decide on stuff like this. Same for the [NSA](http://arstechnica.com/security/2014/01/nsa-employee-will-continue-to-co-chair-influential-crypto-standards-group/). 
+
+
+
+
+ The Qualcomm one should be even better, as it scans the 3D shape of the fingerprint making it much harder for hackers/spies to steal you fingerprint from photos (which did happen with Touch ID actually).
+
+Shame the Snapdragon 810 is such a bad chip, though. I'll have to wait until next year to get a phone with Sense ID, with Snapdragon 820. 
+
+
+
+
+ DLL layer? So will Oculus even work on Linux? Or it will work, just with poorer performance? 
+
+
+
+
+ I'm getting the feeling Twitter doesn't understand the concept of "anonymity".
+
+"We protect freedom of speech...in Iran! At home...eh, not so much." 
+
+
+
+
+ I doubt the glass Galaxy S6 will be any better. 
+
+
+
+
+ Ironic. 
+
+
+
+
+ Ugh...storage not memory. That's cofusing. I wonder if Samsung finally adopted its own F2FS file system. 
+
+
+
+
+ Doesn't Spain like put a tax on solar energy? 
+
+
+
+
+ All bets were off then. 
+
+
+
+
+ 1) Apple (original backer of IPS, and if we've learned anything over the past few years is that OEMs step over themselves to do what Apple did)
+
+2) the smartphone market and by extension the tablet market which have been competing on the quality of their screens. Following this it was just a matter of time before we'd see IPS in notebooks and TVs, too. 
+
+
+
+
+ In just a week? Thank god this didn't happen to Microsoft. They would've needed at least 92 days to fix it (and only if it doesn't fall on a weekend or holiday). 
+
+
+
+
+ I'm not sure about the SMS part for Signal (does Signal have SMS settings in it?). I would just disable it in settings if you're using Android. Data messages are secure between TextSecure and Signal. 
+
+
+
+
+ THE TRUTH ABOUT BUSINESSINSIDER'S FREAK FLAW 
+
+
+
+
+ Wait, are you telling me people are going to start cloning iOS now?!
+
+Thank god it never happened before. 
+
+
+
+
+ Apple seems pretty quick to accept government demands these days, whether it's China or the U.S.
+
+Disappointing.
+
+It's actually not the source code review that bothers me. I don't care if the Chinese steal it. What would bother me is if they force them to put backdoors inside. It's not clear whether this "deal" includes that or not, or whether the Chinese government would even make it public this way :"Yes, we put ~~backdoors~~ lawful intercept in Apple's products". 
+
+
+
+
+ Hell yes!
+
+And are you kidding? Hand tracking is super useful. That's how we interact with our real world, too. Imagine learning martial arts with the help of games...etc 
+
+
+
+
+ That's more than all of the Megaupload traffic (4%), which I believe included the traffic from the video-streaming properties as well.
+
+So color me skeptical. It would be a big deal if it reached that in 5 years. 
+
+
+
+
+ And while this crap happens in their own backyard, Cameron still makes it sound that the biggest problem are "paedophiles who use Tor"?!
+
+ 
+
+
+
+
+ http://drop-dropbox.com/ 
+
+
+
+
+ Multi inainte! 
+
+
+
+
+ I think she already said the emails aren't available anymore. Convenient, no? Reminds me of IRS's scandal. 
+
+
+
+
+ Unless she was also using PGP, I doubt the NSA couldn't get this email. It may not have used StartTLS either, which means they could've gotten with with passive surveillance. 
+
+
+
+
+ Call me crazy, but I think Nvidia will be making its own VR headset as well. They seem to be interested in making their own hardware lately. That would actually make them even more interested in making their GPUs as optimized as possible for VR. 
+
+
+
+
+ Oh yes. 
+
+
+
+
+ We're talking about the potential to displace Windows as people's main desktop OS here. I wouldn't just dismiss this as "probably not worth it".
+
+When you come to think about it, there are probably already more Android users than there are Windows users - just not on the desktop. Chrome OS is never going to beat Windows. Heck, I'd be surprised if it manages to even beat Mac OS X in terms of market share. Do you really see people in Africa and India (huge growth opportunity there - we're talking 2 billion people) using Chrome OS in the future? 
+
+
+
+
+ Apple can now take its Infinity Blade and shove it where the sun don't shine. 
+
+
+
+
+ People hate Windows 8 more than they hate XP, I guess. 
+
+
+
+
+ Thanks, NSA. You truly are a National "Security" Agency worthy of your name! 
+
+
+
+
+ Vulkan should change all that, but we'll have to wait for next-gen mobile GPU architectures to bring it in 2-3 years. Vulkan API will be completely cross-platform for mobile and PCs.
+
+That said, post Android 4.4 I think, there already is the Android Extension Pack for OpenGL ES 3.0, which brings many OpenGL 4+ features. 
+
+
+
+
+ Now if only Google wasn't so god damn stubborn about *optimizing* (a taskbar and multi-window is all I'm asking Google!) Android for PCs, too, and getting OEMs to make such machines.
+
+Android could start becoming a real competitor to Windows on the PC.....if only Google wants it to be. But it doesn't. It wants ChromeOS to be that...despite the fact that Android is already shipping 100x more devices on the market and many more people are used to it. 
+
+
+
+
+ Probably because Facebook is crap and they like closed gardens. 
+
+
+
+
+ Good. 
+
+
+
+
+ That's because it doesn't matter!! 
+
+
+
+
+ Ironically, it made it easier to hack NSA.gov and other government sites, which you'd think the National "Security" Agency would try to protect. But thanks to their idiotic cyber policies that favor attacks, rather than defense, much more, I'm not even surprised this happened.
+
+Everytime you see those in the government yell for more "cybersecurity", they don't actually mean *security*. They mean more offense and spying - while at the same time making systems even more vulnerable and open to attacks than before, because as Schneier says ["cyberweapons have no allegiance"](http://motherboard.vice.com/read/cyberweapons-have-no-allegiance).  
+
+
+
+
+ What's interesting is that no one questions how the FBI agent who was his wife's "friend" just started looking at the CIA chief's email *without a warrant*. To me that seems like a much bigger deal, if anyone in the FBI can just spy on anyone else in government, whether he's from CIA, Pentagon or the White House. 
+
+
+
+
+ Yes, this is a known issue, or rather a "feature" (a discoverability one, for the same reason why Whatsapp or Snapchat do it). I'm not sure why they haven't added the option to disable this or use email accounts yet. 
+
+
+
+
+ About time. 
+
+
+
+
+ Yes. Apple doesn't like GPL software though, I think mainly because it adds a piece of DRM code to every single app, and according to the GPL license all derivatives of GPL code need to also be GPL/"free" software (which DRM isn't). 
+
+
+
+
+ Losing the SD card was never going to piss me off AS LONG AS THEY PUT IN A LOT OF STORAGE AS DEFAULT - which almost nobody did, especially Google with its Nexus devices. So of course I would get pissed off in such a situation.
+
+If you make 64GB the default for a 600 USD/euro phones, then that's a whole different ballgame (even if TouchWiz itself probably occupies needs like 16GB these days). 
+
+
+
+
+ Raise? Or lower? Last I checked CurrentC had terrible privacy features and it wasn't very secure. I'm not even sure it supported chip and PIN. 
+
+
+
+
+ Intel's face recognition solution seems much less secure, for multiple reasons:
+
+* faces can data-mined orders of magnitude more than fingerprints, because we put pictures of our faces all the time on the Internet. 
+
+* there's already the danger that the webcam might be spying on you. Even if Intel's technology requires dual-cameras on the machine and whatnot, whoever hacks into your PC, will be able to use that same camera and build a profile of your face
+
+* I see nothing mentioned about them storing that data in a "secure enclave". Even if they decide to store it somewhere securely right now, it will probably be the TPM, which *isn't that secure*, especially when the laptop vendors (such as Lenovo) have the root keys to that as well
+
+* it's not even compatible with FIDO, even though Windows 10 will be. If we're going to switch to biometrics, then we damn well make sure we're doing it as a standard.  
+
+
+
+
+ Huh, de ce ar decide NATO pe cine punem noi sef la SRI? Ma indoiesc ca alte tari intreaba NATO.  So fuck off, Monica. 
+
+
+
+
+ The problem is if it gets moderately popular in the tech media, and then one day everyone sees on all major tech sites that "Ethereum security broken - 30 percent of everyone's money stolen", nobody will give it a second look again. 
+
+
+
+
+ Calling works, too (with RedPhone on Android). Integrated Android app will probably arrive in a few months, 
+
+
+
+
+ Hopefully Android M will require everyone to encrypt by default. By then all OEMs should be using ARMv8 hardware that supports encryption accelerators (10x faster encryption).
+
+iPhones have had default storage encryption for years. Nobody noticed any performance issues because they were using crypto-processors. For some reason, Google didn't support Qualcomm's crypto-processor inside the Snapdragon 805, and it used the CPU to encrypt the device (as I said ~10x slower). 
+
+
+
+
+ I would love it if Huawei created the $350 Nexus and Sony the $600 one this year. Please, Sony, PLEASE!! It would help your image GREATLY!
+
+At this point I don't think it's Google the one who doesn't want Sony for Nexus. I think it's Sony who doesn't want in the program. Either it believe it won't make any money with it or that it will actually hurt its other sales or something, but if they do think that, they are very wrong. 
+
+
+
+
+ Seriously, why do Android companies do this? Why do they release essentially the same phone, and with a new version of Android that perhaps the old one didn't get...to justify the novelty of the new one.
+
+Samsung and pretty much everyone else does this too. Why can't they just keep popular high-end devices the same way Apple does, and just shave off $100 or $150 off them every year. What's wrong with that? 
+
+Instead they release this "new" M8s which nobody knows what the hell it is or where it came from. 
+
+
+
+
+ Using Google Wallet and Android Wallet would've created more confusion for Google Wallet. 
+
+
+
+
+ Yes, that's the point. So it doesn't create mobile payment fragmentation in the Android world. It standardizes the service on the back-end, but users can still use whatever service they want, Samsung, G-Wallet, Paypal, Amazon, whatever. 
+
+
+
+
+ It's actually the "Google Wallet API" that would create more confusion. Developers would then have to use "Samsung Pay with Google Wallet API"....
+
+It's called Android Pay API, because it's for all of Android. I think it's a perfect name. 
+
+
+
+
+ That's not how it works. Well ok, it is how it works, but only when you use the CPU directly, which Google did here (and it was dumb of them to do it).
+
+But the way Apple does it, is it uses a *crypto-processor* that encrypts the data much faster. A similar kind of processor exists in *all 64-bit ARMv8 chips* - even the low-end Cortex A53 ones, such as the Snapdragon 410 inside the new Moto E.
+
+So you should be able to use encryption with no problems on a device like the Moto E, even if it's "low-end". That's why I've always considered the "why would you need a 64-bit chip with 1GB of RAM on a $100 device?!" argument stupid. 
+
+ARMv8 offers much more than just support for 4GB of RAM, but unfortunately that's how most people understood ARMv8, even here on /r/Android.
+
+Apple has had automatic storage encryption for its devices since like the days of the 3GS - you know, that device with a 600Mhz CPU device with 256MB of RAM?
+
+Encryption  is not an issue when done right. The problem is Google half-assed it, as usual. But I'm sure they'll fix it in the next-version. 
+
+
+
+
+ Fingerprint scanning is coming to most Android devices. 
+
+
+
+
+ Samsung built its chip on 14nm FinFET, Qualcomm on 20nm planar. That could explain it.
+
+I'm interested to see the thermal profile, though. I'm getting tired of seeing chips win in 5-minute benchmarks, only to see devices get hot when using them for more than 5 minutes at a time. 
+
+
+
+
+ Ora de religie confirma Half Life 3? 
+
+
+
+
+ Data 02.03.2015.
+
+2*3 = 6
+
+Iar apoi avem 2*(1+5) care e de 2 ori 6.
+
+Deci avem trei de 6, adica 666. E clar un contract cu diavolul. 
+
+
+
+
+ Does it actually do tokenization like Apple Pay? If not, I'm disappoint. 
+
+
+
+
+ Same goes for the Snapdragon 810 ones, actually. 
+
+
+
+
+ I'd rather it was behind the screen behind an "unlock button" 
+
+
+
+
+ The "good guys" principle". For such "good guys" they seem to be doing a lot of the things the "bad guys" are doing (torture, illegal spying, assassinations, improperly imprisoning and charging people, etc). 
+
+
+
+
+ Exactly why I don't understand how their solution for "cybersecurity" can be "more surveillance". These two are exact opposites. The NSA is now trying to push *terrible* cybersecurity policies, which just means they don't care about it at all. They just care about being able to spy some more. 
+
+
+
+
+ Do they [give it away for free](http://www.bloomberg.com/news/articles/2015-01-16/intel-s-4-21-billion-mobile-loss-would-have-sunk-most-rivals) to OEMs or is it actually competing on merit this time? 
+
+
+
+
+ Am fost optimist ca o sa fie un partid bun, chiar daca sustinerea votului electronic m-a dezamagit. E extrem de nesigur si poate fi abuzat - trust me on this. Sa mai asteptam 10-20 ani totusi sa vedem ce sisteme de securitate mai apar care pot proteja voturile: quantum key distribution, blockchain security, biometric authentication. Desigur astea exista deja, dar "doar ce au aparut" intr-un fel. Sa le dam timp sa se maturizeze. Niciun sistem de vot electronic din lume existent acum nu e invulnerabil la hacking. Nici chiar cel al [Estoniei](https://www.youtube.com/watch?v=JY_pHvhE4os) (desi cei de la putere nu vor sa recunoasca - evident).
+
+Dar faptul ca a zis ca Iohannis a gresit ca si-a facut principalul partener Germania, m-a facut sa displac noul partid aproape in intregime.
+
+Hai totusi sa terminam cu ideea asta ca trebuie sa fim toate tarile vasale la SUA. Suntem parte din Uniunea Europeana. Let's act like it. Apropierea de Germania e un lucru foarte bun, si chiar practic (multi romani se simt mult mai apropiati de Germania decat SUA).
+
+Si oricum, nu e ca si cum gata ne-am certat cu SUA, ceea ce s-ar intelege din ce zice Macovei. Din contra, cred ca s-a intarit acel parteneriat cu SUA in ultima vreme. SUA acum ne considera o tara foarte importanta in zona si un partener de care au nevoie in conflictul asta Rusia-Ucraina. 
+
+Daca e sa ne fi certat cu cineva e UK, si sincer o merita, si nu zic asta doar pentru cum se poarta cu romanii care vin acolo (desi asta ar putea fi un motiv in sine), dar si pentru faptul ca ei cam vor sa devina un fel de China a Europei cu cenzura, spionari ilegale si imorale, numirea jurnalistilor "teroristi", etc. E mai bine ca nu suntem parteneri la o asemenea tara. Nu as vrea sa ni se traga si noua "ideile" astea. Plus ca UK cam intotdeauana au fost carcotasul Europei si s-au opus la multe lucruri bune pentru EU.
+
+Iar faza cu 2 la suta din buget sa fie alocat Apararii chiar credeti ca a venit de la Iohannis? E clar ideea SUA, ca sa le cumparam armele lor. Am fi putut sa punem 2 la suta buget si sa cumparam avioane si arme din Suedia sau Franta, tari membre EU. Dar nu...am luat din SUA.
+
+Deci nu e chiar asa cum zice Macovei. Relatia cu SUA e foarte buna. Dar prioritatea principala va trebui intotdeauna sa ramana EU, nu SUA, si nu doar pentru Romania, dar toate tarile EU. Trebuie sa ne ocupam in primul rand de interesele EU, nu ale SUA. 
+
+
+
+
+ But why? Hydrogen creation will never be clean. At least with batteries there's a chance most of the energy can come from clean sources in 2-3 decades. 
+
+
+
+
+ I hope just SteamVR. Fuck Facebook. 
+
+
+
+
+ It's also 1.18:1 ratio per eye, which is *much* more natural to a single eye than the reverse ratio Oculus has (tall, not wide). We see things wide, not tall. 
+
+
+
+
+ Microsoft doesn't make VR products. 
+
+
+
+
+ You really think that? BART cut off everyone's cellphone service. 
+
+
+
+
+ Robot Overlords, please build our cities for us! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fiind presedinte, parerea sa e cam irelevanta. Gorghiu ar trebui sa zica ceva. 
+
+
+
+
+ That's what you get with shitty Atom processors. 
+
+
+
+
+ WTF is Office "preview"? I'd rather get OfficeSuite or Drive for the full ability to edit. 
+
+
+
+
+ Law enforcement agencies are completely and utterly unaccountable these days. 
+
+
+
+
+ I'll hold off for the 16k version. I hear that when you'd look at it the pixels would get projected directly *into your brain*. 
+
+
+
+
+ "DOJ employee  was later seen exiting the building with a few bags of cash on his back." 
+
+
+
+
+ Actually Microsoft had a very serious vulnerability in Windows servers, too, but it hasn't had half the awareness of rootpipe (names help, I guess). 
+
+
+
+
+ Prea tarziu pentru asta. O sa intram in era educatiei online si mult mai private. Sunt de acord totusi ca acum nu e bine pus la punct invatamantul online, niciunde in lume, dar e clar ca e doar o chestiune de timp pana noile generatii o sa faca scoala doar asa (2-3 decenii maxim). 
+
+
+
+
+ It's not really about making more money from developers with that fee. It's more about filtering out bad developers/apps that would simply upload random crap to the store. If they have to pay at least something, then they are less likely to do it.
+
+Whether this is actually working and whether the benefits outweigh the drawbacks remains to be debated. 
+
+
+
+
+ But what if I hate Cortana but love Windows?! THEN WHAT? 
+
+
+
+
+ Forget the NSA, criminal organizations and foreign governments/competitors could easily intercept your phone calls too for such stuff. All they need is the phone number:
+
+http://www.zdnet.com/article/invasive-phone-tracking-new-ss7-research-blows-the-lid-off-personal-security/
+
+http://www.slideshare.net/zahidtg/ss7-locate-track-manipulate
+
+https://www.youtube.com/watch?v=lQ0I5tl0YLY 
+
+
+
+
+ The good news is that you don't even have to "give up on using a phone" or anything like that. Just install RedPhone/Signal on your device and get your friends and family to use it, too. Still a barrier but not nearly as big as the former option. 
+
+
+
+
+ Surely those FBI experts will now be fired and never asked for their opinion on law enforcement issues again - right?! 
+
+
+
+
+ Displays don't have transistors so the process node is irrelevant. Display tech does get improved every year, though.
+
+That said I don't think they *should* go to 4k. The way it works is that the same *brand new* display tech could be even more efficient on 1440p, and even more efficient on 1080p, and so on. 
+
+
+
+
+ Samsung could use Nvidia's GPU tech (which they are supposedly licensing) or even AMD Radeon which apparently Mediatek is going to license. 
+
+
+
+
+ Not the Onion. 
+
+
+
+
+ This is a good easy to use PGP-email alternative: https://peerio.com/
+
+You could also do the phone thing, but only if you use something like Signal/RedPhone and talk through that. Think of regular phone calls as "plain-text" (even if they technically have encryption, but they are completely wiretappable). 
+
+
+
+
+ How do you tell them the password for it? 
+
+
+
+
+ Also, unlike iMessage, it doesn't have end-to-end encryption (you should disable syncing for iMessages, though, otherwise Apple has your messages anyway, cancelling out the end-to-end design). 
+
+
+
+
+ I know, previous Samsung phones sucked in low-light department. The S6 is better than iPhone 6 Plus (so probably the best on the market now). 
+
+
+
+
+ They should do *20 cores*, because that would obviously be *twice as good*. 
+
+
+
+
+ Nu stiu daca se mai merita PFA cu noile taxe propuse de guvernul Ponta. 
+
+
+
+
+ NO DEAL!
+
+Kill the merger and Comcast will be *forced* to compete against TWC in its markets to expand - and that's *exactly* what everyone wants. 
+
+
+
+
+ I believe they are synced by default. The problem is that unlike LastPass Google can see your passwords. 
+
+
+
+
+ There are a lot of movies about cyborgs and such, but people need to understand that humans *don't like* to "put stuff in them" like that. Whatever technology we'll use it won't be by sticking needles in ourselves or putting chips in our brains. At best we'll ingest nanobots, but even that is probably going to take a long time before most people agree to it (they will if their life is threatened, but not for entertainment purposes for a long time). 
+
+
+
+
+ Yup. 
+
+
+
+
+ Ce-i asta? Secolul 2? 
+
+
+
+
+ As if government certifications actually mean anything. Most FIPS certifications for example even *require* the use of broken crypto. 
+
+
+
+
+ I don't know about SCTP, but MinimaLT sounds pretty good to me, and it has encryption by default, but I think its implementation is further behind than Google's QUIC:
+
+http://cr.yp.to/tcpip/minimalt-20131031.pdf
+
+There's also Trevor Perrin's (TextSecure's Axolotl creator) Noise, which sounds even better/simpler, but that is probably even more behind:
+
+https://github.com/trevp/noise/wiki/Overview 
+
+
+
+
+ Basic income in 10 years? Highly unlikely. 
+
+
+
+
+ First SPDY, now QUIC. Get it? 
+
+
+
+
+ Hyperbolic much? 
+
+
+
+
+ 2015 is finally the year where Android users can choose between premium feeling Android devices with materials that include: glass, metal or leather. No more cheap plasticky-feeling flagship devices.
+
+That said, what annoys me about Sony is that it launches its devices in a weird cycle like September. This means it will end up with an obsolete chip like Snapdragon 810 or 808, when 820 could arrive in devices in November. And this has happened more than once with the Z-series. Quite frustrating. 
+
+Sony should be planning its devices according to when a next-generation chip comes out. Samsung, HTC and LG always do that. 
+
+
+
+
+ I'm waiting for the day it will be integrated into the screen itself:
+
+http://www.tomshardware.com/news/qualcomm-sense-id-touch-id,28660.html
+
+There's also research that says that for capacitive fingerprint sensors (like Touch ID/GS6), the smaller the sensor, the less accurate it will be (since it can't identify too much fingerprint data-points - which makes sense). 
+
+
+
+
+ Only half as stupid as having a 4k screen on a 12" device. 
+
+
+
+
+ Doesn't Sony use them? 
+
+
+
+
+ Biggest disappointment about Galaxy S6 - lack of USB-C. I'm surprised not more reviews make a note of this. 
+
+
+
+
+ Boycott the Microsoft shills! 
+
+
+
+
+ Awesome. LET'S DO THIS!
+
+Also, the $45 billion it intends to use to buy TWC could buy themselves quite a bit of fiber throughout US. So how about Comcast does that instead? Heck, it could even use that money to go into TWC's territories and get TWC's market share the old fashion way - through competition. I know - crazy idea, right? 
+
+
+
+
+ So material. Such stock. 
+
+
+
+
+ The [NSA-influenced](http://arstechnica.com/security/2014/01/nsa-employee-will-continue-to-co-chair-influential-crypto-standards-group/) IETF crypto-review group. 
+
+
+
+
+ I don't think BLAKE2 needs HMAC? At least according to their site. Also BLAKE2 is 3x faster for 32-bit and 5x faster for 64-bit (which the vast majority of devices will be in 5 years). So you could argue that the software-based BLAKE2 is still faster than SHA3-in-hardware. 
+
+
+
+
+ Why Ireland of all places? Surely Switzerland would've been better? 
+
+
+
+
+ These strict protections you mean?
+
+http://www.theguardian.com/world/2013/nov/19/norway-nsa-snooping-on-phone-calls 
+
+
+
+
+ Indeed. Screw Microsoft accounts. I want local ones. In fact, 2 of the [top 3 Security requests](https://windows.uservoice.com/forums/265757-windows-feature-suggestions/category/87210-security-privacy-and-accounts) for Windows 10 refer to allowing local accounts 
+
+
+
+
+ So meta. 
+
+
+
+
+ You can't jail free speech, my friend. 
+
+
+
+
+ No, but Comcast seems to want to expand. The much "safer" way to do that is for them to buy TWC. But if they can't do that, they might be forced into going into TWC's markets - which also means TWC will respond by going into Comcast's markets. 
+
+
+
+
+ Op's headline is BS anyway. Doesn't he know apps DON'T ACTUALLY RUN in the background on Android? They get paused. Entering the app again is just a "resume".
+
+If he was referring to the fact that it can HOLD 5 games in the background *in RAM*, that's different...but still I don't understand how we've had 3GB of RAM for more than a year now in flagship smartphones, but all of the sudden just having 33% percent more RAM than that (which was plenty already) is "revolutionary" somehow. 
+
+
+
+
+ So who will become Universe's super-power? Milky Way or Andromeda? 
+
+
+
+
+ His Name Is Null And Database Administrators Hate Him! 
+
+
+
+
+ What's the progress on Firefox's Elecrolysis sandboxing system? Weren't they supposed to ship it in the stable channel by now? 
+
+
+
+
+ Sony's design language + metal unibody? Yes, please! 
+
+
+
+
+ I also believe boosting the immune system is the "magic bullet" to curing most cancers (until nanobots arrive). It just makes sense. After all cancers are just mutations the immune system wasn't strong enough to kill. 
+
+
+
+
+ I assume that average counts cars on the market, which would mean older cars with poorer mileage. The 60% improvement is for the latest cars/batteries. 
+
+
+
+
+   I think proper testing and a lot of real benefits can counter this well.
+
+But that's the problem, isn't it? With companies such as Monsanto which basically sell whatever they want on the market thanks to massive lobbying (an increasing phenomenon even in EU now), we *can't* really be sure if there has be "proper testing".
+
+I'd rather not find out after 20 years of eating a GMO fruit, that the fruit causes cancer... 
+
+
+
+
+ Alternatively (to HSTS) everyone should be using EFF's [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE) extension to force HTTPS. In the latest version you can even *block all plain-text HTTP connections* by checking a button. 
+
+
+
+
+ *Believing intensifies!* 
+
+
+
+
+ So his argument is BS. He's talking about an imaginary charging method nobody uses and then comparing hydrogen to that. 
+
+
+
+
+ Right up there with Ballmer's or RIM's predictions for the iPhone. 
+
+
+
+
+ Oh please. This has nothing to do with "nuclear worries". As if it's such a big surprise China is just as big of a nuclear power as the US is. The real reason is another - possibly China's latest moves against US companies.  
+
+
+
+
+ "We are freeing you from Google's tyranny!"
+
+"We're now selling you out to Microsoft's tyranny..."
+
+I think they're sending a pretty conflicting message there! 
+
+
+
+
+ Au revoir Cyanogen. 
+
+
+
+
+ Exactly. "We're going to free you from Google's tyranny!....only to hand you over to Microsoft's tyranny."
+
+"Progress." 
+
+
+
+
+ How do I feel? I feel "YUCK". Good thing most CyanogenMOD-based ROMs don't have to come with any apps by default. I can continue to use CyanogenMOD without Cyanogen's stench of betrayal. 
+
+
+
+
+ Java was definitely losing rankings as a "top language" before. Becoming less popular and nobody using it are two different things. Of course Java would've still been used 2-3 decades from now. That's not the point though. Imagine if Android used Go instead from day one. Go would probably be almost as popular as C++ now. 
+
+
+
+
+ This "bug" was caught 2-3 years ago, too. And Facebook said it would fix it. 
+
+
+
+
+ [Blake2](https://blake2.net/) is much better than SHA3 anyway. SHA3 may only be slightly faster in hardware, but imagine how many chips out there would have to support it. We don't even have SHA2 support for the majority of chips on the market (including mobile here). So why bother? 
+
+
+
+
+ Checkout this, plenty of good options:
+
+https://www.privacytools.io/ 
+
+
+
+
+ What he's trying to say is that NSA has access to all the "regular phone calls and text messages" - a.k.a. the carriers' networks.
+
+What you need to do is use something like Signal for iOS or Redphone/Textsecure for Android. Also, if you root the phone you can install the SnoopSnitch app (Android) to protect yourself against fake cell towers they have installed to capture radio signals and intercept them. However, rooting also invites easier hacking on your phone, so it might be best you don't know that. Just use the apps I mentioned and careful what you say over the carriers' networks. 
+
+
+
+
+ Turns out they *are* out to get you...r genitals! 
+
+
+
+
+ Trolls Royce. 
+
+
+
+
+ It's also funny how so far they've been saying that they "can't" upgrade their networks any faster. And as soon as Google Fiber gets in  some place, suddenly they all upgrade by 2x, 3x, or even 6x their speeds - for free.
+
+Huh, go figure. So it was possible to upgrade the networks and give customers much better Internet after all!
+
+That said, I still believe they will be using shenanigans, and even if your connection on one of these ISPs is 200 Mbps, Netflix will probably still be throttled, or you'll get a much lower average speed most of the time. 
+
+
+
+
+ Or he's not intercepted. I think SnoopSnitch is better, though. 
+
+
+
+
+ Yahoo should buy Blekko already. It was pretty good when it was still free. 
+
+
+
+
+ Because Apple could sell ice to an eskimo if it had the Apple logo on it - and you know it.
+
+That doesn't mean the category itself has been validated. And maybe after a year the whole thing will die off after everyone sees how confusing Apple watches are. 
+
+
+
+
+ I'm sure that number is misleading and it probably refers to collecting millions of people's data. Who knows what "once" really means in this context. They turned the device on "once" for 3 months straight?! 
+
+
+
+
+ Take it easy, Hitler. 
+
+
+
+
+ I actually have no problem with you not using PGP, especially if your method is "better" than PGP (while still remaining end-to-end and having client-side encryption). I just want you to make it as clear as possible how it works.
+
+Even for ProtonMail which has gotten a lot of publicity I'm still not sure it uses proper end-to-end encryption (I think it's server-side). But I'm not completely sure either way because they don't make it too easy to figure it out (perhaps on purpose in their case). 
+
+
+
+
+ Is that going to be more efficient than storing directly in batteries and using the energy directly afterwards? 
+
+
+
+
+ I wonder what are the types of bugs/exploits most encountered in that Go version, and would a Rust client have been able to alleviate most of them? 
+
+
+
+
+ I wonder if this could be used to audit the keys in Google's End-to-End project.
+
+https://github.com/google/end-to-end/wiki/Key-Distribution 
+
+
+
+
+ Tutanota is interesting, however I think they are making it *really hard* to figure out how they are encrypting their stuff. You have to scour through 50 small-font FAQ questions on a third party site where each has to open in a new window, and after you do manage to find the relevant questions 30 minutes later you're still not 100% sure you understood how they are doing it.
+
+At the end, the best I could get is that it's *not* using PGP but some kind of custom RSA/AES based "end to end" encryption (?!).
+
+Compare that to Whiteout, where you get a pretty good idea of how it works from a single page:
+
+https://whiteout.io/technology.html
+
+Also, any reason why tutanota.de gets a green HTTPS icon, but tutanota.com doesn't? 
+
+
+
+
+ It's hard to tell for now, really. I would say it won't be until at least Android M or even N, when we can really answer this question.
+
+Stuff like ART or the Material Design didn't rise under Pichai, but Rubin. They were both 2-3 year old projects when Lollipop was announced.
+
+If anything, Pichai is *limiting* Android, but not *allowing* the developers to turn it into a "desktop OS" as well and *really* compete against Windows, just like they used Android to create Android Auto, Android Wear and Android TV - all having quite different interfaces than the phone version of Android. They could do the same with "Android PC". 
+
+Just add a taskbar, multi-window support and encourage developers to optimize their apps for the desktop and OEMs to put it on laptops/hybrid devices. Why do that through the "backdoor" with the browser-based Chrome OS, one app at a time? (Android apps don't work *automatically* on Chrome OS). 
+
+
+
+
+ Indeed. My phone is great with 5.1 on it. And I do love the overall design change that came with lollipop as well as most of the animations. 
+
+
+
+
+ Hillary Clinton didn't believe in gay marriage until recently either. 
+
+
+
+
+ It's funny because Hillary is the Romney of the Democratic party. 
+
+
+
+
+ Ron Wyden would be great. 
+
+
+
+
+ Wish US adopted the approval voting system. It would make it so much easier to actually help the *better* candidates to win than whoever the bigger parties support.
+
+http://www.electology.org/#!approval-voting/ 
+
+
+
+
+ Except for when it fires 90% of the workers. Then I guess not "all pieces" go to Microsoft. 
+
+
+
+
+ Use ChaCha20. 
+
+
+
+
+ uBlock is definitely the best out there now. However, I sometimes have issues with it, and I have to press unblock on certain pages. So they still need to work on the kinks. But that's expected considering it's not even version 1.0.
+
+I'd also like to see a much more intuitive interface for unblocking certain elements. I don't understand what all the pluses and minuses mean there. It would be better if it would be marked what's allowed with a green icon and with red what isn't.
+
+I've heard 2 of the main developers (including its creator) left the project. But I assume something as popular as uBlock already has a big enough community to support its future development.
+
+ 
+
+
+
+
+ Hey, as long as they are using HUGE LOCKS. I wouldn't want my privacy protected only by some tiny ass small locks. 
+
+
+
+
+ "We wouldn't want to rape you, so it would be better if you *agree* to us fucking you."
+
+Is what NSA is basically saying.  
+
+
+
+
+ They'll just say a FISA warrant is enough. 
+
+
+
+
+ Indeed. If you go can go Google Fiber - DO IT! That's the only way to make sure that:
+
+1) Google's Fiber business is *sustainable* (if only 1% of the cable customers subscribe to Google Fiber in all cities, Google Fiber will fail, and we'll lose the main incentive for Comcast/TWC/AT T to keep upgrading).
+
+2) Google Fiber continues to *expand* in other cities as well, so  the competition increases in those places, too, not just in some places.
+
+Besides, it's very likely Google Fiber will either have the faster speed, lower price, unlimited bandwidth, or a better "constant speed" than these guys anyway, no matter what they're promising now. 
+
+
+
+
+ I think they will.
+
+http://www.usatoday.com/story/tech/2014/02/12/google-10-gigabit-internet-speeds/5421709/ 
+
+
+
+
+ Oh, so then NSA and some other agency we can trust, such as DEA, can keep the second key right? Cool, sounds like a great idea...
+
+Who the fuck are they trying to fool? Even if the key is split in *12*, not 2, the NSA would still have all the parts for one, and second who's going to make sure the agencies don't co-operate in the first place? Our "strict oversight" intelligence committees? HA HA! 
+
+
+
+
+ More like dystopia. 
+
+
+
+
+ So annoying LG still hasn't given up the mentality of copying Samsung and following its lead at all costs. Then this is what happens - implementing an idea a year after Samsung has given up on it. LG needs to update its design philosophy just as much as Samsung had to. Those designs are boring and ugly belonging to a bygone era. 
+
+
+
+
+ And [China's Great Cannon](http://www.nytimes.com/2015/04/11/technology/china-is-said-to-use-powerful-new-weapon-to-censor-internet.html) can hurt US and other countries e-economy. What's his point?
+
+Google gave China an out. They adopt Certificate Transparency which would make it easier to audit their certificates for forging in the future, and they would put them back in. So why isn't China doing that - unless it intends to forge more certificates in the future ?! 
+
+
+
+
+  we're about to see much slower progress than we used to
+
+Moore's Law is irrelevant in the grand scheme of things. The rate of progress will continue with or without "Moore's Law" (which specifically states that the number of transistors per die area will double every 18 months).
+
+Here's an example to understand what Moore's Law is and isn't. Let's say we come up with a new type of transistor, like one based on graphene, and once we reach the physical limits for the size of tranzistors (close to an atom's size), we'll use something like graphene transistors to *increase frequency* every 18 months or whatever. Then, even though we won't have a "doubling of the number of transistors per die area" every 18 months anymore (so no more Moore's Law), we'd still have this "doubling of frequency" every 18 months (just an example). The point is we'd *still* have a good rate of progress even without Moore's Law. And that rate of progress would once again confirm the law of accelerated returns (even if we find another name of the "law of doubling frequency" - that would be just a *niche* within the law of accelerated returns). 
+
+
+
+
+ He would say that, since Yakuza is entrenched in Japan's elite class:
+
+https://news.vice.com/article/this-may-be-the-most-dangerous-and-most-costly-photo-in-japan 
+
+
+
+
+ So stuff like passwords or private keys aren't automatically included in that encrypted partition, or are those just encrypted separately by the apps (in general)?
+
+Also, what's taking so long to adopt F2FS in stock Android? Google used it like 2 years ago in Motorola devices. 
+
+
+
+
+ Keep this in mind as well when reading that pdf as well:
+
+http://theinvisiblethings.blogspot.com/2013_09_01_archive.html
+ 
+
+
+
+
+ It does remind me of this:
+
+ The IPSEC standards also mandated support for the "null"
+     encryption option (plaintext hiding in supposedly-encrypted
+     packets), for 56-bit Single DES, and for the use of a 768-bit
+     Diffie-Hellman group, all of which are insecure and each of which
+     renders the protocol subject to downgrade attacks.
+
+https://www.mail-archive.com/cryptography@metzdowd.com/msg12325.html
+
+As we've seen with the recent SSL3 attack, it's sometimes easier to break an encryption scheme if you can downgrade it to weaker algorithms. It helps if you make the whole protocol overly complex as well to the point where it's *easy to mess up*. That sounds like a very sound strategy for the NSA to use within standards groups while still preserving "plausible deniability" and being relatively subtle about it. 
+
+
+
+
+ Incearca [paint.net](http://www.getpaint.net/index.html) atunci. Sau [Pixlr](http://apps.pixlr.com/editor/) (online). 
+
+
+
+
+ Wat. 
+
+
+
+
+ I bet he's a Russian spy trained from birth, sabotaging America one Motherland wallpaper at a time. Before you know it Putin has a 93% approval rating in the US. This shall not stand! 
+
+
+
+
+ Or check you at the airport...oh wait. 
+
+
+
+
+ The fuck is happening to the Land of the Free? 
+
+
+
+
+ Well in this case it may be accurate, because you're just throwing multiple chips together and counting their performance liniarly.
+
+But if we're talking about say a single PC chip, Moore's Law as you "understand it" is absolutely NOT true anymore. The doubling of transistors per die area *is*, but not the "doubling in performance" every 18 months. 
+
+Intel's Broadwell Core i5 isn't 8x faster than Core 2 Duo or whatever its equivalent 5 years ago. It's more like 1.5-2x faster at best. 
+
+
+
+
+ We all know the NSA, the agency he's running, will actually have all the pieces - and that's exactly why he's proposing this. 
+
+
+
+
+ Microsoft puts a "lot of effort" into Android because it has no choice. As a platform, Android is bigger than Windows now (yes, you read that right).
+
+Windows phones and tablet market share on the other hand are in low single digits market share.
+
+And just like Microsoft, Google *also* builds apps and such for the desktop Windows platform - why? Because it wants to? No. Because it *has to*, since the Windows platform is still huge on the desktop.
+
+None of them are doing it out of the goodness of their own hearts. That's just PR bullshit that intends to make Microsoft look good.
+
+Apple doesn't give a f%#k because it makes 98% of its money from hardware. Both Google and Microsoft make their money from services and software. Of course Microsoft would want to build an Office app for Android. If Office is not popular on Android, then something else would become popular for soon to be 2 billion users. If it makes its app on Android, then Office still has a chance of remaining popular.
+
+Do you understand now that it has nothing to do with "being a good guy" or being selfless?! If Microsoft was a good guy they'd stop harassing OEMs with bogus patents and extorting billions a year from them. But guess what? Microsoft only cares about what makes them money. And in this case, it's Android. 
+
+
+
+
+ Interesting about DNSChain, I haven't seen that.
+
+Lavaboom seems to have experienced some issues lately, including a DDoS attack and losing a developer:
+
+https://twitter.com/LavaboomHQ
+
+Peerio as well as miniLock are open source:
+
+https://github.com/PeerioTechnologies/peerio-client
+
+https://github.com/kaepora/miniLock
+
+Audit of miniLock (although in this case an audit of Peerio itself would be preferable): https://cure53.de/pentest-report_minilock.pdf
+
+I think what isn't open source about Peerio is basically the storage service. Their monetization model seems to be like: "Allow users to encrypt end to end with native clients, but they can store those encrypted files on our servers for easy access/transmission - 1GB free, after that you pay". So in that way it's kind of like Spideroak, except you can actually "communicate" through an e-mail like interface with Peerio.
+
+Peerio without a "third-party" storage service is essentially miniLock (encrypt and send the file over whatever medium you want). 
+
+
+
+
+ OMG! China is going to have a nuke, too! 
+
+
+
+
+ Kind of a useless information without knowing how many units there were right?  
+
+
+
+
+ Privacy schmivacy! Bring in the iPhone sale billions! - Apple, probably. 
+
+
+
+
+ "Bug" - how ridiculous. They were caught with this years ago, and they said the same. How long are they going to use that excuse? 
+
+
+
+
+ Welcome to *Freedom*, motherfucker! 
+
+
+
+
+ Now the coal industry will do another survey with the question:
+
+*Do you hate jobs*?
+
+Yes/**No**
+
+"95% of our respondents said they don't want renewable energy!" 
+
+
+
+
+ Avantaj: probabil niste economii la conversie si posibil ceva crestere a turismului
+
+Dezavantaj: nu ne mai controlam moneda si nu o sa mai putem stabiliza inflatia cum vrem noi. 
+
+
+
+
+ There's another encrypted email service I keep seeing pop up, but I haven't looked too much at it: https://whiteout.io/
+
+There's LavaBoom, too, but again I don't know much about it: https://lavaboom.com/about
+
+There's also https://peerio.com/ which is more like "closed" email system, though (only works with Peerio accounts). I guess you could add it to "email alternatives". The main encryption system behind it, miniLock has already been audited, including by Matthew Green.
+
+You might want to add [DNSChain](https://github.com/okTurtles/dnschain) to the DNS list, too.
+
+You should tweet your site at https://twitter.com/sggrc . He usually loves it when he stumbles upon "security tools charts" and such. He might give it a shout out in his Security Show next week. Worth a try. 
+
+
+
+
+ Doesn't that mean Facebook's Tor traffic is only protected by TLS, then? 
+
+
+
+
+ Fake accounts for organizing protests, etc. People already build fake accounts for that, but I would imagine it's a lot easier for the government to identify you that way. 
+
+
+
+
+ They can use the Taiwanese ones. 
+
+
+
+
+ All they need is the instruction set, and there are several they can choose from: MIPS, ARM, OpenPOWER, [RISC-V](http://riscv.org/). All "open" architectures (although for the first 3 they have to pay royalties - but they could also pirate it as others have said). Then they can just build their own cores on top of that. 
+
+
+
+
+ This is Intel's "pay off" so they don't sue the government over the new export restrictions for China.
+
+But this still ends up being bad for Intel in the long term, as 1) the gov may or may not continue to use Intel for DoE supercomputers in the future, and it may just be a one-time deal, while in China it would've been a longer-term deal, and 2) China will still end up making a competitor.
+
+Also, this way the US gov screwed Nvidia, too, as it would've been Nvidia or possibly AMD the one to get this contract (as it did the last time). 
+
+
+
+
+ Cray is so cray-cray. 
+
+
+
+
+ More competition and fewer opportunities for Intel to abuse its monopoly power in PCs and server markets by transferring the profits there to its mobile chips, so it can sell them under-cost to steal market share from ARM.
+
+If the only way for you to be in a certain market and competitive, is to sell chips at 1/4 of their regular price, by subsidizing 75% of it, then you don't deserve to be in that market, let alone have any chance of "conquering" that market in this way. Because it just means that as soon as they "conquer" it and most ARM chip makers are dead, they'll go back to selling for 100% of the price again. So the consumer gets screwed. 
+
+
+
+
+ I think everyone *but* the US government can foresee that. 
+
+
+
+
+ May I get a "Hooray for competition!"? 
+
+
+
+
+ The solution is simple: if the citizen is not yours, then fuck off. 
+
+
+
+
+ Also, Alibaba is already building datacenters in the US. So now you'll have Chinese companies offering online services to Americans, and then the Chinese government gets to access the data on those American users. 
+
+What if a Chinese company builds the next Facebook? Or Instagram? Or big chat app?
+
+This is not even an argument that I'm making alone. Here's what a former NSA chief said about this just [last week](http://www.washingtonpost.com/opinions/dont-let-america-be-boxed-in-by-its-own-computers/2015/04/02/30742192-cc04-11e4-8a46-b1dc9be5a8ff_story.html):
+
+ In a perverse way, as the saying goes, what goes around comes around. Precedents we set will be followed  or exploited  by others in an economic system that becomes more globalized and hence more interdependent by the day. Already others point to U.S. activities to justify their own, often nefarious, efforts. Witness the Chinese trying to create moral and legal equivalency between legitimate U.S. intelligence and their massive theft of intellectual property, or their placement of newly minted restrictions on U.S. IT firms. One wonders what the Russias and Chinas of the world will demand if U.S.-based firms are forbidden to create encryption schemes inaccessible to themselves or the government. Beyond the realm of speculation, the Chinese company Alibaba has announced plans to open a cloud data center in the United States. **How will we feel when a Chinese court orders Alibaba to send data on Americans back to China, citing our own behavior as justification?**
+
+ These are serious, long-term questions requiring serious, strategic answers. Possible second- and third-order effects  such as **generating a stampede toward data localization or a Balkanized Internet**  need to be considered alongside a still-important calculus based on more transient, tactical advantage.
+
+A Balkanized Internet will hurt the US the *most* since it's the US that has the most to gain from the Internet right now, yet it's the US directly or indirectly pushing for that Internet to become much more limited, just like it has tried to limit the computation capabilities of its own companies in the past so other countries can't have access to them (more about this in the article as well). 
+
+
+
+
+ But seriously, how did they get it so bad the first time around? I wonder if Sony helped them as not to put their sensors to shame. 
+
+
+
+
+ Just update it with [Servo](http://www.phoronix.com/scan.php?page=news_item px=MTgzNDA) already! (supposed to come to Firefox for Android [this year](http://www.phoronix.com/scan.php?page=news_item px=Mozilla-Servo-Engine-LCA2015)).
+
+Wait - is it me or are links terribly hard to see with this new theme?!
+ 
+
+
+
+
+ You want to use Photoshop or any other desktop apps on your phone?
+
+Also, isn't it bad enough that now Intel has a *monopoly* for Windows tablets (100%) with Windows RT being dead, and also for Chromebooks (something like 90%), which allows them to charge 5x the price of a similarly powerful ARM chip for an Atom chip?
+
+You want them to do that in smartphones, too? 
+
+
+
+
+ This is no different than say Qualcomm building reference designs...which it has. Nothing out of the ordinary here. 
+
+
+
+
+ Yet the US gov seems to have shit all over the 4th amendment, and most in Congress also step all over it with the new laws without giving it a second thought.
+
+For the 2nd amendment, neither Democrats not Republicans dare to do much to restrict it - even though I believe the way most 2nd amendment defenders understand it is *wrong*. 
+
+The 2nd amendment talks about a *regulated militia's* right to bear arms - not everyone's. It's more like how they gave weapons to militia in Mexico to fight against the cartels, and registered them as militia. It's not about everyone and their grandmother having the right to own a gun. 
+
+
+
+
+ Wake me up when they have proper end-to-end encryption *by default*. Until then it's no different than many other chat apps out there. 
+
+
+
+
+ Will it be open source then? 
+
+
+
+
+  CSM: Toi cetenii, indiferent de funcia ocupat, sunt **imuni** n faa legii
+
+ "Consiliul subliniaz c toi cetenii, indiferent de funcia ocupat, sunt **egali** n faa legii i susine c principiul separaiei puterilor n stat trebuie respectat, n primul rnd, de reprezentanii celor trei puteri, legislativ, executiv i judectoreasc", arta CSM.
+
+Uh..nu e acelasi lucru. 
+
+
+
+
+ You joke, but I'm pretty sure that could end up hurting you at the border - at the very least in the sense that they'll keep you there for 10 hours to "justify stuff" and miss your flights. Certainly not a minor inconvenience.
+
+Just use "clean" PCs and phones when passing the border. Download your stuff later when you cross the border. It goes without saying that you shouldn't be logged into your browser (where you might also have tons of other login credentials saved).
+
+And by clean PC I don't necessarily mean a *formatted* PC or phone. Remember that stuff can be easily recovered (if they want to go through that trouble), unless you've always used encryption on your hard drives. 
+
+
+
+
+ Microsoft charges twice as much for theirs. 
+
+
+
+
+ Best [dick pic](https://cantheyseemydick.com/)? 
+
+
+
+
+ Here's what I find ridiculous about prosecutor charges/plea bargains.
+
+Let's imagine the prosecutor charges Aaron Swartz with 35 years in prison. But then the prosecutor wants a plea bargain that would put Aaron in prison for *only 2 years*. But let's not imagine, because that *actually happened*.
+
+So which is it? Is he a terrible danger to society that deserves 35 years in prison - or is it a relatively minor offense that should only get 2 years?
+
+In reality, it's neither. Because for all intents and purposes Aaron Swartz was "innocent", innocent in the *spirit of the law* sense, not in the "everybody commits 3 felonies a day" *letter of the law* sense.
+
+But prosecutors can abuse this plea bargain power and get even innocent people to accept prison time that only seems *small* in comparison to the initial exaggerated charge. In reality, for someone innocent, even that is too small - but they have may no choice, and would rather take "only 1/15th" of the initial prison time.
+
+Back to the point, I think the jury would start *cutting through the bullshit*, and if he's indeed dangerous and a real criminal, then he will get maybe not 35 years that the prosecutor initially asks, but 20 years. On the other hand, if he's dangerous, but the prosecutor once a "sure-fire" 2 years in prison "win", then again the jury will stop that from happening.
+
+If the whole thing is bullshit, and the guy is innocent, then the jury may save him. I think that would be a lot closer to "real justice" (regardless of whether the guy is innocent or guilty) than leaving everything to the prosecutor. 
+
+
+
+
+ Theme engine. 
+ 
+
+
+
+
+ Astept reactia lui Base. 
+
+
+
+
+ /u/brutalistu? More like /u/rasistu - amirite?! 
+
+
+
+
+ Is that the one where they start calling everyone who got it for free pirates? 
+
+
+
+
+ More! 
+
+
+
+
+ The speed limit thing was also introduced by Ford a while ago. 
+
+
+
+
+ The fact that when the Patriot Act was announced - just after 9/11 mind you - they said it's going to be used "against terrorism...and *drug crimes*" should've been a HUGE FUCKING RED FLAG!
+
+So you're telling me that you're in a hurry to pass a "new" law that wants to prevent the kind of terrorist attacks that have just happened....and you took the time to introduce *drug crimes* in there, too?! What the fuck?
+
+The aspect alone should've made everyone think that the Patriot Act  was just another way for the government to expand its powers and remove more rights from citizens.
+
+Lo and behold, more than a decade later, the Patriot Act and "National Security" Letters are used in something like 97 percent of the cases for *drug crimes*, not for actual "national security" issues (and that's ignoring the fact that in many instances the feds just claim "national security" for no good reason). 
+
+
+
+
+ Now do it for the new "Celerons" and "Pentiums" (which are actually Atoms now, and not based on Haswell or Broadwell anymore - yet they cost just as much). 
+
+
+
+
+ Why the hell doesn't Android still not have a theme engine? CyanogenMod has had it for years now. It didn't ever cross their minds that it would be a good idea? 
+
+
+
+
+ Not sure how Tutanota encrypts stuff (the AES-only for "external email" sounds a little weird), but I would recommend [Peerio](https://peerio.com/) (still quite new, but the main encryption mechanism behind it, miniLock has passed an audit) instead if you want something that's easy to use. TextSecure/Signal is good. 
+
+
+
+
+ Ofticat rau ca s-au luat de Elena lui. Pan'aici!
+ 
+
+
+
+
+ Sadly, it's been happening far too often lately. Basically FOIA has been neutered to the point of being useless for important stuff that the people *should* actually know about. Either they reject FOIAs now because "it's secret", or if they do release the docs, 95% of the text is redacted - again making the release useless.
+
+FOIA needs to be completely overhauled and made much stronger if we want to stop pretending that we have "government transparency". 
+
+
+
+
+ Before passing the law: "We promise to only use this power to catch terrorists and child pornographers!"
+
+After the law is passed: "Sooo...what else can we use this power for?!"
+
+It always happens with surveillance and censorship. ALWAYS! 
+
+
+
+
+ LENR "fusion" might do the trick - if it ever becomes real. 
+
+
+
+
+ Going by the same chip in a Nexus Player which *can't* play 1080p that smoothly, probably not. 
+
+
+
+
+ Benchmarks are misleading. They give scores to "cores" almost linearly. So an Atom core might get 500 points while the Core 2 Duo gets 1,000, but the Atom chip has 4 cores, while the Core 2 Duo one had 2.  Yet in the benchmark both will appear "equal", even though that's far from the truth, because a Core 2 Duo core is *twice as fast* as an Atom core. 
+
+
+
+
+ Except, not really. 
+
+
+
+
+ It actually sounds quite overpriced. You can get a whole Chromebook with the same specs for $150. 
+
+
+
+
+ The sooner Firefox and Tor are rewritten in Rust and use Electrolysis sandboxing, the better. If it weren't for these projects already planned, I'd probably recommend Tor to switch to Chromium. But I think with Rust (and assuming Electrolysis is more or less just as good as Chrome's sandbox) Firefox has the potential to be even more secure than Chrome in the next 2 or so years. 
+
+
+
+
+ The NSA actually does seem to look at your dick pics:
+
+http://www.thedailybeast.com/articles/2015/04/04/the-shrinks-who-only-see-cia-officers.html
+
+ 
+
+
+
+
+ 8% per year means either the price of say a 200-mile battery will be cut in *half* within 8-10 years, or you'll be able to get a 400-mile battery for the same price you get a 200-mile one today.
+
+So what we're seeing is basically a sort of Moore's Law for batteries, but instead of the performance "doubling every 2 years", it doubles every 10 years. 
+
+Still not bad at all, and a rate of improvement far greater than what we've seen in gas-powered cars. If this rate of progress lasts for 2-3 decades, we could see batteries at a given mileage be 10x cheaper than they are today, or last 10x more at the same price point. 
+
+
+
+
+ UK has been wanting to turn into China for a while now (basically since Cameron came to power). 
+
+
+
+
+ Building medical robots instead of military ones is an idea I can actually support. And it's probably going to be almost as profitable for Google. 
+
+
+
+
+ Care to elaborate? 
+
+
+
+
+ They didn't even count RedPhone? And since when does the Facebook app have *real-time* VOIP? I thought it only had audio recording? 
+
+
+
+
+ I find Swiftkey significantly worse these days, and I think I can track the beginning of when it became so bad to when it announced some big "performance improvements", I believe at the end of last year. They probably sacrificed some accuracy for performance then. 
+
+
+
+
+ Does it also steal your credentials like "Outlook for mobile"? 
+
+
+
+
+ More secure, too, especially when combined with grsec. However, if they would do this from scratch, it might be better to actually innovate, and create some secure kernel design by default instead of continuing to use patched-up kernels from 20 years ago. 
+
+
+
+
+ I call bullshit on this. 
+
+
+
+
+ Also, I thought Title 2 would kill investments...?! If anything it seems to have *spurred* investments. Well, either that or Comcast just wants to play the good guy now until its TWC acquisition is approved. Then all bets are off. 
+
+
+
+
+ Costs too much. Should've been $50, and it probably would've been if it wasn't for the overpriced Atom chip. 
+
+
+
+
+ Yes, I think even the 4k streaming on Netflix uses like 15Mbps max. However, I bet even this Comcast connection will somehow end up stuttering it. 
+
+
+
+
+ Gresit. Ar fi "pus in pericol viata politistului" si l-ar fi impuscat direct in cap probabil - de 2 ori sa fie sigur (si ca sa nu il dea in judecata daca scapa - I'm not even joking, this actually happens).
+
+In SUA politistii cred ca le "pui viata in pericol" si daca vii cu mainile in buzunar de la 20m spre ei. Au impuscat si copii in parcuri pe ideea asta. 
+
+
+
+
+ At only 6x Google's price.
+
+I don't get tech sites that are so eager to write positive announcements from Comcast and AT T. It's like they aren't Americans and don't know how shitty and untrustworthy these companies are.  
+
+
+
+
+ No, but I'm sure they launched this on April Fools to make everyone think it might be a joke, just like they did with Gmail.
+
+However, they already announced ARC last year, technically. 
+
+
+
+
+ Eh. Super misleading headline. Now that Microsoft calls everything "Windows" on all platforms, the you can't just say "Windows devices" unless you also consider PCs. Combined with that, the growth was likely negligible.  
+
+
+
+
+ Wow, this is *huge*. Good job, Google! Hopefully Mozilla, Apple and Microsoft will follow. 
+
+
+
+
+ It won't matter how many rules there are, if FCC isn't ultimately going to enforce them (and not just by making the carriers pay a $2 million fine every 5 years!). 
+
+
+
+
+ Heck, I bet it even has better app support than Windows for phones. 
+
+
+
+
+ And it's going to improve even more this year once it moves to the Servo rendering engine:
+
+http://www.phoronix.com/scan.php?page=news_item px=MTgzNDA
+
+http://www.phoronix.com/scan.php?page=news_item px=Mozilla-Servo-Engine-LCA2015 
+
+
+
+
+ You're forgetting the keyboard isn't actually included. That will probably be another $130.  $630 is pretty pricey for a low-end notebook with mobile processor, with 64GB of storage and 2GB of RAM, no? 
+
+
+
+
+ Expensive for an Atom machine. 
+
+
+
+
+ Definitely for phones I know won't be receiving too many updates. 
+
+
+
+
+ I see how it goes. So when Pentagon officials or other elites use strong encryption, then that's fine. But when the plebs use it, then they must be pedophiles. Because we all know the elites couldn't possibly also be [pedophiles](https://news.vice.com/article/uk-police-investigating-five-alleged-pedophile-rings-involving-highly-influential-politicians). 
+
+As for Silent Circle - have they updated their warrant canary yet? Last I checked they made it sound as if they already received some kind of *secret* warrants to give user data. 
+
+
+
+
+ I lost track of how many 180's Obama did on his promises. 
+
+
+
+
+ Literally the most transparent administration in history. 
+
+
+
+
+ Ar trebui sa li se asigure si jacuzzi de la stat ca sa se relaxeze de la stresul provocat de DNA cand ii acuza. 
+
+Doar nu suntem animale. 
+
+
+
+
+ They're changing the model this year, and I think the new one is much nicer. I would wait. 
+
+
+
+
+ Have you even tried to introduce them to Drive?
+
+The problem with this is they will still run *Windows* and for tech illiterate people Chrome OS will still be far better.
+
+Chrome OS is a much bigger advantage in simplicity than the disadvantage of not having Office and having to use Drive.
+
+And doesn't Microsoft have online Office now? That should work on Chrome OS, no? Unless they're still requiring plugins for it like in the stone-age. 
+
+
+
+
+ It's probably not that useful for most other stuff, but for the stuff it is, it could still be game-changing. 
+
+
+
+
+ Make sure you have at least half of your battery charged. 
+
+
+
+
+ So Facebook's *future* is...Second Life?
+
+I feel like we've "been there, done that", and it wasn't that great, except for a small number of people.
+
+There are so many great things VR and therefore Oculus could do. Building another Second Life is not one of them, and it's actually *exactly* what I was afraid of when Facebook bought Oculus - that it would take it down this bad path. 
+
+
+
+
+ And it's not encrypted end-to-end like Signal either. 
+
+
+
+
+ If it doesn't "work" as it's intended, then it's not encryption.
+
+Would your bank want to us only broken encryption? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ But the government seems to make such a big deal about stopping child porn?! I'm confused. 
+
+
+
+
+ The consequences have already started. Crazy snow, random storms or super-storms, irregular rain periods, droughts, wildfires etc. All those have an impact if not on your living conditions (Californians may disagree), at the very least on agriculture (therefore on your food). 
+
+
+
+
+ Which is FINE, but everyone, including Microsoft, keeps pretending that this *future* will happen by the end of the year...when it's more likely to happen in the 2020's.
+
+AR has always been about a decade behind VR in capabilities (like if you wanted the same graphics quality or field of view as a VR headset) - maybe more if it actually needs its own tiny hardware to do that. 
+
+
+
+
+ I doubt we'll see a mass-market AR product in the next 10 years. HoloLens has a way too small field of view to be practical, and it will probably cost quite a bit, too (considering it needs its own specialized processors, etc, while VR headsets feed off another computer's resources). 
+
+
+
+
+ Maybe the DD-WRT site got some malware? I'm sure it will be fixed in a few days. 
+
+
+
+
+ Still no word on end to end encryption. 
+
+
+
+
+ Should've used Signal's protocol (which is also end-to-end encrypted, something Facetime Audio does as well). 
+
+
+
+
+ Or the NSA blackmails. 
+
+
+
+
+ Not really. Still no end to end encryption by default. 
+
+
+
+
+ If only Telegram had good end-to-end encryption by default. Otherwise I can't find the allure. It's another Whatsapp clone. 
+
+
+
+
+ Didn't work for me. My battery was at 49% and it recommended 50%+. I wonder if it has a hard failsafe for that. 
+
+
+
+
+ Cand? Chiar limitasera la 30Mbps *toate* conexiunile la scurt timp dupa ce au bagat Gigabit si dupa ce au "dublat" (asa zic ei, eu nu am observat) vitezele de dowload (50 la 100, 100 la 200, etc). 
+
+
+
+
+ Let me guess, Microsoft is depriving the majority of users once again of Bitlocker encryption by not enabling it in Windows Home or Mobile.  
+
+
+
+
+ ~~One~~ Seven Windows. 
+
+
+
+
+ Sony's sensors are good. Look at what Apple or Samsung can do with them (some Galaxy S6 models have Sony sensors yet there are very small differences between them and Samsung's own sensors).
+
+Sony's problem is camera firmware on mobile. It's often not quite as good, especially on lower-end devices. 
+
+
+
+
+ Windows 10 will be the last version of Windows...until Windows 10.1 or Windows 10.0.0.1 (so we can pretend it's the same one). 
+
+
+
+
+ Indeed FPTP is the least democratic voting system out there. 
+
+
+
+
+ But hey let's all be excited about AT T's [fiber to the press release](https://www.techdirt.com/articles/20140307/04485626475/weve-entered-age-fiber-to-press-release.shtml) announcements! 
+
+
+
+
+ The problem is you're describing ideal stuff - stuff that will likely never happen, like "humans committing no crime". Okay - define what's "crime"? Being gay? Having sex with a robot? Masturbating to "teen" cartoons? Carrying [too much cash](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/05/11/how-the-dea-took-a-young-mans-life-savings-without-ever-charging-him-of-a-crime/) with you on a trip?
+
+Crimes are defined by the society, and often by abusive law enforcement agents who re-interpret the law to their liking. Crimes not something that are completely objective. Therefore you can't put that in algorithms.
+
+As for a "completely secure machine that you can trust" - yeah, that's not going to happen either. Right now the whole cryptographic community agrees you [can't build perfectly secure systems](https://www.youtube.com/watch?v=zk78_zmH4QI), in most cases not just because of the poor design of the crypto-systems (which also happens [quite a bit](http://www.computing.co.uk/ctg/news/2407891/dumb-crypto-in-smart-grids-smart-meter-encryption-standard-fundamentally-flawed-claim-researchers)) but because of the code written for them. Maybe we can revisit this topic in 50 or 100 years when we all talk through quantum networks, but my guess is not much will change by then either in terms of breaking systems. 
+
+
+
+
+ In other words they are preparing for the mass surveillance showdown. Privacy is a human right and the ECHR is likely to rule against the legality of mass surveillance in the UK. The UK Courts have already largely sided with the spying apparatus.
+
+Also the Tories are preparing to reintroduce the Snooper's Charter. Theresa May has already announced it. 
+
+
+
+
+ It seems like they are stepping over themselves to find new ways to give the NSA their customers' data more easily. 
+
+
+
+
+ Seriously, what if someone *brings child porn into the country*? Can you imagine that? 
+
+
+
+
+ I would rather get something like anti-gravity boots (like the ones in Jupiter Ascending) 
+
+
+
+
+ Their prices are only raised to cockbag levels. 
+
+
+
+
+ In that case you should never - *ever* - have Netflix throttle on you. Is that the case? 
+
+
+
+
+ Nor UK. You can be put in jail for not revealing your passwords if they ask you to. 
+
+
+
+
+ Yes, it's exactly like that. Google backs up your conversations by default. If you haven't enabled "off the record" chat, you should be able to see that for yourself. All your conversations can go back well into the past. Google has access to all of those.
+
+But now you might think "oh - so I just enable Off the Record chat and myself and Google can't see the past messages anymore!"
+
+Wrong! You won't be able to see them, but Google still saves them....(Why the hell Google would do that? The hell do I know - but they do). 
+
+
+
+
+ It works with all OTR/XMPP chat apps. 
+
+
+
+
+ Maybe. Possibly. Who really knows. Whatsapp has never publicly stated they do that, never changed their privacy policy to adopt that, and there's no visible change in the UI that shows (or guarantees) you you're using end-to-end encryption.
+
+http://www.heise.de/ct/artikel/Keeping-Tabs-on-WhatsApp-s-Encryption-2630361.html
+
+In other words, you shouldn't trust that yet. Just use TextSecure (the integrated Signal version with Voice should come real soon.)
+
+EDIT: By the way, I see some people are genuinely surprised that Hangouts is *not* end-to-end encrypted (you shouldn't be - you should've assumed that *by default*, otherwise you would've learned about it), but just to make things clearer for everyone **Skype also doesn't use end-to-end encryption**.
+
+In fact Microsoft specifically killed its P2P capability to make Skype more wiretappable. Also Microsoft has either outright *lied* or avoided saying it has changed its architecture like this - so much that even one week before the Snowden revelations, the New York Times was recommending Skype as "secure for activists" (which became a laughable fact post-Snowden).
+
+http://www.theregister.co.uk/2009/02/12/nsa_offers_billions_for_skype_pwnage/
+
+http://www.computerworld.com/article/2509604/data-privacy/microsoft-seeks-patent-for-spy-tech-for-skype.html
+
+http://www.extremetech.com/computing/132935-microsoft-tweaking-skype-to-facilitate-wiretapping
+
+http://arstechnica.com/tech-policy/2013/07/nsa-taps-skype-chats-newly-published-snowden-leaks-confirm/ 
+
+
+
+
+ What about extorting African "colonies" for tributes to add to your GDP? Is that moral? 
+
+
+
+
+ Just please add end-to-end encryption to Hangouts already. Strong protocols (TextSecure, OTR, ZRTP, etc) are already out there. You just need to implement them. If that means you'd have to kill some features to do it (such as Google+ integration which nobody likes anyway, or SMS integration, which also pisses people off) then so be it!
+
+Whatsapp is doing it - so why can't you? 
+
+
+
+
+ That would be so awful for her. So let's hope she doesn't become president. 
+
+
+
+
+ WebRTC is P2P and end-to-end, and I believe it allows video-conferences. The only thing you need is a "signal" server between them, but it doesn't handle the encryption. 
+
+
+
+
+ Out of curiosity, how much money is the oil/gas subsidies costing the government?
+
+I have no problem with *only* encouraging a certain industry that's "the future" for 5 or 10 years at most with perks and subsidies. I wouldn't want them to get those perks for a century as long before then it starts distorting the market too much, to the *detriment* of the consumer. Yet, that's exactly for how long the oil and gas industry have gotten subsidies. 
+
+
+
+
+ Eh, that's a very extreme hypothetical. In reality, the adoption of solar/battery combo will likely *outplace* the EV adoption, or at least go more or less at the same pace. We won't replace 2 billion vehicles with EVs "in this instant". 
+
+
+
+
+ I'm actually quite worried about that. What most people don't understand about this stuff is that if you can "improve" something as critical as the engine, breaks, wheel, gearbox, and so on, simply through an OTA software update, that means you can also BREAK those systems through hacking.
+
+Now, I'm sure Tesla has pretty good engineers who understand why security will be important for stuff like that, unlike say [BMW](http://hackaday.com/2015/02/01/bmw-remote-unlock-wasnt-using-secure-http/)...but either way, no system is infallible to hacking. And this stuff can kill you - while you're on the road. Say you're on the highway with high speed. All the hackers need to do to kill you is turn your wheels a little and lock them in that position. 
+
+
+
+
+ If there aren't new versions and there won't be a subscription required, how will they get money for it? 
+
+
+
+
+ Chromebooks it is. 
+
+
+
+
+  Safari does not support AES-GCM
+
+Ugh. Why not? It's not that new, is it? 
+
+
+
+
+ I would like to see a Snoop Snitch-like firewall against Stingrays as well. 
+
+
+
+
+ We've seen how much oversight they have - so much that there had to be two different review committees to investigate NSA's activities post-Snowden revelations, Feinstein herself admitted that they need a list of all of the NSA's programs because they don't know about them, and Obama came out two or three times saying "he had no idea" NSA was doing some stuff (like spying on Merkel). Not to mention the FISA Court rubberstamps all of their requests.
+
+If that's their "strict oversight", I don't know what *no oversight* would look like. 
+
+
+
+
+ Give the people what they want: bread and circus (which in this case fits HBO quite well). 
+
+
+
+
+ I think Rand can beat Hillary, as the article says, but the challenge will be getting him to win the primaries. Remember what the right-wing did to Ron Paul the last time? They may treat Rand Paul slightly better until closer to the primaries, but not much better.
+
+That said, in my ideal world, both Rand Paul and Bernie Sanders would win the primaries. Can you imagine those epic debates? I think America will come out better after that, and I'd be happy with whoever wins, although Bernie Sanders would still be my favorite. If it was Ron Paul vs Bernie Sanders, then I wouldn't picked Ron Paul. But I trust Rand less to keep his promises (still an obvious choice over all the other Republicans though). 
+
+
+
+
+ Ghost Ship - [spoiler](https://www.youtube.com/watch?v=22XdYRbFHoE) 
+
+
+
+
+ With such voting systems you *at least* need to have 2 rounds of voting to alleviate the problem of voting fragmentation for one side or the other, allowing the side that shouldn't be getting the majority of votes to win.
+
+Otherwise, approval voting sounds about ideal:
+
+http://www.electology.org/#!approval-voting/cc04 
+
+
+
+
+ Major ruling today from Appeals Court that says:
+
+1) bulk collection was NOT authorized under the Patriot Act
+
+2) for such "bulk collection" programs people DO have standing (otherwise it would just be circular logic - you don't have standing because you can't know you're being spied upon, and you can't know you're being spied upon because that's secret....that's not how justice is supposed to work, or logic for that matter)
+
+https://www.techdirt.com/articles/20150507/07372730922/huge-win-appeals-court-says-nsas-bulk-phone-records-collection-not-actually-authorized-patriot-act.shtml 
+
+
+
+
+ We need to go BIGGER! 
+
+
+
+
+ HEADSHOT!
+
+Ok more like a bullet in the arm, but still. 
+
+
+
+
+ Thank you, Snowden! 
+
+
+
+
+ Thank you, Snowden! 
+
+
+
+
+ So far Tesla has had a pretty good track record on that front. All of its launched cars look pretty "normal" on the outside - just completely overhauled on the *inside* (engine and such).
+
+This is unlike virtually all of its competitors who want to be "futuristic" or whatever with their electric cars on the outside, which makes them look weird on the road, and many still haven't completely redesigned their cars to be fully electric from the ground up, and instead re-use some of the old design and stick a battery and a motor inside, which makes them less efficient as EVs. 
+
+
+
+
+ Yeah, it will boost the System D/grey market economy alright. 
+
+
+
+
+ We'll probably see such a car by 2022, even from Tesla. But there will be others who will probably launch one sooner (such as Nissan). 
+
+The batteries make a big proportion of a cheaper car's cost. By then EV technology should be more mature, at bigger scales (cheaper), and Tesla will probably have several Gigafactories online (not to mention Samsung LG becoming a lot more aggressive with their own battery businesses too). I expect batteries to drop in price by 75% or so by 2022, so it should be possible to have even a $15,000 car with a 100 mile range, or a $20,000 one with a 200 mile range. 
+
+
+
+
+ Not a space station, but a web that could catch asteroids ahead of time. 
+
+
+
+
+ I'm surprised people still keep TheVerge reviews to a high esteem and upvote them here. 
+
+
+
+
+ Because other browsers that do allow Adblock exist. You may say "yeah, but that's what - 5% of their users? Why would they care?"
+
+They would care because that's a category of people that's highly influential/vocal/know-it-all tech types. In other words, the same people that started using Chrome from the early days and recommended everyone they knew (and they tend to also be the type that everyone asks for computer advice) to use it, too.
+
+If Google loses that group of people, it's over for Chrome. Not overnight, obviously, as it will still take some time for those who left to convince the rest to switch yet again to another "better" browser, but that's just a matter of time. 
+
+
+
+
+ We ought to have a Comcast for asteroid mining! Heck, it could even *be* Comcast. 
+
+
+
+
+ Hopefully we don't end up destroying Jupiter with out first try. 
+
+
+
+
+ I think the point stands, no? Nuclear reactors need some kind of "fuel", too. But if we can get to Jupiter with solar panels alone, I guess that would satisfy the majority of cases for the EmDrive to be "fuel-less". 
+
+
+
+
+ Ever heard about the Gillette razor business model? 
+
+
+
+
+ Seriously? Of course it's also Cerberus' fault. Not like there's "legal" hacking (no, not referring to security research and stuff). 
+
+
+
+
+ Meh. You can't have that because "perfect" is a *moving target*. For instance, in one year Samsung may release a phone with QHD display while Apple may release a fingerprint reader for its phone, and people will be like BUT WHY CAN'T I HAVE BOTH?!?!
+
+And then the next year there will be a phone with both, but now some other featured appears in the market, and people will be like "MY PHONE IS NOT PERFECT WITHOUT THAT FEATURE!!"
+
+So yeah. 
+
+
+
+
+ Facebook ban-hammer in action. I wonder what kind of similar "executive decisions" they'll take with Oculus in the future.
+
+Anyways, what I care most about is full end-to-end verifiable encryption and authentication for Whatsapp - when are we going to get *that*? 
+
+
+
+
+ Please, Moto, PLEASE! 
+
+
+
+
+ The decision to assassinate people with drones is already informed by algorithms. Not sure I'd call that being "better for it". 
+
+
+
+
+ I don't think you understand the meaning of a "clone". The 50 other 2048-like apps are *clones*. 2048 is just inspired by threes. 
+
+
+
+
+ It's becoming more clear why Merkel and her prosecutors didn't want Snowden to testify in the German Parliament. They knew what's up. 
+
+
+
+
+ Precedent doesn't mean all lower Courts must 100% of the time follow the previous precedent, does it? Otherwise how could we ever have progress?
+
+The third party doctrine ruling happened 30 years ago under different circumstances. How do we get it again up to the Supreme Court for another review of the "same level"? 
+
+
+
+
+ This sort of stuff is going to happen even more now, as the authorities *can* and *will* use the third-party doctrine against *any* US-based service:
+
+http://motherboard.vice.com/read/one-of-the-biggest-privacy-wins-in-recent-memory-has-been-reversed
+
+Solution:
+
+1) Use only services *based* outside of US (make sure they don't have servers in US, because many foreign services do)
+
+2) if you do use a US service to store your data, you have to encrypt it locally on your PC before uploading it, and only you have to have the key
+
+3) use only end-to-end encrypted communication tools (Signal/Textsecure, Peerio, Tox, etc) 
+
+
+
+
+ Ahem: http://motherboard.vice.com/read/one-of-the-biggest-privacy-wins-in-recent-memory-has-been-reversed
+
+This should apply to all companies that "hold your data". And even if that's not explicitly clear quite yet, law enforcement has already been using the third-party doctrine like that, or at least the NSA has. Now they have even more reason to do it.
+
+Lesson: don't keep your data in other people's servers, unless you encrypt it before you upload it there yourself and only you have the encryption key. Or don't use services based in US. 
+
+
+
+
+ Tor is better than any VPN. 
+
+
+
+
+ They keep doing that because apparently judges keep buying it. 
+
+
+
+
+ Police brutality - NOW IN 4K! 
+
+
+
+
+ Is Facebook in a hurry to beat Comcast for the shittiest company in America? Because that's what it looks like. 
+
+
+
+
+ I think Android 5.0 should support "device tree" - isn't that helpful for this purpose? 
+
+
+
+
+ This means everyone should:
+
+1) start *requiring* from all service providers to offer *strong end-to-end encryption* - This will put the data back in your hands and removes the liability and onus to share your data from the providers (btw this ruling applies to *all* "third-party" providers, not just carriers, including Google, Microsoft, Apple, etc).
+
+2) boycott the ones who don't do that and keep your data in a centralized place either unencrypted or they can use their own key to decrypt it  
+
+
+
+
+ Not quite. The "security" Schneier is referring to here is *digital security* - or hell, *cyber*-security if you will, which the government keeps pretending to support.
+
+In the "security vs freedom" equation it's more about "national security/public safety vs cybersecurity/privacy". 
+
+
+
+
+ All that + no end-to-end encryption for me. 
+
+
+
+
+ I wish Google would rip out Java for Go and make a system of unified updates that come from Google - screw OEMs if they don't like. We need unified updates for Android phones.
+
+And if they don't like that, they can just go use Windows Phone....oh wait, Windows Phone *already* forces them to take updates from Microsoft. Guess the OEMs can SUCK IT! 
+
+
+
+
+ A million? You don't say. You think that maybe you're exaggerating a bit? Maybe by 999,998 or so? 
+
+
+
+
+    allows telcos to track
+
+**Aha!** - So that's why they didn't enable HTTPS for those sites. 
+
+
+
+
+ No more Microsoft. 
+
+
+
+
+ I think the lizardmen got to it and shut it down. They're everywhere, man. 
+
+
+
+
+ [Google link](https://www.google.com/url?sa=t rct=j q= esrc=s source=web cd=1 ved=0CB8QqQIwAA url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fu-s-will-change-stance-on-secret-phone-tracking-1430696796 ei=OfFGVcD4HcGSU8-wgbgD usg=AFQjCNG3Nacbr2zPMS3WLYmtlERPrEMsdA sig2=d23Gk7yRtGqSXkXgn_MDng) for full article. 
+
+
+
+
+ They have, but on a different time scale. They double in capacity (or halven in price) every 10 years or so. Assuming that will keep happening (including discovering new technologies, etc) then within 2 decades batteries should have 4x the density as they do now, at all price points, which means even sub-$20,000 cars should have a decent range by then, so just about anyone could get one. As for the more expensive ones, the range anxiety will all but disappear. 
+
+
+
+
+ Hybrids are *at best* a "transitional" product. We're going to see much less demand for hybrids than full EVs. "Future" cars will all be fully electric. The problem with hybrids is that you need the whole "cruft" of the gas-powered designs and then add the battery-related components as well, making for a very inefficient design both in terms of cost and space.
+
+I understand why people say they need a hybrid though - the range may not be good enough yet for *some* or for a certain lower price point, but as batteries improve in cost (and they do by 8% each year), EVs will become "good enough" for more and more people.
+
+If you look back at all disruptive technologies, they all start out as "good enough" only for some people, and as they improve they become "good enough" for the majority later on (SSD's vs HDDs, notebooks vs PCs, etc). 
+
+
+
+
+ Would you eat "pork" made out of bug protein?
+
+I think provenance matters. I'd rather eat meat made out of plants than insects. 
+
+
+
+
+ Wrong. It's only free for consumers to upgrade. 
+
+OEM-installed Windows versions - you're paying money out of your pocket to pay for the Windows license, too.
+
+All businesses and institutions will also pay for Windows licenses. 
+
+
+
+
+  rich people pay a disproportionate amount of income taxes
+
+Only if you're referring to the "total amount", but rich people tend to pay much less as a *percentage* of their income than lower classes (where a high percentage of their small salaries actually impacts their living conditions *much more* than it would a rich person). 
+
+
+
+
+ I think it's doable, especially now that we're starting to see battery "products" for combining them with solar power, which should increase the demand for solar power. 
+
+
+
+
+ When did this switch to encryption happen for torrents? I remember Bram Cohen, founder of Bittorrent was quite against it many years ago.
+
+And what kind of encryption does it use exactly? 
+
+
+
+
+ No, thanks? 
+
+
+
+
+ That's short term thinking and you know it. Solar panels have come down drastically in price over the past few years. Batteries are likely to  cost half as much too in about 5 years, once the Gigafactory 1 is in full production, and they'll come down in price even more as Tesla builds more of them. There's also a ~8% improvement in energy density/pricing every year, even without the Gigafactories.
+
+People have been saying for years that solar can't be competitive, and now the voices are dying down as solar quickly becomes more competitive. What makes you think solar and batteries are as good as they'll ever get *now*?!
+
+The industry is just scratching the surface as investments are just *now* starting to treat solar/batteries seriously. Wait until this thing becomes "obvious" for everyone, and more companies and countries decide to invest billions into researching the technology and scaling the production.
+
+I think by 2040 80% of the world's energy will be from solar/batteries. We might try to push for more, but even I think the rest 20% should probably come from something like *fusion* (I think we'll figure it out by then) or at least thorium reactors.  
+
+
+
+
+ Microsoft gives NSA zero-days months before they fix them, which NSA can use to hack into vulnerable systems, though. Why do you think Microsoft complained so much when Google forced it to fix a major bug earlier than they wanted?
+
+http://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms 
+
+
+
+
+ I wonder what will happen when Windows 10.1 comes out a year later.
+
+Will they just say: "Hey Windows 10 users, you have 6 months to buy Windows 10.1 or you'll be left on an unpatched version of Windows, just like XP."
+
+I assume they aren't *that* dumb to do that, but who knows. 
+
+
+
+
+ Kernel Sanders. 
+
+
+
+
+ They should call her Terri, because she's terrifying. 
+
+
+
+
+ I think FCC or some law should require them to *guarantee* at least 1/4 of the "up to" speed. Better yet, companies should advertise *only* the guaranteed speed. 
+
+
+
+
+ Unless it's some mid-level clerk. 
+
+
+
+
+ So she knows what's up. 
+
+
+
+
+ Because he's authentic and has a track record to *prove* he has already supported the promises he's making now, in Congress.
+
+Clinton on the other hand, quite the opposite. She's worse than Obama in that regard. She'll just say whatever people want to hear now and what polls well, so she can win.  
+
+
+
+
+ Paid troll spotted. 
+
+
+
+
+ Unlike Obama who voted for the Patriot Act's extension in Senate *months* before the general election, Sanders actually has a long track record of being pro-civil liberties. 
+
+
+
+
+ The very *least* he can do:
+
+1) Kill the EO 12333 from which many of NSA's spying abuses arise
+
+2) Pardon Snowden - sending the message that he *welcomes* such whistleblowing
+
+3) Prosecute NSA and CIA (torture) abuses
+
+There are many other things he could do to clean up law enforcement in general, but that's beyond of the scope of this thread.
+
+Also remember he's the executive. Even if the Patriot Act and FISA Amendments Act are "laws", he could just make policies that make the use of such laws drastically narrower and fire anyone who doesn't respect those policies. 
+
+
+
+
+ The NSA will definitely start helping to discredit him now. Expect lots of "facts that happened 20 years ago" about Sanders to come out in papers from "anonymous sources". 
+
+
+
+
+ At least do it  right - make sure the police department filming stuff DOESN'T HAVE ACCESS to the videos. Only a third independent party should have access to them. 
+
+
+
+
+ Vive la Resistance! 
+
+
+
+
+ Tell your car to come get you from wherever you're stranded by the zombies. 
+
+
+
+
+ More dangerous than the fossil fuel they are already using? 
+
+
+
+
+ That's the plan with Gigafactory. My guess is the price of these will fall to about half a few years after Gigafactory goes online.
+
+Even at this price level, it seems many are quite surprised it's this low, and they expected it to be more like $5,000-$10,000. 
+
+
+
+
+ In other words, /u/JDGumby is NOT awesome! 
+
+
+
+
+ Not sure I follow - you "trust" the site you visit (and from where you download the WebGL code), that's the point of HTTPS.
+
+Through HTTP others could be sending you "alternative code" that's infected. 
+
+
+
+
+ UFS 2.0 or BUST! 
+
+
+
+
+ Moxie is too focused on "but we've already said it's not working with iOS!"
+
+I don't think that was the *main* point of the article, but the fact that you can't TRUST Whatsapp to properly use TextSecure encryption  - iOS or not.
+
+1) Whatsapp has never made it public itself that it's doing this (ok, still in "deployment" so we'll see what they do when it's "finished")
+
+2) No privacy policy change yet, and I think there should be one - also eagerly awaiting for this
+
+3) No fingerprint authentication or any way to ensure that the e2e encryption is working
+
+Again this is supposedly "not done yet" - so we'll see. However, Moxie and his team have consistenly promoted Whatsapp as "secure" already *because* of that "unfinished implementation". They even had a small argument on Twitter with Telegram over it saying that Whatsapp is more secure than Telegram because of it.
+
+I do agree Telegram encryption sucks, but I don't think they should say Whatsapp is so much more secure, because at this point Whatsapp's E2E encryption is nothing more but "vaporware". Until Whatsapp resolves the 3 issues I mentioned above, that's exactly what it is. 
+
+I'm a big fan of Moxie and I can't wait until Signal arrives on Android (and on desktop, too, hopefully) but I hate that Whatsapp is getting so much good press over this without being anywhere near ready or even officially committing to adopting this type of encryption. 
+
+
+
+
+ The idea is the 7KWh one is a "higher quality" battery that lasts more recharges (which allows you to use it more often, during the day, too, etc). The 10KWh one is more for light night time use.
+
+If they made a 10KWh version of the 7KWh one it would probably cost more like $4,300. 
+
+
+
+
+ Lead acid batteries have about twice the density of Li-Ion, that's why it costs about half for the same capacity. But as others have said, they have other disadvantages, too. 
+
+
+
+
+ If this is what Tesla can do now, imagine what they can do *after* the Gigafactory is built. The price will probably drop in half by 2020 (which is actually quite a big deal in battery progress time). 
+
+
+
+
+ EFF's opinion on it (they don't like it in full, but they ultimately think it's a step forward and recommend Congress to vote YES on it):
+
+https://www.eff.org/deeplinks/2015/04/new-usa-freedom-act-step-right-direction-more-must-be-done
+
+My biggest worry is that we'll pass this and everyone will be like "WE DID IT REDDIT! WE DID IT!!", as if we achieved some grand thing and now NSA's mass spying is over, and then they'll have zero interest in pursuing future such bills anymore.
+
+At best this *scales back* on the 215 section of the Patriot Act. An improvement for sure, but the NSA has dozens other spying programs, including some more major ones such as the FISA Amendments Act, section 702, the EO 12333, the new "cyber threat sharing" laws which will most likely pass because "OMG CYBERWAR IS COMING and we need this bill because...I don't know - *probably* helps?!"
+
+Then there are stingrays which the FBI *knows* are illegal and try to hide them from Courts, and who knows how many other such things which aren't even coded into the law like stuff in the Patriot Act was.
+
+Think of "winning against mass and abusive spying" like a "meter" we need to fill. If we pass this one, we've maybe filled the meter 5%. We still have a long way to go to fill it completely. 
+
+
+
+
+ Android apps are native to Android. These Android apps will run on top of Windows. 
+
+
+
+
+ Don't you mean more developers will write for Android, now that Android apps have gained yet another platform to be on? 
+
+
+
+
+ Not to mention that everyone here used to hate "that iOS look!" on their Android apps, as apps were mostly ported over from iOS.
+
+I wonder what they'll think now when Microsoft fans "beautiful Metro design" will be mixed with iOS and Android designs. 
+
+
+
+
+ I completely agree. In fact, I agree so much with you that I think Microsoft should also allow its "universal apps" to be truly universal and run on *other platforms* as well, such as Linux or Android or Chrome OS, just like Google allowed Android apps to be ported to other platforms as well (Blackberry, Tizen, now Windows 10, etc).
+
+Agreed?! 
+
+
+
+
+ Better. Vulkan is pretty much designed from scratch as a "modern" graphics API. DirectX12 is a modified DX11 to support some of this stuff, too.
+
+Vulkan should have much better multi-core support for one. 
+
+
+
+
+ On the other hand, Hillary is a "loser", just like Romney, who already lost before running again. Also Hillary lost before to a passionate underdog candidate.
+
+Hillary is the Democrat's Romney, who just like Romney also likes to flip-flop on a lot of issues where she supported the *opposite* just until a few years ago. 
+
+
+
+
+ We've heard such big claims from Microsoft before. 
+
+
+
+
+ Now Windows 10 will have not one, but 3 different design guidelines for apps. 
+
+
+
+
+  "The fact that SHA-2 cant be used with older browsers and OSs means that untrusted certificate warnings are going to become commonplace," Munro explained. "And if that happens, the danger is that many users will simply ride rough-shod over such pop-ups, potentially creating the ideal opportunity for man-in-the-middle (MitM) attacks."
+
+Meh. Let's face it - the people that are still on XP and Android 2.2 were going to click through that sort of stuff anyway, even if everything was nice and compatible until one day they suddenly get a MITM attack. 
+
+I'd rather not keep everyone else less vulnerable because of 1% of the market that's likely to be the the least tech-literate anyway. 
+
+
+
+
+ "Our bill is totally not like the US one - it's *much worse*!" 
+
+
+
+
+ Banuiesc ca cei din conducerea scolii erau pe mana cu cei care aduceau drogurile in scoala. Altfel nu imi explic de ce ar face asa ceva. 
+
+
+
+
+ With VR you can create a whole cinema...and a cinema-like environment as well. 
+
+
+
+
+ So people will suddenly have no problem with the fact that apps will have "iOS" look or "Android" look and nothing like Microsoft's own design guidelines now? 
+
+
+
+
+ Before anyone says "I love that Microsoft is doing this" - don't forget this is possible in the first place because Google made Android open source. Therefore:
+
+Microsoft can use Android apps on Windows
+
+Google can't use Windows apps on Android or Chrome OS (remote desktop doesn't count)
+
+ 
+
+
+
+
+ I think we've heard this sort of thing from Microsoft before a few times.
+
+"Windows store will have 100k apps within 3 months!" - had more like 50k apps 6 months later, and most crappy RSS apps and such. 
+
+
+
+
+ This is going to make Android apps even more popular over Windows or even iOS apps. Android probably has the most to gain by this. 
+
+
+
+
+ Games are niche now? 
+
+
+
+
+ Don't be silly. Microsoft will not make Windows open source. Doing so would also deprive them of all those billions of dollars a year in patents, since they'd have to make them public domain, too. 
+
+
+
+
+ Those are coming to Android, too. The days of "x86 apps" will soon be gone. 
+
+
+
+
+ Then if Android apps will be the big attractive feature, why not just get rid of the middleman and use Android directly? More secure and higher performance (Microsoft would have to run an Android VM on top of Windows).
+
+If only Google took Android for PCs seriously. 
+
+
+
+
+ Last I checked Microsoft *is* the dominant player on PCs. 
+
+
+
+
+ You forgot quantum computer and immortality.  
+
+
+
+
+ Duh. They should've used a gold master lock. 
+
+
+
+
+ Daca folosesti OLX sau situri de genul e posibil ca ei sa ti-l dea mai departe. Stiu ca m-am inscris o data la vreo 3 situri mari de anunturi, si apoi am inceput sa primesc SMS de la alte situri de anunturi. 
+
+
+
+
+ Ideea ca o agentie de spionaj sa se ocupe de "securitate cibernetica" e complet conflictuala cu *misiunea principala* a agentiilor de spionaj - aceea de a spiona, ceea ce necesita sisteme slabe din punct de vedere al securitatii. Misiunea de securitate ar presupune sisteme securiate foarte bine. Dar pentru o agentie de spionaj misiunea de spionaj o sa castige intotdeauna impotriva misiunii de securitate.
+
+De aceea UE a propus ca agentii *civile* sa se ocupe de securitate cibernetica (de ce ar fi un secret de stat ca un hacker sparge computerele unei companii?!). Plus ca acest lucru ar fi mult mai democratic. 
+
+Nu inteleg de ce trebuie amestecate legile de colectare a datelor si spionaj cu "securitatea cibernetica" - nu au nici o legatura una cu alta. Trebuie sa fie legi separate (iar din punctul meu de vedere prima trebuie limita si mai mult). 
+
+
+
+
+ De asemenea Curtea Europeana de Justitie a zis deja ca directiva EU de a "retine datele in mod nediscriminatoriu timp de 2 ani e *invalida* (pentru ca incalca drepturile omului si poate fi abuzata prea usor)".
+
+https://www.eff.org/deeplinks/2014/04/data-retention-violates-human-rights-says-eus-highest-court
+ 
+
+
+
+
+ How many people died in the crash of the iPads? 
+
+
+
+
+ A couple (long) answers about why not (which will also be testimonies in tomorrow's crypto hearing):
+
+http://www.crypto.com/papers/governmentreform-blaze2015.pdf
+
+http://oversight.house.gov/wp-content/uploads/2015/04/4-29-2015-IT-Subcommittee-Hearing-on-Encryption-Bankston.pdf 
+
+
+
+
+ A strike/protest is meaningless unless it becomes somewhat inconvenient to a company/government.
+
+If the strike or protest was only after work hours and in "free speech zones" where it bothers no one, the leadership wouldn't have to do a thing about the protesters' demands, since they wouldn't be inconvenienced in the slightest by it.
+
+The protesters' "negotiation power" with the leadership comes from that inconvenience it causes to the leadership. 
+
+
+
+
+ FCC should be fining the hell out of Verizon and other carriers who spout lies like this. The only way he'd need 75Mbps for Netflix is if Verizon's 50Mbps actually works at 2Mbps, and therefore "he'd need the 75Mbps one" to get to 3Mbps. 
+
+
+
+
+ You can take that to the bank! 
+
+
+
+
+ TTIP is a different but similar treaty. It's just that it's done with the EU instead of the Pacific countries which the TPP targets. 
+
+
+
+
+ Obama and Cameron seem to be like bros lately. They even use each other's speeches. 
+
+
+
+
+ Remember when they promised Gigabit fiber? Yeah, I laughed at that, too. 
+
+
+
+
+ If you're security paranoid, then you "shouldn't trust Microsoft" because once Microsoft discovers new vulnerabilities in its operating system (including Bitlocker) it hands them over to the NSA before it releases a fix months later when it gets around to fixing the vulnerability.
+
+http://bloomberg.com/news/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms.html
+
+Apple is now doing the same, starting with the new "cyber-threat sharing" executive order announced a couple of months ago, for which Apple got a very good deal from the government (integrating Apple Pay with [federal services](http://www.macrumors.com/2015/02/13/apple-ceo-tim-cook-cybersecurity-summit/)).
+
+Both Microsoft and now Apple are doing this as a *choice*. They can't even use the excuse that "it's the law!" (at least until CISA and such pass - and then they'll get immunity for doing it, just like the carriers did for over-sharing data with law enforcement). 
+
+
+
+
+ Intel still has to license AMD64 (the real "x64" architecture) from AMD, too. So unless Intel suddenly has no need for 64-bit chips anymore, I think it's going to agree to give Samsung the x86 license, too.
+
+And even if that wasn't an issue, it seems highly unlikely Intel will just say "NO! We will be the only ones with x86...MUAHAHAHA! Come at us antitrust bodies. We double dare you!"
+
+Worst case scenario they increase the license price in a renegotiation contract.
+
+If Samsung is smart though, it could even *lower* the price by telling Intel "how about we agree to use your shitty  lower-end Atom chips in some of our low-cost/mass volume devices for a couple of years and you drop the x86 license cost by 20% - deal?!"
+
+Intel would be foaming at the mouth to get that deal and "increase its market share" in mobile.
+
+Then 2 years later Samsung uses only Exynos chip lines in its own devices with its own CPUs and GPUs. 
+
+
+
+
+ It won't appear until S7 anyway. 
+
+
+
+
+ Except we know squat about Kryo. It could be another dud. Let's wait and see. 
+
+
+
+
+ Ultimul lui post se pare:
+
+http://mihai.sucan.ro/mihai/blog/touched 
+
+
+
+
+ NYT has been going to shit for years now. 
+
+
+
+
+ How about - [no](http://www.wsj.com/articles/obama-kept-looser-rules-for-drones-in-pakistan-1430092626)?
+
+The killer drones have been, are and *will be* "regulated" in *secret*. And the cheaper they will become, the looser the regulations will be, too. 
+
+
+
+
+ I wonder if Microsoft had a hand in this.
+
+"Shit! If people start buying *these* Nokias, that means we bought their phone division for nothing! 
+
+We better pay them a little more to stay out of the market, or at the very least threaten them with a patent lawsuit." 
+
+
+
+
+ I think he means [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en). 
+
+
+
+
+ I don't really care about (completely) self-driving cars, but 90% of the same technology could be used to make even manual cars drastically safer. Think Super-ESP - and I can't wait until more cars get such technology. The more cars use it, the cheaper it will get, which means even bottom-of-the-market priced cars will get it eventually. 
+
+
+
+
+ Tor isn't P2P. It has centralized relay and exit nodes. Being P2P would mean everyone is a relay/exit node, which isn't the case with Tor. 
+
+This is actually a pretty major weakness of Tor, because there aren't enough exit nodes, which means it's pretty easy for a government to run "a lot" of exit nodes itself, and then it can analyze the traffic more easily and have a better understanding of where its target might be. 
+
+
+
+
+ Yeah, I think Asus has a couple, but they are like $300 I think. I think they charge at least $100 more just for the privilege of using OpenWRT/DD-WRT for such a modem. I think there was another company that had them.
+
+It might be better to just look for ones that can be easily upgraded to OpenWRT/DD-WRT after you buy them. 
+
+
+
+
+ Ever since Apple made all the new deals with China recently, I don't think they'll be too quick to fix such "bugs" (except the ones that get very public of course, but who knows how many like these they find themselves and then ignore until some 3rd party researcher finds them and then Apple is forced to act). 
+
+Apple also shares these bugs with DHS/NSA now so they have yet another incentive not to disclose them until someone else makes them public. Microsoft does the same by the way (and has been doing it for [years](http://www.bloomberg.com/news/articles/2013-06-14/u-s-agencies-said-to-swap-data-with-thousands-of-firms), actually). 
+
+
+
+
+ Hey, it was only a bad apple. 
+
+
+
+
+ I don't think the Iranian nuclear facilities were Internet-enabled either. Yet they got Stuxnet. Scientists share data between computers , which increases the risk of getting infected. 
+
+
+
+
+ No. Windows 7 is 4x-10x more popular, depending which stat company you believe.
+
+https://en.wikipedia.org/wiki/Microsoft_Windows#Usage_share
+
+Windows XP is a rich ground for malware and viruses because of its:
+
+1) weak security (much weaker than Vista+)
+
+2) no updates to at least keep the zero-day vulnerabilities in check
+
+Using Windows for such safety-critical systems is BRAIN-DEAD STUPID. They shouldn't be using an OS with 90% share of the desktop market that even script-kiddies can hack (especially when not patched). And I would say the very same thing if it was Android what they were running.
+
+Critical systems like these should be using highly custom and *security hardened* operating systems. What if North Korea reverse-engineered Stuxnet (they can probably already buy such a version from the black market by now anyway) and sends it to Japan's nuclear facilities now?! Heck, China has already been poking Japan lately over the islands issue.
+
+Governments using Windows for safety and security critical infrastructure is STUPID (that goes for the US Department of Defense, too). I can't repeat that enough. 
+
+
+
+
+ 3G/4G still consumes quite a bit, too. Besides, he didn't say Play Services wasn't on. He said it was in airplane mode. 
+
+
+
+
+ I wouldn't be so quick to blame the "users" for not using apps with strong encryption. Most of such apps have been ugly as hell until recently, not to mention difficult to use and figure out how to set them up properly.
+
+I would much rather put the blame on "app developers", who *choose* to make dozens and dozens of IM applications available on app stores, yet you could count on one hand the ones who have strong encryption.
+
+When app developers choose to use strong encryption it's also much easier to get millions and millions of people to use strong encryption than if you try to convince every user one by one.
+
+When there will be a dozen+ such apps to choose from, *then* we can start blaming the users for being so ignorant and foolish for not using those apps instead. 
+
+
+
+
+ What would you call the NSA? Even Obama said "he didn't know" what they were doing in many cases. Feinstein admitted to something similar, saying they had no idea about many of NSA's programs - despite the fact that they were supposed to be there to *oversee it*.
+
+The NSA operates almost completely independent from Congress or the White House. 
+
+
+
+
+ Reminds me of Facebook's "mistakes" to track everyone everywhere even when they aren't logged in to Facebook or even when they don't have a Facebook account. 
+
+Just a tiny itsy bitsy "error" - like Apple wiping out its competitor from the App Store. 
+
+
+
+
+ How does that pass common sense? Are judges robots? Shouldn't they be serving "justice"? How does a house commit a crime? Shouldn't it be *only humans* who can commit crimes? Aren't crimes just rules that we establish for the humans in the society that are then broken? 
+
+
+
+
+ Yes, his knowledge of ARM CPUs seems obsolete. 
+
+
+
+
+ Because Atom for mobile is $35 (heavily subsidized), Celeron/Pentium Atoms are [$107-$161](http://www.anandtech.com/show/9125/intel-braswell-details-quietly-launched-cherry-trail-and-airmont-on-14nm) (heavily overpriced - same price as Haswell Celerons and Pentiums - to compensate mobile subsidies) , a high-end ARM chip is $25-$30, and Core-M is [$281](http://media.bestofmicro.com/O/T/451901/gallery/Core-M-models-1024_w_600.jpg). 
+
+In other words, for similar performance and price, you're paying 10x more for Intel. Isn't the PC monopoly great?! (especially now that Windows RT is dead, and Intel can charge as much as it wants for chips that go inside Windows devices, because they don't come with ARM anymore). 
+
+
+
+
+ Too bad Atom's GPU is 2 generations behind the latest ARM GPU, though... 
+
+
+
+
+ Windows 10 mobile is more like RT than desktop Windows. So it makes as much as sense to say that it's a "full PC in your pocket" as you'd say about an Android phone...in fact Android phones are far more capable than Windows phones...even Windows 10 ones. 
+
+
+
+
+ Indeed. Only time will tell if they "learned their lesson". For all we know they have 3 other Chinese backdoors in their operating systems. 
+
+
+
+
+ "64-bit" in x86 world is pretty *meaningless* other than support for more than 3GB of RAM.
+
+ARMv7 vs 64-bit ARMv8: the difference is significantly bigger in features and performance. 
+
+
+
+
+ It has a crappy Atom chip, that's why. 
+
+
+
+
+ You're funny. Windows is much more locked down than Android. You can't even sideload apps in Windows mobile. 
+
+
+
+
+ Of course they are. Windows 10 desktop has a *ton* of bloat in it. Why would they add all the Lenovo and Asus drivers to an HTC phone, for example? 
+
+
+
+
+ Windows 10 for desktop and Windows 10 "for phones" are *completely different operating systems*.
+
+It's just Microsoft the one that tries to be misleading about it, naming them the same. Remember Surface RT and Surface Pro? It's like that. 
+
+
+
+
+ More like fewer features. 
+
+
+
+
+ We should replace the head, too, then!
+
+Wait... 
+
+
+
+
+ HTC has always relied on Qualcomm more than anyone else (in many cases to its detriment). 
+
+
+
+
+ DJB already has something better than lattice-based crypto apparently (which has been found vulnerable to a few attacks lately anyway):
+
+http://binary.cr.yp.to/mcbits.html 
+
+
+
+
+ Don't let Zoso know, you filthy pirates! 
+
+
+
+
+ Which begs the question - if they could already catch these guys - why are do they need a new law then? 
+
+
+
+
+ A one-stop shop for all of their surveillance needs. 
+
+
+
+
+  Mr Zhang said the flaws they uncovered were likely to be widespread throughout handsets running Android 5.0 and below. Updating to the latest version of Android, version 5.1.1, should remove the vulnerabilities, he said.
+
+Well that should be easy!
+
+*laughing*...*then crying*
+
+ In April last year, hackers discovered a way to fool the print sensor on the S5 by taking a photograph of a print left on a smartphone screen, making a mould from the image and using that to make a replica fake finger.
+In 2013, a German hacker group used a similar method to bypass the fingerprint reader on Apple's iPhone 5. Hackers from the Chaos Computer Club used a picture of a person's fingerprint left on a glass surface to make a fake finger that unlocked the phone.
+
+WTF? Why the hell are companies releasing such features with *known flaws* - especially ones so obviously bad. I think I'll wait until Qualcomm's Sense ID "3D fingerprint" reader to arrive, before I trust using them, but I bet it's only going to be a matter of time before that one gets spoofed, too. 
+
+
+
+
+ Yes. Sony has had better sensors than Apple over the past 2-3 years, because it was giving Apple lower-end/older ones, yet somehow Apple still managed to beat them almost every single time because of software optimization. 
+
+At least at the high-end they use the most cutting edge hardware to make up for their software deficiencies for the most part, but where it's most noticeable that Sony's camera software isn't that great is on mid-range and lower-end phones where Sony's cameras are crap.
+
+With Android 5.0, Google has also given OEMs great camera APIs with high performance processing, so now they can't use the excuse that it's Google's stock software anymore or anything like that (even though I think most of the big OEMs have been using their own custom firmware for a while, and they haven't been using Google's firmware much). 
+
+
+
+
+ For those who don't know (it applies to the Android version, too):
+
+https://blog.winkelmeyer.com/2015/01/warning-microsofts-outlook-app-for-ios-breaks-your-company-security/ 
+
+
+
+
+ Music ~~freedom~~ net neutrality killer. 
+
+
+
+
+ You mean the same way it happened with the Patriot Act? 14 years later we still have it. Also, it's been quite a few years since the carriers were granted immunity for giving our data to law enforcement agencies, too, and *they still have it*. Now tech companies are going to get it, too. 
+
+
+
+
+ Screw having sympathy for any company or any country going through a disaster in the future. It seems every time it happens, they use that sympathy of millions as an *excuse* to do exactly what they say makes them a victim.
+
+**France** - says the terrorists are attacking their free speech! Millions rally to support that free speech - then France passes mass surveillance and censorship law, attacking the very free speech they said it was getting attacked by others.
+
+**Sony** - gets hacked and threatened not to publish the movie - says 'Murrica's free speech is under attack. Now a new cyber-surveillance law is being passed and Sony threatens anyone who dares to publish anything about the leaked documents.
+
+So fuck it! The next time something like this happens, they are on their on. I'm not going to let them use my sympathy again as an excuse to pass yet another draconian law in the defense of the very thing they complain about getting attacked. 
+
+
+
+
+ Then someone should prepare the lawsuit already. Obama has been calling for it since the Sony hack, but many didn't realize that's what he was actually saying in his speech. 
+
+
+
+
+ Unified VAT would do away with all the bureaucracy of the new VAT system, while still maintaining the benefit of distributing VAT money properly to countries, instead of only a couple of countries getting all the foreign VAT money because they happen to be where Amazon is located.
+
+I happen to believe the idea for the new EU VAT system is a great one, because it distributes that VAT. It's just that it creates a terrible bureaucratic mess. All of that mess would be wiped clean if there was only one VAT tax across EU, and businesses wouldn't have to keep 75 (multiple countries have more than one VAT tax) different VAT values in mind when selling to EU countries. 
+
+
+
+
+ Now sure how relevant, but Google plans to introduce the "Android Pay" API and service providers can hook into it, while the outside world/POS systems would see only the Pay API. I believe the API will also support tokenization, like Apple Pay, where the merchant doesn't actually know who's paying. 
+
+
+
+
+ Only because the government wants to push the "debate" for that long - as in "we'll push it until you agree with us". It's the same with their idea of "balance" between privacy and national security. Balance = total surveillance of everyone.
+
+From what I've seen, from the cryptographers' point of view, the debate is already over. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Good. Maybe this will make companies think twice before using our private communications to mine them and sell ads against that private information. 
+
+
+
+
+ Theme engine. 2 major OS version updates + 1 year of security updates for a total of 3 years support, as rumored. But I'd like that for *all* phones not just Nexus. 
+
+
+
+
+ Isn't the GPS automatically enabled on iOS, too? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You invest in the companies most likely to win (usually, but not always, the leaders/first movers). 
+
+Unfortunately the companies likely to succeed in VR are also already massive companies where investing in them won't give you a huge ROI over the next few years.
+
+It would've been much better if Oculus had stayed independent from that point of view. 
+
+
+
+
+ I only really care about Sense ID (if it is as good as it sounds in theory, at least). 
+
+
+
+
+ I'm only upvoting this so more people remember their promise when they inevitably try to *break* net neutrality rules or at least lobby against changing them. 
+
+
+
+
+ Nvidia console as the official Android TV box. 
+
+
+
+
+ Thank you, Microsoft PR Department! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Can't wait for DLC in DRM-ed self-driving cars!
+
+Want protection for a 2nd passenger? That would be $200 extra. 
+
+Want our car to stop before it crashes into pedestrians? That's $500 extra. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I don't know about that but there is a lot of Microsoft fanboism on r/Android lately, that's for sure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, I've seen "I, Robot", too. That one doesn't end well, either. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I really like that rumored 2+ years of OS updates (so 2 major versions in this case) + another year of security updates after that.
+
+That seems quite optimal and I hope other OEMs follow that. Unfortunately even if they do it, it will only be for high-end devices. That's why Google still needs to push a plan to update *all* devices, at the very least for security updates if not features. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ But I thought he was already "winding down" the program and such. 
+
+So...no then? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So if Microsoft quietely admitting Windows Phone is dead? Why doesn't it just come out and say it, rather than play this "oh WP is totally alive, we're just going to put 10x more resources on the other 2 platforms - that's all".
+
+WP users should be the most upset about that, as they'll be lied for years more by Microsoft that the company will totally continue to support the platform, while in reality it will focus more on Android and iOS and starve Windows Phone/Mobile of development resources, until it goes out with a whimper rather than a bang.
+
+I just feel it's very dishonest and unfair to do that to current *and future* Windows mobile users by misleading them this way. 
+
+
+
+
+ Yeah, can you imagine how many people would be sent to prison? 
+
+
+
+
+ This is certainly not happening because they *can't* do that (strong encryption). They just refused to do it, possibly because they don't think the Belgian law applies to that. 
+
+
+
+
+ Intel still has a lot of "x86 baggage". You know how we can find that out? It's easy.
+
+ARM chips:
+
+1) cost less per die area
+
+2) same performance or better (usually better) at high-end for instance, or mid-range or whatever level you want to compare
+
+3) yet they are like 1-2 process nodes *behind* Intel's process nodes.
+
+How is it possible for ARM chips to cost significantly less, have at least as much performance at a given level, and yet do all that on a 1-2 generations old process node? It's possible because Intel's chips are bloated. 
+
+If Intel would put the latest high-end ARM core on its own 14nm process and compare it with latest Atom, at the same power envelope, it wouldn't even be close. The ARM core would be like 2x faster, while still costing half as much. 
+
+
+
+
+ Not really. Intel is not competitive on a "performance per price" metric. Not even close. The only way it has been able to *look* like it's competitive on that metric so far is because it would heavily subsidize its chips with profits from the PC chip business.
+
+Now they've said they won't do that anymore, but it will be hard to verify since they've just unified the 2 divisions (mobile and PC). However, there was already an announcement that for the next version or something of the Zenfone 2, Asus would use a *lower performance* Snapdragon 615. 
+
+Why? Because Intel is not selling that Atom or its successor at the *same price level as the Snapdragon 615* as it's doing now. So if Intel raises its prices, Asus can't sell a "mid-range phone with a high-end chip" for $250 anymore. It will have to buy a mid-range chip for a *real* price, not a subsidized one.
+
+And if Intel has to compete with other high-end chips in high-end phones with real prices, it loses, because high-end Arm chips like the Snapdragon 820 for instance will have better performance for *half the price* of a high-end Atom (Cherrywell or whatever they are calling the new one). 
+
+
+
+
+ What's with the Microsoft circlejerk on r/Android lately? 
+
+
+
+
+ They could still pass a last-minute renewal this Sunday.
+
+Remind your Senators not to do it:
+
+http://fight215.org/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tegra X1 should be pretty sweet. Hopefully it's not still on a 28nm process...in summer. 
+
+
+
+
+ It would be a smart choice not just from a battery perspective (if it's an efficient modern panel that is, not a 1080p panel from 3 years ago which probably uses 50% more power than the current 1440p one) but also from a cost perspective, as that will probably be the $350 variant, and I'd rather they put a better camera in there than a higher resolution screen anyway. 
+
+
+
+
+
+
+
+
+
+ Except for the part where it's not open source, like the Gallery is.
+
+Either way, hopefully Google doesn't constantly nag you about "signing into it" or worse, automatically sync all of your photos online. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "To kill or not to kill humans - that is the question", said the robot. 
+
+
+
+
+ But GMOs are totally cool...except for the companies that seem to own them and which will eventually control the world's food production with their patented food.
+
+Reminds me a bit about the "nuclear is perfectly safe...except for all the things humans can do to screw it up to cause global catastrophy" discussion. 
+
+
+
+
+ This is exactly why *unaccountable* spying is so dangerous. The government can start using "secret evidence" against you or they can twist that evidence however they want to charge you with stuff. The more this is allowed to happen, the more it will corrupt judges as well (not necessarily in a direct sense, but in the sense that judges will start getting used to it, too, and allow secret evidence to exist "to protect methods of investigation" or some other bullshit reason). 
+
+
+
+
+ He does recommend it, but he likes BoringSSL a little more because he knows the people working on it better:
+
+https://news.ycombinator.com/item?id=9594259 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ When you're outdoors you pretty much have to keep it all maxed out on brightness to get a *decent* experience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Coming later in September, Skylake-H will roll out, which will address high-performance notebooks and some Xeon segments
+
+Lol, I like how the H-series is now "high-performance". Up until IVB and until Intel decided to *lower* mainstream notebook performance with the ULV/U chips, the H-series (then called the M-series) was in all "mainstream" laptops, even the $500 ones. Now they're pushing the low-performance U chips and the *even lower performance* Y/Core M chips in mainstream laptops. 
+
+
+
+
+ Except they haven't cut the funding yet. Also, weren't the Snowden documents saying there is like a $50 billion "black budget" (across NSA, CIA and others)?
+
+Even without that, they could just ask for a "bigger budget" for some *other programs* in the future (without actually telling the whole Congress what they are - after all even the Intelligence Committee doesn't know about most of them, as per Dianne Feinstein) and then use that budget to restart it under some other name and authorization. 
+
+
+
+
+ How many times have they "closed" programs in the past, only to rename them to something else and not only keep doing it, but *expanding* it.
+
+Room 641a (AT T cable tapping) comes to mind where they got "caught", promised to shutter it, and yet the Snowden revelations show us that they have *cable access* to *all* traffic in the US.
+
+Anyway, this isn't even their largest program - not even close. The Patriot Act accounts to less than 5% of their mass spying. The rest is done through the FISA Amendments Act Section 702 (bound for renewal in 2018 I think) and the Executive Order 12333.
+
+The Patriot Act Section 215 was *mainly* about phone records (although they probably interpreted it to mean Internet records too in some cases), but the FAA 702 and EO1233 allows them to capture *all web traffic*, including content, which also includes your Skype calls, emails, SMS, chats and so on. Those are far my dangerous than the Patriot Act 215. 
+
+
+
+
+ Well the UK doesn't even have a Constitution..so yeah. 
+
+
+
+
+ If *it is* because something like this, they probably wouldn't want to tell us anyway, because that would show how reckless and incompetent the airline companies were to connect the entertainment systems to the critical systems, even if there is a "firewall" between them (because hackers have never bypassed those before...).
+
+This is precisely what worries me *greatly* about "smart" cars and self-driving cars. If the companies don't *completely* separate the two types of systems through an air gap, and give *absolutely no network connection* to the critical system, we could see a lot of hacks happening, even mid-driving.
+
+ The "no network access" part probably won't happen, though, as with self-driving cars they will be pushing V2V technology, which means for it to be effective the critical system that includes breaks and engine and whatnot will need to communicate with that network. But at least I hope they put the two systems on *different chips*. 
+
+Make no mistake, though, the vast majority of "self-driving car accidents" won't happen because the self-driving AI is not good enough. They'll happen because of hacks into people's cars. 
+
+Combine that with virtually unaccountable spy agencies (not just US, but everywhere) and that future is quite terrifying indeed, considering we only know about most of their hacks from a whistleblower, not because they were *detected* after the fact. 
+
+
+
+
+ What are the most likely battery technologies to succeed in the next 5-10 years, though?
+
+From what I've read there are [quite](http://www.forbes.com/sites/aarontilley/2015/01/28/your-smartphone-battery-sucks-this-mit-startup-could-change-that/) a few [startups](http://www.scientificamerican.com/article/secretive-company-claims-battery-breakthrough/) that promise to "commercialize solid state batteries" by 2018. Both [Apple](http://revolution-green.com/solid-state-batteries-apple-and-toyotas-next-big-thing/) and [Google](http://www.slashgear.com/google-is-working-on-solid-state-batteries-that-last-longer-than-typical-batteries-12378543/) also seem to be researching them and Apple wants to launch its electric car in 2020 or so. 
+
+Solid state batteries also seem to have 50-100% higher density (up to 1200Wh/liter) than regular li-ion batteries, higher life cycles, and they are safer too (due to lack of liquid electrolyte), which could be great for electric cars.
+
+I can't find the link now but there was some li-ion Nobel prize winner or something also working on solid state batteries. 
+
+
+
+
+
+
+
+
+
+ My guess? Using the technology for space mining (mostly) as Google could get trillions in revenue from that, but perhaps also for manufacturing and other more mundane stuff. 
+
+I'm just hoping they will keep their promise from last year and won't become a Defense contractor. I'd rather the robots that will inevitably be sent to kill people in the Middle East or Africa in the future won't have the Google brand on them, the way the Stark brand was on the missiles in the Iron Man movies. 
+
+
+
+
+ It's for the same reason I don't put much trust in face or iris unlocking of phones or computers. It's just a matter of time before they get the biometric "code" out of your online photos or from CCTVs. 
+
+
+
+
+ Hopefully it's 3 years or at least 2.5 years. Most people use their phones more than 2 years. They should be supported accordingly. The carrier contract time-line is irrelevant (people also leave their old phones to family or sell them to others who use them a couple of years more) and Google should not bound itself to it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That was kind of the point of the article. The US is too focused to pass a law for itself instead of working within an international body to set space mining standards.
+
+The US has no plans to mine the moon currently for instance, and this new law doesn't even apply to the moon, only asteroids. China has already announced that it plans to go to the moon soon, and as the article says it could say "that whole land where water is on the moon is OURS". 
+
+
+
+
+
+
+
+
+
+ I wonder if the government will just interpret that as "we can continue collecting data for everyone on which we have data since before 2005" - which could be most people.
+
+After all they already seem to consider the data of 3-hop Americans (millions of people) as "relevant" to a terrorist investigation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Until they pass a mandatory minimum 10 year sentence for anyone shooting "one of the government's drones" down, or some similar law. Then what? 
+
+
+
+
+ I'm inclining more and more to believe that Tor needs to become P2P where everyone is an exit node.
+
+That seems to have worked pretty well for torrenting/piracy. Imagine if torrents didn't work the way they do now and only a few "special" nodes would upload the content to others. That would make those targets much more appealing to law enforcement and seeders wouldn't be able to "hide within the masses" as they do now.
+
+This has turned out to be such an insurmountable probable for the anti-piracy guys that they just prefer to focus on other *centralized* places such as websites that keep the torrents.
+
+So we already have proof that such a P2P strategy "works", despite the fear of many that they don't want "all the illegal stuff" to go through their computers. 
+
+Also, perhaps the client could make everyone an exit node by default, but somewhere deep in the settings it could still allow people to disable their client from being an exit node and make it only a relay node. Then those who are really terrified about the prospect of being an exit node can just turn that off. Win-win right?
+
+The current strategy of having a few thousand nodes will never work, and it's only going to become worse as NSA increases its budget and capabilities. Those thousand nodes will be overwhelmed by NSA's own nodes.
+
+Even if we turn millions of relay nodes into exit nodes I'd still worry the NSA has the capability to mess with that, but at least it would be a much smaller chance. Also, if Tor ever gets to something like 100 million users (you never know, especially with more oppressive countries going online in the next decade) that should make it almost impossible for any agency to cryptanalize the Tor traffic - but only if we make everyone an exit node. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Whoops, it seems that the records for 95% of our targets have gone under water in a pipe leak. 
+
+
+
+
+
+
+
+
+
+ You called?
+
+[Security Analysis of Estonia's Internet Voting System](https://www.youtube.com/watch?v=JY_pHvhE4os) 
+
+
+
+
+
+
+
+
+
+ Reminds me of the "debate" on climate change:
+
+"I'm no scientist - but all those 99.9% scientists have no idea what they're talking about!" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Glad to see they are thinking about more transparency...at their secret summit in their secret mansion. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hopefully next time many here on Reddit won't be so quick to accuse companies or people who disclose bugs publicly.
+
+I remember the shitstorm Google got when it made public a Windows bug "only" 90 days after it had told Microsoft about it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No. Privacy Badger is weaker than Disconnect and others, too. But it might be better for "first-timers" and computer newbies as it may break fewer things and even if it does break something, you can easily  configure it.
+
+Otherwise I'd use ublock origin's privacy settings. 
+
+
+
+
+ Not quite. Everyone does a lot of stuff on the web on a daily basis for which they want privacy. Buying stuff (you wouldn't want your neighbor to know what you bought, why would you want the government?), watching porn, searching for embarrassing health related issues, and so on.
+
+I'd wager Tor should be used for *most* of your browsing activity, and only use something else when you log-in to Facebook, Twitter and other places where you're identity is completely tied to the service. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm saying support for obsolete protocols should be *dropped* at some point (in this case by browser vendors, but it could be OpenSSH maintainers, and so on). Those who drop it should announce ahead of time, but after that it's everyone else's responsibility.
+
+If as you say the problem is some incompetent IT admin configured the security to use an old protocol and didn't pay attention to the latest security news, then eventually he should notice that his sites just stop working. However that *didn't happen*, for example in the case of 512-bit DHE, which should've been dropped a *long time ago*. 
+
+People in charge of security at browser vendors decided to "be easy" on the incompetent IT admins and leave 512-bit DHE in there for another 10 years, even if it could be broken with a few PCs. 
+
+
+
+
+ Rand Paul and Ron Wyden have some good amendments they want to pass for the USA Freedom Act, however unless they really convinced the others to pass the amendments in order to not kill the USA Freedom Act as well, those amendments will have a very slim to none chance of passing. 
+
+
+
+
+ And which has end-to-end encryption like iMessage but without automatic backup to Google's servers (unlike iMessage). 
+
+
+
+
+ What bothers me most about decisions such as "Well, we can't dump this protocol yet because 30% of the servers still use it" is that they don't also present a deadline for when they'll stop supporting that protocol.
+
+Fine, keep 1024-bit DHE support now. But where's the deadline for when you'll drop it? Maybe they didn't want to rush such a decision and perhaps we'll still see Google announce a plan like they did for SHA1.
+
+However, I really do believe that's how the security industry needs to think from now on. Will a protocol start to look weak in 5 years? Prepare a 3 year plan to get everyone off it. Is the protocol *already too weak* to be considered very secure? Create an even more aggressive plan to phase it out. 
+
+This kind of mentality needs to permeate everything security related on the web from now on. No more using 2 decades old broken crypto because it just happened to remain in the software and nobody bothered to push it out "because it might break some things". That excuse would not be valid if the security industry was a little more pro-active. 
+
+
+
+
+ Holla if you Jolla! 
+
+
+
+
+ Uh huh. Sure. Hey everyone, that's it. NSA ended ALL OF ITS SPYING.
+
+Not. 
+
+
+
+
+ Yeah, because we're just going to build 100,000 robots, send them to a war zone and say..."Uh...so do what you guys do best...alert us when you're done. "
+
+Or option 2) we're still going to control the robots by giving them the algorithms which they're supposed to use to kill people (kind of like how the CIA kills people now with drones based on NSA's metadata/SIM card location information).
+
+Which do you think is more likely?
+
+Also another side of this:
+
+https://www.youtube.com/watch?v=pMYYx_im5QI 
+
+
+
+
+ And it's happening under the right-wing control in UK and Canada. It doesn't matter much when it comes to spying on your own people. 
+
+
+
+
+ Not if UK can get there first!
+
+It's ok, Canada - you can still be the runner-up. 
+
+
+
+
+ "Nuclear is perfectly safe technology!" - except for all of those times humans can completely screw it up and cause global catastrophes. 
+
+
+
+
+ And just like Napster, Popcorn Time will end up inspiring a whole industry (this time Hollywood). 
+
+Where's your "thank you, and may I have some more?", MPAA? 
+
+
+
+
+ Hybrid cars give you tiny sub-10KWh batteries. There's not much you can do with them, especially in the U.S. where many people have to commute tens of miles a day.
+
+At *best* they are a transitional technology that won't last more than a decade before fully electric cars take over. Personally, I think they are not even worth the money today. 
+
+
+
+
+ Think of the children! 
+
+
+
+
+ Protecting dat freedom. 
+
+
+
+
+ Games will run less efficiently since ARM native code has to be emulated under x86 and it may kill the battery faster, too. 
+
+
+
+
+ You might want to take a look at:
+
+https://github.com/ricochet-im/ricochet
+
+https://pond.imperialviolet.org/
+
+Both work only over Tor, but they are still experimental. Otherwise see if you can find something you like here:
+
+https://www.privacytools.io/
+
+And you might want to give Peerio a try. It uses https://minilock.io/ to encrypt everything on the client side, and keeps the data for easy access on Peerio's servers (kind of like Spideroak in that regard, except it's a messaging/email-like client).
+
+On mobile Signal/TextSecure is your best bet. 
+
+
+
+
+ Not just big corporations but under the control of their own governments too. 
+
+Internet.org is essentially the **Great Firewall on steroids**, and that's how people should be referring to it. China could only dream at such a "curated" Internet for its own citizens. 
+
+
+
+
+ Intel really is pushing this phone. They've been sending out the press releases themselves for the Zenfone (rather than Asus). 
+
+
+
+
+ Is it worth mining with a laptop? 
+
+
+
+
+ [ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)'s privacy features are quite nice, too. 
+
+
+
+
+ It's why all countries are trying to control the Internet now and spy on everyone everywhere. They want to try and "contain" that frustration before it builds up (not by actually fixing the issues, but by "eliminating" the trouble makers). 
+
+
+
+
+ NIST has a budget of a [billion dollars](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) a year, and *somehow* it still ends up recommending *shit crypto*. I wonder why that is. 
+
+
+
+
+ Or just a type-C USB port. 
+
+
+
+
+ Or just a type-C USB port. 
+
+
+
+
+ The same could be said about the solar/battery combo. 
+
+
+
+
+ "They *can* talk about it - we're just going to destroy their lives if they do. Simples, really." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

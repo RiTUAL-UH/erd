@@ -1,0 +1,1076 @@
+ Anti-venom is usually made of antibodies, the proteins that adaptive immune systems produce to fight pathogens.  To create anti-venom, small amounts of venom (too small to be lethal) are injected into an animal, such as a horse or goat.  The animal's immune system will recognize the venom as a foreign substance, and produce antibodies that bind to the venom, inactivating it.  A blood sample is then collected from the animal, and the relevant antibodies are purified from it.
+
+Edited to add: I'm not sure what human conditions you have in mind for the first part of your question, but generically, many venoms act by hijacking or disabling a specific signaling system in the body--for example, a certain type of neurochemical signaling in the brain.  In large doses, this is obviously dangerous or fatal.  In smaller doses or applied locally, there are times when you might want to tune a signaling system up or down, to dull pain, slow heart rate, etc.
+
+Source: "Antivenom Therapy in the Americas"
+http://link.springer.com/article/10.2165/00003495-199958010-00002 
+
+
+
+
+ On the molecular level, neurons that sense temperature have ion channels in their cell membranes that actually change their shape as the temperature changes.  This conformation change allows ions (which carry charge) to pass across the membrane, causing the neuron to begin sending a signal of that temperature change to other parts of the brain.  We have these temperature-sensing neurons in many parts of our body, as well as in our brain stem; those central detectors are the ones that would usually be in charge of starting a homeostatic response (sweating, flushing, etc.)
+
+One neat thing is that some of these temperature receptors can also be stimulated by certain chemical compounds--the spices that we might describe as tasting "hot" or "cold".
+
+Sources:
+"Thermoregulation: some concepts have changed.
+Functional architecture of the thermoregulatory system"
+http://ajpregu.physiology.org/content/ajpregu/292/1/R37.full.pdf
+
+"The thermo-TRP ion channel family: properties and therapeutic implications"
+http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2011.01601.x/abstract
+ 
+
+
+
+
+ *Roald Dahl's Book of Ghost Stories* (collected, not written, by Roald Dahl.)  A couple of them are a bit campy or over-the-top, but most of them are very good, and range from wistful to eerie to terrifying.
+
+https://en.wikipedia.org/wiki/Roald_Dahl%27s_Book_of_Ghost_Stories 
+
+
+
+
+ A really interesting example, although important to note that even memories of individuals with this trait have limits.  "He had trouble memorizing information whose intended meaning differed from its literal one, as well as trouble recognizing faces, which he saw as "very changeable"." (https://en.wikipedia.org/wiki/Solomon_Shereshevsky) 
+
+
+
+
+ This is a cool way of looking at the question I wouldn't have thought of!  I also agree that the human brain can't actually get close to that limit. One consideration is all the non-learning-related information that the physical structure of the brain stores: the copy of the genome in every brain cell, for example. 
+
+
+
+
+ Realistically, there is most likely some limit.  I think your question is getting at not only whether a human brain could learn "everything," but whether it could retain and use infinite information.
+
+We don't actually know what a memory "looks like," so we don't know yet how much "space" it takes up in the brain, what exactly is required to maintain it (continued neural activity?  A certain anatomical structure, in the form of connections between neurons? Both?)  Without that information, it's impossible to meaningfully say how much information any given brain size/type could "store."
+
+We do know that the brain, to perform its functions, has to balance two basic goals, stability (maintaining the useful information that has already been acquired) and plasticity (to acquire new useful information as it is presented.)  Here's an example reference of this idea: http://www.neuro.iastate.edu/Uploads/AbrahamRobins_TrendsNeurosci05.pdf  One idea that comes out of this is that maybe memory retention isn't a static thing--it has to be active.  Memories that you keep using are more robust and last longer, and maybe they have to be continually "re-made" to be retained.  So maybe the ultimate limit for memory storage in the brain will have less to do with physical capacity, and more to do with how much information we can actively review, revisit, use, etc. over a given period of time, so those memories don't decay.
+
+Sorry if this is too speculative--you asked about something that is deeply interesting and pretty unknown! 
+
+
+
+
+ Thanks--I did actually get this far by Googling.  It's not clear to me from Wikipedia and other sources that this is how someone in the field of astronomy would refer to it, though, or if there is a systematic way of naming planetary systems that our system also fits into. 
+
+
+
+
+ Here's a cool article about it, linked from the Wikipedia article above! http://www.socialgenes.org/publications/Pub_TREE2.pdf 
+
+
+
+
+ Maybe this is a bit of a cheating answer, but any "tragedy of the commons" scenario (https://en.wikipedia.org/wiki/Tragedy_of_the_commons) kind of fits.  In humans, I'm not sure one could identify a single trait that drives this type of behavior, but selfishness, and the inappropriate bias toward considering short-term vs. long-term outcomes both play a role.
+
+In other species, even the simple drive toward reproduction can do this; if individuals are all exploiting a resource-rich environment and reproducing at a rate optimal for themselves, they can overpopulate the environment and crash. 
+
+
+
+
+ It sounds like you are using Terro, which is basically sugar syrup with Borax in it, and possibly the ants dealing with are these guys: https://en.wikipedia.org/wiki/Tapinoma_sessile.  If so, they are actually pretty cool from a biology perspective--in the wild, they have a normal colony structure, but in food and resource-rich urban areas, they go crazy and form massive colonies with multiple queens.  So you may be able to fight them back out of your house with Terro, but they will probably keep coming back every spring.
+
+I am not certain of the answer to your main question.  Ants and other social insects do recognize when nestmates are dead.  Inside the nest, they will move the bodies outside (in some species) or to a special area of the nest designated for dead bodies/waste (other species.)  Outside in the open, I'm not sure.  I don't think you need to worry about disrupting the traps if you touch them, though.  The ants should be very strongly motivated by the sugar syrup, and won't care if you touch it.  I would just move the trap back along the ants' supply trail so they still naturally bump into it on their way there, away from the dead ants. 
+
+
+
+
+ As AnIntoxicatedRodent says, epigenetic modifications are changes to the chemical structure of DNA (although they do not change the actual sequence of bases, the letters, of a DNA strand) or to the chemical structure of the protein complexes (histones) that DNA is wound around when it is packaged up inside the nucleus.  Researchers have several ways of looking for these modifications.  For example, they can use antibodies that stick to specific DNA or histone modifications, and then sequence the DNA fragments that the antibodies have bound to.  To look at a specific type of epigenetic modification, methylation of DNA, researchers can use a chemical treatment that converts the modified DNA nucleotide to a nucleotide found in RNA, that will show up differently when the DNA is sequenced and show that that location on the DNA strand was modified.
+
+However, we still know too little about epigenetic modifications and how they affect gene regulation to just look at how a stretch of DNA with a gene in it has been modified, and know from that how the gene's expression will be affected.  Researchers do use microarrays to measure the expression of many different genes simultaneously.  However, as DNA sequencing has gotten cheaper, faster, and easier, more researchers are now using "RNAseq", where the mRNA or other types of RNA in a cell are directly sequenced, as a way to measure gene expression.  Quantitative PCR is also used to very accurately measure the expression of one gene at a time.
+
+Looking at gene expression data and epigenetic modification data from the same cells or tissues, and exploring how those two things are related, is how researchers are continuing to learn more about how epigenetics works--how it helps control gene expression. 
+
+
+
+
+ In theory, and in a very simplistic way, yes; supporting the life of the most important pollinating bees would contribute to more efficient pollination of crops (assuming that one was focusing on the right species in the right geographical regions, close enough to where crops are grown, etc.)
+
+In practice, there are two major points.  One is that none of these bees are honey bees, Apis mellifera, the type of bee that most people imagine raising and maintaining.  For the purpose of the research done in this paper, honey bees were excluded because many of them are not "wild", and the researchers wanted to focus exclusively on wild bees.  Almost all of the species they looked at are not typically reared by humans, and none are "domesticated" to the extent that bees are.  Additionally, the majority of bee species in the world, and many examined in this research, are not "social," that is, they do not live in colonies.  They are solitary.  That doesn't really matter to answer your question, I am just too much of a nerd not to share!
+
+If you are interested in supporting bee populations though, there are lots of ways to do that less directly, including protecting whatever parts of the environment specific types of bees live in, planting bee-friendly plants to ensure that they have season-long access to food (instead of having no food whenever local crops are not in bloom), etc. 
+
+
+
+
+ So did Harry Potter. 
+
+
+
+
+ This seems like a really weird thing to be posting here . . . but please consider reading it anyway.  Despite the title and reputation, Anna Karenina is far from being the only main character in the book; to me, she's not even the most sympathetic one.  There are several interrelated, complex plots, and some themes related to human nature, morality, relationships, etc. that are still incredibly relevant.
+
+Of course, this all assumes that literature/Russian literature is to your taste :-)  But don't avoid it forever if knowing that one plot point is the only reason. 
+
+
+
+
+ I think this is my response too.  Do what Adnan said in his letter to SK: "pretend he's innocent," and then consider his perspective.  Hypothetical innocent Adnan doesn't know why or how Hae was murdered, or who murdered her.  He could be just as confused as all of us.  In that case, he couldn't presume that Hae would still be alive if they had never dated.
+
+Do I think that my personal connection with Adnan's quote proves that's what was running through his head, or that he's innocent?  Of course not.  I just think that because people wish so much that they could find out the truth of the case, they start thinking they can find some kind of murderer shibboleth in Jay's or Adnan's statements.  The reality is that the truth probably won't be found unless DNA testing or some totally unexpected source provides new evidence of some kind. 
+
+
+
+
+ This is actually one of my favorite segments of the whole show.  It obviously can't be used to prove anything about Adnan's guilt or innocence, but I actually relate to it a great deal.
+
+A few times in my life, I've gotten into trouble (not serious legal trouble, but minor altercations with authority figures or friends) due to what could be described as bad luck.  In each instance, while I hadn't been doing anything actually wrong, I still had made choices that were silly, or selfish, or irresponsible, and that led to me being in "the wrong place at the wrong time."
+
+When you make immature choices that combine with bad luck to lead to an outcome much worse than they deserve, it's not as easy as one might suppose to feel comfortable in the role of the hapless victim.  Years in prison would afford any wrongfully convicted person plenty of time to play the what-if game: "what if I had never been friends with Jay?  What if I had never smoked pot?  What if I hadn't tried to have a relationship my parents didn't want me to have?  If I'd been a better son, this wouldn't have happened.  If I'd taken my faith more seriously, I wouldn't have even been in a position to be accused."
+
+Look how even people who were genuinely victims often blame themselves or have bitter regrets over actions that may not even have contributed to their circumstances at all.  "If only I hadn't run back into the house for a sweater, I would have been two minutes earlier and this car accident never would have happened." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ One way is by studying a small sample population, through banding or radio tagging.
+
+For example, you might tag 50-100 individuals in an area (depending on how hard they are to tag, how expensive the tags are, etc.) and then see how many can be re-located the next spring. 
+
+
+
+
+ This kind of article is what I was originally looking for to write a response to this question . . . thank you for posting it. 
+
+
+
+
+ I am learning so much about bears today!
+
+Apparently the cubs do not hibernate, even though they are born in winter: http://bearstudy.org/website/images/stories/Publications/A_Bear_in_its_Lair.pdf
+
+And it looks like they do have a much higher morality rate than adults during their first winter, mainly because other bears are eating them :-/   http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_7/LeCount_Vol_7.pdf 
+
+
+
+
+
+
+
+
+
+ "Linked" in your headline is a good choice; since the study is based on correlation, they can't say whether anxiety is caused by sitting, more anxious people sit more, or some other relationship.
+
+Given other studies that have shown more tv watching leads to higher risk of depression, it definitely seems like a finding to pay attention to and explore further. 
+
+
+
+
+ I'm not very knowledgeable about that, and mostly I know about honey bees, which don't truly hibernate.
+
+What you're suggesting seems like a sound hypothesis to me, though. 
+
+
+
+
+ The exact mortality rate varies by species, geographical location, and time, but in every species I know of, there is some mortality risk during hibernation, due to predation, disease, starvation, etc.
+
+As a counterpoint to bats, apparently black bears have a really low mortality rate during hibernation, ~1%.  (Seems like that would actually be lower than their mortality rate during the summer!)
+
+ETA:
+
+1. Wow, I did not expect so much enthusiasm for bears!
+
+2. Although it apparently has been a topic of controversy, there does seem to be scientific consensus that bears hibernate:
+https://en.wikipedia.org/?title=Hibernation#Bears
+https://scholar.google.com/scholar?hl=en q=bear+AND+hibernation btnG= as_sdt=1%2C14 as_sdtp=
+http://www.reddit.com/r/askscience/comments/3atd68/how_common_is_it_for_animals_to_die_during/csfwpvo 
+
+
+
+
+ Animals probably don't know consciously whether another animal is an herbivore or a carnivore.  Also, they probably don't have reason to.  It might often be true that herbivores are good targets for predation, it's not universally true (eg, porcupines.)
+
+Carnivores do probably either learn (as individuals) or evolve (as a population) to prefer animals that are easier prey, as well as those that provide them with the nutrients they need the most: "Do wild carnivores forage for prey or for nutrients?: Evidence for nutrient-specific foraging in vertebrate predators."
+http://www.ncbi.nlm.nih.gov/pubmed/25767065 
+
+
+
+
+ It's also a lot more wrong than any physics textbook, I hope. 
+
+
+
+
+ I had to take two tries with American Gods.  Some of the little "interludes" between the chapters weirded me out.
+
+You might try the audiobook--I found it pretty well done, and it keeps you going/engaged through the bleak beginning until the pace starts to pick up.  It does pick up eventually, and becomes (what I found to be) an interesting mystery/thriller combination of a plot, with a lot of neat mythology mixed in. 
+
+
+
+
+ It seems like it would be tricky to create a true placebo control for CBT.
+
+From a little bit of searching the literature, it looks like CBT is often compared in studies with other types of therapy, and/or pharmacological treatment.  For example, in "Predictors of Treatment Efficacy in a Clinical Trial of Three Psychosocial Treatments for Adolescent Depression", CBT is compared with nondirective supportive therapy: "NST was designed  to control for the nonspecific effects of psychotherapy and  consisted of the  provision of support, affect clarification, and  active listening."
+
+While it's possible that individuals in this study had researched CBT and other forms of therapy, could recognize which form they were receiving, and believed strongly that only CBT could help them, it's more likely that they weren't really aware which form they were receiving, and didn't have a strong belief about whether one form was most likely to help.  The comparison of one form of therapy to another, instead of only to untreated individuals, should help control for a placebo effect related to receiving therapy in general.
+
+In general, it sounds like CBT has robust positive effects compared with many types of treatments: "The empirical status of cognitive-behavioral therapy: A review of meta-analyses"
+http://www.sciencedirect.com/science/article/pii/S0272735805001005 
+
+
+
+
+ They're only going to be used in sting operations. 
+
+
+
+
+
+
+
+
+
+ You have the right idea, although I would state this a little differently.  It's not just that the body is trying to "read" the impulses, ie, it's not getting confused because the impulses don't make sense.  It's that the electric current flowing through you is actually sending really strong signals through your nerves that automatically result in muscle fiber contraction, as well as a lot of other things.  It's similar to a radio station suddenly broadcasting a signal so loud that it damages radio speakers everywhere.
+
+When a current goes across someone's chest, it can cause fibrillation.  The heart muscles' normal rhythm gets drowned out, and the fibers lose track of that rhythm.  They can't get back in synch with each other again.  The heart is no longer pumping properly, and this obviously can cause death if something isn't done to re-coordinate the heart muscle action.
+
+In addition, (please someone correct me on this if I'm getting the physics wrong) the resistance encountered in the body by the electrical current will cause the body to heat up, causing burn damage to all the organs the current passes through.
+
+Edited to add a source: http://circ.ahajournals.org/content/112/24_suppl/IV-154.full 
+
+
+
+
+ This could be one aspect, but I'm not sure it's the most informative (although it could contribute to the amount of resources being protected in the nest, see below.)  Most stinging wasp species (unlike honey bees) do not die as a result of stinging--they don't have a barbed stinger or a venom sac that rips out along with their gut. So altruistic self-sacrifice isn't usually relevant.
+
+In addition, in many examples of social wasps, even the subordinate individuals do have some reproductive opportunities--unlike most social bees or ants, in which many or all of the workers are sterile.  So even if a given individual wasp did have to risk her life in defense of the nest, she would be doing so in part for her own offspring.  In some social wasp species, aggression between the individual wasps is what determines the social hierarchy and thus who gets the most reproductive opportunities.
+
+For the original question, there could be many selection pressures shaping the level of aggression of a wasp species.  For example, what kinds of predators attack the wasps, and how frequently?  What resources are they protecting?  One reason that honey bees have to mount an efficient defense of the hive is that they are protecting a hugely desirable resource--a huge collection of honey (sugar), pollen (fat and protein), and larvae (even more fat and protein, yum!) If a wasp doesn't store a huge amount of food in the nest, it may not be very tempting for other animals to attack, and evolve to be less aggressive.  What other animals typically predate on a wasp species might also shape what kind of animal they are likely to attack.  Some species might be very quick to attack a likely predator, maybe another insect, but not inclined to pick a fight with a large and usually non-threatening mammal.
+
+I would guess that you may be right--you don't hang out in the woods often enough to see wasp nests there.  They are probably also better camouflaged in their natural environment, and maybe higher up in trees than you are looking.  Houses are probably an appealing choice for a nest site though, because eaves offer more complete shelter than branches.  For wasps that predate on other insects, lights near houses might also conveniently lure prey. 
+
+
+
+
+ Years after I read East of Eden, I read some scientific literature on psychopathy . . . I was amazed by how closely her behavior and character matched the clinical description. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think part of the issue is that memories aren't likely to depend on just a few synapses--robust memory formation probably involves a redundant set of strengthened circuits, distributed throughout the brain. 
+
+
+
+
+ This is not actually new information for the brain.  It's new information for the hippocampus, but stable dendritic spines (synapses) have been documented n the cortex for many years now.
+
+Holtmaat, A. J. et al. Transient and persistent dendritic spines in the neocortex in vivo. Neuron 45, 279291 (2005 
+
+
+
+
+ I know these aren't bees, but you might be interested by honeypot ants: https://en.wikipedia.org/wiki/Honeypot_ant
+
+I've wanted to try one ever since I first heard of them, in elementary school. 
+
+
+
+
+ "Done because we are too meny" 
+
+
+
+
+ But doesn't gravitational pull also depend on distance?  You could get closer to the center of mass of the crumpled orange, so in that subset of cases wouldn't the gravitational pull of that orange be stronger? This is assuming OP meant the crumpled orange is collapsed inward, since the crumpled one is "more dense".
+
+Also, I wonder how you get a hollow orange. 
+
+
+
+
+ This RadioLab segment talks about what the original form of life was probably like: a big collective swamp of semi-living, self-reproducing chemicals.
+
+https://www.wnyc.org/radio/#/ondemand/91602
+
+Edit to add a little more detail: researchers are still trying to understand exactly how the transition from non-living to living happened, or even exactly how to define non-living and living in that transitional period.  Try this documentary: https://www.youtube.com/watch?v=NJQ4r81DZtY 
+
+
+
+
+ As horrible and impractical as I'm sure this will seem, a 10-20-minute power nap before you drive home would be the best and safest thing.  It might seem like you can't afford the time, but no one wants to wake up to the sound of their vehicle crashing . . . 
+
+" Consistent with our previous study (Tietzel and Lack 2001), the 10-min nap resulted in significantly improved alertness and cognitive performance relative to a no-nap control."
+http://onlinelibrary.wiley.com/doi/10.1046/j.1365-2869.2002.00299.x/full 
+
+
+
+
+ I think it could be because for a lot of the book, Shadow is lacking a sense of purpose.  It feels weird to relate to a main character who's kind of drifting along through a really bad time in his life, not even displaying a lot of angst about it.
+
+Trying to phrase this to be non-spoilerish, but after the train incident and especially after he eats his first pasty, I started feeling more excited about where the plot was going . . . but it was still a gradual ramp-up. 
+
+
+
+
+ I'm so excited to find someone else who has read it and enjoyed it!
+
+I completely agree.  I read it for the first time in high school, and as I revisit it every few years, I find myself learning new things from it and relating to it in new ways as I gain real life experience. 
+
+
+
+
+ When a sensory hair on the surface of the trap is bent, this stimulates stretch receptors--ion channels that open in response to a physical stimulus.  This allows positively charged calcium ions to flow into the receptor cells, and induces an action potential.  This is really similar to what happens in our own sensory neurons!  The ion influx changes the membrane potential of the cell locally, and this local change is propagated down the membrane throughout the cell as voltage-sensitive ion channels are stimulated by potential change.
+
+This signal is then propagated to other cells in the lobes of the trap.  If I am reading the literature correctly, this happens in part through plasmodesmata, pores between cells that let ions flow through.  These pores can let the ion-induced voltage change continue across the borders between cells.
+
+If two hairs are triggered within ~20 seconds of each other, the degree of the resulting signal is enough to induce a larger-scale change of ion distribution in the inner and outer surfaces of the lobes of the trap.  Either I can't find as detailed information about this part, or it is more poorly understood, but at least part of the mechanism of the trap closing relies on this ion distribution change, which causes the inner surfaces to shrink and the outer surfaces to swell, so that the lobes pop into a concave shape and snap shut.
+
+http://link.springer.com/article/10.1007%2FBF00394867
+http://www.nature.com/nature/journal/v433/n7024/full/nature03185.html
+
+Edit: TL/DR: The plant does (for all practical purposes) have a nervous system! 
+
+
+
+
+ The queen bee is the only honey bee who gets to poop inside the hive!
+
+All the worker bees have to hold it for most of the winter.  They only get to poop on freak warm days. 
+
+
+
+
+ The Once and Future King by T. H. White: an epic, humorous, philosophical, moving re-telling of the best of the King Arthur legends.  Composed of four books that progress from an almost childrens'-book level coming of age story, to a fable-like contemplation of good and evil, to a dramatic character study of a deeply troubled hero, to a heart-breaking contemplation of morality and the struggle against the dark side of human nature. 
+
+
+
+
+ Some things that we have hypotheses about, but no coherent, generally accepted explanation:
+
+Why do we yawn?
+How is a memory physically encoded in the brain?
+Why is sleep so vitally important?
+ 
+
+
+
+
+ Most insects are considered prime examples of R strategists.
+
+I say "most" to hedge my bets; I can't think of a K strategist insect right at this moment, but biology has a lot of quirks. 
+
+
+
+
+ Reading scientific papers is really hard.  It's a true developed skill.  The best thing in the long run is for you to just have a try at it, treat it as a learning experience.  Try to relax and take it slowly.
+
+Skim through the whole paper once, just trying to take in as much meaning as you can.  Underline words that confuse you and appear often, but don't worry about them yet, just try to get the gist of the whole paper.
+
+Now read it through again, slowly.  Look up the words you underlined, and note their meanings in the margins.  This can and probably should take hours.  That's normal.  This will get easier.
+
+Now read it a third time.  Look at your notes.  Think about the broader meaning of the paper again.  Now you can finally start to think critically about the paper's findings, what the authors did well or poorly.
+
+Don't give up!  Your work WILL pay off eventually.  It just takes lots of practice, frustration, and interludes for kitten videos.
+
+Here is a resource to help you understand the parts of a primary research article: http://askabiologist.asu.edu/article-dissection#abstract 
+
+
+
+
+ Except for honey bees, for which there are tons of data (and tons of winter mortality, sadly.)
+
+For example: http://www.capabees.com/content/uploads/2013/07/2014-CAPA-Statement-on-Honey-Bee-Wintering-Losses-in-Canada.pdf 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I hope that Prairie Cycle also plans to submit a letter to editor to News-Gazette in response to this piece, so that the readership of N-G can see these points as well. 
+
+
+
+
+ Thank you for doing this AMA, Dr. Perlak.
+
+If you could return to the time when GMO technology was first emerging, with the general public as blank slate, what might companies like Monsanto do differently to market GMOs, to educate the public about what they are and their risks and benefits?  Is there one broadly held misconception about genetic/genomic editing that you would most like to eradicate, to help the public make informed decisions about the pros and cons of GMO crops? 
+
+
+
+
+ I am right there with you my friend.
+
+Good reminder to me to go do leg raises and clamshells and weep softly to myself. 
+
+
+
+
+ *Dirk Gently's Holistic Detective Agency*, by Douglas Adams.
+
+*Interface* and *Cobweb*, coauthored by Neal Stephenson. 
+
+
+
+
+ Every book (or even every book I like) doesn't need to be deeply philosophical and nuanced.  I read for escapism sometimes too.  But I guess the fan hype is exactly what bothers me, and I think it's what the OP's original question was about.
+
+As to the author's intent, here's a quote from an interview he did with Conan: "I want my readers, and i want viewers to be afraid when my characters are in danger," he adds. "I want them to be afraid to turn the next page because the next character may not survive it."
+
+If I were a fiction writer (which I fully admit I don't have the skill to be, not even a really bad one) I would aspire to have my readers fear for the safety of my characters because they empathize with them so much, not because they've observed a 75% mortality rate among relatively non-evil characters and they're intuiting the math.
+
+Edit: And also, honor is a fault now?  You just can't win for losin' . . .   :-) 
+
+
+
+
+ Fair point, I have not.
+
+Briefly stated, my issue with ASOIAF (I actually read all the books so far, in a really over the top attempt to give them a fair shake and understand why my BF likes them) is not the violence per se, although I know this is the issue for many who dislike them.  It's that although the plot is exciting and full of cliff-hangers, I just don't get the sense of a lot of thought or meaning behind them.  No genuine reflection on human nature, philosophy, or the way the world works.  If characters die, it shouldn't be as a "gotcha" at the reader.  If a despicable character suddenly shows a more empathetic side, it should feel genuine, not like a plot twist for the sake of surprise.  This might be unfair to Martin, it's just my subjective experience.
+
+Are his short stories substantially different in style?  If it's just that novel-writing or sudden mega-fame changed his writing a lot, I'd be interested to give them a shot just for the heck of it. 
+
+
+
+
+ Everything by George R. R. Martin. 
+
+Please don't hurt me . . . I feel so alone. 
+
+
+
+
+ Also, although the discovery of adult hippocampal neurogenesis was revolutionary (and very controversial) when discovered, it is no longer new (over three decades old), although its study in relation to memory remains very exciting.
+
+http://www.sciencedirect.com/science/article/pii/030645229390335D 
+
+
+
+
+ I'm not trying to say it isn't exciting, just that its novelty and interpretation are being overstated.
+
+The resource I cite is one of many that have established in vivo imaging of dendritic spines.  This research has improved ability to image deeper brain structures repeatedly in vivo, but they are building on a lot of previous work, including the study I cited.  It's a great improvement, but not a revolution.
+
+The hippocampus is important, but it's the "golden child" for a lot of researchers, in a way that leads to unrealistic models of how the brain works.  To say that it's "particularly" important compared to the cortex sounds biased to me.  The cortex is hugely important.  So are primary sensory processing centers.  To make kind of a quibbling argument, for example, you wouldn't have a lot of auditory memory without ears, no matter how healthy your hippocampus is.
+
+Again, this work is important.  It just doesn't prove for the first time that synapses store memories, and it's being discussed (and portrayed as surprising) in the context of a biased way of viewing the brain. 
+
+
+
+
+ As I understand it, this is where the active edge of our understanding/ongoing research is.
+
+It does seem consistent with what we know that more senses involved in a memory, or more unique associations between it and other experiences or ideas, makes it more robust.  The way I envision this (which might not be actually correct) is that to remember something, you need to re-activate one of the circuits that represents the idea.  The more neural pathways are connected with that circuit, the more possible routes to recall you have, and even if some are destroyed, you could still be prompted by some stimuli to remember part or all of the idea. 
+
+
+
+
+ Apparently, almost all insect species will die if they are exposed to prolonged heat above ~105-120 degrees F/40-50 degrees C.
+
+I'm not sure exactly how size would come into play.  Smaller size might mean more rapid dehydration, but that would also depend on how that type of insect respires, how well its exoskeleton retains moisture, its color etc.  What cooling strategies the insect has, and how resistant its physiology is to overheating, would also matter. 
+
+
+
+
+ In general, yup, that is the theory.  The idea is that there's a sort of "natural selection" for synapses in the brain--connections that are used often are maintained, and those that are not used often will eventually weaken and disappear.
+
+This is even more true in developing brains, but even in adult brains, new possible connections are continually being formed, and then either discarded or retained depending on how active they are. 
+
+
+
+
+ Of course it can.  But this current study did not specifically demonstrate that the synapses they imaged were involved in encoding a memory either.  Their argument is only that they showed the synapses can last for the same time frame as a long-term memory. 
+
+
+
+
+ The researchers did some important work, but they weren't the first ones to prove that synapses can last a long time in the brain.  They showed it for a different region of the brain than past research has focused on.
+
+Another issue I have with this reporting of the work, and to some extent with the way the study is framed, is that they are building up the importance by linking it to a way of thinking about memory that I think is overly simplistic.  The dogma in the field is that the hippocampus, one brain region associated with memory, holds short-term memories, and these memories get "transferred" to the cortex, another part of the brain, to make them long-term.  It's one working model of how memories are represented in the brain, but in reality, it's much more likely that memories, especially the strong, long-lasting ones, involve changes in synapse placement and strength at all levels of processing--from the neurons that perceive sensory input, all the way up to the cortex, and even back out to motor neurons that direct movement. 
+
+
+
+
+ It looks like there might be a few studies showing a correlation between the two, for example: http://jiv.sagepub.com/content/early/2013/01/20/0886260512471081.abstract
+
+However, I think it would be really hard to prove causation.  It seems pretty likely that homosexuality or bisexuality would increase an individual's risk of being targeted for abuse in childhood and adolescence.
+
+What an incredibly heartbreaking topic. 
+
+
+
+
+ Social insects have a lot of neat adaptations to keep their nest spaces cool.  For example, the placement and angles of tunnels in a termite mound facilitate air flow and cooling:http://www.planetseed.com/relatedarticle/cool-termites
+
+Honey bees will forage for water on hot days, spread the water on the wax combs, and fan their wings to cool the hive via evaporation.
+
+Other insects may cool themselves with water, shade, dormancy during hot periods, or other adaptations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ From your comments below, you are asking if there is an advantage to applying to the same institution for graduate school that you attend as an undergraduate?  Sorry if I'm getting that wrong.
+
+In some fields, the answer is no.  You are encouraged to go to a new institution for graduate school, and to still another for a postdoc or other subsequent academic job.  This allows you to be exposed to new ideas and philosophies.
+
+However, I don't know about math specifically, so it would be a good idea to ask your academic advisor. 
+
+
+
+
+ That is really cool!  I think there's some research showing that bees can also retain memories of positive/negative odors through metamorphosis.
+
+I guess another thing this reminds me of is that as part of their efforts to read aloud to us, my parents (especially my dad) read some biographies of great scientists, and other science-related books; I can remember him reading us *Microbe Hunters* when I was in kindergarten.  I didn't necessarily understand all (or even much) of books like that when I was that young, but it meant I was already engaging with descriptions of how science works, what an experiment is, etc.  There are some really wonderful childrens' and adult science books out there.  I think part of what I remember fondly is how actively involved my parents were when reading aloud to us.  They would articulate questions that came to their minds about what they were reading, we would look up words together if one of us asked what they meant, things like that. 
+
+
+
+
+ Also a summary of this research was already posted today. 
+
+
+
+
+ Bees don't actually make honey for their young, they make it for adult bee consumption during the winter.  They do produce substances to feed to larvae, including royal jelly, in glands inside their heads.
+
+Otherwise, good question!  Some birds perform premastication, chewing up food and regurgitating it for babies.  Not sure if this is what you have in mind though. 
+
+
+
+
+
+
+
+
+
+ I have used Yurbuds for the last couple of years for running, and I love them.  I don't use them for much else, which I think has helped preserve them.  They have kind of weird shape to fit into your ears, and it takes a few times to learn how to put them in, but I find them comfortable, they allow in some ambient noise so that you can stay aware of traffic, and I haven't had any issues with cord failure or corrosion.
+
+I can't advise about devices, since I sync music to my shuffle, but you might try putting whatever you use into a snack-sized Ziplock bag.  I've carried my phone or a shuffle in the rain in a zipped bag, and they stayed dry. 
+
+
+
+
+ Those are good points.
+
+I guess I was trying to suggest either catch-and-release for bugs (with enough time in between those two to try to figure out what you've caught, maybe do some natural history observations on where it was found, what it does in the time when you have it, where you released it.)  Keeping a field journal of what neat stuff you see and catch would be great.  I don't see a need for a kid (as opposed to a taxonomist) to kill and pin insects when we can now pretty easily take a few fun pictures and then let them go.
+
+For keeping and rearing, I was thinking mainly of insects, actually.  I guess a good rule is, keep something as long as you can care for it appropriately.  If you can find a Monarch caterpillar, rear it to emergence as a butterfly, and then release it, you might very well be doing the Monarch population a favor!  My family caught common frogs, toads, and a couple of garter snakes, and kept them happy and healthy for years.  Wild turtles, chipmunks, ducks, etc. are probably harder to care for, will be unhappy if confined, and are better off left in the wild.  But observing these guys from afar, IDing them with a field guide, making notes on their behavior, are all good science/natural history experience.
+
+Figuring out this distinction, when is okay or not okay to touch, is also probably a good life lesson.
+
+Killing animals is a reality of life and research . . . if you did want to start dealing with that idea, you could do an earthworm dissection.  There are also companies from which you can order a properly preserved fish or frog.  I would wait until an age where your daughter could do this kind of thing in a meaningful way, by identifying organs and relating their structure to what they do, making drawings of what she sees, so it's a respectful use of the animal. 
+
+
+
+
+ "When you try to climb a mountain to prove how big you are, you almost never make it. And even if you do it's a hollow victory. In order to sustain the victory you have to prove yourself again and again in some other way, and again and again and again, driven forever to fill a false image, haunted by the fear that the image is not true and someone will find out. That's never the way." *Zen and the Art of Motorcycle Maintenance* 
+
+
+
+
+ Are Calvin and Hobbes in a wagon or sled at the top of a hill? 
+
+
+
+
+ Insect collection gear; nothing fancy is really needed (mesh net, small plastic containers for collecting, a few mesh and/or plastic cages should all be pretty affordable.)  Some books to help ID insects and other animals.
+
+Especially in a rural area, there should be lots of opportunities to catch and rear small critters.  A kid can learn a lot about science and responsibility by figuring out how to keep things alive for a few days or weeks.  There are also some neat citizen science projects out there where people report animals they've seen to help monitor threatened species. 
+
+
+
+
+ Actually, there are some ways that epigenetic modifications can be examined via DNA sequence (eg, bisulfite sequencing), so this area might be an opportunity to make predictions more accurate in the future by providing a record of environmental influences, rather than making these efforts futile. 
+
+
+
+
+ This is a really complex task; we are still in the process of learning what functions proteins perform, what genes code for those proteins, how variations in gene sequence and other DNA sequence affect gene expression and protein function, etc.
+
+However, this is something that forensic scientists, geneticists, and others have been working on in humans and a few other animals, with some success: http://www.newscientist.com/article/mg22129613.600-genetic-mugshot-recreates-faces-from-nothing-but-dna.html#.VZMA8kZdq2U
+
+In agricultural research, researchers are also working on predicting certain traits of interest from DNA sequence alone, such as milk production in cows, yield or stress tolerance in crop plants, etc. 
+
+Adding a bit of specificity after checking my facts.  Right now for humans, we can predict skin tone pretty well, and a few other traits with some accuracy (hair and eye color, hair texture, height, facial structure as above) but far from perfectly. As I said above, these areas are actively improving.  Reference: "Forensic DNA Phenotyping: Predicting human appearance from crime scene material for investigative purposes."
+
+So, right now, probably not for most organisms, or sort of for humans.  In the future (10-20 years) probably much better, at least for humans and organisms "of interest". 
+
+
+
+
+ That is the most fun sounding strength training I've ever heard of. 
+
+
+
+
+
+
+
+
+
+ It might be a little harder with no affiliation.  Knowledge and ideas are always good currency in academia, though.  Enthusiasm alone might not be enough, but knowledgeable enthusiasm has a much better shot.
+
+For the PIs you've identified, look up their prior published work on their websites or at the library, wherever you need to go to get access.  Read it and think about it.  Read some related work, or relate their work to what you already know from your undergraduate courses.  When you contact them, write a succinct first letter and not a show-offy one, but use your reading to articulate to them why you find their work interesting, and how you see your own intellectual interests and goals fitting with it.
+
+If you have any good connections to faculty from your undergraduate institution, and still feel comfortable contacting them for advice, it might be worth letting them know of your current interests and what schools/PIs you are considering.  Even if they are in a different field, they might have some social connection to one or more of the people you're considering.  They might be able to give guidance on how to get in touch with those people. 
+
+
+
+
+ One reason in addition to those already mentioned is the way that tendons attach muscle to bone.  Where the tendons interface with muscle and bone, there is usually not a clear boundary; there is a region where those two tissue types blend with each other in a complex way.
+
+If the tendon tears away from the bone during injury, which happens really often when certain types of tendons are injured, this interface can't be healed back to the way it was.  The tendon can be re-attached surgically, but that complex interface can't be duplicated.  Instead of regrowing the original tendon, scar tissue forms in that area, which is less flexible and weaker than the original tissue.  This scar tissue is more likely to snap than to bear the same range of motion and force that the original tissue could stand. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I guess part of it has to do with not just speed, but cost.  As sequencing becomes both faster and cheaper, not only would a researcher or a doctor sequence the genomes of more patients (for example), they would also use sequencing to look at gene expression, sequence the genome of tumors over time to look at mutations causing new drug resistance, sequence various types of samples to look at microbial populations in the digestive tract or elsewhere. 
+
+
+
+
+ In addition to what /u/skgoa said, both types of information transmittal that you described occur in the nervous system.
+
+The action potential fired by a neuron is stereotyped, always the same, but some sensory neurons do represent the magnitude of a stimulus (such as pressure) by increasing their frequency of firing, as you describe in your question. If I'm remembering my basic neuroscience correctly, in many cases this happens on a log scale--e.g. a stimulus 10x stronger would induce 2x increase in firing rate.
+
+In addition, dedicated neurons and neuronal circuits detect specific types of stimuli.  Light pressure would be detected by pressure sensory neurons in the skin; heavy pressure might also activate pain neurons, and the resulting subjective experience would be painful pressure. 
+
+
+
+
+ Open access article is here: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195 
+
+
+
+
+
+
+
+
+
+ This news article mentions a hypothesis that selection pressure to avoid predatory birds influenced early bats to become nocturnal, and that the earliest bats did not use echolocation: http://www.theguardian.com/science/2008/feb/13/bat.evolution. 
+
+
+
+
+ I've never worked with qPCR in a clinical setting, so how is 15 minutes achieved?  What about RNA extraction and cDNA synthesis steps? 
+
+
+
+
+ Another example of auditory hallucinations that may be pleasant is musical hallucinations.  Some people find them irritating or disruptive, but others may enjoy them.
+
+Link that mentions pleasant musical hallucinations in passing: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/ 
+
+
+
+
+ Even with the link to the paper reference, I can't see the full text of the original study.  I wonder what species they are comparing gray squirrels to?  Other squirrels, or other rodents?  It is neat that the squirrels change learning tactics quickly, but I wonder whether this is actually cognitive flexibility that contributes to their invasive success, or a trait that many rodents share. 
+
+
+
+
+ Thank you for taking the time to do this AMA, Dr. Heng!
+
+My understanding is that there are many different risk factors that predispose women to preterm labor and delivery, and you mention in your discussion that this heterogeneity may have contributed to small gene expression fold changes in your study.  Would it be feasible to identify several biomarkers that are more reliable for different sub-populations of patients?  In a clinical context where a rapid diagnosis is important, what kind of labwork (qPCR?) does one use to examine biomarker expression, and is there a practical limit to the number of genes that could be tested?
+
+Thank you again! 
+
+
+
+
+ When someone says "but I want X": " Want must be your master!" From The Enchanted Castle, by E. Nesbit.
+
+A very bad habit, since no one recognizes it and therefore it probably sounds weird or rude. 
+
+
+
+
+ Thanks for taking the time to answer!  Unfortunately, this is not quite what I was looking for.  I'm aware of the chemical complexity of odors, but for this activity I'd like to relate the subjective properties of  floral scents to the type of pollinator that each plant is adapted to attract (e.g. flowers that are pollinated by bees often have scents that a human would identify as moderate, floral and pleasant, while some fly-pollinated flowers have pungent, foul odors.) 
+
+
+
+
+ I've read a little bit about an ecology of cognition theory that suggests species with bigger brains and/or greater plasticity of behavior (~intelligence) tend to be more successful when adapting to urban environments.  Does that fit with your knowledge of the species that dominate in more urbanized areas?  Have your cameras captured any interesting instances of learned behavior (eg, crows using traffic patterns at intersections to crack and retrieve nuts.)
+
+Edit: is the fennec still at the zoo?  I saw it a few years ago and it was the highlight of my summer! 
+
+
+
+
+ I am designing an outreach activity related to pollinators and pollination, and would like to include a comparison of the odors of different flowers.  For logistical reasons I'd like to include a sunflower description, but haven't really smelled sunflowers too often . . . or at all?  I realize scents are tricky to describe except by relating to other scents, but any input at all would be great.  Google isn't helpful, and I'm not confident that a sunflower perfume is an accurate representation.
+
+I wonder if this is hard to answer because they have a mild scent and are often too tall to get "personal" with? 
+
+
+
+
+ This is great research.  I know just a tiny bit about biomarker research in cancer.  Why the choice to look on the level of protein, rather than mRNA?  Are these results easier to transfer to a clinical setting?
+
+I hope this isn't a dumb question :-/ 
+
+
+
+
+ Original article is open access, a more public-friendly summary is here: http://www.treehugger.com/lawn-garden/4-plants-your-garden-reduce-west-nile-virus-risk.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just to play devil's advocate . . . it could just be an editing oversight, a plotting mistake in a long and complicated book that no one ever caught.
+
+To demonstrate that this is at least possible, in high school we were assigned to read a book, in preparation for a visit of the author to our school.  Everyone in my class was upset about the death of a pet in the book; we spent at least half a class period discussing what the author might have meant by it.  Unlike most of these speculative discussions, we were able to "settle" this one by asking the author himself why he made that choice.  He laughed and said it was because he forgot that the pet was in the hazardous situation that causes its death in the book, and when he noticed during later edits, he decided to go with it instead of bothering to change it. 
+
+
+
+
+ Oh sorry, I totally agree with that objection.  I just thought maybe it was a misunderstanding of the actual research. 
+
+
+
+
+ I guess I'm asking more about how the quality of the original DNA compares with other DNA from ancient sources, and how much that might impact the quality/accuracy of the genome sequence that we have.  Are there potential biases in the sequence that would make phylogenetic comparisons more difficult? 
+
+
+
+
+ How do the challenges of working with mammoth DNA compare with the challenges of other sources of ancient DNA (from either a technical or informatics perspective?) 
+
+
+
+
+ If you think this research is neat, please go ask this guy some questions: https://www.reddit.com/r/science/comments/3coa1l/animals_can_coordinate_neural_activity_to_perform/csxwvj8
+
+Edit: Link to comment from a former member of the lab that did this work. 
+
+
+
+
+ Part of the issue is that it's not necessarily the same link, but very obviously the same research/original primary article.  Plus with a research story this unusual, common sense suggests there's no way it didn't already get posted 24 hours after it was published. 
+
+
+
+
+ https://www.reddit.com/r/science/comments/3csby1/scientists_demonstrate_animal_mindmelds/csygoym
+
+https://www.reddit.com/r/science/comments/3cosf0/neuroscientists_can_now_create_a_network_of/csxmer8
+
+https://www.reddit.com/r/science/comments/3cohmh/building_an_organic_computing_device_with/csxlcnh
+
+https://www.reddit.com/r/science/comments/3cog9k/animal_brains_connected_up_to_make_mindmelded/csxkf9k
+
+https://www.reddit.com/r/science/comments/3colgz/scientists_demonstrate_animal_mindmelds_new/csxib6n
+
+https://www.reddit.com/r/science/comments/3coa1l/animals_can_coordinate_neural_activity_to_perform/
+
+I know that fake internet points aren't the point of /r/science and maybe that's an argument why this shouldn't frustrate me.  But it's also an argument why people should do a better job of searching for prior posts before they post.  If the discussion of a research article is scattered across 5-10 different posts, it's probably going to be less awesome than if it were all on the same post.  By chance, a researcher who had worked in the lab this research came from commented on my original post.  I think that's really neat and I wish more people were asking him/her questions. 
+
+
+
+
+ This research has been posted 6 times in the last 24 hours. 
+
+
+
+
+ Frank McCourt, who wrote *Angela's Ashes*?  As far as I know, he was unknown before he wrote and published that. 
+
+
+
+
+ *The Dog Who Wouldn't Be* by Farley Mowat:
+
+[The pact of timelessness between the two of us was ended, and I went from him into the darkening tunnel of the years.](/s "The pact of timelessness between the two of us was ended, and I went from him into the darkening tunnel of the years.")
+ 
+
+
+
+
+
+
+
+
+
+ Thanks for pointing this out, this was a huge oversight in the headline writing.  The researchers in this study showed that the most commonly used antidepressant, along with several others, were not associated with increased risk of birth defects in their study. 
+
+
+
+
+ Original paper: http://www.nature.com/articles/srep11869
+"Building an organic computing device with multiple interconnected brains"
+
+Edit to add a cool quote from the paper: "Our central goal was to investigate how well [different ways of linking brain electrode inputs and outputs between four rats] could be employed by the four rats to collaborate in order to solve a particular computational task. [They tested] discrete classification, sequential and parallel computations, and memory storage/retrieval. As predicted, we observed that Brainets [the four rats linked together] consistently outperformed individual rats in each of these tasks." 
+
+
+
+
+
+
+
+
+
+ I think Dirk Gently is fantastic, and I've never heard of Last Chance to See!  I'm excited to go find it now. 
+
+
+
+
+ Echolocation was not the ancestral state.  Bats became nocturnal before they evolved echolocation.  There are many ways that evolution could work; to discover and prove how it did work in a particular situation takes more than guessing.
+
+Edited for my shameful spelling. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is this question related to this article/research? http://www.nytimes.com/2015/06/23/science/aphantasia-minds-eye-blind.html?_r=0
+
+Because I have a hard time picturing things, even faces of people that I see daily.  I just get a vague sense of what they look like, not a complete image.  I wish I could access the researchers' survey and see how I compare with the rest of the population. 
+
+
+
+
+ In addition to the outline idea (which is way more important than a lot of people realize) I have friends who swear by starting out their results section by choosing and creating/prettying up the figures and tables that will go into it.  If you don't like writing and/or are a more visual person, this is a way to start thinking about the important parts of your findings and what they mean before you have to start cranking out a lot of words.  You kind of sneak yourself in the back door of writing the thesis.
+
+Edit: also, I'm sorry to hear that this has been such a difficult time period for you.  I hope you are able to finish things up and move on to something happier and better! 
+
+
+
+
+ Since they did their experiments with adults, I'm not sure how the researchers are ruling out that instinctive tendency to cooperate has been suppressed by learning/cultural influences.
+
+Edit: I think part of the issue is with the headline.  In psychology, at least, it appears that "intuition" and "instinct" are NOT the same thing.  Instinct is innate behavior, something one is born with.  "Intuition" has to do with subconscious thought processes that are still related to experience or learned information. http://cogsci.stackexchange.com/questions/767/difference-between-instinct-and-intuition
+
+The researchers did not directly show anything about instinct; they looked at subconscious vs. conscious decision-making in inexperienced and experienced people. (Similar to what /u/dont_press_ctrl-W notes.) 
+
+
+
+
+ I actually think they don't have to be mutually exclusive.  For example, scratching a rash is both a reaction to the symptoms, and something that might exacerbate those symptoms. 
+
+
+
+
+ What if it were just a sentence or two on why the poster finds it interesting or surprising?  I'm sure that would be rife with other problems I'm not thinking of . . .  
+
+
+
+
+ A lot of snail species are hermaphrodites; some of these species have to take turns playing the "male" and female" roles with a partner, so that they can both reproduce.
+
+http://scienceline.ucsb.edu/getkey.php?key=2578 
+
+
+
+
+ This is a little bit skewed.  The average age of onset is 18 in men and 25 in women; that's past puberty, and particularly for women is well past the age one might begin smoking.  In addition, the research specifically looked at whether smoking behavior predated the schizophrenia diagnosis, and part of their argument is from the cases in which it does.
+
+The researcher is trying to suggest that we should look into nicotine use as something that might influence the tendency to develop schizophrenia.  If the association continues to hold up in other studies, it would be one more reason to encourage people not to smoke. 
+
+
+
+
+ i agree with your general message here, but I wouldn't say it's "barely a study."  It's a meta-analysis of 61 other studies.  There are some drawbacks to combining data from studies done at different times and on different populations, but it also gives you a lot more data to work with, so that it's easier to see broad patterns. 
+
+
+
+
+ I think the word "influence" would be more clear than "cause."  Schizophrenia has a multifactorial cause; genetics and environment both play a role.  What the researchers are suggesting, and trying to encourage further investigation of, is that if an individual has some predisposing factors to schizophrenia, smoking could be something that pushes them further toward diagnosable disease.
+
+My institution doesn't give me online access to the journal that published the original work, otherwise I would try to comment on the statistics that lead them to state that they can distinguish self-medicating behavior from smoking as a risk factor; but they do state that they are aware of this confound. 
+
+
+
+
+ I wonder why the authors didn't say "kin recognition"? 
+
+
+
+
+ In case it's confusing, "discrimination" in this context just means an organism treating its close relatives differently from other organisms of the same species. The word doesn't have the negative connotation that it does in human society.  In this case, bacteria are shown to evolve the ability to recognize closely related strains and share space with them, while not sharing space with unrelated colonies. 
+
+
+
+
+ "Clearly most smokers do not develop schizophrenia, but the researchers believe it is increasing the risk.
+
+The overall incidence of the condition is one in every 100 people normally, which may be increased to two per 100 by smoking."
+
+This is a much better representation of the findings than the title used here. 
+
+
+
+
+ https://www.reddit.com/r/science/comments/3coa1l/animals_can_coordinate_neural_activity_to_perform/csxdbna 
+
+
+
+
+ I guess it depends on what you mean by favorite, but in terms of accurate portrayal, Cathy Ames from *East of Eden.*
+
+I also like the reader is encouraged to feel some compassion for her, since she is described as someone born with a disability or deficiency, although an emotional rather than a physical one. 
+
+
+
+
+ I think a tattoo is plenty noticeable, but as you note, information can change.  Phone numbers, but also your medical needs or history could eventually change; you might want someone other than your parents as an emergency contact, etc. 
+
+
+
+
+ I know there's a lot of literature out there on this, but because you seem like you had a really good experience, and are excited to share: what did you do to teach yourself to toe-strike?  Did you do strengthening exercises to help retrain yourself?  Did you do anything (videotaping, etc.) to look at your stride?  How long did it take to start feeling natural? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

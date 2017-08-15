@@ -1,0 +1,105 @@
+ Well profootball reference has weekly stats in this format: http://www.pro-football-reference.com/years/2012/week_1.htm
+
+They also have a link to copy it in CSV format.  From there you could just convert the raw numbers into fantasy points.
+
+As for the copying and pasting, if you don't have any programming experience try using web scrapers like this one: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
+
+Not sure if that specific one is good but try using something like that to save yourself from having to copy and paste everything.
+
+Also if ya don't know how to program you should try out Python or R, both have a good community and a fair amount of tools for statistical analysis.  
+
+
+
+
+ Would love to see this analysis done for previous years as well.  While this is interesting information, it is still a small sample size. 
+
+
+
+
+ footballoutsiders.com does a good job rating defenses.  They also rate olines and dlines. 
+
+
+
+
+ Well I traded him the previous week. I sent him, asiata, and ertz for Rodgers and Gronk.  I felt good about the trade when it happened, less good when asiata scored 3tds, okish when Gronk got a garbage time TD, slightly better now that Ryan has lost 3/5ths of the his oline (including Sam Baker).  Also a heads up for Ryan owners, he plays 1 less home game this year b/c of the london game so that's another negative for him, as he does play better at home than on the road.  Also I wouldn't bank on his WRs to stay healthy for the year either.  Julio Jones was the biggest injury risk at the WR position coming into the season: http://sportsinjurypredictor.com/top-injury-risks-2014/  
+
+
+
+
+ There's that, but it isn't enough for local governments, hence all the tickets. 
+
+
+
+
+ It all depends on what you can get for him of course.  Before this weeks games I was able to package him, Matt Ryan and Ertz for Gronk and Aaron Rodgers.  You could probably do better after today's game.  You've seen his best game of the year so if you want to flip him for something else go right ahead. 
+
+
+
+
+ Here is some play-by-play data that's available: http://www.advancedfootballanalytics.com/2010/04/play-by-play-data.html
+
+This is for all of 2013:
+https://www.spreadsheet-sports.com/free-tools/2013-nfl-play-play-data-excel/
+
+
+There is also this fantastic database:
+https://github.com/BurntSushi/nfldb
+
+As for seasonal player data check:
+http://www.pro-football-reference.com/download/
+Pro football reference will probably give the stats you are looking for. They also have college stats.
+
+And if you are willing to pay for data there is this:
+http://www.armchairanalysis.com/data.php
+
+EDIT: More data, also includes combine data: http://nflsavant.com/about.php
+ 
+
+
+
+
+ According to Reid, it wasn't a severe sprain, but had the component of a high ankle sprain. [Source.](https://twitter.com/ChiefsReporter/status/511566349550624768) Apparently it didn't have the 4-6 week component of a high ankle sprain. 
+
+
+
+
+
+
+
+
+
+ This is fantastic! 
+
+
+
+
+ Looks like Vikings may change their minds: https://twitter.com/ProFootballTalk/status/511995714600452096 
+
+
+
+
+ Local news article with images of his son's injuries: http://minnesota.cbslocal.com/2014/09/12/adrian-peterson-indicted-for-child-abuse/ 
+
+
+
+
+ Article with images of son's injuries:
+http://minnesota.cbslocal.com/2014/09/12/adrian-peterson-indicted-for-child-abuse/ 
+
+
+
+
+ The NFL is lying about not seeing the video from inside the elevator.  Here is a quote from [this](http://mmqb.si.com/2014/07/29/jordan-gross-weight-retirement-panthers/2/) artice by Peter King: 
+
+"There is one other thing I did not write or refer to, and that is the other videotape the NFL and some Ravens officials have seen, from the security camera inside the elevator at the time of the physical altercation between Rice and his fiance."
+
+EDIT: More [info](http://deadspin.com/someone-is-lying-about-whether-the-nfl-saw-the-ray-rice-1631901404) from Deadspin 
+
+
+
+
+ Me too, for Philip Rivers  
+
+
+
+

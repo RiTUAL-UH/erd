@@ -1,0 +1,258 @@
+ Outside of pressurized storage, there have been a number of different research directions, including metal hydrides, porous materials, and different versions of chemical storage. The metal hydrides have seen more than a decade of intense research, and the challenges remain - one may be able to enable H2 uptake, but then the release kinetics are slow, or vice-versa, and they may be unstable over many cycles (and hence degrade).  Another area that has been interesting is that of metal organic frameworks, which the materials community called MOFs (pronounced 'mops', but with an 'f').  MOFs are synthetic porous structures that have enormous surface area, and most importantly, they can be tuned through synthetic chemistry to enable precise tailoring of characteristics.  They were shown early on (work of Omar Yaghi and others) to enable gas storage. Early concerns about stability of these structures to industrial conditions are being addressed by people like Jeff Long, and others.  
+
+Yaghi Group:
+(http://yaghi.berkeley.edu/bio.html)
+
+Long Group:
+(http://alchemy.cchem.berkeley.edu/home/)
+
+Dichtel Group:
+(http://dichtel.chem.cornell.edu)
+
+I heard Jeff Long give a talk recently, and his results for industrial applications of MOFs (he was talking about CO2 storage and gas separation in that seminar) were very impressive - the stability was excellent at higher temps, in the presence of quite a nasty mix of effluent gases.  
+
+
+
+
+ Storage, of course, is a huge issue.  For solar, the two big problems, of course, are clouds and the diurnal cycle of the earth (i.e., night!).  In addition, for mobile applications, storage is essential at all times. It is interesting to watch what is going on with respect to solar-powered water splitting (electrolysis of water) to generate hydrogen.  What I will call the "Dan Nocera/Nate Lewis" vision is one of cheap solar cells that generate electricity to split water into hydrogen and oxygen; the hydrogen can be stored in a tank under your lawn, under a park, village square, etc, and then fed back into inexpensive fuel cells to generate electricity on demand.  Some good overview links include: Nocera TEDx talk: (http://tedxtalks.ted.com/video/The-Sustainocene-era-of-perso-2), Lewis Lab: (http://nsl.caltech.edu/energy). 
+
+
+
+
+ It sounds completely corny, but it's highly motivating to interact with such incredibly smart people every day - authors, reviewers, my fabulous students, our editors, and editors of other journals with whom I often work. I often feel worried that I will let them down, and so I try to use even 2 minutes of downtime to get something done.  2 minutes here, 5 minutes there, it all adds up.  People like Paul Weiss, Prashant Kamat, Kirk Schanze, Laura Kiessling, are all high flyers who are always smiling, and going going going - their attitude is infectious.  
+
+
+
+
+ Hello Reddit! I am a Professor of Chemistry at the [University of Alberta and the National Institute for Nanotechnology in Canada](http://buriak.chem.ualberta.ca). I am also Editor-in-Chief of the journal, [Chemistry of Materials](http://pubs.acs.org/journal/cmatex), published by the American Chemical Society. The focus of my research group is the synthesis and characterization of nanomaterials and surfaces for applications in renewable energy, self-assembly for semiconductor-based electronics, and lots of other related directions.
+
+Research in renewable energies is one of the fastest growing research areas in science, if not **the** fastest. Thousands of scientists worldwide are focusing their careers and working lives on developing the means for civilization to be powered by renewables. Seem like a dream?  Research that is ongoing both in universities and industry around the world is pushing hard to make renewables a widely-deployed reality.  
+
+More solar energy hits the surface of terrestrial earth than all of humanity uses in a single year - we have a massive fusion reactor 'burning' in the sky, which represents the largest single source of energy humanity has at its disposal. The use of widespread solar energy has been stymied by a number of factors, including storage issues (due to intermittency caused by pesky clouds and the rotation of the earth), real or perceived higher costs of solar-derived electricity compared to fossil fuel-based generation, and general lack of understanding.
+
+At our journal, Chemistry of Materials, we receive many manuscript submissions each year, more than half of which are related to applications in renewable energy, including solar energy capture and transformation into electricity and solar fuels, battery storage, chemical storage (i.e., hydrogen, and CO2 conversion to diesel), and others. People are working hard on designing and producing cheap and flexible solar cells that can be printed like newspapers, while others are envisioning batteries that use salt from the ocean as their electrolyte, amongst many remarkable ideas.
+
+Please join me for a discussion about the materials being designed and produced today that are already being tested and applied, worldwide, for renewable energy generation and storage. Thank you!
+
+**Hi - I have to go (day-job is calling), but I will try to answer all questions throughout the day. Please keep the questions coming! So interesting  Jillian** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Now that is funny.  Those poor little fish, but we never really caught many, did we?  And no, but science was always what mattered.   
+
+
+
+
+ There is a revolution going on in the materials/energy field that is taking place as a result of recent developments in computational methods.  Alan Asparu-Guzik's Clean Energy Project, which you mention, is incredibly interesting thanks to the power of distributed computing, but I should also mention materials genomics.  Kristin Persson and Gerbrand Ceder founded The Materials Project, which could revolutionize the search for materials. To quote the website directly: "Harnessing the power of supercomputing and state of the art electronic structure methods, the Materials Project provides open web-based access to computed information on known and predicted materials as well as powerful analysis tools to inspire and design novel materials."
+
+https://www.materialsproject.org
+
+This approach is really cool.  
+ 
+
+
+
+
+ Hydrogen fuel, when pressurized, has the same energy density as liquid hydrocarbons.  H2 can be generated via solar-driven water splitting, and when H2 is burned (either directly, or via a fuel cell), it produces only H2O, which is carbon neutral.  Here are a few useful links:
+
+The Sustainocene: era of personalized energy: Daniel Nocera at TEDxCaFoscariU
+https://www.youtube.com/watch?v=u92O8LSkezY
+
+Keep an eye on this younger upstart in the solar fuels field (Curtis Berlinguette):
+http://people.ucalgary.ca/~cberling/
+
+And his company, Firewater Fuels:
+http://www.fwfuel.com
+
+A detailed chemistry-focused review by Nocera is this one:
+Solar Energy Supply and Storage for the Legacy and Nonlegacy Worlds
+http://pubs.acs.org/doi/abs/10.1021/cr100246c 
+
+
+
+
+ Interesting question that depends upon geography and your local situation.  2/3 of the world is not linked to the grid (power grid), and thus the concept of 'personalized energy' is extremely compelling, in the sense that the way that cell phones have enabled leap-frogging of landlines in much of the world, personalized energy generation may be able to do the same thing.  Inexpensive energy generation that can power lights, store power throughout the day to run household items, etc, does not require ultrahigh efficiency solar cells.  A 5x6 m2 roof with moderate efficiency solar cells (10%) can power even an energy-hungry US/Canadian household on an annualized basis, so don't discount the importance of cheap, stationary energy generation that just sits there, generating power, even if it is not 'high efficiency'.  According to the UN, having a light source a night is a huge factor in keeping kids in school. 
+
+For grid people, the answer is convoluted by price comparisons with fossil fuel electricity generation.  I strongly believe that we should be using solar energy as it is the single biggest energy source available to humanity, which has the added bonus of being carbon neutral (!), but the way our economy is structured at present, we will use the cheapest form of power.  So, I strongly support the idea of solar farms in deserts, factory rooftops, new house construction (much cheaper to install during construction as opposed to an after-fit); reality, however, dictates, that these farms need to be economical and cost competitive, which is a challenge without charging for CO2 emissions (i.e., a price on carbon emissions, which is essential).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There is a lot of work going in the area of inorganic light absorbers for solar cells, particularly those that are non-toxic and earth-abundant (i.e., lots of the element in the earth's crust, such as iron, copper, nickel, etc).  Good old fool's gold (iron pyrite), a staple in every kid's rock collection, is making a comeback as it has great light absorption characteristics, but has problems related to annoying surface defects that wreck the output of the cell.  Another area is catalysis - catalysts that can make water splitting (into hydrogen and oxygen gases) efficient, and people have shown that iron and nickel oxides are effective.  That's neat.   
+
+
+
+
+ Agreed that if you are still using fossil fuels to generate electricity, then the savings with respect to CO2 emissions are not great.  Automotive people do say, however, that electric cars are more efficient with respect to energy usage as the pesky heat problems in a combustion engine are basically non-existent.  So, there are some savings with respect to energy usage/CO2 emissions if you use an electric car. But, as for your question about the Powerwall, as a stand-alone battery, it's not ideal.  
+
+But, others see the Powerwall as a baby step towards the long range goal, which is renewable electricity generation interfaced with a home energy storage system.  Here is a Toyota home prototype "Smart House".  Of course this is a demo, but people are thinking, and trying things out.  
+
+http://www.toyota-global.com/innovation/environmental_technology/plugin_hybrid/magazine05.htmlglo
+
+I love this idea - having these concepts on the shelf are important.  
+
+
+
+
+ It is fascinating to watch the trends moving through science, particularly through the energy fields.  Over the past two decades, the big thing was dye sensitized solar cells (DSSCs), the really neat architecture first published by Graetzel at EPFL in 1991.  Then along came organic photovoltaics (plastic solar cells), which have enormous potential, but also have lifetime issues (it is obviously bad if your solar cell degrades in the sun!).  For the past few years, perovskites, of the composition CH3NH3PbX3 (where X is a halide = Cl, Br, I) have been the darling of the research field.  These materials have been sitting under our noses for decades, and perhaps even a century, and it was only in 2009, and then 2012, that the right combinations of materials were assembled to produce high efficiency solar cells.  Very large numbers of experimental papers are being published.  For lead references, have a look at the following websites of these (mostly) experimental groups:
+
+Website of Henry Snaith (Oxford):
+https://www2.physics.ox.ac.uk/research/photovoltaic-and-optoelectronic-device-group
+
+Website of Prashant Kamat (Notre Dame):
+http://www3.nd.edu/~kamatlab/
+
+Website of Michael Graetzel (EPFL):
+http://lpi.epfl.ch
+
+All of the research areas I mentioned above have enormous potential, and many smart people are working on them, around the world.  Good to see.  
+
+
+
+
+ Both! Depends. How terrible an answer is that?
+
+Let me give you a few scenarios - in northern Canada, we have thousands of isolated communities that generate electricity locally using diesel-powered generators; the diesel is driven up on ice roads in the winter, and the cost per kWh is ridiculous - $ 0.35 kWh to $1 kWh.  Even if they can only use solar for 6 months of the year during their very long summer days and the tails on either end, it would save a lot of money, not to mention the associated CO2 emissions.  
+
+The Sahara has been considered many, many times, as an enormous solar farm to generate power for Africa and Europe, but political instability and inefficiencies have stood in the way. In this piece by Nate Lewis in the Materials Research Society Bulletin, called "Powering the Planet", he quotes the Sutton Principle: True or not, the story goes that when the clean-cut, polite bank robber, Willy Sutton was caught, he was asked by a reporter why he robbed banks. His response: "Because that is where the money is".  The Sahara and other desert areas are huge sources of energy; our planet is small, and the population continues to grow and industrialize, so eventually we will get our ducks in a row and use it.  We will have to.  
+
+nsl.caltech.edu/_media/energy:ptp-mrs-bulletin-oct-2007.pdf
+
+https://en.wikipedia.org/wiki/Desertec
+http://www.voanews.com/content/solar-power-plant-in-africa-to-supply-europe/2500171.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I do say to fusion scientists/colleagues, with a tiny bit of good nature, that we already have an amazingly powerful fusion reactor, and that of course is the sun.  That said, I personally admire the idea of fusion, and support the research ongoing at ITER (https://www.iter.org) and other places, but since the first experiments are not going to even be run until 2027, I would like to see us effectively use our single biggest source of energy at our disposal - solar energy hitting terrestrial earth, all the time.  
+
+There has been, however, press about Lockheed Martin being on the verge of portable fusion:
+
+http://lockheedmartin.ca/us/products/compact-fusion.html
+
+http://www.eweek.com/news/lockheed-martin-claims-sustainable-fusion-is-within-its-grasp.html
+
+Wish that I knew more about that. The details are being kept quiet.  
+
+ 
+
+
+
+
+ Wow - incredibly futuristic questions.  Let me try to tackle them, but please remember that I don't own a crystal ball yet to see into the future.  If anyone has one, please let me know if I can borrow it.  
+
+1) There has been concern for some time about nanomaterials in the environments.  There are, already, plenty of nanomaterials naturally occurring (soot from our forest fires, for instance, are full of nanoscale carbon and inorganic oxides), and of course rock dust, etc.  That said, I would prefer that we err on the side of caution when considering mass production of new materials, with concomitant releases into the ecosystem.  But, if the nanomaterials are confined, and accompanied with a very good quality recycling program (a la Germany, for instance), the risk is certainly minimized.
+
+ii) CO2 emissions worry me much more with respect to warming.  Since people are talking about interfacing thermoelectrics with solar to scavenge heat and convert to electricity, perhaps this problem (and I am not sure it is really a problem) can be managed and used to its advantage to generate even more power.  Think of how many black roads we have criss-crossing the globe, and dark flat roofs - do the numbers compare?
+
+iii) Modular interfaces - my better half is an electrical engineer, and he believes that the solutions to make interfacing easy are coming because they have to.  Remember cell phones and the staggering array of chargers and batteries for sale at Future Shop - that was awful.  If that can be avoided, we will be better off - agreed. 
+
+iv) Wireless charging, just like what Nikola Tesla himself so beautifully demonstrated over a century ago, is interesting.  What you are proposing is fascinating, and I leave it to the big-thinking electrical engineer types to work that out.  
+
+v) Solar and wind are democratic energy sources for the most part, and certainly more than fossil fuels.  Inexpensive solar will level the energy playing field - Tata in India is looking closely at solar fuels, solar energy. Look at what China is doing in the area of solar cell deployment.  I see personalized energy, enabled by solar power, as the equivalent to the cell phone - forget the landline (the power grid), and just generate your own power locally.  Now that would help global inequality, and increase the chances of long-term survival of humanity and mankind.  
+
+
+
+
+ Agreed - in many jurisdictions, solar is cost-competitive with legacy fossil fuels.   
+
+
+
+
+ This is one of the hot areas of renewable energy/materials science that is being tackled from two directions.  As mentioned earlier, materials genomics is a computational approach to discover new materials (which may, in fact, be old materials, or special combinations of very common materials):
+
+https://www.materialsproject.org
+http://aspuru.chem.harvard.edu/the-clean-energy-project/
+
+The second is one that involves looking at "rock materials" - compounds that are stable as rocks (because they are, in fact, rocks), abundant, and won't degrade in the sun.  I see famous people giving talks who start with a plot of earth-abundance of elements from the US Geological Survey.  It is interesting to see the push to use iron, copper, sulfur, zinc, and others - some of these materials were studied decades ago during the energy crisis of the 1970's and forgotten (zinc phosphide, iron pyrite), and others were studied by geologists and only published in tables of interest to geologists. With the power of nanoscience approaches, which enable the synthesis of nanoscale versions of these materials, these materials can then be processed as a paint-on or spray-on "ink", there is lots of optimism that these approaches are going to work - they already have led to a number of interesting leads.  
+
+Prashant Kamat talks about his Sun-Believable Paint-on Solar Cells, which are really great ideas and can be extended to any combination of elements:
+http://news.nd.edu/news/28047-notre-dame-researchers-develop-paint-on-solar-cells/ 
+
+Sun-Believable Solar Paint. A Transformative One-Step Approach for Designing Nanocrystalline Solar Cells
+http://pubs.acs.org/doi/abs/10.1021/nn204381g 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

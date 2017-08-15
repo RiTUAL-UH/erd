@@ -1,0 +1,91 @@
+ The Macbook Pro is really a great option, and you can use parrallels Desktop to run Windows simultaneously. That said, depending on your budget - try looking at some ASUS systems like the [G501](https://www.asus.com/us/Notebooks_Ultrabooks/G501JW/). They are equally good as the MBP. 
+
+
+
+
+ Doesn't work when compiled with pdfLatex 
+
+
+
+
+ Another point is top 10 is a bit fuzzy. For example - in materials science there are multiple subfields like ceramics, polymers etc. Some school may often be better in a subfield than a much higher ranked school. 
+But yes, overall rank matters slightly - and the reasons have to do with funding. As someone who has spent their grad career in both a top 10 and a 50th ranked school the difference in financial situations is striking - and that matters a lot, especially if you are an experimentalist. 
+
+
+
+
+ I am a huge Garamond fanatic - and consider the EB Garamond much better than the standard URW Garamond. I have been considering switching over to EB Garamond - not in XeLaTex -- but in pdfLaTex. Has anyone here succesfully done that? 
+
+
+
+
+ Smells fake.
+Especially, the following phrases jump out:
+
+*lived in the woods* and *started several of my own businesses* 
+
+
+
+
+ Have you thought about teaching at 4 year colleges like Rose Hulman? 
+
+
+
+
+ If you are a condensed matter physicist, it is easier to enter academia in materials science - rather than physics. Just my 2 cents.
+
+There are also better materials science schools in your vicinity than physics schools ([applying the 12 hour driving limit](http://www.freemaptools.com/how-far-can-i-travel.htm?address=kansas%20city,%20ks speed=60 time=12 accuracy=5 u=miles hw=false m=false mode=DRIVING)) - except for CU Boulder. 
+
+The best physics programs are almost always on the coast (Princeton, Berkeley, Harvard, MIT or Stanford or Cornell). And getting a tenure track position without a top 10 physics degree is fast becoming impossible (MatSE is almost no better in this regard).
+
+But the midwest has several excellent schools - in Illinois (Northwestern, UIUC), Ohio (OSU), Iowa (Iowa State - Ames Lab). 
+
+Of course, if your area of interest is something else then none of the above apply. 
+
+
+
+
+ Background please? Like - why was the injection *malicious*? 
+
+
+
+
+ The whole world wants to sell me something. I, for example remember when Quora was decent (it was not great). Then came the SJWs, and then came the Indians. 
+IRC truly is eternal 
+
+
+
+
+ The most important question here - Kate Moss flies Easyjet? 
+
+
+
+
+ I collaborate a lot. I go by a rule, which has made me considerably happier now. I go by perfection on my own primary author work, and go by "good enough" on my secondary author work. 
+
+
+
+
+ Crying is bad for you professionally - but the flip side is that academia often has piss poor HR - leading often to those situations arising in the first place. 
+
+
+
+
+ Everybody wants you to do everything in grad school. Which is why you must prioritize. Do only that work that would lead to a publication - nothing else. 
+Things can wait - no one will die because of that. 
+
+
+
+
+ Well it's true. Idiocy should be called out for what it is - rather than hiding behind a veil of political correctness. 
+
+
+
+
+ The vast majority still use MATLAB. But because of rising costs - groups are switching to Python along with numPy and sciPy. Try getting the Anaconda distribution - it has all the tools you will ever need and is completely free.
+
+I still have high hopes from Julia, but the noises coming from that sector are not always very encouraging. 
+
+
+
+

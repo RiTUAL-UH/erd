@@ -1,0 +1,1466 @@
+ As well, once you get a bit of gunpowder, you can duplicate it via Alchemic Chemistry with blood, or hand in the repeatable quest "Covered in Ash" 
+
+
+
+
+ Yup. ME^3 's gonna win. GG, m8. 
+
+
+
+
+ Running Red is about being dead. 
+
+
+
+
+ And really, m8? Parcel gets a flair, and I don't?
+
+I see how it is .
+
+:P 
+
+
+
+
+ I'm in Party Mode
+
+\o\
+/o/
+\o\
+/o/
+\o\
+/o/
+\o/ 
+
+
+
+
+ And yes, these are HQM maps. 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Says the person who loved it prior to being banned. 
+
+
+
+
+ Why is your name VikeStep? 
+
+
+
+
+ It's all good! \o/ 
+
+
+
+
+ m8, not trying to be rude or anything. Your explanation was very good, I was just pointing out some stuff you missed. No need to yell at me 
+
+
+
+
+ I also think the story deserves some focus, as much of it revolves around it. The player is dead, and has to cope with being dead. It takes place between life and whatever happens after. Very light and cheery, right? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ :O
+There's a mods section on the MC wiki? :OOOOOOOOO 
+
+
+
+
+ /r/PCMasterRace 
+
+
+
+
+ \o/ Amazing!
+Suggestion: I don't know if you've done this, but you are able to disable Mystcraft Instability per-age. There's an in-game command to do it. 
+
+
+
+
+ First, put a Fluid Transition Plane next to the lava to soak up the liquids, like Cypher said.
+Then, if you want, you can have the AE network output a certain signal when it's grabbed enough Lava. Have it output to the Master Ritual Stone, and bam! It will only consume a certain amount of lava before turning the ritual off. 
+
+
+
+
+
+
+
+
+
+ You're amazing at everything, it appears :P 
+
+
+
+
+ Yes, I'll get that out in a few updates. It has the compass texture because I can't texture :P
+I've gotten permission to use other textures in an upcoming update, so don't worry! :D 
+
+
+
+
+ Yeah I waited until I had a Igneus Extruder going to make Compressed Cobblestone for my farm 
+
+
+
+
+ I'm doing Blood Magic/Botania, probs Mekanism/Thermal Expansion. Also the big "everything centered around Blood Magic" one, AKA Running Red. 
+
+
+
+
+
+
+
+
+
+ Personally, I prefer to play Demoman. 
+
+
+
+
+ http://youtu.be/CmNuQf_L-3A
+
+This video shows off the new gamemode I created. All it is is a simple config file that the server downloads, and executes, allowing for anyone connected to play in a Zombie Apocalypse, without any download required by the client.
+
+From "About.txt":
+"The game is a four player co-op match where you attempt to complete the original objective of the map. In Upward, you push the cart, in Process, you capture the 3 control points, in King, you try to capture the control point and survive for 3 minutes. Unfortunately, in Apocalypse Rising, the players are hindered by zombies. These zombies spawn in groups of 6, every 20 seconds. Not only that, but each player only has one life per match, adding to the overall difficulty. [There are 3 maps that have support included in this, Upward, Kong King, and Process, all of which represent a different difficulty. Included in the readme file are instructions for adding compatibility to new maps.]
+
+Apocalypse Rising was created in order to give clients a fun, easy way to play TF2 as a zombie game. The policy I had when making this was that I wanted there to be absolutely no download on the client's end, and that policy has held up until the end.
+
+I'll take a moment here to say that Apocalypse Rising is completely open source, just read the configs to see what's happening, and feel free to change or add stuff to it.. Maybe I'll even make a video on that."
+
+Download: https://www.dropbox.com/s/rrapzh7yfaywytq/Apocalypse%20Rising.zip
+
+Thank you for looking at this. -Gideon Seymour 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Immediately after the announcement, I tried to feel sad that I didn't win. And I tried. But I couldn't feel sad. There was no reason to (aside from the lack of communication between the hosts and participants). I would have made Running Red anyway, I'd had the idea for a while, but this competition just gave me a reason not to procrastinate. It wasn't about winning. It was about making a good pack. And I feel I have done that. I've made a pack that sends a message, and is unique, which is something that rarely happens these days. I've accomplished my goal, and gone far above it. Running Red got listed, which is something I've only dreamed of. @PurpleMentat , who has always been one of my favorite Youtubers, did a series on my pack. Plus, I tied what is currently the most popular modpack. I consider that to be a huge achievement. I'm happy to have been part of this competition. It wasn't about winning. It was about sending a message. And you know what, I accomplished my goal.
+
+Thank you for all that you've done, and congratulations to Parcel. 
+
+
+
+
+ It (once I finish the story) will have a great impact if you choose to kill the cows and chickens. 
+
+
+
+
+ I'll look into that 
+
+
+
+
+ Forge version 1217 
+
+
+
+
+ The biggest similarity is that is uses HQM.
+Public Pack Code. 
+
+
+
+
+ Sometime in the next 72 hours, and playing the first will not affect the second. Completely different experiences. 
+
+
+
+
+ Yes. 
+
+
+
+
+ The pack team hasn't put it on the launcher quite yet. There's a download available here:
+https://www.dropbox.com/s/j6u0kljn6mni96e/RR2VMRC1.zip?dl=0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * ArmorStatusHUD
+* DirectionHUD
+* StatusEffectHuD
+* Technomancy
+* Mine   Blade Battlegear II
+* Applied Energistics II
+* Blood Magic
+* BloodUtils
+* Carpenter's Blocks
+* CharacterOnGUI
+* CodeChickenCore
+* Deadly World
+* EnderIO
+* EnderStorage
+* Forestry
+* Hardcore Questing Mode
+* Inventory Tweaks
+* Mantle
+* Minetweaker
+* MobDrops
+* Mob Properties
+* Natural Absorption
+* NEI Addons
+* NEI Plugins
+* NEI
+* OpenBlocks
+* OpenEye
+* OpenModsLib
+* OresPlus
+* Railcraft
+* Sanguinomancy
+* Special Mobs
+* Spice of Life
+* Steve's Factory Manager
+* Tinker's Construct
+* Vampire Money
+* WAILA
+* WAILA Harvestability
+* WAWLA
+* WaslieCore
+* What's This Pack?
+* Witchery
+* CreepersFire
+* WorldOptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's also a recipe. 
+
+
+
+
+ Crashlog? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ \o/
+
+Amazing. 
+
+
+
+
+ I had this dream that the results were leaked to Panda and then we grilled him for information. He didn't say anything, and then the results were released.
+
+You won, because you had a Mini-Me of Slowpoke101. Slowpoke said in the dream post that there was no other reason.
+
+It was the worst nightmare ever. 
+
+
+
+
+ You wish. 
+
+
+
+
+ It's LOL. Apparantly it originated on 4chan. I blame ThatOneSlowking for it. 
+
+
+
+
+ top kek 
+
+
+
+
+ top kek. 
+
+
+
+
+ I like parties. 
+
+
+
+
+ You need slabs on all the sides, and then you can water them with a Watering Can to speed up the growth drastically. 
+
+
+
+
+ I make Running Red. I just want to be First ^ ^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not too late to add it.... ;) 
+
+
+
+
+ Running Red spatial cell coming right up 
+
+
+
+
+
+
+
+
+
+ You could try Running Red 2: Vampire money [here](http://forum.feed-the-beast.com/threads/1-7-10-beta-running-red-2-vampire-money-chapter-one-hardcore-magic-rpg.51957/). It's a hardcore pack based around combat. And other fun stuff. 
+
+
+
+
+ :3 
+
+
+
+
+ It appears so. I'm working on a fix 
+
+
+
+
+ Running Red?
+
+#shamelessplug 
+
+
+
+
+ And yeah. If you didn't see what trajing said, the release is now available on the launcher 
+
+
+
+
+
+
+
+
+
+ What version of BM are you using? 
+
+
+
+
+ Here, I'll give a few more, as people haven't found these:
+
+* Energy Cube from Mekanism (Mechanized)
+* Die 64 times (We're Not Working Out)
+* Something involving Milk. I can't remember what, exactly (Running White) 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Explosions. 
+
+
+
+
+ The guy who says that he is you.
+
+GG m8. 
+
+
+
+
+ http://gideonseymour.blogspot.com/2014/09/in-response-to-this-httpthewatcher-blog.html
+
+All there. 
+
+
+
+
+ Despite the fact that you told me this was your account several times on IRC. 
+
+
+
+
+ Bloody hell, RealSketch.
+
+You have some sources for that conclusion? 
+
+
+
+
+ I use Unity by CyanideX, as even things that aren't textured yet blend in well with the theme 
+
+
+
+
+ There's one being developed here:
+http://forum.feed-the-beast.com/threads/1-7-10-hqm-hardcore-the-butterflutter-0-0-1.51296/ 
+
+
+
+
+ The pull request is being merged, which does several things, but the most important being the move from the BC API to the RF API 
+
+
+
+
+
+
+
+
+
+ And adding in the Lifesteal effect. Normal Golden apples will not be craftable, and Ghasts won't drop tears*. The only non-violent way to get health regen is via Notch Apples.
+
+*Air Sigils 'n all the things that use the tears as components will have altered recipes. 
+
+
+
+
+ If you can get it 
+
+
+
+
+ It's a custom potion effect designed by Strikingwolf that gives health regeneration when you damage things, AKA drinking their blood. You get the effect thanks to Lore Expansion, which awards you the effect when you get the appropriate piece of lore, AKA your level of vampirism 
+
+
+
+
+
+
+
+
+
+ Pretty much. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aha. I see what you did there. 
+
+
+
+
+ And in EnderIO you can upgrade your machines with new Capacitors as you go. You can also upgrade your armour and conduits. 
+
+
+
+
+ Not sure what he's looking for in a point. Unless you've got a quest book, Minecraft is a game where you do whatever you want. It's sandbox for a reason. If he truly wanted a point, he could use HQM or play another game.
+
+And it's not like TiC has more of a point than EIO.
+
+What could have happened:
+ someone (~chatzilla@2001:558:6025:b:61a6:66e3:ae28:196a) has joined #TinkersConstruct
+
+"I've made a Pickaxe. What am I supposed to make next?"
+
+"Tell me there's something to make next. I will be severely disappointed if there isn't."
+
+"I'm looking for progression or something to do other than 'hurr move dirt and stone around'"
+
+"I'm looking for a goal or task that the mod wants me to perform."
+
+"The mod has content with absolutely no direction or purpose on its own?"
+
+It's a sandbox game. It's not meant to have a goal. 
+
+
+
+
+ I always ask this :P 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ For the armour, it only blocks 90% of damage now, if you have the required blood. However, using Soul Harden, you can get it back to 100%.
+But it was buffed at the same time. Now it has more protection against Piercing and other negative effects like Wither. 
+
+
+
+
+ /u/SatanGives ?
+
+(/me hopes that's the right way to do it on Reddit) 
+
+
+
+
+
+
+
+
+
+ This is my base on a slightly modified PhoenixCraft II. I think it's pretty good, but I need some help figuring out what to do. I give descriptions and stuff on the album's page. I'm usually not one for aesthetic builds, so this is a little new to me. 
+
+
+
+
+
+
+
+
+
+ Not sure how up to date this is, but there's this: http://forum.feed-the-beast.com/threads/cofh-world-generation-users-manual.48678/ 
+
+
+
+
+ Sweet! 
+
+
+
+
+ Everyone's favorite Blood Magic Dev [WayofTime](https://www.youtube.com/user/WayofFlowingTime) has been playing Bevo's Tech Pack for 1.7.10. 
+
+
+
+
+ It's filling the internal buffer. If anyone were to use "I'm Looking at Blood" (an addon for WAILA), or take out the Vanilla Sigil of Sight, they'd see that it is filling the internal buffer. 
+
+The Internal Buffer itself holds 10% of the Altar's max capacity, so for a non-upgraded Blood Altar, it would drain about 1000 blood. Subsequent upgrades (E.X. Runes of Augmented Capacity) will increase that, and Runes of Dislocation will increase the speed at which it fills/empties. 
+
+
+
+
+ This guy explained it well:
+http://www.reddit.com/r/feedthebeast/comments/2jnu9f/i_havent_played_minecraft_in_a_year_and_a_half/cldkhgj 
+
+
+
+
+ I know how to use Lockdown, m8. But until the feature is added that allows for one to specify the spawn dimension, you can use PerfectSpawn to specify it.
+
+As of right now, Lockdown and PerfectSpawn do different things, as Lockdown generates the same world, and PerfectSpawn specifies an exact spot for people to spawn at. 
+
+
+
+
+ You can use PerfectSpawn for that 
+
+
+
+
+ ...Blood Magic 
+
+
+
+
+ Adding to this.
+
+For even more guidance on mods that aren't in Monster, [Material Energy^3](http://forum.feed-the-beast.com/threads/1-6-4-material-energy-3-jampacked-hqm-ctm-beta.48913/) appears to be popular, as well as [Running Red](http://forum.feed-the-beast.com/threads/1-6-4-running-red-v1-1-4-jam-packed-hardcore-magic-rpg-good-as-crash-landing.47464/) (#Shamelessplug).
+
+Running Red is focused around telling a story (and a fun mod called [Blood Magic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0-updated-oct-13)), and may have a theme a little too dark for some people. It tied with Crash Landing in second for the Jam-Packed competition, which makes it just as popular. Right? .
+
+ME^3 is focused around conquering dungeons in an amazing CTM style experience, having you collect trophies, complete quests, and complete the Periodic Table. It's a very fun and popular experience. It won first place in Jam-Packed, and I really recommend checking it out. 
+
+
+
+
+ I was about to ask why there wasn't a "No" answer. Then I realised. 
+
+
+
+
+ inb4 you crash into another planet 
+
+
+
+
+ Deadly World 
+
+
+
+
+ Well, this is vanilla. But if you happen to head underground, and see a cobble version... Silverfish nest! \o/ 
+
+
+
+
+ I'm testing a new release right now. It's *mostly* bugfixes, as it's been hard to add new content while working on three packs. Recently I've been requested to update PhoenixCraft II, and as well, I need to get that one update out for Running Red.
+
+Once I finish all those, I'll start on adding new content. I have some things in mind.... ;) 
+
+
+
+
+ I imagine like with Crash Landing, where they'll have points taken off 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sweet! 
+
+
+
+
+
+
+
+
+
+ Woo! 
+
+
+
+
+ I'm so happy to have a Mindcracker playing my pack! :D 
+
+
+
+
+ I'm so happy to have a Mindcracker playing my pack! :D 
+
+
+
+
+ *cough cough Running Red* 
+
+
+
+
+ Oh god, I always forget another modpack exists with the same initials. It really messes me up sometimes . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *coughs*
+
+Running Red? 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Woot! No more buggy extension code! \o/ 
+
+
+
+
+ 205.5, if the Steam counter is to be trusted 
+
+
+
+
+ My last item I needed was Meat Boy. It seems dumb, but every single time I was getting Bandage Girl instead. When I finally got all of Meat Boy (basically RNG, even if you had Book of Revelations, because the Meat Boy/Bandage Girl thing.). It unlocked the three (Platinum God, Real Platinum God, and Meat Boy) at once. So there ya go. 
+
+
+
+
+ My last item I needed was Meat Boy. It seems dumb, but every single time I was getting Bandage Girl instead. When I finally got all of Meat Boy (basically RNG, even if you had Book of Revelations, because the Meat Boy/Bandage Girl thing.). It unlocked the three (Platinum God, Real Platinum God, and Meat Boy) at once. So there ya go. 
+
+
+
+
+
+
+
+
+
+ Name: Victor
+
+Graphics: TBD
+
+HP: 1
+
+Soul Hearts: 0
+
+Black Hearts: 1
+
+Coins: 0
+
+Bombs: 1
+
+Keys: 0
+
+Items: Joker Card, Daemon's Tail Trinket
+
+ 
+
+Being based off of Victor Frankenstein, the man who created the monster. (Common Misconception: The monster is never given a name, and is not called Frankenstein. That's the monster's creator.) 
+
+
+
+
+ I stopped learning when I was able to play in class with the Vita 
+
+
+
+
+ * Devil/Angel Rooms never spawn on the First Floor, however,
+* The Goat Head ("He Accepts Your Offering") will force a Devil/Angel Room to spawn, no matter the floor
+* Not taking damage on the floor increases the chance of a Devil/Angel Room spawning
+* The Evil/Sin stat increases the chance of Devil Rooms
+* The Faith stat increases the chance of Angel Rooms
+* Making a deal with the Devil greatly lowers the chance of an Angel Room spawning, and will increase the chance of Devil Rooms 
+
+
+
+
+ All you can do is praise to RNGesus it doesn't happen again 
+
+
+
+
+ You can reach the Cathedral or Sheol after the Mom's Heart fight by getting a Devil or Angel room on that floor. Otherwise, you'll be forced into the chest.
+
+However, after you've beaten Mom 10 times, whenever you go back down there again, you'll face off against It Lives!!! rather than Mom's Heart. After killing It Lives!!!, you'll be given the option to go to either the Cathedral or Sheol, every time you get that far. 
+
+
+
+
+ I miss the textures. 
+
+
+
+
+  **"Chub dislikes smoke!"**
+
+This is a reference to how, when a bomb is placed while Chub is charging, he'll consume it and it'll explode within him. This is also a reference to Legend of Zelda, as a similar boss disliked smoke and was killed in the same manner (credit to /u/Aksh0le )
+
+ **"Rooms may yield more than you expect - Experimentation is key"**
+ **"A dark market lies under your feet"**
+
+These refer to what's beneath the carpets Zelda-esque sleeping rooms and some rocks, as these trapdoors can sometimes lead to the Black Market rooms.
+
+ **"The walls will harden over time - Time is the essence"**
+
+This refers to how the Boss Rush Room only appears in the wall if you beat Mom in less than 20 minutes, else the wall will "harden" and you won't be able to access it.
+
+ **"A piece of paper is your guide"**
+
+This hints at the Missing Poster and the Mysterious Paper, which, when you die in a Sacrifice Room, will give you a piece of the puzzle to unlocking The Lost.
+
+ **"Deny his gifts to attain your reward"**
+
+This refers to how you have to forgo the offerings of the Devil Room in order for Angel Rooms to appear later.
+
+ **"Sleeping gatekeepers will need to be awoken with a loud sound"**
+
+This refers to how one must blow up the Angels in the Angel Rooms in order to fight them to attain the Key Pieces. I feel as though the Devils don't blow up like the Angels because Satan doesn't want you to fight him, as there's still a small chance he'll lose. Every offering he gives, although some make you stronger, also potentially make you weaker for the final battle against him.
+
+ **"Some doors require a blessing - Carry them with you"**
+
+This refers to how the Key Pieces, the blessings from the Angel Room, are needed to open the doors to the Mega-Satan boss. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think it would be amazing to have someone write reviews on modpacks, mods, and does interviews, and whatnot. That's all we would need to make ModMyMC a full news outlet.
+
+Several people (including yours truly .) have expressed interest in doing something like that. It wouldn't be restricted to just Feed the Beast, but could include AT Launcher, and Technic, and those doing interviews could speak with people prominent in the modding community. I personally would love to see something like this, but I don't  know if anyone else is. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, we just brought on a whole bunch more people. We should get through the updates much more quickly. 
+
+
+
+
+
+
+
+
+
+ You could try [Phoenix Reborn](http://forum.feed-the-beast.com/threads/1-7-10-phoenix-reborn-tech-magic-progression-ores.59301/). It's got quite a bit of tweaking, and has all the mods you mentioned. Plus, it's got a whole bunch of progression instituted and whatnot. 
+
+
+
+
+ Well, due to how progression works in Phoenix Reborn, ProjectE isn't accessible 'till late game, and can't be automated until even later. So, at the beginning of the game, I had a huge farm in order to supply me with plenty of toast. I had several machines that I used in various stages, and most of them are still back at the original base where power gen is. I only transferred the frequently used ones to the new dimension.
+
+And I figured that I might as well make it compact, once I started making the void dimension. From there it was pretty simple. 
+
+
+
+
+ http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-powerful 
+
+
+
+
+ Yes, it's amazing. I've looked at the Shield System as well, and it's a great low processing power cost alternative to MFFS. Plus, it's really easy to build the shield as well. 
+
+
+
+
+ That's either Apple Core or Spice of Life. It indicates the amount of time left in that Hunger Point. I believe you can disable it in the configs. 
+
+
+
+
+
+
+
+
+
+ Don't worry, you're not a bad person. It's my fault for making the code a little to obvious :P 
+
+
+
+
+ Heh, I'll make sure to fix that. 
+
+
+
+
+ \o/ 
+
+
+
+
+ Running Red, Wanderlust, and Tolkiencraft II. 
+
+
+
+
+ If you look through this AMA, you'll see that even slowpoke himself agreed that Ultimate, although generally looked upon as well balanced, actually had quite a few balance issues, mainly via cross-mod compatibility.
+
+I find the tools much more of a upside than a downside - without them, something like Running Red or Crash Landing would never have been possible. And bloat, well, I think FTB is trying to avoid that now. You saw how Monster turned out. FTB is now trying to make well balanced and enjoyable packs, between Mage Quest, the soon to be released inFlux, and Resurrection, we have very many specific packs. Sure, there is a lot of them. But it's not like Monster or the Adventure Update - everything isn't being crammed into one. Each pack caters to specific audiences. No single pack is too large, and no single pack is too big to be considered to have content bloat. 
+
+The tools are helping pack creators fulfill there vision for the packs. Without them, I would never have been able to tell a story, Jaded wouldn't have been able to build the paradise in the sky, Eyamaz wouldn't have been able to create hell on Earth, Iskandar wouldn't have been able to create a faraway planet, Orator would never have been able to bring to life the works of JRR Tolkien, parcel would never have been able to make compressed cookies, Elec would never have been able to create the skylands, Lumaceon would never have been able to make a Crafting Paradise, and Yulife would never have been able to reload our Wanderlust. These tools are what give are packs life. They're what make our packs unique and not just another kitchen sink pack, which is all we had before this. We're not creating bloat - we're creating something new. Something unique.
+
+I'm sure we'd all be glad to play the same packs, over and over again, just for a different version of mods, or a different version of Minecraft. But I find it more enjoyable to play something new. To be cast into a world without water, or one filled with evil creatures, or in a station, with disks of the world in my hand, or in a medieval landscape, or in a home in the sky. None of this would have been possible without these tools. None of the small tweakings that go into making each pack work. We can make our packs better, and take our time to give you good content, or, would you prefer it if we gave you a kitchen sink pack with cross-mod compatibility issues? Sure, one may take time. But each time we take our time, we create something new. Whether it's a mainstream pack built around Gregtech and memories of the past, or a jarring landing on a distant planet, we're reinventing modpacks.
+
+Noone's trying to replace Ultimate. Ultimate has been done. We're trying to create something new. If you want Ultimate, it's still there for you to play it. We making things that haven't been made before. Just look at the Third Party Modpacks section on the FTB Forums. Would you prefer that each pack is another kitchen-sink pack with different mods, or would you prefer to see stuff in there like Crash Landing, ME^3, Wanderlust, Tolkiencraft, Running Red, PhoenixCraft, Blast Off!, Infinitech, FluxGalaxy, ImpactFlux, Clouds of Darkness, and the Dark Trilogy? These tools have given us the power to create packs like this. No one pack has content bloat- they all have their own visions and tweaks and quests that make up what each pack is. We don't throw mods together and change IDs anymore, like we did with Ultimate. We take those mods and change them, make them fit in the world in which we are creating. We can do so much more than we used to, thanks to these tools. Would you call that a caveat, or a bonus? I'd call it a bonus. 
+
+
+
+
+ The reason it takes more time than it used to is because there are so many more tools available to pack creators. It's not so much throwing mods together and fixing ID Conflicts anymore - now we have the ability to change recipes, create quests, change ore gen, biomes, and so much more. So yeah, it takes more time than it used to, but as well, there's so much more being put into it. 
+
+
+
+
+ Not certain why, but it's in the changelog for the latest build: http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2216952 
+
+
+
+
+ All you need to do to fix this is update Special Mobs. 
+
+
+
+
+ Well, try the second. It's nothing like the first. 
+
+
+
+
+
+
+
+
+
+ For the world generators, EBXL was only included because of the ability to enable and disable the biomes and villages in those biomes. I'm trying to avoid adding any mods that add content like that, just things that can be used as bases for packs. 
+
+
+
+
+ Alright, I added those. 
+
+
+
+
+ Probably the original for ultimate. The panes are arranged in the same format
+http://i.imgur.com/50Q0IgS.jpg 
+
+
+
+
+ Because it takes a while to make these things. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ It's technically not made for multiplayer, but in the recent updates, I've been trying to add more support for it.
+
+I've made quests repeatable so those on non-hardcore worlds and servers can reclaim their effects after death, and I've also added a multiplayer only object that allows for others to revive you. Possibly more in the future.
+
+Anyway, I would be interested to see if there are any servers as well. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If all is working properly, you should be able to breed Mushroom Spores from Pam's using AgriCraft. I'm also going to add a Blood Altar recipe for them, as it is a little difficult 
+
+
+
+
+ Explosions. 
+
+
+
+
+ Explosions. 
+
+
+
+
+ And I'll add here - the last time they made a pack and took mod suggestions (Monster), it was largely considered one of the worst packs they made. I don't speak at all for the FTB Team here, but I don't want that to happen again. It's better they stick to what they know best than try to build something off of any suggestion they are given. 
+
+
+
+
+ It's a kitchen sink pack. They said they were making it because they didn't have one for 1.7, so here it is. Not only that, but look at the list. It has a bunch of great new mods, like AgriCraft, RFTools, Draconic Evolution, and more. They're catering to the most popular mods found in their most popular packs. It's a pack made for what seemed like the community wanted. 
+
+
+
+
+ First of all - What?!?
+
+Second of all, in order to make them "the same," you'll need to add them to each other's ore dictionary. You can obtain the oredict information by doing "/mt hand" whilst holding the item.
+
+Then, just place in, say, if I wanted to add an vMC apple to a copper ore dictionary, "ingotCopper.add(minecraft:apple);"
+
+ingotCopper being the oredict entry. If you add each crystal to every crystal's ore dictionary, they can each be used in every recipe requiring the others.
+
+Now only one question remains: Why would anyone ever do this? 
+
+
+
+
+ What pack? As well, do you have logs? 
+
+
+
+
+ You could use Mob Properties to make anything spawning in the overworld have an insanely high attack 
+
+
+
+
+ As for making the overworld unlivable, you could enforce a void in only the overworld using Ex Nihilo or YUNoMakeGoodMap. You could also just enable "All the World is Superfun" in TiC and that would pretty much eliminate any need to leave the Nether. 
+
+
+
+
+ "This paste has been removed!" 
+
+
+
+
+ Resurrection is being updated very soon, [as stated by tfox](http://forum.feed-the-beast.com/threads/ftb-resurrection-1-0-1-update-info.60834/) 
+
+
+
+
+ The config is very distinctly sorted based on the section of the mod. It is divided into sections based on the part of the mod, so it's easy to see what is part of the Dimension Building system or the Shield System. There are very clear headers :P 
+
+
+
+
+ I don't believe the results were released publicly anywhere, but I would be interested in seeing them. 
+
+
+
+
+ It adds the features with the express purpose of making them RF-Based. McJty's not adding Magic Wands, he's adding a device that you need to power to create dimensions. If you want a magic-based Dimension Building system, you've got MystCraft. Sure, RFTools has Dimension Building, but it's in a completely different sense than MystCraft. Complaining that it has the Dimension Builder it is like complaining that EnderIO adds item transport with its conduits when ThaumCraft adds item transport with its Golems. 
+
+
+
+
+ You can't restrict a mod based on what is, at best, a general and vague description. It says it adds RF based tools. That does not restrict it to a power monitor. Adding additional utilities does not have to restrict a mod to a simple block. I would call a shield or teleportation system a nice utility, as there (AFAIK) is no other RF-based mod that adds such customizable RF-based teleportation. As for the shields, there's only one or two mods (if you count both MFFSs) that do something similar, and both are either high-CPU intensive or not very well maintained. It adds a nice, customizable, and low cost alternative. Yes, Dimension Building is stretching it's definition as a utility, but it's nothing that Extra Utilities hasn't done before. And besides, there's only one other mod that adds dimension building in a similar sense (MystCraft), and that lacks frequent updates and many customization features. Honestly, it's just adding utilities that are lacking in much of Modded MineCraft.
+
+Plus, if you don't want any of the "bloat" in the mod, why are you complaining? There are very simple config options to turn everything off.
+Or what if I just wanted the dimension options for a magic-base pack, and didn't want to deal with RF dependencies?
+
+Not sure why you'd be adding something called RFTools to a magic-based pack, but all you have to do is disable everything and set the power requirements for the dimension-related devices to zero. Not that difficult, if you'd look at the easy to understand config file.
+How about simple forestry tree farms without the insane amount of extra world-gen?
+
+If a couple ores and bees is considered insane, I'm not surprised you're attacking a dimension building mod.
+
+RFTools is a nice example of a mod that creates nice tools and features while still retaining a large amount of customizability. It innovates and creates new ideas, while at the same time building on already created ideas and making them more compact, customizable, and lag free. I'm really amazed at all the work Mcjty has done on the mod, and I'm even more excited for the things he's planning on adding in the future, such as the Modular Screens.
+
+I could understand if you were attacking such a mod if it had no config options to turn it off, but it does. Many mod authors add in things because it's very likely that, unless their mods are used in a kitchen sink pack, many of the other mods that do the same things are not in the same environment as their mods. Many devs code with only their mods in mind, not any others. And if they aren't, well, they've got config options. You can turn off Forestry's "insane" world gen, or Bluepower's logic system, or RFTool's various systems with a simple change of true to false. 
+
+
+
+
+ Reposting because the original was deleted, and this is big. 
+
+
+
+
+
+
+
+
+
+ I'm shaking with excitement right now. We're partnering with FTB. 
+
+
+
+
+ It's basically done. As of right now, we're just updating mods, fixing bugs, and adding EMC to things. It should be perfectly alright to start a world. Most of the bugs that were in the pack have been ironed out at this point, so it's pretty stable. 
+
+
+
+
+ Late game is sort of arbitrary. It varies depending on the modpack or the mods you are playing with. In some packs, late game might be killing the Ender Dragon or being able to combat Taint or killing those Botania bosses. It might be creating a Tier Six Altar and summoning a Demon Village, or it might be having the ability to create your own worlds.
+
+[Phoenix Reborn](http://forum.feed-the-beast.com/threads/1-7-10-phoenix-reborn-tech-magic-progression-ores.59301/) implements a sense of progression and the tiers of the game by sort of restricting things behind dimensions and such. For instance, you could consider the overworld early game. In the overworld, only Coal, Iron, Lapis, and Redstone spawn (although in exaggerated amounts). You'll be forced to use certain mods in order to progress, such as Blood Magic and Botania, until you reach the Erebus. You'll then have access to metals such as Copper, Tin, Aluminium, Lead, Gold, and Silver, which will grant you access to a lot of the early tech mods, which in turn will allow you to create a Nether portal, and give you access to Diamond, Sulfur, Saltpeter, Emerald, Ruby, and Sapphire. This lets you access some of the later game mods, such as a few things from ProjectE or late game Thermal Expansion. Once you've obtained Platinum from the Deep Dark, you'll be able to create the Energy Condenser and automate the creation of items via EMC, and once you've created your own dimensions using RFTools, you'll be able to create things like Energy Collectors and AntiMatter Relays with Dimensional Shards.
+
+Although it's certainly not as grind-like as GregTech, it does have a set type of Progression. Each dimension basically represents it's own part of the game, whether it's early game in the Overworld, mid-game in the Erebus and Nether, or late game in the RFTools Dimensions and the Overworld. Everything is basically set into tiers based on the dimension you're in, and it does take some time to get from one to the next. 
+
+
+
+
+ I tried it without Factorization if Forge 1277, and it did not work. Adding the latest Factorization, it did. Looking at the changelogs, this does not appear to be implemented in any Forge version, but it sure should. It worked brilliantly for the few things I tested it on. 
+
+
+
+
+ I can confirm - this works. 
+
+
+
+
+ Now *this* is amazing. I'm adding Factorization to my instance just to make sure this works. 
+
+
+
+
+ Here's what we currently do: http://forum.feed-the-beast.com/threads/team-member-positions.59861/#post-876355
+
+Unfortunatly, we don't really have time to chech each pack, due to the sheer amount of packs being updated every day. Even with out now huge team, we're having trouble keeping up.
+
+However much we'd like to do robots, we're not really at that point yet.   We're limited by the forum technology and the money we have available. Hopefully in the future we'll be able to do something similar. 
+
+
+
+
+ We're trying our hardest. Sometimes things just go wrong. We get hundreds of pack submissions, there's bound to be plenty of errors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well hey, I like it. 
+
+
+
+
+ I'm not sure the exact amount it gets lowered, but yes. That's basically it. 
+
+
+
+
+ no 
+
+
+
+
+
+
+
+
+
+ My point being it isn't like every other pack. Your deluxe triple cheeseburger won't end up being worth 1/16 of a shank. It will always retain the same hunger.
+
+If you don't see the point of the change, I could make it impact hunger again :-) 
+
+
+
+
+ I will point out that SoL only impacts saturation, not the hunger value. 
+
+
+
+
+ I made the modpack with these mechanics in mind, just so you know. Everything is balanced around it. I used these rather than other things because, well, every other pack focuses on the same things. Hunger, tool progression, etc. I wanted to make the pack unique rather than using the formula for increased difficulty that everyone is used to.
+
+I knew going into it people wouldn't like it. I'm not going to stop you from doing it, and I'm actually honoured that you care about the pack enough to even bother making these changes. 
+
+
+
+
+ I'll refer to my previous posts for everyone complaining about the inventory:
+http://www.reddit.com/r/feedthebeast/comments/2wulyv/an_interview_about_pathfinder/cov3tgb
+http://i.imgur.com/lnGDnV0.png 
+
+
+
+
+ completely intact
+
+Hey, look at the recipes for the Energy Condenser or Transmutation Tablet. 
+
+
+
+
+ Uh... I hope you realise I had nothing to do with this. 
+
+
+
+
+ 3 
+
+
+
+
+ If you've used the dimlets given on the ship, and followed the grammar mentioned in the Quest Book/Dimension Manual, your world should have been normal. 
+
+
+
+
+ The repeater. Project Red has an upgraded version of the vanilla one. 
+
+
+
+
+ Yes. 
+
+
+
+
+ DW20 is technically FTB. We make the pack off of his mod list, and make config changes accordingly. We basically make the pack for him to play, hence why it shows up in the main tab.
+
+And thanks, I'm hoping to have fun here :D 
+
+
+
+
+ Basically, Eya and I sort of swapped positions. I used to be specifically Third Party Packs (Running Red, etc), and Eyamaz would work on the official packs, such as Monster and Horizons, as well as his personal packs.
+
+Now that's swapped. I help out with the official FTB packs, such as Mage Quest or Infinity, and he does his Third Party stuff, such as BnB.
+
+The "Modpack Developer" position, at this point in time, means that the person controls the pack development. I'll do most of the config changes, such as configuring ore generation or changing recipes. As well, as Watchful said, I also control the various teams that help with modpacks. In the future, I'll be working with tfox to assemble modpacks and make them what they are, via config changes and the like.
+
+For example, the past few updates for non-infinity modpacks (Lite, Mage Quest, and DW20) have been overseen by me. I sent the Maintenance team the packs, and they went through and updated the mods. I also got the new quests from the Lit. Team for Mage Quest, and then made the config changes DW20 requested for his pack.
+
+TL;DR, Eyamaz has resigned, and I do what he did and make FTB Packs now. 
+
+
+
+
+ Yeah, I've got that on my schedule. It's rather far down, though. I'm currently making Slowpoke some coffee and getting tfox the code to hack into the Curiosity Rover.
+
+Normally I'd be opposed to hacking into a NASA device, but hey. We can't deny our supreme overlords anything, can we? 
+
+
+
+
+ You need to use Servos with TD pipes to have them constantly extract. 
+
+
+
+
+  If it includes an interesting challenge of using an actual backpack for extra inventory I'll be sold. I always liked the idea that better storage had with backpacks and putting them down/ picking them back up.
+
+That's almost exactly what we had planned. We don't want the inventory management to hinder the game, we just want the player to think a little harder about what they are carrying around with them. The player will be able to carry around bags and such.
+
+One of my favorite parts of Don't Starve was that you couldn't just carry everything around with you. It was entertaining to have to deal with only having the essentials on me, with everything else stored in a chest elsewhere. It provided an interesting dynamic that seemed to be lacking in Minecraft, no matter which mods you used.
+
+Item and inventory management are things that are rarely emphasised upon in all of minecraft. Storing things in chests and sorting them becomes completely obsolete the instant an AE system is made. Inventories cease to be a problem the instant a golden bag of holding is obtained. I wanted, at least in one pack, to bring out something that most people rarely think twice about.
+
+I figure that there's always something that will put people off of packs like this. A lot of people hated Blood 'N Bones for its tool progression, Crash Landing for its need of food, or Material Energy^4 for the insane amount of mobs. I know that whatever I change, at least one person will be unhappy with it. A lot of people didn't like the Blood Altar in Running Red (to which I responded: Why are you even playing? O.o), and quite a few didn't like the odd progression in Phoenix Reborn.
+
+With each pack I make, I've tried to do something new. I suppose for Pathfinder, the limited inventory during the early game will be it. If everyone in general comes to the consensus that they don't like it, I'm more than happy to remove it. But as I've said - it's something that makes the pack unique and different. I hope that it will be well-liked, but if it's not, I could remove it. But until then, it will be staying. 
+
+
+
+
+
+
+
+
+
+ RFTools based. Galacticraft is not even installed. 
+
+
+
+
+ There will be 
+
+
+
+
+ Carpenter's Blocks. Put the liquid near them, and set
+
+B:"Routable Fluids"=true
+
+This was actually enabled in the original Running Red, and was why it sometimes looked as if the blood was flowing past the blocks.
+ 
+
+
+
+
+
+
+
+
+
+ It glosses over a few of the things in the Dimension Building, but you can learn most of that just by reading the book and playing around with it a little. It's an amazing mod that is very easy to get into 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+ Recently I had someone request I make a Twitch stream on doing game development in C++.  I stuck with C++ and SFML, and went through and showed how to make several types of 2D games (pong clone, space invaders clone, a top-down RPG, and more).  While it's some rushed code (so as not to drag out each episode too much), it might be a decent resource to those who are interested.
+
+You can find the entire season on my Youtube channel here: https://www.youtube.com/playlist?list=PLOFi3QmBRyyMnw0PHVM7smZh9Iw8a8WA7
+
+I'm working on some new content for my Youtube account (game dev and programming related), as well as planning out a second season for my Twitch stuff (and focusing on increasing the quality of what I put online).  The big thing that I'm going to make better for the next season is having things a bit more prepared beforehand, as well as making sure the last episodes aren't me just sitting around rambling as much.
+
+Any feedback on this is welcome of course.  I hope people find this useful!
+
+You can find my Twitch stream at http://www.twitch.tv/gemisis/ 
+
+
+
+
+ Okay, so this is based on the original idea I had when I made this (sorry, been running around all day so only just got to typing this haha):
+
+-So the start of the video would be them dancing around in circles.
+-Once the drums start, the start swinging in and out before fusing to Garnet.
+-Lyrics go with Garnet dancing around
+-Some kind of faster paced animation while singing goes
+-Once "Go ahead and hit me if you're able" is sung, they split again and dance around, maybe introduce Jasper into the video and have the three of them fighting.
+-Right before the first "We will always be twice the Gem that you are" they fuse back together, dancing around with Jasper at that point.
+-Once the solo part starts, they split apart again, dancing around.
+-Lyrics start again and they fuse together.
+
+This is what I have for right now.  Feedback and such would be awesome :)
+
+I've tried to add some personality to the current animation (it won't be the same every time), and was originally planning to have the animations change based on the beat, but still have an amount of random to look cool haha 
+
+
+
+
+ Let's do it then! haha 
+
+
+
+
+ If someone makes this, I will totally put it on there :D 
+
+
+
+
+ I can understand where you're coming from.  Believe me, I'd love to have bigger prizes, it just takes time to establish oneself for something like that, and I'm just happy I can offer anything as a prize :)
+
+And honestly, I kinda got excited for the socks.  I've never seen something like this before which made em unique imo lol Sadly these are prizes so I won't have any haha 
+
+
+
+
+ So, this isn't being run by a company, it's by a single person, so really I'm talking with 1 or 2 people I know at these companies to get us these prizes.  They (Google and Microsoft) are putting their trust in me not to run off with everything (which I greatly appreciate), so I can understand why they wouldn't want to just hand out a $300 phone as a prize to something like this.  And of course I don't plan to run off with them to start with. :)
+
+Hopefully in the future I'll be able to do this again with better prizes though if this one goes well :) 
+
+
+
+
+ Easiest way to do it: Buy domain separate, and host on Google Drive.
+
+As long as you don't mind losing server-side control, you can setup some pretty fancy sites with it. 
+
+
+
+
+ There's a few different places you can use.
+
+Recently I've been sticking with Google Domains (domains.google.com).  They're a bit more expensive than normal, but they have high quality management tools imo.  Another good one that is cheaper is namecheap.com, though they can be a bit confusing to use if just starting out. 
+
+
+
+
+ I bought the domain, threw some 3D spheres together with WebGL, made em move, and add the song from somewhere I found haha
+
+Edit: Would love to have 3D models in place of the spheres, but sadly I can't model to save my life
+
+Kinda surprised it wasn't bought already 
+
+
+
+
+
+
+
+
+

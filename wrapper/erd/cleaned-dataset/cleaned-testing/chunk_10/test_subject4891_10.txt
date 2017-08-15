@@ -1,0 +1,277 @@
+
+
+
+
+
+ How the fuck do I even do that?
+The trace back error I'm getting: http://imgur.com/PxFJZpu
+I don't get it. This is so easy in Maya. 
+So I'm in the environment variables, I've found RMANTREE all that, now what do I do?
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How do I change it to PRman 20? I downloaded prman 20 but that did not change anything.  
+
+
+
+
+ Yes I have PRman itself. 
+
+
+
+
+
+
+
+
+
+ What does that mean? 
+
+
+
+
+
+
+
+
+
+ What price range are we looking at for this plugin mate? 
+
+
+
+
+
+
+
+
+
+ LONG LIVE THE TROLL MILITIA! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I never had any intentions of bringing Aurora to war. I was only suggesting plans of action since our close allies, the FSR, have decided to occupy Orion. Please, I'm not a violent individual. I only wish to live with my friends in Aurora, my political goals or beliefs for Aurora should have nothing to do with my citizenship.
+ 
+
+
+
+
+ Fuck it, done. Like I  said, third time posting here, and why? Why do I keep on going through this shit? So here I am, fucking rock bottom. Let's look at what's happened with me, shall we?
+I'm running hurdles. I think I'm pretty damn good. It was my very first year, never even took interest into sports until then. I get 4th or 3rd place. I was running with the big boys too. I thought my family would be proud, but fuck no. Dad never went to my meets, for he is in the Navy. Can it get worse? With my family? Of course. Everyone compares me to my cousin. Everyone say's she's a genius in school, yet I'm the one who leads her and tutor her. I'm even compared to her in my favorite sport: Hurdles.
+I'm tired of the comparison. One day, I decided I loved movies and took up a hobby known as Visual Effects. With help from people like Gleb Alexandrov, I created this: http://imgur.com/VhhuCFd
+I thought my family would be so proud, but rather everyone justs says, "That's cool and all, but did you see what your cousin did in her soccer game/hurdles?"
+Then there's tonight, fucking tonight. I'm currently in High School, and I'm living with my divorced mom and my sister. My family members are SJWs , so I can't talk rude to my sister despite her talking rude to me. Anyways, we are all watching tv, and being the shit service AT T Uverse is, it stops working. I offer to fix it, but I fail. I tell my family that it's just AT T being shitty. And they fucking say,"Oh stop it, AT T is cheaper. Your just being ungrateful. Besides, you only have yourself to be mad it, you thought you could program it." Program it? Are we in a fucking 4chan cringe thread? How do you program a tv? I know OpenGL and Pixar's Renderman, not whatever shitty code language AT T uses. And then my family complains that I'm always grumpy.
+What the fuck do I even do at this point? This has gone on for years and years and years, we have shitloads of pills everywhere. What am I to do? 
+
+
+
+
+ yes 
+
+
+
+
+ Info: Refugee from the Kairenreich. Member of New Leningrad and Tel-Aviv. 
+
+
+
+
+ Ive been on a couple times before. And in those couple times, the kaisenreich has fucking imploded on itself 
+
+
+
+
+ That's why I'm traveling to CKR. I'm a mercenarie with shit loads of materials for slimeblock tanks and aircraft. 
+
+
+
+
+ So with this, I can join minecraft Classic servers again? 
+
+
+
+
+ I think this one will do. http://imgur.com/PF3t9NZ 
+
+
+
+
+
+
+
+
+
+ Alright first we need a picture of a grill and a popular tumblr account 
+
+
+
+
+ So, we find a picture of a girl, and call her Melissa. We say that Anita Sarkeesian said she was "Not a real gamer and an insult to feminism." We say that Melissa commited suicide. We start a tumblr hashtag saying #justiceformelissa. Sarkeesian gets BTFO by her own forces 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ so, should i try setting my profile to different minecraft versions. i want to join this classic server called team 9000 
+
+
+
+
+
+
+
+
+
+ Please dont cringe, I just got this computer:
+          Card name: AMD Radeon HD 5450
+       Manufacturer: Advanced Micro Devices, Inc.
+          Chip type: AMD Radeon Graphics Processor (0x68F9)
+           DAC type: Internal DAC(400MHz)
+         Device Key: Enum\PCI\VEN_1002 DEV_68F9 SUBSYS_E164174B REV_00
+     Display Memory: 4095 MB
+   Dedicated Memory: 498 MB
+      Shared Memory: 3597 MB
+       Current Mode: 1680 x 1050 (32 bit) (60Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: DELL E207WFP
+         Monitor Id: DELD010
+        Native Mode: 1680 x 1050(p) (59.954Hz)
+        Output Type: HD15 
+
+
+
+
+
+
+
+
+
+ The 3 boys could just as easily be being abused and neglected, but of course, biased r/twoxchromosomes only sticks up for the female, while insulting the 3 boys with degrading terms like spoiled. 
+
+
+
+
+ Do you think it is anything serious or fatal? 
+
+
+
+
+ Not along the red lines, rather in between the groin and hip bone, does not move freely. No recent infections. There is only one. 
+
+
+
+
+ Current medications: Zoloft 
+
+
+
+
+ But I don't want the Hdri map showing up in the final render.  I only want the lighting.What do I do? 
+
+
+
+
+ Is RIS compatible with standard maya hypershade nodes? 
+
+
+
+
+ How the hell do you even bake lighting in Renderman. The online docs are from 2008. How do I bake lighting in from the Envlight onto my character? Please help fellow gentle sirs of r/cg. 
+
+
+
+
+
+
+
+
+
+ Just wondering. I've seen slimeblock bombers only used on 4craft. I've just taken an incredible interest in aviation, both in game and in real life. 
+
+
+
+
+
+
+
+
+
+ I've got my AllPurposeMaterial and everything. So where do I go now? What do I need to do? What nodes do I connect and how do I connect said nodes? 
+
+
+
+
+ So I paint ptex in mudbox, send that over to maya. Add renderman attributes which include ptex supoort and subdivision scheme. i then go into slim, create an allpurpose material, and attack a ptex color node. I go back into maya, select my object, go into slim, right click the allpurpose material, hit assign as surface. go back into maya, choose renderman ris, hit render, and nothing but black?
+  what should I do?
+Also lets make this a general renderman questions thread while we are at it. 
+
+
+
+
+ What the hell went through your mind when posting this? It's not even funny. Just two cucklords giving each other genuine advice. 
+
+
+
+
+ Aside from the game coming out itself. 
+
+
+
+
+ Also, with source, I'm using Blender cycles to render scenes and then baking their textures so that the game looks photorealistic. Is this efficient if I want good graphics?
+   But again, I need a place to download steam pre steam pipe, crowbar, mdlcompiler, and studiomdl don't work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

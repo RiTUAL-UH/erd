@@ -1,0 +1,580 @@
+ Is it available in anything other than a shitty cam yet? 
+
+
+
+
+ I'm a pretty pessimistic asshole.  I watch it sometimes just to remind myself to be nice to other people.  I'm 30.  I also grew up with Flash-based animation, so I like their art style.  No jerking it to horses, no dressing up in outfits, no annoying other people with it, no "brony" t-shirts, etc.  I do occasionally listen to MLP-based music though like Cupcakes, Trixie the Pony Troll, etc.
+
+But people don't generally make fun of me for watching A:TLA, Korra, Kill La Kill, Ghost in the Shell, Futurama, Fullmetal Alchemist, etc.  Most are surprised that I watch MLP at all. 
+
+
+
+
+ [](/abchaos "YAY SECRET PONY THREAD!!!")[](/ajlie)Scary. 
+
+
+
+
+ Scumbag elderly driver:
+
+Drives 40mph in a 50mph zone...
+
+Continues to do 40mph through the school zone... 
+
+
+
+
+ It is likely your jerk/accel setting.  Increase jerk to 5-10mm/s.  It looks like perhaps your printer is getting to the edge of vertices, and slowing down (and filament continuing to pressure-equalize) causing this effect.  Those are _really_ low jerk and accel settings.  Sure, they help but what also helps is making sure that your hot end isn't wobbly because what is happening is the inertia is transferred to the nozzle as you make quick jerks around a part.  If you're solidly mounted, you should see less of this.  If you're a little loose, you'll get the echos on the corners of prints. 
+
+
+
+
+ I have not!  Though I have a feeling I'll get hooked on them soon!
+
+*Edit*: Nah.  Looks like they don't have enough polish for me. 
+
+
+
+
+ You should instead use "AlienTube for YouTube" - replaces YouTube comments section with reddit comments that are linked to that submission.
+
+My screen, zoomed out so you can see what it looks like: http://i.imgur.com/Niwvvqa.png
+
+Also, try out uBlock - uses the same Adblock filters, etc but it's a bit faster and less memory intensive. 
+
+
+
+
+ Honestly though, if you take a little laser cut mylar, with a metal case, and some heatsink compound on the case, it's a pretty smart/useful place to have the CPU. 
+
+
+
+
+ The real thing people don't understand is Google has to care about peoples privacy because it's their ad services and analytics platform that has all of this data on the back end.  They don't sell your _data_, they sell access to analytics and advertising services.  If they simply sold your data, they wouldn't have anything to sell after a while because data is easily replicated/traded, etc.
+
+I fully understand the paranoia though, given the current socioeconomic landscape. 
+
+
+
+
+ I've gotta agree with BoldBird here, that question sent up huge alarms in my head.  Yet no other candidate was mentioned at all.  Why is Jeb Bush mentioned in such a specific manner?
+
+*edit*: Yay!  Now /r/orlando downvotes people for questions and opinions!  /sigh 
+
+
+
+
+ Well, The Doctor talking to himself as he's figuring stuff out is one thing.
+
+This was him, talking to what I would call his "otherself".  As in, it actually had 2 sides of a conversation.  It's kind of difficult to explain... 
+
+
+
+
+ That's because the real redditors comment.  The ones who silently up/downvote or the ones who farm link karma are untrustable. 
+
+
+
+
+ I'm still rocking an EEE 900A, use it as my daily driver at work!
+
+If they just sold something that was quad core, with 8gb of ram, in a netbook form factor, where the screen was 12" but the pixel density was that of tablet screens, I would be so happy. 
+
+
+
+
+ Guess what...someone actually suggested that.
+
+https://code.google.com/p/chromium/issues/detail?id=315401#c5 
+
+
+
+
+ Their argument was that it would require extraneous testing requirements, and could possibly be a vector for attack.  ...bah.  Who fucking knows...  
+
+
+
+
+  but it's one of the models that requires shorting some jumpers on the motherboard and flashing a custom coreboot image.
+
+Filthy casual.
+ 
+
+
+
+
+ Being able to rename a volume.  (i.e. I want to name my drive in the file explorer "Pretty little princess")
+
+Apparently this is easy for FAT/NTFS but they can't be bothered doing it in ext* 
+
+
+
+
+  Check out Tree Tabs. Doesnt work in Chrome, but works in FF.
+
+You mean like this one?
+
+https://chrome.google.com/webstore/detail/sidewise-tree-style-tabs/biiammgklaefagjclmnlialkmaemifgo?hl=en 
+
+
+
+
+ How's that trickle-down economics working out for you? 
+
+
+
+
+ You get your sleezy FACTS out of here!  Can't you see we're circle jerking about how terrible Obola is?! 
+
+
+
+
+ David Tennant 
+
+
+
+
+ were* 
+
+
+
+
+ Hi, I'm from Giant Panda Sushi Hibachi   Buffet, how many cats can be adopted at once?  We will take them all! 
+
+
+
+
+ You're over-extruding, and you're printing too hot.  Also possibly not fast enough. 
+
+
+
+
+ This arrangement shouldn't cause any problems given proper tension. 
+
+
+
+
+ You can get around that by using giant.gfycat
+
+http://giant.gfycat.com/MealyWindingAtlanticbluetang.gif -- can be posted on /r/gifs 
+
+
+
+
+ How about next time, you use gfycat instead?  It HTML-ifies the GIF which loads almost instantly, and often at 1/5th the size. 
+
+
+
+
+ That might be exactly the reason he used the past-tense form... LOOK**ED** 
+
+
+
+
+ Until Plex gets rid of it's stupid per-month pricing scheme, I'll stick with ES Media Player, which can play movies from a network share, and is free.
+
+And if I want to cast them to my TV (ChromeCast) or other media box in the house, I will continue using AllCast.  Which isn't free, but does a damn good job! 
+
+
+
+
+ Incorrect.  It's a part of AOSP - has nothing to do with CyanogenMod other than the fact that CyanogenMod is _based_ off of AOSP.
+
+It looks like a lot of different vendors/ROM authors choose to enable/disable this setting at whim.
+
+My Nexus 5 has this, by default, and I've got the stock AOSP-based ROM on it. 
+
+
+
+
+ Huge thumbs up to Xposed Framework!  It's conveniently made most roms obsolete for me.  Usually anyhow... 
+
+
+
+
+ Samsung may have ripped it out of the software then.  Sorry.  :( 
+
+
+
+
+ Oh well, ya win some, ya lose some. 
+
+
+
+
+ It's not an app.  It's part of Android.  Has been part of Android since version 2.3 (Gingerbread)
+
+Here's a video of the effect: https://www.youtube.com/watch?v=-Lv1p4TvRw4 
+
+
+
+
+ I love that Android phones do this.  Such a touch of history. :) 
+
+
+
+
+ It's just /r/malefashionadvice leaking.  Apparently if you wear flip-flops/sandals, or cargo-anything you're the spawn of Satan. 
+
+
+
+
+ Hardees Teriyaki Chicken Sandwich: http://legacy.pitchengine.com/carlsjr/carls-jr-kicks-off-hawaiian-summer-with-new-teriyaki-chicken-sandwich
+
+And [Denny's Bacon Avocado Burrito](http://i.imgur.com/sszcaeB.png) (they discontinued that as well). 
+
+
+
+
+ That's because the majority (90% was stated as a rough figure) actually believes in this stuff.
+
+If 90% of all Brazilians thought you should die for leaving Brazil, I'd just wrap them up all under the same broad strokes too.  Nobody is arguing that the last 10% of people don't exist.  It's just that they're rare enough to be the exception, rather than the rule. 
+
+
+
+
+ Doesn't happen that way.  Red flags are thrown up immediately once people start seeing 1yr old accounts bombarding a topic.  Those with RES simply hover on the name to check this stuff. 
+
+
+
+
+ Like it owes you money! 
+
+
+
+
+ I do bite my nails.  To make sure they stay trimmed.  Can't stand long fingernails.  And I put the pieces in the trash, or spit them out onto the ground. 
+
+
+
+
+ When people bite their nails, they don't chew them up and swallow them, they spit them out.  What the fuck do you think we did before the invention of nail clippers? 
+
+
+
+
+ Holy crap, triffid_hunter is alive?  
+
+
+
+
+ Freakin' awesome.  I was just installing a strip of "Neopixels" in my daughters bedroom, and I have like 5 ESP8266's that just got out of customs and should be hitting my doorstep very soon.
+
+I was going to do all of this work myself, but you just saved me the trouble. :) 
+
+
+
+
+ Not at all, and that's a terrible comparison.  Apple, in most cases, provide machines that are simple and work just fine.  MakerBot provides you overpriced crap, that doesn't work any better than the competition, with a huge advertising budget.
+
+MakerBot wants to be the Apple of the 3D printing world, but they're more like expensive garbage.  They've tried using this comparison over and over and over again but at best it's just a way to justify their absurd pricing schemes.
+
+They're more like a Polex watch.  Someone may have convinced you it was a Rolex, and sold it to you for a "measly" $6k, but it's really just a rebranded Casio. 
+
+
+
+
+ Yes, stay away from MakerBot for your first printer, and every printer thereafter.   
+
+
+
+
+ Enough that you put text in an image and submitted an image for link karma instead of a self post.
+
+http://i0.kym-cdn.com/photos/images/original/000/405/636/6ed.gif 
+
+
+
+
+ Comment Karma  Link Karma anyways.  I see bullshit like this from people like /u/somethingreddity and if I see higher link karma than comment karma, it's always instant downvote. 
+
+
+
+
+ Just to fuck everyone over, Google is going to name the next version of Android, "Library" now.  After sticking lollipops all over everything, breaking tradition of it being a food and sending the entire mobile world into a tizzy. 
+
+
+
+
+ I was gonna say, https://foursquare.com/v/next-level-lan/4b89b4adf964a520864c32e3
+
+Lists as now closed.  I didn't think they'd last long.  Outrageous prices.  
+
+
+
+
+ I'm not interested in this simply because you don't know how to correctly spell "style".  For fucks sake. 
+
+
+
+
+ How do you know I wasn't doing something important?  Like restoring a raid array from a corrupt drive and rebuilding data?  There's no fucking reason, _ever_ that the system should ignore you and do what it thinks is best. 
+
+
+
+
+ This has happened to me on a Windows 8 laptop that I decided to leave stock and not wipe (for the sake of educating myself).  2 or 3 days after ignoring the update prompts, I continually pressed cancel.  Didn't read the prompts, because fuck it...it's Windows update.  While in the middle of installing another program, my machine force-rebooted on me to apply updates and corrupted the install.
+
+The laptop was promptly switched to Linux. 
+
+
+
+
+ Honestly, some of the AT T prepaid MVNOs aren't bad.  They're not as good as T-Mobile as far as plans go (I don't think anyone can beat a unlimited data plan for $30 now that hangouts in the USA has data-based google voice calling!) but they're pretty good! 
+
+
+
+
+ Very relevant.  Nice. 
+
+
+
+
+ If you're here, online is where you live.  And they're most definitely sold online. 
+
+
+
+
+ Best TKinter tutorial is someone giving you the advice to use anything other than TKinter. 
+
+
+
+
+ [NASA announcement: Arsenic-based life form discovered on Earth](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/02/AR2010120204183.html)
+
+http://en.wikipedia.org/wiki/Hypothetical_types_of_biochemistry 
+
+
+
+
+ Shit posting karma farmer 
+
+
+
+
+ It's actually targeted at girls as much as it is the parents that are forced to watch it.  They include a lot of things that kids just simply wouldn't get, like the I Love Lucy tribute episode. 
+
+
+
+
+ Meh.  Let them kill the cats.  Too many cat owners are irresponsible, and the cat population is out of control.  I do hate wasting good food though, they should really be recycled as chinese food at the very least.  And kill the cats as humanely as possible, I don't want to see the animal suffer (it ruins the taste of the meat as well) 
+
+
+
+
+ "I am root" 
+
+
+
+
+ ...And this is why you see so many guys wearing cargo pants/shorts.  Soooo damn convenient. 
+
+
+
+
+ Especially in Orlando, FL.  The native Floridians are doing 10-20mph over the speed limit, and all the tourists are doing 10mph under the speed limit.  Makes for some interesting drives in the city. 
+
+
+
+
+ It's a good thing I didn't say it worked in Chromium then, isn't it... 
+
+
+
+
+ Netflix works natively in the latest versions of chrome across all operating systems anyways.  At most you've gotta do a little useragent string changing. 
+
+
+
+
+ /r/functionalprint 
+
+
+
+
+ Sci-Fi   Fantasy, Show TV shows, Rating between 4 and 5...
+
+ We could not find anything with the filters you provided, try switching them up!
+
+Fuuuuuuuuuuuck.... 
+
+
+
+
+ Which involves the usage of human embryos that were already going to be destroyed, or were unviable.  Nobody is getting knocked up simply to have the embryo removed for stem cells. 
+
+
+
+
+ Despite movies over-portraying this; Chloroform rags do not instantly knock people out.  You'd have to breathe through a pretty soaked one for about 10 minutes before blacking out.  You really need to be using sevoflurane, propofol, thiopental, ketamine, etc. 
+
+
+
+
+ Happens all the time at MetroWest and Kirkman. 
+
+
+
+
+ Honestly, the way to combat this would be just general, over-time decay.  Slowly return the world to the fractal representation that existed to begin with and cull certain bits of data.
+
+If humanity were to nuke itself tomorrow, over the course of hundreds of years, eventually nearly every indication on the surface of the planet that we ever lived would have disappeared. 
+
+
+
+
+ I've got an EEEPC 900A from release date, switched over to a very fast compact flash card from trend (which they hardware-swapped over to DMA5 for me) and it's been going strong ever since.  I torrent on that thing constantly.  Flash drives have more of a tendency to randomly bite the dust than actually be written too many times to actually kill them.  Maybe it's a quality thing? 
+
+
+
+
+ Wow, I'm so sorry... 
+
+
+
+
+ Haha, that's very good news though! 
+
+
+
+
+ http://openbuildspartstore.com/ has rails, concentric spacers (useful for tightening up the load), and pre-drilled plates that are useful for that sort of thing.  That's where I source some of my stuff from. 
+
+
+
+
+ It sounds like you have too much friction, or sticking somewhere hardware-related in your build.  Possibly stepper motor current too low or something.  Also check for grooves worn in your rods or other related damage.  I've been moving away from LM8UUs for a while now, preferring to go with T-slot/V wheels, or brass bushings as they're quieter and more reliable.
+
+The LulzBot motors _look_ awful similar to the Wantai motors I'm familiar with.  Those have a max current rating of like 1.1A if I recall correctly.  If you're using the A4988-based drivers, vref should be 1.1A * 0.7 or 0.77v; if you're using the newer, better DRV8825 drivers it should be around 0.55v for your vref. 
+
+
+
+
+ Most peoples I'm sure.  It's a sane value.  In fact, I'd call it conservative.  That is, unless MTW skimped on motors or something.  Hell, even then - short of them choosing a completely wrong value it should be fine. 
+
+
+
+
+ They're defaulted to the UltiMaker default settings.  I wouldn't say optimistic as much as realistic.  Most other machines can use the same settings. 
+
+
+
+
+ Yes.  But there are ranges of bisexual.  Nobody has broken those into categories yet. 
+
+
+
+
+ Wait, what is this a picture of?  I've never seen these two buildings.  And what does it have to do with forgetting? 
+
+
+
+
+ Also need to isolate your bed from drafts, given that this is ABS. 
+
+
+
+
+ http://en.wikipedia.org/wiki/Kinsey_scale
+
+Rating of 0 means exclusively Hetero.  "Experimentation" automatically boots you out of that 0. 
+
+
+
+
+ Thank you for that.  I know most people refrain from posting about their expert knowledge on subject matters such as this, thinking that most people probably don't care; but I love any and all expert knowledge I can get on every interesting subject matter.
+
+With that said, does this mean that the dress rides on the hips of the wearer and is basically unsupported past that point other than by the dress boning? 
+
+
+
+
+ Honestly, you've gotta check out /u/Girl-Next-Door/submitted/
+
+While this one is certainly up there, she's got the perfect one I think.  But who am I to judge...they are both beyond gorgeous.  
+
+
+
+
+ The dress, in the chest area.  Looks like it is supposed to be about 2 inches higher but is slipping down.  Or her breasts are just droopy due to the size.  Her right breast (your left) looks fine, its the left (your right) that looks like it's about to escape.
+[](/dresscord "Though I must say, the workmanship is fantastic!") 
+
+
+
+
+ If we're referring to males of the species here, if you only get fucked in the ass once, and not _exclusively_, then you're not "gay", you'd be "bisexual".
+
+But yes, you could never legitimately hold the "straight" title ever again. 
+
+
+
+
+ Looks like it might be drooping a bit.
+[](/awakedash "Why are there no secret pony threads in here yet?!")
+
+ 
+
+
+
+
+ At _LEAST_ make up your own title... 
+
+
+
+
+ That's _terrible_ battery life.
+
+I used my Moto G on a regular basis, and would regularly go 3 days before reaching 20% with all sensors/gps, etc on.
+
+Mostly it was due to a small, low res screen, on a scaled back processor, with no LTE - but still. 
+
+
+
+
+ That's the Google Music _service_.  You don't have to use the service.  Google Music is also a music organizer and player.  You don't have to spend any money.
+
+It allows you to choose your music via artist, etc or even do a "playlist from this artist" and it'll match the music you have on your device with the metadata from Google Music and also select other music from your library and play music like it. 
+
+
+
+
+ [](/chibipinkie "It's even better when it's ponies!") 
+
+
+
+
+ Nexus devices don't have this problem. 
+
+
+
+
+ No wireless, less space than a nomad.  Lame. 
+
+
+
+
+ "these infidels my lord, they have invaded your sanctum and seek to steal your secrets!" 
+
+
+
+
+ The water resistance in the Moto X and Moto G are much better.  Instead of trying to seal every damn hole, they just coated the entire board in hydrophobic paint. 
+
+
+
+
+ It's been reported that modules will still work as they currently stand with no changes needed. 
+
+
+
+
+ Aww, this is so adorable.  You hurt his wittle feewings you guys!  We're sorry! 
+
+
+
+
+ Web developers deal with it.  Every other developer in existence deals with it.  Pissy ass iPhone developers can deal with it too. 
+
+
+
+

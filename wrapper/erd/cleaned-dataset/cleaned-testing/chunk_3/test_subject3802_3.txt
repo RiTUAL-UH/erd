@@ -1,0 +1,589 @@
+ Honestly, I think when you're so far down you just don't know where to start, medication is the kick up you need. I still take it at the moment, but my psychologist is considering getting me off them by the end of the year.  When I started on them, it was like day and night. You wake up one morning and its like a switch. You look around and just think... "this is how normal people feel?". While I felt this, it also increased the severity of my lows (basically making me bipolar while I was on them) and it was because of this that I attempted suicide twice. The ones I'm on now (mirtazapine) are much better for me I think. The only downside is it causes difficulties downstairs - something that has caused a bit of trouble between me and my girlfriend. 
+
+
+
+
+ I totally feel you man. It's so hard at the start, when you suddenly realize how far down you are, and the climb to the top looks so hard. It is really hard. Its all about baby steps and focusing on what you have already accomplished instead of what is yet to come, what you still have to do or what you've failed at. You've already accomplished something today by reaching out to me - my feedback and even reading your own comment can help you feel better or have a greater understanding of your situation. I never liked keeping a record of things - I used to keep a (private) blog and journal, but I found that reading over my dark thoughts actually made me feel even more depressed - I was frightened of who I was and what I was saying.
+
+Try your best to find someone you can trust. Don't hate them if they can't understand - if you don't understand what's going on with you than there's no way they're going to. Just let them know that all you really need is someone to listen to you. That's all you need. It gets better, there's a light at the end of the tunnel etc. I know it sounds dumb and honestly, when I was at my darkest I would literally scoff at advice like the stuff I'm writing now, but its so true. You need to understand and accept that you are viewing the world incorrectly, your perceptions are altered, skewed negatively. An important thing to do is try to observe your thought process. Actually listen to what you're saying in your head, watch how you react to things. When you truly start to do this, you start to realize how irrational some of your thoughts are, and you can start to try and change them. 
+
+Good luck, and from one human being to another, I care about you. 3 Feel free to PM me. 
+
+
+
+
+ Yeah I'm 17. I'm really not that smart, I just have a way with words because I (used to) read a lot. Thanks for the recommendation, I'll pick it up from the local library when I get the chance. :) 
+
+
+
+
+ Through the help of medication, lots and lots of therapy and hard work. The first step is, as everyone always says, reaching out. You really do need that hand up out the hole before you can start doing things on your own. Its a slow and painful process, and for me it contained many many setbacks. But I pushed on and got myself to a functioning, happy state (and consistently feeling this way!). If you haven't reached out to a family member or close friend yet, I sincerely suggest that you do. 
+
+
+
+
+ Yes, I understand that, I sorta mean "I won this round" and feel ready to win all the ones that are sure to come after it. (see my above comment). Next time I hit a roadblock I feel I'll be able to deal with it much better.
+
+edit: since I believe my depression is the chemical kind, (not due to environmental factors) I understand that it's something I'm going to have to manage for a very long time, possibly the rest of my life. I'm okay with that. 
+
+
+
+
+ Downvote, hide, move on. These posts reach the top because people upvote them. You are in a minority.  
+
+
+
+
+ Launchers can't move the notification bar, only hide it. Notification bar on the bottom is something that must be baked into the rom. 
+
+
+
+
+ Thanks so much. I'm not really all the way out of the woods just yet, but I have come so far in the last three years (had depressive symptoms for about 2 years before I was diagnosed 12 months ago) and learned so much. I know its something that I'm going to have to manage for pretty much my whole life, but I feel prepared and empowered to do so. :) 
+
+
+
+
+ Its not new. Flash a stock ROM with Odin.  
+
+
+
+
+ No worries. Seriously dude... you are just wrecking shit up tonight/today. You've bounced back awesomely after the Play Store fiasco and are obviously working very hard to make yours the best Reddit app there is. Its definitely the best looking at the moment, and if it keeps improving the way it has been there will honestly be no competition whatsoever... congrats. 
+
+
+
+
+ IMHO [this](http://i.imgur.com/q9rfO.png) looks way better, but to each their own I guess.  
+
+
+
+
+ Are you seriously able to compare [this](http://i.imgur.com/stHzx.png) to [this](http://i.imgur.com/z2clm.png) and tell me that RiF looks better? 
+
+
+
+
+ [Screenshot](http://i.imgur.com/z2clm.png)
+
+edit: just realized that this is [already an open issue on the github](https://github.com/laurencedawson/reddit-sync-development/issues/84), but it's almost two months old. Is there any particular reason why its taking so long to fix? 
+
+
+
+
+ RIF is functional but ugly. 
+
+
+
+
+ Just off the top of my head:
+
+* Sidebar viewing
+* Intents (handling reddit.com links like you said)
+* Sharing a link to posts that aren't self posts
+* RES-style advanced comment/post formatter/edior 
+
+
+
+
+ Reddit News is way more functional but Reddit Sync is *way* better looking. I personally have both installed. 
+
+
+
+
+ There are still loads of features missing when compared to Reddit News... 
+
+
+
+
+ Mine probably got up voted because its a self post - I don't get any karma for it. Yours was a link.  
+
+
+
+
+ Yeah it's still missing a bunch of features such as sidebar, sharing comments and a few others. I really want to make this my main, but its still not quite as functional as Reddit News. 
+
+
+
+
+ Technically they coded their own implementation.  
+
+
+
+
+ Free: https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync
+
+Pro: https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync.pro
+
+Imgur album of some of the new UI features: http://imgur.com/a/mWb7n
+
+/r/redditsync and [Github](https://github.com/laurencedawson/reddit-sync-development/issues?labels=feature+request) 
+
+
+
+
+ I have access to all my apps for shortcuts? Settings  lock screen  slider shortcuts  slide to shortcut  click the app  applications  choose app.  
+
+
+
+
+ http://www.youtube.com/watch?v=d-XO4Dk-xLg 
+
+
+
+
+ Set up a Google account. Otherwise nothing, just do what you want and use it as a phone.  
+
+
+
+
+ What do you want to do that requires rooting? If you can't think of a reason to root then there's really no point in doing it. Stay stock for a little while, learn the ropes. Rooting is really not necessary for a first time user, and the stock experience on the s3 is pretty good.  
+
+
+
+
+ Do you have a custom recovery installed? Wipe cache, dalvik-cache and fix permissions.  
+
+
+
+
+ /r/gifs is a default, no? Both of these posts appeared in my /r/all when they were posted, at any rate. 
+
+
+
+
+ Could have waited a bit longer than 2 months.
+
+http://www.reddit.com/r/shutupandtakemymoney/comments/wsxym/sweet_bench_that_turns_into_a_picnic_table/
+http://www.reddit.com/r/gifs/comments/ws4a7/transformer/ 
+
+
+
+
+ No need to install any apks, just saying that CM will come with a different messaging app than you're used to.  
+
+
+
+
+ I'll never understand why people love this ROM so much. Its bloated, slow and the dev has themed every single inch of it with ugly, tacky metallic backgrounds and blue hues. Ugh.  
+
+
+
+
+ Facebook sync can be rectified with HaxSync, force closing of apps  with back button is present in CM10, and the Touchwiz (Samsung stock) messaging app won't come with an AOSP ROM, but with the AOSP MMS.apk.  
+
+
+
+
+ You won't, as long as you ONLY root. If you install a custom ROM or mess with system files, you probably won't get offered the OTA. Installing the OTA will *un*root you however. 
+
+
+
+
+ If its stock then you should still get an update notification. I don't know how well a deodexed ROM will play with the official update, though. It's probably safer to go fully stock and then install the OTA. Or just wait until someone puts up a deodexed JB build. 
+
+
+
+
+ not sure if trolling. 
+
+
+
+
+ wat 
+
+
+
+
+ Flashing back to stock will unroot you. AOSP roms will improve greatly now that kernel source code for the S3 has dropped. You shouldn't have any problems with updating as long as you do a data wipe first. 
+
+
+
+
+ Noob question: will this help at all with CM10 for the SGS2? 
+
+
+
+
+ visit him. seriously. nothing would make his day, his whole *year* more than his best friend just being there when he walks out of the place. 
+
+
+
+
+ Anyone older than 15 really. 17 here and I remember the macerena very clearly.  
+
+
+
+
+ The RAZR M is a mid- to low-range phone. That's just the quality standard for low-end phones these days, isn't it great? :D 
+
+
+
+
+ **Hey r/android, please be aware that OP is not talking about the Razr Maxx, but is instead talking about the newer [Razr M](http://www.gsmarena.com/motorola_razr_m-4974.php) that is coming out soon.** OP should ignore all recommendations in this thread because everyone is talking about the **Razr Maxx** - they're [two completely different phones.](http://www.gsmarena.com/compare.php3?idPhone1=4974 idPhone2=4666)
+
+OP: The Razr M has a smaller, lower resolution screen when [compared with the Galaxy Nexus](http://www.gsmarena.com/compare.php3?idPhone1=4974 idPhone2=4219) (4.3in, 540x960 vs 4.65in, 720x1280). It has an arguably better processor and but on the software front the Galaxy Nexus will offer a *much* better experience. The Razr M has a larger battery and a smaller screen, so I think its safe to say that battery life will be less of a problem on the Razr M than the Galaxy Nexus. You must also decide whether expandable storage is important to you - Galaxy Nexus doesn't have an SD card slot while the Razr M does.
+
+Personally, I'd go the Galaxy Nexus. Guaranteed software updates for at least the next two major versions of Android + a bigger and better resolution screen. 
+
+
+
+
+ [Razr M != Razr Maxx](http://www.gsmarena.com/compare.php3?idPhone1=4974 idPhone2=4666) 
+
+
+
+
+ The Droid Razr M is one of the newer mid-range phones that Motorola has put out. OP is not talking about the Maxx. 
+
+
+
+
+ Honestly, probably because it was the best-looking one on the store. Either that or a competitor is playing dirty. 
+
+
+
+
+
+
+
+
+
+ This. Nothing comes close to that feeling in your chest when you find yourself on the floor, yet again, and realize that you really can't take another day. Hug for you dude/dudess. 
+
+
+
+
+ RR is a bloated piece of shit with a disgusting theme. I don't know why so many people love it.  
+
+
+
+
+ [Unofficial builds for the Intl. SGS2 (i9100) on Goo.im](http://goo.im/devs/aokp_s2/AOKP-i9100) if anyone's interested. 
+
+
+
+
+ [CM10 nightlies are coming along nicely.](http://get.cm/?device=i9100) It won't reach "stable' status for a while, because they're having trouble with hwcomposer (which means that Project Butter isn't completely there for the SGS2 at the moment.) **Note**; this is for the **International Galaxy S II** (i9100), if you have a carrier variant than you'll have to go to its relevant XDA forum.  
+
+
+
+
+ If you have a recovery installed, wipe cache, dalvik-cache and fix permissions. If you're 100% stock then a factory reset will also fix it. 
+
+
+
+
+
+
+
+
+
+ http://i.imgur.com/9zjG8.jpeg 
+
+
+
+
+ Both aokp and cm9 support software keys. It can be activated in the settings.  
+
+
+
+
+ Wat 
+
+
+
+
+ Install a Rom with software keys.  
+
+
+
+
+ Commenting to enter.  
+
+
+
+
+ There's an app called AppExtractor - this can restore messages from a nandroid. 
+
+
+
+
+ XDA developers is your best bet: http://forum.xda-developers.com/showthread.php?t=1674286. The intl. GS3 is officially supported by CM, you can find nightlies here: http://get.cm/?device=i9300 
+
+
+
+
+ Yes I realize that, but the only real difference is the name of the release channel.  
+
+
+
+
+ I'd recommend both of those things (SiyahKernel + CM10) but honestly, the only way you're gonna be able to tell is just try it for yourself. Make a nandroid and test it for a day or two, and if you like it then keep it. Everyone's experience is different.  
+
+
+
+
+ [Huh?](http://get.cm/?device=i9100) 
+
+
+
+
+ Read by comments above about anecdotal evidence on the issue. 
+
+
+
+
+ No shit, its my photo and its meant to be over-exaggerated - its a family snap that I shared with friends and family. I was simply showing the OP what happens when you do the technique I described. 
+
+
+
+
+ The point I'm making is, it should not have been posted here in the first place.  
+
+
+
+
+ 100% agree with you. From a consumer perspective, its a perfect solution - in typical Apple fashion, too. Sure we can rant and rave about how non-standards-compliant or compatible it is, but at the end of the day, Apple has provided a solution to an existing problem - however limiting that solution may be. Its excellent for Apple; not so good for the rest of mobile technology. Apple has never seemed to give a fuck about anything other than profit though. This ties in perfectly with their existing vision. 
+
+
+
+
+ Perhaps. There doesn't seem to be anything other than anecdotal evidence on the topic. Many of my friends use (or did, until they switched to iPhone) Nokias and a few have used Samsung (non-android) phones (with some sort of Java-based OS), and this problem has occurred. (In Australia, on various telcos, if that makes any difference). 
+
+
+
+
+ There's a difference between posting an up-and-coming band that a few people in the subreddit know of and posting [a band that has hit #1 in the UK.](http://www.gigwise.com/news/42517/list.gigwise.com) 
+
+
+
+
+ [This](http://wiki.cyanogenmod.com/wiki/Samsung_Galaxy_Note:_Full_Update_Guide) will take you from 100% stock to a custom rom - when you get up to "Flashing Cyanogenmod", simply replace the "latest version of Cyanogenmod" with the PA flashable .zip. Good luck! 
+
+
+
+
+ Because they both support the format? Seems kind of obvious... 
+
+
+
+
+ Haha, I know that feel. Normally I just ignore it, but today I felt like being a bit of a dick. 
+
+
+
+
+ Its sad how true this is. I almost feel like its an underhanded way of enticing users to buy into the platform - so many times I've seen people with Android phones receive MMSes from iPhones with this issue, they mention it to the person who sent it to them next time they see them, and the person laughs and says something along the lines "oh well, it wouldn't happen if you had an iPhone." - so people start to think its a problem with their phone, not the other way around.  
+
+
+
+
+ The Kooks are pretty well known (well, amongst people in my age bracket), but they're not exactly "one of the worlds shittest bands". 
+
+
+
+
+ This deserves its own submission. 
+
+
+
+
+ From the sidebar:
+Listentothis is a place to discover new music, new or overlooked artists 
+
+
+
+
+ Its a problem on the iPhone end, it has nothing to do with Android. Apple have decided to use a non-standard format of MMS. 
+
+
+
+
+ Wow thanks OP, the Kooks are so underground, I've never heard of them before. What a gem. 
+
+
+
+
+ No, I'm sorry, but backups should always be made when flashing something, especially for newbies. That's great that that works for you, but there have been times when I've flashed a new version of a kernel or ROM and my phone didn't boot because of a mistake that the developer made. 
+
+
+
+
+ No worries, good luck! 
+
+
+
+
+ According to its XDA-developers thread, if the app TriangleAway is installed and used on the ALE8 firmware, it will reset the flash counter and remove "System is modified" from Download Mode. [The thread can be found here](http://forum.xda-developers.com/showthread.php?t=1494114). 
+
+
+
+
+ You're asking the wrong questions. What do I want to eat? Yum, I feel like some mac   cheese. Who do I feel like talking to? Talk to them. Ask them how their day was. 
+
+So maybe you cut yourself tonight - that's okay. You'll go longer without cutting next time. Put it in the past. 
+
+Things aren't happening to throw you back into your depression - sure, it seems like that, but depression is a failure in thinking and correctly assessing situations. Your depression is overwhelming you, it is using these things that happen in your life as an excuse to get the better of you. People are shit. Its a fact. People will always fuck you over. Find people that don't and don't fuck them over either.
+
+Is there anything specific that has made you feel this way at the moment?  
+
+
+
+
+ Congratulations on finding a release. Now you know what helps you, the only thing you need to focus on is finding the motivation to do it when you start feeling down (I often find that's the hardest part. Doing things you know will make you feel better - sometimes you just don't want to.)
+
+I find bike riding, playing video games and watching a particular scary movie achieves this for me. Be careful you don't cross the line into escapism though - by merely using these things as a "distraction" instead of actual stress relief, you are simply ignoring your problems and letting them get bigger. When I was really bad, I would play video games or go for a really exerting bike ride, but I would only feel better *while* I was doing these things - the second I stopped and my mind wandered from the task at hand, I immediately felt like shit.
+
+Anyway, hope you're having a fantastic night. :) Thanks for sharing your awesome news with us. 
+
+
+
+
+
+
+
+
+
+ Yeah people's first impressions have all seemed to be "Dude, did your sister have a stroke or something?" haha 
+
+
+
+
+ So... Google Play? 
+
+
+
+
+ Nightlies of the same ROM are generally pretty safe to dirty flash. Just make sure to wipe cache and dalvik, and **always** make a nandroid backup before flashing anything.  
+
+
+
+
+ Are you sure? Your camera icon in [this](http://i.imgur.com/9zc2i.png) picture doesn't seem to be in that theme. 
+
+
+
+
+
+
+
+
+
+ What icon theme is that? 
+
+
+
+
+ 1/100s f/3.5 ISO 200, Canon 20D w/ 18-55 kit lens @ 18mm 
+
+
+
+
+
+
+
+
+
+ Do you have a custom recovery installed? Try wiping cache, dalvik-cache and fixing permissions from recovery.  
+
+
+
+
+ Have you tried clearing data for Play Store and Google Service Framework and rebooting? 
+
+
+
+
+ For step 6, you can also lift the bottom end of the RGB curve to make the blacks look flat. Like [this](http://www.flickr.com/photos/lukeboland/7919616866/in/photostream). 
+
+
+
+
+ Not sure if being serious or mocking other commentor. 
+
+
+
+
+ So explain to me why swiping away Facebook while uploading a photo doesn't stop the upload, and why swiping away goo manager during a download doesn't stop a download, when killing both of those apps with a task manager or from the settings does? 
+
+
+
+
+ No, it doesn't. Swiping it away from the multitasking view politely asks the app to close - its up to the developer whether or not their app actually stops running in the background from that command.  
+
+
+
+
+ Ahh true, my apologies, I misread the post. OP, try flashing the ICS gapps again, wipe cache, dalvik and fix permissions (usually under advanced  fix permissions). 
+
+
+
+
+ Not sure why its doing this, maybe it was trying to check for an update when you didn't have a signal (or data connection)? Anyway, now is the perfect time to swap to [AdAway](https://play.google.com/store/apps/details?id=org.adaway feature=search_result#?t=W251bGwsMSwxLDEsIm9yZy5hZGF3YXkiXQ..), a much better alternative IMO. 
+
+
+
+
+ If the compatibility checker says its unable, then I don't think there's any way around it, unfortunately. It has something to do with the Bluetooth hardware, and the compatibility checker checks your device if the Bluetooth chip has the capability.  
+
+
+
+
+ New android version = new gapps version. [Here](http://goo.im/gapps/gapps-jb-20120726-signed.zip) you'll find the latest gapps available for JB. Flash that, clear cache and dalvik, reboot, should all be sweet. Good luck. :) 
+
+
+
+
+ Clock, stopwatch, alarm and countdown timer are all available in one app. This is what I'm talking about.... 
+
+
+
+
+ It is already, no? http://i.imgur.com/4N46s.png pressing the world "Alarm" takes me to the alarms screen. I thought this was apart of AOSP? 
+
+
+
+
+ It doesn't.  
+
+
+
+
+ http://i.imgur.com/wI0cB.jpeg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ While there are a lot of better alternatives out there, I think people just use it now because back then, there *weren't* any usable alternatives. Go Launcher was fast, light, and highly customizable. GO apps have only become bloated in the last ~12 months. 
+
+
+
+
+ I think the camera app comes in the gapps package - have you flashed the latest one? 
+
+
+
+
+ http://wiki.cyanogenmod.com/wiki/Samsung_Galaxy_S_II:_Full_Update_Guide
+
+Where it says download the latest version, use this. Good luck. :) 
+
+
+
+
+
+
+
+
+

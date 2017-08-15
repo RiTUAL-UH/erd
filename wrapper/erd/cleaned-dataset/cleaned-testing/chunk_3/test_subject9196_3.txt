@@ -1,0 +1,191 @@
+ Thanks, I will make a screenshot with less colorful wallpaper. 
+
+
+
+
+ To make you guys sleep good I have just removed WRITE permission, at least for now. Hope you will appreciate it. 
+
+
+
+
+ I honestly have to say I didn't check it with Exchange calendar, as I have never though that it would be so popular. But if it will continue - I will make such test, to make sure that I don't ignore any bug - and I can sleep well. 
+
+
+
+
+ As before that one I was into Bitcoin apps, page is already there (http://tajchert.pl/donation/) but I don't plan (at least now) a paid version as red tape work in Poland is awful and you need a company to pay tax from sells, but will take a look at that in few days and future apps. Thank you for proposing. 
+
+
+
+
+ Thank you, I have never imagine (in my life) as student, with none class about programming for Android, I would end up at Android Police main page...
+
+Thank you to all of you that up voted/rated/criticized it! I will make everything to make all your request come true! 
+
+
+
+
+ Thanks, I will make (even) more tests and dive into that to find that bug. Please let me now PM or here if it disappeared or not. 
+
+
+
+
+ In upcoming days I will add a feature to add own colors, and a checkbox "use calendar color" so please stay tuned.
+
+About that colored area whre you don't have anything - double check if for sure you don't have - maybe a hidden event? 
+
+
+
+
+ Sorry I can't get list of alarms from the system... I will do a second look at and experiment with some undocumented database but probably it will end up working only on some phones. In such situation it isn't on priority list todo. 
+
+
+
+
+ I will take a look into that, and probably write email of calendar owner with some small font below calendar name. Thanks for pointing that out. 
+
+
+
+
+ In a meant time I pushed a update solving that bug. But thank you for your effort to test it. 
+
+
+
+
+ Thanks! I though they are gone for good, but now I have nothing no to defend myself for making that mistake.
+I just uploaded update to Google Play and it should be available in few hours. Hope you will enjoy it, there is small glitch that if  you make it full screen marked area is a bit out of clock - will fix as soon as I can.
+ 
+
+
+
+
+ Thanks, my friend (when developing it) suggested it to me but I said "maybe later" now I see that it a good idea, and I would add it (but as opt-in in settings). 
+
+
+
+
+ It show events from next 12 hours, it updates each 30 minutes and checks if there is any new event to show. If it doesn't fully answer your question, just ask one more time with longer description of a issue.  
+
+
+
+
+ Sorry to disappoint you, but no. It is one year old idea, but there was always something more important to do, and I wasn't convinced that it would be so successful.
+
+But it is nice to see that not only I have cool ideas, even if very similar. 
+
+
+
+
+ I don't need any email permission, here are these that I use:
+
+uses-permission android:name="android.permission.READ_CALENDAR"/
+
+uses-permission android:name="android.permission.WRITE_CALENDAR"/
+
+permission to write, modify event I need as in near future I will add some cool function and, if I would add then that ask for permission most users would not update (as automatically update would work in such case). 
+
+
+
+
+ It is done that way. Maybe it is not very visible - I will add option to set it by user. 
+
+
+
+
+ Thanks, mate! Is that a maximum bottom (as you can) position? Or you can't scroll at all? 
+
+
+
+
+ It shows only events from next 12 hours - however, in some post here was it mentioned (to add events from 24hours), and I will experiment with that (maybe second circle with events?). 
+
+
+
+
+ Thanks, added to my ToDo list. 
+
+
+
+
+ Sorry to hear, I tested it with only 7-8 calendars. Can you provide some screenshots, and elaborate on it? Here or PM me. I would be more than happy to solve it. 
+
+
+
+
+ Exactly, that my next idea in my mind - probably I will take a deeper look into it in few days, as I wan't to polish that one to perfection. 
+
+
+
+
+ Would you like a color (as that in events) which indicates temperature, during next 12hours? However I don't know how to show rain/sun on it.  
+
+
+
+
+ I already started designing slim one - digital one. But it is more work to make it as simple and perfectly readable at the same time. 
+
+
+
+
+ Sorry, as in 4.4 there is no lock screen widget I have forgotten about that - just rapaired it, will be in few hours available in Google Play. 
+
+
+
+
+ Thank you sir, you can adjust transparency of pie when adding a widget - from close to 0 to almost nontransparent one. 
+
+Next update (working on it) will bring customization, so stay tuned. 
+
+
+
+
+ Sorry, there is nothing that I can do with that, as I need those to read/add events to your calendar - but since app doesn't have a permission to access Internet, you are safe (even if I would be evil).
+I'm currently working on some extra features (personalization etc.) when done, and I would clean project most likely I would publish code. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have added a post while it was happening...
+http://www.reddit.com/r/dogecoin/comments/1tadyy/2_pizzas_for_10k_dogecoins/ 
+
+
+
+
+ [How it look like from Europe.](http://i.imgur.com/LeZfYcZ.gif) 
+
+
+
+
+ Looks like a perfect bag for waterboarding. Just saying. 
+
+
+
+
+ Plot twist: It's internal not, accessory. 
+
+
+
+
+
+
+
+
+
+ For interested:
+Description is in polish (translation: "Probably nobody expected that"), but voices in the video are russian, or similar.
+
+Source: I'm polish. 
+
+
+
+

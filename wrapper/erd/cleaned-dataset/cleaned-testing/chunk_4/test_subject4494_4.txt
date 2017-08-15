@@ -1,0 +1,1019 @@
+
+
+
+
+
+ That was in the beginning, they probably didn't think it would be so popular. According to https://en.wikipedia.org/wiki/we_the_People_(petitioning_system) it's now 100,000. 
+
+
+
+
+ Actually, they introduced evidence of that into the trial. 
+
+
+
+
+ So it mentions something in the story that happened earlier. The original post is from June 2015. 
+
+
+
+
+ ? 
+
+
+
+
+ Where would I learn more about these fraud proofs? 
+
+
+
+
+ Published yesterday, what do you mean? 
+
+
+
+
+ Google "website to image", couple sites will let you put in a url and give you an image. Copy that into imgur for permanence. 
+
+
+
+
+ Why? Is proper SPV *that* hard? 
+
+
+
+
+ Why? Just wait until someone presses then press, maximum one minute wait. 
+
+
+
+
+ This is mentioned as a potential problem on the weaknesses page on the bitcoin wiki, and also links to a page on getting around the timestamp issue.
+
+Go tell whoever wrote that they have no idea what they're talking about. 
+
+
+
+
+ It's not going to be noticeable over the short term. There are sometimes hour-long gaps between blocks. One or two blocks generated at a slower rate won't set off anything.
+
+I'm not the first to mention this vuln of only connecting to one node, I've seen devs saying similar. 
+
+
+
+
+ The judge ruled otherwise. If Ross had claimed an interest in it, they might have needed to justify, but as it was Ross had the burden of proof and failed to meet it. 
+
+
+
+
+ They don't have to justify it, contrary to your claim. The fact that they did is irrelevant.
+
+My point then was whether they need to know the search is legal. 
+
+
+
+
+ You said
+ And they have to justify their authority to do so.
+
+I saw what you said about third parties, I was bringing out a different point then. 
+
+
+
+
+ Do you not understand the scenario I've been describing? I start with block X, generating blocks, then send them to you when I'm ready. The timestamps are after X.
+
+You keep on adding new checks which nobody ever checks, and would be trivial to exploit if implemented in code. 
+
+
+
+
+ You claim that they need to justify their authority to search, however it would seem the burden of proof is on the defendant that the search was illegal. 
+
+
+
+
+ They might not, as I said, I'm unaware of case law dealing with that specific question.
+
+https://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution#Search
+
+has
+
+The Supreme Court has held that the Fourth Amendment does not apply to information that is voluntarily given to third parties.
+
+but it's not clear whether the police need to *know* that it was given at the time of search. The government's argument would say no, because Ulbricht had no expectation of privacy for the server due to its violating ToS, so he can't throw evidence out.
+
+http://www.wired.com/2014/10/feds-silk-road-hack-legal/ also says it might not be true that the Feds can search foreign property. 
+
+
+
+
+ I generate them in advance, and only send them to you when you connect. 
+
+
+
+
+ Yes, but they didn't search every server, only the server SR was on. 
+
+
+
+
+  In order to mine blocks after X you have to have hashing power equal to the total hashing power of the bitcoin network at block X.
+
+No, because you have more time. If you have 1%, then you can mine 1 block in 100*10 minutes on average.
+
+Plus you have to continue to do this without falling significantly behind for an average of 1008 blocks (to next difficulty change).
+
+I only need to do this for 1 or 2 blocks, however many confirms you'll require. 
+
+
+
+
+ I'm giving you all the blocks up to X, plus two that I mined. This should be clear from my post. 
+
+
+
+
+ Huh? Mine is exactly 98 blocks shorter than the real one.
+
+Also, would you notice? 
+
+
+
+
+  All I need to start is a copy of the genesis block hash -- any chain you give me can be verified to be the correct one from this genesis block.
+
+Nope. I start a chain from block X, mine two blocks on it. Send it to you. This chain is X+2 blocks long.
+
+The real chain has X + 100 confirms in the meantime. You don't see it, because you only connected to me.
+
+You have the wrong chain. 
+
+
+
+
+  Your argument is a straw man.
+
+I wanted you to clarify what you meant, thanks.
+
+From your original post it seemed like you think there's a duty to break laws not affecting you. 
+
+
+
+
+ Or, don't enter a regulated market. Plenty of people have made quick money in non-regulated markets (e.g. Flappy Bird). 
+
+
+
+
+ 1. Do you think the law against possession of child p is unjust?
+2. If the answer to 1 is yes, do you have any, and if not, how is that consistent with what you said above? 
+
+
+
+
+  But to know that it violated the party's ToS, they'd have to have some reasonable suspicion (or whatever the nomenclature is).
+
+They had freaking reasonable suspicion, it said on the site it sold drugs! (Technically they didn't know it was a third party until after they found it, so it may have been legal, but they couldn't have known until afterwards. So it would have been illegal (possibly) if it had been on his own server in the US. Whether that's valid is an interesting question, but I don't know if there's precedent.) 
+
+
+
+
+ There are so many unjust laws out there. Why should I do the research it takes to break them? I bet you haven't broken every unjust law, either. 
+
+
+
+
+ Parent was implying a pardon is wrong if he didn't break the law. 
+
+
+
+
+ They didn't admit it until the trial.
+
+I've seen a theory that Dratel didn't want to admit it until he had to, because that would reduce public support for Ross, which was paying his bills. 
+
+
+
+
+ Actually no. The government claimed that they found the server legally. Ross challenged that, but refused to claim a personal interest in the server, so that was never ruled on. So as far as we know, it's possible it would have been ruled legal anyway.
+
+(I think the government's argument was at least partially plausible; basically that it was outside the US, and handed over to a third party in violation of said party's ToS, and therefore didn't have 4th amendment rights.) 
+
+
+
+
+ The murder for hire stuff was also on his computer, thus not editable by the agents who were corrupt. 
+
+
+
+
+ The second of the ones I quoted, or
+
+sabotage bitcoin by excluding clients and nodes
+
+Sorry I was unclear.
+
+I agree that if limits are set too high, then one small miner can do this. My system would allow anyone to bid for the blocksize, so it will be chosen by those who most want it, as in the Coase theorem. 
+
+
+
+
+ You badly underestimate fools. 
+
+
+
+
+ This started because someone said that you only needed to connect to them if you trust them, and you said trust is not required
+
+I don't have to trust you -- the proof of work gives me trust. :)
+
+You're right that if you connect to one good node then you'll end up with the right chain, but if you connect to only one node that isn't trustworthy, you have no guarantee that you'll be on the right chain. You can verify the chain, but you don't know if there's a bigger one out there. 
+
+
+
+
+  If you have access to the internet, you could get access to a list of nodes.
+ I'd imagine future clients will check for validity by comparing the responses from multiple nodes.
+
+That doesn't help, unless you manually choose some nodes, and abort if you don't get a response from some of them. 
+
+
+
+
+  and also the risk of a rogue miner using oversize blocks to knock competitors off the market, or sabotage bitcoin by excluding clients and nodes
+
+The first of these is irrelevant to my system. The second can only be done by multiple miners colluding, in fact it requires 51%. 
+
+
+
+
+ It doesn't really matter if you can iterate. 
+
+
+
+
+ `x--` 
+
+
+
+
+ It acts exactly like a function
+of **it's** argument.
+
+As someone who knows grammar, rekt. 
+
+
+
+
+ But if you only connect to one node, then how do you know they don't have any hashpower? Your claim of no-trust needed is wrong. 
+
+
+
+
+  And 5 minutes later someone adds a couple of blocks that includes the transaction mrEvil wanted to leave out. So you'd have to keep making a chain of only your blocks till the end of time to avoid that.
+
+You only need to reject blocks with the transaction you wanted to exclude.
+
+Which makes everyone else on the planet sooner or later stop using your chain, since its not distributed anymore and people will use the other 49%'s fork.
+
+So you're saying a hardfork to stop this one chain. Everyone needs to upgrade, and anyone who didn't upgrade stays on my chain.
+
+Also, in the time it takes, the attacker already successfully double-spent.
+
+And this can be repeated, blocking any blocks that build on a competing fork, for as long as attacker has power. That builds an incentive to follow this attacker's proposed rules. 
+
+
+
+
+  But the point is that standardization is not a "market". (Most things aren't.) There are no buyers and sellers, there is no item that gets traded and has a price.
+
+It's not a perfect analogy to a market with fungible goods, but arguably markets don't need fungible goods (to take an example from the link above, selling dedications.) The buyer is anyone who burns, the seller is implicitly the entire bitcoin community, which gains because the float goes down. The item being traded is blocksize, with it automatically going to the highest bidder.
+
+The purpose of a maximum block size limit (like the maximum size limit for internet packets) is to make it possible for each player to ensure before hand that he has enough resources to play his role. If the maximum block size is 1 MB, the admin of a site that needs to store 10000 blocks in memory knows that 20 GB of RAM will be more than enough. If the maximum block size is 20 MB, he had better get 200 GB, or program a more complicated solution with disk swaps or multiple servers. Now, what should he do if the maximum block size is computed from the traffic?
+
+This may be a valid point, but note that "serious" proposals have been made with varying blocksizes as well. So some core devs don't seem to think that's a problem. 
+
+
+
+
+  Having 51% allows no such thing, unless you are willing to compete with the rest of the network until the end of time, essentially forking it. Hoping that everyone will choose your more restrictive fork.
+
+Your "restrictive" fork is longer than the other one, and is completely valid, therefore nodes will accept it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Agreed, but it makes the above claim a lot less valid.
+
+And there's still a chain of custody. 
+
+
+
+
+ Roohparvar says the sleeves are thin enough to fit inside almost every battery compartment imaginable 
+
+
+
+
+  A free market is not "anything can be sold". It is a market where there is no artificial barrier to the entry of new suppliers, suppliers can set the price of their product as they please, and customers can freely choose among suppliers.
+
+That's not the meaning I was referencing. I'm talking about the idea that [If you may do it for free, you may do it for money.](http://bleedingheartlibertarians.com/2015/02/book-dedication-for-sale/) My (only partly in jest) claim was that the blocksize debate was not being conducted that way.
+
+There's also the claim that the free market always works better than a non-free market.
+
+Setting a common standard for products that have to interoperate -- like lamp and lamp sockets, power plugs and sockets, internet packet formats, character set encodings -- is not something that "free markets" are good at.
+
+[citation needed]
+
+(actually, since this is /r/bitcoin, even a citation won't be believed)
+
+Whenever two computer systems have to share a database or exchange information, it is necessary to have a fixed maxmum size for items and messages.
+
+This would still have a maximum size, just recalculated every so often, in a deterministic way. 
+
+
+
+
+ But none of the "corrupt" agents had that access.
+
+Do some research on https://en.wikipedia.org/wiki/Chain_of_custody 
+
+
+
+
+ Are you saying you disagree? 
+
+
+
+
+
+
+
+
+
+  OTOH Gavin has a point saying that a median always excludes the vote of the hash power minority.
+
+I must have missed that. Link? 
+
+
+
+
+ Buying paintings doesn't change the system. (And the money goes to others, who then spend it back into the economy. Not wasted.) 
+
+
+
+
+  Having the most money means you can change the system to make sure you keep being the person with the most money sounds like a good idea to you?
+
+Whoever controls 51% of mining can already control what is mined. The only thing about the system that could be changed under this plan is the blocksize. 
+
+
+
+
+  Well, how about doing as Gavin proposed then, having the growing blocksize limit, BUT also making a very reasonable default adaptive soft limit, like 1.5x average since last 2016 blocks?
+
+I've proposed this as well. You should use the median, not the mean, as someone pointed out.
+
+I think more needs to be done on incentives, but that seems right.
+
+Of course, [I prefer my own idea](https://www.reddit.com/r/Bitcoin/comments/3863vw/a_brandnew_idea_for_resolving_the_blocksize_debate/) :) 
+
+
+
+
+ There is no such thing as "almost surely guaranteed" in statistics.
+
+https://en.wikipedia.org/wiki/Almost_surely
+https://en.wikipedia.org/wiki/Law_of_large_numbers
+
+Maybe I'm not the one who needs to study statistics more.
+6 block in a row at some point.
+
+But not starting from an arbitrary point. If I fork the blockchain starting from block X, 51% means I'll eventually be longer than the mainchain, while .01% means I most likely won't.
+
+I can try forking anew whenever a new block is found, but that won't let me double-spend something from block X+1. 
+
+
+
+
+ You've got an almost surely guarantee, or probability of 1, over unbounded time. 
+
+
+
+
+ The logs on his computer couldn't be changed by someone with SR access. The journal, etc. 
+
+
+
+
+ What do you think his appeal can be based on? 
+
+
+
+
+ No. There's a petition site at whitehouse.gov, but change.org has no guarantee. 
+
+
+
+
+ I think almost everyone will agree that he broke the law at this point. 
+
+
+
+
+ The judge threw it out because he refused to claim a privacy interest in the server, which could not be used against him in court. 
+
+
+
+
+ 1. Make this on the whitehouse.gov website, if at all
+2. These rarely work, I don't know of anyone who was pardoned through such a petition, although some had tens of thousands of signers. 
+
+
+
+
+ So if the old node software never worked  
+
+
+
+
+ That address has lots of non-random letter: Size, YES, Pm, a mispelling of i am (and sex), and four CAPS at the end. I challenge you to come up with another address with all those features, and sign a message with the key.
+
+Besides, if this is accepted, there's no need to discard the keys, as spending would be blacklisted. 
+
+
+
+
+ thatsthejoke.jpg 
+
+
+
+
+ It's not only bandwidth, it's the UTXO set, which may grow a lot faster with larger blocks. 
+
+
+
+
+ Just curious what you would consider a free market "anything can be sold" solution to this.
+
+Or would actually using a burn address be enough? 
+
+
+
+
+ But they need to waste it, not just give it to politicians. 
+
+
+
+
+ FWIW, most of the sites I've used accepted a number other than 6.
+
+And 51% is guaranteed in the long run. 
+
+
+
+
+ It seems to be a definitional dispute over whether hardfork means network split or code change from a previously consistent state, and as the previous code was itself inconsistent, some aren't considering it a hardfok. Or maybe it's whether there's a protocol change or not?  
+
+
+
+
+ So first of all, not everyone has a list of nodes like you do, and less nodes means less security for those.
+
+Are you manually checking that you got valid responses from at least one known node, by the way?
+
+Second, if everyone does like you, that puts the cost on those nodes even higher, leading to a disincentive for node to publicise their addresses. 
+
+
+
+
+ That's a soft fork, I think. 
+
+
+
+
+ Blocksize is sort of controlled like you say, but only if miners make a conscious decision. It's not as good a guarantee as the one against 50% attacks. 
+
+
+
+
+ Your first point is very minor (no pun intended).
+
+And a small miner must still verify a large block in order to mine on top of it; if they assume that others will be mining on it, they want to as well, but if it's large then they may not be able to store the blockchain anymore, or not have enough bandwidth for incremental changes. 
+
+
+
+
+ 6 is irrelevant to the attack.
+
+And if you have less than 50%, you aren't guaranteed to suceed. 
+
+
+
+
+ I've seen it said that bitcoin has never had a true hardfork; is that not true?
+
+Edit: also, they seemed to be referring to when the limit was first introduced. 
+
+
+
+
+ I'm on an i7, but I think it's in the 3s in GHz. Didn't time anything more than 5. 
+
+
+
+
+ One of the agents (DEA agent Carl Mark Force) was the lead undercover agent in the case against Ulbricht, and had high-level access to administrative functions of the Silk Road, including the ability to manipulate logs, chats, private messages, posts, account information and bank accounts. 
+
+And that somehow caused chat messages to appear on Ross's computer how exactly? 
+
+
+
+
+
+
+
+
+
+ I like mine better. That one is both serious and unfree. They unfairly award more power to those with more money, without requiring them to pay it. That's not free markety at all! 
+
+
+
+
+ There were no relevant hard-forks AFAIK, although there were some edge cases. 
+
+
+
+
+ That was a soft fork. 
+
+
+
+
+  Most scenarios predict that the winning fork is very quickly decided by market or other forces.
+
+The last hard-fork caused by a bug took longer than "very quickly". 
+
+
+
+
+ I'm thinking a new vote each retarget. However, if there's no opposition, then it takes very little to maintain/adjust. If there's opposition, then you need to outspend them.
+
+(Perhaps there could be scripts as opposed to simply numbers, which would allow more freedom.)
+
+The beauty of my idea is that it changes all future hard-forks to soft-forks; all miners just refuse to mine on ones with a bad vote, and nodes will **never** have to think about it again.  
+
+
+
+
+ It worked for me, taking under a second for each result. 
+
+for i in {1..5}; do echo xprv9wTYmMFdV23N21MM6dLNavSQV7Sj7meSPXx6AV5eTdqqGLjycVjb115Ec5LgRAXscPZgy5G4jQ9csyyZLN3PZLxoM1h3BoPuEJzsgeypdKj | bip32gen -i xprv -f - -o addr -F - $i; done
+
+took 2 seconds to complete.
+
+Try that, and if it works, then something's wrong with whatever key/code you copied. 
+
+
+
+
+  How is the "huge block" problem any different than the 51% problem?
+
+If you have less than 51%, you can't do a 51% attack (at least not with a certain chance of success). But any miner can start making huge blocks. 
+
+
+
+
+ The problem is that some nodes will be hurt, and don't have the option to make these tradeoffs. 
+
+
+
+
+  It would be great to have commitment that the core-devs and other stakeholders would abide by such a vote.
+
+I was thinking that would be enforced by code. 
+
+
+
+
+ And it's all done in the blockchain! 
+
+
+
+
+ Just because it's hard doesn't mean we should make it even harder. There are real tradeoffs here, which you didn't acknowledge at all in your post. 
+
+
+
+
+  We have full nodes surplus now, too many people are running full nodes. 
+
+That is not true. The number of nodes has been dropping, and some core devs are concerned that it's going to be too low. 
+
+
+
+
+ Disclaimer: this may or may not be serious; take it as you wish. If you do take it seriously, don't dismiss it as ridiculous. Conversely, if you think it's ridiculous, then it's probably satire.
+
+As I'm sure you all know, there's been a debate recently over the blocksize. This is beginning to feel like politics. Bitcoin was made in order to subvert politics, so this is unfortunate.
+
+The optimal solution for any problem whatsoever is a free market. This is proven by the [Coase theorem](https://en.wikipedia.org/wiki/Coase_theorem), as any good anarchist knows.
+
+The reason this hasn't solved the blocksize problem is that it's not a free market. Shocking, right?
+
+**My proposal**
+
+Make the blocksize a free market. Specifically, designate one address the "blocksize voting address", and disable spending any outputs to it. People can send any amount of bitcoin to this address, which effectively "burns" it. In such a transaction, also include an OP_RETURN with a number, which is your vote for the blocksize in bytes. These are averaged out every difficulty retarget, weighted by how much money was voted for them, and that is the new blocksize.
+
+(I've tentatively selected an address for this: 1SizeQWexshCicTnfPmYESiAymjHyBXKX.)
+
+Note that miners can reject transactions that have blocksize votes they don't want, so 51% of miners can easily collude to block voters they don't like. However, those voters can in turn make the fees to the miners high enough, which perfectly aligns incentives (ah, the magic words).
+
+I had some buzzwords to put here, but I forgot, so pretend there was more things that you like about bitcoin here. 
+
+
+
+
+  Then bitcoin must have been really big, really important. 
+
+Or someone just spammed a lot.
+
+Besides, nodes don't make money. 
+
+
+
+
+  How can I verify that the child addresses are connected to the master key?
+
+You can also print out the private keys by changing `addr` to `wif` and check that those generate those addresses. I'm not sure how else you want to verify.
+
+ And what kind of wallet do I need to spend the bitcoins sent to these child addresses?
+
+Any wallet that allows adding private keys. I don't have any wallet recommendations. Is the code good? 
+
+
+
+
+  It suggests that my equipment is not catching up, and i'm not suitable to run a full node while other people and business can (they are forwarding it).
+
+And when it costs a million dollars to run a full node due to large storage/ bandwidth requirements what will you do? 
+
+
+
+
+ You spelled the fictional character wrong. 
+
+
+
+
+ You aren't blocked, ergo the West is good. 
+
+
+
+
+  then i have to accept that - that's what people want.
+
+and then your node crashes because the block is too big.
+
+Your claim that it only affects you if you want it to is false. 
+
+
+
+
+ You can set your own soft limit and stop forward blocks bigger than that.
+
+If you reject all blocks above a certain size, and others don't, you are breaking consensus.
+
+You can't stay on the network without accepting everything other blocks do. 
+
+
+
+
+  Not if I connect to specific nodes I trust along with other random nodes on the network.
+
+They can also be targeted, though. And a situation where you need to distrust almost all nodes you don't know or aren't public isn't ideal, to say the least. 
+
+
+
+
+ * Download https://github.com/jmcorgan/bip32utils `git clone https://github.com/jmcorgan/bip32utils`
+* Run `cd bip32utils`
+* Run `sudo python setup.py install`
+* Run `for i in {1..1000000}; do echo xprvyourkeyhere | bip32gen -i xprv -f - -o addr -F - $i; done`
+
+Tested in ubuntu and bash.
+
+If you need the private keys, just change `addr` above to `wif`.
+
+Changetip will be fine. 
+
+
+
+
+ virwox.com, if you have a Paypal Mastercard you can use circle.com or coin.mx 
+
+
+
+
+ But these all sound to me like issues that affect some, but not others. So it seems to me like it ought to be a configurable setting.
+
+I can't opt out from the network if I run a full node. 
+
+
+
+
+  Are you confusing nodes with miners? Having control of half of all nodes isn't some sort of magical number that'll allow you to do whatever you like. All it takes is one node to distribute a longer chain and it'll be accepted by all other legitimate nodes.
+
+But you don't connect to all nodes. You only connect to some subset, and if I control half of all nodes you're likely to only connect to mine.
+
+If I'm connected to several nodes that I trust, the likelihood that someone is going to compromise all of those nodes simply to double-spend against me seems lower than my chance at winning the lottery having never bought a ticket.
+
+If running a node costs a lot, then you may not *know* people that run one. I personally probably know exactly 0 people who run nodes. 
+
+
+
+
+ So if I'm responsible for $15 million of damage I don't owe any explanation, but if it's half a billion I do? 
+
+
+
+
+ https://archive.is/LOBq3 
+
+
+
+
+ Shouldn't you be in jail? 
+
+
+
+
+ $15 million 
+
+
+
+
+ If I've got any significant hashpower, I can convince you that I've sent you bitcoin with many confirms no matter where you start from.
+
+I can also convince you that the chain is much smaller than it is without doing any work. 
+
+
+
+
+ Sony getting hacked caused lots of damage, it was evaluated in the millions. 
+
+
+
+
+ If you only visit a single node? Nope. 
+
+
+
+
+ And if the network was reduced to only a handful of nodes, I imagine all of them would have public addresses. If you can connect to each of them, query for the same information, and get the same answer, is there any reason not to trust that answer?
+
+It means that an attacker only needs to compromise a couple of nodes. It's less centralization.
+
+Also, imagine there are 20,000 nodes. To be half the node network, you'd need 20,000 nodes of your own, and would need a lot of IP addresses.
+
+But if there are only 25 nodes, then anyone can make another 25 nodes and be half the network. They can make 100 nodes with unique IPs, and be the vast majority.
+
+Is this the only danger to worry about? That you might not have the longest chain? What issues could result of this?
+
+It means someone could double spend. I send you chain X with a payment from me to you, so now you think you've been paid. The real chain Y already spent that payment somewhere else.
+
+There's also a standard double-spend attack with preventing you from seeing the double-spend, but that only matters if you accept zero-confs. Even so, less nodes makes it easier to block.
+
+Also, lower nodes means easier to censor, and harder to get cheap anonymity. 
+
+
+
+
+ something reasonable such as 21 mb
+
+If only everyone agreed that was reasonable ... 
+
+
+
+
+ How many transactions do you do a day, how much do you pay in fees, and which currency would you switch to? You haven't provided enough info to be meaningful. 
+
+
+
+
+ If you run your own node, then you have the full security of bitcoin as long as at least one node you connect to is honest. You can only be "fooled" into accepting a shorter chain if nobody that has the longer one can communicate with you. Also, if the fake chain is a lot shorter than the correct one, it will likely have very long gaps in between blocks, or the latest block will be far in the past, increasing suspicion.
+
+If there are few nodes, then it's easier for someone to ensure that you connect only to them. 
+
+
+
+
+ Nice try, Chinese. 
+
+
+
+
+ http://lesswrong.com/lw/f1/beware_trivial_inconveniences/
+
+The Great Firewall of China. A massive system of centralized censorship purging the Chinese version of the Internet of all potentially subversive content. Generally agreed to be a great technical achievement and political success even by the vast majority of people who find it morally abhorrent.
+
+I spent a few days in China. I got around it at the Internet cafe by using a free online proxy. Actual Chinese people have dozens of ways of getting around it with a minimum of technical knowledge or just the ability to read some instructions.
+
+The Chinese government isn't losing any sleep over this (although they also don't lose any sleep over murdering political dissidents, so maybe they're just very sound sleepers). Their theory is that by making it a little inconvenient and time-consuming to view subversive sites, they will discourage casual exploration. No one will bother to circumvent it unless they already seriously distrust the Chinese government and are specifically looking for foreign websites, and these people probably know what the foreign websites are going to say anyway. 
+
+
+
+
+ https://en.wikipedia.org/wiki/Internet_censorship_in_China#Evasion
+
+Tor is probably the best, but might as well try different things.
+
+Download all the software in advance. 
+
+
+
+
+ https://en.wikipedia.org/wiki/Internet_censorship_in_China#Evasion 
+
+
+
+
+
+
+
+
+
+ You shouldn't be reusing addresses [anyway](https://en.bitcoin.it/wiki/Address_reuse).
+
+You could just send away any coins on that address first before doing this.
+
+(Also, the fact that you have other unspent transactions in the same address will make the procedure described above more complicated.) 
+
+
+
+
+ You said it's a few dollars for a test.
+
+But if you don't trust it, first generate the list of transactions using only your public address. Then, save the html file, go offline, generate the actual transaction, and save that. Then you can test it on blockchain.info before uploading it. That way, your private key is never entered while you're online.
+
+You can't do it completely online because it needs to pull your transaction history. (By the way, I confirmed that transactions still pending are included on the list, so you can double spend with it.) 
+
+
+
+
+ If you want to test it again I'll "help" you ... 
+
+
+
+
+ Well, I knew immediately that the only hope to recover the funds is that a legit mining pool that has a policy for returning funds in such circumstances and that I can contact, mines the transaction.
+
+You could also have quickly made another transaction and hoped the second went through (not very likely though). 
+
+
+
+
+ 404 
+
+
+
+
+ User wallets won't let you double spend in general. You'll need to create the transaction manually, then broadcast it.
+
+Assuming you have the private key:
+
+1. Go to https://brainwallet.org/#tx
+
+2. Paste in the private key
+
+3. Put in the destination address
+
+4. Put in the amount you want to send. This should be less than the total, to include a fee.
+
+5. Copy the raw transaction, go to https://blockchain.info/pushtx, and paste. 
+
+
+
+
+ http://www.cnbc.com/id/102632153
+
+It's been edited, archive of original [here](https://archive.is/2V1qL). 
+
+
+
+
+ No no, you misunderstood. OP wants *more* threads, not less.
+
+(I think the number of threads should dynamically increase with the number of people not paying attention; this makes an incentive for people to read them so that more aren't created.) 
+
+
+
+
+ The increase of the block size should be dynamically adjust and it will be a benefit for both the normal user(faster confirmation speed)
+
+No, that only applies if the blocks are full. 
+
+
+
+
+ I'd recommend doing this with any site; I've been burned too many times by even so-called highly regarded sites.
+
+Put it this way: have you ever seen an article from any mainstream source on something you knew a lot about, and found it completely accurate? I haven't, and many people have said the same. 
+
+
+
+
+ What was stupid about what they did?
+
+(In case you weren't aware, it was an app that stored private keys on the user's device, and had a problematic way to generate entropy. If you call anyone using the app stupid for not going through every line of source code themselves, including all of Android's source code, which was part of the bug, then you're setting a very high barrier which I highly doubt even you use. Or have you read the entire code of any wallet you use, plus any operating system it runs on?) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *2990 
+
+
+
+
+ Shooting fire from their arms. The others also work, I guess. 
+
+
+
+
+ I was thinking Mario style. 
+
+
+
+
+ The NSA spying was reviewed by a special commission which released a report. 
+
+
+
+
+ Just don't take cooler literally 
+
+
+
+
+ Hey dawg 
+
+
+
+
+
+
+
+
+
+ But How Can Jokes Be Real If /u/Monkaliciouz Doesn't Get Them? 
+
+
+
+
+ You played it too straight with that last sentence, I think. 
+
+
+
+
+ Or, you know, he did commission hits (as brought up in the trial, which the defense failed to disprove) and the government wasn't going to drop that. 
+
+
+
+
+ Isn't what you described just a trial? There was a jury, and discovery. 
+
+
+
+
+ niggers 
+
+
+
+
+ Failures of Evidential Decision Theory, part 1. 
+
+
+
+

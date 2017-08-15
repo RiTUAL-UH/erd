@@ -1,0 +1,72 @@
+config_base:
+
+  categories: [18-24_female, 25-34_female, 35-49_female, 50-64_female, 65-xx_female, 18-24_male, 25-34_male, 35-49_male, 50-64_male, 65-xx_male]
+  experiment_base_path: ./representation_files
+  experiment_name: weka_exp_0
+  processing_option: EnumTermsProcessing.SIMPLE
+
+  corpus:
+    type_corpus: EnumCommonTemplate.TRAIN_TEST
+
+    train_corpus:
+      corpus_path: corpora/PAN14/twitter/en/train
+      cat_map: ./cat_map.txt
+      filters_corpus:
+      - type_filter_corpus: EnumFiltersCorpus.FULL
+    
+    test_corpus:
+      corpus_path: corpora/PAN14/twitter/en/train
+      cat_map: ./cat_map.txt
+      filters_corpus:
+      - type_filter_corpus: EnumFiltersCorpus.FULL
+
+  java_args:
+    n_folds: 10
+    n_classifiers: 1
+    classifiers_options:
+    - classifier: SVM
+    ensemble: SINGLE
+
+# ==========================================================================
+# root
+# ==========================================================================
+root:
+
+  terms:
+
+    # words
+  - type_term: EnumTermLex.REG_EXP
+    id_term: '1'
+    regexp: "\\#+[\\w_]+[\\w\\'_\\-]*[\\w_]+|@[\\w_]+|[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+-*[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+|[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+|[<>]?[:;=8][\\-o\\*\\']?[\\)\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*]|[\\)\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*][\\-o\\*\\']?[:;=8][<>]?|[.]+|[/,$?:;!()&%#=+{}*~.]+"
+    string: ''
+    lazy: false
+    mode: 0
+    raw_string_normalizers: 
+    - {type_raw_string_normalizer: EnumDecoratorRawStringNormalizer.TO_LOWER}
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 3000}
+
+  filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 3000}
+
+
+  childs:
+  
+    # ==========================================================================
+    # subspace 1
+    # ==========================================================================
+  - representation: EnumRepresentation.BOW
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 3000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 3000}
+
+
+    childs: []
+    # ==========================================================================
+   

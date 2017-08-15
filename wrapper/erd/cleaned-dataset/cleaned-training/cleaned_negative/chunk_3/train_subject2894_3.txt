@@ -1,0 +1,53 @@
+ God damn, just spent all this time trying to install it, finally I install the damn thing, then the network adapter is being a complete dick. It says it's in there somewhere, but whenever I run ifconfig, wlan0 isn't there, there no enable wifi in the connections menu, and it's not doing anything. ugh.
+
+Edit: fixed after running around with an ethernet cable :) 
+
+
+
+
+ Doing it! :D 
+
+
+
+
+ Already got Debian, Kali and Ubuntu in a VM :D I was just unsure whether or not to go for a dual boot. I think I'm going to use Windows as gaming / production boot, and Ubuntu Linux as personal / files / general internet browsing :D I love the fact how secure Linux is, and how you can set it up to do anything! 
+
+
+
+
+ Aha, very clear, I'll look into WINE and see if it can run the programs I'd like! :D Thanks for your reply :)
+
+Edit: wow, runs everything I use on Windows apart from 1 or 2 things. *starts downloading Ubuntu* 
+
+
+
+
+ Download [Speccy](http://www.filehippo.com/download_speccy) (by clicking that blue link)
+
+Run it, and then click on Summary to the left, then click file  save as text  open it up  copy and paste the bit under Summary, all the way down to Audio. And post it to us.
+
+Then we'll find you updated drivers, as it looks like a driver issue. 
+
+
+
+
+ How on the earth have you got 200mbps interwebs? Teach me senpai. 
+
+I'm sat here with a 6mb ADSL2+ connection crying at the sight of this screenshot.
+ 
+
+
+
+
+
+
+
+
+
+ The catch - Your privacy belongs to the NSA.
+
+No thanks! 
+
+
+
+

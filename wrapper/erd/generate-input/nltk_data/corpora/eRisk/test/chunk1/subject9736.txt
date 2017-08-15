@@ -1,0 +1,519 @@
+
+
+
+
+
+ It's how the North Koreans do it! 
+
+
+
+
+ Meet the new bugs, same as (or worse than) the old bugs. 
+
+
+
+
+ What a mess. It's almost as if EA/Maxis is actually a bugged out specialization building in the game itself, and you just want to demolish it and rebuild again to fix it. Or at least unleash a disaster on them. 
+
+
+
+
+ So we'll have to wait until they fix the new bugs introduced from their attempt to fix the old bugs? Definitely gonna take a break from the game to wait for more fixes ... hopefully the wait won't be indefinite! Sigh ... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Looks great! Good to see cities that aren't just grids full of high density low wealth apartment blocks, and then tons of processor/electronics factories (ie. like most of my cities).
+
+As for what you were thinking? Were you hungry for pretzels at the time perchance? 
+
+
+
+
+ I think that's what's happening to one of my cities - 17k low wealth visiting shoppers, and I only have like 5000 low wealth goods for sale (although the number of unsatisfied sims isn't that high actually) 
+
+
+
+
+ Okay, I see it. Should be fixed now, thanks! 
+
+
+
+
+ Most of it was done on a boring Friday afternoon while working (and then a bit after work), and have been slowly adding stuff to it since.
+
+Not too hard if you have Wordpress and access to a good theme. 
+
+
+
+
+ Special thanks to lurker_becomes_lurkd, bdepz, StachTBO, Boxii and TPounceTWP for having their comments taken completely out of context and used without permission in the "Simsville 2.0" news article 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Check the education data layer to see where the uneducated (ie. the purple "kids") are in your city, might indicate a traffic problem.
+
+Like heterodoxz says, close down the other schools and leave only the university so it can be upgraded and you can build more school add-ons.
+
+I've done the university only thing for an extended period of time, but it's a drag on traffic especially if you've only got one uni serving the whole city (but two or more unis take up so much room, especially with all the upgrades). Having a high school (or two, placed strategically), and a university in a good location traffic wise works better for me (note this wasn't for an education city, just your typical electronics one).
+
+I find that it's best not to have too many extra desks, as that might invite out of town students, unless that's what you want. Out of town students can clog up your city entrances and routes to the schools in the morning, and might even force your own city's students to miss out on an education in the process. 
+
+
+
+
+ Produce alloy with the recycling center and sell it to the global market at the trade port/depot, very easy way to make a lot of money quickly.
+
+Alternatively, you can create a new city in the region whose sole purpose is to pick up trash for your main city, once you gift the new city some cash at the start. It saves you from having to waste precious room building garbage/recycling centers in your main city. 
+
+
+
+
+ "All this has happened before. All this will happen again."
+
+http://en.memory-alpha.org/wiki/File:USS_Enterprise-D_convention_near_a_quantum_fissure.jpg
+
+On the positive side, one of those trucks will have come from a dimension where the traffic agent actually works. 
+
+
+
+
+ Probably just temporary server problems, if it is indeed the right server (saves are localized to each server).
+
+Others were having this problem prior to 2.0, I think you just had to do the tutorial, and then your cities will be there again. 
+
+
+
+
+ Heh, thanks!
+
+As for the llama problem, perhaps a llama map layer might help to identify the source of all these llama infestations. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Might want to read this first if you haven't:
+
+http://www.ea.com/news/we-can-do-better 
+
+
+
+
+
+
+
+
+
+ There are lots of things you can do after you've built a profitable city. 
+
+For example, try a different profit strategy. A different layout. Gift away some of your cash to make your vision of utopia (one that's a dream to live in, but may have to rely on continuing gifts). If you're not playing with others, perhaps take on an entire region by yourself and build all the different types of specialized cities (electronic, mining, oil, tourism, gambling ...).
+
+In a way, you can't really win with games like SimCity. It's all about showing off your creativity, what you can do to make your city different from other people's. Some of the game mechanics do limit your freedom a lot, especially if you want sustainable cities, but if you do have a ton of cash that you can gift away, then that frees up some of the things you can do. 
+
+
+
+
+ I have one city with 3 processor factories and 3 CE factories (all fully upgraded), with two trade ports (one via rail, one via shipping - probably don't need both, but might as well. Had to build two ports since the rail and water connections are at opposite ends of the map - but this is good, as it provides two paths for trucks to receive/deliver materials). Can easily do 4+ million per day. I'm importing all the needed materials, even processors, as that's the best way to ensure no disruption to manufacturing (you make less, but then factories less likely to shut down a few times a day as it runs out of materials).
+
+For this 140k population city, one half of my city is basically all these factories and trade ports, and so the traffic there is mostly just trucks going from place to place.
+
+I can probably add another 3 or 4 CE factories before I run out of free space, and before traffic issues becomes a bottleneck. 
+
+
+
+
+ I had a problem with a city where recycling was doing fine, and then the number of recyclables dropped to almost zero (about 500 or so, but the trucks never leave their garages), and garbage went way up, even though education was still 4/5. 
+
+Had to bulldoze and rebuild the recycling center to bring recycling demand back up again. Turning it off and then on had no effect.
+
+This was before 2.0, but I don't see many people mentioning this bug, so it probably wasn't fixed in the patch. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Looks like your taste isn't too dissimilar to mine, so I'm just going through my "Watch it Again" list to give you some suggestions (some have already been recommended):
+
+* 30 Rock
+* Futurama
+* Freaks and Geeks (I know it's been mentioned already, but worth another mention)
+* The Inbetweeners
+* New Girl
+* The Wonder Years
+* The Walking Dead (except for most of Season 2)
+* Derek
+* The IT Crows
+* The West Wing
+* Black Mirror
+* The Fall
+* Lost
+* My Name is Earl
+* Malcolm in the Middle
+* The Office (UK) 
+
+
+
+
+ This kind of Hollywood studio greed ensures smaller VOD operators really don't have much of a chance, killing competition and helping piracy to thrive. And this could ironically lead to the studios' downfall - only the strongest operators survives, and a monopolistic behemoth is usually created as a result (ie. Netflix, or iTunes for music, Amazon for eBooks), someone that will end up having all the power to set the (licensing) terms in the future! 
+
+
+
+
+
+
+
+
+
+ Still cheaper than Foxtel 
+
+
+
+
+ Welcome to the club! 
+
+I've found my Blu-ray buying rate halved since I started using Netflix (been geo-dodging for two years now). I had been wasting a lot of money on crappy movies, just because I wanted something new to watch. Netflix is now my source for all things crappy. 
+
+The money I've saved have gone into going to the movies or buying movies that I actually like, thus reducing my pirated download rate as well. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Speech. Less.
+
+(In a good, no, strike that, AMAZING way) 
+
+
+
+
+ One strategy is to not waste attacks and get VP you don't need - pick and choose high loot bases to attack, and avoid NPC bases if possible (might not be possible at the start though). Another one is to attack everything all the time - you'll lose half of your loot to your bases being attacked, but this might be the more fun way to play the game. 
+
+And if you do join a Task Force, please for the love of Dog, join in and attack as frequently as possible. Nearly half of the people in my TF don't attack most ops, and get free loot (although some do contribute intel, so not entirely freeloaders) 
+
+
+
+
+ I never seem to get Building Health statues, one bloody DBD after another 
+
+
+
+
+ I don't think the pedestrian auto braking would have worked anyway if the driver had his foot on the accelerator (all of these auto braking systems allow the driver to override it if they choose to). 
+
+
+
+
+ The video looks more like human operator error than anything to do with self-parking or auto-braking 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Soylent Green-tastic! 
+
+
+
+
+ This particular warning ("harmful programs") I think is related to PUP (Potentially Unwanted Programs), things like programs with toolbars and other stuff that's set to install by default during the installation routine, or ads that lead to sites that offer these kind of downloads. 
+
+If a site has been hacked or is offering actual malware (the virus/trojan kind), or is a phishing site, Chrome displays slightly different warnings (see: https://support.google.com/chrome/answer/99020?hl=en).
+
+Google has been very active in labeling "harmful program" sites lately - it recently blocked SourceForge for the same reason. 
+
+
+
+
+ Being self employed has its perks sometimes ... 
+
+
+
+
+ I have my base set up similar to the linked screenie in smuttyinkspot's post, maybe with defenses more closely together, and more mines on the sides to discourage flanking. The weakness in this kind of base design is always the flanks, as once you get past the front defenses towards the production buildings at the back, it's game over basically. The advantage is that attackers are overwhelmed the minute they set foot on the beach, so they have to spend a lot of GBE destroying defenses before they land.
+
+I leveled up the HQ and then upgraded the shock launcher as a priority, as its relatively large coverage wreaks havoc with attackers with this kind of denser base design.
+
+To defend against warriors, you might want to upgrade the flamethrowers and have them closer to your HQ, along with upgraded machine guns. The flamethrowers are currently too far away and can only do damage to one side of the HQ for each flamethrower, as opposed to all four sides at the same time when placed right next to the HQ. Also wouldn't hurt to have more high DPS defenses covering the HQ, to pick off the warriors in a single shot.
+
+Also for the OP, you have a pretty high VP count for your level - it's gonna be tough to defend bases against players that are leveled to the high 40s, regardless of your strategy. So focus on upgrading your defenses if you find you're losing most of the loot you earn to home base attacks (I prioritized upgrading boom cannons, sniper towers, cannons, rocket launchers, flamethrowers around the HQ, machine guns around the HQ in this order before I got to level 17 and got the shock launcher). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,231 @@
+ Thanks! I'm glad to hear the FAVI is good hardware, I had definitely considered it previously, and may pick one up. I'm currently using a Microsoft multimedia keyboard, although the FAVI is much smaller
+
+I've previously used XBMC on a raspberry pi and it was impressive given the hardware. The reason I went with Plex was so friends could remotely stream my media collection, but their are many aspects of XBMC I miss.
+
+I'll be sure to post the (eventual) results! 
+
+
+
+
+ I currently use a [Microsoft multimedia keyboard](http://www.microsoftstore.com/store/msusa/en_US/pdp/Microsoft-All-in-One-Media-Keyboard/productID.298318400) and/or a mobile mouse app on my phone. I have a Surface RT I was thinking of downloading the Plex app, which essentially acts as a remote, either that or XBMC.
+
+When you say built-in   simplified controller, did you have something specific in mind?
+
+Thanks for the response!  
+
+
+
+
+ I'm looking to build a coffee table that incorporates the expanded use of technology, while keeping it sleek and "wife approved". I would mostly be using this as a hub for my home theater setup (HTPC and Plex server) and home automation (I currently use INSTEON).
+
+
+Some ideas I'm currently thinking of are:
+
+-Several flush mounted USB chargers for charging phones and other devices
+
+-imbedded tablet(s) to control home automation and act as a control for my home theater server
+
+-small ITX computer built within the table... not sure what I would do for a screen... Possible wireless display?
+
+
+I would love any other cool ideas or designs before I start delving into this project! Thanks! 
+
+
+
+
+ Thanks! 
+
+
+
+
+ I use Insteon home automation products which you can completely control from your phone, tablet, computer, etc.
+
+I replaced most of the light switches in my house with the 521 flush-mounted in the wall with the Insteon app always up. That way I can turn the light on/off/dim like a normal light switch, or control any other connected device (cameras, garage door, other lights, etc)
+
+To answer your question, they are very easy to setup yourself! 
+
+
+
+
+ Mine's FBI Surveillance Van. My neighbor is a contractor and always has a white Ford Econoline parked out front :)  
+
+
+
+
+ Yep! This was resolved when it went from Windows Phone 8 to 8.1. It Drove me crazy too! You can download the Preview for Developers to get 8.1 if your phone isnt normally eligible.  
+
+
+
+
+ 929 (Icon) and 830... represent! 
+
+
+
+
+ In all fairness, you're talking about a $50 phone, where as almost every other smart phone on the market is ten times the price. 
+
+That being said, I use 521's as home automation light switches and never have issues. I would see if there's a Microsoft Store near you and stop in, if your phone is indeed defective, they'll swap it if its under warranty. 
+
+
+
+
+ I'm currently using uTorrent (latest version) and getting my torrents from TPB. Most downloads won't go over ~100kb/s and are constantly jumping around from (20kb/s to 70kb/s back and forth). Speedtest is giving me 16Mb/s and I can direct download from sites at over 1Mb/s. 
+Also, This is happening on all torrents, whether they have 100 seeders and 5 leechers, or the newest Walking Dead with 17,000S/500L. I'm so confused!
+
+Any guesses as to why my torrent speeds seem so limited?! Thanks! 
+
+
+
+
+ As per my post above, I agree ;) 
+
+
+
+
+ The developer preview of 8.1 runs really well on my Icon as well as many of my friends without issue. Its free to sign up and get it! Feel free to PM me and I can give you instructions on how to get it. 
+
+Disclaimer: I work for Microsoft :P 
+
+
+
+
+ Pretty much any place that sells oil, will take it back. Walmart, any large auto parts stores, and most friendly mechanics will take the oil. 
+
+
+
+
+ http://www.monoprice.com/Product?c_id=108 cp_id=10823 cs_id=1082707 p_id=9957 seq=1 format=2
+
+$5 
+
+
+
+
+ If you're not concerned about installing programs, the original Surface RT with a keyboard is super durable, has like 9 hours battery life, and comes with Office installed. You can generally find them on sale for ~$150. If installing full function programs is required, I would follow everyone else's advise and grab a refurb of a deal website. 
+Also, check out dealnews.com daily. Its a great site that occasionally will find some killer deals on laptops (and more!)
+
+Disclaimer: I work for Microsoft 
+
+
+
+
+ You really only need jack stands or ramps to lift your car, a socket and wrench to fit the drain plug, an oil filter wrench, a funnel, and a oil pan. You may want a breaker bar (extra long for leverage) if your drain plug or filter are on tight. All of those will cost you ~$60-90 at Harbor Freight, Lowes, or Sears. Oil is $12-25 depending on whether you have regular or synthetic, and a new filter is $5-$15 depending on how fancy you want it.
+
+All that being said, you can generally find coupons or deals to get your oil and filter changed for $20-25. This is the same price as if you did it, and you don't have to get dirty...unless of course you want to get dirty :) 
+
+
+
+
+ Buy a Haynes manual from an auto parts store. For less than $30, this manual (which is specific to your car) will tell you how to do basic maintenance all the way to in-depth engine teardown and trouble-shooting. All the tools you'll need can be picked up at Harbor Freight for much cheaper than an auto parts or home improvement store. 3 Ton jacks and an auto toolkit (sockets, wrenches, etc) will put you back less than $100 and will enable you to do almost all your car maintenance yourself. 
+As OP said, if you don't feel comfortable doing it, seek a professional. Having your car half torn apart and realizing you don't know what you're doing put you in an awkward position to get your car to the mechanic.  
+
+
+
+
+ I've lived here for ~4.5 years... I'll look into this! Thank you! 
+
+
+
+
+ As stated, I recently moved to a new city and have been staying in an extended stay hotel ($$$$). I had the assumption the entire time that I would be buying another house, but started to consider renting as I know I will be moving again in about 2 years.
+
+My biggest concern is that I'll be gaining $17,500 on the sale of the house. If I put that towards a down payment of a new house... no tax! If I decide to rent, I'll lose about $7,000 to taxes and would like that money to be used as a down payment on the home I know I'll be purchasing after my next move. Is there an account or way to avoid getting money taxed?  
+
+
+
+
+ Thanks! I believe I do need the sensor. I cleared the code and I've put about 150 miles on it without the code being tripped again... False positive??! 
+
+
+
+
+ I got a check engine light the other day and checked the code (P0128) stating that the coolant thermostat was having issues. I've checked everything else on this coolant system and it seems fine, which leads me to believe I need to replace the thermostat.
+
+I'm having two main issues finding a replacement. First, there are many ~$30 options that don't have a sensor and many ~$150 options that DO have a sensor. How would I determine if I need to also replace the sensor and save a hundred bucks. Second, all the thermostats have different temperature ratings (most are 180, 190, or 208 degrees). I checked my Haynes manual which states that the thermostat should start opening at 194 degrees and be fully open at 223. How do I know which temp to choose from?
+
+Thank you all for any assistance! It's greatly appreciated 
+
+
+
+
+ Yea, it definitely is! I used to competitively row and for warmups/training we had to keep our splits (500m) below 1:45 for up to 10km. In perspective, 7km at 1:45/500m is 24.5 minutes. 
+
+Although I no longer row, I still use an erg for exercise. One thing that works really well for me is pick a split time, say 2:00, and DO NOT GO ABOVE IT. you can then either set a time or distance to match. It tends to be a little more grueling since you can't really stop or relax, but gives you a better idea of your overall fitness. 
+
+
+
+
+ -Skagway brewing is owned my locals, not cruise lines.
+-I do not have an exact percentage but most. If you take the jewelry stores out of the pictures its almost 100% owned locally.
+
+-Haines and Skagway are like brother/sister towns. Many of the business's in Skagway are owned by people in Haines which is a 15 minute boat ride. It's kind of like living in the suburbs and working downtown. 
+
+-As far as "cruise ship fronts", Haines does not really cater to tourism, especially compared to Skagway which thrives from it. That being said, just because there's some touristy knick-knack shop doesn't mean its owned by the cruise lines, its just someone being opportunistic. 
+
+I hope you liked Haines... its gorgeous! 
+
+
+
+
+ I don't know why other people are replying yes, the cruise lines do not own the all or even most business's. Most business's and excursions are privately owned. I have heard that several of the jewelry companies are owned (or have heavy stakes in) Princess and Royal Caribbean, but Skagway has something like ~30-40 jewelry shops. 
+That all being said, the cruise lines DO have a lot of sway over things. For instance, the excursion I led was ~$70/person if you walked into the shop or called ahead of time, we would pick you up at the dock. If you book the EXACT same excursion through say Princess, it'll be like $110/person but Princess will take $70 and give my shop $40. In my case particularly, the excursion was owned by an awesome guy who was legitimately upset that people were getting gouged and he was making half, but without the cruise lines advertising for you, you'd go out of business. The same was relatively true for most business's in the area. 
+
+
+
+
+ Nice! I worked at Sockeye Cycle a few years ago... Skagway is like the best summer vacation ever, but you get paid :) 
+
+
+
+
+ Your title doesn't make sense. Try re-wording it and re-post. 
+
+
+
+
+ I also have a V5 and would be happy to do a step-by-step hard drive removal guide if you would be up for trying. The only tool you would really need is a #0 Phillips screw driver. 
+
+I agree with others that there's a really good chance your hard drive just got dislodged.
+
+Let me know! 
+
+
+
+
+ In addition to the scanners you've already run, [ADW Cleaner](https://toolslib.net/downloads/finish/1/) does a really good job at cleaning up adware remains. It searches through folders, services, registry, startup tasks, and all of your browsers. Super quick and easy :) 
+
+
+
+
+ AMD may make the technology that goes into the card, but they don't actually produce it themselves. I believe the Windforce card you have is actually produced by Gigabyte.
+
+You have two options. Contact wherever you purchased the card (Amazon, Newegg, Best Buy, etc.) and see if they can exchange it for you under their policies. This is generally easiest, but since it was purchased in December, it will probably be outside of their exchange/return policy. Your other option is contacting Gigabyte [HERE](http://ggcs.gigabyte.com/GIGABYTE-RMA-Login-User.aspx), create an account and begin your RMA (Return Merchandise Authorization) process. They may ask you to troubleshoot some things first or run their own tests.
+
+Hope that helps, and good luck!
+
+EDIT: There is still a chance it's the PSU failing and not providing enough power. Given that the test ran for 15 minutes before it failed however, I would find this highly unlikely as the card is requiring max power consumption immediately.  
+
+
+
+
+ Perfect! On Lenovo's there is generally a special recovery button that looks like a [U-turn symbol](http://lh5.ggpht.com/_UpiBAokjaoY/TDrZk8a334I/AAAAAAAAF_o/gIM0z3xqsSc/DSC01675.JPG?imgmax=800) Normally its next to the power button, but sometimes its on the side. With the laptop completely off and connected to the monitor, hit the recovery button. The computer will turn on and should go into the recovery console instead of Windows.
+
+If that works let us know, and we can go from there. Good luck! 
+
+
+
+
+ Yes, there is.
+
+Most modern (post-XP era) computers have recovery partitions in them. Depending on your devices manufacturer, the process in utilizing that partition can be different. If you could tell us what OS and brand your computer is, I would be happy to give you more accurate instructions. 
+
+
+
+
+ You re-paste your laptops CPU everymonth?! Doesn't that seem excessive? Decent paste is rated for several years, so maybe changing it yearly would make sense.
+
+In all seriousness though, I've very curious is you have a reason for re-applying so often. Thanks! 
+
+
+
+

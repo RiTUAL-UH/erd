@@ -1,0 +1,25 @@
+ Have you reset your networking services? In command prompt type in the following, and then restart your computer; 1)netsh int ip reset c:\netsh.log.txt 2)netsh winsock reset 3)net stop netman 4)net start netman 
+
+
+
+
+ Which browser are you using? 
+
+
+
+
+ Try 10.0.0.1 
+
+
+
+
+ I'm positive that XSplit does, I would try [Open Broadcaster Software](http://obsproject.com/download) because it uses less CPU and can stream higher quality without the need to pay. Take the time to look up some tutorials on it, it will get you better off. 
+
+
+
+
+ Try putting in your Win7 flash drive and get command prompt open. Run a simple "chkdsk c:" command, or whatever drive letter you are using. This will scan your hard drive for errors and if they are simple to fix, windows will fix them automatically. Let me know if the problem persists. 
+
+
+
+

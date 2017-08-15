@@ -1,0 +1,40 @@
+ yup, here it is, my ~/.i3/config:
+http://pastebin.com/BSqZFpUY 
+
+
+
+
+ no, that didn't work...same behavior. 
+
+
+
+
+ Okay, so I've been using i3 for a while and love it, but I have one issue I still have yet to resolve that bothers me.  I use 9 workspaces and they are usually all filled with something, be it terminals or a web browser or whatever.  
+
+If I am on one workspace, say workspace #3, and I want to move a window from it to workspace #5 (there are already things on workspace #5) then mod + Shift + 5 on the selected window creates a NEW #5 workspace instead of putting it on the existing 5th workspace, so now I have 2 "#5" workspaces.  Ideally I would like it to move the window to the existing workspace #5.  Any ideas as to how to accomplish this?  Thanks. 
+
+
+
+
+ free as in beer, or free as in speech?
+AKA cost vs open-source 
+
+
+
+
+ http://www.cyberciti.biz/faq/what-is-the-difference-between-linux-and-unix/ 
+
+
+
+
+ I'm having the exact same issue.  I keep getting Error 118.  Total store, community, groups, etc lockout.
+ 
+
+
+
+
+ Keep strong...it will pass.   
+
+
+
+

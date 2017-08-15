@@ -1,0 +1,502 @@
+ I can tell you right now that there aren't any anime characters on the roster currently. The rule for third-parties (and, by extension, fourth parties) is that they must have had an appearance on a Nintendo console, their games are well-remembered, and made an impact on the console they appeared on, or gaming in general. An example is Sonic, Mega Man, etc. 
+
+
+
+
+ I'm definitely thinking options to change things like airdodges and such, but I kind of see what you mean. I think that I may keep one general speed, but customization on a character before you select a stage would be interesting, kind of like choosing a kart in Mario Kart.  
+
+
+
+
+ Yes, this means that we'll be implementing techniques from both. For instance, pivot grabs from Brawl will be added, and we're contemplating a lot of different techniques from Melee, such as moonwalking. 
+
+For characters, a lot of moves are taking more reference to the character's origins. While this does spice up characters a little bit, characters like Dr. Mario (assuming we add him in later) will likely take more scrapped parts from their original counterparts to make them more unique. A example off the top of my head would be that Mario gets the F.L.U.D.D. while Dr. Mario keeps the Mario Tornado.  
+
+
+
+
+ Hi, I'm test_subject6948 and I'm developing a game currently titled "Super Smash Bros. Affinity". It's main goal is to take the best from Smash 64, Melee, Brawl and SSB4, and put it into a free online game that people can pick up and play. Currently, a very basic demo is expected by July, but I need some fan input. Here's what I can tell you so far:
+
+-The game is sprited, similarily to that of Smash Bros. Crusade and Smash Flash 2. We're currently using sprites from other sources in the demo, but custom sprites will be added soon. 
+
+-The game's main goal is to focus on improving veterans and mechanics first, but we can promise you that many newcomers will appear eventually. 
+
+-The game will attempt to reach the speed of Melee, but appeal to Brawl players as well. 
+
+-We're mainly keeping it to Nintendo and some of it's third-party affiliates. 
+
+-A variety of Nintendo characters will appear, such as Mario, Link, Samus and Ness, alongside newcomers such as the Balloon Fighter, who's main focus is stage control and lightning-fast aerial combos, as long as you avoid getting your balloons popped.
+
+-Stages include iconic locations from previous games, such as PictoChat, Mario Galaxy and Onett, as well as new stages like Mt. Dedede and Kokiri Forest. 
+
+I'd truly appreciate the input on ideas or suggestions, and a link to some in-development pictures is below. Thank you for your assistance.
+
+http://smashboards.com/threads/super-smash-bros-affinity.342020/page-9#post-16846227 
+
+
+
+
+ I've got the Tale of Desperaux for the Wii. 
+
+That ought to be a funny video.  
+
+
+
+
+ MEGA MANS EVERYWHERE.
+
+IT'S LIKE SOMEBODY RAIDED CAPCOM'S DUMPSTER. 
+
+
+
+
+
+
+
+
+
+ I get to live out my dream of fighting boxers, plumbers, gorillas, princesses, monsters, knights, demons, aliens, spies and bounty hunters as a small blue robot. 
+
+My life's complete.  
+
+
+
+
+ I have very basic coding skills (small webpage basic in HTML, to be exact), but I'm always trying to learn more.  
+
+
+
+
+ I was thinking to myself a few nights ago, and with all the Classic Mega Man stuff happening lately, I thought up two ideas for Mega Man fan games:
+
+1. Mega Man: Worlds Collide. Basically, it's the Mega Man Archie crossover with Sonic, but in game form! Play as Mega Man or Sonic, and fight the 8 Roboticized Masters (Shadow, Knuckles, Amy, Vector, Charmy, Espio, Blaze, Silver) and summon in Tails or Rush for assistance. 
+
+2. Mega Man Smash. Mega Man vs. the 8 original fighters from Smash Bros: Mario, Link, Samus, Kirby, Pikachu, DK, Fox and Yoshi. 
+
+They're kind of stupid, but I'd like to know if anybody else would be interested in doing this before I scrap 'em.  
+
+
+
+
+ Let's see:
+
+Super Mario 3D World (5/5)
+Pikmin 3 (5/5)
+Legend of Zelda: Wind Waker HD (5/5, only get if you don't own it on GameCube)
+Nintendo Land (4/5)
+New Super Mario Bros. U (4/5)
+Sonic Lost World (4/5)
+New Super Luigi U (4/5)
+Pac-Man and the Ghostly Adventures (3/5)
+Scribblenauts Unmasked (3/5)
+
+I highly recommend 3D World and Pikmin 3, as well as Lost World and Nintendo Land. Also, try out Rayman or Donkey Kong, and definitely get Mario Kart and Smash when they come out.  
+
+
+
+
+ I'd personally keep Pika, Puff, Lucario and Red (with Squirtle, Ivysaur and Charizard) snd add Mewtwo. But a standalone Red, Meowth or Zoroark would be kind of cool too.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Looks like this leak is officially debunked. You said that Rosalina was an AT, yet now she's a playable character. Don't fret, Shulk and Little Mac supporters! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A bunch of new concepts are being used for characters. I can't reveal too many of the changes this early, though.  
+
+
+
+
+ Hey Dustination. Yeah, I came just to see what people wanted. The demo's likely to be out by July, though, so I'm getting some input in before we finalize it.  
+
+
+
+
+ I can't confirm anything for them yet. Do know that I plan on including SOMETHING related to Super Mario RPG in the game.  
+
+
+
+
+ Indeed.  
+
+
+
+
+ Items will definitely return, and later we may implement those other things into a online mode down the line.  
+
+
+
+
+ Thank you for this advice!  
+
+
+
+
+ C#, I believe. Don't worry, nobody dies and we aren't going to ask for money.  
+
+
+
+
+ It will definitely lean towards Melee, but with mechanics from SSB64/Brawl/SSB4. Veterans are definitely getting some updates to better fit their character or to help them in combat. For instance, a good example is Mario, who's recovery is being boosted and with a bit of extra power. This includes giving him a Ground Pound stall-then-fall dair, buffing the Super Jump Punch, and other things.  Many characters will receive changes to differ themselves from not only their console interpretations, but Project M and other fan game interpretations as well. It won't be Melee 2.0 or Brawl 2.0.  
+
+
+
+
+ Veterans are the main focus currently, but there are quite a few newcomers that are being planned, mostly to fill certain fighting game archetypes and provide a unique Smash Bros. experience. The Balloon Fighter is the main character from one of Nintendo's original NES titles, Balloon Fight. He's recently been a trophy in Melee, had music in Brawl, was a featured game in Nintendo Land and is in the NES Remix games.  
+
+
+
+
+ We're keeping it very low-key for the moment, when the demo comes out I'd definitely appreciate some assistance in patching it for problems. We're trying to make it the same core as Smash Bros. with the best mechanics from different installments, yet add enough new mechanics to differentiate it from any previous or upcoming Smash. It's likely the full version won't be out until after SSB4.  
+
+
+
+
+ We're definitely trying to get all veterans into the game.  
+
+
+
+
+ -There aren't any OCs in this game. All veterans are hopefully going to be implemented into the game before the final version. 
+
+-This game brings the best of each Smash game together, as well as introduce new things from other fighters and Nintendo games that wouldn't be in the upcoming SSB4. 
+
+-Our coders and spriters do. I've worked a small amount, and do know a bit of coding, but I'm able to manage the team efficiently and help assist them if needed. 
+
+-I'm trying my best to make this happen so that it's available on Mac, PC and Linux. It may take a while, though. 
+
+-Affinity is a work in progress name, it's based off of a new mechanic we're implementing into the game, but I can't reveal it until we can definitely put it into the game.  
+
+
+
+
+ I have been thinking about that, and I'm planning on putting a lot of work into making sure animations are smooth and flow like a model would. This will likely give more of a cartoony feel to the game, but it fits the premise nicely. For instance, an attack to the face will actually affect the face, not just put them into a damage animation. Characters will react to their surroundings instead of just having inputs.  
+
+
+
+
+ The problem is that, while P:M has great gameplay and SSF2 the pixel art, they both lack new Nintendo characters with moveset capability. This will be treated as a normal Smash game would: the characters from Nintendo's history and present fighting for supremacy, give or take a few rivals.  
+
+
+
+
+ I'm going to sound stupid, but could you repeat them?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well, Bo Peep happened. Never expected that.  
+
+
+
+
+ That's genius! But I think you're forgetting McGucket's transformation, that'll definitely cause trouble for them.  
+
+
+
+
+ Well, looks like I can throw that all away. 
+
+But if he dies, then... what happens to the other one?  
+
+
+
+
+ Dat ain't Falco.  
+
+
+
+
+ Soos Gumby is my new role model.  
+
+
+
+
+ All aboard the hype train! 
+
+
+
+
+ First off:
+
+A. Talking Waddles will be amazing. 
+B. Claymotion will be amazing. 
+C. Jessie/Spider-Man crossover is literally the one thing Marvel fans feared would happen once Disney bought Marvel. ONE JOB. Putting the superheroes in a Disney cartoon is OK, but putting the Disney characters in the superhero cartoon? UGH.  
+
+
+
+
+ If the only reference is the title, I'll be slightly disappointed. Little Shop was the last musical I performed in, and I loved it. 
+ 
+
+
+
+
+
+
+
+
+
+ I volunteer as tribute.  
+
+
+
+
+ It's good to be the King.  
+
+
+
+
+ The more I watch, the funnier it gets. Great job, man! 
+
+
+
+
+ Turns out a few other characters were announced a while back:
+
+-Paper Mario. Paper Mario lacks range by himself, so summoning his partners will allow him to control the stage and combo with speed. 
+
+-Lip. Her wand will drain health from enemies, so naturally her weaker attacks are powered up when you use them in tandem with her flower powers. Racking up damage has never been so satisfying. 
+
+-Robotnik. This is a upgrade character. He can use his skills to repair his weaponry, allowing him to increase power, range and knockback. All of this disappears when he's KO'd, though. A good example is his recovery, the jetpack. It will blast farther and release more flames as it's upgraded. Think Engineer from TF2 and Lucas from PM combined. 
+
+That's all I can reveal at the moment, but we're working furiously.  
+
+
+
+
+ I love SSF2 and Crusade, both are awesome games. But I do notice things that they hit or miss on, and I want to kind of do my own thing that makes Affinity unique from other fan games or the console installments.  
+
+
+
+
+ C# for Unity.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They fist bumped.  
+
+
+
+
+ Homework always takes priority over Smash, that's the first thing I told him. :) I'll let him play for a while, and when I think it's time, that's when we'll get serious.  
+
+
+
+
+ Indeed. We asked about just having 4 players vs. 4 CPUs, but she was instructed only to do normal Smash. 
+
+Luckily, there was still a lot of fun to be had with normal 4-player. Wii Fit Trainer dittos and the Gamer stage were highlights.  
+
+
+
+
+ Lucky. We weren't allowed to use 8-Player Smash at ours.  
+
+
+
+
+ We'll be playing SSB4 together mostly every day for at least 2 months, so we'll likely be practicing a lot. I told him there's math behind the game as well, so he can use that as an excuse if he wants to.  
+
+
+
+
+ So, just some quick background here:
+
+I'm by no means the best player. I've played with competitive level players, and I'm always coming out in 2nd or worse. So, it's no big surprise I wasn't doing well. 
+
+Then there's my brother, who's turning 10 a few days before SSB-Wii U drops. He's by all definitions a casual. He mostly spends time in Brawl spamming Toon Link's dair yelling "DUCKTALES!". So, he tagged along when I went to GameStop, hoping to try out the new game. 
+
+There was a group of people that were competitive-level players who were trashing everyone, including me. So, my little brother secretly asks to use my controller so he can play against these guys, and I agreed. They never bothered to look at who was playing.
+
+The two guys both chose Pit, and my brother the Villager. There was a Diddy Kong somewhere, but he died pretty early. Items on, 3 stocks, Palutena's Temple. 
+
+Fast forward to near halfway through. Diddy's gone, and everyone has one stock. The Daybreak item begins to appear. One of the Pits manages to grab two, and the final piece spawns behind my brother. This is when I begin to watch him more carefully. He quickly plants a tree near the Daybreak, and one Pit doesn't see it. He rushes towards the piece, and then BAM. My brother finishes him off with a final blow using the tree. 
+
+My brother pockets the piece and runs. The final Pit, with the other two pieces, begins to rush towards him. What I saw my brother do, this filthy casual who likes to spam attacks and then Kirbycide 90% of the time, really made me proud of him. 
+
+He used Lloid Rocket to space himself decently from the player, and did nothing but constantly avoid the grasp of him by rocketing from one platform to the other, and sometimes using Balloon Fight. He planted trees to create walls in order to get some time. At one point, he landed on the bridge and destroyed it right as Pit landed on it using his Weed Pluck D-Tilt. He continually attacked using the slingshot, and managed to grab nearly every single  arrow this guy threw and shoot it right back. The guy was screaming "Get over here, stop running away! It's my Daybreak!" After managing to rack up enough damage, my brother stops on a platform. He doesn't plant anything, he doesn't do anything, he stands there with enough damage that a good aerial from Pit would kill him. 
+
+The Pit rushed towards him. The platform rose above the ground, and the guy cockily laughs as he jumps onto the platform and stands there. My brother begins to dance. Pit started up the Upperdash Arm, and just as the dance ended, my brother rolled for the first time in history, and then used the twirling stick U-Tilt to land a finishing blow on this guy. 
+
+The player looked at me, and stuck his hand out as a "good game" kind of thing. I told him it wasn't me playing, and my brother grinned ear to ear and started laughing.
+
+This is the kind of stuff I really enjoy seeing. He's never been this excited about a match before, and suddenly he picks up on some techniques he's never used before, and uses them to win against two competitive players. I've started calling him Decky the Destroyer, and he's enjoying every moment of it. 
+
+I really do hope we can see this kind of stuff pop up in the future.  
+
+
+
+
+ Isn't the screwdriver the same one Blendin takes in the Time Traveler's Pig? My only question is why that specific date was needed to take the screwdriver.  
+
+
+
+
+ Well, my personal idea...
+
+**King K. Rool**
+
+N-Special: Bunderbuss. He pulls out his blunderbuss and fires a cannonball. Comparable to Bowser Junior's N-Special. A character can kick it in any direction assuming their move has enough knockback. He can charge this move, and if uncharged, the cannonball will drop right in front of him, and can be used as a Soccer Ball type item for K. Rool. 
+
+* N-Special 2: *Blunderbuss Gas*. K. Rool fires a burst of slow-moving poisonous gas instead of a cannonball. If an opponent gets trapped in it, it'll be a continuous attack that doesn't make opponents flinch, like Fox's laser or Palutena's Heavenly Light. Think the Ashley Assist Trophy in cloud form. 
+
+* N-Special 3: *Blunderbuss Dash*. Instead of firing a cannonball, the blast from the blunderbuss can be used to dash K. Rool forwards or backwards. Wonderful for moving across the stage. 
+
+S-Special: *Crown Toss*. K. Rool throws his crown as a boomerang attack. It acts a lot like you'd expect, except it's multi-hit and can trap opponents on the way back. He can still move around while it moving, and activate other moves, but once it touches K. Rool again, it will return to him, allowing for some insane mind games. 
+
+* S-Special 2: *Crown Shot* K. Rool can throw the crown faster and farther, but at the cost of charging it. 
+
+* S-Special 3: *Crown Volley*. A lot like the actual Boomerang item, K.  
+Rool can hit the B Button again to launch the crown back. 
+
+Up Special: *Helicopter Pack*. K. Rool pulls out his helicopter pack from DKC3 and uses it to fly upwards. The blades are a hitbox, but K. Rool is vulnerable everywhere else. Once the move is over, it'll disappear and he'll go into freefall. 
+
+* U-Special 2: *Electric Pack*. It has an electric effect and can damage opponents on the way up, but it has a shorter range. 
+
+*U-Special 3: *Explosive Pack*. It will explode with high knockback at the climax of the attack. K. Rool will take 5% damage if it happens, but he'll receive no knockback. 
+
+D-Special: *Kremling Krush*. A lot like Bowser Bomb, except it creates a rather large shockwave that traps opponents. References his DK64 fight. 
+
+* D-Special 2: Kremling Jump*. He'll jump upwards with great force and a gust effect, but the move can be cancelled into an aerial.  
+
+
+
+
+ This is no different than the random appearance of platforms in Fountain of Dreams in Melee, or Yoshi's Island in Brawl. If it is indeed Final Destination-shaped, it should be legal. Assuming that the Dog's the only random platform and there are no actual hazards.  
+
+
+
+
+ Duck Hunt: Some wild dog running in the wild, hunting, when he's ambushed by villains. Somebody saves him, and he's now following them around to help them. 
+
+Wii Fit Trainer: She's jogging and the road is blocked by some baddies. She whoops them and meets up with Wario, who's captured somebody. Being Wario, she wants to fix his problem, and assists whoever's chasing him.
+
+Little Mac: Training with Doc and sees Donkey Kong. Challenges him. Helps him when they finish and someone wins.  
+
+
+
+
+ I stick with the classic Blue Bomber, of course. 
+
+However, I also dabble with my Tux Dr. Mario.  
+
+
+
+
+
+
+
+
+
+ All the references to the Sorcerer's Apprentice made me freak out, especially the broom and turning the apprentice into a mouse. As a huge fun of the Mickey shorts and films, this was amazing. 
+
+Henry as the new Sorcerer's Apprentice makes sense. He's the one that reunites all of these fairy tales, and will obviously be playing with some magic. He's our human Mickey, and I honestly couldn't be happier.  
+
+
+
+
+ I'm male and I love this show. t's worth watching at least once.  
+
+
+
+
+ Touche.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

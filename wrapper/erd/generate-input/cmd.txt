@@ -1,0 +1,3 @@
+plm@aplm-M14xR2:~/next-step$ python ./featurespacetree/entry_point.py settings_soa_GOOD.yaml --train
+
+#!/usr/local/bin/python

@@ -1,0 +1,106 @@
+ Newsfire 
+
+
+
+
+ http://apidock.com/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Speaking from experience, unless you're only translating one or two word phrases, or very simple and unambiguous phrases ("this is a pen"), Google translation, and similar online services, are useless as the translation is more likely to be wrong than right. 
+ 
+
+
+
+
+ Advantages over cron that I can see:
+
+* Access to your rails environment. (Okay, cron could call a rake task that loads the environment. But this is simpler as it's right in your rails project. No need to mess with editing crontab as root.)
+* Ability to set up and/or trigger scheduled tasks dynamically based on user input.
+
+ 
+
+
+
+
+ but changing IRB.conf[:PROMPT][:DEFAULT][:RETURN] to simply "%s" doesn't return the same results as irb_rocket (output on the same line rather than on the next line) I'm making the wrong change?
+
+ 
+
+
+
+
+ Built fine for me on 10.5.6 
+
+
+
+
+ Yes!! A big win for both projects, and most importantly, for the users. Congratulations. 
+
+
+
+
+ This series of interviews needs a new title. Judging by the content so far, it's aimed squarely at beginners who know very little about Ruby, and mostly states stuff that's widely known from those who follow Ruby at all. That doesn't make it bad, it's just not about "little known ways" to "ruby mastery".  
+
+
+
+
+ Thinkpad (Lenovo) is the best, IMO. But I've run Ubuntu on Dell and HP laptops too without problems. Forget about the company shipping with Ubuntu; just wipe the drive and install Ubuntu on top--or keep the Windows OS on there and dual-boot if you like. 
+
+The main thing is to stay away from certain incompatible wireless and video chipsets. The safest is to pick a laptop that has Intel video and Intel wireless--they're almost certain to work with Ubuntu out of the box.  
+
+
+
+
+ Personally, I'm happy with prototype and the Rails helpers. 
+
+
+
+
+ Rails-Footnotes has more info, though I like the bar idea. Maybe the two could be combined. 
+
+http://github.com/drnic/rails-footnotes
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Love the macros! Maybe I'll actually start writing tests for my apps now :-P
+
+ 
+
+
+
+

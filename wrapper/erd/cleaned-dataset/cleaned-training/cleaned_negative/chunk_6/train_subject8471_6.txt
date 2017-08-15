@@ -1,0 +1,240 @@
+ Try not to read this entire thread in a Scottish accent, I dare ye! 
+
+
+
+
+
+
+
+
+
+ Excellent, thanks! 
+
+
+
+
+ Your [job](http://imgur.com/jaYuobN), should you choose to accept it. 
+
+
+
+
+ Although I was only two years old when this happened, I just want to say, as an American, that I'm sorry for what my government did to your people. 
+
+
+
+
+ Could you give that in [Wales Units](http://www.sizeofwales.org.uk), please? 
+
+
+
+
+
+
+
+
+
+ My bad.  I'll try to remember that. 
+
+
+
+
+
+
+
+
+
+ Came here to say this.  It wasn't a mistake, it was a crime. 
+
+
+
+
+ Extra points for noticing the difference between the * on your keyboard and the one on your phone :) 
+
+
+
+
+
+
+
+
+
+ Leaving the hospital with my daughter after she was born.  My wife and I just kind of looked at each-other wondering: "Are they really going to just let us walk out of here with this infant?  Don't they know we have no fucking idea what we're doing?"  Granted we were in our 30s, but it was still pretty scary. 
+
+
+
+
+ So, I was the guy who yelled out, "Is anyone here a doctor!?!".  I was with my mom and kids at the Topsfield fair, and she started feeling faint and sat down.  She had a bit of water, but I could tell she wasn't recovering.  We were actually sitting next to a kids' sing-a-long, so it was pretty noisy.  She slouched off the picnic table and I caught her and, I actually remember being a little embarrassed to start yelling, but I did.  There was a doctor and a nurse in the crowd who came to help, then the paramedics.  Turned out to be heat stroke, and she was ok, but it was scary, and it definitely felt weird to be yelling that out in a crowd. 
+
+
+
+
+
+
+
+
+
+ OH COME ON!  WAKE UP SHEEPLE!  RICHARD C. HOAGLAND [BROKE THIS STORY](http://www.enterprisemission.com/spirit2.htm) YEARS AGO!  You need to spend less time on reddit and more time listening to Coast to Coast. 
+
+
+
+
+ This is the [company he works for](http://www.hargroveinc.com/). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you, Clarice. 
+
+
+
+
+
+
+
+
+
+ you start singing "Inchworm" to your kids, and you go all the way up to 1024. 
+
+
+
+
+ Another fun event sponsored by the R.O.P.  Just like all those Mormons
+who rioted over The Book of Mormon, and the Jews who burned embassies
+over Egypt's broadcast of The Protocols of the Elders of Zion, oh,
+wait ... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think I'd rather talk about who the fuck brings a six year old girl to a Dark Knight movie.  I know it's tragic, but what the hell? 
+
+
+
+
+ I'm sorry, but what exactly do you expect when you name your daughter after a state? 
+
+
+
+
+ AMA Request: The fucking stupid 18 year old son who racked up $15K in credit card debt. 
+
+
+
+
+
+
+
+
+
+ Fair enough, but what I think of is the difference between code that's efficient and robust enough to still work after 35 years, 10 billion miles away, compared to 99% of the crap that we write today, that will generally be thrown out and rewritten in 5 years.  By way of analogy, think of the Roman aqueducts which still stand today, compared to bridges built in the last 100 years which are already falling down and in need of repair. 
+
+
+
+
+ Question: What kind of computers are used on the Voyager spacecraft?
+ 
+Answer: There are three different computer types on the Voyager spacecraft and there are two of each kind. Total number of words among the six computers is about 32K. 
+
+Computer Command System (CCS) - 18-bit word, interrupt type processors (2) with 4096 words each of plated wire, non-volatile memory. 
+
+Flight Data System (FDS) - 16-bit word machine (2) with modular memories and 8198 words each 
+
+Attitude and Articulation Control System (AACS) - 18-bit word machines (2) with 4096 words each. 
+
+According to my calulations, that's a total of about 68KB, or small potatoes compared to today's microprocessors. We probably could perform all functions with one of today's boards and still have room for solid state data storage and much more fault detection software. We would still need a second unit for redundancy. Today's microprocessors are also much faster than the chips used on Voyager and a comparative system would use less electrical power. On the other hand, software might be more complicated as opposed to that used in an interrupt type system, but it would be much more capable and more flexible. 
+
+Let's look closer at the CCS. The CCS has two main functions: to carry out instructions from the ground to operate the spacecraft, and to be alert for a problem or malfunction and respond to it. Two identical 4096- word memories contain both fixed routines (about 2800 words) and a variable section (about 1290 words) for changing science sequences. The CCS issues commands to the AACS for movement of the scan platform or spacecraft maneuvers; to the FDS for changes in instrument configurations or telemetry rates and to numerous other subsystems within the spacecraft for specific actions. Fault-protection algorithms are also stored in the CCS, occupying roughly 10 percent of the CCS memory. 
+
+The main functions of the FDS are to collect data from, and controls the operations of, the scientific instruments; and to format engineering and science data for on-board storage and/or real-time transmission. The FDS also keeps the spacecraft "time" and provides frequency references to the instruments and other spacecraft subsystems. 
+
+The Voyager spacecraft computers are interrupt driven computer, similar to processors used in general purpose computers with a few special instructions for increased efficiency. The programming is a form of assembly language. 
+
+There is no clock chip, as such, in the spacecraft. The "clock" is really a counter, based on one of several electronically generated frequencies. These frequencies, based on a reference, generated by a very stable oscillator, are converted and fed to different locations in the spacecraft as synchronization signals, timers, counters, etc. The "clock" signal is part of the information telemetered to the ground and it is with ground software that we convert to day of year, time of day Greenwich Mean Time. 
+
+Voyager was built in-house at JPL; the computers were manufactured by General Electric to JPL specifications. 
+
+
+
+
+
+
+
+
+
+ [Voyager I FAQ](http://voyager.jpl.nasa.gov/faq.html)
+
+Question: What kind of computers are used on the Voyager spacecraft?
+
+Answer: There are three different computer types on the Voyager spacecraft and there are two of each kind. Total number of words among the six computers is about 32K. 
+
+Computer Command System (CCS) - 18-bit word, interrupt type processors (2) with 4096 words each of plated wire, non-volatile memory. 
+
+Flight Data System (FDS) - 16-bit word machine (2) with modular memories and 8198 words each 
+
+Attitude and Articulation Control System (AACS) - 18-bit word machines (2) with 4096 words each. 
+
+According to my calulations, that's a total of about 68KB, or small potatoes compared to today's microprocessors. We probably could perform all functions with one of today's boards and still have room for solid state data storage and much more fault detection software. We would still need a second unit for redundancy. Today's microprocessors are also much faster than the chips used on Voyager and a comparative system would use less electrical power. On the other hand, software might be more complicated as opposed to that used in an interrupt type system, but it would be much more capable and more flexible. 
+
+Let's look closer at the CCS. The CCS has two main functions: to carry out instructions from the ground to operate the spacecraft, and to be alert for a problem or malfunction and respond to it. Two identical 4096- word memories contain both fixed routines (about 2800 words) and a variable section (about 1290 words) for changing science sequences. The CCS issues commands to the AACS for movement of the scan platform or spacecraft maneuvers; to the FDS for changes in instrument configurations or telemetry rates and to numerous other subsystems within the spacecraft for specific actions. Fault-protection algorithms are also stored in the CCS, occupying roughly 10 percent of the CCS memory. 
+
+The main functions of the FDS are to collect data from, and controls the operations of, the scientific instruments; and to format engineering and science data for on-board storage and/or real-time transmission. The FDS also keeps the spacecraft "time" and provides frequency references to the instruments and other spacecraft subsystems. 
+
+The Voyager spacecraft computers are interrupt driven computer, similar to processors used in general purpose computers with a few special instructions for increased efficiency. The programming is a form of assembly language. 
+
+There is no clock chip, as such, in the spacecraft. The "clock" is really a counter, based on one of several electronically generated frequencies. These frequencies, based on a reference, generated by a very stable oscillator, are converted and fed to different locations in the spacecraft as synchronization signals, timers, counters, etc. The "clock" signal is part of the information telemetered to the ground and it is with ground software that we convert to day of year, time of day Greenwich Mean Time. 
+
+Voyager was built in-house at JPL; the computers were manufactured by General Electric to JPL specifications. 
+
+
+
+
+
+
+
+
+
+ The article in question: http://well.blogs.nytimes.com/2012/05/16/coffee-drinkers-may-live-longer/ 
+
+
+
+
+
+
+
+
+
+ ... so where's her ring? 
+
+
+
+

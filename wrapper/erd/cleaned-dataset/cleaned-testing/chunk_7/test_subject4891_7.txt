@@ -1,0 +1,300 @@
+ mental ray for Maya 2015 
+mental ray: version 3.12.1.12, Feb  1 2014, revision 213714
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+PHEN 0.3     10 MB error  051011: shader "maya_shaderglow" not found
+PHEN 0.3     10 MB error  051011: shader "adskMayaVolumeEngine" not found
+PHEN 0.3     10 MB error  051011: shader "maya_state" not found
+DBN  0.4     16 MB error  561001: invalid topology, object will not be tessellated
+GAPM 0.4     16 MB warn   092001: tessellation empty for object "meshShape"
+IMG  0.3     13 MB warn   102002: type rgba_h not supported by iff format, using default type rgba
+Rendering using 4 threads.
+A default light has been created, modify defaultRenderGlobals.enableDefaultLight to change this behavior.
+Automatic near/far clipping values: 9.98146, 18.296.
+Starting Rendering C:/Users/Admin/Desktop/maya characters/images/tmp/untitled.iff.
+Constructing shading groups
+
+Rendering current frame.
+
+Frame triangle count: 55558
+====================================
+Resource Usage At End Of Frame
+====================================
+ 1004308	Page faults
+ 789.770 Mb	Max resident size
+ 785.000 Mb	Peak total size(Estimated)
+ 122.981 Mb	Peak arena size
+====================================
+ 778.324 Mb	Current
+  85.938 Mb	MEL
+   0.135 Mb	arguments
+   0.328 Mb	Data Blocks
+   0.279 Mb	Pixel Map
+   7.109 Mb	Arrays
+   0.124 Mb	Transforms
+   0.007 Mb	Render Geometry Arena
+  11.346 Mb	Render Cache
+   0.012 Mb	File Texture Mipmaps
+   0.636 Mb	POLY_DRAW_CACHE_STATIC_DATA
+====================================
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+Time For Post Process (hh:mm:ss): 00:00:00
+Time For Frame Render (hh:mm:ss): 00:00:00
+Finished Rendering C:/Users/Admin/Desktop/maya characters/images/tmp/untitled.iff.
+
+------------------------------------------------------------
+
+
+PHEN 0.3     12 MB error  051011: shader "maya_shaderglow" not found
+PHEN 0.3     12 MB error  051011: shader "adskMayaVolumeEngine" not found
+PHEN 0.3     12 MB error  051011: shader "maya_state" not found
+DBN  0.3     16 MB error  561001: invalid topology, object will not be tessellated
+GAPM 0.3     16 MB warn   092001: tessellation empty for object "meshShape"
+IMG  0.3     13 MB warn   102002: type rgba_h not supported by iff format, using default type rgb
+
+you might want to know this 
+
+
+
+
+ I'm trying to get my ptex from mudbox to maya, but the textures won't extract.
+http://imgur.com/tHLAMLI 
+
+
+
+
+   I want to send to maya. Yet when I use the send to maya command, the textures are black. I need to fix the textures being black, or fix the map extract not working. 
+
+
+
+
+
+
+
+
+
+ Any fixes? 
+
+
+
+
+
+
+
+
+
+ Track of course! 
+
+
+
+
+ It's a very different interface from v1. 
+
+
+
+
+
+
+
+
+
+ Olay 
+
+
+
+
+
+
+
+
+
+ No, I don't want an animated video texture like something on an iPhone screen, I have a maya obj sequence where a ship is flying and I've brought it into element. The only thing is, It won't allow me to box map the model in the animation. 
+
+
+
+
+ Obj sequences. I figured out obj sequences. By the way, when you open an obj sequence, do you want to click and import the very first frame or the very last one? 
+
+
+
+
+
+
+
+
+
+ Well how do I bring the textures into element?i don't see the materials showing up 
+
+
+
+
+ I want the model WITH its textures on it. 
+
+
+
+
+ Please answer both questions. 
+
+
+
+
+ Explain please. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wheres  a good place to upgrade? I one time found a place selling cs6 upgrade for $150 
+
+
+
+
+ Why would I need to do that? 
+
+
+
+
+ http://imgur.com/ZkLhmml
+
+ Please help. I'm so frustrated.
+I have a 64 bit windows computer. I believe I have nvidia GTX video cards. I don't see why element 3d for after effects won't work? 
+
+
+
+
+
+
+
+
+
+ I'm using a software designated for educational use, and I want to showcase my work and tutorials to students and my audience. 
+ 
+
+
+
+
+ Where can I find the student terms of use? 
+
+
+
+
+ Ok, on a side note, Im using student version. Can I use my animations in YouTube videos and allow YouTube to put ads in my videos. 
+
+
+
+
+   What if I used ads? It's not commercial use. I'm not directly gaining money. 
+
+
+
+
+
+
+
+
+
+ I need help with binding rigs to arms 
+
+
+
+
+
+
+
+
+
+ Pardon my newfagness. I'm stressed. I'm working on a film and trying to import shit to Max and Maya and everywhere. Anyway, thanks. 
+
+
+
+
+ Please help. Don't tell me to look up on google. give me a straight step by step guide right here. I'm on a time constraint. 
+
+
+
+
+ Will it also import the rigs too? 
+
+
+
+
+ http://m.imgur.com/hrqxkem 
+
+
+
+
+ You should note that I had deleted the shortcuts then tried to redowlad maya 
+
+
+
+
+ http://imgur.com/XQmnmeQ
+It says I've downloaded the software yet I can't find it anywhere on my computer  
+
+
+
+
+ Is it that simple? I don't need any extra scripts or plugins?  
+
+
+
+
+
+
+
+
+
+ Install now, download now, or browser download?
+
+ What steps do I take? 
+
+
+
+
+ Well o got it so I guess this thread is kill 
+
+
+
+
+ I've tried install now and download now, both of which didn't work for some reason. So now I'm trying browser download. 
+
+
+
+
+ Would I be able I use that for my youtube short films? Also, will I be able to get the software every year for free? Like do I need to confirm I'm a student? 
+
+
+
+
+ B H = discounts galore 
+
+
+
+

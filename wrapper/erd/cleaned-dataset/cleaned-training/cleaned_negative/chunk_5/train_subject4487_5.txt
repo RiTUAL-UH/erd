@@ -1,0 +1,1213 @@
+
+
+
+
+
+  100% of all fiat currencies have failed
+
+So have 100% of all PM-backed currencies. 
+
+
+
+
+ I wish I could stop sniffing glue. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No, it's a *Givenchy* hoodie. 
+
+
+
+
+ When a 10 oz Sunshine Mint bar [buys this hoodie](http://www.neimanmarcus.com/Givenchy-Neoprene-Big-Zipper-Hoodie-Black/prod169670036/p.prod) 
+
+
+
+
+ I'm sorry I haven't been posting much lately, I will attempt to rectify that. 
+
+
+
+
+ I approve of this posting. 
+
+
+
+
+ Because fuck you, that's why. 
+
+
+
+
+ One thing I've done that works really well is to cut off the cat's paws. I recommend making the amputation at the metacarpophalangeal joint.
+
+Afterwards, they don't really walk much, it's more of a sideways crawl, so they don't have much incentive to leave your property.
+
+You might also consider fusing wheels onto their stumps so they can still skate around the house. If you have an RV pad you can turn that into a playground for them.  Climbing will be a challenge, though cats are pretty resourceful. 
+
+
+
+
+ Without running the code on a machine, what do you think that it'll print? Justify your answer.
+    
+    ArrayProxy.prototype.computeSum = function() {  
+        this.sum = 0;
+        this.content.forEach(function(value) {
+            this.sum += value;
+        });
+        return this.sum;
+    }
+
+    console.log(myArray.computeSum()) 
+
+I can't justify executing code that someone can't be bothered to lint. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wat? 
+
+
+
+
+
+
+
+
+
+ Ever tried driving a train slightly drunk? 
+
+
+
+
+ You can't make this stuff up. 
+
+
+
+
+ Yes. 
+
+
+
+
+
+
+
+
+
+ I've purchased some tubes from **onfireguy**, amazingly fast shipping and is the first place I'll go when needing supplies in the future.  He has a ton of stuff, just google his user name, his ebay store will be one of the first results.  I think he has his on site as well (outside ebay). 
+
+
+
+
+ * Wake up curled into a ball in the corner.
+* Shower and cry.
+* Get on train for an hour commute surrounded by assholes.
+* Fill my mug with shitty free coffee.
+* Check email.
+* Cry.
+* Hit up /r/aww (highlight of my day).
+* Daily standup that lasts 40 minutes - fantasize about stabbing co-workers with scissors on scrum master's desk.
+* Do some bullshit coding - I have no idea what I'm even doing.
+* Constantly rebuild this shit app not because I've fixed anything, I just like to see all that gobbledygook fly across my terminal. Makes me feel like I'm in the Matrix.
+* Lunch at my desk because hey look, 7 more bugs have just come in on an outsourced app that uses proprietary everything.
+* 2pm cry.
+* Hey look, the PM is leaving early again. Honestly, I have no idea what he even does.
+* 2:30pm cry.
+* Rebuild the app several times in a row - I am the one.
+* Check personal email, this time that recruiter email will be a solid lead, I'm sure. Hey look, a company 3,000 miles away is looking for a Java developer.
+* 5pm get on train that looks like it's headed to Auschwitz. No one talks to anyone, can't even say "excuse me" when they need to get up or move. Their Bejeweled high score is appalling as well, fucking amateur hour.
+* 6:30pm get home, cat didn't even realize I was away. What an asshole.
+* 6:45pm eat soup right out of the can
+* 7pm cry
+* 7:25pm youporn
+* 7:27pm cry
+* 7:45pm /r/aww
+* 8:30pm check stocks
+* 8:35pm start drinking
+* ??? pass out
+ 
+
+
+
+
+ When a boss said team building activities were complete horse shit, that he could barely stand spending all week around us assholes and then told us to take a 3-day weekend. 
+
+
+
+
+  insane
+
+You've just described their target audience. 
+
+
+
+
+ I started my new Job as a Junior Web Developer this Monday, and so far its pretty good
+
+It's only Thursday, bro.
+
+The dilemma I have right now, is they program in many different languages with many different frameworks so there isnt a set in stone one to learn
+
+Yep, jack of all trades, master of none.
+
+My issue right now, is what I finished work I go home and have to do further programming to improve my Javascript skills, which does quite interfere with my social life
+
+Yep.
+
+meaning I do drift further away from friends
+
+JavaScript is your only friend now.
+
+as we often connect through playing Games together and skype, which I dont really have the time for now.
+
+    if (life !== fair) {
+        tears = true;
+        tears.fall();
+        delete fun;
+    }
+
+I am wondering how you balance your time, while learning new skills/starting new jobs
+
+It all depends on the life you want. Do you want to make good $ and never have a problem getting a job?  Then get used to this because it takes a lot of work to remain relevant, especially when working on the front-end.  It's literally a part time job just trying to keep up.
+
+The Role is mainly front end based for now, but they are keen to get my trained up in back end.
+
+Of course they are. 
+
+
+
+
+
+
+
+
+
+ I found him on my screen just a couple seconds ago, he was playing in the snow, but now he's gone.  How does this work? 
+
+
+
+
+ Location, location, location...[Looks bad, smells bad, backyard was like a junkyard](http://www.zillow.com/homedetails/14551-Bercaw-Ln-San-Jose-CA-95124/19673651_zpid/) sold last month for 1 million buckaroos. 
+
+
+
+
+ Why not death by misadventure? 
+
+
+
+
+ Because fuck you, that's why. 
+
+
+
+
+ I know many farmers markets have them but they are always gone by the time I get there
+
+Why don't you go earlier? 
+
+
+
+
+ Cormorants will be shot out of the sky with shotguns as they forage for food and with rifles at close range as they tend to their nests.
+
+Wings up, don't shoot! 
+
+
+
+
+ I would not buy it unless it has a bunch of tech stickers on the lid. Obviously make sure no sticker is covering the logo. 
+
+
+
+
+ Why is it beautiful and not just a simple JavaScript touch carousel.  Why do devs feel the need to throw out superlatives when describing their work?  Serious question. 
+
+
+
+
+
+
+
+
+
+ On the bright side, he probably had some really good pancakes. I do recommend Elmer's blueberry pancakes. 
+
+
+
+
+ I ask women if they want to come up and see my Pokeman collection.  Whatever it takes to get them up there, who cares. 
+
+
+
+
+ Got arrested, did some time in county, she was my parole officer.  I still call her once a week (on the day and time she assigns) to check in and let her know how things are going. 
+
+
+
+
+ If only Liam were wearing some sort of identification tag with his name, owner's phone number(s), address, or a QR Code pointing to Liam's Facebook profile. 
+
+
+
+
+ Well, it's not like they would shoot a man to interpretive dance. 
+
+
+
+
+ Try to negotiate delivery/setup fees wherever you end up buying (assuming retail, of course).  Remember, everything is negotiable.
+
+Be sure the delivery includes bringing it inside and not just dropping it off outside in the rain.  This is typically the "setup", but make sure they bring it in as part of the deal...Get it written on your receipt. 
+
+
+
+
+ SGT Report was finally right!  Thank God for all those urgent economic collapse updates they put out. 
+
+
+
+
+ Just pointing out storing != securing.  That lock box = TSA, i.e., security theater. 
+
+
+
+
+ [It's all about the mintage](http://worldsilverbullion.weebly.com/african-elephant.html). 
+
+
+
+
+ [Not updated with 2014-15 mintages](http://worldsilverbullion.weebly.com/african-elephant.html). 
+
+
+
+
+ That doesn't give you any real security and I doubt any real fire protection, either.  In other words, you're getting what you paid for it.
+
+It will work for *storing* your silver, but not *securing* it. There's a big difference.
+
+Just my worthless opinion. 
+
+
+
+
+ lol, do you really think they follow laws? "Collecting data" will only ever increase. 
+
+
+
+
+ When going for the bodyguard story, never play the Inuit card, always go for Samoan.
+
+Fucking Eskimos. 
+
+
+
+
+ Would you say this is the most interesting thing you've found?  What does the natural copper you find look like? 
+
+
+
+
+ I'm no expert, but to me that definitely looks like the ultimate sin of betrayal as our Nero fiddles while the American Empire burns. 
+
+
+
+
+ To his credit, that is kind of a revolutionary grid system nowadays. 
+
+
+
+
+ Not 100% sure, but I think that crocodile has been photoshopped in. 
+
+
+
+
+
+
+
+
+
+ This time it's different, guys. 
+
+
+
+
+ I just heard on the Z-100 morning news that it's Kurt Russell in *Big Trouble in Little Chinatown*.
+
+Have ya paid your dues, Jack? Yes sir, the check is in the mail. 
+
+
+
+
+ Have you looked at [Aurelia](http://aurelia.io/). If so, wondering what your thoughts are. 
+
+
+
+
+ When I was more concerned with falsely impressing others and myself rather than doing my actual job. 
+
+
+
+
+ If they designed it, it's awesome. 
+
+
+
+
+ Could just as easily be called 20 Signs you Might Be an Asshole. 
+
+
+
+
+ I use:
+
+* ALLCAPS for things that are pretty important
+* ALL-CAPS-DASHED for things that are really important
+* camelCase targeting anything with an id 
+* hyphenated-scheme for targeting classes
+* hyphenated-camelCase for targeting  IE8
+* desreveResaClemac_date for targeting IE6
+* Klingon for when I'm feeling super snarky and just want to annoy co-workers 
+
+
+
+
+
+
+
+
+
+ Why did that [big ass Portland Police truck](http://www.gannett-cdn.com/-mm-/e234615332a256f9cc3886df52d5dbde50163ea6/c=242-0-1678-1080 r=x513 c=680x510/local/-/media/2015/03/19/KGW/KGW/635623718665592201-Hwy-26-explosion-investigation-2-.jpg) show up?  What exactly is the jurisdiction there? 
+
+
+
+
+ That's a 20 dollar bill all day long, Brando. 
+
+
+
+
+ This country is an oligarchy, not a democracy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Writing is not the problem when it comes to JavaScript.  Reading on the other hand... 
+
+
+
+
+ To their credit, there's nothing wrong with marketing beyond the Perseus Veil. 
+
+
+
+
+ This is going to be for a new start up so a non-disclosure may be required
+
+Lol.
+
+Yes, this is a serious comment. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Look at the dollar, it took a dive](http://www.bloomberg.com/quote/dxy:cur), which typically will drive PMs up 
+
+
+
+
+
+
+
+
+
+ If you click on the big red easy button it'll geolocate you. 
+
+
+
+
+ They probably raised all their prices to offset "free" shipping.  The joke might be on you :) 
+
+
+
+
+ Let's stop with the propaganda of disinformation. You **can** eat silver, it's actually very easy to do so.  You might have problems passing it, but you can easily eat it. 
+
+
+
+
+ Avoid those who go with even numbers as you know they're bullshitting.  Always go with someone with an odd number. 
+
+
+
+
+ Yes! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Why would a wealthy diamond merchant in a three-thousand-dollar suit want to cheat me out of a hundred bucks worth of gold?
+
+Uh, how else do you become wealthy and buy $3k suits? 
+
+
+
+
+ It doesn't matter what you end up going with.  In the end, it will be the wrong decision after-the-fact.  Just embrace the life on the front-end. 
+
+
+
+
+ Devs should include percentage indicators in each skill set they possess.  87% jQuery?  You better jump on that shit, fast. 
+
+
+
+
+ PM price may/most likely will drop. 
+
+
+
+
+ When the Fed hikes rates it will pull the dollar and treasury yields up and that is negative for PM prices. 
+
+
+
+
+ I would not buy *anything* for the next couple days.  FOMC meeting minutes will be released tomorrow, if the Fed removes "patience" (about raising rates), PMs will take a hit. 
+
+
+
+
+
+
+
+
+
+ Two conditions if selected. (1) Cost kept minimum - $500-$600 (slightly negotiable) 
+
+You should have hit the delete key right here and saved yourself the time of responding to the rest of thir requirements. 
+
+
+
+
+ With regard to the issue of content, the disjunctive perturbation of the spatial relationships brings within the realm of discourse the distinctive formal juxtapositions.  Although I am not a painter, I think that the reductive quality of the spatial relationships contextualize a participation in the critical dialogue of the 90s.  
+
+
+
+
+  should I make me miserable just to be nicer?
+
+Your #1 job should be making yourself more marketable. 
+
+
+
+
+ Is it your job to dictate what browser someone should or shouldnt use? Or is it your job to support whatever browsers people are using? As a professional web developer, shouldnt you be supporting as many browsers as possible? Do your visitors deserve to see something no matter what? 
+
+
+
+
+ I like the rabbit. 
+
+
+
+
+ [Doesn't get any better than this](http://www.lateral-inc.com/about-us/team/) 
+
+
+
+
+ [I don't want to brag, but...](https://s-media-cache-ak0.pinimg.com/736x/6f/b1/58/6fb1589799713eb931f28ed1d0dbce13.jpg) 
+
+
+
+
+
+
+
+
+
+ Everything is bigger in Texas. 
+
+
+
+
+ SDB has $7.77 shipping on any order. 
+
+
+
+
+ It would be helpful if you showed the fake bars next to a legitimate counterpart, clearly labeling which is fake, which is real. High quality/resolution photos. 
+
+
+
+
+
+
+
+
+
+ Get a [security door](https://www.google.com/search?q=security+door source=lnms tbm=isch sa=X ei=OyoHVd7NBNKpogTzgoHoDQ ved=0CAgQ_AUoAg biw=1680 bih=874#imgdii=_) installed.
+
+You can also get security windows, though I'd want the kind that open/close like shutters.  I don't think they're as common, though. 
+
+
+
+
+ [Some quick googling, looks to me like it's $3k](https://www.ffiec.gov/bsa_aml_infobase/pages_manual/OLM_015.htm)
+
+*Records for monetary instrument sales are required by the BSA. Such records can assist the bank in identifying possible currency structuring through the purchase of cashiers checks, official bank checks, money orders, or travelers checks in amounts of $3,000 to $10,000.*
+
+I'm assuming a US Postal Money Order is essentially being treated like a "bank" check/money order. Again, this was quick googling.
+
+The woman told me she checked the mark that said it **wasn't suspicious**.
+
+If it wasn't suspicious, why was a SAR filed?  It seems like if they thought you were structuring the $, they would have flagged it as suspicious?  Their actions seem a bit contradictory, though I don't know much about this stuff... 
+
+
+
+
+
+
+
+
+
+ Why would you want to lint *after* you've committed? You want to catch these types of errors *before* you commit, otherwise your repo/history becomes cluttered with unnecessary errors which you might be rolling back into. 
+
+
+
+
+ How could they be "slightly thicker sometimes"?  These should be made to uniform diameter and thickness, with uniform weights. 
+
+
+
+
+
+
+
+
+
+ Thanks, Obama! 
+
+
+
+
+ [Another angle](https://www.youtube.com/watch?v=t7VJXdGbiwU) 
+
+
+
+
+ * [Chengdu Precious Metals Market Street ](https://www.youtube.com/watch?v=kf1SQIcw6zI)
+* [China Gold Coin Chengdu](https://www.youtube.com/watch?v=16mUJj7Izn0)
+* [China Gold Coin Chongqing](https://www.youtube.com/watch?v=JBPG25_CtU8)
+* [ICBC Chongqing](https://www.youtube.com/watch?v=8ERVOef_zEc)
+* [Kunming Gold   Silver](https://www.youtube.com/watch?v=GUasi4n5R1k)
+* [China Gold Coin Hangzhou](https://www.youtube.com/watch?v=KeV1ILWW_-g)
+ 
+
+
+
+
+ Vivian Campbell, who later went on to join Whitesnake during the height of their MTV days, as well as Def Leppard (replacing Steve Clark). 
+
+
+
+
+ And Mondays. And Tuesdays. And Wednesdays. And Thursdays. And Fridays. And Saturdays. 
+
+
+
+
+ Safes, shoes and hookers...You get what you pay for. 
+
+
+
+
+ I recently had some shipping delays but it was due to weather. It was via UPS but I doubt the carrier really mattered. 
+
+
+
+
+ To watch the sunrise, look towards the east.  To watch the sunset, look towards the west. 
+
+
+
+
+ Nice score. I would have taken them all, too. 
+
+
+
+
+ Actually, I don't. I just recently heard about them in the news, I think a *60 Minutes* piece, then I just happened to google their stock and was like, *wow*. 
+
+
+
+
+ It's a good deal but not blowing the doors off competitors. [JM Bullion has them at $378](http://www.jmbullion.com/2015-american-silver-eagle-tube-20-coins/) shipped.
+
+I know Silvertowne has it's detractors here, though I did get recently get a tube of Buffaloes from them on a ebay "deal" with no issues. 
+
+
+
+
+ Down 15% today to $30.55, down from near $120 back in November 2014.
+
+https://www.google.com/search?q=lumber+liquidators+stock ie=utf-8 oe=utf-8 
+
+
+
+
+ They're good, though they have a limited selection. 
+
+
+
+
+ I'm not sure how you say it in Canada, but here in the states it's fucked. 
+
+
+
+
+ **A**merican **P**recious **M**etal **Ex**change. 
+
+
+
+
+ Who? 
+
+
+
+
+ Why don't you do a Twitch.tv for programming? 
+
+
+
+
+ Rob Chapman (Chappers) is a great guitarist and does good reviews with Andertons, though I prefer [Phil X over at Fretted Americana](https://www.youtube.com/user/frettedamericana/videos). 
+
+
+
+
+ 347 left as I placed an order, lol, these are going fast.
+
+**9:27 am PST, they're all gone** 
+
+
+
+
+
+
+
+
+
+ The too busy excuse usually works
+
+ I don't want to tell anyone their idea is stupid, just that I don't want to be involved at all.
+
+You've just answered your question within your question. You don't have to give your personal opinion to the viability of their idea, just tell them "thank you, but I don't have time to take on another project."
+
+Or, you could punch them in the throat. 
+
+
+
+
+ Be honest, you don't have a girlfriend at all, do you? 
+
+
+
+
+ I was hoping this was something where you could actually assault people. 
+
+
+
+
+  the price increase for silver and gold is gonna happen.
+
+True, but as they say, markets can remain irrational longer than you can remain solvent :)
+
+I'm personally not buying anything until after the FOMC meeting next week. I really would not be surprised to see PM prices continue to fall this year. 
+
+
+
+
+ Reading through all the articles listed, it makes me wonder if China is laying the foundation for a gold-backed Yuan? 
+
+
+
+
+
+
+
+
+
+ What do you think a Libertad would go for if it had a serial # of 008008500 ? 
+
+
+
+
+
+
+
+
+
+ Those are great, you should do a time lapse video of the creation process. 
+
+
+
+
+ I was just going to ask if this design traces back to Howard Hughes Sr. Quite amazed to find someone has already made the association. 
+
+
+
+
+ I say everyone should periodically dance tango in Argentina, but you don't see me starting posts about that, do you? 
+
+
+
+
+ Don't be such a douchebag, it has a premium bound edge. 
+
+
+
+
+ I took a couple of psychology classes in college, so I'm pretty much an expert on all things Id, Ego, and Superego.
+
+From your post I can tell you that's your inner child talking. It is a result of your subconscious controlling your efforts. You lack self esteem. I feel your pain.
+
+One thing I highly recommend is past life regression therapy. It's amazing and it really does work because it bypasses your normal functioning brain and goes straight for the reptilian brain.
+
+Im so glad we'll be working on this together. I feel like we have real synergy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I would buy a bar that has the same serial number as my luggage combination. 
+
+
+
+
+ I found a couple vendors that had it listed in the $570s but they were all sold out. APMEX has it in stock for $650.
+
+I'll have to see what they charge for shipping to the states, I might pick one up, their price on the Horse seems pretty decent. 
+
+
+
+
+ Q: What's most important skill(s) or language(s) every front-end developer should know?
+
+A: HTML - everybody ends up touching that, you might as well know it well.
+
+Wut? 
+
+
+
+
+ Makes me want to see if I can find a better kilo horse deal here in the states.  I was surprised to see that price. 
+
+
+
+
+ Most homes nearby Woodlawn Park are working-class style, small bungalows, unlike the homes in the King and Piedmont neighborhoods. 
+
+
+
+
+ What if you moved from Beaverton? 
+
+
+
+
+ I keep my silver in a safe deposit box. 
+
+
+
+
+ I bought a 2014 Perth Lunar Year of the Horse Kilo. I ended up spending around $600USD shipped
+
+[They're selling the kilo horse for $1 less than the kilo goat](https://silvergoldbull.com/silver#s=0 fq[]=manufacturer%3APerth+Mint d=desc). 
+
+$586.97 /  $588.24 respectively. 
+
+
+
+
+ [The euro has lost 35% of its value since last May](http://www.theguardian.com/business/2015/mar/11/euro-drop-us-dollar-value-analysts). And it's continuing to drop. 
+
+
+
+
+
+
+
+
+
+ I mentioned paying by check so the two business days thread spiral is a bit moot. 
+
+
+
+
+ What payment method?
+
+Ordering "weird" shouldn't matter, assuming they're selling what they have in stock, ready to ship, i.e., not the RCM 10oz bars fiasco that happened late last year. 
+
+
+
+
+ Dollar that strong?
+
+[Go out to the 1, 3 or 5 year view](http://www.marketwatch.com/investing/index/dxy)
+
+We're going to hit 100 any day now. If the Fed raises rates, we'll be seeing more decline. I think there's a Fed meeting next week.
+
+It might be a rough year for PMs. 
+
+
+
+
+ I imagine that's covering the increased insurance costs.
+
+To some extent, yes.
+
+* $500 order is $12.95 shipping
+* $1,000 order is $19.95 shipping
+* $2,000 order is $29.95 shipping
+
+Do you think that shipping difference is mostly the increased insurance cost? It seems a bit much to me.
+
+ I've never had them take more than 2 business days.
+
+Two business days for what?  To clear a check/ship or ship once the status changes from "on hold" to "confirmed payment"? 
+
+
+
+
+ I've never had shipping time issues with them, though I don't have a big order history with Monarch.  My biggest gripe with them is their tiered shipping raping structure. I mean pricing structure. The more you buy, the more $ you pay in shipping, yet they use the same priority mail/flat rate box.  In other words, you may pay $20 shipping and get the same flat rate box a $450 order would come in. You've just paid 2x as much for shipping.
+
+Provident has the "worst" shipping times, from my experience.  I always pay by check, so I get hit with the literal week of clearing time for that.  Then, after that clearing week, the order switches to "confirmed payment" where it can take another 2-3 days to actually ship out.
+
+Another thing to note is my last order with them, my check actually posted/cleared my bank the day the check was received at Provident. This is according to tracking delivery date and the post date on my check via online banking.  Same friggin' day Provident receives my check, the $ is taken from my bank. Which, in this day and age, is really how it should be, yet clearing time seems stuck in decades past. 
+
+
+
+
+
+
+
+
+
+ Actually, it does have to go on. But thanks for being naive about how corporate IT works. 
+
+
+
+
+ [First Majestic CEO wants to do just that](https://www.youtube.com/watch?v=4cIpAL8UVvE). 
+
+
+
+
+ Check out [Monarch](http://www.monarchpreciousmetals.com/) for low premium poured.  I've been eyeing their 25oz (currently $413), which has been going in and out of stock lately. They usually have 10oz in stock - I have one, it's neat. 
+
+
+
+
+ I'd prefer to just stab someone in the neck.  With a silver knife. Sterling letter opener in a pinch. 
+
+
+
+
+ Via Silvertowne ebay, item [301329786210](http://www.ebay.com/itm/2014-United-Kingdom-Silver-Year-of-the-Horse-1oz-Proof-in-OGP-/301329786210?pt=LH_DefaultDomain_0 hash=item4628a7a562)
+
+[On Silvertowne's site they're asking $73](http://www.silvertowne.com/p-23443-2014-united-kingdom-silver-year-of-the-horse-1oz-proof-in-ogp.aspx)
+
+Mintage:  8,888
+
+What sayeth the peanut gallery? 
+
+
+
+
+ US Dollar will no longer be the world's reserve currency. 
+
+
+
+
+
+
+
+
+
+     git push production master 
+
+
+
+
+ I pretty much eat a can of soup (Heart Healthy Progressive) for lunch every day. I also bring some mixed nuts and will have something like a Clif bar as well.
+
+What are some quick/easy to prepare, healthy lunches I can make for work?
+
+Non vegetarian here. 
+
+
+
+
+ Seriously, this is every one of his videos. You hit #5 and you've hit them all. 
+
+
+
+
+ Check out *Breakin' 2: Electric Boogaloo*. 
+
+
+
+
+ [How did I do?](http://i.imgur.com/K55nPo3.png) 
+
+
+
+
+ Good evening everybody, time for another silver update. Let me draw some lines on this chart by NetDania. Now let's zoom out and check the volume on the smackdown they laid on us at 10am like they always do. Time to read an entire 3rd party article where I **emphasize** particular **words** while I highlight them on screen to hammer my **point** (???) home.  And, we'll talk to you next time. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * It should be silver
+* It should be "Designed in *your state here*"
+* It should have commonly used adapters available separately for purchase
+* You should be able to rationalize the emotional reasons why the device needs regular recharging 
+
+
+
+
+ I expected a really light colored gray line that our UX team always delivers which I can't even see. 
+
+
+
+
+
+
+
+
+
+ Front-end development. 
+
+
+
+
+ **A**pply uses an **a**rray to pass the arguments. That's how my pea brain associates/memorized them. 
+
+
+
+
+ Which is why it's always fun to listen to them.  Did any PM "expert" predict the crash over the past 3-4 years? If the experts have shit track records, there's no point in having experts.
+
+I'd love to know what Mr. Morgan (and others like Mike Maloney) have personally done with silver over the past 3-4 years. 
+
+
+
+
+ Your buddy needs a collar. 
+
+
+
+
+ Personally, I can't say I'm seeing inventory issues.  What specific products have you been looking at and through which dealers? 
+
+
+
+
+ Can't argue with that. 
+
+
+
+
+ Really? Has he ever said to exit your position, get into cash and wait? When silver was in the 40s? 30s? 20s? 
+
+
+
+
+ I'm moving everything I have into a new small business - hunter/killer kittens.
+
+FACT: When the collapse comes, just like today, everyone will need to eat.
+
+With one (or five, ask about bulk pricing) of my killer kittens, you'll never have to worry about food. 
+
+What do you really want when the SHTF? Some Mercury dimes or a bag full of dead birds and mice?
+
+Think about it. 
+
+
+
+
+  Inventory is running out among a bunch of different online vendors
+
+What do you base this on? 
+
+
+
+
+
+
+
+
+
+ Correct, but he has to pimp the fact silver is "cheap" and the price of a coin is about the price of what it takes to mine it.  Sounds like a deal!
+
+He doesn't explain what his metrics are, only mentioned First Majestic being around $14, then goes on to say conservatively cost is around $17. 
+
+
+
+
+
+
+
+
+
+ I'd give them a week to respond, i.e., I wouldn't do anything with my credit card company until Thursday.  That's just me, though (and I'm an asshole). 
+
+
+
+
+ In the 13s if the gold:silver ratio stays relatively the same. 
+
+
+
+
+ Well, if the strength of the US Dollar continues through 2015-2016 and the Fed actually raises rates, PMs are going to drop.  If this case plays itself out, your pain will be compounded if you buy strictly bullion instead of semi-numismatic. 
+
+
+
+
+  to pushing to a live server
+
+I thought this is where the QA process starts? What could you do before this? 
+
+
+
+
+ Wow, that's pretty crazy, I bet they used Angular to do that. I wonder what would happen if they opened an office in Sydney or Beijing. 
+
+
+
+
+
+
+
+
+
+ One of my new/sealed 10 oz RCM bars has a little bit of milk spotting like that. I've never seen it on a JM bar, not that that means anything. Just a bit of nature of the beast, I suppose. 
+
+
+
+
+ *The Road* is a movie about total collapse of society, scavenging to survive, real "SHTF" mentality that does exists in the PM community. There's a certain amount of cross pollination between stackers and preppers, where you'll hear about SHTF, TEOTWAWKI (Shit Hits The Fan/The End Of The World As We Know It respectively).  A bit nutty, IMO, but to each their own.
+
+Now, back to stacking ammo and downloading the *How to Field Dress Your Neighbor* manual. 
+
+
+
+
+ Economic crisis and fail of the dollar does not mean gold and silver become the new medium of exchange. It just means the value of the dollar becomes less.
+
+Too many nutters think we're going down *The Road*. 
+
+
+
+
+ From years of working with freelance front-end developers, I can tell you the answer is freelance front-end developers should be able to produce unmaintainable spaghetti code. 
+
+
+
+
+ Or people could just buy a phone that fits their hand. 
+
+
+
+
+ [U.S. Mint to stop 2014 platinum Eagle coin sales after Oct 1](http://www.reuters.com/article/2014/09/08/metals-usmint-platinumeagle-idUSL1N0R91HW20140908) 
+
+
+
+

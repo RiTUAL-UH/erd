@@ -1,0 +1,165 @@
+
+
+
+
+
+ Well hey, I like it. 
+
+
+
+
+ I'm not sure the exact amount it gets lowered, but yes. That's basically it. 
+
+
+
+
+ no 
+
+
+
+
+
+
+
+
+
+ My point being it isn't like every other pack. Your deluxe triple cheeseburger won't end up being worth 1/16 of a shank. It will always retain the same hunger.
+
+If you don't see the point of the change, I could make it impact hunger again :-) 
+
+
+
+
+ I will point out that SoL only impacts saturation, not the hunger value. 
+
+
+
+
+ I made the modpack with these mechanics in mind, just so you know. Everything is balanced around it. I used these rather than other things because, well, every other pack focuses on the same things. Hunger, tool progression, etc. I wanted to make the pack unique rather than using the formula for increased difficulty that everyone is used to.
+
+I knew going into it people wouldn't like it. I'm not going to stop you from doing it, and I'm actually honoured that you care about the pack enough to even bother making these changes. 
+
+
+
+
+ I'll refer to my previous posts for everyone complaining about the inventory:
+http://www.reddit.com/r/feedthebeast/comments/2wulyv/an_interview_about_pathfinder/cov3tgb
+http://i.imgur.com/lnGDnV0.png 
+
+
+
+
+ completely intact
+
+Hey, look at the recipes for the Energy Condenser or Transmutation Tablet. 
+
+
+
+
+ Uh... I hope you realise I had nothing to do with this. 
+
+
+
+
+ 3 
+
+
+
+
+ If you've used the dimlets given on the ship, and followed the grammar mentioned in the Quest Book/Dimension Manual, your world should have been normal. 
+
+
+
+
+ The repeater. Project Red has an upgraded version of the vanilla one. 
+
+
+
+
+ Yes. 
+
+
+
+
+ DW20 is technically FTB. We make the pack off of his mod list, and make config changes accordingly. We basically make the pack for him to play, hence why it shows up in the main tab.
+
+And thanks, I'm hoping to have fun here :D 
+
+
+
+
+ Basically, Eya and I sort of swapped positions. I used to be specifically Third Party Packs (Running Red, etc), and Eyamaz would work on the official packs, such as Monster and Horizons, as well as his personal packs.
+
+Now that's swapped. I help out with the official FTB packs, such as Mage Quest or Infinity, and he does his Third Party stuff, such as BnB.
+
+The "Modpack Developer" position, at this point in time, means that the person controls the pack development. I'll do most of the config changes, such as configuring ore generation or changing recipes. As well, as Watchful said, I also control the various teams that help with modpacks. In the future, I'll be working with tfox to assemble modpacks and make them what they are, via config changes and the like.
+
+For example, the past few updates for non-infinity modpacks (Lite, Mage Quest, and DW20) have been overseen by me. I sent the Maintenance team the packs, and they went through and updated the mods. I also got the new quests from the Lit. Team for Mage Quest, and then made the config changes DW20 requested for his pack.
+
+TL;DR, Eyamaz has resigned, and I do what he did and make FTB Packs now. 
+
+
+
+
+ Yeah, I've got that on my schedule. It's rather far down, though. I'm currently making Slowpoke some coffee and getting tfox the code to hack into the Curiosity Rover.
+
+Normally I'd be opposed to hacking into a NASA device, but hey. We can't deny our supreme overlords anything, can we? 
+
+
+
+
+ You need to use Servos with TD pipes to have them constantly extract. 
+
+
+
+
+  If it includes an interesting challenge of using an actual backpack for extra inventory I'll be sold. I always liked the idea that better storage had with backpacks and putting them down/ picking them back up.
+
+That's almost exactly what we had planned. We don't want the inventory management to hinder the game, we just want the player to think a little harder about what they are carrying around with them. The player will be able to carry around bags and such.
+
+One of my favorite parts of Don't Starve was that you couldn't just carry everything around with you. It was entertaining to have to deal with only having the essentials on me, with everything else stored in a chest elsewhere. It provided an interesting dynamic that seemed to be lacking in Minecraft, no matter which mods you used.
+
+Item and inventory management are things that are rarely emphasised upon in all of minecraft. Storing things in chests and sorting them becomes completely obsolete the instant an AE system is made. Inventories cease to be a problem the instant a golden bag of holding is obtained. I wanted, at least in one pack, to bring out something that most people rarely think twice about.
+
+I figure that there's always something that will put people off of packs like this. A lot of people hated Blood 'N Bones for its tool progression, Crash Landing for its need of food, or Material Energy^4 for the insane amount of mobs. I know that whatever I change, at least one person will be unhappy with it. A lot of people didn't like the Blood Altar in Running Red (to which I responded: Why are you even playing? O.o), and quite a few didn't like the odd progression in Phoenix Reborn.
+
+With each pack I make, I've tried to do something new. I suppose for Pathfinder, the limited inventory during the early game will be it. If everyone in general comes to the consensus that they don't like it, I'm more than happy to remove it. But as I've said - it's something that makes the pack unique and different. I hope that it will be well-liked, but if it's not, I could remove it. But until then, it will be staying. 
+
+
+
+
+
+
+
+
+
+ RFTools based. Galacticraft is not even installed. 
+
+
+
+
+ There will be 
+
+
+
+
+ Carpenter's Blocks. Put the liquid near them, and set
+
+B:"Routable Fluids"=true
+
+This was actually enabled in the original Running Red, and was why it sometimes looked as if the blood was flowing past the blocks.
+ 
+
+
+
+
+
+
+
+
+
+ It glosses over a few of the things in the Dimension Building, but you can learn most of that just by reading the book and playing around with it a little. It's an amazing mod that is very easy to get into 
+
+
+
+

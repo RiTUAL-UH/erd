@@ -1,0 +1,1415 @@
+ Because 42 is the answer to life, the universe, and everything. 
+
+
+
+
+ Great!  Thanks so much! 
+
+
+
+
+ Awesome, thanks.  If it turns out to be a particularly nasty bug, I'll definitely utilize that! 
+
+
+
+
+ And your recommended course of action would be? 
+
+
+
+
+ Any chance you could provide a link to those forums? 
+
+
+
+
+ A friend asked for help "fixing" their computer.  They claim that IE won't close properly and they can't open Trend Micro.
+
+I was thinking I would run some antivirus/antispyware scans (AVG?), and I'm definitely going to install Firefox and plead with her to use that instead.
+
+But I'm not especially adept at troubleshooting computers, and without more details, it's hard for me to know exactly what the problem is.  I'll be going to her place tomorrow to try and help, and I was wondering if the brilliance here at reddit has some suggestions for how I should proceed. 
+
+
+
+
+ Dear Norway,
+Welcome to the 1990's. 
+
+
+
+
+ Sometimes the Onion makes me cry... 
+
+
+
+
+ Already been posted...
+
+http://www.reddit.com/r/WTF/comments/9wuj2/this_article_from_theonion_really_made_me_squirm/
+
+EDIT: Included link 
+
+
+
+
+ And the science gets done 
+
+
+
+
+ My biggest issue is switching back and forth from Halo to Call of Duty.  Default Halo grenade button = default Call of Duty reload button
+
+I generally end up wasting a good number of Halo grenades...  
+
+
+
+
+ How are you dipping one solid into another?
+
+That just strikes me as physically impossible. 
+
+
+
+
+ Quite possibly my favorite Stewie quote ever. 
+
+
+
+
+
+
+
+
+
+ HAHAHA!  I get it!  Because he's in a LIBRARY! 
+
+
+
+
+ Not sure, but I wouldn't be surprised if he had a chip on his shoulder. 
+
+
+
+
+ Getting robbed by a bank is a certainly a new twist on classic Wild West villainy... 
+
+
+
+
+ Does this mean we're famous? 
+
+
+
+
+ Upvoted for using a beverage as a verb.
+
+Ohhhhhhhhh Yeah... 
+
+
+
+
+ Ha, yes!  I blame Homestarrunner for this... 
+
+
+
+
+ This one genuinely made me "lol"... 
+
+
+
+
+ Don't suppress your doubts.  Don't run away from your doubts.  Embrace them, challenge them, and don't stop until they are satisfied.
+
+The two rarest things in this world are a humble young man and a content old man.
+
+Remember: Others  You
+And: You != Infallible
+
+Oh, and please don't use IE... 
+
+
+
+
+ I actually like some Hannah Montana songs... 
+
+
+
+
+ I got "The Spanish Inquisition"
+Sure didn't expect that...
+
+(wait for it) 
+
+
+
+
+ Merely direct the child to this link:
+
+http://www.main.com/~anns/other/humor/physicsofsanta.html
+
+I think the math and science behind it speaks for itself. 
+
+
+
+
+ That's easy, Digg started becoming semi-popular, and thus the asshole ratio spiked... 
+
+
+
+
+ He visits Digg!  Off with his head! 
+
+
+
+
+ These people appear to dislike each other... 
+
+
+
+
+ I would choose a super powered narwhal.
+Then when the other person came to kill me, there would be an epic narwhal duel.  And that would be awesome. 
+
+
+
+
+ http://www.stuffedark.com/narwhal.htm
+
+You can choose from the 23-inch version or the smaller 12-inch one... :-) 
+
+
+
+
+ you should definitely do something in return, like fry some bacon for her or buy her a howling wolf shirt... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *GASP*  It always eventually gets back to one!!  I'm SO telling all my friends about this... 
+
+
+
+
+ Farmville will do that to you... 
+
+
+
+
+ I eventually stopped playing the classical guitar because I just couldn't put up with the nails any longer...
+
+I hated getting odd looks from girls and having to smile and reply, "Oh, it's okay, I play the guitar" 
+
+
+
+
+ 21:M:0 
+
+
+
+
+ (I'm in the middle of coding a web server)
+
+	int n, length, i;
+	char buffer[256];
+	bzero( buffer,256);
+	
+	// Get data from socket, replace line feed with null
+	n = read(connfd, buffer, 255);
+	if (n  0) error("ERROR reading from socket");
+
+	length = strlen(buffer);
+	for (i = 0; i  length; i++) {
+		if (buffer[i] == '\n') {
+			buffer[i] = '\0';
+		}
+	} 
+
+
+
+
+ How about that sideboob?  Does that turn you on?  Well it shouldn't.  Because that's my sideboob. 
+
+
+
+
+ Wolfpack in the reddit house baby.  Represent... 
+
+
+
+
+ In case anyone was curious, here are the answers:
+
+* 1) Because they have the most to complain about
+* 2) They were bra colors for breast cancer awareness
+* 3) It triggers muscle memory functions within the brain
+* 4) They have big boobs
+* 5) So we is able to have learning
+* 6) Plastic surgery
+* 7) Two faced political maneuvering...and oil
+* 8) Farmers added ferrous oxide to the oil mixture used to seal the wood, giving it a reddish tint
+* 9) The color pigments of their feathers only reflect that frequency of the light spectrum
+* 10) 42
+
+EDIT: formatting
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I was homeschooled K-12.  My last two years of high school I dual-enrolled at a community college.  This enabled me to transfer in as a sophomore right out of highschool.  I got my Bachelor's in Computer Engineering in 3 years, and I my Master's in Computer Networking in 4, all with a 3.75+ GPA.
+
+Thanks Mom and Dad for homeschooling me! 
+
+
+
+
+
+
+
+
+
+ Damn, I want to know if it hit the boy or not!  There's a split second where the camera loses the soda-rocket (pop-rocket if you're from up North), and I can't tell if it hits the kid or if he manages to evade it.
+
+Frustrating. 
+
+
+
+
+ Exactly.  It depends on the type of pictures.  In most cases, no...but we should have a look just to be sure. 
+
+
+
+
+ Get Ye Flask.
+
+This is my favorite thing to say to bartenders. 
+
+
+
+
+ I'd be in charge of setting up LAN parties to train and instruct the younger generation in the art of zombie warfare.
+My curriculum would consist of the L4D series, and the Resident Evil series.
+Allowed ages would be 10-17.  Sign up your kids now, before it's too late... 
+
+
+
+
+ It's perfectly normal for girls to appreciate and enjoy this type of game play.  There's no reason to assume this makes you a lesbian in any way. 
+
+
+
+
+ It's also for Computer Engineers.  I'm a CPE and a member at my local university.
+
+It's kind of like a high school chess club...except all the nerds are 3-4 years older. 
+
+
+
+
+ I'm just down the road at NCSU...
+North Carolinian Redditors Unite! 
+
+
+
+
+ Aww, she's got a lot more friends now.  Reddit made her popular...yay! 
+
+
+
+
+ I thought this is what women are for. 
+
+
+
+
+ Whoever said giving is better than receiving was full of crap...
+
+This is way cooler. 
+
+
+
+
+ Wait, Micheal Jackson died?? 
+
+
+
+
+ The internet has really made me appreciate my siblings more.  Sure we'd have our occasional spats, but nothing remotely as devastating as this... 
+
+
+
+
+ What's worse than the holocaust?  Half a worm in your apple... 
+
+
+
+
+ I could be out partying with my friends, but instead I'm here with you guys.  Virtual parties ftw... 
+
+
+
+
+ I believe [General Patton](http://thinkexist.com/quotation/the_object_of_war_is_not_to_die_for_your_country/206600.html) can be credited with that quote. 
+
+
+
+
+ Hey Reddit,
+My community holds a "Senior Breakfast" for the elderly folk in the area a couple times every year.  For the next one, I've been asked to do some form of humorous entertainment (nothing too lengthy maybe 5-10min).  Now I've done some standup before, but not with this specific demographic as my audience.  So my question is, what do you think the seniors today would find funny?
+
+Feel free to recommend specific jokes, online resources, etc.  Your thoughts are much appreciated! 
+
+
+
+
+ Now with double-fisting action... 
+
+
+
+
+ Apparently the swine flu was brought about by pigs with excess appendages.  Oh the horror!! 
+
+
+
+
+ Well, it's not called "Make-You-Feel-Cleverbot"... 
+
+
+
+
+ How much did the Titanic weigh?
+Enough to get broken by the ice! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What the I don't even 
+
+
+
+
+ I posted this as my facebook status.  Everyone thinks I'm a comedic genius. 
+
+
+
+
+ Why is he putting on a second pair of sunglasses?  Is the sun really that bright? 
+
+
+
+
+ (nom nom)^infinity 
+
+
+
+
+ Eh, must be one of the those DIY escalators... 
+
+
+
+
+ Sorry, I don't give a damn... 
+
+
+
+
+ First rule of Ouija Board... 
+
+
+
+
+ I found it hard to differentiate between a good pun and a bad one. 
+
+
+
+
+ "Studying literature is a really big waste of time."
+...54 translations later we get:
+"Relax."
+
+Apparently the website wants me to just calm down a bit and stop ranting about humanities... 
+
+
+
+
+ There are currently 911 downvotes on this post...COINCIDENCE?!? 
+
+
+
+
+ Absolutely brilliant.  I've also though Zazu should have a German accent. 
+
+
+
+
+ Can't remember how many times I've been shot mid reload.  For some reason the other 25 bullets in my clip just don't seem sufficient to take down my next foe... 
+
+
+
+
+ *sigh* I was going to try and work "Philips" or "flat-head" into a pun, but I've got nothing... 
+
+
+
+
+ One fish, two fish, Red fish, blue fish, standing by 
+
+
+
+
+ I upvoted, but only after some initial hesitation.  With a name like that I fully expected a more significant and witty contribution. 
+
+
+
+
+ You two should start a facebook fan page for this post.  Then you can double like it! 
+
+
+
+
+ We vote during the refractory period.  It's quite simple actually. 
+
+
+
+
+ Gosh you two, get a subreddit... ;-) 
+
+
+
+
+ I found it to be rather provocatively brilliant. 
+
+
+
+
+ Hi Reddit on YouTube
+
+Well, I don't see what all the big fuss was abou...*\*impaled by narwhal*\* 
+
+
+
+
+ Bull. 
+
+
+
+
+
+
+
+
+
+ That's doodle.  Google is that timed word game. 
+
+
+
+
+ I think this may the only time I've read part of a EULA before. 
+
+
+
+
+ Admiral Ackbar 
+
+
+
+
+ How the hell do you pronounce "Cthulhu" anyway?  I've been wondering that for years...
+I always end up saying something like "K-Thoo-hoo"... 
+
+
+
+
+ They should really seal that entrance. 
+
+
+
+
+ Typo in the alt text.
+
+And yes, correcting the author of a famous webcomic has given my life meaning and validity.  I can die happy now. 
+
+
+
+
+ Yay...my post started a fight.  I can be such an unwitting troll sometimes... 
+
+
+
+
+ It says I either show up in court, or waive the trial (aka, plead guilty/responsible and pay full amount)  :-/ 
+
+
+
+
+ Yeah, I do feel I have a plausible explanation.  It was going downhill in the mountains, my car coasts ridiculously well, I was in the act of braking to slow down, etc.
+
+So would I have to appear in court to take this route? 
+
+
+
+
+ That visual made me chuckle.  Have a virtual kudos in the form of a orange cyber envelope. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aww, the author is pissed because Reddit never links his stuff. 
+
+
+
+
+ I immediately thought of Anchorman.
+Thank you for the happy thoughts. 
+
+
+
+
+ These aren't the comments you're looking for. 
+
+
+
+
+ Something I whipped together in Gimp a number of years back.  It still makes me smile.
+
+http://imgur.com/TeQVp?full 
+
+
+
+
+ I'm not saying it applies to the OP, but his post spawned this rage induced loathing.  I apologize for being angry on the Internet.  This is a place for children and I promise to try and behave myself in the future. 
+
+
+
+
+ snarf snarf, snarf? 
+
+
+
+
+ Feclicia Day + gaming related video = reddit shitting themselves in excitement and joy
+
+MAYBE IF YOU KEEP BEING SO HAPPY SHE WILL COME TO YOUR HOUSE AND GIVE YOU A HUG! 
+
+
+
+
+ relevant rant
+I hate that Facebook has changed the mean of the word "hacked" to "I left myself logged in"...
+I see this all the time on my wall:
+"some 1 HACKED my FACEBOOK, whoevr it waz i h8 u!!"
+
+No they didn't you stupid bitch, you just didn't click the log out button.  Idiot.
+/rant 
+
+
+
+
+ Did you also Photoshop ugly on all the bridesmaids? 
+
+
+
+
+ Look at your cloak, now back at me, now back at your cloak, now back to me.
+Sadly, your cloak isn't me. 
+
+
+
+
+ What is this I don't even holy shit fuck 
+
+
+
+
+ Is it just me, or is the thumbnail image not pixelated/blurred at all?
+
+Who is this man??  We must know.  ZOOM...ENHANCE... 
+
+
+
+
+ Just because you wish you had a mustache doesn't mean you can speak Italian. 
+
+
+
+
+ Homosexuality is GAY 
+
+
+
+
+ Dang.  You just exploded my evening into nostalgic childhood revelry. 
+
+
+
+
+ Yes.
+
+I would ride it over and over again. 
+
+
+
+
+ Oh noes!! They are going to make searching a Reddit Gold feature! Wake up sheeple! 
+
+
+
+
+ Red Voltron, standing by... 
+
+
+
+
+ Gamer.
+
+Hollywood took a cool idea and screwed it up the ass.  Very disappointing. 
+
+
+
+
+ I tried to upvote you, but reddit just gave me this error:
+
+
+
+
+
+ 
+
+
+
+
+ Or you could just get in touch with the guys over at Jone's Big Ass Wine Glass Rental. 
+
+
+
+
+ CHRISTOPHER ROBIN!! 
+
+
+
+
+ I could use a little virtual affirmation. Validate me Reddit! 
+
+
+
+
+ My only point is more attention would be given to it, not that it would magically be cured in two days.  I was agreeing with the principle behind it. 
+
+
+
+
+ Sad, but true.
+
+Our priorities in this world are fucked up...  :-/
+
+EDIT: Never  mind, the downvotes of Reddit have spoken. The priorities of the world are completely in order. 
+
+
+
+
+ "This" needs to die a horrible slow meme death... 
+
+
+
+
+ Is a man in a yellow wig and Hooter's outfit still queer?
+
+Is the man on the bicycle checking out the narwal or the Hooter guy's ass?
+
+So many questions... 
+
+
+
+
+ So would this beam/laser have to be directed into the eyes to be effective?
+
+And wouldn't this mean that just turning our head would be an easy way to combat this? 
+
+
+
+
+ I'm much funnier in person.
+Wanna grab a coffee sometime? 
+
+
+
+
+ Seriously.  How are we supposed to know that it's a woman if we can't see the kitchen? 
+
+
+
+
+ Ahhh!!  Now all the comments on this page are appearing in Spanish! 
+
+
+
+
+ Great ice mountains of Hoth!!  It's a Sith Lord!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That's a smart ass-comment. 
+
+
+
+
+ Det er ingenting du kan gjre. 
+
+
+
+
+ I'm in Graham right now, but I go to school in Raleigh.
+All this talk of NC redditors makes me feel less alone. 
+
+
+
+
+ Your doctor called.  Your medication is available and can be picked up at your earliest convenience. 
+
+
+
+
+ I did.  However I had not factored in the author's previous note.  I now understand it, thanks to helpful people like Zombiesaurus and not thanks to impudent tards like Zackismet. 
+
+
+
+
+ I actually don't really get this one.  What was Hanners asking?  What am I missing? 
+
+
+
+
+
+
+
+
+
+ Engineer + Nerd + a bit of leetspeak = test_subject9446 
+
+
+
+
+ My horse is amazing. 
+
+
+
+
+ Mmm sweet lemonade 
+
+
+
+
+ Hope he's not allowed to run with those hands. 
+
+
+
+
+ I live near Durham.  If your wedding is half as awesome as your save the dates, I might just come crash it. 
+
+
+
+
+
+
+
+
+
+ The 1990's called.  They just got a call from the 1980's who say they want their joke back. 
+
+
+
+
+ Even better ideas...
+Spell out her name with crops in Farmville.  Send her a screenshot.
+Post videos on her wall of you singing romantic songs.
+Poke her.  On Facebook.  And in real life. 
+
+
+
+
+ 50-50-90... 
+
+
+
+
+ My Queuing Theory textbook...this zombie is going to get a face full of probability theory and Possion processes. 
+
+
+
+
+ He just disabled his account.  Did...did..we win? 
+
+
+
+
+ But...where do they keep it? 
+
+
+
+
+ 1) Boner
+2) Sex
+3) Pregnancy
+4) Birth
+
+Seems pretty straightforward to me. 
+
+
+
+
+ The song was catchy. 
+
+
+
+
+ With something heavy enough to kill it I hope. 
+
+
+
+
+ Darn.  I guess I'll be missing the 8am Monday morning meeting.  And today is Tuesday. 
+
+
+
+
+ So I'm guessing you haven't found the nursing home brochures yet? 
+
+
+
+
+ I only clicked the link because I wanted to see penguins in portals.
+I was not disappointed. 
+
+
+
+
+ I...I...don't get it.  What is he covered in? 
+
+
+
+
+ ...and she turned out to be serial killer...I died two weeks later. 
+
+
+
+
+ I think my favorite Zombieland quote is applicable here:
+
+Time to nut up or shut up. 
+
+
+
+
+ I just discovered that if I type "sqooq" and turn my monitor upside down it spells "boobs".  That made me excited. 
+
+
+
+
+ You posted a wtf pic about too many wtf pics.
+
+wtf? 
+
+
+
+
+ I commented.  But didn't upvote.
+
+Tee hee. 
+
+
+
+
+ Eh, who cares? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It depends on what kind of park...
+Most parks have nice trails, so going on a scenic walk is always an option.  Bitches love scenery.
+Some lake-based parks have canoes/kayaks/paddleboats for rent.  Those could be fun.
+If all else fails, ask them what they'd like to do. 
+
+
+
+
+ tons?
+tongs? 
+
+
+
+
+ Come over the house! We're best friends. 
+
+
+
+
+ "Thou art highly fed and lowly taught." 
+
+
+
+
+ Do you? 
+
+
+
+
+ Red leader checking in 
+
+
+
+
+ I admire your commitment. 
+
+
+
+
+ Ah, but of course Google was tracking him.  We should have asked them for his location years ago... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ True, as electricsheepdog said, I guess it's more of a hoverfist. 
+
+
+
+
+
+
+
+
+
+ Not worth it. 
+
+
+
+
+ If a tree falls on a woman, and no one is around to hear it, what is a tree doing in the kitchen? 
+
+
+
+
+ Leroy Jenkins 
+
+
+
+
+ And that is how I met your mother. 
+
+
+
+
+ I will accept the shattering of your coccyx as recompense for your sin. 
+
+
+
+
+ Defenestrate.  
+
+
+
+
+ I'm glad you kept the arrangements of her desktop icons intact.  That just would have been too much. 
+
+
+
+
+ Wow, this is rather disheartening, but I'd be interested to hear I_R_C's response.  I'd like to think him above this. 
+
+
+
+
+ Buzz look an alien!! 
+
+
+
+
+ In marriage? 
+
+
+
+
+ What are you trying to say? 
+
+
+
+
+ The image links don't work for me :(
+I fail at the internet... 
+
+
+
+
+ Aww, no more bandwidth jokes at the Canadians expense? 
+
+
+
+
+ We all got manners up in this thread. 
+
+
+
+
+ Live every week like it was shark week. 
+
+
+
+
+ I...
+I...
+I...don't get it? 
+
+
+
+
+ "Work work work...he's makes me do all the work around here."
+
+More like Math Blast from the Past 
+
+
+
+
+ Qualiber.
+
+Quality + Caliber.  As in, "she's a high qualiber girl". 
+
+
+
+
+ Whoa.  That's my school's tunnel.  On reddit.  I feel special. 
+
+
+
+
+ Fuck yeah.  Go NC State. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ _ Backs away slowly.  
+
+
+
+
+ Seconded, love CommaFeed.
+Site credit goes to [crapet](http://www.reddit.com/user/crapet) 
+
+
+
+
+
+
+
+
+
+ That's a really helpful list.  Thank you! 
+
+
+
+
+ Whoo. Unite. 
+
+
+
+
+ Tom Cruise. 
+
+
+
+
+ _ 
+
+
+
+
+
+
+
+
+
+ Looks like a Fig Newton to me.  If she turns down a Fig Newton, there's no hope.  Fig Newton's are the shit. 
+
+
+
+
+ Looks like a Fig Newton to me.  If she turns down a Fig Newton, there's no hope.  Fig Newton's are the shit. 
+
+
+
+
+ ...people don't send her candy-grams; they send her candy-kilograms. 
+
+
+
+
+ "Let me play you the song of m..."
+Ah fuck it. 
+
+
+
+
+
+
+
+
+
+ Go on.. 
+
+
+
+
+ Nope, welcome to the Literature Ignorance Club. 
+
+
+
+
+ Yes, Reddit certainly frowns upon all manner of karma whoring. 
+
+
+
+
+ Perhaps due to the many layers of teeth that a shark possesses, this joke is referring to a shark that is currently "toothless" (no teeth visible in the mouth), yet still "has many teeth" (still hidden in the mouth/gums).  Or maybe I'm just way overthinking this... 
+
+
+
+
+ Anyone else get the urge to float a house up there via hundreds of balloons? 
+
+
+
+
+ We must go deeper... 
+
+
+
+
+ Absolutely none taken. 
+
+
+
+
+ [I count four chins](http://imgur.com/bOsYv) 
+
+
+
+
+ That's what you think... 
+
+
+
+
+ Absolutely.  Art should provoke emotions, and this picture represents an adorable random human interaction. 
+
+
+
+
+ I hope black turtlenecks never go out of style.  RIP you brilliant innovator you... 
+
+
+
+
+ It took me way too long to realize why that couldn't happen. 
+
+
+
+
+
+
+
+
+
+ I bet you're fun at parties. 
+
+
+
+
+ I DON'T KNOW WHY WE'RE YELLING!! 
+
+
+
+
+ Class of 2010 here...I saw the belltower reference and hoped it wasn't one of our freshmen :-/ 
+
+
+
+
+
+
+
+
+
+ Just watched that episode... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

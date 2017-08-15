@@ -1,0 +1,600 @@
+ You can see at 1:22 he did the same trick but the camera was lower. Coin or ring, or whatever it was, was on the back of the hand the whole time. 
+
+
+
+
+ At 3:20 they kept the camera low so you couldn't see that he had already put the ring on top of her hand. At 1:22 the camera was higher so you can see the ring was up there all along. Good sleight of hand though that he can drop a ring on the back of someone's hand while moving it without them noticing it. 
+
+
+
+
+ I doubled yours, but LabVIEW crashed when I tried to add an indicator on the end. 
+
+
+
+
+ Oh. My. God. 
+
+You look awesome. That is such a huge change. I dropped just under a hundred total a few years ago and have done pretty good at keeping it off, but keeping the momentum is toughest during stressful parts of your life. Keep the before pictures as reminders of why you're doing what you're doing, and keep up the amazing work. 
+
+
+
+
+ Casey really looks like he wants to shoot Brad Pitt. 
+
+
+
+
+ I have a cool picture I got of my dad when he passed away four years ago. I still haven't put it on Reddit. 
+
+
+
+
+ I wonder the same thing. Maybe I just see the problem because I'm the problem, or maybe I'm playing the blame game with myself. I don't know. I can tell you that her ambivalence to the issue isn't going to assuage my remorse. I'm as dedicated to it today as I was four days ago. It was a petty way to spend a likely cumulative two or three hours a day, and I can be so much better than that.   
+
+
+
+
+ Wow. What an open and compassionate group. Replace masturbating with working out and that's okay, but if I, someone with a career who pays his bills, takes care of his wife, plays with his kid, get's her to bed on time and than has two hours between her bed time and the time when my wife get's home, decides to spend those two hours playing Minecraft (after doing my push-up, sit-up, pull-up, dips, squats regimen, mind you) I'm a teenager who's replacing one addiction with another. Jesus, where does it stop? What hobby is it okay to have as a hobby that doesn't require me join an anonymous club so I stop doing it?  
+
+
+
+
+ Are you implying I'm a teenager? I don't see the point of your comment. 
+
+
+
+
+ Add me.
+
+Edit: I'm still playing Madden 25, just for the record. 
+
+
+
+
+ I did. It was awkward. She said she doesn't see a problem that's affecting us since we're still having regular sex when we can, given our schedules and the baby. But she told me I can do whatever, if I want to quit, she's not going to stop me. 
+
+Fairly underwhelming considering the stress I had built up worrying about telling her. 
+
+
+
+
+ For coming out on the XBox One on day two of no fapping. This'll be a breeze. 
+
+
+
+
+ Oh my god, that background color. I read the whole thing now every page I look at looks blue. 
+
+
+
+
+ Holy shit. I promise not to make this sub my daily journal, but wow. 26 hours in. I did great yesterday during the day and evening. But once the kid was asleep and my wife was still at work (she's a second shifter) things got tough. I'll spare you the grimy details, but I'll just say, my arms are tired. From push-ups. From dips. From preacher curls (more left than right, gotta even these forearms back out.) I also did a shit ton of sit-ups and squats, pretty much anything I could do in the apartment that involved not fapping. I also got a ton of work done. Worked on the decorations for the first b-day party that's coming up, got some code written for a project at work that's a little stagnant, some other stuff. But absolutely no fapping. The toughest part was that porn used to be a reward for myself. Oh look, I finished this, better look at some porn and take care of business. Now I have to figure out other rewards to take the place of it. Working out is kind of a reward, I guess. To keep this up I'll need to find other things. 
+
+I really respect the people on here that have 100 or 200 days. It can't be easy. Hell, I respect the people that have 3 or 4 days.  
+
+
+
+
+ Not claiming quality. As a cert'd welder running a team of guys I'd never allow it. But, the comment said it couldn't be done, not that it couldn't be done well.  
+
+
+
+
+ I've been paying alot of attention to porn. Like, alot. Masturbation is a four or five times a day thing for me. It got much worse after my wife got pregnant, but my daughter is almost one. That means for more than a year and a half I've been masturbating daily, numerous times. Instead of getting work done (I'm a software engineer), instead of playing with my daughter, instead of making sure my wife knows how beautiful and sexy she is. Today it ends. The half hour bathroom sessions with my computer on my lap, done. Long morning showers, no more. Staying up late after everyone else is asleep and doing it in the living room, never again. 
+
+I'm anxious for sure. I've been up for an hour and this is a usual fap time for me. I used to rub one out before heading off to work while everyone else was sleeping. This morning I left the blinds open when I came out to the living room. We're in a first floor apartment, so yanking it out with them open would lead to a quick phone call to the police. My plan is that hopefully the threat of that keeps me from making the decision to just do it. 
+
+I'm in ladies and gentlemen. And holy shit is this difficult.  
+
+
+
+
+ In, no porn, no masturbation. Goal: Quit excessive pornography and start paying attention to my wife. I'm starting two days late, and I've only been up for a half an hour and I'm already jonesing a little.  
+
+
+
+
+ Awww, we feel super bad about it. Oh wait, it's the internet, we don't care.
+
+(Also, I upvoted you for spite.) 
+
+
+
+
+ If you took a piece of non-ferrous metal and using a super-hot ray gun and a chunk of filler material join it to a piece of ferrous metal you'd be arrested and tossed in jail for blowing /u/ross340's mind. 
+
+Educate yourself.
+
+[Re-think your welding knowledge](http://youtu.be/YEQ0dL4R-rQ) 
+
+
+
+
+ Congratulations. You have hit the nail on the head of why so many text-based programmers hate LabVIEW. Enforcing dataflow doesn't come naturally to people learned in text-based lanuages. Sometimes neither does handling errors. Hence they use what looks like the easiest way to enforce a sequence. VIOLA!!! A nasty sequence structure is born. Tens or hundreds (yes, I've seen it) of sequences, all thrown together when a simple error terminal would've done the trick. 
+
+Consider yourself past the hard part.  
+
+
+
+
+ Lorenzo gets his shoulder down too. 
+
+
+
+
+ Q-Tips and rubbing alcohol. 
+
+
+
+
+ Needs more Sail 
+
+
+
+
+ Like a NES cartridge, right? 
+
+
+
+
+ Yep, another one of LabVIEWs secret .vis that you'll only ever discover reading white paper, or browsing vi.lib. 
+
+
+
+
+ Try mine. It works just fine. Why wouldn't you just put the whole array in as a variant? The first .vi I call there "VariantType.lvlib:Get Array Info.vi" gets the array info from out of a variant. You can get the number of dimensions, the datatype of the array, and the dimension lengths. 
+
+
+
+
+ [Well, you could do this...](http://i.imgur.com/HP2hHQm)
+
+Variants will let you pass in whatever type you want and cast the variant to that type. You have to be careful though and handle errors, in case someone passes in an unsupported type (i.e., if it's not an array of something, this will throw an error. In essence, you're hiding the typecast. 
+
+[Here is how it would be called.](http://i.imgur.com/TLyO09T)
+
+Edit: And also, in essence, you're still duplicating the code, just within the case structure. Someone else might have a way to do it without so much duplication, I don't, it's 6AM. 
+
+
+
+
+ Can you give us a screenshot or post the code? I'm not quite sure I understand what you're getting at. 
+
+
+
+
+ I'm sorry, but what are you going to do with 10-30 seconds of notice? It would take you that long to figure out what was going. 
+
+
+
+
+ It's base-10 logarithmic. A 7 has 10 times as much ground movement at the epicenter, than a 6. If you're talking about the energy released though it is 31.62 times more energy than a 6. But yes, I understand that there have been (much) more powerful earthquakes than this. However, when placed in retrospect with the two tornadoes I've lived through I would much prefer this to that. 
+
+
+
+
+ 25 of them so far, 2.4 or lower. I think we're safe. 
+
+
+
+
+ Glad it's just your shit and not you. 
+
+
+
+
+ I'm excited that I got my cherry popped. so there's that. 
+
+
+
+
+ Note to self. Buy a desk. 
+
+
+
+
+ But, seems to be the worst since the 'worst'. At least in the Bay area.  
+
+
+
+
+ My Kansas safety mode was to hold tight in bed. If I didn't hear tornado alarms, I don't know what to do apparently. 
+
+
+
+
+ I feel your pain. Wife and baby are happily snoring. I'm /r/nosleep for the rest of the night.  
+
+
+
+
+ Shit. All IKEA here, I'm fucked. 
+
+
+
+
+ Can confirm, didn't knock my bike over in Novato. 
+
+
+
+
+ Yeah, good to hear lifetime Californians at least woke up from it. I'm from Kansas and I guarantee I'm done sleeping tonight.  
+
+
+
+
+ Nope, never felt THAT before. I'd think I'd remember it.  
+
+
+
+
+ Not afraid, just full of adrenaline. Pretty shitty way to wake up. 
+
+
+
+
+ Can confirm. KS transplant for 3 years now. Fuck is all scared out. 
+
+Although, if that's the worst, I'll take that over dodging tornados. 
+
+
+
+
+ Can confirm. 20 seconds of WTF in Novato. I'm from KS since 3 years ago, so yeah, /r/nosleep for me now. At least with tornado's there'd be a storm I was sleeping through or something. 
+
+
+
+
+ Honestly, if that's the worst you can throw at us, I'll take that over the tornado's I was dodging three years ago in Kansas any day. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now. USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Uninstall and reinstall it. I had this problem and that fixed it. 
+
+
+
+
+ My wife donated her breast milk to a baby (Riley) in my daughters playgroup for the last four months because Riley was both allergic to everything (dairy, soy, wheat, eggs, and corn) and to her own mother's milk. She was also diagnosed with failure to thrive. She has slowly made gains, but she is almost 14 months now and still only in the 3rd percentile for development. I know you're probably going through some tough stuff right now, but make sure you remember to focus on what's really important, your family's love, and not on the issues that you're working through. One thing I noticed with Riley was that she has made the most significant leaps forward when her family life was relaxed and unstressed and the biggest steps backwards when the stress and panic levels start to rise. If you need anything at all man, we're here for you. 
+
+
+
+
+ Ain't that the truth. There are lots of days where I'm having just as much fun playing as she is. Good on you for showing him what really matters in this part of his life, good fun and good family time.  
+
+
+
+
+ Immediately thought of the same thing. Like, I haven't heard the song in years, but I can't hear the name Craig without going, oh, Craig Christ?  
+
+
+
+
+ To be more clear, the Nintendo Entertainment System (an 8-bit system) had an available color palette of 48 colors and 6 grays. Up to 25 simultaneous colors could be used without writing new values mid-frame: a background color, four sets of three tile colors and four sets of three sprite colors. The NES palette was NTSC rather than RGB with a resolution of 256x240. A total of 64 sprites may be displayed onscreen at a given time without reloading sprites mid-screen, although many devs tried to push that number with various levels of success.  
+
+
+
+
+ So, I had a USB drive in my XBox which I loaded games and apps onto from the One. I downloaded the app, unplugged that USB and plugged it into my computer, it's not recognized. Do I need two pieces of removable media? Can't I put it all on the same thing? 
+
+
+
+
+ Yep, almost 1 year old here. Rocking in the rocking chair for night-time bottle and story. Backs of the heels, meet my nuts. Thanks dear, no sister for you. 
+
+
+
+
+ Hope he went a few blocks over and got some Arthur Bryant's.  
+
+
+
+
+ And than Arthur Bryants. 
+
+
+
+
+ Keep your head up. Be there for her and the rest of your family. Keep being an awesome dad. 
+
+ 
+
+
+
+
+ Read some stuff. Start with the horrible movie books so you can see that his books are so much better than pop culture has portrayed them. Starship Troopers is a good intro to how he weaves his political views into great sci-fi stories. 
+
+
+
+
+ Or Heinlein? 
+
+
+
+
+ Right. I missed the 25 year thing and kept wondering, why are there no Heinlein books on here? 
+
+
+
+
+ Thank you. My life was about to be forever parenthetical.  
+
+
+
+
+ No need to be kind, just be honest. Looking good and noticeably on your way to looking smoking hot. 
+
+Don't get down on yourself for the loose skin right now. You look amazing and are on your way to being a healthy version of yourself.  
+
+
+
+
+ I'm not against the free-market or people succeeding in life. But how the hell do we live in a society where this is a necessary invention? When did we get to a point where remembering your phone takes a higher priority than remembering your baby/infant/toddler? 
+
+I heard about the deaths and it stunned me when people on FB started talking about steps to take to help not forget your child. One person suggested leaving something in the backseat that you'd never forget, like, your phone or your shoe. I read that and thought, hmm... what's something I could put in the backseat that I'd never forget... OH, yeah, my child. Are you kidding me? The only thing I can think is that these people intentionally left their children in the backseat thinking it was okay and than when confronted, came up with the 'I forgot' story, because I don't think I could live in a world where I truly thought that this many people could actually forget they had a baby in the backseat. 
+
+
+
+
+ Snow Day. I don't know why. I'm 36 years old, still love it. 
+
+
+
+
+ Replace Crazy, Stupid, Love with A Place Beyond The Pines for the tragedy version. 
+
+
+
+
+ Pick nose...
+
+You delicately insert your lockpick into your nose until your brain begins hemorrhaging, instantly killing you. 
+
+
+
+
+ How many times are you going to say that in this thread? As many days as Bill Murray re-lived? 
+
+
+
+
+ I thought you were asking why everyone says "Goodfellas" when you see a steady-cam shot. Yes, it was used well in Goodfellas, but's it's been used well in other movies. I think my most enjoyable steady-cam shot is in "Swingers" when they're making fun of "Reservoir Dogs" ripping off the "Goodfellas" steady-cam shot while doing the exact same thing.  
+
+
+
+
+ Ahhh, old Fronty Backsies. I love that place. 
+
+
+
+
+ It's not. They're just assholes. There's no carpool lane there for another 8 miles or so. 
+
+
+
+
+ One of the company's that does this is named Ocean Sound. How do I know? Yes, I used to sell shitty speakers out of the back of white vans. When I was 18, it was great money. We paid 25 bucks a set and sold them for whatever we could get. One or two sales a day was all you needed. Get five big ones in a day, take a week off. But my morals got the better of me after 3 or 4 months. Still, yeah, don't buy them unless you talk them down to under 50 bucks a piece.  
+
+
+
+
+ WH:SM for the One? 
+
+
+
+
+ Was that when you started running your air conditioner for the summer? I found that re-calibrating with the A/C and a fan running at the same time really helped. 
+
+
+
+
+ I stand directly in front of the XBox saying it. I finally break down and reach the last six inches to press the 'X' with my finger. 
+
+
+
+
+ Yeah, when I fought him I was teamed up with a couple of Titans and I was a Hunter. They handled the ground crew while I disassembled the Prime with my sniper.  
+
+
+
+
+ I'm really surprised that you got all of those timelapses done without a single other person coming to dip their balls in it. 
+
+
+
+
+ I like the second guy that runs after the car once he realizes that he's way faster than the first guy running after the car. 
+
+
+
+
+ Good idea shopping the 1 out of the speedometer.  
+
+
+
+
+ It was a fight with our nine-month old when she was five months old. But things are great now. The solution. The dreaded cry it out. Sorry, I know it's not what you wanted to hear. My daughter was an angel during the day but when bed or nap time came she turned into a terror. One night we decided to just do it. It was midnight before we were all asleep after starting at her normal bedtime of 6:30. But she finally did it. After a few weeks or so it was second nature, bottle, jammies, bed, sleep. We also had to play the cry it out game when she wouldn't take a bottle too, and went ten hours without eating before she acquiesced.  
+
+
+
+
+ I wonder if it feels any different.  
+
+
+
+
+ Check out the pumping bra. You'll forget about every ounce of sexiness in preggo gear ever again. 
+
+
+
+
+ Invite a friend over, have him park the same distance behind his van.  
+
+
+
+
+ I wish I had more than one upvote to give you. Teaching yourself to brake properly (a.k.a. using both front and rear brakes) is much safer, and that is the proper procedure for braking on any motorcycle on asphalt. 
+
+
+
+
+ Yeah, its getting so hard to find good charities these days. Good luck, and good on you for helping her be a good human being. Your doing a great job as a dad right now. 
+
+
+
+
+ That's awesome, so good to see people helping their children learn  to be a good human being.
+
+On that note, please research the foundation your donating to. Locks of love does not (last I looked) do anything with the hair except make wigs and sell them (not to people who need them) and than gives a small percentage to cancer research. Wigsforkids.org or Pantene's Beautiful Lengths are both good organizations. 
+
+
+
+
+ The watermelone and grape soda? Yeah, I was thinking the same thing... 
+
+
+
+
+ The throwing knife is awesome. With the right armor I can melee one enemy, almost immediately throw the knife to kill the next guy, and than pop a third guy in the head with the sniper I have equipped. Great when you're doing some camping and get snuck up on from behind. 
+
+
+
+
+ Got the second one, first one seems used already too. Thanks America, Fuck Yeah. 
+
+
+
+
+ As the title says, I've had a few clients now that I've taken to my own and stopped working for the man. But I'm new to website development, and I've found myself asking similar questions to these clients each time, or I'm missing vital information that I don't realize I'm missing until I'm a third of the way into the project. Was just wondering if any of you had any boilerplate solutions for the new client situation that you'd be willing to share that have helped ensure you're getting most of the neccesary details right up front. 
+
+Obviously, there's no one size fits all case here. I'm just looking for something that fits 90% of all of my applications. 
+
+
+
+
+ I like Neal Stephenson (Diamond Age, Zodiac, etc...) William Gibson (Neuromancer, Idoru,) Sean McMullen (Greatwinter Trilogy,) and Storm Constantine (Wraeththu Chronicles.) 
+
+Recommend me something new that'll keep me entertained. I like series of books or books that keep me busy for a while. 
+
+Thanks in advance. 
+
+
+
+
+
+
+
+
+
+ Is there a thread (or sub) for this already? I've started making some custom tracks and I'd love to get some peoples opinions of them.  
+
+
+
+
+ A friend of mine and I have been trying to motivate each other to get into shape and over lunch we both go for a jog together. She wasn't at work today and instead of sitting at my desk and eating a donut (which is what I would've done not too long ago) I got up and went for a jog at lunch anyway. 
+
+
+
+
+ I had a customer that needed a search algorithm that fit well for the golden search algorithm. Here's my implementation of it;
+[SNIPPET](http://i.imgur.com/uKrYlch.png?1)
+
+
+The basic idea is that we change 'N' until an analog measurement is within a specific range. The poly equation is representative of the type of output we can expect in respect to 'N'. The equation isn't guaranteed though, or I'd just reverse poly to find 'N'. Feel free to comment on implementation or things I could have done better or differently.  
+
+
+
+
+
+
+
+
+
+ Played a bunch of matches tonight with Endless, Oberon, Pilot, Taurotragus, and Inkarnatax21. Good times were had. 
+
+I probably played the worst three attrition matches of my life, but still had fun, leveled up a few times, tried out some new stuff, found a few good runs from the other guys, and got a few pointers. I also really enjoyed finally playing with a team that would talk. Knowing what was going on and who was where made LTS, CTF, and Hardpoint all that much more fun to play and easier to win. 
+
+Thanks for the good times guys, see ya this weekend. 
+
+
+
+
+ They already have the animation from the campaign so why not? 
+
+
+
+
+ Admittedly. Not much. I've played through both sides and missed 90-95% of the story. If it wasn't missing the talking during the match, than I was missing the storyline stuff while fiddling with loadout/burn cards, etc...
+
+But, as I was re-playing as the IMC, I did notice once thing. It's looking like most new players are jumping right into the campaign. This slots them into the Militia (I'm assuming everyone plays Militia first). By the time they've finished the Militia campaign, they've leveled up, gotten a bit more comfortable with the controls, learned the maps a bit, maybe went out and played the standard modes some, and than come back and joined the IMC. It's almost like training for the side that would have some sort of training regimen in place. Granted, it's a small detail, but it made me go, "Huh." when I realized it.
+
+Thoughts?
+
+EDIT: Seems like I was wrong and it randomly places you as Militia or IMC. So much for my thinking, it just always seemed like the IMC pilots were all level 10 or above and I was seeing lots of single digit level Militia pilots during the campaign. 
+
+
+
+
+ Well, it was bound to happen. I was kicked by a Spectre, that's what I get for trying to get close enough to hack me an army of robots. 
+
+
+
+
+ I've been playing pretty much non-stop since they opened the beta and saw slow-down once when there were 5 titans on screen at the same time. Other than that, I haven't seen any buggy glitches or crazy server wait times or weird problems. 
+
+Anyone seen anything, or does anyone know if they've been going crazy behind the scenes? 
+
+
+
+
+
+
+
+
+
+ So, I thought I'd put this here instead of anywhere else on here so it would get some real answers, but, how do you handle something like what Richard Sherman did after the championship game tonight? Here's the link in case you missed it. [LINK](http://www.youtube.com/watch?v=G7UPXzHShpc) 
+
+I want my daughter to be able to watch sports, but as I sat there watching the game with my 9 and 7 year old nephews I wondered to myself, what do I tell them about how much of an ass this guy is? From their point of view they thought it was cool the way he acted and than of course, having it re-played a hundred times only made it seem cooler each time. 
+
+So, dads of reddit. What do you do about the sore losers and how do you explain to your sons or daughters that even though it may look cool, it isn't? 
+
+
+
+
+
+
+
+
+
+ So my wife went back to work last Monday after her three months off, post-birth. My mom is flying in this Sunday to be a nanny for us while we figure out daycare stuff. That meant these last two weeks I've got to spend plenty of quality time with my daughter. The only downside was she's not been too keen on the bottle. Other than that she's got a fairly structured schedule now, is working on her push-ups and rollovers, can sit up now, and I feel fairly confident that I'm getting a 'Daddy' out of her tomorrow.
+
+Not sure how often the men get this much bonding time this early on, but I gotta say, it's been awesome. Anyone else get to experience this and how did it go for you? 
+
+
+
+

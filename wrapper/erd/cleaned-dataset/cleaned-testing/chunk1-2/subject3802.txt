@@ -1,0 +1,1325 @@
+ Have you looked in the settings for the messages app? For some reason it isn't enabled by default.  
+
+
+
+
+ If you're planning to root and ROM, I'd go the GS2 because its a little cheaper and has better almost everything except screen. If you're going to stay stock then it's definitely Nexus, no comparison. 
+
+
+
+
+ Probably running a custom rom. Guessing from the "swagger" toggle, it looks like AOKP with a themechooser theme. 
+
+
+
+
+ In all honesty, if you want to get your hands on new updates as soon as they come out and you don't have a nexus device, you better be prepared to root. It's either root, or wait. 
+
+
+
+
+ Custom shortcuts in the nav bar? Nope, it's [AOKP!](http://justreboot.files.wordpress.com/2012/04/jt_aokp1.jpg) 
+
+
+
+
+ The new notification shade looks... amazing. 
+
+
+
+
+
+
+
+
+
+ Galaxy S2. 
+
+
+
+
+ What about people with unsupported devices but are using unofficial builds? :( 
+
+
+
+
+ No. You cannot uninstall system apps without root, regardless of what launcher you use. 
+
+
+
+
+ Incorrect, this will only allow you to uninstall userspace apps. Many bloatware apps are put on the system partition of the phone and cannot be removed without root access (eg try to remove stock messaging or contacts - even though they are not bloatware they are system apps and you will see what I mean) 
+
+
+
+
+ There are plenty of ports on the SGS xda forums, it only takes a few hours for some of the devs to port over new builds once they've been posted. [Here's what I'm using.](http://forum.xda-developers.com/showthread.php?t=1712185) 
+
+
+
+
+ Juice defender or tasker? 
+
+
+
+
+ It can handle up to 32gb, just not moving or copying anything over that's larger than 4gb at any given time.  
+
+
+
+
+ A cat meowing? 
+
+
+
+
+ Calendar  menu  calendars to display  
+
+
+
+
+ I think you're forgetting the important fact that Google voice is nowhere near being internationally available. They can't merge functionality on an os that reaches all over the world, when that functionality is only available in a few select places. Until voice is universal it has to be a separate app.  
+
+
+
+
+ Yay, this post again! Seriously, if you don't like an app then why have it installed?  
+
+
+
+
+ Yes right now CM7 has way more features than 9, but that is because of the CM team's choice to focus on stability and clean code before features - there were posts saying that some features in CM7 were "dirty hacks", and they're doing everything a much cleaner way this time round, so features will be slow. In the meantime I suggest an AOKP-based rom, as they have more features atm. 
+
+
+
+
+ Fyi cm9 nightlies are pretty damn stable.  
+
+
+
+
+ I read somewhere that once the battery drops below 5% you have to boot into webos to get it to charge.  
+
+
+
+
+ The development scene for the i9100 is more at xda.  
+
+
+
+
+ Reddit news is awesome, but its not flawless. (I'm using it now) Alien Blue just feels so nice to use.  
+
+
+
+
+ But none of them have the polish that Alien Blue does.  
+
+
+
+
+ Strangely enough this actually never happened to me. The worst its done is refuse to load content and a force-kill and reopen usually fixes that. 
+
+And if you don't like a piece of software, nobody is forcing you to use it.  
+
+
+
+
+ Flash a stock rom with Odin.  
+
+
+
+
+ Well it certainly seems that way haha. Tell me, how is Verizon's new data plans relevant to Android? Sure, you use Android to access the internet but posting about it here makes about as much sense as posting about new cable infrastructure in r/windows. 
+
+
+
+
+ In a single country. Everywhere else it doesn't apply. 
+
+
+
+
+ Oh, we're still doing this joke? 
+
+
+
+
+ I watched The Shawshank Redemption for the first time ever a few days ago. 
+
+
+
+
+ While we're at it, can we lose the carrier posts that have NOTHING to do with android? 
+
+
+
+
+ Not defending the people that do suggest it, just giving some insight on why they do. :) 
+
+
+
+
+ Come and join us on the dark side, [AOKP](https://dl.dropbox.com/u/20526467/Screenshot_2012-06-12-20-56-54.png). (its only green because its currently charging, is otherwise blue.) 
+
+
+
+
+ While valid for Nexus devices, which come with vanilla Android out-of-the-box, I think a lot of the root/rom suggestions stems from the fact that fans of the platform don't want a users view of Android poisoned by a shitty manufacturer UI - I know a lot of people that have HTC phones and they complain about bug X and not being able to do feature Y, which, upon further inspection turns out to be because of shitty, bloated sense. 
+
+
+
+
+ Its a feature that a lot of custom roms have, namely CM9 and AOKP. 
+
+
+
+
+ Solid explorer has all this. You don't even need to install the app to know that, its right there in the description... don't simply dismiss things immediately, investigate.  
+
+
+
+
+ To build a home - cinematic orchestra 
+
+
+
+
+ What features does Solid explorer lack in comparison to your current one? I find it suits all my needs, its very functional.  
+
+
+
+
+ Slim ics is available for the Gnex also.  
+
+
+
+
+ Its simply because the devs didn't code it into the app.  
+
+
+
+
+ Hey look everyone, this guy doesn't have **Facebook!**  
+
+
+
+
+ Also comes with some pretty sweet wallpapers.  
+
+
+
+
+ I think I may be the only one who picked up on the [reference.](http://www.snopes.com/radiotv/tv/bluesclues.asp) Unless it was unintentional... 
+
+
+
+
+ HaxSync will sync your FB profile picture to your Me contact on your phone, resulting in [this](https://www.dropbox.com/s/3l279pzzdp1tuap/afterfocus_1339210708604.jpg). 
+
+
+
+
+ S2e 
+
+
+
+
+ How do you do it though? I'm trying to place one on top of the other and it just moves to the nearest available space. I'm using the free version.  
+
+
+
+
+ Uninstall the CF3D binary, and then remove the app completely.  
+
+
+
+
+ As long as custom roms exist, the android phone will always be dependent on the computer.  
+
+
+
+
+ The only thing stopping me from completely swapping over to Reddit Sync is comment editing/deleting! 
+
+
+
+
+ https://play.google.com/store/apps/details?id=com.smart.swkey 
+
+
+
+
+ Thank you so much! I've been experiencing this issue for a while now! 
+
+
+
+
+ What's the benefit of using this over an ad-hoc network which can be done with your laptop/computer already? 
+
+
+
+
+ As a person currently suffering from depression, fuck you. Do you mean to say that the fighting it has taken me to still be alive to type this out is meaningless? Depression is a cancer of the mind and soul, and there have been studies that show *physical manifestations* of depression in the brain. What gives you the authority to dismiss scientific studies on this *life altering disease*?  
+
+
+
+
+ I think that per-app DPI requires some serious hacks and modifications to the android framework itself. I don't think its possible without a custom rom, unfortunately.  
+
+
+
+
+ Ah that makes more sense. Thank you for explaining. :) 
+
+
+
+
+ Why don't you just have it utilize the Share function instead? That way you can simply hand over the information to wherever they want to share it (ie if they want to share it via some other messaging service).? 
+
+
+
+
+ Only thing I'm waiting on for this app is comment editing/deleting.  
+
+
+
+
+ I enjoyed the remade multiplayer. But I wish they kept both versions. And the Xbox version was more censored. :( 
+
+
+
+
+ Not until reading this thread did I realize that this company is responsible for my childhood... 
+
+
+
+
+ I know that, but just letting people know its a feature of AOSP, not CM.  
+
+
+
+
+
+
+
+
+
+ Tell me what its like to look in the mirror and hate everything that you see. Tell me how it feels to know that for every second of happiness you are going to have an hour of suffering. What does it feel like to look around yourself, see the people that care for you, but theyre so far away. You scream and yell and cry but they cant hear you. Theyre looking, looking for you. Where did you go? What happened to the happy little boy that lived life to the fullest? Why am I so tired, tired of this world and this life? Every snide remark and ignorant comment feels like a punch to the gut. Im being eaten alive by a disease whose first mission is to knock out your communications. You cant tell anyone about the dark cocoon youre wrapped in. Wave after wave it crashes down on you, youre drowning, gasping for air. In between the waves you might be lucky enough to see a bit of sunshine, but only for an instant before your sight is robbed from you once more. What is a life without true happiness? Where the best feeling is no feeling at all, and sleep is the only real escape? Can a person really be blamed for wanting to escape such a hopeless place? What is living if it is simply out of guilt for the pain you would cause loved ones? If only I had gotten help sooner. 
+ 
+
+
+
+
+ Not sure how to start these things. I'm 16 years old and I was diagnosed with depression about eight months ago, but the effects of depression and suicidal thinking I've been experiencing for much longer, I'd say about 2 and a half years. 
+
+I've had suicide "attempts" but I view these only as testing the waters, seeing just how close I can get to death before I back out. The most recent one was the most frightening. When I do this stuff to myself an intense clarity comes over me. It is quite literally a calm before the storm: everything is crystal clear and in those moments I swear I knew the answers to the universe. I was ready to die that night, but again I backed out. Each time I get ever closer. 
+
+Right now I'm the happiest I've been in a long time; just gotten out of hospital and I'm on new medication, making huge strides in therapy. Yet I cannot shake this feeling of utter dread. This feeling of knowledge - the simple plain fact that my time is limited and when I die, it will be by my own hand. I am my own worst enemy. It feels like trying to hold up the sky - I can fight as hard as I can but eventually, the time will come when I break and the sky crushes me. I am loved. I can see it, feel it and experience the joy that it brings. But it feels worthless. I am unable to dredge up any meaning from life. I know I should try harder in school, but I just don't - I don't see the point in it. I want to make it clear that I am very happy, content with my life how it is at the moment. But similarly to how a terminal cancer patient is enjoying their last days, I enjoy my last days with those that I love. I know that people will be hurt - my family, friends, girlfriend will be absolutely crushed. But I feel like its not up for me to decide - the darkness within me is too powerful. It is relentless and I am its prisoner.  
+
+
+
+
+
+
+
+
+
+ My plan allows me to use unlimited Facebook with 200mb of data/month for everything else. I'm currently using Onavo Count to manage my data usage but it's inaccurate as Facebook usage isn't metered by my carrier. Does anyone know of any data-watching apps that would allow me to add an exception to any connections going to facebook.com? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ depression is
+
+turning your phone off because you think nobody will try to text or call you anyway
+
+having to deactivate your facebook so you arent tempted to impulsively post depressing and attention seeking statuses
+
+being paranoid to the point where you ruin your friendships with people before they have the chance to hurt you
+
+walking into your room and collapsing onto the floor and into tears as soon as youre out of everyones sight
+
+having to say what? all the time because you cant seem to focus on what anyone is saying
+
+looking at your school books and being unable to read or write anything because you just cant seem to think at all
+
+getting angry at people when they touch you
+
+not being hungry or feeling sick when you try to eat
+
+the feeling of a constant weight on your shoulders
+
+always being tired, no matter how much sleep you get
+
+staying up all night because you dont want the next day to come
+
+lying to your friends, psychologist and parents, telling them that youre getting better because you dont want to stress or worry them anymore
+
+feeling like youd be better off dead
+
+seeing the worst in people at all times
+
+being unable to take a compliment or accept anything nice towards you
+
+testing people to see if they actually care about you
+
+overthinking things to the point where a kind gesture can become a hateful insult
+
+spilling your whole story to people again and again in the hopes that maybe someone will save you
+
+not being able to take a joke
+
+having to fake a smile all day
+
+hurting the people that you care about the most
+
+asking yourself why cant you just be happy? on a daily basis
+
+being constantly judged by people who have no clue what youre going through 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 16, depression for 2+ years. something tipped me over tonight, tried to hang myself in my closet but clothes rack/metal bar thing broke from my weight... i blacked out for a few seconds and woke up on the floor. i don't know what to do. i'm such a fuck up, i can't even get suicide right. 
+
+
+
+
+ My Facebook app refuses to load the newsfeed or anything for that matter. Instead of posts it just says "no content" in the newsfeed, and trying to load any other page just throws me an error "no content" or "connection timed out".
+
+I can connect to the mobile site fine and everything works.
+
+Rocking a Galaxy Gio, running CM7.2 (as seen in my flair), done all the usual things, rebooted, logging in and out, cleared data/caches of the app, uninstalling and reinstalling and I'm still at the same place. Anyone had this problem before? 
+
+
+
+
+ Why? Just why? I hate myself. It's like I'm just too used to being depressed and sometimes it just feels more... comfortable. Like being happy and normal is an effort for me. I don't want to feel like that. Why does happiness come so easily to everyone else? Why do I have to try? Why do I have to lean on this stupid green pill like a crutch? What happens if I just stop taking it every morning? Do I just go back? All the "progress" I've made, does it just disappear? I'm so angry and frustrated because I can see myself hurting people that are important to me. I just want someone to understand. I hate this. I want to be better. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Would like a few people to squad up with on the weekends. c: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I know there's plenty of guides in the sidebar but the thing that I find myself having most trouble with is simply the vocabulary and lingo that is used in this game - I'm trying to read guides and posts on reddit and I end up coming away more confused than I already was! If someone could point me in the right direction, that would be great, because I've totally enjoyed the few games that I've played. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I know that there is already a reddit group on flickr, but would anyone be interested if I decided to create a flickr group purely for people to post their photos for the assignments into?
+
+Edit: Due to all the positive feedback, I went ahead and created [reddit photoclass2012a](http://www.flickr.com/groups/1828866@N24/) on flickr. :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's an online sketching/drawing site, based on Flash I think. When you draw it automatically draws lines in between your lines, sort of like a spider web. It's hard to describe.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hey there /r/photography. I've got a bit of a problem with my camera.
+
+I recently bought a second-hand Canon 300D (the first Digital Rebel) from eBay for $350. I've been using it for about a month now, no problems. The camera came with two CF cards; one 512mb and a 128mb.
+
+When I first got the camera, I put the 512mb card into it and hadn't taken it out until last night (I don't have a CF card reader so I simply plug my camera into my laptop and transfer the images that way, so there is almost no reason for me to take the CF card out.) I was planning to take more pictures than usual today, as I was going out with a couple of friends and I tend to take quite a few shots when I do; so I decided to make sure the 128mb card worked, since I'd never tried it before.
+
+This is where the problems started. I replaced the 512mb card with the 128mb card and turned the camera on. When I do this, it takes much longer to turn on then usual ("EOS" is displayed on the screen for about fifteen seconds, as opposed to the normal one or two before I can start taking pictures). The screen then starts flashing with an "Error 02". 
+
+I googled around a bit, and apparently Error 02 has something to do with the card and not the camera, and it suggests to format the card and try again. I tried to format the card on the camera, but the error wouldn't let me access the menu to do so. I simply wrote off the card, deciding that I'd pick up a 1GB card from an electronics store as soon as I could to use instead.
+
+No problems, the 512mb card had done me good so far. I'd just have to be scarce with my picture taking.
+
+So then I go to swap the 512mb card back in. The camera turns on as normal but the CF reading LED (which usually flashes for about ~1 second before I can save pictures to the card) only flashes once, and then I get a message on the screen saying "Full CF". Which is weird because I know for a fact that it's not. So I went into the menu, and tried to format the card. Before I format the card, it gives me information on the space - "2.7mb used of 3.8mb" - which obviously can't be right because it's a 512mb card.
+
+So I go ahead and press format and then I get an "Error 99" on the screen. A google search of the error brings up mostly results about cleaning the lens connection on something similar; which I know is not the problem because the shutter works just fine when there isn't a CF card in there.
+
+So has anyone experienced this before or know of a place I can take the camera? I'm not sure where I'd go to get it fixed, given that it's quite old. 
+
+
+
+
+ Hey there, /r/Android. I just recently got my first Android phone (yay!) but I've been a long time android researcher and /r/Android lurker.
+
+Anyway, I'm looking for an app that makes the backlights for the touch sensitive buttons on the Galaxy Gio flash or pulsate when I have a missed call/unread message/other notification - basically emulating a notification LED. Does such an app exist? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Australia has had metered internet usage ever since I can remember (I'm only young, so that doesn't really mean much - but we've had capped usage for *at least* five or six years). I fail to see why it's such an issue in Canada - if your cap doesn't have as much data as you would like, then doesn't it just make sense to upgrade your broadband plan? Or am I missing something important here? 
+
+
+
+
+ I just bought this phone online, and I can't seem to find **any** custom ROMs for the Backflip - my Google-Fu must be weak tonight.
+
+The reason I want a custom ROM is because - frankly, Motorola's custom UI **sucks**.
+
+*"If you knew you didn't like MotoBlur, then why did you buy the Backflip in the first place?"* - It's currently the only Android phone available to me through the carrier I want   the price I am willing to pay. Besides, I know I can just install LauncherPro and be done with BlurHome, which is my prime concern anyway. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hmm okay, I suppose it makes sense that a 1st party flash works better with the body than a 3rd party would. I guess I'll just have to save for a bit longer. 
+
+
+
+
+ Thanks, I'll look into it! As for the slave flash, I can disable the pre-flash in my camera, would it work if I did that? 
+
+
+
+
+ Hey there r/photography. Recently I've been wanting to get an external flash because I feel limited with what I can currently do with the onboard one (I like to do a lot of portraiture). I currently use a Canon 20D and I'm on a pretty tight budget. I was wondering if the [YN-460](http://www.ebay.com/itm/YONGNUO-Speedlite-YN460-Canon-EOS-Rebel-XT-XTi-XTs-/160593250447?_trksid=p5197.m1992 _trkparms=aid%3D111000%26algo%3DREC.CURRENT%26ao%3D1%26asc%3D14%26meid%3D1806658724969685563%26pid%3D100015%26prg%3D1006%26rk%3D3%26) would be suitable for my needs? I mostly do a lot of indoor portraiture.
+
+I was also considering getting a stand/tripod I could mount the flash on (use it as slave). Would [this](http://www.ebay.com/itm/Hot-Shoe-Flash-to-Bracket-stand-Mount-Adapter-Trigger-/220982002387?pt=Camera_Flash_Accessories hash=item33738dc2d3) and [this](http://www.ebay.com/itm/656-200cm-PROFESSIONAL-Light-Stand-Tripod-for-Photo-Studio-Video-Lighting-2m-/290764698956?pt=LH_DefaultDomain_0 hash=item43b2ed354c) do the job?
+
+Thanks in advance! 
+
+
+
+
+ When I replied to your comment I thought you just were talking about how the original AOKP toggles take up too much space, especially since they can't be hidden in the JB notification shade. I was just saying that there is an implementation that takes up as much space as CM's. The only differing aspect of the appearance that I can see is the lines underneath? Otherwise they're pretty much exactly the same. 
+
+
+
+
+ http://www.imgur.com/meJ8k.png
+
+ROM control  toggles  toggle style? I used AOKP ICS fairly extensively and I'm 100% sure this is an option there too. 
+
+
+
+
+ AOKP has an implementation that is identical to CMs, its just a setting change away.  
+
+
+
+
+ [Why wait?](http://fitsnugly.euroskank.com/?rom=cm10 device=i9100) 
+
+
+
+
+ Taken on a beach known as "The Spit" in Gold Coast, Australia. 30 second exposure with the Canon 55mm 3.5-5.6 kit lens.  
+
+
+
+
+
+
+
+
+
+ I don't think it could be done with tasker without a reboot. The only way I can see this working is with the Paranoid Android ROM. Its DPI changing interface is the only thing I know that can change from phone to tablet UI without requiring a reboot (it simply restarts the framework-ui, which takes a few seconds)
+
+OP, your best bet is to install PA and just change to the tablet UI when you need it. It only takes a few seconds. 
+
+
+
+
+ Not the other commenter, but dear god. I hated the snow-only worlds. The second I saw snow I just made a new one. Why was that ever a thing? Biomes are so much better. 
+
+
+
+
+ I'm fairly sure Android turns off mobile data automatically when connected to wifi, all by itself. 
+
+
+
+
+ Thanks so much for the update! Another bug that I forgot to mention seems to have been fixed as well (child comments had a huge indent for some reason). I love every bit about this theme, it should be the official CSS for reddit. Congrats on your work. 
+
+
+
+
+ The result is from WolframAlpha. Makes about as much sense as saying iPhone made your day when you Google searched something funny.  
+
+
+
+
+ Probably something to do with the fact that the notification shade is always there, while the home screen requires a button press.  
+
+
+
+
+ Try clearing data for the app. 
+
+
+
+
+ Pretty Fly for a Wi-Fi 
+
+
+
+
+ Its a comment, and my original comment talks about being able to edit them. Which you said I could.  
+
+
+
+
+ It does, OP just doesn't realize that paragraphs require double enter. 
+
+
+
+
+ Desktop link for those interested: http://www.youtube.com/watch?v=ZeaIvjoH1FY 
+
+
+
+
+ I'm sure he could, but that does not warrant posting incorrect information. Your post adds nothing to the discussion and shouldn't have been posted in the first place. 
+
+
+
+
+ You kinda missed out a pretty vital step in your initial comment
+
+initial comment
+
+You didn't link it in the initial comment, like I had said. You only provided a link after I commented, and I'm sure it was only because you Googled the information after you read my comment - something you should have done before posting and assuming OP is stupid and treating him like so. 
+
+
+
+
+ Why do people constantly try to make out that we're some sort of tight-knit community? Our "reputation"?! This site is frequented by tens of thousands of people daily, and its a total mixed bag. There is no reputation, this does not "have to stop". You're an idiot. 
+
+
+
+
+ You kinda missed out a pretty vital step in your initial comment. Was the OP supposed to just magically know where to find and download the Android File Transfer application? +1 douche points man. Good job. 
+
+
+
+
+ Wow not only were you condescending, but you are absolutely incorrect. With 4.0, android devices default to MTP for file transfer, something that osx does not support natively. 
+
+
+
+
+ How would I go about that? Long pressing the comment only reveals these actions: http://www.imgur.com/SxAI3.png 
+
+
+
+
+ IMO posting about carriers in r/android makes about as much sense as posting about ISPs in r/windows. It has nothing to do with Android, at its core as an OS.  
+
+
+
+
+ Yeah I meant to say r/all, not my Reddit front page. 
+
+
+
+
+ No problem haha. Your post actually reminded me of the feature and inspired me to set it up for myself just now. Also blocked /r/atheism from the front page. RES is amazing. 
+
+
+
+
+ Why is it that so many new Reddit apps lack the ability to edit comments and self posts? Being an app for a mobile device, on which typos are frequent and easy to make, you'd think that this would be one of the first features implemented, right after comment posting. This is literally the only thing keeping me from switching from Reddit News to something like Reddit Sync or even this. 
+
+
+
+
+ The reason these posts make it to the top is because they're being upvoted by people. There are obviously people that frequent this subreddit who want, for whatever unfathomable reason, to have this subreddit spammed with "OMG APPLE SUX!!11". You and me and everyone else in this thread are just going to have to accept the fact that we are in what is called a "vocal minority". The best thing you can do is install RES and filter out any and all posts with the word "Apple" in them from /r/android. 
+
+
+
+
+ lightweight/no-frills
+
+This is kinda what the OP asked for. 
+
+
+
+
+ Solid Explorer has this. Just press   hold on a file and then choose properties, "Calculate MD5" is an option there. 
+
+
+
+
+ That's not the expanded jellybean notifications. They've been doing that since ICS. 
+
+
+
+
+ I politely disagree.
+
+Maybe you're seeing different kind of therapists to me, but I think they provide a wonderful service. Let me tell you why.
+
+Going to a therapist is shit. Even if its helped you at some point, everyone has to admit its awkward, feels pointless and embarrassing. You feel like you're wasting everyone's time and money. Even now, with the knowledge that therapy has helped me make HUGE headway in my recovery, I still dread going to see him. 
+
+But the thing is, every now and then, there's that one session. You walk in, and you just gush and gush and gush. And even if they say something you think is stupid, or you disagree with, the fact that you've got someone there to bounce ideas and solutions for problems you may be experiencing off, is the best feeling. Even if you go to 100 sessions and only 1 of them is like that, it is 100% worth it.  
+
+
+
+
+ This is amazing. Love the support for RES: awesome attention to detail. Please x-post this to /r/pics or something, so the rest of reddit can enjoy this piece of beauty.
+
+Edit: Found a bug. When attempting to visit a subreddit that doesn't exist, the page that suggests possible related subreddits has a bug where the "view images" link is pushed out for some reason. Screenshot: http://i.imgur.com/9473K.png (Windows 7, Chrome) 
+
+
+
+
+ Ah, a quick Google search reveals you're correct (which I should have done in the first place!) but also brings up this: http://www.engadget.com/2011/06/01/netcom-shows-off-microsd-card-with-integrated-nfc-goodness-vide/
+
+Regardless, it doesn't make gilles' comment incorrect, so I retract my comment. 
+
+
+
+
+ I was under the impression that it could become NFC-enabled with the use of a special battery? 
+
+
+
+
+ androidniceties.tumblr.com 
+
+
+
+
+ Not sure if this is stock aosp or a cm feature, but there's a setting for it in the SMS app, like this http://www.imgur.com/3ESck.png 
+
+
+
+
+ Probably the same as the last three times we had this thread:
+
+http://www.reddit.com/r/Android/comments/yu16o/what_are_your_expectations_of_key_lime_pie/
+
+http://www.reddit.com/r/Android/comments/wmfav/what_do_you_want_for_key_lime_pie/
+
+http://www.reddit.com/r/Android/comments/ybqft/randroid_what_features_do_you_want_to_see/ 
+
+
+
+
+ You hear that? That's the sound of a thousand Australian redditors crying because they've been driving past these signs for months without realizing that they're a karma goldmine. 
+
+
+
+
+ SD card slot will never happen.  
+
+
+
+
+ * No. You don't need to be rooted to run Gameboid.
+
+* The BIOS is the firmware for the GBA. It can't be included with the app because its illegal to distribute it - you're technically supposed to rip your own from your existing GBA (which is the same for game Roms). Obviously this can be found on the internet.
+
+* Yes, ROMs from any location should be fine. Just put them somewhere on your SD card and then point the emulator there when you go to open them up. You can leave them in the .zip file. 
+
+
+
+
+ The ability to edit comments is basically the only thing I'm waiting on to switch over from Reddit news. 
+
+
+
+
+ Reddit Sync
+
+Gameboid (not on the market but there are always apks floating around the internet)
+
+Chrome if you're on 4.0+, Opera Mobile otherwise. 
+
+
+
+
+ For your first point, AOKP (The ICS version, JB builds don't have it yet) has the ability to have the pattern or pass code appear after the slider, so you can have both.  
+
+
+
+
+ If you put an AOSP ROM on it (which is what the other replier is suggesting) you WILL lose Touchwiz features like SmartStay and Direct Dial. 
+
+
+
+
+ If you're going to do that then you have to abolish carrier posts as well. How does the fact that T-Mobile now has unlimited data plans have anything to do with Android as an OS? It doesn't. You can't pick and choose between these things. If the Apple posts go then so do the carrier ones. 
+
+
+
+
+ That's a basterdized carrier version. The dispute is between the iPhone and the International Galaxy S, which does bear many similarities. 
+
+
+
+
+ I think it's safe to assume that this was done for the purpose of the photo. 
+
+
+
+
+ Only things missing now are:
+
+* Comment editing
+* View subreddit sidebar
+* The ability to go to the subreddit that a post is from (when viewing from /r/all or the user frontpage) 
+
+
+
+
+ There was a game for N64 where this would actually work. You could control your floating sidekick thing on the same screen with the other controller. It was undocumented in the game manual and I discovered it accidentally when I bumped the other controller while playing. Coolest discovery ever. 
+
+
+
+
+ Why wait? http://forum.xda-developers.com/showthread.php?t=1803672 
+
+
+
+
+ I've been having a weird problem recently, I'm not sure exactly when it started occurring (ie whether or not it began with a recent update to Chrome or some significant change in my system). Anyways, basically what happens is that on some sites, for example on Youtube, I get this weird text clipping issue where half of some of the characters appears to be clipped off/missing. Here's a screenshot http://i.imgur.com/GX996.png (notice the clipped letters in the comment, the most obvious one being the "E"). As you can see I'm running Windows 7.
+
+I assume its either a font issue or something to do with something called Windows Cleartext or ClearType, I can't remember what its called or how to reach the setting in control panel.
+
+Also, now is as good a time as any to ask why the look of disapproval ( #3232;\_ #3232;) appears as 2 boxes for me (see screenshot: http://i.imgur.com/K3ddQ.png)
+
+Any help for either of these issues would be appreciated! 
+
+
+
+
+ Assuming you have the international version (i9100), flash back to stock using Odin and one of the roms found in this thread: http://forum.xda-developers.com/showthread.php?t=1075278
+
+Afterwards, use this guide to root: http://forum.xda-developers.com/showthread.php?t=1499331
+
+And then, once rooted, you can SIM-unlock your phone using this method: http://forum.xda-developers.com/showthread.php?t=1064978 
+
+
+
+
+ Probably because TWRP isn't available on all phones, whereas CWM (almost) is, and its usually the first thing that gets ported to a phone. Its that way simply because it was around first. 
+
+
+
+
+ I was under the impression that Odin was leaked by a rogue Samsung employee? It would explain the total lack of documentation on the program and the fact that any and all download sites for it aren't affiliated with any official Samsung website. 
+
+
+
+
+ You really should look into rooting and flashing an ics/jb rom. It'll feel like a new phone.  
+
+
+
+
+ http://forum.xda-developers.com/showthread.php?t=1814256 
+
+
+
+
+ If its a replacement then you can restore a nandroid backup from your old device onto the new one.
+
+umm, why am I being downvoted? 
+
+
+
+
+ The trouble is, without personally knowing you, its extremely difficult to give advice/extend a helping hand without it sounding super generic. I can't tell you that your life is worth living, or point out the good things in your world or tell you who to talk to. Possibly a close friend or family member could provide that sort of assistance to you, but certainly not a stranger over the internet.
+
+I can however tell you that you *deserve* to live. You deserve the right to a depression-free, happy life - and from one person to another, I sincerely hope you fucking make it mate, I really do. I'd say I'd understand, because I've been there, I've been on the edge, that teetering point of sanity and insanity - but I can't understand you. Everyone's battle is different. Not harder, not easier - different. Hardship is subjective and I don't think anyone should ever claim to know what anybody is going through.
+
+I know its bullshit and its frustrating, especially if I, or anyone else, tell you that only you can do it, only you can move forward. The only thing other people can do is be there. They can just hang around and support you. They can stop you from moving backwards, but the forwards is all on your own. Hopefully you have people like that in your life, that are willing to be there for you in your time/s of need. I was lucky enough to have a huge support network. But I can proudly say I made the journey to where I am now entirely on my own.
+
+You made it this far. Don't back down. You're worth it. 
+
+
+
+
+ Google is probably a good place to start... http://www.google.com.au/search?aq=f client=chrome-mobile sourceid=chrome-mobile ie=UTF-8 q=root+incredible+2 
+
+
+
+
+ Touchwiz provides this functionality directly in the dialer and contacts applications, which adw can't touch.  
+
+
+
+
+ Just an fyi: you're being downvoted not because you're wrong, but because you're being an asshole. 
+
+
+
+
+ I think what s/he means is that the two images you linked to ([one](http://i.imgur.com/xL83s.png), [two](http://i.imgur.com/8pqo2.png)) are both technically "Google search" - albeit in an exceptionally condescending way. 
+
+"Google Now" is *technically* only the notifications you get in the shade without interacting with the device; eg. I frequently get "traffic to home". Google Now utilizes the new (4.1+) Google search interface (which is what the cards are) to display its information. *Technically* the new "cards" interface is not actually "Google Now" - it is just Google search.  
+
+
+
+
+ Yes. Data from any and all apps (especially 3rd party ones or from the Play Store) can cause issues between major versions of the OS. 
+
+
+
+
+ I think the difference between this and update me is that update me requires the use of the dev's own servers, whereas this OTA solution supplies hosting for free. 
+
+
+
+
+ Wow thats embarrassing haha. Okay now I've processed that and got t'(x), found the x value of the stationary point - how do I verify that this is minimum again?
+Find the minimum of t by computing t(0), t(x0) and t(8).
+
+Stuck on this too. Are they just random values? And what is t(x0) - I've never encountered that.
+
+Again, apologies for being thick. :( Thanks so much for helping me out. 
+
+
+
+
+ Is it not required to give b meaning, as b is a percentage of V? 
+
+
+
+
+ Okay, I apologize if I'm being a little slow here, so just bear with me. I'm trying to take things one at a time so I'll get to the rest of your comment later:
+
+t(x) = ((36+x) 100/b + 8-x) / V
+
+A little confused as to how you got here. Obviously you substituted W = bV/100 back into the equation and simplified it, but how did you get here? When doing that I get something like:
+(100(x^2 + 36) - xb + 8b)/bV 
+
+
+
+
+ Okay firstly I'm just going to type out the question word for word:
+
+Alex, an accomplished runner, has just been dropped off at Bandicoot Camp in the bush. The roads back to her home on Dugong Lane run south for 6km to the top of Cassowary Hill and then east 8km to the turn off for Dugong Lane. After limbering up for a run home through the bush, she gets a call on her mobile that she needs to get home quickly and there is no transport available at the camp.
+
+Alex decides to run through the bush directly to the road heading east from Cassowary Hill to Dugong lane on a bearing of 135^o T.
+
+If she runs at V km/h on the road to Dugong lane and b% of V through the bush, evaluate whether this is the best heading to run on?
+
+Investigate Alex's options if she runs along the southerly road to Cassowary Hill between 10% to 20% faster than she can run through bush.
+
+You will be assigned a value of V and b from the tables below. Circle your assigned values.
+
+My assigned values are: **V km/h = 20** and **b = 50, b = 61**
+
+I've gotten as far as drawing up a [diagram](http://i.imgur.com/JqJLg.png) to represent the paths, with the diagonal line being the direction Alex is travelling in (through the bush). I'm having a total mind blank and can't get any further than that. :/ Any help would be appreciated. 
+
+
+
+
+ Okay firstly I'm just going to type out the question word for word:
+
+Alex, an accomplished runner, has just been dropped off at Bandicoot Camp in the bush. The roads back to her home on Dugong Lane run south for 6km to the top of Cassowary Hill and then east 8km to the turn off for Dugong Lane. After limbering up for a run home through the bush, she gets a call on her mobile that she needs to get home quickly and there is no transport available at the camp.
+
+Alex decides to run through the bush directly to the road heading east from Cassowary Hill to Dugong lane on a bearing of 135^o T.
+
+If she runs at V km/h on the road to Dugong lane and b% of V through the bush, evaluate whether this is the best heading to run on?
+
+Investigate Alex's options if she runs along the southerly road to Cassowary Hill between 10% to 20% faster than she can run through bush.
+
+You will be assigned a value of V and b from the tables below. Circle your assigned values.
+
+My assigned values are: **V km/h = 20** and **b = 50, b = 61**
+
+I've gotten as far as drawing up a [diagram](http://i.imgur.com/JqJLg.png) to represent the paths, with the diagonal line being the direction Alex is travelling in (through the bush). I'm having a total mind blank and can't get any further than that. :/ Any help would be appreciated.
+
+**edit** Forgot to mention that the top inner angle of the triangle is 45^o (because 180 - 135 = 45) 
+
+
+
+
+ Perhaps a data wipe is needed? Major version updates seem to cause trouble until a full wipe has been done. 
+
+
+
+
+
+
+
+
+
+ I was just letting you know because your link isn't in the self post haha. Usually that happens when someone tries to submit a link and a self post at the same time. 
+
+
+
+
+ You can't have a link and a self post, just an FYI. It has to be one or the other. 
+
+
+
+
+ Majel? I was under the impression that that's what Google Now was. Why would they release something like Google now and then have another voice assistant? 
+
+
+
+
+ Its only become that simple since ICS. On gingerbread it requires you to be rooted - except for some Samsung phones, which come with a built-in screenshot feature in Touchwiz.  
+
+
+
+
+ Quick question - do the toggles appear and disappear from pressing the settings button (like on ICS AOKP)?  
+
+
+
+
+ Should just be able to flash it through Clockworkmod Recovery. If you don't have that, flash a [CF-root kernel.](http://forum.xda-developers.com/showthread.php?t=1103399 highlight=cf+root) 
+
+
+
+
+ I'd you're looking for similar functionality, search for Airdroid in the market. 
+
+
+
+
+ Been using these builds for a couple of days, everything is pretty much rock solid except for ocassional graphical glitches and lag (mostly in low memory situations with lots of apps open). 
+
+The thread OP just syncs repos with teamhacksung and builds it every 24 hours. Official cm10 experimental builds seem to come once every couple of days so this should satisfy other crack flashers like me until they start churning out official nightlies. 
+
+
+
+
+
+
+
+
+
+ The CM10 preview with the stock CM kernel, gets pretty decent battery life for me with no underclocking/tweaks. 
+
+
+
+
+ Rocking JB on my SGS2 right now. No regrets. :) 
+
+
+
+
+ This was remedied in JB. :) two finger swipe extension reveals more info on gmail notification.  
+
+
+
+
+ Interesting, thanks for the tidbit. :D 
+
+
+
+
+ If its got 150+ upvotes, maybe its because 150+ people thought it was? 
+
+
+
+
+ What makes you use noLED over BLN? 
+
+
+
+
+ Yeah, you can get it on the market. 
+
+
+
+
+ Go away with your logic and let this user belittle the other for a minor error. 
+
+
+
+
+ Probably won't have it because sense uses a keyboard other than the aosp one.  
+
+
+
+
+ "I'm still alive." Its honest and not impolite or awkward if someone was just asking it to be nice, but it still leaves it open for the person to further pursue it if they're interested/care about you.  
+
+
+
+
+ Not trying to be a downer but in the last 24 months alone I've had 3 different people say this same thing... and they all bailed on me when they realized just how fucked up I really was. Fuck people.  
+
+
+
+
+ Jelly bean.  
+
+
+
+
+ Your kernel has to support it. Search for a kernel that supports "BLN" 
+
+
+
+
+ The fact that you posted this shows that you are not.  
+
+
+
+
+ Why would they make a JB release when they don't even have source? 
+
+
+
+
+ Not sure about miui but the jellybean transitions have been backported for use with any aosp ics rom. http://forum.xda-developers.com/showthread.php?t=1738350 
+
+
+
+
+ Just an fyi, aokp has an inbuilt setting to turn off data or switch to 2g when your screen is off. :) 
+
+
+
+
+ Just find the latest stock firmware and flash it with Odin. 
+
+
+
+
+ Handcent seems to work well and r/android likes it.  
+
+
+
+
+ JB sources haven't even been released on AOSP, its gonna be a little while before you start seeing builds available for anything other than the gnex. 
+
+
+
+
+ This is just a port using assets from the SDK and the OTA zip from the Nexus that someone uploaded. It will be majorly improved once the source drops in AOSP. 
+
+
+
+
+ Proof of concept or "just cause" more than anything else IMO. 
+
+
+
+
+
+
+
+
+
+ Flash back to a stock rom using Odin. 
+
+
+
+
+ Swappa is US-only. 
+
+
+
+
+ I think that's why the default browser and chrome are staying separate... chrome is a brand and its trying to stay consistent across all platforms, this means that it can't take on the holo UI. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

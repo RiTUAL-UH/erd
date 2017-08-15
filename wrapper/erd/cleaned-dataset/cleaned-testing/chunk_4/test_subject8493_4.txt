@@ -1,0 +1,100 @@
+
+
+
+
+
+ I've seen a lot of Rails attachment-handling plugins, but this is the first one I've really liked.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I meant to write MySQL but actually should have just dropped the My as the principles apply to other SQL DBs. 
+
+
+
+
+
+
+
+
+
+ I've use NB a fair bit and find it to be pretty good; I haven't noticed any speed issues that slow me down. When it comes to debugging, while the breakpoints and variable inspect features are nice, what I really want is a full IRB session at a breakpoint (as you would get using ruby-debug from the command line). It's much faster to not only inspect variables using IRB, but you can then run commands on the data and see what's happening. It's on the feature list for NB, but not sure when the team will get to it. On the overall, kudos to the team (and it's free).  
+
+
+
+
+
+
+
+
+
+ Very well put. I'm grateful for the time ruby-core puts into maintaining the language, but I hope they read this article and take some notes.
+
+ 
+
+
+
+
+ There are a lot of tips and tricks on the web as to how to do things better/faster/cooler with Ruby/Rails. But there's not enough talk about how to make sure your site is secure with Ruby/Rails.
+
+ 
+
+
+
+
+
+
+
+
+
+ another, perhaps easier way, is to run "gem server --daemon" which gives you access to all of your gem docs at localhost:8808 (or another port of your choice).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Start with: http://pine.fm/LearnToProgram/
+
+ 
+
+
+
+
+ Why do you need squeak to teach them variables or OO programming? In teaching my daughter Ruby I just used real-world examples such as a Ball is an "object". It has "properties" such as the size and the color. There are certain things you can do with it, "methods", such as throw it or squish it. Variables are pigeonholes where you can put something you might need later. Some you can access only while in the same room (local), the same house (class), or from anywhere in the world (global). Etc. 
+
+
+
+
+ It works :-) 
+
+Hackety Hack is a great idea, and I've tried it. But it's only about halfway there and the author (brillant as he is) has lost interest and moved on to other tools (like the more brillant Shoes; now that's something you could use for child programming).  
+
+
+
+
+ I agree. I've look and tried the various "child-oriented" programming options (Logo, KTurtle, Squeak, Scratch), and while it's true that it might get them interested in programming, it's better to introduce them to a language that they can build on to create more and better programs. (On the other hand, something like Scratch might be great for a 5 year old.) I think that it's best children learn the underlying tools rather than an automated tool that becomes a crutch (think Frontpage) that later limits you. I taught my 9-year-old daughter HTML and CSS and she hand-coded her own site from scratch. We then moved to Ruby on the console, and now she's 10 and we're porting the console-based Ruby program she wrote to a Web app with Rails, combining what she learned from HTML, CSS and Ruby. She has a perfect understanding of OO programming (Ruby is great for that), and is learning tools with which she can create "real" programs (or pick up another language like Python). 
+
+
+
+

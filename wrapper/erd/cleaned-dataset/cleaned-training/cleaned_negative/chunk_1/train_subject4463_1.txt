@@ -1,0 +1,957 @@
+
+
+
+
+
+ I prefer having an actual 7slot kernel and overclocking with SetCPU but started wondering...are there any good alternatives that randroid would suggest?  I'd really enjoy per-active-app clock speeds if there is an OC app that can provide that. 
+
+
+
+
+ Daughter is 3 1/2 years old, and I really need to make these plans early.  However, I cannot seem to find a single private school that isn't centered on religion.  What's the deal with this? 
+
+
+
+
+ I'm working on a wicked-tight budget, and I'm trying to find the best option for flooring in my 'new' kitchen.  It's small, 10'x9' or so.  So right now I'm looking at staining the concrete because it's just so damn cheap...
+
+The problem is that my floor is black.  I suspect it's tar backing from the floor I recently scraped up.  How do I go about removing this and providing a clean, undamaged surface to start staining?  Sand blaster?  I don't think I can use any kind of solvents, as that would allow the tar to seep into the porous surface of the concrete.
+
+Any suggestions?
+
+*Edit:* Apparently it's not tar...it's asbestos adhesive.  Great.  :( 
+
+
+
+
+ I've been helping my mother repair houses since I was a teenager (buy 'em cheap, make 'em pretty, rent them out/sell them).  I've now become a new homeowner and *really* don't feel like doing it manually yet again.  We have removed so much damn sticky-tile-laminate, and glued down laminate flooring that it's crazy.  Sometimes even carpet that's glued down with feces/piss or other fluids...stuff that nobody would typically even begin to touch.
+
+What's a good motorized tool to get between the concrete and the back of the flooring?  I'd like to be able to tear up this flooring pretty quickly rather than spending a day and a half doing it by hand with a paint scraper.  The stuff I'm dealing with currently is tar-backed and really a pain to get in between. 
+
+
+
+
+ I've got a spare Linux box that I can do whatever I want and I would like to set up some sort of 'bundling' service on it.  My question is "how can I do this"...so I'll just explain what I want to happen:
+
+I, have my own 10/1 mbps service from Comcast -- hooked into a router that I broadcast freely but divided into their own private networks (I can instead hook this into my Linux Box for much more advanced routing abilities).  My own private network is secure, and I have a virtual network which is free for everyone else to use (I'm using a DD-WRT'd WRT54GL to accomplish this.)
+
+But, I have at least 20 other wifi spots around me and I've seen people actively get on my open connection, and use it.  I suspect these people also own the wireless connections being broadcast around me that are all secured as well.
+
+What I would like to do, is allow them to join the network, and be given a signup page, which would allow them to enter their routers SSID/Password, and sign up for a pooling service.  Utilizing multiple wifi cards or whatever is not out of the question -- or I can figure out WIFI VLAN capabilities later in the implementation stage.
+
+Once they've signed up, I'd like my box to connect to their box (either using the VLAN method I mentioned above, or even using a dedicated wifi card)...and allow that user to utilize both my network, and their own network.  I realize that a *lot of things can't utilize this* but there are also a lot of things that can....primarily torrent clients.  I could then NAT the connections together (because lets face it...they're probably already behind NAT on their home network anyways)
+
+Now, setting up all of these signup pages, and making the actual pooling service myself, isn't much of a problem.  However, I'd like to know the best ways to setup Linux to utilize multiple connection paths manually before I start to automate it.  Does anyone have any good links to this sort of thing?  Preferably using something like iptables/ipnat (or natd)/ipfw...
+
+This should also provide load-balancing and fault tolerance for all of us (some of the neighborhood is on cable, some of it is on DSL) 
+
+
+
+
+
+
+
+
+
+ Does such a thing exist?  BASH is easy to learn, but there are so many portions of a typical linux system that are divided amongst languages, and since I know python, I'd really like to be able to administer my system using tools centered around a language I already know.
+
+Are there any python-centric Linux distributions out there that anyone is aware of?  Varying levels of integration are welcome...
+
+*edit: Found it thanks to watabowtit!  The answer I was looking for was Pardus linux.  Even their init system is based on Python as well as most of their developed toolset -- this is the distribution I remember having intense interest in.* 
+
+
+
+
+ The built in one that comes with cm7 is kind of featureless.  And there are a million of them in the market that seem to do 3/4 of the things I need, but doesn't include the alarm function.
+
+Honestly, only thing that made me think of this is my daughter was playing with her iPod Touch 2G, I had to rearrange some apps for her, and got into the alarm.  The one on iOS has alarm, countdown, lap timer all in a single app.
+
+ 
+
+
+
+
+
+
+
+
+
+ I recently followed a howto on getting asterisk to connect to my google voice so I was able to use SipDroid and a home analog telephone adapter to utilize the service as a full-blown replacement for telephone service.
+
+Right now it's all running in a virtual machine on my own box, but I'd like to move it to a VPS so I can access it anywhere on the internet.  Problem is I don't feel comfortable throwing this out there when it has my full google credentials in a plaintext file.  If someone were to ever gain access to that box through a known exploit, it would be trivial to hijack my stuff.  I can't whitelist because I could be accessing it from any WiFi point that I happen to run across which means my IP address will be different a lot of the time.
+
+Is there any way to protect this?  Am I being overly paranoid? 
+
+
+
+
+ Every tutorial on sockets I run across is filled with a portion of the code that looks like
+
+    while 1:
+        [do some looping to socket.recv, etc]
+
+I'd really like to learn an object-oriented way of doing this.  (Like making a class that has a on-receive method and fires off code reactively instead of depending on a while loop)  I haven't really been able to find a Python-based IRC client out there thats object oriented in its programming style so I figure this would be a great project to get my head wrapped around OO and stop thinking about everything imperatively.
+
+Does anyone have any kind of links to a small python based IRC client?  Or a OO-based IRC client tutorial?
+
+Even if it's not sockets or IRC; I need something that I might actually use.  Not another rehashed bookstore app or animal/cat/dog/speciation tutorial.  I've read them and the blandness switches something off in my brain that allows me to remember the lesson.
+
+Here's some psuedo code that gives an example of what I'm looking for or rather...trying to accomplish:
+
+    Class MyClient(socketChat):
+        def connect(self, server):
+            Initialization()
+        def onReceive(self, origination, data):
+            doSomeStuff(data)
+        def onSend(self, destination, data):
+            doSomeSending(data)
+
+And then work from there, building out the client, or being able to freely add/remove a GUI layer later on (by binding key events to the onSend method, etc.) -- preferribly the class I'm inheriting in the psuedo-code there "socketChat" would be minimal so I could understand how to re-build it myself.
+
+Or am I even looking at this the right way? 
+
+
+
+
+ 38,173 readers
+
+Sponsored Headlines Examples:
+
++ Got an Android smartphone?  Want to make it a smarter-phone?  Head on over to /r/Android!
++ There's a little green robot that loves friends, check out /r/Android!
++ Androids LOVE bacon.  Come visit other Android lovers over at /r/Android!
+
+Ideas for sponsored ad:
+
++ Reddit Alien and Android holding hands.
++ Reddit Alien looking down at smartphone ignoring little reddit children all yelling "pay attention to me daddy!!"...he could possibly reply "Not now I'm busy..."
+
+
+
+Similar Reddits that exist:
+
++ /r/androidappreviews
++ /r/androidapps
++ /r/androiddev
++ /r/androidisawesome
++ /r/androidquestions
++ /r/androidthemes
++ /r/tasker
+
+Why we should promote this:
+
+Because /r/Android is already a fast growing community and more members are always welcome.  Since these devices are becoming more and more a center of everyones online experience and social lives, it only makes sense to help them take full advantage of these devices in whichever way possible.  We're very friendly over at /r/Android and do our best to make everyone feel welcome regardless of mobile OS preference. 
+
+
+
+
+
+
+
+
+
+ I've looked @ Lowes, Home Depot, Radio Shack, and I can't find anyone who carries the stuff I need.  
+
+I found an SMA surface mount adapter but I need an N-type surface-mount adapter (like the one pictured [here](http://img.engadget.com/common/images/3060000000054045.JPG), and either LMR-400 or CNT-400 Low-loss 3/8" diam coax cable (only like a foot or two).
+
+Any ideas?  None of the big-name people seem to carry this kind of stuff.  I actually live a bit north of Orlando (closer to Sanford) but this seemed the most appropriate subreddit. 
+
+
+
+
+ Obviously the most popular example would be something like minecraft or line-rider, but I've seen some other 2D sandbox games on the 'net as well.  Anyone know of any on Android worth playing?  I'd prefer something that can be joined by lots of players.  Anywhere between 2 and 50 players in a sandbox environment would be awesome :) 
+
+
+
+
+ I'm using the new 1.8 version of Asterisk to emulate google talk which directly bypasses all that sipsorcery/sipgate/gizmo forwarding/hacking bullshit and just connects directly through google voice and allows VoIP on my Droid, but the stock gingerbread SIP client doesn't seem to like to authenticate with my asterisk box.  SipDroid will, but not the built in client, and it's bugging me.
+
+Anyone have any idea why this might be?  I'm running the asterisk server locally, I haven't opened it up to the world yet; I'm working on building an 'appliance' for virtualbox that will allow you to deploy your own VoIP - Google Voice - Android solution but gotta get it all working flawlessly first. :)
+
+I already have it working **amazingly** through SipDroid...I can accept and place calls on wifi with almost no lag at all, and it's not reliant on a sipgate/pbxes account or anything...all direct from Google Voice :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Because lets face it...the average consumer isn't interested in root, jailbreaking, ROMs, heck, some of them don't even download apps from the market, they want their phone to "just work"... so we need to compare here based on out-of-the-box abilities.  Any theories as to why Android is still growing so quickly vs iOS? -- is it just the cheap-o Androids out there and price?  Is it features?  Is it distribution among carriers?  Distribution among manufacturers (aka hardware options)?
+
+*edit:* Did some napkin-math -- most popular app for Android is Google Maps with 616,604 reviews.  The most popular app requiring root would be Titanium Backup with 37,696 reviews.  If both sets of people are assumed to review apps on an equal basis, that would mean 6.1% or so actually root...about 1/20th the Android population. 
+
+
+
+
+ The virus/antivirus cat and mouse game will continue to happen.  But with the recent action taken on Googles behalf to *automatically* undo the effects of the malware that was present on the market, it is now a confirmed waste of money to buy products like Lookout, etc.  None of these products will protect your phone, they will only tell you about things after-the-fact.
+
+Also, the fact that this malicious software was found by a REDDITOR before any of these "Antivirus companies" knew about it, shows that none of them are taking an active approach to finding malware on the market themselves.  If they were doing their jobs, they would have had the analysis done way before this.
+
+What exactly are these antivirus companies pretending to do anyhow?
+
+ 
+
+
+
+
+
+
+
+
+
+ Just came back from my post-op appointment from having lymph node tissue in the left side of my neck removed, and the doctor has informed me that I have Hogkin's Lymphoma.  I'm 26 (27 this march) and I've had the symptoms of fatigue easily since I was 16ish.  I haven't had a chest X-ray, or PET scans or even staging done yet.  I have another lump on the inside of my left leg, so best case scenario I'm stage 2 unless it's just a fibrosis (unlikely).  I'm not afraid of death but I cry constantly over the thought of my daughter having to lose her daddy.  Someone talk to me.
+
+Edit, March 10th 2011; It was localized to only that lymph node! Horray! I get to undergo some localized radiation therapy and basically just have to make sure I go to the doctor on a regular enough basis to ensure that it doesn't come back again!  No chemo!  Yay! 
+
+
+
+
+ First, let me start off by saying I understand the ROM community can be a large, and very confusing place.  However, it all really boils down to this:
+
+CyanogenMod supports [24 devices.](http://www.cyanogenmod.com/devices)  That's right...24 of them.  And that's only the ones DIRECTLY supported.  Many people have ported CyanogenMod to other devices as well.  Everything (or nearly everything) that gets incorporated into CyanogenMod, typically gets passed down the pipe and implemented into each and every build for these devices.  Code isn't duplicated here.  This ensures that you'll have the same features, across multiple devices, with the same options, the same enhancements, and minimally duplicated effort for the coders to incorporate such changes.  Many changes automatically propagate down the tree without developer intervention at all. The one-off ROMs (like Darkys for the SGS Captivate), are limited to those specific devices and require developer attention at nearly all times in order to incorporate new features, update builds, fix bugs, etc.
+
+On *top* of that, most ROMs that you DO find either use Cyanogens build environment, or a large bit of Cyanogens base code as a starting point.  I don't have any raw numbers but I fully expect that well over 80% of AOSP ROMs available for Android, have taken *something* from the Cyanogen teams work.
+
+CyanogenMod is the biggest, baddest, most comprehensive single piece of work that the Android community has for ROMs.  Nearly everything you see in the ROM community has something to do with CyanogenMod at some point or another.  You may not run CM on your device, but you have to respect the amount of work put into a project this huge.  Those of us praising the Cyanogen team aren't always doing it because CM is supposed to be some mystical, magical, best-of-all ROM available out there.  We respect what they have given to the community, and continue to give.  In terms of importance to the Android community, they probably rank right under the [AOSP](http://source.android.com/) project itself.
+
+*edit:* Ever use ClockworkMod? ROM Manager? -- Both a product of [Koush](https://github.com/koush), a large committer of CyanogenMod code and a member of Team Douche.  Even flashing your phone to a non-CM ROM, you're using their work.  
+
+Also, please read the link in the right-hand side of reddit titled "Contribute to CyanogenMod" - It's not about money, it's about how you can help out!
+
+*edit2:* Let me clarify here, this isn't a post trying to convince anyone to flash CyanogenMod to their device.  If you decide you want CM on your device, its your job to weigh the pros and cons and decide that on your own.  I'm merely posting this up there because there have been a lot of people throughout /r/Android saying things like "I don't know why so many people make a big deal about CyanogenMod".
+
+*edit3:* Since people don't seem to care that I'm not trying to advertise for Cyanogen but here's a feature-list for those of you who want convincing: http://www.cyanogenmod.com/about -- Keep in mind that this list isn't feature-complete at all and there are many things to be discovered about CyanogenMod beyond that. 
+
+
+
+
+
+
+
+
+
+ Evernote syncs text, images, etc...that's basically ALL it does.  Is this some shitty iOS port? 
+
+
+
+
+ I'd really like to learn from you.  Sometimes bouncing ideas and code problems off of someone helps too ;)
+
+I know just enough java to get myself in trouble.  self-taught Python background with no college, and a high school education that would rival a middle-school (seriously, my high school was horrible.) -- However, I'm a fast learner and know when to keep my mouth shut and just watch/listen. 
+
+
+
+
+ When we talk about encrypted/signed bootloaders, we're referring to the kernel and the ability to run our own.  This has an affect on ROMs, Overclocking potential, development of new features, and even the unlocking of hidden hardware such as the FM radio on certain models of phones.  **Encrypted bootloaders have nothing to do with root**
+
+This also has an effect on you as a consumer.  If a phone with an encrypted/signed bootloader (aka Motorola phones (including the atrix)) get support dropped by the company who manufactures it, it means your device will be stopped dead in its tracks from there on out.
+
+Take the Milestone for example (a bootloader-encrypted version of the Droid) : They will never have Honeycomb or Icecream Sandwich.  (*updated to reflect some new info that there was a leaked gingerbread build for the milestone*)  The milestone is still a perfectly fine, viable phone to use and will continue to be so for another year or two without problem.  OG Droid owners running GBread roms, while a little disheartened over our lack of attention lately, are still receiving infinitely more attention than our milestone using cousins.  The OG Droid will probably end up going on to receive Honeycomb or even Icecream Sandwich.  Sure, eventually we'll run up against technical limitations, but those aren't artificially produced by a company in order to try and entice you into their newest device.
+
+"But I'll just be buying another phone in 2 years, this doesn't affect me!" - go ahead and keep believing that.  If you're advanced enough to have chosen Android over the iPhone or WP7, at some point or another you'll want to tinker with it (even those of you who won't do it until you have a replacement device or are already out of warranty). 
+
+
+
+
+ I've tried ifconfig, and the 'ip' command in order to try and spoof the mac address but nothing seems to work.  Is this something that isn't currently built into the kernels? (Using ChevyNo1 on an OG Droid)
+
+I can't seem to find any apps in the app store for this task either. 
+
+
+
+
+ I currently live in a block-house that was extended.  Most of the house is a flat roof, except over the areas where the house was extended, it's a red spanish tile on top of the roof.  I've asked around about insulating underneath the plywood on the underside of the roof, and I've been told that I shouldn't if it's a shingle roof, as it'll make the roof get too hot and prematurely wear the shingles.  Is it ok to do if I have a tile roof?  The room that was added onto the house has the most extreme temperature changes and the blown-in insulation in the ceiling doesn't seem to help all that much.  The rest of the house will stay cool during the summer, and warm during the winter; this room does the opposite.
+
+I was reminded to ask about it by this post:
+http://www.reddit.com/r/DIY/comments/ffxrp/styrofoam_on_my_garage_cieling/
+
+And through the image search I eventually ran across:
+http://www.hammerzone.com/archives/energy/insulation/ceiling_sloped/rigid_foam.htm
+
+Anything I should know?  There don't seem to be any vents in the tile roof (it was built in the 1960s or so) that I'd have to work around.
+
+The roof is vented I'm guessing by the soffit surrounding the house; I'm also thinking maybe the blown in insulation might be 'clogging' the air flow maybe?  Could that be it? 
+
+
+
+
+ By now I have multiple 85s, and I've noticed a strange trend.  I can get on my tank (prot warrior), and do heroics all day long, never fail, never CC, any healer can keep me up...we just plow through heroics when I tank.
+
+But on my mage, druid, and DK -- all of these groups fail, with CC, and with amazing healers as well.  It's gotten to the point where I'm not even sure why I leveled my other characters because all it takes is the tank being horrible and the group fails each and every time.
+
+There are a lot of 'tanks' in queue who are really just tank spec for the easy instant-queues and it's getting hard to even finish a heroic on my non-tank characters.  People are breaking CC, don't know how to interrupt casts (I've seen multiple 6+ second casts go off when counterspell is down, etc), and are just overall...terrible players.  Most of the time, I check out their gear and it's not the WRONG gear; but they haven't reforged **ANY** of it either.  Reforging is *NOT* optional.  On a per-item basis, sure...but there's no reason someone should be walking into a heroic without ANY gear reforged.
+
+How are people this bad?  I know at least a few of them are wrath-babies, but still...am I just going to have to trade heroic runs with someone else who is proficient at playing a tank?
+
+I'm on Korgath btw.  Also: Anyone have a guild that needs a tank?  I went 8/12 the first week of cataclysm raiding, but the GM of the guild I was in disbanded and xferred servers taking with him the 8 or so BOE epics that had dropped during raiding _ -- I haven't been able to find a worthwhile guild since that happened.  Either the guild is too focused on PvP, or amazingly interested in PvE but has horrible players (my current situation.); the guild I'm in at the moment has a GM that cannot seem to pull more than 6k dps on his mage with nearly 350ilvl gear, even after I helped him gem/reforge into proper stats.
+
+**tl;dr:** I'm nerd raging about bad players. 
+
+
+
+
+ Building a new rig soon, looking to have the most amount of cores possible because I do a lot of video transcoding, money isn't really a limitation but I would like the most amount of cores per dollar.
+
+I know about the Phenom x6, but is there anything coming down the pipe soonish (within 2 months) that I should consider waiting for? 
+
+
+
+
+ http://www.imgur.com/uRoJy.jpg
+
+It is NOT feces of any sort.  It doesn't have a root system, and its growing on a bed of rocks.  How do I kill it? 
+
+
+
+
+ Here's the specs of both of the machines:
+
+Machine 1:
+
+* Pentium 4 2.8ghz, clock modified to 214x14 to bump it up to 2.99ghz
+* NVidia 7600gs 265mb
+* 600 Watt power supply
+* Gigabyte GA-8I848P motherboard. (Both of these post-date AGP 8x so I know it's not an 8x/4x problem)
+* 2gb GSkill DDR 400 memory in 2 sticks.
+
+Machine #2:
+
+* Pentium 4 3.0 ghz, stock clock speed.
+* Radeon 9800 XT 256mb (This is actually a WORSE card than the 7600gs)
+* 600 watt power supply (Identical, yes I know this won't be my disparity)
+* MSI Motherboard 865G Neo 2-P
+* 2gb GSkill DDR 400 memory in 2 sticks. (Identical)
+
+Both of these computers are NEARLY identical.  Yet Machine #1 gets 2-8fps under the same game load as Machine #2 in the same area, same game.
+
+I've swapped video cards, back and forth with 0 result.  Framerates remained unchanged.  Both are running the exact same version of the game with the exact same settings (ICYW It's WoW, which stores its settings in the game folder...so no hidden registry entries to worry about).  Both have had all effects and video card settings turned to the minimum.  CPU clocks are the same, Hyperthreading is enabled on both, the timing on the memory is the same on both machines.  Both machines also have the exact same processes running as they are relatively fresh installs.
+
+I've been building/troubleshooting computers for years and this has me entirely stumped.  Could it really all be down to the motherboard?  Swapping the video cards didn't give me any kind of result framerate wise, so I've ruled that out as the bottleneck.
+
+For reference Machine #1 gets about 2-8 FPS; Machine #2 gets 24-38 fps.
+
+Ok, here's my checklist of what I've checked off (based on suggestions):
+
+* Heat - Heat is fine, nothing overheating.
+* Voltages - Voltages are fine, 12v and 5v rails are within 0.1v
+* Overclock - Only overclocked because I had the problem to begin with.  OC and un-OCd, no changes.
+* Drivers - I've been doing this since I was 8; I think I know a thing or two about drivers :)
+* External Power - Checked with OHM meter; Cards are both getting power just fine.
+* Drives - Drives are all defragged, run just fine at their manufacturer specified speeds.
+* Video Cards - I've swapped the video cards; Same result for both cards...8fps...so this isn't the problem.
+* Memtest - No errors on either machine, ran for 1 3/4 hours.
+* Memory/CPU frequency - Memory is running 400mhz/428mhz and CPU running at 2.8/2.99ghz; Stock and Overclock respectively.
+* Swapped out CPU with a 2.66ghz P4 non-HT   Reset BIOS; Still the same...
+
+
+**Update**
+
+At this point it's just gotta be the motherboard.  I don't know how the system could still be rock-stable and cause this much performance degradation but it seems like it is.  (What really pisses me off is that I don't know WHY it's happening...I'm like Dr. House when it comes to computers, I tend to not stop until I find a diagnosis...even if it still means the computer is going to die.)  It's the only thing I haven't removed/replaced from "my" machine.  And the only reason for THAT, is because Win7 won't allow me to boot from another board without needing a full reinstall _
+
+Thanks for all your help guys; I appreciate all the ideas.  Unfortunately it's just not worth buying a "new" motherboard...once taxes come in I'll just build a new computer; this one is ancient anyways.
+ 
+
+
+
+
+ **Rooted phones only**
+
+If the kernel/rom you're running supports swap space, download Swapper 2 from the market.  Run Swapper 2, hit menu - Busybox and let it download/install busybox.  Hit menu again - Settings and change swappiness to 20 or 30, and change the swap size to 128-192.  Back out of the settings.  Press ON; wait 5 mins or so -- don't assume it's locked and back out of it before it completes.  Once it says -- Done!  Load up Dungeon Defenders; It should load slowly, but it runs on the D1 with very little lag and is playable.  The control scheme sucks but otherwise it's great. :)
+
+Currently I'm using Ultimate Droid 2.5 for this, but I'm sure some other rom/kernel combos work as well.
+
+I'd also suggest this only if you *really* want to play DunDef or if you've already purchased it and haven't been able to play it yet :) 
+
+
+
+
+ That's my nerd-rage for the day. 
+
+
+
+
+
+
+
+
+
+ I've been looking all over for waterproof ebook readers and I can't seem to find anything at all.  I know a good amount of women that read books while in the tub, and it's the only thing keeping my wife from getting an ebook reader right now
+
+Also; touchscreen ebook readers...you think they would already have capacitive touchscreen versions out with no buttons (which would make waterproofing easy as well!)...what the heck?!
+
+**Those plastic waterproof covers are cumbersome and annoying as hell, so those are out of the question.** -- that includes ziplock bags, electronics waterproofing bags, etc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Look it up yourself you lazy ignorant prick.  You're on the internet, a vast series of tubes connected to the library of congress and millions of homes everywhere.  Nobody needs to cite a source in order to reply to your comment...fuck.
+
+/rant 
+
+
+
+
+ I'd really love to get Tasker to underclock my CPU when running SNESoid; since overclocking I can't really determine what will knock the clock rate up or what will keep it low, I'd like to keep it bumped to 1.2ghz on my Droid for the applications that need it but limit it when I boot up SNESoid.  Is this possible? 
+
+
+
+
+ My father-in-law is an electrical engineer, and apparently has access to an ARM jtag programmer (2x10 pin; is this what's used in the G1?).  I'd like to see if it's possible for me to unbrick it.  If anyone has one that they know is in working order but has a software brick they can't get out of, contact me.  I only need 1 to work with.  (It'll be disassembled and soldered on in order to access the jtag port, so don't expect it back, there's a possibility I may damage something.)  I figure there might be *someone* out there willing to donate a broken G1 to further my educational desires. :) 
+
+
+
+
+ What I want to know...honestly...is how many people have fully, completely, irreversibly, device-won't-boot, pray to the gods it'll be accepted for warranty, bricked their device via flashing, rooting or some other software-related hard-brick...not a near-brick-experience (NBE), or physical damage bricking the device. -- Overclocking counts though, so if you've pushed your device too hard and bricked it that way, I want to hear about it too.
+
+This also doesn't count where you have soft-bricked a device, but didn't want to go through the hassle of restoring it and warranty replaced it because it was easier...
+
+I know this post sounds like a troll.  In a way it is.  Every day I see "I don't want to root because I'll brick" or "Because I'll void my warranty", or whatever excuse is available -- but what I know about people is that they are the first to complain very loudly, very violently, and near-always even when something goes wrong.  
+
+But I've seen no such complaints or mention of anyone ever having a bricked device that wasn't fixable entirely by following some help provided by either us, or XDA...or even someone having a warranty turned down because they had rooted.  I want to know do these people actually exist?
+
+Edit: 11/21 10:04AM EST: Wow...everyone who's bricked so far only seems to be the G1...anyone brick anything other than a G1? 
+
+
+
+
+ That Android users don't tend to be outwardly fanatical about their devices?  I mean, obviously a lot of us are enthusiastic and also defend attacks against our choice of device, but people come here and ask about tablets, and we suggest "Just get an iPad".  People ask "How can I talk my parents into an Android" and we tell them to grow up and just get their parents whatever device they want...
+
+I just wanted to say I love that laid back attitude that you don't **HAVE** to own an Android, but if you'd like, we're here to help.  It's refreshing to see.  You don't often see that in other communities; Linux, Apple, for example...
+
+Keep it up /r/Android, we're a fast growing community specifically because of this attitude, stay classy :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So, the newest ADW.Launcher changed some behavior that I didn't like.  Now, newly installed apps don't show in the catalogs you can make by default.
+
+I was able to download the source from here: https://github.com/boombuler/android_packages_apps_Launcher
+
+I was able to load it up in Eclipse, and reverse the changes made in this commit: https://github.com/boombuler/android_packages_apps_Launcher/commit/a9dd0737ba5017d8d96e6aa831c0a233b6bd536c
+
+I'm pretty sure this would have been near impossible on any other platform...so I'm pretty ecstatic right now.
+
+Some of you Android devs may wanna check out the source tree, it's really well organized, and a pleasure to work with.  Everything loads right into eclipse and compiles just fine (after you refresh the project) - Maybe some of you have some ideas you might want added in! 
+
+
+
+
+ /r/Orlando is the best I could find as far as "local" goes.  I'm a 26yr old stay at home dad with a 2 1/2 year old girl, looking for *anything* to do.  (A job...a friend to visit...) I can't afford day-care and I'm trapped in 1/2 of a house all day long trying my best to keep her from annoying my housemate.  I'm going insane with nothing to do or any adults to converse with (consequently so is my daughter).  My wife works some crazy hours to try and keep us afloat financially so during the week she's rarely home.
+
+I do all sorts of tech-related stuff such as Programming (Python, learning Java atm), Computer Repair, Car repair, Audio/Video (HDTV setup and such), but have no college education and thus a very short resume.  I also can repair paintball guns, I used to play professionally.  I'd really enjoy a like-minded individual to befriend if there are any out there.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ First, try installing Pocket Legends again -- I mailed the devs last night and showed them a bug in their manifest.xml which may have been causing the issue for some of you, and they have updated the app with a LOT of bug fixes including the ones I submitted.
+
+If you can't find it on the market, you've obtained an apk of PL, and you're having install errors trying to install it from the apk:
+
+Settings - SD Card/Storage - Unmount SD Card.
+
+Install Pocket Legends, Remount SD card, (Optional) Move PL to SD card. 
+
+
+
+
+ http://www.reddit.com/user/SheerazRaza -- Spams nothing but "geekword.net" links. - Never comments.
+
+http://www.reddit.com/user/HanifB/submitted/ - Spams 2 sites.  BitStation/Mouse2House. - Never comments.
+
+http://www.reddit.com/user/gokulvarma/submitted/ - open-help blogspam. - Never Comments.
+
+http://www.reddit.com/user/ynksrule93 - Blogspam for "android-apps.com" - Never Comments.
+
+http://www.reddit.com/user/wccftech - blogspam for "wccftech" - Never Comments.
+
+Virdict: Most of these people deserve to be banned from the subreddit, or just their domains suspended from submissions for a little while.  I found all of these simply by searching for "Nexus S" restricted to the /r/Android subreddit.
+
+But...there are even a few gems like this guy:
+
+http://www.reddit.com/user/jlaw84/submitted/ - He submitted 2 Nexus S articles, HIMSELF, but he submits from a lot of different places making it hard to place if he's just some content aggregator or not.
+
+Reddit is for **people** not **companies** - it is not here so you can make a buck off of the advertising in your blog.  If someone likes your site...let them submit it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So, I'm out on the back concrete slab with my daughter.  She's playing with the colored chalk and I decide...hey, lets try this.
+
+So I rubbed a little chalk on my thumb, and it's like my thumb is ice-skating on my D1 screen now and I'm not leaving smudges and finger prints (or scratches!)
+
+I know chalk is made mostly from gypsum, which is one of the softest minerals (only behind talc) so I don't think it'll harm/scratch anything but I just wanted to share.  I now keep a piece of colored chalk at my desk for when my fingers are getting sweaty and sticking to the glass. :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ To give some context, here is the news report that was done yesterday on it all:  http://www.wate.com/Global/story.asp?S=13360235
+
+That news article is basically the TL;DR -- I warn you of the wall of text that is imminent.
+
+The woman in that news article, is my mother.  She is quite possibly the most amazing woman you could ever know.  She raised us 3 kids by herself (now all in our 20s), all while fighting severe depression, and the effects of multiple sclerosis more recently.  She was born in North Carolina and moved down to Florida when she was young.  5 years ago she was vacationing in TN, drove by a motel and couldn't get the dream out of her head from then on. She bought the Sunbright motel in Sunbright TN a year later.
+
+Always thinking of her children she set out to have us all start a family business so we would all have some steady money as we got older.  I moved from Florida up to Tennessee with my soon to be wife because I owe my mom everything in the world, I would do anything for her.
+
+In the beginning, things were going fine. We immediately got to work on renovating the place.  We were all very hopeful and you could tell in our work, everything was on a shoestring budget...but we kept at it, working day in and day out.  The previous owner of the motel had attempted to burn it down for insurance fraud so we had an entire section of the place to re-do; there was literally a tree growing up through the middle of the building when we first got it.
+
+The first trouble started with the help we had hired.  It seems the crazies come out of the woodwork first.  We'll call these particular crazies "joe" and "tanya".  We've always done our best to try and help people and it turned out that one of our helpers was homeless.  Well, we thought, we're renovating a damn motel!  So we went to the back basement-rooms and renovated them best we could to provide electricity, a bed, bathroom, shower, you name it.  In exchange for living there the guy would help out around the motel doing some of the construction and get paid minimum wage.  His girlfriend was with him so she was free to look for a job elsewhere for extra money to get on their feet.  I lived at the motel in an area that used to be a video store at one point.
+
+So 5-6 months of work passes by; we've now lived with "joe" and "tanya" for a while, and trust them fully.  Since things are going so well, my mother and I decided we needed to be down in Florida for the holidays.  We leave for Florida, fully comforted by the fact that we have someone watching over the place.  So, christmas and newyears come and go, we've packed some more of our personal belongings because a lot of it was left in Florida to save on travel expenses.  We get back up to Tennessee and find that close to $6k in tools, a LARGE red toolbox have been stolen and joe and tanya claim to have never heard a thing.  They didn't know about it.  Since this is already going to be a wall of text, I'll just cut to the chase: after about 3 months of despair, and suffering over being robbed (first time ever btw.), we find out that joe and tanya...with the help of the other helper we hired, broke in, and stole all our tools, and sold it all off for $300.  For drug money.  Oh, and I'm not joking about the "we" part.  WE took the initiative that the police wouldn't to track down our stolen property and eventually tracked down all the parties involved.  We got about 30% of our tools back, with the big red toolbox, but most of it had been pawned off already.
+
+At that point, my mom is fighting to continue this thing.  I'm originally so devastated that I just want to move back to Florida, but she talks me into staying.  Eventually I get back into the swing of things and we hire some new help.  We accomplish a lot for a while, but as all of this is going on, I'm still living in an old video store section of the motel and its getting to be winter.  The winds are terrible up there in the fall, and the place is not well insulated.  My wife got pregnant around the middle of the year and my daughter is supposed to be born around March (at the time).  Well, March rolls around, and we have a 3-4 month old baby in sub-zero temperatures TRYING like hell with a 220v SPACE HEATER to keep the place warm.  All this in an effort to stay and continue helping, as this place could be our families livelihood in the future.  Yet another long story short, me and my soon to be wife moved back down to Florida with the baby.
+
+After I moved back, my mother continued on with the motel, although at a slower pace.  The holidays came again, and this time we weren't robbed.  Things were looking up.  Or so we thought.  Over the next 2 1/2ish years, we've been broken into and robbed 10 more times.  Every time, me and my mother alternate talking each other back into keeping up the work.  I can't do it anymore.  My mom just recently had come down here to visit her grand-baby and upon returning, the copper in the entire motel has been stripped out, the A/C units have been hauled off, and we're nearly back to square one after dumping our life savings into this thing.  The sad thing about it all, is that the police station, is right across the road from the motel.  Someone had CALLED the police from sunbright, and morgan county (which also 'services' that area) and not one police officer even showed up.  The thieves took their time to PROPERLY vent the freon from the A/C units that they had stolen.
+
+I don't know what to do anymore.  My mom is broken, her spirit shattered into a million pieces, as is mine and my wifes.  We picked Sunbright because it used to be a great place, and the motel was built in the 1920s (or sometime around there at least), and we really felt like we could restore it, and help build a thriving community in the area.  What has happened though is we've been picked clean slowly by officials in TN not doing their jobs, thieves, and just outright heartbreak.  I don't want to give this place up, we've put a lot of hard work and sweat into it.  My mom has put the place up for sale though, some ridiculous low price.  She just doesn't even want to deal with it anymore, and I've now become so paranoid, so pessimistic about life, that I just can't even enjoy myself 1200 miles away.  We've asked the local communities for help, we've even had a couple offer to help for free, whenever we need them, but anymore we can't trust a single person it seems.  What do I do?  I'm so completely lost.
+
+**TL;DR:** My moms dream of renovating a motel has been smashed by police that refuse to do their job, and thieves. We're out of hope, we're out of willpower, we're out of trust, we're a shattered version of our former selves.  I don't know what to do anymore. I can't even enjoy my own life at this point.  We've worked hard all of our lives in an effort to "live the American dream", and now we're here.  All of our hard earned money spent, and us barely able to walk back into our own homes without wondering if something is missing.
+
+If you want to know more, I could probably type another 5-6 pages in details.  I tried to keep it as short as possible.  I can give you my mothers email address if you would like to try and give her some encouragement, she doesn't know I am posting this here but she could definitely use the support.  bmorris553\[at\]\[g\]\[mail.com\] She is heartbroken like I have never seen another human being in my entire life.  I can't even talk about this without her completely breaking down over it.
+
+*Edit: Before you go about saying that we should have probably got security cameras, etc -- we did.  Those were stolen too.  No security service will secure this place either; to dial for an emergency out there, you have to call 911, give them your phone number and address...they have to hang up with you, call dispatch, and call you back.* 
+
+
+
+
+ Or maybe it's not the back side...maybe it's a print on the front, but in either case here are my thoughts on the idea:
+
+Typical glow-in-the-dark pigment glows green.  It's the Android color, and Gingerbread looks like it's embracing this color a little more (speculation but I'm gonna run with it.) - There are other glow colors to choose from if the manufacturer wants.  (red and blue)
+
+Could this make a difference with battery life? -- Maybe the LEDs could be UV and just turn on for a couple seconds at a time to illuminate the ink and then turn off?
+
+The glow should be dull enough that you don't notice it in the daytime, but doesn't distract (if you're watching a movie or something) at night. 
+
+
+
+
+
+
+
+
+
+ I don't want a desktop widget, but would like a weather icon in my notification area (not when pulled down, but just an icon like when a program is running in the background has), does something like this exist?  Everything I search for is some sort of desktop widget.  If it does exist, it's very hidden.
+
+Edit: If possible, one with an icon for the conditions + temp overlay would be perfect. 
+
+
+
+
+ I don't really know how to do mentorship long-range so I'm kind of looking for any kind of mentorship in the central Florida area; I guess I'm kind of looking for a friend as well to learn things together.
+
+I know a bit of Python (but I'm interested in ALL languages), just enough to scrape me by as I find examples of code that do what I need and modify them to suit my purposes.  I'm also interested in electrical engineering but I have no formal college for any of it.
+
+I really just want to learn.  I've been without a job for a year, I've been building computer systems since I was 12 (back when there was no such thing as "plug and play" and you had to figure out dip switches in order to get a system to boot up) so I'm tech savvy, just lack any formal education on anything specific.
+
+Here is a quick list of all my interests:
+
+* Android development
+* Python, C, Java
+* A/V - Security systems, Stereo systems, Home entertainment
+* Robotics
+* Electrical engineering, interfacing (arduino type stuff?)
+* Linux (Gentoo, Arch, Debian; Anything more advanced than Ubuntu)
+
+My problem is typically motivation: I get disinterested quickly when there isn't someone there to guide me or share the experience with.
+
+If someone can talk me into some sort of long-range mentorship and how I can go about doing that kind of thing (would I need a webcam?  what software?) I'd be happy to try it out. 
+
+
+
+
+ I've been using "TooManyAddons" to group and make profiles for enabling/disabling addons on the fly (well, with a reloadui) in-game for a while now, but it looks as if the author might not be updating it anymore.
+
+I've also been using TidyBar, which stacks up my 3 bottom action bars, puts my mini-buttons + bags in the bottom right (and autohides them) and it seems as if the author cares more about TidyPlates so he won't be updating it right now.  The biggest deal about this bar mod is that it's virtually configuration-less and I don't have to rebind a whole bunch of buttons to use it properly (I'm looking at you...bartender...)
+
+Can you guys suggest some alternatives??
+
+I figure DBM, Grid2, and some of the others I use will update in the next week or so and I can live without them for now. 
+
+
+
+
+ http://voicechatter.net/
+
+This is a shameless plug about a piece of software that I found about a year ago and have been using instead of Ventrilo for a while.  I became part of its community but wanted to share it here, as there seems to be a lack of alternatives out there.
+
+VoiceChatter is an open-source VoIP client very similar to Ventrilo -- It doesn't quite have all the features of Ventrilo (primarily missing some of the fine grained room controls and such) but it's a decently polished voice client that sounds practically identical.
+
+We could use some people testing/trying it out, as it's the ***ONLY*** fully cross platform VoIP software out there at the moment, meaning it has full server, and full client available for Windows, Linux, and Mac (Both PPC and X86 builds are available) and there are also some builds floating around there for ARM processors (for example, you could run a server on your DD-WRT router)
+
+Also feel free to use the public server and the sandbox server to test things out or just use them as you see fit.  (They are both listed on the home page, the one on port 8787 is public, 8888 is sandbox)
+
+If you find any bugs, or wish to request features, we have a forum for that and both me and ChrisW are happy to take any suggestions/feature requests/bug reports -- we're typically VERY responsive to anything on the forum.
+
+The server software is very stable, we've had servers running for 2-3 months with no downtime at all under heavy usage.  We also include auto-restart software and I've developed some python scripts myself for mass server-hosting
+
+Edit: We also need sound/graphic artists to help polish up the client with better looking icons and event notification sounds if anyone is interested. 
+
+
+
+
+ I've got a 1200x1080 monitor I use as my primary monitor, and a 720p HDTV hooked up as a secondary monitor, but every fucking time I play a movie on the second monitor, turn my main monitor off (to watch the movie) then for example, come back to the computer mid movie and switch it on, it deactivates my HDTV, I have to Win+P it back into extend mode, un-fullscreen my movie, move it back over, re-fullscreen it and it gets really fucking annoying.
+
+My Google-Fu turns up TONS of people who have this issue yet no answers to it that work except for people suggesting a registry value change (which doesn't exist in my registry and looks to be ATI specific....I have an NVidia card)
+
+I'm honestly about to revert to XP in the next week if I can't get this fixed.  I don't expect I will but I'm holding out hope.
+
+Maybe I can fix this via a hard-hack?  Are there some data-pins I can clip on an adapter (maybe I can buy a male/female adapter and clip the pins?) 
+
+
+
+
+
+
+
+
+
+ Remember the days when LCDs were first coming out, they all claimed more efficiency and that you wouldn't have all of that *HEAT* of a CRT?
+
+Well, I'm sitting here with a 21" CRT, and a 19" LCD, both of them have been active for the past 2 or so hours, and the LCD seems as if it's actually putting off MORE heat than my CRT.  (Even if it's not more, it's still putting off a *LOT*)  I'm in the market for a new monitor but I can't seem to find any information on which ones emit the least amount of heat.  Heat means my A/C has to work harder to keep the room cool, and while it may not seem like it would matter much, I currently have 4 PCs in the same room (I'm actually looking to replace all of their monitors) - and the A/C can have a hard time keeping this room cool at times.
+
+Where can I find a good 21" or larger flat panel monitor (LCD/LED?) that emits VERY little heat?  Low response times are a must as well.
+
+I secretly wish they'd release sAMOLED monitors already.  I'd be an early adopter. =( 
+
+
+
+
+ I've been looking around, and have noticed that there doesn't seem to exist any kind of open-source bounty system or popular service to set these things up.  If some developer would get the PS3 Dualshock/SixAxis to work on Android, I'd gladly throw down $30 into a bounty of some sort.  Is there some way of "officially" putting a bounty on something that I could maybe charge to a credit card or something?  I would do almost anything to have a full controller with L1/L2/R1/R2 and a SELECT BUTTON...
+
+I found Flattr but that's monthly payments, but hell - I'd setup a flattr account and set 100% of it to the developer of this for a couple of months. (Like $15/mo for a handful of months or something)
+
+ANYHOW: I've done a little research into the matter as well.
+
+First off - The PS3 has to pair via USB cable, or at least be set to pair with a specific device before it will do such.  Basically what this means is setting the Dualshock/SixAxis up with the mac address of the bluetooth device that it will be pairing with using "MotionInJoy" **via USB first** and the instructions I've found [Here](http://forum.xda-developers.com/showthread.php?t=689984) under "Initial one time setup for PS3 controllers. (Note that the software (Cobalt) on this thread is for WM, not Android; but the instructions for MotionInJoy are for using windows to set the SixAxis to accept communication from your Android/PC/Whatever). -- There is also a Linux equivalent for setting this called sixpair.c;
+
+Additional information can be found: (kernel patches, bluetooth patches, connect code)
+
+[Here](http://www.pabr.org/sixlinux/sixlinux.en.html)
+
+[Here](http://wiki.ps2dev.org/ps3:hardware:sixaxis)
+
+[And here](http://python-ps3.svn.sourceforge.net/viewvc/python-ps3/bootable/sixaxis/connection.c?view=markup)
+
+After the PS3 controller has been set, the rest is what needs to be developed.  The author of WiimoteController has stated that this would possibly require root to get working (Something about ports below 1024).  I'm also unsure if this would also need a custom bluetooth stack or maybe at least a patch to the current stack but maybe the CM6 devs would know a little more about this?
+
+Here's some hints as well from the guy who is doing it on WM:
+
+ Once the master address is set to your phone, pressing the PS button will cause the controller to send connection requests to your phone. Listen for devices, no authentication, with hid guid on psm 17 accept the connection request, then psm 19, accept that request, then write .... something can't remember... I have to go back to my code... to set the LEDs so they stop flashing and another code to tell the controller to start sending data. Once u r successful the controller constatntly sends packets of 50 bytes continuously describing the state of the controller, tilt, which buttons are down, up, etc so you just need to check for changes react accordingly.
+
+I hope this post is coherent; on some strong pain meds for tooth infection :(
+
+tl;dr: I'm willing to plop down cold hard cash for someone to get this working.  I've spent the time gathering as much information/existing code as possible.  I could probably buy a SixAxis and send it to a CM dev if that's what it would take.  This could be a real money-maker in the market as well... 
+
+
+
+
+ I really don't need phone service, and texting I typically do through Google Voice anyways so; what options are out there for data-only smartphone plans?  Do *any* of the carriers in the US offer a data only plan?  I've looked all over and I haven't really seen anything indicating that they do. =( 
+
+
+
+
+ We constantly go on about how we shouldn't pirate apps, and how we have no tolerance for it here in the Android reddit but I constantly see posts on "where can I get Swype" and then replies of "google for [x]" and even direct links to downloads of pirated apks.
+
+I understand the frustration of not having it available for your device, but that is no excuse for pirating it or trying to get cracked copies, etc.  I really don't think as a community we should be tolerating this just because we disagree with how the company is handling its releases.
+
+As a community we should encourage alternatives, or direct them to the Swype beta signup, and we should not be tolerating the replies from people suggesting and encouraging this kind of behavior.
+
+Stuff like this:
+
+http://www.reddit.com/r/Android/comments/dcmq3/where_the_hell_can_i_get_swype_for_my_phone/c0z773e
+http://www.reddit.com/r/Android/comments/d6yh4/swype_for_samsung_i5700_spica_320x480_px/c0y0yt3
+http://www.reddit.com/r/Android/comments/d67gu/noobie_boobie_how_do_i_get_swype_today_site_says/c0xuz83
+http://www.reddit.com/r/Android/comments/d67gu/noobie_boobie_how_do_i_get_swype_today_site_says/c0xvidn 
+
+
+
+
+ As far as my own speculation goes I really think Google is trying to unify the best parts of each manufacturers device-specific UI and integrate it into the main Android distribution.  What SINGLE feature of these skins would you guys like to see most?  What problems do you think could be addressed?   
+
+
+
+
+ I ran across a site http://www.javavideotutes.com -- and the videos there were amazingly helpful but the author seems to have disappeared and is no longer uploading videos.
+
+Can anyone suggest something similar that has a linear progression? -- All I ever find on the net is fragmented regurgitated beginners tutorials; this particular site was amazing in the fact that he started from a beginning point and progressed through and advanced the topics as he went along... 
+
+
+
+
+ I'm thinking of printing out some QR code stickers to randomly stick to restaurant tables, phone booths (if they still exist), or just other random places.  Initially I thought maybe it could just be something stupid like "For a good time, call xxx-xxx-xxxx" taking a page out of bathroom scribbles but I'd like to be a little creative...
+
+Any ideas as to maybe some QR code shenanigans or even some ideas?  If you randomly saw a QR code at your restaurant table, you'd probably scan it just out of curiosity right?  How large would a QR code have to be on the front of a restaurant door for you to notice it?  I'm looking for high traffic areas, the content can't be offensive but would be cool to know who visited... 
+
+
+
+
+ Sometimes I feel like the edit timer for the asterisk is too short =( 
+
+
+
+
+ 4 Days ago I posted asking what the best $200 Android device was, and there really wasn't all that much interest in the post so I just went ahead and bought a used Droid 1 for $140.  This is what I've learned so far:
+
+The major problem with not having service has to do with the radio.  You *can* turn "just" the radio off with a special screen (\*#\*#4636#\*#\*).  What this does as a side effect however, is make it so GPS won't operate correctly.  You can do Airplane mode but it turns off your bluetooth as well at that point, leaving you with 2 out of 3 features available to you.  So ok, I figure I'd root, upgrade to a rooted 2.2: Bad idea.  Once you go 2.2, accessing the radio via the "special" method now activates airplane mode ANYWAYS, meaning I'm either stuck without GPS/Bluetooth or have a battery drain that I have to constantly manage.
+
+You can also remove TelephonyProvider.apk and Phone.apk in order to get the device to quit searching for service however it seems that this also affects the GPS in the same way the 2.1 "radio off" version worked.
+
+"So why not just leave the radio on?" you ask?  Well, because according to my battery usage meter "Cell Standby" at that point uses a significant portion of my battery.  Possibly moreso than the GPS uses when active.  Upwards of 38%, right behind the display.
+
+I've searched all over in an effort to turn off the cell radio while also still allowing me to use GPS and Bluetooth or at least maybe disable the tower info it's looking for in order to get it to quit "scanning" for a connection when its lost. -- I'm unable to find anything.  (If anyone DOES have any info on this, I would appreciate it.)
+
+On a GSM device I could probably just remove the sim card or modify the APN settings but no such thing seems to be available in this CDMA device.
+
+GPS even without service (no connection at all in one of the areas I tested) works just fine (just has some sort of artificial limitation that the cell radio be ON), locks on within 20 seconds from a cold boot.  It's accurate when using no cell towers and when I am IN a service area, and have "Use wireless networks" checked, it will still use the towers for rough-location.
+
+I have learned some other interesting things though.  Even without cell service, the Droid still communicates with local towers.  In the Phone Info dialog, when connected with said towers, the software can actually ping google.  I've got some testing to do but if I can get ping responses or DNS replies from any server I choose then it may be possible to communicate without cell service or even data service from Verizon. (however, very very slowly, it would be an ugly ugly hack.)
+
+The OTA updates do not have any sort of wifi backup option to check for updates.  When disconnected and without a Verizon plan the Droid refuses to update at all.  I've had to manually find the Verizon update files in order to get to the point I am now (I actually ended up downgrading to get root then rom manager'ed up to 2.1 then 2.2 testing as I went).
+
+Without phone service you'll also get the activation screen at every boot unless you specifically disable it via something like autostarts, and then it seems to come up coming out of airplane mode as well -- I haven't figured out how to stop this from happening yet.
+
+If I forgot something that you might be interested in, let me know and I'll try it.
+
+***Edit:*** Just spent some time where there was actually good verizon service, took airplane mode off, and reset my battery meter.  Cell Standby dropped down to 3% so a lot of this seems to be a non-issue if you're in the city or at least an area covered by verizon. 
+
+
+
+
+ Now that we *actually* have search, I use it.  But any time I want to restrict my search to a specific subreddit, I have to search, then check the box to restrict my search, and then search all over again to get relevant results.
+
+Could we maybe have a checkbox on whatever page we're on in order to restrict the search?  It might even put a little less load on your server. 
+
+
+
+
+ So, I just sold my iPod touch in order to offset the cost of a "spare" android device, purely for dev/hacking/wifi-only usage.  I'm willing to spend about $200ish for a used device, but I'm not interested in phone service.  I really think the Droid 1 is my best bet due to the hackability of it, but it uses aGPS doesn't it?  Should I just wait for the Samsung PMP that's based on the Galaxy S? (although that breaks my budget by $50, it would be a new device, not used, but I can't know how soon/if it's coming out.)
+
+On that same note, Craigslist is absolutely FLOOOOOODED with kiosk-assholes posting about flashing droids for MetroPCS yadda yadda yadda...is there a better (less spammy) place to get a used device?
+
+I also know that these devices all use aGPS, is the Droid GPS fast enough at gaining a lock that I shouldn't worry about it?  Does the GPS **require** service to work correctly?  Are there any out there that don't use aGPS? 
+
+
+
+
+
+
+
+
+
+ If any of you Android redditors wish for your issue to be taken seriously and not get overlooked by devs, quit using the issue tracker as your personal forum.  The comment section is there only for developers in order to facilitate information exchange, not your "me too!" comments and other junk.  The more you post these kinds of things the less likely the issue is going to be looked at by a developer because they have to wade through all of the nonsense that have nothing to do with actually solving the problem.
+
+Please, just star the issue and move on.  When an issue has 200+ stars, and you comment, you're mass mailing 200 people and they will un-star the issue in order to stop the spam.  You are only working against yourselves by filling the comment section with useless crap.
+
+Thank you in advance. /rant 
+
+
+
+
+ Ok, so I've been doing my own little personal projects with python for about a year now, and I've recently got to where I would LIKE to make some stuff for Android.  Well, SL4A (ASE) doesn't have bindings to the GUI API for Android so that won't work, and SL4A doesn't actually seem to be in the market, you have to hunt it down to allow people to use it.  Oh well.  Next option.  So I figure, hey, java shouldn't be all that big of a step from python right?  Some braces, some semicolons, static typing, no biggie.  BOY WAS I WRONG.  I've become so accustomed to the cleanliness of Python that I'm having a hard time pushing to learn anything else.  There was going to be a Jython android port but as soon as SL4A came along it got canned, that seemed another option but it's no go as well.
+
+So my big question is: How do you learn to cope with another language?  Are there tricks you can use to attempt to make something like java more...pythonic?  I'm running across things like
+
+    public class main extends someclass (View view) {...
+
+and
+
+    private final static string notes="notes.txt";
+
+...and thinking to myself, how do the people using these languages get by on a day to day basis? 
+
+
+
+
+ http://www.appbrain.com/app/me.zed_0xff.android.alchemy
+
+[QR Code](http://chart.apis.google.com/chart?cht=qr chs=250x250 chl=market://search%3Fq%3Dpname:me.zed_0xff.android.alchemy)
+
+*I did a search restricted just to /r/Android and this game doesn't seem to have been mentioned in the past and I thought it deserved some attention.*
+
+The game is pretty simple, it's really nothing more than combining items.  The hard part is figuring out all the combinations.  You start off with Air, Earth, Fire, Water; You can combine them to make different items/things and then combine those and so on and so on.
+
+It's a very addicting game, you'll find yourself trying to make up combinations to try even when you're not actively playing it.
+
+Do yourself a favor and don't google the combinations, its much more fun when you figure them out yourself. 
+
+
+
+
+ There's always a lot of reddit threads about "How do I learn Python", and the ground has been covered quite a bit.  I've completed O'Reilly's "Learning Python" so I'm pretty much past all of the uber-beginner stuff.  Where are all the intermediate materials?  Everything seems to jump from "Ok newbie, let's learn loops!" to "Hey lets start interfacing with C!". Do I need to have an interest at this point other than just one of general programming?
+
+I have managed to compile a few useful scripts with Py2EXE, and work through some of the problems that have come my way on that, so I made myself a nice little 'skeleton' project to package anything else I work on later.  I've also managed to use mechanize/beautifulsoup to scrape and automate a small web-based RPG, and that was fun for a while also.
+
+I have no college education, I graduated from some po-dunk high school that had no enthusiasm for technology so I'm really behind the curve.  I'm kind-of interested in getting some GUIs working but some rather unwieldy results with Py2EXE makes me wary of the packaging process later.  halp! 
+
+
+
+
+ Ok, so here's the thing, I'm always getting caught up in wikipedia and I recently ran across [this](http://en.wikipedia.org/wiki/Organic_LED#Disadvantages).  Which has recently prompted some questions, as well as some conspiracy theories.
+
+1. Are there any browsers that will invert most of your displayed websites color themes, or possibly apply themes ala stylish or something similar? -- This is the quote from wikipedia I'm most concerned about: "[OLEDs] can use over three times as much power to display an image with a white background" (aka, nearly all webpages, apps, etc)
+2. While the 'Live' backgrounds of 2.1 are really a cool thing, one has to wonder if Google did it because of said burn-in issue on the wikipedia page; Almost like a "screen saver" of sorts.
+3. How much does the screen actually account for regarding overall battery usage...40%? 60%?
+4. This also explains the "blue hue" that I've seen some users complain about.  The manufacturers actually produce stronger blue LEDs in the device to account for the fact that a lot of the devices out now will lose a lot of blue luminosity quickly. 
+
+
+
+
+ Hardware Cursor in OpenGL...that is all. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've only been an /r/Android reader for 2 months or so but I regularly see the same questions asked.  Shouldn't we put up some sort of FAQ section or...something?
+
+Here's a list of the questions I see most often:
+
+* Why should I root my device?
+* Can I get X.X upgrade if I've rooted?
+* What device should I get?
+* What apps do you guys recommend?
+
+Obviously if someone is looking for a certain *type* of app, that's cool.  I know we're a friendly community here, and it's also nice to have a voice, but really?  Maybe in this FAQ we could list some other common things as well?  A wiki would be nice... 
+
+
+
+
+ I currently have an iPod touch; now, before you pound on me for that, I'll tell you that primarily I have it for my 2 year old daughter.  There are a bunch of good toddler apps on there that really accelerate her education, as touch screens are very intuitive for a child.
+
+The point I'm getting to, is that there is an app available to jailbroken devices called "Incarcerator" which allows me to disable the IPT's home button (with a special key combination, like holding home and pressing the volume up key), allowing me to 'lock' her into a specific application.  
+
+Does an app like this currently exist for Android?  If not, CAN it exist (are the APIs available for such a thing?).  If it doesn't exist as a global-hook type application, is it possible to build it *into* an app I create? (I'm JUST starting on android development; Toddler apps might be one of the areas I create in and this would be almost required)
+
+I'm really not trying to disable anything other than the home, and possibly back buttons; anything that's on the front of the device that could easily be pressed by a toddler.  Preferably a global application.
+
+This didn't really seem appropriate anywhere else; Sorry if I posted the wrong place. 
+
+
+
+
+ I've recently gotten *back* into programming, and have been learning Python, but my interest has veered more and more to Android development.  Python is AMAZING.  Love it, can't stand semicolons and curly brackets at the ends of lines anymore, I hate parenthesis with a passion if they are overused and I've generally grown to absolutely LOVE the way Python looks and feels as a language.
+
+But I really need something that isn't interpreted.  Not because I need speed, not because packaging can be a pain, none of that stuff.  I need something that can be compiled in order for me to run it on Android (potentially).
+
+Are there any languages out there that have the feel of python, but can be compiled?  Strong, Static typing is fine, I don't mind defining the types of variables I'm using but I really would like to see if there are options available out there that could be used (even a language that perhaps has a converter to convert to C?) 
+
+
+
+
+
+
+
+
+
+ I found this nice little tid-bit [Here](http://code.google.com/p/android-scripting/issues/detail?id=55) - It's just a single comment on the page about "compiling" python apps into APKs, and Alexey.Reznichenko suggests that the feature is coming in the next couple of days.
+
+In looking at his [updates page](http://code.google.com/u/Alexey.Reznichenko/updates), I am noticing some very interesting things like: (Template project for creating custom interpreter APK.) -- there's only java stuff in the file being referred to but he looks to be a very active developer!
+
+Hopefully I'm not getting ahead of myself in being excited.  Even if some unstable code is released I'll be more than pleased. 
+
+
+
+
+ It seems like this fight between the two is going to rage on for a couple years, and it just seems that MOST mac users are a bunch of photoshop geeks.  Why doesn't Adobe just port Photoshop to Linux, drop Mac support and watch as Steve Jobs writhes in agony?
+
+I get that Apple might create some sort of photo-suite but Photoshop seems to be the defacto-standard and a *lot* of people would start ditching macs (not that it's apples core business anymore however) 
+
+
+
+
+
+
+
+
+

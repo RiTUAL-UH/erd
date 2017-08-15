@@ -1,0 +1,869 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I submitted the Washington Post article 2 days ago to /r/technology and it was ignored
+
+http://www.reddit.com/r/technology/comments/2tw1na/google_strong_net_neutrality_rules_wont_hurt_the/
+
+This article is an analysis/opinion as many blogs are.  
+
+People like the idea pushed by this article and it starts a discussion.  I regret nothing! 
+
+
+
+
+ Actually, that is exactly what I already did 2 days ago.
+
+Here is the submission of the Washington Post article
+
+ http://www.reddit.com/r/technology/comments/2tw1na/google_strong_net_neutrality_rules_wont_hurt_the/
+
+reddit completely ignored that article for whatever reason.  However, today, it did upvote this particular analysis. 
+
+People are whining because of how reddit works. 
+
+
+
+
+ The link within the article to the washington post article gives a better feel for the role they are playing in disrupting the cable industry.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Information wants to be free! that looks a great link with some relevant discussion too.   
+
+
+
+
+ Some beautiful pie charts 
+
+
+
+
+
+
+
+
+
+ Data Privacy Day (DPD), celebrated annually on Jan. 28, is an international effort centered on "Respecting Privacy, Safeguarding Data and Enabling Trust."
+
+You nearly had nice timing there.  Maybe next year. 
+
+
+
+
+  
+It's a common misconception that security and privacy are a trade-off, and that privacy must be sacrificed in order to increase security, however this is not necessarily true.  
+
+
+
+Not only can we have security without sacrificing privacy, giving up privacy for security is less effective.  
+
+ 
+---------------------
+
+This is best and most clearly explained by world-renowned security expert, Bruce Schneier:
+
+
+Intro-level description: **[Security vs. Privacy](https://www.schneier.com/blog/archives/2008/01/security_vs_pri.html)**
+ 
+
+Further explanation and more concrete examples: **[Protecting Privacy and Liberty](https://www.schneier.com/crypto-gram/archives/2001/0930.html#8)**
+
+
+The nitty-grittyWhy data mining for terrorists is ineffective: **[Data Mining for Terrorists](https://www.schneier.com/blog/archives/2006/03/data_mining_for.html)**
+
+
+Analysis of the above (breaking down the math):  **[Terrorists, Data Mining, and the Base Rate Fallacy](https://www.schneier.com/blog/archives/2006/07/terrorists_data.html)**
+
+ 
+
+**[Proposed U.S. Cyber-Security Legislation Worries Researchers (2015-01-18)](http://www.eweek.com/security/proposed-u.s.-cyber-security-legislation-worries-researchers.html)**
+
+
+---------------------------
+
+
+Even more on the subject: 
+
+
+One thing forfeiting privacy does do is allow for more control (of *us*):  **[Privacy and Control](https://www.schneier.com/blog/archives/2010/04/privacy_and_con.html)**
+
+
+If we have a right to privacy, then shouldn't the government also have it (for secrecy)?  Absolutely not.  Here's why: **[Privacy and Power](https://www.schneier.com/blog/archives/2008/03/privacy_and_pow.html)**
+
+
+
+**---WHY this is relevant to us right now---**
+
+
+In the U.S., there's [current](http://www.whitehouse.gov/the-press-office/2015/01/13/securing-cyberspace-president-obama-announces-new-cybersecurity-legislat), proposed legislation designed to forfeit our privacy in the name of [security](http://www.theguardian.com/us-news/2015/jan/13/obama-cybersecurity-bill-privacy-campaigners-warning).  ([In the UK, too](http://www.zdnet.com/article/uk-declares-war-on-online-privacy-all-for-the-sake-of-national-security/).)  
+([See Whitehouse.gov site here, under January 13, 2015](http://www.whitehouse.gov/omb/legislative_letters).)
+
+
+**[Obama Sides with Cameron - Believes All Encryption Should be Backdoored](https://www.reddit.com/r/news/comments/2sqtmx/obama_sides_with_cameron_believes_all_encryption/)**  
+
+**([WSJ article](http://blogs.wsj.com/digits/2015/01/16/obama-sides-with-cameron-in-encryption-fight/))**
+
+*([More Reddit discussions](https://www.reddit.com/r/news/duplicates/2sqtmx/obama_sides_with_cameron_believes_all_encryption/))*
+
+
+**[Obama believes law enforcement and government agencies should be given the ability to crack encryption so they "can identify that threat and track that threat" should a threat arise.](https://www.reddit.com/r/news/comments/2sqcj2/obama_believes_law_enforcement_and_government/)** 
+
+**([BankInfoSecurity article](http://www.bankinfosecurity.com/cameron-obama-a-7809/op-1))**
+
+*([More Reddit discussions](https://www.reddit.com/r/news/duplicates/2sqcj2/obama_believes_law_enforcement_and_government/))*
+
+
+**[EFF.org: Obama's Computer Security Solution is a Mishmash of Old, Outdated Policy Solutions](https://www.eff.org/deeplinks/2015/01/obamas-computer-security-solution-mish-mash-old-outdated-policy-solutions)**
+
+
+
+
+**---WHY privacy is important---**
+
+
+Another common misconception is that, "if you're not doing anything wrong, then you should have [nothing to hide](https://en.wikipedia.org/wiki/Nothing_to_hide_argument), or "if you've got nothing to hide, you've got nothing to fear."  
+
+
+Here's why that's unequivocally wrong: 
+
+
+**[The Eternal Value of Privacy](https://www.schneier.com/essays/archives/2006/05/the_eternal_value_of.html)**
+
+**[Privacy and the Fourth Amendment](https://www.schneier.com/blog/archives/2009/03/privacy_and_the_1.html)**
+
+**[Why Privacy Matters Even if You Have 'Nothing to Hide'](https://chronicle.com/article/Why-Privacy-Matters-Even-if/127461/)**
+
+**["'I've Got Nothing to Hide' and Other Misunderstandings of Privacy" - paper by Daniel J. Solove, San Diego Law Review, Vol. 44, p. 745, 2007
+GWU Law School Public Law Research Paper No. 289](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)**
+
+
+**Videos:**
+
+**[TED TALK: Glenn Greenwald: Why privacy matters (20:37)](https://www.youtube.com/watch?v=pcSlowAhvUk)**  (*[Hosted at TED.com](http://www.ted.com/talks/glenn_greenwald_why_privacy_matters)*)
+
+
+Videos that delve deeper into security, privacy, and surveillance:  
+
+
+**[Bruce Schneier: Is It Possible to Be Safe Online? (2014-10) (7 videos totaling 41 minutes)](https://www.youtube.com/watch?v=BUZvvvIFU9c amp;list=PLAc7HoDe-0v0lkDF2eZp8SZ5r73BVtZrv)**
+
+**[Bruce Schneier at MIT 2014-02: NSA Surveillance and What To Do About It (with Q amp;A) (54:13)](https://www.youtube.com/watch?v=QXtS6UcdOMs)**
+
+---------------
+
+Most of the above articles and blog posts are by world renowned security expert, Bruce Schneier.  ([Wikipedia](https://en.wikipedia.org/wiki/Bruce_Schneier), [Economist](http://www.economist.com/topics/bruce-schneier), [Schneier.com About](https://www.schneier.com/about.html), [Guardian](http://www.theguardian.com/profile/bruceschneier), [BBC](http://www.bbc.com/future/search/Bruce%20Schneier), [Electronic Frontier Foundation (EFF.org)](https://www.eff.org/press/releases/renowned-security-expert-bruce-schneier-joins-eff-board-directors), [TED.com](https://www.ted.com/speakers/bruce_schneier), etc..)
+  
+
+
+
+
+ Nice analogy.may borrow it in the future. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There is an article about this pic echoing your thought... 
+["The arguments against vaccines haven't changed in 100 years"](http://www.vox.com/2015/1/28/7923427/anti-vaccine-history-arguments)
+ 
+
+
+
+
+ Another example of how a programme with a stated goal  " drug trafficking " broadens to target normal people.  That it still does things in secret and has to be uncovered is bothersome.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Unlimited Data With Throttling is like going to an all you can eat buffet, but after your first plate of food, they give you a teacup saucer to use as a plate for the rest of your meal. 
+
+
+
+
+ Industry self-regulation groups are a joke when dealing with beasts like Comcast 
+
+
+
+
+ Check this beauty out
+
+https://www.reddit.com/r/technology/comments/2tvgxt/hey_just_a_silly_thought_maybe_its_time_we_stop/co2qzfx?context=3 
+
+
+
+
+ How do your towers ultimately connect to the internet ?  Satellite or fiber or another ? 
+
+
+
+
+   quick synopsis of battle. Keep in mind this is nowhere near to the degree of the story this thread is about.  
+
+**1)** I'd been on Double Play getting 220 channels and HBO+streampix, encore, etc. 50mbps internet too, for 79.99 base price + $10 HD Fee. Pretty good monthly payments of just $96 bucks. I was proud that I managed to get my bill under $100. This has been in service since about Xmas, when I signed up.
+
+**2)** As you all know, Comcast has been pushing X1 Triple Play for a while. X1 Double play was pretty much not allowed except in a select few markets. I wanted the X1 box for a while, due to the features and the UI. (Side note: it's not that great after all -- the UI is sluggish and the features are just so-so). So I finally saw X1TP package offer for 99/month for 12 months, NO contract. I said hey, this is a decent deal. I had no use for the phone, so the increased price due to phone service was always holding me back.
+
+**3)** I sign up with a chat agent for the package. I typically use chat agents for signups, as I'm able to really think out my negotiating tactics with them. Anyways, there wasn't much negotiation to do in this case. She offered the $99 package, and said I'd keep all my existing channels, and that I'd now have X1 service and phone service.
+
+**4)** Tech comes out and installs my stuff. Everything went great, and he was friendly. Techs always seem to be the best Comcast employees, though they're actually just contractors. He leaves, I check out the new X1. Then I realize A) my extra channels (the 80 extra over the 140) are now gone, and B) my HBO, Streampix, encore, etc are gone. 
+
+**Uh oh Comcast.......HERE WE GO. Also, folks -- make sure you record every call with Comcast, whether phone or chat. You'll need it.**
+
+**5)** Over the next 5 days, I end up battling it out with phone and chat support. The results are all over the fuckin place. 
+
+* Hung up on at least 5 times (each time right as they ask for the account number -- how convenient).
+* Forwarded to dead-end departments where noone answers
+* Forwarded to a retentions dept that doesn't seem to have any employees
+* Forwarded to completely wrong depts unrelated to my issue
+* Told I AM supposed to have the channels AND HBO+Streampix
+* Told I am NOT supposed to have the channels
+* Told a ticket was filed with senior authority regarding false advertising from the chat agents promising the channels. Was told I'd receive a 24hr callback. I tell them I bet it won't happen. She promises. Big surprise -- it didn't happen. Never actually received ANY call back in response to that ticket.
+
+**6)** I continue to battle it out with them, and finally get a phone agent to enable my HBO. Turns out the agent that filed the ticket actually turned my HBO on, but never reset my box. STILL missing those extra 80 channels though.
+
+**7)** This week, I called  and chatted to see about getting the promised 80 channels. No results, and agents tell me that I AM and am NOT supposed to receive them. What a surprise. Eventually I got fed up with them, told them they keep lying to me and can't give a straight. I got a little sideways with this particular agent (no name calling, just being aggressive about my disgust with the run around), when my modem suddenly just resets. TV never went out, I checked and zero outages reported. I found that incredibly suspicious, given the timing. After that, I give up and go to bed. It's like 3am.
+
+Later on while researching, I realize 2 things:
+
+A)	If youre signed up for Triple Play, Comcast will NOT allow you to see offers for Double Play packages, or any service level below your current one. All you can see is more expensive packages, and individual services.
+
+B)	Comcast started offering X1 Double Play without announcing it. How did I find out? I had to go to their site, pretend to be a new customer, enter a bogus address down the street, and pull up offers for new customers.
+
+**Theyre intentionally hiding this information from you, and the agent failed to inform me of the availability of the service, despite me making it clear that I had double play and wanted X1. So she intentionally sold me something she knew I didnt need, and the web people are in on it by keeping you from seeing this info without faking your way to the page.**
+So I get on the phone and get an agent to sign me up for Preferred Double Play. In the end, I shot myself in the foot and added $20 to my bill, and all I gained was a $10 X1 box. Leaving my DP plan cost me another $10.
+
+**Once she sets it all up, she says theres a $2 fee for disconnecting the phone services, and that Ill be billed for the Triple Play for 10 days. I say ABSOLUTELY NOT, theres a 30 day guarantee for customers, stated in clear terms on the site.
+
+She responds that I dont qualify. Why?
+
+A)	Im not a new customer. That is the biggest bullshit Ive ever heard, and its NOT in the terms.
+
+B)	I didnt cancel ALL my services. Again, complete bullshit, and NOT in the terms.**
+
+
+
+
+**8)** Fast forward to today. I sent an email yesterday (Wednesday) that was about 4 pages long to Comcast Cares, outlining my experiences with them. I tell them every last detail, I include chat logs, the whole deal.
+
+I reference the exact terms of their 30 day guarantee, I let them know that if they cant support existing customers, how on Earth can they support NEW ones. Business 101 stuff. I request a refund on the Triple Play services for the 10 days, and request that my original 79.99 plan be re-instated on the bill for those 10 days, then they can switch me over to the Preferred.
+
+Im still waiting to hear back.
+ 
+
+
+
+
+ As someone who is currently engaged in nuclear war with them over false advertising, lying, hangups, and intentional disconnections of my internet, I can't wait to witness The Crapture when it goes down. 
+
+
+
+
+ wat? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.ibj.com/articles/51447-utilities-favor-legislation-changing-economics-of-rooftop-panels 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Stopping these sneaky moves is important and necessary. But it's like bailing water out of a leaky boat. To plug the leak, reduce the influence of money in politics: 
+
+
+
+
+ I think it is weird that Marriott even considered the plan and got as far as it did.  Interfering with the spectrum is a big deal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Low incidence, high consequence. Like why intuitively, flying seems more hazardous than driving.
+
+It is a shame that nuclear is unfashionable.  I see so many potential techs like underwater plants , thorium , and more .. would make it safer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Stopping every one of these sneaky moves is important and necessary. But it's like bailing water out of a leaky boat. To plug the leak, reduce the influence of money in politics: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They appear to have dropped the "visualisation of a social network".  Sad  . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/vexillology says South Korea
+
+http://i.imgur.com/QF5zojJ.jpg
+
+ 
+
+
+
+
+ That neck girth 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

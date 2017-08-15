@@ -1,0 +1,5413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ for the movie of this era, all the actress close up shot was done with very soft light and diffuse filter. making the shot very different from the male actor shot that was in the same scene. 
+
+does anyone here know why this style have been abandon in later Hollywood movies?   
+
+
+
+
+ most awesome scene in cinema history
+
+Megashark eats plane
+
+https://www.youtube.com/watch?v=GUS91CkTN74 
+
+
+
+
+ because comic books movie are hot, so it get made.
+
+I am just shocked at the crappy CGI they get from 65 mil budget.  
+
+
+
+
+ will he still be working on District 10? 
+
+
+
+
+ if you are the police, would you come to the shit part of town at night when guns are firing everywhere?  
+
+
+
+
+ must be because car burning have become too mainstream 
+
+
+
+
+ anus bomb are known to be used before. in a attempt to assassinate a Saudi prince. but the bomb used was only enough to blow up the bomber and the assassination failed 
+
+
+
+
+ Seth Rogen can advice on how to take it all in 
+
+
+
+
+ would be funny if CNN actually give up Wolf. 
+
+that will be a exclusive CNN segment with massive rating.  
+
+
+
+
+  The students are supposed to help transform Pyongyangs skyline with new, cutting-edge architectural designs, such as the Ryugyong hotel, a 1,000ft building completed in 2012.
+
+that hotel was designed in the 80s, how is it cutting edge? 
+
+
+
+
+ dont Frozen make more on merchandising this year? 
+
+
+
+
+ the add in the estimated marketing cost 
+
+
+
+
+ how is making 15 mil in the first weekend almost no money 
+
+
+
+
+ they just release ballons that flop into NK, this is more of a publicity stunt for the camera
+
+the movie surely have already enter the NK black market with USD stick and DVD smuggled from china.  
+
+
+
+
+ it does have some good fight scene. it that is what you like.  
+
+
+
+
+ for Pompeii they did get their money worth in the special effect, it looks quite good, if only it have a better script. 
+
+
+
+
+ his version of Hercules is a financial success, he did carry that film 
+
+the one that tank is the Kellan Lutz version that have terrible effect with even more terrible acting 
+
+
+
+
+ how the hell does I, Frankenstein cost so much money, all the effect in the movie looks cheap as hell 
+
+
+
+
+ they do tweet beheading and mass execution photo 
+
+
+
+
+ maybe buying petrol from the US at market price to give away at almost free price at the gas station is not a good idea?
+
+ 
+
+
+
+
+ execution is the punishment for watch SK tv series. so i would guess the same will be applied  
+
+
+
+
+ so he plan to honeydick superman? 
+
+
+
+
+ NK have thousand of trained hackers that have been attacking SK for years 
+
+
+
+
+ why would it not be possible? NK have military unit specificly setup for cyber warfare. there are thousand of trained hackers in NK, south korea have face cyber attack from them for years.
+
+also the NK can hire outside contractor to do the hack or even pay off insider. they got the money from cooking meth to pay those people. 
+
+
+
+
+ when he suit up for the interview, that is Bruce Wayne right there.  
+
+
+
+
+ that is what they mean by not getting theatrical release, movie go straight to video 
+
+
+
+
+ that is because of the plane are first in canada to move to metric. 
+
+in south east asia where this missing plane operate. other than myanmar, everyone have been on metric for decades. why would the same problem happen? 
+
+
+
+
+ if you know how to read mandarin, the comments there would let you know that many of the chinese people are tired of NK's shit. maybe NK also remind them of the dark days of culture revolution with the personality cult. NK is the country they may have become if not for the reform in the 70s.
+
+many call KJU with derogatory name , or fatty kim the third 
+
+
+
+
+ it is only legally available in US and later canada, though it is the hottest movie in china 
+
+http://movie.douban.com/
+
+in china movie website the movie is currently the most discussed film, ahead of Gone Girl 
+
+
+
+
+ dont the major theater chains have policy against showing moview that are on VOD sameday release?  
+
+
+
+
+ The Neutrinos Have Mutated! 
+
+this line was deliver like a serious scientific fact  
+
+
+
+
+ it does not, the small budget movie on limited release will never get the same level of publicity as this movie.
+
+and theater hate same day release on VOD, i believe the big chain have policy to not release movie that are on sameday VOD release 
+
+
+
+
+ you are forcing you body to lose fat when doing exercise, many people just cannot be bother with it while want to lose fat sitting on the sofa.
+
+this is a absolute blockbuster drug if it work. looking the all those fake fat burning drug on the internet you know there is a massive market for it 
+
+
+
+
+ it is a Indonesian plane that gone missing 
+
+
+
+
+ it is highly unlikely anyone to go missing on a plane. people gone missing on land all the time.  
+
+
+
+
+ so do you go on a car which is much more likely to have fatal accident? 
+
+
+
+
+ not likely, it is in shallow sea and the plane dont have much fuel on it to go into indian ocean. they are going to find it soon 
+
+
+
+
+ if flight are cancelled due to the monsoon and thunderstorm, traveling in the tropic would be a bitch, essentially fight grounded for months at time.
+
+in south east asia there could be multiple thunderstorm every single day for weeks at a time.  
+
+
+
+
+ planes use to crash much more often in Indonesia. the last few years have been good improvement to their safety record after a string of crash shake up the industry 
+
+
+
+
+ they re-appeared when the wreckage is found 
+
+
+
+
+ Rodman got totally honeydicked
+
+Skylark represent useful idiot conned into believing all the good thing by a dictator which seen to be a real chill dude. 
+
+
+
+
+ i dont think anyone there would not be so stupid to use their gov controlled internet connection to download it.
+
+they will get it from black market copy of dvd or USB drive that come over from china.  
+
+
+
+
+ but the end was the US agent have been manipulated by the NK honeypot into implementing the NK revolutionary plan, not the CIA plan. 
+
+
+
+
+ i dont see how this is destroying their reputation when they have always been making threats that was never executed.  
+
+
+
+
+ Sony did not even try very hard to DRM their online release.
+
+likely they do it on purpose to let high quality copy swamp the internet 
+
+
+
+
+ of course no mortal can compare to the immortal glorious leader that does not shit 
+
+
+
+
+ they already called SK President a "crafty prostitute" in thrall to her "pimp" Barack Obama.
+
+ 
+
+
+
+
+  Nothing gets solved by force
+
+a lot of things are solved by force, most of the border in the world today are settle by war, and many nation only exist because they won their war.
+
+  It'll cost a heck a lot less to solve the issue from the root by properly educating the next generation about religion, faith and the actual lack of scientific evidence about these beliefs.
+
+how are you suppose to do that when ISIS is control of the area and if you open that school to educate the kids of that. the school will be blown up soon and the kids massacred  
+
+
+
+
+ now that is the kind of upstanding organization kids can look up to 
+
+
+
+
+ where did you get this impression, after the hays code ended anti heroes and villain are often the main character in hollywood movie.
+
+taxi driver, godfather, scarface, unsual suspect, LA confidential, se7en, heat, there will be blood ... 
+
+
+
+
+ in some countries, it is required by gov regulation that hero win in the end
+
+ 
+
+
+
+
+ foreign film can be much more out there with the tits and bloods.
+
+a example is Cidade de Deus, if Hollywood do a remake of this, they would tone down the violence committed by kids in the movie 
+
+
+
+
+ this are feature of movies from every country, some can be even more over the top than anything hollywood have done.
+
+ 
+
+
+
+
+ I have not watch the movie, will I be making a huge mistake if I do? 
+
+
+
+
+ i afraid the south korea will win that game of star craft even when their internet go out, they are just that good 
+
+
+
+
+ Ida is literally porn for photography enthusiast, before i watch it i have doubt about using black and white 4:3 aspect ratio to shoot a modern movie. just a few minutes into it i was amazed by the cinematography and how well it help to tell the story with few dialog.  
+
+
+
+
+ maybe their fax is also under solid black fax attack 
+
+
+
+
+ what make it more plausible is that the world in PR are very much changed by the kaiju war. they show changes that happen to technology, economy and society. 
+
+in Transformers, even after the robots have battled several time in the center of major cities over several years, only minor changes was seen to have happen to daily life of the human character. 
+
+
+
+
+ Clint Eastwood in Unforgiven,
+
+I've killed women and children. I've killed everything that walks or crawls at one time or another. And I'm here to kill you, Little Bill, for what you done to Ned.
+
+
+All right, I'm coming out. Any man I see out there, I'm gonna shoot him. Any sumbitch takes a shot at me, I'm not only gonna kill him, but I'm gonna kill his wife, all his friends, and burn his damn house down.
+
+
+the entire final shooting scene is just the most badass shit ever 
+
+
+
+
+ the CGI is much better in PR, there is a real sense of weight behind the robot and monster, you feel the robot running and throwing every punch. 
+
+and every robot and monster are much better designed than transformers. each have different looks and ability that allow you to know which is which instantly. a lot of the robot in transformers looks too much alike. which is very confusing when they fight, especially with the way Bay shot those fight scene. 
+
+
+
+
+ wait, what???? 
+
+
+
+
+ it is a good bet
+
+if they release the movie this week, it will make so much money with all the free publicity 
+
+
+
+
+ did they do unnecessary arrests and summonses before this? 
+
+
+
+
+ like that british movie from 2006 about the assination of bush? 
+
+
+
+
+ because he cancelled the apocalypse 
+
+
+
+
+ the best movie you will not get to watch
+
+if this is a marketing move by SONY, the marketing guy need a raise 
+
+
+
+
+ maybe the same guy that counted the 140% votes for Putin 
+
+
+
+
+ when the screening start, the door closed and speaker start playing the rains of castamere .... 
+
+
+
+
+ how about the movie that show the assassination of Bush that come out when he is still in office?  
+
+
+
+
+ nothing weird, all these are factual documentary film that follow Liam Neeson ass kicking career after his wife die.  
+
+
+
+
+ they will execute you if found with this imperialist pig dvd 
+
+
+
+
+
+
+
+
+
+ there are korean that duplicate USB stick loaded with SK movie and tv show to smuggle into NK.
+
+this is a big concern for NK since people see the huge different in material wealth of the outside world through this video,
+
+punishment is death if you are caught
+
+http://www.independent.co.uk/news/world/asia/north-korean-officials-publicly-executed-for-watching-south-korean-soap-operas-9825170.html 
+
+
+
+
+ NK already investigated itself, found that they have the most awesome human right record in the world, a true workers paradise on earth 
+
+
+
+
+ how is this glorify him? now the entire world know he is a serial rapist that murdered his wife in addition to being a crazed fanatic.  
+
+
+
+
+ That movie is ender's game 
+
+
+
+
+ more mindfuck than seeing magneto, professor x, bane and Jimmy Fallon? 
+
+
+
+
+ the ship will shutdown halfway through the journey and they all die 
+
+
+
+
+ it fires bullet of peace that cure cancer when enter a human body 
+
+
+
+
+ The dock scene
+
+https://www.youtube.com/watch?v=ncW0fQnyOJQ
+
+The whiskey scene
+
+https://www.youtube.com/watch?v=EZYBehUW5c8 
+
+
+
+
+ This man is a scholar and a genius.
+
+Colbert 2016  
+
+
+
+
+ we need a TV series about a police dog that struggle with a cocaine addiction while fighting crime 
+
+
+
+
+ this prove Android is the only way to go for such vital mission. 
+
+
+
+
+ Glorious hacking for Glorious leader 
+
+
+
+
+ does this count as method acting? 
+
+
+
+
+ people still give attention to birth announcement on paper? 
+
+
+
+
+ never trust someone that ask you to die for something if he is not the first person leading the charge.  
+
+
+
+
+ and that people will always think he know nothing 
+
+
+
+
+  there are sect that dont even accept blood transfussion, any kind of blood, homo or non-homo  
+
+
+
+
+ interstellar is one of the highest rated movie this year on china version of IMDB
+
+http://movie.douban.com/subject/1889243/?from=showing
+
+currently rated at 9.2/10 
+
+
+
+
+  He was charged with criminal damage, trespass and breach of bail
+
+the guy is out on bail and he break into police station? 
+
+
+
+
+ did people actually pay money to watch this match? 
+
+
+
+
+ all hail glorious leader? 
+
+
+
+
+ damn Chewbacca kiss Leia behind the back of Han, bros before hos, yo 
+
+
+
+
+ or it make perfect sense 
+
+
+
+
+ how can the dog live with the shame? 
+
+
+
+
+ so he need to start taking drug again for his art? 
+
+
+
+
+ movie are always being remake since the like the 1920s 
+
+people will always want to remake previous movie with the latest movie making technology of their era.  
+
+
+
+
+ it is not about north korea, it is the jokes about north korea in the cultural context of the US will be difficult to understand. 
+
+
+
+
+ comedy that are not purely slapstick does not do well outside of its home market, foreign market would not understand the cultural context of the joke. 
+
+
+
+
+ homeopathic people that are offering BS for serious illness should be arrested. they are endangering the life of these people by giving them false hope and keeping them from getting real treatment. 
+
+
+
+
+ this will be removing entire china mainland internet, pun is everywhere on chinese online forum and their version of twitter.
+
+many people are using pun with different word to avoid harmonization by the internet police. 
+
+
+
+
+ Tropic Thunder 
+
+
+
+
+ so the gay cure group is just his way to meet single gay dude? 
+
+
+
+
+ and those music on vinyl are not compressed? 
+
+
+
+
+ Freak and Geeks reboot by Seth Rogen and James Franco 
+
+
+
+
+ this kind of news come up time and again for the last few year, but how many of the people are just buying the record for hipster living room decoration VS actually listening to it?
+
+I highly doubt vinyl is coming back in any meaningful way. 
+
+
+
+
+ but she will shot you in the head over and over again once you show sign of weakness 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ alien 3, that movie seriously screw up several important character of the franchise. 
+
+
+
+
+ Dillon, you son of a bitch!
+
+this should be one of it because it resulted in the most epic handshake in the history of mankind 
+
+
+
+
+
+
+
+
+
+ there is so much shaddy stuff scientology have been up to, they have to choose some to focus on, else the documentary would be several hour long. read books on scientology if you want all the other detail. 
+
+
+
+
+ if it was made today, the story will take place in a oversea outsource center. and the outsource center desperate to keep the contract from moving to another new outsource center that are cheaper. 
+
+
+
+
+ what will happen to Mitt's jaw if Holyfield land a uppercut with full force? 
+
+
+
+
+ if they want to ban hide and seek, they should not have purposely design the store to be a maze in the first place.
+ 
+
+
+
+
+ they are literally doing marketing for HBO 
+
+
+
+
+ couch making millions of dollar complain about player entitlement is the clincher. 
+
+
+
+
+ Heat 
+
+
+
+
+ this mean stealth mode is working  
+
+
+
+
+ this is not credible use of nuke, no one would believe he is ready to use nuke for crimea. nuclear deterence only work if the other side believe you are ready to use it. 
+
+
+
+
+ My history may be fuzzy, but i remember learning that a major expansion of the federal government that allow for the mustering of men and resources to defeat the confederate army is what ended slavery in America? 
+
+
+
+
+
+
+
+
+
+ Mega Shark VS Giant Octopus, where the shark jump out into the sky to eat a jetliner 
+
+
+
+
+ bringing the wrong beer is surely a violation of the brocode. 
+
+
+
+
+ the weird thing is some conservative are trying to take him down for spreading jihad. 
+ 
+
+
+
+
+ so only the faith they decide is correct will be allow to have marriage? 
+
+
+
+
+ The upcoming blu-ray release next week is only 165 minutes, will the 4 hour version be release anytime soon?
+
+this movie looks it can be another Kingdom of Heaven where the extend cut make it a much better movie than the one shown in cinema.  
+
+
+
+
+ but he is not conning a child, he is openly asking money for a G650.  
+
+
+
+
+ looks the the Russian way of life have annex Ukraine 
+
+
+
+
+ what is wrong with this, if willing idiots are ready to give money for him to buy a jet? 
+
+
+
+
+ Toy Story  does not have a happily ever after ending. 
+
+
+
+
+ the entire premise of Shrek is a parody of standard fairy tale movie tropes. happily ever after ending is one 
+
+
+
+
+ but Elsa dominate Anna in merchandise sales. 
+
+
+
+
+ For a long time during the movie development Elsa is a villain, the slot for the let it go song is the transformation song for Elsa to become a villain, but when let it go was made, they decided to change the story line and change Hans to be the villain. before that point, Elsa show all the trait of a villain character, and Hans show all the trait of the traditional hero Prince Charming. 
+
+
+
+
+ those are nepotism casting, not really costing any money to cast. 
+
+
+
+
+ happily everafter ending does not lead itself to sequels.
+
+since nothing bad will ever happen to the main characters, how can you make the movie work? 
+
+
+
+
+ the Corgi dont look impressed  
+
+
+
+
+ well, i he want more epic mission that inspire kids, how about he lobby for increase of NASA budget by 100 time current value? 
+
+
+
+
+ he will quit to live a life of peace, but they will drag him back in.... 
+
+
+
+
+ what is the safe word? 
+
+
+
+
+ is this just a marketing move by Tesco to sell boner banana? 
+
+
+
+
+ just one of the most insane thing they have done check out operation snow white
+
+http://en.wikipedia.org/wiki/Operation_Snow_White
+
+This project included a series of infiltrations and thefts from 136 government agencies, foreign embassies and consulates, as well as private organizations critical of Scientology, carried out by Church members, in more than 30 countries.[1] It was the single largest infiltration of the United States government in history[2] with up to 5,000 covert agents.[3] This operation also exposed the Scientology plot 'Operation Freakout', because Operation Snow White was the case that initiated the US government investigation of the Church.[3]
+
+
+Operation Freakout
+
+http://en.wikipedia.org/wiki/Operation_Freakout
+
+Operation Freakout, also known as Operation PC Freakout, was a Church of Scientology covert plan intended to have the U.S. author and journalist Paulette Cooper imprisoned or committed to a mental institution. The plan, undertaken in 1976 following years of church-initiated lawsuits and covert harassment, was meant to eliminate the perceived threat that Cooper posed to the church and obtain revenge for her publication in 1971 of a highly critical book, The Scandal of Scientology. The Federal Bureau of Investigation discovered documentary evidence of the plot and the preceding campaign of harassment during an investigation into the Church of Scientology in 1977, eventually leading to the church compensating Cooper in an out-of-court settlement.
+ 
+
+
+
+
+ most advance sound studio that only mix in 5.1 surround. what is this, the 80s?
+
+also the credibility of the video instantly collapse when they mention the father. they must have fail to dig up more juicy dirt on the guy if that is the only this they have to attack him 
+
+
+
+
+ he better call Saul 
+
+
+
+
+ no, they have almost univeral literacy rate and most arab countries have not been fighting major war since the 70s. several of the arab countries are the richest in the world.  
+
+
+
+
+ Les Cousins Dangereux 
+
+
+
+
+ but she did kill a unkillable immortal in battle due to semantic. 
+
+ 
+
+
+
+
+ Lord Elrond have already told her this will happen. kids just never listen to their parent anymore.  
+
+
+
+
+ he was in the greatest american cop show in history - The Wire 
+
+
+
+
+ that movie is no way hot enough to induce such reaction 
+
+
+
+
+ seem like ginger all look like one family?
+
+he did played Julianne Moore's son before in a incest movie.  
+
+
+
+
+ if a .50 cal hit his skull, what can he feel in a split seconds before his head explode like a watermelon? 
+
+
+
+
+ he should legally change his name to Jihadi John, that is a must more catchy name 
+
+
+
+
+ Eike Batista should sue that monk who told him he will be the world richest man by 2017. that man is a con artist 
+
+
+
+
+ she knew Claire will be surfing porn not reading it 
+
+
+
+
+
+
+
+
+
+ did you cause them to question their sexuality? 
+
+
+
+
+ is he in deep cover to infiltrate white power group? 
+
+
+
+
+ is this first time that ginger win both best actor and best actress.
+
+and this is on national ginger awareness day
+
+
+ 
+
+
+
+
+ the man is a powerful sexual being 
+
+
+
+
+ what is Diaz doing here, and why she did not bring Peralta and Santiago? 
+
+
+
+
+
+
+
+
+
+ does Claire know? 
+
+
+
+
+ more people should watch this show, it is funny as hell. Matt Leblanc should be lock for another Emmy nomination for this season 
+
+
+
+
+ this is a great segment for series. the characters in the show mostly interact with each other in this awkward way and it is so goddamn funny. 
+
+
+
+
+ Triple J : the legend return.  
+
+
+
+
+ shooting still photography is one thing, shooting even a short movie on film would cost a lot of money compare with digital capture where you can use even iphone to shot and process it in the laptop you already own. not requiring special labs and tools for process and editing. 
+
+
+
+
+ Phil again let slip his desire for brown sugar 
+
+
+
+
+ some time you just have to roll the hard six 
+
+
+
+
+ must be a slow news day when they need to comment on a movie that come out more than a year ago 
+
+
+
+
+ can you really call the Osteopathic board a medical board? are Osteopathic doctors even real doctor? 
+
+
+
+
+ Ida is brilliant, the movie have so few dialog and the image are the one driving the story telling. every scene in the movie can be printed out and hang on the wall as art by itself. 
+
+
+
+
+ it is just brilliantly shot, in every scene of the movie. it is certainly the best looking Bond movie ever.  
+
+
+
+
+ but the copying machine lie detector is 100% accurate
+
+https://www.youtube.com/watch?v=AJ5aIvjNgao 
+
+
+
+
+ Cub Scout membership just spiked 
+
+
+
+
+ it is a good choice, unforgiven have some of the most badass quote on revenge in cinematic history
+
+ All right, I'm coming out. Any man I see out there, I'm gonna shoot him. Any sumbitch takes a shot at me, I'm not only gonna kill him, but I'm gonna kill his wife, all his friends, and burn his damn house down.
+
+
+
+I've killed women and children. I've killed everything that walks or crawls at one time or another. And I'm here to kill you, Little Bill, for what you done to Ned. 
+
+
+
+
+ a road of damascus moment?
+
+would he now spread the gospel of black Jesus to white power?  
+
+
+
+
+ i think they support repealing obamacare, but they like ACA. 
+
+
+
+
+ Hitler rant video incoming 
+
+
+
+
+ the internet disagree, Loki FTW 
+
+
+
+
+ is this a guy a actual doctor? why he stop a chicken pox, do he also think getting smallpox is a right? 
+
+might as well shutdown hospital ICU and stop all medical operation, those are just messing with natural order of thing.  
+
+
+
+
+ https://www.youtube.com/watch?v=3FXN7huKqxM
+
+the scene where mega shark jump out of the water and eat a plane.
+
+i challenge anyone to prove a more epic scene in the history of motion picture 
+
+
+
+
+ Kingdom of Heaven, the cut that was in theater is terrible compare with DVD version 
+
+
+
+
+ Disney princess animation film before Frozen are never suitable for sequel, the story always end with the princess getting marry and live happily ever after.  
+
+
+
+
+ this is totally unnecassary, Charles and Erik OTP forever 
+
+
+
+
+ they should hold a worldwide conference of all the jihadi groups to settle this issue. 
+
+Pentagon will be willing to host the event and provide catering for free. 
+
+
+
+
+ they will be the one in control, the princelings are going to be ruling class, why would they be rocking the boat? 
+
+
+
+
+ nope, that is dude love's fanny pack. Mick have nothing to do with it 
+
+
+
+
+ photography is also not created from physical element, it is light that hit a piece of film or sensor 
+
+
+
+
+ Samual L Jackson, in the sex faces interview 
+
+https://www.youtube.com/watch?v=QKmn1ZGDbLg
+ 
+
+
+
+
+ she did read english at Oxford 
+
+
+
+
+ https://www.youtube.com/watch?v=uN_sSXKbzHk
+
+The Hot/Crazy Scale by Barney Stinson can help you with that decision 
+
+
+
+
+ of course, they are giving their kids the best education available to get ahead in life, but local education is for controling the people. you cant have student again go out into the street for democracy protest like 89. 
+
+
+
+
+
+
+
+
+
+ Schindler's List Redux : It's ass kicking time
+
+ 
+
+
+
+
+ https://www.youtube.com/watch?v=CiWhU_MoblM
+
+Rosamund Pike on Rehearsing Sex Scenes with Neil Patrick Harris for Gone Girl 
+
+It's all well and good until David Fincher and Ben Affleck show up to watch. 
+
+
+
+
+ Ninja? it is Jonny Karate 
+
+
+
+
+ how you feel about it depend on how much drug you are doing while watching 
+
+
+
+
+ you should understand that leukemia kids cannot take vaccine, they depend on all other healthy kids to be vaccinated to have herd protection from all these preventable disease.  
+
+
+
+
+ 100 years from now, people may not remember all the controversy of his business strategy, but if just half of what his foundation's goal have been achieved. the world will be much improved, billions of people will benefit from it. 
+
+
+
+
+ McCain getting senile already? 
+
+the only great thing about her being candidate is the comedy material she will deliver for late night talk show host 
+
+
+
+
+ how do you have workshop on gays? what will it be doing?
+
+and why is there only two sides? 
+
+
+
+
+ so who will stand up to speak for the homophobic side?  
+
+
+
+
+ why would CGI be death knell of cinema when it just make movie special effect look much more realistic and open up all kind of creative possibility? movies that will look fake as shit and impossible to film in the pass have now become possible.  
+
+
+
+
+ I always thought killing yourself because pending apocalypse is a waste of effort. since everyone is going to die in the apocalypse anyway, why go to all the trouble of suicide?  
+
+
+
+
+ eviction is too damn fast will be the next campaign 
+
+
+
+
+ i open the link hoping for some sick sexual stuff, end up with just boring deflategate. 
+
+
+
+
+ Benghaziception 
+
+
+
+
+ why does their hacks all looks like dick move to prevent people having fun. 
+
+first blocking people from playing video game, them trolling an airline disaster, and now messing with facebook. 
+
+
+
+
+ it should be shock to everyone seeing it the first time, the things that they have done and able to get away with is just terrible 
+
+
+
+
+ why would sanction against Russia stop the buying of AK-47 when there are knock off made by so many of countries 
+
+
+
+
+ Iraq having WMD is a know fact and they have use it to put down uprising. there is no lie about it. 
+
+the lie is about the mobile weapon factory.  
+
+
+
+
+ I remember there is a hilarious case of a athlete blaming god for his loss, something like how can you do me like this. 
+
+
+
+
+ make it happen
+
+http://i.imgur.com/BmdQ0wP.gif 
+
+
+
+
+ they really are intent on making the entire world their enemy, have they found hostage of any nationality they dont like to execute? 
+
+
+
+
+ they are not doing this since the French revolution?  
+
+
+
+
+ everyone that can need to be vaccinated to protect those that cannot 
+
+
+
+
+ this title is so murica 
+
+
+
+
+ Romney/Bush 2016? or Bush/Romney 2016? 
+
+
+
+
+ 160 lawyers may not be enough for fighting scientology 
+
+
+
+
+ damn kids these days, cannot even show up for work on time 
+
+
+
+
+ the 10 mil can all be use to support the usb stick smuggling operation currently going on from chinese border town. the foreign tv and movie going into NK are the most dangerous things for the regime.  
+
+
+
+
+ why does war need to be declared when there is a perfectly good war still ongoing?
+
+the korean war have not yet ended. 
+
+
+
+
+ looks like seperation of church and state does not exist in Russia 
+
+
+
+
+ How about some respect for satanist?
+
+ 
+
+
+
+
+ should water be label to contain chemical element of H2O? 
+
+
+
+
+ of course the way to protest a paper that make fun of all religion is to burn down a rival religious establishment. make perfect sense.  
+
+
+
+
+ "A bunch of rag tag militiamen defeated the most powerful and professional military force on the planet. Why? Because they believed in what they were doing. They were willing to die for what they believed in," 
+
+he is ignoring the fact that the revolutionary army have massive help from the professional military of France?
+
+ 
+
+
+
+
+ true AI mean machine can think for themselves and not do exactly what they are told.
+
+the AI will study the human history of self destruction and decide to take drastic measure to safe guard human race from itself. 
+
+
+
+
+ AI will conclude the best way to protect human is to reduce the number of human and keeping human under control so that human will stop killing each other like they have done since the dawn of humanity.
+
+it is the logical thing to do. 
+
+
+
+
+ how is this all white when Selma is nominated for best picture?
+
+and there is also a Japanese animation nominated.
+
+the technical nominees include several non white people.  
+
+
+
+
+ so the pipeline go through Turkey and Greece? not sure if that is such a good idea considering the bad blood between the two 
+
+
+
+
+ i think some of them are undercover sent to check out the place so they left if nothing interesting is happening there 
+
+
+
+
+ i dont think that is what Jesus would do 
+
+
+
+
+ you do know that it is because of the British colonial gov that slave trade stopped in Nigeria? 
+
+
+
+
+ what have happen with the national broadband plan over there? heard about it a few years ago. 
+
+
+
+
+ Eric Clapton, his career highs and lows, the Clapton is God era, Pattie Boyd, the numerous awesome band he was in, the cocaine, the death of his son, the unplugged concert. 
+ 
+
+
+
+
+ if is invisible in the media, how did you learn about it?
+
+also the problem is that it is very difficult to learn what is happening in boko haram inflicted region of Nigeria and the Nigerian government also cannot provide a answer on what have happen after so many days. even the number of death have not been counted precisely.
+
+when those girl got kidnapped. for months the total number of the girls help by boko haram, their location are not known. 
+
+this article on BBC explain in more detail why it is almost impossible to know what is happening on the ground there
+
+http://www.bbc.com/news/world-africa-30794829
+
+ 
+
+
+
+
+ actually you should wish for more banks so they are not too big to fail. 
+
+
+
+
+ The scene where Mark Walberg stop and chugs a cold one deserve a special award on its own 
+
+
+
+
+ if the bank is under assault, many bank CEO would be in jail 
+
+
+
+
+ I am not sure this is family viewing material 
+
+
+
+
+ now the FBI should investigate who have been poisoning him for years, just look at the dude, he is orange. 
+
+
+
+
+ should stop using battle to describe cancer, it is like saying those that die from cancer is just not fighting hard enough like those survivor.  
+
+
+
+
+ streetname getaway  
+
+
+
+
+ Atlantic City casino have bleak future while Macau is rolling in money, it is the most profitable gambling market in the world. 
+
+
+
+
+ he already quit his show to prepare for another run, it is going to be comedy gold 
+
+
+
+
+ i thought it was reported the rally initially was only suppose to be a european affair. it is just those other leaders invited themselve to be there for the photo ops? leading to a ironic scene of so leaders that oppressed journalist at home walking there to support press freedom. 
+
+
+
+
+ the title is incorrect, they dont blame regular generic jews, it is magical jews that are behind this.  
+
+
+
+
+ damn, i thought Ricky Martin have really hit rock bottom suddenly 
+
+
+
+
+ 21 Jump Street, was not expecting it to be such a funny movie 
+
+
+
+
+ but earth is in no danger at all from this climate change, it have been much hotter and much colder before and will keep on going. it is the eco system that human depend on to survive that will die and human will die with it. the earth would be totally fine with any other new ecosystem that come after.  
+
+
+
+
+ would the republican party allow this to happen again? this guy would be leading them into another crushing defeat. 
+
+surely there is someone better in the roster to be call up  
+
+
+
+
+ it print 60k and usually only sell 30k, it is at risk of going out of business. now they are almost certain to survive for years to come with massive boots to their distribution 
+
+
+
+
+ IIRC nigeria always maintain they got this under control and soon to defeat Boko Haram. it would be humiliating for Nigeria as an country that are aspire to be the regional power to need foreign troop in their country to take down a rebelion 
+
+
+
+
+ 23 Jump Street Medical School already released? 
+
+
+
+
+ who would have know fish are such racist 
+
+
+
+
+ So rare to have honest man these days 
+
+
+
+
+ those idiots already fuck up big time, Charlie Hebdo have low circulation and was close to shutting down before this attack. they have virtually make sure the paper will have massive increase in circulation and certain to survive for years to come.  
+
+
+
+
+ will ISIS take AQ to court for claim over this attack.
+
+ 
+
+
+
+
+ this is a Liam Neeson movie  
+
+
+
+
+ the party is not for the daughter, it is for dad to party with jail baits 
+
+
+
+
+ BBC have a 6 part docudrama on Rome which is good.
+
+https://www.youtube.com/watch?v=0kW-z7gUbuI
+
+http://en.wikipedia.org/wiki/Ancient_Rome:_The_Rise_and_Fall_of_an_Empire
+
+ 
+
+
+
+
+ these day, the only place to get quality documentary on nature and history is on BBC. and also some of the PBS series, especially those by Ken Burns 
+
+
+
+
+ the reason why he cannot have an affair is because he is head of the CIA, as someone with access to so many secret, he cannot be in a position which make him vulnerable to blackmail. 
+
+
+
+
+ i think a better idea would be that they make it a animation feature, since Kristin Chenoweth and Idina Menzel are consider too old by the studio to play the role in the live action movie. but they will be perfect for a animation version. 
+
+
+
+
+ if Anna Kendrick's two other musical movie this year are box office hit like into the woods. she will surely be cast in this one.
+
+https://www.youtube.com/watch?v=SEdnIvnCko8 
+
+
+
+
+ sexy phil
+
+http://i.imgur.com/IlOGk4S.gif 
+
+
+
+
+ they scan at higher resolution precisely because 4k and 8k are coming to comsumer, they don't want to do the mastering again every time higher resolution release is required
+
+this is a article about the scanning process way back in 2008
+
+http://news.bbc.co.uk/2/hi/programmes/click_online/7525143.stm
+
+The digital remastering process begins by scanning the reels of film, frame by frame at 2,000 pixels across, about the resolution of high definition TV. 
+
+At this resolution the machine can scan 18 frames a second, meaning the film moves through the scanner at about two thirds of the true speed. Every single frame can generate 13MB of data. 
+Increasingly, the studios are scanning at 4,000 and even 6,000 pixels across, in order to prepare the films for even higher resolution. 
+
+Scanning at these resolutions generates immense amounts of data - a typical 4,000 pixel film will take up at least 12TB, before any work is done on it. 
+
+Luckily, Warner Bros has a rack of machines which provide one petabyte (1000 terabytes) of storage. 
+ 
+
+
+
+
+ Hans was suppose to be a good guy in the movie, up to the point they started writing the villain song for Elsa. they sort of mess up the point of the villain song when it resulted in Let it go. but after everyone hear the song they decided to rewrite the rest of the movie to fit the song. poor Hans suddenly become the villain since Elsa can no longer be evil 
+
+
+
+
+ Elsa is actually the key to the nation economic boom, since they export ice, she can mass produce ice right at the port ready for export at every season. 
+
+Arendelle would soon be rolling in gold. 
+
+
+
+
+ this show miss two golden shiiiiiieeett moment 
+
+https://www.youtube.com/watch?v=l1dnqKGuezo
+
+that scene at the hallway would be legendary if Clay drop the line
+ 
+
+
+
+
+ I am talking about a 8k tv display not a massive screen 
+
+
+
+
+ because 8k is limit of my vision, even when looking very close at the screen I cannot see the pixels. going over 8k would not improve anything.  
+
+
+
+
+ likely not since the 8k tv already cannot see any pixel even when looking very close to the screen. 16k will not look better, maybe in IMAX size screen it will make sense.  
+
+
+
+
+ Hos before Bros. that is just how string roll 
+
+
+
+
+ http://www.forzasilicon.com/2014/04/8k-is-so-last-month-how-about-19k/
+
+ 
+
+
+
+
+ 8k camera already in use for several years. bluray and dvd master are scanned in 8k.
+
+there are even 16k digital camera already available 
+
+
+
+
+ is selling ridiculously overpriced speaker cables not profitable enough these days? 
+
+
+
+
+ there is different between 4k and 1080p, it is really clear. not as much for between 4k and 8k if you have seen some of those special 8k demo. it may be beyond human vision capability for 16k tv to make sense 
+
+
+
+
+ maybe I should stay out of this update and wait for 8k which are certainly going to be pushed by manufacturer in a few years and will truly be too much resolution for my eye. 
+
+
+
+
+ what is the point of this project with oil at $50 dollar? how much oil will be produced from the tar sands at this price?  
+
+
+
+
+ is it really a surprise considering the caliber of the director and cast? 
+
+
+
+
+ as a hedge fund manager he underestimated the risk profile of this cut. 
+
+
+
+
+ i have seen the effect of chemo and effect of dying from cancer.
+
+chemo hit you hard but the months of wasting away from the effect of cancer until you die is much worst. 
+ 
+
+
+
+
+ what is more awful than chemo is dying from cancer, now that would be torture until the end. 
+
+
+
+
+ since people should have control of their own body, does the state allow assisted suicide? 
+
+
+
+
+ 21 Jump Street
+
+direct sequel
+
+22 Jump Street
+23 Jump Street: Medical School
+24 Jump Street: Foreign Exchange
+25 Jump Street: Semester at Sea
+26 Jump Street: Arts School
+27 Jump Street: Culinary School
+28 Jump Street: Veterinary School
+29 Jump Street: Sunday School
+30 Jump Street: Flight Academy
+31 Jump Street: Ninja Academy
+32 Jump Street: Fireman Academy
+33 Jump Street: Generations
+34 Jump Street: Return of the Ghost
+35 Jump Street: Traffic School
+36 Jump Street: Military School
+37 Jump Street: Scuba Class
+38 Jump Street: Dance Academy
+39 Jump Street: The Electronic Game
+40 Jump Street: The Retirement Home
+41 Jump Street: Magic School
+42 Jump Street: Beauty School
+43 Jump Street: Mariachi School
+2121 Jump Street 
+
+
+
+
+ the police ask him to leave the restricted area, he refuse and pull a gun,
+
+what are the police suppose to do other than shooting him at that point? 
+
+
+
+
+ pervert and confident amy is so awesome 
+
+
+
+
+ that is nothing compare with mercury from coal that are poisoning the entire ocean. 
+
+
+
+
+ it is a very rare circumstance, compare with coal mine disaster than occur every year and kill thousand every year.
+
+that is not include the arsenic, mercury, chromium, cadmium, radiation and carbon released by burning coal that get into the air and water.
+
+ 
+
+
+
+
+ this is another case of industry moving oversea, what is Obama going to do to protect small meth business from this foreign competition? 
+
+
+
+
+ why would The Interview be nominated? sure it is not the best comedy of the year, but it is not a bad comedy.  
+
+
+
+
+ Blade Runner is the pinnacle of pre CGI special effect. but current level of CGI would improve many of the special effect shot in the movie, especially the background matte painting. 
+
+
+
+
+ but you are not viewing IMAX at that optimum resolution, when ever the footage was transfer to a DI for special effect and transfer to film for release. it lose resolution.  
+
+
+
+
+ Of all the actress in Hollywood history the one actress which would be the most perfect as live action Elsa is Ingrid Bergman.
+
+http://i.imgur.com/tsOcM4D.jpg
+
+http://i.imgur.com/z6RK6.jpg
+
+http://i.imgur.com/wu8Dz.jpg
+
+even one of her most most famous role is Ilsa
+
+https://www.youtube.com/watch?v=Do2olZ49M54 
+
+
+
+
+ nope, i rather have a brain aneurysm that kill me instantly than to go through the trauma of cancer.  
+
+
+
+
+ i thought that was always The Edge's job? 
+
+
+
+
+ you can already conclude he is a dumbass when he leave a first world lifestyle to go to a war ravaged hellhole where millions are trying to escape.
+
+he should have exchange his citizenship for any of the Syrian trying to get out if he like to go there so much.  
+
+
+
+
+ I'm the dude playin' the dude, disguised as another dude!  
+
+
+
+
+ in Rear Window, it work very well on Grace Kelly, especially the first scene she appear. the shot make her appear like a goddess in the dream of Jimmy Stewart which was dozing off earlier.  
+
+
+
+
+ CJ promise to return in three year, don't make CJ a liar 
+
+
+
+
+ last year I think it would be Ida, amazing composition in every shot. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ at some moment in time, it was a fair exchange for him 
+
+
+
+
+
+
+
+
+
+ they must have brainstorm this at the last bilderberg group meeting 
+
+
+
+
+
+
+
+
+
+ is this part of the protocols of zion to frame this man with CP?
+
+those illuminati bastard!!!
+
+wait, who the hell is this guy? 
+
+
+
+
+ he is more a Meth Damon type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ as they said, we are entering a cashless society. 
+
+
+
+
+ this is because if hurricane Isis make landfall, ISIS will be claiming responsibility for the devastating attack. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ so this is the weapon for run and gun documentary filmmaking 
+
+
+
+
+ if this version with the original usd drive get out of NK through black market, i think it can be a collector item. 
+
+
+
+
+ it is no to win heart and minds, it is to put a dent on the official personality cult of the supreme leader and state propaganda of a worker paradise. several group have been working for years to smuggle in usb drive of foreign movie and tv show to NK. this is a dangerous poison pill for the authority, literally the most dangerous weapon being used again them.
+
+even if the north korean watching this video does not understand a single word in the video and dont understand the plot. just a display of foreign ways of life will dangerously undermine the regime's message. 
+
+
+
+
+ this method acting have gone too far 
+
+
+
+
+
+
+
+
+
+ US movies and tv are popular in North Korean black market. 
+
+
+
+
+ looks like cartman grown up to be the headmaster 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ of course she have lots of room, she is a Lannister 
+
+
+
+
+ why would gov bailout taxi when there is no damage to the economy if the current medalion system collapse. a new taxi system will come replace, if it cannot compete with uber, it should die as well. 
+
+
+
+
+ it is funny for the family to get compensation for his death? 
+
+
+
+
+
+
+
+
+
+ i thought ISP in australia now have to snitch on user that pirated these video? 
+
+
+
+
+
+
+
+
+
+ the armadillo bullet conspiracy will appear on the internet soon 
+
+
+
+
+
+
+
+
+
+ but the mountian will blow his mind 
+
+
+
+
+ can he still win with africa block voting for blatter confirmed? 
+
+
+
+
+ that is why you dont sleep on the job, cause shit like this will happen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ and does it involve hulkamania? 
+
+
+
+
+ those plastic surgery for rich people may be useless for humanity, but there is a real need to advancement in plastic surgery, to restore the faces disfigured in accident and war.  
+
+
+
+
+ toy gun manufacture should start their own NRA to defend against this right violation 
+
+
+
+
+ you miss the executive boardroom that come straight out of Dr Strangelove
+
+http://i.imgur.com/zzwYrwp.jpg 
+
+
+
+
+
+
+
+
+
+ always attack, never defend is the holy command of L. Ron Hubbard to scientology 
+
+
+
+
+
+
+
+
+
+ something have changed with scientology, they have not filed a single lawsuit against HBO, i would have expected them to filed a few thousand lawsuit from every states by now, like their previous war will IRS.  
+
+
+
+
+ i am all for more Al Swearengen and Cedric Daniels hotel management drama 
+
+
+
+
+
+
+
+
+
+ i will join Hydra for Annie 
+
+
+
+
+ Jane Krakowski's character also look like a clone of her 30 rock character in the early episodes but later become a character of its own.
+
+ 
+
+
+
+
+
+
+
+
+
+ they even manage to throw away lip sync battle, a show that come out of their own late night talk show. 
+
+
+
+
+
+
+
+
+
+ an instant classic 
+
+
+
+
+ but why did NBC drop this series to netfix when they dont have any good new comedy. 
+
+
+
+
+ it have been a long and hard investigation 
+
+
+
+
+
+
+
+
+
+ the student should be directly accepted in university to study law degree 
+
+
+
+
+
+
+
+
+
+ did not know this will be a spinoff episode, when Lt Dan show up i was like WTF, is this CSI? then Skyler show up i was like damn. they are going to do spin off again, even after the last disastrous effort. who the hell greenlight this.  
+
+
+
+
+ the be fair, only John Mcclane can mess with that Rickman dude 
+
+
+
+
+ he will most like be sent to a supermax prison for terrorist and spies like ADX florence where he spend 23 hours a day in his cell and have not contact with other inmates even during the exercise time. 
+
+
+
+
+ Vaccination really is a holocaust, vaccine are closed to wiping out several diseases, please do not stop this final solution. 
+
+
+
+
+ if you want to see the source, just go to KCNA website, they always issue threat of nuclear fire raining down on US and South Korea on that website. also there is always article about the awesomeness of dear leader. 
+
+
+
+
+ the trial take just as long as Timothy McVeigh who is indicted in 95 and sentenced in 97.
+ 
+
+
+
+
+ the trial have been going on for like 2 years, it is not like he was just charge today and got sentenced immediatly 
+
+
+
+
+ the greatest shock for NK defector, other than the shear amount of available food when they cross the border to china, is the blinding light of the city.  
+
+
+
+
+ who the hell keep funding this franchise? 
+
+
+
+
+ if you are a north korean ,would dare to not believe? 
+
+
+
+
+ this is the myth making process for the new leader. books on Kim Jung il have detailed the myth making process for him after he come into power. like changing his birthday to sync with his father and introducing more and more amazing feats that he have done into official text book 
+
+
+
+
+ i thought NRA will only give up their gun if the local gov take it from their cold dead hand? 
+
+
+
+
+
+
+
+
+
+ because he just discover you are part of conspiracy, the men is going to get him soon. 
+
+
+
+
+ NSFW, Britta turn the table on Annie
+
+https://uproxx.files.wordpress.com/2012/09/gillian-alison.jpg 
+
+
+
+
+ is that not how fleetwood mac made entire album? 
+
+
+
+
+ nope, he will demand the title match immediately, that is just how he roll in suplex city 
+
+
+
+
+
+
+
+
+
+ is there conspiracy theory of entrapment? 
+
+
+
+
+ sign for the establishment of a new heel stable? 
+
+
+
+
+
+
+
+
+
+ and everything that happen is Elrond's fault, he should have just kick Isildur into the fire. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ well, he is still doing 10 years in a  federal pound me in the ass prison as the lowest lifeform in the prison. 
+
+
+
+
+ payoff to limit the damage from 2022, the irregularity there is another issue. 
+
+
+
+
+ i dont think there is financial irregularity in this case, Blatter have to give the right to FOX so that FOX will not sue the ass off FIFA over the TV schedule change of 2022 WC 
+
+
+
+
+
+
+
+
+
+ They Took Our Job!
+
+https://www.youtube.com/watch?gl=SG v=768h3Tz4Qik hl=en-GB 
+
+
+
+
+ identify base on race 
+
+
+
+
+ if this is true, that mean the appeal is racial affinity with the actors. is that not racism? 
+
+
+
+
+ never know a man can become so attached to buffet 
+
+
+
+
+ Commado is the shit but the final boss battle with Bennett is terrible let down from the previous epic action.
+
+ 
+
+
+
+
+ did snowden just admit to not reading the files he leak and by doing so  recklessly endangered other agents? 
+
+
+
+
+ why should a prisoner not have access to make public statement through lawyer? 
+
+
+
+
+ she is letting the love of Jesus enter his body faster, do not doubt the method 
+
+
+
+
+ his brother is acting dumber that he is, that is why his opponent keep making the mistake of underestimating him, he ride this trick all the way to two presidential election win. 
+
+
+
+
+ why does people just hate her because she is rich? i dont see Julia Louis-Dreyfus getting the same negative comment while she richer than almost everyone in tv or movie. 
+
+
+
+
+ between the pizza place and this, it is clear that refusing to serve gay is a high margin business opportunity 
+
+
+
+
+ i have not check LHC conspiracy for a few years, looks like there is still a actively deranged discussion on it.
+
+Will the Hadron Collider open a gateway to Hell when it turns on in March?
+
+http://metro.co.uk/2015/02/06/will-the-hadron-collider-open-a-gateway-to-hell-when-it-turns-on-in-march-5052153/
+
+
+The Large Hadron Collider is to switch on its beams at an even higher power this March  and its main goal is to open a gateway into Hell, according to internet maniacs.
+
+The Dark One himself, Lucifer, may even step through and bring catastrophe to our world, YouTuber Freedom Fighter 2127 warns.
+
+The reason for this unusual visit from the Lord of Lies?
+
+CERN officially marked the Year of Light, this week, and inadvertently fanned the bonfire of internet conspiracy  light equals Lucifer, you see.
+
+YourNewsWire reports, Is CERN the most dangerous thing in the cosmos that could lead to the ultimate destruction of the Earth and the entire universe?
+
+Its all preposterous rubbish, of course  based on misreading press releases, and misquoting ancient statements from scientists such as Stephen Hawking  but its an interesting insight into how conspiracy theories start.
+
+Freedom Fighter 2127 says,  They have officially marked this year as the year of light which means the year of Lucifer. So we need to understand just how demonic this year is going to be.
+
+MORE: How to turn your home PC into a UFO detector
+
+MORE: Is this REALLY a cloud? Mysterious UFO pictures from real X-files fan conspiracy flames
+
+Its part of a long tradition of fear of CERN  which believers claim has a logo mirroring the form of the Indian god of destruction, Shiva.
+
+Nigel Watson, author of the UFO Investigations Manual, says, CERN is linked with all manner of conspiratorial and apocalyptic fears. Clyde Lewis writing in 2012 on the Ground Zero website notes:
+
+Is it just a coincidence that CERN is short for the horned God Cernunnos? Is it also a coincidence that CERN has to go deep underground to do their god harnessing experiments? Cernunnos was the god of the underworld.
+
+Going on to state:
+
+The authorities at CERN have done their ritualistic experiments in the underworld and has used unlimited power to turn against the earth. This power has shown that it is causing an increase in earthquake activity and some even claim that it may be the reason for an increase of UFO activity as well.
+
+Now with the CERN experiments starting up again, the fear that they are set on destroying our planet or at least opening portals to other dimensions unleashing terrors of Biblical proportions are being rekindled on the Internet.
+
+As far back as the 1970s UFO expert Peter Rogerson observed that UFOs are an essential part of a growing fear of our impending global doom:
+
+Thus the UFO is an integral symbol of the growing irrationality with its associated apocalyptophilia of the mid-twentieth century. As the two great monoliths of established religion and scientific positivism are crumbling the vacuum is being filled by horrors from the pages of Tudor history.
+
+As with other perceived horrors of science and technology there is always a belief that they will bring about our ultimate destruction and salvation will only exist for the chosen few. The CERN project rather than Atomic warfare or pollution is now the focus for such fears. Personally I remain unconCERNed. 
+
+
+
+
+ who the hell carry $3,200 of cash around in his pocket? 
+
+
+
+
+ but she is not tweeting from jail, the communication go through lawyer. 
+
+
+
+
+ doomsday cult mostly survive the revelation of their bullshit prediction, it always re adjust the reading of the prophecy.  
+
+
+
+
+ that is some iron clad logic right there. 
+
+
+
+
+ the action scene are a side show in the first three movie, the main point are the underground racing scene, riced up car and muscle car with ridiculous modification and NOS injection, the racing scene become much less important in the 4th movie and by the time the rock join the franchise is full on action movie. 
+
+
+
+
+ maybe they should put him on heel run for a while 
+
+
+
+
+ BBC just lost their top striker Clarkson after the locker room bust up, so they will be easy. 
+
+
+
+
+
+
+
+
+
+ seen like just a natural outcome of spring break 
+
+
+
+
+ the franchise itself have completely changed from a street racer movie into action movie by the 4th movie and the addition of the rock make it official.  
+
+
+
+
+ should have Paul Heyman introduce the team at the final 
+
+
+
+
+ is this title accurate? dont jailer refer to the guard and warden of the prison? people which have nothing to do with his conviction, unlike the police, DA, judge and jury. 
+
+
+
+
+ it is like everyone in jail said they are innocent 
+
+
+
+
+ they got it easy, Michael Cole die from that devastating F5 
+
+
+
+
+ she got the Sam Worthington treatment. 
+
+
+
+
+
+
+
+
+
+ Congressman : Soon, revenge will be mine..... 
+
+
+
+
+
+
+
+
+
+ is Doha news not a Qatari news outlet?
+
+http://dohanews.co/qatar-marathon-organizers-apologize-after-runners-lament-event-setup/
+
+One runner who contacted Doha News after the event described the marathon as one of the most disorganized and chaotic events I have ever had the displeasure of attending.
+
+That participant observed hundreds of men who appeared to be laborers, wearing jeans, flip-flops or running barefoot.
+
+Others were forced to walk several kilometers before the organizers obviously realized they would not finish, and so they were loaded back into their busses and sent away, the runner said. 
+
+
+
+
+ this is the full objective, quite funny read
+
+Objectives of Qatar Mega Marathon 2015
+
+Organizing Qatar Mega Marathon 2015 comes in sync with the vision of Qatar 2030 and sport is one of its most important pillars. Qatar Mega Marathon will contribute in spreading the awareness of sports, and as a kind of social responsibility that the sports play in the lives of the nationals and expatriates of the State of Qatar. The Marathon will support the majestic march of sports of our beloved country, as Qatar is considered as the region's sports capital.
+
+Mega Marathon Qatar represents a decisive response to the campaign waged by the sector of envious haters on the success of Qatar to host the 2022 FIFA World Cup, and to their false allegations of persecution of workers and residents in our beloved country. The Marathon will play an active part in promoting the social role of sport and the ideals and values held in common by the State of Qatar. As the Qatari people, Government and residents have all expressed the wish to present the State of Qatar as active around the world as an outward looking state dedicated to the improvement of relations between nations through sport.
+
+
+The Marathon objectives can be summed up as follows:
+
+Organizing Qatar Mega Marathon represents our commitment to the vision of His Highness Sheikh Tamim Bin Hamad Al Thani, Emir of the State.
+
+Celebrating the Qatari National Sports Day
+
+The image that the Marathon will show how Qatar encourages the non-discrimination attitude among the nations.
+Promote the social role of sport. The Marathon is a unique model for it is not just a race but it embraces historical, educational and cultural associations and possibilities
+
+Emphasize the importance of the participation of people with special needs in social events, and enhance their role in building a healthy and prosperous future for the State of Qatar.
+
+Encouraging the spirit of sharing and volunteering in the social events, in order to fulfill the aspect of social responsibility. As many of the youth will volunteer to guide the runners along the Marathon path
+Draw the attention of the West   Arab World to the Qatari athletic vision through its various   distinctive activities.
+Attempting to allow Qatar to break the world record and enter Guinness World Records with the Largest Marathon in the world after it was confined to the United States of America.
+
+http://qatarmegamarathon.com/en/index.html 
+
+
+
+
+ actually this marathon happen a few days ago, seen to be not much reporting on it in world media, Doha news have a report on how mess up it was .
+
+http://dohanews.co/qatar-marathon-organizers-apologize-after-runners-lament-event-setup/ 
+
+
+
+
+ you mean Natalia Romanova 
+
+
+
+
+ now that it is confirmed Alex going to Caltech, can a Big Bang Theory crossover happen? 
+
+
+
+
+
+
+
+
+
+ is FOXNEWS working on a 100 part documentary of Obama gridlock baby? 
+
+
+
+
+ you are late, this racket is the longest running racket out there.  
+
+
+
+
+ but he is selling the most amount of merchandise, that is customer voting with their money  
+
+
+
+
+ sheamus 
+
+
+
+
+ Why they let Jason Jones go and hire this guy? 
+
+i think they should try out Jason Jones and Samantha Bee for a few months for a co-anchor format 
+
+
+
+
+ he was laid to rest yesterday at suplex city cemetery  
+
+
+
+
+ Hannibal fight to the death with kaiju, i am in 
+
+
+
+
+ there is more detail on the abuse that goes on in their prison in the book.  
+
+
+
+
+ his career is not already dead? 
+
+
+
+
+ there is no solid evidence anything have happen to her, if you build you case on the church base on this. your credibility will be destroy if she show up in public. 
+
+why take the risk when there is so many other proven offense to choose from? 
+
+
+
+
+ Seth Rollins to check in soon? 
+
+
+
+
+ it is a flimsy rumour, they would not want to be trapped by spreading an easily disproved rumour. it is smart to focus only on those allegation that have more supporting evidence. 
+
+
+
+
+ judging by how many personal attack propaganda is put online against these two person, you know what they said hurt. 
+
+
+
+
+ this is the result of fact checking by 160 lawyers. if they put stuff in there that can be proven wrong, they know scientology will drown them in lawsuit.  
+
+
+
+
+ car become safer when it have crumple zone that take away energy of the crash.  
+
+
+
+
+
+
+
+
+
+ in 2004- 2006 he did preach the scientology believe that psychiatry is evil. which was not a good move for this public image.  
+
+
+
+
+ after that movie come out, viacom ended their long term relationship with cruise because they view the scientology link damage cruise's box office potential. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ why is Bieber not banned? 
+
+
+
+
+ did Lesnar new contract mean he will appear every week to beat the crap out of Rollins, that would be TV rating gold.  
+
+
+
+
+ pizza store own by Gustavo "Gus" Fring 
+
+
+
+
+ i never realize i am pratically a vegetarian 
+
+
+
+
+ it is the solution for the German problem 
+
+
+
+
+ because they got lawyers, lots and lots of lawyers 
+
+
+
+
+ how is it going to look if the government launch a war on religion?
+
+cause that is how scientology always present any government investigation on them as, religious persecution.  
+
+
+
+
+
+
+
+
+
+ it is already public knowledge what is the name of the co-pilot before today news come out. 
+
+
+
+
+ that have nothing to do with religious divide? 
+
+
+
+
+ they did not lost half its student, they lost half its customer. 
+
+
+
+
+ many think this guy is a idiot, but actually he is just playing this public persona for the target audience that have made him a lot of money.  
+
+
+
+
+ funny discussion on sex scene
+
+Kiera chats about her sex faces in 'Dangerous Method' and 'Atonement'
+
+https://www.youtube.com/watch?v=QKmn1ZGDbLg 
+
+
+
+
+ the movie start with a breach that appear in spacetime, a Stacker Pentecost/Kaiji hybrid emerge..... 
+
+
+
+
+ upcoming TV series on a narcotic dog struggle to protect and serve while fighting a meth addiction. 
+
+
+
+
+ why is she still called a terrorist when she already done the jail time and her group have been disbanded for 40 years?  
+
+
+
+
+
+
+
+
+
+ this is no surprise, all the east asian countries are quite xenophobic. 
+
+
+
+
+ the movie will win because it is brilliant examination of the human condition through the method of NOS injection. 
+
+
+
+
+ actually i think they are working against themselves, those counter propaganda is so over the top and ridiculous it will make more people want to see the documentary.  
+
+
+
+
+ wont this be very bad PR? opponent will link this to Nazi gas chamber method.  
+
+
+
+
+
+
+
+
+
+ how can vaccine be a big money maker for pharma company? a product that only need to be taken once is never good for profit. they would be more eager to sell boner pill and antidepressant 
+
+
+
+
+ but Cameron is a much better action director than Bay, Bay keep trying to do epic shots but the characters and plot suffer.
+
+Cameron in his movie are able to make you care for the characters and keep raising the stakes with each action scenes until the final climatic resolution. 
+
+
+
+
+ Gravity have the best score in recent years. especially the scene where stone return to earth. 
+
+
+
+
+ late night comedian must be starting a superpac for Ted Cruz 2016 
+
+
+
+
+ goddamm it, i have said again and again, the wall does not work, we need real protection, we need to have the jaeger program started immediatly. 
+
+
+
+
+ all walmart employee need to be packing heat to prevent this event happening again. there is no excuse, they got all the supply they in the store with almost limitless reload. 
+
+
+
+
+ how much more beating can this dead horse take? 
+
+
+
+
+ also Russian and China are in competition with each other to control those central asian gas producing countries.  
+
+
+
+
+ so this is the Canadian anchor baby, wake up sheep, the canuck conspiracy is upon us, and no one is securing the longest undefended border in the world.  
+
+
+
+
+ their actions are only limited by their ability to project power.  
+
+
+
+
+ that is one of the most homoerotic scene in movie history 
+
+
+
+
+ he should save his brain by quiting football 
+
+
+
+
+ Russian and China dont interfere and overthrow government? are you serious? 
+
+
+
+
+ kim jong il is a great film buff, he have NK embassy around the world to illegally make copy of foreign film to sent back to this collection.
+
+he will instruct the NK filmmakers on the technique and style of these foreign movie, all of which the filmmaker are not allow to watch by law.  he even abducted SK director to improve the NK movie industry output. 
+
+
+
+
+ report indicate quite a healthy black market for dvd player. china made generic brand dvd player are very cheap. 
+
+the sentence of being caught watching foreign tv series and movie is death. 
+
+
+
+
+ it is all good if they will all go there and get themself killed, but the problem is that some of them will come back with training to carry out terrorist attack  
+
+
+
+
+ cops shooting a crazy person is by definition a shooting incident 
+
+
+
+
+ i am very impressed with this operation, the balls that it required.  
+
+
+
+
+ Asian parent strikes again 
+
+
+
+
+ have Sean Bean die in a plane crash before in any of his movies? 
+
+
+
+
+ you do realize the last scarface was also a remake? 
+
+
+
+
+ so, remove kebab? 
+
+
+
+
+ knowing what happen in no make the documentary less epic, the show just draw you in from the first minute and take you on this crazy ride that is the life of Robert Durst 
+
+
+
+
+ i dont get how she can consider Paul career is on a downward spiral while he is still doing so many movie tv and video game projects. she is the one that have the much less succeful career in show business. 
+
+
+
+
+
+
+
+
+
+ his career will be dead to me if he mess up season 2.  
+
+
+
+
+ 22 jump street is pretty good sequel to an unexpected hit 
+
+
+
+
+ what are the ritual we should observe before taking these blessed meth? 
+
+
+
+
+ Why should the cops be punished? editing Wikipedia page is perfectly legal free speech. the only thing they can get is like HR rules violation on wasting office time and equipment.
+
+ 
+
+
+
+
+
+
+
+
+
+ "Kids don't vote." - The Wire 
+
+
+
+
+ soon...
+
+Avatar 2, the return of the king 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ they dont work for Apple. 
+
+
+
+
+ or she discover she was actually a american being brainwash by a Russian mad scientist to become loyal subject of Putin 
+
+
+
+
+
+
+
+
+
+ i am impressed by how much work they put into the development of each character, so many people are working on these for months and years to develop and fine tune every detail of the character. i use to think they got just one or two mentor for each talent.  
+
+
+
+
+ online funding campaign for one way first class ticket should be started 
+
+
+
+
+ this is either insanity or refreshing honesty from a politician  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the deal with Aussie is that nature is always trying to kill them. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ he is talking like he is a great family man with such strict family value when he cheated on his wife and have at least one illegitimate daughter. 
+
+his son is caught with 100 gram of weeds and he make it sound like he is a drug dealer.  
+
+
+
+
+
+
+
+
+
+ also Invasion USA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ it make sense with solar setup in hawaii 
+
+
+
+
+ how do you make unlimited amount of products? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ everytime there is this fear for automation in the past, things got better for the workers, dangerous and repetitive work is lost but more high paying and skilled work was created. 
+
+
+
+
+ will it pick up hooker at truck stop and install truck nuts? 
+
+
+
+
+ i got a feeling the yelp rating will go down for this hotel 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ all these star players are stage managed for their appearance in public. 
+
+
+
+
+ to be fair, it is the last piece of a delicious cake, how can you say no to that? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ dont the United States already taken over Texas from the Texas republic like 100 years ago? have Texas somehow got away? 
+
+
+
+
+ they are busy having sex with other boys and dog 
+
+
+
+
+ why would they want to claim this clusterfuck? the only two guy that got shot is their guys.  
+
+
+
+
+
+
+
+
+
+ well, Florida man and Florida woman take turn at these headline 
+
+
+
+
+ african  countries may have block voting for blatter, also CONCACAF exec have praise Blatter as combination of Jesus, Mandela and Lincoln. pretty clear which way the wind are blowing over there. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ maybe they will be different when they dont have all those endorsement deal that demand a good public image. 
+
+
+
+
+ especially after he have taken a huge hit of bath salts 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It is known 
+
+
+
+
+ he is looking set for another landslide victory 
+
+
+
+
+ then this new line up is much more qualified that the previous line up, Jodie Kidd is a part time racer, Guy Martin is full time racing mad man and part time truck mechanic 
+
+Philip Glenister may be there to play the Clarson persona.  
+
+
+
+
+ R+L=S? 
+
+
+
+
+
+
+
+
+
+ what is precisely clarkson's qualification or for that matter the other two guys? 
+
+are they not totally out of their depth compare with those guy over at Fifth gear that are mostly racing driver?
+ 
+
+
+
+
+
+
+
+
+
+ the 4th graders are getting an education on how adult can be total asshole 
+
+
+
+
+ they may not be in headline for long, four army are pushing in on boko haram on all four corner.  
+
+
+
+
+ HBO HQ will be destroyed in a riot if Tyrion die 
+
+
+
+
+ Jorah will be forced to watch, a punishment worst than death 
+
+
+
+
+ so the american military is bombing them in response to the flag burning? 
+
+
+
+
+ American flags is globally the most popular flag to burn, no problem have been observed after each burning 
+
+
+
+
+
+
+
+
+
+ after so many season of hearing about how much a total badass fighting machine this guy is and never seen him fight, he got his ass kicked the first time he got into some action, damn. 
+
+
+
+
+
+
+
+
+
+ actually the governor call in the Texas Ranger, not all the Texas Ranger, just one
+
+https://www.youtube.com/watch?v=NIYZVSElmj4 
+
+
+
+
+ we should all remember that Mourinho greatest achivement in Chelsea is selling David Luiz for 50 mil 
+
+
+
+
+
+
+
+
+
+ Is it so unusual for Florida? 
+
+
+
+
+
+
+
+
+
+ you always double down, never quit like a pussy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ well chess boxing is a awesome sport that need to be in olympic 
+
+
+
+
+ Breaking News : ISIS onslaught began at Colorado, Weeds to be blamed 
+
+
+
+
+ Alex is so awesome this episode, she have been so underused for many episodes 
+
+
+
+
+ she twitted the photo herself 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Annie pleasure bot is so hot 
+
+
+
+
+
+
+
+
+
+ an  important military allies of the US and the 4th largest trade partner 
+
+
+
+
+ why? the nuke have no military value with any of their enemy. US and Russian military never use it to win war after WW2. both got stuck in the quagmire of Afghanistan with lost of many soldier when they can just blow up the entire country with a few nuke and win the war. they also did not use the nuke in chechnya, ukraine, korea, vietnam. why keep around so many useless weapon when the number they have in stockpile can still destroy the entire world many time over. 
+
+
+
+
+ Both US and Russia are reducing their stockpile 
+
+
+
+
+ before i click the link, i imagine it was prop joe delievering the message of the co-op 
+
+
+
+
+ i will be interested in a documentary about the making of this documentary, how much will scientology fight back against this compare with the previous BBC documentary. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ we need to get James Bond's take on this as a scot 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ they are calling him to resign from columbia, not the tv show 
+
+
+
+
+ he is banking on this reputation as surgeon to sell the snake oil, the biggest load of bullshit is when he said his show is not a medical show. but he is wearing scrub on set, and the show is called the Dr Oz show. all to establish his credibility as a doctor giving trust worthy advice to the viewers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Never bullshit a bullshitter 
+
+
+
+
+ this is amateur number, Kim Jong Un got 100%  
+
+
+
+
+
+
+
+
+
+ http://www.salon.com/2015/04/26/stannis_the_mannis_baratheon_why_hes_the_best_game_of_thrones_character_and_rightful_king_of_westeros/ 
+
+
+
+
+
+
+
+
+
+ if western company pull their factory from third world countries like banglades, their garment industry will collapse and all those worker will go back to even lower paying job with even more dangerous condition. 
+
+it is better to think of way to help the countries to develop like South Korea, Hong Kong and Taiwan that have been the location for sweatshop 50 years ago but through improve education and capital accumulation move on from labour intensive industry to high end manufacturing and service industry. 
+
+
+
+
+ the best moment is when Stannis give protips to Jon Snow, and when he approve, is there a gif for that? 
+
+
+
+
+ did the train really run on time during his reign? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Texas man should know that this is the job for Florida man 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if these undercover dont turn gay by embracing the gay lifestyle so much, i dont know what will. 
+
+
+
+
+ He said he initially denied impregnating the girl in 2011 because the information would ruin his reputation as a teacher.
+
+ During the investigation of this story, Mokoena also threatened to hunt down, assault and kill this journalist.
+
+seen like he is going to be a great father/grandfather 
+
+
+
+
+ i am too, when a news article start with "man" and something stupid/crazy, 90% of the time it is a florida man 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ they say he is full of shit, his reply is that this is not a medical show, so no problem with the bullshit.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ the obvious thing to do now will be Louis Theroux making a documentary about the making of the scientology documentary 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ why did the cooling technology changed from being able to cool the summer help to just able to deal with winter heat? dont they promise  air conditioned stadium during the bidding? 
+
+
+
+
+ it become a story because of The Streisand Effect 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Phil, Claire, Amber, and Ronnie going to get it on this season? between this and Luke drawing his junk, the show have become so much more adult oriented now. 
+
+
+
+
+ Mance Rayder was so pimp on Rome
+
+https://www.youtube.com/watch?v=RGYI1UHK5jM 
+
+
+
+
+ the Koch brothers should take over the Apprentice and start a new season with all republican primary hopeful. winner will take home 1 billion dollar in superpac money. 
+
+
+
+
+ guy with massively popular tv show said he is being silenced by 10 doctors that the public never heard off before? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Biden should never be send to Dubai 
+
+
+
+
+
+
+
+
+
+ Mourinho still laughing at the bank with his 50 mil 
+
+
+
+
+
+
+
+
+
+ those are the marketing guys that said that, legal guys are the one going after the pirates. 
+
+
+
+
+ David Miscavige's niece is also a outspoken critic of scientology 
+
+
+
+
+
+
+
+
+
+ just dont read going clear, the current most popular scientology book 
+
+
+
+
+ this is due to the expose that Tidal is illuminati? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ there is no sequel, this is about the events that happen when several groups try to send the movie to north korea 
+
+
+
+
+ this summer, the kremlin is ..... Under Siege!!! 
+
+
+
+
+ It is gangnam style 
+
+
+
+
+ no show can handle that much pimp 
+
+
+
+
+ what does the rightful king have to do to get a single person kneel before him? Zod would have more luck getting Superman to kneel at this rate.
+ 
+
+
+
+
+ the character is likable for the honeydicking process 
+
+
+
+
+
+
+
+
+
+ it improve season after season, and this season is off to the strongest start ever, hope it will be a all time classic season. 
+
+
+
+
+ everyone in Seinfeld are also unlikable douchebag, i think it is testament to the quality of the writing and acting that they make these unlikable character funny 
+
+
+
+
+ the Selina and Gary scene should be submitted for Emmy 
+
+
+
+
+ Selina and Gary = OTP 
+
+
+
+
+
+
+
+
+
+ come right by the the station and ask for Sergeant Harris 
+
+
+
+
+
+
+
+
+
+ this is more damming evidence that he is part of the illuminati, wake up sheep!!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ how big will a horse dick condom be? 
+
+
+
+
+
+
+
+
+
+ are you seeing ads on that page? 
+
+
+
+
+ wikileaks is hosting those leaked sony emails, this is part of the leak 
+
+
+
+
+
+
+
+
+
+ no regrets!! 
+
+
+
+
+
+
+
+
+
+ because it is hard to evacuate in a timely fashion? 
+
+
+
+
+ with one thousand room each, they are going to host 2-3 thousand football fans in each ship. if they got drunk and enraged by the result of a game. it can cause some serious damage on the confined space of a cruise ship if emotion boiled over when they returned to ship. 
+
+
+
+
+
+
+
+
+
+ he have already make hundred of millions in his career, if the only thing he is into is drug and prostitutes, i dont see how it will reduce his net worth any time soon. he would be more worry about his business manager stealing his money or making major bad investment. 
+
+
+
+
+ but it is precisely what they claim, the climb have energised his intellect more powerful than any nuclear bomb 
+
+
+
+
+ he raised 4.3 mil in first 9 days, currently too legit to quit 
+
+
+
+
+ how much drug and prostitutes he is doing daily? he is still getting paid millions this year. 
+
+
+
+
+ how dare you doubt the physical prowess of supreme leader 
+
+
+
+
+ the creation of CP itself is child sexual abuse, the demand for CP is in effect sexual abuse of children 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+ Anti-venom is usually made of antibodies, the proteins that adaptive immune systems produce to fight pathogens.  To create anti-venom, small amounts of venom (too small to be lethal) are injected into an animal, such as a horse or goat.  The animal's immune system will recognize the venom as a foreign substance, and produce antibodies that bind to the venom, inactivating it.  A blood sample is then collected from the animal, and the relevant antibodies are purified from it.
+
+Edited to add: I'm not sure what human conditions you have in mind for the first part of your question, but generically, many venoms act by hijacking or disabling a specific signaling system in the body--for example, a certain type of neurochemical signaling in the brain.  In large doses, this is obviously dangerous or fatal.  In smaller doses or applied locally, there are times when you might want to tune a signaling system up or down, to dull pain, slow heart rate, etc.
+
+Source: "Antivenom Therapy in the Americas"
+http://link.springer.com/article/10.2165/00003495-199958010-00002 
+
+
+
+
+ On the molecular level, neurons that sense temperature have ion channels in their cell membranes that actually change their shape as the temperature changes.  This conformation change allows ions (which carry charge) to pass across the membrane, causing the neuron to begin sending a signal of that temperature change to other parts of the brain.  We have these temperature-sensing neurons in many parts of our body, as well as in our brain stem; those central detectors are the ones that would usually be in charge of starting a homeostatic response (sweating, flushing, etc.)
+
+One neat thing is that some of these temperature receptors can also be stimulated by certain chemical compounds--the spices that we might describe as tasting "hot" or "cold".
+
+Sources:
+"Thermoregulation: some concepts have changed.
+Functional architecture of the thermoregulatory system"
+http://ajpregu.physiology.org/content/ajpregu/292/1/R37.full.pdf
+
+"The thermo-TRP ion channel family: properties and therapeutic implications"
+http://onlinelibrary.wiley.com/doi/10.1111/j.1476-5381.2011.01601.x/abstract
+ 
+
+
+
+
+ *Roald Dahl's Book of Ghost Stories* (collected, not written, by Roald Dahl.)  A couple of them are a bit campy or over-the-top, but most of them are very good, and range from wistful to eerie to terrifying.
+
+https://en.wikipedia.org/wiki/Roald_Dahl%27s_Book_of_Ghost_Stories 
+
+
+
+
+ A really interesting example, although important to note that even memories of individuals with this trait have limits.  "He had trouble memorizing information whose intended meaning differed from its literal one, as well as trouble recognizing faces, which he saw as "very changeable"." (https://en.wikipedia.org/wiki/Solomon_Shereshevsky) 
+
+
+
+
+ This is a cool way of looking at the question I wouldn't have thought of!  I also agree that the human brain can't actually get close to that limit. One consideration is all the non-learning-related information that the physical structure of the brain stores: the copy of the genome in every brain cell, for example. 
+
+
+
+
+ Realistically, there is most likely some limit.  I think your question is getting at not only whether a human brain could learn "everything," but whether it could retain and use infinite information.
+
+We don't actually know what a memory "looks like," so we don't know yet how much "space" it takes up in the brain, what exactly is required to maintain it (continued neural activity?  A certain anatomical structure, in the form of connections between neurons? Both?)  Without that information, it's impossible to meaningfully say how much information any given brain size/type could "store."
+
+We do know that the brain, to perform its functions, has to balance two basic goals, stability (maintaining the useful information that has already been acquired) and plasticity (to acquire new useful information as it is presented.)  Here's an example reference of this idea: http://www.neuro.iastate.edu/Uploads/AbrahamRobins_TrendsNeurosci05.pdf  One idea that comes out of this is that maybe memory retention isn't a static thing--it has to be active.  Memories that you keep using are more robust and last longer, and maybe they have to be continually "re-made" to be retained.  So maybe the ultimate limit for memory storage in the brain will have less to do with physical capacity, and more to do with how much information we can actively review, revisit, use, etc. over a given period of time, so those memories don't decay.
+
+Sorry if this is too speculative--you asked about something that is deeply interesting and pretty unknown! 
+
+
+
+
+ Thanks--I did actually get this far by Googling.  It's not clear to me from Wikipedia and other sources that this is how someone in the field of astronomy would refer to it, though, or if there is a systematic way of naming planetary systems that our system also fits into. 
+
+
+
+
+ Here's a cool article about it, linked from the Wikipedia article above! http://www.socialgenes.org/publications/Pub_TREE2.pdf 
+
+
+
+
+ Maybe this is a bit of a cheating answer, but any "tragedy of the commons" scenario (https://en.wikipedia.org/wiki/Tragedy_of_the_commons) kind of fits.  In humans, I'm not sure one could identify a single trait that drives this type of behavior, but selfishness, and the inappropriate bias toward considering short-term vs. long-term outcomes both play a role.
+
+In other species, even the simple drive toward reproduction can do this; if individuals are all exploiting a resource-rich environment and reproducing at a rate optimal for themselves, they can overpopulate the environment and crash. 
+
+
+
+
+ It sounds like you are using Terro, which is basically sugar syrup with Borax in it, and possibly the ants dealing with are these guys: https://en.wikipedia.org/wiki/Tapinoma_sessile.  If so, they are actually pretty cool from a biology perspective--in the wild, they have a normal colony structure, but in food and resource-rich urban areas, they go crazy and form massive colonies with multiple queens.  So you may be able to fight them back out of your house with Terro, but they will probably keep coming back every spring.
+
+I am not certain of the answer to your main question.  Ants and other social insects do recognize when nestmates are dead.  Inside the nest, they will move the bodies outside (in some species) or to a special area of the nest designated for dead bodies/waste (other species.)  Outside in the open, I'm not sure.  I don't think you need to worry about disrupting the traps if you touch them, though.  The ants should be very strongly motivated by the sugar syrup, and won't care if you touch it.  I would just move the trap back along the ants' supply trail so they still naturally bump into it on their way there, away from the dead ants. 
+
+
+
+
+ As AnIntoxicatedRodent says, epigenetic modifications are changes to the chemical structure of DNA (although they do not change the actual sequence of bases, the letters, of a DNA strand) or to the chemical structure of the protein complexes (histones) that DNA is wound around when it is packaged up inside the nucleus.  Researchers have several ways of looking for these modifications.  For example, they can use antibodies that stick to specific DNA or histone modifications, and then sequence the DNA fragments that the antibodies have bound to.  To look at a specific type of epigenetic modification, methylation of DNA, researchers can use a chemical treatment that converts the modified DNA nucleotide to a nucleotide found in RNA, that will show up differently when the DNA is sequenced and show that that location on the DNA strand was modified.
+
+However, we still know too little about epigenetic modifications and how they affect gene regulation to just look at how a stretch of DNA with a gene in it has been modified, and know from that how the gene's expression will be affected.  Researchers do use microarrays to measure the expression of many different genes simultaneously.  However, as DNA sequencing has gotten cheaper, faster, and easier, more researchers are now using "RNAseq", where the mRNA or other types of RNA in a cell are directly sequenced, as a way to measure gene expression.  Quantitative PCR is also used to very accurately measure the expression of one gene at a time.
+
+Looking at gene expression data and epigenetic modification data from the same cells or tissues, and exploring how those two things are related, is how researchers are continuing to learn more about how epigenetics works--how it helps control gene expression. 
+
+
+
+
+ In theory, and in a very simplistic way, yes; supporting the life of the most important pollinating bees would contribute to more efficient pollination of crops (assuming that one was focusing on the right species in the right geographical regions, close enough to where crops are grown, etc.)
+
+In practice, there are two major points.  One is that none of these bees are honey bees, Apis mellifera, the type of bee that most people imagine raising and maintaining.  For the purpose of the research done in this paper, honey bees were excluded because many of them are not "wild", and the researchers wanted to focus exclusively on wild bees.  Almost all of the species they looked at are not typically reared by humans, and none are "domesticated" to the extent that bees are.  Additionally, the majority of bee species in the world, and many examined in this research, are not "social," that is, they do not live in colonies.  They are solitary.  That doesn't really matter to answer your question, I am just too much of a nerd not to share!
+
+If you are interested in supporting bee populations though, there are lots of ways to do that less directly, including protecting whatever parts of the environment specific types of bees live in, planting bee-friendly plants to ensure that they have season-long access to food (instead of having no food whenever local crops are not in bloom), etc. 
+
+
+
+
+ So did Harry Potter. 
+
+
+
+
+ This seems like a really weird thing to be posting here . . . but please consider reading it anyway.  Despite the title and reputation, Anna Karenina is far from being the only main character in the book; to me, she's not even the most sympathetic one.  There are several interrelated, complex plots, and some themes related to human nature, morality, relationships, etc. that are still incredibly relevant.
+
+Of course, this all assumes that literature/Russian literature is to your taste :-)  But don't avoid it forever if knowing that one plot point is the only reason. 
+
+
+
+
+ I think this is my response too.  Do what Adnan said in his letter to SK: "pretend he's innocent," and then consider his perspective.  Hypothetical innocent Adnan doesn't know why or how Hae was murdered, or who murdered her.  He could be just as confused as all of us.  In that case, he couldn't presume that Hae would still be alive if they had never dated.
+
+Do I think that my personal connection with Adnan's quote proves that's what was running through his head, or that he's innocent?  Of course not.  I just think that because people wish so much that they could find out the truth of the case, they start thinking they can find some kind of murderer shibboleth in Jay's or Adnan's statements.  The reality is that the truth probably won't be found unless DNA testing or some totally unexpected source provides new evidence of some kind. 
+
+
+
+
+ This is actually one of my favorite segments of the whole show.  It obviously can't be used to prove anything about Adnan's guilt or innocence, but I actually relate to it a great deal.
+
+A few times in my life, I've gotten into trouble (not serious legal trouble, but minor altercations with authority figures or friends) due to what could be described as bad luck.  In each instance, while I hadn't been doing anything actually wrong, I still had made choices that were silly, or selfish, or irresponsible, and that led to me being in "the wrong place at the wrong time."
+
+When you make immature choices that combine with bad luck to lead to an outcome much worse than they deserve, it's not as easy as one might suppose to feel comfortable in the role of the hapless victim.  Years in prison would afford any wrongfully convicted person plenty of time to play the what-if game: "what if I had never been friends with Jay?  What if I had never smoked pot?  What if I hadn't tried to have a relationship my parents didn't want me to have?  If I'd been a better son, this wouldn't have happened.  If I'd taken my faith more seriously, I wouldn't have even been in a position to be accused."
+
+Look how even people who were genuinely victims often blame themselves or have bitter regrets over actions that may not even have contributed to their circumstances at all.  "If only I hadn't run back into the house for a sweater, I would have been two minutes earlier and this car accident never would have happened." 
+
+
+
+

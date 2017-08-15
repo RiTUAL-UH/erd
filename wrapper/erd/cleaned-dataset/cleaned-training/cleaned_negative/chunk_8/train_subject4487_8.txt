@@ -1,0 +1,1323 @@
+
+
+
+
+
+ It's been on my list for a while now. I really like the more chunky size of them opposed to their longer/skinny 10 oz bars.  I'll eventually get one, though I'm focusing more on gold this year (should get a 1/4 oz next week). 
+
+
+
+
+ If you need bookends and doorstops, silver is a very safe investment.
+
+Try doing that with money in the bank.
+
+Hard assets, bro. 
+
+
+
+
+ Daily view down in the Bay Area. Seriously. 
+
+
+
+
+ I've used handlebars and mustache but not dust.
+
+Use templating when that is what you need, i.e., just one-way binding.  The particular templating library doesn't matter.
+
+I used templating on a project late last year. I'm sure a lot of devs would have jumped on the MV* fashion train and really overcomplicated things, IMO.  Keep in mind, I'm particularly lazy, I want to do the least amount of work as possible and leave early to go play with my dog. 
+
+
+
+
+ You don't need the language or type attributes, just use:
+
+    script
+        //your wonderful code here.
+    /script
+
+Or:
+
+    script src="path/to/your/wonderful/code.js"
+
+The language attribute has been deprecated for a long time now. 
+
+Browsers use text/javascript as the default as well, so you don't really need to specify it. 
+
+
+
+
+ I would really recommend reaching out to your contact at the company in question and ask what they are expecting from the "technical test".
+
+Honestly, it sounds a bit like a disaster situation to me, but I don't know what you guys talked about or your skillset in that stack (it doesn't sound like you have much, or perhaps any).
+ 
+
+
+
+
+ On the Prowl: Tinder for cats. 
+
+
+
+
+ Don't put the video behind a registration process. 
+
+
+
+
+ Looking back, I should have capped my order at 4 monster boxes. 
+
+
+
+
+
+
+
+
+
+ When the camera angle switches to the guy. 
+
+
+
+
+
+
+
+
+
+ Fixed is the only moderately OK one, IMO. I still appreciate the demo with the other options. 
+
+
+
+
+  I realized I had to cut video games.
+
+I stopped reading after this, I mean how do you expect anyone to take you seriously after that??? Next thing you know, you'll edit your post to say I also had to cut out /r/aww. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I would like to see dyslexic selectors using Foundation/Bootstrap. Something should spin on hover, too. 
+
+
+
+
+ [Silver.com beats that, $460.20 shipped](http://www.silver.com/2015-1-oz-silver-canadian-maple-leafs/) (paying by check). 
+
+
+
+
+ How about doing a google hangout?  You can get up to 10 people forming a peanut gallery to have a Q A.  There's a sidebar chat for watchers to participate as well.
+
+It's an unobtrusive way to have a live meeting/webinar.  Plus it's archived on youtube for those that can't make it live. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ordered from them once. Once. 
+
+
+
+
+ You should make a screencast of the process from start to finish and put it on youtube. Have a "real'ish" type of project to publish, use a good youtube title and tags. For example, your thread title here isn't that great, I had no idea what the contents would be. If it was "Surge - Static Web Publishing for Front-End Developers" well, that tells me a bunch.
+
+I search youtube quite often for front-end related stuff, I personally love video demos to discover stuff. 
+
+
+
+
+ This is a fantastic deal. [Paying by check, a buff is 1,228.84](http://www.wholesalecoinsdirect.com/coins/gold/american-buffalo/50-gold-american-buffalo-24-karat).
+
+-$50 discount card is $1178.84.
+
+Spot looks to be $1176 (ask).
+
+The only potential downside I see is the buffs are random year, buffs are 24k which is soft, condition on buffs isn't specified so you're not getting a mint-sealed coin.  Still, $2 over spot...
+
+Also, if you're more into AGEs, APMEX ebay has a current special on them, [2015 1 oz Gold American Eagle Brilliant Uncirculated](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-American-Eagle-Brilliant-Uncirculated-SKU-87117-/141523424360?pt=LH_DefaultDomain_0 hash=item20f3741468), $37 over spot @$1215.  Expires Tuesday morning, 8am (Pacific). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [APMEX ebay has tubes of ASEs for $374 shipped](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Silver-American-Eagle-BU-Lot-Roll-Tube-20-/141528111687?pt=LH_DefaultDomain_0 hash=item20f3bb9a47). 
+
+
+
+
+ I bought last mid-week and haven't received shipping notification yet. Mine will probably come the week of the 15th as well.  They're shipping UPS, which I suspect is UPS Ground, which is pretty slow.  They ship from just outside of Boston and I'm west coast so it'll be a 5-day trek for my order. 
+
+
+
+
+ Old safes used asbestos for their fire proofing material. It's banned in A LOT of countries because it causes mesothelioma (cancer).  It's also found in insulation in older houses (along with lead paint and lead pipes). It's nasty stuff you don't want to inhale.
+
+I'd inspect the safe to look for any cracks or breaks for asbestos to "leak" out of. The safe looks in very good condition, but you don't want to fuck around with asbestos. 
+
+
+
+
+ $16.23. 
+
+
+
+
+ Normally, I'd suggest to find out how thick the door and walls are but the seller probably can't tell you accurately.  I'd go with how heavy is it? Heavy is better as that = more steel.
+
+If you have to move this up or down stairs, you're probably going to need a crew.
+
+Due to the age, it might/probably has asbestos. It looks in good/sealed condition, but it's something I'd physically inspect to see if there is any dust leakage. (check underneath, too).
+
+You would probably have a hard time finding parts if something went wrong with the locking mechanism. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Don't buy any wooden nickels. 
+
+
+
+
+ Maybe they can post a woman crawling onto a plane tomorrow, this PR stunt is pretty discusting. 
+
+[American Airlines refuses to compensate wheelchair-bound woman forced to crawl onto plane](http://khon2.com/2015/06/05/airline-refuses-to-compensate-wheelchair-bound-woman-forced-to-crawl-onto-plane/)
+
+[And the reddit thread](http://www.reddit.com/r/news/comments/38tk0c/american_airlines_refuses_to_compensate/). 
+
+
+
+
+ I'm not home to accept/sign for the package.  I have this silly thing called a job. My wife is not home and couldn't sign for the package, either. She's silly as well. My dog is home, but the UPS driver would be like "hey there, cutie pie can you sigh right....OH MY GOD, MY ARM!!!!"
+
+It's over 20 miles (one way) from where I live to where I have to go to pick up UPS deliveries (and I live in a major metro area).  This is where their plant is that I have to pick shit up at. So that's 40+ miles round trip. It's 42.x miles from memory. It's a major hassle to be honest. Time = money.
+
+I'm not the youtuber in the "apmex scam" video I recently posted here, just sharing that.
+
+Bottom line is USPS is incredibly more convenient for me due to where I live. Plus, any theft of USPS becomes a federal offense, unlike a UPS or FedEx theft. So it has that going for it as well. 
+
+
+
+
+ It would be even more cool if it were made from an [actual bear claw](http://www.ecanyons.com/claws-bear-grizzly-eagle-bear-claws-c-356_358.html) mold. 
+
+
+
+
+ Not sure what I'm looking at, other than a horrendous comforter. 
+
+
+
+
+ Mainly due to being a moist broadleaf forest, your silver will tarnish much faster. Also, piranhas. 
+
+
+
+
+
+
+
+
+
+ Yep, [here's the ad](http://upload.wikimedia.org/wikipedia/commons/e/e1/Lusitania_warning.jpg) for anyone interested. The whole sinking is really interesting when you start looking into it. 
+
+
+
+
+ Your HOA might already have an approved make/model/style you can get at Home Depot or Lowes. Get in touch with them. If they don't have one, really push to get one, you may need to rally a couple neighbors to join you.
+
+If you get push back, I'd seriously look to getting your local sheriff to send a letter of encouragement to adopt a security door for residents. 
+
+
+
+
+ Get [security doors installed](http://dcs-ind.com/wp-content/uploads/2009/09/DCS-Security-Door-10.jpg).
+
+Most people don't even think about the fact that your front door is "secured" by 1-2 inches of pine wood (look where your deadbolt goes into the frame).  No on realizes how **ridiculously easy it is to kick in a front door**, most people have a real delusion of safety and security when it comes to locking their front door. Pine wood is not strong.
+
+A security door is the best visual deterrent/investment you can make for home security, IMO.  It basically tells the scumbags "my neighbor is an easier target."
+
+The best deterrent is to not send out an invitation. 
+
+
+
+
+ From their [ebay store FAQ](http://stores.ebay.com/baypreciousmetals/faq.html):
+
+ Q: What are your shipping methods?
+
+ A: Bay Precious Metals orders are shipped either US Postal Service or UPS. Each purchase is fully insured at no extra cost and may require an adult signature upon delivery.
+
+So UPS must work out better for them as they replied to me saying:
+
+Your order will be shipped via UPS as that is our current shipping carrier we are using.
+
+They don't appear to be using USPS anymore, despite their FAQ. 
+
+
+
+
+ They may not have a traditional brick and mortar store.  From their [ebay store FAQ](http://stores.ebay.com/baypreciousmetals/faq.html):
+
+ Q: Where do you ship from?
+
+ A: Bridgewater, Massachusetts *(this is south of Boston)*
+
+Googling "bay precious metals massachusetts" doesn't give much. I doubt they have a physical presence.
+
+Here's the customer service number that was in their email signature from my ebay email to them if anyone is interested:
+
+888-960-4880 
+
+
+
+
+ I'm not worried, they're essentially buying feedback with their auctions at this point, IMO.
+
+Plus, paypal. 
+
+
+
+
+ I just placed an order with them a couple days ago.
+
+I can tell you they ship out exclusively UPS, USPS is not an option (as they state on their FAQ).  I emailed them through ebay asking if they could send my order out via USPS as UPS is literally over 40 miles round trip to go pick things up (incredibly inconvenient).  They replied they only use UPS.
+
+Here's where it gets better...
+
+They said there would be no signature required on the delivery.  This is a $900 order that they seem to have no problem having left at someone's door.
+
+I replied to them via ebay with my concerns and never heard back.
+
+At least I have paypal protection. I'm not worried as I'm confident I won't be left holding the bag should anything happen with my package left on my doorstep for hours.
+
+I have not received any shipping notification/tracking. I'm expecting a "delivery" on the 12th or perhaps the 15th.  If I remember right, they're in Massachusetts and they're probably using UPS Ground, so that would most likely be a 5 day delivery for me (I'm west coast).
+
+Regardless, I won't use them again due to them shipping UPS.  The $ I save on an order is not enough for the hassle of going to go pick up a UPS delivery.  Who wants to jump into rush hour traffic after work to get to the UPS plant before they close the customer service desk?  Then get right back in that traffic to go home. It just isn't worth it to me.
+
+I'm a USPS guy all the way, I can ride my bike down and pick things up. Plus any theft becomes a federal offense.
+ 
+
+
+
+
+ Australia gets everything. First Olivia Newton John, now this. 
+
+
+
+
+ * [2015 1 oz Gold American Eagle Brilliant Uncirculated](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-American-Eagle-Brilliant-Uncirculated-SKU-87117-/141523424360?pt=LH_DefaultDomain_0 hash=item20f3741468) $34 over spot @$1209
+* [1 oz Valcambi Suisse Gold Bar In Assay .9999 Fine](http://www.ebay.com/itm/SPECIAL-PRICE-1-oz-Valcambi-Suisse-Gold-Bar-Assay-9999-Fine-SKU-88352-/121580551976?pt=LH_DefaultDomain_0 hash=item1c4ec3ff28) $10 over spot @$1185
+* [2015 1 oz Gold Great Britain Britannia Brilliant Uncirculated](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-Great-Britain-Britannia-Brilliant-Uncirculated-/121629168551?pt=LH_DefaultDomain_0 hash=item1c51a9d3a7) $24 over spot @$1199
+
+Also have a [tube of ASEs @$374](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Silver-American-Eagle-BU-Lot-Roll-Tube-20-/141528111687?pt=LH_DefaultDomain_0 hash=item20f3bb9a47) 
+
+
+
+
+ That looks pretty serious. 
+
+
+
+
+ iBreakAndEnter? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How could the driver think they could get away with signing a package and then take it?
+
+You must have missed this recent story: [NYPD Cop Accused of Using Dead Man's Credit Card to Buy Ring](http://abcnews.go.com/US/wireStory/nypd-cop-accused-dead-mans-credit-card-buy-31492068)
+
+I believe it was claimed the driver was a substitute driver as well, so perhaps they figured (for whatever reason) the regular driver would get all the attention and suspicion.  Let's be honest, the best and brightest don't go into delivering mail. 
+
+
+
+
+ Your best bet is to fake your own death and assume the identity of someone who has recently died (check your local obituaries). I've done this several times, it's easier than you think. Plus, I get to live out my actor fantasy every couple of years. It's great fun living out various backstories I create while heavily inebriated.
+
+Pro tip: make sure you select a deceased person of the same sex. Watch out for anyone named Pat, Leslie, Tracy, Jamie and make sure it's Danny, not Danni.
+
+Best of luck to you, Morgan. 
+
+
+
+
+ **Any** vendor can do the same thing.  Don't think you're any safer ordering directly anywhere else.
+
+I think the lesson here is to really be cognizant of this situation. If you want purchase protection use your credit card or stick to ebay/paypal.
+
+I have a feeling if that youtuber had gone through an APMEX ebay auction, that first "scam" video would have been a "paypal saves the day with a refund as APMEX denies claim" video and that would have been the end of it. 
+
+It still would have been a major hassle for him but it sounds like he has a slam dunk with the postal inspector. I'd be really surprised if paypal didn't side with the buyer in that case, despite having the package "delivered" confirmation from the post office. 
+
+
+
+
+ Ride every MAX line end-to-end (it'd be helpful if you youtubed it, as well). You'll be the talk of the office when you get back. The stuff legends are made of. 
+
+
+
+
+ Live in the suburbs, great quiet neighborhood, bought brand new construction instead of throwing $350k at 100-year-old problems. Think I'm going to go turn on every water spigot and just let them run all day now... 
+
+
+
+
+ **Very long and drawn out video responses here** (nearly an hour in total), I'd skip update #1, but here is all of it if you're interested (which you should be):
+
+* [My Apmex Experience! Part 1 of 3!](https://www.youtube.com/watch?v=ypscY_8WBbo)
+* [My Apmex Experience! Part 2 Of 3!](https://www.youtube.com/watch?v=vyIjSIX3wZI)
+* [My Apmex Experience! Part 3 of 3!](https://www.youtube.com/watch?v=a9T0iQLVG0M) 
+
+
+
+
+
+
+
+
+
+ Don't worry, it'll drop tomorrow, too. 
+
+
+
+
+ I heard the next design is going to be a band of Somali pirates on a tanker on the obverse, with hostages on the reverse. 
+
+
+
+
+ I just bought a 1/4 oz Perth Mint year of the Snake. I'd be willing to let it go for $6,000. **THIS IS A SAVINGS OF $250**. I'll split shipping with you as well.
+
+Serious inquiries only, plz. 
+
+
+
+
+ I grabbed one. 
+
+They also have the 1/4 oz Horse for the same price, looks like that is ~2k more mintage than the snake from what I found.  APMEX has the 1/4 Goat for less which kind of surprised me.
+
+5 oz silver Horse for $108 as well, looks like they're down to 8 of those at the moment. Pretty good deal there, too. 
+
+
+
+
+ [1/4oz Gold Australian Lunar Snake for $334](http://www.ebay.com/itm/1-4oz-Gold-Australian-Lunar-Snake-/331567879517?pt=LH_DefaultDomain_0 hash=item4d32fc555d) looks pretty good, [APMEX want's $394](http://www.apmex.com/product/71323/2013-1-4-oz-gold-lunar-year-of-the-snake-bu-series-ii). **Anyone know of a comparable price for the 1/4 oz Lunar Snake?** I'm not finding any, seriously considering hitting this ebay. 
+
+
+
+
+ Indeed, here you go:
+
+http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Silver-Canadian-Maple-Leaf-BU-Lot-Roll-Tube-of-25-/121532044678?pt=LH_DefaultDomain_0 hash=item1c4bdfd586 
+
+
+
+
+ Yes, it is someone's choice to donate. If they're stupid enough to give money to people who don't need it, they're the definition of a fool and his money...Asking for it in your case, IMO, is in very poor taste, especially with the balls to call yourself "poorest tourist".
+
+At least you're upfront about it. I still think it's a dick move, though, but I'm sure we'll forget each other by 3pm. 
+
+
+
+
+ I'd call around to LCS to see what they'd offer. This would save any nightmare shipping issues and who wants to deal with that when you're talking nearly $1200? If you want to insure PMs, you're going to need to send it **registered mail** which is going to cost you a little more $. 
+
+If you went the LCS route you could then possibly buy silver at the same time or take the $ and buy online, either a major vendor or over at /r/pmsforsale. 
+
+Personally, I'd keep the gold and start acquiring silver as you can afford it. 
+
+
+
+
+ Silver.com just sent me an email, they have CMLs for $1.99 over.  A tube comes out to $465 paying by check with shipping.
+
+http://www.silver.com/2015-1-oz-silver-canadian-maple-leafs/
+
+Same thing over at JM Bullion with free shipping comes out to $473. 
+
+
+
+
+ What all do they test the water for? 
+
+
+
+
+  We work in Las Vegas as bartender/servers and pull $2k/week
+
+And from your site:
+
+We definitely don't need any handouts. We are privileged kids that grew up with awesome opportunities.
+
+Yet you have a donate button on your site. Kind of a douche bag move, don't you think? 
+
+
+
+
+
+
+
+
+
+ Watching this now, a shame I didn't know about this where I could have participated in the live hangout/Q A. 
+
+
+
+
+ Scanned the original thread, looks like price is in the neighborhood of:
+
+$52,500ish. Based on his $150 per square foot, and 350 Square feet of space. 
+
+
+
+
+
+
+
+
+
+  I am one of the few here that think that still think we have the gold
+
+Based on what? 
+
+
+
+
+ [Just one](https://cdn2.scratch.mit.edu/get_image/gallery/874614_200x130.png?v=1422211133.0). 
+
+
+
+
+ Keith Neumeyer, CEO of First Majestic, became the first primary silver producer to vocally highlight some of the questionable activity reported weekly in the CFTC's Commitment of Traders report,
+
+[This is the same guy who voiced last year to form a silver cartel](https://www.youtube.com/watch?v=4cIpAL8UVvE) 
+
+
+
+
+ I'm waiting for the x-rated Chris Duane version of these. 
+
+
+
+
+ True. I agree with Herms989, they're most likely ASEs bought off the public. If they had reasonable shipping, I would have rolled the dice and went for a tube. 
+
+
+
+
+  shipping was estimated at around $15. That's craziness!
+
+Try changing it to UPS *Ground*, your shipping will go to $28, lol. 
+
+
+
+
+  I agree though, this has absolutely NOTHING to do with /r/silverbugs, other than people wanting to bash the company.
+
+Lots here use paypal for transactions at /r/pmsforsale as well as ebay and directly through online bullion vendors.  I appreciate the heads up on the story as I'm a paypal user for silver.
+
+Robo calls I don't mind so much as I don't answer calls from #s I don't know.  If they get aggressive with robo texts, I'll have to seriously look at google wallet. 
+
+
+
+
+ I literally just received my first stacker bar from them, did you get yours from last weekends ebay sale they had @ $178?
+
+I ordered mine on May 30th, did an APMEX ebay order earlier that same day, APMEX hasn't even shipped out my order yet... 
+
+
+
+
+ Took advantage of their 10 oz stacker bar sale, purchased on May 30th, was just delivered today June 3rd. This was my first purchase from Scottsdale.
+
+Also ordered from APMEX via ebay on May 30th, they haven't even shipped out my order yet...
+
+Both immediate paypal purchases.
+
+I'm under the understanding that Scottsdale is kind of notorious for slow shipping when buying direct (which I've never done with them).  I can say they're on top of things with their ebay sales. I'd love to see them get their 10 oz hand poured bars on a good ebay sale. 
+
+
+
+
+
+
+
+
+
+ * Get the VIN and run a CarFax report on it.
+* Pay close attention to the title information, I personally would not buy any salvage or reconstructed title.
+* Get a 3rd party mechanic to fully inspect it, make sure they get it up on the hydraulic lift and ask to have them walk you through their findings while the vehicle is still on the lift/in their shop. 
+
+
+
+
+ Jessica is the obvious choice here. 
+
+
+
+
+ Dumb question, but what's stopping the "Ethiopian immigrants" from becoming Uber and Lyft drivers? 
+
+
+
+
+  Many were kits bought from a Sears catalog, put on a 2000-2500 ft2 lot with a garage facing the street
+
+I have a friend whose house in SE is exactly and literally this. 
+
+
+
+
+ If they "just gamble it", they'd be out of business very quickly.
+
+We are the folks who just gamble it. 
+
+
+
+
+ [I'd like to see you address this](http://www.reddit.com/r/Silverbugs/comments/38ambu/youtubers_story_of_usps_theft_apmex_denying/) seeing as how you're currently active here. 
+
+
+
+
+ Clearly says random year on their site. 
+
+
+
+
+ How much are you trying to sell?  if a small quantity, /r/pmsforsale is probably going to be your best bet.  If large quantity, a major online vendor would be something I would definitely look into (a one fell swoop transaction for convenience).  If you go that route, make sure you send your package **registered mail**. That's the only way you'll get USPS insurance on PMs. It's much more secured as well. 
+
+
+
+
+  Even if they end up making the customer whole, the fact that it took someone going public to get that response
+
+This is exactly why they'll make the customer whole. 
+
+
+
+
+
+
+
+
+
+ Apmex is aware of this and they've provided the typical BS after-the-fact customer service response:
+
+*stillkeepin1 Thank you for your video. We clearly could have handled things differently and would love to get to the bottom of this. We want to learn what went wrong and how we can make things right. We truly apologize for this and understand your frustration. Could you please personal message us with your information so that we may work with our VP of Customer Service and our team on some resolution? You may message us via YouTube or by contacting us at social@apmex.com.*
+
+According to the youtuber **stillkeepin1** APMEX's "customer service" - **what everyone raves about and what we pay more for** - was pretty shit.
+
+[Here's a screenshot of the youtube comments related to the above](http://i.imgur.com/ddFZfCw.jpg).
+
+[Here's APMEX's FAQ page on shipping/handling:](http://i.imgur.com/rlrd3LB.jpg)
+
+**How is my order shipped?**
+
+American Precious Metals Exchange orders are shipped Registered/Insured U.S. Mail,   UPS. Each package is fully insured and may require a signature upon delivery. Packages can take on average 1-10 business days for delivery. The tracking number will be provided via email to you upon date of shipment.
+
+**Is my package insured while in transit?**
+
+American Precious Metals Exchange fully insures all of its shipments. Should anything happen while your package is in transit to you it will be covered by our insurance policy. However, we will not accept responsibility if you have left instructions with any carriers or delivery service to leave parcels un-attended for you without the need for a signature. Or, you have given them instructions to leave your package with someone else such as a building manager, neighbor, drop-off location such as Mail Boxes etc. The UPS Store, etc. When we ship to you, if metals are lost or damaged in transit, it is our responsibility to pursue any claim with the insurance company. If we determine the package is lost or damaged, we file a claim. We reserve the right to re-ship your items or refund your money at our discretion. 
+
+
+
+
+ More importantly, I wonder why the postal inspector didn't want to press charges.  We're talking a federal offense here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I use a local credit union safe deposit box.  I have two of them, actually. 
+
+
+
+
+
+
+
+
+
+ Who could have seen this coming? Just when the NSA goes "dark" from "securing" the nation against terrorist threat by recording and storing all domestic phone calls. 
+
+
+
+
+ In case I'd never seen it before. 
+
+
+
+
+ A little more than $400 but here you go, [25 oz Silver Bar - Monarch Poured  @$441.00](http://www.monarchpreciousmetals.com/index.php?page=shop.product_details flypage=flypage.tpl product_id=21 category_id=9 option=com_virtuemart Itemid=53).
+
+[Monarch claims they buy back any Monarch branded silver bar @ 99% of spot](http://www.monarchpreciousmetals.com/index.php?option=com_content view=article id=49 Itemid=56) as well.
+
+I wouldn't buy silver to liquidate in a year, though. 
+
+
+
+
+ The Christmas popcorn. 
+
+
+
+
+ I wish he would have shown the back of the money. 
+
+
+
+
+ Us silver people are ~~unusual~~ delusional
+
+Fixed that for ya. 
+
+
+
+
+
+
+
+
+
+ Population of China: 1.357 billion
+
+Population of United States: 318.9 million
+
+OP's title checks out. 
+
+
+
+
+ they weren't informed that it was a designated flood plain
+
+Is this not part of the title work in every state? 
+
+
+
+
+ No code for me, either. 
+
+
+
+
+ Great remodeling job. 
+
+
+
+
+ They just had a good deal on their 10 oz stacker bars over the weekend. 
+
+
+
+
+ I've always been fortunate in that I fall asleep quickly, sleep pretty soundly and can sleep pretty much anywhere.
+
+My only "trick" for when I need to go to sleep early, like say I have to catch a flight and don't want to stay up all night, is I'll mix up a couple stiff drinks and drink them within an hour.  Don't go overboard on this, though as you might wake up feeling like crap.  Two works great for me. 
+
+
+
+
+ http://stores.ebay.com/jmbullion?_trkparms=meid_vp%3D5c850a6344544b5b8b7505ca85978dcd 
+
+
+
+
+ I've purchased off ebay from (these are all the store names, I'm sure you'll recognize the vendors):
+
+* apmex
+* mcm
+* silvertownelp
+* scottsdalesilver
+* onfireguy (great place for supplies)
+
+I've never purchased directly from MCM, Silvertowne or Scottsdale before and I've purchased from APMEX more on ebay this year than direct. For me, ebay has taken over in 2015.
+
+Now that JM Bullion is starting to sell, I'm sure I'll be adding them to my ebay purchases. They're great, purchased directly from them and silver.com in the past.
+
+I'd like to see Provident get on ebay.
+
+Lots of ebay sales/deal threads get posted here so keep an eye out for those. Those posts initially get flagged as spam by reddit, but the mods here are pretty good about approving them to show up on the main page in a reasonable amount of time. 
+
+
+
+
+ If it takes you an hour to walk three miles, you should probably be walking three miles regularly. 
+
+
+
+
+ Yes they can. 
+
+
+
+
+ An ex-girlfriend had a coat from Burlington Coat Factory that said "Mongolian Dog Hair" on the label. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Silver is currently selling at a spot price of $16.82 a troy ounce. A troy ounce is what's used to measure precious metals).
+
+20,000 x $16.82 = $336,400 so OP's title checks out.
+
+A troy ounce is 31.1 grams. There are 453.6 grams to a pound, so a pound of silver is 14.6 troy ounces. At $16.82 a troy ounce, a pound of silver would currently be $245.57 but no one buys silver buy the pound.  The closest common size would be [a 10 oz bar](http://firstunitedreserve.com/catalog/images/10-oz-Johnson-Matthey-10-oz-Engelhard-Silver-Bars-Resized-1.jpg). A 500 gram bar is close as well, but 10 oz bars are more common.
+
+As to how many coins can be made out of 20k ounces, that'd be 20k 1 oz coins like the [American Silver Eagle](http://www.straightsilver.com/american-silver-eagle/images/american_silver_eagle_coins.png), a very popular silver coin issued by the US Mint.
+
+Of course with the photo above, you don't get exactly 20k coins from that because they have to stamp out the silver blanks that the coins get made out of.  The remaining silver gets recycled/melted down and ends up back in a coin or bar, nothing gets wasted (this is probably obvious). 
+
+
+
+
+ Wow, **some really neat pieces**, who makes [this eagle bar](http://i.imgur.com/W0PA3FL.jpg)? 
+
+
+
+
+ Sticky thread would be cool. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Dr. Sandra Lee (aka Dr. Pimple Popper)
+
+She's stealing all of "hi frenz" glory. 
+
+
+
+
+ They also have some current/good gold sales this weekend:
+
+* [Buffalo @$1228 ($36 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-American-Buffalo-Brilliant-Uncirculated-/141557285146?pt=LH_DefaultDomain_0 hash=item20f578c11a)
+* [Pamp @$1204 ($12 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-1-oz-Gold-Bar-Pamp-Suisse-New-Design-In-Assay-SKU-86748-/141557285075?pt=LH_DefaultDomain_0 hash=item20f578c0d3)
+* [Kangaroo @$1217 ($25 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-2015-Australian-1-oz-Gold-Kangaroo-Brilliant-Uncirculated-/121603410583?pt=LH_DefaultDomain_0 hash=item1c5020ca97) 
+
+
+
+
+ No kidding:
+
+* [Buffalo @$1228 ($36 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-American-Buffalo-Brilliant-Uncirculated-/141557285146?pt=LH_DefaultDomain_0 hash=item20f578c11a)
+* [Pamp @$1204 ($12 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-1-oz-Gold-Bar-Pamp-Suisse-New-Design-In-Assay-SKU-86748-/141557285075?pt=LH_DefaultDomain_0 hash=item20f578c0d3)
+* [Kangaroo @$1217 ($25 over spot)](http://www.ebay.com/itm/SPECIAL-PRICE-2015-Australian-1-oz-Gold-Kangaroo-Brilliant-Uncirculated-/121603410583?pt=LH_DefaultDomain_0 hash=item1c5020ca97) 
+
+
+
+
+ How much are they asking for those englehards? 
+
+
+
+
+ And 2 engelhard bars with sequential numbers and a logo next to the name engelhard of a small circle with a U shape
+
+Kind of sounds like you're describing their bullshead logo.  Did it [look like this](http://www.images-apmex.com/images/Catalog%20Images/Products/61708_Obv.jpg?v=20130101120000 width=450 height=450). 
+
+
+
+
+
+
+
+
+
+ I believe they do take paypal and I imagine the exchange works behind the scenes based on your address/country when you register an account with them.  I've never purchased directly from them before, however. 
+
+
+
+
+
+
+
+
+
+ I'm going for it, if I remember, that is :)  I'm sure it'll play out like last time, though, get in the queue and all sold out by the time I come up to the counter.
+
+Thanks for the heads up. 
+
+
+
+
+ Thank God they're still making the magnets. 
+
+
+
+
+
+
+
+
+
+ I love watching his channel, it's the same ol' folks saying the same ol' end game.  I do like Paul Craig Roberts, though. 
+
+
+
+
+ UPDATE 12:02 pm on May 28th: The Portland Police has just released the following update on this collision:
+
+The tow truck driver has been identified as 40-year-old Jolene Friedow of Estacada. Friedow works for North Portland Towing.
+
+The investigation into the crash is ongoing. Investigators have learned that Angeles was riding his bicycle westbound on Southeast Gladstone Street, approaching the intersection with Cesar E. Chavez Boulevard. Friedow was facing eastbound, towing another vehicle, waiting to turn left (northbound) on Cesar E. Chavez Boulevard. Friedow turned left, colliding with Angeles in the intersection.
+
+I'm surprised this was a fatality. Truck was waiting to turn, when turned collided with the cyclist. Both the truck and the cyclist couldn't have been going that fast, was the cyclist wearing a helmet? Did he go underneath the truck? 
+
+
+
+
+ I wouldn't buy anything less than a 1/2 oz for the same reason and I'd have to get that on a very good deal.  I'd just save up for 1 oz, which I recently did. 
+
+
+
+
+ I'm listening to Queensryche at the moment, is that close enough? 
+
+
+
+
+ Why are you watching Blackberry? 
+
+
+
+
+ Bought my first gold over the weekend via MCM ebay.  Gold is down $16.70 as I type this, doing some shopping around, it looks like I'm down about $3 on my AGE purchase.
+
+Spot dives aren't bad if you can get a decent deal on the premium. 
+
+
+
+
+ Disappointment? 
+
+
+
+
+
+
+
+
+
+ So expect many high powered salesman to call you at the dinner hour.
+
+Pro tip: Don't recognize a #? Don't answer the phone. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Are the wings supposed to be tire treads?  I can't figure out what the 1 is. Is it supposed to be the track? The 5 being gray seems odd to me as well.
+
+I'm not even drunk (yet), either. 
+
+
+
+
+ I'm in enterprise-land, working for a large company, we drop support when browsers drop below 5%. 
+
+
+
+
+
+
+
+
+
+     var date = new Date();
+    var n = date.toDateString();
+    var time = date.toLocaleTimeString();
+
+    document.getElementById('time').innerHTML = n + ' ' + time;
+
+**Note: these functions aren't fully cross browser supported** 
+
+
+
+
+ My strategy is:
+
+* Lottery tickets
+* Timeshares
+* Silver
+* Powerbars
+* Faking own death/insurance fraud 
+
+
+
+
+
+
+
+
+
+ I'd like to put in a pond in my back yard. How does  ~2,000 square feet, tiered levels going from 1' down to 6' sound?  I'll need the dug out dirt pile arranged artisically for the waterfall. I'm thinking an elephant's head, but I'm open to your ideas. I can supply the fish at the end, so you don't have to worry about that. 
+
+
+
+
+ Well where am I supposed to go now when I tell my wife it's crunch time at work and I need to work OT, I'll be a couple hours late for dinner. 
+
+
+
+
+ If the dev didnt understand something or I wasnt clear enough I dont see why he didn't immediately bring the issue up.
+
+There was an obvious disconnect because here we are.
+
+Communication problems are not one-sided, they can happen at either end, as I'm sure you're well aware.  You should both be agreeing/confirming what you're discussing, don't just communicate via fire and forget, i.e., "communication was constant" (meaning you told him blah, blah and blah, where he heard blah, blah and yada yada). You should be verifying all parties are on the same page.
+
+Confirm what you discuss at the end of verbal communication.  Follow-up in writing as well where it can be read/re-confirmed (though you don't need to do this all the time).
+ 
+
+
+
+
+
+
+
+
+
+ Your object namespace is the simplest way to modularize your code. I would go with that.
+
+I'd also probably look into a build system and front load everything (minimized), but that's just me (personal preference), unless there is a compelling reason to lazy load. 
+
+
+
+
+ Code doesn't do what I want it to do. 
+
+
+
+
+ Monkey see, monkey do. 
+
+
+
+
+ Your problem is communication then. You should spend more time on it and if you're doing it solely over IM/email, you're definitely doing it wrong.
+
+I've been in this industry since literally the mid 90s, the #1 problem I've seen and still see to this day is communication. 
+
+
+
+
+ * http://photoshopetiquette.com/
+* http://uxmovement.com/resources/6-tips-for-a-smooth-hand-off-from-designer-to-developer/
+* http://methodandcraft.com/articles/streamlining-the-handoff
+* http://twosixcode.com/notes/view/items-to-consider-when-preparing-a-psd-for-handoff-to-a-web-developer
+
+ 
+
+
+
+
+ I've used that at a past job, had no idea you can record it. Taking a look I see they're charging for some enhanced features, I wondered when they would start doing that.
+
+I've got some software leads to checkout which are much better than their $15/month for recording functionality.
+
+Thanks for the info, though. BTW, interesting videos, you should keep making/posting them. 
+
+
+
+
+
+
+
+
+
+ Off topic, but what are you using for your screen recording? 
+
+
+
+
+ Christ, I moved a couple kilos of coke on the MAX just last week.  Just act cool, man. 
+
+
+
+
+ It's pretty annoying that you need to cross the street then cross back to keep going
+
+lol. I want to break into your house and open every box of cereal from the bottom of the box. 
+
+
+
+
+ Didn't read (because I don't care), but what does a "football star" have to do with this issue? 
+
+
+
+
+ What are all the languages and frameworks that a front-end dev is expected to know?
+
+All of them. 
+
+
+
+
+ Wanting to make quality work is noble but the OP needs to realize their career is in business, not art.  Start refusing client requirements and they will go elsewhere, their future work will be elsewhere, referrals will be elsewhere, etc.
+
+Not every piece needs to be in a portfolio. Your mortgage/rent comes every month, however. 
+
+
+
+
+ http://www.ally.com/
+
+Co-worker was just mentioning them (I'd never heard of them before), anyone have any long-term experience and opinions with them?
+
+They're offering 1% on an online savings account (though the APY is variable), doesn't look to be any real restrictions from what I can see. This is the only thing that jumps out at me, but I don't think it would be an issue for me:
+
+*You can make six withdrawals and transfers per statement cycle from your Online Savings Account. The limit is set by federal law for electronic and telephone transactions from all U.S. savings and money market accounts. Please remember, you will be charged a $10 fee for each transaction that exceeds this limit.*
+
+They have no physical branches but I don't think that would be a real problem for me, either.  I'd still have my checking with Chase so I wouldn't be putting all my financial eggs into the Ally basket, so to speak.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Easy, you don't even need jQuery:
+
+    var frontend_developer = true; 
+
+
+
+
+     import life from "life";
+
+    life(function() {
+        console.log("I just bought a boat, guys! And I'm a retard");
+    });
+ 
+
+
+
+
+ Not to be all elitist design snobby, but some of them aren't that bad. 
+
+
+
+
+ [I went sailing](http://i.imgur.com/kq1jr5f.jpg) the other weekend. 
+
+
+
+
+ * Quit job
+* Buy Macbook
+* ???
+* Profit! 
+
+
+
+
+ You've given them your opinion and you're there to provide $ervice$ to them, what's the problem?
+ 
+
+
+
+
+
+
+
+
+
+ Then have him over to help do some landscaping this Saturday because that's what friends do. It isn't about money. 
+
+
+
+
+ *I* wouldn't do one, but that's *my* personal choice based on the resources I have available for them to make a determination.  They want me to spend time (some times a lot), but they won't spend time (I'm talking 10-15 minutes) to look through my github and ask just one *thoughtful* question.  
+
+They can ask anything they want but I don't have to jump through their hoops as there are plenty of jobs out there.
+
+Bottom line is if you have options, you exercise them. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Writer / Wizard / Mall Santa / Rasputin impersonator. 
+
+
+
+
+ [Here's mine](http://www.romania-insider.com/wp-content/uploads/2011/06/chart-down-money-sxc-1024x580.jpg), let me know if you want a google sheet version, because sheet is what I say every time I look at it. 
+
+
+
+
+ I just learned that my xhtml needs to be well-formed.  It took me a couple weeks just to learn what well-formed means.  If you're available to chat throughout the day, I'd love to ping you, I'm having problems with some document.layers code I'm writing. I don't think it's using BEM, though my indentation might be off. 
+
+
+
+
+ I would not do an interview assignment.  If they can't make a decision based on my github, my work history and their lame, very possibly multiple interviews, they can go fuck themselves.
+
+An interview assignment is a contract-to-hire position, IMO. 
+
+
+
+
+ 50!! its only May..
+
+Stop bitching and start Githubbing your life away. We can't get to 51 without you, slacker. 
+
+
+
+
+ I know one solution is to just say something like I have minimum $50 fee for any small bullshit but I feel like that would be a really bitchy thing to say.
+
+This is why you'll fail at business. 
+
+
+
+
+ I did this effect on my first Angular app.  Quite frankly, I'm still impressed at what behavior CSS can do. 
+
+
+
+
+
+
+
+
+

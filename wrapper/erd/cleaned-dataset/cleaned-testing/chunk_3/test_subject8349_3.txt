@@ -1,0 +1,201 @@
+ Oh come on, y'all just don't want to admit the 50$ you paid for a Sims 3 expansion that should have already been in the main game is totally worth it. DON'T FORGET THE BF4 BATTLEPACKS. 
+
+
+
+
+ Ha, just imagine fingering a chick after that :P 
+
+
+
+
+
+
+
+
+
+ You can buy cheap refill kits on eBay. Or actual full cartridges, if you don't like to get your hands dirty. 
+
+
+
+
+ I bought the Fiji stick on eBay as it isn't available in my country, and it's not that great. Smells like a cleaning product, and stains (not permanently, but still) my dark t-shirts. I use either Wolfthorn or Danger Time, both spray. 
+
+
+
+
+ 8 hours, post it! :) 
+
+
+
+
+ Not having blue eyes.  
+
+
+
+
+ Get a good job and be able to afford everything my parent's can't give me right now. 
+
+
+
+
+ Wearing shoelaces as belts. 
+
+
+
+
+ Croc - The Legend of the Gobbos 
+
+
+
+
+ I like small butts and I cannot lie 
+
+
+
+
+ Watch_Dogs. 
+
+
+
+
+ A few years ago, I woke up (only an hour or two after going to bed, so I guess it was a light sleep) and started crying a lot. To this day, I have no idea what I was crying about. WTF 
+
+
+
+
+ I guess he didn't try "hey bby, wnt sum fuk" :P 
+
+
+
+
+ Chinese crepe. 
+
+
+
+
+ Camel toe 
+
+
+
+
+ To chew with my mouth close. My parents NEVER told me. I remember once in elementary school I was eating cookies when some girl said "Ewwwww, he's chewing!" and I had no idea what I was doing wrong. 
+
+
+
+
+ Pretty much all "old" technology. Old PCs, old phones, old televisions, Walkman CD players, old video games... technology improved a lot in the last decade, but I still prefer the old tech. 
+
+
+
+
+ How sharks don't eat underwater fiber cables. 
+
+
+
+
+ You reverse engineer software to understand how it works, and can then do stuff like bypassing the copy protection, analyzing its malicious behavior (if it's a malware) or fix it. 
+
+When I didn't know anything at all about reversing, I started reading [these](http://thelegendofrandom.com/blog/sample-page) tutorials. The first ones will introduce you to reverse engineering/cracking, and teach you to use the (main) tool to crack software, called a Disassembler. A Disassembler converts binary/hexadecimal code to instructions of Assembly code.
+
+You see, you can't easily "edit" an .exe. After the guys who make a software program it, they compile it to the .exe, and it's all converted to Assembly code. Assembly code is incredibly confusing and no one in 2014 still programs in it, it's really only used in reversing. [Here's](http://www.ollydbg.de/Pics/OllyDbg2.gif)  what it looks like. I know it looks like hell, but those tutorials I mentioned will explain the basics. At some point, though, you'll want to learn Assembly to make sense of ALL of it.
+
+The disassembler you'll be using is called OllyDBG, the one in that picture. It's included in the tutorials, as everything you possibly need. With it you can see that Assembly code that makes-up programs, see the text strings they have, etc.
+
+They start by teaching you how to crack simple software known as "Crackmes". After a while, easy commercial software will be included, so you can practice on real targets.
+
+By the end of this tutorial, you should be able to crack simple commercial software, although this can be reeaaaly time consuming. Please note cracking DRM like Origin, Steam and Battle.net is much harder than the targets you'll be cracking, and you might only be able to do this after years of reversing.
+
+[Tuts4you](https://forum.tuts4you.com) is a community of reversers who's always glad to help you. One rule, though, is to NEVER give info about what software you're trying to crack. 
+
+So here's the more in depth explanation :)
+Cheers!
+ 
+
+
+
+
+ They are, actually :P  in simple protections, at least 
+
+
+
+
+ See [this](http://www.reddit.com/r/AskReddit/comments/2c8kns/whats_the_most_interesting_underrated_hobby/cjd3m33) post I made. 
+
+
+
+
+ Ha, it is indeed. I've spent 15+ hours trying to patch an unpacked VisualBasic program, but still can't. By going deeper into the calls before the conditional jumps that decide *goodboy* or *badboy*, I couldn't find the place where the serial verification is done at startup, and that can get frustrating.  
+
+
+
+
+ Not until now. Thanks for the heads up, it's an interesting read :) 
+
+
+
+
+ I don't think it's legal, but as long as you make sure the software doesn't connect to the Internet, and don't upload it anywhere, you should be fine. I recommend [these](http://thelegendofrandom.com/blog/sample-page) absolute begginer tutorials. If you have questions about stuff, there's [this](https://forum.tuts4you.com/) forum with tons of people who are into reversing software. 
+
+
+
+
+ Oh... I was referring to DRM cracking :P 
+
+
+
+
+ Who's Joe McMillan?  
+
+
+
+
+ Reverse Engineering software. 
+
+
+
+
+ Brazzers 
+
+
+
+
+ Razor1911 
+
+
+
+
+ I'd save half of it. Half of the remaining 12,500$ would be to help pay my parents' debt, and the other half to spend on PC upgrades, new phone and clothes (it's 6250$, so it would be enough for all that).  
+
+
+
+
+ You sir, are a lucky bastard. 
+
+
+
+
+ Unknown 
+
+
+
+
+ Throwing grenades instead of shooting enemies. In BF4. 
+
+
+
+
+ Islam in Europe has to be stopped. Europe is our home, so if you come here, you play by our rules and integrate into our culture. Don't like it? Go back to where you came from. 
+
+
+
+
+ The hope of one day, having a good job and being able to travel as much as I'd like to. 
+
+
+
+
+ P-E-R-S-O-N-A-L-I-T-I-T-S 
+
+
+
+

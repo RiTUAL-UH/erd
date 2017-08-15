@@ -1,0 +1,3005 @@
+Wonder how this approach compares to what Chen and Karger advocated in their SIGIR 2006 paper http://lnkd.in/vCs6vK  #sigir2013    
+    
+    
+    A room full of people with strong opinions about IR evaluation metrics is a dangerous thing! But very entertaining. #sigir2013    
+    
+    
+    "It's in the references, so we read it." #sigir2013    
+    
+    
+    Back to the industry track to hear @gsingers talk about open source search FTW #sigir2013    
+    
+    
+    @daniel_bilar I was paraphrasing this presentation: http://prezi.com/ghpvsbgr0dv8/one-metric-to-rule-them-all-a-general-evaluation-measure-for-information-access-tasks/ …    
+    
+    
+    Nice to see academic IR community increasingly embracing Lucene. Great way to bridge gap between academia and industry #sigir2013    
+    
+    
+    "you owe it to yourself to find something that you can be excited about" Amen.
+http://lnkd.in/bxPXiA     
+    
+    
+    @JimiShan Followed by karaoke? #sigir2013    
+    
+    
+    Now up: Øystein Torbjørnsen (http://lnkd.in/hrJQVp ) on uniting enterprise search with database technology #sigir2013    
+    
+    
+    People want usability & flexibility of a search engine combined with the robustness of a database. And joins. I just want a pony. #sigir2013    
+    
+    
+    Last talk: @hugo_zara on some of the problems and applications of opinion analysis #sigir2013    
+    
+    
+    Reminder to all #sigir2013 presenters and especially industry track colleagues: please post your slides! Ours are at http://lnkd.in/UU-Vkc     
+    
+    
+    @saadmissen Hopefully he'll post them.    
+    
+    
+    Nice to see interface that encourages explicit feedback -- critical for machine-learned classifier deployed in enterprise setting #sigir2013    
+    
+    
+    Best application of sentiment analysis: identifying entertaining content. But labor-intensive, machine learning wasn't enough #sigir2013    
+    
+    
+    And it's a wrap! Time for the #sigir2013 closing session and then a drink at the pub http://lnkd.in/jamXca     
+    
+    
+    And of course #sigir2013 closes with a Harlem Shake.    
+    
+    
+    @dpatil Congrats, just got back from the pub and saw the news! And nice catch for @relateiq!    
+    
+    
+    1 more day of #sigir2013! Attending workshop on modeling user behavior for IR evaluation http://lnkd.in/z3XXms     
+    
+    
+    Workshop on modeling user behavior for IR eval: program/proceedings online at http://lnkd.in/z3XXms  #sigir2013    
+    
+    
+    Improve IR evaluation by simulating interaction and incorporating explicit user models into effectiveness measures #sigir2013    
+    
+    
+    Now: Ben Carterette on user variability in system-based information retrieval evaluation #sigir2013    
+    
+    
+    Test collection + evaluation measure is supposed to model user interacting with search engine #sigir2013    
+    
+    
+    Rank-biased precision as parameterized user model http://lnkd.in/b7uVmd  #sigir2013    
+    
+    
+    Expected Reciprocal Rank for Graded Relevance http://lnkd.in/xnBdvE  #sigir2013    
+    
+    
+    Simulation implies variability, but most IR eval doesn't model it. Let's fix that, eg by modeling user patience as parameter #sigir2013    
+    
+    
+    Can significantly improve IR system effectiveness by tuning systems to optimize for user variability #sigir2013    
+    
+    
+    TREC Session Track categorizes searches as known-subject,interpretative,known-item,exploratory  http://lnkd.in/Pz5Tku  #sigir2013    
+    
+    
+    Mine click logs to infer distribution of searcher impatience #sigir2013    
+    
+    
+    Let's leverage user variability to improve search engine effectiveness. Which means incorporating variability into evaluation #sigir2013    
+    
+    
+    Next: Falk Scholer on observing users to validate models #sigir2013    
+    
+    
+    Falk Scholer: heat maps mask complexity, eg only 40% of users look at top search result first and users backtrack to prev results #sigir2013    
+    
+    
+    Falk Scholer: how badly do we need to damage the search results in order to see measurable differences in user behavior? #sigir2013    
+    
+    
+    Next: Vu Tran on Markov modeling for user interaction in retrieval #sigir2013    
+    
+    
+    Probability ranking principle for interactive information retrieval http://lnkd.in/D_vBVE  #sigir2013    
+    
+    
+    System can determine when expected utility of query reformulation is higher than examining lower-ranked results for current query #sigir2013    
+    
+    
+    Now: incorporating efficiency in evaluation. And a cute kitten. #sigir2013    
+    
+    
+    Now up, with the best title ever, Leif Azzopardi on "The Assimilation of Users" #sigir2013    
+    
+    
+    "User studies are like sex, and simulation is like masturbation. Or is it like drugs?" Leif's just getting started #sigir2013    
+    
+    
+    Kal's ECIR 2011 keynote: http://lnkd.in/DxSixi  #sigir2013    
+    
+    
+    Nick Belkin's ECIR 2008 keynote: http://lnkd.in/AYFsdZ  #sigir2013    
+    
+    
+    Leif's characterization of modeling problem cites George Box but makes me think of http://lnkd.in/TDf3pp  #sigir2013    
+    
+    
+    "Cranfield paradigm = original sim." Leif keeps them coming at #sigir2013    
+    
+    
+    "Whenever there's a model, there's a simulation waiting to happen" #sigir2013    
+    
+    
+    Abstraction suppresses details to make models tractable, while idealization uses something patently false to make the models work #sigir2013    
+    
+    
+    Simulation can explore many different kinds of questions: which, what-if, how, and why #sigir2013    
+    
+    
+    SimInt 2010 workshop on simulation of interaction http://lnkd.in/TusGdt  #sigir2013    
+    
+    
+    How do we create simulations that reflect users' predictable irrationality? #sigir2013    
+    
+    
+    Wish there were some kind of best speaker award. Leif is showing us how it's done #sigir2013    
+    
+    
+    Simulation shows how a user's information seeking strategy affects information-seeking effectiveness #sigir2013    
+    
+    
+    What are we evaluating? System? Application? User? Strategy? How do we delineate? Should we try? #sigir2013    
+    
+    
+    The (Nick) Belkin test: a Turing test for simulated users #sigir2013    
+    
+    
+    Can simulated searchers replace real ones? Can we create homo simulus? #sigir2013    
+    
+    
+    'Irrational' searchers and IR-rational researchers http://lnkd.in/KJnxnT  #sigir2013    
+    
+    
+    Now: Jiepu Jiang on simulating user selections of query suggestions #sigir2013    
+    
+    
+    User judgments of query quality differ from system-oriented metrics like nDCG #sigir2013    
+    
+    
+    A Comparison of User and System Query Performance Predictions http://lnkd.in/6cFSkv  #sigir2013    
+    
+    
+    Query suggestions help when users face cold-start problem and can't (re-)formulate queries - Diane Kelly, SIGIR 2009 #sigir2013    
+    
+    
+    Next: Arjumand Younus on personalization for difficult queries #sigir2013    
+    
+    
+    Can we study personalized search with simulated users? Discuss. #sigir2013    
+    
+    
+    Last talk before lunch: Ben Carterette on user judgments of document similarity #sigir2013    
+    
+    
+    Does cosine similarity actually reflect human judgments of document-document similarity? Correlation is less than 0.2 #sigir2013    
+    
+    
+    Should we get better at simulating users? Or should we try to get users to better simulate simulated users? #sigir2013    
+    
+    
+    @andrew_clegg Workshop program and proceedings are at http://www.mansci.uwaterloo.ca/~msmucker/mube2013/ …    
+    
+    
+    #sigir2013 attendees sitting on Trinity College steps with their laptops: "it's more social" pic.twitter.com/izB4EcEXPE    
+    
+    
+    Want to learn how LinkedIn search works? Check out our slides from #sigir2013 http://lnkd.in/UU-Vkc     
+    
+    
+    Back from lunch for Mikhail Ageev on task-based snippet evaluation #sigir2013    
+    
+    
+    Challenge in evaluating snippets: don't want to penalize good abandonment #sigir2013    
+    
+    
+    Measure snippet quality by predicted search session success rather than by CTR #sigir2013    
+    
+    
+    Next: Peter Bruza on modeling information seeking users by he decisions they make #sigir2013    
+    
+    
+    Quantum cognition: using quantum theory to model human cognition http://lnkd.in/VmhpjM  #sigir2013    
+    
+    
+    The key to understanding the conjunction fallacy is the incompatibility of subspaces of the cognitive decision space #sigir2013    
+    
+    
+    A Quantum Theoretical Explanation for Probability Judgment Errors http://lnkd.in/chCAdc  #sigir2013    
+    
+    
+    @mounialalmas I'm not sure if I can be sure and know if I'm sure at the same time. If I figure it out, I might collapse!    
+    
+    
+    Next: Ke Zhou on evaluating heterogeneous information access #sigir2013    
+    
+    
+    Need to incorporate user behaviors into system-oriented measures for evaluating heterogeneous information access #sigir2013    
+    
+    
+    Eye Tracking on Universal and Personalized Search http://lnkd.in/rVghhr  #sigir2013    
+    
+    
+    Last paper: Colin Wilkie on measures and models of findability #sigir2013    
+    
+    
+    Need a findability measure that considers both retrieval and navigation within the same model #sigir2013    
+    
+    
+    Discussion topics for #mube: validation, reusability, variability, modeling user intent, whole-session eval, interactive measures #sigir2013    
+    
+    
+    Validation questions: what to include in test collection, minimum number of users, component performance vs end-to-end experience #sigir2013    
+    
+    
+    Reusable test collections: add logging of CTRL-F, abandonment; judge summaries; multiple per-topic sessions with tracking #sigir2013    
+    
+    
+    Intent: can games bridge gap btwn natural & imposed intents? Can we project intent into vector space & map to behavioral outcome? #sigir2023    
+    
+    
+    Interaction: what do we want to measure? Holistic UX or components? Engagement? Happiness vs accuracy? What data to collect? #sigir2013    
+    
+    
+    Whole session eval: how do we calculate cost & gain? Interaction model relies on intent model. Sum cost & gain over interactions #sigir2013    
+    
+    
+    And it's a wrap! Thanks everyone for an awesome #sigir2013    
+    
+    
+    Céad míle fáilte to the @SIGIR2013 organizers for an outstanding conference! #sigir2013    
+    
+    
+    @msweeny You're most welcome! Thanks are really due to the @SIGIR2013 organizers who delivered an amazing conference.    
+    
+    
+    @hmvprasanna You're welcome!    
+    
+    
+    On my way back from a great #sigir2013 in Dublin to home sweet Mountain View.    
+    
+    
+    Up for pool-side karaoke? Come to my birthday party next Saturday. But make sure to RSVP! http://lnkd.in/nnBTKu     
+    
+    
+    Nice post by @bencasnocha on applying Kahneman's science of hedonic psychology (experience vs memory) to daily life. https://www.linkedin.com/today/post/article/20130804220552-659753-memories-make-your-life-meaningful-here-s-how-to-have-more-of-them …    
+    
+    
+    Search: What's Cooking in the Lab - reflections on the #sigir2013 conference  https://www.linkedin.com/today/post/article/20130805134105-50510-search-what-s-cooking-in-the-lab …    
+    
+    
+    My #sigir2013 conference report: a focus on entities, users, evaluation http://lnkd.in/7j8KsW     
+    
+    
+    @skamille Thanks for the feedback. Definitely a use case we need to handle, so it's on our to-do list. cc @r39132    
+    
+    
+    @srchvrs You're most welcome! Thanks for joining us for lunch.    
+    
+    
+    Time for the Carmina Burana sing along! http://mountainview.patch.com/groups/events/p/carmina-burana-singalong_3b946dbd …    
+    
+    
+    Intermission.  Water. ZOMG I haven't had this much fun singing since high school. Oh wait, that is the last time I sang the Carmina Burana!    
+    
+    
+    Just finished singing the Carmina Burana with a concert hall full of people just as crazy. Now I drink in earnest. In taberna! Totus floreo!    
+    
+    
+    The dangers of one-click shopping :-) http://www.newyorker.com/online/blogs/borowitzreport/2013/08/amazon-founder-says-he-clicked-on-washington-post-by-mistake.html …    
+    
+    
+    Is there an O'Reilly book on information retrieval? If not, there should be, and the animal should be an okapi. http://lnkd.in/JqNSX9     
+    
+    
+    @cavorite I suppose the Scots would push for a Terrier cc @iadh @craig_macdonald @leifos    
+    
+    
+    @IntranetFocus Glad that @OReillyMedia has a book on enterprise search. But that's not quite the same as a book on information retrieval.    
+    
+    
+    @wyatt_earp_ Thanks, but I've fulfilled my quota by writing one book in this lifetime!    
+    
+    
+    @hmvprasanna Nice metaphor! But I still think we should honor Stephen Robertson and Karen Spärck Jones with an okapi. http://en.m.wikipedia.org/wiki/Okapi_BM25     
+    
+    
+    @IntranetFocus @OReillyMedia I'm sure it's a great book, given the author. But I want something along the lines of Manning/Raghavan/Schütze.    
+    
+    
+    @IntranetFocus Been meaning to read both of those. But neither is from @OReillyMedia. And neither has a okapi on the cover. :-)    
+    
+    
+    Never grabbed @TheNoisyChannel Twitter account. Good thing I moved my blog to LinkedIn! https://www.linkedin.com/influencer/50510 …    
+    
+    
+    @naga86 You can. http://help.linkedin.com/app/answers/detail/a_id/33198 …    
+    
+    
+    Excited that @fredkofman is speaking at LinkedIn today. Loved his book on Conscious Business. Watch online: http://lnkd.in/Y3JDqN     
+    
+    
+    Just heard about Spreadsheets: the quantified self, in bed. Seems like it should be a Jawbone feature. cc @mrogati http://lnkd.in/9d4R7C     
+    
+    
+    Don't start a company just for the sake of starting a company; start a company because you believe in an idea. http://lnkd.in/WY7GeU     
+    
+    
+    It's my birthday, and I'll sing if I want to -- come join us if you're in the neighborhood! http://lnkd.in/nnBTKu     
+    
+    
+    @mrogati @strlen @jaykreps Twitter encourages bolder language with the 140-char limit. Be imperative! Screw verbose subjunctives! #lEANiN    
+    
+    
+    Getting ready for pool-side karaoke pic.twitter.com/7e8dMhUvx6    
+    
+    
+    @EdwardTufte @elunca Even if they're real, the question is whether they pay attention to the people they follow.  http://thenoisychannel.com/2009/01/13/a-twitter-analog-to-pagerank/ …    
+    
+    
+    Thanks to everyone who made my birthday party the best answer to life, the universe, and everything!    
+    
+    
+    @Alpa Belated congrats! Where to?    
+    
+    
+    @dhh Sadly believable despite the irony. Most enterprise search systems suck. Even the expensive ones. Especially the expensive ones.    
+    
+    
+    @usabart @xamat Sorry to burst your filter bubble :-)    
+    
+    
+    Fantastic lecture by @fredkofman that he gave at LinkedIn last week, now on YouTube! "Your Job Is Not Your Job" http://lnkd.in/q6UXz6     
+    
+    
+    Rest in peace, @HCIR_GeneG. So sad to lose you so young.    
+    
+    
+    Interesting watching a startup whose goal is to beat Endeca at ecommerce search. I feel old! http://lnkd.in/xGE3fS     
+    
+    
+    Remembering Gene Golovchinsky @HCIR_GeneG http://lnkd.in/NpVVv6     
+    
+    
+    My daughter, the dancing queen. pic.twitter.com/ljQ7Oeqcmp    
+    
+    
+    Remembering @HCIR_GeneG - reflections on losing a friend and colleague https://www.linkedin.com/today/post/article/20130819070021-50510-remembering-gene …    
+    
+    
+    First day of school! Introducing LinkedIn University Pages http://lnkd.in/cVkMsa     
+    
+    
+    Nice article on technical interviewing: http://lnkd.in/d-9CMP     
+    
+    
+    @naga86 You can. Here's how to hide unwanted endorsements: http://help.linkedin.com/app/answers/detail/a_id/33198 …    
+    
+    
+    Chairing Data Science track at QCon SF w @josh_wills @mitultiwari @xamat & more. Save $100 w SPEAKTUNK100 promo code! http://qconsf.com/     
+    
+    
+    Just added Microsoft Core Search Chief Scientist Jan Pedersen to QCon SF track. Save $100 w SPEAKTUNK100 promo code! http://qconsf.com/     
+    
+    
+    @adamnash Sorry I missed you. Hope you made it to the S.P.A.Z. (Space Pirates And Zombies) party! http://instagram.com/p/dVcbLOI2DI/     
+    
+    
+    @techmatchmaker Please elaborate.    
+    
+    
+    @techmatchmaker Sure. Or write a post and link to it. :-)    
+    
+    
+    You can't endorse my daughter for Karaoke even with new LinkedIn TOS. But you can endorse me! https://www.linkedin.com/in/dtunkelang  pic.twitter.com/dlCtAqJlVh    
+    
+    
+    @mo_data Any of your connections can choose what they endorse you for.    
+    
+    
+    @tomwilliams Thanks!    
+    
+    
+    Enjoyed a delicious breakfast in LinkedIn's new cafeteria. Props to David Henderson and team for delivering the goods! And the bacon!    
+    
+    
+    @mo_data Some of the more generic skills tend to be over-endorsed. But I'm glad you see the histogram as reasonably accurate -- same for me.    
+    
+    
+    @mo_data Can't provide details but we do have measures to combat abusive SEO / search spam.    
+    
+    
+    Noise is the supreme archenemy of all serious thinkers. http://lnkd.in/gYz6fC     
+    
+    
+    Only 3 more days to sign up for QCon SF and save $700. Save another $100 by using SPEAKTUNK100 as a promo code. http://qconsf.com/     
+    
+    
+    Excited to speak at Google next Tuesday Sept 3. If you're a Googler curious about LinkedIn Search, join us at 3:30pm in Asilomar (MTV 1900).    
+    
+    
+    GAO: "software-related patents often had overly broad or unclear claims or both" http://lnkd.in/En4_Zf     
+    
+    
+    Interesting article in IEEE asserting that "The STEM Crisis is a Myth". Discuss. http://lnkd.in/xxh_J2     
+    
+    
+    @adamnash Sure, but no one wants to hire the bottom % of any pool. Wouldn't a scarcity induce employers to raise wages and/or lower the bar?    
+    
+    
+    @adamnash I'm more persuaded by the argument that the amorphousness of how people define STEM allow researchers to cherry-pick data.    
+    
+    
+    @piers_hollott It depends how you define STEM. Not everyone in the software industry studied computer science -- or even a STEM discipline.    
+    
+    
+    @adamnash Touché, top tech employers don't lower the bar -- or don't stay on top. But rest of STEM labor market? Silicon Valley != world.    
+    
+    
+    Software Patents: A Tax on Innovation https://www.linkedin.com/today/post/article/20130903133938-50510-software-patents-a-tax-on-innovation …    
+    
+    
+    Glad to see lots of folks share my view that software patents are a tax on innovation http://lnkd.in/pjA9M4     
+    
+    
+    Heading over to Google in a bit to talk about LinkedIn Search. Hope to reconnect with old friends and make new ones!    
+    
+    
+    Information Technology and Innovation Foundation: The Real Story on Guestworkers in the High-skill U.S. Labor Market http://www2.itif.org/2013-guestworkers-high-skill-labor-market.pdf …    
+    
+    
+    Thanks Hrishikesh Aradhye for hosting me at Google today. And thanks to all the Googlers who attended for your attention & great questions!    
+    
+    
+    What To Do If You Get A Patent Troll Demand http://lnkd.in/w49AqH     
+    
+    
+    @lemire Thanks for the recommendation. Just started watching it -- so far so good.    
+    
+    
+    Maybe the US govt would get serious about stopping patent abuse if it weren't immune to patent infringement lawsuits https://en.wikipedia.org/wiki/Schillinger_v._United_States …    
+    
+    
+    Daughter's excuse for not staying in bed last night: "I was talking to a cat on the patio." And of course she's learned the word "nocturnal"    
+    
+    
+    @whita Sometimes I wonder if her primary motivation for learning is coming up with more excuses to stay up late.    
+    
+    
+    Congrats @mrogati and team! http://lnkd.in/bjekDsK     
+    
+    
+    Welcome @avinash to the LinkedIn Influencer program! Check out his first post about the Twitter IPO. http://lnkd.in/bXykyg2     
+    
+    
+    Non-confidential congratulations to all my friends at Twitter on your upcoming IPO!    
+    
+    
+    Are you a data scientist? Want to help a designer & earn $$ for an interview about how you work? Email kim@slicedbreaddesign.com for details    
+    
+    
+    Not that I'd ever trade my iPhone for a Windows phone, but this is freaking hilarious. - http://pulse.me/s/qfhcb     
+    
+    
+    @DtNever Email my twitter handle @ gmail.    
+    
+    
+    Looking at double-walled espresso glasses. Bodum Pavina? Ozeri Moderna? Any coffee geeks have strong opinions you'd be so gracious to share?    
+    
+    
+    @arunbatchu Thanks, glad you like it!    
+    
+    
+    @willwest_ Thanks! Those are certainly my baseline -- pretty happy with Bodum products generally.    
+    
+    
+    The fascinating and sad story of crap coffee http://www.theguardian.com/p/3tmg5/tw     
+    
+    
+    @eric_andersen Cat poop coffee is certainly weird to me. :-) I'd heard of it years ago from an Indonesian friend but never tried it.    
+    
+    
+    Always fun at expense of my Princeton alumni friends when Princeton Engineering Anomalies Research (PEAR) makes news. http://www.themindunleashed.org/2013/09/mind-over-matter-princeton-russian.html …    
+    
+    
+    A good part-of-speech tagger in 200 lines of Python http://lnkd.in/bBzNeNu     
+    
+    
+    @ian_soboroff Good is subjective, but the author provides empirical results in the post.    
+    
+    
+    @ian_soboroff All I know is what is in the post.    
+    
+    
+    LinkedIn’s Commitment to Transparency About Government Requests for Member Data http://lnkd.in/bNfD_-a     
+    
+    
+    LinkedIn’s Commitment to Transparency About Government Requests for Member Data http://blog.linkedin.com/2013/09/17/linkedins-commitment-to-transparency-about-government-requests-for-member-data/ …    
+    
+    
+    Love that people are fighting back against patent trolls with the RICO Act. Hope it works. http://lnkd.in/b_WWF7D     
+    
+    
+    @marcprecipice Congrats to you and to @stripe!    
+    
+    
+    @marcprecipice Will keep it warm and sunny for you. Great to have you back!    
+    
+    
+    @PFCdgayo Thanks for the shout-out for TunkRank!    
+    
+    
+    @alansaid @arjenpdevries @abellogin Congrats!    
+    
+    
+    Setting the Record Straight on False Accusations - a post by LinkedIn Senior Director of Litigation @blawit http://lnkd.in/baaDCEd     
+    
+    
+    What is a Thought Leader? https://www.linkedin.com/today/post/article/20130923140605-50510-what-is-a-thought-leader …    
+    
+    
+    New York regulators cracking down on fake reviews. http://lnkd.in/bd49AAT  But is spontaneity overrated? http://lnkd.in/bTxpHxD     
+    
+    
+    What is a thought leader? Join the conversation at http://lnkd.in/bUc_dZg     
+    
+    
+    Hey Europe: please don't emulate the US by becoming more friendly to patent trolls. http://lnkd.in/bGqdHxk     
+    
+    
+    @panm817 If the input is itself in the dictionary, then you don't have to split it. That's how the problem is defined.    
+    
+    
+    Thrilled that the FTC is finally investigating how patent assertion entities (aka patent trolls) undermine innovatio…http://lnkd.in/brJX6Cu     
+    
+    
+    @mrogati @eminomura Congrats to you both! Expecting great things from @Jawbone data science.    
+    
+    
+    Hey recruiters: cold-call anonymized pitches with requests for phone calls are annoying. If you're serious, disclose & put skin in the game.    
+    
+    
+    Out of Endeca, a new crop of start-ups takes shape in the Boston area. http://lnkd.in/bPDtjeh     
+    
+    
+    @eric_andersen The congrats go to my former colleagues. I've just been a cheerleader and technical advisor. :-)    
+    
+    
+    @tynanwrites IANAL. But as @jim_adler says, laws govern use. But regulating private inference is Orwellian. Creates a class of thought crime    
+    
+    
+    @tynanwrites @jim_adler In that case I think we're in violent agreement.    
+    
+    
+    @communicating Endeca alumni are a formidable talent pool. And Steve Papa is a force of nature -- he's involved with a lot of the startups.    
+    
+    
+    @mrogati Googled [date a scientist] and got http://dating.newscientist.com/  You know we can do better.    
+    
+    
+    @matthewhurst @ian_soboroff He already lives in Washington :-P    
+    
+    
+    @communicating So proud to have been part of that revolution. Still working to carry it through more of the consumer internet.    
+    
+    
+    @climatecorp Congrats David and team, and good luck continuing your mission on an even bigger scale!    
+    
+    
+    @ManningBooks @gsingers @drewfarris @dr_dobbs Congrats! Glad to see practical books on text mining being recognized.    
+    
+    
+    Introducing LinkedIn’s First Recruiter Certification Program http://lnkd.in/bf7qtPW     
+    
+    
+    Congrats @tarunavg and team on launching LinkedIn's recruiter certification program! http://lnkd.in/bf7qtPW     
+    
+    
+    Congratulations to @friedberg and The Climate Corporation on their acquisition! Big data products FTW! http://lnkd.in/bBETyrT     
+    
+    
+    @marcprecipice Welcome back to the land of eternal sunshine! Let me know when you can make it down to the South Bay.    
+    
+    
+    Learn from amazing machine learning & data science practitioners at QCon SF. Use SPEAKTUNK100 code for a $100 discou…http://lnkd.in/bzDU_BU     
+    
+    
+    Been on Spotify for ~2 years now. Hard to imagine I ever listened to music any other way. Thanks @spotify for improving my quality of life.    
+    
+    
+    @PandoDaily Haven't read the patent, but doubt it's as bad as the crap-ton of software patents. At least they're thinking of the children.    
+    
+    
+    Props to Kaspersky Lab for defeating software patent troll Lodsys! http://lnkd.in/bknZQrr     
+    
+    
+    @e_kaspersky to software patent troll Lodsys: Never give up, never surrender! http://lnkd.in/bU4k5jY     
+    
+    
+    Study by Yale professor Ian Ayres questions "Bing-It-On" claim, finding that searchers prefer Google over Bing. http://lnkd.in/bY5tTkV     
+    
+    
+    Sad to be missing the HCIR Symposium this year, but glad that it's generating a healthy social media stream #hcir201…http://lnkd.in/bm8f_Zz     
+    
+    
+    Great catching up about social search with Gayatree Ganu today. Proud to be an external member on her dissertation committee.    
+    
+    
+    If anyone who attended #hcir2013 wants to write a guest post for me, please let me know! Sorry I couldn't be there this year.    
+    
+    
+    @elunca @rcapra3 Would love to bring HCIR back to Bay Area! And LinkedIn is building out more space, so let's see what's possible. #hcir2013    
+    
+    
+    @rcapra3 Missing you guys too. Retweeting isn't the same. Though hopefully my retweets are interesting! #hcir2013    
+    
+    
+    My family is camping w/o me this weekend, so thinking of sneaking out to Blue Max for karaoke tonight. Join me! And endorse me for karaoke!    
+    
+    
+    Why Are There Still So Few Women in Science? http://lnkd.in/bUb_9QU     
+    
+    
+    @hintikka I hope that organizations like @MentorNetTweet can help bring more women into STEM. That's why I signed up as an advisor.    
+    
+    
+    @techmatchmaker Glad to hear it! Am proud of LinkedIn's efforts to support women in tech, but there's a long way to go for us all.    
+    
+    
+    Great night for karaoke at Blue Max in Sunnyvale. You know you want to. http://m.yelp.com/biz/blue-max-sunnyvale …    
+    
+    
+    Bing rebuts Yale study questioning claims of "Bing It On" challenge http://searchengineland.com/bing-slams-freakonomics-bing-it-on-critique-173486 …    
+    
+    
+    Could it really be true that uber patent troll Intellectual Ventures is running out of cash? Don't get my hopes up! http://lnkd.in/bAf-rjR     
+    
+    
+    @techmatchmaker In theory that's why you centralize management of social CRM. In practice, some data gets lost in translation.    
+    
+    
+    Great piece by @cfchabris on "Why Malcolm Gladwell Matters (And Why That's Unfortunate)" http://lnkd.in/bHS58M7     
+    
+    
+    @tomwilliams @cfchabris It's tempting to dismiss mediocre pop science as entertainment. But bestsellers have consequences.    
+    
+    
+    Even if you dislike Ed Snowden, I hope you agree with @schneierblog that NSA attacks on internet must be made public http://www.theguardian.com/commentisfree/2013/oct/04/nsa-attacks-internet-bruce-schneier …    
+    
+    
+    Awesome catching up with @mrogati about the cool data science her team is doing at Jawbone. And Spotify   Jambox = music happiness!    
+    
+    
+    @edchi Was your #hcir2013 keynote recorded? And are the slides available online?    
+    
+    
+    @edchi Cool. Sorry I couldn't experience it live, but hope the slides make their way onto the interwebs soon.    
+    
+    
+    @mikeolson @hmason Bunch of us been saying this for a while. e.g., http://thenoisychannel.com/2008/05/01/privacy-through-difficulty/ … But we're finally at the point where people care.    
+    
+    
+    @peteskomoroch @hmason @mikeolson Problem is public's right to know vs individual right to privacy. I like @jim_adler's answer: regulate use    
+    
+    
+    @hmason @mikeolson True that. And it's nice that our friends at the NSA have helped bring more public attention to the issue.    
+    
+    
+    Before you go after the long tail, optimize for the short snout https://www.linkedin.com/today/post/article/20131007130344-50510-optimize-for-the-short-snout …    
+    
+    
+    How I learned to stop worrying about the long tail and optimize for the short snout https://www.linkedin.com/today/post/article/20131007130344-50510-optimize-for-the-short-snout …    
+    
+    
+    @krisztianbalog Can you elaborate? Perhaps in more than 140 chars?    
+    
+    
+    @krisztianbalog Hope @gsingers & @LucidWorks are listening. I know they're trying to build great products, so they should hear your feedback    
+    
+    
+    @techmatchmaker How would you react as a recruiter or hiring manager if a candidate asked you for the company's compensation spreadsheet?    
+    
+    
+    @techmatchmaker But do you expect them to disclose their present compensation if you won't disclose the company's present compensation info?    
+    
+    
+    @techmatchmaker Candidate can try to learn this info from H1B filings. But usually the information asymmetry favors employer over candidate.    
+    
+    
+    @techmatchmaker Maybe not the entire balance sheet, but at least the distribution of compensation for candidate's peer group at the company.    
+    
+    
+    @techmatchmaker So does that mean you make an offer before you know candidate's current compensation? If not, how do you avoid anchoring?    
+    
+    
+    @techmatchmaker If current comp has little weight, then it's best not to insist on it. Many recruiters insist on knowing, then anchor on it.    
+    
+    
+    @techmatchmaker Sadly true. When I find great recruiters I treasure them.    
+    
+    
+    Honored to be a keynote at CIKM Workshop on 
+Data-driven User Behavioral Modeling & Mining from Social Media http://lnkd.in/bNgZ3St     
+    
+    
+    Looking forward to #cikm2013! I'm keynoting DUBMOD workshop; my colleague @StatGuru1 is in industry track http://www.cikm2013.org/     
+    
+    
+    @IR_oldie Congrats to Dave and to the @bing team -- that's a big win!    
+    
+    
+    Impressive, scary material from team at iSEC Partners. You'll never see your cell phone the same way again. http://lnkd.in/b84rJ5A     
+    
+    
+    Glad the CPJ is holding the Obama administration accountable for its lack of transparency. http://lnkd.in/bwf_Nzq     
+    
+    
+    @jeremyphoward Congrats and keep us posted! Good luck in your next play!    
+    
+    
+    Curious about EHCR ruling on anonymous commenters. Personally never been a fan of anonymous comments. http://lnkd.in/bUMY7fw     
+    
+    
+    I just need 3 more endorsements for Karaoke to get it ahead of Data Science. Happy to earn them with a performance, via Skype if necessary.    
+    
+    
+    @techmatchmaker @segdeha If ads keep the internet "free", then what are advertisers paying for? Attention/time is money.    
+    
+    
+    @techmatchmaker @segdeha Granted, most consumers don't see it that way and prefer to spend a lot attention/time rather than a little cash.    
+    
+    
+    @techmatchmaker @segdeha I use an ad blocker and pay for ad free content when it's available. To each their own.    
+    
+    
+    @leifos @alansaid @jkonstan That's why I wrote a blog post in defense of recall. Someone's gotta stand up for it. http://thenoisychannel.com/2009/07/17/in-defense-of-recall/ …    
+    
+    
+    @ian_soboroff I prefer science fiction to fictional science. Preferences don't commute. Besides, I hate commuting.    
+    
+    
+    Google CIO Ben Fried bans Dropbox because it holds company data in another company's data center. Irony much? http://lnkd.in/bZu8mxu     
+    
+    
+    Netflix #customerservicewin! Like Picard, rep showed intelligence, courage, integrity, compassion, courtesy. …http://lnkd.in/byr2fNu     
+    
+    
+    @techmatchmaker I finally met @fredkofman in person when he spoke at LinkedIn. Incredible talk. Watch it on YouTube: https://www.youtube.com/watch?v=IdMvWLARF1w …    
+    
+    
+    @techmatchmaker Frank Flynn taught several leadership classes at LinkedIn that I was fortunate to attend. Highly recommend him as a teacher.    
+    
+    
+    @jkonstan @leifos @alansaid Guess I had to be there. I concede measuring recall may be meaningless if your ground truth is too incomplete.    
+    
+    
+    @techmatchmaker I plan to -- unless someone else does it first! -- but I'm not sure when. I want to spend enough time on it to do it right.    
+    
+    
+    @ian_soboroff @jkonstan @leifos @alansaid I believe it's "I'm so happy with what I got, I want more!" http://www.azlyrics.com/lyrics/madonna/more.html …    
+    
+    
+    @alansaid Would totally sing Madonna's "More" as karaoke if you could find a bar that stocked it. Might have to go custom.    
+    
+    
+    @alansaid Sorry, not attending #recsys2013. Been trying to do less jet-setting and more family time. But a bunch of LinkedIn folks are there    
+    
+    
+    @alansaid I'll be at #cikm2013 in a few weeks. Working on my slides for the DUBMOD workshop keynote. https://sites.google.com/site/umsocial2013/keynote-speakers …    
+    
+    
+    @alansaid Acceptable, but I need to learn song better first since it doesn't track lyrics word by word. Request it at my next karaoke party!    
+    
+    
+    @alansaid @xamat @mitultiwari I'm not really a #recsys guy -- am more of a search guy. Though #recsys is just search with a null query. :-)    
+    
+    
+    Niche search engine I just discovered: MillionShort only shows results from long tail of less popular sites. http://millionshort.com/     
+    
+    
+    The Pseudo-Profundity of Malcolm Gladwell http://lnkd.in/bD68e5g     
+    
+    
+    Folks who developed MillionShort also built MillionTall to search only the short snout (top 1K - 1M) of sites http://lnkd.in/b8MDnWH     
+    
+    
+    @ian_soboroff Ok, I give up -- I'll stick to classic karaoke IR. Like that Frankie Goes To Hollywood song about query relaxation.    
+    
+    
+    Executives Need Press Training Too https://www.linkedin.com/today/post/article/20131014122821-50510-executives-need-press-training-too …    
+    
+    
+    @lizgannes I'd love to see the full text of the interview. My sources at Google tell me you misrepresented Ben in the article. Discuss?    
+    
+    
+    @lizgannes Can follow up privately if you want. DM best way to get in touch.    
+    
+    
+    @lizgannes My friend claimed context was cut that would have made Ben's position seem more nuanced. Hence my curiosity about the full text.    
+    
+    
+    @lizgannes But if they're unwilling to make their objections publicly, then I'm inclined to take everything in your article at face value.    
+    
+    
+    @mauralyn You're the best. Come out to Mountain View someday, and I'll take you to my favorite local karaoke joints!    
+    
+    
+    Just finished drafting slides on "Social Search in a Professional Context" for the DUBMOD workshop #cikm2013 http://lnkd.in/b8S_QF2     
+    
+    
+    @adityagp @xamat @pankaj @mitultiwari @greglinden @amt_shrma Speaking of interfaces, dear Twitter please figure out a better group chat soln    
+    
+    
+    Just adopted new setting so anyone who follows me can DM me. Good move on Twitter's part to roll this out. http://www.theverge.com/web/2013/10/15/4840190/twitter-direct-messages-from-any-follower-option …    
+    
+    
+    @harper Always seemed odd that Twitter expected users to follow numbers much greater than Dunbar's but required it for DM. Problem solved!    
+    
+    
+    @harper Maybe, I think I'm a real person, but I haven't been genetically verified. For all I know, I could be a clone. Or a simulation.    
+    
+    
+    @zenogantner @xamat @mitultiwari @alansaid @greglinden @amt_shrma I buy that information access is a multidimensional multiplayer game.    
+    
+    
+    Delighted to see Google CIO Ben Fried clarify his remarks about Dropbox to @lizgannes http://lnkd.in/b86-EXh     
+    
+    
+    @lizgannes My apologies for questioning whether you'd misrepresented Ben Fried in your interview. Glad to see his public clarification.    
+    
+    
+    Just heard Bill Gates speak at Sequoia event at AirBnB. Inspired and humbled by his work and his humility. Honored, awed to talk to him 1:1.    
+    
+    
+    And thank you Jessica Long for giving me a tour of the AirBnB office. You have an amazing space and culture. Not to mention a great product!    
+    
+    
+    @Sequoia_Capital @BillGates Thank you for a truly inspiring evening. You've set an extraordinary bar to aspire to.    
+    
+    
+    Thrilled that New York Airbnb hosts are standing up for themselves and for the rest of us. http://lnkd.in/bDctpRd     
+    
+    
+    Excited to hear @reidhoffman talk with Eric Ries about lean startups. Follow the stream at http://lnkd.in/b6hPb7Z  #inspeaker    
+    
+    
+    Core idea of lean startup: optimize for speed of learning through rapid experimentation  #inspeaker http://lnkd.in/bhNpv3p     
+    
+    
+    Eric Ries on key challenge of innovation: if we don't know what's supposed to happen, how do we measure if we're making progress? #inspeaker    
+    
+    
+    Eric Ries: No matter how long you wait, you will be embarrassed by the first version of your product. Get customer feedback ASAP. #inspeaker    
+    
+    
+    Eric Ries: as an engineer you may have a point of view about quality. But customers are the ultimate arbiters of product quality. #inspeaker    
+    
+    
+    Thanks Eric Ries for answering my q about managing uncertainty: use business model to rule out impossible; learn inputs over time #inspeaker    
+    
+    
+    @jerepick As Eric answered, the key is to treat innovation as hypothesis testing. cf. http://thenoisychannel.com/2012/04/25/science-as-a-strategy/ …    
+    
+    
+    @jerepick Hypothesis generation is how you decide what to try. But learning comes from hypothesis testing and analyzing results.    
+    
+    
+    @jerepick Hopefully you're continually doing both in a virtuous cycle.    
+    
+    
+    @jerepick Completely agree with you there. I know, I'm no fun.    
+    
+    
+    Successful orgs are those with workers in charge of the management http://lnkd.in/bXG26hM  Better yet http://lnkd.in/j4AVTT     
+    
+    
+    Happy Bosses Day! Please celebrate by giving your boss a performance review. http://lnkd.in/j4AVTT     
+    
+    
+    We've been trying to get @Comcast to restore our broadband service for 3 days. Anyone else know how to get customer service from them? #fail    
+    
+    
+    @scottopia Thanks, will try that.    
+    
+    
+    @comcastcares We've been trying to get Comcast to restore our broadband for 3 days. Your reps have misdirected us, and no-showed w/o a call.    
+    
+    
+    @comcastcares It's hard to fit all of our frustration into 140 chars but you get the idea. Can you help? Happy to send more details by DM.    
+    
+    
+    @peterleonard In Mountain View @comcast is one of the few options. But will look into @sonicnet. Thanks!    
+    
+    
+    Congrats @kmlake, @ericcolson, and the whole Stitch Fix team on your $12M Series B! http://lnkd.in/ban7kqE     
+    
+    
+    I, for one, welcome our new Data Elite overlords. http://lnkd.in/bA5qDpv     
+    
+    
+    Good news: the government shutdown is over. Bad news: an example in my slides is now a bit dated. #cikm2013 http://lnkd.in/b8S_QF2     
+    
+    
+    @ComcastMelissa We still have no service. We have an appointment at 7am tomorrow. We had to book it in person your office.    
+    
+    
+    @ComcastMelissa Believe me I will. Thank you for responding. ButI hope you understand I'm not a Comcast fan right now.    
+    
+    
+    Honored to be keynoting ACM @WebSciConf 2014 along with @DameWendyDBE and @jobsworth. http://www.websci14.org/     
+    
+    
+    @flojee Thanks!    
+    
+    
+    @elunca @arunbatchu Thanks!    
+    
+    
+    Congrats to my friends at Google on a great Q3! http://lnkd.in/b9nsW3m     
+    
+    
+    "Google’s business continues to be the one thing for which it’s best known—search." -- @mims http://lnkd.in/ba6QiHC     
+    
+    
+    Last chance to sign up for QCon SF! Register before 10/25 to save $400, and $100 more with SPEAKTUNK100 code. http://lnkd.in/b_yafvi     
+    
+    
+    Despite previous frustration with @Comcast, I was very impressed with tech Dominic Martinez who restored service this AM. cc @ComcastMelissa    
+    
+    
+    @techmatchmaker True that. I see so many people who randomly walk through the professional graph without figuring out what they really want.    
+    
+    
+    @IR_oldie By CS journals do you mean compilations of extended versions of year-old CS conference papers?    
+    
+    
+    Sorry I missed today's workshop at Stanford on Reputation, Trust, and Authority. Hope slides will be posted. http://lnkd.in/bpaWJYV     
+    
+    
+    Thanks to everyone who endorsed me for Karaoke and helped place it in my top 10 skills!    
+    
+    
+    @paulwehner Absolutely. Thanks!    
+    
+    
+    I now have more endorsements for karaoke than for recommender systems. Which is a great excuse for not making it to #recsys2013 :-)    
+    
+    
+    @communicating Thanks for sharing. Feels like consumer version of my @TTIVanguard talk on interacting with big data https://www.linkedin.com/today/post/article/20130502234056-50510-big-data-we-have-a-communication-problem …    
+    
+    
+    Loser pays for frivolous lawsuits by patent trolls? Please SCOTUS, grant us this small favor. http://lnkd.in/b_Z3pXi     
+    
+    
+    @techmilind I see karaoke as part of my professional identity. :-)    
+    
+    
+    Scott Adams argues that passion is the result of success. Interesting. Passion motivates me to pursue success …http://lnkd.in/bu8CiNa     
+    
+    
+    Taste in food is personal and subjective. Except for bacon. http://lnkd.in/bNG8tU5     
+    
+    
+    I, for one, welcome our new robot barista overlords. http://lnkd.in/bd4VhHA  http://lnkd.in/b9mgftu     
+    
+    
+    @friedberg: doing a startup means having a deserving problem & being passionate about changing the world http://lnkd.in/bVEVgnJ     
+    
+    
+    You're the Boss of You https://www.linkedin.com/today/post/article/20131021125257-50510-you-re-the-boss-of-you …    
+    
+    
+    You're the boss of you: your responsibility as an employee to your manager, your employer, and yourself http://lnkd.in/bJ_gH_i     
+    
+    
+    Thanks @hmason for posting the full set of videos from DataGotham 2013 on YouTube! http://lnkd.in/dXKFS5p     
+    
+    
+    Congrats to @datariver, @jrgoldman, @anutewary & Level Up on acquisition by Intuit! http://lnkd.in/dV7X8Dc     
+    
+    
+    Interesting move posted on LinkedIn but not in tech press: @nathanfolkman left CTO post at @path to join @samsung https://www.linkedin.com/pub/nathan-folkman/0/400/3a2 …    
+    
+    
+    Congrats to @sarahtavel, @jrauser, @jeremyl and everyone at Pinterest on your $225M round! http://lnkd.in/d-5DfvD     
+    
+    
+    Are you a manager who thinks it's enough to tell employees "your door is always open"? Here's a good read. http://lnkd.in/dVQ4Xqy     
+    
+    
+    @kellan A data scientist never reveals his secrets. :-)    
+    
+    
+    @jerepick Fair enough. But it was a dumb promise. Instead they should've promised to be as user-first as possible with an ad-supported model    
+    
+    
+    Love the great speakers at LinkedIn. Today: Brad Stone talking about history of Jeff Bezos & Amazon. Watch at http://lnkd.in/6RV89M     
+    
+    
+    Impressed by the intensity of Amazon's culture & Jeff Bezos's idealism. But not sure I could ever work there. http://lnkd.in/dC_SDvU     
+    
+    
+    First time I've heard of the "Amazon.love" memo. Protip: don't Google "amazon.love" at work. http://lnkd.in/d8sBk8D     
+    
+    
+    @jerepick I'm sure you can. :-)    
+    
+    
+    @whita I'm just glad I didn't try to "feel lucky" with that particular search.    
+    
+    
+    @astrobiased @mrogati @Jawbone Congrats!    
+    
+    
+    Proud of the engineering team that built LinkedIn Intro for iOS. Check out the updated @LinkedInEng blog post http://lnkd.in/dxZ6NrT     
+    
+    
+    @techmatchmaker Then don't use it :-) It's opt-in and very clear about how it works.    
+    
+    
+    Only 3 more days til #cikm2013! Excited to talk about Social Search in a Professional Context on Monday. http://lnkd.in/b8S_QF2     
+    
+    
+    @pankaj Hey, that's what weekends are for. :-)    
+    
+    
+    @techmatchmaker Please elaborate. Perhaps in a forum that provides more than 140 characters to express your thoughts. :-)    
+    
+    
+    "One chord is fine. Two chords are pushing it. Three chords and you're into jazz." RIP, Lou Reed. http://www.cnn.com/2013/10/27/showbiz/lou-reed-obit/ …    
+    
+    
+    Taught my daughter selection sort vs insertion sort today. Hoping she'll pick up quicksort before she turns 6. #DevelopHer    
+    
+    
+    Looking forward to Gayatree Ganu's defense: Understanding Preferences & Similarities from User-Authored Text http://lnkd.in/dGv_2YY     
+    
+    
+    @maui314159 I think recursive approach is more intuitive, but I'll let her decide when we get there. She tends to have strong opinions. :-)    
+    
+    
+    @marcozag Thanks, will check it out.    
+    
+    
+    @ian_soboroff She did great. O(n^2) but she's getting the constant down. :-)    
+    
+    
+    @ian_soboroff To be clear, we're still just working through the algorithms. Coding will come later.    
+    
+    
+    @AmbassadorToyPA She's got over a month.    
+    
+    
+    @gstam I'm sure it will be after she passes her defense and publishes the dissertation.    
+    
+    
+    @elunca Sorry the community is fragmented between conferences this week. On my way (by train) to #cikm2013. Enjoy #dagEIR!    
+    
+    
+    @gingdottwit @ebuie We all miss @HCIR_GeneG. Fortunately his ideas don't have to choose between conferences -- his influence is ubiquitous.    
+    
+    
+    @elunca Just another beautiful day in the valley. :-) http://www.weather.com/weather/tenday/Burlingame+CA+94010:4:US …    
+    
+    
+    Getting started at the DUBMOD workshop at #cikm2013 https://sites.google.com/site/umsocial2013/ …    
+    
+    
+    Now up at the DUBMOD workshop: @pankaj giving a keynote on User Modeling at Twitter #cikm2013    
+    
+    
+    Interesting: Twitter has power law for out-degree, not just in-degree. Especially since attention is finite http://thenoisychannel.com/2009/01/13/a-twitter-analog-to-pagerank/ … #cikm2013    
+    
+    
+    Interested in paper @pankaj cited: On the Precision of Social and Information Networks #cikm2013 http://stanford.edu/~rezab/papers/precision.pdf …    
+    
+    
+    @tomwilliams No objection as long as you do it in a way that accounts for gaming. At least if anyone is paying attention to the numbers.    
+    
+    
+    Never managed to use Twitter lists effectively but glad they're useful for mining what people are known for and user interests. #cikm2013    
+    
+    
+    @tomwilliams I hear you. But I think the problem is harder than it looks.    
+    
+    
+    Ordinary language is powerful -- the fundamental lexical hypothesis. #cikm2013 http://en.wikipedia.org/wiki/Lexical_hypothesis …    
+    
+    
+    Didn't know that Twitter built a topic hierarchy. Would love to use it to follow topics or people-topic pairs rather than people. #cikm2013    
+    
+    
+    Hubs and authorities on list-members bipartite graph beats topic-sensitive PageRank on follow graph for identifying topic experts. #cikm2013    
+    
+    
+    Love that "chatter" is an identifiable topic on Twitter. Hope ASONAM 2013 paper is available online. cc @pankaj #cikm2013    
+    
+    
+    Back from coffee break for short talks. First up: eBay research on Session Modeling to Predict Online Buying Behavior #cikm2013    
+    
+    
+    Next: Twitter Anticipates Bursts of Requests for Wikipedia Articles #cikm2013    
+    
+    
+    Twitter leads, Wikipedia lags. But only by about an hour. #cikm2013    
+    
+    
+    And now research on Pinterest data: Automatically Linking Pinterest Pins to Online Webshops #cikm2013    
+    
+    
+    Last talk before lunch & before my keynote: Content-boosted Maximum Margin Matrix Factorization for Flickr Group Recommendation #cikm2013    
+    
+    
+    Hope everyone had a nice lunch. Giving my keynote at DUBMOD workshop in a few minutes on Social Search in a Professional Context #cikm2013    
+    
+    
+    @xamat I'll log out in a few minutes if you promise to live-tweet my talk :-)    
+    
+    
+    @ahbugdayci We'll see. I envision an arms race between the difficulty of technical phone screen questions and her speed of learning.    
+    
+    
+    @pankaj Thanks! Enjoyed yours as well.    
+    
+    
+    Attending the workshops / tutorials at #cikm2013? Bunch of us are going to the Elephant Bar afterward. Join us! http://www.elephantbar.com/location/burlingame …    
+    
+    
+    Social Search in a Professional Context - my #cikm2013 slides https://www.linkedin.com/today/post/article/20131029000013-50510-social-search-in-a-professional-context …    
+    
+    
+    @xamat Come over any time, we're here!    
+    
+    
+    @xamat Unfortunately not. But we shouldn't need a conference to catch up. Worst case, see you at QCon in a couple of weeks. :-)    
+    
+    
+    Thanks Jalal Mahmud, James Caverlee, Michelle Zhou for inviting me to #cikm2013 DUBMOD workshop. My slides: http://lnkd.in/dZXQeGH     
+    
+    
+    For anyone I didn't get to meet at #cikm2013, LinkedIn is hiring! Please talk to my colleagues to learn more, or reach out to me personally.    
+    
+    
+    @ramnathb Thanks for sharing!    
+    
+    
+    Happy National Cat Day! http://www.nationalcatday.com/     
+    
+    
+    The NSA may lack a conscience, but is making up for it in competence. At least if Snowden et al are telling the truth http://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost …    
+    
+    
+    An interesting take on "pro-social gossip" in the workplace by Wharton professor Adam Grant. http://lnkd.in/dKvSiqd     
+    
+    
+    Sorry to miss rest of #cikm2013. Will follow tweet stream. Posted my keynote slides on LinkedIn / Slideshare http://lnkd.in/dZXQeGH     
+    
+    
+    Have you read my faceted search book? If so, could you please leave me a review on Amazon? Thanks! :-) http://lnkd.in/ds4vye6     
+    
+    
+    @vagabondjack Grab a copy from the bookshelf by my desk. :-)    
+    
+    
+    @msbernst @iadh Probably. Most authors are kind enough to post PDFs of their papers somewhere easy to find. :-)    
+    
+    
+    @jongovi Thanks for the review!    
+    
+    
+    @msbernst @iadh I could have sworn I had a USB drive with the proceedings, but I can't find it. Worst case, email the authors.    
+    
+    
+    Attending #cikm2013? Want to learn more about search at LinkedIn? Be sure to find my colleague @abhimanyulad and swing by our sponsor booth.    
+    
+    
+    Dear friends at @Google, happy to offer you my stash of prior art on associative search engines. Call me :-) http://lnkd.in/dnx3xAH     
+    
+    
+    @dannysullivan Agreed, there's prior art in both industry and academia on this. Happy to send references if you're curious -- DM / email me.    
+    
+    
+    My daughter on Halloween. Baby, she's a firework! https://www.youtube.com/watch?v=olnaTZYf8vQ …    
+    
+    
+    Great meeting #cikm2013 attendees at LinkedIn today! Contact me if you'd like to learn more. http://lnkd.in/UU-Vkc     
+    
+    
+    @marcprecipice I think they make irony supplements. Then again, most of what you read online is fortified with a full day's supply of irony.    
+    
+    
+    Just signed 30-day notice to my apartment complex. Hopefully our house is ready for us in time. If not, the office has comfy chairs...    
+    
+    
+    No response from @google. Hope their in-house prior art search is better than this: http://www.google.com/patents/related/text#c=0&d1&d2=02%2F12%2F1997&t=1associative%20search%20engines ….    
+    
+    
+    Count me as a Bill Gates fanboy. Curing diseases that kill millions is higher priority than global broadband. http://lnkd.in/dVZ55aA     
+    
+    
+    Nothing wrong with PhDs that aren't career investments -- if students are informed and universities disclose. http://lnkd.in/dSn6Kaq     
+    
+    
+    @jonathankoren I'm all for global hedonic optimization. But should we optimize for experienced or remembered utility? http://eprints.lse.ac.uk/22750/1/04064.pdf …    
+    
+    
+    @communicating Thanks. She had a blast. I think all kids should get lit up for Halloween. :-)    
+    
+    
+    @daringfireball I'm no Google fanboy - my household is 100% Apple. But don't equate Google's defensive tactics to MS+Apple's offensive ones.    
+    
+    
+    RIP, Cliff Nass. Thank you for teaching us so much about computers and human beings. http://lnkd.in/dqG6-dg     
+    
+    
+    Was reflecting on Cliff Nass as I read great performance feedback from my manager. Here's what Cliff said: http://lnkd.in/5WePvf     
+    
+    
+    Congratulations to Dr. Gayatree Ganu on her successful dissertation defense! http://lnkd.in/byh9xuQ     
+    
+    
+    @informor Not sure I follow. Why don't you send me an email -- might be easier to explain in more than 140 chars.    
+    
+    
+    Congratulations to my friends at Twitter -- enjoy the big and well-earned day! #TWTR #TwitterIPO    
+    
+    
+    @tomwilliams No, I hadn't -- thanks for the link! Looks fun, but will wait for reviews -- am a bit skeptical of auto-filtering vocals.    
+    
+    
+    En route to #qconsf! Looking forward to presentations & conversations & esp to machine learning / data science track! http://qconsf.com/track/applied-machine-learning-and-data-science …    
+    
+    
+    @hmvprasanna I'm not aware of any. But I expect that many (hopefully all) presenters will share their slides.    
+    
+    
+    @hmvprasanna Recorded videos of presentations will be released (but not live-streamed) at http://www.infoq.com/qcon/presentations …    
+    
+    
+    If you're not attending #qconsf, you can follow tweet stream. Now on: creator of Clojure @richhickey on Design, Composition, and Performance    
+    
+    
+    Good design = separating into things that can be composed, making each component about one thing, composing them to solve a problem #qconsf    
+    
+    
+    Full orchestration vs. just the melody and chord changes -- great metaphor for variation in specificity of design by @richhickey #qconsf    
+    
+    
+    Love where @richhickey is taking design-as-music metaphor: programming languages as instruments with deliberate design constraints #qconsf    
+    
+    
+    Software designers can learn from electronic instrument designers: build human interfaces on top of machine interfaces - @richhickey #qconsf    
+    
+    
+    Take-away from @richhickey's keynote: Design like Bartok, Code like Coltraine #qconsf    
+    
+    
+    Thrilled to be speaking with @sankarsearch at Strata 2014 on "Socializing Search. Professionally." http://lnkd.in/d2WUrJA     
+    
+    
+    Attending architecture track at #qconsf. Starting with @jedberg on how Netflix architects for survival http://qconsf.com/track/architectures-youve-always-wondered-about …    
+    
+    
+    Not new but worth repeating: @jedberg on how Netflix's simian army improves reliability and availability http://techblog.netflix.com/2011/07/netflix-simian-army.html … #qconsf    
+    
+    
+    Culture of incident reviews focused on understanding rather than blame is key to institutional learning from mistakes -- @jedberg #qconsf    
+    
+    
+    Back from coffee break for @dmarsh on "From Code to Monkeys: Continuous Delivery at Netflix" http://qconsf.com/presentation/code-monkeys-continuous-delivery-netflix … #qconsf    
+    
+    
+    Back from lunch for more architecture at #qconsf. Now up: Brenden Matthews on Data & Infrastructure at Airbnb http://qconsf.com/presentation/data-infrastructure-airbnb …    
+    
+    
+    More coffee, more talks! Now up: @collidr on "Scaling the Operations Organization at Facebook" http://qconsf.com/presentation/growing-few-many-scaling-operations-organization-facebook … #qconsf    
+    
+    
+    Attending @mikeyk's talk on "How a Small Team Scales Instagram" #qconsf http://qconsf.com/presentation/how-small-team-scales-instagram …    
+    
+    
+    Take-aways from @mikeyk: do simple things first, every infra moving part is another thread for your team to manage, simple != hacky #qconsf    
+    
+    
+    Last talk of the #qconsf architecture track: @yashh and @marty_pinterest Scaling Pinterest http://qconsf.com/presentation/scaling-pinterest …    
+    
+    
+    @snoble If you're optimizing for speed of learning, optimal strategy seems to be to overbuild just enough to buy the time to rebuild.    
+    
+    
+    Last talk of the day at #qconsf: @hackingdata on the evolution of machine learning from science to software http://qconsf.com/keynote/evolution-machine-learning-science-software …    
+    
+    
+    Oryx machine learning library for Hadoop released by Cloudera today: https://github.com/cloudera/oryx  #qconsf    
+    
+    
+    @kriswager Didn't plan it that way. Added a second LinkedIn speaker when one of my other speakers bailed. But both will be excellent. :-)    
+    
+    
+    Excited to kick off the Applied Machine Learning & Data Science track with speakers from Cloudera, Google, LinkedIn, and Netflix! #qconsf    
+    
+    
+    On to the morning keynote: Facebook's Keith Adams on "The Unreasonable Effectiveness of Tuning" http://qconsf.com/keynote/unreasonable-effectiveness-tuning … #qconsf    
+    
+    
+    Is tuning a system based on user data analogous to machine learning? In search, "tuning" often opposite of machine-learned approach. #qconsf    
+    
+    
+    I love many of Keith's analogies. But wondering if his argument is more about human learning than machine learning. #qconsf    
+    
+    
+    "The experimental method does not absolve you from your responsibility for thinking"-- Keith Adams http://qconsf.com/keynote/unreasonable-effectiveness-tuning … #qconsf    
+    
+    
+    I liked Keith's answer to my question -- elide the distinction between humans and machines. We're just human computers. :-) #qconsf    
+    
+    
+    First up in the Applied Machine Learning & Data Science track: @xamat on Machine Learning & Recommender Systems at Netflix Scale #qconsf    
+    
+    
+    Netflix's shift from DVDs to streaming changed incentive to give feedback -- lower cost of selecting a movie you don't like - @xamat #qconsf    
+    
+    
+    Netflix has moved beyond inferring ratings, providing personalized explanations and social support for its recommendations. - @xamat #qconsf    
+    
+    
+    Netflix recommendations use explicit and inferred preferences, and similarity based on content and collaborative filtering. - @xamat #qconsf    
+    
+    
+    Big Data @ Netflix: 40M subscribers, 5M ratings/day, 3M searches/day, 50M plays/day, 5B hours in Q3 2013. - @xamat #qconsf    
+    
+    
+    @randyshoup @QConSF Fair enough. And, as @hackingdata explained in his keynote, most of the work in machine learning is feature engineering.    
+    
+    
+    Common-sense reminder: popularity is the natural baseline for personalized recommender systems. - @xamat #qconsf    
+    
+    
+    More data or better models, who wins? Depends on problem dimensionality. At low dimension, data size has diminising return. - @xamat #qconsf    
+    
+    
+    More details on the offline / online / nearline computation archietecture @xamat is describing in his #qconsf talk: http://techblog.netflix.com/2013/03/system-architectures-for.html …    
+    
+    
+    Fallback strategy crucial for online recommender systems that require low latency, eg fall back to stale or unpersonalized. - @xamat #qconsf    
+    
+    
+    Not enough for a better model to improve recommendation performance. Business value also has to justify cost / complexity. - @xamat #qconsf    
+    
+    
+    Netflix uses human labeling instead of machine learning because problem is human-scale and people still better than machines- @xamat #qconsf    
+    
+    
+    About to start next Data Science talk at #qconsf: @gloriatlau on "Data Science for Hire Ed". Blame me for the pun. http://qconsf.com/presentation/data-science-hire-ed …    
+    
+    
+    Students and recent graduates are fastest growing segment on LinkedIn, which offers guidance based on career outcomes. - @gloriatlau #qconsf    
+    
+    
+    Data standardization key to build data products. Entity resolution more tractable when you add social network features - @gloriatlau #qconsf    
+    
+    
+    Best way to improve data quality is to not have to: invest in typeahead interface to collect starndardized data upfront -@gloriatlau #qconsf    
+    
+    
+    LinkedIn built Notable Alumni product by matching name & standardized school data with Wikipedia, then crowdsourced eval-@gloriatlau #qconsf    
+    
+    
+    More machine learning / data science! @mitultiwari on Large-Scale Social Recommender Systems at LinkedIn http://qconsf.com/presentation/large-scale-social-recommender-systems-linkedin … #qconsf    
+    
+    
+    @kstirman I can't speak for @xamat, but I suspect it's the former. Netflix claims recommendations drive 75% of views. http://techblog.netflix.com/2012/04/netflix-recommendations-beyond-5-stars.html …    
+    
+    
+    LinkedIn delivers news recommendation using explore / exploit: optimize predicted CTR vs data to improve predictions - @mitultiwari #qconsf    
+    
+    
+    Feature engineering key for LinkedIn's People You May Know, e.g. modeling organization overlap http://www.cs.utexas.edu/~cjhsieh/fp086-hsieh.pdf … - @mitultiwari #qconsf    
+    
+    
+    Lower structural diversity increases invitation rate for LinkedIn People You May Know. Contrast to 2012 Facebook study -@mitultiwari #qconsf    
+    
+    
+    Here's the CIKM 2012 paper that @mitultiwari is citing about LinkedIn's related searches recommendations: http://www.azreda.org/paper/cikm2012.pdf … #qconsf    
+    
+    
+    The story of LinkedIn endorsements: extract from profile -> standardize -> infer people's skills -> viral data product -@mitultiwari #qconsf    
+    
+    
+    LinkedIn skill endorsements have produced valuable data, eg. identifying the skill set associated with data scientists -@mitultiwari #qconsf    
+    
+    
+    The open-source stack LinkedIn uses to recommend at scale: Kafka, Hadoop, Azkaban, Voldemort http://data.linkedin.com/opensource  - @mitultiwari #qconsf    
+    
+    
+    If you're curious to learn more about how LinkedIn built Skills & Endorsements, check out these Strata slides http://www.slideshare.net/s_shah/strata-endorsements … #qconsf    
+    
+    
+    Now up in the machine learning & data science track: Hrishikesh Aradhye on Large Scale Discovery Systems for YouTube and Google Play #qconsf    
+    
+    
+    Some YouTube data challenges: video thumbnail extraction, adult content classification, Content ID, video annotation -Hrishi Aradhye #qconsf    
+    
+    
+    Learn more about Hrishi's YouTube annotation research from the publications he's posted at http://research.google.com/pubs/author37818.html … #qconsf    
+    
+    
+    Been getting a full house for machine learning / data science talks at #qconsf. Great to see so much interest in the topic among developers!    
+    
+    
+    Should I pipe videos of my daughter (or me?) singing karaoke through Hrishi's algorithms to judge quality? http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/41422.pdf … #qconsf    
+    
+    
+    Discoverability on Google Play: short/clear/unique title; functional & vivid description; real screenshots; video previews, reviews #qconsf    
+    
+    
+    Google Play's typeahead search interface blends navigational instant results (labeled with icons) with suggested search completions. #qconsf    
+    
+    
+    Google Play sees 6M+ unique phrases searched monthly. 50% of them are misspelled. -Hrishi Aradhye #qconsf    
+    
+    
+    Features to gain / retain users for Google Play apps: design for tablets, helpful web anchors, small footprint, get reviews. #qconsf    
+    
+    
+    If you liked @hackingdata's data science keynote last night then be sure to attend @josh_wills's talk: "From the Lab to the Factory" #qconsf    
+    
+    
+    Last data science talk of the day starting in 5 mins: Cloudera's @josh_wills on "From the Lab to the Factory" http://qconsf.com/presentation/lab-factory-building-production-machine-learning-infrastructure … #qconsf    
+    
+    
+    Data scientists: aspire to be mathematicians, others think we do data viz, but really we spend our time cleaning data - @josh_wills #qconsf    
+    
+    
+    Business people want data scientists to produce actionable insights. But analysis rarely translates to simple decisions -@josh_wills #qconsf    
+    
+    
+    Data science in the factory vs the lab: data products are about operational analytics, not just investigative analytics -@josh_wills #qconsf    
+    
+    
+    Lab vs factory data science: questions vs metrics, interactive vs automated, ad hoc vs systematic, fixed data vs fluid - @josh_wills #qconsf    
+    
+    
+    Biggest difference between lab & factory data science: whether output is a report or is part of a shipped data product - @josh_wills #qconsf    
+    
+    
+    "All products of any consequence will become data products." - @josh_wills #qconsf    
+    
+    
+    Being able to iterate quickly is more important than how well you do the first time. Optimize for speed of iteration. - @josh_wills #qconsf    
+    
+    
+    Before you invest in a complex solution, do the simplest thing that could possibly work. - @josh_wills #qconsf    
+    
+    
+    Human Cloning: The Data Scientist Bottleneck Resolved via @josh_wills http://www.slideshare.net/datasciencelondon/ds-ldn-dr-alex-farquhar-forwardtek … #qconsf    
+    
+    
+    "Data Science needs DevOps" - @josh_wills #qconsf    
+    
+    
+    Useful links about online experimentation from @josh_wills http://research.google.com/pubs/pub36500.html … , http://www.exp-platform.com/Pages/default.aspx … , http://www.deaneckles.com/blog/596_lossy-better-than-lossless-in-online-bootstrapping/ … #qconsf    
+    
+    
+    For those wondering about the Coldplay problem @josh_wills is struggling with, here's a fun blog post of mine http://thenoisychannel.com/2009/02/24/how-recommendation-engines-quash-diversity/ … #qconsf    
+    
+    
+    Thanks to everyone who attended the Applied Machine Learning and Data Science #qconsf track today! And special thanks to the great speakers!    
+    
+    
+    @gstam With flying colors :-)    
+    
+    
+    LinkedIn will be out in force at Strata 2014: 7 of us delivering 4 sessions. Register now to save up to $500 http://lnkd.in/dxKQXZE     
+    
+    
+    Machine Learning as a Metaphor: what I learned at #qconsf https://www.linkedin.com/today/post/article/20131118140237-50510-machine-learning-as-a-metaphor …    
+    
+    
+    Thanks to @floydmarinescu and the whole #qconsf team for a great conference! Posted some of my reflections: http://lnkd.in/d4mV9db     
+    
+    
+    Reverse engineering of Klout score by Sean Golliher: it's basically the log of your retweets (R2 = 0.94). http://lnkd.in/djmCKB5     
+    
+    
+    Former @klout Chief Scientist @dzhou disputes analysis, claims biased sample. Discussion in LinkedIn comment thread: https://www.linkedin.com/nhome/updates?topic=5808403622249529344 …    
+    
+    
+    Take out the popcorn for Newegg vs. patent troll TQP. Whitfield Diffie takes "expert witness" to a new level. http://lnkd.in/d4JXQ_Y     
+    
+    
+    @russell_hanson For the log of the retweets, but who's counting? :-)    
+    
+    
+    @russell_hanson Silicon Valley firewater! :-)    
+    
+    
+    Tweeting about how Klout scores are mostly a function of retweets got me over 60 retweets. And raised my Klout score. How droll.    
+    
+    
+    Noticed unusual activity on my Twitter account in last 24 hours. Just changed my password. Please let me know if you saw anything suspicious    
+    
+    
+    @jiongwang Congrats to you and the team on the enhancements!    
+    
+    
+    @ipeirotis Don't underestimate the power of a weak tie!    
+    
+    
+    Last weekend of apartment living. https://www.facebook.com/media/set/?set=a.448081635302439.1073741835.433030823474187 …    
+    
+    
+    @sumade @josh_wills "That's making me hungry" -- my almost-6-year old daughter, who like me is a devout Bacontarian.    
+    
+    
+    @jadler One life event at a time. :-)    
+    
+    
+    @ade_oshineye Right now it's by invitation only, the list being curated by @danroth and his team.    
+    
+    
+    @FindTheBest Congratulations on the victory, and good luck with the rest on the war.    
+    
+    
+    Sad day in software patent litigation as Newegg loses round to a patent troll. Hoping they win on appeal. http://lnkd.in/drJKRnY     
+    
+    
+    Home is where I want to be, but I guess I'm already there.    
+    
+    
+    @jonathanglick For more context, moved into new house today. But I do love that song. And I know a local karaoke bar that has it. :-)    
+    
+    
+    Blade Runner: The Aquarelle Edition http://youtube.com/watch?v=SLwmlMezS3U …    
+    
+    
+    @cornett Maybe they should have stuck with Endeca. :-) I did the same query on other Endeca-powered retail sites and got better results.    
+    
+    
+    Dear Twitter friends, please help me decide which Chromebook to buy my daughter. She's almost 6 & eager to have her own non-tablet computer.    
+    
+    
+    @joelgrus Hah. Still wonder what Google was thinking.    
+    
+    
+    @communicating Thanks. Will look at the Black Friday / Cyber Monday specials for sure. But so many choices.    
+    
+    
+    @communicating Thanks, much appreciated!    
+    
+    
+    @communicating Right now my top candidate is the 2GB Acer C720. $199 on Amazon and doesn't seem to have any major negatives.    
+    
+    
+    @emilbronikowski @hnshah @kubafilipowski I've definitely seen web design that reminds me of human feces. :-)    
+    
+    
+    @communicating Thanks, food for thought. Want to keep price low since it's for a kid plus I'm sure tech will evolve rapidly in next 2 years.    
+    
+    
+    @nkamensky I'm honored by the request, but unfortunately I'm already overcommitted.    
+    
+    
+    The Changing Face of Exploratory Search http://www.linkedin.com/today/post/article/20131202060444-50510-the-changing-face-of-exploratory-search …    
+    
+    
+    Entities, knowledge graphs, and search assistance -- coming together to change the face of exploratory search. http://lnkd.in/drGVw9M     
+    
+    
+    @esammer @hmason Perhaps the Free Masons are a scalable open-source alternative.    
+    
+    
+    Jeff Bezos to world: "What's cooler than a self-driving car?" http://lnkd.in/dfh5RnD     
+    
+    
+    Am curious to see what Apple will do with Topsy -- always liked those guys. http://lnkd.in/diXTaeW     
+    
+    
+    @markmadsen I've reached out to Laxmi Patel (@laxbmss / https://www.linkedin.com/in/laxmipatel ), who owns the group. Hopefully he can make it stop.    
+    
+    
+    @markmadsen It didn't surface in my feed -- I searched for it.    
+    
+    
+    How would the world of computer science be different if sorting were lower bounded by n^2? http://www.quora.com/Computer-Science/How-would-the-world-of-computer-science-be-different-if-sorting-were-lower-bounded-by-n-2 …    
+    
+    
+    One step forward in the war against patent trolls. http://lnkd.in/dRKbWCt     
+    
+    
+    @jinyunyan You can always pay for them. Would be an interesting experiment to see how robust Klout and other measures are to gaming.    
+    
+    
+    Supreme Court to decide whether software is patentable. Hoping the outcome is at least a move towards sanity. http://lnkd.in/didj5ug     
+    
+    
+    @leonpalafox @iskander Given the competition for machine learning talent and the quality of NIPS attendees, it's a brilliant recruiting move    
+    
+    
+    "I like every color in the world!" -- my daughter, while opening her birthday presents. pic.twitter.com/VScOy4s4mI    
+    
+    
+    @stephenlee0 Thanks!    
+    
+    
+    Birthday girl on her throne. Thanks to the kids who partied with us & to the parents for lack of casualties. pic.twitter.com/fxhLG9d7Bz    
+    
+    
+    This is Lily. Those are her friends. And they're here to pump you up. pic.twitter.com/5fZFo4CCCX    
+    
+    
+    “@xamat: Probably interesting RT @newsycombinator: BayesDB - a Bayesian database table http://probcomp.csail.mit.edu/bayesdb/ ” - don't be naive.    
+    
+    
+    @jadler Why were you cooking your left thumb? And do you always tweet while cooking your extremities?    
+    
+    
+    @zephoria So much for their big words about internalizing the open-access culture of @Mendeley after acquiring them.    
+    
+    
+    @hmason Did you mean to tweet, "Smile if you're working on tooth-mounted sensors"?    
+    
+    
+    Key Takeaway Points and Lessons Learned from QCon San Francisco 2013 - by Abel Avram http://lnkd.in/dbAtqey     
+    
+    
+    Grace Hopper on David Letterman in 1986, just before she turned 80. Inspiring -- and very entertaining. http://lnkd.in/dBsqkYR     
+    
+    
+    Proud not to have any of top 10 overused words in my LinkedIn profile: "responsible","strategic","creative"...http://lnkd.in/dZc6z3j     
+    
+    
+    @adamnash I don't believe anyone here (or elsewhere) has done that analysis. But I can say that they aren't what people search for.    
+    
+    
+    @adamnash Would be fun to run a controlled experiment. But unlikely that members would appreciate it. :-)    
+    
+    
+    Happy to see Michelle Lee, former Google patent chief, take charge of USPTO. Hope she can do some good there. http://lnkd.in/dJuwukk     
+    
+    
+    I don't always commend Google for its actions, but when I do it's because they've earned my love and respect. http://lnkd.in/dfxqj8K     
+    
+    
+    Crossed 5k followers before I crossed 10k tweets. Hopefully that means I'm doing something right.    
+    
+    
+    @MatthewZadrozny I thought the whole point of caching the images is that the senders won't know that.    
+    
+    
+    @MatthewZadrozny You're right:"In some cases, senders may be able to know whether an individual has opened a message"https://support.google.com/mail/answer/145919 …    
+    
+    
+    @JeffD Congrats! They're lucky to have you.    
+    
+    
+    My daughter getting an early start in local politics -- as mayor for the day, she lit the Mountain View holiday tree https://www.youtube.com/watch?v=I4ReGFrxrYM&t=31m50s …    
+    
+    
+    "It is too damn hard to keep up. And most of what's out there is crap." http://lnkd.in/dfmaiKA     
+    
+    
+    Come hear @sankarsearch & me talk about LinkedIn Search at Strata, and save 20% with SPEAKER20 discount code. http://lnkd.in/d2WUrJA     
+    
+    
+    Introducing a New Way to Search for Influencer Content on LinkedIn http://lnkd.in/d8-tfx8     
+    
+    
+    President Obama meeting w tech brain trust tomorrow, including couple of my friends. Hope he listens to them. http://lnkd.in/dKZ6nPb     
+    
+    
+    Nice analysis of Twitter follower distribution by O'Reilly data journalist @JonBruner http://lnkd.in/dCRq6AZ     
+    
+    
+    @BigDataSc @bradleyvoytek To be fair, academia often isn't aligned with disruptive innovation that tries to change the rules of the game.    
+    
+    
+    @BigDataSc @bradleyvoytek I suspect most investors are even worse at recognizing and valuing innovation than academic reviewers.    
+    
+    
+    Better late than never: the UK posthumously pardons computer science hero Alan Turing and formally apologizes http://lnkd.in/d82iFN5     
+    
+    
+    @communicating Likewise. Merry Christmas / winter holiday of your choosing and a happy new year!    
+    
+    
+    My daughter is loving her new Chromebook. Already checked her email and now is playing Duolingo.    
+    
+    
+    @eric_andersen Spanish. She's in a dual immersion Spanish / English kindergarten so the first lessons are pretty easy for her.    
+    
+    
+    @fmanjoo @WSJ Won't others always have the power to override a sharer's desire for instant deletion by posting permanent copies themselves?    
+    
+    
+    @mrogati Congrats on being featured in the @HuffingtonPost for @Jawbone's work on analyzing sleep patterns! http://www.huffingtonpost.com/2013/12/26/2013-the-year-in-sleep-in_n_4473343.html …    
+    
+    
+    @fmanjoo @WSJ Less often for sure. But I think of how Deja News unburied Usenet posts. Or how deleted tweets have a way of sticking around.    
+    
+    
+    @fmanjoo @WSJ I suppose I've largely given up on privacy through difficulty. The internet is increasingly efficient at creating permanence.    
+    
+    
+    Planning to have an early, casual family-friendly New Year's Eve party. Local friends, ping me for details.    
+    
+    
+    Curious how the management experiments at Medium and Zappos turn out. Let's all benefit from what they learn. http://lnkd.in/dqpQVCZ     
+    
+    
+    @techmatchmaker Why do companies that benefit from information asymmetry insist on even more of it in negotiation? Just because they can?    
+    
+    
+    @techmatchmaker How would you react to "I'd rather not anchor our discussion by giving you a number." Or this advice: http://www.forbes.com/sites/shenegotiates/2012/06/04/ask-for-way-too-much-and-close-your-wage-gap-the-script/ …    
+    
+    
+    @techmatchmaker Does that also mean that the candidate's current comp is not an input into the offer? In that case you could disclose first.    
+    
+    
+    @techmatchmaker No need for such an elaborate pretext for coffee. :-)    
+    
+    
+    Congrats to @arampell on Yub's acquisition by http://Coupons.com ! http://lnkd.in/dbzixm2     
+    
+    
+    Beautiful mash-up of "Let It Go" & "Defying Gravity". @JamieMaletz may not be Idina Menzel but she has a great voice https://www.youtube.com/watch?v=U9e48hL1DO8 …    
+    
+    
+    @lizgannes Happy new year, and congrats to you and the @recode team on the new adventure! Looking forward to great reporting and analysis.    
+    
+    
+    @dannysullivan Agreed. That kind of class act seems rare these days -- thanks for calling it out.    
+    
+    
+    Wonder how this approach compares to what Chen and Karger advocated in their SIGIR 2006 paper http://lnkd.in/vCs6vK  #sigir2013    
+    
+    
+    A room full of people with strong opinions about IR evaluation metrics is a dangerous thing! But very entertaining. #sigir2013    
+    
+    
+    "It's in the references, so we read it." #sigir2013    
+    
+    
+    Back to the industry track to hear @gsingers talk about open source search FTW #sigir2013    
+    
+    
+    @daniel_bilar I was paraphrasing this presentation: http://prezi.com/ghpvsbgr0dv8/one-metric-to-rule-them-all-a-general-evaluation-measure-for-information-access-tasks/ …    
+    
+    
+    Nice to see academic IR community increasingly embracing Lucene. Great way to bridge gap between academia and industry #sigir2013    
+    
+    
+    "you owe it to yourself to find something that you can be excited about" Amen.
+http://lnkd.in/bxPXiA     
+    
+    
+    @JimiShan Followed by karaoke? #sigir2013    
+    
+    
+    Now up: Øystein Torbjørnsen (http://lnkd.in/hrJQVp ) on uniting enterprise search with database technology #sigir2013    
+    
+    
+    People want usability & flexibility of a search engine combined with the robustness of a database. And joins. I just want a pony. #sigir2013    
+    
+    
+    Last talk: @hugo_zara on some of the problems and applications of opinion analysis #sigir2013    
+    
+    
+    Reminder to all #sigir2013 presenters and especially industry track colleagues: please post your slides! Ours are at http://lnkd.in/UU-Vkc     
+    
+    
+    @saadmissen Hopefully he'll post them.    
+    
+    
+    Nice to see interface that encourages explicit feedback -- critical for machine-learned classifier deployed in enterprise setting #sigir2013    
+    
+    
+    Best application of sentiment analysis: identifying entertaining content. But labor-intensive, machine learning wasn't enough #sigir2013    
+    
+    
+    And it's a wrap! Time for the #sigir2013 closing session and then a drink at the pub http://lnkd.in/jamXca     
+    
+    
+    And of course #sigir2013 closes with a Harlem Shake.    
+    
+    
+    @dpatil Congrats, just got back from the pub and saw the news! And nice catch for @relateiq!    
+    
+    
+    1 more day of #sigir2013! Attending workshop on modeling user behavior for IR evaluation http://lnkd.in/z3XXms     
+    
+    
+    Workshop on modeling user behavior for IR eval: program/proceedings online at http://lnkd.in/z3XXms  #sigir2013    
+    
+    
+    Improve IR evaluation by simulating interaction and incorporating explicit user models into effectiveness measures #sigir2013    
+    
+    
+    Now: Ben Carterette on user variability in system-based information retrieval evaluation #sigir2013    
+    
+    
+    Test collection + evaluation measure is supposed to model user interacting with search engine #sigir2013    
+    
+    
+    Rank-biased precision as parameterized user model http://lnkd.in/b7uVmd  #sigir2013    
+    
+    
+    Expected Reciprocal Rank for Graded Relevance http://lnkd.in/xnBdvE  #sigir2013    
+    
+    
+    Simulation implies variability, but most IR eval doesn't model it. Let's fix that, eg by modeling user patience as parameter #sigir2013    
+    
+    
+    Can significantly improve IR system effectiveness by tuning systems to optimize for user variability #sigir2013    
+    
+    
+    TREC Session Track categorizes searches as known-subject,interpretative,known-item,exploratory  http://lnkd.in/Pz5Tku  #sigir2013    
+    
+    
+    Mine click logs to infer distribution of searcher impatience #sigir2013    
+    
+    
+    Let's leverage user variability to improve search engine effectiveness. Which means incorporating variability into evaluation #sigir2013    
+    
+    
+    Next: Falk Scholer on observing users to validate models #sigir2013    
+    
+    
+    Falk Scholer: heat maps mask complexity, eg only 40% of users look at top search result first and users backtrack to prev results #sigir2013    
+    
+    
+    Falk Scholer: how badly do we need to damage the search results in order to see measurable differences in user behavior? #sigir2013    
+    
+    
+    Next: Vu Tran on Markov modeling for user interaction in retrieval #sigir2013    
+    
+    
+    Probability ranking principle for interactive information retrieval http://lnkd.in/D_vBVE  #sigir2013    
+    
+    
+    System can determine when expected utility of query reformulation is higher than examining lower-ranked results for current query #sigir2013    
+    
+    
+    Now: incorporating efficiency in evaluation. And a cute kitten. #sigir2013    
+    
+    
+    Now up, with the best title ever, Leif Azzopardi on "The Assimilation of Users" #sigir2013    
+    
+    
+    "User studies are like sex, and simulation is like masturbation. Or is it like drugs?" Leif's just getting started #sigir2013    
+    
+    
+    Kal's ECIR 2011 keynote: http://lnkd.in/DxSixi  #sigir2013    
+    
+    
+    Nick Belkin's ECIR 2008 keynote: http://lnkd.in/AYFsdZ  #sigir2013    
+    
+    
+    Leif's characterization of modeling problem cites George Box but makes me think of http://lnkd.in/TDf3pp  #sigir2013    
+    
+    
+    "Cranfield paradigm = original sim." Leif keeps them coming at #sigir2013    
+    
+    
+    "Whenever there's a model, there's a simulation waiting to happen" #sigir2013    
+    
+    
+    Abstraction suppresses details to make models tractable, while idealization uses something patently false to make the models work #sigir2013    
+    
+    
+    Simulation can explore many different kinds of questions: which, what-if, how, and why #sigir2013    
+    
+    
+    SimInt 2010 workshop on simulation of interaction http://lnkd.in/TusGdt  #sigir2013    
+    
+    
+    How do we create simulations that reflect users' predictable irrationality? #sigir2013    
+    
+    
+    Wish there were some kind of best speaker award. Leif is showing us how it's done #sigir2013    
+    
+    
+    Simulation shows how a user's information seeking strategy affects information-seeking effectiveness #sigir2013    
+    
+    
+    What are we evaluating? System? Application? User? Strategy? How do we delineate? Should we try? #sigir2013    
+    
+    
+    The (Nick) Belkin test: a Turing test for simulated users #sigir2013    
+    
+    
+    Can simulated searchers replace real ones? Can we create homo simulus? #sigir2013    
+    
+    
+    'Irrational' searchers and IR-rational researchers http://lnkd.in/KJnxnT  #sigir2013    
+    
+    
+    Now: Jiepu Jiang on simulating user selections of query suggestions #sigir2013    
+    
+    
+    User judgments of query quality differ from system-oriented metrics like nDCG #sigir2013    
+    
+    
+    A Comparison of User and System Query Performance Predictions http://lnkd.in/6cFSkv  #sigir2013    
+    
+    
+    Query suggestions help when users face cold-start problem and can't (re-)formulate queries - Diane Kelly, SIGIR 2009 #sigir2013    
+    
+    
+    Next: Arjumand Younus on personalization for difficult queries #sigir2013    
+    
+    
+    Can we study personalized search with simulated users? Discuss. #sigir2013    
+    
+    
+    Last talk before lunch: Ben Carterette on user judgments of document similarity #sigir2013    
+    
+    
+    Does cosine similarity actually reflect human judgments of document-document similarity? Correlation is less than 0.2 #sigir2013    
+    
+    
+    Should we get better at simulating users? Or should we try to get users to better simulate simulated users? #sigir2013    
+    
+    
+    @andrew_clegg Workshop program and proceedings are at http://www.mansci.uwaterloo.ca/~msmucker/mube2013/ …    
+    
+    
+    #sigir2013 attendees sitting on Trinity College steps with their laptops: "it's more social" pic.twitter.com/izB4EcEXPE    
+    
+    
+    Want to learn how LinkedIn search works? Check out our slides from #sigir2013 http://lnkd.in/UU-Vkc     
+    
+    
+    Back from lunch for Mikhail Ageev on task-based snippet evaluation #sigir2013    
+    
+    
+    Challenge in evaluating snippets: don't want to penalize good abandonment #sigir2013    
+    
+    
+    Measure snippet quality by predicted search session success rather than by CTR #sigir2013    
+    
+    
+    Next: Peter Bruza on modeling information seeking users by he decisions they make #sigir2013    
+    
+    
+    Quantum cognition: using quantum theory to model human cognition http://lnkd.in/VmhpjM  #sigir2013    
+    
+    
+    The key to understanding the conjunction fallacy is the incompatibility of subspaces of the cognitive decision space #sigir2013    
+    
+    
+    A Quantum Theoretical Explanation for Probability Judgment Errors http://lnkd.in/chCAdc  #sigir2013    
+    
+    
+    @mounialalmas I'm not sure if I can be sure and know if I'm sure at the same time. If I figure it out, I might collapse!    
+    
+    
+    Next: Ke Zhou on evaluating heterogeneous information access #sigir2013    
+    
+    
+    Need to incorporate user behaviors into system-oriented measures for evaluating heterogeneous information access #sigir2013    
+    
+    
+    Eye Tracking on Universal and Personalized Search http://lnkd.in/rVghhr  #sigir2013    
+    
+    
+    Last paper: Colin Wilkie on measures and models of findability #sigir2013    
+    
+    
+    Need a findability measure that considers both retrieval and navigation within the same model #sigir2013    
+    
+    
+    Discussion topics for #mube: validation, reusability, variability, modeling user intent, whole-session eval, interactive measures #sigir2013    
+    
+    
+    Validation questions: what to include in test collection, minimum number of users, component performance vs end-to-end experience #sigir2013    
+    
+    
+    Reusable test collections: add logging of CTRL-F, abandonment; judge summaries; multiple per-topic sessions with tracking #sigir2013    
+    
+    
+    Intent: can games bridge gap btwn natural & imposed intents? Can we project intent into vector space & map to behavioral outcome? #sigir2023    
+    
+    
+    Interaction: what do we want to measure? Holistic UX or components? Engagement? Happiness vs accuracy? What data to collect? #sigir2013    
+    
+    
+    Whole session eval: how do we calculate cost & gain? Interaction model relies on intent model. Sum cost & gain over interactions #sigir2013    
+    
+    
+    And it's a wrap! Thanks everyone for an awesome #sigir2013    
+    
+    
+    Céad míle fáilte to the @SIGIR2013 organizers for an outstanding conference! #sigir2013    
+    
+    
+    @msweeny You're most welcome! Thanks are really due to the @SIGIR2013 organizers who delivered an amazing conference.    
+    
+    
+    @hmvprasanna You're welcome!    
+    
+    
+    On my way back from a great #sigir2013 in Dublin to home sweet Mountain View.    
+    
+    
+    Up for pool-side karaoke? Come to my birthday party next Saturday. But make sure to RSVP! http://lnkd.in/nnBTKu     
+    
+    
+    Nice post by @bencasnocha on applying Kahneman's science of hedonic psychology (experience vs memory) to daily life. https://www.linkedin.com/today/post/article/20130804220552-659753-memories-make-your-life-meaningful-here-s-how-to-have-more-of-them …    
+    
+    
+    Search: What's Cooking in the Lab - reflections on the #sigir2013 conference  https://www.linkedin.com/today/post/article/20130805134105-50510-search-what-s-cooking-in-the-lab …    
+    
+    
+    My #sigir2013 conference report: a focus on entities, users, evaluation http://lnkd.in/7j8KsW     
+    
+    
+    @skamille Thanks for the feedback. Definitely a use case we need to handle, so it's on our to-do list. cc @r39132    
+    
+    
+    @srchvrs You're most welcome! Thanks for joining us for lunch.    
+    
+    
+    Time for the Carmina Burana sing along! http://mountainview.patch.com/groups/events/p/carmina-burana-singalong_3b946dbd …    
+    
+    
+    Intermission.  Water. ZOMG I haven't had this much fun singing since high school. Oh wait, that is the last time I sang the Carmina Burana!    
+    
+    
+    Just finished singing the Carmina Burana with a concert hall full of people just as crazy. Now I drink in earnest. In taberna! Totus floreo!    
+    
+    
+    The dangers of one-click shopping :-) http://www.newyorker.com/online/blogs/borowitzreport/2013/08/amazon-founder-says-he-clicked-on-washington-post-by-mistake.html …    
+    
+    
+    Is there an O'Reilly book on information retrieval? If not, there should be, and the animal should be an okapi. http://lnkd.in/JqNSX9     
+    
+    
+    @cavorite I suppose the Scots would push for a Terrier cc @iadh @craig_macdonald @leifos    
+    
+    
+    @IntranetFocus Glad that @OReillyMedia has a book on enterprise search. But that's not quite the same as a book on information retrieval.    
+    
+    
+    @wyatt_earp_ Thanks, but I've fulfilled my quota by writing one book in this lifetime!    
+    
+    
+    @hmvprasanna Nice metaphor! But I still think we should honor Stephen Robertson and Karen Spärck Jones with an okapi. http://en.m.wikipedia.org/wiki/Okapi_BM25     
+    
+    
+    @IntranetFocus @OReillyMedia I'm sure it's a great book, given the author. But I want something along the lines of Manning/Raghavan/Schütze.    
+    
+    
+    @IntranetFocus Been meaning to read both of those. But neither is from @OReillyMedia. And neither has a okapi on the cover. :-)    
+    
+    
+    Never grabbed @TheNoisyChannel Twitter account. Good thing I moved my blog to LinkedIn! https://www.linkedin.com/influencer/50510 …    
+    
+    
+    @naga86 You can. http://help.linkedin.com/app/answers/detail/a_id/33198 …    
+    
+    
+    Excited that @fredkofman is speaking at LinkedIn today. Loved his book on Conscious Business. Watch online: http://lnkd.in/Y3JDqN     
+    
+    
+    Just heard about Spreadsheets: the quantified self, in bed. Seems like it should be a Jawbone feature. cc @mrogati http://lnkd.in/9d4R7C     
+    
+    
+    Don't start a company just for the sake of starting a company; start a company because you believe in an idea. http://lnkd.in/WY7GeU     
+    
+    
+    It's my birthday, and I'll sing if I want to -- come join us if you're in the neighborhood! http://lnkd.in/nnBTKu     
+    
+    
+    @mrogati @strlen @jaykreps Twitter encourages bolder language with the 140-char limit. Be imperative! Screw verbose subjunctives! #lEANiN    
+    
+    
+    Getting ready for pool-side karaoke pic.twitter.com/7e8dMhUvx6    
+    
+    
+    @EdwardTufte @elunca Even if they're real, the question is whether they pay attention to the people they follow.  http://thenoisychannel.com/2009/01/13/a-twitter-analog-to-pagerank/ …    
+    
+    
+    Thanks to everyone who made my birthday party the best answer to life, the universe, and everything!    
+    
+    
+    @Alpa Belated congrats! Where to?    
+    
+    
+    @dhh Sadly believable despite the irony. Most enterprise search systems suck. Even the expensive ones. Especially the expensive ones.    
+    
+    
+    @usabart @xamat Sorry to burst your filter bubble :-)    
+    
+    
+    Fantastic lecture by @fredkofman that he gave at LinkedIn last week, now on YouTube! "Your Job Is Not Your Job" http://lnkd.in/q6UXz6     
+    
+    
+    Rest in peace, @HCIR_GeneG. So sad to lose you so young.    
+    
+    
+    Interesting watching a startup whose goal is to beat Endeca at ecommerce search. I feel old! http://lnkd.in/xGE3fS     
+    
+    
+    Remembering Gene Golovchinsky @HCIR_GeneG http://lnkd.in/NpVVv6     
+    
+    
+    My daughter, the dancing queen. pic.twitter.com/ljQ7Oeqcmp    
+    
+    
+    Remembering @HCIR_GeneG - reflections on losing a friend and colleague https://www.linkedin.com/today/post/article/20130819070021-50510-remembering-gene …    
+    
+    
+    First day of school! Introducing LinkedIn University Pages http://lnkd.in/cVkMsa     
+    
+    
+    Nice article on technical interviewing: http://lnkd.in/d-9CMP     
+    
+    
+    @naga86 You can. Here's how to hide unwanted endorsements: http://help.linkedin.com/app/answers/detail/a_id/33198 …    
+    
+    
+    Chairing Data Science track at QCon SF w @josh_wills @mitultiwari @xamat & more. Save $100 w SPEAKTUNK100 promo code! http://qconsf.com/     
+    
+    
+    Just added Microsoft Core Search Chief Scientist Jan Pedersen to QCon SF track. Save $100 w SPEAKTUNK100 promo code! http://qconsf.com/     
+    
+    
+    @adamnash Sorry I missed you. Hope you made it to the S.P.A.Z. (Space Pirates And Zombies) party! http://instagram.com/p/dVcbLOI2DI/     
+    
+    
+    @techmatchmaker Please elaborate.    
+    
+    
+    @techmatchmaker Sure. Or write a post and link to it. :-)    
+    
+    
+    You can't endorse my daughter for Karaoke even with new LinkedIn TOS. But you can endorse me! https://www.linkedin.com/in/dtunkelang  pic.twitter.com/dlCtAqJlVh    
+    
+    
+    @mo_data Any of your connections can choose what they endorse you for.    
+    
+    
+    @tomwilliams Thanks!    
+    
+    
+    Enjoyed a delicious breakfast in LinkedIn's new cafeteria. Props to David Henderson and team for delivering the goods! And the bacon!    
+    
+    
+    @mo_data Some of the more generic skills tend to be over-endorsed. But I'm glad you see the histogram as reasonably accurate -- same for me.    
+    
+    
+    @mo_data Can't provide details but we do have measures to combat abusive SEO / search spam.    
+    
+    
+    Noise is the supreme archenemy of all serious thinkers. http://lnkd.in/gYz6fC     
+    
+    
+    Only 3 more days to sign up for QCon SF and save $700. Save another $100 by using SPEAKTUNK100 as a promo code. http://qconsf.com/     
+    
+    
+    Excited to speak at Google next Tuesday Sept 3. If you're a Googler curious about LinkedIn Search, join us at 3:30pm in Asilomar (MTV 1900).    
+    
+    
+    GAO: "software-related patents often had overly broad or unclear claims or both" http://lnkd.in/En4_Zf     
+    
+    
+    Interesting article in IEEE asserting that "The STEM Crisis is a Myth". Discuss. http://lnkd.in/xxh_J2     
+    
+    
+    @adamnash Sure, but no one wants to hire the bottom % of any pool. Wouldn't a scarcity induce employers to raise wages and/or lower the bar?    
+    
+    
+    @adamnash I'm more persuaded by the argument that the amorphousness of how people define STEM allow researchers to cherry-pick data.    
+    
+    
+    @piers_hollott It depends how you define STEM. Not everyone in the software industry studied computer science -- or even a STEM discipline.    
+    
+    
+    @adamnash Touché, top tech employers don't lower the bar -- or don't stay on top. But rest of STEM labor market? Silicon Valley != world.    
+    
+    
+    Software Patents: A Tax on Innovation https://www.linkedin.com/today/post/article/20130903133938-50510-software-patents-a-tax-on-innovation …    
+    
+    
+    Glad to see lots of folks share my view that software patents are a tax on innovation http://lnkd.in/pjA9M4     
+    
+    
+    Heading over to Google in a bit to talk about LinkedIn Search. Hope to reconnect with old friends and make new ones!    
+    
+    
+    Information Technology and Innovation Foundation: The Real Story on Guestworkers in the High-skill U.S. Labor Market http://www2.itif.org/2013-guestworkers-high-skill-labor-market.pdf …    
+    
+    
+    Thanks Hrishikesh Aradhye for hosting me at Google today. And thanks to all the Googlers who attended for your attention & great questions!    
+    
+    
+    What To Do If You Get A Patent Troll Demand http://lnkd.in/w49AqH     
+    
+    
+    @lemire Thanks for the recommendation. Just started watching it -- so far so good.    
+    
+    
+    Maybe the US govt would get serious about stopping patent abuse if it weren't immune to patent infringement lawsuits https://en.wikipedia.org/wiki/Schillinger_v._United_States …    
+    
+    
+    Daughter's excuse for not staying in bed last night: "I was talking to a cat on the patio." And of course she's learned the word "nocturnal"    
+    
+    
+    @whita Sometimes I wonder if her primary motivation for learning is coming up with more excuses to stay up late.    
+    
+    
+    Congrats @mrogati and team! http://lnkd.in/bjekDsK     
+    
+    
+    Welcome @avinash to the LinkedIn Influencer program! Check out his first post about the Twitter IPO. http://lnkd.in/bXykyg2     
+    
+    
+    Non-confidential congratulations to all my friends at Twitter on your upcoming IPO!    
+    
+    
+    Are you a data scientist? Want to help a designer & earn $$ for an interview about how you work? Email kim@slicedbreaddesign.com for details    
+    
+    
+    Not that I'd ever trade my iPhone for a Windows phone, but this is freaking hilarious. - http://pulse.me/s/qfhcb     
+    
+    
+    @DtNever Email my twitter handle @ gmail.    
+    
+    
+    Looking at double-walled espresso glasses. Bodum Pavina? Ozeri Moderna? Any coffee geeks have strong opinions you'd be so gracious to share?    
+    
+    
+    @arunbatchu Thanks, glad you like it!    
+    
+    
+    @willwest_ Thanks! Those are certainly my baseline -- pretty happy with Bodum products generally.    
+    
+    
+    The fascinating and sad story of crap coffee http://www.theguardian.com/p/3tmg5/tw     
+    
+    
+    @eric_andersen Cat poop coffee is certainly weird to me. :-) I'd heard of it years ago from an Indonesian friend but never tried it.    
+    
+    
+    Always fun at expense of my Princeton alumni friends when Princeton Engineering Anomalies Research (PEAR) makes news. http://www.themindunleashed.org/2013/09/mind-over-matter-princeton-russian.html …    
+    
+    
+    A good part-of-speech tagger in 200 lines of Python http://lnkd.in/bBzNeNu     
+    
+    
+    @ian_soboroff Good is subjective, but the author provides empirical results in the post.    
+    
+    
+    @ian_soboroff All I know is what is in the post.    
+    
+    
+    LinkedIn’s Commitment to Transparency About Government Requests for Member Data http://lnkd.in/bNfD_-a     
+    
+    
+    LinkedIn’s Commitment to Transparency About Government Requests for Member Data http://blog.linkedin.com/2013/09/17/linkedins-commitment-to-transparency-about-government-requests-for-member-data/ …    
+    
+    
+    Love that people are fighting back against patent trolls with the RICO Act. Hope it works. http://lnkd.in/b_WWF7D     
+    
+    
+    @marcprecipice Congrats to you and to @stripe!    
+    
+    
+    @marcprecipice Will keep it warm and sunny for you. Great to have you back!    
+    
+    
+    @PFCdgayo Thanks for the shout-out for TunkRank!    
+    
+    
+    @alansaid @arjenpdevries @abellogin Congrats!    
+    
+    
+    Setting the Record Straight on False Accusations - a post by LinkedIn Senior Director of Litigation @blawit http://lnkd.in/baaDCEd     
+    
+    
+    What is a Thought Leader? https://www.linkedin.com/today/post/article/20130923140605-50510-what-is-a-thought-leader …    
+    
+    
+    New York regulators cracking down on fake reviews. http://lnkd.in/bd49AAT  But is spontaneity overrated? http://lnkd.in/bTxpHxD     
+    
+    
+    What is a thought leader? Join the conversation at http://lnkd.in/bUc_dZg     
+    
+    
+    Hey Europe: please don't emulate the US by becoming more friendly to patent trolls. http://lnkd.in/bGqdHxk     
+    
+    
+    @panm817 If the input is itself in the dictionary, then you don't have to split it. That's how the problem is defined.    
+    
+    
+    Thrilled that the FTC is finally investigating how patent assertion entities (aka patent trolls) undermine innovatio…http://lnkd.in/brJX6Cu     
+    
+    
+    @mrogati @eminomura Congrats to you both! Expecting great things from @Jawbone data science.    
+    
+    
+    Hey recruiters: cold-call anonymized pitches with requests for phone calls are annoying. If you're serious, disclose & put skin in the game.    
+    
+    
+    Out of Endeca, a new crop of start-ups takes shape in the Boston area. http://lnkd.in/bPDtjeh     
+    
+    
+    @eric_andersen The congrats go to my former colleagues. I've just been a cheerleader and technical advisor. :-)    
+    
+    
+    @tynanwrites IANAL. But as @jim_adler says, laws govern use. But regulating private inference is Orwellian. Creates a class of thought crime    
+    
+    
+    @tynanwrites @jim_adler In that case I think we're in violent agreement.    
+    
+    
+    @communicating Endeca alumni are a formidable talent pool. And Steve Papa is a force of nature -- he's involved with a lot of the startups.    
+    
+    
+    @mrogati Googled [date a scientist] and got http://dating.newscientist.com/  You know we can do better.    
+    
+    
+    @matthewhurst @ian_soboroff He already lives in Washington :-P    
+    
+    
+    @communicating So proud to have been part of that revolution. Still working to carry it through more of the consumer internet.    
+    
+    
+    @climatecorp Congrats David and team, and good luck continuing your mission on an even bigger scale!    
+    
+    
+    @ManningBooks @gsingers @drewfarris @dr_dobbs Congrats! Glad to see practical books on text mining being recognized.    
+    
+    
+    Introducing LinkedIn’s First Recruiter Certification Program http://lnkd.in/bf7qtPW     
+    
+    
+    Congrats @tarunavg and team on launching LinkedIn's recruiter certification program! http://lnkd.in/bf7qtPW     
+    
+    
+    Congratulations to @friedberg and The Climate Corporation on their acquisition! Big data products FTW! http://lnkd.in/bBETyrT     
+    
+    
+    @marcprecipice Welcome back to the land of eternal sunshine! Let me know when you can make it down to the South Bay.    
+    
+    
+    Learn from amazing machine learning & data science practitioners at QCon SF. Use SPEAKTUNK100 code for a $100 discou…http://lnkd.in/bzDU_BU     
+    
+    
+    Been on Spotify for ~2 years now. Hard to imagine I ever listened to music any other way. Thanks @spotify for improving my quality of life.    
+    
+    
+    @PandoDaily Haven't read the patent, but doubt it's as bad as the crap-ton of software patents. At least they're thinking of the children.    
+    
+    
+    Props to Kaspersky Lab for defeating software patent troll Lodsys! http://lnkd.in/bknZQrr     
+    
+    
+    @e_kaspersky to software patent troll Lodsys: Never give up, never surrender! http://lnkd.in/bU4k5jY     
+    
+    
+    Study by Yale professor Ian Ayres questions "Bing-It-On" claim, finding that searchers prefer Google over Bing. http://lnkd.in/bY5tTkV     
+    
+    
+    Sad to be missing the HCIR Symposium this year, but glad that it's generating a healthy social media stream #hcir201…http://lnkd.in/bm8f_Zz     
+    
+    
+    Great catching up about social search with Gayatree Ganu today. Proud to be an external member on her dissertation committee.    
+    
+    
+    If anyone who attended #hcir2013 wants to write a guest post for me, please let me know! Sorry I couldn't be there this year.    
+    
+    
+    @elunca @rcapra3 Would love to bring HCIR back to Bay Area! And LinkedIn is building out more space, so let's see what's possible. #hcir2013    
+    
+    
+    @rcapra3 Missing you guys too. Retweeting isn't the same. Though hopefully my retweets are interesting! #hcir2013    
+    
+    
+    My family is camping w/o me this weekend, so thinking of sneaking out to Blue Max for karaoke tonight. Join me! And endorse me for karaoke!    
+    
+    
+    Why Are There Still So Few Women in Science? http://lnkd.in/bUb_9QU     
+    
+    
+    @hintikka I hope that organizations like @MentorNetTweet can help bring more women into STEM. That's why I signed up as an advisor.    
+    
+    
+    @techmatchmaker Glad to hear it! Am proud of LinkedIn's efforts to support women in tech, but there's a long way to go for us all.    
+    
+    
+    Great night for karaoke at Blue Max in Sunnyvale. You know you want to. http://m.yelp.com/biz/blue-max-sunnyvale …    
+    
+    
+    Bing rebuts Yale study questioning claims of "Bing It On" challenge http://searchengineland.com/bing-slams-freakonomics-bing-it-on-critique-173486 …    
+    
+    
+    Could it really be true that uber patent troll Intellectual Ventures is running out of cash? Don't get my hopes up! http://lnkd.in/bAf-rjR     
+    
+    
+    @techmatchmaker In theory that's why you centralize management of social CRM. In practice, some data gets lost in translation.    
+    
+    
+    Great piece by @cfchabris on "Why Malcolm Gladwell Matters (And Why That's Unfortunate)" http://lnkd.in/bHS58M7     
+    
+    
+    @tomwilliams @cfchabris It's tempting to dismiss mediocre pop science as entertainment. But bestsellers have consequences.    
+    
+    
+    Even if you dislike Ed Snowden, I hope you agree with @schneierblog that NSA attacks on internet must be made public http://www.theguardian.com/commentisfree/2013/oct/04/nsa-attacks-internet-bruce-schneier …    
+    
+    
+    Awesome catching up with @mrogati about the cool data science her team is doing at Jawbone. And Spotify   Jambox = music happiness!    
+    
+    
+    @edchi Was your #hcir2013 keynote recorded? And are the slides available online?    
+    
+    
+    @edchi Cool. Sorry I couldn't experience it live, but hope the slides make their way onto the interwebs soon.    
+    
+    
+    @mikeolson @hmason Bunch of us been saying this for a while. e.g., http://thenoisychannel.com/2008/05/01/privacy-through-difficulty/ … But we're finally at the point where people care.    
+    
+    
+    @peteskomoroch @hmason @mikeolson Problem is public's right to know vs individual right to privacy. I like @jim_adler's answer: regulate use    
+    
+    
+    @hmason @mikeolson True that. And it's nice that our friends at the NSA have helped bring more public attention to the issue.    
+    
+    
+    Before you go after the long tail, optimize for the short snout https://www.linkedin.com/today/post/article/20131007130344-50510-optimize-for-the-short-snout …    
+    
+    
+    How I learned to stop worrying about the long tail and optimize for the short snout https://www.linkedin.com/today/post/article/20131007130344-50510-optimize-for-the-short-snout …    
+    
+    
+    @krisztianbalog Can you elaborate? Perhaps in more than 140 chars?    
+    
+    
+    @krisztianbalog Hope @gsingers & @LucidWorks are listening. I know they're trying to build great products, so they should hear your feedback    
+    
+    
+    @techmatchmaker How would you react as a recruiter or hiring manager if a candidate asked you for the company's compensation spreadsheet?    
+    
+    
+    @techmatchmaker But do you expect them to disclose their present compensation if you won't disclose the company's present compensation info?    
+    
+    
+    @techmatchmaker Candidate can try to learn this info from H1B filings. But usually the information asymmetry favors employer over candidate.    
+    
+    
+    @techmatchmaker Maybe not the entire balance sheet, but at least the distribution of compensation for candidate's peer group at the company.    
+    
+    
+    @techmatchmaker So does that mean you make an offer before you know candidate's current compensation? If not, how do you avoid anchoring?    
+    
+    
+    @techmatchmaker If current comp has little weight, then it's best not to insist on it. Many recruiters insist on knowing, then anchor on it.    
+    
+    
+    @techmatchmaker Sadly true. When I find great recruiters I treasure them.    
+    
+    
+    Honored to be a keynote at CIKM Workshop on 
+Data-driven User Behavioral Modeling & Mining from Social Media http://lnkd.in/bNgZ3St     
+    
+    
+    Looking forward to #cikm2013! I'm keynoting DUBMOD workshop; my colleague @StatGuru1 is in industry track http://www.cikm2013.org/     
+    
+    
+    @IR_oldie Congrats to Dave and to the @bing team -- that's a big win!    
+    
+    
+    Impressive, scary material from team at iSEC Partners. You'll never see your cell phone the same way again. http://lnkd.in/b84rJ5A     
+    
+    
+    Glad the CPJ is holding the Obama administration accountable for its lack of transparency. http://lnkd.in/bwf_Nzq     
+    
+    
+    @jeremyphoward Congrats and keep us posted! Good luck in your next play!    
+    
+    
+    Curious about EHCR ruling on anonymous commenters. Personally never been a fan of anonymous comments. http://lnkd.in/bUMY7fw     
+    
+    
+    I just need 3 more endorsements for Karaoke to get it ahead of Data Science. Happy to earn them with a performance, via Skype if necessary.    
+    
+    
+    @techmatchmaker @segdeha If ads keep the internet "free", then what are advertisers paying for? Attention/time is money.    
+    
+    
+    @techmatchmaker @segdeha Granted, most consumers don't see it that way and prefer to spend a lot attention/time rather than a little cash.    
+    
+    
+    @techmatchmaker @segdeha I use an ad blocker and pay for ad free content when it's available. To each their own.    
+    
+    
+    @leifos @alansaid @jkonstan That's why I wrote a blog post in defense of recall. Someone's gotta stand up for it. http://thenoisychannel.com/2009/07/17/in-defense-of-recall/ …    
+    
+    
+    @ian_soboroff I prefer science fiction to fictional science. Preferences don't commute. Besides, I hate commuting.    
+    
+    
+    Google CIO Ben Fried bans Dropbox because it holds company data in another company's data center. Irony much? http://lnkd.in/bZu8mxu     
+    
+    
+    Netflix #customerservicewin! Like Picard, rep showed intelligence, courage, integrity, compassion, courtesy. …http://lnkd.in/byr2fNu     
+    
+    
+    @techmatchmaker I finally met @fredkofman in person when he spoke at LinkedIn. Incredible talk. Watch it on YouTube: https://www.youtube.com/watch?v=IdMvWLARF1w …    
+    
+    
+    @techmatchmaker Frank Flynn taught several leadership classes at LinkedIn that I was fortunate to attend. Highly recommend him as a teacher.    
+    
+    
+    @jkonstan @leifos @alansaid Guess I had to be there. I concede measuring recall may be meaningless if your ground truth is too incomplete.    
+    
+    
+    @techmatchmaker I plan to -- unless someone else does it first! -- but I'm not sure when. I want to spend enough time on it to do it right.    
+    
+    
+    @ian_soboroff @jkonstan @leifos @alansaid I believe it's "I'm so happy with what I got, I want more!" http://www.azlyrics.com/lyrics/madonna/more.html …    
+    
+    
+    @alansaid Would totally sing Madonna's "More" as karaoke if you could find a bar that stocked it. Might have to go custom.    
+    
+    
+    @alansaid Sorry, not attending #recsys2013. Been trying to do less jet-setting and more family time. But a bunch of LinkedIn folks are there    
+    
+    
+    @alansaid I'll be at #cikm2013 in a few weeks. Working on my slides for the DUBMOD workshop keynote. https://sites.google.com/site/umsocial2013/keynote-speakers …    
+    
+    
+    @alansaid Acceptable, but I need to learn song better first since it doesn't track lyrics word by word. Request it at my next karaoke party!    
+    
+    
+    @alansaid @xamat @mitultiwari I'm not really a #recsys guy -- am more of a search guy. Though #recsys is just search with a null query. :-)    
+    
+    
+    Niche search engine I just discovered: MillionShort only shows results from long tail of less popular sites. http://millionshort.com/     
+    
+    
+    The Pseudo-Profundity of Malcolm Gladwell http://lnkd.in/bD68e5g     
+    
+    
+    Folks who developed MillionShort also built MillionTall to search only the short snout (top 1K - 1M) of sites http://lnkd.in/b8MDnWH     
+    
+    
+    @ian_soboroff Ok, I give up -- I'll stick to classic karaoke IR. Like that Frankie Goes To Hollywood song about query relaxation.    
+    
+    
+    Executives Need Press Training Too https://www.linkedin.com/today/post/article/20131014122821-50510-executives-need-press-training-too …    
+    
+    
+    @lizgannes I'd love to see the full text of the interview. My sources at Google tell me you misrepresented Ben in the article. Discuss?    
+    
+    
+    @lizgannes Can follow up privately if you want. DM best way to get in touch.    
+    
+    
+    @lizgannes My friend claimed context was cut that would have made Ben's position seem more nuanced. Hence my curiosity about the full text.    
+    
+    
+    @lizgannes But if they're unwilling to make their objections publicly, then I'm inclined to take everything in your article at face value.    
+    
+    
+    @mauralyn You're the best. Come out to Mountain View someday, and I'll take you to my favorite local karaoke joints!    
+    
+    
+    Just finished drafting slides on "Social Search in a Professional Context" for the DUBMOD workshop #cikm2013 http://lnkd.in/b8S_QF2     
+    
+    
+    @adityagp @xamat @pankaj @mitultiwari @greglinden @amt_shrma Speaking of interfaces, dear Twitter please figure out a better group chat soln    
+    
+    
+    Just adopted new setting so anyone who follows me can DM me. Good move on Twitter's part to roll this out. http://www.theverge.com/web/2013/10/15/4840190/twitter-direct-messages-from-any-follower-option …    
+    
+    
+    @harper Always seemed odd that Twitter expected users to follow numbers much greater than Dunbar's but required it for DM. Problem solved!    
+    
+    
+    @harper Maybe, I think I'm a real person, but I haven't been genetically verified. For all I know, I could be a clone. Or a simulation.    
+    
+    
+    @zenogantner @xamat @mitultiwari @alansaid @greglinden @amt_shrma I buy that information access is a multidimensional multiplayer game.    
+    
+    
+    Delighted to see Google CIO Ben Fried clarify his remarks about Dropbox to @lizgannes http://lnkd.in/b86-EXh     
+    
+    
+    @lizgannes My apologies for questioning whether you'd misrepresented Ben Fried in your interview. Glad to see his public clarification.    
+    
+    
+    Just heard Bill Gates speak at Sequoia event at AirBnB. Inspired and humbled by his work and his humility. Honored, awed to talk to him 1:1.    
+    
+    
+    And thank you Jessica Long for giving me a tour of the AirBnB office. You have an amazing space and culture. Not to mention a great product!    
+    
+    
+    @Sequoia_Capital @BillGates Thank you for a truly inspiring evening. You've set an extraordinary bar to aspire to.    
+    
+    
+    Thrilled that New York Airbnb hosts are standing up for themselves and for the rest of us. http://lnkd.in/bDctpRd     
+    
+    
+    Excited to hear @reidhoffman talk with Eric Ries about lean startups. Follow the stream at http://lnkd.in/b6hPb7Z  #inspeaker    
+    
+    
+    Core idea of lean startup: optimize for speed of learning through rapid experimentation  #inspeaker http://lnkd.in/bhNpv3p     
+    
+    
+    Eric Ries on key challenge of innovation: if we don't know what's supposed to happen, how do we measure if we're making progress? #inspeaker    
+    
+    
+    Eric Ries: No matter how long you wait, you will be embarrassed by the first version of your product. Get customer feedback ASAP. #inspeaker    
+    
+    
+    Eric Ries: as an engineer you may have a point of view about quality. But customers are the ultimate arbiters of product quality. #inspeaker    
+    
+    
+    Thanks Eric Ries for answering my q about managing uncertainty: use business model to rule out impossible; learn inputs over time #inspeaker    
+    
+    
+    @jerepick As Eric answered, the key is to treat innovation as hypothesis testing. cf. http://thenoisychannel.com/2012/04/25/science-as-a-strategy/ …    
+    
+    
+    @jerepick Hypothesis generation is how you decide what to try. But learning comes from hypothesis testing and analyzing results.    
+    
+    
+    @jerepick Hopefully you're continually doing both in a virtuous cycle.    
+    
+    
+    @jerepick Completely agree with you there. I know, I'm no fun.    
+    
+    
+    Successful orgs are those with workers in charge of the management http://lnkd.in/bXG26hM  Better yet http://lnkd.in/j4AVTT     
+    
+    
+    Happy Bosses Day! Please celebrate by giving your boss a performance review. http://lnkd.in/j4AVTT     
+    
+    
+    We've been trying to get @Comcast to restore our broadband service for 3 days. Anyone else know how to get customer service from them? #fail    
+    
+    
+    @scottopia Thanks, will try that.    
+    
+    
+    @comcastcares We've been trying to get Comcast to restore our broadband for 3 days. Your reps have misdirected us, and no-showed w/o a call.    
+    
+    
+    @comcastcares It's hard to fit all of our frustration into 140 chars but you get the idea. Can you help? Happy to send more details by DM.    
+    
+    
+    @peterleonard In Mountain View @comcast is one of the few options. But will look into @sonicnet. Thanks!    
+    
+    
+    Congrats @kmlake, @ericcolson, and the whole Stitch Fix team on your $12M Series B! http://lnkd.in/ban7kqE     
+    
+    
+    I, for one, welcome our new Data Elite overlords. http://lnkd.in/bA5qDpv     
+    
+    
+    Good news: the government shutdown is over. Bad news: an example in my slides is now a bit dated. #cikm2013 http://lnkd.in/b8S_QF2     
+    
+    
+    @ComcastMelissa We still have no service. We have an appointment at 7am tomorrow. We had to book it in person your office.    
+    
+    
+    @ComcastMelissa Believe me I will. Thank you for responding. ButI hope you understand I'm not a Comcast fan right now.    
+    
+    
+    Honored to be keynoting ACM @WebSciConf 2014 along with @DameWendyDBE and @jobsworth. http://www.websci14.org/     
+    
+    
+    @flojee Thanks!    
+    
+    
+    @elunca @arunbatchu Thanks!    
+    
+    
+    Congrats to my friends at Google on a great Q3! http://lnkd.in/b9nsW3m     
+    
+    
+    "Google’s business continues to be the one thing for which it’s best known—search." -- @mims http://lnkd.in/ba6QiHC     
+    
+    
+    Last chance to sign up for QCon SF! Register before 10/25 to save $400, and $100 more with SPEAKTUNK100 code. http://lnkd.in/b_yafvi     
+    
+    
+    Despite previous frustration with @Comcast, I was very impressed with tech Dominic Martinez who restored service this AM. cc @ComcastMelissa    
+    
+    
+    @techmatchmaker True that. I see so many people who randomly walk through the professional graph without figuring out what they really want.    
+    
+    
+    @IR_oldie By CS journals do you mean compilations of extended versions of year-old CS conference papers?    
+    
+    
+    Sorry I missed today's workshop at Stanford on Reputation, Trust, and Authority. Hope slides will be posted. http://lnkd.in/bpaWJYV     
+    
+    
+    Thanks to everyone who endorsed me for Karaoke and helped place it in my top 10 skills!    
+    
+    
+    @paulwehner Absolutely. Thanks!    
+    
+    
+    I now have more endorsements for karaoke than for recommender systems. Which is a great excuse for not making it to #recsys2013 :-)    
+    
+    
+    @communicating Thanks for sharing. Feels like consumer version of my @TTIVanguard talk on interacting with big data https://www.linkedin.com/today/post/article/20130502234056-50510-big-data-we-have-a-communication-problem …    
+    
+    
+    Loser pays for frivolous lawsuits by patent trolls? Please SCOTUS, grant us this small favor. http://lnkd.in/b_Z3pXi     
+    
+    
+    @techmilind I see karaoke as part of my professional identity. :-)    
+    
+    
+    Scott Adams argues that passion is the result of success. Interesting. Passion motivates me to pursue success …http://lnkd.in/bu8CiNa     
+    
+    
+    Taste in food is personal and subjective. Except for bacon. http://lnkd.in/bNG8tU5     
+    
+    
+    I, for one, welcome our new robot barista overlords. http://lnkd.in/bd4VhHA  http://lnkd.in/b9mgftu     
+    
+    
+    @friedberg: doing a startup means having a deserving problem & being passionate about changing the world http://lnkd.in/bVEVgnJ     
+    
+    
+    You're the Boss of You https://www.linkedin.com/today/post/article/20131021125257-50510-you-re-the-boss-of-you …    
+    
+    
+    You're the boss of you: your responsibility as an employee to your manager, your employer, and yourself http://lnkd.in/bJ_gH_i     
+    
+    
+    Thanks @hmason for posting the full set of videos from DataGotham 2013 on YouTube! http://lnkd.in/dXKFS5p     
+    
+    
+    Congrats to @datariver, @jrgoldman, @anutewary & Level Up on acquisition by Intuit! http://lnkd.in/dV7X8Dc     
+    
+    
+    Interesting move posted on LinkedIn but not in tech press: @nathanfolkman left CTO post at @path to join @samsung https://www.linkedin.com/pub/nathan-folkman/0/400/3a2 …    
+    
+    
+    Congrats to @sarahtavel, @jrauser, @jeremyl and everyone at Pinterest on your $225M round! http://lnkd.in/d-5DfvD     
+    
+    
+    Are you a manager who thinks it's enough to tell employees "your door is always open"? Here's a good read. http://lnkd.in/dVQ4Xqy     
+    
+    
+    @kellan A data scientist never reveals his secrets. :-)    
+    
+    
+    @jerepick Fair enough. But it was a dumb promise. Instead they should've promised to be as user-first as possible with an ad-supported model    
+    
+    
+    Love the great speakers at LinkedIn. Today: Brad Stone talking about history of Jeff Bezos & Amazon. Watch at http://lnkd.in/6RV89M     
+    
+    
+    Impressed by the intensity of Amazon's culture & Jeff Bezos's idealism. But not sure I could ever work there. http://lnkd.in/dC_SDvU     
+    
+    
+    First time I've heard of the "Amazon.love" memo. Protip: don't Google "amazon.love" at work. http://lnkd.in/d8sBk8D     
+    
+    
+    @jerepick I'm sure you can. :-)    
+    
+    
+    @whita I'm just glad I didn't try to "feel lucky" with that particular search.    
+    
+    
+    @astrobiased @mrogati @Jawbone Congrats!    
+    
+    
+    Proud of the engineering team that built LinkedIn Intro for iOS. Check out the updated @LinkedInEng blog post http://lnkd.in/dxZ6NrT     
+    
+    
+    @techmatchmaker Then don't use it :-) It's opt-in and very clear about how it works.    
+    
+    
+    Only 3 more days til #cikm2013! Excited to talk about Social Search in a Professional Context on Monday. http://lnkd.in/b8S_QF2     
+    
+    
+    @pankaj Hey, that's what weekends are for. :-)    
+    
+    
+    @techmatchmaker Please elaborate. Perhaps in a forum that provides more than 140 characters to express your thoughts. :-)    
+    
+    
+    "One chord is fine. Two chords are pushing it. Three chords and you're into jazz." RIP, Lou Reed. http://www.cnn.com/2013/10/27/showbiz/lou-reed-obit/ …    
+    
+    
+    Taught my daughter selection sort vs insertion sort today. Hoping she'll pick up quicksort before she turns 6. #DevelopHer    
+    
+    
+    Looking forward to Gayatree Ganu's defense: Understanding Preferences & Similarities from User-Authored Text http://lnkd.in/dGv_2YY     
+    
+    
+    @maui314159 I think recursive approach is more intuitive, but I'll let her decide when we get there. She tends to have strong opinions. :-)    
+    
+    
+    @marcozag Thanks, will check it out.    
+    
+    
+    @ian_soboroff She did great. O(n^2) but she's getting the constant down. :-)    
+    
+    
+    @ian_soboroff To be clear, we're still just working through the algorithms. Coding will come later.    
+    
+    
+    @AmbassadorToyPA She's got over a month.    
+    
+    
+    @gstam I'm sure it will be after she passes her defense and publishes the dissertation.    
+    
+    
+    @elunca Sorry the community is fragmented between conferences this week. On my way (by train) to #cikm2013. Enjoy #dagEIR!    
+    
+    
+    @gingdottwit @ebuie We all miss @HCIR_GeneG. Fortunately his ideas don't have to choose between conferences -- his influence is ubiquitous.    
+    
+    
+    @elunca Just another beautiful day in the valley. :-) http://www.weather.com/weather/tenday/Burlingame+CA+94010:4:US …    
+    
+    
+    Getting started at the DUBMOD workshop at #cikm2013 https://sites.google.com/site/umsocial2013/ …    
+    
+    
+    Now up at the DUBMOD workshop: @pankaj giving a keynote on User Modeling at Twitter #cikm2013    
+    
+    
+    Interesting: Twitter has power law for out-degree, not just in-degree. Especially since attention is finite http://thenoisychannel.com/2009/01/13/a-twitter-analog-to-pagerank/ … #cikm2013    
+    
+    
+    Interested in paper @pankaj cited: On the Precision of Social and Information Networks #cikm2013 http://stanford.edu/~rezab/papers/precision.pdf …    
+    
+    
+    @tomwilliams No objection as long as you do it in a way that accounts for gaming. At least if anyone is paying attention to the numbers.    
+    
+    
+    Never managed to use Twitter lists effectively but glad they're useful for mining what people are known for and user interests. #cikm2013    
+    
+    
+    @tomwilliams I hear you. But I think the problem is harder than it looks.    
+    
+    
+    Ordinary language is powerful -- the fundamental lexical hypothesis. #cikm2013 http://en.wikipedia.org/wiki/Lexical_hypothesis …    
+    
+    
+    Didn't know that Twitter built a topic hierarchy. Would love to use it to follow topics or people-topic pairs rather than people. #cikm2013    
+    
+    
+    Hubs and authorities on list-members bipartite graph beats topic-sensitive PageRank on follow graph for identifying topic experts. #cikm2013    
+    
+    
+    Love that "chatter" is an identifiable topic on Twitter. Hope ASONAM 2013 paper is available online. cc @pankaj #cikm2013    
+    
+    
+    Back from coffee break for short talks. First up: eBay research on Session Modeling to Predict Online Buying Behavior #cikm2013    
+    
+    
+    Next: Twitter Anticipates Bursts of Requests for Wikipedia Articles #cikm2013    
+    
+    
+    Twitter leads, Wikipedia lags. But only by about an hour. #cikm2013    
+    
+    
+    And now research on Pinterest data: Automatically Linking Pinterest Pins to Online Webshops #cikm2013    
+    
+    
+    Last talk before lunch & before my keynote: Content-boosted Maximum Margin Matrix Factorization for Flickr Group Recommendation #cikm2013    
+    
+    
+    Hope everyone had a nice lunch. Giving my keynote at DUBMOD workshop in a few minutes on Social Search in a Professional Context #cikm2013    
+    
+    
+    @xamat I'll log out in a few minutes if you promise to live-tweet my talk :-)    
+    
+    
+    @ahbugdayci We'll see. I envision an arms race between the difficulty of technical phone screen questions and her speed of learning.    
+    
+    
+    @pankaj Thanks! Enjoyed yours as well.    
+    
+    
+    Attending the workshops / tutorials at #cikm2013? Bunch of us are going to the Elephant Bar afterward. Join us! http://www.elephantbar.com/location/burlingame …    
+    
+    
+    Social Search in a Professional Context - my #cikm2013 slides https://www.linkedin.com/today/post/article/20131029000013-50510-social-search-in-a-professional-context …    
+    
+    
+    @xamat Come over any time, we're here!    
+    
+    
+    @xamat Unfortunately not. But we shouldn't need a conference to catch up. Worst case, see you at QCon in a couple of weeks. :-)    
+    
+    
+    Thanks Jalal Mahmud, James Caverlee, Michelle Zhou for inviting me to #cikm2013 DUBMOD workshop. My slides: http://lnkd.in/dZXQeGH     
+    
+    
+    For anyone I didn't get to meet at #cikm2013, LinkedIn is hiring! Please talk to my colleagues to learn more, or reach out to me personally.    
+    
+    
+    @ramnathb Thanks for sharing!    
+    
+    
+    Happy National Cat Day! http://www.nationalcatday.com/     
+    
+    
+    The NSA may lack a conscience, but is making up for it in competence. At least if Snowden et al are telling the truth http://www.washingtonpost.com/world/national-security/nsa-infiltrates-links-to-yahoo-google-data-centers-worldwide-snowden-documents-say/2013/10/30/e51d661e-4166-11e3-8b74-d89d714ca4dd_story.html?Post+generic=%3Ftid%3Dsm_twitter_washingtonpost …    
+    
+    
+    An interesting take on "pro-social gossip" in the workplace by Wharton professor Adam Grant. http://lnkd.in/dKvSiqd     
+    
+    
+    Sorry to miss rest of #cikm2013. Will follow tweet stream. Posted my keynote slides on LinkedIn / Slideshare http://lnkd.in/dZXQeGH     
+    
+    
+    Have you read my faceted search book? If so, could you please leave me a review on Amazon? Thanks! :-) http://lnkd.in/ds4vye6     
+    
+    
+    @vagabondjack Grab a copy from the bookshelf by my desk. :-)    
+    
+    
+    @msbernst @iadh Probably. Most authors are kind enough to post PDFs of their papers somewhere easy to find. :-)    
+    
+    
+    @jongovi Thanks for the review!    
+    
+    
+    @msbernst @iadh I could have sworn I had a USB drive with the proceedings, but I can't find it. Worst case, email the authors.    
+    
+    
+    Attending #cikm2013? Want to learn more about search at LinkedIn? Be sure to find my colleague @abhimanyulad and swing by our sponsor booth.    
+    
+    
+    Dear friends at @Google, happy to offer you my stash of prior art on associative search engines. Call me :-) http://lnkd.in/dnx3xAH     
+    
+    
+    @dannysullivan Agreed, there's prior art in both industry and academia on this. Happy to send references if you're curious -- DM / email me.    
+    
+    
+    My daughter on Halloween. Baby, she's a firework! https://www.youtube.com/watch?v=olnaTZYf8vQ …    
+    
+    
+    Great meeting #cikm2013 attendees at LinkedIn today! Contact me if you'd like to learn more. http://lnkd.in/UU-Vkc     
+    
+    
+    @marcprecipice I think they make irony supplements. Then again, most of what you read online is fortified with a full day's supply of irony.    
+    
+    
+    Just signed 30-day notice to my apartment complex. Hopefully our house is ready for us in time. If not, the office has comfy chairs...    
+    
+    
+    No response from @google. Hope their in-house prior art search is better than this: http://www.google.com/patents/related/text#c=0&d1&d2=02%2F12%2F1997&t=1associative%20search%20engines ….    
+    
+    
+    Count me as a Bill Gates fanboy. Curing diseases that kill millions is higher priority than global broadband. http://lnkd.in/dVZ55aA     
+    
+    
+    Nothing wrong with PhDs that aren't career investments -- if students are informed and universities disclose. http://lnkd.in/dSn6Kaq     
+    
+    
+    @jonathankoren I'm all for global hedonic optimization. But should we optimize for experienced or remembered utility? http://eprints.lse.ac.uk/22750/1/04064.pdf …    
+    
+    
+    @communicating Thanks. She had a blast. I think all kids should get lit up for Halloween. :-)    
+    
+    
+    @daringfireball I'm no Google fanboy - my household is 100% Apple. But don't equate Google's defensive tactics to MS+Apple's offensive ones.    
+    
+    
+    

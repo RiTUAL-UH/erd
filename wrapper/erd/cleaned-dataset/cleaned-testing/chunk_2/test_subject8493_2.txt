@@ -1,0 +1,100 @@
+
+
+
+
+
+ Oh, well. I guess I'd better stop using Ruby then. It was fun while it lasted.
+
+Seriously though, I think Ruby/Python comparisons are unhelpful. Both are good, complete, mature languages, similar, but different. They both have good web frameworks. Some programmers seem to "click" with one approach more than the other, and that's natural too--our brains don't all work the same. A programmer with experience in one who "tries out" the other will probably be disappointed, and while they can have a helpful fresh perspective and spot issues that need to be corrected, many of their negative reactions generally result from a lack of experience with the new language and familiarity with the old (and therefore largely irrelevant).
+
+ 
+
+
+
+
+
+
+
+
+
+ Looks very useful. Beast (http://beast.caboo.se/) is my favorite Rails forum (and Mephisto my favorite blogging system). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Completely agree with you on the plugins. There are quite a few plugins that are much more widely used (and useful) than a basic admin interface.  
+
+
+
+
+ Does *anyone* still use Windows?  
+
+
+
+
+ Nice to see a comparison that's not slanted or flame-throwing.
+
+Unfortunately, while the presentation prominently features the Admin advantage from Django, it fails to mention that AjaxScaffold (and several others) provide similar (or more) functionality for Rails. Having said that, most sites need a more customized Admin interface than provided by either Django or AjaxScaffold and the like, so the advantage provided by either is more likely to be leveraged only while prototyping or as a "extra". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As far as a beginner's programming language, I think Ruby is better than PHP. I've found Ruby easy enough for my 9 year old daughter to learn and write programs in. PHP handicaps you by not forcing you to think in an object oriented fashion, which you'll have to learn eventually anyway. PHP is nice for putting up a quick webpage (and certainly easier to deploy than Ruby), but doesn't provide a solid programming foundation (which it was never intended for anyway). Ruby is very well thought-out and structured. 
+
+
+
+
+ words = %w(zero one two three four five six seven eight nine)
+
+(it's nice not to have to hassle with all the quote marks)
+
+ 
+
+
+
+
+
+
+
+
+

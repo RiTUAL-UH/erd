@@ -1,0 +1,624 @@
+ Advice from just a kid maybe but, please listen to me on this; you need to take some time for yourself. Find someone that you trust to take care of your kids for a day or two, and go to the beach and just let the grief take you. Let it wash over you, let yourself experience it. Do what you have to do, cry, scream, break things - so long as you do not harm yourself (excessive drinking, drug use or self harm or probably not good ideas).
+
+I guarantee allowing yourself a moment to truly take the loss will help you be stronger for your children. Because the last thing you ever want is to break in front of them, and take it out on them. I watched this happen with my ex-girlfriend's mother, and the effect it had on my ex-girlfriend was terrible and caused a few lasting issues between them.
+
+Lastly. Take a breath. You can do this. You did childbirth, this is nothing. Stand tall and proud, and live the life that you know he would have wanted you to have. You are strong, and everyone here is rooting for you. 
+
+
+
+
+ Is there some scientific reason that your memory becomes so muddled from those dark periods? I have legitimately lost close to 6 months of my life because the only thing I can recall from that period is the crushing darkness that I constantly felt. There have been entire events, parties, even my own birthday, that I have absolutely zero recollection of. 
+
+
+
+
+ Kelpie? 
+
+
+
+
+ I used [shortblogger](https://play.google.com/store/apps/details?id=com.luckydroid.tumblelog) up until the official app was released. Pretty decent and supports multiple blogs. 
+
+
+
+
+ Flashing a stock ROM would overwrite the kernel (and bring it back to stock). 
+
+
+
+
+ Ahh, the daily anti-facebook circlejerk, right on time! May I suggest you at a little bit more superiority, the post wasn't dripping with enough condescension for me.  
+
+
+
+
+ https://play.google.com/store/apps/details?id=com.sebouh00.smartwifitoggler 
+
+
+
+
+ How is the server/lag situation in AUS? Just about to pull the trigger on it. 
+
+
+
+
+ I don't have this issue on the latest hangouts. When I go over the character limit it simply automatically begins to split it into a multi-part SMS. http://www.imgur.com/KcGFThA.png 
+
+
+
+
+ Nope, Australia. 
+
+
+
+
+ Just because it happened to work in earlier versions of Android doesn't mean that they should support functionality that they had purposefully designed to not be there... your arguments are silly: "This hack that used to work in Windows XP doesn't work in Windows 7 anymore, why doesn't Microsoft patch this!" 
+
+
+
+
+ Mightytext runs a mini-server on the phone that sends them either directly to your PC (if you are on the same LAN I believe) or through mighty-text's servers. It's not to say that Google *can't* do it - its just that they *won't* because it is hacky and not graceful. 
+
+
+
+
+ They played highway to hell at my ex-gf's father's funeral. For those that didn't know him it may have seemed inappropriate but those that were close to him knew that ACDC was his favorite band and he wouldn't have expected anything less. My exgf also showed up in a bright pink and yellow dress and got me to wear a brightly colored belt. We got some looks from people but fuck them, it was a celebration of his life and he was never a serious man. He would have been so proud of her. :)
+ 
+
+
+
+
+ Why not just wait until the factory images drop - usually within the hour there are flashable zips that come pre-rooted.  
+
+
+
+
+ Yeah this is kind of like using a memory editor to get into an unfinished level in a game that you were never intended to access, and then complaining because the room subsequently has bugs... 
+
+
+
+
+ iMessage works exactly the way as Hangouts works now, it just threads iMessages and SMSes in the same thread *on the device*. When you send an iMessage (blue) that message is viewable on any iDevice, including computers running OSX - this is because it is sent over the data network, through Apple's servers. If you disable data on an iOS device and send a message to someone, it will send as an SMS (green) and is *only* viewable on two devices - the device that sent it, and the one that received it.
+
+To reiterate: **iMessage on OSX cannot send or receive normal SMS** - messages sent and received on the desktop are iMessages. With this understanding, Hangouts is already operating exactly the same way, and matches iMessage in functionality on the desktop - that is, messages sent and received on Hangouts are viewable on any device where you have access to your Google account.
+
+edit: in reply to your statement about the Verizon messaging app - the reason this works is because, either way, Verizon handles your message. Your phone will send your message to Verizon over the GSM network and then Verizon will either: 
+
+a) send it directly to the appropriate # (if the # is also on the Verizon network)
+
+b) send it to the relevant carrier, who will then send it to the device
+
+Because they are handling your message *anyway*, you can send and receive SMS on Verizon's website, and because they can match your account info with your #, it sends as your number. The way Google voice works is that you send your message to them over *data*, and then they send it from a # that *they* own (but is uniquely given to you as per their service) to the relevant carrier. 
+
+
+
+
+ [rascarlo](https://twitter.com/rascarlo) has builds up on [fitsnugly](http://fitsnugly.euroskank.com/?rom=rastakat device=mako) as well, and they are the first builds I've seen that have any custom ROM tweaks (slide notification bar for brightness, clear all recents button etc). Quite stable aside from some wifi issues. 
+
+
+
+
+ ART doesn't work on anything built from source just yet, only the N5 ports. Not entirely sure why, but apparently has something to do with the gapps. 
+
+
+
+
+ This has been asked numerous times in this sub. **You will never see this happen.** For this to work, Google would need to send every single SMS you send and receive to their servers and then serve it up in Google hangouts on the desktop - meaning that you would have to have a constant data connection for it to work, and SMS sent and received may appear in a different order on the desktop Hangouts than they do on your phone (unless the Android version of hangouts syncs with Google's servers, meaning that Google would get your SMS before you could even read it). There is no graceful or efficient way to do this, *unless* they do it in a Google-voice-esque way; which again would end up only working in the US and would require you to change numbers. 
+
+
+
+
+ Ah, was just about to submit this, you beat me to it. Scary stuff, I can't believe it happened within just a few kilometres of where I live. 
+
+
+
+
+ You need to install it using cwm. Twrp has been having issues with flashing 4.4 Roms.  
+
+
+
+
+ That's actually incorrect. When you flash a ROM it will always overwrite your kernel, so you aren't running Franco (Franco wouldn't even work on 4.4 anyway).  
+
+
+
+
+ Don't try to turn it on for at least a day. You will make it worse.  
+
+
+
+
+ What are you asking here? Just try the launcher and see if you like it.  
+
+
+
+
+ Nobody knows what device you are talking about.  
+
+
+
+
+ If you're after good battery life I wouldn't flash Kitkat until the official images drop... right now, although it is quite smooth, its a hacked-together mess using 4.3 binaries on what is essentially a Nexus 5 port. Franco kernel is pretty good in terms of battery life for 4.3. 
+
+
+
+
+ I doubt we will ever see this functionality in stock.  
+
+
+
+
+ Has something to do with reddit automatically choosing the image from the linked page that has the highest color contrast (or so I've read many times in comments) 
+
+
+
+
+ Make sure you are using the latest TWRP (2.6.3.3) and SuperSU (1.65) 
+
+
+
+
+ It depends on the device, but probably not. External harddrives need to be powered and I doubt a phone would be able to supply the power needed over OTG. 
+
+
+
+
+ 1. That's just how it is with Android OEMs unfortunately. Even with a flagship device like the S4, you're realistically looking at a 2-3 month wait before you see KitKat. This is why the Nexus line and custom ROMs exist.
+2. Check your APN settings (settings  more  mobile networks  access point names) and make sure they are properly set up (look up your carrier's APN settings online) 
+
+
+
+
+
+
+
+
+
+ You're pretty much SOL. Best course of action would be to make a backup, flash a 4.3 rom, restore SMS and back them up using SMS backup and restore (which has 4.4 support), restore your 4.4 backup and then restore from SMS backup and restore.  
+
+
+
+
+ Not sure about changing your status, but you can disable notifications for just Hangouts messages by going Hangouts  Settings  Your gmail account  and unticking Notifications. 
+
+
+
+
+ That's correct. You can still run custom launchers though, so not all is lost. 
+
+
+
+
+ SMS support on Hangouts desktop will never, ever happen. For this to become a reality, the phone would have to run some sort of server and push SMS to Google's servers as they come and go, which just isn't efficient. 
+
+
+
+
+ No, it doesn't. The only phone with this feature is currently the Moto X. 
+
+
+
+
+ 1. Can't answer
+2. There are a few but none even close to the same playing field as Garageband, unfortunately - I doubt it will get better until the audio latency improves on Android.
+3. Can't answer
+4. Kitkat comes with a [cloud backup service](http://www.digitaltrends.com/mobile/nexus-5-leaks-time-hints-cloud-backup-android-4-4-kitkat/) that is similar to iCloud - I doubt it will be as wholesome or effective though 
+
+
+
+
+ The "hot word" option only works on US English ATM. 
+
+
+
+
+ [Scrotter](https://play.google.com/store/apps/details?id=com.yttrium.scrotter.free) is updated fairly frequently (last update 4 days ago). It doesn't currently have the Nexus 5 but I'm sure it will support it in the future. 
+
+
+
+
+ ART is a little bit faster but, since it is experimental, may break compatibility for apps. I currently have it enabled with no issues but I've heard that Whatsapp doesn't work with it. 
+
+
+
+
+ Maybe they changed it to match 4.4's white statusbar icons? Not sure though. 
+
+
+
+
+ Micro. 
+
+
+
+
+ The PA builds overwrites the recovery, you simply have to reflash it over ADB. 
+
+
+
+
+ Bar work (or hospitality in general) is always plentiful, and you can travel the world with it since it's such a translatable skill (I mean, everyone needs to eat).  
+
+
+
+
+ I had a long-term relationship with a girl who was molested as a child (6 or 7 I think) by a close friend of her father's. I was quite shy so strangely enough all the sexual stuff usually initiated from her end. The first time she gave me a blowjob she went into a state of shock... I'm not talking just upset but like PTSD flashbacks sort of shit, she was shaking and it was like she was unable to see or hear me at all. I sorta just held her on the floor and kept saying "It's ok. It's ok." over and over again. One of the scariest things I've ever experienced and I would never have understood what was going on if she hadn't shared what had happened to her with me just a few weeks prior. 
+
+There were a few more episodes like this whenever we tried anything sexual but we just took things slow and I made sure she was 100% comfortable. After a while she was pretty fine with anything and in the later years of our relationship she was quite a minx in bed.
+
+Unfortunately we're not together anymore but I'm glad I got to help her through that little speedbump so now she can have a healthy sex life.
+
+edit: thanks to whoever gave me gold. To everyone saying what a good guy I am, it's really not as amazing as it seems. I had a girl on my hands who was willing to push through extreme childhood trauma to ensure that *I* was satisfied (both sexually and in our relationship). Staying with her and working through it was an easy decision. 
+
+
+
+
+ Sorry but what on earth gives you the idea that Google would implement FB messages into hangouts? You know that will never, ever happen, right? 
+
+
+
+
+ I never said that they weren't? I just said that the images usually end up on the developer page before anyone gets the OTA update. They push them both at the same time, but the OTA doesn't actually roll out to everyone at the same time due to carriers and connection issues. Developer images are more reliable this way. 
+
+
+
+
+ Are you talking about an OTA update or for when the ROM scene reaches 4.4?
+
+If the former, you have to do the following steps:
+
+* Flash stock recovery
+* Flash latest stock ROM (if you are not already on it)
+
+An OTA update will remove root and overwrite your radio (assuming there is a new one) so you will lose root and LTE.
+
+If the latter:
+
+* Nothing - When you flash a 4.4 based ROM you will have to wipe data though, so you may want to ensure you have some sort of backup. 
+
+
+
+
+ I believe he's talking about an OTA - which won't work without a stock recovery. 
+
+
+
+
+ No. I doubt an OTA will be pushed before the images are up on the [Google developer page](https://developers.google.com/android/nexus/images). 
+
+4.4 ROMs are up and stable, why don't you take the plunge if you're eager? 
+
+
+
+
+ If its stuck in a "pressed" state than unfortunately that is the case, and Xposed mods won't do anything. Every android phone I've ever used has a hardware switch that will kill power to the phone when holding the power button for a certain amount of time. 
+
+
+
+
+ You can test it by removing your Google account. It is slightly duller.  
+
+
+
+
+ The recovery gets overwritten when you flash the ROM, all you have to do is flash twrp again.  
+
+
+
+
+ I just flashed supersu from recovery and it seemed to work fine.  
+
+
+
+
+ Paranoid android has released a kit kat build for the nexus 4, it's one of the top posts on r/android right now.  
+
+
+
+
+ Why are we fingers crossed? The device has been released... Just read a review.  
+
+
+
+
+ Rule of thumb is to never dirty flash between Android builds. In fact, the only time it is ever not a bad idea to dirty flash is updates to the same ROM. 
+
+So: 
+Android version change - clean flash
+
+ROM change (even if same Android version) - clean flash
+
+Update to newer version of same ROM (but same Android version) - dirty flash 
+
+
+
+
+ They ported it to the N4 using only blobs from 4.3, I don't see why they can't do the same for the gnex. 
+
+
+
+
+ Ahh, right you are. That sucks. Looks like its back to Textra for the time being. 
+
+
+
+
+ Yeah, server's down. I thought I managed to get it before it went but turns out I didn't, the zip is corrupted and failed to flash. :( 
+
+
+
+
+ Backing up now, will report back. 
+
+
+
+
+ Can I just flash SuperSU to this? 
+
+
+
+
+ SMS popup on the play store. :) not a messaging app replacement, only does popups.  
+
+
+
+
+ Many teenagers and girls (of all ages I've found). I know at least 4 people that chose an iPhone 5 over an S4 or HTC One when they had the chance to upgrade, because of this single feature. I am not joking.  
+
+
+
+
+ Really? So it even works in the twitter app? 
+
+
+
+
+ Really? So you have the full range of color emoji in every single app with no addons required? Instagram, Facebook, snap chat etc?  
+
+
+
+
+ System-wide emoji! 
+
+
+
+
+ This was confirmed in the nexus 5 ama :) 
+
+
+
+
+ This is really surprising given that one of kitkats new features is running on low-specced devices. Surely they will push an update for the gnex? 
+
+
+
+
+ Already been posted http://www.reddit.com/r/Android/comments/1pmpge/android_kitkat_platform_highlights/ 
+
+
+
+
+ It's been there since release. It sends an SMS to people that don't have Hangouts if you message them on Hangouts - so not full SMS support. 
+
+
+
+
+ Because Google voice doesn't actually use SMS... It uses data. It sends your message to Google servers which then send the SMS for you. Gv is allowed on the app store the same reason Facebook and whatsapp are, because they are internet messengers. SMS replacement apps are a no go on iOS.  
+
+
+
+
+ IOS app will never see SMS support, it goes against the app store rules.  
+
+
+
+
+ Let me show you something http://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=Australia country2=United+States 
+
+
+
+
+ I think one of the main issues that is being ignored right now is that ISPs are *decreasing* data caps, instead of increasing them.  
+
+
+
+
+ Wow. As someone that was on the opposite side of this exact situation, can I just say that there is a very real chance that she was just as confused about what was happening as you and your friends were. Depression is a HELL of a disorder and when it gets really bad it can warp your reality to an insane degree. I hit a really low point in high school and as a result, I systematically destroyed every single meaningful relationship I had... No bridge was left unburned. You do this because you are so determined for the reality inside your head to match the one in the world around you, it becomes a self-fulfilling prophecy. Honestly I look back on that time and I couldn't explain half of my actions, your brain operates on an entirely different level. And I think your friend would feel the same way. Thanks for keeping in contact with her. I managed to reconnect with a lot of old friends when I started getting better and it meant the world to me that they stuck around.  
+
+
+
+
+ Slide out the menu and tap the gear icon next to Newsfeed.  
+
+
+
+
+ http://www.imgur.com/EeZ6qmw.jpeg 
+
+
+
+
+ The only OmniRom builds that are currently available are unofficial builds, and they haven't implemented the Multiwindow feature yet (mostly because it is still unfinished). Slimbean uses a JWR/JSS hybrid kernel that rids you of the deadlock issue, FYI. 
+
+
+
+
+ Does that not come with MIUI? 
+
+
+
+
+ Have you tried an AOSP ROM? Much snappier than Touchwiz.  
+
+
+
+
+ This has been around in custom roms for literally years though.  
+
+
+
+
+ Screen out doesn't work on custom Roms for the sgs2 
+
+
+
+
+ http://techstroke.com/use-your-android-as-a-wifi-dongle-wifi-adapter-to-access-your-home-wifi/ 
+
+
+
+
+ Not officially, but I'd put money on it that this gets an unofficial port.  
+
+
+
+
+ Because AOSP apps are being deprecated in favor of proprietary Google applications.
+
+Source on this? Google is still actively developing AOSP. Calendar and Keyboard have both been released on the Play Store and their respective AOSP versions are still updated to the latest with every release of AOSP. It's just a way of Google getting a close to stock experience on any phone with access to the Play Store. 
+
+
+
+
+ I'm honestly confused, with the comment starting with the world "welp", how can it not be read sarcastically? 
+
+
+
+
+ How? 
+
+
+
+
+ Why is this a bad thing?
+
+edit: TIL "[welp](http://www.urbandictionary.com/define.php?term=Welp defid=5929265)" is an expression of enthusiasm. 
+
+
+
+
+ /r/supershibe 
+
+
+
+
+ If you prefer the stock messaging app give 8sms a try (its on the play store). Basically the messaging app pulled from cm10.2, so it includes a dark theme and quick reply.  
+
+
+
+
+     wow
+                         such brave
+           much edgy
+                              snapchat2teenage4me
+       #boycottsnapchat2013
+                                           wow 
+
+
+
+
+ Ugh, dread is one that I really struggle with. Its that almost limbo between having a body full of adrenaline and not, and there's this weird stinging feelings in my bones and chest. Just awful.  
+
+
+
+
+ What does being Australian have to do with anything? We have the exact same thing over here, they're just called "consultation hours" in the majority of universities. 
+
+
+
+
+ "Confirmed" 
+
+
+
+
+ The highlight color changes every year so non-schoolies don't come back and use their old band to get in.  
+
+
+
+
+ I've never seen them anywhere other than schoolies is Australia. They're pretty unique. http://mobile.abc.net.au/news/image/4386546-3x2-460x307.jpg 
+
+
+
+
+ Do you live in Australia? 
+
+
+
+
+ Well, there is evidence that he's Australian. The yellow wristbands in the photo are schoolies wristbands, which can only be found in qld Australia during schoolies week... 
+
+
+
+
+ Sudden clarity clarence is an Australian. Even if you don't believe the person I know is him (which I know it is, but whatever), the Australian part is undeniable because of the yellow wrist bands in the photo. Wristbands like that are only seen in Australia, on the gold coast, during schoolies week.  
+
+
+
+
+ He most certainly is Australian. This photo was taken during schoolies week, as evidenced by the [schoolies wristbands](http://www.abc.net.au/news/image/4386546-3x2-940x627.jpg). 
+
+
+
+
+ Actually, he has been identified, numerous times by myself. I usually point out who he is whenever there is a post or thread questioning his identity. He was in the grade above me in highschool, and the picture was taken during schoolies in 2011. http://imgur.com/a/LGc9O 
+
+
+
+
+ Just an FYI: you can't post a link and a text post at the same time. Its one or the other.  
+
+
+
+
+ I had the same problem with the lockscreen icon, hated the S one. There's a zip you can flash that changes it back to stock, its under the "addons" section on the slim website. :) 
+
+
+
+
+ No worries, I'm glad I could share the experience with someone else!  
+
+
+
+
+ Yeah I pretty much did a straight copy and paste there. I still have yet to come across any bugs, that includes random reboots and freezes (which I was getting daily on cm10.2). Can't help but love this ROM. :) 
+
+
+
+
+ I posted in the flash Friday thread last week but it can't hurt to share again, in case anyone missed it.
+
+**ROM Name:** Slim Bean
+
+**ROM Version:** 4.3 Build 1 (09/15)
+
+**Android Version:** 4.3
+
+**Download Link:** [slimroms.net](http://www.slimroms.net/index.php/downloads)
+
+**Kernel:** Slim-4.3-JWR-RC-1.1 (default ROM kernel)
+
+**General Feedback:** I initially tried this ROM because it was one of the few ROMs that had a JWR+JSS hybrid kernel - I was on CM 10.2 nightlies w/ Franco kernel and I kept running into the JSS deadlock issue. I initially intended it to be a temporary thing but after running this ROM for a few days, there is nothing I miss from CM (read: SlimBean has all of CM's features) but I would certainly miss some features of this ROM if I went back, so it looks like I'll be staying for the foreseeable future.
+
+**Hardware Comments:** Nothing really comes to mind... there have been no bumps in the road in terms of hardware issues, which is to be expected from a Nexus device.
+
+**Features:** All of CM's features + way more (and their ROM size is somehow ~100mb smaller than the average CM release!). My favourite have been the way they handle custom navigation buttons/layouts (the UI/options for it are better than CM's implementation IMO, plus you can do things like have custom actions done on long-press of a button, which as far as I'm aware of, isn't available on CM) and transparent navbar and notification bar on the homescreen (which results in a simply beautiful [homescreen](http://i.imgur.com/c49K0Tk.jpg)). There are just so many more options for things, and it doesn't at all seem bloated.
+
+**Stability  amp; Performance:** Both have been absolutely stellar on the stable release. On CM10.2 I was experiencing daily random reboots and keyboard freezes due to bugs in the JSS AOSP build - granted I was running a nightly of CM compared to a stable release, but CM only has nightlies for Android 4.3 ATM and I wanted to be on the latest. It just seems lighter overall.
+
+**Caveats  amp; Warnings:** Honestly, at this stage, absolutely none. I've been gushing about this ROM to all my friends (well, those who know what a custom ROM is) ever since I installed it. I have only been running it for 3 or 4 days though, so there may be some hidden bug that I have yet to discover. 
+
+
+
+
+ There are two types of people; those who have shit their pants, and those who have yet to. All in due time, OP. 
+
+
+
+
+ The installer is only going to work on devices that come unlocked out of the box or have a Dev unlock tool supplied by the OEM. Devices like the LG Nitro would still have the same issues.  
+
+
+
+

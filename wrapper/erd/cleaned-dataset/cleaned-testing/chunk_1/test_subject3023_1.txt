@@ -1,0 +1,159 @@
+ As well, once you get a bit of gunpowder, you can duplicate it via Alchemic Chemistry with blood, or hand in the repeatable quest "Covered in Ash" 
+
+
+
+
+ Yup. ME^3 's gonna win. GG, m8. 
+
+
+
+
+ Running Red is about being dead. 
+
+
+
+
+ And really, m8? Parcel gets a flair, and I don't?
+
+I see how it is .
+
+:P 
+
+
+
+
+ I'm in Party Mode
+
+\o\
+/o/
+\o\
+/o/
+\o\
+/o/
+\o/ 
+
+
+
+
+ And yes, these are HQM maps. 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Says the person who loved it prior to being banned. 
+
+
+
+
+ Why is your name VikeStep? 
+
+
+
+
+ It's all good! \o/ 
+
+
+
+
+ m8, not trying to be rude or anything. Your explanation was very good, I was just pointing out some stuff you missed. No need to yell at me 
+
+
+
+
+ I also think the story deserves some focus, as much of it revolves around it. The player is dead, and has to cope with being dead. It takes place between life and whatever happens after. Very light and cheery, right? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ :O
+There's a mods section on the MC wiki? :OOOOOOOOO 
+
+
+
+
+ /r/PCMasterRace 
+
+
+
+
+ \o/ Amazing!
+Suggestion: I don't know if you've done this, but you are able to disable Mystcraft Instability per-age. There's an in-game command to do it. 
+
+
+
+
+ First, put a Fluid Transition Plane next to the lava to soak up the liquids, like Cypher said.
+Then, if you want, you can have the AE network output a certain signal when it's grabbed enough Lava. Have it output to the Master Ritual Stone, and bam! It will only consume a certain amount of lava before turning the ritual off. 
+
+
+
+
+
+
+
+
+
+ You're amazing at everything, it appears :P 
+
+
+
+
+ Yes, I'll get that out in a few updates. It has the compass texture because I can't texture :P
+I've gotten permission to use other textures in an upcoming update, so don't worry! :D 
+
+
+
+
+ Yeah I waited until I had a Igneus Extruder going to make Compressed Cobblestone for my farm 
+
+
+
+
+ I'm doing Blood Magic/Botania, probs Mekanism/Thermal Expansion. Also the big "everything centered around Blood Magic" one, AKA Running Red. 
+
+
+
+
+
+
+
+
+
+ Personally, I prefer to play Demoman. 
+
+
+
+
+ http://youtu.be/CmNuQf_L-3A
+
+This video shows off the new gamemode I created. All it is is a simple config file that the server downloads, and executes, allowing for anyone connected to play in a Zombie Apocalypse, without any download required by the client.
+
+From "About.txt":
+"The game is a four player co-op match where you attempt to complete the original objective of the map. In Upward, you push the cart, in Process, you capture the 3 control points, in King, you try to capture the control point and survive for 3 minutes. Unfortunately, in Apocalypse Rising, the players are hindered by zombies. These zombies spawn in groups of 6, every 20 seconds. Not only that, but each player only has one life per match, adding to the overall difficulty. [There are 3 maps that have support included in this, Upward, Kong King, and Process, all of which represent a different difficulty. Included in the readme file are instructions for adding compatibility to new maps.]
+
+Apocalypse Rising was created in order to give clients a fun, easy way to play TF2 as a zombie game. The policy I had when making this was that I wanted there to be absolutely no download on the client's end, and that policy has held up until the end.
+
+I'll take a moment here to say that Apocalypse Rising is completely open source, just read the configs to see what's happening, and feel free to change or add stuff to it.. Maybe I'll even make a video on that."
+
+Download: https://www.dropbox.com/s/rrapzh7yfaywytq/Apocalypse%20Rising.zip
+
+Thank you for looking at this. -Gideon Seymour 
+
+
+
+

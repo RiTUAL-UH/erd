@@ -1,0 +1,76 @@
+ The usual limitations of studies in mice and how that applies to humans apply here as it was performed in mice (i.e. differences in metabolism/physiology, a cell therapy working in mice for 6 months doesn't mean it'll work for years in a human etc.). My guess is that the model of diabetes they used is questionable.
+
+In this study they used a mice (SCID mice) that did not have a functioning immune system - which is commonly used when implanting human cells as they did here to prevent rejection. The problem this has is that the immune system plays a key role in the development of type 2 diabetes, so if this is done in a human the immune system **might** prevent any positive effects. 
+
+Another implication of using the SCID mice is that they had reduced circulating fatty acids in their blood and more fat deposition in the kidney and liver when fed a high-fat diet - this is not seen in humans and lipid induced resistance is thought to be a key cause of insulin resistance. It is possible that high levels of fatty acids in the blood will prevent this treatment from working in humans or the mechanisms by how this treatment work do not work to counteract the effect of lipid induced insulin resistance.
+
+When fed a "western diet the SCID mice showed "a more mild phenotype in terms of obesity, fasting hyperglycemia, insulin resistance, and leptin levels" than the high fat mice, which isn't seen in mice with a fully functioning immune system. The authors actually say that in comparison to traditional models of diabetes:
+
+other mechanisms may be involved in the development of insulin resistance in this animal model.
+
+It's unclear and impossible to predict how it will translate to humans. Despite differences to the traditional models, those models do not fully replicate human diabetes so perhaps it will be a better model (unlikely in my opinion).  The study helps give insight into what role the immune system may play in the development of type 2 diabetes and will guide future research efforts. Additionally, it's a proof of principle study as it has been shown recently that treating with high levels of insulin can help manage type 2 diabetes in people and this method of increasing insulin may help offset those limitations, technical challenges and unwanted side effects. For your question, it's really the first step toward a new treatment, it may not work, it could work amazingly but it's a new avenue to go down. 
+
+
+
+
+ Children with Type 1 would benefit from this and is what Viacyte VC-01 treatment is targeted at and where they have started clinical trials:
+
+http://viacyte.com/clinical/clinical-trials/
+
+Type 1 diabetics don't produce insulin due to autoimmune-induced loss and dysfunction of beta cells. Type II diabetes is characterized by insulin resistance - i.e. insulin is produced but glucose uptake from the blood is diminished/not as effective. Most research has focused on increasing/restoring insulin sensitivity with drugs and exercise and this enables the condition to be managed in many cases and disease progression to be slowed. However, over time and in more severe cases the beta cells start to not function as well (i.e. release less insulin) and start to die (decreasing insulin levels more). A couple of recent studies have shown that injecting high levels of insulin in type II diabetics can help manage the disease and improve the symptoms, like this one in patients:
+
+http://www.ncbi.nlm.nih.gov/pubmed/18502299
+
+In this study they showed that injecting beta cells alone helped improve insulin sensitivity and glucose tolerances in animals fed a high fat diet which is used to induce insulin resistance. However, the tissues which uptake glucose would still be less insulin sensitive than healthy tissues so they tested the effect of combined cell therapy and traditional drug therapy. When they added drugs that improve insulin sensitivity in those tissues (i.e. normal drug treatments for type 2 patients) they found that the cell transplant and drug treatment worked synergistically and improved outcomes more than either treatment alone. 
+
+
+
+
+ Here's the link to the paper it's open access so everyone can view it.
+
+http://www.cell.com/cms/attachment/2027503261/2045933681/mmc2.pdf 
+
+
+
+
+ How did you go from the British Empire to blindly supporting the US Government? 
+
+
+
+
+ The difference between the EU and U.S. Cattle feed, antibiotic and hormone use has been shown to effect serum (basically blood without cells) and can impact biology research. 
+
+For example, In this paper tissue engineered muscles exposed to EU cow serum became fast muscle and US serum resulted in a slow muscle, though the specific factors causing the change were not identified.
+
+http://www.ncbi.nlm.nih.gov/pubmed/25146978 
+
+
+
+
+ Yep that's the one!
+
+Here's a youtube playlist of it:
+https://www.youtube.com/watch?v=XQDxtzf-FDM list=PLE077061F6C197D71 
+
+
+
+
+ By his peak I mean that I've not heard or seen a better performance than that show from him but sure he may go on to top that performance. In terms of him writing great stuff since I don't disagree and he'll go on making great music for a long time.
+
+I've seen him twice since that show (last time in June 2014) plus several uploads on YouTube and music sites. The performances of Slow Dancing in a Burning Room, Belief and Vultures are far beyond any other versions I've heard him do since (obviously this is all subjective and I've not heard every live performance since then). Also the people he performed with that night Robbie McIntosh, Steve Jordan, Pino Palladino etc. and the chemistry he had with them was in my opinion something very special and would be incredibly hard to top but hopefully I'm wrong!
+
+ 
+
+
+
+
+ Came here to say John Mayer. I always thought he was some teen pop artist but goddam can he play a guitar! For anybody unsure of him watch or listen to Where the light is - Live in LA. it shows off his diversity, talent and in my opinions him at his peak. 
+
+
+
+
+ They embedded cells in matrigel for their "mini lungs", no directional or guided tension cues were given so no macroscopic lung structure would have been formed. The image quality is poor for their more detailed analysis of their 3D cultures so it's hard to gleam anything from it. That coupled with it being a supplemental figure in the paper and the key finding being the differentiation of human foregut stem cells to distal lung epithelium makes it a poor, yet typical, PR piece. 
+
+
+
+

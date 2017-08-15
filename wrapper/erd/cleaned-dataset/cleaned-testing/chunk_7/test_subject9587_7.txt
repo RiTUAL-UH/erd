@@ -1,0 +1,744 @@
+ Significant losses on multiple screens. 
+
+
+
+
+ An honest question here:  has this gentleman even read the Satoshi paper? His argument takes the following form:
+
+1.  Bitcoin's value is dependent on the existence of a number of its features, especially the integrity of the "miners".
+
+2.  "Mining" inherently trends towards monopoly.
+
+3.  A mining pool which has become a monopoly nullifies the key features of Bitcoin.
+
+4.  Therefore, Bitcoin is inherently flawed and doomed.
+
+Even granting him that his first two propositions are true (which can be argued, but to Hell with it, I'll be generous and give him those), his conclusion (#3, and thus #4) does not follow, because a 51% attack does not create the problem that he thinks it does.
+
+In the Satoshi paper, there is a mention of a 51% attack problem, and it clearly shows how the incentives for the system make it economically infeasible to apply your mining power to a 51% attack - the system is such that applying that power to the network honestly would get you a greater reward.  The only thing that a 51% attack can do is shut down (or delay) the system until the other actors discover what is going on.  Hence, a 51% attack can, at most, maliciously attempt to destroy the functionality of the system - but it would not hinder it for long, *for multiple reasons*.
+
+First, these gigantic mining pools generally contain many individual miners.  Once they realize that them being part of this pool has hampered the system, their incentive for remaining in the pool is gone (they are getting a return of exactly zero - even hashing by hand is better than that!) Second, even if (somehow) this really is one single, gigantic, malevolent actor using all the mining power for evil, all we need to do is alter the Bitcoin protocol enough to make his ASICs obsolete.  Then, all that money was wasted building and maintaining ASICs that are now built for a slightly-different task, and the Blockchain goes back to the longest "good" chain and re-starts, albeit with much less mining power.  But - the wealth (the coins) are still there.
+
+tl;dr - This argument is based on one incorrect assumption:  that a 51% attack can disrupt the Bitcoin network permanently by stealing coins. 
+
+
+
+
+ It.  Does not.  Make. Sense. 
+
+
+
+
+ Using [win %] (http://espn.go.com/nfl/playoffs/machine?2014) as the automatic determining factor for the rest of the season is absolutely stupid for the following reasons:
+
+1.  It biases towards teams with already good win percentages.  As such, the Cardinals and Patriots don't lose another game, and several teams do not win another game.
+
+2.  It has no tiebreaking procedure, so from week 12 to week 17, this simulation predicts 16 games will end in a tie.
+
+ 
+
+
+
+
+ Right but this way *they* get the HC that *we* kicked out of town early who then went to become a coordinator in the NFC West. 
+
+
+
+
+ The very best solution, in my mind, is to move away from conference-based playoffs to a full seeded system, still with 12 teams.  The 8 division winners can still all have invites, but will be seeded according to their records.  It ends up looking like this:
+
+Four Teams with best records (regardless of Division Championship) - 1st Round Bye.
+
+Four next best records:  1st Round home game
+
+Four worst records; 1st Round road game.
+
+Let's take the infamous 7-9 Seahawks year into account.  Here were the seeds for that year:
+
+ Rank | AFC Team (Rec) |  NFC Team (Rec) 
+---|---|----
+1 | New England (14-2) |  Atlanta (13-3) | 
+2 | Pittsburgh (12-4) | Chicago(11-5) | 
+3 | Indianapolis(10-6) |  Philadelphia (10-6)| 
+4 | Kansas City(10-6) |  Seattle(7-9) | 
+5 | Baltimore(12-4) | New Orleans(11-5) | 
+6 | New York (11-5)|  Green Bay(10-6) |
+
+
+This led to the stupidity of the 7-9 Seahawks hosting the 11-5 Saints.  With the seeded bracket system, it looks like this:
+
+
+Rank | Team | Record 
+---|------|----
+1 | New England | 14-2\* 
+2 | Atlanta | 13-3\* 
+3 | Pittsburgh | 12-4\* 
+4 | Baltimore | 12-4 
+5 | Chicago | 11-5\* 
+6 | New York (J) | 11-5 
+7 | New Orleans | 11-5 
+8 | Indianapolis | 10-6\*
+9 | Kansas City | 10-6\* 
+10 | Philadelphia |10-6\*
+11 | Green Bay  | 10-6 
+12 | Seattle | 7-9\*
+
+\*   *denotes Division Champion*
+
+Obviously, the tie-breaking procedures might want to be changed a bit, as we had 6 teams with 10-6 records, and only 4 could get in.  The three who won their division made it, but there was a logjam for that last spot.  Exactly how to decide these isn't a hard problem, though.
+
+Interesting tidbits here:  
+
+1. The four best records get the first round bye.  Two of them are in the same division, though.
+
+2. Three division champions will not be hosting a playoff game due to the strength of some wild cards.  I feel like this rewards a team for winning the division (as two 10-6 teams do not make the playoffs, depending on the tiebreaker used).  However, it also rewards teams that performed well in difficult divisions (i.e., the Jets and Saints host a playoff game - and the Ravens even have a bye!)
+
+3. The coolest thing (and the hardest thing to get used to) is non-conference playoff games.  The First round is:
+
+Seattle @ Chicago
+
+Green Bay @ New York Jets
+
+Philadelphia @ New Orleans
+
+Kansas City @ Indianapolis
+
+Some familiar playoff matchups, some very strange.  Round 2 could see Chigaco @ New England, New York Jets @ Atlanta, Philadelphia @ Pittsburgh, and Indianapolis @ Baltimore.  Wow.
+
+And you can't tell me you don't like the possibility of a Steelers/Ravens Superbowl (they are on different sides of the bracket here, so it *could* happen). 
+
+
+
+
+ Josh McDaniels, obviously. 
+
+Somehow, he is a success and it sticks in the craw of all Broncos fans everywhere as he wins a Superbowl for the resurgent Raiders.
+
+That is so much more Raiders than Rex Ryan. 
+
+
+
+
+ Honestly, with the way this group is playing, it appears as though we are only going to be able to compete against the bottom third (maybe even bottom quarter!) of the league.  Our division is very strong, and we have little to no chance against OKC when they get healthy (hell, we already botched one game against them when they were under-manned).  If you figure that we show up and compete hard in the games where we aren't out-matched, talent-wise, I can see us around 10 wins come January.  I mean, we have 32 games before Jan 1st.  10-22 seems WAY above how this team is performing right now, doesn't it?  That's going 8-15 over the next 1.5 months.  It is possible, but I think unlikely.
+
+Now, for what I think happens.  Others are correct in that we have a lot of pieces (and very good ones!) for which to offer some contenders.  Once January comes around, if we're sub-10 wins, I think we go for the all-out tank, and start trading some of those pieces to contenders.  I think that you make two of Ty, Faried, and Gallo untouchable, but everyone else can be got.  I think that is a splendid core, and allows us to offer Mozgov to Cleveland, Foye to a team who needs a 3-point shooter, Nate to a contender who wants a little more bench scoring, etc, etc.  Stockpile picks and young talent, and hope the balls come out in our favor.  
+
+This team looks like garbage right now, and the NBA isn't exactly fair with its talent acquisition process (Chicago, LA, NY will ALWAYS have an advantage over Denver, Sacramento, and even OKC), but we have done a very good job nabbing talent in the middle of the 1st round in the recent past (Faried and Lawson being the shining examples).  We need that star to kick us up a notch.
+
+As for Shaw?  My jury is still out on that one.  This may just be a McDaniels situation (not the cheating, petulant, horrible human being part - just the inexperience in Head Coaching and poor player relationships part) that we have to scrape away and start anew.  It'll be very telling how he and the team handle this gigantic suckfest that I predict will soon be upon us. 
+
+
+
+
+ Yeah, it is very selective memory whenever a bad loss happens.  Passionate fans are always just super-worried about their team's success and a loss makes them feel very uneasy.  Some people are quick to forget that:
+
+1.  Last Year, the Seahawks lost to Arizona at home, despite Carson Palmer throwing 4 interceptions.  The same year, the Broncos got clowned by the Chargers, at home, in a fashion eerily similar to yesterday's loss to the Rams.  Both teams went on to play in the Superbowl.
+
+2.  The Ravens were left for dead in December.  They had just fired their offensive coordinator, and looked like absolute garbage.  Super Bowl Champions.
+
+3.  The Giants.  Ever.
+
+4.  Green Bay looking like garbage the whole year, sneaking in, and going on a run.
+
+Just punch your ticket, boys, and we'll see how January goes.  There's still lots of time to look good.
+
+ 
+
+
+
+
+ Yeah, but they'd all be Sam Rockwell.
+
+Actually, that's okay.  Carry on. 
+
+
+
+
+ "DAE Padding stats?  LOL, Peyton/Fox are poor sports!"
+
+Did you watch the game?  How about the vine?  It is still the 3rd quarter here.  Peyton came in *for one play* and then the Lobster had the whole fourth quarter.  It is kind of amazing how far some of you will stretch the events to fit your preconceived narrative. 
+
+
+
+
+ This is exactly what happened to me.  Wife and I switched over to the hockey and saw 1-0, 19:15, and then the stretcher!
+
+"What the fuck did we miss!?"
+
+Very scary.  Good to hear he seems to be doing okay. 
+
+
+
+
+ Oops, fine for "Leah Strong" on the eye black.
+
+Your move, Goodell.  You gonna fine a cancer girl's loving daddy?
+
+*Shane Vereen has friends in the diamond business*. 
+
+
+
+
+ Okay I guess I am going to have to be the one to ask.
+
+Leah Still is kind of a cunt, right?
+
+*Tom Brady gets all "The Onion" references* 
+
+
+
+
+ Wife and I are seeing it on Friday @ 6:30.  Will be more relaxing not having to get up for work the next morning, but I understand your excitement! 
+
+
+
+
+ Awesome!  Set my own up!
+
+1000 bits /u/changetip  
+
+
+
+
+ I remember being *very* excited when Tulo signed his long-term deal.  Ditto CarGo.  And, I loved when Ubaldo looked to be inked for a long time, too.  I thought that this core group could compete and give Colorado baseball a strong chance to be entertaining.
+
+These things did not happen.  Ubaldo underperformed, Tulo and CarGo were often injured and also underperformed.  I am not saying that you set everything ablaze and start completely fresh, but a step in the right direction is entertaining any and all offers for our last-generation stars, while attempting to develop our new boys. 
+
+
+
+
+ Just got a changetip account!  Looking forward to using it to teach facebook friends about bitcoin!
+
+(I already had some coin). 
+
+
+
+
+ Nice article, but this is a little misleading:
+
+If this story is true, then wealthy Russians will need a way to convert Ruble holdings into US dollars.  One of the easiest and least transparent channels would be to buy bitcoin and then convert those holdings into other fiat currencies.
+
+Specifically, I take issue with the "least transparent" part of that statement.  Transactions on the blockchain are inherently transparent!  I think what the author is trying to say is that doing these transactions through bitcoin are less noticeable when compared to something like directly trading rubles for dollars or gold or other stores of value.
+
+Is this nitpicking on my account, or is it important to clear up this misconception? 
+
+
+
+
+ The Oakland Raiders are a dumpster fire behind a Planned Parenthood.
+
+*"The Tuck Rule" game will go down in the annals of NFL history, much like "The Immaculate Reception".* 
+
+
+
+
+ Hayward Jablowme!!! 
+
+
+
+
+ Another example is using sound waves to break DNA molecules, which is called, "sonication". 
+
+
+
+
+ Paying off a lost bet wherein I must praise the Patriots organization and/or players until the end of MNF for week 10 in every post on /r/nfl.
+
+*Randy Moss* **could** *grow on a rolling stone.* 
+
+
+
+
+ The confirmations happening is what the "miners" do.  It isn't "automatic" - but it is being carried out by the actors on the network, not by you. 
+
+
+
+
+ Was there any Stadium-related issue on the ballot?  You know, like a new tax to pay for it or something?
+
+*Mike Vrabel is better than Cris Carter, because he does more than catch touchdowns* 
+
+
+
+
+ Starting to look like the best we can hope for is competing for a wild card spot.  I mean, maybe we can go on an insane run, but we can't even keep a 2 goal lead right now.  *Multiple games* have been given away.  Varly faces 40 shots almost nightly.
+
+We **R** never give up.  
+
+But we have lots to fix. 
+
+
+
+
+ "Whurs Sacic?  I thought he made us good last year!" 
+
+
+
+
+ Exactly. 
+
+
+
+
+ And sometimes they don't even show up for the first 20.
+
+Running out of time to right the ship . . . 
+
+
+
+
+ Yeah, it's okay to be fruatrated, but fucking relax.  This is your team.  Stand by them even when they are struggling.   They don't like it any more than you do. 
+
+
+
+
+ Stats people will call it, "Regression to the mean."
+
+People watching the game will just call it, "sucking."
+
+They're both probably right. 
+
+
+
+
+ Yeah, I am getting the feeling that we don't play well very often. 
+
+
+
+
+ My cat flips out during all of those commercials.  
+
+
+
+
+ Gif request:  Avalanche Baby. 
+
+
+
+
+ I do not like it when the Patriots beat my team.
+
+*The Patriots often beat my team.* 
+
+
+
+
+ *Interstellar* comes out on Friday (earlier for some extra-fancy IMAX screens).  Imma see it on Friday.
+
+*Bill Belichick can navigate through the Limbo Space from* Inception *with impunity, and without losing his mind*. 
+
+
+
+
+ It would be easier to win games if anyone could make a shot.
+
+Also, if our opponents didn't shoot 50 free throws. 
+
+
+
+
+ Yeah, I am a big fan of non-sequitur type jokes, so they come to me fairly easily.
+
+*Despite what Giselle says, Tom Brady* **can** *both throw the ball and catch the ball.  He chooses not to in order to keep the NFL competitive.*  
+
+
+
+
+ Yeah, man.  fivethirtyeight does really, really good work all year long.  Bookmark it and visit it regularly!  These are also the people who bulls-eyed the 2012 presidential election. 
+
+
+
+
+ This is about exactly how I feel.  These teams are both great, and it is fine to be fiery after a bad loss on the road.  Bottom line:  "The Best Team" is up to opinion until we start playing elimination games and the loser just goes home.
+
+*[Drew Bledsoe] (http://www.pro-football-reference.com/boxscores/199411130nwe.htm) once threw so many passes that the 300 Spartans were happily shaded.* 
+
+
+
+
+ Lost bet with /u/mmb5757. It should be kinda fun.
+
+*If you drank a beer with Teddy Bruschi, the strength of the pun would get you drunk faster than the alcohol would.* 
+
+
+
+
+ We're still about three times more likely to win the #1 seed than the Pats are.  The predictive stats say that New England will be coming here in the playoffs.  Obviously, anything can happen, but losing this game is certainly not the end of our #1 seed hopes. 
+
+
+
+
+ Anyone remember [*The Cell*] (http://stream1.gifsoup.com/view4/3543188/the-cell-horse-scene-o.gif)?
+
+*If Julian Edelman had been tasked with returning The One Ring to Mordor, "The Lord of the Rings" could have been fit into a half-hour sitcom*. 
+
+
+
+
+ I find it amusing that a Jets fan responded to a gif from *Flight*.  I am a simple man.
+
+*Rob Gronkowski can lift himself over his head.* 
+
+
+
+
+ If they can take that second game vs. New England and have the tiebreaker?  Man, who knows how this AFC playoff picture is going to shape up?
+
+*Tom Brady once discovered the fountain of youth, but decided that mankind did not deserve it.* 
+
+
+
+
+ The folks over at [fivethirtyeight](http://fivethirtyeight.com/features/nfl-week-9-playoff-implications-a-crucial-week-for-the-saints-and-panthers/) have you covered on this one.
+
+tl;dr:  Broncos at 59.7% to win AFC top seed now, Patriots at 20.6.  Next closest is Indy at 6.9%. 
+
+
+
+
+ You're probably heard of [Raining Jane] (http://rainingjane.com/home.rj).
+You might have heard of [Cairo Fire] (http://www.reverbnation.com/cairofire).
+You probably haven't heard of [Galt Aureus](http://www.galtmusic.com/).
+And almost no one has heard of [The Jeffries] (https://www.facebook.com/thejeffriesband) 
+
+
+
+
+ +/- only counts for 5-on-5 
+
+
+
+
+ Nuggets holding teams under 80, Avs possessing the puck and preventing shots, Broncos winning in Foxboro.  It's a strange world. 
+
+
+
+
+ What did you learn? 
+
+
+
+
+ Surely people who make inordinate amounts of money will give some to schoolchildren, right? 
+
+
+
+
+ AKA:  sucking. 
+
+
+
+
+ HEY! IF YOU TAKE OUT THE 2ND QUARTER, WE BEAT WASHINGTON 10-7!!!
+
+HONESTLY, THOUGH - IT IS JUST A STRATEGY TO SHAKE OFF THE BANDWAGONERS PERIODICALLY SO WE DON'T TURN INTO ANOTHER PATRIOTS, STEELERS, COWBOYS, OR 49ERS.
+
+ 
+
+
+
+
+ I KNOW, CALLAHAN DIDN'T EVEN CHANGE THE SIGNALS FROM WHEN GRUDEN WAS COACHING! 
+
+
+
+
+ I KNOW RIGHT!  [LOL] (https://www.youtube.com/watch?v=dgNREzBAnY4) @ BRAIN DAMAGE.
+
+FUCKIN' PATS FAN. 
+
+
+
+
+ I got it.  Predominantly Orange post two days ago explains it well. 
+
+
+
+
+ Every three years, but yes, that's correct.   But, that means the other two games were due to both teams finishing 1st in their division, right?  Why were *both* of those in Foxboro, again?  I have read the reason before but can't remember. 
+
+Edit:  figured it out.  The position - based divi on all games are on two-year cycles. 
+
+
+
+
+ How about that defense?  I mean, I know Detroit isn't exactly known for lighting up the scoreboard, but you hold a team under 80 and you will win a lot of those games.
+
+And did you hear The Manimal talk about Josh Smith shooting his team out of the game?  Seems like people are listening to Shaw.
+
+I like the bigs, too.  The three-man rotation of Mozgov, Nurkic, and McGee gives us a lot of hard fouls and good rebounding.   
+
+
+
+
+ Ehh, turnovers happen, especially with new guys.  It's not like we're going to see a 64-59 game here. 
+
+
+
+
+ Auto corrects to shaved every time. 
+
+
+
+
+ People were shitting all over this game like it was going to be an affront to basketball.  It's been fine!  
+
+
+
+
+ Nov 5th, I think.   
+
+
+
+
+ Good.  And *no repeating praise*! 
+
+
+
+
+ I will still say that Champ Bailey saved our entire 2005 season, and turned it into something special.  I remember it like it was yesterday:
+
+I was in my 2nd year at college, and I couldn't watch very many games, so I would listen to 850 KOA online (when they still let you do that).  Week two, we were reeling from a 34-10 drilling in Miami, and playing [San Diego at home] (http://www.nfl.com/gamecenter/2005091813/2005/REG2/chargers@broncos#tab=recap recap=fullstory).  The first half was abysmal, and we went into the locker room down 14-3, hearing boos from the fans after six straight shitty quarters.  And the Chargers got the ball to start the 3rd!
+
+Then Champ pick-sixed Drew Brees on the first play.
+
+The defense held San Diego to 41 yards in the second half, which we would eventually win 20-17 on a last-second Jason Elam field goal.  We were inches from 0-2, in the AFC West basement, and playing like absolute dogshit.  But Champ would not have it.  He had one of the best seasons a CB has ever had, and it started on this day.   
+
+
+
+
+ Any Patriots fan out there down for a signature bet?  Loser must offer praise to the winner's franchise, players, coaches, etc as an italicized signature for every /r/nfl post until the end of the MNF game of week 10. 
+
+
+
+
+ I say Indigenous Persons. 
+
+
+
+
+ *Wave your hand in the air if you feel fine . . .* 
+
+
+
+
+ That's my S.O.P. 
+
+
+
+
+ Depending on this punt, we may see a free kick here! 
+
+
+
+
+  I'll take it.  How do you feel about punting?  I would like to not have a punter on the roster. 
+
+
+
+
+ Look within yourself.   It is destined for overtime.  You *know* it to be true. 
+
+
+
+
+ Is this an appropriate forum to discuss my recent obsession with *Girls Chase Boys*? 
+
+
+
+
+ There is not enough whiskey.
+
+(But there is) 
+
+
+
+
+ This seems to be a blind spot for NFL coaches.  I would onside or mid-squib every time.  Onside will result in either a new possession,  or their ball at the 40ish.  Squib could pin inside the 10.  Coaches need to consider this. 
+
+
+
+
+ I have never seen Jerry Jones and Jason Garret on the same screen together.  Could they be the same person?  Like, a *Looper* type of situation? 
+
+
+
+
+ Oh yeah, one of those really long deep slimy ones that you can feel slide out of your throat as it comes out. 
+
+
+
+
+ Colt McCoy's skill is directly related to the state of the US economy. 
+
+
+
+
+ That was like Dan Snyder in the Southpark episode, *Go Fund Yourself*.
+
+Hut. Huthuthuuuuuut!
+
+
+It is way less funny when it isn't cartoon characters. 
+
+
+
+
+ Robocop!!! 
+
+
+
+
+ So, we get all-oranges next year for a couple of cool games, which I have wanted for ever, and then the 2016 season we get to show off the Nike-designed new stuff?  What is the usual time-table for revealing new uniform/logo design.  Usually it feels like we don't know anything until the offseason beforehand (like the Bucs this year).  But, with Nike wanting to use the Broncos re-design as a posterchild or flagship, I figured that they might want a little more pomp than that.
+
+Also, I have pieced together a number of your answers in this post, so I am going to describe what I am picturing so far:
+
+Helmet:  Mostly chrome/light grey.  Orange "D" makes a comeback on the helmet with an updated chrome horse which looks like a cross between the old "D" horse and our newer swoopy horse.
+
+Home Jersey:  Mostly a dark grey (not the light grey of the Seahawks) with Orange numbers.  Orange shoulder accents with a design similar to the Bucs new stuff.  Pants will be grey, too?
+
+Aways:  White-Out!  Aside from the orange "D" on the helmet, outline for player names, and player numbers, we're all white here.  Seems like there is a possibility to have orange bottoms, as well.  Camouflage-style plays during snowstorms will change the game.  Broncos choose to wear white at home in playoff games and bring the snow-making machines from the ski slopes to guarantee a snow-covered field.
+
+Alternate Home:  Orange featured more prominently than the grey.  Possibility for all-orange.   
+
+Looking forward to the mock-ups from your buddy, and the official announcement as well! 
+
+
+
+
+ They'll never be, "Royals".
+
+(I like "Admirals") 
+
+
+
+
+ Swept your team. 
+
+
+
+
+ Wow, Panthers.   
+
+
+
+
+ Game plan has to be get around the 50 for a Hail Mary. 
+
+
+
+
+ Dan Fouts just described the players as, "Culprits". 
+
+
+
+
+ This is an absurdity pretending to be a football game. 
+
+
+
+
+ No, they can't do that - Lions have too many downs left. 
+
+
+
+
+ Why did ATL call a timeout there?  Are they all drunk? 
+
+
+
+
+ Riddick is a person. 
+
+
+
+
+ Don't be stupid.  No one does that.
+
+O/ 
+
+
+
+
+ Just think about the particular history that you want to highlight.  Full Game Superbowls exist on youtube, just have strong Google-Fu.  "John Elway's Greatest Comebacks" are also on youtube.  You can find the entirety of "The Drive" and "The Drive II".  You can find Louis Wright returning the 2nd of two blocked FGs against the Chargers.  You can find the 1977 AFC Championship against the Raiders ( IT'S ALL OVER, FATMAN!!!).
+
+Just go on a hunt.  It's all good! 
+
+
+
+
+ http://www.youtube.com/watch?v=_if_zC44WlI
+ 
+
+
+
+
+ 100% correct. 
+
+
+
+
+ My girlfriend (now my wife) got me a Von orange during his rookie year (Xmas present).  I wore it as we lost to the Ravens and I fumed while cooking dinner.  I will wear it forever. 
+
+
+
+
+ drooling sound 
+
+
+
+
+ My wife and I are waiting to get DT or Julius, once they are signed.  There are very few, "sure things" in football, but one thing that I want to see if DT playing a game with his mom in the stands - and I hope he does it in orange. 
+
+
+
+
+ They should get a Husky and call it, "Nymeria".
+
+Duh. 
+
+
+
+
+ Von Miller is a Pan-Dimensional being who has decided to grace us with his boring presence in this singular reality. 
+
+
+
+
+ Fucking *sickness*.  This southpaw rocks it up with Pot Roast, flips out, and then hugs one out with Miles.  I would have fucking died at that age.  I guess it woulda been Trevor Price (maybe Simon Fletcher) for me. 
+
+Nuts.  Good on ya, SouthPaw. 
+
+
+
+
+ Just to rustle some jimmies:  OJ Simpson still has a bust in Canton. 
+
+
+
+
+ My Mom and Dad were at that one, leaving me at home to swear and shout at the TV alone (uncommon for a 7th grader).  Get fucked, Belichick! 
+
+
+
+
+ how is it that I have never heard the term, "Lamestream Media" before now? 
+
+
+
+
+ I was at that game!!! (I was also at the game where Davis got over 2000, and the game where he went over 1000 at game 7).  Fuck you, Chiefs; fuck you, Seahawks.  TD4EVA!!! 
+
+
+
+
+ I hope it is earlier than old Floyd Little made it in.  We (the Denver Broncos franchise) could draw real attention to the issue by making damn sure that nobody who dresses in blue and orange ever wears #30 again.  I love David Bruton as much as the next savvy special teams fan (Keith Burns, what up!?!?!), but *come the fuck on*. 
+
+
+
+
+ YES!  I was not going to respond to my own post (obv).  Glad to see a civilized redditor.  Also, love your mustard bronco guy. 
+
+
+
+

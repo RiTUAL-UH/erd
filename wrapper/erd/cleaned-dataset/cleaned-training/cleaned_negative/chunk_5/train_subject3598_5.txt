@@ -1,0 +1,1151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The data is downloaded from Robert Margot (1993).
+
+In Excel, I plotted the official and the Michael Darby estimates from 1975 of unemployment in the USA in the 1930s. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Would have made chart too cluttered.  
+
+
+
+
+ The data was downloaded from the OECD family database. 
+
+In Excel, I plotted the percentage of workers who worked more than 50 hours per week for all countries that a member of the OECD except Turkey and Mexico. 
+
+
+
+
+ The data was downloaded from the OECD family database.
+
+In Excel first plotted the life expectancy and healthy life expectancy of women in a stacked bar chart. I then plotted the life expectancy and healthy life expectancy of men in a stacked bar chart. 
+
+
+
+
+ The data was downloaded from the OECD family database.
+
+In Excel, I plotted the tertiary education attainment rates of men and women aged 25 to 34 for Australia, New Zealand, Canada, Ireland, the USA and the UK. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+A marvellous discussions of the risks and rewards of symbolic action such as campaigning for fossil fuels disinvestment when it has an opportunity cost. 
+
+When you are campaigning for fossil fuels disinvestment you're taking time away from  campaigning for cap and trade and other options that really will make a difference. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+George Will makes an excellent case against capital punishment based on practical objections and the enormous resources wasted for little result. 
+
+
+
+
+ The data was downloaded from the OECD family database.
+
+In Excel, I plotted the gender wage gaps for full-time workers who were tertiary education graduates and those who did not go beyond high school. 
+
+
+
+
+ The data was downloaded from the OECD family database.
+
+I plotted the gender wage gaps for the bottom, top and middle deciles in Excel for Australia, New Zealand, the USA, the UK, Canada and Ireland.
+ 
+
+
+
+
+ I downloaded the data on gender wage gaps from the OECD family database for rural, New Zealand, Australia, Canada, United Kingdom, USA and Ireland. I then plotted that data for these Anglo-Saxon countries in Excel. 
+
+
+
+
+ I downloaded the working age population data from OECD Stat Extract; I downloaded the real GDP, PPP data from the conference board total database.
+
+I then in Excel, divided the working age population data of Britain and France with their real GDP, PPP from 1950 to 2013.
+
+In Excel, I then detrended the growth rates of real GDP, PPP per British and French by 1.9% to identify eras of the above than by the low average growth in these countries. 
+
+I then annotated the resulting chart with the classic descriptions of eras such as "never had it so good", "British disease" and Thatcheromics.
+ 
+
+
+
+
+ I did use the exact title. What gives+ 
+
+
+
+
+ I downloaded the data from the OECD Better Life Index. I then plotted it in Excel to see where New Zealand fitted into this chart 
+
+
+
+
+ I downloaded data on consumer prices and household energy prices from Statistics New Zealand Infoshare. 
+
+I then plotted that data in Excel in one chart starting from 1995 showing the ratios of household energy prices to the consumer price index. I then plotted both the consumer price index and household energy prices index in another chart in Excel starting in 1975. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+I don't live in America so I didn't realise how devastating it is to your life if you accidentally have your Social Security number deactivated 
+
+
+
+
+ I read the entire budget papers for the last eight New Zealand budgets to collate in Excel information on business subsidies, both in cash and in kind.
+
+I then plotted that data on corporate welfare in the finance, transport, economic development, science and innovation, communications, Primary Industries, and tourism portfolios in Excel. 
+
+
+
+
+ The data is downloaded from the OECD employment protection index.
+
+The OECD employment protection index for each OECD member was plotted in Excel both for individual dismissals and for collective dismissal to see among other things where New Zealand stands. 
+
+
+
+
+ I downloaded the data from OECD Focus on Minimum Wages after the crisis 2015.
+
+In Excel, I plotted data on how many weekly hours worked was required to be above the 50% poverty line for a single parent with two children working on the minimum wage Net of taxes and family benefits in Australia, New Zealand, the USA, UK, Ireland and Canada. 
+
+
+
+
+ The data is downloaded from OECD Focus on Minimum Wages after the crisis 2015.
+
+In Excel, I plotted the pay of a 5% minimum wage increase for a minimum wage worker who is a single parent of two children after deducting taxes and Social Security contributions and adding any family benefits in the tax and welfare system for Australia, New Zealand, Ireland, the UK, Canada and the USA. 
+
+
+
+
+ I downloaded the data from  OECD Focus on Minimum Wages after the crisis 2015.
+
+I plotted that data for the UK, Ireland, USA, Canada, Australia and New Zealand on after-tax pay in Excel. 
+
+
+
+
+ I downloaded the data from OECD Stat Extract. I then plotted that data for union density in Britain, France, Germany and Italy in Excel. 
+
+
+
+
+ When doing some research into the economics of natural disasters after the Christchurch earthquake, I looked up rent control and track down the famous pamphlet George Stigler and Milton Friedman in 1946.
+
+To my astonishment, it started with a discussion of the housing market in San Francisco after the 1906 earthquake and compared to its functioning to the housing market in the same city after World War II rent controls to see which coped better. 
+
+
+
+
+ I downloaded data from OECD Stat Extract on French, German and Italian unemployment rates since 1956 and plotted it on a chart in Excel. 
+
+
+
+
+ The data is from Jon Bakija, Adam Cole and Bradley T. Heim Jobs and Income Growth of Top Earners and the Causes of Changing Income Inequality:  Evidence from U.S. Tax Return Data.
+
+I tabulated in Excel the 1979 and 2005 shares of income by top 1% and top 0.1% occupations. 
+
+To present that data in a unique way, I sorted the 1979 in 2005 income shares by the occupations from the smallest to largest increase in income shares of the top 1% and top 0.1% between 1979 in 2005. 
+
+
+
+
+ The data on the composition of the incomes of the top 0.1% in the USA in Canada is from the world top incomes database.
+
+Firstly for the USA I plotted the shares of income coming from wages, salaries and  pensions or from entrepreneurial income in Excel. I then plotted a separate chart showing how much of the incomes of the top 0.1% in the USA came from dividends, interest and rents respectably.
+
+The same charts were then plotted in Excel for Canada of wages, salaries and pensions and entrepreneurial incomes and for dividends, interest and rents for the top 0.1%. 
+
+
+
+
+ Australian detrended growth barely changed in mining boom 
+
+
+
+
+ The data is from OECD StatExtract and the conference board total database. 
+
+I first calculated real GDP per working age Canadian, Australian and New Zealand PPP by dividing their real GDPs PPP by their working age populations from 1956 and then plotted that in Excel.
+
+Next, I detrended the three data series of growth in real GDP per working age Canadian, Australian and New Zealand by 1.9% from 1956 and plotted that in Excel.
+
+ 
+
+
+
+
+ The tax revenue data is from OECD StatExtract. In Excel, I plotted the tax revenues as a percentage of GDP for Australia, New Zealand, Canada and the USA from 1965. 
+
+
+
+
+ Didn't know that. Who defines this? 
+
+
+
+
+ The data is from OECD StatExtract. In Excel, I plotted the tax revenue data for Denmark, Sweden, Norway and Finland as a percentage of GDP from 1965 onwards. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+A nice summary of the view that colonisation made Africa worse off. P.T. Bauer had a different view 
+
+
+
+
+ SUBMISSION STATEMENT
+
+Kuran is an excellent writer always worth reading who has studied in depth the economics of history of the Middle East. 
+
+
+
+
+ The data was extracted from OECD Stat Extract. In Excel, I plotted the tax revenue to GDP ratios of France, Germany, the UK and USA from 1965 to 2013. 
+
+
+
+
+ The data is from the OECD family database. In Excel, I plotted the rates of non-employment and part-time employment of sole parents with their youngest children aged 3 to 5. 
+
+
+
+
+ SUBMISSION STATEMENT
+New research suggests that competent employees are assigned more workbut they don't always like it. 
+
+
+
+
+ The data is from OECD StatExtract. In Excel, I constructed separate data series for men and women by unemployment duration of a year or more for Australia, Canada, New Zealand, the USA and UK. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+Interest in analysis regarding the ability of terrorists to impose their will. I think terrorists get their way little more often than he says 
+
+
+
+
+ The data is from StatExtract. I extracted the data from 1960 onwards on trade union densities for Australia, New Zealand, the UK and the USA then plotted them in Excel to see what trends appeared. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+A nice discussion of the role of motivated reasoning in rejecting scientific findings.
+
+In modern politics, you don't give an inch so you reject the science because you don't like the economic solutions that would result even though you may have independent and valid reasons on economic grounds for rejecting the proposed solutions. It's a tactical mistake to concede anything in modern politics 
+
+
+
+
+ SUBMISSION STATEMENT
+Timely excerpt from the writings of John Stuart Mill on how abuse of power is more likely when government is trying to prevent crimes than when it is punishing it after the fact. 
+
+
+
+
+ The data is from OECD StatExtract. In Excel, I plotted minimum wages for Australia, New Zealand, the UK and USA as a percentage of both the mean and median wage of a full-time worker since 1960. The Australian data series does not quite run as far back as that while the UK did not have a minimum wage until the late 1990s. 
+
+
+
+
+ No data available 
+
+
+
+
+ No data in database. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+Urban progressives favor deregulationbut only for things they like or want to do. 
+
+
+
+
+ The data is from the OECD family database. In Excel, I plotted the employment rates of sole parents about children aged 6 to 14 by whether they are not employed or working part-time for OECD member countries that have this data available 
+
+
+
+
+ SUBMISSION STATEMENT 
+
+Excellent roundup of the economic literature and other relevant literatures on the impact of the decriminalisation of marijuana on the demand for marijuana 
+
+
+
+
+ The data was from the OECD family database. I collated and plotted the relevant data in Excel on the employment rates of sole parents who have children under the age of two who were either not working or working part-time 
+
+
+
+
+ In Excel, I calculated French and German real GDP as percentage of British real GDP PPP using data are from the Maddison database 
+
+
+
+
+ I used GDP data from the Maddison database to calculate US and Canadian real GDP per capita as a percentage of British GDP and plotted that all in Excel. 
+
+
+
+
+ I used data from the top incomes database to plot in Excel the top incomes shares in Australia for the top 10%, top 5%, top 1% and top 0.5%. 
+
+
+
+
+ In Excel, I used the Maddison Project database to calculate and plot real GDP per capita for the USA, UK and Canada from 1775. The Canadian data was rather incomplete prior to 1870. 
+
+
+
+
+ A you saying there is no raw gender gap? 
+
+
+
+
+ In Excel, I used real GDP purchasing power parity data from the Maddison database to plot per capita incomes in the UK, Australia and New Zealand since 1820. I then plotted three pairwise comparisons in Excel in separate charts to ease the burden on the eye. 
+
+
+
+
+ How do you know whether she did not work on minimum wage while at college? 
+
+
+
+
+ Medicaid and CHIPS in USA  
+
+
+
+
+ In Excel, I plotted the earnings of the top 10%, top 5%, top 1% on top 0.5% to see how much income In New Zealand they had to bring in a year to be in those income classes. The data was from the top incomes database 
+
+
+
+
+ 99% of robots agree see https://www.facebook.com/Robots4MinimumWage/photos/pb.1405786186396254.-2207520000.1431750997./1422236028084603/?type=3 src=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhphotos-xpf1%2Ft31.0-8%2F10986830_1422236028084603_1370941682188473176_o.jpg smallsrc=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fhphotos-xfa1%2Fv%2Ft1.0-9%2F11169885_1422236028084603_1370941682188473176_n.jpg%3Foh%3D1f0b54d05361577c33e3f077db5d7f5d%26oe%3D55D72C1F size=1224%2C816 fbid=1422236028084603 
+
+
+
+
+ In Excel, I first divided real GDP PPP from the conference board total economy database by the working age populations of the UK, Australia and New Zealand from the OECD StatExtract. I then detrended that data by 1.9% and plotted that separately in another chart using Excel 
+
+
+
+
+ SUBMISSION STATEMENT
+
+A nice roundup of empirical findings about the micro-finance literature 
+
+
+
+
+ I used the top incomes database to calculate and plot a chart of top 1% incomes for New Zealand, Australia and the USA with the latter two with the comparators 
+
+
+
+
+ I thought the argument that communism will become Stalinism has been won. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+A nice case the most effective antipoverty tool in the public policy kitbag in the latter half of the 20th century 
+
+
+
+
+ Quite true. I did put the link up as an example of bad economics in the popular press  breathless journalism 
+
+
+
+
+ There is plenty of gender wage gap data about but not so much for the gender wage gap with the presence of children.
+
+I therefore in Excel calculated the gender wage gap across all the OECD countries from the presence of children for women aged 25 to 44, using data from the OECD Closing the gender gap: Act now database So The motherhood penalty could be compared with other gender wage gaps. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+Nice little summary of the literature pointing out that women on low economic trajectories have children for quite rational reasons without getting married 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+Libertarians do attract a lot of comment and the Twitter Left is rather keen to label the right-wing opponents, as libertarians. This is despite the fact a lot of voters don't understand what a libertarian is.
+
+Indeed, back in the 1990s, most libertarian gatherings were so small that they would not need to book ahead at a restaurant to make sure they got a table.
+
+It is only recently that Milton Friedman became a respectable figure in policy circles. Indeed, at job interviews in the 1990s, if you mentioned Hayek's name, and there is any sign of name recognition, you would been interviewed by a very well read people. 
+
+
+
+
+ In Excel,  I used total hours worked data from the conference board database and then divided by the working age population is from OECD StatExtract 
+
+
+
+
+ That's the whole point of the op-ed: land prices may go up or down quite significantly. The outcome of analysis is thoroughly ambiguous 
+
+
+
+
+ SUBMISSION STATEMENT
+A reviw of Paul Offits new book that chronicles the destructive impact of the anti-vaccination movement. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+Nice little paper pointing out what should be obvious to everyone. Nonviolent protest can entice sympathy and support from the majority. Violent protests have the exact opposite effect, including a law and order backlash among voters.
+
+Roundabout way of saying that a Republican won the 1968 election on a law and order platform, not a Democrat on a peace platform.
+
+As I recall my warned over Marxism, is the idea of violent protests to exit provoked that backlash and the resulting repression cause the proletariat to see that capitalists for whom they are and rise up and overthrow them.
+ 
+
+
+
+
+ In Excel, I calculated real American Canadian GDP PPP per working age person using population data from OECD Stack Extract and real GDP data from the conference board, total database. I then detrended that data by 1.9%. 
+
+I also then included an Excel chart of tax revenues to GDP from both countries from the OECD databases. 
+
+
+
+
+ the Left discovered tax incidence theory 
+
+
+
+
+ dogs are used is ice breakers in many public situations  
+
+
+
+
+ Like LDP, UKIP wins protest votes. When they wins seats, and get into government, they lose votes fast.
+
+ A UKIP vote is a signal of a grumpy Tory parking their vote until there is policy change. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+A great little roundup of the case for deregulation of land supply and urban form 
+
+
+
+
+ Data on unemployment rates from OECD StatExtract were plotted in Excel to see what the Canadian and American unemployment rates looked like over the last 50 years 
+
+
+
+
+ I used data from OECD Stat Extract to construct the respective unemployment rates in Excel 
+
+
+
+
+ does not understand the division of labour and increasing returns to specialisation based on even tiny differences in comparative advantage 
+
+
+
+
+ But it applies the median voter theorem to key issue 
+
+
+
+
+ Median voter theorem 
+
+
+
+
+ I calculated real GDP PPP per working age British and Irish in Excel by dividing their working age populations from OECD StatExtract into real GDP data PPP from the conference board, total database.
+
+I then detrended these real GDP data series by their respective trend rates of growth: 1.9% for the UK and 3.6% for Ireland. 
+
+
+
+
+ SUBMISSION STATEMENT 
+
+Light penalties widely applied and serious penalties applied to a few can both deter unlawful behaviour. But in the case of riots, it is hard to prove wrongdoing and important to clear the streets. Arresting widely and temporarily can be more effective. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+Arrests for alleged violent crimes were involved in three of every four reported homicides by law enforcement personnel - a force-on-force situation, such as an intervention with an ongoing assault, robbery or murder  
+
+
+
+
+ SUBMISSION STATEMENT
+
+A nice little roundup of life before vaccines became available shortly before I was born when which means I was lucky 
+
+
+
+
+ In an historic building, it is normally impossible to change any of the exterior of the building. Routine repairs attract scrutiny and as for the chances of any renovation that changes the building, forget it 
+
+
+
+
+ In Excel, I first computed real GDP PPP per working age person for Portugal, Italy, Greece and Spain using working age population data from OECD StatExtract and the conference board, total database on real GDP levels PPP.
+
+I then detrended growth in the four countries by 1.9%. 
+
+
+
+
+ I used Excel to divide the working age populations of Italy, Germany and France into real GDP PPP since 1950. I then detrended those series by 1.9% to see when there was above and below trend growth.
+
+The working age population data was from OECD StatExtract; the real GDP PPP data was from the conference board, total database.
+ 
+
+
+
+
+ Is an opportunity to apply your own economic skills to what he is saying 
+
+
+
+
+ Thanks for these superb link. Christina Romer writes some really good stuff 
+
+
+
+
+ When I have time, I'll dig out an article written by Paul Krugman in 1998, making the exact same points as the American Enterprise Institute, but with a more detailed analysis of the fiscal politics. 
+
+
+
+
+ Using Excel, I first constructed real GDP per working age person using working age population data from OECD Statextract which was then divided into real GDP PPP data from the conference board, total database.
+
+I then detrended the real GDP growth data for Sweden, Britain and also the USA as a comparator by 1.9% using Excel to plot the data. 
+
+
+
+
+ I used Excel to plot data from my country and for the USA from a comprehensive international database at the Federal reserve bank of Dallas on housing prices.  
+
+
+
+
+ They have 5 seats. Could be the difference. 
+
+
+
+
+ You could be right. Wasn't that 600 million years ago? 
+
+
+
+
+ where? 
+
+
+
+
+ I used Excel and Open Office Draw to divide real GDP purchasing power parity for New Zealand, Switzerland and Australia from the conference board total database by their respective working age populations from OECD statextract.
+
+I compared New Zealand and Swiss GDP per working age person with that in Australia to show a normal economy as compared to two in long depressions.
+
+I then detrended real GDP purchasing power parity per working age New Zealander, Swiss and Australian by 1.9% to show that Swiss and New Zealand economies had deviated by 30% or more from trend between the 1973 and the early to mid-1990s. That is, both economies were in a great depression over those respective periods. 
+
+
+
+
+ The point of the article title written in Australian English is irony: after decades and decades of mass use and but one death and that is disputed apparently 
+
+
+
+
+ I reproduced a UK chart for New Zealand using Excel to analyse 2013 Census data to create several pie charts and a time series chart to show the extent to which a Generation Rent has emerged in New Zealand in the last 10 years.
+
+I then used the economist housing price index tool to create individualised charts to see how housing affordability had tracked the emergence of generation rent in New Zealand and Australia.  
+
+
+
+
+ SUBMISSION STATEMENT
+
+LBGT people probably are attracted to jobs that either:
+(a) require subtle interactional skills, which they have cultivated because they live in a hostile environment, or 
+(b) they seek jobs where they can work by themselves so they dont have to deal with hostility or constantly trying to stay submerged. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+Yet another excellent application of the Dunning Kruger effect. The notion that opinions are equal implies nobody is wrong and nobody is right 
+
+
+
+
+ In a disappointing omission by a newspaper that fancies itself was the newspaper of record for America, the New York Times article did not mention that teenage girls simply are much better at reading in PISA tests than teenage boys and therefore will make different career choices to men because they want to take advantage of their full mix of skills 
+
+
+
+
+ Maybe you do not understand the larconic tone of the Australian English title 
+
+
+
+
+ What do you mean? 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+A wonderful collection of data and surrounding discussions that shows how rapid social change can be. People think nothing ever changes, but the article shows things can change and change rapidly. 
+
+
+
+
+ None of the British reporting I have seen, such as in the Guardian point to examples where rent controls are kept rents down without supply falling short of demand. 
+
+
+
+
+ The offsetting behaviour effect found by the study reported in this post is simply brilliant 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+A relatively impartial and balanced roundup of presidential deceptions over the last 60 years and their consequences. Well worth reading, especially if you're a political junkie. 
+
+
+
+
+ I thought the recent elections weren't too bad in that there were actually some issues in the election that were not sectarian. 
+
+I'm told water pricing was a big issue in a recent election. That was big achievement because it wasn't a sectarian issue 
+
+
+
+
+ Russia is going through the same sort of process with Stalin. They either love him or hate him.
+
+The blogger linked from is fascinated with dictators and is very good at explaining things such as cults of personality and why dictators can be personally popular despite the rest of their administration been extremely unpopular with ordinary people.
+
+Abandon footnotes is one of the best blogs I have come across in the last few months 
+
+
+
+
+ Thanks. The particular blog the link came from, which is based across town from me seems to be fascinated with Spanish history and politics, particularly anything to do with dictators.
+
+Last time I put a link on history sub Reddit it was deleted because I didn't include a comment summarising the link. Not easy to put in a comment when you're operating off the mobile phone or tablet rather than your desktop. 
+
+
+
+
+ Monopsony is a bit overrated in my view particularly for unskilled workers who can actually move into a lot more jobs than I can as a University graduate 
+
+
+
+
+ I used Excel to deduct the usual 1.5% bias because of new goods, quality variation and the like from the consumer price index inflation rates of Germany, France and the UK. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+A nice little roundup of the constitutional protections of the rights of parents vis-a-vis their children over the years in the Supreme Court 
+
+
+
+
+ All agree that the consumer price index (CPI) is biased and overstates inflation. In 1996, economists hired by the Senate Finance Committee estimated that the U.S. CPI overstates annual inflation by 1.1% (Boskin et al. 1996). That estimated CPI bias has not gotten smaller with time. It is now up to 1.5%, even 2%.
+
+I thought I might see what happened if I I used Excel two take account of this one and a half percentage point annual bias because of new goods, quality variation and other known biases in the CPI estimates for the USA, UK and Japan in the relevant OECD StatExtract database for annual CPI inflation.
+ 
+
+
+
+
+ In addition to the 20% of College males will have an off-campus girlfriend one or two years younger, you must remember Seinfeld's law: 20% of the population are undateable.
+
+As a college bound young woman is most likely quite datable, they will suffer in particular from Seinfeld's law cutting 20% off pool of college-age boys. 
+
+
+
+
+ I use Excel to chart the Cara McDaniel database for the average tax rate on labour income and capital income, the average tax rate on consumption expenditure and investment expenditures and Social Security contributions for the United States, Canada and then the UK, all calculations from 1950.
+
+I then use Excel to calculate real GDP per working age American, Canadian and British by taking working age population data from OECD StatExtract and dividing it by real GDP purchasing power parity data from the conference board, total database from 1950. 
+
+
+
+
+ The average tax rates on consumption, investment, labour and capital for Australia and New Zealand are constructed in Excel from a database developed by Carla McDaniel from her Ph.D.
+
+These trends in average tax rates for Australia and New Zealand are then compared with the performance of their economies with an Excel chart constructed from working age population data in OECD StatExtract and real GDP PPP data from Conference Board Total Database, January 2014.  
+
+
+
+
+ Using Excel, I compare data on annual hours worked per engaged person tweeted by Max Roser with an annual hours worked per working age person series with the USA, Germany, West Germany and France.
+
+I constructed this series with Excel using working age population data from OECD StatExtract and total hours worked data from the conference board total database. These series started in 1950 or 1956.
+
+I then used Excel to construct average tax rates on labour income from Cara McDaniel's website to calculate average tax rates on labour incomes in the USA, Germany and France since 1950 to explore reasons for the differences between the Max Roser tweet data and mine.
+ 
+
+
+
+
+ The working age population data is from OECD StatsExtract. Excel is then used to divide that into  real GDP PPP data from the conference board, total economy database, which is then detrended at 1.9% per year for both economies. 
+
+
+
+
+ SUBMISSION STATEMENT.
+
+With the exception of Israel, the Middle East allies of the United States are the type of friends that make you prefer your enemies. Indeed, in Syria, apart from the Kurds, very hard to find anyone you want to line up with.  
+
+
+
+
+ Homeopathy has been part of the NHS since its foundation. There was even a homoepathic Hospital, which I think closed recently 
+
+
+
+
+ Detrended with Excel using data from the OECD StatsExtract and from the Conference Board Total database using trend growth rates frequently employed by Edward Prescott and his writings on Japan and USA respectively. 
+
+
+
+
+ Yes, a great list of yours 
+
+
+
+
+ Base 100, 2005 
+
+
+
+
+ This was graphed with Excel from the Dallas Fed's international housing price database 
+
+
+
+
+ yes 
+
+
+
+
+ Goods and services tax. The other name for the value added tax VAT 
+
+
+
+
+ Graphed from OECD tax databases using excel.  
+
+
+
+
+ Graphed from OECD tax data bases 
+
+
+
+
+ Those neoliberal tax reforms saved the welfare state. 
+
+
+
+
+ SUBMISSION STATEMENT
+
+When Brennan said at a tax reform conference in Australia over 20 years ago that efficient taxes and tax reforms are both bad because they lead to higher taxes and a larger government, no one understood him.
+
+Idealists all, the audience, including me, assumed they were advising a benevolent government, not a revenue-maximising leviathan government  a beast that needed to be staved with constitutional constraints on the number and size of tax bases and tax instruments.
+
+Fiscal arrangements were analysed by Buchanan and Brennan in The Power to Tax in terms of the preferences of citizen-taxpayers who are permitted at some constitutional level of choice to select the fiscal institutions they are to be subject to over an uncertain future.
+
+Those in elected office are assumed to exploit the powers assigned to them to the maximum possible extent: government is a revenue-maximising leviathan.
+
+Buchanan and Brennan were all for inefficient tax systems because they do not raise as much revenue. A government that cannot raise much revenue cannot grow very large.
+
+It was a number of years before I came to agree with Brennan and Buchanan. I had to break out of my applied welfare economics thinking and move over to constitutional political economy.
+
+Tax reform saved the late 20th century welfare state by raising the same or more revenue with less taxpayer resistance. 
+
+
+
+

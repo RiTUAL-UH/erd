@@ -1,0 +1,730 @@
+ As well, once you get a bit of gunpowder, you can duplicate it via Alchemic Chemistry with blood, or hand in the repeatable quest "Covered in Ash" 
+
+
+
+
+ Yup. ME^3 's gonna win. GG, m8. 
+
+
+
+
+ Running Red is about being dead. 
+
+
+
+
+ And really, m8? Parcel gets a flair, and I don't?
+
+I see how it is .
+
+:P 
+
+
+
+
+ I'm in Party Mode
+
+\o\
+/o/
+\o\
+/o/
+\o\
+/o/
+\o/ 
+
+
+
+
+ And yes, these are HQM maps. 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Says the person who loved it prior to being banned. 
+
+
+
+
+ Why is your name VikeStep? 
+
+
+
+
+ It's all good! \o/ 
+
+
+
+
+ m8, not trying to be rude or anything. Your explanation was very good, I was just pointing out some stuff you missed. No need to yell at me 
+
+
+
+
+ I also think the story deserves some focus, as much of it revolves around it. The player is dead, and has to cope with being dead. It takes place between life and whatever happens after. Very light and cheery, right? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ :O
+There's a mods section on the MC wiki? :OOOOOOOOO 
+
+
+
+
+ /r/PCMasterRace 
+
+
+
+
+ \o/ Amazing!
+Suggestion: I don't know if you've done this, but you are able to disable Mystcraft Instability per-age. There's an in-game command to do it. 
+
+
+
+
+ First, put a Fluid Transition Plane next to the lava to soak up the liquids, like Cypher said.
+Then, if you want, you can have the AE network output a certain signal when it's grabbed enough Lava. Have it output to the Master Ritual Stone, and bam! It will only consume a certain amount of lava before turning the ritual off. 
+
+
+
+
+
+
+
+
+
+ You're amazing at everything, it appears :P 
+
+
+
+
+ Yes, I'll get that out in a few updates. It has the compass texture because I can't texture :P
+I've gotten permission to use other textures in an upcoming update, so don't worry! :D 
+
+
+
+
+ Yeah I waited until I had a Igneus Extruder going to make Compressed Cobblestone for my farm 
+
+
+
+
+ I'm doing Blood Magic/Botania, probs Mekanism/Thermal Expansion. Also the big "everything centered around Blood Magic" one, AKA Running Red. 
+
+
+
+
+
+
+
+
+
+ Personally, I prefer to play Demoman. 
+
+
+
+
+ http://youtu.be/CmNuQf_L-3A
+
+This video shows off the new gamemode I created. All it is is a simple config file that the server downloads, and executes, allowing for anyone connected to play in a Zombie Apocalypse, without any download required by the client.
+
+From "About.txt":
+"The game is a four player co-op match where you attempt to complete the original objective of the map. In Upward, you push the cart, in Process, you capture the 3 control points, in King, you try to capture the control point and survive for 3 minutes. Unfortunately, in Apocalypse Rising, the players are hindered by zombies. These zombies spawn in groups of 6, every 20 seconds. Not only that, but each player only has one life per match, adding to the overall difficulty. [There are 3 maps that have support included in this, Upward, Kong King, and Process, all of which represent a different difficulty. Included in the readme file are instructions for adding compatibility to new maps.]
+
+Apocalypse Rising was created in order to give clients a fun, easy way to play TF2 as a zombie game. The policy I had when making this was that I wanted there to be absolutely no download on the client's end, and that policy has held up until the end.
+
+I'll take a moment here to say that Apocalypse Rising is completely open source, just read the configs to see what's happening, and feel free to change or add stuff to it.. Maybe I'll even make a video on that."
+
+Download: https://www.dropbox.com/s/rrapzh7yfaywytq/Apocalypse%20Rising.zip
+
+Thank you for looking at this. -Gideon Seymour 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Immediately after the announcement, I tried to feel sad that I didn't win. And I tried. But I couldn't feel sad. There was no reason to (aside from the lack of communication between the hosts and participants). I would have made Running Red anyway, I'd had the idea for a while, but this competition just gave me a reason not to procrastinate. It wasn't about winning. It was about making a good pack. And I feel I have done that. I've made a pack that sends a message, and is unique, which is something that rarely happens these days. I've accomplished my goal, and gone far above it. Running Red got listed, which is something I've only dreamed of. @PurpleMentat , who has always been one of my favorite Youtubers, did a series on my pack. Plus, I tied what is currently the most popular modpack. I consider that to be a huge achievement. I'm happy to have been part of this competition. It wasn't about winning. It was about sending a message. And you know what, I accomplished my goal.
+
+Thank you for all that you've done, and congratulations to Parcel. 
+
+
+
+
+ It (once I finish the story) will have a great impact if you choose to kill the cows and chickens. 
+
+
+
+
+ I'll look into that 
+
+
+
+
+ Forge version 1217 
+
+
+
+
+ The biggest similarity is that is uses HQM.
+Public Pack Code. 
+
+
+
+
+ Sometime in the next 72 hours, and playing the first will not affect the second. Completely different experiences. 
+
+
+
+
+ Yes. 
+
+
+
+
+ The pack team hasn't put it on the launcher quite yet. There's a download available here:
+https://www.dropbox.com/s/j6u0kljn6mni96e/RR2VMRC1.zip?dl=0 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * ArmorStatusHUD
+* DirectionHUD
+* StatusEffectHuD
+* Technomancy
+* Mine   Blade Battlegear II
+* Applied Energistics II
+* Blood Magic
+* BloodUtils
+* Carpenter's Blocks
+* CharacterOnGUI
+* CodeChickenCore
+* Deadly World
+* EnderIO
+* EnderStorage
+* Forestry
+* Hardcore Questing Mode
+* Inventory Tweaks
+* Mantle
+* Minetweaker
+* MobDrops
+* Mob Properties
+* Natural Absorption
+* NEI Addons
+* NEI Plugins
+* NEI
+* OpenBlocks
+* OpenEye
+* OpenModsLib
+* OresPlus
+* Railcraft
+* Sanguinomancy
+* Special Mobs
+* Spice of Life
+* Steve's Factory Manager
+* Tinker's Construct
+* Vampire Money
+* WAILA
+* WAILA Harvestability
+* WAWLA
+* WaslieCore
+* What's This Pack?
+* Witchery
+* CreepersFire
+* WorldOptions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's also a recipe. 
+
+
+
+
+ Crashlog? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ \o/
+
+Amazing. 
+
+
+
+
+ I had this dream that the results were leaked to Panda and then we grilled him for information. He didn't say anything, and then the results were released.
+
+You won, because you had a Mini-Me of Slowpoke101. Slowpoke said in the dream post that there was no other reason.
+
+It was the worst nightmare ever. 
+
+
+
+
+ You wish. 
+
+
+
+
+ It's LOL. Apparantly it originated on 4chan. I blame ThatOneSlowking for it. 
+
+
+
+
+ top kek 
+
+
+
+
+ top kek. 
+
+
+
+
+ I like parties. 
+
+
+
+
+ You need slabs on all the sides, and then you can water them with a Watering Can to speed up the growth drastically. 
+
+
+
+
+ I make Running Red. I just want to be First ^ ^ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not too late to add it.... ;) 
+
+
+
+
+ Running Red spatial cell coming right up 
+
+
+
+
+
+
+
+
+
+ You could try Running Red 2: Vampire money [here](http://forum.feed-the-beast.com/threads/1-7-10-beta-running-red-2-vampire-money-chapter-one-hardcore-magic-rpg.51957/). It's a hardcore pack based around combat. And other fun stuff. 
+
+
+
+
+ :3 
+
+
+
+
+ It appears so. I'm working on a fix 
+
+
+
+
+ Running Red?
+
+#shamelessplug 
+
+
+
+
+ And yeah. If you didn't see what trajing said, the release is now available on the launcher 
+
+
+
+
+
+
+
+
+
+ What version of BM are you using? 
+
+
+
+
+ Here, I'll give a few more, as people haven't found these:
+
+* Energy Cube from Mekanism (Mechanized)
+* Die 64 times (We're Not Working Out)
+* Something involving Milk. I can't remember what, exactly (Running White) 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Explosions. 
+
+
+
+
+ The guy who says that he is you.
+
+GG m8. 
+
+
+
+
+ http://gideonseymour.blogspot.com/2014/09/in-response-to-this-httpthewatcher-blog.html
+
+All there. 
+
+
+
+
+ Despite the fact that you told me this was your account several times on IRC. 
+
+
+
+
+ Bloody hell, RealSketch.
+
+You have some sources for that conclusion? 
+
+
+
+
+ I use Unity by CyanideX, as even things that aren't textured yet blend in well with the theme 
+
+
+
+
+ There's one being developed here:
+http://forum.feed-the-beast.com/threads/1-7-10-hqm-hardcore-the-butterflutter-0-0-1.51296/ 
+
+
+
+
+ The pull request is being merged, which does several things, but the most important being the move from the BC API to the RF API 
+
+
+
+
+
+
+
+
+
+ And adding in the Lifesteal effect. Normal Golden apples will not be craftable, and Ghasts won't drop tears*. The only non-violent way to get health regen is via Notch Apples.
+
+*Air Sigils 'n all the things that use the tears as components will have altered recipes. 
+
+
+
+
+ If you can get it 
+
+
+
+
+ It's a custom potion effect designed by Strikingwolf that gives health regeneration when you damage things, AKA drinking their blood. You get the effect thanks to Lore Expansion, which awards you the effect when you get the appropriate piece of lore, AKA your level of vampirism 
+
+
+
+
+
+
+
+
+
+ Pretty much. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aha. I see what you did there. 
+
+
+
+
+ And in EnderIO you can upgrade your machines with new Capacitors as you go. You can also upgrade your armour and conduits. 
+
+
+
+
+ Not sure what he's looking for in a point. Unless you've got a quest book, Minecraft is a game where you do whatever you want. It's sandbox for a reason. If he truly wanted a point, he could use HQM or play another game.
+
+And it's not like TiC has more of a point than EIO.
+
+What could have happened:
+ someone (~chatzilla@2001:558:6025:b:61a6:66e3:ae28:196a) has joined #TinkersConstruct
+
+"I've made a Pickaxe. What am I supposed to make next?"
+
+"Tell me there's something to make next. I will be severely disappointed if there isn't."
+
+"I'm looking for progression or something to do other than 'hurr move dirt and stone around'"
+
+"I'm looking for a goal or task that the mod wants me to perform."
+
+"The mod has content with absolutely no direction or purpose on its own?"
+
+It's a sandbox game. It's not meant to have a goal. 
+
+
+
+
+ I always ask this :P 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ For the armour, it only blocks 90% of damage now, if you have the required blood. However, using Soul Harden, you can get it back to 100%.
+But it was buffed at the same time. Now it has more protection against Piercing and other negative effects like Wither. 
+
+
+
+
+ /u/SatanGives ?
+
+(/me hopes that's the right way to do it on Reddit) 
+
+
+
+
+
+
+
+
+
+ This is my base on a slightly modified PhoenixCraft II. I think it's pretty good, but I need some help figuring out what to do. I give descriptions and stuff on the album's page. I'm usually not one for aesthetic builds, so this is a little new to me. 
+
+
+
+
+
+
+
+
+
+ Not sure how up to date this is, but there's this: http://forum.feed-the-beast.com/threads/cofh-world-generation-users-manual.48678/ 
+
+
+
+
+ Sweet! 
+
+
+
+
+ Everyone's favorite Blood Magic Dev [WayofTime](https://www.youtube.com/user/WayofFlowingTime) has been playing Bevo's Tech Pack for 1.7.10. 
+
+
+
+
+ It's filling the internal buffer. If anyone were to use "I'm Looking at Blood" (an addon for WAILA), or take out the Vanilla Sigil of Sight, they'd see that it is filling the internal buffer. 
+
+The Internal Buffer itself holds 10% of the Altar's max capacity, so for a non-upgraded Blood Altar, it would drain about 1000 blood. Subsequent upgrades (E.X. Runes of Augmented Capacity) will increase that, and Runes of Dislocation will increase the speed at which it fills/empties. 
+
+
+
+
+ This guy explained it well:
+http://www.reddit.com/r/feedthebeast/comments/2jnu9f/i_havent_played_minecraft_in_a_year_and_a_half/cldkhgj 
+
+
+
+
+ I know how to use Lockdown, m8. But until the feature is added that allows for one to specify the spawn dimension, you can use PerfectSpawn to specify it.
+
+As of right now, Lockdown and PerfectSpawn do different things, as Lockdown generates the same world, and PerfectSpawn specifies an exact spot for people to spawn at. 
+
+
+
+
+ You can use PerfectSpawn for that 
+
+
+
+
+ ...Blood Magic 
+
+
+
+
+ Adding to this.
+
+For even more guidance on mods that aren't in Monster, [Material Energy^3](http://forum.feed-the-beast.com/threads/1-6-4-material-energy-3-jampacked-hqm-ctm-beta.48913/) appears to be popular, as well as [Running Red](http://forum.feed-the-beast.com/threads/1-6-4-running-red-v1-1-4-jam-packed-hardcore-magic-rpg-good-as-crash-landing.47464/) (#Shamelessplug).
+
+Running Red is focused around telling a story (and a fun mod called [Blood Magic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0-updated-oct-13)), and may have a theme a little too dark for some people. It tied with Crash Landing in second for the Jam-Packed competition, which makes it just as popular. Right? .
+
+ME^3 is focused around conquering dungeons in an amazing CTM style experience, having you collect trophies, complete quests, and complete the Periodic Table. It's a very fun and popular experience. It won first place in Jam-Packed, and I really recommend checking it out. 
+
+
+
+
+ I was about to ask why there wasn't a "No" answer. Then I realised. 
+
+
+
+
+ inb4 you crash into another planet 
+
+
+
+
+ Deadly World 
+
+
+
+
+ Well, this is vanilla. But if you happen to head underground, and see a cobble version... Silverfish nest! \o/ 
+
+
+
+
+ I'm testing a new release right now. It's *mostly* bugfixes, as it's been hard to add new content while working on three packs. Recently I've been requested to update PhoenixCraft II, and as well, I need to get that one update out for Running Red.
+
+Once I finish all those, I'll start on adding new content. I have some things in mind.... ;) 
+
+
+
+
+ I imagine like with Crash Landing, where they'll have points taken off 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

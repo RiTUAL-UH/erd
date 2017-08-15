@@ -1,0 +1,195 @@
+ Can anyone confirm this? edit: just tried it, and no saves were wiped. I first changed the date to April 18th, saved, quit game, changed to April 19th, game ran fine. I turn off my internet connection before playing, maybe it has something to do with it, idk. 
+
+
+
+
+ Now that was an interesting read. I was part of the ones who thought RLD was the afterlife of DEViANCE. Guess not. Also, interesting how scene drama has barely changed, even compared to the old days. It always consists in bitching about other group's cracking methods, and how they're stealing something from someone. Also, Hoodlum.VS.Reloaded-Bitch-Session-**JEW**   lol. 
+
+
+
+
+ I usually just use scenenotice.org to find PCISO scenedrama, but damn, browsing the archive and there are so many "unsecure"/"pay2leech" scenenotices. 
+
+Oh and also found this on pre.corrupt.net: **ColdIce.and.ZiruX.are.idiots.on.3fn3t-UNPACKME** . It's funny that in #razor on Efnet (Razor demo division) I think  he was actually there, under Zer0x or something, can't remember for sure. That was pre'd in 2006, and I saw him there last year. 
+
+
+
+
+ Topsites have users who can access stuff. Interesting btw: **ColdIce.RELOADED.and.ZiruX.RAZOR1911.are.selling.leech.slots-PURGEPLZ**   
+I guess you must know the right people. 
+
+
+
+
+ Wow. Topsites are shiny. Had never seen a screenshot of one before, so thanks.  
+
+
+
+
+ 3DM already commented on it, RELOADED might be on it... browse this subreddit for more info. Enough of these threads. 
+
+
+
+
+ Indeed. RELOADED's on it. Interestingly, there's another folder called "carmageddon reincarnation", which is a game currently on early access, being fully released on [april 23rd](https://en.wikipedia.org/wiki/Carmageddon:_Reincarnation). WTF, RLD? Do they intend to release that too? 
+
+
+
+
+ 2nd post the guy made. 
+
+
+
+
+ I think it's real! Some dude in CS.RIN.RU posted it: http://cs.rin.ru/forum/viewtopic.php?f=10 t=65537 start=330     check JoeM's 2nd post
+I don't wanna steal the spotlight from you, so can you make a thread with something like "RLD working on GTA V?"? 
+
+
+
+
+ So the first "crack" we'll see is probably gonna be a loader.  
+
+
+
+
+ It's unlikely Razor1911 will do it, but would be amazing if so.  
+
+
+
+
+ simple google search... **Trainz.Simulator.12.Nfo.Fix-SKIDROW** 
+
+
+
+
+ no x64 support :( 
+
+
+
+
+ Yeah, I saw that, credits to Nervadox. 
+
+
+
+
+ RELOADED's. 
+
+
+
+
+ LOL so much hype :/ 
+
+
+
+
+ Hey, I didn't feel like loading the .exe into IDA and taking a screenshot, I just googled "interactive disassembler"  and chose a random pic :) 
+
+
+
+
+ RemindMe! 1 week 
+
+
+
+
+ True, even games that are only steam protected can take a day or two. 
+
+
+
+
+ Do explain. 
+
+
+
+
+
+
+
+
+
+ When this is pre'd I'll start jumping and screaming of happiness. And make a megathread, probably :) 
+
+
+
+
+ Nuuvem, I heard. And it doesn't seem to be region locked. You'll need a proxy/vpn to do it, though. 
+
+
+
+
+ Hang in there. Reversers are probably used to hw checks. It will certainly take a bit more time to reverse this one since it should be new, and then needs testing to make sure it works, but still... let's hope for the best.  
+
+
+
+
+ Ok so I suppose this was expected, but the good news is that, according, to kevinyang225@3DM: 
+ We find that R* use some machine info check to protect GTA5,just like Denuvo did in Dragon Age Inquisition.
+ But i think Denuvo is still much harder to be cracked than RGSC.
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+ They're actually using the Razor1911 logo in one of their stores, check the last one in http://www.razor1911.es/DondeEstamos.aspx 
+
+
+
+
+
+
+
+
+
+ Seems legit. 
+
+
+
+
+ Why are you idiots downvoting this? Several groups in that pic, like ViTALiTY, Hi2U, TiNYiSO, FLT are either inactive, hardly ever (or never) release any AAA game or only crack Steam and such. Only way we'll have so many groups trying to reverse GTA V is if the protection isn't too complex. 
+
+
+
+
+ Haha, if only that were true. Well, maybe it is, if the protection isn't too tricky :) 
+
+
+
+
+ It's working now!
+edit: lol i'm retarded I clicked the picture in the original post 
+
+
+
+
+ Not sure about the rest, but /u/adrianokay seems legit to me. Chatted with him yesterday in a chatroom link posted a couple days ago, and his posts make it look like he's actually making an effort to find out stuff. 
+
+
+
+
+ The two panels are stuck in "Loading, please wait...", maybe it's a temporary issue. Still, it looks awesome! Maybe add [trace.corrupt-net.org](http://trace.corrupt-net.org/) so we know when it gets uploaded to trackers? :) 
+
+
+
+
+ The chat was actually fun yesterday. Hopefully it's gonna stay active so we can all party when the crack is released :) 
+
+
+
+
+ rly glorious, should i x-post to /r/pcmasterrace? 
+
+
+
+
+ dont know y ppl r downvoting, fully workz 4 me 
+
+
+
+

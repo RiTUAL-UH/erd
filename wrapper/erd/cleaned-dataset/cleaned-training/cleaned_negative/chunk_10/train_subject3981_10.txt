@@ -1,0 +1,1137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Another reason why government backdoors are downright dangerous and make us all *less safe*.
+
+I'd rather the possibility for hackers (or competent spy agencies) to hack into my car and kill me *didn't exist* over the odd chance that the police would have it *easier* to end a car chase. 
+
+
+
+
+ Seems like the benefits are *minor* over a potential catastrophe (getting killed through hacking).
+
+I think I can live without my radio automatically becoming louder at high-speed. *Live* being the operative word here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Costly move either way. 
+
+
+
+
+ Nope:
+
+ Microsoft sold 8.4 million Lumia phones in Q4 (compared to 5.8 million last year), but revenue dropped 38 percent to $748 million.
+
+ The net loss in Q4 amounted to $3.2 billion, which Bloomberg reports is its biggest loss ever. 
+
+The writedown was most likely done now to *hide* that there were other losses as well, especially when people like you keep hand-waving and saying "oh, it's just the Nokia writedown, nothing to see here".
+
+My guess is that's exactly the reaction Microsoft counted on, to hide their *other* $1 billion losses this quarter. 
+
+Just to be clear **only the $2.1 billion were from the writedown**, not the rest to 3.2 billion. 
+
+
+
+
+ Did you even read the article?
+
+ but revenue dropped 38 percent to $748 million.
+
+ The net loss in Q4 amounted to $3.2 billion, which Bloomberg reports is its biggest loss ever. 
+
+So no, this is not "all due to the Nokia write off".
+ 
+
+
+
+
+ Well no. If Microsoft had a $8 billion write off then the stock price *should* become lower and account for that failure, just like when Microsoft bought Nokia the stock price likely increased due to the optimism that Microsoft might start to do well in mobile. That didn't happen, so the price needs to come down now. 
+
+
+
+
+ Turned it around how? 
+
+
+
+
+ I'll believe it when I see it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's not that much unlike Android.
+
+There's Samsung's "Android", HTC's "Android", and so on. Then there is Android TV, Android Wear, Android Auto...etc.
+
+So it's not just "one OS" with a single interface. Linux is a "core" on top of which many "OS's" are built. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's only going to get worse with self-driving cars or normal cars with self-driving features. 
+
+
+
+
+
+
+
+
+
+ It's going to be even worse for self-driving cars. Once they are hacked...your life is in the hands of the hacker. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, by "accident". Keep telling yourself that. 
+
+
+
+
+ Which is probably what the "final" version of Windows 10 should've been. Every clue so far pointed to the fact that Microsoft is *rushing* Windows 10 to "meet the deadline" or whatever. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  but you don't have a net reduction of jobs.
+
+What if it's eating mostly physical-work type jobs and those jobs are being replaced by more white-collar type work? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Current spec, which will probably change:
+
+https://password-hashing.net/submissions/specs/Argon-v2.pdf
+
+From page 4:
+
+ Our solutions. We offer two new hashing scheme called Argon and Argon2. Argon is our original
+submission to PHC. It is a multipurpose hash function, that is optimized for highest resilience against
+tradeoff attacks, so that any, even small memory reduction would lead to significant time and computational
+penalties. Argon can be used for password hashing, key derivation, or any other memory-hard
+computation (e.g., for **cryptocurrencies**).
+
+ Argon2 summarizes the state of the art in the design of memory-hard functions. It is a streamlined
+and simple design. It aims at the highest memory filling rate and effective use of multiple computing
+units, while still providing defense against tradeoff attacks. Argon2 is optimized for the x86 architecture
+and exploits the cache and memory organization of the recent Intel and AMD processors. Argon2 has
+two variants: Argon2d and Argon2i. Argon2d is faster and uses data-depending memory access, which
+makes it suitable for cryptocurrencies and applications with no threats from side-channel timing attacks.
+Argon2i uses data-independent memory access, which is preferred for password hashing and passwordbased
+key derivation. Argon2i is slower as it makes more passes over the memory to protect from tradeoff
+attacks.
+
+ We recommend Argon for the applications that aim for the highest tradeoff resilience and want
+to guarantee prohibitive time and computational penalties on any memory-reducing implementation.
+According to our cryptanalytic algorithms, an attempt to use half of the requested memory (for instance,
+64 MB instead of 128 MB) results in the speed penalty factor of 140 and in the penalty 218. The penalty
+grows exponentially as the available memory decreases, which effectively prohibits the adversary to use
+any smaller amount of memory. Such high computational penalties are a unique feature of Argon.
+We recommend Argon2 for the applications that aim for high performance. Both versions of Argon2
+allow to fill 1 GB of RAM in a fraction of second, and smaller amounts even faster. It scales easily to
+the arbitrary number of parallel computing units. Its design is also optimized for clarity to ease analysis
+and implementation.
+
+EDIT: Another interesting tidbit:
+
+ Argon2 is heavily optimized for the x86 architecture, so that implementing it
+on dedicated cracking hardware should be neither cheaper nor faster. Even
+specialized ASICs would require significant area and would not allow reduction
+in the time-area product.
+
+It's also resistant to GPUs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well the EU did just gave them 7 billion euro. 
+
+
+
+
+ It's part of the *Keep The Fear Alive* plan. It's why the FBI keeps manufacturing terror plots in the US to say they caught new terrorists once or twice year. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That's because Facebook is spyware. 
+
+
+
+
+ I can't believe even the Note 5 won't get USB Type-C, and I was already disappointed that the S6 didn't have it.
+
+This makes it a deal-breaker for me. 
+
+
+
+
+ Because clearly online pirates are more dangerous than rapists and need to be locked away from the society. 
+
+
+
+
+ ...for the government. How else could we spy on everything everyone does all the time (including tracking their phone GPS through the Internet?) 
+
+
+
+
+ By the time governments will be convinced to build thorium reactors, we'll have fusion reactors. They just don't see it as a *major* improvement over the current fission reactors, and the current fission reactors are a "known", and most people tend to go with what they know - *unless* the alternative offers a radical improvement, such as fusion reactors would, and be even safer than thorium fission reactors.
+
+Plus, energy from solar and wind is already *half* the price of *new* nuclear reactors. So there isn't much interest to build new fission nuclear reactors right now anyway (nor should it be - at least 80% of the world's electricity should be provided by wind/solar/batteries). 
+
+
+
+
+ Indeed it's a very backwards thinking argument. The point of fines is *primarily* to *punish* those that break the law and make the traffic situation more dangerous to others. It's not to just be another tax.
+
+If self-driving cars *completely remove* that danger from traffic, then of course the purpose of fines is gone and shouldn't exist anymore. 
+
+
+
+
+ OEMs definitely need to move to a default of 64GB of storage ASAP for flagships. It probably costs them like $0.3 per GB to buy it by now. That would be $20 for it, so it shouldn't cost them more than $50 from the retail price. That also means if a phone comes with 64GB default, they shouldn't charge you $100 more for 128GB, but only $50. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Which makes it interesting that the Republicans aren't the ones calling for its abolition.  
+
+
+
+
+ So all of those Sony hacks from before (which Lulzsec bragged about)...were FBI's work?
+
+The hacks against the Arizona police department and other such hacks from the, also FBI?
+
+It actually wouldn't surprise me too much if they created digital false flag attacks in order to pass new surveillance laws, considering they're already [manufacturing terror plots](http://www.motherjones.com/politics/2013/01/terror-factory-fbi-trevor-aaronson-book). 
+
+False flag cyber attacks kind of seem like a step down from that, if they're going to risk giving people with mental issues access to bombs so they can say they caught another terrorist later. 
+
+
+
+
+ You don't think malware is being sent in email to intelligence or law enforcement workers? 
+
+
+
+
+ Something about 50% of all the *new* cars being bought will be EVs, with 20-30% of the *existing* cars in traffic being EVs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Interestingly enough, after Google already tried to block it over "malware":
+
+https://torrentfreak.com/chrome-blocks-major-torrent-sites-over-harmful-programs-150710/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This seems to have happened after Google recently blocked it for malware (and then unblocked after backlash).
+
+https://torrentfreak.com/chrome-blocks-major-torrent-sites-over-harmful-programs-150710/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Work taxes should be cut first before VAT anyway. The VAT was already cut by a whopping 15% for food and 2 months later the average price drop for food items is around 6%, and only about a third of the food items had a price drop at all. Most companies preferred to book the difference.
+
+People would've felt the reduction in tax cuts much better if they dropped 10% from work taxes than 15% from food VAT (and the promised 6% cut for the general VAT). 
+
+
+
+
+
+
+
+
+
+ Bullshit. Faster at what? Benchmarks have shown the difference to be negligible. 
+
+The only *possible* thing it's faster at is boot time - but even that is mostly misleading, because Microsoft is counting boot time to the lockscreen (or whatever that is called), but it takes another 2 minutes or so to load the actual Windows files after that. 
+
+
+
+
+ So the NSA-embedded updates can't be stopped then. Is that supposed to make me feel better? 
+
+
+
+
+ That's basically what Microsoft said with Windows Phone and Windows 8, too. The more they adopt such a strategy the more they seem to fail, though. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Only terrorists use encryption, not the good guys. 
+
+
+
+
+ It's sad that a small company can't compete anymore without being threatened with patent lawsuits, despite the same companies infringing on other companies' patents, too. I remember an older article from Bloomberg saying there are around 250,000 patents affecting smartphone manufacturing. 
+
+
+
+
+  because they put them off
+
+Not surprising considering that even for an IE update you have to restart your PC. Microsoft still requires a lot of dumb Windows reboots for trivial upgrades.
+
+If Microsoft is going to force the upgrades on users, while the upgrades still require reboots every few days (while you're working on something), people are just going to rate using Windows as a poor experience, and stop buying Windows machines. 
+
+
+
+
+ These things happen for developing countries gradually anyway. Of course they will kill the SIM there, too, just not in the first 5 years or so after this alternative launches. 
+
+
+
+
+ Well that sucks. Hasn't Google been paying attention?! 
+
+
+
+
+ The statement is still true. It *is* less secure than Apple Pay, and "only" as secure as a regular card. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No, not that. Because if they do that most people will get their own solar panels and batteries for backup. 
+
+
+
+
+ I think "pretty great" is quite a stretch. I've seen many complain about the only email they got along with "18 months of identity protection"...after their identity was already stolen - for life. 
+
+
+
+
+ It won't be because the U.S. has likely done the same to the Windows XP-running Chinese government.
+
+That's why the U.S. gov isn't trying to make a big deal out of this, too, like they did with say the Sony hack, because they knew they could just bully North Korea all they wanted and the public would eat it up. 
+
+
+
+
+ Actually Tesla has the cheapest batteries (from Panasonic). 
+
+
+
+
+ They are not bad. The biggest thing I'd worry about is backdoors, but at least the software will be built by Google and the hardware heavily scrutinized during the development process. So I'd trust *this* Huawei device, but others not as much (also applies to Xiaomi, and even more so to random Chinese device makers).
+
+Whether it's $450 or $600, I really hope Google will put an S6/G4-level camera in there (or better). That's really the main compromise with Nexus devices and it's quite a frustrating one. 
+
+
+
+
+ Precisely why Sony, who is rather weak in the US, should've built a Nexus by now. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please do. Just make sure the alternative is a secure one. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yes, but by a much smaller margin (11%), which wouldn't be that surprising because it's a brand new clean browser. It would be surprising if such a browser came out and *wasn't* 10% faster than Chrome or Firefox. In 6 months the Chrome guys might do their best to beat Edge by 10%, too, so again it's not that big of a deal.
+
+That's why the 112% Sunspider benchmark is so misleading. Chrome has given up benchmarking for it because it's a useless benchmark since 2012. Is Microsoft really going to pile on Sunspider until the year 2020? 
+
+
+
+
+ This is like the mainstream media calling the Ferguson protesters "thugs".
+
+Yeah, maybe some of them were thugs, and maybe some of the angry Reddit users were trolls, but that doesn't mean you should completely dismiss the protest as something real that you should pay attention to. 
+
+
+
+
+ No, but that Model 3 can be, with a similar range.
+
+Remember there are still other costs to a car, not just the battery, costs which are much more static. 
+
+
+
+
+ Meet Microsoft, law enforcement's happy ~~lap dog~~ assistant. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  On WebKit Sunspider, Edge is 112% faster than Chrome
+
+ On Google Octane, Edge is 11% faster than Chrome
+
+Ugh. Are we still using Sunspider to determine how fast a browser is?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Aka censorship. Thanks, Microsoft. 
+
+
+
+
+ I'd buy that for a dollar. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Super duper disruptive. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not to mention it's so much easier for businesses to make money in the US because of the huge market. There's no such thing as the "EU market" right now. 
+
+
+
+
+ This "error" has been done before in other countries on local "Amazon-like" sites. It usually gets quite a bit of media attention, which makes people want to buy more from that site hoping they would *also* get their products for only $0.01 (you only find out about this "error" after you purchase the products, somehow). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Probably:
+
+http://eandt.theiet.org/news/2015/jul/nuclear-outpace.cfm 
+
+
+
+
+ 10 years ago Tesla, and the EV revolution it started (all car makers now building or considering building EVs), didn't exist. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm hoping it's around $500, as long as it doesn't compromise on the camera (again). 
+
+
+
+
+ No shit, Sherlock. I still remember Ballmer laughing about the iPhone. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SD820 is coming this year. 
+
+
+
+
+ I'm hoping it also has Qualcomm's ultrasonic Sense ID sensor. 
+
+
+
+
+ Told you this was a Snapdragon CPU, not Intel (and this is supposed to be the higher end version, so even if the cheaper LG one has Intel, this is supposed to be the faster one). 
+
+
+
+
+ I wonder if the IMF is biased (cough dollar cough). 
+
+
+
+
+ I'll probably get downvoted or have the post deleted for even asking this now, but I think it's an important question to ask.
+
+"Bitcoin" is relatively easy to memorize and talk about for most people. But I feel that "Ethereum" is too strange of a word to use "in the future" in daily conversations (assuming Ethereum will ever be that successful that everyone will use it in one way or another).
+
+Forget Americans for a moment. What about foreigners? How easy or "normal" do they find talking about Ethereum?
+
+I just fear that the word itself will be a sort of "invisible break" on the adoption of Ethereum in the future. It could make the adoption significantly slower and perhaps even put a hard cap on it. 
+
+Do you really see the word "Ethereum" become as popular and used as the word "Internet" in 20 years? Maybe it will be, but it doesn't feel like it could ever reach that level, because it seems like a much harder and "weird" word to say and write. With Bitcoin or say Zerocash or Bitshares I could see happen, but not with Ethereum. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Indeed. [Coreboot](https://en.wikipedia.org/wiki/Coreboot) is a much lighter-weight alternative and it's also open source (Free software, actually). Let's try and force OEMs to adopt that instead (although I'm sure Microsoft will fight it tooth and nail).
+
+ 
+
+
+
+
+ There is a Moore's Law for batteries - about 8% improvement per year, which means prices drop in half/density doubles every 10 years. But lately that pace has been accelerating a bit thanks to the rise of electric cars, which have accelerated the economies of scale, and therefore prices have dropped more aggresively. Tesla says batteries prices will drop by 40% in 5 years, thanks to their Gigafactory.
+
+I fully expect price per KWh to drop from the current $300 or so to $100 within 10 years, at which point a good portion of the population (especially in richer countries) will find electric cars (with reasonable ranges) appealing. If we can drop it to under $50/KWh (probably not with Li-Ion batteries though) in 10 years after that, that's when electric cars should start appealing to just about everyone. I thin *most* people will want an electric car with a 100-150 KWh battery. But *many* people (as much as 30% of the drivers) will probably be content with 50-100 KWh batteries, too (200-400 mile ranges for in-city driving).
+
+There IS a Moore's Law for solar, too. Haven't you been paying attention? Solar panel prices have dropped about 50% every 5 years, if I'm not mistaken, in the past period.
+
+You're thinking about it wrong. Like you're expecting the solar-to-electricity efficiency to double every 5 years or something. Kind of like you would've expected the CPUs to double in GHz every 2 years about 2 decades ago. But that wasn't the relevant point, but that the number of transistors would double for the same price, or the price of the same number of transistors would cost half as much.
+
+The same thing is happening in solar. Manufacturing *efficiency* is what makes the prices halven every 5 years or whatever. So yeah, there absolutely is a Moore's Law for solar, too. What matters is not necessarily that solar efficiency goes to 80%, but that prices for solar panels drop from $1/Wh (or whatever it is now) to $0.1/Wh, or even lower than that. *That* is what will cause an explosion in adoption. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ...we're just going to ask for backdoors instead! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ To what? Exchanging energy credits? 
+
+
+
+
+ Meh. I'd be more interested in "holodeck-like" experiences, but VR should be good enough for now. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ At least that's the official reason. 
+
+
+
+
+ Just Think Of The Kids. 
+
+
+
+
+ Daca trece TTIP probabil va fi ilegal pentru guvernul Romaniei sa "discrimineze" impotriva companiilor straine in felul acesta. 
+
+
+
+
+ Even if they'd stopped, we'd never know since they merged the PC and Mobile groups together.
+
+My guess is they *haven't* stopped, because now they are selling $107-$161 Atom chips as "Celerons" and "Pentiums" in the PC market, which allows them to even give away the *mobile* targeted chips for free if they want.
+
+In my opinion that's quite anti-competitive because for instance they could push Snapdragon 820-competitors into $100 phones, where other ARM makers would have no chance to compete and push them out of the market until they are dead, and then raise prices.
+
+They did that already with the Zenfone 2 where they pushed a 810-level chip (or close to it) into a mid-range $300 device which would normally get something like a Snapdragon 615, and people were "impressed" by what powerful Atom chips can be in a mid-range device - when in fact this was *only* possible because of Intel's heavy (and unfair) subsidies.
+
+You may say, but what's wrong with that as long as I benefit? Well you don't, or at least you won't, because Intel will eventually cut the subsidies, and then because people "want Intel" (like it happened with the heavily subsidized Haswell Celeron Chromebooks) Intel will spike the price and OEMs will have no choice but to continue using those chips.
+
+It's also what they did in Chromebooks. Now people would rather pay $100 for an Atom "Celeron" chip inside a Chromebook than get a $30 Tegra X1 Chromebook, even though there would be no difference architecture support-wise (it's a web browser OS after all) and the performance of the X1 is likely to be much higher, too. - but the "we want Intel" mob mentality. 
+
+
+
+
+ Considering the new Nexus devices are rumored to have fingerprint readers as well, yeah my guess is it's the 820 with the ultrasonic Sense ID.
+
+We don't know much about the 820 performance yet, but we do know that the 14nm 820 is supposed to be a level about the "mid-range" Cortex-A72-based Snapdragon 620. 
+
+
+
+
+ I for one am not looking forward for the terrible battery life that Intel Atom gives on mobile and that the Zenfone 2 has as well. And Nexus phones tend to come with small batteries, too (at least the cheaper ones). 
+
+
+
+
+ You shouldn't. People taking these benchmarks seriously (especially "generalist" benchmarks like Antutu) is the reason why chips like Snapdragon 810 or Intel Atoms exist - "high performance" enough to win the 2 minute benchmark, but terrible for battery life. 
+
+
+
+

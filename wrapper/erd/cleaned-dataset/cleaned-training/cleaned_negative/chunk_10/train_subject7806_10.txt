@@ -1,0 +1,133 @@
+ In the end, some idiots will buy it. Reminds me of the USB-C Apple made, a guy built a universal adapter for it and made [$800K+ on Kickstarter](https://www.kickstarter.com/projects/nonda/get-your-macbook-ports-back) off their stupidity.
+ 
+
+
+
+
+
+
+
+
+
+ Makes sense, what about Facebook? 
+
+
+
+
+ Yea I don't like their new design 
+
+
+
+
+  Printrbot Play
+
+Thanks for the info.! 
+
+
+
+
+
+
+
+
+
+ Shit! I wanna get something for the office and we are also launching a contest so I wanna provide 3D printers as the top prizes. If you have $700, would you get 2 of [those](http://printm3d.com/)?  
+
+
+
+
+ What's the alternative then? Trying to get one for less than $200, what do you think of this [one](http://q3dprinter.com/oneup.htm)? 
+
+
+
+
+ Makes sense now! Lima [shipped after 2 years](http://techcrunch.com/2015/07/21/lima-finally-ships-its-dropbox-alternative-to-its-kickstarter-backers-sort-of/)!  
+
+
+
+
+ I think you missed some useful Arduino shields
+
+* [Wifi Shield](http://www.amazon.com/Arduino-WiFi-Shield/dp/B00MEKEBXG)
+* [Smartphone Shield](http://1sheeld.com)
+* [Proto Shield](http://www.amazon.com/Arduino-Proto-Shield-R3-Assembled/dp/B007QXTRNA)
+* [Relay Shield](http://www.amazon.com/4-Channel-Relay-Shield-for-Arduino/dp/B007JOEVNW)
+* [Motor Shield](http://www.amazon.com/Arduino-Motor-Shield-R3/dp/B006UTE70E)
+* [Xbee Shield](http://www.amazon.com/arduino-org-Arduino-Xbee-Shield/dp/B004L6PNLA) 
+
+
+
+
+ Interesting! Do you any any good 3D printers available in the market for under $200? 
+
+
+
+
+ Makes sense, we had accepted pre-orders after our campaign cause we had extra stock in the manufacturing run anyways, but yea you're right, nothing harmful comes if you collect e-mails and send out when you are ready. 
+
+
+
+
+ That's a great insight, thanks a lot for sharing! 
+
+
+
+
+ Great analysis Dan, I agree of course on putting your backers first, but you can actually accept pre-orders in a good by charging the customer instantly through [Grandst](https://grandst.com/).
+When we ran our [1Sheeld Kickstarter campaign](https://www.kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma), we accepted pre-orders afterwards, shipped to our Kickstarter backers first, then pre-orders, then got it on Amazon and in retail.
+It's an interesting approach though as we are launching another product soon and it makes sense to fulfill your Kickstarter orders first then worry about other orders, I'll consider it in plan :) 
+
+
+
+
+ Yea I read that, my first thought is to encourage backers who have doubts to pledge and not wait for retail.
+Still you can accept pre-orders and announce a late shipping date, right?   
+
+
+
+
+ I'm trying to buy a couple of Tiko3D printers for the office, it's a $179 3D printer and hit well on [Kickstarter](https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer), and I was surprised to find they are not accepting pre-orders on their [website](http://www.tiko3d.com/), any thoughts on why are they NOT making money? 
+
+
+
+
+ Nice list, I recommend [Android Community ](http://androidcommunity.com/) as well 
+
+
+
+
+ Nice! Next time write in text please so it's easy to copy :) 
+
+
+
+
+ I went into a Microcenter in NYC and I totally prefer buying stuff online, the sales guy there didn't know the difference between a Particle core and a Raspberry Pi! 
+
+
+
+
+
+
+
+
+
+ THANK YOU! 
+
+
+
+
+ I've used it in our app, it did actually as we directed the feedback to the forum on our website, and started engaging in conversations with our customers, which resulted in more community engagement and better reviews. 
+
+
+
+
+ Thanks, I guess i'll research into that. 
+
+
+
+
+ Check out this [project](https://www.hackster.io/team-omega-d2/ar-drone-and-1sheeld-discover-the-world-around-your-drone), they used an Arduino Mega on a drone + a smart phone for sensor calibration. 
+
+
+
+

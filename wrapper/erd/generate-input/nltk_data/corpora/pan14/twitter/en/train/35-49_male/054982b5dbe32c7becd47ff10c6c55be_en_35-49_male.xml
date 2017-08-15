@@ -1,0 +1,1891 @@
+After quite some time working on different things: Running some  experiments on content extraction from web documents again...    
+    
+    
+    might be interesting for @arifah77 RT @danielequercia: RT @LouWoodley: How are people using Twitter? (infographic) http://on.mash.to/p9XNMJ     
+    
+    
+    Potentially interesting for all #essir participants: Recommended Reading for IR Research Students http://bit.ly/qoRfvj     
+    
+    
+    Entertaining talk of Ricardo Baeza-Yates at #essir -- Someone please tell him why there are so many flower pictures in Koblenz    
+    
+    
+    Just been to the "mainland games" in Rüsselsheim (Scottish highland games in Germany) -- Great!    
+    
+    
+    Arrived at #ecir2010 http://bit.ly/33k765. Registration done. Today: Tutorials & Workshops.    
+    
+    
+    Now opening of CIRSE (Workshop on Contextual Information Access, Seeking and Retrieval Evaluation).    
+    
+    
+    Aim: Evaluation of contextual information access. Does Cranfield still apply    
+    
+    
+    Acceptance rate was ~ 30%    
+    
+    
+    Introduction of Stephen Robertson. (Slides' title: On queries and other messages)    
+    
+    
+    Stephen starts his presentation    
+    
+    
+    normal science: choose phenomena, gather data, formulate hypothese, make predictions, do new experiments, modify model, (restart process)    
+    
+    
+    Critical experiments: setup where two models make different prediction. Sort out one, which does not comply with experiment outcome    
+    
+    
+    Cranfield in the 50s/60s as critical experiment for information organisation theories    
+    
+    
+    System is the part of the universe chosen for observation and measurement ( -- base for experiments)    
+    
+    
+    Open systems (opposed to closed) interacts with its environment (that is the rest of the universe)    
+    
+    
+    Interaction with environment: "something" passes the system boundary. We are interested in information, say transmitted by messages    
+    
+    
+    Suggestions on how to study phenomena: find boundary, messages passing boundaries, message contents    
+    
+    
+    Suggestion on evaluation: via output, outcome, involving environment outside the system (e.g. relevance is outside)    
+    
+    
+    IR onion: boundaries of interest: system/user, boundaries in the mind of user    
+    
+    
+    IR onion: (((((mechanism)interface)user model of system)user model of info seeking task)user problem ASK/model of larger task)    
+    
+    
+    Orgins of the onion: intermediary (e.g. librarian): user <-> intermediary <-> system. Maybe then direct access to system    
+    
+    
+    Pragmatic choice for boundaries: ability to observe and control with minimal disturbance of the system (all observations disturb system)    
+    
+    
+    Lab settings: construct encapsulated scenarios    
+    
+    
+    Nowadays: rich observables (system interior, interface). Missing the user's mind.    
+    
+    
+    Missing: reference interviews between intermediary and user. today happens in user's mind    
+    
+    
+    Indirect observables (relevance feedback)    
+    
+    
+    Simple logging is very rich to capture user interaction. No user disturbance. extend with eye-tracking, questionaires    
+    
+    
+    Scientific aim: make out-of-data predictions    
+    
+    
+    So far: queries are central to the IR interface.    
+    
+    
+    Approaches: query-free systems, systems to get more verbose queries    
+    
+    
+    Views on queries: representation for information needs, ASKs    
+    
+    
+    Alternative: query as speech act. Basic unit not the statement, but the speech act (e.g. "Thank you", "Fire!")    
+    
+    
+    Questions are speech acts: they try to make something happen    
+    
+    
+    Queries not necessarily as questions, formulation for search system different. Also commands are speech acts    
+    
+    
+    Second alternative to interpret queries: as hypothesis. What kind of document has the answer to my info need, intent, ASK?    
+    
+    
+    Query is hypothesis: if the results are good, the hypothesis was good    
+    
+    
+    Queries as active probes  rather than passive descriptions    
+    
+    
+    End of Stephen's talk, now questions and discussion    
+    
+    
+    Next talk: Ralf Bierig: An Experiment and Analysis System Framework for the Evaluation of Contextual RelationShips    
+    
+    
+    Work with Nick Belkin. Involving lots of implicit data. What goes on in people's mind during search    
+    
+    
+    System will be presented as demo during reception tomorrow evening    
+    
+    
+    PooDLE system http://bit.ly/3psAr personalised assistant to support contextual IR    
+    
+    
+    Interaction events on a timeline, segmentation of event sequence. Aim: detect patterns, learn models on the data    
+    
+    
+    Next talk: Ying-Hsang Liu: On Search Topic Variability in Interactive Information Retrieval    
+    
+    
+    #cirse2010 proceedings will be online, URL following lateron #ecir2010    
+    
+    
+    Searcher types: search novices, domain experts, search experts, medical librarians. Fields: search experience, domain knowledge    
+    
+    
+    Comparison of two systems. One including MeSH keyterms, one without (only abstracts)    
+    
+    
+    Next talk: Miriam Daoud: Contextual evaluation of mobile search    
+    
+    
+    Evaluation setup: user studies to obtain queries and relevance judgements, then generate context for lab settings.    
+    
+    
+    Next talk: Catherine Mulwa: A Proposal for the Evaluation of Adaptive Personalized Information Retrieval    
+    
+    
+    Look at evaluation from the point of view of the adaptive hypermedia community    
+    
+    
+    #ecir2010 #cirse2010 proceedings online: http://bit.ly/cjMaFC    
+    
+    
+    Key note by Ian Ruthven: But Where Do We Go from Here?    
+    
+    
+    IR as enabling technology: Other disciplines depend on IR technologies    
+    
+    
+    Search is not a standalone activity. It is interwoven with other activities (e.g. writing a paper, developing an algorithm)    
+    
+    
+    Danger of interfaces shrinking instead of growing. Google's simple interface is not best under all aspects!    
+    
+    
+    Interface opportunities: cross-comparative studies (include existing systems), non-directed search, encourage people to search different    
+    
+    
+    Emotional design to encourage users to search (differentely)    
+    
+    
+    Reference to Don Norman (where did hear that name already? Tutorial at ECDL?)    
+    
+    
+    Analyse social media. So far, models analyse what people do, not why?    
+    
+    
+    How does the perception of a system influence a user's interaction with the system?    
+    
+    
+    Nowadays most information about a person is not provided by himself/herself, but by others    
+    
+    
+    IR is good in cooperations -- IR at the risk of losing its uniqueness? Don't forget core of the field!    
+    
+    
+    Still too much of historic library scenario: people do search, walk away with information and then do another task    
+    
+    
+    Again: IR research has focussed at lot on what works, not why?    
+    
+    
+    User study on literature discovery: 41% of comments on the interaction (not information), 16% on intentions (what to do with information)    
+    
+    
+    User study on literature discovery: 40% of comments about relevance    
+    
+    
+    Not all information is equal: take a look at the source (human, who, media, machine-created)    
+    
+    
+    Nice question: What role will technology play between information creation and information use?    
+    
+    
+    Closing of #cirse2010 workshop. Nice presentations, two very interesting key notes.    
+    
+    
+    #ecir2010 now attending tutorial on "Crowdsourcing for Relevance Evaluation" by Omar Alonso    
+    
+    
+    Presenter working at microsoft on bing search engine and Twitter ;-) -- so real time search.    
+    
+    
+    @domsom #cirse2010 was interesting -- lots of ideas for #relevanzer    
+    
+    
+    Book on #crowdsourcing by Jeff Howe (recommend for our library?)    
+    
+    
+    #crowdsourcing as a cheap, fast, easy-to-setup way to solve tasks    
+    
+    
+    Focus on using Amazon mechanical turk for #crowdsourcing. Now applications (NLP,Translation, ...)    
+    
+    
+    Amazon mechanical turk (AMT) seems to have performed good in TREC assessments -- better than professional assessors in one case    
+    
+    
+    #ecir2010 looked at workers (turkers) so far, now shifting to requesters    
+    
+    
+    #crowdsourcing tutorial: the coffee break is not yet ready for us :-)    
+    
+    
+    Now doing real experiment on AMT online: photo of reality-tv star as result for query "idiot". Relevant or not    
+    
+    
+    AMT experiment running: 5 opinions after few minutes (one from the workshop) : 2 relevant, 3 not relevant (1 from workshop)    
+    
+    
+    Bow off to coffee break. very interesting tutorial so far.    
+    
+    
+    #ecir2010 continuing tutorial on #crowdsourcing Now collecting results of idiot-query example    
+    
+    
+    Next example: query classification task for AMT Showing how to get data into templates, List with headline query maps to $query in template    
+    
+    
+    If there is no activity on an AMT experiment in the first hour, the experiment has a design flaw    
+    
+    
+    Third experiment: relevance judgements on wikipedia. More data in a CSV-style list. Documents included in iframe    
+    
+    
+    Swapping to "How to design an experiment on AMT"    
+    
+    
+    UX is very important for AMT. Simple instructions, clear instructions, support users, good design, highlight key terms, provide all data    
+    
+    
+    Qualification test can be uploaded only via API, but accessed lateron from dashboard during task construction    
+    
+    
+    @elunca Great tutorial, thanks a lot    
+    
+    
+    Opening speach of #ecir2010 statistics about submissions, organization. 44 / 208 papers, 28 / 73 posters accepted    
+    
+    
+    First #ecir2010 keynote: Barry Smyth (UCD) on "Web Search Futures: Personal, Collaborative, Social"    
+    
+    
+    Search as the Web's killer application    
+    
+    
+    Overview: Key Challenges, Context in Web Search, Towards social search (HeyStack system)    
+    
+    
+    50%  search failures. On average 8 hours in a month    
+    
+    
+    Retrieval effectiveness rises with longer queries, but only till 3 terms, than drops again    
+    
+    
+    Content Farms for SEO, gaming with search engines. Obtain top ranks but do not provide top quality. Generate contents for requested terms    
+    
+    
+    Content farms: detect queried terms, calculate ad value of an article on related topics, hire free lance journalists to write the articles    
+    
+    
+    Contexts in Search: User, Document, Task, Social    
+    
+    
+    @domsom social context seen as a possible next step in development of search!    
+    
+    
+    1 of 4 searches is trying to re-find something we found before, 2 of 3 searches is to find something our friends/colleagues found before    
+    
+    
+    Search engines vs. Social networks. 500m queries vs. 750m shares, relevance vs. reputation    
+    
+    
+    Social search engine: blurry expression, not clear what exactly it means    
+    
+    
+    Example: Aardvark as social QA system    
+    
+    
+    Collaborative IR: Remote or co-located / synch or asynch    
+    
+    
+    Starting to introduce the HeyStaks system. Search utility: organise search activities in folders (staks); share staks; search, promote staks    
+    
+    
+    HeyStaks Integration into browser to exploit standard search engines. http://www.heystaks.com/    
+    
+    
+    HeyStaks: Relative high number of users producing staks, in other communities much lower.    
+    
+    
+    Discussing model on how to promote a user's reputation in HeyStaks based on clicks in staks    
+    
+    
+    Conclusions: web search is changing, context considered, collaboration of interest, relevance replaced/extended by reputation    
+    
+    
+    End of Barry Smyth's keynote, now questions. I'll stop commenting to save notebook energy (no plugs arounds)    
+    
+    
+    #ecir2010 first session with four talks: LM for time component in query, attitude in texts, IR in medicine, query log analysis    
+    
+    
+    #ecir2010 full-papers-as-posters session during lunch break. Interesting work, might have deserved more attention    
+    
+    
+    #ecir2010 great poster session last evening. Lots of interested people, positive feedback, new ideas    
+    
+    
+    #ecir2010 bouncing ball game is a big success. People seem "unhappy" that the game is interrupted for the keynote :-)    
+    
+    
+    #ecir2010 Udo Kruschwitz introducing Hinrich Schütze. Keynote on "Natural Language Processing in IR: Shallow or Deep?"    
+    
+    
+    search in the real world is an interactive dialogue between searcher and expert. Search engines do not support this    
+    
+    
+    several examples on shallow NLP in search engines: synonyms, snippets,...    
+    
+    
+    Introduction of Powerset NLP Parser (by now bought by Mircosoft)    
+    
+    
+    Examples for parsing real world questions for better results (opposing to standard web search)    
+    
+    
+    So far the good examples, now some where Google performs as good or even better    
+    
+    
+    Fixed-phrase queries can beat NLP in many cases. Dumb, high-precision queries close to an expected answer work well    
+    
+    
+    Web search engines benefit from high redundancy of contents. This provides (all) possible semantically equivalent variations    
+    
+    
+    But: web redundancy does not always help. Some example where fixed-phrase queries fail    
+    
+    
+    Next NLP-Parser: Google / Michael Ringgaarg's Parser. Code example for the easy access to the parser. Very good efficiency    
+    
+    
+    Ringgaard's Parser: High speed at the cost of lower accuracy    
+    
+    
+    3. topic: Interactive NLP. Example: train a highly specialized NER for a specific task    
+    
+    
+    Distinguishing "Barry Smith" via concordance lists and the context of verbs (Professor are "appointed" but not "traded" and don't "perform")    
+    
+    
+    Visualization as key to get users accept the technique (Because it is even more work than relevance feedback)    
+    
+    
+    Hinrich Schütze finishes  his #ecir2010 keynote, wishes more NLP in IR (with reference to SIGIR 2010 CfP topics)    
+    
+    
+    #ecir2010 lunch poster on tag clouds and LM. Might be interesting for improving the document word cloud approach to help relevance decisions    
+    
+    
+    #ecir2010 last day. waiting for keynote. been up too long last night discussing -- start to feel lack of sleep    
+    
+    
+    #ecir2010 introduction of the KSJ award and its dedication.    
+    
+    
+    Mirella Lapata can't be at #ecir2010 so the keynote has been registered and will be played back...    
+    
+    
+    Description of content-based image retrieval, text-based image retrieval (annotations)  and the "Google-way" via text around pictures    
+    
+    
+    Using human labelled images as training set to train an automatic annotator based on visual features    
+    
+    
+    Use of latent variables as semantic concepts to model joint probability for features and annotations    
+    
+    
+    Interesting idea for Image IR: annotate pictures with keywords, then form a caption out of those. Difficult but fascinating    
+    
+    
+    #ecir2010 questions to the pre-recorded keynote? Questions are recorded and answers will be published online ... feels a bit weird    
+    
+    
+    #ecir2010 next session on Personalization & Recommendation. Starting with Performance Prediction to Enhance Collaborative Filtering    
+    
+    
+    #ecir2010 talk on "Personalizing Web Search with Folksonomy-based User and Document Profiles".    
+    
+    
+    Central problem is how to obtain a user profile -- might be interesting for @domsom and relevanzer ... let's see    
+    
+    
+    paper of current presentation(personalisation based on folksonomies) online http://bit.ly/aP5Ka9 @domsom #ecir2010    
+    
+    
+    If I got it right: represent a user via his tags in delicious and model him as a document. Classical approach VSM and cosine for docs/users    
+    
+    
+    Two new approaches now: VSM with scalar product (no length normalisation) and a BM25 based solution    
+    
+    
+    @domsom social tagging profiles seem a good way to model a user's interest #ecir2010    
+    
+    
+    NetSpeak http://netspeak.cc/ writing assistant. Search WWW for common phrases etc. System was a great demo at #ecir2010    
+    
+    
+    last #ecir2010 session. Would be curious to get data of previous talk (Ralf Schenkel). Could compare my content extraction with spotsigs    
+    
+    
+    last talk of #ecir2010 on spatial diversity. However, nice example on diversity in web search: SIGIR ("ours" vs. http://www.sigir.mil/ )    
+    
+    
+    Interesting #ecir2010 talk by Mark Sanderson. Interesting considerations. Feels a bit like a keynote    
+    
+    
+    Once again: Amazon Mechanical Turk to gather relevance decisions in IR. #ecir2010    
+    
+    
+    A comment I expected: How to deal with the unknown bias in MTurk user evaluation. Tutorial by @elunca  said: doesn't matter #ecir2010    
+    
+    
+    Now closing session #ecir2010 by Stefan Rüger    
+    
+    
+    #ecir2010 now handing over to #ecir2011 in Dublin 18-21 April 2011. GC: Cathal Gurrin    
+    
+    
+    #ecir2011 workshops in the Guiness Storehouse ;-) ought to be fun    
+    
+    
+    Last thanks from Stefan. Then by #ecir2010 and Milton Keynes.    
+    
+    
+    Did a few mTurk HITS after #ecir2010 crowdsourcing tutorial of @elunca It can actually be fun -- if the HITS are designed well!    
+    
+    
+    Next week: ROBUST project meeting in Paris #ictrobust    
+    
+    
+    Setting up new laptop -- why does no search engine provide good results for "which programs did I install last time?" ;-)    
+    
+    
+    About to start my journey to Paris to meet with the folks of the ROBUST project. #ictrobust    
+    
+    
+    Southampton people are presenting a first draft of the ROBUST community risk analysis dashboard -- looks good! #ictrobust    
+    
+    
+    Listen how healthy is your online community -- cool work done by Polecat #ictrobust    
+    
+    
+    Introducing the ROBUST project to the Virtual Center of Excellence on Online Communities and the User Advisory Board #ictrobust    
+    
+    
+    Returning from a wonderful ROBUST meeting @TEMIS in Paris. Thanks to the local organizors. #ictrobust    
+    
+    
+    Whisky, Whisky, Whisky! #cikm2011 promises to be a great event. [ Let's see if this get retweeted ;-) ]    
+    
+    
+    Life is funny: Read a paper on document mixture-models of several languages, while next to me two bilingual kids spoke a German-English mix    
+    
+    
+    Just finished the poster for #cikm2011 providing deeper understanding how ESA (Explicit Semantic Analysis) works    
+    
+    
+    Leaving for CIKM in my beloved Glasgow #cikm2011 #ictrobust #glasgow    
+    
+    
+    First hop to Amsterdam with KLM then off to Glasgow! #cikm2011    
+    
+    
+    Arrived in #glasgow -- good scottish weather: it's raining only a little #cikm2011    
+    
+    
+    Great event at the Auchentoshan distillery -- thanks to the organizors #cikm2011    
+    
+    
+    Now breakfast, then off to the #detect workshop at #cikm    
+    
+    
+    Keynote by @mattroweshow at #DETECT workshop: Using Behaviour Analysis to Detect Cultural Aspects in Social Media Systems #cikm2011    
+    
+    
+    Behaviour Analysis keynote by @mattroweshow at #DETECT workshop #ictrobust    
+    
+    
+    Christoph Kling now presenting on detecting cultural areas on flickr #detect #cikm2011    
+    
+    
+    Second #detect keynote by Ralf Kreste on Recommendation on the Social Web: Diversification and ersonalization #cikm2011    
+    
+    
+    Ralf Krestel giving a detailed analysis on tagging systems and tag usage in the detect workshop #detect #cikm2011    
+    
+    
+    Ralf presents mixture of LM&LDA for tag recommendation. Wonder how it relates to the Epistemic model of Klaas Dellschaft #cikm2011 #detect    
+    
+    
+    "Cultural Awareness in Social Media" presented by Tatjana Welzer #detect #cikm2011    
+    
+    
+    Global communication without physical borders in social media motivates the need for cultural awareness! #detect #cikm2011    
+    
+    
+    Giulia Boato presenting work on "Emotion Based Classification of Natural Images" #detect #cikm2011    
+    
+    
+    "Sentiment classification on images requires an understanding of cultural background" #detect #cikm2011    
+    
+    
+    Ludger Martin talking about "Filtering Usability Data with Reference to Behavior" #detect #cikm2011    
+    
+    
+    #DETECT authors: Let me know if you have your slides online -- I'll link them on the workshop web site #cikm2011    
+    
+    
+    "Classification of Tweets via compression rate" by Ko Fujimura #detect #cikm2011    
+    
+    
+    Just learned a cultural difference: "wwwwwwwww" means "lol" in Japanese :-) #detect #cikm2011    
+    
+    
+    @ISWC2011 tweet compression rate is useful for hashtag harmonization. This might have solved your problem ;-) #iswc2011 #cikm2011 #detect    
+    
+    
+    "Understanding Semantic Change of Words Over Centuries" by Derry Tanti Wijaya. Examples: awful, mouse #detect #cikm2011    
+    
+    
+    Using google book ngrams dataset ( http://bit.ly/o7fAUi  ) to discover changes in word semantics. Nice idea! #detect #cikm2011    
+    
+    
+    Finishing #detect workshop with interesting plenary discussion. Nice contributions, very active audience #cikm2011    
+    
+    
+    Thanks to all authors and contributors of #detect - You turned this into a great workshop! #cikm2011    
+    
+    
+    @blogranger You're welcome. A workshop is living from its participants -- and we had a great audience. #detect #cikm2011    
+    
+    
+    About to leave with @cckling and @nnaveed for the #cikm2011 conference welcome reception.    
+    
+    
+    Cool we are on the Glasgow university news RT @CIKM2011: Computer scientists logon to Glasgow: http://www.gla.ac.uk/news/headline_215172_en.html … #cikm2011    
+    
+    
+    Busy 1. day of #cikm2011: keynote by @karger, @nnaveed presents our paper, and I'll be around our ESA Poster with Benno&Maik    
+    
+    
+    #cikm2011 starting very early today at 8:10 with the opening ceremony. Curious for the keynote!    
+    
+    
+    Greetings from Glasgow to Bonn. Enjoy #iswc2011 ! Too bad I cannot be in two places at the same time #cikm2011    
+    
+    
+    718 delegates at #cikm2011 -- largest CIKM ever    
+    
+    
+    #cikm2011 @karger presents: high-speed, highly interesting keynote on managing information scraps    
+    
+    
+    @kunegis corpus of information scraps http://bit.ly/rLBgDw  by @karger could be interesting for KONECT #cikm2011    
+    
+    
+    dusty old algorithms + human intelligence + smart user interface = great information sharing application #cikm2011 @karger keynote    
+    
+    
+    The microphone of the neighbour sessions seems to transmit to our audio system #lol #cikm2011 :-)    
+    
+    
+    Interesting Session on sparse data and difficult queries. C. Zhai obtaining term senses by clustering on term-cooccurance matrix #cikm2011    
+    
+    
+    Next: @nnaveed presenting our work with @kunegis @arifah77 on #interestingness and length normalization in #twitter retrieval #cikm2011    
+    
+    
+    Exciting poster session. Lots of positive feedback on our Insights into ESA poster #cikm2011    
+    
+    
+    Cool! Our billion triple challenge submission made it into the second round! Great work Mathias and Ansgar #iswc2011 #btc    
+    
+    
+    @shangz most likely because CIKM had network problems today :-(    
+    
+    
+    @idefixuni Hard to believe -- it did not feature our ESA poster ;-D    
+    
+    
+    @fabradd Hi Falk! You're at #cikm2011 in Glasgow?    
+    
+    
+    Physicians look at symptoms and guess, biomedicine could provide knowledge #cikm2011 keynote by Justin Zobel    
+    
+    
+    One for @kunegis : Biologist describe the human metabolism as ... a network :-) #cikm2011 (but it is rather small ~50.000 nodes)    
+    
+    
+    Saw 2 relevant demos: (a) local event detection on social media and (b) efficient retrieval of timeseries #cikm2011    
+    
+    
+    Now @JeffD starting his talk with "you may ask me questions on Twitter" #cikm2011    
+    
+    
+    Curious for the next #cikm2011 talk: "Keyword search over RDF graphs" --would also have fitted to #iswc2011    
+    
+    
+    Funny title of next #cikm2011 talk: "Frequency-Aware Similarity Measures: Why Arnold Schwarzenegger Is Always a Duplicate"    
+    
+    
+    Attending #cikm2011 session on Social Networks and Communities. Many relevant papers for #ictrobust    
+    
+    
+    Find expert groups, infer user interest, evaluate influence and conformity. Will need to do some reading later! #cikm2011 #ictrobust    
+    
+    
+    Paper on differences in twitter usage presented by @ruthygarcia #cikm2011    
+    
+    
+    @kwelle yes, there is a pre-print at http://ruthygarcia.com/mycv.php     
+    
+    
+    social search: is it "finding information through other people" OR "finding information with other people"? #cikm2011 panel    
+    
+    
+    Seems a recurrent pattern: Systems should detect and tell what is missing in an environment (community, work group, expert network)    
+    
+    
+    @kunegis @arifah77 had a nice lunch discussion and idea for future twitter work with @nnaveed today -- let's meet once we're back    
+    
+    
+    Chance & Challenge: Merge social search and web search to avoid filter bubble phenomenon #cikm2011 #panel    
+    
+    
+    Let's try: to what kind of questions can you get serious answers on social media? #cikm2011 panel    
+    
+    
+    @renepickhardt you should check the twitter feed of #recsys. Industry track has interesting numbers for the GRAPHITY paper    
+    
+    
+    Entertaining and inspiring discussions at the #cikm2011 panel. Thanks all    
+    
+    
+    Kelvingrove gallery is simply a wonderful location for conference dinners: arts, culture & good food #cikm2011 #ecir2008    
+    
+    
+    @kunegis spoke with a fan your slashdot zoo paper during the #cikm2011 conference dinner. His talk on link prediction is tomorrow.    
+    
+    
+    @device_null Then anti-social search is an inverse one-class classification problem: you do not hat positive training examples    
+    
+    
+    @seblimb Hey, didn't know you were on twitter!    
+    
+    
+    @device_null That would turn interestingness into a static quality measure as in http://bit.ly/p1G53R  -- but the crowd might still find it    
+    
+    
+    Steve Robertson on "Why recall matters" to oppose the fixation on precision@10 #cikm2011 industry track    
+    
+    
+    Freebase identifies key values of entities on various web databases to describe an entity #cikm2011    
+    
+    
+    Freebase API on Google API since last week #cikm2011    
+    
+    
+    @arifah77 @kunegis Have seen this talk? @fabianabel : Slides about "Faceted Search on Twitter" are online: http://www.slideshare.net/persweb/leveraging-the-semantics-of-tweets-for-adaptive-faceted-search-on-twitter-9903104 …    
+    
+    
+    Session on "Science, the Past, and the Future" starting with talk on plagiarism detection. Let's see what they're doing #cikm2011    
+    
+    
+    Speaker says "plagiarism" and in come the experts from Weimar ;-) #cikm2011 #pan    
+    
+    
+    Very nice analysis and great presentation of "Studying How the Past Is Remembered"  #cikm2011    
+    
+    
+    The time dimension of text is a great resource for interesting information.  Adam Jatowt demonstrated that very nicely #cikm2011    
+    
+    
+    Just checked the author disambiguation on MS Academic Search @ststaab exists twice at @unikold -- demo effect? #cikm2011    
+    
+    
+    Presentation on "Citation count prediction". Let's see how it relates to discussion length prediction of @mattroweshow #ictrobust #cikm2011    
+    
+    
+    Citation count prediction seems to benefit most from author and venue features, content less important ;-) #cikm2011    
+    
+    
+    Another presentation by Adam Jatowt: this time on the future #cikm2011    
+    
+    
+    @richardm_ which tool did you use for language detection on tweets? #curious    
+    
+    
+    GREAT! If I got it right from remote: Our #SchemEx work with Mathias and @ascherpuokob won the #btc2011 @ #iswc2011 #WeST    
+    
+    
+    @richardm_ Thanks! I'll check that out    
+    
+    
+    Tough task: Hold someone else's presentation of ~34 slides loaded with formulas in a 12 minute session slot    
+    
+    
+    Last day of #cikm2011 - going for the #smuc2011 workshop on search and mining user generated content    
+    
+    
+    @giacomoinches I'm in the #smuc2011 workshop, but probably won't be around till the end. Maybe we can meet in the coffee break?    
+    
+    
+    David Losada motivating a strong need of opinion mining and sentiment analysis for social media #smuc2011 #cikm2011    
+    
+    
+    So, what OM&SA really lack seems to be discourse analysis: understand what is the final conclusion in a document is #smuc2011    
+    
+    
+    BUT: when trying to understand what is considered interesting on Twitter we found that sentiments DID help: http://bit.ly/p1G53R  #smuc2011    
+    
+    
+    My guess: there is not one sentiment flow approach that works for all kinds of documents. Twitter != Blogs != News articles #smuc2011    
+    
+    
+    @denzil_correa Also: authors express sentiments differently in different media, e.g. in Twitter you can not elaborate much    
+    
+    
+    @giacomoinches yeah -- sound fine. see you there!    
+    
+    
+    @denzil_correa These are even more difficult. And I guess knowing the context of a document first would help here as well    
+    
+    
+    @mattroweshow They also used author&content features, additionally some context (e.g. venue). I'll send you the paper by mail    
+    
+    
+    An ontology on reputation in social networks. Does it integrate with #sioc ? #smuc2011    
+    
+    
+    An ontology on reputation in social networks. Does it integrate with #sioc ontology? #smuc2011    
+    
+    
+    Curious for how near duplicates in UGC relates to SMS spam #smuc2011    
+    
+    
+    @arifah77 a test collection of SMS spam: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/ … might be useful for your work    
+    
+    
+    Nice meeting @denzil_correa and @giacomoinches in person in the coffee break #cikm2011    
+    
+    
+    keynote on Retrieval and Recommendation in Social Media by Joemon Jose #smuc2011    
+    
+    
+    Combining parts of the datagraph linking users, items and tags for recommendations #smuc2011    
+    
+    
+    For the combination users, items and tags I guess using something like TripleRank based on tensor analysis would work fine #smuc2011    
+    
+    
+    Mapping tags to semantic concepts or POS entities to identify the category  of the tag. #smuc2011    
+    
+    
+    Next #smuc2011 talk: Improving answer ranking in QA portals -- will be interesting also for #ictrobust    
+    
+    
+    Features to measure answer quality: readability, formality, grammaticality, etc. Static and independent of query #smuc2011 #ictrobust    
+    
+    
+    Finally someone noticed the talk slots of 40+20+20 min not summing up to a 110 min session. More time for talks and questions #smuc2011    
+    
+    
+    @denzil_correa getting ready for his talk on "Mining Twitter Tweets to Tag Flickr Photos and YouTube Videos" #smuc2011 #cikm2011    
+    
+    
+    #smuc2011 talk mentioned a social media platform for sharing YOUR sounds -- wonder if this will work out for long ;-) http://soundcloud.com/     
+    
+    
+    Won't be around for the afternoon session any longer. Bye everyone, was a great conference and nice to meet you! #cikm2011 #smuc2011    
+    
+    
+    Today we celebrated our victory at the Billion TRIPLE challenge with a TRIPLE distilled single malt scotch :-D #iswc2011 #btc2011    
+    
+    
+    Interesting: Special Technical Community on Social networking (@stcsn)
+http://bit.ly/uUWsKT     
+    
+    
+    Van Halen on the radio and my daughters (3 and 6) "jump" in the kitchen :-) #LifeIsGreat    
+    
+    
+    Just finished the LiveTweet prototype web frontend telling you how interesting a tweet is: http://bit.ly/tetMay  #ictrobust #WeST_Ko    
+    
+    
+    SchemEX in the media #ictrobust RT @ststaab: RT @journalWebSem: Elsevier Announces Winners Semantic Web Challenge, http://bit.ly/tCXOdz     
+    
+    
+    @kunegis will you tweet about the #trec2011 #microblog track? Keep us up to date    
+    
+    
+    @kunegis what are the interesting results and take-home messages from #trec2011?    
+    
+    
+    @mattroweshow Is there a CfP or workshop homepage for #msm2012 ?    
+    
+    
+    Our LiveTweet (http://bit.ly/tetMay ) has been accepted as demo at #ecir2012. Well done @arifah77, @kunegis, @nnaveed #ictrobust    
+    
+    
+    Presented #SchemEX today at the #ictrobust review meeting.    
+    
+    
+    wow! don't manage to search the web because I'm stuck playing #pacman with the #google logo    
+    
+    
+    @Kris10Vermoesen nice article about our #WebSci2011 paper. If you're interested I can also point to some follow up work.    
+    
+    
+    @Kris10Vermoesen oh, and by the way: you might want to try out http://livetweet.west.uni-koblenz.de  - that's the theory turned into practice    
+    
+    
+    Attending the RapidMiner workshop at @WeST_Ko    
+    
+    
+    Sure sign you have been busy lately: Having to catch up readying your favourite web comics of the last 3 month    
+    
+    
+    Brushing up my knowledge about the theory behind bayesian estimates for probability distributions -- feels good to do some math again ;-)    
+    
+    
+    Talk on UX by @humanized at university of mainz    
+    
+    
+    @isaach which data did you use for the tweet length plot? Made one for @trecmicroblog which had a different shape -- might post it later    
+    
+    
+    Strange: my #google calender is not working any more under #chrome .. fine with #firefox    
+    
+    
+    Freezing this morning. Will fire up some intensive computation on my notebook to defrost my hands ;-)    
+    
+    
+    On the way to Ulm. Visiting Prof. Schweiggert and Hadi to plan the next steps of joint work.    
+    
+    
+    Travelling to Düsseldorf to present #LiveTweet and the ideas behind it: http://livetweet.west.uni-koblenz.de/ 
+#ictrobust    
+    
+    
+    Returning from Düsseldorf. Nice audience for the talk about #LiveTweet. Thx to @kwelle and Isabella Peters for the invitation    
+    
+    
+    @kwelle Das Sentiment Wörterbuch heißt ANEW : Affective Norms for English Words. Paper dazu ist von Bradley und Lang.    
+    
+    
+    Leaving for project meeting in Dresden at SAP #ictrobust    
+    
+    
+    Started #ictrobust meeting at SAP in Dresden. More and more things taking concrete shape in the analysis of online business communities    
+    
+    
+    Busy project meeting: http://twitpic.com/8n8e4k  #ictrobust    
+    
+    
+    Had quick demo and introduction of Apache Giraph by  @sscdotopen #ictrobust    
+    
+    
+    Wonderful: my fellows from #ukob provided my with ice cream for the coffee break! Thx to @kunegis Felix & Julia !!! #ictrobust    
+    
+    
+    Last day of #ictrobust meeting at SAP in Dresden. Agenda: small discussion groups and planning ahead    
+    
+    
+    Don't manage to catch up the lack of sleep on the train coming back from #ictrobust meeting :-( Guess I'll do some paper reading instead    
+    
+    
+    Bidding for #websci12 reviews. Many interesting submissions. A lot of twitter work. Hard to choose what I want to review...    
+    
+    
+    @arifah77 working on new ideas about twitter analysis?    
+    
+    
+    Just got a notification that our telco was canceled due to a Feb 29 bug in the web conference system :-D #feb29    
+    
+    
+    Is there a method on the Twitter API to collect ALL the replies for a given tweet? Experience anyone? #twitterapi    
+    
+    
+    Seems our team from @WeST_Ko won the @apps4de competition with the app LISA Congratulations! http://bit.ly/zkrLw3     
+    
+    
+    If this doesn't proof the climate change: German radio reports about a drought in southern England (!) due to lack of rain!!!    
+    
+    
+    On the road to Lyon for #WWW12 - loaded with stuff for our ROBUST booth. #ictrobust    
+    
+    
+    Just set up the #ictRobust booth at #www2012 in Lyon    
+    
+    
+    Had a great chat with Tomaz about web content extraction and boilerplate removal. Maybe an extension of my previous work ahead? #www2012    
+    
+    
+    Now going to attend the #www2012 keynote by #TimBL.    
+    
+    
+    Now a short intro by @ststaab on submissions and the technical program. #www2012    
+    
+    
+    Start of the keynote by TimBL. Can't understand why I still see so many people checking their e-mail... #www2012    
+    
+    
+    TimBL talking about web apps as a way to break through vendor locked systems. #www2012    
+    
+    
+    Folks at the #www2012 keynote: Are you looking at the big video screen or at the "real" TimBL in front of out?    
+    
+    
+    @Yves_Moreau Yeah, I am sitting in the middle and it is still far from the podium.    
+    
+    
+    Attended an interesting session on semantic web search. Should try to position some #SchemEX followup here next year. #www2013    
+    
+    
+    Hi @tomaz ! We meet for coffee at the #ictrobust booth once #www2012 sessions are over at 5:30?    
+    
+    
+    @tomaz No prob. Let's meet at 18:00.    
+    
+    
+    @tomaz @kohlschuetter I'm in -- what would be a good time? Coffee break/Lunch break?    
+    
+    
+    Here is an article about the "CISPA" TimBL was talking about yesterday: http://bit.ly/IPfrif  @renepickhardt #www2012    
+    
+    
+    For IBM's Watson having a selected corpus as knowledge base was better than having the entire web. #www2012    
+    
+    
+    WWW 2013 in Brazil will feature a most influential paper award. Wonder how they'll evaluate this? #www2012 #www2013    
+    
+    
+    Awards at #www2012 now announced by @ststaab and Michael    
+    
+    
+    Neelie Kroes: Openness means transparency and choice #www2012    
+    
+    
+    Now panel discussion on "web as human right" with Tim, Gilles and Neelie #www2012    
+    
+    
+    TimBL: Google delivers you the principal eigenvector of what the world thinks about the words you have just typed in. #www2012    
+    
+    
+    TimBL: imagine how you wish the world to be ... and then go geek and do it! #www2012 #panel    
+    
+    
+    I'd love to see some of those #www2012 cartoons displayed during the social dinner online! They're REALLY great!!!    
+    
+    
+    spoiler talk at #www2012 ... now we know that one of the most compassionate users on Yahoo Answers is a bot! #LeveragingUserContent    
+    
+    
+    Talk about using flickr photos as basis for doing ecological field research #www2012 Reminds me of the work by @cckling    
+    
+    
+    Another one of interest to @cckling : Discovery of geographical topics on twitter #www2012    
+    
+    
+    One of the lessons learned from determining geographic topics: penalise too large regions #www2012    
+    
+    
+    Going to chair the session on #webmining now. Interesting papers ahead! #www2012    
+    
+    
+    Had a very interesting session on #webmining Great presentations and quite some good ideas #www2012    
+    
+    
+    @tomaz Have a safe trip home and let's keep in touch about content extraction...    
+    
+    
+    +1 RT @renepickhardt love the catoons by @Bouletcorp I heared he is supposed to upload all pictures of #www2012 on http://bouletcorp.com  ...    
+    
+    
+    Leaving Lyon after a wonderful #www2012 conference. Heading on to Lugano for a visit to IR group there incl. @giacomoinches    
+    
+    
+    Arrived in Lugano this evening - seems a very nice town -- and unlike Lyon I understand what the people say ;-)    
+    
+    
+    Finished my #reviews for #ECAI2012 ... kind of last minute, given they are due by tomorrow    
+    
+    
+    Been to the IR group in Lugano today. Great people doing excellent research! Also gave a presentation on our work on Twitter and SchemEX.    
+    
+    
+    WebSci paper on Feature-Centric Sentiment Diversification of Online
+Discussions with @nnaveed @ststaab http://dl.dropbox.com/u/20411070/Publications/2012-WebSci-Naveed-GSS.pdf … #ictrobust    
+    
+    
+    As I was asked for it: the #ECIR2010 library for language identification of short query style text http://bit.ly/LangDetect     
+    
+    
+    Good feedback question at @convergingmedia conference: is the web a web of words or more like a stream or ambience music    
+    
+    
+    Looking currently at Twitters API... Need to collect data for a hands-on-session on web mining    
+    
+    
+    Leaving for my second visit to Krakow. After the IIS conference in 2009 this time for the #ictrobust meeting at Software Mind.    
+    
+    
+    Collecting twitter data of densely connected users. Need to implement Oauth to have more requests per hour.    
+    
+    
+    Heading towards the social dinner in Krakow ... but before Software Mind promised a surprise ... Ho ho ho #ictrobust    
+    
+    
+    Back in Germany after the #ictrobust meeting in wonderful Krakow    
+    
+    
+    Submitted our WS-paper on recommendations for online dating websites using split-complex numbers with @kunegis and @gerdgroener #recsys2012    
+    
+    
+    Leaving for Milan. We'll be at San Siro tonight ... and it's not for football ;-)    
+    
+    
+    @mattroweshow been there last night for the #mdna concert. Was a great show!    
+    
+    
+    That one's for @renepickhardt and the #typology guys : http://xkcd.com/1068/  ;-)    
+    
+    
+    I'm reading a text on SEO: some people still believe web search engines  employ some kind of magic to come up with relevant results...    
+    
+    
+    Findings of @westinstitute twitter analysis session @dagstuhl: the odds of retweeting this tweet are 7.4519706    
+    
+    
+    What a week! 1 paper accepted, 1 paper submitted, 1 paper started, more then 30 papers read ... and I made a pirate hat!    
+    
+    
+    @kunegis problem with this weather map: it is historic data :-(    
+    
+    
+    What are the features one has to pay attention to when buying a pair of headphones?? Any suggestion?    
+    
+    
+    Hey fellows in Koblenz... already got wet feet? ;-)    
+    
+    
+    Great! which path do you take? Xkcd on Good Code http://pulsene.ws/FAgE    
+    
+    
+    The highland games in Rüsselsheim become larger every year. Funny event http://yfrog.com/ny15zifj     
+    
+    
+    Short summary of our #wole2012 paper on finding web documents to represent knowledge base entities: http://blog.west.uni-koblenz.de/2012-09-13/finding-web-documents-to-represent-entities-from-a-knowledge-base-a-novel-retrieval-task/ … #ictrobust @WeST_Ko    
+    
+    
+    Just saw longest boat traffic jam on the river #rhine from #koblenz to #loreley    
+    
+    
+    Working train is just too productive. Nearly wish to have a longer way ;-)    
+    
+    
+    Took 3 children to get that experience: paper writing with a baby on the arm last night for our #btc2012 submission :-D    
+    
+    
+    Wrote a short summary of our #btc2012 submission for the @WeST_Ko blog. Have a look: https://blog.west.uni-koblenz.de/2012-10-20/westbtc-2012-the-lodatio-retrieval-system/ … #iswc2012 #LODatio    
+    
+    
+    Leaving for #iswc2012 in Boston. Going to present #lodatio -- our contribution to the #btc2012 
+:-) #ictrobust @WeST_Ko    
+    
+    
+    An unbeatable advantage of travelling by plane: nobody can knock on the door to interrupt you--I managed quite some work on the flight today    
+    
+    
+    I guess an awful lot of people are offline while travelling to #iswc2012 ... hardly got any e-mails today ;-)    
+    
+    
+        
+    
+    
+    Effort should go in the direction of getting agents to work together in the semantic web (@jahendler #sw2022 #iswc2012)    
+    
+    
+    7% of the data Google crawls contains machine readable information #sw2022 #iswc2012    
+    
+    
+    Ari: I don't know how recognizing outliers saves me from being eaten by wolves ...  but evolution got humans good at it #sw2022 #iswc2012    
+    
+    
+    @iFromm semantic data but not necessarily RDF. Maybe I should have said machine understandable (whatever that means)    
+    
+    
+    #sw2022 static ontologies are a blocker for the read-write web---I think: composing a vocabulary from various sources you are quite flexible    
+    
+    
+    #sw2022 @timberners_lee will give an improvised 10 min keynote (qualified by being a speaker that does not need to be introduced) #iswc2012    
+    
+    
+    First #sw2022 talk after the coffee break on "Why the SW should become more imprecise" #iswc2012    
+    
+    
+    #sw2022 : nowadays semantic web is strongly biased towards precision -- we need not to forget about recall #iswc2012    
+    
+    
+    Next: @matthimm presenting our "vision" paper at #sw2022 on "linked know how" #iswc2012    
+    
+    
+    @vrandezo Lets translate that in Twitter language ;-)
+@matthimm @tgottron @ascherpuokob @gerdgroener
+http://stko.geog.ucsb.edu/sw2022/sw2022_paper7.pdf … #sw2022    
+    
+    
+    Got to the #wole2012 workshop now after the #mit tour. Sorry to have missed the beginning :-( #iswc2012    
+    
+    
+    Next talk mentions "LOD Russia" in the title -- funny to have a national branding for LOD #wole2012    
+    
+    
+    A "Math ontology" ... got to get my hands on this one :-D #wole2012 #iswc2012    
+    
+    
+    Next talk on extracting discourse graphs from wikipedia -- sounds interesting! #wole2012 #iswc2012    
+    
+    
+    @gatemezing not so far. was mentioned on the slides. Maybe in the paper  (http://ceur-ws.org/Vol-906/paper1.pdf …) -- haven't looked at it yet    
+    
+    
+    @timse7 Prinzipiell gerne -- war aber nur die erste Hälfte da, danach anderer Workshop mit weiterem eigenen Paper.    
+    
+    
+    #ECB appears in a talk at #wole2012 finally creating the missing link between my work and the one of my wife ;-) #iswc2012    
+    
+    
+    Wondering why the authors didn't use ESA as purely text based approach for measuring semantic relatedness of terms #wole2012 #iswc2012    
+    
+    
+    current talk on turning keyword queries into SPARQL -- Seems a wonderful extension for our #btc2012 contribution #wole2012 #iswc2012    
+    
+    
+    Had some nice and interesting discussions in the aftermath of my presentation at  #wole2012 Thanks for the feedback! #iswc2012    
+    
+    
+    Btw. for those interested in #ESA: If you want to understand how it really works, look at our CIKM'11 paper http://dl.dropbox.com/u/20411070/Publications/2011-CIKM-Gottron-AS.pdf … #wole2012    
+    
+    
+    This morning: #cold2012 workshop on consuming linked data. Curious to see what is coming...  #iswc2012    
+    
+    
+    #cold2012 21 submission, 11 accepted papers    
+    
+    
+    There will be a paper on a QB4OLAP vocabulary. Particular looking forward to this one #cold2012 #iswc2012    
+    
+    
+    Next generation of Amsterdam's fire trucks are planned to be RDF fire trucks -- Pushing out all data in RDF #cold2012 #iswc2012    
+    
+    
+    What linked data might be good for: flexibly get the relevant data in a "black swan" scenario #cold2012 #iswc2012 @semanticfire    
+    
+    
+    It really IS a small world. Got a message from an old friend I know from Glasgow times. She happens to be in Boston in the moment :-)    
+    
+    
+    Next talk on what can be learned from federated DBs for distributed query processing on LOD #cold2012 #iswc2012    
+    
+    
+    Claim: using dictionary encoding and duplicate removal the entire LOD requires only 800GB storage space #cold2012 #iswc2012    
+    
+    
+    current talk at #cold2012: group RDF data characteristics into terms, triples, graph ...
+
+I wonder: why not infer also a schema? #iswc2012    
+    
+    
+    The thought just stroke me: #LOD is definitely lifting off, if we have to consider the problem of spam! #cold2012 #iswc2012    
+    
+    
+    @mrowebot What exactly would we have to look for? Given the examples from Tom the spam would very subtle    
+    
+    
+    so ...  there is spam in the BTC dataset. Looking forward to see this data. Anyone already got the URL? #cold2012    
+    
+    
+    Spam in the BTC dataset: http://bit.ly/LD-spam  #cold2012    
+    
+    
+    Ok, just got clarified. The spam dataset is an artificial dataset based on BTC which contains injected spam #cold2012    
+    
+    
+    #cold2012 presenter made an app using semantic technology without hiding RDF from the user -- to show them there is nothing to be scared of.    
+    
+    
+        
+    
+    
+        
+    
+    
+    OLAP extension to QB vocabulary -- very interesting, but I cannot read anything from the back :-( #cold2012    
+    
+    
+    Want a sneak preview of the @WeST_Ko #btc2012 submission? 
+Live-demo: http://bit.ly/lodatio 
+Poster: http://bit.ly/TzPvfP 
+#iswc2012    
+    
+    
+    #iswc2012 keynote. Idea: Represent not only data but also processes on the semantic web. Requires ontologies to have verbs    
+    
+    
+    Interesting concept of an inheritance hierarchy for activities (ontology verbs) #iswc2012 #keynote    
+    
+    
+    Collective intelligence activity design patterns must answer four questions: what is done, who is doing it, why and how? #iswc2012 #keynote    
+    
+    
+    Decomposition of example communities into what,who, how and why "genes" (design patterns) #iswc2012 #keynote    
+    
+    
+    Genes for collective intelligence...makes we wonder if you can do "genetic engineering" to create new forms of coll. intelligence #iswc2012    
+    
+    
+        
+    
+    
+    Italian football player Cassano made it into a #iswc2012 presentation!    
+    
+    
+    Statistics about the availability of temporal information per pay-level-domain including the relevant properties! Nice work! #iswc2012    
+    
+    
+    . @stcsn New logo looks good!    
+    
+    
+    Getting ready for and looking forward to the Minute Madness :-) Usually a fun event #iswc2012    
+    
+    
+        
+    
+    
+    @cgueret true -- but on a large scale it is still hard to individually decide how the entire group is behaving. Don't you think?    
+    
+    
+    @cgueret sure, but if I estimate 1000 people buying something, I myself can change that number by 1 item that I buy. That is what I meant    
+    
+    
+    Again the question about spam in semantic data using http://schema.org  #iswc2012    
+    
+    
+    Funny answer regarding http://schema.org  spam: "At Yandex we did not observe spam, but I know Google has problems with it" #iswc2012    
+    
+    
+    #iswc2012 poster session about to come to an end. Last chance to get a guided tour of #lodatio at our poster. http://bit.ly/lodatio     
+    
+    
+    Recap of the poster/demo session: extremely positive feedback on the #lodatio system - and one visitor wanted to hire our students #iswc2012    
+    
+    
+    #lodatio managed to get in the round of the three #btc2012 finalists... what a surprise ;-) #iswc2012    
+    
+    
+    #btc2012 finalists presentation of #lodatio on @slideshare http://www.slideshare.net/tgottron/lodatio-presentation … #iswc2012    
+    
+    
+    That is a number: facebook has 60 petabyte of graph data #iswc2012 #panel #bigdata    
+    
+    
+    My analogy: Google shows you HTML docs relevant to a query. SemWeb needs a search for RDF docs. Info stays in the docs #iswc2012    
+    
+    
+    Attending the session on Instance matching .. which seems to have started early (?!?) #iswc2012    
+    
+    
+    . @ascherpuokob Let me know if lightning stirkes ;-) #iswc2012    
+    
+    
+        
+    
+    
+        
+    
+    
+    Question "Who is familiar with Hadoop?" Hands rise. "Then I don't need to explain it!" And presenter really skips slide. Good one! #iswc2012    
+    
+    
+    Now it is @brokenthoughts on stage: SPLODGE: Systematic Generation of SPARQL Benchmark Queries for Linked Open Data #iswc2012    
+    
+    
+    Really nice talk by @brokenthoughts -- covered all the central ideas and the clean methodology of the paper #iswc2012    
+    
+    
+    The upcoming session features a presentation on Semantic Sentiment Analysis of Twitter. Work by @hrsaif, @halani and Yulan  #ictrobust    
+    
+    
+    After two days without coffee: today the coffee machine @westinstitute is back -- YEAH!    
+    
+    
+    We've got open positions for PhD scholarships @WeST_Ko https://www.uni-koblenz-landau.de/campus-koblenz/fb4/west/Jobs …    
+    
+    
+    This week: #WWW2013 submission, prep for #ictrobust review, financial audit, seminar talk, invited talk. Hope my head stops spinning now ;-)    
+    
+    
+    Reviewer sighing: "We had to read also this additional 90 pages document."
+Response by author: "Yes, but there were many pictures in it."    
+    
+    
+    If always wanted to know how "stable" is your research group: The Research Group Truck Number https://blog.west.uni-koblenz.de/2012-12-20/the-research-group-truck-number/ … @WeST_Ko    
+    
+    
+    Second day of juggling JSP, RDF, HTML, Servlets, Sparql and Web services for a nice #lod demonstrator    
+    
+    
+    How do you actually call a brunch that stretches into dinner?    
+    
+    
+    What do you use twitter for? Survey of @arifah77 Please participate, takes 2 minutes. http://www.surveymonkey.com/s/G9TVK25    
+    
+    
+    Anyone knows an #IR model to capture globally the pairwise relevance relations in a group of three documents?    
+    
+    
+    @alansaid you're welcome. Interesting topic and a different aspect of influence in social media    
+    
+    
+    Writing paper on using the web to analyze readability of texts. News and kids literature are comparably difficult to comprehend.    
+    
+    
+        
+    
+    
+    Website for workshop on Metrics, Analysis and Tools for Online Community Management is online: http://bit.ly/mama-workshop  #ictrobust    
+    
+    
+    I just donated my tweets to Science! Donate your tweets today! http://tweetsforscience.org  #Tweets4Science via @tweets4sci    
+    
+    
+        
+    
+    
+        
+    
+    
+    Leaving for #eswc2013 in Montpellier. Looking forward to an interesting conference and meeting some of the ROBUST folks (again). #ictrobust    
+    
+    
+        
+    
+    
+    Arrived at #eswc2013 this morning. Attending tutorial now on analysing and visualizing linked data with R    
+    
+    
+    Yeah! Managed to get web access!!! Let's see how long it lasts #eswc2013    
+    
+    
+    Introduction to adjacency lists (sic) in the tutorial on semantic data management in graph dbs at #eswc2013    
+    
+    
+    Those #eswc2013 attendees working in the context of social networks: Have a look at http://stcsn.ieee.net/call-for-participation … or directly talk to me! @stcsn    
+    
+    
+    The #eswc2013 keynotes better be good, interesting and fascinating. Otherwise people might easily dose off in these armchairs ;-)    
+    
+    
+    "There must be more to a SW application than using a triple store" #eswc2013 keynote by Enrico    
+    
+    
+    Current talk at #eswc2013 mentioning a community manager -- the concept of this role is spreading #ictrobust    
+    
+    
+        
+    
+    
+    Seen two very interesting talks at #eswc2013: one on SPARQL query pattern detection, one on predicate synonymity. Have to read the papers!    
+    
+    
+    Next #eswc2013 talk on logical linked data compression. Curious to see how this fits with our entropy analysis over LOD schema information.    
+    
+    
+    @lechatpito yep: will present the results on thursday in the second linked data session, last talk #eswc2013    
+    
+    
+        
+    
+    
+    Second #eswc2013 keynote on "End User Semantic Web Applications" by @karger    
+    
+    
+    ... keynote starts with the conclusion. So in case people fall asleep during the talk at least they don't miss the important part #eswc2013    
+    
+    
+    Interesting viewpoint: "An SW application is an application whose schema is expected to change" #eswc2013 keynote    
+    
+    
+    #eswc2013 keynote by @karger demands: more Semantic WEB and less SEMANTIC Web. Give more powerful tools to the users.    
+    
+    
+    Talk by  @mrowebot on topical specificity of online communitiess #eswc2013 interesting for #ictrobust    
+    
+    
+    Wonderful CF-IFF: concept frequency - inverse forum frequency. A community-topic variation of TF-IDF #eswc2013    
+    
+    
+    Next #eswc2013 on "Nanopublications" ... reminds me of the concept of MPU (minimum publishable unit)    
+    
+    
+    Poster of #eswc2013 demo no. 1: "A Schema-Based Retrieval System for Linked Open Data at Web-scale " online: http://dl.dropboxusercontent.com/u/20411070/Posters/2013-ESWC-Demo-Lodatio.pdf …    
+    
+    
+    #eswc2013 keynote: How can we integrate dynamic data (from any kind of sensors) into the Linked Data Cloud?    
+    
+    
+        
+    
+    
+    The slides of my #eswc2013 talk on Redundancy in schema information of LOD: http://www.slideshare.net/tgottron/eswc-2013-a-systematic-investigation-of-explicit-and-implicit-schema-information-on-the-linked-open-data-cloud …    
+    
+    
+    @lechatpito Just to follow up on our chat before: PMI might be an idea for outlier detection. It's explained in the paper I presented    
+    
+    
+    @AxelPolleres Might be a chance to get statistical evidence and support for formulating RDFS coming out of the data.    
+    
+    
+    Our dear @miriam_fs is "a bit confused" when handing out the best poster awards ;-) #eswc2013    
+    
+    
+    Leaving Montpellier. Good bye to all the #eswc2013 folks!    
+    
+    
+    Funny random context at the REVEAL negotiation meeting: whenever we come to a conclusion, people in the neighbour room clap their hands :-)    
+    
+    
+    Looking at #ecir 2011 program. Paper on Relevance assessment via croudsourcing by @elunca - I would be curious for a preprint    
+    
+    
+    Many thanks to @elunca for letting me take a glimpse at his upcoming #ecir paper    
+    
+    
+    Good question: how do you define the value of a community or the value of an individual to this  community? #ictrobust    
+    
+    
+    Started the first evaluation based on #croudsourcing today -- looking forward to the results! #mturk    
+    
+    
+    Reading about network models, information diffusion and traffic simulation to mashup a model for the value of a community :-D    
+    
+    
+    Gosh! Why do i always have to run to catch my train or bus these days :’(    
+    
+    
+        
+    
+    
+    Finalizing the preparations for the final review meeting of ROBUST @ictROBUST --looks good!    
+    
+    
+    Now, that it is an approach to detect trustworthiness in media: http://xkcd.com/1301/  @RevealEU    
+    
+    
+    Heading off to Southampton for ROBUST project meeting.    
+    
+    
+    Coffee, coffee, coffee! According to our twitter analysis noone is interested in this, but that is what I feel like ;-) #microblog    
+    
+    
+    @darcybenoit what was the talk about? Who gave it?    
+    
+    
+    Buon compleanno Italia #italy #birthday    
+    
+    
+    @renepickhardt good example for external #influence on #twitter trends. We should look at such #events that are easy to measure    
+    
+    
+    Just helped my uncle to install THE internet on his 10 year old pc :-D    
+    
+    
+    back in office after kickoff meeting for EU FP7 project ROBUST #ictrobust    
+    
+    
+    "Bad News Travel Fast: A Content-based Analysis of Interestingness on Twitter" accepted as full paper at #websci 2011    
+    
+    
+    "Readability and the Web" paper written with Ludger Martin accepted at ITA-11 in Wrexham, Wales. #ita11    
+    
+    
+    So far 41 answers to survey on twitter purposes of @arifah77 Please participate/retweet the link http://www.surveymonkey.com/s/G9TVK25    
+    
+    
+    Leaving for Trento: representing ROBUST at the User Centric Media cluster meeting #ictrobust #ucm    
+    
+    
+    Arrived at UCM meeting. Got strategic place near power outlet, coffee and cookies ;-)    
+    
+    
+    Do online games reflect real world behaviour better than what happens in social networks?    
+    
+    
+    Research and Development regarding Social Networks: what will be hot trends in the next years? #ucm    
+    
+    
+    Back in Germany. Interesting discussions at UCM meeting. Pity I had no time to explore Trento :-(    
+    
+    
+    twitter account auf #bcmz erstellt -- für die enkel ;-)    
+    
+    
+    Fragen per NLP aus Text generieren = inverse QA ??? #bcmz    
+    
+    
+    @domsom musste ja wohl sein -- nach heute morgen ;-) #bcmz    
+    
+    
+    (Session E-Learning) Information Retrieval für E-Learning auf dem #bcmz    
+    
+    
+    #bcmz Jon Kleinberg HITS: Hubs und Authorities in Netzwerken    
+    
+    
+    Wieviele Dokumente gibt es eigentlich im Web?Letzte mir bekannte Aussagen von 2/2007: 15 bis 30 Milliarden http://tr.im/Gc6a    
+    
+    
+    #bcmz PDF-Folien zum Barcamp Vortrag "Wie kann man Usability im Web (automatisch) messen" http://tr.im/GcrI    
+    
+    
+    Message from my daughter: "Easter is great!" I guess it is for the chocolate eggs ;-)    
+    
+    
+    Just arrived at #dagstuhl for the seminar on challenges in document mining.    
+    
+    
+    In Frankfurt macht am Samstag (5.12.) der #apple Store auf! http://tr.im/Goxg    
+    
+    
+    getting ready for first session on challenges in document mining. #dagstuhl    
+    
+    
+        
+    
+    
+    Hamish Cunningham: talk on the GATE family of NLP tools/application    
+    
+    
+    Mímir: Attaching Sparql restrictions to named entity search: find all persons of a political party having said something in news articles    
+    
+    
+    John Carrol: bootstrapping dictionaries for cross domain sentiment analysis    
+    
+    
+    Presented our work on content quality and retweet odds ranking at #dagstuhl    
+    
+    
+    Steven Burrows presented ideas on data mining of simulation results (of engineering data for bridges)    
+    
+    
+    Had coffee and cake. .. now back to session. Massi talking on using search engines for NE    
+    
+    
+    Massimiliano Ciaramita presented Piggyback: interesting approach for NER in queries based on search result snippets    
+    
+    
+    Next is Michael Granitzer talking about feedback methods in visual document analysis    
+    
+    
+    Norbert Fuhr giving last talk for today: framework for optimum document clustering - will be theoretic on what is a good clustering    
+    
+    
+        
+    
+    
+    Tim Gollub is preparing for his demo/talk on TIRA: a research assistant for empirical evaluations    
+    
+    
+    @giacomoinches I'm at a Dagstuhl Seminar http://www.dagstuhl.de/de/programm/kalender/semhp/?semnr=11171    
+    
+    
+    Andreas Henrich starts the day with a talk on multi-layer ranked visual faceted search    
+    
+    
+    LFRP shows nice visual UI for combining facetted and key word search    
+    
+    
+        
+    
+    
+    Alexander presented http://www.goolap.info Nice work and insights on user search behaviour in this context    
+    
+    
+    Next talking coming up after coffee break: retrievability of documents by Leif Azzopardi    
+    
+    
+    What is the ease of retrieving a document and how does this influence our perception of information and the world? Interesting question!    
+    
+    
+    Gerhard Heyer gives a talk on exploratory search and a bird's eye view on document collections    
+    
+    
+    Gerhard Heyer: Change rate of word context as sign of interestingness in classical media    
+    
+    
+    Now Harald Reiterer: Facet Streams and Search  Tokens. Seems to focus on user interaction with IR systems    
+    
+    
+    Very nice presentations showing how to intuitively construct complex facet queries using tangible UI    
+    
+    
+    Program for the afternoon and evening at the dagstuhl seminar: breakout working group sessions on specific topics    
+    
+    
+    Continuing session on sentiment analysis in the break out working group    
+    
+    
+    minimal String Edit Distance and maximum semantic distance: digital native vs. digital naive ;-)    
+    
+    
+    Great thing about having people from #glasgow come to #dagstuhl : they bring #whisky -- many thanks Leif!!!    
+    
+    
+        
+    
+    
+    Wolf Siberski gives a talk on understanding the intention of queries on structured data    
+    
+    
+    Benno Stein talks about semi-supervised learning and exploiting unlabelled data    
+    
+    
+    Benno presented some intersting results regarding the analysis of constraint clustering, co-training and structural correspondance learning    
+    
+    
+    Peter Prettenhofer now goes into the details of a cross-lingual adaptation of structural correspondance learning    
+    
+    
+    Short coffee break, now Arjen de Vries gives a talk on Search by Strategy    
+    
+    
+    Arjen showed a way how to marry DB and IR that also allows to configure the search mechanisms -- experts only    
+    
+    
+    Dennis Hoppe on Challenges in Patent Retrieval an Mining    
+    
+    
+    Social event: trip to the town of Trier    
+    
+    
+    Working group sessions after dinner. Dealing with optimum clustering framework and cluster labels    
+    
+    
+    Last session at #dagstuhl : wrap up and conclusions    
+    
+    
+        
+    
+    
+    Leif summarizes working group results on research infrastructure    
+    
+    
+    Jon presents the results of the sentiment working group -- orally and without slides! :-)    
+    
+    
+    Stefan gives the last talk: working group results on what one could do when being able to read a 1,000,000 books    
+    
+    
+    Norbert Fuhr concluded a great and productive seminar. Time to say bye to #dagstuhl    
+    
+    
+    Leaving #dagstuhl taking home nice impressions and some good ideas. Thanks to the organizers    
+    
+    
+    Using time on train to review papers  for the #tir workshop    
+    
+    
+    Knew there will be fun in following: RT @ecb_europa_eu: We released an improved version of our mon. pol. game Economia http://bit.ly/iZEocJ    
+    
+    
+    Example for an interesting tweet about NOT doing something RT @ecb_europa_eu: ECB keeps interest rates unchanged http://bit.ly/jwoyfX    
+    
+    
+    Preparing presentation for Vision 2020 meeting in Brussels next week    
+    
+    
+    Submitted #ECIR poster: language detection for query-style texts. http://kmi.open.ac.uk/events/ecir2010/    
+    
+    
+    @domsom interesting #ECIR workshop for evaluating @relevanzer http://www.irit.fr/CIRSE/index.html    
+    
+    
+    Scientific analysis of twitter: "A Few Chirps About Twitter" http://tr.im/HTgh    
+    
+    
+    Leaving for the vision2020 meeting in Brussels    
+    
+    
+    Arrived at EC for the expert consultation meeting "Vision2020 on networked media and beyond"    
+    
+    
+    Our workshop #DETECT on detecting and exploiting cultural diversity on the social web has finally been accepted at #CIKM 2011    
+    
+    
+        
+    
+    
+    @craig_macdonald these newlines in tweets really can ruin your day when parsing large datasets :-)    
+    
+    
+    Vision2020 meeting about to end. Will have to run to still catch my plane    
+    
+    
+    Back in Germany    
+    
+    
+    @arjenpdevries  that was really mean towards @craig_macdonald ;-)    
+    
+    
+    TIR 2011 accepted our paper on "A Fast and Accurate Approach for Main Content Extraction based on Character Encoding"    
+    
+    
+    DDR workshop at #ecir2011 - interesting topic but unlucky name. See wikipedia disambiguation http://bit.ly/eJKgGY    
+    
+    
+        
+    
+    
+    Boys with toys: attempts to come up  with a model to describe the clicks on URLs in tweets http://is.gd/JUaS0R    
+    
+    
+    Gotcha! A "coffee" tweet for our twitter search system :-D RT @saadkamal: morning everyone! Time to grab some coffee..    
+    
+    
+    @saadkamal sorry the twitter search system is not online yet. But my 2 favourite test queries are "coffee" and "beer" ;-)    
+    
+    
+    phew! CfP Deadline CIRSE extended to 20/Jan http://tinyurl.com/yb55qoz -- more time for paper :-)    
+    
+    
+    @saadkamal it's a research prototype estimating the "interestingness" of tweets.    
+    
+    
+        
+    
+    
+    @renepickhardt I agree on the relevance of coffee :-)    
+    
+    
+    Leaving for vacation -- back in 2 weeks :-)    
+    
+    
+    Back from vacation -- straight into ACM WebSci conference    
+    
+    
+    Attending keynote of Mike at the #altmetrics workshop #websci11    
+    
+    
+        
+    
+    
+    Back at the #altmetrics workshop #websci11    
+    
+    
+        
+    
+    
+    UCount: Community driven metrics by @cdparra #altmetrics    
+    
+    
+    Reputation of scientists seems not to be correlated with any classical impact index #altmetrics    
+    
+    
+    Keynote #websci11 from Jaimee Teevan on the evolution of web contents    
+    
+    
+        
+    
+    
+    Aligning revisitation frequency and in page change frequency gives you the interesting parts of webdocs #websci11    
+    
+    
+    #websci11 folks: remember to cast your vote for the best poster. The ballot box is at the help desk    
+    
+    
+    @gingdottwit there might be some spare forms at the help desk. Check with ruth  @idefixuni    
+    
+    
+    Next presentation by @kunegis of our paper on bad news travels fast and interestingness in the world of twitter #websci11    
+    
+    
+        
+    
+    
+    @kwelle happy to hear you liked the #websci11 poster session. I also enjoyed all the nice work presented there.    
+    
+    
+        
+    
+    
+    Interesting talk on the political news propagation on Twitter. Involves notion of node importance in the social network #websci11    
+    
+    
+    Marcel presenting "The Effect of User Features on Churn in Social Networks" at #websci11 #ictrobust    
+    
+    
+    "The effect of user features on churn in social networks" by DERI & OU wins best paper award at #websci11 #ictrobust    
+    
+    
+    @kunegis RT @jasonpriem: A comprehensive directory of research data repositories http://datacite.org/repolist (via @EvoMRI,  @ReaderMeter)    
+    
+    
+    One week left to submit a paper to the #detect workshop on cultural diversity in social media http://bit.ly/k8qOcd #cikm2011    
+    
+    
+        
+    
+    
+    Hey! Weimars PAN-10 Workshop on uncovering plagiarism at CLEF-2010 http://pan.webis.de/    
+    
+    
+    About to start summer academy lecture on Web Retrieval #west #koblenz    
+    
+    
+    Just gave a lecture in a tent -- weird :-)    
+    
+    
+        
+    
+    
+    About to board plane to Dublin. Then on to Galway -- ROBUST meeting. #ictrobust    
+    
+    
+    Returning from an intense and productive #ictrobust meeting. Thanks to @deri for perfect organization.    
+    
+    
+    @renepickhardt @nnaveed what are you two up to? #curious    
+    
+    
+    @giacomoinches bad news: got invited to google+ but have to wait for them to extend the user test :-(    
+    
+    
+    @Orpion Kwak et.al. discovered that already before (http://bit.ly/nJ4LAv ) . We looked into what people consider interesting #websci    
+    
+    
+    Well done folks! Paper on microblog retrieval by @nnaveed @arifah77 @kunegis and myself accepted at #cikm2011 #ictrobust    
+    
+    
+    presenting ROBUST at the User Centric Media Cluster #ictrobust #brussels #ucm #eu #fp7    
+    
+    
+    

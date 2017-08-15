@@ -1,0 +1,890 @@
+ Oh no, there's a cloud of genders giving me an excuse to be at a keyboard right now.
+
+In fairness, I was cooking for most of my recent episodic memory and this feels like a brief return to my daily routine (which is not what I want right now), so I'm gilding the DA hiatus with reddit and wine. 
+
+
+
+
+ velocity-sensitive keyboard
+
+squeee 
+
+
+
+
+ And that's why the Christmas Dragon is from Flanland kids ;) 
+
+
+
+
+ What's the best toy so far? 
+
+
+
+
+ All the best with the rennies (do try yoghurt too), only Whiskey I can manage is a hot whiskey - I am sacrilege ;) 
+
+
+
+
+ Just spotted the end of no. 1, my sister hasn't seen the last one so I've another movie on the roster.
+
+My all-time (chosen) movie record on Christmas Day is 7. I'll be nowhere near that today, but hey I can still type so that's new for this hour ;) 
+
+
+
+
+ So far it's a tasty glass of wine and a fag, got the 'Grand Budapest Hotel' in before the DA deadline. 
+
+
+
+
+ Also, Happy Christmas!!! 
+
+
+
+
+ Enjoy!!! I used it to bring an old stereo cabinet back to life, great software!!! 
+
+
+
+
+ Thank You, Lovely Gave Me Gold Person !!! :)
+
+Happy Christmas to ya!!!! 
+
+
+
+
+
+
+
+
+
+ Happy Christmas!!! 
+
+
+
+
+ I hope for their sake, none of his children are gay.
+
+As to the article, nobody is forcing the Catholic Church to hold gay weddings. They can keep their doors closed to such things.
+
+I don't think there will be any love lost there. 
+
+
+
+
+ If you've a Pi to spare, there's [Rune Audio](http://www.runeaudio.com/) - it's only for music, but it plays very well. 
+
+
+
+
+
+
+
+
+
+ I think you're thirsty ;) 
+
+
+
+
+ True, but nilhilism isn't a word commonly associated with Fascism.
+
+Fascists definitely believe in many things.
+
+It is a word associated with Anarchism though. 
+
+
+
+
+ The Bill passed without any amendments being accepted by the Government.
+
+Par for the course then. 
+
+
+
+
+ If something like XBMC is the front-end, wouldn't NFS shares with all the drives be a quick way?
+
+The mutilple NFS drive shares will look like one library to the end-user, if that's the main reason for the 'one big folder' approach. 
+
+
+
+
+ Also: the Poolbeg Incinerator project, Eyre Square, Greyhound bin services, the stalled Eircode postal system ...
+
+ 
+
+
+
+
+ And John Tierney is nowhere to be seen or heard - at this point what does his job actually involve? 
+
+
+
+
+ She should worry about that when she's in the Dil, plenty done there on an authoritarian basis. 
+
+
+
+
+ Silly me, thinking Fascism and Anarchism were different things.
+
+I thought Fascism was too much governance, and Anarchism was too little. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh, I don't think they'll pick a date voluntarily.
+
+I imagine they'll have made a balls of so many new things, while making a mess of fixing old things, that an early election will be their remaining choice. 
+
+
+
+
+ I reckon precisely one year could be taken off that. 
+
+
+
+
+
+
+
+
+
+ Ohhh, that's gonna bruise. 
+
+
+
+
+ Extremely frequent, and most people are better off jumping in at the deep   end, e.g. Paris.
+
+The best way to learn is to have actual conversations, so you've got to stick to speaking French and only ever use English when you can't explain it with any other French you know.
+
+In fairness, I only picked up this skill after sabotaging French - in the pursuit of understanding - while on holiday in Morocco.
+
+I don't think arrogance is the word I'd use either, it's just very easy to sound off speaking non-native French. I'd go for 'weary / scorn'. 
+
+
+
+
+ I had never thought of it that way.
+
+Frisky bunch those Germanic tribes.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks, I'll have to give that a go! 
+
+
+
+
+ I think there's an issue with the bootloader that makes dual booting a bit of a pain where one of them is an Android OS.
+
+I remember someone discussing it on the boards, but didn't see it again after that. I could be wrong on that though. 
+
+
+
+
+ I use Ubuntu and it's the most commonly used I reckon, but there's a decent spread of options and Android too.
+
+I don't remember seeing Arch, I use Arch for my webradio but don't use it much beyond that. (opening downvote umbrella)
+
+You can check them all out here: http://www.odroid.in 
+
+
+
+
+
+
+
+
+
+ I just plug it into a TV and a little HD and I'm good to go :) 
+
+Any HDMI port will do.
+
+At home, I've a home server so all the files come across via NFS.
+
+Plus, it's CEC compatible so if I'm just using XBMC then I use the TV remote.
+
+To think last year I was only using a Pi with a HD plugged in directly for my XBMC needs. Now I'm all home-servered up with a completely silent set-up (before the Pi it was a PS3, so the drop in noise levels is much appreciated).
+
+I look back at how I used to do things wondering what kind of digital savage I was back then ;)
+
+The odroid really helped me step up my game.
+
+ 
+
+
+
+
+ Not precisely the Pi OS versions, the Odroid chips are different. So you wouldn't be able to flash a Pi OS on an Odroid.
+
+There are loads of OSs to choose from though, even Android if you feel like it - have a look:
+
+http://www.odroid.in/
+
+I've both some R-Pi and odroids, I use the Pi for XBMC, security cams, web radios and I use the odroids for all of those things plus home server, desktop computer and general workhorse.
+
+There's DOSBOX, of course Android games and a whole bunch of other ways to emulate. July's Odroid magazine has more details:
+
+http://magazine.odroid.com/
+
+I love both machines, but certainly the odroid U3 is more useful and I imagine the C1 will really give the Pi a run for it's money.
+
+I don't need one, but I'll have to get one to see how it compares to the Pi. If it's like the U3, then I doubt I'll go back to the Pi for much. 
+
+
+
+
+ Nah, they're not soldered and are easy to change.
+
+I've 3 U3s and a bunch of eMMCs.
+
+The sd card option is slower but it's a great way to test images.
+
+I definitely recommend getting an eMMC though - they're really fast. All the images on the site will fit on the 8gb eMMC, so you don't have to go for the bigger and more expensive ones. 
+
+
+
+
+ The U3 is easy to flash, I'm not a dev either.
+
+Just download the image and 'dd' to your SD card or eMMC and you're good to go! 
+
+
+
+
+ Great, I use it everyday and it's real fast and I've no problems with image quality. 
+
+
+
+
+ You'll love the upgrade in performance from the Pi, no doubt there!
+
+Miles apart in terms of desktop usage, you're in for a treat :)
+
+ 
+
+
+
+
+ You can put Android on the Odroids and get Netflix that way:
+
+http://forum.odroid.com/viewtopic.php?f=94 t=7389 p=58142 hilit=netflix#p58142 
+
+
+
+ 
+
+
+
+
+ You'll have a great time with it I'm sure!
+
+The USB ports are solid, I've been frustrated with the Pi's but no bother with the Odroids.
+
+I've two usb v3 and two usb v2 (via hub) connected to my home server now and it's all good :)
+
+Must resist temptation to get a XU3 now, I've no need for one but ... 
+
+
+
+
+ I'm over 6 months with it as a desktop, and I love it!
+
+I don't need to stray past Libre Office for my admin stuff (work for myself), all the linux end is a breeze unsurprisingly and it's all really zippy at it.
+
+I do find Chromium better than Firefox but otherwise I can't see much of a compelling difference from the X86s I have and which I'm using less.
+
+I love bringing a little cigarette box size pc, wireless keyboard, HDMI and power-supply around instead of a laptop. I can grab it all in one hand and people are amazed that such a little thing can do so much (though they probably don't realise that their smartphone is much the same thing).
+
+Standard programs open quickly and work well, they need customisation as does much in Libre Office and some GNU apps in general but no deal breakers so far. It's a joy to simply clone a working system and install it for people.
+
+I'm not a database guru by any means, so I'm not going to speak for that. Though if bulk converting XHTML is anything to go by, the U3 is no slouch.
+
+The devices can take mishandling in a way I wouldn't do with a laptop, or a Pi for that matter.
+
+The limitations I've found are linux-general instead of Odoid-specific, e.g. Flash videos, Excel to Libre-office macros etc.
+
+As a home-server, I'm still trying to break it with genuine use-cases. I won't ever go near a shop-bought NAS after using the U3.
+
+I'd say for everyday use, the XU3 isn't needed - a U3 will easily do anything a 300 - 400 laptop will (outside of GPU instensives, e.g. gaming) and take up next to no space.
+
+Plus it's low energy needs means less heat and no fans - the joy of silence.
+
+A remarkable piece of kit for 99 to my door, so I've ended up with 3 of them ;) 
+
+
+
+
+ It really bothers me that he can't stick to his brief, and can't do anything about proprietary vs. generic medicines in our health bill.
+
+Can we all each take 3 from his health-budget till he improves the health service because I'm bothered about it!? Or would he protest over such a change?
+
+ 
+
+
+
+
+ I'm on the flipside, having only seen the movie.
+
+I've read his other books, and I think it will stand his take on humanity - the movie is not a cheerleader for human compassion but is a 'take your warm embers while you can, to keep you warm'. 
+
+
+
+
+ You're right on the general distro, though to get the most out of the board / chips seems to have involved a lot of "please give us more to go on than a binary blob" etc.
+
+That's a couple of years back now, and as far I can see this issue is largely over, apart from leaving out the open-source ideal.
+
+The Odroid community have filled in the blanks, and some members have really gone back to the metal for it.
+
+For the curious, here's an official img page:
+
+http://www.odroid.in/ubuntu_14.04lts/ 
+
+ 
+
+
+
+
+ If you feel like one of them, then Requiem.
+
+Best dollar that can be spent on a movie, though you'll probably not loan it to anyone after.
+
+ 
+
+
+
+
+ Much apologies!!!! 
+
+
+
+
+ I'm a U3 as desktop user, what are the benchmarks I should run?
+
+I can run a real benchmark now if you'd like on a U3.
+
+There's the usual 'flash' issue but otherwise websites are fine for me. 
+
+
+
+
+ One placard equals 'in force' ? 
+
+
+
+
+ I'm typing via a U3 right now as my desktop / surfing computer, have another as my TV pc / XBMC box - and another as my home server which can take much more than I thought it would. Great little things.
+
+Fell hard for the U3, the XU3 looks amazing though I've saturated any need for more mini-PCs at this stage. 
+
+The C1 looks very tempting, hard to justify a Pi when this is available. I wonder if this is Hardkernel's response to not getting any more Pi chips for W model.
+
+The only drawback for me is that while the [odroid forum](http://forum.odroid.com/) is great for help and news, it is bewildering for new-comers.
+
+Finding the latest images / software can be a pain without checking huge threads to see if there are patches or better solutions than the immediately obvious links. There's a lot of cruft left over from previous versions and solutions which I think should be archived off to a distinct section of the site.
+
+That said, I wouldn't be without them now.
+
+For those who are thinking of taking the plunge, do go for the eMMC options over the SD card. The SD card is fine, and is a handy way to test images etc but the eMMC is much more pleasant once you've settled on an OS, set-up etc. The images will all go on an 8gb eMMC.
+
+I gave one to my non-techy brother as both an XBMC tv solution and a TV pc, loves it and with the little wireless keyboard I gave him more than able to navigate around.
+ 
+
+
+
+
+ Sure, would ya not have smiled at them a bit too - being a happy Garda and all ... 
+
+
+
+
+ Charles is Oliver's son, the West Korea route to a Dil seat. 
+
+
+
+
+ Is there an xkcd about physical access vs. remote access? 
+
+
+
+
+ I paused at 30 seconds, will certainly watch. Thanks!
+
+And I'm certainly not going to mention S****el  
+
+
+
+
+ Never Let Me Go - http://www.imdb.com/title/tt1334260/
+
+Requiem for a Dream - http://www.imdb.com/title/tt0180093/ 
+
+ 
+
+
+
+
+ Never Let Me Go 
+
+
+
+
+ I'd their radio internet my first time with them, I lived in the sticks, then went fixed line once I'd moved.
+
+All hassle-free, just told my landlord what Digiweb needed to do to the house - he was thrilled at the idea of an upgrade out in the boonies. When I moved Digiweb uninstalled the receiver etc. from the old house.
+
+I checked with Eircom when I moved to that old house and their answer was a flat-fee of 300 "for works" although the wiring was complete so I would have paid that cash simply for activation.
+
+The landlord wasn't going near such a bill - and neither was I.
+
+There was even a dial-tone when I plugged a phone into the obvious socket in the house.
+
+And so my dislike and distrust of Eircom was born.
+
+
+
+ 
+
+
+
+
+ I'm not sure how true this still is (or was) but a French friend told me that come results time and assuming a minimum achievement in grades, students went to the universities they liked and basically queued for the courses they wanted to enter.
+
+The completely unsuitable were weeded out by the 1st year exams and too bad for them then - they were gone.
+
+It sounds like a nightmare, but also sounds like those stymied by choices made in school have a chance to redirect their trajectories rather than sticking to what their 5th year subject choices confined them to.
+
+I made a mess of uni the first time, and it wasn't until my mid-20s I decided to try again. Much better then.
+
+Sometimes I wonder if a deferment for a year, combined with a tax-break on any work during that year towards future education fees etc. would really help students choose a course they genuinely want, while giving them a very good reason to enter the workforce first.
+
+That year of work being the impetus and awareness to pick a course they really wanted, rather than being swept along with the pressure to get a degree first then experience later. 
+
+
+
+
+ Digiweb, some people don't like them - but I've had next to zero problems with them. 
+
+
+
+
+ Digiweb, they gave me the first month of fibre free too - as I've been with them so long.
+ 
+
+
+
+
+ I've been ~10 years away from Eircom, absolutely no regrets.
+
+I got fibre installed one week after I called, whereas my neighbour went with Eircom - it took 3 weeks to get the installation, then 3 months to actually provide him a stable connection. It just dropped every hour or so on him, and was nowhere to 30mbits they promised.
+
+Same lines, same junction box - totally different service. 
+
+
+
+
+
+
+
+
+
+ With a little sprinkle of internet shaming ... 
+
+
+
+
+ Yeah, it isn't really much better.
+
+Though maybe it's a start from where real rules can be created, rather than non-retrospective 'guidelines'.
+
+I should have known at this stage to expect little from our government but window-dressing, and a rule change which sounds like it should effect one FG's biggest supporters / donors yet it really protects him from his competitors. 
+
+
+
+
+ The final rules will not apply retrospectively
+
+Still, better than nothing I guess. 
+
+
+
+
+ I have an all-white (wall-painted) space, and while that's a lovely apartment, the lack of colour via posters, prints, rugs, cushions etc. makes it look like a showroom or corporate rent rather than an actual home.  
+
+
+
+
+ But then we'd have to gag newspapers prior to court cases, and judges can instruct juries to disregard previous / current reports and only focus on facts presented in court. 
+
+
+
+
+ Fantastic news, that's a definite buy for me! 
+
+
+
+
+ If you want off-beat / art-house / European then:
+
+www.mubi.com
+
+36 for a year of all you can watch.
+
+Closer to home, there's:
+
+www.volta.ie 
+
+
+
+
+ obsession
+
+It's just another subject, I was coding at 8.
+
+It didn't all take, neither did German, Biology or Accounting - general life things there too. 
+
+
+
+
+ To reveal the target and methods in court wouldn't make sense, but to hide the fact of the court case is the thing that really worries me.
+
+Tell the judge 'in camera' about the details, but the fact of a foreign government requesting Irish data from companies should not be hidden. We should be able to see how many times it happens, and whether it's getting worse year on year.
+
+I guess this will make the US government's case against Microsoft for data held on their Irish servers much easier too.
+
+I can really see now why Fine Gael have never been elected to Dil governance twice in a row. 
+
+
+
+
+ Thanks!
+
+I suppose that would only leave this bit:
+
+The companies would be prosecuted in secret, and would be unable to disclose their objections publicly  or even the fact that they were being prosecuted
+
+That sounds very unusual to me, are such gag orders common?
+
+Those I suppose by their nature that can be hard to determine. 
+
+
+
+
+ The provision for the secret courts is exceptionally unusual.
+
+Even with very sensitive cases in Ireland theyre not prosecuted in camera, said TJ McIntyre, lecturer at University College Dublins school of law and chairman of advocacy group Digital Rights Ireland. Its worrying because it means telecommunications companies might be pressured into doing things that arent entirely legal.
+
+The companies would be prosecuted in secret, and would be unable to disclose their objections publicly  or even the fact that they were being prosecuted.
+
+My hope (foolish I guess) that Fitzgerald would clean up Garda corruption has just completely vanished.
+
+It took a hit when O'Sullivan was appointed commissioner, but secret courts now, much worse than the Sherblock.
+
+Where I wonder does the Lisbon treaty sanction secret courts? 
+
+
+
+
+ But the dual-wield in 2, it's swapping in 1 
+
+
+
+
+ Or in other words, I haven't added as many 'publishers' to my 'only-2nd-hand' list as I have this year.
+
+ 
+
+
+
+
+  10% of a sector is massive
+
+Indeed, it's also not a "huge percentage" - it's a significant percentage.
+
+My point being that Irish companies (the vast employers) are at a competitive disadvantage because of loopholes they're not big enough to exploit, while MNs are.
+
+We could have a home-grown eBay, Google etc. but we'd never get past the start-up phase as the tax decks are stacked against.
+
+12.5% is great, let's keep it that way and let's have a free-market that obeys it. That's competition isn't it?
+ 
+
+
+
+
+ Ah, too up to stop - too fatigued to dance.
+
+Foot-taps then finger-dancing should be along in 20   20.
+ 
+
+
+
+
+ It gets a lot of disdain, but isn't nearly as bad as its reputation.
+
+The controls are better in 2, the story is decent in 2 - but the story is not as good as 1.
+
+I wouldn't skip it - you'd miss the Big Daddys' counter-part! 
+
+
+
+
+ The latest figures I can see are [161,000](http://www.reuters.com/article/2014/01/03/ireland-investment-idUSL6N0KD1L320140103) multinational employees, out of a total workforce of [2,170,984](http://www.tradingeconomics.com/ireland/labor-force-total-wb-data.html).
+
+The usual figure given for multinational employment is between 25   30% - though as we can see from the total labour workforce it's ~7%. 
+
+[2009 Data - "Employment in foreign-owned multinationals accounts for about 9.5% of private sector employment in Ireland"](http://eurofound.europa.eu/observatories/eurwork/comparative-information/national-contributions/ireland/ireland-multinational-companies-and-collective-bargaining)
+
+Even at 25%, the vast majority of Irish people are employed by Irish companies who would struggle to get a team of accountants and lawyers together to avail of tax loopholes in the same manner multinationals do.
+
+It's funny in these online debates, I always see people who claim multinationals are major employers. That's not the case, the major employers in Ireland are Irish people   companies. 
+
+
+
+
+ This is about loopholes reducing their bill, not low taxes. 
+
+
+
+
+ Except nobody speaks Etruscan any more, Irish isn't a dead language, you're not forced to speak it or use it, and there are no *demands* that you pay for it because it's an official language just like English which I imagine you don't possess a bill for speaking.
+
+So, what was your point again? 
+
+
+
+
+ kif.gif 
+
+
+
+
+ Would it really be that hard to cross-ref age ranges, clerical / political careers and geographical advantages? 
+
+
+
+
+ I'm just asking for facts.
+
+And Drumcondra is exactly where you need to go asking 
+
+
+
+
+ about protecting identities
+
+I can't take that seriously:
+
+["As charted by the Murphy commission, the complaints of parents and their children were ignored and other families placed in immediate danger as prelates from John Charles McQuaid onwards suppressed scandals and **took refuge in canon law to protect offenders at the expense of children**."](https://en.wikipedia.org/wiki/Murphy_Report#Emphasis_on_the_avoidance_of_scandal)
+
+Are you trolling or naive?
+
+Brendan Smith worked in my school, briefly. He got one though.
+
+Two christian brothers that worked permanently in my school were shipped to psychiatric units instead of prison, though they had to be kicked out of town for feeling 1st years up beforehand - the 'Boiler Room' we called it.
+
+As for McQuaid, ask men / grandparents (then boys) who went to school near Drumcondra during his reign what they thought of him - they'll know exactly what second floor of a building I mean. 
+
+
+
+
+ What do you recommend we do in '15? 
+
+
+
+
+ Except Irish isn't the antecedent of English and our oldest documented history isn't written in English either. 
+
+
+
+
+ Are typos and miscommunications the same thing as inaccurate translations of an official language by the department in charge of that language? 
+
+
+
+
+  I don't agree that a debate in an elected assembly is a kangaroo court.
+
+Is an elected assembly in the Dil a court?
+
+ 
+
+
+
+
+ Seriously?
+
+[The department aided this culture "through infrequent, toothless inspectors" that always deferred to the Catholic's church's authority, the report said. The inspections even failed to ensure that children were adequately fed, clothed and educated.](http://www.theguardian.com/world/2009/may/20/child-abuse-catholic-schools-ireland)
+
+-------------------
+
+[Irish taxpayers are to fund most of what is likely to be the largest payout from public funds to child abuse victims anywhere in the world. Organisations representing clerical abuse victims and members of the Dail claim the final compensation bill will be around 1.3 billion (780 million).
+**Under an indemnity scheme agreed between Bertie Ahern's government and the Conference of Religious in Ireland in June 2002, the Catholic Church will only pay 128m towards the bill.**](http://www.theguardian.com/world/2006/jan/01/childprotection.children)
+
+
+-------------------
+
+[The Commissions recommendations were limited by the Irish Government to just two categories. In short, the Irish taxpayer picked up the bill for the costs of the inquiry and any compensation **but remained in ignorance of exactly who was to blame. It was a situation that would endure because of previous undertakings given to the Christian Brothers, including the promise that there would be no prosecutions even though the evidence of criminal acts was overwhelming**.](http://churchandstate.org.uk/2013/05/child-abuse-scandal-how-the-irish-government-protected-the-catholic-church/)
+
+This is all very very old news.
+
+ 
+
+
+
+
+ To be also fair, other government websites aren't responsible for the 1916 centenary. 
+
+
+
+
+ If it was any other department a bit of leeway would be fine, this one though!
+
+Our new department head hasn't been settling into the role very well. 
+
+
+
+
+ [2009 data = Little (departments have native speakers) to ~1m](http://www.independent.ie/irish-news/government-wastes-1m-on-translations-into-irish-26594524.html) 
+
+
+
+
+ hehehe 
+
+
+
+
+ I know some people who are in both
+
+It never crossed my mind that people would do that. Do they not get accusations of being a 'spy'? 
+
+
+
+
+  the kind of young person who joins Fianna Fail; not being able to look at your own reflection anymore;
+
+Could be worse, if it was FG there'd be no reflection ;)
+ 
+
+
+
+
+ The spokesperson said the mistake happened because the Department sent the English text to an external company which was contracted to design the website.
+
+Was it beyond reason to simply send them both the Irish   English text at the same time?
+
+They are the Department of Arts, Heritage and the **Gaeltacht** after all.
+ 
+
+
+
+
+ The following may not improve your mood:
+
+["Government adviser defends 1916 corporate sponsorship proposals"](http://www.independent.ie/irish-news/politics/government-adviser-defends-1916-corporate-sponsorship-proposals-30715339.html) 
+
+
+
+
+ Thanks!
+
+I imagine the phrase might be "vote of no confidence". 
+
+
+
+
+ Is there a mechanism to run the commission vote again? 
+
+
+
+
+ I suppose we can expect no commitment to a referendum by government next week, when 'all will be revealed' about water charges.
+
+If there isn't, I think the reactions aren't going to be pretty. 
+
+
+
+
+ He insisted that legislation was the correct way to enshrine any such provision, and to "make sure that all the parties, come the next manifesto [for election] have this as a key promise."
+
+So rather than a constitutional certainty, we should settle for a manifesto promise!?
+
+This is not the clarity I'm looking for. 
+
+
+
+
+
+
+
+
+
+ If Lucinda is part of the future of political reform, I'll take random alterations instead.
+
+Still can't believe she said she "had to vote with her conscience" over the new abortion rules - she's a TD, elected to represent DLR not herself. 
+
+
+
+
+ Book-signing last night in [Dublin](http://www.broadsheet.ie/2014/11/13/when-they-met-it-was-moider/)  
+
+
+
+
+
+
+
+
+
+ Really? We're they actually known then, or estimated? 
+
+
+
+
+ Damn it, I was thinking the other day "Well, at least we haven't had to put up with Harney in years" 
+
+
+
+
+ Then they'd need to stop torturing the definition of 'intellectually dishonest'. 
+
+
+
+
+ I'm saying only one of the terms is intellectually dishonest. 
+
+
+
+

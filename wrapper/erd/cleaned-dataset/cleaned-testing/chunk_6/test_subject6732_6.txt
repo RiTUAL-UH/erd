@@ -1,0 +1,804 @@
+ That's cool... I was obsessed with mine when last year I tried to grow long hair... no haircut for 8 months... Finally cut it in this Feb.. Now am trying to grow longer than last year... 
+
+
+
+
+ It's not my favourite of all the 7 books but it is one of the first HP books I picked up in my reading life... I EXTREMELY enjoyed reading *Order of the Phoenix* and can never forget the feel I got everytime I saw that cover page when the book was waiting on my table for me. 
+
+
+
+
+ In your flair.. "Enemies of the hair, Beware" is that a spelling mistake?? Did you mean "heir"?? Just asking. 
+
+
+
+
+ Yeah me too.. 
+
+
+
+
+ There is only a fine line that separates confidence from over-confidence, and Dumbledore, irrespective of his magnificent magical ablities, never crossed that line for a show-off. He's an epitome of humility. 
+
+
+
+
+  calling him "Tom" and generally not giving a fuck. 
+
+Dumbledore all along! 
+
+
+
+
+  If there's one thing that struck me hard in the fight between Dumbledore and Voldemort was with how much confidence Dumbledore entered the fight.
+
+I just *love* it when somebody praises my favourite character. 
+
+
+
+
+ If only I could announce 50 points to OP for this post. 
+
+
+
+
+ this quote stinks! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for the great book names...  
+
+
+
+
+ Earth Day special... 
+
+
+
+
+ This one sentence can stand as an inspiration to those who are looking out for justifying their creative and artistic desires. 
+
+
+
+
+ [Bombay is a big city in India](http://en.wikipedia.org/wiki/Mumbai) 
+
+
+
+
+ Let's talk about the books that glorify the life of earth, its nature, its children and its unending wonders..
+
+The books that made me realize the worth and wonder of earth are undoubtedly 
+
+* Henry David Thoreau's *Walden* and 
+* Ralph Waldo Emerson's essay called *Nature.* 
+
+Those two works are some of the best things I've ever read about nature. 
+
+After I read them, I truly felt the wonder of being a part of such a miraculous thing called the Mother Earth.
+
+Please share here your favourite Earth Day reads and how they made you realize the magic of living here... 
+
+Thank you all, and have a magical day today :) :) 
+
+
+
+
+ Goodreads is fine. Not an unliveable-without, though. 
+
+
+
+
+  Please differentiate between TED and TEDx
+
+Sorry about that. Will keep in mind next time. Thanks. 
+
+
+
+
+
+
+
+
+
+ deep and strong... 
+
+
+
+
+  That said, there's a huge benefit in being able to see your ideas written out in front of you in your own handwriting. 
+
+Exactly. That's what I meant when I said it was a good idea. 
+
+
+
+
+ Hey that's a pretty good way to start up with the idea exploration stuff.. It puts a structure in your mind, thus eliminating all the time that we consume in hovering over the thoughts of where to go next.. 
+
+*Organizing* - a really cool tip to write faster. Thanks :) 
+
+
+
+
+ beautifully deep!! 
+
+
+
+
+ sounds interesting... shall check it out.. 
+
+
+
+
+ It has already been on my reading list for this year.. Thanks for the mention :) 
+
+
+
+
+  On the Road by Jack Kerouac
+
+Heard a lot about this one... Will read it soon! 
+
+
+
+
+  I found the first-person perspective gave a fascinating insight into the main character's mind as his situation worsened.
+
+Stephen King rocks at such stuff... Thanks. I will pick it up..
+ 
+
+
+
+
+ oh that's a very good advice.. thanks :) 
+
+
+
+
+ I recently read Herman Hesse's *Steppenwolf* and I was held all along by the inner voice of the protagonist. Also, Stephen King's *Hearts In Atlantis* has three different characters narrating different stories in the three novellas along the book.
+
+What are some of your favourite books with great first person narratives?? 
+
+
+
+
+ by Max Brooks, right?? 
+
+
+
+
+
+
+
+
+
+ *Angels and Demons* by Dan Brown. 
+
+
+
+
+  A bit embarrassingly
+
+There is nothing embarrassing about keeping the child in you alive...  
+
+
+
+
+ Stories have shaped up my life and made me what I'm today (I'm an aspiring novelist from India). I felt indebted to all those books that had shown me my true purpose in life. So, I decided to bring in such a change in the lives of many young children out there. I'm collecting the ideas to incorporate in my venture with books. My primary focus is in expanding children's reach into books, thus bringing in imagination and creativity into their lives. 
+
+Please share any other ideas that you think would be great for them to shape their fate with the help of books.
+
+Thank you so much :) 
+
+
+
+
+ WATCH THIS FILM BRO: [BHAAG MILKHA BHAAG](http://en.wikipedia.org/wiki/Bhaag_Milkha_Bhaag)
+
+[HERE IS ITS AWESOME TRAILER](https://www.youtube.com/watch?v=iY3qfhYPJSI)
+
+IT'S A TRUE FUCKING STORY OF A LEGENDARY RUNNER FROM INDIA (ALSO AN OLYMPIAN). TO GIVE YOU A GLIMPSE OF THE FILM I WOULD LIKE TO QUOTE HERE MY FAVOURITE SCENE:
+
+
+*OPPOSITE TEAM'S COACH*: **"THIS MIGHT PROBABLY BE YOUR LIFE'S LAST RACE"**
+
+*MILKHA SINGH*: **"I WILL RUN AS IF IT IS"** 
+
+
+
+
+ MAKE SURE ONE CHALLENGES YOUR FUCKING BODY AND THE OTHER YOUR FUCKING MIND.
+
+THIS MOTHERFUCKER IS ONE GODDAMN JEWEL OF AN ADVICE. 
+
+
+
+
+
+
+
+
+
+ Thanks.. but that's not a grass field.. it's a pond filled with some water plants.  
+
+
+
+
+
+
+
+
+
+ Outliers by Malcolm Gladwell 
+
+
+
+
+
+
+
+
+
+ *The Ocean at the End of the Lane* introduced me to Neil Gaiman, But I was firstly fascinated by his Tumblr advices and his talks prior to my reading his book. He's awesome! 
+
+
+
+
+
+
+
+
+
+ very cool collection.... especially Harry Potter.. huge fan.. 
+
+
+
+
+  0 down vote favorite
+	
+
+I've a csv file with multiple columns. I'm considering only two of them, 'Time' and 'RiseOrFall'. Both are of Factor datatype. Sample data looks like:
+
+    Time RiseOrFall  
+    12   32
+    34   0  
+    56   0
+    78   25
+    90   29
+    123  0
+    567  50
+
+I'm trying to create a line chart in R that falls everytime 'RiseOrFall' hits 0 and rises when it's not 0. ('Time' on x-axis and 'RiseOrFall' on Y-axis)
+
+I tried:
+
+countFile - read.csv(file = "counts.csv", nrows = 1000)[, c ('TIME','TRPM')]
+
+ggplot(data=countFile, aes(x=TRPM)) + geom_line()
+
+How can this be achieved in R (possibly using ggplot2 or anything)?? 
+
+
+
+
+ I just read your comment in Gatsby's (Leonardo DiCaprio) voice :) 
+
+
+
+
+ NOW THAT I'VE ADVISED YOU IN MY PREVIOUS COMMENT ON HOW TO WAKE UP EARLY, NOW LET ME TELL YOU SOMETHING HUGELY IMPORTANT. THNKING THAT WAKING UP EARLY WILL INSTANTLY SOLVE ALL YOUR PROBLEMS IS A GODDAMN MISFUCKINGCONCEPTION.. WAKING UP EARLY IS SURELY A GOOD THING NO DOUBT, HOWEVER IT CAN ALSO END UP GIVING YOU MORE PRODUCTIVE TIME TO DO UNPRODUCTIVE TASKS.. SO BE WARNED WHEN YOU WAKE UP AT 4AM ONE MORNING AND FIND YOURSELF DOING THE BEST PROCRASTIANTION EVER IN YOUR LIFE.. THIS IS SOMETHING YOU GOTTA KEEP IN MIND. 
+
+BUT NO WORRIES THERE. I'VE GOT A SOLUTION FOR THAT AS WELL. WHEN YOU DECIDE TO WAKE UP EARLY, TAKE A NOTEBOOK THE BEFORE DAY NIGHT AND WRITE UP IN THERE WHAT YOU'RE GOING TO DO IN THE WHOLE OF NEXT DAY. THIS WILL SAVE YOUR VALUABLE TIME IN THE MORNING FROM GETTING LOST IN THE THOUGHTS OF THINKING WHAT TO DO.
+
+TRY THIS AND SHARE YOUR EXPERIENCE WITH OUR OTHER BROTHERS IN THE SUB IF YOU LIKE TO.
+
+GOOD LUCK! 
+
+
+
+
+ THERE IS ONE SIMPLE TECHNIQUE FOR WAKING UP EARLY.. DRINK LOTS OF WATER AT NIGHT JUST BEFORE YOU GO TO BED. THEN NOTHING FROM HEAVEN AND EARTH CAN STOP YOU FROM WAKING UP AND RUNNING TO THE BATHROOM. AND WHEN YOU DO, WHEN YOU FINISH PEEING, SPLASH SOME WATER ON YOUR FACE, ALSO BRUSH YOUR FUCKING TEETH RIGHT AWAY... AND TA DA.. **YOU WILL BE WIDE AWAKE AS FUCK!!** 
+
+
+
+
+ great... 
+
+
+
+
+
+
+
+
+
+ I love paradoxes! 
+
+
+
+
+ Let me explain in detail why I had to come up with this post.
+I recently observed a pattern in my reading. I tend to read fantasy and fairy tale related books in rainy season.. I get a vague feeling inside my heart when it is cloudy or raining.. My mind immediately starts to pick the thoughts of magical realms, dark forests, curses and other fantastical stuff. 
+
+I'm not exactly sure about all of this but I guess I know when did all of this start in my life. I'm an aspiring writer. In 2013, when I was a computer science student, I faced some health issues and had to travel back home from my university. It was a journey of 2 days and all that time I was sitting beside a glass window in an AC coach, and was peering out of it. It had been raining most of the journey and so the surroundings outside were drenched, and the greenery that resulted was dark and deeply scenic. Slowly my mind started to think back into a few years and I remembered a favourite fantasy movie of mine: *Pan's Labyrinth.* The film was adorned in fantastic visuals and colour. And now the things I was looking at out of the train window were at par with those that I saw in the film. I felt  abruptly different. My mind started to wander into myriad impossible realms. I just enjoyed the feeling while it lasted.
+
+After I reached home I was prescribed to rest for a couple of weeks until to grow hale and healthy again. So, during that time I picked some books from my shelf, one is *Words from the Myths* by Isaac Asimov, it is full of Greek and Roman mythologies, and the other one was an old edition of National Geographic Magazine with the cover story about *Grimms' Fairy Tales.* The magazine also contained some breathtaking imagery of rain forests that that pertained to other articles in the mag. All along the time I was reading those books it had been raining outside (it was monsoon time). And something about it all got implanted in my mind during that time. Ever since then, whenever the sky turns dark and gloomy with clouds I vaguely start to think of fantasy stories and fairy tales. This even inspired me to write some poetry and bring up some short story ideas during rainy season.
+
+That's the story behind my post. Sorry I had to share it.
+
+Do any of you too have some similar experiences where the weather and the season outside influenced what you read???
+ 
+
+
+
+
+ Goddamnit, OP, put the source beside a quote. ~*Napoleon Hill*
+ 
+
+
+
+
+ Thank you :) 
+
+
+
+
+ [Upside Down](http://www.imdb.com/title/tt1374992/) is a very good science fiction/fantasy film with an innovative plot.. I would like to read such books.. Know of any?? 
+
+
+
+
+  Who needs fresh air anyway.
+
+There is not much of it in the world anyway. 
+
+
+
+
+ One of a kind... Too good, man. 
+
+
+
+
+
+
+
+
+
+ I stay in India.. Will you be willing to send it this far??? If so, thank you so very much. 
+
+
+
+
+  Isaac Asimov's Encyclopedia of Science and Technology from the 1960s.
+
+I consider you to be a damn lucky person. I've been looking for Asimov's non-fiction books in every second hand bookstore that I have visited but with no good success. I only found Opus (both Opus 100   Opus 200 in one) book. I love his non-fiction. 
+
+
+
+
+ *Opus 100* by Isaac Asimov - experiences of Asimov while writing his first 100 books. 
+
+
+
+
+ the first table. (Table 1) with two columns (X,Y) 
+
+
+
+
+ I'm a beginner at Statistics.. Am learning the basic concepts and graphs in Stats. Today, when I was [checking out Residual Plots](http://stattrek.com/regression/residual-analysis.aspx?tutorial=ap) I got stuck with this doubt (asked in the post title). Please help.
+
+
+ 
+
+
+
+
+ In [this](http://onlinestatbook.com/2/regression/intro.html) tutorial, if you see just above Table 1, the following text is written.
+
+*The example data in Table 1 are plotted in Figure 1. You can see that there is a positive relationship between X and Y. If you were going to predict Y from X, the higher the value of X, the higher your prediction of Y. *
+
+But the predicted Y values have decreased for two X values, (3 and 5). Then why was it mentioned as "the higher the value of X, the higher your prediction of Y" in the above paragraph???  
+
+
+
+
+ Yes.. I meant Krakauer.. I always get confused between their names.. But yeah On The Road is also on my list.. 
+
+
+
+
+ Read his *Into The Wild* - absolutely loved it. 
+
+
+
+
+ Ever since I'd read Thoreau's works, especially *Walden*, *Civil Disobedience* and recently, *Walking,* I started to firmly believe that Henry had lived by the values that he advocated in his lifetime. 
+
+And, Isaac Asimov is another person. He worked towards knowledge all of his life, and just take a look at what he produced in his time - immensely ingenious work.
+
+People acting their words and beliefs.. that's something that we rarely see in the world. 
+
+After that realization, I wanted to know of those authors who walked their talk.. 
+
+Can you please name some??? Would love to learn about them. 
+
+
+
+
+ This is easily one of the most creative posts of this sub! 
+
+
+
+
+ Mark Twain is Batman! 
+
+
+
+
+ I upvote anything that's from Thoreau... 
+
+
+
+
+ looks like i should give this book a try. 
+
+
+
+
+ Oh didn't know about this.. Thank you so much... 
+
+
+
+
+ Hey, OP, I'm 25 as well. I too sometimes feel the same way about my writing.. but that's the beauty of it, pal. You got to look at that mountain and feel overwhelmed by it, and then you gotto go ahead and start climbing. It's going to be tough, yet you have to keep up with it. Person who dislikes darkness can never know the beauty of the Moon. I don't want you to be that person; heck, I don't want anybody to be that person. Because at the core of our hearts, we're all *artists,* and artists do undergo such emotional journeys. 
+
+You can write! 
+
+
+
+
+  Look at how you describe the ghostwriter's ability. Can you not feel that emotion coursing through your own words?
+
+Ex-fucking-actly...!!! 
+
+
+
+
+ Twain... Twain... he is something.. I was left speechless by the book *What Is Man?* by Mark Twain. It's a small book, (a discussion between a young boy and an old man) and sheds a lot of light on the issue that argues how we as humans can't create thoughts and ideas from nothing, how our ideas are never original and are all influenced by one thing or the other. The book is full of intellectual enlightenment...  
+
+
+
+
+ FUCKING AWESOME! 
+
+
+
+
+ STEPHEN KING, INTERSTELLAR, A.R.RAHMAN, EARTH, YOU... 
+
+
+
+
+ Jaden, is that you??? 
+
+
+
+
+ I was spellbound by the way Christopher Nolan connected the climax of *Interstellar* film to a bookshelf. I seriously take it to be his tribute to the world of books. Also, the film *Into The Wild* talks of some of best books, like Thoreau's *Walden*, that had influenced Chris McCandless set out to do what he did with his life. I love the movies that do such things.
+
+What are some of the movies that payed tribute to books that stand as influence to many people around the world?? 
+
+
+
+
+ FUCKING AWESOME PRANK, MOD! 
+
+
+
+
+  THIS POST WAS NOT VERY MOTIVATING
+
+THE POST IN ITSELF WAS NOT MEANT TO MOTIVATE.. IT WAS MEANT TO BRING A FUCKING LAUGH ON ALL OF OUR FACES.. AND THAT LAUGH IS WHAT SHOULD MOTIVATE OUR FUCKING HEADS AND HEARTS. 
+
+LAUGH BROTHER.. A GODDAMN HEARTFILLING LAUGH IS WHAT WE FUCKING LIVE FOR. 
+
+
+
+
+ Are we vaguely having some superpower??? I mean, seriously...?? 
+
+
+
+
+ Something about that child coming back to life brought me so much peace.. so much. 
+
+
+
+
+
+
+
+
+
+ Why do you even fucking care about that! 
+
+
+
+
+
+
+
+
+
+  Not exactly cool
+
+Sometimes that's the new cool. 
+
+
+
+
+ OK.. that's just the Indian way of speaking English... Please don't mind.. :P 
+
+
+
+
+ Bro... your words just boiled my blood.... especially the last one, 'iconic.' 
+
+
+
+
+ Awesome...!!! 
+
+
+
+
+ Typeface, font, whatever the fuck it is, it is shit...!!  
+
+
+
+
+  IF YOU DIDN'T THEN YOU SHOULD GET KICKED IN THE BALLS THEN DO THIS WORK WHILE BEING LIT ON FIRE.
+
+THAT SOUNDS LIKE A VERY ASS-MOVING WAY TO GET THINGS DONE. THANKS, BROTHER. 
+
+
+
+
+
+
+
+
+
+  at /r/dreams
+
+Didn't know about that before.. thanks mod :) 
+
+
+
+
+  I've had experiences when my phone rings and I know who is calling before looking at the caller ID.
+
+Yes. I too experienced this in the recent past.. This is true for some SMSs as well...  
+
+
+
+
+ *Saving Private Ryan* all along.. 
+
+
+
+
+ Comparing car stuff with space shuttle stuff... Phew, muggles everywhere. 
+
+
+
+
+ You can't April Fool me with this... 
+
+
+
+
+  Critics have never been able to really appreciate Christopher Nolan.
+
+True.. they're real hypocrites.. 
+
+
+
+
+ exactly.. it was awesome...  
+
+
+
+
+ Is this by any chance a Fools Day prank?? 
+
+
+
+
+
+
+
+
+
+ [](/crying)
+
+Thank you so much!!  
+
+
+
+
+ This is one of the greatest quotes ever. It belongs on the front page. 
+
+
+
+
+ I like paradoxes.. 
+
+
+
+
+ Herman Hesse is such an author who can wake up the thoughts of your life from their eternal sleep and make them bring a cup of coffee for you. Liked very much his *Siddhartha* and loved his *Steppenwolf.* 
+
+
+
+
+   If you have no ideas, why do you want to write in the first place? 
+
+Exactly...  
+
+
+
+
+  Don't even get me started on all the short story ideas. 
+
+Hello, brother.. 
+
+
+
+
+ Yeah will do that... I myself need to improve my writing a lot :/  which is why my critiques aren't great.. Will work in that direction as well. Thanks. 
+
+
+
+
+ Thank you for the detailed critique.. I'm pretty new to writing fiction/stories. This is just my third one, I guess. So, all your inputs regarding my writing will be of utmost help for me. Thank you so much for pointing out where it can be bettered.. 
+
+ It was a very nice tale that could have been improved by writing. 
+
+I've good ideas for great stories but the execution is still a little on the lower side. I will have to work on that and I will surely do. 
+
+Thank you once again for the encouragement. 
+
+
+
+
+  The energetic current of passing period echoed through the rusting yellow bars of the classroom's windows.
+
+*classroom windows* would've simply sounded better.
+
+ Was it really this easy?
+
+Was *what* really that easy?
+
+ Ducks are cowards, she explained in cool, clear English, and when you yell at them they run.
+
+I liked that line. Hey, your writing went smooth in the paragraph above that line. Good.
+
+ By creating distance from your life, distance brought not just by physical space but also by time, you gain a lens with which to look back.
+
+You might want to re-write that sentence in a better way. Just try once.
+
+Overall, a connect is missing in the entire piece.. You do have a nice thought process going on in your mind, but we all need to practice more to give those thoughts a better shape. Let's do that. All the best :)
+ 
+
+
+
+
+ Sorry sir, I don't think I'm leeching.. I just critiqued two submissions here.. One before my submission and one after. Have been away from this sub for a while. That is all. If you still think I'm leeching, please tell me why do you think so. Thanks. 
+
+
+
+
+ She opened the screen door and stepped out onto the porch.  A breeze rippled her black dress and the crucifix around her neck.  Her dog followed her and it stopped in the threshold.
+
+The paragraph has been tough to read. The flow of words and the way they sounded in my mind wasn't pleasant.
+
+Their yard was small but it had held their family happily for eight years.
+
+*Their yard was small but it had happily held their family for eight years.* Sounds better for me.
+
+Their lawn was covered in a canvas of red and yellow and brown and blackened leaves that heavy winds pushed into wet, huddled clumps.
+
+No no.. something is sounding really bad about all those words.
+
+The paragraph where he dragged the dog out was smooth read.
+
+Well tough shit because this is hard.  I dont want to have to tell my parents about this.  Maybe it will be okay for you but not for me.  Her eyes burned again.    She twisted the rings on her fingers in futile circles.
+
+Ok. So, many of people out there are having tough time with the commas, huh! I always thought it was just me. 
+
+ She stared back across the street.  Her delicate hands curled into jagged fists.
+
+Oh there's a female in the story! Sorry, didn't realize that all along till the pronoun came up. But hey, does that say anything to you??
+
+ such a clear kind of white, such a clear kind of blue
+
+That just repeated twice in one sentence. May be you would want to rewrite it.
+
+Overall, a tough read.. not smooth according to me - unfortunately didn't paint the picture that you were thinking in your mind when you were writing it. May be you might want to try a bit more.
+
+Art is all about doing better, practicing with passion.. So, you and I got a lot of that in front of us. I wish you all the best for the new things you're going to write soon :) 
+
+
+
+
+ English is not my native language (from India).. But I love writing in English. I like fairy tales and fantasy... So, I recently penned a short fairy tale. Please help me by destroying anything that you didn't like about the story or the writing. (Also, I'm pretty excited about using a penname for the first time in my life..)
+
+[Here is the link](https://docs.google.com/document/d/1gL6hs0iBEDJKy1YoUUsVJTd_lCXPWi4Yd8_ARfPtJ7A/edit?usp=sharing)
+Thanks. 
+
+
+
+
+ Maximilian Collard did not have the frame of an agile man. The rock beneath his fingers was uncomfortably angular, but he gripped it tightly anyway. The pain was a fleeting inconvenience for a climber as experienced as he. Far below, he could make out the uneven straw-padded outline of a Gryphon nest. One egg, no adults.
+
+The opening paragraph was very good and painted a perfect picture of a rock climber or a cliff hanger.... But the rest of the thing was clumsy and not engaging much... I'm sure you can do better.. All the best :) 
+
+
+
+
+ My friend deeply needs this at his workplace... thanks!! 
+
+
+
+
+ Hey that's pretty helpful... thnx :) 
+
+
+
+
+ Any idea if the entire event will be available online on Youtube or elsewhere??? 
+
+
+
+
+ (From India.) I graudated last year and have been working in IT industry since a year. I'm Comp. Sci grad. I work with an MNC, and recently I've shown interest in chatting about Analytics and Data Science related stuff with some senior management of *Business Intelligence* domain in my organization. Now when a new project in Data Science is coming up for the org, they've chosen me to work in that project. Although I feel pretty happy and pleased about that, I sometimes also feel overwhelmed by the stuff I need to learn in Data Science. I was told to improve my Statistics skills and other Data Science related skillset on an urgent basis. 
+
+So, it would be really helpful if you can provide me with a list (that doesn't scare-off a newbie) of skills that I need to develop in order to become good at Data Science.
+
+Note: Although I'm a comp sci grad, my interest has never been towards programming and algorightms... I like Database related stuff like SQL etc. So, please also suggest me what specific programming and algo skills I might need now.
+
+Thank you. 
+
+
+
+
+ I too am an aspiring writer. I like synopsis of stories that one plans to write.. I myself used to write them when I develop an idea of the storyline in my mind. So, I would say that the synopsis of your story sounded very good and pretty deep sci-fi. The presence of sci-fi aspects was clearly apparent, I guess that's pretty much necessary when you're offering a glimpse into your work to a publisher. The story was good but how you wrote the book is what finally matters for the audience, and by looking at how you wrote the summary, I would assume that you wrote a pretty engaging book. So, I can only wish you all the very best.. Hoping some good news to reach you soon about your book publishing :)
+ 
+
+
+
+
+
+
+
+
+
+ Good to know that you found what you were looking for. 
+
+
+
+

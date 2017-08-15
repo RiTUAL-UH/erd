@@ -1,0 +1,51 @@
+ I do say to fusion scientists/colleagues, with a tiny bit of good nature, that we already have an amazingly powerful fusion reactor, and that of course is the sun.  That said, I personally admire the idea of fusion, and support the research ongoing at ITER (https://www.iter.org) and other places, but since the first experiments are not going to even be run until 2027, I would like to see us effectively use our single biggest source of energy at our disposal - solar energy hitting terrestrial earth, all the time.  
+
+There has been, however, press about Lockheed Martin being on the verge of portable fusion:
+
+http://lockheedmartin.ca/us/products/compact-fusion.html
+
+http://www.eweek.com/news/lockheed-martin-claims-sustainable-fusion-is-within-its-grasp.html
+
+Wish that I knew more about that. The details are being kept quiet.  
+
+ 
+
+
+
+
+ Wow - incredibly futuristic questions.  Let me try to tackle them, but please remember that I don't own a crystal ball yet to see into the future.  If anyone has one, please let me know if I can borrow it.  
+
+1) There has been concern for some time about nanomaterials in the environments.  There are, already, plenty of nanomaterials naturally occurring (soot from our forest fires, for instance, are full of nanoscale carbon and inorganic oxides), and of course rock dust, etc.  That said, I would prefer that we err on the side of caution when considering mass production of new materials, with concomitant releases into the ecosystem.  But, if the nanomaterials are confined, and accompanied with a very good quality recycling program (a la Germany, for instance), the risk is certainly minimized.
+
+ii) CO2 emissions worry me much more with respect to warming.  Since people are talking about interfacing thermoelectrics with solar to scavenge heat and convert to electricity, perhaps this problem (and I am not sure it is really a problem) can be managed and used to its advantage to generate even more power.  Think of how many black roads we have criss-crossing the globe, and dark flat roofs - do the numbers compare?
+
+iii) Modular interfaces - my better half is an electrical engineer, and he believes that the solutions to make interfacing easy are coming because they have to.  Remember cell phones and the staggering array of chargers and batteries for sale at Future Shop - that was awful.  If that can be avoided, we will be better off - agreed. 
+
+iv) Wireless charging, just like what Nikola Tesla himself so beautifully demonstrated over a century ago, is interesting.  What you are proposing is fascinating, and I leave it to the big-thinking electrical engineer types to work that out.  
+
+v) Solar and wind are democratic energy sources for the most part, and certainly more than fossil fuels.  Inexpensive solar will level the energy playing field - Tata in India is looking closely at solar fuels, solar energy. Look at what China is doing in the area of solar cell deployment.  I see personalized energy, enabled by solar power, as the equivalent to the cell phone - forget the landline (the power grid), and just generate your own power locally.  Now that would help global inequality, and increase the chances of long-term survival of humanity and mankind.  
+
+
+
+
+ Agreed - in many jurisdictions, solar is cost-competitive with legacy fossil fuels.   
+
+
+
+
+ This is one of the hot areas of renewable energy/materials science that is being tackled from two directions.  As mentioned earlier, materials genomics is a computational approach to discover new materials (which may, in fact, be old materials, or special combinations of very common materials):
+
+https://www.materialsproject.org
+http://aspuru.chem.harvard.edu/the-clean-energy-project/
+
+The second is one that involves looking at "rock materials" - compounds that are stable as rocks (because they are, in fact, rocks), abundant, and won't degrade in the sun.  I see famous people giving talks who start with a plot of earth-abundance of elements from the US Geological Survey.  It is interesting to see the push to use iron, copper, sulfur, zinc, and others - some of these materials were studied decades ago during the energy crisis of the 1970's and forgotten (zinc phosphide, iron pyrite), and others were studied by geologists and only published in tables of interest to geologists. With the power of nanoscience approaches, which enable the synthesis of nanoscale versions of these materials, these materials can then be processed as a paint-on or spray-on "ink", there is lots of optimism that these approaches are going to work - they already have led to a number of interesting leads.  
+
+Prashant Kamat talks about his Sun-Believable Paint-on Solar Cells, which are really great ideas and can be extended to any combination of elements:
+http://news.nd.edu/news/28047-notre-dame-researchers-develop-paint-on-solar-cells/ 
+
+Sun-Believable Solar Paint. A Transformative One-Step Approach for Designing Nanocrystalline Solar Cells
+http://pubs.acs.org/doi/abs/10.1021/nn204381g 
+
+
+
+

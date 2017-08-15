@@ -1,0 +1,157 @@
+config_base:
+
+  categories: ["chunk_1", "chunk1-2", "chunk1-2-3", "chunk1-2-3-4", "chunk1-2-3-4-5-6-7-8-9-10", "chunk1-2-3-4-5-6-7-8-9-10-negative"]
+  experiment_base_path: ./representation_files
+  experiment_name: weka_exp_0
+  processing_option: EnumTermsProcessing.SIMPLE
+
+  corpus:
+    type_corpus: EnumCommonTemplate.TRAIN_TEST
+
+    train_corpus:
+      corpus_path: corpora/eRisk/train
+      filters_corpus:
+      - type_filter_corpus: EnumFiltersCorpus.FULL
+    
+    test_corpus:
+      corpus_path: corpora/eRisk/test
+      filters_corpus:
+      - type_filter_corpus: EnumFiltersCorpus.FULL
+
+  java_args:
+    n_folds: 10
+    n_classifiers: 1
+    classifiers_options:
+    - classifier: SVM
+    ensemble: SINGLE
+
+# ==========================================================================
+# root
+# ==========================================================================
+root:
+
+  terms:
+
+    # words
+  - type_term: EnumTermLex.REG_EXP
+    id_term: '1'
+    regexp: "\\#+[\\w_]+[\\w\\'_\\-]*[\\w_]+|@[\\w_]+|[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+-*[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+|[a-zA-Z'ÁÉÍÓÚáéíóúñÑüÜ]+|[<>]?[:;=8][\\-o\\*\\']?[\\)\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*]|[\\)\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*][\\-o\\*\\']?[:;=8][<>]?|[.]+|[/,$?:;!()&%#=+{}*~.]+"
+    string: ''
+    lazy: false
+    mode: 0
+    raw_string_normalizers: 
+    - {type_raw_string_normalizer: EnumDecoratorRawStringNormalizer.TO_LOWER}
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+  filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+  childs:
+  
+    # ==========================================================================
+    # subspace 1
+    # ==========================================================================
+  - representation: EnumRepresentation.CSA
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+    childs: []
+    # ==========================================================================
+
+    # ==========================================================================
+    # subspace 2
+    # ==========================================================================
+  - representation: EnumRepresentation.SOA2
+    subclassing: {clusterer: KMEANS, k: 2, processors: 4, mode: intra-class}
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+    childs: []
+    # ==========================================================================
+
+
+    # ==========================================================================
+    # subspace 3
+    # ==========================================================================
+  - representation: EnumRepresentation.SOA2
+    subclassing: {clusterer: KMEANS, k: 4, processors: 4, mode: intra-class}
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+    childs: []
+    # ==========================================================================
+
+
+    # ==========================================================================
+    # subspace 4
+    # ==========================================================================
+  - representation: EnumRepresentation.SOA2
+    subclassing: {clusterer: KMEANS, k: 8, processors: 4, mode: intra-class}
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+    childs: []
+    # ==========================================================================
+
+
+
+    # ==========================================================================
+    # subspace 5
+    # ==========================================================================
+  - representation: EnumRepresentation.SOA2
+    subclassing: {clusterer: KMEANS, k: 16, processors: 4, mode: intra-class}
+    terms:
+      # term
+    - id_term: "1"
+      filters_terms:
+      - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+    # space filters terms
+    filters_terms:
+    - {type_filter_terms: EnumFiltersVocabulary.FIXED_TOP, fixed_top: 10000}
+
+
+    childs: []
+    # ==========================================================================
+   
+   
+   
+   
+   
+   
+   
+   

@@ -1,0 +1,67 @@
+ This is definitely the approach you should take. 
+
+
+
+
+ So you haven't really given a language you want to do this in but here we go!  
+  
+Java: Things like buttons can be assigned callbacks pretty easily by adding an ActionListener. It's basically what you have described so I think that would work nicely.  
+  
+Python: I'm going to assume you have some sort of GUI (I suppose) that for the sake of the answer - is made with the wonderful and ever glamorous TK. Assuming you create a button on your screen through drawing on the canvas - you can use something like this:  
+
+    root.bind('Key',lambda event: keyPressed(canvas,event))  
+This will make your clicks register to a function keyPressed. It might look like this:
+
+    def keyPressed(canvas,event):  
+        if event.keysym == "Left":  
+            if canvas.data.level  0:  
+                canvas.data.level -= 1  
+                canvas.delete(ALL)  
+                canvas.create_rectangle(-5,-5,canvas.data.row+5,canvas.data.col+5, fill='dark green')  
+                fractalMickeyMouse(canvas,canvas.data.xc,canvas.data.yc,canvas.data.r,canvas.data.level)  
+
+Alternatively you can use a TK Widget Button and just define callback.  
+
+Hope this helped. 
+
+
+
+
+ You should look at using Java with Hibernate - sounds like it might be exactly what you are looking for!  
+Edit: Hibernate is an API that allows you to pull from the persistence layer mapping an Object in Java to a row in your DB.  
+http://hibernate.org/ 
+
+
+
+
+
+
+
+
+
+ Think its since it kind of just sits in it's own juices really. I am definitely with you on grill over pan. 
+
+
+
+
+ Looks fantastic, I'm sad you didn't grill them though. 
+
+
+
+
+ I actually was impatient and didn't want to leave it out for a long time so I put it in the oven like 15 minutes after i finished coating them with all the pepperoni etc 
+
+
+
+
+ i baked them at 425, but i did notice that they started browning really quickly. i took them out after about 10-15 minutes.  
+edit: i actually did bake at 400 - oven was convection and wouldnt let me put 425 
+
+
+
+
+ thanks! i was worried after seeing the guy who burnt his :P 
+
+
+
+

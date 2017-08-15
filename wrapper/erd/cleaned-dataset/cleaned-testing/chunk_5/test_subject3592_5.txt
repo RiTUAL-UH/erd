@@ -1,0 +1,746 @@
+ I thought defense mechanisms were one of Freud's theories which are now regarded as useful, but not scientific.. 
+
+EDIT: Yup. Googling reveals http://www.sparknotes.com/psychology/psych101/personality/section2.rhtml which includes the following (*Some critics argue that psychodynamic theories are not falsifiable (see pages 8-9) and therefore unscientific. In response to this criticism, proponents of psychodynamic theories point out that empirical evidence does support some psychodynamic concepts. For example, empirical research shows that there are unconscious mental processes, that people have mental representations of other people, and that people use unconscious defense mechanisms to protect themselves from unpleasant emotions such as anxiety*) 
+
+
+
+
+ Fall in lesbians?  
+
+
+
+
+ Oh...did not know that! Extremely cool! 
+
+
+
+
+ What infinite series is this? I don't get it :( 
+
+
+
+
+ Aerodynamically it may work. The drag and lift both will increase immensely because water is a thousand times more dense than air. And the friction drag will also be much, much higer because the viscosity of water is much greater than air.
+
+So I don't think the engine will have enough power (even if it DID work under water!) to actually propel the aircraft forward. Plus there's cavitation and other issues which arise due to the differences in fluid properties!
+ 
+
+
+
+
+ Of course, I don't know where anything wazotea said contradicted with anything you're now saying or where you get this idea that the Butterfly effect is simple. Of course physical processes have to occur between the butterfly flapping its wings and a tornado... Chaos theory is exactly about the complexities of a highly nonlinear system! Don't really know what you mean when you say highly non-ideal. Every model has to make assumptions about behavior. That's why they're called models and not reality. 
+
+Anyone who works in Chaos theory will tell you that is in fact, the exact opposite of convenient. It's just scientists making the best (in really amazing, creative ways) of a very bad situation in their attempts to understand nature.
+
+I also notice you still haven't provided sources for your "Chaos has been widely regarded as wrong" statement...
+
+EDIT: I just noticed something from your first post. You said: 
+
+This, and what remained of your post are typical "chaos theory / butterfly effect" nonsense. There is no scientific proof of anything similar to this, it's all "mathematical" with a number of missing physical components. One such component is the compressibility of air, for example, which when perturbed on small scales, the air compresses and decompresses. With internal friction, any kinetic energy imparted to the system is dissipated as heat. Not propagated "exponentially".
+
+In fact, if a disturbance were propagated "exponentially", it would not be chaotic. Don't know where you got that from either...
+
+That's it. No references from you, no arguments against the article I've provided -- no replies from me from this point. Unless we meet face to face. Then we can talk over a beer :) 
+
+
+
+
+  Under actual atmospheric conditions, there is currently no way to prove that chaos / butterfly effects actually determines anything in the atmosphere. In fact, I feel confident in saying that all atmospheric motions are governed by physical processes. We may not know all of these physical processes, we certainly don't know how to simulate them accurately and precisely enough to incorporate all relevant quantities
+
+Oh yes of course! That's exactly what it is. It's because we can't simulate them that we need mathematical theories. And it's because when simulating them, we find many surprising things that we didn't expect. Like the fact that if x is very close to 'y' at time 't', they will then stay close (at least within a certain bound that depends on how close they are) for the future. The absence of this theory is what chaos is about.
+
+I have no idea why you think chaotic process are NOT governed by physical motions :-/ Also chaos in the atmosphere seems quite highly regarded. I also don't know why you think they are "well established as grossly incorrect". Do you have any sources for this? The above article has the following to say: *Most scientists agreed that climate has features of a chaotic system, but they did not think it was wholly unpredictable.* If that's what you're saying, I agree with you of course
+Here is an article with many references that seems to regard chaos theory as an important tool: http://www.aip.org/history/climate/chaos.htm
+
+In my head chaos theory IS a mathematical tool, not a "physical" one, though the line is pretty blurry (that's a philosophical debate). A chaotic process is just one where if x is close to y...I already said that. All of physical modeling depends on the predictability of the model. That's really all there is to it. 
+
+
+
+
+ I don't know much about meteorology, but I can say that wazoheat makes PERFECT sense to me. I am an aerodynamics researcher and I deal with turbulence, which has exactly the same problem. Molecular interactions have effects on large scale eddies and so on.
+
+What you're getting confused with is probably the following: A single car may have effects on the chance of rain. That does not mean that every single car will have an effect. It means that some car starts a change, which when interacting with changes with fifty other cars and buildings and miscellaneous things (that sounds like the "Favourite Things" song!), leads to major effects. 
+
+So overall, what is causing the big change is not JUST the car as the butterfly effect seems to imply. But without the car, the change would not have occured! 
+
+If that makes sense to you (and I hope it does!), now it should be easy to see that unless we are able to model the car, and the fifty other things, we cannot predict the weather a month from now! Unfortunately, modeling the car is outside the scope of current computational abilities.
+
+By a "Theoretical" limit on the models, I always understand it this way (and this was what I was taught in graduate level turbulence and numerical fluid dynamics): Since molecular interactions have effects on macroscale events, we will have to model their interactions along with macroscale interactions. Now, these interactions are unfortunately (for us), related! So, the only way to resolve this would be to model all the molecules and all the interactions!! This inability to resolve all important scales of a problem results in a limit on our capacity to model a lot of turbulent phenomena.
+
+Like the saying goes, to model the universe accurately, you have to create another universe.
+
+Sorry, I got carried away with turbulence, but the two are very related, it seems to me.
+
+EDIT: You're right in your last sentence!! Sorry,  I just read that. That's exactly the problem that turbulence faces, except that in addition, it's IMPOSSIBLE to separate the temporal and spatial scales, because they're coupled through various interactions,  a subset of which is the famed Butterfly effect that you seem to despise so strongly :)
+
+EDIT 2: Also, you're wrong about all disturbances being dissipated. First off, it's viscosity (not conservative), not compressibility (conservative) that causes the dissipation. And for many disturbances, they propagate because of instability grow very quickly before viscosity can take hold. See any textbook/online explanation of how turbulence comes about and small scale disturbances grow... There is only so much the already small viscosity of air can take care of. 
+
+
+
+
+ No, I think he means whether you hiked and camped in the "backcountry" or whether you camped close to your car. 
+
+
+
+
+ Nice! I've actually read the book, but I read it when I was 13 and skipped over all the parts I didn't understand, which was quite a bit :) 
+
+
+
+
+ I had read a few articles in Scientific American about this. Two are attached. I'm not qualified myself to answer this question and any knowledge I can give will be a subset of these, since my knowledge comes from there. One of them is from 1975 (the pdf) and the other one more recent:
+
+1/ http://www.scientificamerican.com/media/pdf/2008-05-21_1975-carroll-story.pdf
+
+2/ http://www.scientificamerican.com/article.cfm?id=sean-carroll-eternity-to-here
+
+The tl;dr seems to be entropy 
+
+
+
+
+ The force is not opposite to the direction of motion of the bike. The force at the point of contact is in the direction of motion, because that point on the wheel is moving _the other way_ with respect to the ground. See the link in my other comment. 
+
+But the force is small and does not matter. 
+
+
+
+
+
+
+
+
+
+ Sorry dude/dudette, I got carried away for a moment on the interwebz there! :) 
+
+
+
+
+ Technobabble? Seriously? That friction accelerates a rolling body (in this case the wheel)? http://cnx.org/content/m14385/latest/ 
+
+You say "This is your speculation. Not any kind of scientific fact", but you say exactly the same thing I did when you said: "This is also true, but has almost no measurable effect." In fact the difference in friction is very easily measurable. 
+
+I stand by the scientific correctness of all that I said. I already admitted it wasn't the answer to this particular question. 
+
+EDIT: Also, the square-cube law has to do between the relation between the weight (volume multiplied by density)and the size of an object. Did you even read the link you posted? Not the force due to gravity and the force due to drag. Drag increases with the frontal area (S), the velocity (V) and the aerodynamics (all included in the coefficient of drag C_D.. also where the square-cubed law is relevant because weight increases proportional to (size)^(3/2)). It is NOT related to the gravity in anyway except through the velocity, a relation that has nothing to do with the square-cube law. Also, the answer to this problem is independent of whether they reach terminal velocity or not.
+
+Though really, I don't mind the downvotes. My answer was not really relevant to the question. But most of what you said really, is wrong. 
+
+
+
+
+ Trails don't spread in various directions because there's nothing to push them in various directions. Once they're out of the engine, the ambient wind (if any) is the only thing that adds any motion to the vapor.
+
+As for the distance. Yes, that would make perfect sense. Since we have no way of judging actually how far the trails are, trails that are farther away would be (incorrectly) perceived as shorter. That's a good point! 
+
+
+
+
+ Your first sentence does not automatically imply what OP is asking. It is not true that only square numbers have rational roots. (2/3)^2 is (4/9). 4/9 is not a square number, but still has a rational root. 
+
+
+
+
+ http://www.scientificamerican.com/article.cfm?id=why-do-men-have-nipples
+
+**a tl;dr of the article from the article**(since I took the effort of googling and clicking on the very first result for you, I might as well do this too): 
+In a now-famous paper, Stephen Jay Gould and Richard C. Lewontin emphasize that we should not immediately assume that every trait has an adaptive explanation. Just as the spandrels of St. Mark's domed cathedral in Venice are simply an architectural consequence of the meeting of a vaulted ceiling with its supporting pillars, the presence of nipples in male mammals is a genetic architectural by-product of nipples in females. So, why do men have nipples? Because females do.
+
+ 
+
+
+
+
+ Momentum is the amount of "motion" in a body, while Kinetic energy is the amount of - like you said - "energy"
+
+The immediate relation between KE and momentum comes from the simple fact that momentum is the amount of motion and Kinetic energy is exactly the amount of energy used in that motion! So yes, they are intimately related.
+
+Intuitively, it's easy to see why the amount of motion is directly proportional to the velocity, because well, that's exactly the way motion is defined (an object moving with a certain velocity)
+
+That brings us to why KE is proportional to the square of velocity. Let me illustrate this with an example which we'll build and then solve -- all step by step.
+
+1/ Think of KE as the amount of work needed to bring a moving body to a standstill (Actually, that's exactly what it is).
+2/ Imagine you're applying a constant force to do this (just to give you an intuition)
+3/ Think of two bodies of the same mass, Body 1 moving at velocity 'v' and Body 2 moving at velocity '2v'.
+
+4/ Since you're applying a constant force, the (-ve) acceleration of both bodies will be the same, so it will take twice the amount of time to stop Body 2 as Body 1
+5/ But work is (the integral of) (Force) x (dDistance). Since Body 2 is traveling faster than Body 1, it travels more than twice the distance as body 1. And so, the work needed to stop it is more than twice the amount of work needed to stop body 1
+6/ i.e. The KE of body 2 is more than twice the KE of body 1. i.e. The degree of relation with velocity is greater than 1 for sure.
+
+How much greater, you say? That's your simple math. Integration will show you that the degree of the relation is 2. 
+
+Intuitively, Body 2 will travel four times as far to stop as Body 1 (That should be easy to see). 
+
+
+
+
+ People with tumors etc. in frontal lobes commonly report near-death/afterlife experiences as well. My mother had a tumor in her left-frontal lobe and consistently reported hallucinatory and religious things.
+
+Some more info: http://tlc.howstuffworks.com/family/brain-religion1.htm 
+
+
+
+
+ The heavier will go down faster. Gravity is of course the same for both, but friction will be more for the heavier biker (Friction is a function of the normal force)
+
+And because the friction acts in the direction opposite to relative motion, the direction is such that it accelerates the motion.
+
+I don't think there will be too much difference, though.
+
+EDIT: Why the downvotes? This, while not complete (I agree the drag effect included above is much more significant), is all correct. 
+
+
+
+
+ Not 5 db. The resulting sound wave will be the sum of all the waves, where by sum, I mean the result of the interference between all the waves (http://www.physicsclassroom.com/class/waves/u10l3c.cfm) 
+
+
+
+
+ The article says it would need booster shots, but apart from that you're right..it would if it could! 
+
+
+
+
+
+
+
+
+
+ I use Endomondo for running and My Fitness Buddy for weight training. The former just works well for me and the latter has an easy interface for tracking workouts.  
+
+
+
+
+
+
+
+
+
+ Multiply. As an example, if treadmill 1 says 300, and 2 says 200. Your total calories spent is 300 * 200 = 60000. Makes perfect sense, since your running is the product of the motion of two treadmills. 
+
+
+
+
+ They active damping for all turbulence related things, really... 
+
+
+
+
+ Darktable maybe a very good option for you. It's the FOSS option for Lightroom and is supposed to work quite well. 
+
+
+
+
+ Depends on whether the can can take the pressure difference.  
+
+
+
+
+
+
+
+
+
+ Nobody's said it yet, so let it be me...
+The band that fits the bill - Porcupine tree
+ 
+
+
+
+
+ What bellcrank is saying is that the further away you are from the wing, the better. This is because the loading on an aircraft is almost exclusively on the wing.
+
+So the front is the best, followed by the back (tail), followed by the wing.
+
+However, a counterpoint to this is that you have to think about the kind of turbulence you encounter. For example, if the effect is a pitching moment about the center of pressure, then the front would be a bad place, since it would get displaced the most. A rolling moment -- the center row is best. A yawing moment -- over the wing.
+
+Basically, turbulence is a bitch and a plane is not a bus. There is no best place.
+ 
+
+
+
+
+ Well yes...since the can explodes due to the pressure from inside the can. In fact, it should explode with lesser shaking, because the pressure difference between the inside and outside is lower (pressure outside is zero). 
+
+
+
+
+ Good answer! In fact, you don't even have to do 50. I'm sure 5 would be a good start! 
+
+
+
+
+ The problem is that Hollywood also doesn't render it in real time. The renders for photorealistic CGI take a long time (days even for a single frame some time, depending on the lighting etc). The video is only a sequence of these rendered images which is then saved to disk. Not even close to realtime. 
+
+For gaming, you need real-time rendering, where user actions will control the lighting and so frames (at least the changed parts) will need to be re-rendered.
+
+So while you're right about it being a matter of time, it's probably a long time away still. 
+
+
+
+
+ Oh...It does seems like the Higgs field is really what causes the speed of light to be the limit. So my answer is correct...with the Higgs field being a lower level explanation. 
+
+
+
+
+ Stress certainly does weaken the immune system. That's a link that's been verified over and over through many, many studies.
+
+"Negative" thoughts are kind of hard to define scientifically, but if you're thinking about stress, then yes, they do weaken the immune system. 
+
+
+
+
+ There seems to be some confusion here.
+
+In vacuum, the terminal velocity is the speed of light, which is related to the mass, yes. That's where Einstein is king and relativity doesn't allow anything to cross the speed of light. Irrespective of your mass, the terminal velocity is 'c'.
+
+In no-vacuum, the terminal velocity is the speed at which drag is the same as gravity, so the object cannot accelerate. Here, Newton is king and the terminal velocity is dependent on the shape (frontal area) of the object among other things.
+
+I don't know what the Higg's field is, so if that's somehow relevant, I'm completely wrong about the first part. I'm only an aerodynamicist and confident about the second. 
+
+
+
+
+ Sigh...read article. The point is to reduce the incidence of mitochondrial disease. 
+
+
+
+
+ That Caption gives the picture a whole new meaning. 
+
+
+
+
+ This is probably going to be a little vague.
+
+I started SS a few months back (already posted twice about it). Currently, due to a family emergency, I had to travel back home and don't have access to a gym.
+
+In the last two weeks, I haven't done anything. 
+
+I really don't want to waste whatever little gains I've got, so does anybody have any advice on what I should do, considering I don't have access to a gym (at all...), but I do have space for bodyweight stuff. 
+
+Currently, all I do is pushups... 
+
+
+
+
+ She's no lady! 
+
+
+
+
+ A disclaimer: I've never been to a therapist, and I do not have the money to go to one. 
+
+Two years back (or maybe one and a half), I was really out of it. There was a girl, and there was work and there was my sick mother and all together, they had pushed me over some edge I didn't even know existed.
+
+Even though they were definite causes, I slipped into some sort of meaningless sorrow, where I would be sad and/or angry for absolutely no reason. I would walk around punching trees till my hand swelled up. I would burn myself with cigarette butts. And I would have no idea why I did what I just did.
+
+Now, I can't relate to that version of me AT ALL. Even though I still feel that deep, deep sorrow some times, and a less deep constant numbness all the time, I can't imagine at all burning myself. That pain...
+
+Anyway, I seem to have gotten completely distracted. So, I mentioned my mother was sick, right... she died two weeks back. And it was quite bad. 
+
+But in no way was it as bad as what I call my depression...and that scares me... 
+
+
+
+
+
+
+
+
+
+ No idea at all :( I've just learned to live with it..as in, retype words.  
+
+
+
+
+ It's like a group chat in GTalk, but over SMS. 
+
+
+
+
+ It does, as long as they're on Whatsapp too.  
+
+
+
+
+ Yes, me! 
+
+I hate that. Swiftkey has a gesture that you swipe to the left to delete the previous word, but I think it falsely recognizes fast typing as swiping left in some cases. 
+
+And I keep pressing backspace instead of 'M' too, which doesn't help with my inclination to delete by mistake  
+
+
+
+
+ Just leaving this here, because Indian Classical music is all about microtones and a lot of Indian songs (even non-classical Bollywood songs) are microtonal:
+
+http://www.youtube.com/watch?v=YAt6jW8QvJE 
+
+
+
+
+
+
+
+
+
+ Thanks...So do I just skip the powerclean, or can (should) I add more bench press to the routine? 
+
+
+
+
+ Hello all,
+
+I'm starting the SS program, and because of a complete lack of interest from all my friends, I've been doing it on my own. 
+
+The problem is that OHP and Power Clean look like very umm..."dangerous" exercises, i.e., wrong form can injure you seriously (more so than squats, deadlifts and bench presses), so I'm too apprehensive to try them alone.
+
+In fact, I even got advice from a random cool dude in the gym about my wrong squat form, which made me even more apprehensive to try the Power Clean and the OHP...
+
+Are there alternatives which would give similar results? 
+
+(Ir?)relevant info: I'm a runner (5k in 17 m 30' to give an idea of pace), 180 cm, 74 kg (163 lb) and want to get strong, but not bulky (well...no interest in bulk, to be precise) 
+
+
+
+
+ You say crippled and happy, as if the combination is perfectly natural :)
+
+Of course you would take crippled and happy over depressed. I would, too!
+
+But a crippled person could just as well say he/she would take depressed and able to play soccer instead of crippled and seemingly-happy, not knowing that depressions is just as bad for the ability to play soccer...
+
+Now we're just arguing semantics. I know what you're trying to say, and it's cool :) 
+
+
+
+
+ I'm sure you understand just as much about being crippled as a non-depressed crippled person understands about depression.
+
+Don't mean to be rude, just putting it out there. My mother was paralyzed for four months before her death, and man....did it take a lot out of her.... Depression is just as hard, of course, but being crippled is in no way easier. 
+
+
+
+
+ Everything's meh... all good, all bad...don't know...
+
+Basically the usual :) 
+
+
+
+
+ It's a harmless joke, but I took a while to get it because I thought they were talking about depression: http://i.imgur.com/YecHQ.jpg
+
+Sorry, source thread (since OP is author of comic): http://www.reddit.com/r/comics/comments/11dtfd/this_new_invention_of_mine/ 
+
+
+
+
+ Could someone link to these posts (that have good links) on favourite bass lines, solos and drum patterns? 
+
+
+
+
+ That snarky kid wasn't worth the amount of time that took to load on my phone 
+
+
+
+
+ Yes! I heard that without knowing it was the theme and loved it instantly! 
+
+
+
+
+  In a round about way, she is teaching inner game.
+
+I think it's the other way round. In a roundabout way, inner game is about getting to basic truths about the self. 
+
+
+
+
+ I think even a one-way car rental will be cheaper than a taxi, which will be more expensive than a Lex, which will be more expensive than Amtrak, which will be more expensive than Greyhound/Megabus.
+
+The last two options will get you to downtown though, from where you'll have to take the Blue Line or if you really want to, a taxi! 
+
+
+
+
+ Sure. Here's a map of my first run : http://www.mapmyrun.com/routes/fullscreen/136158431/ 
+
+Actually, the loop above (the one I talked about in the comment) is slightly longer than 12 miles because the run I've mapped doesn't include the arboretum.  
+
+
+
+
+ Another noob question.. Why do you expose for 20 sec in such a situation, i.e. what does it add to the picture since nothing is moving? 
+
+Or maybe the 20 sec is only so you can get the aperture down to f/20? 
+
+ 
+
+
+
+
+ Very, very bad facilities and encouragement at the lowest level. It's not just in running. Things are changing (supposedly), but very slowly.
+
+Even now in the US, I can't help but feel jealous admiration when I see high school events with better facilities, more encouragement from the community and just as much love for the sport than at the national level in India. It's crazy and it's awesome.
+
+That's the short answer, really. 
+
+
+
+
+ Yeah one is a fork of the other, supposedly. I like TeXStudio better, even though the menus are oddly named (IDEFix? :-/) 
+
+
+
+
+ I run a loop involving Crystal Lake, Busey Woods, The Arboretum and Meadowbrook Park... Comes to a total of 12 miles and has trails interspersed with roads, 
+
+
+
+
+ I used Vim with LaTeXSuite, but it was too much. Simplified and went to Vim with LaTeXBox. That's a real blast. Everything works really well.
+
+Now I'm on TeXStudio, which handles multiple input files better than anything else I've seen. I don't work as speedily within a single file as in Vim, but I'm learning to live with that. 
+
+
+
+
+ Thanks for the link! 
+
+
+
+
+ We can do it together next May/August...That's what I'm aiming for! 
+
+
+
+
+ Yes I do!
+
+Subscribing right now! 
+
+
+
+
+ Thanks a lot for the advice! Evidently, I'm trying to bite off far more than I can chew for now ;-)
+ 
+Will try to get a heart monitor from somewhere and a foam roller! 
+
+ 
+
+
+
+
+ Hello /r/running, this is my first post here... but I've been running a while. I was on my college athletics squad back in India for long distance (well 5000 m track), and then stopped running completely and started again about 4 months back because I read **Born to Run**
+
+Corny as that sounds, I was really inspired by how over-the-top enthusiastic the author was. I'm not really into equipment (including the vibram shoes) or into timing my runs. I just really like running. I've never run a marathon and I never intend to do it.
+
+That should tell you something about the kind of runner I am. I just like to run...that's about it. I run for varying amounts of time, speed and distance (5 to 13 miles at 7:30 to 10:00 per mile) depending more on my mood than anything else.
+
+But I do love trail running and I really want to get to the point where I can do the Zion National Traverse in a day. That's 48 miles. 
+
+My question (sorry for all the irrelevant information, but I like talking about this stuff) is how do I get from a relaxed 13 miles to a relaxed 48 miles? 
+
+I ran the 13 miles in two hours and wasn't really tired at the end (but my legs were sore, probably because I haven't run in a while), if that helps with judging my running ability... 
+
+
+
+
+ Walmart's got full length mirrors. 
+
+
+
+
+ I'm not sure. I came back one day and it was gone. It wasn't even very expensive, but it was new (replaced due to many flats). I was locking the frame and the front wheel thinking the back wheel would be fine because it takes more time to get it out. Oh well.
+
+Strangely enough, when I first got the bike, the seat was stolen, but the thief was nice enough to leave an inferior seat on the bike so I wouldn't be left without one! 
+
+
+
+
+ I used to just bike around the county roads North of Windsor and stop and click on the roadside. Sunsets are really beautiful from there and you almost always get images no one else has seen:
+
+Here are a few that I took (shameless be my plug):
+
+http://www.flickr.com/photos/pritamps/4851523843/in/set-72157619590842900/lightbox/
+http://www.flickr.com/photos/pritamps/4807013484/in/set-72157623118486812/lightbox/
+http://www.flickr.com/photos/pritamps/5068127638/in/set-72157623118486812/lightbox/ (This one's Japan House/Orchard downs)
+http://www.flickr.com/photos/pritamps/4836941492/in/photostream/lightbox/ 
+
+
+
+
+ I just saw this repeating over and over with this playing: http://www.youtube.com/watch?v=KipH9GLuiiI
+
+Epic... 
+
+
+
+
+ How about a video on how to remove and put in tires without quick release -- especially back tires!
+
+My back tire was stolen recently and I would love to use this opportunity to learn stuff... 
+
+
+
+
+ And I didn't know Koreans etc. started at 1...that's cool! 
+
+
+
+
+ We don't start from 1 :-/ 
+
+
+
+
+ Ahh thank you very much! I wasn't counting the bar at all... So in fact, I was underestimating my values...That's good and refreshing :) 
+
+
+
+
+ I just started Starting Strength and am maintaining an online diary. 
+
+I noticed on one post that some guy squatted 295 lbs! While that weight is really crazy, what I wondered was how 295 lbs could be evenly balanced on the left and right.
+
+Then it hit me, what if they're only counting the weights on one side?! 
+
+So, is that the way it's done and I've been entering double the weights I squatted on my first two attempts into my diary? (all of 70 lbs, both sides included!) 
+
+
+
+
+ I booked flights to Vegas for thanksgiving to backpack in the Grand Canyon. That place is already full.
+
+Does anyone have ideas for other 2-night backpacking trips in the area? Everything's cool but anything below 10 F and I don't think I have or can afford the relevant equipment! 
+
+I was thinking of Bryce and/or Canyonlands. Opinions?
+
+ 
+
+
+
+
+ Just make a new post saying there's a meetup at a bar downtown and give a time (10-11's a good starting point) and we (well atleast I) will be there!
+
+I organized one in Blind Pig over the Summer and lots of people showed up, though for the first 20 minutes, I was alone and wondering if anyone at all was going to!
+
+Blind Pig (both of them) are great pubs. Jupiters is cool. Esquire is okay. Crane Alley in Urbana has great beer.
+ 
+
+
+
+
+ Organize a reddit meetup for drinks at a bar in downtown Champaign! 
+
+
+
+
+ Trip to Mt. Dade in Sierras:
+
+Didn't take winter clothes. Fell into a lake. Froze in the night.
+
+Didn't take sunglasses. Got snow blindness. Was very bad.
+
+Ask me about how to not prepare for winter backpacking trips and I will tell you. 
+
+
+
+
+ Hello,
+
+Does anyone know of a good place to rent campervans in the Portland Area? Everything I found online is for RVs.
+
+I don't mind RVs, but the rentals are way too expensive. So if anyone knows of cheap RV rentals, let me know too!
+
+Thanks! 
+
+
+
+
+ Seriously, that's a heck of a ride with some serious climbs. I can see where this would be a big deal versus riding in the Midwest.
+
+Oh yeah, completely! The only reason I got through it was that I kept riding!
+
+ 
+
+
+
+
+ Yeah it was only my second time there... Didn't even know the difference till it was pointed out!
+
+Rode from Stanford Campus westwards (I think) back to the campus! 
+
+
+
+
+ http://www.mapmyride.com/routes/view/132959991
+
+And me at the top of the first climb (note the completely inappropriate clothing!): http://i.imgur.com/cRZQp.jpg
+
+Anyway, very exciting it was. Thank you for listening :) 
+
+
+
+
+ So we have to remove the notion that it is a "true captured moment" because it is not true to what we see with our own eyes
+
+That's exactly what I'm going to do now, after reading all these comments...Thanks! 
+
+
+
+
+ Yes yes, many times yes!  
+
+
+
+
+ My friends and I want to go backpacking into the Canyon (the popular S-N-S rim-to-rim trip) during Thanksgiving.
+
+We were comfortably planning the whole thing and waiting for everyone to confirm before we got permits. However, from my reading yesterday, it seems getting permits is very hard because of the popularity, so now I'm worried.
+
+People who've been there, done that... How early did you get your permits?  
+
+
+
+
+ Of course you can use it as a crutch. That's the whole issue I'm dealing with it. If I have a crutch, I tend to use it without thinking, and end up having less fun! 
+
+
+
+
+ Thanks, excellent advice!  
+
+
+
+
+ I was just making the point that you could replace militant with military and your statement would still be valid. 
+ 
+
+
+
+
+ Militants...Military? 
+
+
+
+
+ Ah okay, that's probably not the problem then. Good luck :) 
+
+
+
+
+ Does anyone know of a place where I can practice drums on an actual set for free? I have an electronic kit, but it's not expensive enough to feel the same at all. Not even close.
+
+I'm not a music student. I remember once in my first year (long ago), I'd asked about this and was told that the practice rooms are only available to music students.
+
+ 
+
+
+
+

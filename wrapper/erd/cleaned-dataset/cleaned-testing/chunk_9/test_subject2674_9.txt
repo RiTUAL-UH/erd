@@ -1,0 +1,126 @@
+ It would be interesting to know, though, if there enough homology of brain structure and function that common language strategies are likely to emerge, even if language wasn't part of the ancestral state.
+
+Even if bird and human communication systems are an example of convergent evolution, understanding more about birdsong and how it evolved can still reveal a lot about how evolution shapes communication systems, and the general principles of how those systems arise. 
+
+
+
+
+ Maybe they are trying to say that letters are not phonemes?  There could be some confusion, since consonant/vowel are used to denote speech sounds, but also used to denote letters. 
+
+
+
+
+ Thank you for doing this AMA!
+
+For some birds, such as zebra finches or cowbirds, the social responses of other birds to a young bird learning song is important to shape their learning.  In birds that don't produce a stereotyped song or set of songs, but use song more flexibly, is there still this type of "teaching"?  If so, how does it work? 
+
+
+
+
+ Here's what the authors say: "The primary aim of our ENIGMA-MDD Working Group is to identify imaging markers that robustly discriminate MDD patients from healthy controls using an individual participant data (IPD)-based meta-analysis."
+
+So they do have the advantage that they are directly in communication with the various labs and groups that generated the data, but it's not an existing database of scans, it's one that they assembled for this work.  Recruitment procedures, etc. were not standardized across all those research groups; they used different instruments to assess severity of depression, for example.
+
+The structural quantification was also done "locally," by each individual research group that contributed data.  This is really important.  Volumetric analyses often come down to a judgement call, and while one researcher can remain consistent, it's difficult and takes a lot of training for two different researchers to judge boundaries from an image in exactly the same way.  There are ways to account for those differences statistically, but it will potentially introduce bias into the study.
+
+This isn't precisely my field, but I found the press coverage linked here to be really out of step with the primary article, which I tried to take some time to read before offering some criticisms.  I looked at your comment below, and I definitely agree that although sometimes measuring brain volumes like this is the best one can do to understand physiological changes in the human brain, they are really hard to meaningfully interpret.
+
+Like you, I'm also a little bothered that the author stuck some of those details (like the fact that different labs used different diagnostic procedures) in the supplement, although this is important information and doesn't take up much space to say in the paper. They also do use a correction for multiple testing, which is good, and they use a very stringent one; this addresses your concern about measuring many brain volumes and the concern of finding a false positive by chance.  However, they report the uncorrected p-values in the paper, making things appear much "more significant" than they are, unless you carefully read the methods. 
+
+
+
+
+ Here is what the authors of the original study say: "Many studies have found structural alterations in various subcortical brain regions in MDD. To date, volumetric differences have not always been consistent and are poorly replicated for some regions; moreover, sample sizes are often small, limiting the power to detect subtle brain differences."
+
+This study was a meta-analysis that re-examined the data from many other studies, to try to draw broader conclusions about what regions of the brain are structurally altered in depression.
+
+They also say: "Clearly, there is a continued need for longitudinal studies tracking hippocampal volume changes over the disease course, to further elucidate whether hippocampal abnormalities result from prolonged duration of chronic stress (that is, scarring), represent a vulnerability factor for MDD, or both."
+
+In other words, this quote from the beginning of the linked press article is just completely wrong: "Brain damage is caused by persistent depression rather than being a predisposing factor for it, researchers have finally concluded after decades of unconfirmed hypothesising."
+
+I don't know why they quote the coauthor Hickie in a way that contradicts the published research, or why they misspell "hypothesizing," but it seems like a case of poor journalism. 
+
+
+
+
+
+
+
+
+
+ According to this reference: https://www.hon.ch/OESO/books/Vol_5_Eso_Junction/Articles/art103.html
+
+In healthy individual who is fasting, gastric fluid (including stomach acid) is produced and emptied at a rate of ~1 mL/min, with an average of around 10 mL of fluid in the otherwise empty stomach at any given time.  But this would obviously change depending on eating habits and behavior, time of day, the individual, etc. 
+
+
+
+
+ Poor reporting.  There are multiple studies already published that used RFID tags for bees, as well as other insects.
+
+To list just a few:
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030023
+
+http://www.mdpi.com/2075-4450/5/3/513/htm
+
+http://link.springer.com/article/10.1007/s13592-012-0156-7
+
+Not to mention years of studies that used other types of transmitters, including radar transponders that actually track complete flight paths of bees.
+ 
+
+
+
+
+ Just wanted to add that many researchers (although maybe not all?) do consider the rest state of insects to be true sleep; it shares many biological/neurological characteristics with vertebrate sleep.
+
+Also I wanted to write a sciencey comment so I could add that I love your user name! 
+
+
+
+
+ This is the first test of a drug, in a rat model of depression, that tries to mimic the long-term effects of traditional antidepressants, since these drugs typically take weeks to produce improvement.
+
+Their results were really exciting in that the animals did show rapid behavioral improvement, as well as some signs of more healthy neural activity.  It seems like in this initial study, they didn't test the drug's effects beyond a few days; I would be curious to know what would happen if they did repeated treatments.  Would rat "depressive symptoms" disappear?  Or would they become desensitized to the therapeutic effects of the drug? 
+
+
+
+
+ I have a lot of luck with shortening my stride on uphills, and making imaginary truck gear-shifting noises in my mind. 
+
+
+
+
+ It sounds like they already do have an individual medical record number, plus they are referred to by their mother's last name, but I guess even that isn't enough of a memorable identifier to avoid some of these errors. 
+
+
+
+
+ **Seveneves, by Neal Stephenson**
+
+I finally reached the top of the wait list at the library . . .  
+
+
+
+
+ The original paper is open access: http://pediatrics.aappublications.org/content/early/2015/07/08/peds.2015-0007.abstract 
+
+
+
+
+
+
+
+
+
+ I agree with you that they didn't test at all what the default is.
+
+However, these researchers did not directly study adults of two different cultures.  They only compared the results of their participants recruited only from India (it states in their methods section) to results of other published studies.
+
+Here is what they say in their discussion: "Our  cross  cultural  analysis,
+although it is formally not correct, shows that residents in India are, on average, less cooperative than US residents."
+
+They believe that because inexperienced adults behaved similarly in tasks that required them to respond quickly vs ones that allowed a long deliberation time, while adults experienced on these behavioral tasks were more cooperative when given less deliberation time, that they've shown intuition that is shaped by experience helps determine level of cooperation. 
+
+
+
+

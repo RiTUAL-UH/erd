@@ -1,0 +1,205 @@
+ I would head over to FreeNAS and check that out. A small homemade server running FreeNAS could easily meet all your criteria and would be fairly upgradeable. You'd be looking at about $600-1200 depending on how robust the hardware is.
+
+http://www.freenas.org/
+http://blog.brianmoses.net/2014/01/diy-nas-2014-edition.html
+http://www.reddit.com/r/freenas
+ 
+
+
+
+
+ WAY lower power and shorter distance, but this was demoed at CES this year and had a working model on display. Nothing in this article is ground breaking. 
+
+
+
+
+ When was this? If this was at iPad launch, that may have been kind of silly, but if the article was written recently... there are TONS of full PC tablets now. Surface Pro much? 
+
+
+
+
+ Also, if its 3 years old, and he games on it regularly, there's a good chance that the thermal paste is past its prime. But I agree... even removing that fan and dusting it out would be best. 
+
+
+
+
+ The "remote" feature is something I used constantly with uTorrent. Any recommendations on a different client that also support a remote functionality? Thanks! 
+
+
+
+
+ I think it was a great choice. It probably does everything she currently wants it to do, and a huge part of PC building is knowing when and how to upgrade, which she is perfectly setup for.
+I also think people underestimate current generation "budget" CPU's. There are plenty of videos online of people playing CS:GO and other popular games on Atom tablets with onboard graphics. No, they aren't getting 400FPS, but its more than playable! 
+
+
+
+
+ Why and/or how? 
+
+
+
+
+ I agree with you. Depending on your router and ISP speed, wireless should be just fine. Yes, with current technology, Ethernet is fast and more reliable, but at a certain point, you're splitting hairs. Its like complaining that your FPS goes for 350 down to 175... It doesn't make a difference. 
+
+
+
+
+ There's no way that court fees are going to be cheaper than $60 and he's already stated that he's sure he'll lose. Even if he DID win, suing someone is a HUGE hassle, even if small claims. I'm from the US so this may be different in AU, but from reading through the comments, it doesn't seem that different.
+
+Yea... Sure... I would be awesome to stick it to him and force him to accept responsibility like a real human being, but sometimes its just not worth it :/ Pick your battles, win the war. 
+
+
+
+
+ This.
+Cracked screens (non-touch) are one of the cheapest and simplest repairs in most cases. They're generally around $60 USD and the entire procedure will take you maybe 15 minutes. You would only really need a small Philips (1,0, or 00) although a plastic pry tool (spudger, guitar pick, etc) could be useful. I would be happy to try to walk you through it if this is an option you'd be interested in. Feel free to PM me. 
+
+
+
+
+ I doubt it will have as a profound impact as one might think. From my experience in corporate retail, existing business relationships can be difficult (and even expensive) to breakup, and at the end of the day, money talks. If some Lenovo business parter is still able to undercut the competition on cost, Superfish will take a heavy back seat to purchasing decisions. 
+
+Also, the way you or I purchase technology is WAY different than a business. It's not the head IT guy that gets to pick out all the fun new toys (that would be AWESOME). Its generally a meeting with the CFO, some higher up (maybe a CEO/COO/President, etc), and the IT guy just to ask questions. The final choice is almost never up to the person who knows what Superfish is, but rather the guy in charge of financials. It may be far from the best practice, but it's definitely the most common :/
+
+EDIT: Regardless, losing Lenovo as a partner would most certainly be a financial detriment, even if minute, to Microsoft. 
+
+
+
+
+ Why am I getting downvoted?! Everything in that system could easily support a nice OC :( 
+
+
+
+
+ Whats REALLY awesome, is once you get your computer setup, updated, and your favorite software installed (Java, Office, Steam, etc) use recimg command to create your OWN recovery image, so if you have to re-install, everything is already there! 
+
+
+
+
+ What Microsoft did was add a universal way to access the OEM's recovery partition. Previously, you only had the option to use the OEM's software to factory reset your device which could be difficult to use or even find. MS simply added a Reset function on all Windows 8/8.1/10 devices that would access it regardless of the brand.
+
+My speculation on why there isn't a "clean" image re-install option available is two-fold. One, I'm sure there are some legal and business reasons as to why you can't easy circumvent the built in bloatware(think of the Adblock Plus litigation). Second, driver issues could be a huge problem. The factory image already has all the needed drivers available to make everything work perfectly. Windows 8 did an AMAZING job of adding 3rd party drivers to Windows Update which makes OS re-installs much easier than previous versions of Windows, and this is mostly because of a universal network drivers built into the Windows 8 image. This solved the Catch-22 of needing internet to get drivers, but not having a driver to access the internet that Windows 7 (and earlier) had. That being said, if a certain NIC didn't work correctly with the universal driver for some reason, the average consumer would be SOL of getting their device up and running again.
+
+Just my two cents! 
+
+
+
+
+ I misunderstood, sorry!
+
+Even with this however, MS still cares heavily about their OEM partners. There are only about 7 main PC manufacturers: Dell, HP, Asus, Acer/Gateway, Samsung, Toshiba, and Lenovo. Even if Lenovo doesn't account for 1/7th of all Windows PC sales, it's still a HUGE chunk. You can argue that the demand will still stay the same regardless of how many PC manufacturers there are, but having more (especially a company that has a heavy following in the enterprise market..."Thinkpad") can only really help business.
+
+(I'll presumptively add that I know there are a TON more PC manufacturers)  
+
+
+
+
+ Nothing extra installed. It's basically a clean version of Windows with some of the manufacturers "good" software still on it, such as programs that actually serve a purpose like recovery programs. Other things like default startup programs are reduced to a minimum from what I've noticed, and I'm sure there are other small things.
+
+http://www.microsoftstore.com/store?SiteID=msusa Locale=en_US Action=ContentTheme pbPage=MicrosoftSignature ThemeID=33363200   
+
+
+
+
+ Lol, I have to :P 
+
+
+
+
+ Oh, I completely agree. Just saying doctors do have info on there devices. 
+
+
+
+
+ Yep, that what "Signature Edition" means. 
+
+
+
+
+ Unfortunately, the Reset function generally uses the onboard recovery partition which has all the bloatware pre-imaged. A Reset simply takes it back to it's initial out-of-box state which includes the bloatware.
+
+This isn't true 100% of the time, but its generally what happens :/ 
+
+
+
+
+ They care a lot. The average consumer isn't going to consider what Lenovo, HP, or Dell installed as "extras", they just chalk it up to a bad experience with Windows. When the main competition on the consumer end is Apple (who obviously doesn't install bloatware), Microsoft doesn't want to look bad just because someone else messed up their perfectly good OS. 
+
+All the PC's sold in a Microsoft Store are "Signature Edition", meaning they are a very clean and optimized OS. If you actually look at the boxes, many have a signature edition sticker over the manufacturer seal, because they were already opened and re-imaged with the "clean" OS.
+
+Disclaimer: I work for Microsoft. 
+
+
+
+
+ As someone who works in IT, and occasionally with healthcare organizations, you would be very surprised. Many of them have full access to patient info on their personal laptop and apparently some even require it now (this is all hearsay through the doctors I've worked with.)
+
+That being said, there is ludicrous security to access it. The one's I've seen use a secure Citrix logon, and once logged in their, the hospital has ANOTHER verification procedure that calls their personal cellphone with a unique code that is only good for like 30 seconds or something. I've had to troubleshoot some of these systems and the whole process takes like 5-10 minutes. 
+
+
+
+
+ Although I don't disagree with most of your points, it definitely saves room on the board. You look at the new budget computers that have the processor, RAM, and mmcSSD all soldered and the whole thing is the size of an index card... crazy! Specifically, I've seen 8GB of RAM soldered on a Lenovo board that took up about .75"x1.5" of space on the PCB; any single or double riser DIMM slots are going to be substantially larger.
+
+Think of a tablet. No one has any real expectation of replacing internal components, but after all, it is still a computer. When you try to make laptops as thin as a tablet, the smallest things really add up. That being said, there are many manufacturers and models that are fairly small and have replaceable components, although almost all Pentium, Celeron, and Atom processors are now soldered on the board.  
+
+
+
+
+ This used to be MUCH more prevalent than it is today. Apple has been getting more competitive with pricing. Nowadays, it seems like its easier to compare extra features that the same price PC has over a similar Mac. For example, if we compare a MacBook Air (i5, 4GB, 128GB) to the comparable Surface Pro 3 w/keyboard. The Surface w/keyboard is only $30 more, but gets you a touchscreen, a digitizer, tablet format, faster processor, etc.  
+
+
+
+
+ A main reason that new PC's die "faster" is due to large hard drive capacities. I'm guessing your Dell from 8 years ago have an hard drive between 40GB and 120GB. Now, even the cheapest laptops are shipping with 500GB hard drives, that are the same physical size at their 40GB counterparts. Internally, that means extra platters and/or increased data density on the disk. The increased data density and more, smaller moving parts = more hard drive failures. Given that hard drives are the single most common hardware failure, most newer laptops will die due to a larger capacity hard drive than the older, smaller models.
+
+As for the screen resolution, my guess would be that the masses didn't understand what resolution really was or meant in a screen. There are three big advantages to this. One, lower resolution means better performance with the same hardware. Two, They started doing this right when HD (720/768 and 1080) TV's started to become popular. "High Definition" and "1080p" became a popular buzz work and someone is more likely to purchase and HD(768p) and Full HD(1080p) than some random numbers. Lastly, its way cheaper! Resolution and panel type contribute more to cost than physical size. So putting a 1366x768 TN display versus the previous 1920x1200 is substantially cheaper, improves 'performance', and is more in line which what consumers knew. 
+
+There are many high end laptops now with QHD (2560x1440), UHD/4K screens now, and almost all but budget laptops come with 1080 screens.
+ 
+
+
+
+
+ Bluetooth mouse.
+
+Add the tracking setup beneath the camera, pop on a case with Teflon feet, open up the "mouse app", and you're good to go! Volume keys could be used as forward and back keys, and the screen could support multiple profiles with customizable buttons. You could even scroll and receive haptic feedback. 
+
+
+
+
+ This is sadly true. It makes me so mad. 
+
+
+
+
+ Are you overclocking that thing at all?! The potential in that system is awesome. 
+
+
+
+
+ They were/are the unicorns of rigs! They are as amazing and appreciable as a gaming rig, but just different enough and rare enough to cause intrigue.
+
+  
+
+
+
+
+ Yep! It goes into an empty PCI slot. Most motherboards have at least one and it's were soundcards, Ethernet/wifi adapters, and other accessories would go.
+
+The reason why this is even prevalent is because the bottleneck speed in most SSDs isn't in the read/write of the drive itself, but the actual transfer of the data. PCI has a substantially higher transfer speed than SATA, making it ideal. The biggest downside to this is the possible effect on GPU performance under load. With the exception of the new Intel X99 chipset, all the PCI "lanes" were connected, so if you had a graphics card plugged in and a PCI SSD plugged in, the graphics cards throughput goes from x16 to x8. X99 can now run multiple PCI at full x16 speed, which is awesome for Crossfire and SLI setups. 
+
+
+
+
+ Try these :)
+http://www.sandisk.com/enterprise/ulltradimm-ssd/ 
+
+
+
+
+ It was probably the wind. It like to build little snow walls next to everything. 
+
+
+
+

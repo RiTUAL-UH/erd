@@ -1,0 +1,610 @@
+ Holy hell, I'm so lost. Is this right?
+
+
+
+Boy reports girl abducted.
+
+Girl is found in Orange County.
+
+Boy and Girl are reprimanded by the police.
+
+Now, apparently, all along the police have been receiving emails from people claiming to be the actual kidnappers???
+
+The alleged (are they even alleged if the crime didn't occur?) kidnappers are just a bunch of gentlemen crooks out to drink martinis and rob casinos???
+
+They've threatened that they'll harm someone if they don't get an apology for doing something that the police say they didn't do but they insist that they did do?????? 
+
+
+
+
+ Keyence maybe, good but pricey. Omega has some cheapie ones, but I'm not sure how good they are. What's the budget? What's the intent? Is this a fun side-project, for school, or something you're wanting to commercialize? 
+
+Ninja-edit: A GA1A12S202 with a laser pen might work. So each line in your 'net' would set you back 6 or 7 bucks. 
+
+
+
+
+ Yeah, I was thinking the same thing. Image acquisition with a Pi. Still a 'maker' type project, and probably get out of it for the same price, but it's a different skill set. And a different subreddit.  
+
+
+
+
+ There's still a Chevy's in Novato. Stop by on your way to/from the vino country. 
+
+
+
+
+ Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world. 
+
+
+
+
+ Your next purchase should be a lottery ticket. 
+
+
+
+
+ Better yet, buy three to guarantee one works.  
+
+
+
+
+ Light sensors would be easiest. Create a screen of light beams across the goal. Each beam is about the diameter of a tennis ball from on to the next. Emitters on one side, receptors on the other. Seeing which two beams are broken will give you an approximate (x, y) of your ball. The more sensors you have, the more resolution you have. You will probably need some I/O expansion ICs, and a digital circuit that gives you latching values, so some type of shift register. That way once they're set you can read them whenever and not have to poll fast enough to catch the actual event. 
+
+
+
+
+ If you're up north Marin Speed Shop (aka Hattar Motorsports) is a good place to buy high-end gear (Dianese, Shoei, Arai, etc...) or just up the street from them is Motopia for the rest of the manufacturers (Icon, Joe Rocket, Scorpion, etc...) 
+
+
+
+
+ You're an idiot. 
+
+
+
+
+ Is there a sub for these? I cannot get enough of these Leeroy Jenkins videos. 
+
+
+
+
+ I know that it's better for her to sleep in her bed, but I can't help letting her fall asleep on me and stay there for an hour or two. 
+
+
+
+
+ Here's a close-up of the [leaves](http://imgur.com/Bshkat0). They grow mostly in small groups of single trunked plants. There's one that's growing alone that's taller than the rest. Most are 4-6 feet tall, the tallest one is almost 8 feet tall. No discernible smell when crushing a leaf. I'm in the Bay Area of Northern California. Western Novato, CA to be most specific. Didn't flower this spring.  
+
+
+
+
+
+
+
+
+
+ Cheap-ass brothers-in-arms. I have one also. 
+
+
+
+
+ Probably a good idea to create a throwaway for this comment, nice move. 
+
+
+
+
+ Is that California? I think I know that apartment building. 
+
+
+
+
+ Cute kid. I own guns.  
+
+
+
+
+ Complete and utter bullshit. I understand that the homeless don't have access to lawyers in most cases, but beat up, charged with assault, sentenced to probation, and the only thing the real assaulter's are getting is fired or suspended? Total bullshit. 
+
+
+
+
+
+
+
+
+
+ Ah, the old reddit [bark-a-roo](http://www.reddit.com/r/gaming/comments/30k7f3/the_stuggle/cpt945s?context=1) 
+
+
+
+
+ My world is a roller coaster right now. 
+
+
+
+
+ This is exactly what I thought when I saw this. You cannot rationally look at videos of apes and not see so many similarities that you could say that you believe WITHOUT A DOUBT that evolution is wrong. Maybe you could still have doubts, etc... But to say that there is no doubt is just plain stupid. 
+
+
+
+
+ Mine has taken to a post-bath naked bounce on the trampoline most recently. 
+
+
+
+
+ An additional point about #4, it now alsoo prompts a warning when your SRAM drops into the lock-up danger zone. 
+
+
+
+
+ Bro, my AOL dial-up pretty much dies for an entire day when downloading this gargantuan IDE. Oh wait, this isn't 1996. 
+
+
+
+
+ Why won't our kids wear pants? I mean, great picture and all, but seriously, what is it against pants? I can't get my 19 month old to put pants on without an act of Congress. 
+
+
+
+
+ I once worked with a guy that refused to wire his errors up and used flat sequence structures to maintain on order of operations. Sometimes his vi's would throw errors so he got in the habit of putting Clear Errors vis after all of his vi's so he didn't have to deal with pop-up errors. 
+
+
+
+
+ Starship Toopers (the book) did the same, just better. 
+
+
+
+
+ In software when you pass a piece of executable code as an argument to another piece of code it is referred to as a "callback". 
+
+
+
+
+ From the entrance of the corner, given a proper entrance speed, you should use what's called maintenance throttle to stabilize the bike. Not accelerating, not decelerating, just steady throttle to help hold your line. After crossing the apex you can begin to apply throttle as you begin to stand the bike up. 
+
+The reality of the situation is that this rider was riding at 10/10ths (or possibly 11/10ths) and left no room for error or dirty roads. 
+
+
+
+
+ Check out [this](http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector) page that has slightly more information about the EMG sensor. It looks like it's basically a comparator and some op amps. My guess is that the output is a differential, it says the output ranges from 1.5V at a static state to 3.3V. It doesn't look like you can tell which pad is outputting what. 
+
+
+
+
+ Yeah, dirty corner, on the gas while tipping it in, sounds like cold tires to me. 
+
+It sounded like the back broke loose before you see him lose the front. My guess is the outside of that corner was dirty as fuck and he spun the rear entering it. 
+
+
+
+
+ Here's a [pastebin link](http://pastebin.com/GQPAj3ZF) to a project I've been working on. I removed some of the confusing I2C stuff so you can see how I implemented my TCP server and API. Mine works basically as a telnet server with clients connecting on the telnet port, so not exactly what you're looking for, but may start you going in the right direction. 
+
+
+
+
+ Yeah, poured in Novato a couple of times through the night. Was done when I left for work at 6, but I got soaked coming up 880 by the Oco. 
+
+
+
+
+ How do you handle libraries, do you pretty much have to start everything from scratch? 
+
+
+
+
+ Yes. The following statement;
+
+int tmp = 488 / 100;
+
+Serial.println(tmp);
+
+Will print the value 4 to your serial screen.  
+
+
+
+
+ Using int's is probably the cleanest way to do it. Just make sure to leave a note to yourself so when you look at the code months from now you'll remember what your intent was. 
+
+
+
+
+ Freedom of speech does not mean that you are free from the results of your speech. Just that you are allowed to say what you want. He's not being censored. But his decision to represent his team as a group of people that are okay with calling 13 year old girls sluts (which he was actually stupid enough to express publicly) got him fired.  
+
+
+
+
+ I ran my first half-marathon at 280 lbs. It's not that unbelievable.  
+
+
+
+
+ I disagree a little, but only a little. I've only ever run half-marathons, so this varies a little, but my long training runs were reserved for weekends, per a well-qualified running trainers schedule that I met with personally (just making sure you don't think this was just a schedule I got off the internet). During the week I would either focus on high intensity intervals in the 3-5 mile range, or do a slow 6 miles. I kept the 10+ mile training runs for the weekends only. I'm going to run a full-marathon next year sometime and the schedule that we've been given is similar to that, just more months of training working up to longer training runs on the weekend. Still, nothing further than 7 miles during the week. 
+
+
+
+
+ And it's never at best. It's usually at worst. My grandma could write better HTML than this article. 
+
+
+
+
+ I'm getting a real Hexen vibe from this.  
+
+
+
+
+ I've been doing the StrongLifts 5x5 program for the last month. When I started it was all I could do to do bar weight lifts. On Wednesday I did a B workout and did 145 on my squat and 135 on my deadlift. This morning I did an A workout. 150 on my squat, 115 on my bench press and my bent-over rows. This morning I even had one of the personal trainers come over (these guys are notorious for ignoring people unless they think they can get them to pay for some personal training sessions) and tell me that he'd seen me coming in all month and that I was looking good, good form, etc... I was ready for the sales pitch, but after the compliment, he just said, have a good day and walked away. 
+
+
+
+
+ I'm a pretty stocky guy. I was hoping to lose weight in the middle without putting on too much bulky looking muscle. I was always told that getting to a comfortable weight and upping reps would help lose weight and tone muscle to lean it out and was preferred over higher weight, lower reps workouts.  
+
+
+
+
+ Gorgeous. Congrats. I would normally wish you well but my 18 month old had a night last night, so I've been up since 2AM. Instead I'll wish you luck. 
+
+
+
+
+ He didn't have evidence that the man didn't do it. What he withheld was evidence that the evidence he was using to convict (the supposed confession from the jailmate) was false and given under the pretense of reward from the prosecution. Which isn't that say that the guy isn't a scumbag, he is.
+
+Not that I don't believe that the guy was innocent. He could have been. You can look at Hurst's other cases, the guy is somewhat of a genius and it doesn't seem like he's accepted coercion or money to offer his completely science-based testimony. If he says it wasn't arson, it probably wasn't arson. 
+
+
+
+
+ Yeah, this exactly. A fire is a disorienting and confusing thing. Throw that in with just being roused from sleep and you have a recipe for him not finding the daughter in the same room with him. 
+
+
+
+
+ Flew from Chicago Midway to SFO once. They delayed my flight out of Chicago by a few hours so I went to the agent to see if there was something else they could do. They put me on a flight to Oakland (which is fine for me I take a cab either way) that left immediately but had a layover in Phoenix. I get to Phoenix and they say the flight to Oakland is overbooked. So I give up my seat, they put me on a flight that leaves an hour later to SFO (my original destination)  give me a credit for the original price of the ticket plus $300, plus the front of the line upgrades, drinks, etc... I ended up with almost $900 credit (it was a business trip so work paid for the flight,) a seat to my original destination, and I got off the plane just as my delayed flight from Chicago was getting in so I could pick up my luggage too.  
+
+
+
+
+ Keep your helmet up. If you're ever out in NorCal drop me a line. You can ride with me whenever. 
+
+
+
+
+ Not on my dinner table. On the Olympic bar. I decided to get serious about a month ago and got a gym membership. I've just been doing the [Stronglifts 5x5 workout](http://stronglifts.com/). I started out barely able to lift the empty bar, in fact, on my overhead press I started with a 20lb barbell since the 45lb Olympic bar was too much. 
+
+But yesterday I did my B workout with 145lbs on my squats and 135 lbs on my deadlift. That's right, using the big 45lb plates on the bar now. It felt good to be able to put those on and still get my 5 sets done. I'm also up to 70 lbs on the overhead press, and tomorrow I'll go for 100lbs on my bench press and my rows. 
+
+I know alot of guys can do alot more weight, but I'm pretty proud of myself. My goal is to get to somewhere between 150lbs and 175lbs on all the lifts in that workout than increase the reps to 5x10 or 5x12 to help with the toning. Between my lifting and cardio I've lost a bunch of inches in the last month, but the best part is being able to keep up with and toss around my 1 year old. She's definitely enjoying my gains as much as I am. 
+
+
+
+
+ Yes, this feedback loop is all sorts of positive. Thanks for the grins this morning, only more amusing if I would been on the list. 
+
+
+
+
+ Holy shit, this thread is a god damn roller coaster. 
+
+
+
+
+ All right, I've been thinking, when life gives you lemons, don't make lemonade! Make life take the lemons back! Get mad! I don't want your damn lemons! What am I supposed to do with these? Demand to see life's manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I'm the man whose gonna burn your house down - with the lemons!
+
+Portal 2 
+
+
+
+
+ I checked the NOAA sea level rise map. 3 feet makes my house in Novato, CA beachfront property, so, I'm finding it tough to be sad about this. 
+
+
+
+
+ But they have a PC and PS4 demo, check out the end of the video. 
+
+
+
+
+ I've already told myself that whatever my 1 year old daughter chooses to be interested in when she starts growing up is fine with me and I have no expectations. However, I would love it so much if she's as into cars as /u/littlefeather is. 
+
+
+
+
+ Your friends are trying to liven up their stories, I think. I commute an hour each way in the East Bay. The assholes that attempt harm to me are few and far between. Seems to be a pretty even mix of people trying to be courteous and people just blissfully ignorant of the world around them.  
+
+
+
+
+ Keep it down. 
+
+
+
+
+ Why does that R1 rider keep getting all the way off the throttle and use the clutch to shift? 
+
+
+
+
+ I gotta say, it sucks. You sound like an alright dude. However, every cab ride that I've had in SF from airports to home, around to bars, and around Marin has been horrible. Bad drivers, trouble using my credit card to pay, dickish attitudes, just a general not-give-a-fuck outlook on being a service provider. So yeah, while it may suck for you, the bulk of your 'co-workers' have ruined it for the few of you that give a damn. 
+
+
+
+
+ The Arnold Schwarzenegger hideout costume lady in Total Recall??? 
+
+
+
+
+ Can you ELI5, I still don't get it. 
+
+
+
+
+ I'm officially using this term from here on out. Thanks. 
+
+
+
+
+ My rest days are 'light' days at the gym. Instead of running my 3 miles, I walk/run for 20 minutes. I also just do some core exercises instead of focusing on legs, arms, chest, etc... I've found that it's really hard for me to overcome my caloric intake issues, so I instead try to ensure that I'm definitely burning a lot every day. 
+
+
+
+
+ I totally understand this. I work for a family-run company that is populated by mostly Chinese (or half-Chinese) people. They are orderly, polite, and very decent people. They occasionally have our customers visit the shop and engineering area and these customers are sometimes from China. They can be some of the most disrespectful and annoying people ever and the people I work for always feel bad that they act the way they do. 
+
+
+
+
+ My favorite is the Frazier knockout. That right-left-right combo when it's pretty obvious that Frazier was done for on the upper cut is just so awesome to watch. 
+
+
+
+
+ Oh yeah, the after picture was about four steps closer. That's my daughters swingin' tree, no way she'd let me take that down. 
+
+
+
+
+ I woke up this morning and did not feel like running. I had made it to gym everyday for the last two weeks and this morning I just wasn't doing it. I needed a break. So instead I got up, had my sensible breakfast, walked a mile there and back to the hardware store for a few odds and ends, and worked in the yard. All day long. I mowed and weed-ate (eated?), cleaned up from that, turned over and weeded the entire garden in my side yard, fixed the fence, finished the chicken coop waterers and feeders, and chased my daughter around for an hour playing 1-year old tag. Most likely burnt a lot more calories today than I would've if I went to the gym and didn't do this stuff.
+
+A different kind of [before](http://i.imgur.com/yHrBzqi.jpg) and [after](http://i.imgur.com/8uD2Gmk.jpg). 
+
+
+
+
+ And now since the house is empty of anyone else beside your friend, they are free to burn it down at their leisure.  
+
+
+
+
+ Educate me here, I used to know so much about gaming machines, but I feel like things have moved so far past my old trusty i486 DX2.
+
+I'm assuming that Skyrim isn't actually running on the tablet, but on some other machine? So, where is the graphic processing done? Does this have to run on lower video settings to account for cheaper video hardware on the tablet?  
+
+
+
+
+ It seemed like that mother or father type character died in the trailer. Pretty depressing to me, is all. 
+
+
+
+
+ It's called [Tilt-Shift photography](http://en.wikipedia.org/wiki/Tilt%E2%80%93shift_photography). By creating an extremely sharp portion of the picture and blurring the rest you can trick the brain into thinking you're taking pictures of miniatures. 
+
+
+
+
+ I've always thought that it's so much easier to get stunning views of the Bay Bridge than the Golden Gate. Great picture OP, thanks for sharing. 
+
+
+
+
+ I'd fart in his face. 
+
+
+
+
+ What is it with depressing games now-a-days? Is it just the trailers they're putting out? This looks like an awesome game, but man, just depressing as shit. 
+
+
+
+
+ Unsure about buying this. I do like side-scrollers (finished Guacamelee and working on Rayman now,) but after watching the trailer just now I remembered that looks like about the saddest game ever. Any confirmation on that, am I going to be weeping like an infant if I get into it? 
+
+
+
+
+ Yeah, mine fell asleep on me while I was playing Rayman the other day. We stayed like that for a few hours. I wasn't complaining one bit. 
+
+
+
+
+ The sad part is, this is a rookie mistake that my wife makes all the time. She thinks it's so cute to watch my daughter run all over buck-ass naked. That is, until she pisses on the floor. 
+
+
+
+
+ Sorry bro, I'm an Its-It guy. 
+
+
+
+
+ Weird Weekends is so good. So... which one is BBC Two on my Comcast? 
+
+
+
+
+ Your references are on point. I just watched that video. And I live in San Francisco. 
+
+
+
+
+ I saw a test drive of it in early-early-pre-beta and it was slick than. I'm sure it's gotten slicker.  
+
+
+
+
+ [Real-Time FAQ](https://decibel.ni.com/content/docs/DOC-35053) : About halfway down you'll see that while it's not supported by NI, the distro is available on github. The rest is left up to you. 
+
+[LabVIEW to Arduino Compiler](http://www.tsxperts.com/arduino-compatible-compiler-for-labview/) : Another, in my opinion better, method of running LabVIEW to Arduino. This actually compiles and deploys LabVIEW code on the Arduino to run headless. 
+
+
+
+
+ I'm mobile at the moment, but will link when I get back to my computer. 
+
+
+
+
+ Or look into compiling your Labview straight onto the Arduino or running the Labview RTOS on your Beagleboard.  
+
+
+
+
+ Wasn't that Scarface? And that wasn't freestyled, that was written. 
+
+
+
+
+ What's a gas port? Is that where the gas ships come in to harbor? 
+
+
+
+
+ I was always taught, wait ten seconds, eject the round. Leave it on the ground. A misfire (didn't fire) or hangfire (fires late, as it's properly called outside of southern Missouri, I've been informed) is much less dangerous on the ground than in the barrel. 
+
+
+
+
+ Typically referred to as a 'slow burn'. Not un-heard-of. 
+
+
+
+
+ Oh my god. Yes. Came here specifically to make sure this whiny little brat was mentioned. 
+
+
+
+
+ If only this shield could block cancer. 
+
+
+
+
+ I hope  my daughter hates riding with me as much as you hate riding with your dad. Thanks for the video. 
+
+
+
+
+ I'm still somewhat new to JS and node.JS, but not new to development. I ran into this [this page.](http://www.nodebeginner.org/) I am in no way affiliated with this website at all, but I was wondering how relevant the material still is. I saw that it was posted on reddit 3 years ago, so it seems like it's a fairly old page, but it claims it was updated in January of this year. Mostly interested because after reading the first few paragraphs it kind of defines my experience to a 'T'. 
+
+
+
+
+ Looks good. Have fun in the snow and be safe. 
+
+
+
+
+ What year is that R1? 
+
+
+
+
+ Not true. I got caught in some snow once coming over a pass in California. Kept it slow, got way off the bike when turning to try and keep it as upright as possible, but I survived. Didn't go down once. 
+
+
+
+
+ Never been, what's the concept, do your own work, just use their shop? 
+
+
+
+
+ Don't forget when they're sitting in your lap and decide to kick and get you with their heel. 
+
+
+
+
+ Not to make this too NSFW, but yeah, the extra inch or two is gonna be nice for my wife.  
+
+
+
+
+ Yeah, the title says it's the opposite of road rage, but I get the feeling that this video is the absolute furthest that rage can go. 
+
+
+
+
+ Yeah, good on you for knowing the limits of your job and putting your family's health and safety (by keeping your job, no matter what the cost) before your own gratification. I commend you, no matter what anyone else says. Plus, good looking kid, he's got the same look on his face that you do. 
+
+
+
+
+ Thank you for saying this. I saw them a while back and kept thinking the same thing, "Man, this show is awesome and all, but I would love it more if these guys sounded a bit more like Slipknot." 
+
+
+
+
+ I am, but mine started when my dad passed, however I didn't notice it until one of the delivery nurses mentioned how great it would've been if both of parents could've been there to see my daughter born.  
+
+
+
+
+ The cure for all the sunset photo's of the bay. Shitty sunset photos. 
+
+
+
+
+ Only heard it once, but yes, it's a sound you never forget, I'm sure. 
+
+
+
+

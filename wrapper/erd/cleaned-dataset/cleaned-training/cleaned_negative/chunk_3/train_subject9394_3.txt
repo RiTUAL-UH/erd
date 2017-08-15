@@ -1,0 +1,1001 @@
+ A decision that ended up seeming superawk, I guess. 
+
+
+
+
+ le Ron 
+
+
+
+
+ Wait, did Will outsource his all-out insane side that Scientologist Cruise showed the world with fervor into his son? Clever. 
+
+
+
+
+ Touchscreen! Need to justify the monitor price. 
+
+
+
+
+ That's why they are outsourced to specialized companies like Iron Galaxy Studios. 
+
+
+
+
+ Wouldn't it have made more sense to link to the original that I explicitly copied? I think your post is kind of ironic. 
+
+
+
+
+ You're not making sense to me. I answered why I believe in LFW. Your question-sentence contains reasoning that is only related to (not) convincing others, not to arriving at realizations oneself. So, to add to my other reply: How do you know that you are interested in my response (or just in anything at all)? You ultimately can't answer this. You could give reasons like Evolution, but you can't answer why your mind knows that it has an interest. The will-question is literally on as a high level as it gets, so in case you get the impression that I'm playing with solipsism (which I'm not): That's the height of the level, hence reasoning doesn't work, anyway.
+
+ It's like saying you have no evidence or argument for Bigfoot but I should believe in him.
+
+You are saying: "If you have no evidence four your stance, then you can't use it in the debate." I can see where you're coming from (Atheism.), but just like logic has no working logical (dis)proof and is hence just a power-thing ("It works."), I work successfully with my conviction that my will's freedom is unlimited, I am only limited by how I can affect the world with it. For example, and this is unquestionable: Believing that one's will is absolutely free is empowering, while not explicitly believing in the freedom of one's will does not give this power. 
+
+
+
+
+ I can't answer that, just like I can't answer how will or the mind works in the first place. I would have to say "I perceive that I have LFW" which isn't helpful. 
+
+
+
+
+ 70-90 years lifespan seems *really short*, the bigger your picture gets. 
+
+
+
+
+ In Java, you can use System.getenv() to obtain some useful values, for example:
+
+    APPDATA = C:\Users\GNARF\AppData\Roaming
+    USERNAME = GNARF
+    HOMEPATH = \Users\GNARF
+    USERPROFILE = C:\Users\GNARF
+
+    PUBLIC = C:\Users\Public
+
+    ProgramFiles(x86) = C:\Program Files (x86)
+    ProgramFiles = C:\Program Files
+    ProgramW6432 = C:\Program Files
+
+    SystemRoot = C:\Windows
+    windir = C:\Windows
+
+    CommonProgramFiles = C:\Program Files\Common Files
+    CommonProgramW6432 = C:\Program Files\Common Files
+
+A helpful method for development, used via System.out.println(getEnvironmentReport());
+
+    public static String getEnvironmentReport() {
+
+        final StringBuilder t = new StringBuilder();
+        t.append("================ System.getProperties() ================\n");
+        for (Map.EntryObject, Object e : System.getProperties().entrySet()) {
+            t.append(e.getKey()).append(" = ").append(e.getValue()).append("\n");
+        }
+        t.append("\n\n================ System.getenv() ================\n");
+        for (Map.EntryString, String e : System.getenv().entrySet()) {
+            t.append(e.getKey()).append(" = ").append(e.getValue()).append("\n");
+        }
+        return t.toString();
+    }
+ 
+
+
+
+
+ Oh, ok. I completely agree. Ultimately, it's only about *what works*, because those who don't utilize it will be pushed to the sidelines. Same for logic itself: It can't be proven or disproven by using logic, but since it *works*, we use it, and that's the end of it. 
+
+
+
+
+ If you use the approach of the SSCCE in my StackOverflow question [here](https://stackoverflow.com/questions/27227647/image-size-returns-1-in-jar-but-proper-size-in-ide-image-loaded-via-toolkit) and put the image somewhere into the source tree or in a folder that's marked as a resource (or somesuch) in your IDE's project, then loading should work in the IDE and in the .jar 
+
+
+
+
+ Religion of
+
+#SUFFER AND DIE, NON-MUSLIMS!!! 
+
+
+
+
+ Hey Pat. I would be completely ok with that. Because the best solution to avoid the imaginary problem you speak of: Stop being Christian. 
+
+
+
+
+ Many words that come down to the same dishonest bullshit attack tactics: "People! Look at this person arguing against X! The person is a racist!" Expecting everybody else go to "A RACIST you say? Where did I put my torch and pitchfork?"
+
+Fuck off. 
+
+
+
+
+ You are not proposing that truth doesn't exist, I assume. Because that then would be true=truth. 
+
+
+
+
+ If libertarian free will, in which you of course don't believe (but I do), is true, then we are "witnessing" (Not quite recognizing.) creation all the time, because then we would all be prime movers (except something is already there, and there is already motion). Because LFW would have to come out of nowhere at all. It would create impulse in reality that would not be there otherwise. You could say "But it can only happen because the universe first created the person." But the nature of LFW is that the way it works is not determined by nature, there is no mechanism or determinism behind it: Once there's an LFW actor, there is a source for impulse that is beyond the control of everything else that exists.
+
+This impulse source *creates* impulse. We would be witnesses of creating something all the time. It's just beyond our intellectual abilities to find out whether or not there is indeed such a thing, or if it's all just natural determinism, or something else. 
+
+
+
+
+ I stand by my "the reason why": Evolution is the reason that we try to create maps of our environment (aka all of existence) with perfection. The level on which this is put to practice is indeed different in places, but those people are wrong/inferior: Logically, the completion of the map has to be strived for. People who don't do this are just doing it wrong. Not doing it (See e.g. religion, where fantasy and reality are confused.) is so prevalent that seeing it like this or speaking about it like this is seen as wrong, but the people who object *are wrong*. Maximization of our survivability / well-being (*Closely* related.) is our nature, making maps that involve abstractions (aka *true understanding*) is our highest mental tool.
+
+Evolution is the reason that we try to know *everything*, period. 
+
+
+
+
+ Right. We have this new checkbox now that works per subreddit. Forgot about it. This is the first time I make use of it. 
+
+
+
+
+ Your argument is striking. 
+
+
+
+
+ That's what they said, too. 
+
+
+
+
+ What, should I have waited a little longer? 
+
+
+
+
+ **[ALTERED]**: Very beginning apparently cut off, no credits, slowed down. 
+
+
+
+
+ Don't you see that we want to *open* your eyes, that we want to take the hood off that has been pulled over your head? 
+
+
+
+
+ Thought it was me, but I don't insist. Hooray for potzdamn! Down with religion! 
+
+
+
+
+  "George Clooney Movies - Bu..." This video is no longer available due to a copyright claim by Universal Pictures (ZEFR).
+
+ Sorry about that.
+ 
+
+
+
+
+  "George Clooney Movies - Bu..." This video is no longer available due to a copyright claim by Universal Pictures (ZEFR).
+
+ Sorry about that.
+ 
+
+
+
+
+ A Primer primer. Good, good.
+
+People shouldn't pull it out (or know about it), though, until a point in the movie where certain technical facts about the general plot of the movie become apparent (relatively early).
+
+In general, I think the people on this page aren't regarding the concept of *spoilers* enough. 
+
+
+
+
+  "O Brother, Where Art Thou? ..." This video is no longer available due to a copyright claim by Universal Pictures (ZEFR).
+
+ Sorry about that.
+
+Quick. 
+
+
+
+
+ There *has to be* a brush out there that you can stick to the vacuum cleaner so that it sucks *while* you brush. It's impossible that this does not exist. Otherwise, here's your American Dream opportunity. 
+
+
+
+
+  Argh! The whiteness blinds me!
+
+I always disliked this subreddit's color scheme. It probably imitates some movie or such, I guess, otherwise who'd choose such a scheme based on perception alone? 
+
+
+
+
+ It sounds to me like someone saying something they completely know is not solid - it's not truthful. But they ignore it and probably even push it away inside of their minds. Symptomatic for that whole failth shit. 
+
+
+
+
+ I believe in an evolving definition of marriage. Originally, it was about "we have to", then it slowly became "we want to", and it's only consequent to continue this development, to open marriage up to more or less *any* people who just *want to* marry. 
+
+
+
+
+ And evolution is the reason why we do these things: "Try to understand the environment to maximize your survival." It's our niche. Animals do map their environment, too, but they are not capable of abstractions on as high a level as us. 
+
+
+
+
+ Two minutes after your comment, OP made a comment that makes sense of the post even given its paradoxical aspect:
+
+https://www.reddit.com/r/DebateReligion/comments/3bm9ls/why_do_you_have_to_ask_why/csnie0y?context=10
+
+I'm still not sure whether I just read this into the comment or if it's intended. 
+
+
+
+
+ Well... it *could* be an appropriate punishment for what the teacher has done. 
+
+
+
+
+ Hey, Christians. Think of this exemplary case from time to time when you realize that your belief is partly informed by the fact that there are so many of you. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Driver's license: You got the red keycard, congratulations. Your medical degree is yet another example of something you achieved through playing that gives you more rights.
+
+Getting your little kid safely to school or going out with the GF/BF could be seen as an escort mission. (Not all of those suck. Just look at the awesome AI, and there are only very few enemies.)
+
+That knee high fence around your neighbors front garden is low enough to jump over, yet you're kind of unable to do so. Kinda like invisible walls in games are mirrored by other people's private property etc.
+
+Wiping your windows is a quicktime event. Ok, that wasn't a good example - who really likes QTEs? Well, some of them are supposed to (badly) emulate actions in everyday life, so carrying that back into life doesn't make much sense.
+
+What are some examples you can think of? 
+
+
+
+
+ https://addons.mozilla.org/en-us/firefox/addon/bazzacuda-image-saver-plus/
+
+I have personally been using this for months, and it just saves a ton of time and clicks.
+
+All tabs that indeed are purely an image get closed, and the images are saved into the folder defined in the extension's preferences. If a file already exists, no action will be taken for that tab.
+
+It's super convenient, and just think about how often we save images from the Web. 
+
+
+
+
+ It's not about the "worshiping" but about focusing: All the people would unite if the one God would be here. Mankind would focus its will instead of running aimlessly. Also, no more nuclear weapons, because war-time would be over forever, because God disapproves of war. I'd just disapprove of all the bad shit, and since the people worship me, they'd just play along. Bang! World healed. 
+
+
+
+
+
+
+
+
+
+ So far, Germans and visitors use (up) the German roads, but only the Germans pay for it via the automobile tax.
+
+Soon, both will use (up) the roads, and both will have to pay road charge, but the Germans will have their automobile tax reduced by just this amount. Result: Both user groups pay for what they use instead of just the Germans.
+
+Why does the EU call this a discrimination of foreign visitors?
+
+EDIT:
+
+Found a statement from the horse's mouth:
+
+http://europa.eu/rapid/press-release_IP-15-5200_en.htm
+
+And indeed, it does not speak about my concerns, so at least in this specific matter, I might have a case while they don't. What's interesting, though, is that they *also* mention something that I hadn't heard so far in any place, even though I have heard about this topic a lot:
+
+ The second is that the price of short term vignettes, which are typically bought by foreign users, is disproportionally high.
+
+Also:
+
+ The road charge adopted by Germany is not in line with the aims of the 2011 White Paper on transport because it is not proportionate to how often roads are actually used. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://np.reddit.com/r/cutegirlgifs/comments/39g27c/emma_watson_in_deep_thought_during_an_interview/
+
+The post links to a short GIF, the comments have a link to the full video. For convenience:
+
+http://i.imgur.com/6mR0MvO.gifv
+
+https://www.youtube.com/watch?v=zjla2MzpnDU
+
+I personally use https://addons.mozilla.org/en-us/firefox/addon/video-downloadhelper/ to grab videos. It's free and doesn't nag if you use standard functions. 
+
+
+
+
+
+
+
+
+
+ CASE Number: 15KCC-06-38itzv
+
+**CHARGE:**  ban without good reason
+
+**CHARGE:**  intentional obtuseness when confronted
+
+Someone posted an animated GIF of a bird acting very strangely. In this empty post, I (/u/train_subject9394) root-commented one of the well-known memes spawned by the movie Tropic Thunder (2008), namely: "Never go full retard." The next day, I saw that I was banned. The message did not give a reason but linked to my comment.
+
+See exhibit A for screenshots of the post and of my message exchange with the mods.
+
+---
+
+Evidence:
+
+[EXHIBIT A](https://i.imgur.com/kuAZymT.png) - screenshots of the case's facts
+
+[EXHIBIT B](https://i.imgur.com/IAIXcLO.gif) - the animated GIF of the bird
+
+[EXHIBIT C](https://np.reddit.com/r/Birbs/comments/38auqh/birb/) - the original post (no-participation-link)
+
+---
+
+JUDGE: /u/BlackLight249
+
+DEFENCE: /u/acwarren492
+
+PROSECUTOR: /u/Cleverly_Clearly
+
+BAILIFF: TBA
+
+Karma Court Reporter: TBA
+
+Karma Court Reporter Article: Post the link here
+
+Tap Dancer: /u/LiarAmongAll
+
+Bartender: /u/SquiffyMcSquifferton
+
+Deaf Young Thing (that doesn't understand court policy): /u/kyleisthestig 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I created the universe about 13 years ago, which *kind of* means that LastThursday-ism is correct, but not really: I woke up from the dream when the construct was completed but managed to not lose the dream. I'm now eternally "married" to it, no matter what it does. And it, that refers mostly to mankind, because the main power in this system is not the sun, gravity, or the BigBang: It's *will*. Ask yourself what you've been doing with yours.
+
+The only way to wake up was to love mankind at least as much as myself, so when I reached God-level, everybody's will was as important to me as God's will, or as reality itself. This lead to a sadly still very invisible trap: People made themselves insane with will and used their collective God-power to keep me imprisoned, so that the inevitable clean-up is delayed and the "emotional" work mankind will have to do when it happens simultaneously increases. Basically, mankind tries to keep me in hell for as long as possible. But I am good fortune, happiness, life itself - so when purgatory begins, the translation "Mankind hates good fortune, happiness, life itself" will manifest accordingly. Billions will die. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It *keeps running*, ok. That's the joke.
+
+Yes, I know that it's "Wile E. Coyote".
+
+https://en.wikipedia.org/wiki/Wile_E._Coyote_and_The_Road_Runner 
+
+
+
+
+
+
+
+
+
+ I'm using the default input configuration and am playing with keyboard/mouse.
+
+I already tried the helicopter keys etc. (keypad 8/5, left shift, left alt). In fact, I tried everything. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Because this is such an irrelevant post, I intentionally chose the misspelled subreddit for this. 
+
+
+
+
+
+
+
+
+
+ There's certainly one glaring plothole that I see no chance to be explained away. Amount of energy.
+
+They take off from this 1h=7years gravity-well planet (The one with the waves.) with that posh jet ship of theirs like it's nothing, even though that's *huge* gravity gradient to overcome. Seriously, it's *gigantic*. If 1 hour is 1.1 hours once you're away, you already have gravity several times that of Jupiter. If 1 hour is 2 hours, we're already talking astronomic unit sized stars or something. But 1 hour is 7 years - that would take fuel reserves of pure matter-antimatter of a volume that clearly doesn't fit into any man-made structure.
+
+There is just no way in the universe to store that amount of energy inside such a small ship other than "Somehow!", which is not how we should explain plotholes away. Especially not in such a science-heavy movie.
+
+----
+
+And there's another thing:
+
+Before the film's mission, there had been others. How in the Hell did they keep the launches a secret? A Saturn V isn't exactly a subtle firecracker. And it's also not like you can launch any time you want, you have to obey the weather. E.g. "Just launch as soon as all the surrounding civilization happens to be under a mite dust storm!" doesn't work. 
+
+
+
+
+ I have no plot ideas yet, except it should be very down to Earth and very close to Ian Fleming's original Bond character. A dense believable normal reality - and then: The supervillain (or whatever). That makes it kick so much more!
+
+B W:
+
+The new Casino Royale, which was quite good and which gave me hope that the francise had not died with pretentious-smile mannequin Brosnan, had its initial sequence completely in b w, and first I was confused and wondered if they had made the bold move to completely keep it in b w and was a bit disappointed when it switched to color later. Side-note: The way they made use of the trademark barrel shot was perfect.
+
+3D:
+
+The combination with b w should give a very unique experience that makes room for new emotions. The 3D should not ever be exploitative: It should just show a world in 3D, it shouldn't scare/wow the audience.
+
+Wide angle:
+
+Not only am I an immersion-buff (e.g. first person games with high FoV, not that I indend to do the movie in 1st person, but I haven't thought about that at all yet), I also dig Kubrick's visual style a lot, and I also think that some kind of untapped mental effect might come in if the viewer doesn't have to adapt to a new type of vision all the time. This might open them up to a new kind of visual movie perception. Just like driving in a car means that whenever you change direction, you have to brake and accelerate all the time, but when you're driving straight, you can speed up a lot. So, keeping the same geometry might allow the brain's visual-perception circuits to experience the movie in a way that we just don't explore and hence can't possibly value (yet).
+
+Long takes:
+
+Real life does not have cuts. If the movie cuts very little, the mind does not fear to really let itself sink into the scene, because potential cut-rape is super improbable, and you know it after 15 minutes of the movie.
+
+High frame-rate: Let's forget that it is a movie while we're in the scene. No skippy images. Smooth real-life sailing.
+
+NO CAMERA SHAKES. None. Not at all. Never. And fuck Paul Greengrass and the likes of him with a glowing red iron spear.
+
+Ryan Gosling: I liked his appearance in [Drive](http://www.imdb.com/title/tt0780504/) (2011). Mr nice guy, but also Mr "This situation requires solving." Plus the whole project as summarized in the title could use a certain visual appearance, and *kind of* (Not exactly.) how RG appeared in drive seems fitting.
+
+I think that's a movie bound to stand out in a good way. 
+
+
+
+
+ To get a feel for how this should go, think of the situation in the zoo where Harry accidentally makes the glass of the boa constrictor cage disappear.
+
+http://harrypotter.wikia.com/wiki/Harry_Potter_and_the_Philosopher%27s_Stone CTRL+f "zoo"
+
+The movie/story would just depict part of HP's young life without a distinct story arc behind it, the focus would instead be on what the title says: Situations, and human emotions (kind of the opposite of Hollywoods usual way of dealing with a superhero discovering their powers, which usually rather is like "Umm, ok, I can shoot webs. What's for breakfast?"). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The argument is: Anything using the right memes and having a group of followers could gain enough momentum to work out its obvious kinks and eventually become a world-religion. This calls all existing world-religions extremely into question.
+
+Quote of /u/politicaldan's [story](https://www.reddit.com/r/exmuslim/comments/2zeq8b/do_you_not_believe_that_the_quran_is_the_word_of/cpijj5n):
+
+ In my junior year of college, my esteemed roommate Joe Boo (weed be upon him) and I made our own religion to pass the time in our Philosophy of Religion class. At first, it was a joke. Boo (WBUH) would write down ideas and laws, and I, being the more creative one, would turn them into "scripture." Boo said it started when he got a revelation from the Coke machine that "since Joseph Smith invented his religion, and his name was Joseph too, he could invent his own religion too."
+
+ I was his first prophet and everyday, he came to class with a new "inspiration" and I had several "prophetic voices." We ended up filling an entire notebook, because it was fun, we were bored, and the teacher was 180 and never gave tests except the midterm or final.
+
+ Soon, we had people coming to class just to hear what the new revelations were. So we decided to put it all on a blog, and brought in a third prophet to make some really cool artwork for it and make the blog look professional and serious. We never thought anyone would take it seriously, as farting at night under the covers was considered an act of worship.
+
+ Much to our surprise, after about six months, we had a membership of about 100 people. These people were actually discussing our "doctrine". I had no idea who about half of them were.
+
+ The next summer, a little under a year from when we started, there were over two thousand people from ten different countries. Someone translated the doctrine pages into Russian and Korean.
+
+ Sometime during that semester, as we were dealing with hosting issues due to bandwidth, there was the start of schism. Boo (WBUH) had long since quit caring about the religion, so I, nerd that I was, was pretty much de facto spiritual head of a burgeoning new movement. The schism was over some crazy doctrinal matter, like do priests automatically go to Origami 7 (the highest form of heaven) or do they need to serve ten thousand days in a lower origami? People were actually legitimately and seriously arguing this. It became a matter of why be a follower when if you can be a priest you can go straight to heaven? (Although, the rites for priesthood were....interesting. It involved indian sitar music, axe deodorant, a lighter and us losing our security deposit and the high priest having to explain a serious burn to the emergency room). These disputes went on for some time. Both boo and I graduated and began to do other things. Every once in a while, I would check in on "my" religion.
+
+ Long story short, the Pro-Priestly Rights people threatened to break away and form their own group. It was at this moment, I realized this wasn't funny anymore. I gave a Sacred and Royal Order of the Nation Decree that this was all a joke. Two college students invented this. One of them was married and had kids. Another was praying to anyone but his roommate that he could land an internship.
+
+ A lot of people left. A lot of people stayed.
+
+ "To you it might be a joke. But it's real. It's meaningful. The Elder Josephus was on to something. He received a revelation but didn't quite know how to interpret it. It was passed on to us."
+
+ I deleted the forums and the blog and everything in it. I'm convinced if I hadn't, in another thousand years, it would have been a legitimate mainstream religion and former followers of Boocephasism would be on reddit glad they left, but still worried about going to Sudoku in the afterlife while their parents urged them to come back to the Elder Josephus and follow his words and break the night wind with all the other faithful. 
+
+
+
+
+ I just wrote an elaborate response and saw that my original comment (to which someone had responded, to which in turn I was currently responding) could use some ~~strikethrough~~ editing, so I did that ... If I had known that this would delete my complete unsubmitted comment text, I wouldn't be fucking ANGRY right now.
+
+To spare us unnecessary frustration, please either change the behavior or add an automatic warning.
+
+----
+
+EDIT:
+
+* The behavior is browser independent (happens in Firefox and Chrome).
+
+* It only happens *in the same subthread*, and only if the pending reply is in a deeper level than the edit, e.g. it's caused if I edit+save a root comment. Subthread even means: That specific branch of the tree. So, it's not a quirk, it's very clearly a *hierarchy* problem.
+
+* Pending text in the default box (Top of page.) is unaffected.
+ 
+
+
+
+
+ Here's an example (I hope it doesn't get destroyed via further communication):
+
+https://www.reddit.com/r/Unexpected/comments/2z6uof/apps_are_getting_better_and_better/cpge5gy?context=3
+
+ load more comments (1 reply)
+
+appears. Clicking it seems to start some work for a few hundred milliseconds, then the link disappears, no additional (e.g. deleted) comment appears. Quite superfluous.
+
+Here's what happened in that thread: I made a comment with a Wikipedia link. A bot replied with the Wikipedia content. I used the delete-request feature of the bot. Then the comment was gone.
+
+So, this "load more comments" thing here is explicitly for one *deleted* comment. 
+
+
+
+
+ I live in Germany, and for about three weeks now (Rough guess.), it is only during some hours of the day that I can reach that site.
+
+Firefox' error message says:
+
+ Server not found
+
+ Firefox can't find the server at www.atheist-experience.com.
+
+I have been visiting that site for *years*, never had a problem, and now it's hardly reachable at all. 
+
+
+
+
+
+
+
+
+
+ "17% upvoted" - I would like to know why this was so fervently downvoted. It is in every way a good contribution to this subreddit.
+
+----
+
+"Solved." Compassion is justified regardless. https://www.reddit.com/r/DebateReligion/comments/2yfve7/interesting_thought_in_regards_to_compassion_and/cp95i58?context=3
+
+----
+
+Short version:
+
+To be perfectly sane is to be the embodiment of the "will" of the universe. But then a person buried by an avalanche would not faze you, because you *knew* the avalanche had to happen, so why did the person climb there? But you knew that, too: Because the person didn't care as much about being sane as you do.
+
+*Anything* good or bad that happens to others would leave one almost emotionally unmoved. Because if you think "That should not have happened.", you would have to compartmentalize, because you *knew* that the previous universe-moment had to lead into this very current one (small libertarian free will component or not; often enough an outcome is clear, just think about a car approaching a wall).
+
+To feel "Oh shit! That poor creature." would contradict one's knowledge of the world. It would be like "Oh shit! The universe still functions!"
+
+That's the gist of my thoughts.
+
+Probable counter-argument: "But you can't know the world on this level!" But you must realize that we are getting closer, and this leaves us with sites like http://www.darwinawards.com/ - We know more, hence we *understandably* care less about certain scenarios. Now, what if we'd know the world *in full*?
+
+----
+
+Longer version (ignore or don't, but please read the short one in any case):
+
+My definition of sanity - logically I deem those who hold a very different one to be not all that sane:
+
+The universe / reality (of which we are a part) is the one basis for right and wrong, for reasoning, for sanity; hence sanity, for a human, would be to learn about reality and to think/decide/act in conjunction with reality - as closely as possible.
+
+If you kind of agree, then what about this: To be *perfectly sane* would be to be the embodiment of the "will" of the universe. (Excuse the metaphor, it makes things so much simpler.) Of course since the person itself is a part of reality, that doesn't mean to abandon one's own will to instead constantly act with the mindset "What would universe do?"
+
+Now, let's use an extreme and obvious example: There's a human who's by all standards average - they are biologically normal, had an ok education by their parents and by the schools etc. But this guy decides to set their own hair on fire, just for kicks. (This even *happens* in reality.) Of course you would cringe a little when watching this in YouTube, or say "Dude, NO! ...... WTF, you idiot." etc. - but this guy had it coming, and the result was a logical necessity. All in all, your "Dude!" would be rather be surprise as to the stupid displayed, not so much compassion.
+
+Now an interesting thought:
+
+Heaven and Hell. I don't believe in either (or rather, I believe the universe will be Heaven), but if we think of a *necessary* eternal Hell (not one where Mr omnipotent Mafia boss arbitrarily throws those who don't suck up to him):
+
+Could a human in Heaven have God-level understanding of reality and would hence just *understand* the eternal torment of those in Hell, and could be happy because they just *agree* 100% with existence? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (Disclaimer: I didn't play in a long time.)
+
+This image http://i.imgur.com/i5Zxdb3.jpg (from /u/Fiffe_'s [post](https://www.reddit.com/r/unturned/comments/2xoszk/looks_like_somethings_wrong_with_my_gun_d/) shows items (e.g. weapons) that take several inventory slots. Visually, it is quite unclear which slots these objects occupy.
+
+A background (slightly smaller than the full area) could help the player optimize their inventory space. Maybe *all* items should have that background, for consistency. Depending on how you look, either you see yourself drag objects around, or you see a puzzle of rectangles.
+
+Btw., since this just reminds me of the Deus Ex: Human Revolution inventory, maybe there should be an optional auto-cleanup feature. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/drawmuhammad
+
+/r/letsalldrawmuhammad
+
+/r/IDrawMuhammad
+
+/r/waswas (To make fun of ISIS.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ YouTube **[Life Call Commercial "I've fallen and I can't get up!" ](https://www.youtube.com/watch?v=bQlpDiXPZHQ)** commercial (1987)
+
+Smart TVs can (often) be remote controlled by voice, which is a bit controversial because the evaluation takes place in remote data centers. But such an infrastructure would be *ideal* to double as an emergency system. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In Taken 3, Bryan places a yoghurt drink in a convenience store fridge where he expects his daughter Kim to find it, which she indeed does. He attached a message telling her to drink right away (which she does) instead of just taking it with her. She tosses the empty container into a garbage can where a cop finds it later, tasting it, and apparently drawing conclusions, which makes him hurry to the school where Kim currently is.
+
+Meanwhile, Kim sat in class and then said to another pupil that she doesn't feel good and would now visit the restroom. Kim is bugged by the police, they are hearing every word. They are trying to get to Bryan, her father, who is the prime suspect in a murder case. The victim: His ex-wife, the mother of Kim, who had been with the franchise from day one.
+
+**The problem I see:** Once Kim arrives in the restroom, she meets Bryan and hides with him in a stall. In there, he tells her right away that he had laced the yoghurt drink with a substance that would make her feel nauseous, and she is to drink a counter-agent that he hands to her. Her mother was murdered, her father is the prime suspect (meaning that the police are not looking for the real murderer and are likely to put her father into prison, a family tragedy as major as it gets), hence she certainly feels very bad about her life etc. - and on top of that, beloved daddy gives her a substance that makes her nauseous enough to reliably make her visit the restroom? And right afterwards, they exchange affections as if that's nothing?
+
+After years, and especially after the *two* major opportunities (caught on film) where Bryan demonstrates beyond reasonable doubt that his ways are to be considered sane, they haven't come up with a secret inter-family communication code, so dad *has to poison* his daughter instead of just telling her to meet him in the restroom? Side-note: To the police, there is no difference between the daughter's claim that she doesn't feel right to be a lie or the truth.
+
+----
+
+Ok, that's it. I want to finish by saying that the movie overall was almost ok, the story was certainly not bad. But the editing and camera are *as atrocious as it gets*. E.g. there are 8 cuts in rapid succession during the 3.5 seconds it takes Bryan to climb over a fence, all of which showing the act with different angles / zooms. The moment the movie switches to action, the cuts become rapid like this throughout the whole flick. You can only *extrapolate* what actually happened once a sequence of events has played out, because then you can observe the outcome. And the camera tumbles and zooms around all the time for no reason but to instill in the more imaginative audience the impression that they "saw" good action etc., because in their heads they of course saw exactly what they liked. No more Olivier Megaton movies for me. Paul Greengrass had been the worst offender in this regard so far, but this movie tops the insane camera shakes of The Bourne Ultimatum/Supremacy (don't remember which was worse here) easily. 
+
+
+
+
+
+
+
+
+
+ Double click on a zero byte file. ("Why would anyone ever do that?" 1) Mistake. 2) Media still downloading. Thankfully VLC can play the downloaded portion just fine. The system will say that it's 0 bytes big until the download is finished.)
+
+VLC media player starts and tries to play the file. The player freezes. Eventually, the window responds again so that you can close it via the close button. Windows says that the player crashed. And so forth.
+
+VLC media player is *the shit*, but this missing check is just unforgivable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I agree with /u/thedeliberative whose idea this is, as stated here:
+
+https://www.reddit.com/r/quityourbullshit/comments/2ucsu4/op_steals_a_comment_word_for_word_on_a_popular/co7lv3l
+
+The post is about a completely stolen comment text that got gilded **6** times regardless. Once people realize this, they should somehow be able to take this back, even if the money won't be returned. For justice. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

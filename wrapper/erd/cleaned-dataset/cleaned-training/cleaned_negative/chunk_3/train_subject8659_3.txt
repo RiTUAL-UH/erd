@@ -1,0 +1,222 @@
+ This would be super fantastic :) Yes please!
+ 
+
+
+
+
+ Idk... Nokia is playing the comeback game, they have more incentive to be innovative. Apple hasn't done anything new that's useful in years and the GS3/4/5 are essentially the same. Slightly bigger screens and faster GPU/CPU/SoC, but nothing really innovative.
+
+Nokia is experimenting with crazy cameras and other emerging technologies. You can buy "charging covers" for a few other Nokia models as well to give them wireless charging functionality. 
+
+One cool thing Samsung did on the ATIV SE is put an IR blaster in it so you can use it as a universal remote. I would love to see that in more products!
+
+
+EDIT: To answer your "big fat coil" question, other than my knowledge of induction, I have no idea how they implement it in the phone. The Nokia Icon/930 is 9.8mm as its thickest, so it's by no means huge.
+ 
+
+
+
+
+ There are some cords (I own a Logitech one) where the two side are asymmetrical. The top half has a big bump thats really easy to grab. I use it in my car so I can plug my phone in while driving without having to look... not the best idea, I know. I'm trying to find a link...
+
+But seriously... Using locks must infuriate you. Up, down, left, right... WHICH WAY IS IT?! 
+
+
+
+
+ the Nokia 930/ Nokia Icon has wireless charging built in. You can either set it on a stand or plate (those do need to be plugged in) and it charges almost as efficiently as if it were plugged in.
+
+I routed out the bottom of my night stand, left about 1/16" of material, and glued the plate in. Now, I just set my phone in the corner of the night stand and it charges!
+
+http://www.nokia.com/us-en/accessories/accessory/dt-900/ 
+
+
+
+
+ Thank you. I laughed way harder than I should have. 
+
+
+
+
+ The article clearly states that the school administration made him delete it. Also, almost half the posts before you reference this. 
+
+
+
+
+ This has already happened to some extent with [John Joe Gray](http://en.wikipedia.org/wiki/John_Joe_Gray) in Texas. 
+During a traffic stop in 1999, he attacked a state trooper and was found to have terrorist literature in his vehicle. 
+
+According to all the news articles, he's basically been holed up on his 50-acre property ever since, and law enforcement don't want to risk entering his property to arrest him citing fears of violent retaliation from not only him and his family, but nearby anti-government extremist e.g Timothy McVeigh and the Waco Seige
+
+The only obvious difference is that Gray kind of imprisoned himself on his land whereas Bundy is still "free" 
+
+
+
+
+ You need an Office 365 subscription which is $99/year. However, that gives you 5 PC/Mac and 5 mobile device licenses...
+
+SO, with one subscription, you can get FULL office professional (Word, Excel, PowerPoint, Access, Publisher, OneNote, and more) which is normally $400/license on 5 computers, plus 5 phones/tablets (iOS, android, Windows Phone) running mobile Office. Additionally, you also get an extra 20GB of Onedrive storage 
+
+
+
+
+ Serious question, have you ever used a Surface or Windows 8 phone? 
+
+
+
+
+ I still dont understand what the older Start Menu gave you in terms of functionality that windows 8.1 doesn't. Additionally, its seems even EASIER to get to certain things. 
+
+
+
+
+ He looks like a happy dog :) 
+
+
+
+
+ This was her response to the video on Tosh.O Web Redemption...
+
+http://www.youtube.com/watch?v=6OVvF4xoWzU 
+
+
+
+
+ 1. Go to programs and features in control panel, sort by date installed, and remove anything suspicious. Many times its listed as Conduit.
+
+2. Open your browsers, and go to you addons/extensions and remove them. Next, change your default search provider to Google or Bing and remove the bad ones. Lastly, change your homepage to something reputable.
+
+3. Download and run Malwarebytes (quick scan) and ADW Cleaner. 
+
+4. Install Adblock Plus on all browsers.
+
+This is very abbreviated and can depend on what OS, browsers, and severity of infection. Feel free to PM me, I would be happy to give more detailed advice! 
+
+
+
+
+ -Run ADW Cleaner and Malwarebytes (quick scan) monthly or as needed
+
+-Remove startup items. Run MSCONFIG and uncheck any items that aren't vital to the computers operation. Generally leave any hardware, OS, or antivirus items and remove everything else. Googling specific items can help determine what should be kept.
+
+-Periodically check your installed programs, and remove unnecessary items. Again, googling things can help identify good, bad, and necessary. I like to sort mine by date installed as it makes it easy to identify what was done recently.
+
+-Update windows, Java, and Adobe flash and reader from reliable sources. 
+
+
+
+
+ Windows Phone 8 has Google Maps...
+http://www.windowsphone.com/en-us/store/app/google-maps/a2282991-ff5c-4038-994f-b03be450120d 
+
+
+
+
+ No problem! Hope they love it! 
+
+
+
+
+ To help mine, I put it in the corner of the cage and then fed them treats through the bars behind it. This forced them to climb on it and if you position the treats just right, they will start running! I did this for a few days and a week later they were using it on their own accord  
+
+
+
+
+ There are many ultrabooks with 3200x1800 resolution out currently, some with discrete graphics. This is nothing special. 
+
+
+
+
+ Pros: Properly owning and caring for a pet can be very rewarding 
+
+Chins can live a very long time (15-20 years) 
+
+Cons: Chins can live very long. They probably can't take the chin to college, so who will look after it?
+
+They have stringent needs. Specific food, temperatures, housing needs, etc. Kids can't give them tons of treats.
+
+Although adorable, their cuddly level varies from chin to chin and even the cuddly ones work on their own schedule. Don't expect this to be a pet you can just cuddle with whenever.
+
+If they get out, they are difficult to catch... think squirrel.
+ 
+
+
+
+
+ Yep.
+http://vimeo.com/67769684 
+
+
+
+
+ Mr old roommate use to weld occasionally. If you look at your weld WHILE your welding (without a mask/proper eye protection) it can cause serious eye damage. Think staring at the Sun. 
+
+He would get around this by setting up the weld, close eyes, weld, and repeat. Worked pretty well! 
+
+
+
+
+ Oh! Did you purchase a windows 8 key?? If you have the key, you just re-install windows and use the key again. There no limit to how many installs you have with the key, just one device can be activated with it at one time. 
+
+
+
+
+ If the drives are within manufacturers warranty (normally a year), they will probably replace them for you. Technically, overvolting isnt covered, but its very hard to determine... might as well try!
+  
+
+
+
+
+ I'll assume this is an OEM computer that you're dropping a new motherboard into. 
+
+- Make a set of backup disks from the manufacturer utility or type "Create a recovery drive" on the start screen to make a system image. (Having an escape plan is important!)
+
+- Get a bootable Windows 8 .ISO on a disk or USB http://windows.microsoft.com/en-US/windows-8/upgrade-product-key-only
+
+- Download Belarc Advisor. http://www.belarc.com/free_download.html This is an awesome utility that will tell you everything about your computer, including all your software license key about halfway down the page.
+
+- Install the new motherboard and attempt to load windows 8! Worst case scenario, revert back to the original motherboard and reinstall using your recovery disks. 
+
+
+
+
+ If you're looking for a faster route (not really better than sandpaper though), You can get a cheap (~$10) rotary tool at Harbor freight. Put a buffing/polishing wheel on it and your good to go. 
+
+
+
+
+ That is quite an impressive jig... just... WOW. 
+
+
+
+
+ hit up craigslist or harbor freight and all those tools including the vise will be less than $200... 
+
+
+
+
+ Thank you for that. :) 
+
+
+
+
+ The steel he purchased was already "folded", so it was, just not by him. 
+
+
+
+
+
+
+
+
+
+ xpost from /r/ ASMR... 
+
+
+
+
+
+
+
+
+

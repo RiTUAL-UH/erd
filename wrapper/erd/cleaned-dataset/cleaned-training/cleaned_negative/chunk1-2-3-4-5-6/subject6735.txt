@@ -1,0 +1,3689 @@
+ You can see at 1:22 he did the same trick but the camera was lower. Coin or ring, or whatever it was, was on the back of the hand the whole time. 
+
+
+
+
+ At 3:20 they kept the camera low so you couldn't see that he had already put the ring on top of her hand. At 1:22 the camera was higher so you can see the ring was up there all along. Good sleight of hand though that he can drop a ring on the back of someone's hand while moving it without them noticing it. 
+
+
+
+
+ I doubled yours, but LabVIEW crashed when I tried to add an indicator on the end. 
+
+
+
+
+ Oh. My. God. 
+
+You look awesome. That is such a huge change. I dropped just under a hundred total a few years ago and have done pretty good at keeping it off, but keeping the momentum is toughest during stressful parts of your life. Keep the before pictures as reminders of why you're doing what you're doing, and keep up the amazing work. 
+
+
+
+
+ Casey really looks like he wants to shoot Brad Pitt. 
+
+
+
+
+ I have a cool picture I got of my dad when he passed away four years ago. I still haven't put it on Reddit. 
+
+
+
+
+ I wonder the same thing. Maybe I just see the problem because I'm the problem, or maybe I'm playing the blame game with myself. I don't know. I can tell you that her ambivalence to the issue isn't going to assuage my remorse. I'm as dedicated to it today as I was four days ago. It was a petty way to spend a likely cumulative two or three hours a day, and I can be so much better than that.   
+
+
+
+
+ Wow. What an open and compassionate group. Replace masturbating with working out and that's okay, but if I, someone with a career who pays his bills, takes care of his wife, plays with his kid, get's her to bed on time and than has two hours between her bed time and the time when my wife get's home, decides to spend those two hours playing Minecraft (after doing my push-up, sit-up, pull-up, dips, squats regimen, mind you) I'm a teenager who's replacing one addiction with another. Jesus, where does it stop? What hobby is it okay to have as a hobby that doesn't require me join an anonymous club so I stop doing it?  
+
+
+
+
+ Are you implying I'm a teenager? I don't see the point of your comment. 
+
+
+
+
+ Add me.
+
+Edit: I'm still playing Madden 25, just for the record. 
+
+
+
+
+ I did. It was awkward. She said she doesn't see a problem that's affecting us since we're still having regular sex when we can, given our schedules and the baby. But she told me I can do whatever, if I want to quit, she's not going to stop me. 
+
+Fairly underwhelming considering the stress I had built up worrying about telling her. 
+
+
+
+
+ For coming out on the XBox One on day two of no fapping. This'll be a breeze. 
+
+
+
+
+ Oh my god, that background color. I read the whole thing now every page I look at looks blue. 
+
+
+
+
+ Holy shit. I promise not to make this sub my daily journal, but wow. 26 hours in. I did great yesterday during the day and evening. But once the kid was asleep and my wife was still at work (she's a second shifter) things got tough. I'll spare you the grimy details, but I'll just say, my arms are tired. From push-ups. From dips. From preacher curls (more left than right, gotta even these forearms back out.) I also did a shit ton of sit-ups and squats, pretty much anything I could do in the apartment that involved not fapping. I also got a ton of work done. Worked on the decorations for the first b-day party that's coming up, got some code written for a project at work that's a little stagnant, some other stuff. But absolutely no fapping. The toughest part was that porn used to be a reward for myself. Oh look, I finished this, better look at some porn and take care of business. Now I have to figure out other rewards to take the place of it. Working out is kind of a reward, I guess. To keep this up I'll need to find other things. 
+
+I really respect the people on here that have 100 or 200 days. It can't be easy. Hell, I respect the people that have 3 or 4 days.  
+
+
+
+
+ Not claiming quality. As a cert'd welder running a team of guys I'd never allow it. But, the comment said it couldn't be done, not that it couldn't be done well.  
+
+
+
+
+ I've been paying alot of attention to porn. Like, alot. Masturbation is a four or five times a day thing for me. It got much worse after my wife got pregnant, but my daughter is almost one. That means for more than a year and a half I've been masturbating daily, numerous times. Instead of getting work done (I'm a software engineer), instead of playing with my daughter, instead of making sure my wife knows how beautiful and sexy she is. Today it ends. The half hour bathroom sessions with my computer on my lap, done. Long morning showers, no more. Staying up late after everyone else is asleep and doing it in the living room, never again. 
+
+I'm anxious for sure. I've been up for an hour and this is a usual fap time for me. I used to rub one out before heading off to work while everyone else was sleeping. This morning I left the blinds open when I came out to the living room. We're in a first floor apartment, so yanking it out with them open would lead to a quick phone call to the police. My plan is that hopefully the threat of that keeps me from making the decision to just do it. 
+
+I'm in ladies and gentlemen. And holy shit is this difficult.  
+
+
+
+
+ In, no porn, no masturbation. Goal: Quit excessive pornography and start paying attention to my wife. I'm starting two days late, and I've only been up for a half an hour and I'm already jonesing a little.  
+
+
+
+
+ Awww, we feel super bad about it. Oh wait, it's the internet, we don't care.
+
+(Also, I upvoted you for spite.) 
+
+
+
+
+ If you took a piece of non-ferrous metal and using a super-hot ray gun and a chunk of filler material join it to a piece of ferrous metal you'd be arrested and tossed in jail for blowing /u/ross340's mind. 
+
+Educate yourself.
+
+[Re-think your welding knowledge](http://youtu.be/YEQ0dL4R-rQ) 
+
+
+
+
+ Congratulations. You have hit the nail on the head of why so many text-based programmers hate LabVIEW. Enforcing dataflow doesn't come naturally to people learned in text-based lanuages. Sometimes neither does handling errors. Hence they use what looks like the easiest way to enforce a sequence. VIOLA!!! A nasty sequence structure is born. Tens or hundreds (yes, I've seen it) of sequences, all thrown together when a simple error terminal would've done the trick. 
+
+Consider yourself past the hard part.  
+
+
+
+
+ Lorenzo gets his shoulder down too. 
+
+
+
+
+ Q-Tips and rubbing alcohol. 
+
+
+
+
+ Needs more Sail 
+
+
+
+
+ Like a NES cartridge, right? 
+
+
+
+
+ Yep, another one of LabVIEWs secret .vis that you'll only ever discover reading white paper, or browsing vi.lib. 
+
+
+
+
+ Try mine. It works just fine. Why wouldn't you just put the whole array in as a variant? The first .vi I call there "VariantType.lvlib:Get Array Info.vi" gets the array info from out of a variant. You can get the number of dimensions, the datatype of the array, and the dimension lengths. 
+
+
+
+
+ [Well, you could do this...](http://i.imgur.com/HP2hHQm)
+
+Variants will let you pass in whatever type you want and cast the variant to that type. You have to be careful though and handle errors, in case someone passes in an unsupported type (i.e., if it's not an array of something, this will throw an error. In essence, you're hiding the typecast. 
+
+[Here is how it would be called.](http://i.imgur.com/TLyO09T)
+
+Edit: And also, in essence, you're still duplicating the code, just within the case structure. Someone else might have a way to do it without so much duplication, I don't, it's 6AM. 
+
+
+
+
+ Can you give us a screenshot or post the code? I'm not quite sure I understand what you're getting at. 
+
+
+
+
+ I'm sorry, but what are you going to do with 10-30 seconds of notice? It would take you that long to figure out what was going. 
+
+
+
+
+ It's base-10 logarithmic. A 7 has 10 times as much ground movement at the epicenter, than a 6. If you're talking about the energy released though it is 31.62 times more energy than a 6. But yes, I understand that there have been (much) more powerful earthquakes than this. However, when placed in retrospect with the two tornadoes I've lived through I would much prefer this to that. 
+
+
+
+
+ 25 of them so far, 2.4 or lower. I think we're safe. 
+
+
+
+
+ Glad it's just your shit and not you. 
+
+
+
+
+ I'm excited that I got my cherry popped. so there's that. 
+
+
+
+
+ Note to self. Buy a desk. 
+
+
+
+
+ But, seems to be the worst since the 'worst'. At least in the Bay area.  
+
+
+
+
+ My Kansas safety mode was to hold tight in bed. If I didn't hear tornado alarms, I don't know what to do apparently. 
+
+
+
+
+ I feel your pain. Wife and baby are happily snoring. I'm /r/nosleep for the rest of the night.  
+
+
+
+
+ Shit. All IKEA here, I'm fucked. 
+
+
+
+
+ Can confirm, didn't knock my bike over in Novato. 
+
+
+
+
+ Yeah, good to hear lifetime Californians at least woke up from it. I'm from Kansas and I guarantee I'm done sleeping tonight.  
+
+
+
+
+ Nope, never felt THAT before. I'd think I'd remember it.  
+
+
+
+
+ Not afraid, just full of adrenaline. Pretty shitty way to wake up. 
+
+
+
+
+ Can confirm. KS transplant for 3 years now. Fuck is all scared out. 
+
+Although, if that's the worst, I'll take that over dodging tornados. 
+
+
+
+
+ Can confirm. 20 seconds of WTF in Novato. I'm from KS since 3 years ago, so yeah, /r/nosleep for me now. At least with tornado's there'd be a storm I was sleeping through or something. 
+
+
+
+
+ Honestly, if that's the worst you can throw at us, I'll take that over the tornado's I was dodging three years ago in Kansas any day. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now. USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Yeah, moved from Kansas 3 years ago. That was my first. I'm in Novato and ain't no chance in sleeping now.
+
+Edit: USGS has it centered in American Canyon at a 6.0. 
+
+
+
+
+ Uninstall and reinstall it. I had this problem and that fixed it. 
+
+
+
+
+ My wife donated her breast milk to a baby (Riley) in my daughters playgroup for the last four months because Riley was both allergic to everything (dairy, soy, wheat, eggs, and corn) and to her own mother's milk. She was also diagnosed with failure to thrive. She has slowly made gains, but she is almost 14 months now and still only in the 3rd percentile for development. I know you're probably going through some tough stuff right now, but make sure you remember to focus on what's really important, your family's love, and not on the issues that you're working through. One thing I noticed with Riley was that she has made the most significant leaps forward when her family life was relaxed and unstressed and the biggest steps backwards when the stress and panic levels start to rise. If you need anything at all man, we're here for you. 
+
+
+
+
+ Ain't that the truth. There are lots of days where I'm having just as much fun playing as she is. Good on you for showing him what really matters in this part of his life, good fun and good family time.  
+
+
+
+
+ Immediately thought of the same thing. Like, I haven't heard the song in years, but I can't hear the name Craig without going, oh, Craig Christ?  
+
+
+
+
+ To be more clear, the Nintendo Entertainment System (an 8-bit system) had an available color palette of 48 colors and 6 grays. Up to 25 simultaneous colors could be used without writing new values mid-frame: a background color, four sets of three tile colors and four sets of three sprite colors. The NES palette was NTSC rather than RGB with a resolution of 256x240. A total of 64 sprites may be displayed onscreen at a given time without reloading sprites mid-screen, although many devs tried to push that number with various levels of success.  
+
+
+
+
+ So, I had a USB drive in my XBox which I loaded games and apps onto from the One. I downloaded the app, unplugged that USB and plugged it into my computer, it's not recognized. Do I need two pieces of removable media? Can't I put it all on the same thing? 
+
+
+
+
+ Yep, almost 1 year old here. Rocking in the rocking chair for night-time bottle and story. Backs of the heels, meet my nuts. Thanks dear, no sister for you. 
+
+
+
+
+ Hope he went a few blocks over and got some Arthur Bryant's.  
+
+
+
+
+ And than Arthur Bryants. 
+
+
+
+
+ Keep your head up. Be there for her and the rest of your family. Keep being an awesome dad. 
+
+ 
+
+
+
+
+ Read some stuff. Start with the horrible movie books so you can see that his books are so much better than pop culture has portrayed them. Starship Troopers is a good intro to how he weaves his political views into great sci-fi stories. 
+
+
+
+
+ Or Heinlein? 
+
+
+
+
+ Right. I missed the 25 year thing and kept wondering, why are there no Heinlein books on here? 
+
+
+
+
+ Thank you. My life was about to be forever parenthetical.  
+
+
+
+
+ No need to be kind, just be honest. Looking good and noticeably on your way to looking smoking hot. 
+
+Don't get down on yourself for the loose skin right now. You look amazing and are on your way to being a healthy version of yourself.  
+
+
+
+
+ I'm not against the free-market or people succeeding in life. But how the hell do we live in a society where this is a necessary invention? When did we get to a point where remembering your phone takes a higher priority than remembering your baby/infant/toddler? 
+
+I heard about the deaths and it stunned me when people on FB started talking about steps to take to help not forget your child. One person suggested leaving something in the backseat that you'd never forget, like, your phone or your shoe. I read that and thought, hmm... what's something I could put in the backseat that I'd never forget... OH, yeah, my child. Are you kidding me? The only thing I can think is that these people intentionally left their children in the backseat thinking it was okay and than when confronted, came up with the 'I forgot' story, because I don't think I could live in a world where I truly thought that this many people could actually forget they had a baby in the backseat. 
+
+
+
+
+ Snow Day. I don't know why. I'm 36 years old, still love it. 
+
+
+
+
+ Replace Crazy, Stupid, Love with A Place Beyond The Pines for the tragedy version. 
+
+
+
+
+ Pick nose...
+
+You delicately insert your lockpick into your nose until your brain begins hemorrhaging, instantly killing you. 
+
+
+
+
+ How many times are you going to say that in this thread? As many days as Bill Murray re-lived? 
+
+
+
+
+ I thought you were asking why everyone says "Goodfellas" when you see a steady-cam shot. Yes, it was used well in Goodfellas, but's it's been used well in other movies. I think my most enjoyable steady-cam shot is in "Swingers" when they're making fun of "Reservoir Dogs" ripping off the "Goodfellas" steady-cam shot while doing the exact same thing.  
+
+
+
+
+ Ahhh, old Fronty Backsies. I love that place. 
+
+
+
+
+ It's not. They're just assholes. There's no carpool lane there for another 8 miles or so. 
+
+
+
+
+ One of the company's that does this is named Ocean Sound. How do I know? Yes, I used to sell shitty speakers out of the back of white vans. When I was 18, it was great money. We paid 25 bucks a set and sold them for whatever we could get. One or two sales a day was all you needed. Get five big ones in a day, take a week off. But my morals got the better of me after 3 or 4 months. Still, yeah, don't buy them unless you talk them down to under 50 bucks a piece.  
+
+
+
+
+ WH:SM for the One? 
+
+
+
+
+ Was that when you started running your air conditioner for the summer? I found that re-calibrating with the A/C and a fan running at the same time really helped. 
+
+
+
+
+ I stand directly in front of the XBox saying it. I finally break down and reach the last six inches to press the 'X' with my finger. 
+
+
+
+
+ Yeah, when I fought him I was teamed up with a couple of Titans and I was a Hunter. They handled the ground crew while I disassembled the Prime with my sniper.  
+
+
+
+
+ I'm really surprised that you got all of those timelapses done without a single other person coming to dip their balls in it. 
+
+
+
+
+ I like the second guy that runs after the car once he realizes that he's way faster than the first guy running after the car. 
+
+
+
+
+ Good idea shopping the 1 out of the speedometer.  
+
+
+
+
+ It was a fight with our nine-month old when she was five months old. But things are great now. The solution. The dreaded cry it out. Sorry, I know it's not what you wanted to hear. My daughter was an angel during the day but when bed or nap time came she turned into a terror. One night we decided to just do it. It was midnight before we were all asleep after starting at her normal bedtime of 6:30. But she finally did it. After a few weeks or so it was second nature, bottle, jammies, bed, sleep. We also had to play the cry it out game when she wouldn't take a bottle too, and went ten hours without eating before she acquiesced.  
+
+
+
+
+ I wonder if it feels any different.  
+
+
+
+
+ Check out the pumping bra. You'll forget about every ounce of sexiness in preggo gear ever again. 
+
+
+
+
+ Invite a friend over, have him park the same distance behind his van.  
+
+
+
+
+ I wish I had more than one upvote to give you. Teaching yourself to brake properly (a.k.a. using both front and rear brakes) is much safer, and that is the proper procedure for braking on any motorcycle on asphalt. 
+
+
+
+
+ Yeah, its getting so hard to find good charities these days. Good luck, and good on you for helping her be a good human being. Your doing a great job as a dad right now. 
+
+
+
+
+ That's awesome, so good to see people helping their children learn  to be a good human being.
+
+On that note, please research the foundation your donating to. Locks of love does not (last I looked) do anything with the hair except make wigs and sell them (not to people who need them) and than gives a small percentage to cancer research. Wigsforkids.org or Pantene's Beautiful Lengths are both good organizations. 
+
+
+
+
+ The watermelone and grape soda? Yeah, I was thinking the same thing... 
+
+
+
+
+ The throwing knife is awesome. With the right armor I can melee one enemy, almost immediately throw the knife to kill the next guy, and than pop a third guy in the head with the sniper I have equipped. Great when you're doing some camping and get snuck up on from behind. 
+
+
+
+
+ Got the second one, first one seems used already too. Thanks America, Fuck Yeah. 
+
+
+
+
+ As the title says, I've had a few clients now that I've taken to my own and stopped working for the man. But I'm new to website development, and I've found myself asking similar questions to these clients each time, or I'm missing vital information that I don't realize I'm missing until I'm a third of the way into the project. Was just wondering if any of you had any boilerplate solutions for the new client situation that you'd be willing to share that have helped ensure you're getting most of the neccesary details right up front. 
+
+Obviously, there's no one size fits all case here. I'm just looking for something that fits 90% of all of my applications. 
+
+
+
+
+ I like Neal Stephenson (Diamond Age, Zodiac, etc...) William Gibson (Neuromancer, Idoru,) Sean McMullen (Greatwinter Trilogy,) and Storm Constantine (Wraeththu Chronicles.) 
+
+Recommend me something new that'll keep me entertained. I like series of books or books that keep me busy for a while. 
+
+Thanks in advance. 
+
+
+
+
+
+
+
+
+
+ Is there a thread (or sub) for this already? I've started making some custom tracks and I'd love to get some peoples opinions of them.  
+
+
+
+
+ A friend of mine and I have been trying to motivate each other to get into shape and over lunch we both go for a jog together. She wasn't at work today and instead of sitting at my desk and eating a donut (which is what I would've done not too long ago) I got up and went for a jog at lunch anyway. 
+
+
+
+
+ I had a customer that needed a search algorithm that fit well for the golden search algorithm. Here's my implementation of it;
+[SNIPPET](http://i.imgur.com/uKrYlch.png?1)
+
+
+The basic idea is that we change 'N' until an analog measurement is within a specific range. The poly equation is representative of the type of output we can expect in respect to 'N'. The equation isn't guaranteed though, or I'd just reverse poly to find 'N'. Feel free to comment on implementation or things I could have done better or differently.  
+
+
+
+
+
+
+
+
+
+ Played a bunch of matches tonight with Endless, Oberon, Pilot, Taurotragus, and Inkarnatax21. Good times were had. 
+
+I probably played the worst three attrition matches of my life, but still had fun, leveled up a few times, tried out some new stuff, found a few good runs from the other guys, and got a few pointers. I also really enjoyed finally playing with a team that would talk. Knowing what was going on and who was where made LTS, CTF, and Hardpoint all that much more fun to play and easier to win. 
+
+Thanks for the good times guys, see ya this weekend. 
+
+
+
+
+ They already have the animation from the campaign so why not? 
+
+
+
+
+ Admittedly. Not much. I've played through both sides and missed 90-95% of the story. If it wasn't missing the talking during the match, than I was missing the storyline stuff while fiddling with loadout/burn cards, etc...
+
+But, as I was re-playing as the IMC, I did notice once thing. It's looking like most new players are jumping right into the campaign. This slots them into the Militia (I'm assuming everyone plays Militia first). By the time they've finished the Militia campaign, they've leveled up, gotten a bit more comfortable with the controls, learned the maps a bit, maybe went out and played the standard modes some, and than come back and joined the IMC. It's almost like training for the side that would have some sort of training regimen in place. Granted, it's a small detail, but it made me go, "Huh." when I realized it.
+
+Thoughts?
+
+EDIT: Seems like I was wrong and it randomly places you as Militia or IMC. So much for my thinking, it just always seemed like the IMC pilots were all level 10 or above and I was seeing lots of single digit level Militia pilots during the campaign. 
+
+
+
+
+ Well, it was bound to happen. I was kicked by a Spectre, that's what I get for trying to get close enough to hack me an army of robots. 
+
+
+
+
+ I've been playing pretty much non-stop since they opened the beta and saw slow-down once when there were 5 titans on screen at the same time. Other than that, I haven't seen any buggy glitches or crazy server wait times or weird problems. 
+
+Anyone seen anything, or does anyone know if they've been going crazy behind the scenes? 
+
+
+
+
+
+
+
+
+
+ So, I thought I'd put this here instead of anywhere else on here so it would get some real answers, but, how do you handle something like what Richard Sherman did after the championship game tonight? Here's the link in case you missed it. [LINK](http://www.youtube.com/watch?v=G7UPXzHShpc) 
+
+I want my daughter to be able to watch sports, but as I sat there watching the game with my 9 and 7 year old nephews I wondered to myself, what do I tell them about how much of an ass this guy is? From their point of view they thought it was cool the way he acted and than of course, having it re-played a hundred times only made it seem cooler each time. 
+
+So, dads of reddit. What do you do about the sore losers and how do you explain to your sons or daughters that even though it may look cool, it isn't? 
+
+
+
+
+
+
+
+
+
+ So my wife went back to work last Monday after her three months off, post-birth. My mom is flying in this Sunday to be a nanny for us while we figure out daycare stuff. That meant these last two weeks I've got to spend plenty of quality time with my daughter. The only downside was she's not been too keen on the bottle. Other than that she's got a fairly structured schedule now, is working on her push-ups and rollovers, can sit up now, and I feel fairly confident that I'm getting a 'Daddy' out of her tomorrow.
+
+Not sure how often the men get this much bonding time this early on, but I gotta say, it's been awesome. Anyone else get to experience this and how did it go for you? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Are you making the case that CA is not full of entitled asshats? Because I would make the case that the entitled asshats here are just so used to us that they ignore us mostly.  
+
+
+
+
+ Nope, not rich neighborhoods. You and I, we're almost neighbors actually, I'm in Novato at the Delong exit. 
+
+
+
+
+ 9er's games? Who want's to pay those prices. I'm a true ex-Chiefs fan, I go see the Raiders. :) 
+
+
+
+
+ I'm not living in the city. I'm up in Marin, I haven't had an issue. Are you in KC? I was living at 135th and Metcalf when I was there, so I was already used to high rents for small apartments. The truth is that after the dust settled our monthly budget only moved up by about $150, and the additional money at my job more than made up for that. 
+
+
+
+
+ I moved from KC to SF three years ago. I feel as if this win somehow confirms that this was indeed the right decision to make.  
+
+
+
+
+ I used to have a Triumph. It bled a little bit every day. 
+
+
+
+
+ Goosebumps. Literally.  
+
+
+
+
+ Exactly. Don't know why you got downvoted, but seriously. It's like Dice grabs a good title and now everyone is like, oh man, this is an amazing title. No way they can screw this up, faith restored. 
+
+Except it's going to fail at launch, won't be fixed for months, if ever, will be plagued with too much DLC, and won't, in any way, shape, or form, be true to the originals. 
+
+Go ahead, prove me wrong Dice, I would actually love you to.  
+
+
+
+
+ They let you play without the HUD, right?
+ 
+
+
+
+
+ Wish I could upvote more than once. My one hour commute would be close to two without a motorcycle.  
+
+
+
+
+ TIL these guys are awesome. 
+
+
+
+
+ Couldn't agree any more with this comment. I have an 18-year old stepson. He's awesome. I've been in his life since he was 12 and our relationship can be extremely complex some days, and to say that I haven't felt like choke-slamming him some days would be a lie. But I love him, despite my genetics telling me that I shouldn't. It's a real battle. A year ago my wife an I had a daughter and I was surprised at how different it feels with her. I love both of my children, unconditionally, but there are days when it's much harder to remember that with my son than with my daughter. 
+
+
+
+
+ This is a reg roll. 
+
+[https://www.youtube.com/watch?v=I6OXjnBIW-4](https://www.youtube.com/watch?v=I6OXjnBIW-4) 
+
+
+
+
+ If only all of our wars could end with dick high fives. 
+
+
+
+
+
+
+
+
+
+ But everyone can Gimp. Just sayin' 
+
+
+
+
+ If you decide to go with LabPython, best just to get it from VIPM so you get the latest version.  
+
+
+
+
+ I was falling out of gaming as a social enjoyment just before Halo 2 came out. I was poor and couldn't afford XBoxes or games, and my friends were the same. So I never got the chance to play much of the Halo series after CE. Occasionally here or there at my brothers or a couple of friends who had intelligently not moved out of their parents' houses. By then my skills were rusty and Halo had turned into a 'thing'. Pwning had been invented, and typically I was on the shit end of the pwning stick. But CE... oh man, my CE days were so great. 
+
+I got a new roommate when CE had been out for a few months. He moved in and brought his big screen TV with him. He was so excited to play a little split screen on the big rear projection (One of those early Mitsubishi jobs that only looked good from dead-on). We played a ton. Most weekends, all through the day. My girlfriend (eventually became my wife) sat there with us, not playing, just enjoying the show. He never won a single match. Ever. He would practice day and night, trying to get better, and when I sat down I would still own him. It got so bad that he made a new standing house rule, I was relegated to pistols only. And still, he never won a single match. The conventional pistol paired with a fairly good aim was insane. That crazy three shot combo to lower the shields and a head shot to finish it, it was near unstoppable. I don't know how I was so good at it, probably the years of Goldeneye and Perfect Dark, but I had to have a near 100% accuracy for pistol finishing headshots in that game. 
+
+He didn't handle his losses well. He ended up throwing a controller through the screen of his big screen one day. It wasn't long after 'the incident' that he decided to move out. 
+
+I'm looking forward to the MCC. Being able to play through the stories I never got a chance to will be fun. I'm sure when it comes to multi-player I'll be lumped into the sub-par group with a K/D ratio well below 1. I'm old and slow, my reflexes dulled through the years. It's likely that you young bucks out there will have plenty to say about my Mom, god rest her soul. I'm okay with that. I'm okay with that because deep down I'm holding on to the hope that, somewhere, out there in the big wide world of XBone's, my old roommate is sitting there, controller clutched in his hands, one pistol headshot away from throwing it through his TV. 
+
+
+
+
+ If only the left turner at around 1:05 could've turned a half a second earlier. The world might have become a better place for everyone. 
+
+
+
+
+ Sorry, I've got nothing to add as far as helping diagnose the BSOD issue you're having. But I will say that is the most convoluted code I've seen in a while.
+
+My head hurts a bit after looking at it. 
+
+
+
+
+ And today I learned that Sascha Baron-Cohen's cousin is a famous autism doctor. Wow. 
+
+
+
+
+ Not the whole season, just the last twelve shows of it.  
+
+
+
+
+ Relocation assistance is available for the right person. If you're interested and want to send me your resume directly so I can get it in the right peoples hands, shoot me a PM. 
+
+
+
+
+ About five feet. Sure. And she is six foot, so I guess that's tall.  
+
+
+
+
+ My XBox is in the top shelf of an entertainment center, about 5 feet off the ground (TV is off to the left) Sometimes my wife feels the need to dust the top of the entertainment center while I'm playing something and 'accidentally' turns it off with her boob. I ain't even mad. 
+
+
+
+
+ There is a gate at Monarch and Midway that is sometimes open, sometimes not. I've had about 50% luck with it. There's also temporary fencing at the very south end that blows over sometimes. Never seen a cop there, but I usually go early weekend mornings. 
+
+
+
+
+ The base in Alameda has a nice empty runway. Good times, hope you had fun. I came to the realization on the Bandit, that while it has plenty of steam left at 155, I'm definitely running out of balls around there. 
+
+
+
+
+ This whole story is tragic and sad. And yet, I can't get the image of you, finishing a can of soda while a fire rages in the forest around you so you can have a target to drop the tree on. 
+
+
+
+
+ Looks like you had fun. Thank you for driving in the right lane while going slow to take your videos. Those of us who are crossing the Golden Gate to get home appreciate it.  
+
+
+
+
+ I assumed, by the username. Nice, btw. 
+
+
+
+
+ CLD, with the thinking of moving to a CLA function. Capable of working on object-oriented modules utilizing an actor framework-ish framework. 99% of the framework is there and complete, so it's a lot of building modules that interface with the physical world. Most everything is RT-based using 9068's on a path towards migrating to the SOM. . Some fairly cutting edge software as it pertains to LabVIEW software engineering. It's been an awesome learning experience for me, and there's still a ton of work to do. 
+
+
+
+
+ I'm all for dropping sequence structures once they put an error terminal on the Wait function. Ha.
+
+Actually, they have a lot of value when used correctly, especially in RT and FPGA applications for optimizing memory and slice usage. But using them to enforce dataflow is wrong, and bad, and the people that still do it should be publicly made fun of. :) 
+
+
+
+
+ If I'm reading this correctly, the external application (in C#, Python, MATLAB, Cobol, ArnoldC) communicates with an existing LabVIEW program that pushes data onto a FlexRIO card at a rate of 100mB/s. Your goal is to extend the LabVIEW program and expose an API that the external application can interface with in order to push data onto the FlexRIO card. 
+
+If that's correct, there's a number of good ways to do it. TCP/IP is good and straightforward, but you'll need a parser on your LabVIEW-side to receive, handle, and respond to API calls. That portion of your code would be the bottleneck and need to be optimized to fit your specific need, i.e. can the data be buffered, what's the expected outcome from the perspective of the external application, does it expect it's commands to be answered immediately within the realm of network latency, does it need a response, does it's data need to get to the card ASAP, lossless, without exception, what happens if two separate instances of the external app (maybe a python and C++ instance) call the API at the same time, priorities, etc...? Lot's of questions there to consider, likely not in your immediate scope, just throwing them out there. 
+
+So, to answer your original question, TCP/IP is a good solution and probably a good first route if the API you have for your LabVIEW program works and is robust enough to extend.  
+
+
+
+
+ Not to mention, the most un-LabVIEW-like answer. I'm sorry, maybe I'm over-thinking this, but I really hope that OP's class isn't teaching dataflow concepts and order of operations by enforcing sequence structures. This would be like learning Python by enforcing C style pointers. 
+
+Perhaps a more LabVIEW oriented solution would be to create a for loop that executes 'n' number of times containing the three LEDs and use a shift register to set the state each time. This uses a basic for loop, some front panel indicators and an expanded shift register. The most advanced concept here is the shift register, but one that I know for sure is on a CLAD test.
+
+EDIT: is was an isn't 
+
+
+
+
+ Sorry, this is a cost-cutting hire. We're actually already utilizing a contractors service and need to get away from it for cost reasons. 
+
+
+
+
+ I'm a current employee and would be happy to answer any questions potential applicants might have. 
+
+
+
+
+
+
+
+
+
+ Great idea, does it only work in London? I tried Javascript in San Francisco and it returned nothing. Same for San Francisco, CA? For C++ in San Francisco it returned a guy named Francisco somewhere else. I think maybe it doesn't like a space in the name of the city. I tried Oakland and it returned a bunch. 
+
+
+
+
+ I lost it at that line. Just imagining him trying to kick a door in with those carbon fiber things.  
+
+
+
+
+ Difference of opinion. I don't think you fully understand the situation, nor can you, since you have absolutely no idea what it's like to have a one year old in the house, every day, with your fragile IG. I love my IG as much as I love my child, I'm making this decision because of that love, not in spite of it. Apparently that's the point you refuse to accept. Do you think if you just keep repeating the same point over and over again that eventually I'll say, "Oh, I never considered that." Is this how you convert your used-to-be-friends to child-haters? Have fun with your life jourtney. From the 20 minutes worth of interaction I've had with it, I'm glad I'm no part of it.
+
+And, for the record, my off the cuff comment (similar to yours) about you not respecting human babies came from a half-assed insight into your post history, which, unfortunately, shows a fairly large disdain for human children, especially when they're involved in dinner. God forbid those kids should be allowed to eat with the adults. Funny how wrong someone can be when making inferences about someone else's life after only about five minutes of reading a few statements they've chosen to make public.  
+
+
+
+
+ I'm glad you have an opinion. It's nice that your allowed to share it. Keep in mind that it's just yours, and made up of only your experience, which includes thinking human babies are lower on the respect scale than other animals and than treating your animals like human babies. Funny, my opinion is that it's a little strange for a person to make such a big deal about how their family dotes on the children and grandchildren in the family and than turns around and dotes on their pets as if they were children. But, that's just my opinion.  
+
+
+
+
+ No, I'm not kidding you. Thanks for not considering procreation, we all feel like the world is better place without it. 
+
+
+
+
+ No, you had no idea, but you still spoke. That's my point. Also, cross-posting to /r/childfree is pretty childish.
+
+And yes, again, speaking without thinking, my dog not only gets daily walks, she gets daily runs. I run 2 miles with her every day. She also get's weekly trips to the dog park to socialize and once or twice a month goes to doggy day care. Her attitude isn't the issue. In fact, there's nothing wrong with her at all, which makes this suck even more. 
+
+Look at it this way, if I had a child that was in danger when at my home unattended (think, mentally disabled and needs constant monitoring) I would do whatever necessary to ensure the safety of that child, even if that meant relocating that child to a permanent care facility. Keeping them around just to make myself feel better at risk of their health is just selfish.  
+
+
+
+
+ I've had her for 5 years, not 8, but yes, I still see your point. The bonding thing worries us, but again, not more than the worry of something serious happening here. It sucks, but I really feel like it's going to suck a lot more if my daughter breaks one of her legs and I have to have her put to sleep because I can't afford the time or money required to get her back to full health. 
+
+And yes, the rescue I'm working with goes above and beyond to find the right homes for the animals they adopt out. If they can't adopt them out, they stay at a foster home with other IGs and lots of open land to run it out.  
+
+
+
+
+ I was waiting for this response and no I don't feel horrible reading this. And to think that we hadn't considered that and we were taking this step as a snap decision is pretty rude. We have tried to teach gentleness, however, with a one-year old, that's near impossible. I'm not going to make assumptions about you and whether or not you have children, but our one-year old is very active. Our apartment is not set up to allow for baby gates to make much of a difference, so apart from locking either my daughter or my pet in the bathroom (not really nice for either of them), there's no physical way to keep them apart, and I think it's way more cruel to crate my dog 90% of the time just because my wife and I's work schedules mean that only one of us are usually home at with them during the week. My daughter has just figured out how to get on the couch, which was Ella's only refuge, and unfortunately this was the last step that led us to this decision.
+
+So, have a little bit of empathy and try to consider the following. I can continue to risk injury to my dog because I can't physically separate them while I attempt to teach an active and rambunctious one year old 'gentle', or I can re-home my dog to a loving and safe home where she can enjoy herself (likely with other dogs) and the owners can enjoy her. 
+
+Oh, and by the way, I know your comment was relatively off the cuff, but the 'other' dog in the photos passed away over a year ago, just before my daughter was born, actually. So there is no practicing with my other dog, but, thanks for reminding me that if only my other dog hadn't died, this would all be so easy. 
+
+Perhaps you should consider that four photo's and a paragraphs worth of information don't give you near enough insight into anyone's life so that you can pass judgement on them.  
+
+
+
+
+ We love ours too, and when our daughter is older, I'm sure we'll get another. It's been great having her around our daughter for this last year, she absolutely loves all dogs now, but it's just gotten to the point where we're afraid for her.  
+
+
+
+
+ We contacted Norcal IG Rescue, http://www.norcaligrescue.com/ and they're helping us locate a foster family, so soon she'll be available for adoption from there.  
+
+
+
+
+ I totally would but we've found a wonderful organization here that's helping us find a great home.  
+
+
+
+
+ Thanks for the link, we actually contacted Barbara (we're further north) from there and she's helping us find a great home for her.  
+
+
+
+
+ We have an 8 year-old IG (Ella) who is great. We've had her for a little over 5 years, but unfortunately, with our one year old daughter becoming more and more precocious by the day, we are in a situation where we need to re-home her. There's already been two incidents that could've resulted in an injury her had we not been there to immediately intervene, and I would hate to have Ella suffer a serious injury because we're not quick enough to get there next time. 
+
+Does anyone know any people or agencies in northern California (Bay Area) that are able to take dogs and offer them a safe place to live? Health-wise she needs a daily phenobarb (which I think is pretty common) and her teeth weren't the greatest when we got her, so she lost some at her first few dental appointments, but they're much better now. She's definitely on the small side of the breed, only 6.5 lbs, but it doesn't seem to stop her from running and jumping like a mad woman when we go out. She's perfect with other dogs, or cats, and most humans once she warms up to them. She's skittish at first with strangers, but she's never had an issue with people for more than a half an hour.
+
+I definitely want her to end up somewhere safe and loving, unfortunately, we're unable to make it safe for her here. Any help from you guys would be great. Here's a gallery with some pictures in it; [Imgur Album](http://imgur.com/a/vFKPp)  
+
+
+
+
+ Agree totally. However, I was immediately angered at hearing that the Crew was pay-to-win, I guess, because they came right out and said it. I never even knew VIP existed in FH2. 
+
+
+
+
+ PLOT TWIST TWIST: OP was at party, took original picture. Started gender riots on Reddit. Produced second picture of toilet after he broke it to prove that gender riot was stupid. OP = Genius Troll. 
+
+
+
+
+ Yep, I skipped to the end. Only saw a happy dog.  
+
+
+
+
+ I commute from Marin to Hayward for work. The up-tick of that is that almost every day I get to watch these awesome sunsets. I love this place. 
+
+
+
+
+ [What she looks like now.](http://i.imgur.com/g9SfoG3) 
+
+
+
+
+
+
+
+
+
+ But is okay to ride inside inside of a corner like that? 
+
+
+
+
+ Wish I could upvote this more. I love riding in the rain because it gives me the chance to really focus on controlling the bike. I still ride at 5 or 6 tenths, but really narrowed in on smooth inputs. 
+
+
+
+
+ That poor fish. He looks like he knows. 
+
+
+
+
+ This is amazing. Realism conveyed to a more comic-y look with absolutely no loss of the emotion of the photograph. Instead you've created something that screams out what the photograph only hinted at. This version, out of those submitted, is my favorite. 
+
+
+
+
+ Dead Island had the second greatest pre-launch trailer ever. The greatest being the Goat Simulator spoof on Dead Island. 
+
+
+
+
+ Cheater.
+
+Naw, just kidding. I miss my 636. 
+
+
+
+
+
+
+
+
+
+ Ah ha, yep. I know the C, I rode one once. A buddy of mine bought one and I had to give it a try. It looks so cool, I just can't get into cruisers I guess. The closest I had was a XR1200R.  
+
+
+
+
+ I was gonna say GS, but the fork holes in the triple trees look too small. What is it? 
+
+
+
+
+ California, Mendocino County. 
+
+
+
+
+ Yeah, using the controller to fast forward also sucks now, no fast forward controller, just analog stick right over and over again until it's at the scene you're looking for. 
+
+
+
+
+ The voice commands are there, just not green on the screen, nor do they make any sense at all. No Go Back command, can't play from 90% of the app,
+
+Yeah, overall, not happy with it. 
+
+
+
+
+ Samesies. Also, calling in sick on Wednesday. 
+
+
+
+
+ When you say the floors must be removed, you mean, the paint on the floor in the container needs to be removed, or the whole floor? I hoping you mean paint. 
+
+
+
+
+ Have to be careful with MIG though. Probably want to do stick (GMAW) so you can use a proper filler rod to work with the weathering steel material and keep it's corrosion resistance. I've heard 2.5% nickel steel is the rod to use. 
+
+Although, again, a weekend welding class at the vo-tec school should offer something like this.  
+
+
+
+
+ The wife and I have purchased land and are in the planning stages. I'm a software developer currently, but have a background in a lot of different stuff that includes welding, electrical, and general construction. I'm planning on taking it all on except for the foundation work. 
+
+That being said, I'll let you know how it goes. :) 
+
+
+
+
+ As I came home across 580 and noticed the road was soaked I wondered if it had rained here today. Looks like all the way up here in Novato we didn't get any, but still, I'll take nice and cool any day. 
+
+
+
+
+ I think his point is that the servers there are empty. 
+
+
+
+
+ That's pretty awesome considering the toolbox.  
+
+
+
+
+ His other attempts at the note. OP is a lying Red Pill posting faggot.  
+
+
+
+
+ A photo of a fake message posted by the worst kind of liar. The Red Pill kind.  
+
+
+
+
+ She is, classy enough to get away from OP's red pilling ass. He was the abuser and is now obviously an attention whoring liar.  
+
+
+
+
+ It didn't, OP is a manipulative liar and a red piller.  
+
+
+
+
+ He's doing the fishing. He's a red piller, he was the abusive one. Check the post history for his entertaining story on how he was brainwashing her into sex every day. OP is liar. 
+
+
+
+
+ As a kid...? What the shit, that movie's only ten years old, who was a kid only ten years ago? 
+
+
+
+
+ If you jumped into the pool from up there, you'd be okay, right? 
+
+
+
+
+ Don't be stressed. I was worried about the falling forward aspect of it all, but it seems like mine is way more likely to fall on her butt than anything else.  
+
+
+
+
+ I go to put my motorcycle boots on in the morning and have learned to just go ahead and shake out the toys first. 
+
+
+
+
+ Yep, mine just went from that to walking, to pulling the sliding screen door off it's tracks in the last two weeks. Today she figured out how the door handle on the front door of the apartment worked and opened it up. Guess I need to lock that door all the time now. Climbing? Forget about it... no couch, chair, slide, step, or big pink sheep chair is safe from her. The dog's only safe spot is on the bed which is still too high for her to climb on. Other than that, yeah, it's pretty much a non-stop adventure of making sure she doesn't kill herself. So yeah, good luck with that. :) 
+
+
+
+
+ I like the torque order numbering on the bolts. Glad to see I'm not the only one that can't do that shit without marking it. 
+
+
+
+
+ I don't know, cous cous or Skittles or something... 
+
+
+
+
+ Forget FPS views. I just want a top-down view, a' la Grand Theft Auto. Is that too much to ask for? 
+
+
+
+
+ Am I the only one that likes putting kale in my smoothies? Frozen pineapple, mangoes, half a banana, some kale, top it off with vanilla almond milk, yeah, that's the stuff. 
+
+
+
+
+ Why would they use a signed integer to represent RAM, a little weird, isn't it? 
+
+
+
+
+ PTFO 
+
+
+
+
+ Can't tell if you're just addressing OP or making a joke. Still laughed out loud. 
+
+
+
+
+ The Panda? The Hachiroku? Is it true.  
+
+
+
+
+ You mean, unsnapped right? Because you can snap music and use the volume mixer to adjust volume between snapped and main window. 
+
+
+
+
+ I commute from Novato to Hayward. Traffic sucks. I happily risk my life for 45 minutes each way on a motorcycle because sitting in that mess for two hours each way in a car would have me eating a bullet.  
+
+
+
+
+ I have those boots. I'm proud to say mine are much more worn. Same with my knee pucks. Same with my leathers.... hmmm... maybe I should stop falling down. 
+
+
+
+
+ Anyone else notice the new menu you get when Double X-buttoning for snapping stuff. Way nicer than trying to figure out what's where and which screen is active and yelling at my kinect to play the freaking song. 
+
+
+
+
+ I was waiting on Dunk's review before I bought. Glad I did. 
+
+
+
+
+ Thanks for the advice guys, I actually took the test this morning. It was my second attempt. The first time I only got about half of the requirements tags on the diagrams and about half of those were just thrown someplace. So, yeah, that was a fail, but still a 63. This morning felt a lot better. I spent the last few days just practicing getting the basic framework and the three usual modules (Error Handler/Database Handler/Abort Handler) written as quick as possible. Went in this morning and before I even opened the packet I got to work on that stuff. In the first hour I had the framework done and before hour two was up I had all my modules built and the Main vi had all the appropriate cases in it. I used a queued state machine architecture, like in my sample test, but with half an hour left I had every requirements tag on a diagram with either accompanying code or a comment on how to implement, I had a #TODO tag at every not implemented or broken piece of code, and even a couple of fully functional modules. I took the last half hour to comment every control and VI about how they're supposed to work.
+
+The first time I took the test, when I handed it in I felt pretty 'whatever' about the whole thing. I'm feeling pretty good about today's test, especially considering your guys' comments. I just did what I did before, but got more done. 
+
+
+
+
+ I thought you guys call those things lorries? 
+
+
+
+
+ Why is the pillion on backwards? 
+
+
+
+
+ Sucks, but I'm glad to see the buses don't move for you guys down south either. I felt like I had to pass twenty stupid Google buses this morning. 
+
+
+
+
+ Anyone want to take a look at the prep test I just did for the CLA and make comments or offer suggestions? 
+
+The repo is located [here.](https://github.com/iyeager2004/Elevator_CLA_Prep) 
+
+A few notes;
+
+* I stuck to the four hours, even though a few loud people in the library caused me to have to get up and move a couple times, so I lost a few minutes for that. Not that I'm complaining.
+
+* I took away a few things from today's practice that will probably speed up my next attempt (doing the controller states first will let me define APIs up front and than make all of my API vi's at once, etc...) I'm also going to practice a few of these regular handler VIs (error/database/abort) and try to get them done in under half an hour.
+
+* I didn't look at the solution until after I was done. I had some similar ideas, but some varied drastically (I created APIs to queue states in my modules, their's has the controller pass states back and forth in the queues, etc...) I know that a portion of the test is graded using VI analyzer, but how much and how much comes down to some guys personal opinion? 
+ 
+
+
+
+
+ Are people still considering purchasing Hardline? Just wondering. 
+
+
+
+
+ Awesome trip. Next time set your sights on Mono Lake Hot Springs. Great roads up through Yosemite and the hot springs pools are the perfect relaxation after a couple days of riding. 
+
+
+
+
+ I don't know about you, but I always test-fire all my rounds before going into battle. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just came back in from the Point Reyes into Novato. Things are getting hairy out there, for sure. South Beach at the point was closed, ranger at North Beach said he's about to just close the roads at the gate to the point and go home. Some poor group of people has to sleep out at the light house during this. 
+
+Wind coming back was pretty amazing. Few times coming over crests on the road the wind put my bike into the oncoming traffic lane. If you're in West Marin, or heading there, tuck yourself's in, it's getting ramped up. 
+
+
+
+
+ Ribeye's? I thought you guys only grilled Tri Tip out here. I was starting to worry that Californians didn't realize that the rest of the cow could be  eaten too. 
+
+
+
+
+ In Novato and the winds are 15mph, between gusts. Still raining pretty good here. Come visit beautiful Marin. 
+
+
+
+
+ [Never forget](https://imgflip.com/i/f6km8) 
+
+
+
+
+ Raspberry PI, NOIR Camera, Wifi Dongle, a little bit of Python and some bash. Do it. 
+
+
+
+
+ None at all? Not even one letter? 
+
+
+
+
+ But what if they inconvenienced them so much that they convenienced them into getting rear ended when they came to a stop because of the protests by a semi-truck, and the lady that got rear-ended was one of the police officers daughters and he had to run over to her car and she was dying and gasping her last breath and she said to him, "Dad, whatever you do, don't gaawkwkkkkchlll hhhhhhhhhhh..." And he's all like, "DON'T WHATTTTT!!!!!!!  WHY, GOD, WHYYYYYY!!!!!" And he goes crazy and starts roundhouse kicking protesters in their faces and one of them is a kung-fu master because he's been training in a dojo that said they trained Bruce Lee and he round house kicks the cop back and it turns into a roundhouse kick fight and they're roundhousing left and right and all up and down University and then all of a sudden they're break dance fighting and than the cop does the hammer time move and drop kicks Bruce Leroy out the park and than the cop picks up a microphone out of nowhere and starts signing "New YORRKKKK, NEW YOOOORRRKKKK!!!!!" and some Giants fan come out of nowhere and snatches the microphone from him and than he gets round housed to the face and his face is all bloody and ugly and the cop is all like "HA, THAT'S WHAT YOU GET" and the bloody-faced guy is jamming tampons up his nose and eating razor blades and the cop places him under arrest, but it's really not under arrest it's under a moving car and than out of nowhere Wonder Woman show's up but she lands her invisible jet on the people in the street doing their peaceful protest and now it's a bloody wonder mess with razor blades and tampons all over the place and no one can get through to anywhere and the world explodes. The End. 
+
+
+
+
+ What about Jesus? Would you like to discuss Jesus for a bit? 
+
+
+
+
+ I think I get right you're angling at.
+
+[This should sort of work, or at least get you started.](http://i.imgur.com/YpHJmTn.png) You can't see it in the screenshot, but the false case is exactly the reverse of the true case. On true, we decrement, on false we increment. And make sure you're AND'ing the array, not OR'ing it.
+
+Obviously the while loop in this never stops, so you'd need to define some sort of stop condition. One way I would do it would be by removing one element of the historical array each time you reverse directions. Once you're down to one element left, you know you're at the peak. For your data you'd obviously want to play with the size of the historical array for tuning purposes. 
+
+Once you go from simulation to implementation than you'd replace the array and index array with an actual call to make the photo diode measurement, and the increment/decrement would be used to adjust the position of your light. 
+
+
+
+
+ So, to be clear, you're shining a light at a light dependent voltage source from different locations, and you'd like to find the point at which the resistance (position) is equal to some nominal voltage (perfect light)? 
+
+Just re-phrasing it so I understand the goal. If that's right, I've got some ideas. 
+
+
+
+
+ I know that the people out doing this horrible stuff (this, the meatballs, that ass that covered the children's jungle gym with razor blades, etc...) are doing it late at night or early in the morning, and I'm unlikely to ever happen upon it. But seriously, god help them if I ever do. The sick individuals that derive joy from this kind of malicious behavior (with planning and forethought, at that) deserve a beating.  
+
+
+
+
+ Same thing happened to me like a week ago. Check my post history, you'll find the guy who definitely confirms that there is no possible way that this could be happening to more than one person in a similar time period. 
+
+
+
+
+ Holy hell that looks intense.  
+
+
+
+
+ Came to the comments to find the shop. Disappointed that it wasn't in San Francisco and now I can't go give them my next ink business. 
+
+
+
+
+ Had Poke Shack for lunch today. We're actually staying at an Airbnb right across the street from it, so I'm sure we'll have it a couple more times before we go. 
+
+I'll give the other two a shot, thanks. 
+
+
+
+
+ Oh cool, so when's the next birthday in your family? Or better yet, mine was yesterday, you can throw me one. 
+
+
+
+
+ Ahhh, I see. We'll focus on enjoying the beauty of the island than and take-in the Hawaiian food for lunch. 
+
+Thanks. 
+
+
+
+
+ My family and I (mid-30's mom and dad, 18 year old son and a 1 year old daughter) are visiting the big island of Hawaii on the Kona side and wanted to do something as close to a traditional Hawaiian dinner as possible. We read all the luau reviews and after looking at it all and most locals replies it seems like something we do not want to do because of the cheesiness of it. Can someone recommend someplace sort of traditional Hawaiian that doesn't have the touristy, cheesy feel of a luau? 
+
+
+
+
+ Woah, I just got to Kona yesterday too. Enjoy yourself. 
+
+
+
+
+ Maybe he hasn't removed the disc from inside yet. 
+
+
+
+
+ I don't admit to any money. I politely say no and go back to ignoring everyone on the train. 
+
+
+
+
+ Wait until it starts coming back up curdled. 
+
+
+
+
+ 11 year old's won't think this, but all I can think of is Raven Symone and 'That's So Raven'. 
+
+Edit: My daughter's name is Temperance Ophelia, so take that with a grain of salt. 
+
+
+
+
+ So, you're calling me stupid than? **/s** 
+
+
+
+
+ You saying I have AIDs? **/s** 
+
+
+
+
+ I'm shocked at how much I'm expected to use this '/s' tag to denote my comment as sarcasm. How bad has this world gotten where my over-the-top sarcastic comments are taken as something that a human being would actually say. 
+
+
+
+
+ Maybe they were implying that things that were on fire were made out of weed. Maybe, the real implication was that the resident's of Ferguson have for years been building structures and vehicles out of weed to cover their giant drug sales and transport syndicate. Maybe CNN was actually revealing the truth behind the city government-run drug mafia and that city councilman was upset that the truth was getting out, hence the 'Fuck CNN' comment.  
+
+
+
+
+ Oh god. Thank you so much. I'd have never known. 
+
+
+
+
+ Ubisoft confirms that they don't own a map. I mean, really, was that supposed to look even vaguely like the US? 
+
+
+
+
+ Yeah, but in the UK it's not a race thing, it's a soccer hooligan thing, right? At least, that's what I see in the movies. /s 
+
+
+
+
+ Worked for Detroit. /s 
+
+
+
+
+ Is this actual speed or slowed down so we can see what's happening? I've worked with laser systems before doing die cut and this seems ridiculously slow to me. If this is slowed down, what's this machines normal operating speed in parts per second or minute? 
+
+
+
+
+ Same as ever? You mean, avoid it too? /s 
+
+
+
+
+ Leave now. /s 
+
+
+
+
+ [Youtube] (https://www.youtube.com/user/zennie62/videos) vlogger, on the scene. 
+
+
+
+
+ Didn't have time to watch the whole thing but my heart was pounding from that first match.  
+
+
+
+
+ The downside of the timing primitive is that it stops the thread. Nothing else is being done while that wait is there. So, for five minutes, nothing happens. However, in addition to that, the Wait primitive occurs either before or after the rest of the code in your loop, depending on how you have things written, which means your loop timing is actually however long it takes to execute your code, plus five minutes. 
+
+
+
+
+ I think what you want is something like this. 
+
+[Code](http://i.imgur.com/zTebih0.png)
+
+The loop is iterating with a 50ms wait, however, it's usually only executing the False case and whatever other code you have in the loop. Once the current timestamp minus the original timestamp is equal to or greater than 600 (the number of seconds in five minutes) than execute your code in the True case. In the True case, make sure you pass the current timestamp into the shift register.  
+
+
+
+
+ Pull over. Burn bike to the ground. Move to new country. 
+
+
+
+
+ I think his point is that he did go through it without going to an online community for help, hence the reason why he can't sympathize.  
+
+
+
+
+ Have an upvote.  
+
+
+
+
+ I've worked in software QA before. It was neither vital or important. It was thankless and painful. The last thing high-paid devs (and their even higher paid bosses,) want is some QA jerk telling them something is wrong with their last source push. The company I worked for did QA because their customer base thought it was important that they did it, not because it was vital or important in the eyes of the all-knowing software team. If they had their way, the upper muckity-mucks would've rather fired us and used the money to add a sushi chef to the onsite cafeteria.  
+
+
+
+
+ But it was REALLY hard.  
+
+
+
+
+ You've been very helpful. You should get a job in support.  
+
+
+
+
+ If it was update related than some users might see it at the same time. How unbelievable is that? 
+
+
+
+
+ Was watching TV and the light on the Kinect turned off. Tried hard resetting. Tried hard resetting and unplugging everything than powering back on and going to Kinect and plugging it in then, like the troubleshooting guide says. Nothing seems to work, it's dead. Anyone else having Kinect issues out of the blue. 
+
+
+
+
+ Airwolf.  
+
+
+
+
+ I think that was his kid trying to make him feel better. Or, his wife has the handwriting of a six year old. 
+
+
+
+
+ Marin. Work remotely. Drink wine and feel better than everyone else all day. 
+
+
+
+
+ First thing I taught my daughter is that the safe pass is the responsibility of the passer. That applies on the slopes or on the track. However, I also made sure to keep an eye on what was going on around her too while teaching her, especially on busy slopes.  
+
+
+
+
+ This reply is bullshit. You train kids by watching them. Not by allowing them to ski cross slope, behind you, without looking at anything that's going on around you. The snowboarder was already slowing down and paying attention to not running over the kid on his left, whom he was going barely faster than. When he reaches over to make sure they don't collide, the kid is still in front of his dad. As soon as he turns forward he immediately throws up an arm to go to cut but it's too late. What occurred was an accident, but an accident that could've been avoided had the father been paying attention to his young and inexperienced skier. 
+
+Edit: Watch it again, you can see he's sideways when he hits the kid and began stopping as soon as he could. It wasn't a speed issue at all. It was a "I couldn't have seen him issue." Keep an eye on your kids on the slopes. I do when me and mine go out, it's the responsible thing to do as a parent. 
+
+
+
+
+ Kids don't pay attention, that shit happens. However, the father who was holding him, than allowed him to ski cross slope behind him, out of his line of sight, without looking up slope to see what was coming at them is completely, 100% at fault. Sometimes I see videos like this and I try to read both sides of the situation and say, well, it could've been this or that. This was a clear cut case, that dad was a dick. To make the situation even worse, he totally over reacted, causing even more emotion to be stirred up.  
+
+
+
+
+ Good to see the internet getting won so early this week. 
+
+
+
+
+ I love it when people say this kind of stuff. They think they know everything but are really just tagging along on the karma train. 
+
+
+
+
+  Krokodil
+
+I don't know, I think World War era Russian political magazines are cool. 
+ 
+
+
+
+
+ Couldn't help myself from laughing like mad when they drove up on the sidewalk. 
+
+
+
+
+ This gentleman exercised his rights. He ended up injured and in a jail cell. I think there's a difference between exercising your rights civilly after the fact and just being obstinate to prove a point. You may be right in either case, but one way is definitely more self-destructive. I'm definitely not siding with the police in this case. However, had the rider pulled over and acted in a civil manner he may have had a chance to publish this youtube video that didn't involve his arrest. The thing to realize here is that in either case, the cops are going to get off scott-free. So, do they walk away with you getting injuries and jail time, or do you both get to walk away? 
+
+
+
+
+ Even if the last word of this post was missing I would've asked if this happened in Topeka.  
+
+
+
+
+ Mother fuckers with a hand print on the side of their emo fucking faces, that's who. 
+
+
+
+
+ I've always thought the same thing. My workaround has been to use VIPM to create a package and deploy it with the installer. Than you get your error code file deployed to the right place.  
+
+
+
+
+ I thought /s closed out a strikethrough, my bad. And I don't even have a beard. Now I have to have a beard and friends to play video games, WTF??? /s 
+
+
+
+
+ Not into the sarcasm, huh.  
+
+
+
+
+ People pay tens of thousands of dollars for cars. Recalls still happen. Not to mention that car ownership is fraught with micro transactions, and people still go out and pre-order the fanciest models before they're available.  
+
+
+
+
+ Must be nice to have all those friends. Thanks for rubbing it in. 
+
+
+
+
+ Reproduce real-life in our video games. Today I started a kerbal program to put a lander on an asteroid. Only lost 30 kerbals so far, so there's that. 
+
+
+
+
+ Oh, gotcha. I only play it for the SP. At my age, getting pwned get's old. 
+
+
+
+
+ I believe they're working hand in hand with Mono project members to make it happen. Says so in the article. Sorry. 
+
+
+
+
+ Hoping that this was the top comment. 
+
+
+
+
+ Everyone keeps saying that. I've played through CE and Halo 2 without any issues or weird glitches. 
+
+
+
+
+ Is this real? Since when did I have to have friends to play fucking video games? The reason I play video games is because I don't have friends. 
+
+
+
+
+ Motorcycle game where you fail 100s of times??? 
+
+You're talking about Battletoads, right? 
+
+
+
+
+ Microtransaction source? Or are we just going with past Ubi-tude? 
+
+
+
+
+ And you're enjoying Halo now? 
+
+
+
+
+ And you're enjoying Halo now? 
+
+
+
+
+ Right, because you know when you go to play it you'll get stuffed on a server where the only thing to be heard from anyone's mic's is the sound of them coughing or their babies crying in the background. 
+
+I met one guy, once, whom I had good teamwork with over the mic. It was during the Evolve Alpha (Beta) and it actually made the somewhat bland Alpha fun. And then it crashed and for some reason his GT's from Evolve didn't show up in my recent plays, so alas, no more fun mic times. 
+
+I'll miss you mic-bro. 
+
+
+
+
+ Perez Hilton only has 5.87 million followers, not 6. But yeah. 
+
+
+
+
+ I need to up my alcohol game apparently. 
+
+
+
+
+
+
+
+
+
+ Whew. I was really worried that you were going to take this the wrong way. Good on you for being open-minded and wanting to be a better rider.  
+
+
+
+
+ Punched in the face seems somehow not mean enough. Smacked with a flaming 2x4 in the face... hmmm... maybe. 
+
+
+
+
+ Have a back up controller. 
+
+
+
+
+ This accident sucks and I wish you all the luck in the world getting it set right with the city. But blaming things outside your control is a recipe towards a second low-side. Analyze what you did and how best to make sure you don't do it again or the next time you encounter something like this situation you'll be unprepared. 
+
+I'm not saying that your ignoring the analysis maybe you've already thought about it and are just posting this after the fact, but I want to make sure that you're being as safe as possible, even if it means telling yourself that this may have been partially your fault as well. 
+
+
+
+
+ Try Volgaar yet? 
+
+
+
+
+ I don't get this. So I've been paying 60 or 70 a year for Gold. Every month I get a new free game. The games are typically low-level and sell for between 5 and 10 dollars. Times twelve, that means I'm winning. 
+
+This Ghosts and Goblins Viking game is freking hard though, I'm a little pissed. 
+
+
+
+
+ If I were to write it, I would probably start with a generic amplifier object, that way when you or someone on your team decides to replace the Copley with something else later you have some reuse and not a complete rewrite. The public API for this object would expose a settings object to set amplitude and frequency. I would also expose some type of State object which contains feedback of the waveform going to the Copley.
+
+I flipped through the Copley site and supposedly there are some LabVIEW examples in the CMO installed files. However, I couldn't get the downloaded installer to run on my machine, so I can't be much more help. 
+
+
+
+
+ Not when I saw launch, but it seems like the default to anything I say that the XBone doesn't totally understand is, "Watch E".  
+
+
+
+
+ Checked your post history, can definitely see why it would be a weird holiday. Would totally join you as this is what me and my family normally do (restaurant holidays) but this year we decided how nice it would be to have Thanksgiving in Hawaii. I will think of you as I pass the poi.  
+
+
+
+
+ Never watched Ultimatum. Was so pissed at the casting choice that it never even made my Netflix list. Is it really worth it? Keep in mind that I really enjoy the 'Trilogy' as a great piece of action. Almost to the point of being called a die-hard. 
+
+
+
+
+ As the father of an 18 year old who swam competitively from 1st grade until Sophomore year in high school, I'll try to describe how we handled a very similar situation. When my son got out of middle school we moved to a new school district which meant all new friends and teammates and an entirely new social order to figure out, (we had moved from a rural Kansas town to a more mainstream area in the Kansas City metropolitan area.) Freshman year was understandably tough for him. Trying to make friends, figure out high school, and still excel at a sport he loved was very tough for him. He quickly fell into a group of friends who were not active in sports and went out of their way to heckle and demean him for wanting to be a "jock." Having made up his mind that he wanted to be friends with these kids, he told us at the end of the summer swim season after freshman year that he did not want to swim anymore. After realizing that this a social pressure thing, we told him fine, but you have to do a sport, figure it out. He relented, after weeks of teenage whining, and decided just to swim again. He was miserable. He wanted to be accepted by this group for whatever reasons he had put in his head, and nothing would change that. He began skipping lessons and for the first time ever, lied to us, outright, to our faces. After forcing him to finish out the season and walking him to morning practices and evening meets to ensure his attendance we finally gave in. We told him if he didn't want to do anything Junior year, that was his decision. 
+
+Fast forward to post-graduation. We've since moved to California and he's come with us. His very first job was as a lifeguard at a local pool. He aced the requirements exams, got his first aid and emergency responder certs, and actually saved a kid in the first month he was there. He's decided he wants to go into the EMS program at one of the local schools and from there go into Search and Rescue. We were talking the other day, about random stuff, and he said to me, completely out of the blue, "I never should have quit swimming." 
+
+The moral that you may be reading here is that we should have done something different than what we did. Maybe forced him to keep going or let him quit earlier. But I still feel that the way things worked out, despite the weeks or months of strife they caused, ended up working out for the best. He has a regret. That regret has helped keep him motivated about his future. He learned a valuable lesson that friends and social circles, albeit demanding, eventually fade and the real friends that you're left with don't care if you're fat, skinny, a jock, or small-dicked. For those reasons, I can sit here on my couch and know that deep down, we messed him up the right way. 
+
+One thing you gotta understand, and this is really the only thing I've learned as a parent, is that typically, there's no right answer. There's lot's of horrible answers, and some that are slightly less wrong. But in the end, for the short-term, they're all wrong by some degree. 
+
+My advice to you. Go with your gut. And whatever decision you make, own it. And when you think it's wrong, understand that it is, but really, they all are, so just keep going with it. I guess the real moral here is that whatever decision that you as the parent decide to make, understand that eventually it will work out. Just keep being there as a parent and stick through the hard times. As children, they can really, horribly disappoint us sometimes, but it seems like eventually, on a long enough timeline, all of it comes together into this adult that acts responsible (about 75% of the time at least.)
+
+Sorry I can't be more help. 
+
+
+
+
+ I have never agreed with a Harley rider so much. :) 
+
+
+
+
+ But ATHF, the bizarro episode? Best "get stoned and watch cartoons" cartoon ever. 
+
+
+
+
+ I'm not a chopper guy or a cruiser guy. I ride dual-sports and sport bikes mostly. But this, this piece of art, it transcends mere labels of what kind of 'guy' you are. Roland Sands makes amazing machinery. 
+
+
+
+
+ Came to the comments to make sure this was said. Seriously. 
+
+
+
+
+ Right, that's what I thought. When I read this line, "Find my Controller to easily find (or identify) a controller by making it vibrate," I thought, oh, they somehow implemented a Find my controller command, awesome, because my one year old likes to come out first thing in the morning and hide it, every day. 
+
+
+
+
+ How do you make it find your controller? "XBox, find my controller" ??? 
+
+
+
+
+ Yeah, we're gonna need you to share that jam recipe too.  
+
+
+
+
+ [Relevant](https://www.youtube.com/watch?v=8n6NqxBZP0Y) to this whole thread. 
+
+
+
+
+ The word simultaneous isn't really the correct word that you want. LabVIEW is inherently multi-threaded, and when possible will make use of a multi-core machine to distribute that load. However, in your attached image there is no mechanism in place to guarantee that any of those express VIs will run simultaneous. In fact, due to the nature of the express VI architecture, I can pretty much guarantee you that they will not run simultaneously. They will run in parallel, and possibly asynchronous. But the order of operations of those three VIs will be completely up the LabVIEW and when run three times could be three different orders. 
+
+The only way to enforce an order of operations is dataflow (usually the best choice) or sequence structures (usually the worst choice, although not a bad idea per-say for troubleshooting.) 
+
+There are some methods of enforcing simultaneous operation across multiple cores of a machine, however, just putting them in a line and connecting them to the same inputs and outputs isn't one of them. 
+
+
+
+
+ So confusing. Back, front, back, front....  
+
+
+
+
+ Yes, thank you. Let's not delve too deeply into what would happen if you let a rotting corpse walk around in the sunlight for a few days, but seriously, zombies? Yeah right. 
+
+Now robots, they scare the shit out of me. 
+
+
+
+
+ Anyone playing. I got right in a few hours ago, now it seems like I'm stuck at the RROL. 
+
+
+
+
+ Wait, stealth doesn't leave prints? Dammit. 
+
+
+
+
+ http://en.wikipedia.org/wiki/Lane_sharing
+
+Seems like yours is definition 2 and mine is definition 5. So, technically, we're both right. 
+
+
+
+
+ My sentiment also. Perhaps I'm assuming people are doing it on accident when they are actually attempting to make my life more difficult. Either way, they affect less than a second of my day. I'm going to put that same amount of energy into being angry about it. 
+
+
+
+
+ This is what most people don't get. I'm a fellow bay area commuter (Novato to Hayward, yeah, 101 - 580 - 80 - 880 it sucks.) I'll encounter all types on my commute. The inattentive drivers, the old people weaving, the guy on his cell phone, the girl on her laptop, the tech-bus that rides the line, at some point in my week I see a handful of each, at least. I still would never consider not lane-sharing. The safest place for me sometimes seems like it's between two cars. 
+
+
+
+
+ I've been lane-sharing in California for the past three years, almost two hours a day of a commute. I've never once had someone attempt to intentionally harm me and many, many times over have had people move to the side some amount to make it easier for me to pass. I've also dealt with some inattentive drivers unintentionally trying to harm me, but that's a whole different topic. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Look into a front end framework like Angular that allows you to bind specific DOM elements to a data provider and vice versa. 
+
+
+
+
+ Already preordered... 
+
+Ha, nope, I'm just kidding. 
+
+
+
+
+ Awesome, how old? Can't wait to get mine out there. 
+
+
+
+
+ Yeah, I imagine a handful of guys sitting outside a heist just waiting for the robbers to come running out into a hail of lead. If I had a nickel for every time I walked out of a gun/clothing/whatever store and was shot less than two steps outside I'd have a quarter, almost. 
+
+
+
+
+ Woah... did you just... ap... apologize on reddit? 
+
+
+
+
+ My wife was working nights and I found the biggest issue I was having was that I was keeping her up too long. She stayed playful and never acted 'tired' while we we're playing, but bedtime was hell. When I moved her bedtime up an hour and made a routine out of it (dinner - bath - jammies - relaxed playing - books - songs - bed) everything got infinitely easier. 
+
+
+
+
+ Mine is 192.168.1.4 on my Windows laptop, 192.168.1.8 on my desktop and 192.168.1.9 on my Ubuntu machine. The DHCP ranges from .4 to .50. I've got the rest reserved for statics, although I only use a handful of them. 
+
+
+
+
+ I don't know if it's a repost or not, but this is one of the first things in a while that has actually made me laugh out loud. Thank you OP for the post. You have made me day better. 
+
+
+
+
+ You're not wrong. You're just an asshole.
+ 
+
+
+
+
+ Forgive my ignorance. I thought Ant Man was Hank Pym and they called this guy Scott in the trailer, what gives? Isn't Hank Pym Ant Man, the same guy who's on Iron Man's side in Civil War? 
+
+
+
+
+ Why does a sinking ship need a captain? Seems like at the point they gave him his raise they were already beyond hope. Nothing left to do but sell off assets and liquidate the company. Who needs a figurehead at that point? And think of how much longer they could've employed their hard-working employees (or paid severances to them) had they had a CEO's salary to throw around. 
+
+
+
+
+ I didn't understand this answer for like five minutes. I read and re-read the code posted but for the life of me couldn't find a scanner object anywhere, near line 6 or not. Than I saw the pastebin link. I guess I need another cup of coffee.  
+
+
+
+
+ What a bunch of twunts. 
+
+
+
+
+ I'll be 100% honest with you. 15 months ago, my daughter was born. We owned a baby seat and a stroller that it fit in (present from my mom), and a onesie to bring her home from the hospital, plus a handful of clothes. That was it. We had a stack of Target and Babies' R' Us gift cards from friends and family given to us for gifts, so we began to slowly accumulate some stuff. Do you love your wife? Of course you do, and I'm sure you'll love your daughter. That's all you'll need as cliched as it is.
+
+Brass tacks answer, if you really want it. Make sure you have a car seat, a stroller is nice, but realistically for the first few months you'll want to hold the baby, not put her in a stroller. Look into buying a co-sleeper, that'll help get her used to being in her bed, not sharing yours. Don't worry about baby-proofing, it'll be months before your daughter is rolling around, much less crawling, or walking. And than, just keep moving stuff higher. My 15 month old is running now and all of the baby proofing we've done is spent 10 bucks on outlet covers and put one lock on a cabinet that has the cleaning products in it. 
+
+I know what you're feeling right now. It's scary as fuck. But honestly, there's not much to worry about. Spend these last few weeks getting plenty of sleep and reminding your wife how much you love her. Focus on preparing to be an amazing father in an amazing family. 
+
+
+
+
+ Thank you. 
+
+
+
+
+ I know, the /s is shorthand for sarcasm.  
+
+
+
+
+ What does Washington have to do with this? /s 
+
+
+
+
+ I'll think of you while my wife and I ride out to get oyster's on the coast tomorrow.  
+
+
+
+
+ I can''t breathe. 
+
+
+
+
+ You don't have to want to get someone a gift, you just have to want to send someone a piece of trash and receive an actual gift in return.  
+
+
+
+
+ The 'line' side of the lane is not the cleanest part of the road. If you're in the bay I have lots of spots on 880 I can show you to illustrate my point. The cleanest part of a lane is where the car's wheels travel. They do a fairly good job of clearing items out of the road, including moving water and oils to the edges of the lane. When I split, I'm only on the line while passing. If I'm not actively splitting than I'm back in the lane in the one or three spot. Other than that, this makes sense. 
+
+
+
+
+ NSV: You look hot. Good job, keep up the awesome work. 
+
+
+
+
+ Awesome. [Here's a forum thread](http://forums.ni.com/t5/Academic-Hardware-Products-ELVIS/usb-6009-high-speed-continuous-acquisition-for-slow-control-loop/td-p/1296584) that should help you get started. The example shown in it deals with output as well as input, but the input onto the graph is fairly basic. Writing to a .csv file is fairly straightfoward, look at the examples in the Help  Find Examples by searching for csv, the first result gives a good look at how to do it. 
+
+
+
+
+ These questions are much easier to answer if we have some idea of your current experience level or software background. Have you ever used LabVIEW? Have you ever written any software in any language? Where and what have you searched for? What kind of NI acquisition device is it? What kind of sensors? How fast are things sampling? Etc...??? 
+
+Sorry if this comes off as callous, but I'd like to see you get the assistance you need. However, writing a question like this will really just get you downvoted into oblivion.  
+
+
+
+
+ Failure to stop an illegal act. Sounds about as 'legal' as the sheriff's phony arresting charge. 
+
+
+
+
+ Even wear though. Doesn't need an alignment. 
+
+
+
+
+ I'm 36 and my dad passed away three years ago. I still miss him on Christmas. 
+
+
+
+
+ After the pre-sequel, before Borderlands 2. 
+
+
+
+
+ It's much more enjoyable to have one beer with eight friends than it is to drink eight beers by yourself. 
+
+
+
+
+ Grew up racing FM hare scrambles. Thanks for taking me back. 
+
+
+
+
+ Details on the snowsuit? 
+
+
+
+
+ You found him. 
+
+
+
+
+ Amazing chefs are all lost on me anyhow. My palette is about as cultured as a Wal-Mart checkout line, so what this guy can do with food tastes about the same as what the guy up the street from me with the awesome blue plate special. 
+
+
+
+
+ I've had his mac and cheese. It was okay. 
+
+
+
+
+ Correct, the job market may shift it's needs to more technical-minded jobs, but there will still be jobs. In fact, without having to worry about having people that can drive taxis or ring up your cart at Target we'll now have a larger workforce to throw at the world's real problems.  
+
+
+
+
+ I would've shit in the bag of chips. 
+
+
+
+
+ That's a bold statement. Got anything to back it up? 
+
+
+
+
+ Is it bad that I came here to see if this was from Playboy also? 
+
+
+
+
+ C'mon, it's also not really a freeway. It's just a street. No busier than hundreds of other streets in the bay area, and just as likely to cause a traffic snarl up this bad or worse any other day of the year through normal rush hour traffic. Some people need to get over themselves. 
+
+
+
+
+ Yes, those assholes should be riding bicycles.
+
+Or, or... walking. Yeah.
+
+/s 
+
+
+
+
+ Golden Gate is closing for a small period of time? Let's protest that shit. 
+
+
+
+
+ I love how everyone is screaming that these protester's blocked the freeway. But c'mon, let's be honest with ourselves. 101 isn't *really* a freeway right there, is it? These guys (gays... hehe) blocked a street. The street they chose just happens to be labeled a freeway on the maps. 
+
+And seriously, enough with all the anger over some traffic. Damn, I commute every day from Novato to Hayward and back every day and if I wanted to strangle every single person responsible for some stupid traffic between here and there my wrists would be tired before I even left Marin. 
+
+It sucks for you that people are blocking traffic. Get over it. This is the bay area, someone's always fouling up traffic, and typically, it's just because they're some idiot that doesn't know how to drive. 
+
+
+
+
+ Woah. I see what you did there. Very subtle. 
+
+
+
+
+ I imagine it's gotta be pretty tough to set this all up, what with the planes and the boats, and what-not. But, it really bugs me the the planes are centered with the boats and that the boats aren't in nice straight lines. 
+
+
+
+
+ Kept asking the same thing. Now I just want it to stop.  
+
+
+
+
+ Not true. I called 911 from my cell when I saw a guy stumbling across 101 in Novato, where I live and where my cell bill goes. Got Novato 911, they than transferred me to CHP.  
+
+
+
+
+ Get's ticket from CHP for talking on cell phone. 
+
+
+
+
+ For the past few years I've been competing with these people for jobs. I do not hold a degree and am completely self-taught through books, online resources, and just doing it. I think it's only through some big names on my resume and the amount of experience I have that I even get my foot in the door with some places. However, when the interview turns from the abstract, practiced questions to the wheels meet the road questions, like big-O notation and the interviewer and I actually begin having a discourse, I can tell that I've hit on something that the others they've interviewed were completely unable to. 
+
+
+
+
+ Wait, you're saying that people fail the fizzbuzz test? I thought it was the most inane question I'd ever answered the first time I saw it out here. I've answered it three times now for various jobs and I still can't understand why any serious team lead/engineering director, etc... would rely on it to hire someone. I always thought it was something that some HR guy picked out of a book so people went with it. 
+
+
+
+
+ Was in similar situation to OP. Close friend, three tours, mentally scarred from it, horrible PTSD, anger, night terrors and sweats, just miserable stuff. He and I talk a bunch about it. He'd seen a number of doctors since his last tour but never really got any 'help' from any of them. Some of the stuff he told me about, I wish I'd never heard him say it. Some things, it doesn't matter how much 'help' you provide, the human mind isn't meant to see those things without cracking. 
+
+
+
+
+ I was scared when I went on my trip, until I got high. 
+
+Terrified I'd get hurt or sick, but than I got high.
+
+Now I'm chilling on a hammock, and I know why. 
+
+
+
+
+ Go home Dad. 
+
+
+
+
+ Create a bookmark, make the link be this script;
+
+    javascript:var script = document.createElement('script');script.src = 'https://code.jquery.com/jquery-1.11.0.min.js';script.type = 'text/javascript';document.getElementsByTagName('head')[0].appendChild(script); setTimeout(function(){var pathname = $(location).attr('href'); var vidId = pathname.replace("https://www.youtube.com/watch?v=", "").slice(0,11); $('#player').replaceWith("iframe id='ytplayer' style='margin-left:24%;'type='text/html' width='200' height='200' src='https://www.youtube.com/embed/" + vidId + "'frameborder='0'/"); $(function() {  var $allVideos = $("iframe[src^='https://www.youtube.com']"),  $fluidEl = $("body");  $allVideos.each(function() { $(this) .data('aspectRatio', this.height / this.width) .removeAttr('height') .removeAttr('width'); });  $(window).resize(function() { var newWidth = $fluidEl.width();  $allVideos.each(function() { var $el = $(this); $el .width(338.02816901408454) .height(600); }); }).resize(); });}, 400);
+
+
+Next time you see a vertical video, click that bookmark. Problem solved. 
+
+
+
+
+ When are we getting an offroad motocycle game for the One? GTA offroad races and playing around on the mountains are only getting my fix so far. 
+
+
+
+
+ Not sure why you got downvoted. I think the JDP course is fantastic. 
+
+
+
+
+ Put your karma on the line by facing the wrath of the caged hordes of the Bay Area and suggesting the ride motorcycles? Have an upvote. 
+
+
+
+
+ I was going to sit down and write out a nice, well-thought out response about how these people are just looking to make a buck and that karma will eventually get them, and how you should probably just make sure you have a lawyer who will get his fee's covered and make sure you come out squeaky clean. I mean, I don't usually believe that just because someone does you wrong that you have to do them more wrong to get even. However, after writing it, reading it, and than re-reading it, I realized how wrong I was in this case. This guy is an asshole. Pure and simple. I think you should send them a letter saying you'll drop their counter-suit if they'll settle out of court for you getting to kick his balls into his stomach. 
+
+
+
+
+ A lady is someone less than a woman but more than a bitch. For example; "Who's that?" "I don't know, some stupid lady." 
+
+Geez, you guys invented the language, the least you could do is speak it.
+
+/sarcasm 
+
+
+
+
+ Original TMNT dark and bloody you say? But what about that gentle Casey Jones? Oh wait, in his first appearance he smashes some mugger's faces in with a hockey stick... that's right. 
+
+
+
+
+ Uhmm... Lane filtering would've helped, because more than likely the rider would've been up there by that yellow van and not in front of the dumbass that tried to run him over. Actually, had filtering been legal, the rider likely would've been well past this light before the lady even showed up, but that's just speculation. 
+
+
+
+
+ I recognize them, as one of the almost 6,500 homeless people that live on the streets of San Francisco. 
+
+This sucks OP, but the likelihood of catching these two seems to fall into the infinitesimally small category. 
+
+
+
+
+ You never prank Begbie.  
+
+
+
+
+ Well, I guess than, next time I'm in town I'll have to hit up all the clubs and try to collect my scavenger hunt prize.  
+
+
+
+
+ Good job on your weight loss by the way. I'm living out in Cali now so you don't have to worry about running into me or anything. 
+
+
+
+
+ This ain't no dirt track, roundy-rounder. 
+
+
+
+
+ Just guessing. I thought I recognized that hallway. I used to deliver food there all the time. Nicest girls (at least to me) but I always had a hell of a time cashing in all those ones back at the office. 
+
+
+
+
+ Bazookas? 
+
+
+
+
+ Gag gift? I don't think it's progressed to *that* kind of sex yet. 
+
+
+
+
+ You said lurking in the corners. I immediately turned on all the lights on in the living room as it's a little grey and rainy today. I've also backed myself against the brightest wall we have. Thanks Lovecraft thread.  
+
+
+
+
+ Good thing he went Socal. For that sort of money in San Francisco you can get a one bedroom in SOMA.  
+
+
+
+
+ [I thought Osric Chau did a good job as Kaneda in this one.](http://youtu.be/t1GO-93Nt3c) 
+
+
+
+
+ Why not someone age appropriate like Osric Chau or Booboo Stewart?  
+
+
+
+
+ If you think that the Hollywood remake of Akira would be 'too weird' for big names to make a difference in, you don't know Hollywood very well. This thing is going to be a dumbed down Akira with very little weirdness and absolutely no cultural identity at all. 
+
+
+
+
+ Here's more kind words. Thank you for doing this. No matter what the writer of Harry Potter puts out on the screen, I an always just ignore it, open up Youtube and enjoy my happy place of what could have been. You all did amazing work. If Hollywood was smart, they'd cast guys like Osric, Daniel Henney, or that Booboo guy from X-Men, in an adaptation. They've got major acting chops already and just think what those guys could do for this potential abortion of a movie.  
+
+
+
+
+ This picture, I feel, is always the best way to explain any of the cultural craziness that the Japanese experienced post-WWII. To win the war, the Allies (let's not kid ourselves, the US) literally leveled two of the most major urban areas in Japan at the time. 
+
+As an aside, it was only the honeymoon memories of one of the heads of state and his arduous convincing of Truman at the time that saved Kyoto and the Emperor's Palace. I can't imagine how bad things would've gotten with the Japanese had we made that major mistake. Truman allowed Nagasaki to replace Kyoto as a target. During the mission however, Kokura was the intended target for that particular bomber, but cloud cover obscured the target. Nagasaki was the backup. Pretty unlucky chain of events for the residents of Nagasaki.  
+
+
+
+
+ Akita (Akira?) isn't actually a character in the anime movie titled Akira. Yes, he is shown in some flashback scenes, but I think the character that you're thinking of is Shotaro Kaneda, addressed as Kaneda in most of the film. 
+
+
+
+
+ You're supposed to forget about Warriors of the Wind. Miyazaki asked politely.  
+
+
+
+
+ How did you make it past the top replies talking about it being dual powered and not get it? I think you might actually be the only one. 
+
+
+
+
+ They have it in Novato on DeLong. Not sure where you're at. 
+
+
+
+
+ I got it. 
+
+
+
+
+ Oh, that's what made it bad? I thought it was the horrible acting pasted on top of a horribly campy storyline, that while entertaining in the 80's was just shallow and flat today. 
+
+
+
+
+ On the off chance that you're not joking, I'll answer this. What you're suggesting is definitely illegal. We don't live in a Hammurabic society where some eye for an eye stuff is okay. If you have a person on tape doing this, contact the authority's. If you encounter a person doing this and they attempt to harm you, maybe, just maybe you could get away with calling it self-defense. Although I'm willing to be that if you walked up on this guy in the act, he'd probably just drop your shit and run. 
+
+
+
+
+ Ain't no party like a Liz Lemon party because a Liz Lemon party is mandatory. 
+
+
+
+
+ Springfield at the Outland?  
+
+
+
+
+ One of the pictures describes a revamped arrow and station in New Mexico. Looking at the map, looks like it doesn't go through New Mexico, although I guess I could be wrong. 
+
+
+
+
+ Get a new bike. 
+
+
+
+
+ You got meatballed. 
+
+
+
+
+ Santacon has gotten rough this year. 
+
+
+
+
+ You were going 65,000 miles an hour over the speed limit? Holy crap, what do you ride? 
+
+
+
+
+ Don't they speak Norwegian in the Netherlands? I'm not sure, only been there a few times in Minecraft. 
+
+
+
+
+ It looked as if he wasn't holding the front brake at all. 
+
+
+
+
+ They forgot the third option, someone could go cut the lock and open the gate and announce a party on the beach. Thousands of individuals could arrive and set up shop, partying like it's 1999 on the beach. 
+
+Than it's likely that the cops would get called because things got out of hand and an undercover officer would brandish a firearm at the 'peaceful' protesters. Someone would get hit in the head with a hammer. Hermit crab shells would get looted. 
+
+Yeah, probably not a good idea. 
+
+
+
+
+ You didn't come off like an ass. But you do come off as someone who doesn't have a child or hasn't been around one alot. Guess what, I sleep right through my child screaming, it doesn't offend me. I also seek out the areas on a plane that have children now because I can typically snag an aisle or window (they usually grab either end plus a middle, unlike most 'couples' on a plane,) and I have no issue, what-so-ever, without earplugs, 100% ignoring any noise that comes out of that child that you would probably find offensive. After a year of crying, I'm immune. So yeah, some of us don't find that offensive. I've also met tons of older people (typically grandparents, but not always) who could care less what noise comes out of where, since they either don't hear it because they're deaf or because they just don't care anymore. 
+
+I fly alot for work. Like, alot. Some month I feel like I'm commuting to Socal from SFO on a weekly or more basis. And I can say, without a doubt, that it has been a very long time since I've been on a plane that didn't have someone under the age of three on it. In fact, I can remember when it was because it was a flight that consisted of me plus six other people. No babies on that flight and that was three years ago. And more often than not, unless the stars are truly aligned, a baby is going to fuss a little. It's in their nature. So yeah, I'm not sure where or how you're flying, but babies, they're a part of life everywhere and so are their sounds. But apparently you're just one lucky SOB, no noisy co-seaters, super quiet aircraft, that's awesome. Although, I think the reason most people fall asleep is because the noise is random (white) and constant. Not quiet, the interior of an Airbus A320 is at average 86.3dB which is nearly the OSHA 8 hour limit, just saying.
+
+And to get to the crux of your post, the reason I dislike the wording and the tone of Oreo's post is because it implies that the base-level of effort is me, going out of my way to provide him with something that yes, he may or may not need, in order to make his trip more pleasant. And if I do that, than he'll make the gesture to not cough on my child (hyperbole... /s). I think that's wrong. Should I do my best to keep my child entertained if I've made the choice to coop them up on plane with 100 or so of my closest strangers? Yes. If that doesn't work and there is a meltdown should I also attempt to do something about it and not make the situation worse by telling everyone to 'deal with it.' Of course, yes. However, I shouldn't have to go out of my way to apologize, in advance of any possible wrongdoing (which in my case, usually doesn't even happen) because he thinks it's the decent thing to do. It's not. It's stupid. 
+
+Your first paragraph also worries me. You call my argument out as bullshit. You say it's BS that us parents use to justify our screaming children. Your entire first paragraph reads like someone who is-anti parent. You have to realize that there are all types of assholes in this world. What about the lady that screams at the flight attendant about how important she is and that's why she can't close her Macbook for landing? What about the subtle drunk guy that get's steadily more and more drunk until he's hitting on everything that walks down the aisle? How's about the bitchy flight attendant that's had a horrible day (or week, or month) and decides to take it out on you for no apparent reason. Look, some people are just asses. It is what it is. But I would never have the expectation to they or anyone would provide me with an upfront apology about some action that may or may not occur, that I may or may not be offended by. And if it was something truly offensive, I would think that the act of pre-apologizing might just make me more angry.
+
+Here's a thought experiment, replace the baby in this story with a large, unbathed, gassy man handing out nose plugs and essential oil rub apologizing for smelling like shit. 
+
+
+
+
+ This is more /r/unexpectedninja isn't it? 
+
+
+
+
+ The Britney cover... uhmm... yeah. Funny, anytime I even think about this song (hear it on radio, hear it on someone else's radio, see a Britney Spears ad, etc...) I feel the need to watch this movie. 
+
+
+
+
+ If you think that the people who perpetrated the crime on this poor delusional graduate student had a 'cause' than you're as deluded an individual as the guy who got his two front teeth for Christmas.  
+
+
+
+
+ I clicked on that. Wasn't sure what I expected. 
+
+
+
+
+ Actually it is an option. I've seen plenty of parents pick up their fussy child and soothe them by walking up and down the aisles. Typically, standing up and holding the baby's head at shoulder level usually drowns out the crying into the surrounding airplane noise. 
+
+Granted, as I mentioned elsewhere in this post, I've been lucky, my daughter enjoys flying and I have no problem keeping her busy, even on longer flights. But I feel bad for parents who feel like they're being shamed because they have a fussy child. What about the ass that I inevitably have next to me every time I fly for business that want's to talk to the guy next to him at eight times the normal volume of the plane. Why isn't he shamed for not bringing ear plugs?
+
+I guess my point is, planes are loud for lots of reasons, not just babies. There's plenty of assholes in this world. Some of them are parents, but not always. Why is it an expectation that I, as a parent, should go out of my way to bring supplies to make your flight more pleasant just to be considered courteous?  
+
+
+
+
+ I had a free drink coupon once that I gave to the guy behind me that was sitting next to the screaming baby on the flight. I felt bad for him. I felt bad for the baby and the mom too, but apparently the general public looks down on buying drinks for babies. 
+
+
+
+
+ I think we're arguing that it's part of life, and now, can be easily considered part of the flight experience since it's been a long time since I've flown on a plane that didn't have at least one child on it. So now, you don't have to enjoy it, but yes, you're an adult if you don't enjoy the sound of kids making noise, maybe you should bring your own earplugs. 
+
+
+
+
+ Why is it that I have to provide supplies to other people who may or may not be offended by the sound of a fussy child to be courteous? When did this become a thing? If I'm in a public place and my child is being an ass, I politely do my best to calm them and remove them from other people's personal spaces as much as possible. I even typically apologize for her behavior. But damn, now, to be considered not an ass I have to have to fore-thought to provide you with supplies? How's about, if you don't like the sounds of a typical (yes, typical, it's been a long time since I've been on a flight without at least one baby on it) airplane ride, you bring your own earplugs? 
+
+
+
+
+ I don't care about the parents who do this, however, as a father of a well-behaved in public one year old, I also won't apologize for not bringing candy and earplugs for everyone else on a plane. If the sound of a fussy child bothers you, bring your own damn earplugs. 
+
+
+
+
+ I'm a parent of a one-year old and when I fly for business I do this too. I once watched the entirety of 127 Hours on my laptop because the lady next to me wouldn't shut up about how she always get's an empty seat next to her and can't believe that I'd sit down there seeing as how she had a baby with her. To be clear, it was the last available seat on a Southwest flight. Given the availability I would've selected a different seat.  
+
+
+
+
+ I've flown with my 1 year old lots in the past year, she has had mostly relaxed, cool, calm, and collected reactions to being cooped up on a plane for some amount of time, including this last jaunt to and from Hawaii. The sad thing about this is, that in this situation, if the flight has empty seats, most people will generally choose another seat to make the extra room for my kid. I have yet to purchase a seat for her, but she always has one, and it's always because of the kindness of other passengers willing to give up their seat. 
+
+New's Flash, most people are decent human beings. The pricks like this are the one's that make it seem like to be a good parent I should start handing out earplugs on a plane. 
+
+
+
+
+ Check out Berkeley, they've been having nightly ~~protests~~ parties, cool vibe, diverse crowds. Check it out. 
+
+
+
+
+ That'll buff out, right? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I don't if this is an acceptable comment in TIL, but thank you for the article. I've seen the movie, but this was a well-written piece that had a much different tone than the movie does. I've never considered the action myself, but living in the Bay area we all know someone who has. 
+
+
+
+
+ What are you currently riding? I commute an hour give or take on a Bandit 1250, but I expect you'd be riding something way more badass, like one of the Kwakers from Mad Max, right? 
+
+
+
+
+ I've personally seen it be either persons fault on this exact same path, numerous times. Lot's of heat between hikers and cyclists on that hill. 
+
+
+
+
+ Ergo Sport. It's straps are bigger, for some reason (I thought sport models were more svelte..?) but that's the only one that worked for me and we sound like we share similar traits. If that doesn't work for you, I'm out of suggestions, but if you look into forward-facing, remember to get something that holds the baby's hips out, not something that let's their legs dangle straight down, that's how they end up with baby dysplasia. And don't worry too much about carriers for a bit anyway. They're light, and you'll want to hold them in your arms as much as possible anyway (since mothers are greedy and you won't get nearly as much holding time as you'd like.) 
+
+
+
+
+ I've seen this done on the trail without the trail of ether. Much more dangerous than this guy safely seating the bead on a home mounted offroad tire. 
+
+
+
+
+ Coming from Kansas City, I have to know, what is a BBQ Terrace? 
+
+
+
+
+ That's just what the internet knows him for, but from what I've heard he's a pretty smart dude.
+
+ 
+
+
+
+
+ Or Jesus. 
+
+
+
+
+ In the wiki article they note that it made a good laser target. Maybe that? 
+
+
+
+
+ Thank you for the laugh. 
+
+
+
+
+ This is what has me most concerned. I've been learning the MEAN stack because the company I work for would like us to produce a desktop-like app that will run in the browser to go alongside a scientific instrument that we produce and I thought Angular was the way to go from the reading I had done four-five months ago. It would be nice if someone could put me at ease that all of my learning and work isn't going to go out the window (or hasn't already) because the framework choice I've made is going to be outdated in another two or three months. 
+
+
+
+
+ I've never skydived, so I'm speaking from complete ignorance. But how do you not notice that you're about to crash into the ground. For like, 10 seconds I kept waiting for the reserve to open because even I was thinking, 'Wow, all that stuff on the ground looks really big and clear.' 
+
+
+
+
+ I don't know how to answer that. I have a wonderful wife and we've done remarkably well at having at least one of us stay positive at a time, mainly because the one not getting worn out can see when the other is wearing out and we just take over.
+
+For a while my wife was working nights, and it was also when we were trying to sleep train my daughter. Those were hard, being alone, my daughter screaming bloody murder in the other room and me on my last nerve. I just got through it. So did she. When things get real bad just remember, it's okay to put them safely in a crib, close the door and take a break for ten or twenty minutes. Even when they're screaming their head off. Better you take a break than it get past that point of no return and something horrible happens. Plus, up until 2 or 3 years old they'll never remember the horrible, screaming filled nights that you left them alone until they figured out how to sleep and stay asleep. They don't remember much at that age actually.
+
+I would never condone anyone ever hurting a child, never. I look at my babies and want to only protect them from the crap of the world. But I also could see how when you're tired, haven't slept more than a few hours a night for a couple weeks, and alone and they're screaming and it seems like it will never stop that lines get crossed. Remember to take a breath and that everything will be fine in the end. If it get's too hard, shoot me a PM. 
+
+
+
+
+ Exceptionally bad all over. The freeways in the East and North bays (I commute from Fremont to Novato) we're all nasty. Everyone heading out of town, either to Tahoe, or north towards Napa/Sonoma.  
+
+
+
+
+ Not just city traffic, 880, 80, 580, and 101 were all the same as this on the way home this afternoon.  
+
+
+
+
+ I've never seen easy-peasy written like that. I'm totally stealing that. 
+
+
+
+
+ Actually one in 7 billion would be 0.000000000143% 
+
+
+
+
+ A heartbeat. That is the 100% factual amount of time it would take for me to pre-order this game. 
+
+
+
+
+ Yeah, I sort of see your point. But, this guy was obviously making a move. And when you turned back the first time, I could clearly see the anger he was putting out there. He was obviously already peeved about something and no way were you going to slow him down. 
+
+This is the part I don't get, because I commute on a motorcycle and when I'm lane-sharing I always back down when I see cars and trucks making their move. They're going to put the metal out there, regardless of what I do. But all the videos I see of cyclists are the same thing, ride it out until the last possible moment and than do something about it while cussing the driver. I'll ride 40 mph between a two rows of stopped cars, but you cyclists, you got big balls. 
+
+
+
+
+ Perfectly reasonable? How in the world does the cyclists reaction solve anything, at all? It doesn't and it is likely to cause more harm than good any way you look at it.
+
+If someone cuts me off while I'm in my car, I don't reach out and slap their car, I honk my horn to alert them that they just pulled a bonehead maneuver. If someone cuts me off while I'm on my motorcycle, again, I keep my hands to myself, there are horns on these things for a reason. If someone cuts me off while riding my bike, I definitely keep my hands off of them. If they were willing to look directly at me and than try and kill me anyway, I definitely don't want to piss that guy off. 
+
+Don't get me wrong, I think the cyclist was completely in the right. The driver saw him, was either upset that he'd been stuck behind the cyclist for a few blocks, or is just a dick that wanted to get around him, and than pulled a completely ridiculous move and could have caused serious harm to the cyclist. But 'perfectly reasonable' is not the phrase I would use to define his reaction. Pissed-off, justifiable, brave. These are all words that I would use to describe this, but reasonable would never make that list. 
+
+
+
+
+ There's humpback whales in the bay? 
+
+
+
+
+ That was a Golden Gate Transit. I've sat next to that guy before. /s 
+
+
+
+
+ We ran into Brad Pitt on a Duc in the Ozarks many years ago.  
+
+
+
+
+ Ever been around children or toddlers? How'd she do? I have a big, fenced backyard, and a daughter who absolutely loves dogs, we're just missing the dog. 
+
+
+
+
+ Poo explosion, leaking out of the diaper, on the couch. Get her naked, dunk her in the tub, shits in the tub. Get her out of the tub, rinse off with sprayer from the kitchen sink. Set her down for four seconds so you can wash the shit off your hands, shits on carpet. You know, lovable stuff like that. Actually, that stuff makes you just laugh once you get through it. The worse parts are the times when they're in pain, when they're sick, when there's nothing you can do except hold them and hope they feel better soon. It's the hopelessness that gets to me sometimes. 
+
+
+
+
+ Parked in a handicapped spot without a tag in the middle of a snow and ice storm? Sounds like a reason to break their windows out. You showed much more restraint than I would've. 
+
+
+
+
+ Not sure what he's talking about. Just bought thin mints, two rows of 18 cookies each. 
+
+
+
+
+ My daughter went from crying as we dropped her off, to crying as we picked her up and left in slightly less than a week. Children quickly adapt, especially at that age, and especially once they realize how much fun it is.  
+
+
+
+
+ Father of multiple children and another on the way. Don't worry about any of it. Do what comes naturally. Times will seem bad sometimes, than they will seem like they can't get any worse, than they will get worse. Then something magical will happen, like when my 16 month looked up at me at the end of dinner, and instead of just pushing all of her remaining food onto the ground, she clearly and concisely said for the first time ever, "All done," and you will instantly feel better about all of the bad times. And than she will push all of her remaining dinner onto the floor. 
+
+
+
+
+ Thanks man, going to Home Depot tomorrow. 
+
+
+
+
+ Is that a learning tower from somewhere, or did you make it yourself? 
+
+
+
+
+ The Crow is generally thought of as a trickster in Native American storytelling. Sounds about right. 
+
+
+
+
+ This is almost as cool as the dual-sport Ascot a buddy of mine rides up and down the passes in CO.
+
+Naw, I'm just pulling your leg, this is awesome. Even without the turbo, it's still a well sorted ride.  
+
+
+
+
+ Anyone know if you can turn off HUD in Titanfall or Dying Light? 
+
+
+
+
+ You're talking about Ghost's and Goblins, right? 
+
+
+
+
+ Throwback to the original, which I loved when I was a kid, so yeah, I dug it. Still play it when I'm bored. 
+
+
+
+
+ Mine downloaded fine. Installed without a hitch. Also uninstalled just fine 30 minutes later.  
+
+
+
+
+ We were always careful with her around stairs and held hands, made sure she realized what stairs were and where they were at. Plus she fell off the couch a few times once she started climbing up that so she knew what an 'edge' was and what happened if she fell off of it. So, we've found that when she approaches stairs, she holds her hand out to us and puts her other hand on the railing and only goes down when she's got ahold of both. 
+
+
+
+
+ I do seriously miss those moments with my 16 month old. But, for our own sanity she had to start using the crib, it was getting ridiculous. I take guilty pleasure when she wakes up in the middle of the night screaming bloody terror and I get to rock her back to sleep in the glider.  
+
+
+
+
+ I may be part of the minority, but when my daughter became mobile wh put in plug covers and locked one cabinet containing all the poison's. Other than that we gave her free roam of the house. She's now 16 months and has only had a few bumps and bruises and does just fine navigating the house with impunity. And if she wants to explore the skillet and pan cabinet, or pull all of the towels out of the closest, she can. She get's caught and has to help put them all back, which she does. It's worked for us, YMMV. 
+
+
+
+
+ Don't know where you're at, but if you happen to live in Marin county, there's always [this](http://justplaygrounds.com/) next time. Could save you some driving around time and the whole getting out and than back into the carseat mess. 
+
+
+
+
+ Dead brake light? Looks like this idiot never even touches his brakes. Maybe since it was a stolen bike he didn't know where they were...? 
+
+
+
+
+ Leonard Part 6? 
+
+
+
+
+ Are you kidding? I mean, I just told you. 
+
+
+
+
+ When it's located within walking distance of our work, how unsafe is it for work? 
+
+
+
+
+ Holy hell. I thought I had seen it all when I spent my first New Years hanging out in bar's in the Mission. But this, wow. 
+
+
+
+
+ She also has no issue slandering other people if it get's her point across. Case in point, she has on her FB a picture calling out the father of the child with leukemia who spoke out against anti-vaxxers in Mill Valley a rep for Glaxo-Smith Kline, which is a complete fabrication.  
+
+
+
+
+ Her public Facebook page reveals a lot about her stance on vaccination, slandering innocent people, and the Dr's that she chooses to associate with. This article, while it does explain that the media may have blown a passing comment out of proportion should in no way be used as evidence that this woman is not an anti-vaxxer or not a complete lunatic. Need more evidence, this idiot is the reason my 16 month old daughter was forced to remain quarantined in the house for two weeks while we waited to hear whether or not her children infected our entire playgroup.  
+
+
+
+
+ You obviously don't read much past the article and believe whatever put in front of you. The "Dr's" who "advised" this woman are supporters of the [National Vaccine (mis)Information Center.](http://www.nvic.org/) Have a read, it's worth a laugh, until you realize that thousands of these people support this insanity. This woman is no advocate for those few people who medically should not receive vaccinations. She's a lunatic, spreading slander and crying wolf. 
+
+
+
+
+ Funny, a quick glance at her public Facebook page shows how she does exactly the same thing to the father of the child with leukemia who spoke out against the anti-vaxxer crowd in Mill Valley. Please don't fall prey to the media's backpeddling, they may have blatantly misspoke about the measles parties, but this woman is no saint. Try reading more than the article, do a little research yourself. This woman supports the NVIC (National Vaccine Information Center) a not-so subtle cover of a group that's out promoting the anti-vaccination party line. The "Dr's" that are "advising" her to not have her children vaccinated are Dr's like [Dr. Joseph Mercola](http://vaccines.mercola.com/).
+
+People like this woman are not the victims that they would have you believe. They are the problem. 
+
+
+
+
+ Yes yes yes. Coincidentally, this same poor woman who's entire family is struck down with this rare disorder that medically prevents them from getting vaccinated is also out spreading mis-information about the father of the child with leukemia who petitioned the Mill Valley School Board to get unvaccinated kids out of school in an attempt to defame him. Funny how a woman that speaks out about media skewing the truth has no problem jumping aboard any slander campaign that comes along, especially if it makes her look slightly less crazy. 
+
+Do a little research on the subject of the article for a change. This lady is as Marin as they come, and I don't mean that in a nice way. Her, and her nurse friend had my 1 year-olds entire playgroup locked up in quarantine for a week while we waited to find out if those retarded assholes had infected us all. 
+
+She is as anti-vaccine, anti-school, and anti-establishment as they come. I weep for her children knowing that they'll both likely grow up to be as fucked in the head as she is. 
+
+
+
+
+ I read this in Dr. Emmett Brown's voice from Back to the Future. 
+
+
+
+
+ I thought it was one of those find the difference pictures that my daughter plays with. 
+
+
+
+
+ I miss my wee-strom with TKC's. 
+
+
+
+
+ This is the stuff nightmares are made of.  
+
+
+
+
+ Different rear tires, different license plates, one on the left is rocking the twin solid front rotor while the other one doesn't seem to have a front brake. Can confirm, different bikes. 
+
+
+
+
+ Don't know why you're getting downvoted. I agree 100%. It's not worth $40, that's for sure. I'll wait till the price drops.  
+
+
+
+
+ I suspect you are looking for Mr. Lincoln, not Ford. 
+
+
+
+
+ Any other Dad gamers out there? 
+
+I play Titanfall, BF4, Sniper, Dying Light.
+
+GT:GOATRper 
+
+
+
+
+ No problem, wanted to tell you before the less nice people came along.
+
+Edit: For what it's worth I think your site and eBook are great. 
+
+
+
+
+ I think you should consider reviewing the Advertising, Self-Promotion, and Spam section of this subs [guidelines.](http://www.reddit.com/r/javascript/wiki/index) 
+
+
+
+
+ That looked like an amazing sportsing. The guy with the stick sportsed the ball good, but the guy catching the ball was obviously sportsing much harder. Good job my new favorite sportsers because you're winning. 
+
+
+
+
+ I like it, found some new track to listen to, and an artist I'd never heard of. Thanks. 
+
+Also, do you have a source for the movie that the gunship animation was from? 
+
+
+
+
+ Does anyone else feel queasy and kind of ready to throw up a little when you watch someone this drunk? 
+
+
+
+
+ I've never played any of the Just Cause series games, or any games from Avalanche Studios. From the response here and in /r/gaming I'm assuming this is a studio we can trust? 
+
+
+
+
+ It's not a show it's Digiorno 
+
+
+
+
+ Plus, no xbox in sight anywhere. 
+
+
+
+
+ It feels unnatural, I'll give you that. But it can be done, I won't ever swap the bars on my Bandit for clip-ons, it's just too nice on long trips, but when hitting the twisties, they're not a determent, it just takes some getting used to. 
+
+
+
+
+ Sense is coming to Marin. So nice to see that things have gotten to where we need to parade sick kids around before people listen to sense. 
+
+Don't get me wrong, I'm fully in support of doing it if that's what it takes, just sad that that's really what it takes. 
+
+
+
+
+ Yep, that's what the fast guys would always lecture me about. 
+
+
+
+
+ We always called them gutter punks. Or am I thinking of something different? The ones in KC always had a pit bull with them. In fact, I once met a minivan full of them that were traveling from LA to Boston in this shitty Astro-van and their dog had puppies the day before. In the van. That was what hammered home to me that it was a lifestyle I would never want. I'm glad these pictures came out and reinforced my decision. 
+
+
+
+
+ I was going to leave early for work to get a little stuff done before the rest of the team showed up and slowed me down. Instead I am going to wait for my 16-month old daughter to wake up and hug her. 
+
+
+
+
+ Move your head to the inside. Imagine your head being where your mirror is. 
+
+
+
+
+ I thought to myself, self, no way this is still a thing, I mean, I remember watching this in 2007 after learning about it from a Windows XP forum. 
+
+Hey, fancy that, it still exists. Self, you're such an idiot sometimes. 
+
+
+
+
+ That ship's not over 1,000 feet long. Each one of those cargo containers is 40 feet long and I count 20 rows, so 800 feet in containers, plus a little bit on each end. That plus the crew area near the middle, it's maybe 850-900 feet long, but not over 1,000. 
+
+
+
+
+ Rickrolls don't work when I have to watch a commercial first.  
+
+
+
+
+ Wow, never saw this reply, sorry. 
+
+You can stay in the state machine architecture and decouple your UI from your code. Storing your relevant variables in FGV's is one way, however, storing it in the private data of an object is even better. Start looking for ways that you can build objects in your code and use them store relevant variables, settings, etc... in the object. 
+
+The actor framework is cool because it is a state machine. It's just built into an object and a little hidden. But's it's still a state machine. So, if you have a process in those while loops that fits a state machine architecture, than it's already an actor, you just need to build an API for it and go. 
+
+
+
+
+ That's your problem. System fonts. The scourge of designers everywhere. What is a system font on your computer is different on another computer and likely even different on your own computer in and out of the development environment. It's because the system font goes and asks Windows what to use for a font and sizing. Windows gives back the font that's been selected, along with the size that being used. Don't use system font. Specify a font, like Ariel, etc... Choose something that's system agnostic and you'll never have problems again, regardless of your .ini settings. 
+
+
+
+
+ There's still a DASYLab forum at NI.com, [here](http://forums.ni.com/t5/DASYLab/bd-p/50)
+
+Not sure if you knew, but NI bought up DASYLab a few years ago.
+
+ 
+
+
+
+
+ Great, glad I could help. 
+
+
+
+
+ But then they go black and never go back.  
+
+
+
+
+ Yep, that was it. I guess this is a better explanation than he was being a dick. 
+
+
+
+
+ I'm not quite sure I follow what you're attempting to do, but to answer the question here. The easiest and most straightforward way to read/write a cluster from/to file is to use the MGI add-on "Read/Write Anything" which you can find in VIPM. This gives you a human readable .ini file format. Although, I myself prefer JSON or XML, but that's not the question here.
+
+Back to the topic though. Let me re-state the problem to see if I understand. Your team's robot has a number of values stored in an .ini file. You need to read these values from the file on startup and than use those values in approximately 45 places all over the code. Is that the gist of it? 
+
+
+
+
+ I've seen this a number of times now since moving to the bay area four years ago. CHP officer way our in front of traffic, going about 25 or 30 miles an hour and weaving across all lanes, I saw one this morning heading northbound on 880 while I was heading southbound. I figured they did it to slow traffic because of an accident up ahead, however, this morning, I hadn't seen any accident north of where I saw the officer weaving. 
+
+Any other reason they would do this? 
+
+
+
+
+ I think what you're looking for is [this.](http://labviewwiki.org/Functional_global_variable)
+
+Use a functional global holding a cluster of your .ini values. Read from the functional global where you need to. You can even replace the Set case with an Init case that does the reading from the file so you don't inadvertently overwrite your values. Let me know if this doesn't make sense and I'll throw together a quick VI showing what I'm talking about. 
+
+
+
+
+ I was scared to click on the Aphex Twin, knowing them. Regretted it instantly. 
+
+
+
+
+ Something it also has in common with my house. 
+
+
+
+
+ Yes, because this was a 'little' mistake. 
+
+He almost collided head on with another vehicle while speeding, making an unsafe and unlawful pass, than ran up an embankment and took the cheapest flying lessons they offer. 
+
+Sure, that was a little mistake.  
+
+
+
+
+ Wear a respirator or sell cars?
+
+Edit: Awesome picture by the way. She's beautiful and we can all see how much you love her. 
+
+
+
+
+ The reactionary side of me thinks that people who choose to exercise their personal belief exclusion should be exposed on some public list, similar to those that are on the sex offender registry. They have chosen to endanger society with their beliefs and the rest of us should be made aware of who and where these people are. 
+
+The realist in me knows how 1984 (the book, not they year) this kind of thinking is and just wishes that group of individuals would instead choose to put more effort into revealing all the facts to themselves about vaccinations rather than just the ones that support their own belief system. 
+
+
+
+
+ Holy shit that guy is annoying as fuck. 
+
+
+
+
+ Tony Scott definitely had his moments. I've got a daughter now and recently lost my dad, so the cheesy stuff probably hits me a little harder now than it used to, but the emotional ride of this movie gets me right in the feels. And getting to watch, what I consider, one of the better revenge-films killing sprees in the genre, is always fun. The cast is sometimes painful to watch, let's be honest, Marc Anthony's acting chops are no better than his music chops, but despite the rough patches this movie still delivers for me. 
+
+
+
+
+ Don't be sorry. Be proud. Someone's opinion has to be at the bottom. 
+
+
+
+
+ Sysops. Blech. 
+
+/s
+
+I'm just kidding, I love you guys, so long as my interwebs is working and I don't catch grief because I decided to turn off every last vestige of a firewall on my business laptop. 
+
+
+
+
+ If their phones were working, why not, you know, call their friends? 
+
+
+
+
+ I understood all that perfectly. I must have learned German sometime. 
+
+
+
+
+ Ah, alright Novato, we don't put up with that nonsense. 
+
+Edit: A word. 
+
+
+
+
+ I'm not quite sure how to read this, but we either don't accept that kind of mess in Novato or we're some of the worst offenders. 
+
+
+
+
+ The news report I saw said the students had placed a Palestinian flag out. Doesn't seem like our typical, race war against cops protest. 
+
+
+
+
+ This, 100%. Why not just let that film end the way it should have. [Spoiler](#s "Did Jamie Foxx have some clause that he wouldn't do it if they killed him off?") 
+
+
+
+
+ This is actually how I understood math when I was learning it in grade school, and that was way before the Make 10 strategy existed. I just thought it was easier to get to the round base 10 number and go from there. 
+
+
+
+
+ Thank you for this. Back in 2007 I spent some time in Belgium and Holland and was introduced to a lot of French rappers and hip-hop artists. When I came back to the U.S. finding their material was pretty tough and I quickly forgot about them. This video reminded me of how much I dig listening to French rap, despite not knowing a single word of French. 
+
+
+
+
+ You've done a lot of things right with your code from a cleanliness perspective, and it would be easy to hand this code off to someone else and they could probably figure out what is doing what with minimal effort. 
+
+However, from an architecture standpoint, there's a lot that could be done to improve efficiency, re-use, and test-ability. Currently, you can't test any of the loops independent of one another, so your functions are tightly coupled to one another. It also seems like all of your loops are tightly coupled to front panel controls. So changing something on the front panel intrinsically means changing something in one of your loops. 
+
+A perhaps better design might be to implement each of those loops as a standalone 'module' that may use data passed into it from the front panel controller, but isn't reliant on it. Than you can simulate the data into each module so you can unit test the module without having to have a front panel or camera or whatever. Than, each time your engineering team decides to change something you can implement the changes internally, unit test, than deploy it without having to take down the test system. 
+
+Also, if you ever change hardware, as long as your API of your module never changes your top-level system code never needs to change. You just build a new module, drop it into place. 
+
+You are at a great place to begin considering expanding your LabVIEW toolbox. Start looking into to how classes work. Maybe begin exploring how some OOP frameworks are implemented like the Actor Framework. Like I said at the top, this is good, and it works, which makes it even better. But, it's complicated, and tightly coupled everywhere. You've built a very nice looking house of cards, but unfortunately it's still a house of cards. It's time to begin to explore how to build a strong foundation for your house, and how to make it's rooms more modular so you can remove or change one without the whole thing coming down. 
+
+
+
+
+ Thank you so much, because now I know, that out there in this crazy mixed up world, there are people just like me. People who can never again see or hear the term, "No ragrets," without seeing it or hearing it like that. 
+
+
+
+
+ [There's always this version of it](http://youtu.be/LArygQ6I7Vc?t=1m27s) 
+
+
+
+
+ A lot of times they ride to those parking lots without license plates doing stand-ups while going down the highway at 70+ mph. This guy here, he's just trying out for the Calamari race team. Sad that he's not gonna get a spot. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Holy hell, I'm so lost. Is this right?
+
+
+
+Boy reports girl abducted.
+
+Girl is found in Orange County.
+
+Boy and Girl are reprimanded by the police.
+
+Now, apparently, all along the police have been receiving emails from people claiming to be the actual kidnappers???
+
+The alleged (are they even alleged if the crime didn't occur?) kidnappers are just a bunch of gentlemen crooks out to drink martinis and rob casinos???
+
+They've threatened that they'll harm someone if they don't get an apology for doing something that the police say they didn't do but they insist that they did do?????? 
+
+
+
+
+ Keyence maybe, good but pricey. Omega has some cheapie ones, but I'm not sure how good they are. What's the budget? What's the intent? Is this a fun side-project, for school, or something you're wanting to commercialize? 
+
+Ninja-edit: A GA1A12S202 with a laser pen might work. So each line in your 'net' would set you back 6 or 7 bucks. 
+
+
+
+
+ Yeah, I was thinking the same thing. Image acquisition with a Pi. Still a 'maker' type project, and probably get out of it for the same price, but it's a different skill set. And a different subreddit.  
+
+
+
+
+ There's still a Chevy's in Novato. Stop by on your way to/from the vino country. 
+
+
+
+
+ Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world,
+
+Around the world, Around the world. 
+
+
+
+
+ Your next purchase should be a lottery ticket. 
+
+
+
+
+ Better yet, buy three to guarantee one works.  
+
+
+
+
+ Light sensors would be easiest. Create a screen of light beams across the goal. Each beam is about the diameter of a tennis ball from on to the next. Emitters on one side, receptors on the other. Seeing which two beams are broken will give you an approximate (x, y) of your ball. The more sensors you have, the more resolution you have. You will probably need some I/O expansion ICs, and a digital circuit that gives you latching values, so some type of shift register. That way once they're set you can read them whenever and not have to poll fast enough to catch the actual event. 
+
+
+
+
+ If you're up north Marin Speed Shop (aka Hattar Motorsports) is a good place to buy high-end gear (Dianese, Shoei, Arai, etc...) or just up the street from them is Motopia for the rest of the manufacturers (Icon, Joe Rocket, Scorpion, etc...) 
+
+
+
+
+ You're an idiot. 
+
+
+
+
+ Is there a sub for these? I cannot get enough of these Leeroy Jenkins videos. 
+
+
+
+
+ I know that it's better for her to sleep in her bed, but I can't help letting her fall asleep on me and stay there for an hour or two. 
+
+
+
+
+ Here's a close-up of the [leaves](http://imgur.com/Bshkat0). They grow mostly in small groups of single trunked plants. There's one that's growing alone that's taller than the rest. Most are 4-6 feet tall, the tallest one is almost 8 feet tall. No discernible smell when crushing a leaf. I'm in the Bay Area of Northern California. Western Novato, CA to be most specific. Didn't flower this spring.  
+
+
+
+
+
+
+
+
+
+ Cheap-ass brothers-in-arms. I have one also. 
+
+
+
+
+ Probably a good idea to create a throwaway for this comment, nice move. 
+
+
+
+
+ Is that California? I think I know that apartment building. 
+
+
+
+
+ Cute kid. I own guns.  
+
+
+
+
+ Complete and utter bullshit. I understand that the homeless don't have access to lawyers in most cases, but beat up, charged with assault, sentenced to probation, and the only thing the real assaulter's are getting is fired or suspended? Total bullshit. 
+
+
+
+
+
+
+
+
+
+ Ah, the old reddit [bark-a-roo](http://www.reddit.com/r/gaming/comments/30k7f3/the_stuggle/cpt945s?context=1) 
+
+
+
+
+ My world is a roller coaster right now. 
+
+
+
+
+ This is exactly what I thought when I saw this. You cannot rationally look at videos of apes and not see so many similarities that you could say that you believe WITHOUT A DOUBT that evolution is wrong. Maybe you could still have doubts, etc... But to say that there is no doubt is just plain stupid. 
+
+
+
+
+ Mine has taken to a post-bath naked bounce on the trampoline most recently. 
+
+
+
+
+ An additional point about #4, it now alsoo prompts a warning when your SRAM drops into the lock-up danger zone. 
+
+
+
+
+ Bro, my AOL dial-up pretty much dies for an entire day when downloading this gargantuan IDE. Oh wait, this isn't 1996. 
+
+
+
+
+ Why won't our kids wear pants? I mean, great picture and all, but seriously, what is it against pants? I can't get my 19 month old to put pants on without an act of Congress. 
+
+
+
+
+ I once worked with a guy that refused to wire his errors up and used flat sequence structures to maintain on order of operations. Sometimes his vi's would throw errors so he got in the habit of putting Clear Errors vis after all of his vi's so he didn't have to deal with pop-up errors. 
+
+
+
+
+ Starship Toopers (the book) did the same, just better. 
+
+
+
+
+ In software when you pass a piece of executable code as an argument to another piece of code it is referred to as a "callback". 
+
+
+
+
+ From the entrance of the corner, given a proper entrance speed, you should use what's called maintenance throttle to stabilize the bike. Not accelerating, not decelerating, just steady throttle to help hold your line. After crossing the apex you can begin to apply throttle as you begin to stand the bike up. 
+
+The reality of the situation is that this rider was riding at 10/10ths (or possibly 11/10ths) and left no room for error or dirty roads. 
+
+
+
+
+ Check out [this](http://www.seeedstudio.com/wiki/Grove_-_EMG_Detector) page that has slightly more information about the EMG sensor. It looks like it's basically a comparator and some op amps. My guess is that the output is a differential, it says the output ranges from 1.5V at a static state to 3.3V. It doesn't look like you can tell which pad is outputting what. 
+
+
+
+
+ Yeah, dirty corner, on the gas while tipping it in, sounds like cold tires to me. 
+
+It sounded like the back broke loose before you see him lose the front. My guess is the outside of that corner was dirty as fuck and he spun the rear entering it. 
+
+
+
+
+ Here's a [pastebin link](http://pastebin.com/GQPAj3ZF) to a project I've been working on. I removed some of the confusing I2C stuff so you can see how I implemented my TCP server and API. Mine works basically as a telnet server with clients connecting on the telnet port, so not exactly what you're looking for, but may start you going in the right direction. 
+
+
+
+
+ Yeah, poured in Novato a couple of times through the night. Was done when I left for work at 6, but I got soaked coming up 880 by the Oco. 
+
+
+
+
+ How do you handle libraries, do you pretty much have to start everything from scratch? 
+
+
+
+
+ Yes. The following statement;
+
+int tmp = 488 / 100;
+
+Serial.println(tmp);
+
+Will print the value 4 to your serial screen.  
+
+
+
+
+ Using int's is probably the cleanest way to do it. Just make sure to leave a note to yourself so when you look at the code months from now you'll remember what your intent was. 
+
+
+
+
+ Freedom of speech does not mean that you are free from the results of your speech. Just that you are allowed to say what you want. He's not being censored. But his decision to represent his team as a group of people that are okay with calling 13 year old girls sluts (which he was actually stupid enough to express publicly) got him fired.  
+
+
+
+
+ I ran my first half-marathon at 280 lbs. It's not that unbelievable.  
+
+
+
+
+ I disagree a little, but only a little. I've only ever run half-marathons, so this varies a little, but my long training runs were reserved for weekends, per a well-qualified running trainers schedule that I met with personally (just making sure you don't think this was just a schedule I got off the internet). During the week I would either focus on high intensity intervals in the 3-5 mile range, or do a slow 6 miles. I kept the 10+ mile training runs for the weekends only. I'm going to run a full-marathon next year sometime and the schedule that we've been given is similar to that, just more months of training working up to longer training runs on the weekend. Still, nothing further than 7 miles during the week. 
+
+
+
+
+ And it's never at best. It's usually at worst. My grandma could write better HTML than this article. 
+
+
+
+
+ I'm getting a real Hexen vibe from this.  
+
+
+
+
+ I've been doing the StrongLifts 5x5 program for the last month. When I started it was all I could do to do bar weight lifts. On Wednesday I did a B workout and did 145 on my squat and 135 on my deadlift. This morning I did an A workout. 150 on my squat, 115 on my bench press and my bent-over rows. This morning I even had one of the personal trainers come over (these guys are notorious for ignoring people unless they think they can get them to pay for some personal training sessions) and tell me that he'd seen me coming in all month and that I was looking good, good form, etc... I was ready for the sales pitch, but after the compliment, he just said, have a good day and walked away. 
+
+
+
+
+ I'm a pretty stocky guy. I was hoping to lose weight in the middle without putting on too much bulky looking muscle. I was always told that getting to a comfortable weight and upping reps would help lose weight and tone muscle to lean it out and was preferred over higher weight, lower reps workouts.  
+
+
+
+
+ Gorgeous. Congrats. I would normally wish you well but my 18 month old had a night last night, so I've been up since 2AM. Instead I'll wish you luck. 
+
+
+
+
+ He didn't have evidence that the man didn't do it. What he withheld was evidence that the evidence he was using to convict (the supposed confession from the jailmate) was false and given under the pretense of reward from the prosecution. Which isn't that say that the guy isn't a scumbag, he is.
+
+Not that I don't believe that the guy was innocent. He could have been. You can look at Hurst's other cases, the guy is somewhat of a genius and it doesn't seem like he's accepted coercion or money to offer his completely science-based testimony. If he says it wasn't arson, it probably wasn't arson. 
+
+
+
+
+ Yeah, this exactly. A fire is a disorienting and confusing thing. Throw that in with just being roused from sleep and you have a recipe for him not finding the daughter in the same room with him. 
+
+
+
+
+ Flew from Chicago Midway to SFO once. They delayed my flight out of Chicago by a few hours so I went to the agent to see if there was something else they could do. They put me on a flight to Oakland (which is fine for me I take a cab either way) that left immediately but had a layover in Phoenix. I get to Phoenix and they say the flight to Oakland is overbooked. So I give up my seat, they put me on a flight that leaves an hour later to SFO (my original destination)  give me a credit for the original price of the ticket plus $300, plus the front of the line upgrades, drinks, etc... I ended up with almost $900 credit (it was a business trip so work paid for the flight,) a seat to my original destination, and I got off the plane just as my delayed flight from Chicago was getting in so I could pick up my luggage too.  
+
+
+
+
+ Keep your helmet up. If you're ever out in NorCal drop me a line. You can ride with me whenever. 
+
+
+
+
+ Not on my dinner table. On the Olympic bar. I decided to get serious about a month ago and got a gym membership. I've just been doing the [Stronglifts 5x5 workout](http://stronglifts.com/). I started out barely able to lift the empty bar, in fact, on my overhead press I started with a 20lb barbell since the 45lb Olympic bar was too much. 
+
+But yesterday I did my B workout with 145lbs on my squats and 135 lbs on my deadlift. That's right, using the big 45lb plates on the bar now. It felt good to be able to put those on and still get my 5 sets done. I'm also up to 70 lbs on the overhead press, and tomorrow I'll go for 100lbs on my bench press and my rows. 
+
+I know alot of guys can do alot more weight, but I'm pretty proud of myself. My goal is to get to somewhere between 150lbs and 175lbs on all the lifts in that workout than increase the reps to 5x10 or 5x12 to help with the toning. Between my lifting and cardio I've lost a bunch of inches in the last month, but the best part is being able to keep up with and toss around my 1 year old. She's definitely enjoying my gains as much as I am. 
+
+
+
+
+ Yes, this feedback loop is all sorts of positive. Thanks for the grins this morning, only more amusing if I would been on the list. 
+
+
+
+
+ Holy shit, this thread is a god damn roller coaster. 
+
+
+
+
+ All right, I've been thinking, when life gives you lemons, don't make lemonade! Make life take the lemons back! Get mad! I don't want your damn lemons! What am I supposed to do with these? Demand to see life's manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am? I'm the man whose gonna burn your house down - with the lemons!
+
+Portal 2 
+
+
+
+
+ I checked the NOAA sea level rise map. 3 feet makes my house in Novato, CA beachfront property, so, I'm finding it tough to be sad about this. 
+
+
+
+
+ But they have a PC and PS4 demo, check out the end of the video. 
+
+
+
+
+ I've already told myself that whatever my 1 year old daughter chooses to be interested in when she starts growing up is fine with me and I have no expectations. However, I would love it so much if she's as into cars as /u/littlefeather is. 
+
+
+
+
+ Your friends are trying to liven up their stories, I think. I commute an hour each way in the East Bay. The assholes that attempt harm to me are few and far between. Seems to be a pretty even mix of people trying to be courteous and people just blissfully ignorant of the world around them.  
+
+
+
+
+ Keep it down. 
+
+
+
+
+ Why does that R1 rider keep getting all the way off the throttle and use the clutch to shift? 
+
+
+
+
+ I gotta say, it sucks. You sound like an alright dude. However, every cab ride that I've had in SF from airports to home, around to bars, and around Marin has been horrible. Bad drivers, trouble using my credit card to pay, dickish attitudes, just a general not-give-a-fuck outlook on being a service provider. So yeah, while it may suck for you, the bulk of your 'co-workers' have ruined it for the few of you that give a damn. 
+
+
+
+
+ The Arnold Schwarzenegger hideout costume lady in Total Recall??? 
+
+
+
+
+ Can you ELI5, I still don't get it. 
+
+
+
+
+ I'm officially using this term from here on out. Thanks. 
+
+
+
+
+ My rest days are 'light' days at the gym. Instead of running my 3 miles, I walk/run for 20 minutes. I also just do some core exercises instead of focusing on legs, arms, chest, etc... I've found that it's really hard for me to overcome my caloric intake issues, so I instead try to ensure that I'm definitely burning a lot every day. 
+
+
+
+
+ I totally understand this. I work for a family-run company that is populated by mostly Chinese (or half-Chinese) people. They are orderly, polite, and very decent people. They occasionally have our customers visit the shop and engineering area and these customers are sometimes from China. They can be some of the most disrespectful and annoying people ever and the people I work for always feel bad that they act the way they do. 
+
+
+
+
+ My favorite is the Frazier knockout. That right-left-right combo when it's pretty obvious that Frazier was done for on the upper cut is just so awesome to watch. 
+
+
+
+
+ Oh yeah, the after picture was about four steps closer. That's my daughters swingin' tree, no way she'd let me take that down. 
+
+
+
+
+ I woke up this morning and did not feel like running. I had made it to gym everyday for the last two weeks and this morning I just wasn't doing it. I needed a break. So instead I got up, had my sensible breakfast, walked a mile there and back to the hardware store for a few odds and ends, and worked in the yard. All day long. I mowed and weed-ate (eated?), cleaned up from that, turned over and weeded the entire garden in my side yard, fixed the fence, finished the chicken coop waterers and feeders, and chased my daughter around for an hour playing 1-year old tag. Most likely burnt a lot more calories today than I would've if I went to the gym and didn't do this stuff.
+
+A different kind of [before](http://i.imgur.com/yHrBzqi.jpg) and [after](http://i.imgur.com/8uD2Gmk.jpg). 
+
+
+
+
+ And now since the house is empty of anyone else beside your friend, they are free to burn it down at their leisure.  
+
+
+
+
+ Educate me here, I used to know so much about gaming machines, but I feel like things have moved so far past my old trusty i486 DX2.
+
+I'm assuming that Skyrim isn't actually running on the tablet, but on some other machine? So, where is the graphic processing done? Does this have to run on lower video settings to account for cheaper video hardware on the tablet?  
+
+
+
+
+ It seemed like that mother or father type character died in the trailer. Pretty depressing to me, is all. 
+
+
+
+
+ It's called [Tilt-Shift photography](http://en.wikipedia.org/wiki/Tilt%E2%80%93shift_photography). By creating an extremely sharp portion of the picture and blurring the rest you can trick the brain into thinking you're taking pictures of miniatures. 
+
+
+
+
+ I've always thought that it's so much easier to get stunning views of the Bay Bridge than the Golden Gate. Great picture OP, thanks for sharing. 
+
+
+
+
+ I'd fart in his face. 
+
+
+
+
+ What is it with depressing games now-a-days? Is it just the trailers they're putting out? This looks like an awesome game, but man, just depressing as shit. 
+
+
+
+
+ Unsure about buying this. I do like side-scrollers (finished Guacamelee and working on Rayman now,) but after watching the trailer just now I remembered that looks like about the saddest game ever. Any confirmation on that, am I going to be weeping like an infant if I get into it? 
+
+
+
+
+ Yeah, mine fell asleep on me while I was playing Rayman the other day. We stayed like that for a few hours. I wasn't complaining one bit. 
+
+
+
+
+ The sad part is, this is a rookie mistake that my wife makes all the time. She thinks it's so cute to watch my daughter run all over buck-ass naked. That is, until she pisses on the floor. 
+
+
+
+
+ Sorry bro, I'm an Its-It guy. 
+
+
+
+
+ Weird Weekends is so good. So... which one is BBC Two on my Comcast? 
+
+
+
+
+ Your references are on point. I just watched that video. And I live in San Francisco. 
+
+
+
+
+ I saw a test drive of it in early-early-pre-beta and it was slick than. I'm sure it's gotten slicker.  
+
+
+
+
+ [Real-Time FAQ](https://decibel.ni.com/content/docs/DOC-35053) : About halfway down you'll see that while it's not supported by NI, the distro is available on github. The rest is left up to you. 
+
+[LabVIEW to Arduino Compiler](http://www.tsxperts.com/arduino-compatible-compiler-for-labview/) : Another, in my opinion better, method of running LabVIEW to Arduino. This actually compiles and deploys LabVIEW code on the Arduino to run headless. 
+
+
+
+
+ I'm mobile at the moment, but will link when I get back to my computer. 
+
+
+
+
+ Or look into compiling your Labview straight onto the Arduino or running the Labview RTOS on your Beagleboard.  
+
+
+
+
+ Wasn't that Scarface? And that wasn't freestyled, that was written. 
+
+
+
+
+ What's a gas port? Is that where the gas ships come in to harbor? 
+
+
+
+
+ I was always taught, wait ten seconds, eject the round. Leave it on the ground. A misfire (didn't fire) or hangfire (fires late, as it's properly called outside of southern Missouri, I've been informed) is much less dangerous on the ground than in the barrel. 
+
+
+
+
+ Typically referred to as a 'slow burn'. Not un-heard-of. 
+
+
+
+
+ Oh my god. Yes. Came here specifically to make sure this whiny little brat was mentioned. 
+
+
+
+
+ If only this shield could block cancer. 
+
+
+
+
+ I hope  my daughter hates riding with me as much as you hate riding with your dad. Thanks for the video. 
+
+
+
+
+ I'm still somewhat new to JS and node.JS, but not new to development. I ran into this [this page.](http://www.nodebeginner.org/) I am in no way affiliated with this website at all, but I was wondering how relevant the material still is. I saw that it was posted on reddit 3 years ago, so it seems like it's a fairly old page, but it claims it was updated in January of this year. Mostly interested because after reading the first few paragraphs it kind of defines my experience to a 'T'. 
+
+
+
+
+ Looks good. Have fun in the snow and be safe. 
+
+
+
+
+ What year is that R1? 
+
+
+
+
+ Not true. I got caught in some snow once coming over a pass in California. Kept it slow, got way off the bike when turning to try and keep it as upright as possible, but I survived. Didn't go down once. 
+
+
+
+
+ Never been, what's the concept, do your own work, just use their shop? 
+
+
+
+
+ Don't forget when they're sitting in your lap and decide to kick and get you with their heel. 
+
+
+
+
+ Not to make this too NSFW, but yeah, the extra inch or two is gonna be nice for my wife.  
+
+
+
+
+ Yeah, the title says it's the opposite of road rage, but I get the feeling that this video is the absolute furthest that rage can go. 
+
+
+
+
+ Yeah, good on you for knowing the limits of your job and putting your family's health and safety (by keeping your job, no matter what the cost) before your own gratification. I commend you, no matter what anyone else says. Plus, good looking kid, he's got the same look on his face that you do. 
+
+
+
+
+ Thank you for saying this. I saw them a while back and kept thinking the same thing, "Man, this show is awesome and all, but I would love it more if these guys sounded a bit more like Slipknot." 
+
+
+
+
+ I am, but mine started when my dad passed, however I didn't notice it until one of the delivery nurses mentioned how great it would've been if both of parents could've been there to see my daughter born.  
+
+
+
+
+ The cure for all the sunset photo's of the bay. Shitty sunset photos. 
+
+
+
+
+ Only heard it once, but yes, it's a sound you never forget, I'm sure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

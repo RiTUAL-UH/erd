@@ -1,0 +1,286 @@
+
+
+
+
+
+ Don't waste your time with greedy fucks like Autodesk. There software is hard to use and you will get an error even when you do the most simplest thing. He'll need experience with programming. Modo sucks ass. Start with blender, have him learn cycles rendering. Then, he should move to maya. If he's looking for games, use unity or cry engine. Unreal lags like hell. 
+
+
+
+
+ Basically I have this cgi cyborg suit looking thing, and I need Brooklynn(The dog's name) to wear it. So, I'm gonna mocap her on set, take her mocap data into maya, animate the suit with the mocap data, and then bring the shot of the doge into AE plus the rendered shot of the cyborg suit and composite it onto the dog. 
+  Is there any other efficient way to do this? Any tips? Has anyone ever mocapped a quadruped before? 
+Pic related, Brooklynn: http://m.imgur.com/z0g5ooK 
+
+
+
+
+ And where is a tutorial for the new mecanim system? 
+
+
+
+
+ I added a float called speed, and added transitions using between the idle and walking animations. 
+Didn't work. Added a component script 
+using UnityEngine;
+using System.Collections;
+
+public class zombieWalk : MonoBehaviour {
+protected Animator myAnimation;
+
+void Start () {
+ myAnimation = GetComponent ();
+}
+
+void Update () {
+ myAnimation.SetFloat ("speed", Input.GetAxis ("Vertical"));
+}
+} 
+  That didn't work. 
+  Help! My levels look great. I've baked renders to image textures so my levels look like pre rendered vfx. My ai can navigate through the most treachorous paths. But then there's animations! Nothing works. Please help, I'm pretty desperate as you can tell.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I simply don't want it to rotate 360 degrees around me.  I want it to walk towards me. I tried adding a rigid body, and freezing the x and z rotations. Doesn't work. Tried adding a character controller, didnt work. 
+
+
+
+
+   Let's face it. Source 1 is a pain. Compiling mdl is horrendous. Half Life 2's normalmaps/bump maps are so shitty. What improvements will be in source 2? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   I've had enough. This has gone on forever. I will never be good enough. Plus my dad called me a dick and always yells. I find refuge in creating levels and unity 5. I bake textures in Blender cycles and then send it to unity so the graphics look like fucking Gravity. It's amazing. I thought my family would be proud. But no. My family said I spent too much time online, which I felt was a fucking erroneous assumption, since I only worked on the project for 30 minutes each day before going outside and trying to please everyone in track.
+    It's killing me. I can't go on much longer. 
+
+
+
+
+   Please help. Newbie from CryEngine here. 
+
+
+
+
+   if so, are there any examples? 
+
+
+
+
+
+
+
+
+
+ Im trying to make a mod with the source sdk, and i need to know where the models and materials folders are for half life 2. 
+
+
+
+
+ I dont have the username folder in steamapps, I guess thats part of the steampipe update. Anyway, I need to find the Half-Life 2 materials and models folder so the faceposer and model viewer can easily find and present my models with texture. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ // Created by Crowbar 0.24.0.0
+Compiling...
+qdir: "c:\users\admin\documents\source game assets\" gamedir: "C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\" g_path: "Cube.qc" Building binary model files... Working on "Cube.qc" SMD MODEL Cube_Ref.smd SMD MODEL Cube.smd SMD MODEL Cube_phys.smd WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Error with convex elements of Cube_phys.smd, building single convex!!!! Model has 1 convex sub-parts
+Collision model completed.
+
+writing C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl: Error opening C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl! (Check for write enable)
+The filename, directory name, or volume label syntax is incorrect.
+Compiling... 
+
+
+
+
+ // Created by Crowbar 0.24.0.0
+
+Compiling...
+
+qdir:    "c:\users\admin\documents\source game assets\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\"
+g_path:  "Cube.qc"
+Building binary model files...
+Working on "Cube.qc"
+SMD MODEL Cube_Ref.smd
+SMD MODEL Cube.smd
+SMD MODEL Cube_phys.smd
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Cube_phys.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl:
+Error opening C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl! (Check for write enable)
+
+The filename, directory name, or volume label syntax is incorrect.
+
+Compiling...
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ahh ok 
+
+
+
+
+ Source 2? How the hell do I get Source 2? 
+
+
+
+
+ I have experience with C++. How do I script enemy and friendly AI in Source? Are there any tutorials? The wiki isn't very helpful. 
+
+
+
+
+ Thanks m8. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Great. I have the build. How do I install it to blender? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What do you think the error means? Do you have any suggestions? 
+
+
+
+
+
+
+
+
+
+ Cryengine supports .cga animations. So yeah. 
+
+
+
+
+   Seriously. Cryengine can't read cryblends cfg or armature files. So don't try. Please, I just want to know how to bake armature poses into hardbody poses. 
+
+
+
+
+    Cryengine is having trouble with my armature exports. So how do I bake animation from armatures into shapekeys? 
+
+
+
+

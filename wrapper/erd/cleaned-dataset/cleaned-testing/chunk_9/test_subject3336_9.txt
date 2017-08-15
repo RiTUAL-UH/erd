@@ -1,0 +1,798 @@
+ its easier for apple because they control every aspect of the hardware on which Safari runs.  Its probably hard to do this on firefox or chrome since it runs on a variety of hardware; but yeah there could be optimizations done to make it better :)   
+
+
+
+
+ by black do you mean graphic glitches?  
+i'd suggest you to update your graphic card(s) drivers and check it out if its occurring.  
+
+Also you could do a refresh(you'll lose add-ons) if problems seem to take place within safe-mode as well.   
+
+
+
+
+ * 3. there mostly a nomodeset option listed in the boot parameters for that specific boot entry. (Be warned of trying to remove it - You can edit it in grub menu by pressing 'e; make it permanent by editing /etc/grub2.cfg) 
+
+
+
+
+ i have a dell too. And yes Lenovo is the best! :D  
+
+Thing is you need to have both cards to be enabled to use bumblebee. Your manufacturer has allowed a bios option to use specifically one; which is good in a way since you can choose what your want, but you'll have to reboot and set it again if you want to use the other.  
+
+What bumblebee does is, it auto-manages both the cards on the fly; most of the time intel will be active(as it does all normal stuff fine, and is light on battery) while the Nvidia card is used for heavy graphics apps(Heavy on battery and heating).  
+
+You can specifically have bumblebee run on the heavy Nvidia card by using the optirun command for an app (eg. optirun firefox).  
+Also having primus installed gives a slight improved performance over the default optirun.    
+
+I feel its a win-win situation and the user is well in control. :)     
+
+
+
+
+ wait i guess :| 
+
+
+
+
+ https://www.reddit.com/r/firefox/comments/3d5aun/so_i_was_hanging_onto_firefox_for_one_reason_and/ct1xs3f 
+
+
+
+
+ JUST DO IT! Anything is Possible! 
+
+
+
+
+  Google one of the main donors for Mozilla.
+
+They rely on yahoo now. 
+
+
+
+
+ Thank you so much! This works! :D :D :D 
+
+
+
+
+ also do you have any other driver installed from anyother source for your nvidia? 
+
+
+
+
+ yes it will work! :)  
+
+First have a clean install done.  
+Next follow the instruction on that page; by installing all the dependencies etc. and the proceed to install bumblebee, bbswitch, bumblebee-nvidia (driver).  
+After that reboot the system, login and wait for sometime; it'll compile and load in the background(you can notice this when your fan starts to slow down and system begins to cool).  
+If things are working great and you use heavy graphic intensive apps install primus which is listed on the same page  
+
+I can root for bumblebee. I've used it for a long time and its working great a long long time! :)  
+
+I can help you out if you need.  
+ 
+
+
+
+
+ Is it a dual gpu system, Optimus technology, nvidia+Intel? 
+If that's the case you'll need bumblebee.  
+
+Follow this guide for bumblebee, use the proprietary driver for better performance.  
+https://fedoraproject.org/wiki/Bumblebee  
+
+If it's a normal nvidia card, a package from rpm fusion will certainly do the job.    
+
+
+
+
+ Yes you can. Mint might include in its default repository.  
+I'm not sure where you can download it but perhaps Google will help you out.   
+It works great for me on Fedora. Also you might need to create a tiny file to enable sub-pixel rendering(patent blocks to ship by default)  
+
+Edit - i tried a bit of looking around. could find any right links(some key words like libfreetype). Maybe it has a different package name for ubuntu based distros. Perhaps you'll have to stick with infinality(which is really good and more customizable).  
+
+
+
+
+ I'm not sure but I heard they are packaging a new version for w10, why don't you try that out?   
+
+
+
+
+ Similar usage, Firefox works great!  
+
+
+
+
+ Freetype-freeworld is also a saviour  
+
+
+
+
+ Try using Uninstaller from Adobe site and then try installing flash again.  
+
+
+
+
+ Try safe mode?   
+
+
+
+
+ Yesterday you said tomorrow :( 
+
+
+
+
+ Second this. As the world goes more and more towards portability a good browser with the minimum effect on battery will be the clear victor.  
+
+
+
+
+ yeah i'm looking for a vid in which the initial sparks/discharge starts between clouds(hopefully a close up video).  
+i've searched youtube and pics but never got the results :( 
+
+
+
+
+ They did a kickstarter, animation support will come in soon  
+
+
+
+
+ check in safe mode? 
+
+
+
+
+ they pay adobe for that
+
+ 
+
+
+
+
+ since you mentioned codec check - https://bugzilla.mozilla.org/show_bug.cgi?id=1160424   
+
+
+
+
+ Have a look into this:  
+https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+
+If that does not fix it try a new profile(back up data):  
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles   
+
+If you're still having problems uninstall and reinstall Firefox by getting a file from the official site.   
+
+
+
+
+ webM is still under-development. So you wil run into issues.  
+if it affects youtube playback you can have it disabled. 
+
+
+
+
+ webM is still under-development. So you wil run into issues.  
+If its affected your YouTube experience then its better to have it disabled.   
+
+
+
+
+ yeah i wish them bring out a theme engine where you can select the colors of various elements as well! 
+
+
+
+
+ Try this first:  
+Refresh(You'll lose add-ons) - https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+
+If all things fail:  
+Create a new profile(back up data, instruction in link) - https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles 
+
+
+
+
+ No dont remove it :(  
+I like the darkness :'( 
+
+
+
+
+ I hope your issue gets some attention. Lot of graphic cards act in weird ways.
+
+ 
+
+
+
+
+ haha xD i understand what you mean ; but as they are concerned about national "security" its better to develop stuff in house 
+
+
+
+
+ Keeping every aspect of pro-privacy aside.  
+
+Total Stupidity; to buy or even think of buying "hacking software" from an overseas firm that deals with several other govt.(s) behind your backs.  
+This is buying yourself into stuxnet. An easy deal.  
+You get bugged and you get looted as well  
+
+If you're so interested make your own.   
+
+
+
+
+ this sounds good, an option in preference will do fine.  
+i love the 2 separate bars; helps me focus on different stuff; also acts like a temporary notepad. 
+
+
+
+
+ its beta :) 
+
+
+
+
+ try the m version m.reddit.com 
+
+
+
+
+ can't thank you enough for bumblebee!  
+Its God-sent stuff! :D  
+
+
+
+
+ shadows, weight(gravity) and lights 
+
+
+
+
+ yeah the discharge between two clouds, the actual source 
+
+
+
+
+ Ah the problem is with adwaita.  
+Zukitwo does if fine.    
+
+
+
+
+ Oh okay, I mistook the feature I guess. My bad.  
+
+
+
+
+ valid point! 
+
+
+
+
+ Preference-Privacy-Related searches from the default search engine 
+
+
+
+
+ happy to help :)  
+happy Youtubing! 
+
+
+
+
+ it actually should boot normally. This is very strange.   
+Since you got a screen then i don't understand why you should'nt get a screen now.  
+
+Worst part is you're not getting ther terminal too :(   
+
+
+
+
+ No text too?   
+
+Can ya add nomodeset option to the boot parameter?  
+You can add it at the bootloader by adding parameter before the OS is loaded. i guess by pressing 'e'.   
+on this line ' GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nomodeset" ' 
+
+
+
+
+ i think you need to have windows media player installed to have codecs on your system  
+
+Choose a version appropriate for your OS:  
+http://windows.microsoft.com/en-us/windows/download-windows-media-player  
+
+I hope this helps 
+
+
+
+
+ on the login screen can you see the small gear icon? choose gnome classic and try to log in 
+
+
+
+
+ thats strange;  
+
+Are you of the EU region?  
+
+
+
+
+ alright goto about:config and set these to true:  
+
+media.mediasource.enabled  
+media.mediasource.format-reader.mp4  
+media.mediasource.mp4.enabled  
+media.format-reader.mp4  
+media.fragmented-mp4.enabled  
+media.fragmented-mp4.exposed  
+
+Set this to false:  
+media.mediasource.webm.enabled  
+
+Note - incase there are some entries here not present in the about:config, skip em.
+ 
+
+
+
+
+ OS please? 
+
+
+
+
+ can you stay online for some time? can proceed faster that way   
+
+
+
+
+ alright, so you get no visual after logging in.  
+
+Try Ctrl+Alt+F3 (or F4/F5/F6)  
+and login
+
+Also: try move your move and see when you get a blank screen when you switch if you dont get a text console   
+
+
+
+
+ are you able to stay in the desktop? Meaning you get the GUI and stay logged in?   
+
+
+
+
+ Try a restart   
+boot into the OS now without the live USB Stick.  
+Are you able to get a desktop?  
+Can you log-in to the user account you created during install?   
+Are you connected to the internet?  
+If you can get the terminal or ctrl alt f2 gets you a terminal type in "lspci |grep -i VGA" and put the output here.   
+
+
+
+
+ startpage then :) 
+
+
+
+
+ correction you will need bumblebee later on.  
+Thats the only way your card will work.  F-up by nvidia and lack of progress on the open-source end as well.  
+So bumblebee is the way to go; no worries shall help set it up! :) 
+
+
+
+
+ /u/Baliverbes has remoded the kernel arguments and blacklisted stuff  
+It might be a issue to get any display   
+
+
+
+
+ alright!  
+
+Mount is like unlocking a gate to enter it, umount is the opposite.  
+
+Once you get the desktop back, time to rock and roll 
+
+
+
+
+ ah not the right way.   
+
+Use the live USB and i think you can format via the installer there.   
+There should be an option hidden during the partition selection thing.  
+If there's nothing there then in the desktop version of Live USB(not installer) use the disk utility to format.  
+You might have to umount the harddisk for it to happen.   
+
+
+
+
+ alright, since i think we are diving head-first into re-installation.   
+
+Suggest you to format the disk first to erase everything(Back up using live boot USB if you have anything important on the HD)    
+Then let the auto partitioner take care of the job to split up the disk or you can do that your-self if you have the experience.   
+
+Wait until system installs and buzz back here. 
+
+
+
+
+ Are you still using a usb stick to boot?
+If so stop that and boot via the bootloader menu.  
+And continue to undo any changes you've made   
+
+Uninstall command:  
+sudo dnf autoremove Packagename
+
+
+The easier way is to definitely reinstall, but you'll have to reinstall all your apps again.  
+If you have a speedy connection then that's good
+
+
+REINSTALL:  
+You should get everything back after a clean format and reinstall.  
+Remember to make sure of the partition things in windows if this is a dual boot, since there is a strong chance of losing the bootloader.    
+
+Once you completely reinstalled then buzz back here.  
+I'lll guide you through installing the driver.  
+Same optimus stuff on my laptop. 
+
+
+
+
+ Preference-Privacy-Related searches from the default search engine 
+
+
+
+
+ Amon Goeth from Schindlers List 
+
+
+
+
+ alright the problem should be that the drivers you installed are already there on the system.  
+
+Do you remember the way you installed them?  
+If you do; undo all the things you have done so far.  
+For starters uninstall the nvidia driver you already installed.   
+
+If you did via the terminal, then hitting the "up arrow" will show you your previous commands for that particular user account.   
+
+
+
+
+ i tried with a theme called Zukitwo and those lines dont appear after scrolling.  
+
+These Dotted lines don't disappear after the scrolling is completed. They remain there.  
+Its particularly annoying on the transmission where you get a rectangle on the top and bottom of the scroll list.   
+
+
+
+
+ faora from Man of steel.  
+She was brutal  
+
+
+
+
+ Hope to help you out:  
+Are you able to access the desktop now? or are you stuck with a black and white screen with a bunch of text ? 
+
+enter this in the terminal "lspci |grep -i VGA" and paste the output here
+ 
+
+
+
+
+ i upgraded from F21 - F22  
+Thought it might be fixed in the next few updates. Nothing has happened so far.  
+Gnome version is 3.16.2; adwaita-gtk2-theme-3.16.2-1.fc22.x86_64   
+It also happens in the light version of the theme (Non-Dark) 
+
+
+
+
+ the dark version of the default theme Adwaita 
+
+
+
+
+ http://www.sitepoint.com/5-reasons-to-reject-webkit-monoculture/  
+
+Some things are not a specific standard and supporting things like that will do more harm than good later on.  
+Firefox is steadily improving on the html5 adoption as well.  
+
+ 
+
+
+
+
+ Im having a bunch of these "-------------" dotted lines at the top and bottom of any gtk3 app.  
+They appear after scrolling up and down.  
+
+Nautilus, Transmission, Evince everything is affected  
+
+
+
+
+ https://www.reddit.com/r/explainlikeimfive/comments/3cbelv/eli5_can_anyone_explain_googles_deep_dream/ 
+
+
+
+
+ Great! :)   
+
+Bottom right red is okay, webM needs development.  
+The other parameters it's okay if you don't have em, I was reporting from a nightly version so it might not have landed.   
+Check for codecs is a nice idea, maybe the team should be notified about it, but I'm not sure how it is going to be.   
+
+Anyway happy YouTubeing!  
+
+
+
+
+ alright i hope you are on the latest version of firefox.  
+
+And if you are of the EU region then probably you are missing codecs on the system then you'll need to install windows media player.
+
+EDIT - http://www.microsoft.com/en-us/download/details.aspx?id=16546   
+have a look at this i think its the right one
+
+EDIT2- description - https://support.microsoft.com/en-us/kb/968211   
+
+
+
+
+ please try to do that. It should help 
+
+
+
+
+ alright goto about:config and set these to true:  
+
+media.mediasource.enabled  
+media.mediasource.format-reader.mp4  
+media.mediasource.mp4.enabled  
+media.format-reader.mp4  
+media.fragmented-mp4.enabled  
+media.fragmented-mp4.exposed  
+
+Set this to false:  
+media.mediasource.webm.enabled   
+
+
+
+
+ Tried updating your graphics card(s) ?  
+
+
+
+
+ 8 
+
+
+
+
+ it could be one of the apps installed.  
+Its works smooth for me 
+
+
+
+
+
+
+
+
+
+ Could you mention your os, what all is enabled on www.youtube.com/html5 and Firefox version?   
+Hopefully can help you out with videos issue  
+
+
+
+
+ IT LIKES DOGS!   
+every image has a dog like feature  
+
+Also love for fish and birds! 
+
+
+
+
+ do you have webM enabled on www.youtube.com/html5 ? 
+
+
+
+
+ its better not to enable webM. its not perfect 
+
+
+
+
+ check this out!  
+https://www.reddit.com/r/Fedora/comments/39bjxz/major_issues_wdark_theme_and_web_browsers_text/  
+Not sure if its a guaranteed solution, also check out the bug report mentioned in the thread. Could help you out.  
+
+Im on Nightly gtk3. Readability issues still exist but many improvements are happening on the gtk3 end :)  
+Incase you want to take it out for a spin - http://glandium.org/blog/?p=3555 
+
+
+
+
+ do you have any add-ons that affect playback?  
+Could you check in safe mode and see if this happens 
+
+
+
+
+ hey!
+
+Try avoiding the the dark themes for now.  
+Fedora 22 ships with gtk3 build as default and it isnt complete as yet.  
+
+There was a post on /r/fedora to fix certain annoyances.  
+If you have the time look it up.  
+I shall try to link it here if i find them! 
+
+
+
+
+ Off-Topic:  
+Hey! could you check about this comment issue? https://www.reddit.com/r/linux/comments/3c9zds/whats_new_with_firefox_390/csufsgp 
+
+
+
+
+ ah thanks for this info, i see your point clearly!  
+I guess its being actively worked on.  
+have your reported this on bugzilla? 
+
+
+
+
+ The nibs wear away fast; so its better to place a sheet of paper on top of the tablet or even a thing plastic sheet. Be gentle :) 
+
+
+
+
+ I like a lot of whats posted here! :D  
+Hope it makes it to release on desktop and android! :D 
+
+
+
+
+ ah maybe its an asia thing :/  
+Intuos is great! if you can manage the price then i guess it'll be perfect.  
+Im using Fedora 22 so it ships with the near latest kernel :)   
+
+
+
+
+ only webM has problems(Still in development), mp4 works great actually on YouTube  
+
+
+
+
+ oh repo updates, some can take a looooong while.  
+ 
+
+
+
+
+ this = http://www.wacom.asia/onebywacom/ 
+
+
+
+
+ i have a wacom one, the smaller sized version :) 
+
+
+
+
+ have a look at the comment below 
+
+
+
+
+ Disable "media.mediasource.webm.enabled" in about:config have these set to 'true':  
+media.mediasource.enabled  
+media.mediasource.mp4.enabled  
+media.fragmented-mp4.exposed  
+media.fragmented-mp4.ffmpeg.enabled  
+media.fragmented-mp4.gmp.enabled  
+
+Verify at www.youtube.com/html5  
+
+
+
+
+ http://mozilla.github.io/shumway/  
+https://wiki.mozilla.org/Shumway  
+
+Maybe the potential is limited in the beginning, but they can always work on that 
+
+
+
+
+   Maybe, but not by default. And not at 1080p.
+
+You can! :)
+ 
+
+
+
+
+ it will be for quite a while, as long as flash games and flash ads exist on the the internet 
+
+
+
+
+ :) you're welcome 
+
+
+
+
+ webM is under development. Its better not to enable it, unless you want to provide bug reports.   
+
+You'll need to have these set to true to have different quality:  
+media.fragmented-mp4.exposed; media.fragmented-mp4.ffmpeg.enabled; media.fragmented-mp4.gmp.enabled  
+
+Verify your settings on www.youtube.com/html5 
+
+
+
+
+ I got a Wacom one, works great!  
+Plug and play, no driver hunting, nothing.    
+Just use it!  
+
+
+
+
+ Scrolling issues will be fixed in the upcoming releases. They are working hard to implement asynchronous pan and zoom  
+
+
+
+
+ ow :( i hope this get resolved soon
+ 
+
+
+
+
+ someone else reported the same issue on a reddit post. I think for a temp solution you could zoom out on the newtab page to get your links back 
+
+
+
+
+ ah good :)
+Happy Youtubing! :) 
+
+
+
+
+ have a look at the solution below  
+
+
+
+
+ it mostly should. incase it does do report back! :) 
+
+
+
+
+ disable webM. 
+Its under development  
+
+Goto about:config and set this to false  
+"media.mediasource.webm.enabled" 
+
+
+
+

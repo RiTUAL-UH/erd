@@ -1,0 +1,93 @@
+
+
+
+
+
+ Thanks for letting me know the sentence. The sentence states:
+
+Consistent with these observations, we demonstrated that siRNA knockdown of the PI3KCD isoform, but not other PI3K isoforms, was senolytic in preadipocytes.
+
+The vast majority of drugs are not specific and have multiple targets. When researchers find a drug has an effect they want to know why/how it's working.  What they are referring to in this sentence is an experiment which they performed in cells in a dish (not an animal) to see what molecular target is causing the effect that they are seeing with the drug therapy. What they used was a small interfering RNA (siRNA). These can be made/designed by any researcher and are extremely specific to a target. Researchers look at the genome and find the nucleotide sequence for the protein of choice, find a unique nucleotide sequence in this sequence (so it's specific to the protein of choice), make this sequence which when put into a cell results in degradation of the mRNA of the protein of choice. This stops the protein being made and therefore is a way to stop it being made and used in the cell - this process is a really good tool for a researcher and figuring out the process resulted in Andrew Fire and Craig Mello getting the Nobel Prize in Physiology or Medicine in 2006 only 8 or 9 years after they published their paper on the process (that's a REALLY short time from publishing to getting a nobel prize).  
+
+In this case, they are interested in PI3K, which is involved a range of processes including cell growth and cell death but specifically interested in the PI3KCD isoform which is known to help cancer cells resist cell death and therefore may help senescent cells survive. For the experiment they treated the cells (preadipocytes in this case) with the siRNA for PI3KCD and nothing else (i.e. no dasatanib or quercertin was used). They found that the siRNA had the same effect as the drug treatment suggesting that the drugs could be acting by inhibiting PI3KCD. They used siRNA for a lot of other proteins as well to find a few molecular proteins that act as senolytics. Identifying these proteins will help target future drug therapies and research directions.
+
+In short, the drugs aren't attached to an RNA but a specially designed RNA was used to figure out how the drugs might be working. In theory you could use the siRNA as a drug but it would be unbelievably expensive. Hopefully that helps! 
+
+
+
+
+ They gave the drugs orally to the mice so in theory delivery shouldn't be an issue. The first issue would be the dose of the drugs, quercertin shouldn't be an issue though it is quite a big dose. Dasatnib would be the issue with the dose they gave. It's used as a chemotherapy drug and is suggested to be used at 100mg/day in humans which some people cannot tolerate and there are number of side effects. They gave the mice 5mg/kg body weight, it's often assumed that the average guy weighs 70kg so that's 350mg - how well that could be tolerated remains to be seen.
+They did find that a one off treatment was sufficient which might make any side effects, which I guess would be pretty horrible, worth it in the long-term. 
+
+It's a proof of concept study really, that if you eliminate senescent cells then you can improve/maintain organ function for longer. I doubt this treatment would be used in a clinic in the future but it'll mean that more research is focused on this type of treatment which may lead to a better drug combination or technique in the future. 
+
+
+
+
+ In the animal studies they used an oral garage which is basically a tube that delivers the drug directly to the stomach. Dasatanib was at a concentration of 5mg/kg and quercertin at 50mg/kg body weight, most likely they were dissolved in water but it might have been with a different solvent. That info is from page 8 of the paper.
+
+There's no need to bind it RNA which I can't see making any difference unless it prevents it from degradation, if you let me know where it says that then I'll have a look as I skimmed through the paper to find the dosing info.
+
+ 
+
+
+
+
+ You seem to know what you're talking about! I'm a bit swamped at the moment, I'll try and get back later but this review might help you:
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849637/
+
+In a nutshell, it's too simplistic to just look at ATP requirements as I was trying to point out in point 1 of my last reply. So in terms of ATP being needed for synthesis of nucleotides and amino acids, that's true but so are carbon chains, ribose etc. which come from glucose. So are other metabolites from glycolysis (NADH, NADP etc) and you still get ATP (albeit lower levels). The increase in glycolytic flux and glycolytic capacity (i.e. glucose uptake proteins and enzymes) means that in some instances the total ATP generating capacity from glycolysis is higher than that from the mitochondria - so even though it's less efficient more ATP can be generated.
+
+The other point to take into consideration which you allude to with "I don't see how a hypoxic tissue can continue to proliferate for long." is that this isn't a "perfect" metabolism shift that overcomes hypoxia. Cancer cells do die and become necrotic and they aren't immune to excessive levels of lactate accumulation or hypoxia. They are better able to cope with the harsh environment and the stresses placed on the cells further ramps up their metabolism and anti-apoptotic abilities, "super-charging" them even more - in essence the harsh environment induces a selection process for cells that are more glycolytic, more resistant to cell death which seem to promote metastasis and more aggressive tumors. 
+
+It should also be noted that not all cancer cells show this preference for glycolysis/Warburg Effect and there is a broad spectrum in cancer metabolic phenotype just to make it more complicated!
+
+In terms of the mechanism of this treatment in causing cancer cell death/longer survival it's not actually due to changing cancer cell metabolism or ROS production. They showed that using a potent antioxidant, which would inhibit ROS production, had no effect on tumor survival. Instead it's due to activation of the immune system, as deletion of immune cells prevent the positive effect of hyperoxia and that the treatment causes an increase in the relevant immune cells (T and NK cells). In hypoxic environments cells release adenosine which dampens the immune system and consequent removal of cancer cells. The first post covers this in more detail. 
+
+
+
+
+ Fermentation does yield less ATP/energy compared to aerobic respiration (2 ATP vs 36 ATP) but cellular function is more than generating ATP. 
+
+1. For cell proliferation, glycolysis is actually more effective because it generates other intermediates, acetly-CoA for fatty acids, glycolytic intermediates for non-essential amino acids and ribose for nucleotides with the latter 2 only available from glucose/sugars. This is actually put to use when cells are grown in a dish, most nutrient medias contain high levels of glucose and glutamine which increase cell proliferation rates in both normal and cancer cells compared to media that favors oxidative phosphorylation - this is one reason why in vitro drug screens are pretty crap because the cells don't rely upon aerobic respiration and drugs that are toxic to mitochondria are only found when used in an animal (the Crabtree Effect).
+
+2. ATP inhibits phosphofructokinase, the rate-limiting step of glycolysis so aerobic respiration would decrease glycolysis, due to high ATP production,which is required for maximal/optimal cell proliferation as explained in 1.
+
+3. If the niche/environment is hypoxic then using glycolysis allows cell proliferation to continue which is better than waiting for vascularization. Having more cells will also increase the signal for vascularisation so it is likely to occur faster than by waiting for it to happen. Once vascularized and oxygen is more abundant the lactate can then be used as an aerobic fuel source by the cancer cells (cancer cells are still capable of aerobic respiration). Also lactate induces acidosis which limits healthy tissue growth and favours cancer cell growth (they are more resistant to the negative effeccts of high lactate).
+
+4. A lot of the genetic mutations that cause cancer (e.g. PTEN, mTOR, LKB1) result in activation of glycolytic pathways and activation of a protein called PKB/Akt which increases the glycolytic enzymes but also increases proteins that reduce apoptosis/promote survival. 
+
+5. Aerobic respiration also induces reactive oxygen species to which cancer cells are more sensitive to than healthy cells.
+
+6. Aerobic respiration is used/found more in a differentiated tissue than in single proliferating cells which is what cancer cells are. This is because DNA replication and cell membrane synthesis are required at much lower levels than during cell proliferation. The advantages of aerobic respiration can then be utilized
+
+Hopefully I stayed on track with the answer! Although it seems counter-intuitive it does kinda make sense! 
+
+
+
+
+ This is a summary and link of the paper (it's open access):
+
+Summary
+The healthspan of mice is enhanced by killing senescent cells using a transgenic suicide gene. Achieving the same using small molecules would have a tremendous impact on quality of life and burden of age-related chronic diseases. Here, we describe the rationale for identification and validation of a new class of drugs termed senolytics, which selectively kill senescent cells. By transcript analysis, we discovered increased expression of pro-survival networks in senescent cells, consistent with their established resistance to apoptosis. Using siRNA to silence expression of key nodes of this network, including ephrins (EFNB1 or 3), PI3K, p21, BCL-xL, or plasminogen activated inhibitor-2, killed senescent cells, but not proliferating or quiescent, differentiated cells. Drugs targeting these factors selectively killed senescent cells. Dasatinib eliminated senescent human fat cell progenitors, while quercetin was more effective against senescent human endothelial cells and mouse BM-MSCs. The combination of dasatinib and quercetin was effective in eliminating senescent MEFs. In vivo, this combination reduced senescent cell burden in chronologically aged, radiation-exposed, and progeroid Ercc1-/ mice. In old mice, cardiac function and carotid vascular reactivity were improved 5 days after a single dose. Following irradiation of one limb in mice, a single dose led to improved exercise capacity for at least 7 months following drug treatment. Periodic drug administration extended healthspan in Ercc1-/ mice, delaying age-related symptoms and pathology, osteoporosis and loss of intervertebral disc proteoglycans. These results demonstrate the feasibility of selectively ablating senescent cells and the efficacy of senolytics for alleviating symptoms of frailty and extending healthspan.
+
+http://onlinelibrary.wiley.com/doi/10.1111/acel.12344/abstract 
+
+
+
+
+
+
+
+
+
+ Hypoxia may actually drive tumours to be more aggressive and promote metastasis. The lack of oxygen converts their metabolism to be glycoyltic (which allows them to better survive without vascularization), upregulates anti-apoptotic genes/proteins, promotes release of factors (i.e. VEGF and PDGF etc.) that promote blood vessel growth into the tumour and may help keep the cells in an undifferentiated state, which in turns helps to keep them proliferating. 
+
+There's a review here that shows providing oxygen doesn't seem to stimulate tumour growth and talks about the role of hypoxia in tumour progression and phenotype
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3510426/ 
+
+
+
+

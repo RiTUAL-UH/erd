@@ -1,0 +1,158 @@
+
+
+
+
+
+ If all is working properly, you should be able to breed Mushroom Spores from Pam's using AgriCraft. I'm also going to add a Blood Altar recipe for them, as it is a little difficult 
+
+
+
+
+ Explosions. 
+
+
+
+
+ Explosions. 
+
+
+
+
+ And I'll add here - the last time they made a pack and took mod suggestions (Monster), it was largely considered one of the worst packs they made. I don't speak at all for the FTB Team here, but I don't want that to happen again. It's better they stick to what they know best than try to build something off of any suggestion they are given. 
+
+
+
+
+ It's a kitchen sink pack. They said they were making it because they didn't have one for 1.7, so here it is. Not only that, but look at the list. It has a bunch of great new mods, like AgriCraft, RFTools, Draconic Evolution, and more. They're catering to the most popular mods found in their most popular packs. It's a pack made for what seemed like the community wanted. 
+
+
+
+
+ First of all - What?!?
+
+Second of all, in order to make them "the same," you'll need to add them to each other's ore dictionary. You can obtain the oredict information by doing "/mt hand" whilst holding the item.
+
+Then, just place in, say, if I wanted to add an vMC apple to a copper ore dictionary, "ingotCopper.add(minecraft:apple);"
+
+ingotCopper being the oredict entry. If you add each crystal to every crystal's ore dictionary, they can each be used in every recipe requiring the others.
+
+Now only one question remains: Why would anyone ever do this? 
+
+
+
+
+ What pack? As well, do you have logs? 
+
+
+
+
+ You could use Mob Properties to make anything spawning in the overworld have an insanely high attack 
+
+
+
+
+ As for making the overworld unlivable, you could enforce a void in only the overworld using Ex Nihilo or YUNoMakeGoodMap. You could also just enable "All the World is Superfun" in TiC and that would pretty much eliminate any need to leave the Nether. 
+
+
+
+
+ "This paste has been removed!" 
+
+
+
+
+ Resurrection is being updated very soon, [as stated by tfox](http://forum.feed-the-beast.com/threads/ftb-resurrection-1-0-1-update-info.60834/) 
+
+
+
+
+ The config is very distinctly sorted based on the section of the mod. It is divided into sections based on the part of the mod, so it's easy to see what is part of the Dimension Building system or the Shield System. There are very clear headers :P 
+
+
+
+
+ I don't believe the results were released publicly anywhere, but I would be interested in seeing them. 
+
+
+
+
+ It adds the features with the express purpose of making them RF-Based. McJty's not adding Magic Wands, he's adding a device that you need to power to create dimensions. If you want a magic-based Dimension Building system, you've got MystCraft. Sure, RFTools has Dimension Building, but it's in a completely different sense than MystCraft. Complaining that it has the Dimension Builder it is like complaining that EnderIO adds item transport with its conduits when ThaumCraft adds item transport with its Golems. 
+
+
+
+
+ You can't restrict a mod based on what is, at best, a general and vague description. It says it adds RF based tools. That does not restrict it to a power monitor. Adding additional utilities does not have to restrict a mod to a simple block. I would call a shield or teleportation system a nice utility, as there (AFAIK) is no other RF-based mod that adds such customizable RF-based teleportation. As for the shields, there's only one or two mods (if you count both MFFSs) that do something similar, and both are either high-CPU intensive or not very well maintained. It adds a nice, customizable, and low cost alternative. Yes, Dimension Building is stretching it's definition as a utility, but it's nothing that Extra Utilities hasn't done before. And besides, there's only one other mod that adds dimension building in a similar sense (MystCraft), and that lacks frequent updates and many customization features. Honestly, it's just adding utilities that are lacking in much of Modded MineCraft.
+
+Plus, if you don't want any of the "bloat" in the mod, why are you complaining? There are very simple config options to turn everything off.
+Or what if I just wanted the dimension options for a magic-base pack, and didn't want to deal with RF dependencies?
+
+Not sure why you'd be adding something called RFTools to a magic-based pack, but all you have to do is disable everything and set the power requirements for the dimension-related devices to zero. Not that difficult, if you'd look at the easy to understand config file.
+How about simple forestry tree farms without the insane amount of extra world-gen?
+
+If a couple ores and bees is considered insane, I'm not surprised you're attacking a dimension building mod.
+
+RFTools is a nice example of a mod that creates nice tools and features while still retaining a large amount of customizability. It innovates and creates new ideas, while at the same time building on already created ideas and making them more compact, customizable, and lag free. I'm really amazed at all the work Mcjty has done on the mod, and I'm even more excited for the things he's planning on adding in the future, such as the Modular Screens.
+
+I could understand if you were attacking such a mod if it had no config options to turn it off, but it does. Many mod authors add in things because it's very likely that, unless their mods are used in a kitchen sink pack, many of the other mods that do the same things are not in the same environment as their mods. Many devs code with only their mods in mind, not any others. And if they aren't, well, they've got config options. You can turn off Forestry's "insane" world gen, or Bluepower's logic system, or RFTool's various systems with a simple change of true to false. 
+
+
+
+
+ Reposting because the original was deleted, and this is big. 
+
+
+
+
+
+
+
+
+
+ I'm shaking with excitement right now. We're partnering with FTB. 
+
+
+
+
+ It's basically done. As of right now, we're just updating mods, fixing bugs, and adding EMC to things. It should be perfectly alright to start a world. Most of the bugs that were in the pack have been ironed out at this point, so it's pretty stable. 
+
+
+
+
+ Late game is sort of arbitrary. It varies depending on the modpack or the mods you are playing with. In some packs, late game might be killing the Ender Dragon or being able to combat Taint or killing those Botania bosses. It might be creating a Tier Six Altar and summoning a Demon Village, or it might be having the ability to create your own worlds.
+
+[Phoenix Reborn](http://forum.feed-the-beast.com/threads/1-7-10-phoenix-reborn-tech-magic-progression-ores.59301/) implements a sense of progression and the tiers of the game by sort of restricting things behind dimensions and such. For instance, you could consider the overworld early game. In the overworld, only Coal, Iron, Lapis, and Redstone spawn (although in exaggerated amounts). You'll be forced to use certain mods in order to progress, such as Blood Magic and Botania, until you reach the Erebus. You'll then have access to metals such as Copper, Tin, Aluminium, Lead, Gold, and Silver, which will grant you access to a lot of the early tech mods, which in turn will allow you to create a Nether portal, and give you access to Diamond, Sulfur, Saltpeter, Emerald, Ruby, and Sapphire. This lets you access some of the later game mods, such as a few things from ProjectE or late game Thermal Expansion. Once you've obtained Platinum from the Deep Dark, you'll be able to create the Energy Condenser and automate the creation of items via EMC, and once you've created your own dimensions using RFTools, you'll be able to create things like Energy Collectors and AntiMatter Relays with Dimensional Shards.
+
+Although it's certainly not as grind-like as GregTech, it does have a set type of Progression. Each dimension basically represents it's own part of the game, whether it's early game in the Overworld, mid-game in the Erebus and Nether, or late game in the RFTools Dimensions and the Overworld. Everything is basically set into tiers based on the dimension you're in, and it does take some time to get from one to the next. 
+
+
+
+
+ I tried it without Factorization if Forge 1277, and it did not work. Adding the latest Factorization, it did. Looking at the changelogs, this does not appear to be implemented in any Forge version, but it sure should. It worked brilliantly for the few things I tested it on. 
+
+
+
+
+ I can confirm - this works. 
+
+
+
+
+ Now *this* is amazing. I'm adding Factorization to my instance just to make sure this works. 
+
+
+
+
+ Here's what we currently do: http://forum.feed-the-beast.com/threads/team-member-positions.59861/#post-876355
+
+Unfortunatly, we don't really have time to chech each pack, due to the sheer amount of packs being updated every day. Even with out now huge team, we're having trouble keeping up.
+
+However much we'd like to do robots, we're not really at that point yet.   We're limited by the forum technology and the money we have available. Hopefully in the future we'll be able to do something similar. 
+
+
+
+
+ We're trying our hardest. Sometimes things just go wrong. We get hundreds of pack submissions, there's bound to be plenty of errors. 
+
+
+
+

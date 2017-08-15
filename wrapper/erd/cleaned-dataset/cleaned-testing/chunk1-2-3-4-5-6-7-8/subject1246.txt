@@ -1,0 +1,6934 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The AMA is here:
+http://www.reddit.com/r/science/comments/28vuzr/science_ama_series_iama_virologist_who_studies/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In AskScience and Science we have a lot of flaired users, and we'd like to be able to add them to a private subreddit, right now it's done entirely by hand, which is a real chore if several people have added flair.  
+
+Is there an existing script or bot that would automate the process, like the script that syncs flair between two subreddits?  I'm not a programmer, but it seems like something that should be straight forward to do with PRAW. 
+
+
+
+
+ Ask your questions in this Submission:
+
+http://www.reddit.com/r/science/comments/27pmtp/longer_telomeres_linked_to_risk_of_brain_cancer/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here: http://www.reddit.com/r/science/comments/27oxbt/science_ama_series_im_dr_kathleen_pryer_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Link to the AMA: http://www.reddit.com/r/science/comments/27dic5/science_ama_series_im_tony_blau_director_of_u_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here: http://www.reddit.com/r/science/comments/276ygd/science_ama_series_hi_im_james_gilbert_a/ 
+
+
+
+
+ Here is the link to the AMA http://www.reddit.com/r/science/comments/26s0ko/science_ama_series_im_barbara_sahakian_professor/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Here is the link:
+
+http://www.reddit.com/r/science/comments/26mdul/science_ama_series_i_am_dr_hunter_peckham/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/25m9ex/science_ama_series_i_am_dr_heidi_steltzer_and_my/ 
+
+
+
+
+
+
+
+
+
+ Environmental biology professor at [Fort Lewis College Durango, CO, USA]( http://www.fortlewis.edu), [studying the biological impacts of climate change](http://scholar.google.com/citations?user=QcIjyzwAAAAJ hl=en).  She studied the biological consequences of earlier snowmelt, climate warming, and most recently elevated CO2.  Her research on how elevated CO2, not just climate warming, leads to a longer growing season was [published in the journal Nature](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature13207.html), and reported in the [news](http://www.nature.com/news/co2-makes-growing-seasons-longer-1.15081), including in a [New York Times column on changing seasons and its consequences](http://www.nytimes.com/2014/04/24/science/springing-forward-and-its-consequences.html).  Studies like hers highlight the need to better understand the impacts of environmental changes that happen at the same time.  Her study shows an apparent benefit of greater CO2 concentrations on growing season length that we did not expect based on [an earlier conceptual model on changing seasons] (https://www.sciencemag.org/content/324/5929/886.summary).  Earths biological systems are changing due to human choices, and we need to better understand the impacts, both positive and negative, to reduce the associated risks.
+
+Post your questions here:  http://www.reddit.com/r/science/comments/25m9ex/science_ama_series_i_am_dr_heidi_steltzer_and_my/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to here: http://www.reddit.com/r/science/comments/254diy/science_ama_series_we_helped_create_the_third/ 
+
+
+
+
+
+
+
+
+
+ **Science AMA Series: We helped create the Third National Climate Assessment Report. Ask us anything!**
+
+This past Tuesday, May 6, the White House released the Third U.S. National Climate Assessment - the most comprehensive national effort to assess the science and effects of climate change in the U.S. The report is designed to help officials, businesses, and members of the public in all regions and sectors of the country make the best decisions when dealing with climate change and managing related risk. The NCA also illustrates how these regions and sectors are connected. Unlike previous assessments, this NCA has been released as an interactive website, nca2014.globalchange.gov, to make it more accessible and useful to both citizens and scientists.
+
+We are researchers at the University of Arizona who played a significant role in both the overall report leadership and especially the Southwest and Forestry chapters. We will be answering questions starting at 2PM EST. 
+
+Who is here:
+Kathy Jacobs - Recently returned to the University of Arizona to lead the UAs Center for Climate Adaptation Science and Solutions after serving as the Director of the National Climate Assessment for the White House.
+
+Gregg Garfin - Lead author of the Southwest chapter of the NCA and Professor in the UAs School of Natural Resources and the Environment
+
+
+Dave Breshears - Lead author on the Forests chapter of the NCA, drawing on his expertise on drought-related tree die-off, and Professor in the UAs School of Natural Resources and the Environment
+
+
+Dan Ferguson - Director of the Climate Assessment for the Southwest 
+
+
+Thomas McDonald - Project and Events Coordinator at the University of Arizonas Institute of the Environment, helping us navigate Reddit and input our answers.
+
+
+tl;dr - The White House released the third National Climate Assessment(NCA) on Tuesday. It is comprehensive, designed to help everyone make decisions to deal with climate change, and released as an interactive website, a first for the Feds. The just-returned-from-the-White-House former director of the NCA, Kathy Jacobs, and a number of contributors, all from the University of Arizona, will be here starting at 2PM EST, 5/9/14 to answer your questions.
+
+
+PROOF: http://www.portal.environment.arizona.edu/events/national-climate-assessment-ask-me-anything-reddit-kathy-jacobs-and-ua-lead-authors
+
+
+HELPFUL LINKS:
+
+Video introduction on the NCA: http://youtu.be/2dIheuvIKDg
+
+National Climate Assessment: http://nca2014.globalchange.gov/
+
+Spanish translations: http://www.ccass.arizona.edu/NCA
+
+The AMA will be posted at 8 am EDT on Friday, May 9, with answers starting at 2 pm EDT. 
+
+http://www.reddit.com/r/science/comments/254diy/science_ama_series_we_helped_create_the_third/
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Prof. Richard Betts, Climate scientist and Lead author of the most recent IPCC report is doing an AMA in /r/science today.  Please stop by with any questions about the IPCC or climate science!
+
+Here is a link to the AMA:
+
+http://www.reddit.com/r/science/comments/23ulmw/science_ama_series_im_richard_betts_climate/
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ - RES Version: 4.3.2.1
+- Browser: Chrome
+- Browser Version: 34
+- Cookies Enabled: true
+- Platform: Mac
+- Did you search /r/RESIssues before submitting this: yes.
+
+This gave me a good fright until I figured it out, for some reason, and this is something that not many would notice, in subs with many user flairs, if you have RES enabled the "Next" button to see the next page of user flair is gone.  This gives the impression that the user flair has been deleted, but it's still there.  
+
+If you disable RES and reload the "Next" button appears and you can go through the list.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submit your questions to the /r/science AMA located here:
+
+http://www.reddit.com/r/science/comments/2epr86/science_ama_series_im_dietram_scheufele_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is the author of a recent paper that got lots of attention in /r/science.  We're quite lucky to have him answering questions on reddit.
+
+Post your questions here:
+
+http://www.reddit.com/r/science/comments/2e9ow6/science_ama_series_im_george_wittemyer_a_wildlife/
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Altmetrics aims at determining the impact of a scientific publication beyond the number of citations it generates.
+
+Submit any questions to this link:
+
+http://www.reddit.com/r/science/comments/2e61f6/science_ama_series_im_euan_adie_founder_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Scicast.org works to make forecasts based on the "wisdom of the crowds" with the crowd being scientists.
+
+http://www.reddit.com/r/science/comments/2e2mvh/science_ama_series_we_are_drs_robin_hanson_and/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Professor Kevin Folta from the University of Florida joins us to discuss the facts and myths of genetic modification of plants.
+
+Post your questions to this submission in /r/science: 
+
+http://www.reddit.com/r/science/comments/2dz07o/science_ama_series_ask_me_anything_about/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/EverythingScience was set up my the moderators of /r/science for all of the content that doesn't fit the rules of /r/science, but is high quality and worth reading.
+
+Submit content and subscribe! 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2dj2kd/science_ama_series_im_heidi_lyn_an_assistant/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2d878f/science_ama_series_im_paul_knoepfler_professor_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ##**Science Verified User Program**
+
+/r/science has a a system of verifying accounts for commenting, enabling trained scientists, doctors and engineers to make credible comments in /r/science . The intent of this program is to enable the general public to distinguish between an educated opinion and a random comment without a background related to the topic. 
+
+
+#**What flair is available?**
+
+All of the standard science disciplines would be represented, matching those in the sidebar.
+However, to better inform the public, the level of education is displayed in the flair too. For example, a Professor of biology is tagged as such (Professor- Biology), while a graduate student of biology is tagged as "Grad Student-Biology." Nurses would be tagged differently than doctors, etc...
+
+The general format is:
+
+Level of education|Field|Speciality or Subfield (optional)
+
+When applying for a flair, please inform us on what you want it to say.
+
+#**How does one obtain flair?**
+
+
+First, have a college degree or higher in a field that has flair available.
+Then send proof to the mods of /r/science .
+
+This can be provided several ways:
+
+1) Message the mods with information that establishes your claim, this can be a photo of your diploma or course registration, a business card, a verifiable email address, or some other identification. All submissions will be kept in confidence and not released to the public under any circumstances. You can submit an imgur link and then delete it after verification. 
+
+Remember, that within the proof, you must tie your account name to the information in the picture.
+
+
+2) if you aren't comfortable messaging the mods with identifying information, you can directly message any individual mod and supply the information to them. Again, your information will be held in confidence.
+
+
+3) Send an email with your information to sciencereddit@gmail.com after messaging the mods to inform them of this option. Your email will then be deleted after verification, leaving no record. 
+
+This is convenient if you want to take a photo of your identification and email from a smart phone, for example.
+
+Edit:  Hi.  We're getting flooded with requests, we're adding people as fast as we can, if we miss you somehow, we apologize, if you don't see your flair or get a response in the next two days, message us again.
+
+Thanks for making /r/science a better place!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submit your questions to this /r/science post:
+
+http://www.reddit.com/r/science/comments/2cry1h/science_ama_series_im_celia_elliott_a_science/
+
+She will be answering questions about science writing, which should be of interest to grad students and practicing scientists. 
+
+
+
+
+
+
+
+
+
+ Today's Science AMA covers the intestinal microbiome.
+
+
+Post your questions here:
+
+
+http://www.reddit.com/r/science/comments/2coh6f/science_ama_series_hi_im_dr_suzanne_devkota_a/
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this /r/science submission:
+
+http://www.reddit.com/r/science/comments/2cbthq/science_ama_series_im_stephen_morse_a_professor/ 
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2c8cp1/science_ama_series_we_are_researchers_working_for/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submist your questions here:
+
+http://www.reddit.com/r/science/comments/2bhhjd/science_ama_series_im_dr_domenico_accili_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.reddit.com/r/science/comments/2aul2e/science_ama_series_im_paul_h%C3%A9roux_a_professor_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here: http://www.reddit.com/r/science/comments/2a4xeo/science_ama_series_im_dr_adam_franssen_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions [here](http://www.reddit.com/r/science/comments/2a1jum/science_ama_series_hi_im_david_waltham_a_lecturer/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ##**Science Verified User Program**
+
+/r/science has a a system of verifying accounts for commenting, enabling trained scientists, doctors and engineers to make credible comments in /r/science . The intent of this program is to enable the general public to distinguish between an educated opinion and a random comment without a background related to the topic. 
+
+
+#**What flair is available?**
+
+All of the standard science disciplines would be represented, matching those in the sidebar.
+However, to better inform the public, the level of education is displayed in the flair too. For example, a Professor of biology is tagged as such (Professor- Biology), while a graduate student of biology is tagged as "Grad Student-Biology." Nurses would be tagged differently than doctors, etc...
+
+The general format is:
+
+Level of education|Field|Speciality or Subfield (optional)
+
+When applying for a flair, please inform us on what you want it to say.
+
+#**How does one obtain flair?**
+
+
+First, have a college degree or higher in a field that has flair available.
+Then send proof to the mods of /r/science .
+
+This can be provided several ways:
+
+1) [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2Fscience) with information that establishes your claim, this can be a photo of your diploma or course registration, a business card, a verifiable email address, or some other identification. All submissions will be kept in confidence and not released to the public under any circumstances. You can submit an imgur link and then delete it after verification. 
+
+Remember, that within the proof, you must tie your account name to the information in the picture.
+
+
+2) if you aren't comfortable messaging the mods with identifying information, you can directly message any individual mod and supply the information to them. Again, your information will be held in confidence.
+
+
+3) Send an email with your information to sciencereddit@gmail.com after messaging the mods to inform them of this option. Your email will then be deleted after verification, leaving no record. 
+
+This is convenient if you want to take a photo of your identification and email from a smart phone, for example.
+
+
+Thanks for making /r/science a better place!
+ 
+
+
+
+
+ Post your question to this submission:
+
+http://www.reddit.com/r/science/comments/2iumkg/science_ama_series_im_mark_fielder_professor_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2ir2en/science_ama_series_im_steven_buchsbaum_i_lead_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2ini0s/scienceamaseries_im_ken_paller_a_cognitive/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The first Nobel announced is Medicine, awarded to John OKeefe, May-Britt Moser and Edvard I. Moser
+
+ [Discuss in /r/EverythingScience](http://www.reddit.com/r/EverythingScience/comments/2ifo7o/2014_nobel_prize_in_medicine_to_john_okeefe/) 
+
+
+
+
+ Today's Science AMA is covering the set up of a lab at a research university, the experiences in chemistry should be largely transferable to biology as well.
+
+Post your questions to this link:
+
+http://www.reddit.com/r/science/comments/2ifuft/science_ama_seriesscience_ama_series_we_are_will/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Astrobiology!  Read more and post your questions here: 
+
+https://www.reddit.com/r/science/comments/2i9tla/science_ama_series_im_maxim_makukov_a_researcher/
+
+The AMA start at 11 am EST, 4 pm BST 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ebola has been in the news a lot lately, but the recent news of a case of it in Dallas has alarmed many people.  
+
+The short version is:  Everything will be fine, healthcare systems in the USA are more than capable of dealing with Ebola, there is no threat to the public.
+
+That being said, after discussions with the verified users of /r/science, we would like to open up to questions about Ebola and infectious diseases.
+
+**Please consider donations to [Doctors Without Borders](http://www.doctorswithoutborders.org/our-work/medical-issues/ebola?utm_source=google utm_medium=ppc utm_term=brand_sitelink) to help fight Ebola, it is a serious humanitarian crisis that is drastically underfunded.** (Yes, I donated.)
+
+Here is the ebola fact sheet from the World Health Organization: http://www.who.int/mediacentre/factsheets/fs103/en/
+
+Post your questions for knowledgeable medical doctors and biologists to answer.
+
+**[If you have expertise in the area, please verify your credentials with the mods and get appropriate flair before answering questions.](https://www.reddit.com/r/science/wiki/flair)**
+
+Also, you may read the [Science AMA from Dr. Stephen Morse on the Epidemiology of Ebola](https://www.reddit.com/r/science/comments/2cbthq/science_ama_series_im_stephen_morse_a_professor/)  
+
+as well as the numerous questions submitted to /r/AskScience on the subject:
+
+[Epidemiologists of Reddit, with the spread of the ebola virus past quarantine borders in Africa, how worried should we be about a potential pandemic?](https://www.reddit.com/r/askscience/comments/2c4x07/epidemiologists_of_reddit_with_the_spread_of_the/)
+
+[Why are (nearly) all ebola outbreaks in African countries?](https://www.reddit.com/r/askscience/comments/220ac8/why_are_nearly_all_ebola_outbreaks_in_african/)
+
+[Why is Ebola not as contagious as, say, influenza if it is present in saliva, therefore coughs and sneezes ?](https://www.reddit.com/r/askscience/comments/2d3p7d/why_is_ebola_not_as_contagious_as_say_influenza/)
+
+[Why is Ebola so lethal? Does it have the potential to wipe out a significant population of the planet?](https://www.reddit.com/r/askscience/comments/2bs08v/why_is_ebola_so_lethal_does_it_have_the_potential/)
+
+[How long can Ebola live outside of a host?](https://www.reddit.com/r/askscience/comments/2cbvtl/how_long_can_ebola_live_outside_of_a_host/)
+
+Also, from /r/IAmA: [I work for Doctors Without Borders - ask me anything about Ebola.](http://www.reddit.com/r/IAmA/comments/2g79ip/i_work_for_doctors_without_borders_ask_me/)
+
+[CDC and health departments are asserting "Ebola patients are infectious when symptomatic, not before"-- what data, evidence, science from virology, epidemiology or clinical or animal studies supports this assertion? How do we know this to be true?](http://www.reddit.com/r/askscience/comments/2i51u1/cdc_and_health_departments_are_asserting_ebola/)
+
+
+
+ 
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2hvslq/science_ama_series_hello_i_am_prof_marc_lipsitch/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Clint Edwards stops by to discuss the health of coral reefs.
+
+https://www.reddit.com/r/science/comments/2hf9hl/science_ama_series_im_clint_edwards_a_researcher/ 
+
+
+
+
+
+
+
+
+
+ Professor in the faculty of philosophy at Oxford University and founding Director of the Future of Humanity Institute and of the Programme on the Impacts of Future Technology within the Oxford Martin School.
+
+http://www.reddit.com/r/science/comments/2hbp21/science_ama_series_im_nick_bostrom_director_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hi, I'm Marcel Salathe, assistant professor on leave to work on startup. Short CV: Graduated at ETH Zurich, Switzerland, moved to US for postdoc at Stanford, took tenure-track faculty position at Penn State a few years ago, became very active in nascent field of digital epidemiology, created a popular MOOC on infectious diseases (on coursera), came back to the Bay Area earlier this year because I was accepted into Y Combinator, now working on a new project, Teeays.
+Happy to talk about all these things, particularly with respect to online education, academic life vs startup life, but happy to answer other questions too.
+
+Post your questions here:
+
+https://www.reddit.com/r/science/comments/2h7x7k/science_ama_series_im_marcel_salathe/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ We're looking for a practical way to judge Panelist activity in /r/AskScience, and a good way would be to generate a log like the moderation log but tracking flaired users.  We don't care so much what they've posted, but rather how much Panelists post, so a simple tabulation of the poster and the number of comments would be fine.
+
+Seems like it would be straight forward, but I've learned that simple things sometimes aren't so simple, so it makes sense to ask more experienced people first! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.reddit.com/r/science/comments/2gr6js/science_ama_series_im_dr_carol_curchoegeorge_and/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Today's Science AMA Series bring us Dr. Amorette Barber, an immunologist at Longwood University. she does research on tumor immunology, specifically on trying to activate stronger anti-tumor immune responses through genetic engineering. 
+
+http://www.reddit.com/r/science/comments/2gjyo7/science_ama_series_im_dr_amorette_barber_an/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /u/dblowe, [Derek Lowe, who did an AMA in /r/science earlier this year](http://www.reddit.com/r/science/comments/1z6o2d/science_ama_series_im_derek_lowe_medicinal/), submitted a blog post detailing some recent events in the pharmaceutical world.
+
+[See Here](http://np.reddit.com/r/news/comments/2g43kw/a_generic_drug_company_retrophin_buys_up_the/ckfoxiy) 
+
+This story was deleted from /r/news and for reasons that are unclear, he was banned.
+
+Derek has posted a follow up post, [a link to it is located in /r/EverythingScience](http://www.reddit.com/r/EverythingScience/comments/2g96iy/thiola_retrophin_martin_shkrell_reddit_and_more_a/) feel free to discuss the contents in the comments of that submission. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Here is the link to the /r/science submission, please post your questions to it:
+
+http://www.reddit.com/r/science/comments/2fcgs7/science_ama_series_im_dr_michelle_boone_associate/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+http://www.reddit.com/r/science/comments/2eta6t/im_seth_shostak_and_i_direct_the_search_for/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2lusz5/science_ama_series_im_ken_buesseler_an/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2lo46g/science_ama_series_we_are_a_group_of_columbia/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2ld1un/science_ama_series_im_dr_les_dethlefsen_staff/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2l99if/science_ama_seriesim_dianna_parker_with_noaas/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2kvnd3/science_ama_series_im_mary_woolley_president_and/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2krwz2/science_ama_series_im_dave_blackburn_curator_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2ko351/science_ama_seriesim_vanessa_tolosa_an_engineer/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2kk7is/science_ama_series_we_are_neuroscience_professors/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+https://www.reddit.com/r/science/comments/2kd4qp/science_ama_series_im_steve_vidovic_a/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As part of the Bay Area Science Festival we have a group of synthetic biologists answering questions here:
+
+http://www.reddit.com/r/science/comments/2k6u53/science_ama_series_were_a_collection_of_synthetic/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2k38k5/science_ama_series_im_adam_gazzaley_director_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ post your questions to this link:
+
+http://www.reddit.com/r/science/comments/2jvpsj/science_ama_series_im_rebecca_lawrence_managing/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Check it out here, a summary of the best of AskScience from recent weeks:
+
+https://www.reddit.com/r/askscience/comments/2jot8u/introducing_askscience_quarterly_a_new_popular/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions for the Professors here:
+
+http://www.reddit.com/r/science/comments/2j7mym/science_ama_series_were_rachel_miller_and_robin/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2tu16v/science_ama_series_im_gregory_weiss_uc_irvine/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+https://www.reddit.com/r/science/comments/2teeeg/science_ama_series_we_are_moore_investigators_and/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Submit your questions to this post:
+
+http://www.reddit.com/r/science/comments/2smkn8/science_ama_series_im_julien_cobert_internal/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2sekp6/science_ama_series_i_am_michael_eisen_professor/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2pohi8/science_ama_series_im_jeff_bazarian_a_professor/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2oyv0y/science_ama_series_im_timo_hannay_former_director/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2o5h9i/science_ama_series_we_are_scientists_at_los/ 
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2o1iy7/science_ama_series_we_have_used_synthetic_biology/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2nh1nb/science_ama_series_we_are_alan_sanders_michael/ 
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2mk0qz/science_ama_series_im_temple_grandin_professor_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2mk0qz/science_ama_series_im_temple_grandin_professor_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this submission:
+
+http://www.reddit.com/r/science/comments/2ma43x/science_ama_series_were_scientists_and_clinicians/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ post your questions here:
+
+http://www.reddit.com/r/science/comments/2m6d68/science_ama_seriesim_david_dunning_a_social/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/science/comments/2lynp3/science_ama_series_ask_the_society_of/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi CowboyDan, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36jjnu/the_biggest_most_famous_study_used_in_support_of/).* 
+
+
+
+
+ Hi Vennilark, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36lupn/the_doomsday_vault_the_seeds_that_could_save_a/).* 
+
+
+
+
+ Hi ScottElliot, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36lvwz/scientists_examine_why_men_even_exist/).* 
+
+
+
+
+ Hi Jackass_WhispererD, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36m08b/the_dreadful_beauty_of_medusa/).* 
+
+
+
+
+ Hi CapnTrip, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36ln2z/developed_by_dutch_scientists_biocement_is_behind/).* 
+
+
+
+
+ Hi Jackass_WhispererD, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36luuy/scientists_try_to_get_to_the_root_of_the_spider/).* 
+
+
+
+
+ Hi zubinster, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36lyas/a_weak_handshake_is_not_necessarily_bad_news_for/).* 
+
+
+
+
+ Hi DumbCDA, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36kctk/controlling_the_last_known_cluster_of_ebola_virus/).* 
+
+
+
+
+ Hi Ted_Ranosa, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36kjnu/strange_trumpet_sounds_heard_over_us_canada/).* 
+
+
+
+
+ What an ugly interior. 
+
+
+
+
+ Hi crisprcas9, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36ctj3/nasa_tests_warp_drive_in_vacuum_with_success/).* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Even worse, some big name highly competitive chemists (I think it was Corey) would completely leave out critical steps in their procedures so that their competition *couldn't* reproduce it.
+
+Shameful it is.  
+
+
+
+
+ Chiropractary has never had any proof it belongs in medicine, as a field chiropractors reject evidence-based methodology, huge difference. 
+
+
+
+
+ In fairness, so does literally every other field of science, chemistry is struggling with the issue of reproducibility, as is biology and medical science.  The issue is reproducing others work isn't publishable, and if you aren't publishing in academia you are failing. 
+
+
+
+
+ Hi admin-mod, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/368xsa/physics_paper_sets_record_with_more_than_5000/).* 
+
+
+
+
+ Hi picu, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+This is an opinion piece, not research.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369kqy/the_ineffectiveness_and_unintended_consequences/).* 
+
+
+
+
+ Hi pktunstall, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3698ef/pill_of_superprotective_heavy_fat_may_be_key_to/).* 
+
+
+
+
+ Hi MysteriousAlchemist, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369kig/magnetar_near_galaxy_black_hole_surprises_with/).* 
+
+
+
+
+ Hi daledinkler, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369vkq/as_massachusetts_ecosystems_shrink_hardworking/).* 
+
+
+
+
+ Hi Sariel007, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36a3wm/stone_bracelet_is_oldest_ever_found_in_the_world/).* 
+
+
+
+
+ Hi thekingz40, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36aa4i/groundbreaking_cystic_fibrosis_drug_offers_hope/).* 
+
+
+
+
+ Hi lolitsaj, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369u8a/leatherback_turtle_with_a_damaged_beak_is_given/).* 
+
+
+
+
+ Hi itisike, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36a0yh/sex_equality_can_explain_the_unique_social/).* 
+
+
+
+
+ Hi VasanthAust, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369wxe/scientists_identify_the_worlds_first_warmblooded/).* 
+
+
+
+
+ Hi Jackass_WhispererD, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369odd/us_made_toysized_drones_will_be_used_for/).* 
+
+
+
+
+ Hi lnfinity, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/369p04/climate_change_mitigation_and_health_effects_of/).* 
+
+
+
+
+ Post your questions here:
+https://www.reddit.com/r/science/comments/365xeq/science_ama_series_im_luiz_rocha_an_ichthyologist/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Today we announce a new feature in /r/science, **Science Discussions**.  These are text posts made by verified users about issues relevant to the scientific community.  
+
+The basic idea is that our practicing scientists will post a text post describing an issue or topic to open a discussion with /r/science.  Users may then post comments to enter the conversation, either to add information or ask a question to better understand the issue, which may be new to them.  Knowledgeable users may chime in to add more depth of information, or a different point of view.  
+
+This is, however, not a place for political grandstanding or flame wars, so the discussion will be moderated, **be on your best behavior**.  If you can't disagree without being disagreeable, it's best to not comment at all.
+
+That being said, we hope you enjoy quality discussions lead by experience scientists about science-related issues of the day.
+
+Thanks for reading /r/science, and happy redditing!
+
+ 
+
+
+
+
+ ##**Science Verified User Program**
+
+/r/science has a a system of verifying accounts for commenting, enabling trained scientists, doctors and engineers to make credible comments in /r/science . The intent of this program is to enable the general public to distinguish between an educated opinion and a random comment without a background related to the topic. 
+
+
+#**What flair is available?**
+
+All of the standard science disciplines would be represented, matching those in the sidebar.
+However, to better inform the public, the level of education is displayed in the flair too. For example, a Professor of biology is tagged as such (Professor- Biology), while a graduate student of biology is tagged as "Grad Student-Biology." Nurses would be tagged differently than doctors, etc...
+
+We give flair for engineering, social sciences, natural sciences and even on occasion music.  It's your flair, if you finished a degree in something and you can offer some proof, we'll consider it.
+
+The general format is:
+
+Level of education|Field|Speciality or Subfield (optional)
+
+When applying for a flair, please inform us on what you want it to say.
+
+#**How does one obtain flair?**
+
+
+First, have a college degree or higher in a field that has flair available.
+Then send proof to the mods of /r/science .
+
+This can be provided several ways:
+
+1) [Message the mods](https://www.reddit.com/message/compose?to=%2Fr%2Fscience) with information that establishes your claim, this can be a photo of your diploma or course registration, a business card, a verifiable email address, or some other identification. All submissions will be kept in confidence and not released to the public under any circumstances. You can submit an imgur link and then delete it after verification. 
+
+Remember, that within the proof, you must tie your account name to the information in the picture.
+
+
+2) if you aren't comfortable messaging the mods with identifying information, you can directly message any individual mod and supply the information to them. Again, your information will be held in confidence.
+
+
+3) Send an email with your information to sciencereddit@gmail.com after messaging the mods to inform them of this option. Your email will then be deleted after verification, leaving no record. 
+
+This is convenient if you want to take a photo of your identification and email from a smart phone, for example.
+
+
+Thanks for making /r/science a better place!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Starting on April 22nd, PLOS and /r/science will begin a weekly AMA series as part of the Science AMA Series to bring authors from the PLOS journals to reddit.
+
+[See the announcement from PLOS here](http://blogs.plos.org/plos/2015/04/plos/)
+
+PLOS, an open access journal, and /r/science, which does public review of journal articles, makes for a great fit, one that we are excited to bring to our readers.  
+
+If you have suggestions or requests for AMAs from PLOS authors, email them to plosreddit@plos.org
+
+Tune in every Wednesday for a new PLOS AMA!
+
+ 
+
+
+
+
+ I've been trying to zone in on the fix for months, but I haven't had the time to really find the root cause. It's not the .organic-listing css, it's probably some inherited css from a different part of the stylesheet. 
+
+I'm sure it's obvious to one of you, help? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/32oan4/science_ama_series_we_are_charon_pierson_journal/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/31zpzy/science_ama_series_we_are_fred_whoriskey_and_sara/ 
+
+
+
+
+ First off, I don't think this can be done, but I'd very much like to be wrong.
+
+We in /r/science would like to track the number of readers who look at our AMAs, we get a lot of requests for the information and right now I have to email the admins and wait for them to get back to me with a number, I can't look at changes over time, or any other handy stats to let us know how people are using our AMAs. 
+
+If we could embed a smart pixel via CSS we could gather some data on this, but it appears that all of the images that the subreddit CSS pulls need to be hosted on a reddit server, which would make our tracking pixel just a pixel.
+
+Any thoughts on how to do this or am I stuck continually harassing people to get data?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please don't submit them either, we are committed to keeping /r/science a serious discussion of science.  We know reddit just loves a good prank, but there are many other places to do so.
+
+Yes, we totally hate fun.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2xwfrc/science_ama_series_im_chris_mason_assistant/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions to this link:
+
+https://www.reddit.com/r/science/comments/2xs3po/science_ama_series_im_dr_gail_murray_audiologist/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2xnvc1/science_ama_series_im_professor_paul_knoepfler/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2wazdg/science_ama_series_im_james_dyke_a_lecturer_in/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2w2jvw/science_ama_series_we_are_dr_sean_odonoghue_and/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+https://www.reddit.com/r/science/comments/2vn8fp/science_ama_series_hi_im_dr_kathy_crane_an/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post your questions here:
+
+http://www.reddit.com/r/askscience/comments/2verix/askscience_ama_series_im_monica_montano_associate/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post questions to this link:
+
+https://www.reddit.com/r/science/comments/2vaivo/science_ama_series_we_are_a_team_of_researchers/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hi reinikenface, your submission has been removed for the following reason(s)
+
+You have already submitted this, do not re-submit it.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39kioc/scientists_create_stretchy_lithiumion_batteries/).* 
+
+
+
+
+ I think next week, I'll send out a message. 
+
+
+
+
+ I'm going to go with 0% join for webinars, but I think they like to have a package of benefits to make it more appealing.  
+
+Honestly, the Webinar people are really good at setting these things up, and they get a bunch of good speakers. 
+
+
+
+
+ I believe they use it as a selling point for ACS membership.   
+
+
+
+
+ Hi canausernamebetoolon, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/39ftf0/ancient_dna_reveals_how_europeans_developed_light/).* 
+
+
+
+
+ We should get the authors to do a  PLOS Science Wednesday AMA! 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ I will be giving the general rationale for our efforts in /r/science and discussing how everything fits together for the [American Chemical Society's Webinar Series](http://www.acs.org/content/acs/en/acs-webinars.html)
+
+Register for the webinar here (note there is a limit of 1,000 registrations, after which the overflow goes to youtube:  
+
+http://www.acs.org/content/acs/en/acs-webinars/professional-development/digital-media.html
+
+If you're interested in seeing me talk, here is a short video interview the ACS put together with me covering the Science AMA Series as well:
+
+https://www.youtube.com/watch?v=DwrRzxSSdW0
+
+I hope everyone finds the discussion informative!
+
+Nate
+
+
+
+ 
+
+
+
+
+  Do you really believe they were ESSENTIAL for his success?
+
+Absolutely, I'm sure he'd say the same thing.  
+
+That doesn't diminish he hard work or his investment.  Without a market for Telsa's cars, he fails, and without the California Zero-emission tax credits, Tesla isn't even profitable.  There are stories told of how close Tesla was to going under, I believe a couple of months from not being able to make payroll (read bankrupt.)  
+
+Building PayPal is significantly easier than a car company, and the sale price of any internet-based company should be weighted carefully (How much did What's App sell for again?  Does anyone seriously think a mobile phone app was harder to develop that a car company? Luck  and a good idea is a huge part of the internet success, in fact luck is substantially under appreciated in business success.)
+
+Here's a story for you to read: [Tesla Is No Success Story
+Tesla is only profitable thanks to politics and tax subsidies.](http://www.usnews.com/opinion/blogs/economic-intelligence/2013/06/03/teslas-success-is-the-result-of-political-favoritism)
+
+Some quotes:
+
+Tesla Motors, the California-based electric car start-up, has been the subject of a great deal of hype. With the recent news that it repaid its $465 million low-interest loan from the Department of Energy, it's now being heralded as a success story worthy of redeeming the failures of a green-energy subsidy program that has included the likes of Solyndra, Abound, Ener1, and Fisker Automotive. Since then, Tesla's stock value has more than doubled and the company is currently valued at around $12 billion.
+
+and 
+
+Even with the support of federal and state politicians, Tesla would still be reporting losses were it not for its ability to profit off of other auto manufacturers in California. In the first quarter of 2013, Tesla reported its first-ever quarterly profit by using special credits from California's Air Resources Board, which rewards auto manufacturers for the production of "zero-emission" vehicles. So far this year, Tesla was able to turn what would have been a $57 million loss into an $11 million gain by selling $68 million worth of these credits to other auto manufacturers in California.
+
+
+Without a low-interest loan from the DOE, Tesla would have had some trouble getting started.  Sure he could have gone to venture capital, but they would have wanted a lot of control over the company, something Musk has been reported as being unwilling to give. 
+
+
+
+
+ PhD chemist here, you are right.  "Simple" things are months of work. 
+
+
+
+
+ You realize his efforts have gotten significant government support.  SpaceX is basically funded by a NASA contract, Tesla received a government-backed loan, and the sales of their cars are supported by a meaningful tax incentive.
+
+It is unlikely he would have made it without the government, so this is probably a case of a perfect counter example to the libertarian dream. 
+
+
+
+
+ Hi zubinster, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/39aq2r/a_nobel_prize_winner_made_some_really_sexist/).* 
+
+
+
+
+ The study is exactly the same, which is what we look at for reposts:
+
+http://www.nejm.org/doi/full/10.1056/NEJMoa1414850
+
+ 
+
+
+
+
+ https://www.reddit.com/r/science/comments/2wy2nd/to_fight_peanut_allergies_it_is_better_to_eat/?ref=search_posts
+
+5800 upvotes, posted Feb 23rd. 
+
+
+
+
+ Please conduct a search, the story is from February 2015, many months ago. 
+
+
+
+
+ Hi carlidew, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39afiq/feeding_babies_foods_with_peanuts_appears_to/).* 
+
+
+
+
+ Hi vlisingen, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39aco0/study_shows_more_than_half_of_life_science/).* 
+
+
+
+
+ Hi thavirg, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/399zza/economics_of_reproducibility_in_preclinical/).* 
+
+
+
+
+ You posted it 7 days ago.
+
+http://www.reddit.com/r/science/comments/387ucb/transient_decrements_in_mood_during_energy/ 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi dustofoblivion123, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+You have already submitted this, do not re-submit it.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39ac61/transient_decrements_in_mood_during_energy/).* 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for walcosolutions:
+
+domain submitted from|count|%
+:-|-:|-:
+[walcosolutions.com](/search?q=%28and+site%3A%27walcosolutions.com%27+author%3A%27walcosolutions%27+is_self%3A0+%29 restrict_sr=off sort=new)|7|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[news](/r/news/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|2|29%
+[science](/r/science/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|1|14%
+[Documentaries](/r/Documentaries/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|1|14%
+[todayilearned](/r/todayilearned/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|1|14%
+[worldnews](/r/worldnews/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|1|14%
+[education](/r/education/search?q=author%3A%27walcosolutions%27 restrict_sr=on sort=new)|1|14% 
+
+
+
+
+ Hi baraokobama, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39aahw/new_dinosaur_discovered_in_wales/).* 
+
+
+
+
+ Hi vlisingen, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39ac1c/metaanalysis_shows_therapy_can_be_more_effective/).* 
+
+
+
+
+ It's important to realize that, again, INCI names aren't chemical names, so several different materials can have the same name.
+
+For example, acrylates copolymer can be any from a list of acrylate monomers and literally any molecular weight above 1500 or so. 
+
+
+
+
+  put $1k towards a decent mortgage
+
+Anyone who is making that much doesn't has a mortgage payment much higher that $1000, $2000 to $3000 for the mortgage is a lot more realistic. If you don't have a mortgage payment, you probably pay cash for an M4 anyway.  
+
+That being said, you general analysis is correct, someone could in principle afford this, but it would be pretty dumb.  I believe most people who drive M cars lease them. (Assuming the majority of those with M cars aren't hobby racers.)  I suspect a majority of the people who drive them are business guys who want the appearance/status symbol. (that doesn't cheapen the car, just a society thing.)
+
+ 
+
+
+
+
+ Because INCI names aren't chemical names, they are a nomenclature of their own. 
+
+In this context "Alcohol" strictly means ethanol [as defined in the INCI database](http://www.cosmeticobs.com/pro/news/ingredient-of-the-month/alcohol-inci-alcohol-or-alcohol-denat-803) 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It has has been removed temporarily due to a lack of citations. Please add a comment with a direct link to the original research, then message the moderators for reapproval
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/391nw8/climate_plan_may_transform_us_power/).* 
+
+
+
+
+ Hi NinjaDiscoJesus, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/390i2q/placenta_eating_study_shows_no_benefits_just/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi garner_adam, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38wmk5/bright_light_helps_chickens_not_develop/).* 
+
+
+
+
+ Hi fandrei, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38w5i9/worlds_first_skullscalp_transplant_performed_in/).* 
+
+
+
+
+ Hi westmontblvd, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38wnz3/pluto_and_its_moons_are_weirder_than_we_thought/).* 
+
+
+
+
+ Hi baric82, your submission has been removed for the following reason(s)
+
+Images, videos, and blogspam are not allowed in this subreddit.  It might be suitable for /r/everythingscience.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38wdkx/ic_1101_the_largest_galaxy_in_the_observable/).* 
+
+
+
+
+ Hi hastasiempre, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38v10a/ejaculation_frequency_and_risk_of_prostate_cancer/).* 
+
+
+
+
+ Hi Teriyakuza, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38u3z7/nasa_has_unveiled_a_pluto_time_website_that_helps/).* 
+
+
+
+
+ Hi vlisingen, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38u06t/new_test_can_reveal_all_viruses_a_person_has_had/).* 
+
+
+
+
+ Hi torqueking, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38sgqo/fda_panel_of_advisers_recommend_approving_high/).* 
+
+
+
+
+ Hi dwainosaur, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38shtn/bizarre_balls_of_worms_form_on_road_after_texas/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi provoko, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38ji4f/epa_fracking_report_no_evidence_that_led_to/).* 
+
+
+
+
+ Hi westmontblvd, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38nor6/new_test_could_reveal_every_virus_thats_ever/).* 
+
+
+
+
+ Hi ahtisham-ahmed, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38nmrd/hubble_space_telescope_25_years_photographing_the/).* 
+
+
+
+
+ Hi Jabareks, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38nme2/scientists_create_a_labgrown_limb/).* 
+
+
+
+
+ Hi westmontblvd, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38nn1m/epa_study_fracking_can_contaminate_drinking_water/).* 
+
+
+
+
+ Hi bjqrn0, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38huiz/foreignborn_scientists_mobility_patterns_for_16/).* 
+
+
+
+
+ Hi mikey_croatia, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38eo1y/worlds_first_biolimb_rat_forelimb_grown_in_the_lab/).* 
+
+
+
+
+ Hi sargentodiaz, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38idwo/5_chemistry_breakthroughs_that_shaped_our_modern/).* 
+
+
+
+
+ Hi pilloried_santa, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38hgd8/national_parks_dont_help_prevent_deforestation/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi westmontblvd, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38i44h/cassini_spacecraft_snaps_new_photos_of_saturns/).* 
+
+
+
+
+ Hi westmontblvd, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/38i3xv/nasa_will_test_its_flying_saucer_today_and_you/).* 
+
+
+
+
+ I believe so, you can seriously injure yourself if you screw up.  I think 5 mL of methanol is all that it take to blind you.  
+
+Ethanol, you can drink an 8 oz glass and just have a bad headache the next day! 
+
+
+
+
+ Pretty much. 
+
+
+
+
+ Mercury is only used in one vaccination that children get, the DTaP, and the form used is not toxic to humans at anywhere near the concentrations used.
+
+You could drink elemental mercury and it would pass right through you, the salts are substantially more dangerous because they are far more readily absorbed. 
+
+
+
+
+ You are correct, they are both organomercury compounds, but different types.  Similar to ethanol and methanol, which are both alcohols, however they have drastically different toxicities.  A lot of ethanol os a drunken good time, 15 mL of methanol will kill you. 
+
+
+
+
+ [Today, the only childhood vaccines that have trace amounts of thimerosal are: one DTaP vaccine and one DTaP-Hib combination vaccine.](http://www.cdc.gov/vaccinesafety/Concerns/Thimerosal/thimerosal_faqs.html#f)
+
+So it's just the DTaP. 
+
+
+
+
+ Actually, they didn't.  Aluminum is in there as a [adjuvent]( http://en.wikipedia.org/wiki/Adjuvant) not a preservative, aluminum was already there. 
+
+
+
+
+ It's important not to propagate misinformation however.  Also, the mercury used at a preservative in vaccines is a different compound of mercury, and isn't nearly as dangerous to humans.  
+
+The mercury found in tuna, however, is more than a vaccination ever was and **is** the dangerous kind, methylmercury.  It's presence is largely the result of humans burning coal which releases mercury into the environment. 
+
+
+
+
+ Hi mikepetroff, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/38cw2z/chimpanzees_have_the_cognitive_capacity_for/).* 
+
+
+
+
+ There isn't mercury in vaccines anymore (with one exception). 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi webappy, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/38csfk/god_particle_machine_the_large_hadron_collider/).* 
+
+
+
+
+ 2011 article, it's not new. 
+
+
+
+
+ It is not the exact title, you edited it. 
+
+
+
+
+ Hi Cellularcapsule, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/382vlp/why_dont_we_get_more_cancer/).* 
+
+
+
+
+ It's working now. 
+
+
+
+
+ From an earlier post, here is a good summary:
+
+https://www.reddit.com/r/science/comments/37mo2h/generational_and_time_period_differences_in/croe4uq 
+
+
+
+
+ Hi NoHate31, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/382phv/a_bizarre_attack_on_the_freedom_of_scientific/).* 
+
+
+
+
+ Hi the_last_broadcast, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/382i3u/immunotherapy_the_big_new_hope_for_cancer/).* 
+
+
+
+
+ Hi tnick4510, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/382qty/quick_to_laugh_or_smile_it_may_be_in_your_genes/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi infaereld, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/380yrz/scientists_come_close_to_brewing_omega_3_in_lab/).* 
+
+
+
+
+ Oh he totally was, but Diaz looked worse, he looked inept.  It was the right response to Diaz's style, that's what you do to one dimensional fighters, take away their style. 
+
+
+
+
+ Condit was point-fighting Diaz, too.
+
+You could also look at this as exposing Diaz for being unable to adapt once his game plan was taken away from him.   
+
+
+
+
+ This is an opinion piece, not research. 
+
+
+
+
+ Source: graduate of one of the top parasitology universities
+
+Can we get you to verify this?
+
+https://www.reddit.com/r/science/wiki/flair
+ 
+
+
+
+
+ I'm actually going to an NSF-sponsored conference in July to basically do this. (I believe meta conversations are called "Communications" in academia!) 
+
+
+
+
+ At the American Chemical Society Meeting in March, I was interviewed about the Science AMA Series.  This is the video the ACS staffers put together, I thought people would be interested in seeing it.  
+
+
+Link to the video on youtube:
+
+https://youtu.be/DwrRzxSSdW0
+
+This is before a webinar I am giving covering science discussions on reddit:
+
+http://www.acs.org/content/acs/en/events/upcoming-acs-webinars/digital-media.html
+
+(I'll post a link to the webinar on the day of so that people can easily find it.)
+
+Hopefully reddittors find this interesting and informative as to our motivations and values. (spoiler:  we're pro-science!)
+
+Nate
+
+ 
+
+
+
+
+ Hi Short_Term_Account, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/37g8yt/2015_could_break_all_records_of_increasing/).* 
+
+
+
+
+ Way too much work for the admins to vet websites reddit wide, reddit is just too huge.  Also, if something bad would come up from a link on an "approved" site, would reddit still be able to claim safe harbor? 
+
+
+
+
+ Every single one of your comments in /r/science has been removed for breaking various rules, you've ranged the gambit from inane and off topic to homophobic and insulting.
+
+And now you're whining to strangers about how terribly oppressed you are.   
+
+
+
+
+ glib
+lib/
+adjective
+(of words or the person speaking them) fluent and voluble but insincere and shallow.
+"she was careful not to let the answer sound too glib"
+
+
+ 
+
+
+
+
+ Thanks.  In /r/science, we have an unusual situation in that we have an incredible number of mods, 814 last count, which gives us a lot of internal review of mod actions without the drama of having a public mod log or anything like that.  Because /r/science is one of the most moderated subreddits we get a people who post thinking it's any old sub that they can make their shitty, off-topic, political comments in and get away with it.  They can't (and should not be able to, frankly.)
+
+While we do have mods from many different back grounds, I assure you that we don't have a dramatic ideological bend beyond being pro-science, as in peer-reviewed science.  We aren't pushing any philosophical positions, mostly we try to keep them out.  That's why his comment was removed, he's making a glib comment that is pushing a personal position (which is seen in his previous comments.) 
+
+
+
+
+ In /r/science, the only time we look at behavior outside is to confirm a track record of poor behavior.  ( posting on a racist subreddit would tend to confirm that a user is a racist for example.) 
+
+
+
+
+ It's because of a history of bad comments by this user.  We give temp bans to get user's attention, nothing special here.  It was a shitty comment that offered little insight.   
+
+
+
+
+ He received a warning because of his history of bad comments, most of them have been removed for being overly hostile or political in nature.  It's not just this comment in isolation.  
+
+Sorry that we don't feel like getting into arguments with hostile users looking to screen shot our conversations for grandstanding.
+
+/r/science is not a free-speech subreddit, we have rules, we enforce those rules. 
+
+
+
+ 
+
+
+
+
+ He isn't banned, he's just not giving you the complete story, like leaving out the parts where he is reinstated and given a warning to make better comments in the future.  We issue short term bans to get people's attention, works doesn't it?
+
+Not as drama filled that way is it?  
+
+[Here's the real conversation](http://imgur.com/eYeAUpL)
+
+Note the bit he left out at the end.
+
+But by all means, don't let this interfere with your circlejerk and harassing messages. 
+
+
+
+
+ I wonder if they know Ben and Jerry's in owned by the Unilever Corporation, a publicly owned Anglo-Dutch Company. 
+
+
+
+
+ Hi Ah_You_So_Stupid, your submission has been removed for the following reason(s)
+
+It is not scientific in nature.  Posts must be about recently publish peer reviewed research.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36ztpb/guy_hover_boards_across_canadian_lake/).* 
+
+
+
+
+ Hi theredgiant, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36zqi8/a_cave_climbing_fish_found_shimmying_up_a_cave/).* 
+
+
+
+
+
+
+
+
+
+ When did tools become more sophisticated that broken rocks?  How long did the progression from simple tools to more complicated tools take?  (for example, an axe, or a knife with a handle.) 
+
+
+
+
+ If you find this type of discussion interesting, /r/AskAnthropology also exists.  
+
+ 
+
+
+
+
+ Hi oldlikeafinewine, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36zig0/hubble_has_found_strange_star_nicknamed_nasty_1/).* 
+
+
+
+
+ Hi oldlikeafinewine, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36zfoy/antarctica_region_once_thought_stable_suddenly/).* 
+
+
+
+
+ Hi CubicSatellite, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36w6mx/experiment_captures_first_image_of_thunder/).* 
+
+
+
+
+ Hi fcsuper, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36xpjx/future_spacecraft_could_be_oriented_with_photonic/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi Jackass_WhispererD, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36v2pt/scientists_obtain_new_viruses_bacteria_protozoa/).* 
+
+
+
+
+ Hi Jackass_WhispererD, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36v3kv/satellite_data_reveals_southern_antarctic/).* 
+
+
+
+
+ Hi SciPup3000, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36v40k/scientists_discover_that_instead_of_sampling/).* 
+
+
+
+
+ Hi crisprcas9, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36tgxg/wifes_3d_skull_printing_made_by_husband_allows/).* 
+
+
+
+
+ Is there a way to re-title things to make it less of an issue?  We can't add anymore categories as we are at the character limit for the sidebar, so that's not an option.  
+
+I created anthro as a separate sections because it tends to be more field work/lab work oriented than other fields in the social sciences, in particular Physical Anthro, which looks a lot like paleontology to the untrained observer.  Cultural Anthro and linguistics, sure, they could slot right into soc without issue.  
+
+And honestly, from my experiences, aren't all anthropology people just functional alcoholics?  Would they even notice? :-D 
+
+
+
+
+ We love all of our children equally.
+
+Quick count: 28 full mods.
+
+How many active full mods?  how about we change the subject?  I like turtles. 
+
+
+
+
+ Hi lejean2000, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/36r1xx/let_t_be_a_tile_in_zn_then_there_exists_a_d_such/).* 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for Albina_Moore:
+
+domain submitted from|count|%
+:-|-:|-:
+[rt.com](/search?q=%28and+site%3A%27rt.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|4|14%
+[wsws.org](/search?q=%28and+site%3A%27wsws.org%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|3|10%
+[opednews.com](/search?q=%28and+site%3A%27opednews.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|7%
+[tass.ru](/search?q=%28and+site%3A%27tass.ru%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|7%
+[sott.net](/search?q=%28and+site%3A%27sott.net%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|7%
+[washingtonsblog.com](/search?q=%28and+site%3A%27washingtonsblog.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|7%
+[truthdig.com](/search?q=%28and+site%3A%27truthdig.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[astrolabia.ru](/search?q=%28and+site%3A%27astrolabia.ru%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[paulcraigroberts.org](/search?q=%28and+site%3A%27paulcraigroberts.org%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[foreignpolicyjournal.com](/search?q=%28and+site%3A%27foreignpolicyjournal.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[cryptoplanet.ru](/search?q=%28and+site%3A%27cryptoplanet.ru%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[huffingtonpost.com](/search?q=%28and+site%3A%27huffingtonpost.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[inserbia.info](/search?q=%28and+site%3A%27inserbia.info%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[thefiscaltimes.com](/search?q=%28and+site%3A%27thefiscaltimes.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[redpilltimes.com](/search?q=%28and+site%3A%27redpilltimes.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[independent.co.uk](/search?q=%28and+site%3A%27independent.co.uk%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[itar-tass.com](/search?q=%28and+site%3A%27itar-tass.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[secretplanet.ru](/search?q=%28and+site%3A%27secretplanet.ru%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[consortiumnews.com](/search?q=%28and+site%3A%27consortiumnews.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+[en.itar-tass.com](/search?q=%28and+site%3A%27en.itar-tass.com%27+author%3A%27Albina_Moore%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|3%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[worldnews](/r/worldnews/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|11|38%
+[news](/r/news/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|9|31%
+[MH17](/r/MH17/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|4|14%
+[creepy](/r/creepy/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|2|7%
+[Novorossiya](/r/Novorossiya/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|2|7%
+[science](/r/science/search?q=author%3A%27Albina_Moore%27 restrict_sr=on sort=new)|1|3% 
+
+
+
+
+ It's the first post to 50 votes, not the first post. 
+
+
+
+
+ Hi drewiepoodle, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+Although this was posted first, the other submission hit 50 votes first, which is the level at which we enforce the rule.
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36qh2e/octopuses_and_maybe_squid_can_sense_light_with/).* 
+
+
+
+
+ Hi pnewell, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+https://www.reddit.com/r/science/comments/36ntcu/bp_oil_spill_responsible_for_gulf_of_mexico/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36qqsr/study_links_dolphin_deaths_to_deepwater_horizon/).* 
+
+
+
+
+ Hi down_with_disease, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/36qrne/bats_treated_for_white_nose_syndrome_released_in/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Is that closer to rheology or tribiology? 
+
+(Like I said, I'm not the one who knows about this stuff, and it's the difference of slightly different orange backgrounds on flair, anthro used to be in soc, so there are probably anthro people with soc css classes.) 
+
+
+
+
+ Our resident anthropologists tell us that Linguistics is a subset of Anthro.
+
+http://www.aaanet.org/about/WhatisAnthropology.cfm
+
+Social Anthro, Physical Anthro, Archaeology and Linguistics.
+
+None of these are subsets of chemistry, so I don't have a knowledgeable opinion.
+
+  
+
+
+
+
+ Yup.  There isn't really an easy way to further break down the fields since people put their particular area, not a subfield in the text.  It would have to be done manually by someone familiar with the fields separating each out.  Some of them would be pretty hard to classify as well!  
+
+For example, we have people with engineering degrees who work on computer programs to analyze biology.  So which field are they in? 
+
+
+
+
+ It's under anthro, we follow the North American standard.
+
+I'll see about working up more specific data later tonight, this is jsut css classes, so it's very broad. 
+
+
+
+
+ You have env flair, environmental science, which is a green color, you must have the css turned off. 
+
+
+
+
+ We think of it as community moderation, the rules are written as objectively as possible and enforced by a group capable of dealing with a default, as is the mod to subscriber ratio in 1/10,000!
+
+A smaller group would burn out from too much work, this way no one person is critical, people can do as much as they want or as little. 
+
+
+
+
+ Also amusing, flaired users/total subscribers
+
+2769/8,260,948 (currently) = 0.0335% so a little over 3 hundredths of a percent. 
+
+
+
+
+ Some go in health, other go in epidemiology, it depends on what the best fit is. 
+
+
+
+
+ It's under bio.  It's the css flair class, not the flair text. 
+
+
+
+
+ http://www.reddit.com/r/science/about/moderators
+
+/r/science actually has more mods that all of the other defaults combined, currently around 800. 
+
+
+
+
+ That's some nice Excel work! 
+
+
+
+
+ Publish or perish is quite the incentive, especially on a publication going to a small journal that few will read anyway.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Users are invited to take part. 
+
+
+
+
+ The AMA is here: https://www.reddit.com/r/science/comments/3bi3d7/science_ama_series_im_professor_chris_french/ 
+
+
+
+
+ Hi _420CakeDay, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3bi6yy/rscience_is_reddits_largest_sub/).* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hi aranag, your submission has been removed for the following reason(s)
+
+It has has been removed temporarily due to a lack of citations. Please add a comment with a direct link to the original research, then message the moderators for reapproval
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3bi31q/computer_vision_and_mobile_technology_could_help/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ https://i.imgur.com/sAcMhgl.png 
+
+
+
+
+ That isn't his job now, http://www.monsanto.com/whoweare/pages/fred-perlak.aspx
+
+you just aren't familiar with what industrial scientists do! 
+
+
+
+
+ I'd like to get some of these industrial people to talk about something the grad students are really concerned with:  getting a job. 
+
+
+
+
+ No, but I've been working on getting big companies to join our discussions, and this sort of thing is completely outside of the traditional culture. Cultural change is hard, especially when you're talking to people in there late 50's/early 60's! 
+
+
+
+
+ We didn't, in my opinion that isn't controversial, or particularly relevant.  It's a difference of opinion.  If you're looking for an excuse to be upset, then there probably isn't any talking you out of it though. 
+
+
+
+
+ Based on the actual AMA, what are your thoughts? 
+
+
+
+
+ Things worked out pretty well, but I am tired now! 
+
+
+
+
+ Let me see what I can do, I'm at work and my image capture options are limited... 
+
+
+
+
+ This is exactly true, I emailed Janice Person in August of 2014 completely out of the blue with my "Come Talk to reddit" sales pitch.  I still have the email chain in our gmail account! 
+
+
+
+
+ Point them to our AMA Submission Guide!  We have a partnership with the ACS, so you can look forward to some quality AMAs from big name chemists (like Harry Gray!) 
+
+
+
+
+ It was just posted.
+
+ 
+
+
+
+
+ If only this was true, remember corporation are run by people in there late 50's/60's, they have never heard of reddit and took a lot of explaining.    
+
+
+
+
+ I agree, I want reddit to be a cross-cultural meeting place to discuss important issue in a civil manner.  Some people are more interested in putting on a display of anger, but that doesn't get anyone anywhere. 
+
+
+
+
+ In contrast to what the conspiracy people believe, corporations aren't really interested in reddit.  They are run by a generation that has largely never heard of reddit, convincing them that putting any effort into it was a challenge.  After that, corporation talk about things *forever* (I speak from experience here.)  
+
+Recall when people talk about small business being faster and more agile that big corporations?  This is what they are talking about. 
+
+
+
+
+ it is only kid gloves to people who can't contain their emotions, people who are used to having civil conversations do so without even thinking about.  There is never any need to be discourteous, just because that is routinely ignored on reddit doesn't make it ok. 
+
+
+
+
+ That is how it is, very few top scientists work in lab these days, the same is true in academia, Nobel prize winners don't do bench work, they write grants and give talks. 
+
+
+
+
+ We do let the votes work, on the questions that meet our publicly stated ground rules.  We have been doing this since January of 2014, these aren't new rules. 
+
+
+
+
+ My apologizes if I misinterpreted your comments, you may have noticed other comments around here, they aren't so nice.
+
+The fact is, I have spent months vetting this AMA, and we know who Fred is, I have contacts within the company and outside who give me information off the record, all of them say Fred is the guy to do this.
+
+All of the political stuff just tells me he can think on his feet, everyone knows he represents Monsanto, that's a given, but he is a scientist, not a MBA or a marketing person.  He may not be in lab now but he did his time which makes him one of us. 
+
+
+
+
+ whilr I can't require an answer to every question, does anyone doubt there will be far too many questions to answer?, I push all of our AMA guests to answer the top voted questions first. That seems to be the only fair way to go. 
+
+
+
+
+ We have rules, you chose to ignore them, next time you start by messaging the mods and establishing yourself.  Also, taking pot shots at us is crap. 
+
+
+
+
+ No, only ask questions that are civil and polite.  One can disagree without being disagreeable.  Anyone who can't frame their question without anger doesn't sufficiently understand the question! 
+
+
+
+
+ Asking a question in anger, or using humour, does not reduce the validity of the question
+
+It does get the question removed here, and now that you know the ground rules if you violate them you can't complain about your question being removed, since you made the choice to have it removed yourself.  Action = Consequence. 
+
+
+
+
+ We get those too, organizations doing official AMAs like this is much harder.  Lawyers and human resources are involved.  ugh. 
+
+
+
+
+ None of that means anything, of course he's a registered lobbyist, you have to do that to talk to politicians, there are legal requirements.  As for contributions, so what?  I've cut multiple checks to politicians, if I could afford to do it more I would, last time I checked that's how the American political system works: you support those who represent your point of view.
+
+"If any mods want my credentials on this feel free to e-mail me. "
+
+And you supplied your email address?  Nope.  So we can't email you, can we?  Also, everyone else making claims **follows the subreddit rules** which require you to get the flair before you make the claim.   
+
+
+
+
+ They do, and several have flair in /r/science.
+
+ 
+
+
+
+
+ This is none of those areas since it could not possibly be decades old.
+
+Also, it's our house, and our rules, those who wish to yell can start their own AMA series in their own subreddit. 
+
+
+
+
+ I respectfully disagree with you on this.  While he is certianly operations leader, his title that of a scientist.  Every corporation has a bevy of Vice-presidents, it's just a level.  All high-level scientists at science-based companies take on a public outreach function, that's how it is.  Of course this is about public relations, any public interaction necessarily is, that's the definition of talking to the public.
+
+Referring to veiled "credentials" also doesn't get you far here, users with credentials have flair stating such, which you have none.
+ 
+
+
+
+
+ I have had a year and a half to prepare for this, /r/science can handle it. 
+
+
+
+
+ I think we can be pretty sure that Monsanto's goal isn't to drive Indian farmers to commit suicide.  The whole concept doesn't pass the sniff test, it's just far to hyperbolic.
+
+From one of the links:
+
+For example, a 2012 paper in The Lancet that surveyed Indias suicide mortality rate noted: Studies from south India have shown that the most common contributors to suicide are a combination of social problems, such as interpersonal and family problems and financial difficulties, and pre-existing mental illness.
+
+So yeah, blaming GMO seeds for every suicide by a farmer since the mid-1990's is beyond misleading, it's unethical. 
+
+
+
+
+ Actually, reddit only gets AMAs from people trying to promote specific things, getting scientists has not been as easy.  Convincing corporations to take this risk has been very challenging, I've been working on this one for **18** months. 
+
+
+
+
+ Exactly.  Who would ever come talk to a group that just wants to yell at them? This is the basis of our civility requirement, in addition to it being the right thing to do. 
+
+
+
+
+ It's not to make them happy, it's to follow our rules. If users don't like our rules, they don't have to post questions.  
+ 
+
+
+
+
+ Could explain what that is? 
+
+
+
+
+ I can deal with, by removing the comment, and if needed banning the user. 
+
+This our house, we make the rules, and the rules are "be polite." 
+
+
+
+
+ The question if phrased correctly is fine, but that's the point, it needs to be phrased in a civil manner, minus the accusations. 
+
+
+
+
+ That's actually an example of a question that would be removed as uncivil because it is an accusation not a question, if you don't know how to ask the question with basic decorum, them you aren't qualified to be asking the question. 
+
+
+
+
+ For those of you who aren't aware, tomorrow's Science AMA is with Dr. Fred Perlak of Monsanto, a legit research scientist here to talk about the science and practices of Monsanto.
+
+First, thanks for your contributions to make /r/science one of the largest, if not the largest, science forums on the internet, we are constantly amazed at the quality of comments and submissions.
+
+We know this is an issue that stirs up a lot of emotion in people which is why we wanted to bring it to you, it's important, and we want important issues to be discussed openly and in a civil manner.
+
+Some background:  
+
+**I approached Monsanto about doing an AMA**, Monsanto is not involved in manipulation of reddit comments to my knowledge, and I had substantial discussions about the conditions we would require and what we could offer.
+
+We require that our AMA guests be scientists working in the area, and not PR, business or marketing people. We want a discussion with people who do the science.
+
+We offer the guarantee of civil conversation.  Internet comments are notoriously bad; anonymous users often feel empowered to be vicious and hyperbolic.  We do not want to avoid hard questions, but one can disagree without being disagreeable.  Those who cannot ask their questions in a civil manner (like that which would be appropriate in a college course) will find their comments removed, and if warranted, their accounts banned.  /r/science is a serious subreddit, and this is a culturally important discussion to have, if you can't do this, it's best that you not post a comment or question at all.
+
+Normally we restrict questions to just the science, since our scientists don't make business or legal decisions, it's simply not fair to hold them accountable to the acts of others.
+
+However, to his credit, Dr. Perlak has agreed to answer questions about both the science and business practices of Monsanto because of his desire to directly address these issues.  Regardless of how we personally feel about Monsanto, we should applaud his willingness to come forward and engage with the reddit user base.
+
+The AMA will be posted tomorrow morning, with answers beginning at 1 pm ET to allow the user base a chance to post their questions and vote of the questions of other users.  
+
+We look forward to a fascinating AMA, please share the link with other in your social circles, but when you do please mention our rules regarding civil behavior.
+
+Thanks again, and see you tomorrow.
+
+Nate 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2l5d/african_lion_populations_down_42_percent_in_past/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://redd.it/3b23ig
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2lvo/behemoth_bleeding_atmosphere_around_a_warm/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://redd.it/3b0hwi
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2lr1/observations_of_one_billion_years_after_big_bang/).* 
+
+
+
+
+ Please read the rules for submissions, we require initial publication dates within the past 6 months. 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://redd.it/3b18vk
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2lgr/newly_found_ring_of_teeth_uncovers_what_common/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://redd.it/3aq8en
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2kh3/extreme_temperatures_linked_to_changing_air/).* 
+
+
+
+
+ Hi sciencenewser, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://redd.it/39pq8u
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b25i1/autism_associated_with_superior_visual_skills_in/).* 
+
+
+
+
+ Hi -Versace-, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2jtf/condom_that_change_color_with_std/).* 
+
+
+
+
+ Hi CuilRunnings, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3b2l69/blacks_and_hispanics_devote_larger_shares_of/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi Dr_love44, your submission has been removed for the following reason(s)
+
+It has has been removed temporarily due to a lack of citations. Please add a comment with a direct link to the original research, then message the moderators for reapproval
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3b171v/face_of_bizarre_sea_creature_revealed/).* 
+
+
+
+
+ Hi Zear-0, your submission has been removed for the following reason(s)
+
+It has has been removed temporarily due to a lack of citations. Please add a comment with a direct link to the original research, then message the moderators for reapproval
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3b24ap/radiation_shielding_system_using_a_composite_of/).* 
+
+
+
+
+ Hi sunshineboy89, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3axp0u/netherlands_ordered_to_cut_greenhouse_gas/).* 
+
+
+
+
+ Hi sup3r_hero, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3ay2zo/meta_study_children_of_samesex_parents_experience/).* 
+
+
+
+
+ Hi Tpainguin, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3awtgi/smart_insulin_patch_could_revolutionize_glucose/).* 
+
+
+
+
+ Hi Bloomsey, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3axqy4/using_nanofibers_to_deliver_vitamins_at_the/).* 
+
+
+
+
+ Hi Lakburg, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3awgvw/bacteria_implicated_in_development_of_colon_cancer/).* 
+
+
+
+
+ Hi Sevensheeps, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3axldi/scientists_have_invented_a_lowcost_water_splitter/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi dragonphoenix1, your submission has been removed for the following reason(s)
+
+This is a review, not new research, and therefore not within the scope of /r/science
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3auapa/a_global_taskforce_of_174_scientists_from_leading/).* 
+
+
+
+
+ Sometimes people misread things or something of that type as well.
+
+Also, occasionally people are just wrong regardless of education level. 
+
+
+
+
+ Yes, but it depends, sometimes one person is horrifically wrong. 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ I just spent the cash to rebuild the transmission in my E61, it was expensive ($3700) but I looked around and there wasn't another wagon that was comparable for close to the cost.  The Audi Avants are still around, but rare, especially used.  
+
+
+
+
+ Perhaps! 
+
+
+
+
+ Hi Ragnarokcometh, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3au5rq/a_cocktail_of_50_common_chemicals_some_found_in/).* 
+
+
+
+
+ Hi ubculled, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3au8hz/mindreading_program_translates_thoughts_into_text/).* 
+
+
+
+
+ It's a more general statement than the article presents, which is case study.  
+
+
+
+
+ Hi NinjaDiscoJesus, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3atoa3/skinny_jeans_can_seriously_damage_muscles_and/).* 
+
+
+
+
+ We ask a mod who has expertise in the area to weigh in. 
+
+
+
+
+ Hi burtzev, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://www.reddit.com/r/science/comments/3ata2c/study_suggests_sense_of_smell_is_strictly_personal/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3atjiu/individual_olfactory_perception_reveals/).* 
+
+
+
+
+ Hi MrHedgehogMan, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3at43b/interstellar_should_be_shown_in_school_lessons/).* 
+
+
+
+
+ Hi RogerPink, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://www.reddit.com/r/science/comments/3ahfi2/first_molecular_movie_reveals_ultrafast_chemistry/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3atuwe/making_a_molecular_movie_with_x_rays/).* 
+
+
+
+
+ Hi riedmae, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3atn03/study_on_whats_decimating_the_bees_crop/).* 
+
+
+
+
+ Hi FelcherFrumCranston, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3atho7/a_17yearold_invented_an_ingenious_way_to/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ If both users have relevant flair, then presumably the answer isn't clear, which happens in science all of the time, that's why we run experiments! 
+
+
+
+
+ I am a mod for science and AskScience, and we are aware of this issue.
+
+This is one of the reasons we have flaired users, you can judge how relevant their expertise is, or if they have any at all.  The general user doesn't have the background to judge the quality of the references or the argument, so they aren't using that.  Flair gives them something else factual to go by.
+
+Further, if on of our flaired users tells us as comment is inaccurate, we delete the entire comment thread.  It doesn't matter how many votes the comment has.  We can't be experts in everything, but at this point we have experts available covering almost everything.
+
+ 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for sharpeh7:
+
+domain submitted from|count|%
+:-|-:|-:
+[knightoptical.com](/search?q=%28and+site%3A%27knightoptical.com%27+author%3A%27sharpeh7%27+is_self%3A0+%29 restrict_sr=off sort=new)|3|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[science](/r/science/search?q=author%3A%27sharpeh7%27 restrict_sr=on sort=new)|1|33%
+[Futurology](/r/Futurology/search?q=author%3A%27sharpeh7%27 restrict_sr=on sort=new)|1|33%
+[Foodforthought](/r/Foodforthought/search?q=author%3A%27sharpeh7%27 restrict_sr=on sort=new)|1|33% 
+
+
+
+
+ [Please verify claims of degrees in /r/science](http://www.reddit.com/r/science/wiki/flair) 
+
+
+
+
+ Correct, this isn't peer-reviewed. 
+
+
+
+
+ Hi iphone1234567891011, your submission has been removed for the following reason(s)
+
+It has a sensationalized, editorialized, or biased headline.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3am9ky/japan_scientists_achieve_breakthrough_in_cancer/).* 
+
+
+
+
+ Hi Noticemenot, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3ambeq/poaching_has_reached_an_alltime_high_96_elephants/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://www.reddit.com/r/science/comments/3adbeq/dna_from_elephant_tusks_reveals_poaching_routes/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3ain2g/dna_from_elephant_tusks_reveals_poaching_routes/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://www.reddit.com/r/science/comments/3ac671/saharan_silver_ants_can_control_electromagnetic/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3aijx1/silver_hairs_keep_desert_ants_cool/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+http://www.reddit.com/r/science/comments/3aejif/animal_psychology_signs_of_democracy_seen_in/
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3aijji/signs_of_democracy_seen_in_typically/).* 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for climfroid1973:
+
+domain submitted from|count|%
+:-|-:|-:
+[youtube.com](/search?q=%28and+site%3A%27youtube.com%27+author%3A%27climfroid1973%27+is_self%3A0+%29 restrict_sr=off sort=new)|13|81%
+[clubchillercontrol.blogspot.com](/search?q=%28and+site%3A%27clubchillercontrol.blogspot.com%27+author%3A%27climfroid1973%27+is_self%3A0+%29 restrict_sr=off sort=new)|2|13%
+[masabihaddoja.blogspot.com](/search?q=%28and+site%3A%27masabihaddoja.blogspot.com%27+author%3A%27climfroid1973%27+is_self%3A0+%29 restrict_sr=off sort=new)|1|6%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[videos](/r/videos/search?q=author%3A%27climfroid1973%27 restrict_sr=on sort=new)|12|75%
+[science](/r/science/search?q=author%3A%27climfroid1973%27 restrict_sr=on sort=new)|4|25% 
+
+
+
+
+ Hi Sybles, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3aikjz/scientists_explain_why_watching_internet_cat/).* 
+
+
+
+
+ Hi CarmineFields, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3ah6i5/horizontal_gene_transfer_means_dna_can_jump_from/).* 
+
+
+
+
+ Hi Yojimbe, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3aet4q/study_finds_that_generally_speaking_kangaroos_are/).* 
+
+
+
+
+ Hi godsenfrik, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3aeogp/kangaroos_are_lefthanded_in_contrast_to_humans/).* 
+
+
+
+
+ Hi Alantha, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/3aeegp/kennewick_man_sequencing_points_to_native/).* 
+
+
+
+
+ Hi NYPDestrian, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3acsuy/diet_that_mimics_fasting_appears_to_slow_aging/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ I'm pretty sure I'm the only one who organizes AMAs on /r/science :-)
+
+This also puts me is a strange position of being the only one who speaks to the scientific community about reddit and social media. 
+
+
+
+
+ I understand they release quite a few as well, but I don't know, I'm just asking. 
+
+
+
+
+ The Cayman Islands have two industries:  international banking and turtle farming.  The banking part clearly doesn't factor in here, but how important are the efforts of the turtle breeding program there?  Is this a drop in the bucket or a huge aspect?
+
+If any one is interested in the turtle farm, [here is their website](http://www.turtle.ky/) 
+
+
+
+
+ Hi absurdologist, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3a9nhj/new_font_shows_people_what_its_like_to_have/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi vlisingen, your submission has been removed for the following reason(s)
+
+It is a repost of an already submitted and popular story.
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3a5v5g/new_nasa_data_show_human_consumption_has_depleted/).* 
+
+
+
+
+ When I was a much younger chemist, I briefly considered research in to antimalarial drugs on a non-profit basis.  It didn't work out for other reasons, but I still wonder on occasion if the model of writing grants for supporting a non-profit organization geared towards new treatments of diseases that primarily affect the world's poor is viable. 
+
+I know that the pharma companies haven't ignored new antibiotics, it's just a really hard area (I think it was Eli Lilly that dropped several hundred million dollars into an effort and came up empty handed.)
+
+ Would the funding structure be aimed at existing for-profit and academic institutions or is there a way that overhead costs could be covered by this funding?  
+
+
+ 
+
+
+
+
+ Hi madamecurie2, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3a5kvj/a_group_of_students_in_copenhagen_is_trying_to/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ Hi rationalbiped, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/3a0v8p/the_little_boy_who_shouldve_vanished_but_didnt/).* 
+
+
+
+
+ I have a couple in Wissahickon and in Belmont (from a Thursday Night Ride) on my MTB, and a few top-3 on SRT, I swear the top rides people taking advantage of GPS bugs! 
+
+Sadly I no longer live in the area, so my times will eventually be passed. 
+
+
+
+
+ Hi pierredickson, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39wxiq/top_3_questions_people_ask_an_astrophysicist_and/).* 
+
+
+
+
+ Hi DanielAzimuth, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39x2y1/italian_neurosurgeon_to_attempt_first_head/).* 
+
+
+
+
+ Hi Sourcecode12, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39wp5k/scientists_film_death_of_white_blood_cell_for/).* 
+
+
+
+
+ Hi du_hagen, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39wzxs/mexico_prepares_for_its_first_moon_mission/).* 
+
+
+
+
+
+
+
+
+
+ Recent Submission history for MAICKZ03:
+
+domain submitted from|count|%
+:-|-:|-:
+[self.hearthstone](/r/hearthstone/search?q=%28and+author%3A%27MAICKZ03%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[hearthstone](/r/hearthstone/search?q=author%3A%27MAICKZ03%27 restrict_sr=on sort=new)|1|100% 
+
+
+
+
+ Hi LuckyBdx4, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/39wiq4/asbestosrelated_cancer_treatment_breakthrough/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+ High pH causes burns too.   
+
+
+
+
+
+
+
+
+
+ Recent Submission history for williamamstrong675:
+
+domain submitted from|count|%
+:-|-:|-:
+[self.askscience](/r/askscience/search?q=%28and+author%3A%27williamamstrong675%27+is_self%3A1+%29 restrict_sr=on sort=new)|1|100%
+
+subreddit submitted to|count|%
+:-|-:|-:
+[askscience](/r/askscience/search?q=author%3A%27williamamstrong675%27 restrict_sr=on sort=new)|1|100% 
+
+
+
+
+ Hi skoalbrother, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20http://www.reddit.com/r/science/comments/39sx89/if_it_succeeds_the_international_thermonuclear/).* 
+
+
+
+
+ Most of the time you can do that, some times the walls were put up after the tub was put in, and that's not an option!
+
+Also, tubs are heavy, bits of a tub lesser so. 
+
+
+
+
+ I thought the way you removed an old iron tub was to smack it with a sledge hammer to shatter it. 
+
+
+
+
+ Hi PedroDaGr8, your submission has been removed for the following reason(s)
+
+It does not include references to new, peer-reviewed research. Please feel free to post it in our sister subreddit /r/EverythingScience. 
+
+
+
+*If you feel this was done in error, or would like further clarification, please don't hesitate to [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2FScience message=My%20Post:%20https://www.reddit.com/r/science/comments/39kvky/this_mans_blood_has_saved_2_million_babies/).* 
+
+
+
+
+ Science AMAs are posted early to give readers a chance to ask questions and vote on the questions of others before the AMA starts. 
+
+Guests of /r/science have volunteered to answer questions; please treat them with due respect. Comment rules will be strictly enforced, and uncivil or rude behavior will result in a loss of privileges in /r/science.
+
+If you have scientific expertise, please verify this with our moderators by getting your account flaired with the appropriate title.  Instructions for obtaining flair are here: [reddit Science Flair Instructions](http://www.reddit.com/r/science/wiki/flair) (Flair is automatically synced with /r/EverythingScience as well.)
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

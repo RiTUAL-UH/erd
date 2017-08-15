@@ -1,0 +1,1340 @@
+ Hey everyone! So, I recently picked up my weber performer, and along with it my wife got me a smokenator 1000, and I grabbed a pitmaster iq110. Because it's a performer, it has ash catching hardware on the bottom, so I have to install the iq110 manifold off to the side somewhere.
+
+Once I have it installed, is there a particular side I should set up the smokenator in relation to it? Should the air intake be below the smokenator, or should it be on the opposite side? 
+
+
+
+
+ Hey everyone!
+After 3 years of eyeing it, I finally picked up a Weber performer gold last week, along with a smokinator 1000, an IQ110 temperature controller, a maverick et-733, and a bunch of other toys. We broke it in with some t-bone steaks, burgers, and dogs (totally traditional!). Hands down the best T-Bone I've ever had (brought it slowly up with indirect, and then seared for about 2 minutes one each side to finish and bring to final temp). It was like butter!
+
+I've been using on using royal oak hardwood lump charcoal for grilling, and plan to use stubbs all natural briquettes for long slow stuff.
+
+I am going to be smoking a Boston butt monday for dinner for the week (overnight dryrub sunday into monday early AM, then applewood smoking).  Since I haven't used it yet due to mother nature being uncooperative, I've been watching videos of folks using the smokinator with the same cut. In most, folks are mentioning a smoke of about 8-10 hours, but then in [this one](https://www.youtube.com/watch?v=0VdxA5BntFs) he goes almost 16 hours. This is what brought about my question.
+
+How do you know how long to smoke the meat? When it hits the target (190 ish) shouldn't you remove it? The guy making the video says in the beginning he's expecting a 16 hour smoke - how does he come up with that? It's probably a simple question but the times seem to be all over. If it's based on weight, a lot of the cuts seem to be about the same size range (8-10lbs), so why the difference in times? How do you plan for it? 
+
+
+
+
+ Hey everyone. I am looking to start purchasing some bullion with bitcoin. So far the options seem to be amagi metals, agora commodities, coinabul, and bitgilt (if I don't mind waiting for overseas shipping and feel lucky about customs).
+
+Has anyone dealt with any of these companies? I see lots of negatives posted about coinabul. I also see complaints about Amagi shipping VERY slowly. I can't find out much of anything about Agora, or overseas shipping with bitgilt.
+
+So, does anyone have any others that they use and know to be reliable? 
+
+
+
+
+ Just checking out the price and it seems to have dropped a good bit over the past day. What gives? Is it a big selloff? Or is it from the bitcoin price going up against the dollar and doge, while doge more or less keeps steady against the dollar?
+
+Not scurrd, I'm still long with doge, just curious what everyone is thinking. 
+
+
+
+
+ Pretty simple. I have about 30 or so hits which have been sitting as pending for several months (3+ months). What recourse do I have to get the money I earned? Can I report them for non-payment? 
+
+
+
+
+ Hey everyone (sorry for the periods in the title, automod has a bug up its ass).
+
+Since I can't mine anymore and I refuse to buy asics (single purpose hardware is a waste, and honestly just contributes to trash heaps), I have been investing my coins into several projects to earn a return on my investment. I saw that doge d.i.c.e and just d.i.c.e both allow you to invest in the house, earning a 1% return over time. Have any of you played with it? Have you had success?
+
+Are there any other places where you can earn interest off of your coins that you are using?
+
+The one other place I've been using is a bitcoin arbitrage company which gives about a %1.2 return daily. 
+
+
+
+
+
+
+
+
+
+ Hey everyone. I have a paper wallet which I'd like to cash in. Right now I don't have access to my main litecoin client, so I was hoping I could create an online wallet and import it, or get an android wallet and import that way. Can anyone suggest a method for doing it? Downloading the full client isn't an option at the moment because our workplace doesn't allow much outbound connectivity. 
+
+
+
+
+ Pretty simple! I would need to get at least 500 made. Most likely the end price would be 15-20k doge including shipping. 
+
+
+
+
+ Hey everyone. We are currently using an oracle-backed database solution for a product we purchased from a vendor. We received their IOPS estimate based on a spreadsheet and built our SAN to match their estimate. We have 2 2-node RAC clusters, running dataguard between them.
+
+We are looking to perform an augmentation to handle additional customers on this database, but the vendor can't provide additional hard numbers for us to go on. So, what I want to do is look at our current number of customers and the current peak IOPS, and then extrapolate that out to our new number of customers and what we estimate IOPS to be.
+
+The problem I'm running into is that AWR reports don't seem to work right in RAC (awrrpt.sql seems to report back very small numbers). So, for either of those RAC clusters, how can I get real IOPs to/from the SAN? Oracle is the only thing using it.
+
+I hope there's enough info here, I'm still somewhat new with Oracle.
+
+I found this script: http://srivenukadiyala.wordpress.com/2011/03/04/calculate-iops-for-a-rac-database/
+but it doesn't seem to work :( 
+
+
+
+
+ Hey everyone. We have a large oracle database deployed (it's bundled in a vendor's software). The vendor provided storage requirements in terms of IOPs, and I scaled the storage solution appropriately given only that requirement.
+
+We are now preparing to augment our storage in anticpiation of additional workload. According to the vendor, we should be ok. However, to be frank, they're basing every one of their numbers on a spreadsheet, and they can't explain how they arrive to a lot of them. This is a big red flag for me.
+
+What I want to do is look at the current IO utilization of the SAN, compare that to the number of users we have provisioned, and from there hopefully extrapolate approximately what our utilization will look like after the augment.
+
+So, how can I best get an IOPs number for a SAN volume mounted to a system that is currently being used by a database? 
+
+
+
+
+
+
+
+
+
+ Hey everyone! With the halvening come and gone now, remember, even though we may not be showing up in a lot of profitability lists for multipools, they still have significant piles of coins sitting and waiting to be exchanged. So, before you panic buy/sell make sure that you give the market a few days to adjust. 
+
+
+
+
+ Well, it has been a ton of fun folks, but with this halving I will now be losing about 5$ a day thanks to power. I just want to say it's been a ton of fun, and I've really enjoyed mining doge. I also really want to thank the folks at teamdoge for everything.
+
+At this point I'm either switching to a multipool or going to hop from crapcoin to crapcoin and see what profitability i can find. Given scrypt asics coming out, I don't see myself mining too much longer, and none of the scrypt-n coins seem to be very effective to mine.
+
+So thank you all for the fun, I loved mining. At this point I've got my nice pile of doge that I'll be holding on to until I find something REALLY COOL I want to buy :)
+
+Don't worry though, I'll be sticking around the sub because once a shibe, always a shibe :) 
+
+
+
+
+ Hey everyone!
+A few months ago we ended up pulling down an old flourescent tube fixture. I don't have measurements at the moment, it looks to be about 30 inches long but I could be misremembering. I'd like to pull the fixture apart and clean it. Then, I'd like to get some grow lights to help start seedlings. Are there any concerns about doing this? I know you're supposed to keep the light somewhat close to the starting tray to help provide a little warmth. Does light color matter, or can I just use any grow light? Should I use a 24x7 exposure to get them to sprout and then switch to something like 18 on 6 off for initial vegetative growth?
+
+Any help would be awesome. 
+
+
+
+
+ So, the last halving saw the price skyrocket leading up to the actual day of the halving. Folks were convinced that halving the supply of new coins would lead to fantastical increases in price.
+
+Why the different behavior now? Do you think it's a function of muppet investors getting burnt once so they're staying out? 
+
+
+
+
+ I haven't been able to find this. I know Kraken has it on the "to do" list, and so far I think the only exchange that features it is BTer. So, does anyone know if it's supported? Is it planned? 
+
+
+
+
+ Just curious about this one. As I start to near 1m doge, I'm thinking about what to do with them. I don't buy much, and none of the current vendors seem to have things I want. So, I'd like to spend the doge doing things that can actually help spur on our economy, help communities, etc, but earn a profit on investment too.
+
+Are there any groups out there that actively do this? 
+
+
+
+
+ Let's make some friendly guesses!
+
+I'm thinking we'll top out near 300 satoshi this time around. Just a leeeeeeeeetle bit higher than last time, but not too much. What do you think?? 
+
+
+
+
+
+
+
+
+
+ I know I've seen a few services where you send someone a link to an item with shipping information, and they purchase it for you with doge. Has anyone used any of these services? Are they reliable? Can anyone recommend any? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So, if I remember correctly, 1.6 is based on bitcoin .9. Bitcoin has stated that that version of the client was impacted, and has released 0.9.1. Due to the way heartbleed impacts the wallet-qt app, it could allow for coins to be stolen.
+
+Are we going to see a patched version of our wallets anytime soon?
+
+https://bitcointalk.org/index.php?topic=562400.0 has more information. Exploiting it requires rpcssl to be enabled. But if it is, you have to consider your wallet to be compromised. 
+
+
+
+
+ Now that we can see that ASICs are here in force, can we have a serious discussion about merging or changing PoW? Because I'd like my million+ doge to be worth something in 3 weeks.
+
+Yes, that sounds snarky, and yes, I fully intend it to sound that way. For months people have been trying to warn the community that something significant has to be done to make ourselves resistant to both multipools and to ASICs, but usually the cop-out response is "but it's hard!" or "Doge will be mined out before ASICs are a problem!" The latter is patently wrong. The former, well, is it better to avoid something hard, or have our coin be worthless in 3 weeks because one pool will control nearly 60% of our hashrate and no one can verify that any of our transactions are real?
+
+1.6 was a band-aid. Instead of doing something significant, we changed our algo to allow for faster re-targeting of difficulty, to accomodate multipools entering and leaving. It got rid of a symptom, but not the cause. A cause that now controls more than half of our network.
+
+[As of today, wafflepool controls 53% of our network hashrate](https://pools.rapidhash.net/pool/5). That means, if waffle was malevolent, he could start blocking transactions and initiating double spends. He controls this much thanks to sfire, a large chinese GPU farm that is now getting into ASICs, and is only going to have more in the future. Oh, and he's joked about doing a 51% attack against coins before. When we have a halving in 3 weeks, a number of miners, myself included, will be leaving because we're already barely breaking even for our costs. That means that sfire will control significantly more of the network hashrate.
+
+So, can we please start considering the options that people always balk at because "they're hard!" Things like changing PoW so we're not scrypt compatible and most miners/asics aren't compatible with us. Or are we just going to stand by and watch as our coin plummets to 0 because we refuse to do something because it's difficult? We can keep choosing to "see what happens" until our coin dissolves in front of us, or we can actually do something.
+
+I for one would like to do something. 
+
+
+
+
+ Right now we are essentially getting spammed with repeat threads showing a lot of ignorance, half-truths and FUD. It would be very helpful if we could have a sticky that dispelled that. 
+
+
+
+
+ So, I've been piling up doge for about 3 months now, but I haven't spent a whole lot. Well, today that changed!
+http://saltsworldwide.com/buy/fleur-de-sel/
+
+Now if only there was a spice vendor that sold more than salt! :) 
+
+
+
+
+ Simple question - I see lots of API's for connecting to bitcoind/dogecoin-qt, but I can't find anything that lets you simply generate a public address/private key pair. Does anyone know of a library to do this?
+ 
+
+
+
+
+ Hey everyone! A few days ago there was a shibe from Belgium who was willing to purchase and ship goods directly (things like chocolate, beer, etc). I was wondering if there were any shibes doing that for the Netherlands??? I'd love to get some beer from Brouwerij 'T Ij! 
+
+
+
+
+ I'd like to investigate a non-3rdparty escrow system for a site idea I have. I know some systems out there for escrow (especially in darknet markets) are able to do multi-signature transactions. 
+
+Basically, you provide a private key to the escrow service, they send back a public address, you send the funds to the public address and the escrow service verifies that the funds are received, the vendor sends the product, the buyer confirms it, and then the funds are released to the seller.
+
+Here's a good writeup:
+http://bitcoin.stackexchange.com/questions/3718/what-are-multi-signature-transactions
+
+So, is this supported with dogecoin? 
+
+
+
+
+ I've been looking at the candlestick for cryptsy since last night, and unlike the other recent spikes, I don't see anything weird going on. It looks organic.
+
+So, what do you think? Is this the kickoff of the price increase before the halving as folks buy in? 
+
+
+
+
+ Hey everyone!
+I am looking at writing a program, but one of the things I'd like to do is execute trades. What exchanges support doge, and provide an API that allows you to sell via API calls?
+
+I know cryptsy will let you do it, what about others?? I'm a beginner so a well documented API would be hugely helpful 
+
+
+
+
+ So, is there anything like ebay/craigslist out there that can be used easily?
+
+Edit: I suppose I should be more specific - I am looking for non-registered businesses. Specifically, I'm looking to purchase gold and silver from folks who aren't looking to report it to the IRS :-P 
+
+
+
+
+ I just wanted to throw this out there - not all multipools are evil.
+
+Pools such as multipool.us, hashco.ws - they don't automatically convert to BTC unless you tell them to.
+
+The real problem we're seeing is multipools that **auto-exchange** for another coin. This causes prices to consistently drop on exchanges because coins are always being dumped at or below the current market price to ensure a quick sale. 
+
+
+
+
+ Simple!
+`use a backtick` to enclose whatever you want to write!
+
+`It` couldn't `be` e`a`s`i`e`r`! 
+
+
+
+
+ I'm curious about this. Yesterday I posted to find out who else was starting to get records in order in accordance with the IRS reporting requirements. I got downvoted to hell.
+
+This morning I posted a link to the IRS form 8300 with a warning that if a vendor fills out that form (usually it's for transactions over $10k, but it can be submitted for much smaller transactions, and is routinely done so by precious metal dealers) and submits it with your contact information and you don't report capital gains/losses on the sale, you could be in for an audit and potential legal trouble. Again, downvoted to hell.
+
+So, /u/ummjackson states that he welcomes regulation, but yet when the IRS regulates, the overwhelming sentiment from /r/dogecoin seems to be "ignore it! don't pay taxes!" 
+
+So, why is that? It seems like actively trying to flout the law is pretty un-shibe. Also, I'm pretty sure that telling people to do things that are illegal, like not paying their taxes, is also against reddit rules. 
+
+So, whats up shibes? Why the jump from "embrace regulation!" to "BOO REGULATION! DON'T PAY ANYTHING!"? 
+
+
+
+
+ It looks like hashco.ws is exploring payouts in other BTC currencies for folks who want to do auto-exchanging. Right now they're only working with Mintcoin, but you may want to send them feedback if you're one of the folks who wants a multipool that pays out in doge. 
+
+
+
+
+ [Let me introduce IRS form 8300.](http://www.fincen.gov/forms/files/fin8300_cashover10k.pdf)
+
+Basically, this form has to be filed by a business anytime that a monetary instrument (cash, bitcoins, dogecoins, goats, glass beads) is received in an amount larger than $10,000 USD, or in a series of smaller related transactions. It also can be reported if cash transactions are smaller at the vendor's discretion.
+
+So, where you should be concerned is if you're thinking "It's ok! I'm never converting to fiat, I'm just going to buy things and not worry about reporting!" Well, not so much. If the vendor chooses to report the transaction and you *don't*, the IRS now has a very good, clear reason to audit you. And if it shows up that you tried not to show them the earnings? Have fun getting arrested.
+
+If you want you can reach out to vendors who are either overseas, or who won't submit the form, but that's super shady and you could get burnt, but it could work.
+
+So, for all of the folks saying, "don't worry about reporting!" that's really not the case.
+
+For everyone overseas, well, you're lucky ducks! :) 
+
+
+
+
+ If anything, this may be one of the most important results from the IRS ruling yesterday. 
+
+The whole concept of 1 doge = 1 doge requires that dogecoin exist in a vacuum, where no other currencies exist. It assumes that no one will ever convert to other currencies, or should even compare the value to other currencies. The IRS ruling shatters that - the day coins are mined, they must immediately be given a base price in USD. 
+
+So, can we please, *PLEASE* stop yammering on about how 1 doge = 1 doge? 
+
+Or, is it better that people keep their head in the sand and end up getting audited and arrested because the dumb motto told them they didn't have to worry about the value in USD?
+
+IRS Ruling:
+
+http://www.irs.gov/pub/irs-drop/n-14-21.pdf 
+
+
+
+
+ Ugh, this sucks. 
+
+I mine both doge and btc. For the most part I hold doge, btc I convert to fiat (a small amount gets squirreled away to an offline wallet).
+
+Right now I'm putting together a spreadsheet of every disbursement I've ever received in btc/dogecoin, every transfer I've made, every transfer fee I've accrued, every time I've cashed out on coinbase, every fee from coinbase, every fee from the bank, etc. Next I have to look at my earnings each day, figure out what the "closing" cost of the coin was each day, figure out the Fair Market Value of that day's earnings, etc.
+
+These requirements are going to be a huge PITA. But, I'm doing what I've got to do to stay legal. I'm hoping I can take this to a financial advisor and find out the feasability of starting an actual business. It would be nice to write off the cost of my mining hardware and my power usage.
+
+Anyone else starting to go through this process? 
+
+
+
+
+ [Bitcoin-trader.biz](https://bitcoin-trader.biz/?ref=msarro) (yes, that's my ref link, feel free to crop off the =ref part on the URL).
+
+So, I have been looking into this site and I can't seem to find much information. I have an account, and again, the link above is a ref link, but I haven't used it yet.
+
+There are a couple comments about the site on a few forums from seemingly happy users, but that's about all I can find. There are also some videos on youtube talking about earning 10+ bucks a day off of it, but they seem to be folks fishing for referrals.
+
+They seem to emphasize referrals and downlines which has me concerned that part of their sexy payouts is a ponzi scheme. Their daily earnings for the trading pool over the past 20 buziness days average around 1.241%. That would put you at around 29$ for every 20$ invested over the 120 day term. I'm not sure if the mining pool is worth it since it's returning .6% on investment daily right now.
+
+So, has anyone used them? Any success or horror stories? If you want to play around with it, feel free to use the ref link above or just go to bitcoin-trader.biz and check it out. 
+
+
+
+
+ 100000 doge!
+I'm just testing to see if there are bots that are looking for the [GIVEAWAY] tag. Please don't post if you're a human. 
+
+
+
+
+
+
+
+
+
+ So, I understand that it gets rid of "gaming" block rewards. It also allows difficulty to be rapidly re-targeted.
+
+However, per the owners of several multipools, they're not planning to stop mining doge, it just becomes "another scrypt coin" that can't be gamed. So, it seems like all of these "goodbye multipools!" threads are a bit misguided.
+
+Is there something else in 1.6 which will actively prevent multipools? 
+
+
+
+
+ I just want to give you all a big virtual high five. After recent constructive criticism about no organized press releases when we meet big goals, I logged in today to see several. A bunch of shibes stepped up to spearhead getting it done, and folks took those releases and put them out to the news. And guess what? We are showing up!
+
+I'm on the board of directors for a nonprofit, and the biggest problem we have is getting people to follow through on good ideas. Folks always have the best intentions, but a lot of times people don't follow through to get things done. You guys give me faith that those folks that can get things done really are out there.
+
+I am so proud to be a part of this community! 
+
+
+
+
+
+
+
+
+
+ Hey everyone. For a long while I've been interested in woodworking, and have been slowly trying to outfit a workshop. So, I think I'm about ready to take the plunge as soon as I can locate a scroll saw.
+
+Are there any good starter kits to cover the basics? I'm familiar with how a lot of the tools work, but I'm by no means an expert, especially when it comes to building jigs and stuff.
+
+As a first real project, I want to build my wife a puzzle box. Specifically, something like this:
+http://www.youtube.com/watch?v=BWNSXyRO5nE
+
+I can't find plans for it, so I am working with sketchup to build it from the ground up. My wife's dad is a mechanical engineer, so I'll probably have him looking over my shoulder. So, do you think I'm jumping in too deep for a first project? Should I find some woodworking "kits" to work on first before trying to build my own thing? 
+
+
+
+
+ So, I have a weird issue where aggressive config settings cause sgminer to crash at launch (specifically if I set memclock to 1500).
+
+However, if I launch cgminer with conservative settings (1250) and then modify the memory settings from inside sgminer after it's already started, it runs just fine with the more agressive settings. Does anyone have any idea why?
+
+Here is the config I start with:  
+  
+    "xintensity" : "8",
+    "load-balance" : true,
+    "worksize" : "256",
+    "kernel" : "zuikkis",
+    "lookup-gap" : "2,2,2",
+    "thread-concurrency" : "30528",
+    "gpu-engine" : "1000",
+    "gpu-fan" : "60-60,60-60,60-60",
+    "gpu-memclock" : "1250,1250,1250",
+    "gpu-powertune" : "20",
+    "temp-cutoff" : "90,90,90",
+    "temp-overheat" : "85,85,85",
+    "temp-target" : "75,75,75",
+    "api-listen" : true,
+    "api-mcast-port" : "4028",
+    "api-port" : "4028",
+    "expiry" : "120",
+    "gpu-threads" : "2",
+    "gpu-dyninterval" : "7",
+    "gpu-platform" : "0",
+    "log" : "5",
+    "no-pool-disable" : true,
+    "queue" : "0",
+    "scan-time" : "1",
+    "temp-hysteresis" : "3",
+    "shares" : "0",
+    "kernel-path" : "/usr/local/bin",
+    "api-allow" : "W:127.0.0.1" 
+
+
+
+
+ So, I have a weird issue where most of my config settings cause sgminer to crash at launch (specifically if I set memclock to 1500).
+
+However, if I launch cgminer with conservative settings (1250) and then modify the memory settings from inside sgminer after it's already started, it runs just fine with the more agressive settings. Does anyone have any idea why?
+
+Here is the config I start with:  
+  
+    "xintensity" : "8",
+    "load-balance" : true,
+    "worksize" : "256",
+    "kernel" : "zuikkis",
+    "lookup-gap" : "2,2,2",
+    "thread-concurrency" : "30528",
+    "gpu-engine" : "1000",
+    "gpu-fan" : "60-60,60-60,60-60",
+    "gpu-memclock" : "1250,1250,1250",
+    "gpu-powertune" : "20",
+    "temp-cutoff" : "90,90,90",
+    "temp-overheat" : "85,85,85",
+    "temp-target" : "75,75,75",
+    "api-listen" : true,
+    "api-mcast-port" : "4028",
+    "api-port" : "4028",
+    "expiry" : "120",
+    "gpu-threads" : "2",
+    "gpu-dyninterval" : "7",
+    "gpu-platform" : "0",
+    "log" : "5",
+    "no-pool-disable" : true,
+    "queue" : "0",
+    "scan-time" : "1",
+    "temp-hysteresis" : "3",
+    "shares" : "0",
+    "kernel-path" : "/usr/local/bin",
+    "api-allow" : "W:127.0.0.1" 
+
+
+
+
+ I know you guys are running ragged right now, but you may want to update this (or at least do it when 1.6RC files are available). 
+
+
+
+
+ I'm switching everything to Kraken, unless someone can tell me if there's another exchange with really good volume and supports metatrader? 
+
+
+
+
+
+
+
+
+
+ Simple question that isn't addressed in the announcement, and my post hasn't gotten any responses there.
+
+If the software is being released in 24 hours, is it ok to install immediately? Does it switch internally at 145k? Or do we have to update at the same time as the pools? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The way I see it, we have a few threats to our currency:
+
+1) Multipools exploiting random rewards.
+
+2) Multipools sending difficulty skyrocketing when they suddenly turn their sites on doge.
+
+3) ASICS. People have been saying that this isn't a real threat. Guess what? They're rolling off production lines. They're here, and they're only going to get better. For you and I it is prohibitively expensive to purchase 10 of them for $2500. However, what about the manufacturer? They've got literally thousands on hand at any given time, and all they need is a few USB controllers to hook them up in a side room of their warehouse. This explains several of the multi-GH whales that have started appearing on some pools.
+
+The feedback from devs so far has been to fix random rewards (which addresses number 1), and implement something like a gravity well (which addresses number 2). Number 3 still doesn't seem to have any solution, we're just relying on time and the hope that "doge will be mined out by then". Hoping isn't a solution.
+
+So, why not look at implementing scrypt-jane (something with adaptive n-factor) instead of vanilla scrypt? This would make our coin largely incompatible with most multipools out of the gate, and it addresses most of the issues with a single monolithic change instead of several smaller ones. For most miners, it would be a fairly trivial change to the kalroth version of cgminer.
+
+It seems like we're fixing several issues with multiple fixes instead of implementing one large fix that can mitigate all of them. I'm not saying that the other issues shouldn't ultimately be resolved, but if we're doing one hard fork, why not address as many issues as possible? 
+
+
+
+
+ Usually on the pool I use it shows as around 2800-3000KH/s.
+
+As of about 5 minutes ago, it's showing 300KH/s.
+
+I really hope my rig isn't on fire. LOL 
+
+
+
+
+ Many companies, when they start to grow, will do stock buybacks. This lowers the number of shares on the market for trade, thus increasing their value.
+
+We could donate mined doge/cash, the foundation buys it back to hold, and in exchange there could be some kind of return to investors. I have no idea what it would be, I'm only beginning to think through the idea. But I'd love to hear some feedback.
+
+I have to give credit to /u/CokeRobot for making me think of it with his idea of everyone buying 1800 doge a piece.
+http://www.reddit.com/r/dogecoin/comments/202ry3/want_to_help_bring_the_price_up_support/cfzdw4r?context=3 
+
+
+
+
+ Simple! post your favorite thing or memory from the dogecoin community! Let's bring some positive vibes! 
+
+
+
+
+ There are 70000 shibes registered in this sub. That means if every single one of us donated 1000 doge, we'd blow the roof off of our goal.
+
+So, how does this raise the value of dogecoin? Simple - PR. When we meet the goal, we can send out press releases. A TON of them. Everyone in the community can get in touch with their favorite news website and provide the press release. It's what's called a media or marketing blitz. We push to have as many news articles out at the same time - make it impossible for people to miss it. Good news means more people are interested, more people get into the market, and the price goes up because demand goes up. 
+
+
+
+
+ Ok folks, how can we get ourselves in the news again? I know right now we're working on doge4water, but what else can we do? How can we pump up search volume? How can we get more vendors interested? How can we inspire shibes sitting on the sidelines to either spend their doge, or open small businesses? How do we keep spreading the love??
+
+We have an awesome opportunity, so how do we move this forward? 
+
+
+
+
+ Hey everyone. I'm just curious about these settings... I tried it before, and the result was pretty catastrophic. I saw a huge decrease in my hashrates, and I also saw my number of rejects skyrocket compared to normal single-pool usage.
+
+However, I've switched from a single threaded approach to a multithreaded approach, and in general I've seen my number of rejects plummet. Has anyone gotten load balancing working nicely? What pros and cons have you experienced? 
+
+
+
+
+ So, for the past 3 weeks i'd found a configuration which was "stable" but only on 14.1 drivers in BAMT 1.5. If I tried bamt 1.3 or 1.5.1 (using 13.1 and 13.2 drivers respectively) almost any setting would cause a crash on bootup.
+
+With the 14 drivers, my GPU engine will never go above ~980mhz, despite being a Sapphire TRI-X OC R9 290 which is supposed to have a factory overclocked base speed of 1000 Mhz.
+
+Well, this evening I decided to try things a little differently. I'm still using bamt 1.5 with 14 drivers, but I decided to cut xintensity down to 8, and i configured 2 gpu threads.
+
+Holy cow. Where before a "good" pool was giving me 3% rejects, I am now on what had been the "worst" pool for me, a multipool, and I am hovering at around 0-0.5% rejects. On top of that, my kh/s is hovering around where it had been before.
+
+I think I'm in love! Also, since this is a bit less intensive, I am going to try 1.3 and 1.5.1 again, and see if the different drivers provide an additional boost.
+
+So remember folks, sometimes it's better to finesse your rig than it is to just go balls to the wall with overclocking :) 
+
+
+
+
+ Just saw this... looks like Helixminer asics are going to be released in the next few days. Based on early reports they're looking significantly more stable than the previous dualminers. They're approximately 300KH/s, consume less than 100w, and cost about $295 (+/- $10)
+
+I'm contemplating picking one up just to tinker with... anyone else checking them out? 
+
+
+
+
+
+
+
+
+
+ Pretty simple, really. Every day I see posts coming in about things "you shouldn't do." Things like:
+
+* Don't day trade
+* Don't convert doge to other currencies
+* Don't compare the value of doge to other coins, or fiat currency
+* Don't mine at large pools
+* Don't mine at multipools
+
+Well, I'm here to tell you to *ignore them.* 
+
+You're an adult. You can make your own decisions. You are also responsible for the *consequences* of your decisions. The whole idea behind cryptos is to free people from bodies that exist solely to tell them what they can and can't do. Do what you want, just make darn sure that you know what you're doing before hand.
+
+Just try not to lose sight of the fact that we're trying to build a community too while you pursue your own interests. Stay active and participate. We need you here, and not just staring at candlesticks. Enjoy your freedom and see where it takes you. 
+
+
+
+
+
+
+
+
+
+ Seems like almost every altcoin is down this morning - it's a good time to buy doge if you have some free BTC on hand since they seem to be getting pumped right now.
+
+Anyone have any insight? Is there some new news I'm missing? 
+
+
+
+
+
+
+
+
+
+ I am looking at their services and am considering trying them out for the tips/doge exchange. Has anyone used them? Are they reliable? 
+
+
+
+
+ [Link](http://www.amazon.com/USB-N13-Wireless-N-Adapter-802-11b-Wireless/dp/B002UVNW5W/ref=sr_1_1?ie=UTF8 qid=1393557963 sr=8-1 keywords=asus+usb-n13)
+
+Hey everyone, I picked this up for my mining rig, but ultimately ended up not needing it. It is in all original packaging, the only thing missing is the shrink wrap (it was literally used 1 day until I realized my rig was too far from the WAP). It supports windows, osx, and linux.
+
+Because this will involve shipping a physical good, I'm going to ask that you pay first to help cover the cost of shipping.
+
+NOTE: For linux, this is the [B1 revision](https://wikidevi.com/wiki/ASUS_USB-N13_rev_B1) of the device with the RTL8192CU chipset. To install it, you just have to go to [realtek website](http://www.realtek.com/downloads/downloadsView.aspx?Langid=1 PNid=21 PFid=48 Level=5 Conn=4 DownTypeID=3 GetDown=false Downloads=true#2772) and download/install the module and it should show up in wicd. 
+
+
+
+
+ The title pretty much says it all. No matter what setting I put it at, the gpu just hovers there.
+
+I've tried 1.3, 1.5, and 1.5.1 (the unofficial release with 13.12 drivers). In all cases, the GPU-Engine speed hovers around the middle 900's. The annoying thing is, the cards are supposed to be factory overclocked to 1000mhz. They just don't want to run that high. Any ideas what could be going on? 
+
+
+
+
+ Prove yourself:
+Pat's vs Geno's
+
+There is only one correct answer. 
+
+
+
+
+
+
+
+
+
+ Some folks have real expenses associated with being part of the community - expenses that can't be covered in doge. 
+
+For instance, I know I have to make and sell/trade about $130 worth of dogecoin/btc every month just to cover power for my mining rig. So to me, 1 doge has a real value associated with it. 
+
+While the majority of my coins get stored for long term, the stuff on the short term has a very real value beyond 1 doge = 1 doge, it directly translates directly to USD for me. Try to keep that in mind when someone is talking about value changes - they may need the market to cover expenses. 
+
+
+
+
+ Seriously, do it.
+
+There'd be a few more billionaires this morning if people had done this, and bothered to listen to the thousands of posts, suggestions, and outright warnings about using paper wallets, offline wallets, and never storing their money in exchanges. You can learn more by checking out this post:
+https://bitcoin.org/en/secure-your-wallet
+
+Treat your cryptos like they're real money, because they are. I know our community can sometimes come across like a starry-eyed hippie love-in, but we also have to remember that cryptos help increase anonymity, and where people think they can get away with something, they will try to. We also need to remember that businesses will fail. Any time you put your coins in someone else's hands, it's a chance for them to disappear. So make an offline wallet, use it, and take responsibility for your own money.
+
+Good luck everyone. 
+
+
+
+
+ The way my old investing mentor always put it was like this: "Suppose everyone smells smoke - bad investors scream 'FIRE!' And drop everything to get the hell out. Good investors run into the kitchen to get some BBQ before the bad investors realize it's there." 
+
+
+
+
+ This is a pretty great discount considering the value of doge has fallen. You send me the doge, I send you the code to import into iTunes. This item was previously listed [here](http://www.reddit.com/r/dogemarket/comments/1yaa8a/sg_25_itunes_gift_card_code_for_18k_doge/) but the buyer never came back.
+
+I have 1 card to sell. 
+[SUCCESS] 
+
+
+
+
+ Hey everyone!
+This is my first post here, and I'm still very new to android programming. My background is in super-high level stuff (perl, python, mostly massaging data and doing BA). This is my first time really working with an OOP language as such.
+
+So, here's my q... if you have a data structure set up to hold a superclass, can you also put subclasses of that superclass into it? So, say you have a list of Car, could you also put MazdaCar and BMWCar in it too? Or would it only hold objects of Class Car?
+
+The same goes for interfaces... can you make a data structure to hold only objects of Classes which implement a particular interface?
+
+I'm trying to determine whether or not to use an interface or straight inheritance, and this is a big factor for me. Thank you! 
+
+
+
+
+ So, I've read through how PPNLS works several times, but I can't seem to find what the "target" is. I noticed most PPNLS pools seem to have a value, and it changes somewhat frequently. 
+
+
+
+
+
+
+
+
+
+ So this morning I had dogecoin-qt open and I randomly got a database error. This was with wallet 1.5.1. So, I shut it down, opened it up, and now it refused to open because of database issues. So, I closed it, upgraded to wallet 1.5.2, and still, it refused to open.
+
+So, I backed up my wallet.dat file and deleted the blocks/ database/ and chains/ directories in my dogecoin install and relaunched. About half way through, I started getting errors involving my wallet.dat file and read errors. Awesome.
+
+I have a backup, however the backup is about a month old. Is that going to cause a problem? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Welcome to the official "rate my doge" thread! Where you can share that awesome pic of your fuzzy pal, and maybe get some doge for your doge!
+
+**RULES**
+
+* 1 doge pic per person. 
+* I can't see everyone's scores (d'oh), so I'll just go by the number of tips each doge gets (no, you can't tip the same doge twice! (well you can, but it will only be counted once) 
+* Voting will close sunday night at 10pm EST
+* Any tips to my doge pic (should be the first one) will be added to the pot of 500 doge for the winner. Tips to other doges go to their respective owners :)
+* Your score needs to be viewable
+
+So gentlemen (and ladies), post your doges!
+
+PS:
+Imgur works as a file hosting site I think :)
+
+**EDIT**
+
+I had to change voting because a bunch of folks have their scores hidden. We'll now tally based on the number of tips each doge gets. In the case of a tie, winnings will be split between the tied doges! 
+
+
+
+
+ Hey everyone! I'm a miner who has been mostly focused on doge, and mining on multipools for BTC. I decided I'll throw my hat in tonight to see how well my rig performs mining vertcoin. I'm pretty excited!
+
+Does anyone have a favorite low fee pool that is stable (especially if it's PPNLS - nothing sucks more than a PPNLS pool that goes down every hour, lol)? 
+
+
+
+
+ Hey everyone! I have a couple trades under my belt now, so you should feel safe. I receive these gift cards occasionally and already have about a $40 balance on itunes I'll probably never use, so, I may as well let someone get the card who can use it!
+What you'll get: I will scratch off the card and send you the code, which you can then import into iTunes for the $25.
+
+FYI this is a re-list from a few days ago, a gentleman said he was interested but never came back. The original thread is here:http://www.reddit.com/r/dogemarket/comments/1yaa8a/sg_25_itunes_gift_card_code_for_18k_doge/ 
+
+
+
+
+ Just curious - is there anything stopping a 3-letter agency from creating a "vendor," and then creating a bunch of dummy accounts to pump up their ratings?
+
+Is there something that lowers the influence of a review if it's A) a brand new account or B) the account has only dealt with one vendor?
+
+It's something that jumps out at me based on the howto and looking at the site. 
+
+
+
+
+ So, I am looking into starting a mining pool with some special tweaks that make it extra special.
+
+I am working on the requirements now; I know I'll need server(s) for pushpool (or p2pool, or ecoinpool - i'll probably try each and see what works and what doesn't), front end server(s) running apache which I'm partnering with a developer on to customize, db server(s), and finally the coind software.
+
+I have about 10 years of experience in enterprise network engineering/systems engineering/product engineering, so I am pretty sure I am ok on the technical side. The biggest thing I am missing right now is requirements for the actual boxes.
+
+Is the DB read or write heavy? How much bandwidth can we expect per user? What's the rainy day scenario where you have a 5GH/s whale connect? How much storage is needed per user? What are the IO requirements for everything? What are memory/cpu requirements? I can't seem to find any of this information. I can test it using my laptop for some base info (it kicks out a mean 40KH/s!) but I don't know if it scales linearly or not. 
+
+
+
+
+ http://invezz.com/news/forex/8924-forex-news-bitcoin-usd-resumption-of-play-at-mtgox-any-time-now
+
+It looks like MtGox is going to be opening back up withdrawals, which should mean the BTC price tag should go up, and along with it, other altcoins (including Doge!). What does everyone think?? 
+
+
+
+
+ Hey everyone! I have a couple trades under my belt now, so you should feel safe. I receive these gift cards occasionally and already have about a $40 balance on itunes I'll probably never use, so, I may as well let someone get the card who can use it!
+
+What you'll get:
+I will scratch off the card and send you the code, which you can then import into iTunes for the $25.
+
+Here's a picture of the card with proof it's me and real:
+http://imgur.com/lPzhlqj
+
+Feel free to PM with questions. 
+
+
+
+
+ Well, this is something that has come up lately when discussing this with other folks, and it's something I personally want to understand.
+
+So, the developers of dogecoin write the software. What exactly did they write? Is it a daemon that generates blocks that are then requested or sent out somewhere? Did they just write the original block which creates something different? How do the pools or users get the blocks? Where do the blocks come from?
+
+The idea of it being decentralized kind of puts the kibosh on a central daemon which generates each block, plus if that was the case, wouldn't it be difficult for the chain to fork?
+
+So, once the blocks have been created by any means, we mine against them. But if solving a block is what provides a reward, how do pools and members of pools get paid if they don't "solve" the block?
+
+Is there any good source on how the whole process of a crypto-currency works that doesn't get too deep into the technical weeds so that your average (or slightly above average) shibe can understand it? 
+
+
+
+
+ I've noticed that there have a bunch of completely benign, benevolent posts lately that seem to get a bunch of downvotes for what seems like no good reason. Maybe it's because I'm new to reddit, but can anyone explain what the motivation is for that? Just being a jerk for its own sake, or do people actively disagree with community-supporting posts?
+
+For example, this post from the creator of /u/dogetipbot:
+http://www.reddit.com/r/dogecoin/comments/1y8epn/a_few_minor_udogetipbot_announcementsnotices/
+
+Why the heck are there downvotes there? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So, right now I've been piling coins into paper wallets. Should I ever import the paper wallet to an actual wallet.dat file, after doing that, is the paper wallet worthless? Or can it always be used to recreate the wallet.dat file? 
+
+
+
+
+ Hey everyone. So I am playing with the rotate pool settings in sgminer and currently have it set to rotate every 12 hours through teamdoge, wemineltc, wafflepool, and multipool. Most of these are PPLNS, so I'm curious how long you really should be connected to each to maximize? I know it's set up to discourage pool hopping, but I'm wondering if 12 hours is long enough? 
+
+
+
+
+ ...do you stick with only one coin? Or do you hop between different pools? I'm trying to diversify, so I've been switching between a few pools (some litecoin, some dogecoin, some like multipool that feed into a cryptsy account, and then hashco.ws). I can't really figure out which is the most profitable (I have to sell off enough to cover the cost of the rig plus power). So, what have you guys found to be the most effective? 
+
+
+
+
+ Just curious, are you guys related to this redcoin?
+http://redcoin.pw/
+
+If not, how do you intend to keep your branding from getting confused with theirs? 
+
+
+
+
+ So, I am following several guides to try and tweak this number.
+http://www.reddit.com/r/dogemining/wiki/index/radeon_tuning_guide
+https://raw.github.com/ckolivas/cgminer/v3.7.2/SCRYPT-README
+
+In both cases, it says that thread-concurrency should be a multiple of my number of shaders (I'm using 3x Sapphire Radeon R9 290's, each has 2560 shaders). I have configured the base memory clock for the card according to manufacturer specs (1300Mhz), and the engine speed too (947mhz). I've also put the number of shaders in the config file (2560).
+
+In the guides it says to keep adding on your shader number until your miner won't start. My problem is that sgminer just keeps starting. I have yet to find a value for thread-concurrency where it won't start, and use the value prior to that. I'm up to 48640 now.
+
+Once I have that figured out I can start pushing up the memclock. Any ideas why it isn't behaving per the tuning guides?
+
+When I tried running cgminer/sgminer without any options, it gave me two bin files, one with 30464, one with 30528. Neither one is a multiple of the number of shaders on the cards. 
+
+
+
+
+ So, I pulled it down from github and compiled it. However when I try to run it, it just pops up a screen saying "Waiting to get work from pools..." where it sits for about 3 minutes, and then closes.
+I've run it against 2 pools which SGminer can connect to no problem.
+
+I've put it in a script with the options to export the display and set GPU environment variables. It just won't work :( 
+
+
+
+
+
+
+
+
+
+ Just thinking about it - as soon as we past 100,000 and the reward halved, the multipools seem to have gone elsewhere. So, that should mean the difficulty on doge will plummet, won't it? 
+
+
+
+
+ So, about a week ago I traded ~5000 doge on cryptsy for some bitcoin just to play around with it. However when I look at the blockchain explorer, my address doesn't reflect that the coins were ever traded; so it reflects a different balance than what is shown in my cryptsy account. Why is that? 
+
+
+
+
+ Hey everyone!
+So as of yesterday, my rig was finally assembled (3x sapphier R9 290 TRI-X). I started with BAMT, and am averaging about 800KH/S per card. That's great compared to laptop GPU mining, but still not where I wanted to be with them. I'm averaging about 970 watts at the wall, and a 5% reject rate (mostly stale shares, probably because I'm using a wireless adapter?). The cards stick at around 65 degrees C (fan rate set to 68%.
+
+The vast majority of posts I see about them have them stable up into the 900+ KH/s region. If I start to tweak my settings beyond 1000/1350, the system almost immediately locks up, or GPU2 suddenly becomes "sick" in cgminer and the whole system has to be rebooted. For some reason my TC has to say at 40960 or else the system locks up. I've tried lower settings (2560 shaders * 8 + 1= 20481), but the system just freezes almost immediately.
+
+One thing I am noticing about every one of these systems that are pulling 900+ KH/s is that they are *all* running windows. Every single one of them. So, for those of you who have tried both, do you recommend windows over BAMT if you aren't worried about a simple templatized drop-in OS?
+
+Edit:
+
+Other info -
+
+* 4GB DDR3
+* Sempron 145
+* MSI 970A-G43 MoBo
+* 3x Sapphire TRI-X radeon R9 290 (with hynix memory) 
+
+
+
+
+ So.. which one do I hook my dvi cable to? Before when I did this it was for radiology workstations where you had a primary card, and then secondary card(s). So which one do I connect to? The top 16x slot? 
+
+
+
+
+ LOL
+Well, that's the second vendor I had tell me they had power supplies in stock, and then tell me they were sorry, and they didn't have them in stock and had to have them sent from the manufacturer, who "was having trouble meeting demand." So, I took the advice of a few shibes on here and picked up 2 850w power supplies at best buy for a lower price and overall more power output. I also picked up a crate, and had EVERYTHING ready to go.
+
+However, why am I posting here instead of working on my sweet new mining rig?
+
+I don't have a DVI cable, and my cards didn't come with DVI/VGA adapters. LOL.
+
+At the very least I have one at work that I can use, so I'll get about 1.5 days of good mining before the halvening happens :) 
+
+
+
+
+ Hey everyone. One thing that seems to keep coming up is the idea of making cash via trading. I am totally down with that. What is not cool, though, is people doing it without being informed.
+For instance, can you read a candlestick chart? Do you have a plan to minimize risk? These are some pretty basic things.
+
+The best way to learn them is through looking up online courses and tutorials about foreign exchange trading (FOREX). Basically, forex was traditionally trading dollars for euros, or dollars for yen, and vice versa. Then you'd take advantage and trade back to make money. Sound familiar? It's the exact same thing as trading cryptos, except the tools are a little more rudimentary (they don't have to be, but people haven't built something like metatrader for cryptos yet). Plus, unlike trading traditional fiat currencies, you can actually mine cryptos.
+
+**Here are some small things that are helpful to know:**
+
+* When you make a trade, define a point you want to exit, and commit to that.
+* Try to never commit more than 2% of your total resources to a particular trade. It sucks to lose 2% on a trade, it sucks way more to lose 100%.
+* Never trade on news. Seriously. The whole halvening thing? That's news. Stay away from it like it's the plague. Wait for the market to settle back down or you could see yourself getting nasty burnt. Don't believe me? Look at what happens to the candlestick charts of currency pairs like the Eurodollar whenever the Fed gives a statement. Trading on news can be profitable, but most of the time, it will leave you cold and broke.
+* Keep your emotions in check. Always. They will lie to you. Do your best to use cold logic and numbers.
+* If the crypto markets ever evolve to the point where you can use stop losses, USE THEM.
+* Hedge your bets. Keep a variety of things in reserve. A mix of long term investment plus some trading is usually more successful than just exclusively trading.
+
+
+**Here are some places to learn more about forex and currency trading:**
+
+* http://www.babypips.com/school
+* http://www.ufxmarkets.com/learn/forex-school
+
+**This is a great guide on learning how to read charts (which are your best friend if you want to be successful in trading):**
+
+* http://stockcharts.com/school/doku.php?id=chart_school:chart_analysis:introduction_to_cand
+
+**Another thing to keep in mind**, both IOS and android have free FOREX trading games you can download which use actual historical numbers between currency pairs. You can play with them and start to understand patterns of the market and improve your trading before you ever move a doge out of your wallet. It's invaluable practice. Some of them even have "news" events which can show you how a market moves when news comes out. 
+
+
+
+
+ This is a pretty basic question. When you use cryptsy's auto-sell feature, what does it sell the coin for? Does it trade it in to "cryptsy points"? Does it trade it for BTC? If you have a bunch of TIPS, does it trade it for LTC and then trade that for BTC (there's no TIPS/BTC pair)? Their documentation doesn't say much, just that it "automatically sells." 
+
+
+
+
+ Out of curiousity, when you go to sites like:
+dogeaddress.org
+liteaddress.org
+bitaddress.org
+
+Do you have to do anything to add the wallet to the blockchain? Or does simply sending coins to that generated address make it exist? If there's no central addressing point, how are collisions avoided? 
+
+
+
+
+ http://blog.fiverr.com/fiverr-now-accepting-bitcoins
+
+Interesting article - maybe once they get used to using cryptos they'd be a good place to look at convincing to accept Doge! 
+
+
+
+
+ So, how do you all do it? Do you keep a ledger? A spreadsheet? I started keeping a notebook, but thanks to multipool I have a ton of other smaller cryptos which I don't really feel a need to track.
+
+It'd be awesome if someone made something like "mint.com" for your cryptos. 
+
+
+
+
+ YAY! They look beautiful. Now when my power supply shows up I can actually kick off the mining :)
+
+ 
+
+
+
+
+ So, I'm waiting for my last few parts to arrive for my mining rig; not just for Dogecoin, but any other altcoin (I'm also really interested in Curecoin when it comes out). I am doing this as part of a side business I own because I thought it would be another revenue stream. I love dogecoin and its community, but I will admit I am here to make profit too. My goal is to use a multipool to mine whatever is most profitable, and convert to USD (either through straight to buyer sales or through exchanges), right now that's doge, but who knows after the halvening. I've done the math. Even if things go south I should be able to make my money back. Plus I've got the hard asset; 3 R9 290's, the RAM (mobo and cpu won't be worth squat, but meh). And by done the math I don't mean just using a calculator, I mean doing a linear regression to figure out the probable difficulty in 1 year based on trends and using that for calculating out profit. I'm in the clear. On the low end, the system should pay for itself in 1 quarter.
+
+The thing is, other folks who thought it was a neat venture are hearing the news about MtGox and are starting to PM me about it that I'm heading into failure. I'm hearing "well aren't all of those coins the same?" constantly. I'm getting tired of explaining it to people. I've always been really good at divorcing myself from emotions when it comes to money things and letting the math guide me, but this time, they're starting to wear me down a bit. My wife especially. I don't know what I'm expecting to get out of this post, other than just some venting. Any thoughts or inspiring words shibes? 
+
+
+
+
+ Just curious about this; I know that the satoshi is a fraction of a bitcoin, so we basically track the value of dogecoin against BTC. Is there a reason for that? 
+
+
+
+
+ Well, I was set to have my rig built this afternoon, but then tigerdirect notified me that they don't actually carry stock anymore; they drop ship everything. Which sucks. They were the company I was going to get my power supply from.
+
+So, I cancelled my order with them, and ordered from another company; rush processing, 2 day shipping. I got a call from them a few minutes ago that their shipment of power supplies never came in, but they expect it to be in on monday. Maybe.
+
+So, as of today I have every single part except a power supply, and given that most places seem to have anywhere from a 2 week to 6 month backlog on 1500w power supplies, I'm annoyed. I was hoping to start mining before the halvening to get at least a few days of peak mining out of it. Boo.
+
+There are no freys or microcenters nearby to check out, so it looks like I am stuck waiting.
+
+I wish vendors would simply state whether or not they have an item. Not list it as available when they "expect a shipment to come in," or when "we think our 3rd party warehouse may have it available, maybe."
+
+Such frustration. Many sad. 
+
+
+
+
+ Well, how do you go about doing it? Right now I'm looking at both Vault of Satoshi and Coinbase. Coinbase will require me to trade doge for BTC (so there's a fee there at some exchange), and then on top of that they charge a percentage fee, and they tack on a .15 "bank fee." But I can withdraw anytime day or night to my business account.
+
+Vault of Satoshi requires me writing them an email, hoping they respond, but it looks like that would be free if I just get a paper check. However, time could be a factor here since I was hoping to get at least a weekly payout.
+
+I'm looking to mine 24x7, withdraw 98% of each day's take as USD daily, and then send the other remaining coins to cold storage wallets.
+
+So, for those of you who do it, how do you manage to keep fees low? What has been your lowest-cost method of converting doge to USD? 
+
+
+
+
+ Just curious - for all of you more experienced miners, is there a noticable difference between using Linux and Windows? What about power utilization?
+
+I ask for two reasons:
+
+* because it seems like doing things like tweaking card performance/voltage is significantly easier inside of windows, whereas with linux you're sort of stuck hoping your miner can make the changes which may or may not be possible.
+* Windows tends to have way more processes running so it would make sense that it would be more power than a minimal linux install.
+
+Any feedback would really be appreciated. 
+
+
+
+
+ Hey everyone. So, 4 days ago I felt like I hit the lottery when I saw a 1500w power supply for sale at tigerdirect, and in stock! I placed the order, and waited.
+
+Then I got an update: order submitted to drop shipper. WTF? Tigerdirect is drop shipping now? Seriously?
+
+So, I've been waiting.
+And waiting.
+And waiting.
+Still no update. Every time I call tigerdirect they say that the order is being handled by the drop shipper, and the drop shipper has to meet the same shipping timeframe. I paid for 3 day shipping. This is the third day.
+
+I'd cancel my order, but everywhere I look there is a 2 week to SIX MONTH waiting period for power supplies. Does anyone have any idea where to purchase them? 
+
+
+
+
+
+
+
+
+
+ Hey everyone! So, I'm trying to be objective with this post, so I'll do my best to stay away from opinion type things and stick with hard facts.
+
+So, why do I think that dogecoin is here to stay? 
+
+* **Transaction volume.** With only being around for 2 months, our community has already dwarfed the number of transactions that bitcoin or any other altcoin sees. The ultimate point of a crypto*currency* is for people to **use it**. The suggestion that bitcoin will be hoarded seems to be true; people don't seem to spend it that much. That's great, but if it doesn't get used, people don't have a reason to accept it for transactions. When is the last time you went into a store and saw someone pay with a gold coin? Still, people stock up on them. So what they've done is turn it into a commodity instead of a currency. There's nothing inherently good or bad about that, but part of what makes a crypto-currency work is people using it as, well, a currency.
+
+* **Our community.** It's awesome. Simple as that. When I first heard about doge in december, I wrote it off as another fad on 4chan that would go away in 2-3 days, especially when I saw people throwing around tens of thousands of coins in a shot. Plus, that was paired with a lot of rhetoric about getting rich from people who didn't really seem to understand how currency exchange, or economics worked in general. But, here we are! And oh man, this community is driving it forward. People are using paper wallets to spread the word. People are getting businesses to accept Dogecoin. People are starting businesses to support the community. People are getting netted in with pervasive tipping. That all points to this digging in for the long haul. Add into that all of the charity, which I'll talk about more in the next point, and I think it all points to good things in the future. Every 10 minutes you see a new reddit thread about a new shibe coming to the community.
+
+* **Our branding.** Originally, I thought it was silly to use a meme as the basis for a currency. The people who were evangelizing dogecoin kept saying that it would succeed because it's cute and appealing. I thought that it ultimately would be shrugged off as unprofessional by most of the world. To be honest, I still think that it may be eventually (maybe a rebrand of an epic Shibe standing on a cliff, a-la-Lion King), but for now I appear to be wrong. See, half of what made things like siri successful is the goofy stuff you can do with it ("do you love me siri?"). We've become like the counterpoint to the way-too-stern bitcoin community. Where they're talking about smashing iPhones and boycotting apple because an app was banned, we're talking about sending people to the Olympics, getting aide dogs for kids, and digging wells. We're raising awareness of ourselves not through advertising, but by being a genuine benevolent force in the world. That's really **REALLY** powerful. Plus, we've had a bunch of fun slogans which reel even more people in. TO THE MOON! It's a rallying cry! But more than anything, we have painted ourselves as a powerful force. *Let's do so much good that the world at large doesn't want us to go away.* We're already seeing newsprint in major sources - when's the last time another alt-coin has done that outside of a tech journal?
+
+* **The developers.** Let's give them their due. They had an idea, and it took off. But they've also been able to make hard decisions when necessary. It took cojones of steel to make the hard decision to become inflationary currency. It took willingness to sacrifice part of the community that they were very aware would jump ship when the news hit. And, you know what? A bunch of folks did jump ship. But that's part of leadership - you have to be able to make hard decisions not just for yourself, but for your entire community. They've also decided that we should continue to be a force for social good, and I totally support that.
+
+So, combine all of these things, and I think we've found the crypto-currency recipe for success. We just have to keep going and run the course... **TO THE MOON**!
+
+TL;DR: I think we're here to stay because people are actively using the currency, our community is awesome, we have great branding, and our developers have cojones. 
+
+
+
+
+ So, what would be a realistic number of doge mined daily using 3x Radeon R9 290's at around 900KH/s? I'm just curious what I can expect (approximately obviously) once my rig is finished ~monday. 
+
+
+
+
+ So, I am waiting on 3 of these to arrive:
+http://www.superbiiz.com/detail.php?name=AT-290TR4G
+
+For the life of me though, I can't find any information about whether or not they're unlocked. When i get them, they'll be put in a rig, and run with BAMT. So, where can I go to find out whether they're unlocked? Will something tell me? Is unlocking important?
+
+I'd really appreciate the help! 
+
+
+
+
+ Simple question, which one is the better choice right now? This will be on a headless mining rig. The only big things I can see in the release notes for 13.10 are that there's additional GUI stuff, which, frankly, I don't really care about. But is there an updated kernel or anything that would make it preferred over the LTS? 
+
+
+
+
+ Hey everyone. I'm going to be getting this MoBo for my mining rig tomorrow. I've read that a lot of motherboards need the 1x to have a jumper wire installed on the PCI slot to see anything in the 1x slot as a video card. Is that the case with these motherboards? 
+
+
+
+
+ Just curious; I have had a heck of a time getting anything related to primecoin running on OSX. I finally managed to get a working miner and wallet using brew and the directions here:
+http://www.reddit.com/r/primecoin/comments/1slc8q/primecoin_wallet_and_xolominer_pool_miner_for_osx/
+
+This installs the primecoin wallet to /usr/local/Cellar/primecoin/0.1.2xpm.
+
+But now I can't get the wallet to sync. Apparently there was an update recently, but you can forgo it if you modify Primecoin.conf. The problem is, from what I'm reading, Primecoin.conf doesn't exist by default. I can't find any documentation around about where it could or should be located on OSX.
+
+So, I guess my question is twofold: 
+*Why the lack of OSX love? There's a ton of documentation for linux and windows, but there's very little for OSX. 
+*And where is primecoin.conf supposed to be located when you follow the instructions in that walkthrough?
+
+
+Oh, and in case anyone wants to say a mac is "not a real computer" or whatever, I'm a telephony engineer for a fortune 500 telecom, and actively help write standards for the IETF. I'm also an RHCE. I know a real computer when I see one, trust me. 
+
+
+
+
+ Hey! My new rig is using 3 of these GPUs:
+http://www.superbiiz.com/detail.php?name=AT-290TR4G
+
+According to their docs, it has an 8pin and 6pin power connector built into it. I ordered 2 normal 16x-16x PCI risers, and a single powered 1x-16x pci riser.
+
+Since the GPU has its own power connection, can I just forgo connecting the power plug on the riser and use it like it was unpowered? This is the riser I bought:
+http://www.amazon.com/Qody-PCI-E-Extension-Cable-powered/dp/B00FQJ077Q
+
+Any feedback would be really helpful; I'm just trying to make sure I don't burn anything out. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Simple question; today I have had 4 deposits sent to cryptsy. Nothing seems to be showing up. For Doge, I can see the transactions in block explorer, but there's still no "transactions out." I know scrypt requires a bunch of verifications, but I've still usually received coins to my wallet within 10-15 minutes. 
+
+
+
+
+ This is my first sale, so sorry about the low rep. I've had this game sitting in my inventory for years and it's time someone got to enjoy it! 
+
+
+
+
+ Hello! So, I'm trying to figure out dogetipbot. The "answer a lot of repeated questions" post I found doesn't actually answer a lot of my questions... like, how do I start using it? How does it know where to send and receive dogecoins to/from? Is there a silly noob post explaining it?
+
+I'm still kind of new to reddit, so, this may be something really easy that I'm just not getting, lol :) 
+
+
+
+
+ Eep. Here's hoping it can pay for itself, or I'm going to owe a lot of explaining to the Mrs. So, here are the parts:
+
+**video**
+3x [Sapphire TRI-X AMD Radeon R9 290 OC](http://www.superbiiz.com/detail.php?p=AT-290TR4G c=pw hash=510dY3r8l1Wto8S1V8hVdR0jLFvVFgNtVEuY502sas2Zu%2B4yBhuoU3RRMm8Qu3IJXObxWaOMJp56fbOtRGb8pXEHIELDkrlpnAZIpwLfw39CDudlYy00KS1IXH8%2Feg) - Apparently the order includes a free gift of 3x [Sapphire AMD Radeon R7 240 2GB](http://www.superbiiz.com/detail.php?name=AT-R724BT2) - *$1,805*
+
+**CPU, MEM, MOBO**
+1x [AMD Sempron 145](http://www.newegg.com/Product/Product.aspx?Item=N82E16819103888)
+1x [Kingston 4GB 240-Pin DDR3 1333](http://www.newegg.com/Product/Product.aspx?Item=N82E16820239309)
+1x [MSI 970A-G43 AM3+](http://www.newegg.com/Product/Product.aspx?Item=N82E16813130679)
+Total: *$167*
+
+**Power**
+1x [SilverStone Strider Series 1500w Modular Power Supply](http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=6624651) - *$365*
+
+**Misc**
+4x Risers (2 1-16x powered, 2 16x-16x), milk crate, kill-a-watt wall meter, ATX power switch,  16GB USB3 stick - *$125*
+
+Original plan was for the 3x 290's, but if I get the free R7's as well, one of those will be going in too. The others will get resold.
+
+Thoughts? Total came to around $2462. Assuming 4 cards, it should put out about 3000KH/s. 
+
+
+
+
+
+
+
+
+
+ Hey everyone; I am looking to purchase a mining rig for mining Scrypt coins, but I'm trying very hard to ensure that I get a return on investment. However, I am very concerned about dumping the cash on several GPUs only to have ASICs suddently become widely available. With things like dualminer coming out, and now gridseed's product, what sort of threat do you think do they present to not just Doge, but all scrypt mining?
+
+I have always read that Scrypt would be nearly impossible to mine with ASICs because memory usage can be increased to make them prohibitively expensive, but yet here they are starting to appear on market. 
+
+
+
+
+ Hey everyone! Just trying to figure this out; dogecoin-qt has said for the past 8 hours or so that it's at 100% (or at least the little progress bar says so). However the wallet still says it's out of sync. I'm using osx mavericks... just not sure what's going on. Anyone else have experience with the dogecoin client on a mac? 
+
+
+
+
+ Hey everyone, it's another one of those posts that you all love! This is meant to be a first foray into mining. I'm starting with 2 GPUs and scaling up from there. Ultimately I'd think this could handle up to 4.
+
+* Motherboard:
+MSI 970A-G43 AM3+ AMD 970 SATA 6Gb/s USB 3.0 ATX
+http://www.newegg.com/Product/Product.aspx?Item=N82E16813130679
+
+* CPU:
+The same CPU everyone else is using :-P
+http://www.amazon.com/gp/product/B0040BPHJO
+
+* Power:
+Corsair RM Series 1000 Watt ATX/EPS 80PLUS Gold-Certified PSU
+http://www.amazon.com/gp/product/B00EB7UIZU
+
+* RAM:
+Kingston 4GB 240-Pin DDR3 SDRAM DDR3 1333 Desktop Memory
+http://www.newegg.com/Product/Product.aspx?Item=N82E16820239309
+
+* GPUs:
+2x SAPPHIRE TRI-X OC 100362-2SR Radeon R9 290 4GB 512-bit
+http://www.newegg.com/Product/Product.aspx?Item=N82E16814202080
+
+* Storage:
+16GB USB 3.0 jump drive
+http://www.amazon.com/gp/product/B007B6YPNO
+
+I'll be running xubuntu off the USB storage. Any suggestions on tweaks? This brings the price to about $1584 with an estimated 1600 KH/s based on the hardware comparisons I've seen. I'm also estimating power should be around 600w at the wall? Should I look into a larger power supply? Any feedback would be appreciated.
+
+This box will be sitting in my basement on my workbench chugging away 24x7x365 (hopefully). 
+
+
+
+
+ Hey everyone. I am new to litecoin mining, and I'm trying to do the math to see whether or not it is worth it to get started. I am using this calculator:
+http://www.coinwarz.com/calculators/litecoin-mining-calculator
+
+Assumptions:
+I'm assuming purchasing 3 HD7990's (I work for a large telecom company and can likely get better deals than the average joe), but I'm assuming a hardware cost of $4k and a hash rate of 3000 KH/s.
+I'm assuming a 1250 watt power supply, and our power costs $0.11/kWh.
+I'm assuming a 1% pool fee (I don't have a pool picked out yet).
+I've kept the default block reward of 50 because I'm too new to figure out quite how this works.
+
+Calculations:
+For difficulty, I took the chart and history here:
+http://bitcoinwisdom.com/litecoin/difficulty
+and did some number crunching. I defined X as the number of days since 8/15/2013, and Y as the difficulty.
+First, I figured out the slope and intercept based on those numbers.
+Based on the data listed, the slope comes out to approximately 17.9 difficulty/day, and the intercept is at 306. Then it was just a matter of plugging it into slope-intercept form (y=m*x+b), where x is 535 days (the number of days between february 1, 2015 and 8/15/2013) which gave me a difficulty of 9884 one year from now.
+I did a linear regression and the math seems to jive.
+
+ROI:
+So that's what I popped in to the calculator. Using these numbers, it is showing a profit of approximately $1.4k over the year. Since this is basing the entire year off of what the difficulty is estimated at a year from now, it could potentially be much more (current difficulty is around 2500).
+
+So, does this math seem correct? I'm trying to be conservative because I'm showing it to the Mrs to justify why I'd be spending it. Any feedback would be helpful.
+
+Also, this is assuming only litecoin is mined, and no money is sunk into ASIC mining devices if/when they come out. 
+
+
+
+
+ http://adf.ly/cFobC 
+
+
+
+
+ http://adf.ly/cFUS7 
+
+
+
+
+ Hey everyone. As of this morning, thanks to an idiot HIT requestor, my approval rating is down to 98.1%. I took several of their HITs, in which you had to identify "objectionable" images. They included a warning which stated there would be between 20-50 objectionable images in the lot, and if you selected more than 50, you would have your hit rejected.
+
+So I ended up being presented with about 5 hits, each with scores of penis pictures (no joke). Each one had tons of "objectionable" images based on the requestors requirements, so there was no way to supply the required information without exceeding their 50 image threshold. As of this morning, I logged in to find out every single one had been rejected; each one stating "you missed N different images." So, not only would I have had to flag 70+ images on each HIT, but I would have had to go directly against their warning. Since i'm new to HWTF and a lot of the mturk lists, I wasn't familiar with TO until last evening; now I see the requestor has horrible ratings across the board.
+
+So, any advice on how to pump back up my approval rating? Some 1 cent HITS that take a second to do would be the best I suppose? 
+
+
+
+
+ Exactly what the title says. I am still new to using SB, and I've been looking into ways to get it to run automatically (experience with *nix, so I've had some ideas but was hoping to find something canned). I have seen lots of posts about SB not running correctly in daemon mode on OSX ML, but most of the posts are a year+ old. Is this still an issue? Looking through the changelog didn't have any clues. 
+
+
+
+
+ Hi everyone. I have been going nuts trying to solve this. I want to use Rosetta stone on a mac mini, which sits in my entertainment center functioning as a HTPC. To do this, I need a wireless sound input device. I don't need sound output - I am using the HDMI port and outputting sound directly to my TV. That all works fine. I just can't find a wireless input solution. I have tried an old pair of Dell BH200 bluetooth headphones which used to work just fine for this purpose 3 years ago, but apparently the bluetooth stack is less versatile now.
+
+I had my job purchase me a plantronics M165 bluetooth headset, and it does pair properly with the mac. But the aggressive power saving that it uses causes the microphone to stop working after 2-3 seconds of silence. So, when rosetta stone attempts to open the sound input channel (repeat the word after me sort of situation), it suddenly sees the device as offline. Approximately half the time, it causes rosetta stone to freeze up, or spit out an error and force close.
+
+I don't know what to do. Apple has been no help whatsoever on this. The only wireless microphones I can find that aren't bluetooth cost well over 150$ and are designed for conferencing.
+
+All I have been getting are suggestions to use a USB mic, or a wired mic. That will be incredibly messy in the living room (the last thing I need is another wire in the entertainment center, especially one that can stretch across the entire room). Is this really such a weird use case? 
+
+
+
+
+ Hey everyone. I recently purchased a late '12 Mac Mini to serve as a HTPC. So far, it has worked great. However one of the goals was to use it as a hub for family software and distance learning (stuff like Rosetta stone, and some distance language classes). The goal is to remain completely wireless (would you really want to be tethered by a wired microphone 3 inches from a 51" plasma screen? Those things get HOT!). I have an apple magic mouse, a logitech k760 keyboard and they both work great with bluetooth.
+
+The issue is sound IO. I need sound to go out of the mac mini via HDMI to my TV. This works just great. But sound input? That's an issue. I haven't been able to track down a non-bluetooth wireless mic that is less than 150$. If I want to go below that, I have to use bluetooth. That's great, except apparently there are a ton of issues with the bluetooth stack in Lion and Mountain Lion, many of which directly impact bluetooth audio IO. I can pair a wireless headset in stereo mode, but the instant I try to activate the mic in the sound input pref pane, I receive a "your bluetooth device has encountered an error" dialog. This happens in both Mountain Lion and Lion.
+
+Thinking it could be because I am using an older headset (3.5 whole years! a Dell Bh200 stereo headset), I had work order me a new bluetooth earbud - a plantronics a170 headset. This is the same one apple sells. I connect it to my mac and it works great - until I try to activate the mic. As soon as I do, spinning beachball, and then error.
+
+Looking at the apple discussion forums, there are hundreds of threads about bluetooth issues (like this one: https://discussions.apple.com/thread/3200456?start=0 tstart=0), but no comprehensive solution, and the overall consensus seems to be that the apple bluetooth stack is a cluster****. 
+
+Suggestions from apple geniuses were hilarious - "the bluetooth device is broken!" So I paired it with windows, a blackberry, and an android. "There aren't any known issues with the bluetooth stack in OSX." So I showed them several 20+ page discussions on their own discussion boards. "You aren't using an apple supported bluetooth device!" So I did the same demo with the Plantronics headset and showed them the place where it is sold on their site. "You need to purchase an iSite webcam with a built in mic!" Um, no. Bad fanboy, no skinnyjeans.
+
+So, after much research, one of the suggestions was using an aftermarket bluetooth dongle, which should shut off the internal bluetooth adapter on the mac. Why would you want to do this? The internal bluetooth adapter has several key bluetooth device profiles missing in mountain lion and lion, like handsfree. An external adapter should include support for all of them. If that's true, it may resolve my issues.
+
+The internal adapter is a Broadcom BCM20702. I'd like to use a 4.0 dongle for future-proofing, but the only known mac-compatible one I have found that isn't completely documented in Chinese is from IOGear. The chipset it uses? Broadcom BCM20702A0. So, same chipset, possibly a different firmware update. Most likely it will exhibit the same problems. There is also an iogear bluetooth 2.1+EDR but I can't find any explanation of the chipset.
+2.1+EDR should work for the magic mouse, keyboard, and both of the bluetooth headsets, I just need to know that the devices won't have any issues pairing after coming out of sleep (it is a HTPC and needs to be easy for the fiancee to use, that includes devices waking up).
+
+I am left with a ton of questions and almost no answers -
+
+-Can I use a mono bluetooth headset JUST as a mic, while using the normal audio out for sound?
+
+-If not, are there any wireless microphones available for less than 100$ that are known to work?
+
+-Do you think the wireless dongle hardware will exhibit the same issues if I pick up the IOgear 4.0 one?
+
+-Is there any way to add additional bluetooth profiles to the built in bluetooth adapter?
+
+-Is this really THAT weird of a use case? Wireless audio input? Why is it this hard? 
+
+
+
+

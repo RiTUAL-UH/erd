@@ -1,0 +1,442 @@
+ Sendai Mediatheque 
+
+
+
+
+ 
+
+The third looks like it means Buddhist Temple 
+
+
+
+
+ Got one. 
+
+Footwear/Legwear/Clothing
+
+Got two.
+
+Building.. heh
+
+The fourth is:
+
+Commute/Passthrough
+
+Having problems with the third... hint? 
+
+
+
+
+ I am decomposing Kanji radicals.
+
+I will be speaking Japanese shortly. 
+
+
+
+
+ Does the map encompass every location of what the pins are showing or are some cities like El Paso left out? 
+
+
+
+
+ Prisons 
+
+
+
+
+ ALIENS!
+
+Did I win? 
+
+
+
+
+ No fair. You skipped one. 
+
+
+
+
+ Route 67 
+
+
+
+
+ Route 66 
+
+
+
+
+ Germany. 
+
+
+
+
+ Holland. 
+
+
+
+
+ One of the things that really bugged me about systemd was how it was just thrown into some commercially supported distro we were using (SuSE I think), when much of the work we had done on our systems before hand was heavily dependent on the framework of the original init system (System V I guess). 
+
+We absolutely had to upgrade to the new version of the distro to overcome some issues with another package that was central to our business, which was also commercially supported by Novell.
+
+When we staged a few machines we trundled through what amounts to porting much of the lower level system scripting across the canyon of these two distinctly different (at least from our perspective) init systems.
+
+It was not fun. It cost a lot of money. It caused a rift in the team.
+
+As for me, I am used to collapsing system initialization into a small script where everything is basically hard-coded, for lack of a better term, with full paths to executeables and in a sequential order that makes sense from a hardware point of view (look at multipathing over a distributed filesystem, for example). 
+
+It's a practice I implemented at this particular place because they wanted those machines to be able to reboot in 20 seconds, so I ripped out everything that we didn't need, packed up our own RPMS, and it all worked relatively smoothly until systemd came along. Sure we expected to have to do some legwork between distro revisions, but nothing like this.
+
+So yeah, it was my fault, and I'll take a seat at the anti-systemd camp anyway because having such a seemingly fundamental change in the workflow of manipulating services on these machines was not something anyone could foresee when we dove in to begin with. For all intents and purposes systemd, and upstart for that matter, can be construed as a form of vendor lock-in when it comes down to choosing what commercially supported distribution to use.
+
+It aint the good old days, that's for sure. Linux is a fucking beast.
+
+Long live FreeBSD ;) 
+
+
+
+
+ [The Arc de Triomphe](http://en.wikipedia.org/wiki/Arc_de_Triomphe) 
+
+
+
+
+ [The Dune of Pilat](http://en.wikipedia.org/wiki/Dune_of_Pilat)
+ 
+
+
+
+
+ You are on a dune. 
+
+
+
+
+ It looks like a gigantic caked up sand dune with some thick vegetation in the background.
+
+That could be anywhere. 
+
+
+
+
+ Enchanted Rock 
+
+
+
+
+ I reread he article and found that I had misread the article previously. 
+
+Nothing to be done for the morality of all the mice.
+
+
+Fiddlesticks. 
+
+
+
+
+ TIL Chinese medicine can even affect morality of mice. 
+
+Picture a world, a tiny world, where corruption, gambling, fornication, drugs, and crime are all wiped out with a miracle drug derived from gigantic flowers... 
+
+
+
+
+ Well at least we know theres a vaccine.
+
+I cant see all that security risk otherwise. Call me paranoid. 
+
+
+
+
+ I guess you are here to claim that makeup bag someone turned in to the lost and found. 
+
+
+
+
+ I don't know about the rest, but land lines aren't going to make anything more secure. 
+
+The phone systems in this country were like a playground, or even a boot camp if you will, and now all those kids have grown up.
+
+What you are seeing today is the natural result. 
+
+
+
+
+ A bridge pylon.
+
+
+
+A lighthouse.
+
+
+
+Improper, respectively.
+
+ 
+
+
+
+
+ That's a picture of west Texas, son. 
+
+
+
+
+ Looks like the abandoned airfield outside of Marfa.
+
+Edit: Yup. 
+
+
+
+
+ 350 million years of an evolutionary plateau says the cockroach is going to win this war if the sharks are fucked. What does that say about our fragile and brief existence on this planet? 
+
+
+
+
+ I think he's right. We should let big money and agendas do the counting here instead of fairly neutral professionals simply being paid to run some numbers through their nice systems so aptly built for the exact purpose of running numbers.
+
+At least the big money and agenda guys can effect change.
+
+Heh. 
+
+
+
+
+ Nature will sort that one out. 
+
+
+
+
+ U-Verse (now known as Lightspeed) has been a disaster in terms of just getting the easements and permits secured to haul wiring that requires power and weatherproof air conditioned steel boxes all over the place and failover and needs to be within earshot of the attenuation tolerances of cat6 cable in many cases. Jeez.. that gave me a headache to type.
+
+... all through multiple townships and municipalities at a time. The logistics involved in replacing, upgrading, or most of the time, installing those big roadside boxes full of ethernet switches all over the damned place has been a nightmare since day one and is to this day. To say that ATT could just "switch on" higher speeds needs to be kept in context. Where the infrastructure was in place to do so, as with our smug DOCSIS3 cable providers, then it's a no-brainer. However, in most cases the stuff is just not built out yet for ATT to have a magic button to press that exponentially increases your broadband connection.
+
+The cable companies do have that button, though. They have long since installed what's needed to incorporate ~300 megabit speeds into their product line and need only upgrade some gear here and there to make it happen. ATT needs fiber ran and fucking expensive port density installed to do that. They are having to implement a technology used in datacenters, a technology designed for relatively localized and closed off scenarios. It's bulky, archaic, inefficient, high maintenance, buggy, and it's being shat all over the US right now. Sounds just like everything else modern capitalism has done for this world, come to think of it. Hell, this is the poster child for planned obsolescence and ruining best practices. Imagine if everyone on your block had to use the same restroom. It's outside, fifty yards down the street, big as fuck, and a cool 65 degrees inside, but it flushes *fast*.
+
+Cable companies just have a copper wire that they can mux and demux *miles* from signal origination. What ATT is doing aggravates the shit out of me. Leave it to ATT to pound a square peg into a round hole. Their entire super fast broadband implementation looks like ten pounds of shit in a five pound sack. 
+
+
+
+
+ http://en.wikipedia.org/wiki/Star_Fighter_%28video_game%29
+
+The one I am thinking of was a 3D flyer with basic 3D objects chunked together to form a ship that was upgradeable by flying through prize objects. You could get lasers and double guns and boosters and cool stuff like that for your ship to make it more effective and handle better.
+
+I had hell finding the game to begin with and the reason was that the "Star Fighter" name itself was all caught up in a lawsuit, so they wound up having to rename my game to something else, I forget, but it was enough to drive me nuts trying to find it again, and that was years ago.
+
+That game needs to be here, now. The physics engine driving that game was perfect and gave you a real sense of actually flying a fighter jet.
+
+Here it is, in all of it's ground breaking 32 bit glory:
+
+http://gamesdbase.com/game/sega-saturn/star-fighter-3000.aspx
+
+---
+
+Hey! I found it for the XBox!!
+
+https://www.youtube.com/watch?v=yUo7t2Ii35k
+
+Cool ;D 
+
+
+
+
+ Sounds like a familiar read. I know I could go on forever about it.
+
+Instead, I'll give you [Aunt Edna.](http://www.rootsweb.ancestry.com/~txloving/Mentone%20Sheriff%20Page%201.jpg) 
+
+The article says she was the first female sherrif in Texas, which is not really true. She was, however, the first *elected* female sheriff in Texas, which is saying something... until you hear about how 23 dead people voted for her twice, giving her only a slight edge over the competition. 
+
+
+
+
+ My father and little sister once went to drive a pipeline to check it for leaks, which is usually an easy job unless dad had to order some extra large clamps for bigger leaks.
+
+They left the house early in the morning and didn't get back until very late at night. Turns out a tire blew and the spare was flat, so my dad pulled up to a nozzle on the pipeline and pushed a little natural gas into the spare.
+
+Just enough to make the tire diesel in his face, actually. He had a funny looking bruise the size of a silver dollar from the face of the tire chuck on his bicep, and probably still has pieces of gravel embedded in his skin from the explosion.
+
+He had to carry my little sister, who must have only been 10 at the time, many miles through the desert heat towards Orla. Dad always kept lots of water in that truck, and he had enough tools on board to fix damn near anything. The last half of that sentence is a worth a whole series of books on amazing feats of the DIY engineer.
+
+He always told us to stay waaaay back when he was doing anything dangerous. Even though I was only 12 or so, I was tall enough to drive his truck, and went with him regularly to maintain the wellheads and what not, but sis rarely went. The one time she does go, something exciting happens, and I was stuck at home with nothing but my .410 and rattlesnakes to play with.
+
+Life was tough out there, but my dad was tougher. I will never forget the look on his face when he got home that night. He had bloody specs all over his shirt.
+
+Sis was unfazed. Went right on playing with the dogs and doing the things she did during the summers with Dad.
+
+That was some 25 years ago, and just another day in the hard life of the big man from Pecos. I wouldn't trade a minute of being out there in the middle of nowhere with my dad for anything. 
+
+
+
+
+ Found some tiny black ants that sting like hell here in Corpus this visit. Not sure if they are Crazy Ants, but I know I have never had ant stings go numb like that before. 
+
+
+
+
+ This is about all that country is good for. The only problem I see is aquifer contamination. Some fairly complex and poorly understood, even legendary geology exists in the area. I lived out there and probably still have family living around Mentone. The stories I have heard over the years about theorized oil bearing formations and bottomless springs make me wonder. 
+
+
+
+
+ While I myself have never been accused of making the best decisions in life, please allow me to boast with a humble and constructive certainty that I am not an egotistical douche bag. All of this in spite of such smoldering good looks and sultry wit. As a jewel-cutter of a linguist and jewel-thief of a heart-breaker, don't take this the wrong way, but....
+
+I would go as far as to say that I possess the constitution needed to go on a blind date with even *you* - even after witnessing the carelessly agonizing method with which you mishandle the emotions of others, and more disconcerting, your limited capacity to make the night and day distinction between the train wreck of human emotions involved and the simple impulses of an instinct basic enough to originate from a common part of any brain in the animal kingdom.
+
+Anyway, being in the pursuit of the perfect balance of character, integrity, confidence, and presence necessary to portray my manliness, I have grown to relish the opportunity to wield an exceedingly rare ability to deliver credit where due. I deal in benefits and doubts, and as your awareness of my intentions may be increasing, the implications of the proverbial "catch" associated with my benevolence would be best related (to the good sport that you are) as a curve ball enveloped in the resolve of dust and leather that only a glove resourceful enough to both spank and cover your ass will do.
+
+Today we will learn how that glove can serve to compromise the intent of the pitcher. The trick is to keep your eye on the ball and your mind on the glove, and that's going to be quite a feat considering where your head is at the moment.
+
+Be completely honest with this man. No more or less than a forthright confession. He will *completely* understand, trust me. It's really easy - If the mind can tire of wading in expression, and the heart can mire in the depths of depression, the body must be allowed the shallows of regression or the relationship comes to an end.
+
+Human beings have been endowed with the self-awareness necessary to grasp such concepts. Now all you need to do is take a step away from being human and become a modern woman by finding a way to tell the guy he is charming enough to spring you into a blind date, but repulsive enough to make a freight train take a dirt road. Kind of difficult to reproduce if you can't stand the thought of someone touching you. Something tactful like that.
+
+Then again, look at what modern science has done for humanity. Faces can be swapped. Realistic genitalia has been made obsolete. In addition to many other objects, a woman can now be viewed as an investment vehicle. With as little as $25,000 worth of plastic surgery her net worth increases dramatically, and she gains some proportional amount of pedestal life.
+
+When I was in little league I moved my catcher's mitt all over the place to distract the batter. It worked really well, but only on kids. As I grew older I noticed that it was more of a distraction for the pitcher.
+
+---
+
+TL;DR: My dad would laugh and say, "Looks are only skin deep, but Ugly goes all the way to the bone." 
+
+
+
+
+ What an atrocious mobile site. Whoever signed off on it needs some critical neural pathways rewired. 
+
+
+
+
+ By sending tiny spacecraft to the edge of the solar system with gibberish imprinted on them serving as TL;DR for our pathetic, self-defeating existence. 
+
+
+
+
+ I worked with a guy who blew 0.12 at a clinic over two days after he quit drinking. At 0.01 an hour of elimination, and correct my math if I'm wrong, but that comes out to roughtly **~shithammerfacewasted**.
+
+I blew 0.18 about 30 hours after I was arrested for peeing [mostly] on a fence, um, somewhere during, um, the daytime,  meaning that I was, by contrast, only **~33.8 sheets of toilet paper in the wind**. The cops did the test for kicks because I went to highschool with one of them.
+
+Small town ;)
+
+I have a portable breathalyzer from Walgreens that is a lot of fun, but I can't seem to find it come to think of it. Late into the night I have seen .3's and .4's pretty regularly, discounting any tests that would read too high due to recent (10 minutes) consumption of alcohol. 
+
+
+
+
+ Sing a song of Sony,  
+A pocket full of Yen.  
+Magnavox and Zenith,  
+Undersold again.  
+See the U.S. suffer,  
+From the job we do.  
+This is how we get revenge,  
+For losing World War II.  
+
+For some reason I found this entertaining enough in grade school to commit to memory. It appeared in either a MAD or Cracked magazine of the time.  
+
+
+
+
+ Holy *shit* House of Leaves is scary.
+
+And probably the most impossible contemporary book to truly follow. I had to take notes. 
+
+
+
+
+ Boat probably had the same engines as the whaler that tried to take him in Japan. 
+
+
+
+
+ Talk about adding insult to injury. Wait 11 hours for some "beef" from McDonald's.
+
+Take that $1.29 or whatever it is that you were going to spend and go to the grocery store in the same parking lot and feed yourselves some goddamn vegetables. You can probably get 10 ears of corn for the price of a "cheeseburger" from McDonald's.
+
+Seriously: "HEY WHY DON"T WE ALL PITCH IN ON A FUCKING BBQ???"
+
+Think of all the *beer* you could buy with those people pitching in. A keg or three, a few briskets. Bam..
+
+I'm sure one of those rednecks has a nice pit and there is probably a huge park nearby full of this going on anyway.
+
+Look at me, all pissed. Heh. When I was 12 or so they opened a Short Stop about a mile from my place in Austin. I told my redneck dad I was going to ride my bike over there and grab a burger, and that's what he told me: "Son, that's like adding insult to injury." I chuckle a little to this day thinking about that, and then I remember that his father died of a heart attack at the age of 40 for eating real beef literally three meals a day for most of those years.
+
+11 hours... I do believe you'd get your ass whooped for doing something like that around here... 
+
+
+
+
+ North Beach is a great place to party, but so is Port Aransas, and the water on the Port A. beach is *far* cleaner than the water at North Beach. I would not allow my children in that water at North Beach. There was a post here somewhere recently linking to a website that had a map of saltwater samples up and down the coast, and the area around Ropes Park, not far from where North Beach's terrible samples were taken, was found to be the worst in Texas.
+
+And when I say "water quality" I'm not talking about brackishness.
+
+Don't let your kids swim in that water, trust me. I went to school in Corpus and did a semester of research on pollution in the area. The place is as toxic as it gets and has had some of the craziest birth defect rates in the country. 
+
+
+
+
+ So this got me digging around on wikipedia, and found this:
+
+http://en.wikipedia.org/wiki/Abraj_Al_Bait_Towers
+
+Being from the coast and worn out from this long day my first thought was that this was the biggest bait stand in the world. 
+
+
+
+
+ The one at the Dell Diamond after the game was probably the best fireworks show most people in that stadium have ever seen. It completely blew away the one at the park. 
+
+
+
+
+ Is that militia going to escort every rancher's family to and from school and work for the rest of their lives?
+
+Don't get me wrong, I have no qualms about taking matters of self defense into my own hands, and would protect another innocent person with my own life, but I still have rules to play by. 
+
+Smugglers do not.
+
+That's why this is a job for the military and nobody else. We can hunt people half a world a way in the middle of fucking nowhere and "spy on everyone", but we can't protect our own border? What a farce. It's outrageous and clearly indicative of corruption at the highest levels of our government.
+
+I could really rant about this one because it revolves around just how crooked elected officials are in this country. I'd sue the federal government for protection and make them buy me out at market rate if I were these ranchers.
+
+If I were a smuggler I'd watch the fuck out because that corruption is a two way street, and shit rolls downhill pretty quick when it comes to erasing scum in the desert. 
+
+
+
+
+ See: Halliburton 
+
+
+
+
+ I would say it's more formulaic than authentic. You could literally switch around all the nouns in the paragraph and make it sound like propaganda from any country. 
+
+
+
+
+ If you really think about it in terms of genetics all it takes is one generation. 
+
+
+
+
+ Why wouldn't the coast guard set a trap for these assholes?
+
+Shear off the net and put the floats back in the water and watch the damned thing until someone shows up to claim it.
+
+Cut most of the net off, make it look torn or something, and stick a few tags up some of those dead sharks' asses and find out where these guys are going with them.
+
+They are just going to do it again. The CG might have cleaned up a mess, but they are only going to have to clean up a bigger one as the poachers will probably try to recoup their loss and then some.
+
+It's like that "young fisherman" from Mexico they caught in those pictures. I can see that guy's side of things, look at his boat. It's a piece of shit that you probably couldn't sell on Craigslist here in the states at all. Sadly, he probably has a large family to feed. He certainly isn't making a lot of money - but hey, let's be sure to figure out a way to bust his ass.
+
+Don't get me wrong, I'd probably pull up his net and/or report him myself, but it's the lack of sense displayed here by government agencies who would rather hold up "a few dozen" (actually a few *hundred*) dead sharks as a trophy and put the weight of those laws down on the guy who probably just needs the goddamn food.
+
+Nobody ever consults me, I swear.
+
+Well, except my clientele. Unfortunately the CG is none of them. 
+
+
+
+

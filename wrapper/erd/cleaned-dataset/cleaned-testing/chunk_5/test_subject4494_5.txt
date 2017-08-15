@@ -1,0 +1,1132 @@
+ Your post only makes sense if the exchange doesn't have a full reserve. 
+
+
+
+
+ Off-chain transactions do not imply fractional reserve. You can have full reserves and transact off chain. 
+
+
+
+
+ If they had the cash, why wouldn't they be holding btc anyways? 
+
+
+
+
+ If an exchange is doing that, we've got larger problems, and withdrawing in bulk will cause another MtGox, which is empirically bad for bitcoin price. 
+
+
+
+
+ I don't see why you'd reject old version blocks after a hard fork.
+
+Does the code Gavin published do that? 
+
+
+
+
+ It doesn't matter if its blocks aren't accepted by the 90% chain, as long as the 90% chain's blocks are accepted by the 10% chain. 
+
+
+
+
+  My point is not whether we want to do it or rather it is good, that is a whole other discussion. My point is that if the above-mentioned payment processors, with their infrastructure backing them, collude to do it, they can force it regardless of what the miners want.
+
+If they were to completely fork bitcoin in a non-backward compatible way, and 50% of the miners wanted to stop it, they could just collude to attack the fork, with a standard 51% attack.
+
+You can't do this without the miners. 
+
+
+
+
+ That's actually the worst way to fork. If we don't have 50%, we don't want to switch. We also don't want to force miners to mine larger blocks. You could get around that by specifying some non-backwards compatible protocol change, but I don't see a strong reason for that (I haven't thought a lot about it, though.)
+
+(And seriously, a hard fork isn't enough, you also want to break compatibility with smaller blocks?) 
+
+
+
+
+ It has the nicest user interface that I've seen. I only use it for checking balances and tracing coins, wouldn't trust my money though. 
+
+
+
+
+ The 10% chain would actually be shorter and not accepted. 
+
+
+
+
+  If the exchanges agree among themselves, though, on going one fork and not the other, the mining pools can mine all they want, but whatever they mined/voided will be worthless.
+
+That's only if the forks aren't compatible. As long as the 20MB nodes still accept 1MB blocks , and more than 50% of miners stay on the 1MB fork, there *is* no other fork.
+
+The 1MB fork would win on both forks.
+
+The claim "whatever they mined/voided will be worthless" is just wrong, unless the other fork is longer, which only happens if 50% of miners switch. 
+
+
+
+
+ He could have only 20% of the miners go with him, the rest will follow in a few hours. It doesn't matter what the other devs think, the original chain will be relegated to back-alley-shady-altcoin status in no time.
+
+If less than 50% of miners switch, there's no "longer" chain to switch to. The one with only 1MB or smaller blocks will always be longer. It will not become worthless.
+
+There's a reason it's said that you need 51% to uphold a fork. 
+
+
+
+
+ If less than 50% of miners switch, then the longer chain is the one with shorter blocks, and even exchanges that switched still support that.
+
+I don't see any incentive for miners to switch just because all exchanges did.
+
+Am I missing something? 
+
+
+
+
+ Maya: 0. 
+
+
+
+
+ I believe Google Wallet allows sending any amount, although to cash out you need at least $1. You could just transfer some from a bank and back if you really need the pennies, though. 
+
+
+
+
+  Do you get paid to write such things? How does one talk about Snowden without talking about the NSA?
+
+You're using my criticism of Snowden to imply that I approve of the NSA. That's wrong, and if you can't see why, we shouldn't talk about the NSA altogether.
+
+You are using the same tactics as government shills by focusing on specifics part of the programs while avoiding talking about the parts that affect Americans.
+
+I'm sure government shills also use English, that doesn't mean I'm one because I use English. Logical fallacy, again.
+
+And of course it's against others countries laws for the US to spy on every country, the UN called the US out on that matter. To argue otherwise is intellectually dishonest.
+
+Talk about intellectual dishonesty; the example you linked isn't about spying on other countries' citizens, it's about spying on protected international missions! That's illegal under international law (and therefore under US law as well, due to [this](https://en.wikipedia.org/wiki/Treaty_Clause).)
+
+Is that really a serious question?
+
+Yes. You'd do well to take every point I make here seriously.
+
+Do you really believe that any country would willingly allow foreign nationals to spy on them?
+
+What a country allows and what is legal are two different things.
+
+ In France for example they have "Loi Macron" that forbids such thing
+
+As far as I can see this Loi Macron is something passed recently, within the last few months, for example http://www.thelocal.fr/20150410/france-gifted-but-lazy-loafing-pierre-gattaz and http://www.afrizap.com/en/france/. So it seems irrelevant, unless I'm missing something.
+
+ there are other laws but I don't know them on top of my head and frankly this is a silly exercise .
+
+I don't think it is. I think the question of whether the activities are illegal in other countries isn't that relevant to whether Snowden did the right thing by exposing them, but I also think some of them were legal, and if you know otherwise I'd like to hear your sources. 
+
+For one source that says it is largely legal, see https://theconversation.com/i-spy-you-spy-we-all-spy-but-is-it-legal-20540.
+
+I see your point, but when one starts with the insult before the argument, one looks silly, especially when the following argument is based on half-truths.
+
+I don't think my argument was based on half truths.
+
+Yet we learnt that Germany was aware, the chancellor appeared angry so its population would not get even more upset. One should not listen to what officials say, but what they actually do, and we know that the German spy agency helped the NSA.
+
+That doesn't claim that the Germans knew the US was spying on *them*. They helped the US spy on other targets.
+
+I highly doubt the Merkel knew that the US was tapping her cell phone, and your source does not claim that.
+
+It's not a maybe, it's a clear yes, and the same is true of Americans.
+
+For Americans, I have to decide if the good that was done by revealing the abuses outweighs the problematic parts of what he leaked. This is a very real tradeoff that is not solved by pointing to the parts that he leaked that *were* illegal programs. 
+
+
+
+
+  I mean the collective value.
+
+I still don't get what your argument is against my use of market cap. Explain what you mean by collective value, and why that has anything to do with my statement.
+
+You may be arguing definitions. I'm arguing against what you are implying and against your method of argument in general. You have not actually elaborated on why your application of market capitalization to bitcoin is of any substance.
+
+Someone above said something along the lines of "if bitcoin ever achieves any significant value, it will be easily attacked". The context was clearly saying that it's not being attacked right now because it's not worth enough.
+
+So I responded by asking how it could be viewed as having no value now to attack, if the market cap is over 1 billion. Obviously an attack wouldn't pull out the whole market cap, but a successful exploit against bitcoin would probably be worth at least 1% of the market cap, which is still significant. There's also the point that as the price rises, the amount spent on mining also rises, which raises the cost for mining attacks.
+
+I don't think that argument could be reasonably mistaken for the argument "bitcoin has a high market cap, therefore bitcoin=good", which I agree is ridiculous.
+
+What the hell do you think a market cap of a volatile asset that crashes like a rocket pointing the wrong way if anyone actually tries to move some volume and has nothing to back it means, other than "this number is impressive".
+
+It means that some portion of it is up for the taking should anyone have a real attack on bitcoin. Obviously you couldn't get the entire market cap, but some portion can be gotten. 
+
+
+
+
+ I know what each word means separately, I don't get what you meant above by using both together.
+
+Nope, that's the appeal to authority. Just because BoA does it doesn't mean it's right (unless foreclosing on the wrong house is right). They probably aren't misusing it as badly as you are in this case but the point stands.
+
+You seem to misunderstand appeal to authority, and why it's a logical fallacy. We're not arguing over a factual matter, but a definitional matter. When arguing definitions, how it's used by people is a relevant form of evidence. You have yet to say what you'd consider evidence, or give any sources at all for your claim.
+
+See http://skepdic.com/authorty.html, which lists the conditions that an appeal to authority is a fallacy.
+
+I know you were trying to impress people. Stop pretending like you didn't throw "bitcoin" and "over a billion dollars" to make it seem important.
+
+Well, if you can read my mind, why don't you comment on the brilliant rebuttal I'm thinking of right now?
+
+Or more seriously, you *can't* read my mind, and apparently can't correctly infer people's intentions from their writing. The mention above was to disprove a claim. I have different things I mention when I want to impress people, but this sub is not where I try impressing people. 
+
+
+
+
+ Some searching on collective value shows up only moral terms, not financial ones; could you link a definition?
+
+Anyway, above I was told that market cap does not apply to bitcoin. Pointing out that people working in finance use the term should have been sufficient to disprove that.
+
+ Your criticism seems to be different, and you seem to think I was trying to impress people, which is incorrect. 
+
+
+
+
+ I was using it to rebut the claim that it hasn't achieved any real value.
+
+Why do you think I'm misusing it? Nobody has supported that claim.
+
+And how else should I respond to a claim that I'm using a word wrong, if not by showing that other people use the word that way? Again, what would be acceptable proof to you? 
+
+
+
+
+ Well yeah, if you have access to the machine when the password is put in. Or if you hibernate without encryption. 
+
+
+
+
+ /r/ilerminaty 
+
+
+
+
+ You could just read the article, you know. He mentions a figure that he thinks is the maximum market cap, and uses the term market cap. 
+
+
+
+
+ If the fact that someone from BOA is using it is not enough to show that I'm not foolish for using it as well, then what would? 
+
+
+
+
+ I pointed out that the head of global rates and currency research at BOA applied the term market cap to bitcoin, and they presumably know what the term means.
+
+Reading comprehension, babe. 
+
+
+
+
+ Vanitygen is a cryptographic brute-forcing application, and can be used to search for a complete address.  However, you will be unhappy with the amount of time required for it to find a match. 
+
+
+
+
+ You put in all the characters except the last 6, then figure out the checksum. 
+
+
+
+
+ So how much do you think you can get a month that are bought legally, then sold for 20% off? 
+
+
+
+
+ And do you think those are bought completely legally? (`If yes{sell them a bridge;} else return "user is normal";`) 
+
+
+
+
+ Actually, this subthread is about a tablet, and you said that the company could track by network logs. 
+
+
+
+
+ Short answer: no.
+
+Long answer: **NO**
+
+Even longer answer: what's the largest amount you've ever been able to spend on Amazon using bitcoin? 
+
+
+
+
+ I don't actually see this link elsewhere in /new, and the article is only 2 hours old. 
+
+
+
+
+
+
+
+
+
+  With all transactions ending up in the blockchain, the only way to guarantee anonymity would be both purchasing and selling your bitcoins outside of any system which requires identification.
+
+Actually, you can mix your coins after you get them, and end up with anonymous coins. 
+
+
+
+
+ I'm pretty sure it is.
+
+A quick search turns up [this](https://tbtc.blockr.io/trivia/block), can't be bothered to find a more official source now. 
+
+
+
+
+ A block can't have no transactions in it, that may be the source of your confusion. 
+
+
+
+
+ If you're using a computer they provide, and an operating system they provide, and there's malware on it, then yes.
+
+If you use your own OS (say, Live Linux USB), or your own laptop, then they can't see what you're doing on Tor, or any good VPN.
+
+They can see you're connecting to them, but not where you go.
+
+There are ways to block that as well; see Tor bridges. 
+
+
+
+
+  Do you have any idea how common it is for companies to install custom certs to track their users?
+
+No idea. Any large company that cares will do it, it's easy if they set the computer up. 
+
+
+
+
+  Can they raise the issue of how the server was found and the fruit of the poisoned tree?
+
+They already raised it and the judge pointed out the problem with the request. I doubt that could go through on as a basis for appeal.
+
+How about Ross' experts being blocked from testimony and that the journal and screenshots could have been total fabrication?
+
+They'd have to show why the judge was wrong in denying the testimony (for being filed too late.)
+
+You can't just repeat old arguments in an appeal, you need new ones.
+
+For the "faked screenshots", they'd need to argue against the agents that testified for its credibility, which is different from the corrupt agents.
+
+Again, doubt an appeal has much basis unless there are new arguments.
+Finally, do the indicted federal agents' crimes play a part in this appeal?
+
+As nothing connected to them was brought up in the trial, again, unlikely. 
+
+
+
+
+ [ Removed by reddit on account of alleged copyright or trademark infringement. Read the full takedown notice [here](/r/redacted)] 
+
+
+
+
+ https, tor, or vpn. 
+
+
+
+
+ How would they be able to tell which subreddit he was on on an https site? I've read companies can have control of their SSL certificate or something, but do they really do this?
+
+If any link, such as imgur, is not https, then that will be trackable.
+
+To track SSL you need the user to install a custom cert, which company computers can do easily. 
+
+
+
+
+ Use Tor or VPN. 
+
+
+
+
+ The sad thing is that he's using the same lawyer. 
+
+
+
+
+  Or, maybe it is not up to the person defending all the relevant experiments done by all serious scientists ever, to have to replicate whatever ridiculous setup ginned up by a guy on youtube.
+
+The people who made the video were replicating a previous experiment by MIT. Are they not serious enough? 
+
+
+
+
+ The first link says
+
+The subject was later popularized in a famous 1962 article in the journal Nature, which described an experiment in which all other forces to the system were removed by filling a 6 ft (1.8 m) tank with 300 U.S. gal (1,100 L) of water and allowing it to settle for 24 hours (to allow any movement due to filling the tank to die away), in a room where the temperature had stabilized. 
+
+The second one is talking only about sinks and toilets as far as I can tell. 
+
+
+
+
+ Awake. I hope Netflix picks it up eventually, that ended too quickly. 
+
+
+
+
+  draining sink or toilet.
+
+sink or toilet.
+
+Notice how no pool is mentioned?
+
+Look, why don't you just educate yourself on the strength of the coriolis force?
+
+I tried, but there are two different papers quoted there with differing claims, and I'd need to learn a lot of physics to actually evaluate them.  
+
+
+
+
+  PRISM collects all internet communications from US citizens, this is a clear breach of the The Fourth Amendment of the US constitution and the Bill of Rights which guarantees privacy and prohibits unreasonable searches and seizures.
+ Your comparison of a US citizen calling Google and demanding their data of other countries makes no sense, you're just trying to whitewash what the NSA did.
+
+I did no whitewashing. We're talking about Snowden now, not the NSA. It's a logical fallacy to say that because I think Snowden did some wrong things, that I think the NSA is right in what *they* did. I don't.
+
+Now, whether it's a "clear breach" is debatable, legal experts have said otherwise, but that's not the point here. I'm talking about PRISM spying on other countries' citizens. You said it would be against other countries' laws, which I denied. So I asked you to list which law it would break, and you didn't answer.
+
+An ad hominem is when you attack someone's character rather than their argument, there is no place for such place for such puerile attack if one wants to be taken seriously.
+
+You've made some personal attacks on me yourself, but no matter.
+
+The ad hominem fallacy is when you say "that guy is stupid, therefore he is wrong". When you say "that guy is wrong, for reasons X, Y, and Z, therefore he is stupid", that's not ad hominem.
+
+See http://laurencetennant.com/bonds/adhominem.html
+
+So your issue with Snowden is the fact that he let foreign states know about the capabilities of the US? But we know that these states (like Germany, France, Britain, etc..) knew about the program, they were part of it. So it was no surprise to these governments, in effect Snowden didn't disclose anything other foreign agencies didn't already, what he did was to let citizens know about the abuse of power by our Governments, and for that he should be thanked.
+
+First of all, not all states knew about US spying on them. Germany in particular got very upset with the US for spying on them; if you're conspiracy minded you could dismiss that as fake anger, but I doubt it.
+
+what he did was to let citizens know about the abuse of power by our Governments, and for that he should be thanked.
+
+If you're a non-us citizen, then maybe. And I do think leaking any of the illegal programs (under US law/constitution) is fine, and I'll thank him for that. The problem is those documents he leaked, that did not describe anything illegal. I don't see how the fact that other countries may have known about them makes it any better.
+
+Again, if someone were to publically reveal a weapon that your government had been developing against other countries, would you thank them? If no, then Snowden deserves no praise from Americans for the programs involving spying on other countries that he revealed. 
+
+
+
+
+ Thanks for that. 
+
+
+
+
+  The largest mining pool posted on the bitcoin developers mailing list the other day and said 20MB blocks were more than they could handle.
+
+First of all, let's [link to the actual post](http://sourceforge.net/p/bitcoin/mailman/message/34157036/)
+
+That says it's more than they can handle now, they want to to increase smoothly. Right now there's no need for such big blocks, but developers are worried about the future, and supporting more.
+
+Anyway, I was talking here about what would happen if 20MB blocks were common, that's not going to happen for a while.
+
+Greg Maxwell has said that most of the ghash hashrate drop off after the 51% scare was CEX moving their hashrate to other pools to hide it. This apparently happened after a meeting with all the big mining players, and is likely being done by other large operations specifically to make it appear that everything is fine.
+
+This is a larger concern. I'm not sure if he said "most", though, what I recall is that "some" was hidden. 
+
+
+
+
+ It is negligable to toilets, kiddy pools and sinks.
+
+That source doesn't mention that at all. 
+
+
+
+
+  The Bitcoin "market cap" is a bullshit metric that is there to make you feel a bit better (or not), it is not a market cap.
+
+Learn what a market cap is before coming here and making a fool of yourself.
+
+Please elaborate. I find it fascinating that [Bank of America](http://www.cnbc.com/id/101250070) is hiring people with no knowledge of finance as analysts.
+
+I may be stupid, but I could probably become their "head of global rates and currencies research", because apparently that doesn't require knowing what market cap means. 
+
+
+
+
+ Could you elaborate on that? 
+
+
+
+
+
+
+
+
+
+ This [already happened](https://bitcointalk.org/index.php?topic=191039.0).
+
+See also http://www.righto.com/2014/02/ascii-bernanke-wikileaks-photographs.html 
+
+
+
+
+ That's talking about toilets, not what the experiment is doing. 
+
+
+
+
+ MURICA! 
+
+
+
+
+ 4188 
+
+
+
+
+ Guilty! 
+
+
+
+
+ Joinmarket 
+
+
+
+
+ I think the people who made the video claimed they followed the same procedure as the MIT experiment. If that's true, a replication would have value. 
+
+
+
+
+ If you had even a single result that contradicted theirs while being as controlled as theirs was then you'd disprove their experiment as not being strong enough. Surely there's a 50% chance of that if you're right?
+
+And what about the MIT paper they cited and claimed it shows that the effect can be detected? 
+
+
+
+
+ Just remember, in an alternate universe there's someone who saved two kids today.
+
+There's also someone who posted "TIFU by not wearing contacts and letting two kids get killed by a car".
+
+Multiverses are fun. 
+
+
+
+
+ At the risk of sounding childish: could you try doing it and making your own video?
+
+I'm somewhat sympathetic to the idea that criticism of something should be within an order of magnitude of the original in rigor or higher. If someone makes a video of an experiment, the rebuttal should feel like it took a similar amount of effort. 
+
+
+
+
+ I think we're using different definitions of smart.
+
+The one I use allows smart people to sometimes be very very wrong. 
+
+
+
+
+ More precisely, the law says that he's responsible for all money he laundered. 
+
+
+
+
+ Timeline or wall, make up your mind. 
+
+
+
+
+ Also, where do you live and when do you work? 
+
+
+
+
+ Now you know how the steal-beams terrorist-melters felt 
+
+
+
+
+  No it isn't, there is no country in the world that allows spying by foreign nationals, none.
+
+What crime would a US citizen be committing by calling up google and demanding their data on other countries, as in PRISM? What country says that is illegal for someone to do?
+
+What crime is being committed by passive collection of data that goes through internet cables?
+
+This opinion piece is quite bias, the author starts his essay with a ad hominem which shows his lack of argumentation
+
+Ad hominem is when you don't include arguments, they did include them. I in fact quoted one.
+
+I would consider them a defector, but we all know that the spying on all Americans is illegal and go against the Constitution, that the government was able to extend the law to fit their needs is not surprising, but it doesn't make its actions any more legal, at least constitutionally.
+
+Again, my problem is with his exposure of spying on other countries, which is certainly legal under US law, if not those countries laws.
+
+I'm amazed that people like you defend the spying on Americans.
+
+Don't be, because I didn't defend that. 
+
+
+
+
+  just plain stupid.
+
+Goldman Sachs does not employ stupid people. 
+
+
+
+
+  Even more importantly, because the only response variable was flow direction, and if there's an equal chance systemic bias leads to either flow directions, there's a fully 25% chance that this result does NOT support the Coriolis hypothesis.
+
+That's only *if* there was a systemic bias on both sides. You need to multiply the chance of having a systemic bias in the first place. 
+
+
+
+
+ https://bitcoin.org/en/developer-reference#decodescript says you can use bitcoind to do it.
+ 
+
+
+
+
+ Your sarcasm detector is broken. 
+
+
+
+
+ So what's the difference between what they did and the MIT claim, or is MIT wrong? 
+
+
+
+
+  Lol please. Calling bitcoin a currency while saying it has a 3 billion dollar market cap is laughable at best.
+
+I didn't call it a currency. You were the one who said "any popularity or value", which it clearly does possess. There's enough incentive to attack it.
+
+In fact your claims are nothing more than bullshit which can easily be debunked by comparing bitcoins value with number of nodes. As bitcoin gained value mining centralized, and the number of nodes decreased. This isn't "something I've said a couple of times". This is exactly what happened from 2013 to 2015.
+
+There are other factors, in particular the ability to use bitcoin without running a node, pools coming into existence (and solo mining not being practical), ASICs coming out which made mining something you needed a new device for. All of those are one-time events, that wouldn't effect what would happen if the price rose even higher. If you'd like to do a more careful analysis that controls for those factors somehow, I'd love to see it. But as it is, what you're saying only shows correlation where we have several other confounders that may be the cause.
+
+Yes yes, that will be fixed in the future. Like every other gaping bitcoin problem.
+
+This is code already in github, which will be released after testing. See https://github.com/bitcoin/bitcoin/commit/f9ec3f0fadb11ee9889af977e16915f5d6e01944 
+
+
+
+
+ But that doesn't matter, the points he makes and the math he shows are sound regardless of that the person calls themselves.
+
+I can't judge whether the math is right.
+
+They got results despite the math.
+
+That's not what they say. They cite a paper that did the same experiment, which they claim goes through the math and shows it is possible. Again, I can't evaluate their math either, but they aren't saying it should be impossible but we did it anyway. 
+
+
+
+
+  Currently bitcoin is partially decentralized. Bitcoin is such an obscure libertarian play toy that it's decentralized enough to remain secure. If it ever gained any popularity or value, the current decentralization would not be enough to stop it from being attacked.
+
+How can you call something with a market cap of over 1 billion as not gaining value?
+
+If there was enough motivation all you would have to do is convince 3 people in the world and you have control of the majority of the hashing power.
+
+I've said this as well a couple of times. I do think that if bitcoin went significantly up in value, there would be substantially more nodes, and mining would decentralize more.
+
+Also, those 3 people (and in reality, it's 3 companies, which hopefully have multiple people that would need to be compromised) would gain a lot quickly, but would then lose a lot of mining power as miners switched to a different pool. I also think that if the price goes up, miners will have more incentive to switch to smaller pools, because of the very same incentive for attackers.
+
+Do the math, 20mb blocks = 1 TB of dice game spam added to the bloat chain every year. How many people are going to purchase multiple TBs of disk space and give up all of their bandwidth to run a node?
+
+There have been proposals. Note that pruning will allow for the vast majority of the blockchain to be discarded. 
+
+
+
+
+  This subreddit was created to mine Comedy Gold, and to laugh at you.
+
+The sub was created before I owned any bitcoin or knew anything about them, so you're endorsing retrocausality.
+
+(The above argument has about the same epistemological quality as your own.)
+
+We don't even need to say anything to convince reality that Butts are done for.
+
+If you don't want to engage with the other side's argument, that's your right, just don't pretend you're interested in doing so.
+
+ They become more and more irrelevant every day.
+
+What metric are you using irrelevant as a proxy for?
+
+We never seek to convince you or anyone else, only to amplify the already-substantial laugh yield.
+
+What can I say that would make you laugh? 
+
+
+
+
+  That was basically done in the original post (the one with the math and theory) and the response it got is basically "try it yourself"
+
+He doesn't claim to be a physicist.
+
+Never let the ideal textbook calculations or simulations get in the way of empirical data. I test for a living. I learned this my first week on the job 13 years ago.
+
+Which is just.... terrible.
+
+I agree. OTOH, they also mentioned a paper that agreed with them on the math, so either one paper is wrong, or misinterpreted, neither of which I have the expertise to judge. 
+
+
+
+
+ Because the other paper didn't seem to be addressing the exact same question, and it seemed to be the commenter who was interpreting it. 
+
+
+
+
+ I can't evaluate his claims, but he does cite a paper and claim he replicated it. His results by himself might not be enough, but if the experiment was already done, I'd give him the benefit of the doubt.
+
+OTOH, the other side has a paper as well. Maybe we should ask a physicist. 
+
+
+
+
+  3 mining pools control 50% of the hash rate. If that's not centralized I don't know what is.
+
+If that's the case, then your claim above that increasing the blocksize to 20MB and it being full would destroy centralization is false. Either it's currently decentralized in whatever sense you're talking about, or it isn't, but not both at the same time.
+
+I honestly don't know why bitcoiners come here and try to wage some holy war trying to debate us. We don't care about your ponzi scheme, and you sure as hell aren't going to convince us that you are right. 
+
+If you just want to laugh without caring if you're right or not, be my guest. The sidebar said this tries not to be an echo chamber, but I guess there's only so much you can do.
+
+How can you say you don't care when this entire subreddit was set up to talk about bitcoin?
+
+When you guys come here, all you do is get your panties in a twist, spout off some talking points, and then walk away with your head held high because you just "won".
+
+How is that description any different than what you're doing? 
+
+
+
+
+  Of course not, but it's illegal under US laws for other countries to spy on the US and vice versa, hence spying is illegal.
+
+It's more complicated than that. Hacking would be illegal, but simply grabbing data from cables, or intercepting it when it comes into the US might not be.
+
+What programs are you referring to?
+
+http://www.newyorker.com/news/daily-comment/edward-snowden-is-no-hero
+
+These were legally authorized programs; in the case of Verizon Businesss phone records, Snowden certainly knew this, because he leaked the very court order that approved the continuation of the project. So he wasnt blowing the whistle on anything illegal; he was exposing something that failed to meet his own standards of propriety. 
+
+[Here's another list](http://www.forwardprogressives.com/let-me-show-why-edward-snowden-traitor-not-patriot/)
+
+
+If someone would reveal that the CIA is spying on other countries, would you consider them a hero, if it was completely legal under US law? Or would you consider them a defector? 
+
+
+
+
+ Both sides quoted papers. Your "actual scientist" reference is ridiculous, as well as the "verifiable". Both cited "actual scientists", and the experiment is also verifiable. 
+
+
+
+
+  Miners went from hundreds to dozens to 8
+
+[citation needed]
+
+It could be you're talking about mining pools, but that doesn't mean the mining itself is centralized, and they could easily move to a different pool.
+
+nodes went from 20,000 down to 5800
+
+Which qualities are lost by a descent from 20000 to 5800? How much further would be required for another loss of qualities?
+
+I think most of that was right after SPV was released and you didn't have to run a full node to use bitcoin. 
+
+
+
+
+ brb, checking my balance.
+
+By the way, I had a credit for "REVERSE INTEREST CHARGES" on a credit card recently, wasn't sure what it was, but I called my bank and they sent me a check. Anyone know what that could be? 
+
+
+
+
+ You said something about doing Bayesian statistics wrong, you never did any calculations. You complained about moving goalposts when my argument is the same as I started with. When you make those kind of accusations, it's on you to support them. 
+
+
+
+
+  lol then your number is 10% not 1, stop moving the goalposts.
+
+What's your complaint? I laid out clearly what each of my numbers meant.
+
+Right, only on ones where someone can afford to bribe them with a lot of money like this one
+
+There's little motive here for bribery, it's either suicide or accident. Doesn't change my priors.
+
+You still don't seem to be understanding how the statistics work in this scenario: both the cops and family members are faced with a single case
+
+They are. You aren't explaining very well how I'm getting the statistics wrong. I laid out a calculation, what's wrong with it?
+
+You aren't addressing my point. 
+
+
+
+
+ "More crooked cops" would be true, because 1/10 would be crooked. My point is that even a crooked cop doesn't lie on every case, and once you take that into account, the proportion of crooked cops lying on any given case should be lower than the equivalent by family members. 
+
+
+
+
+ Use ublock 
+
+
+
+
+ The prior on the cop lying in this instance would be 1%, and the family member would be 4%.
+
+I had a typo above, sorry, you have a point.
+
+My original comment still seems correct. Even if you believe the proportion of cops who would lie on some cases is higher than the proportion of family members who would lie, the proportion of cops who actually lie on a given case is lower than those who would lie on some case, but a family member has a much greater incentive to lie. After all, they're involved in the case.
+
+ 
+
+
+
+
+ http://hashingit.com/analysis/33-7-transactions-per-second
+
+says the same, and it's from 2014. 
+
+
+
+
+  A perfectly full 20mb block of transactions would net bitcoin a grand total of 56 transactions per second and it would lose most of its decentralized qualities.
+
+Why? I know decentralization would go down, but I don't think it would be by that much. 
+
+
+
+
+
+
+
+
+
+ Why not?
+
+Making up some numbers, if the chance a cop is crooked is 1 in 10, the chance a crooked cop lies on any given case is 1 in 10, and the chance a random victim family member is crooked and lying is 1 in 25, then the family member has a 4 times lower prior of telling the truth than the cop does.
+
+Edit: meant to say higher prior of lying. 
+
+
+
+
+ The father said accident, the police said suicide, nobody involved said murder as far as I know. 
+
+
+
+
+ And this is news because ...? 
+
+
+
+
+ The justification is laid out completely in the [document filed](https://drive.google.com/file/d/0BwzdZTHqha9tYkYtcUtaY1BsZjg/view) 
+
+
+
+
+ I can only get sound on my mobile device, and can't watch 2 videos at once there. Any chance you could combine the two videos into one? 
+
+
+
+
+
+
+
+
+
+ [fixed link](http://onlinelibrary.wiley.com/doi/10.1111/j.2153-3490.1966.tb01446.x/epdf) 
+
+
+
+
+
+
+
+
+
+ That's impossible, everyone knows the body has ways of shutting the whole thing down, and this is a legitimate rape if I've ever seen one.
+
+[relevant xkcd](https://xkcd.com/966/) 
+
+
+
+
+  PARENTS break the law (statute has run out but they broke Arkansas law)
+
+What law did they break, I'm curious? 
+
+
+
+
+ What part of Fox News did you not hear? 
+
+
+
+
+ https://drive.google.com/file/d/0BwzdZTHqha9tYkYtcUtaY1BsZjg/view 
+
+
+
+
+ Did you even read the judgement request? If you haven't, please see https://drive.google.com/file/d/0BwzdZTHqha9tYkYtcUtaY1BsZjg/view 
+
+
+
+
+ Did someone forget to tell vice that some were auctioned off at higher prices? I don't think I've seen the 700,000 figure before, but if it's accurate, and a significant amount were sold at $400, he could easily pay it all off.
+
+Edit: They auctioned 130,000, I think: just an extra $150 on average from each is enough to cover that.
+
+Further edit: they seized much less than 700,000, apparently only 174,000 or so. The question is whether Ross still has access to the rest.
+
+ 
+
+
+
+
+  of course spying is illegal but everyone does it
+
+It's not illegal under US laws to spy on other countries. That's what the entire CIA is there for, basically.
+
+It may be illegal under the other countries' laws, but someone revealing that one government is breaking the laws of a different government is generally called a traitor.
+
+the biggest issue which Snowden uncovered was the scale of the spying, and the fact that the US spies on everyone including its own people which is a sign of authoritarian tendencies especially since it was done in secret and most likely against the US Consititution
+
+If all he'd done was reveal illegal spying, I wouldn't have a problem. He revealed many programs that were completely legal, yet classified, and many programs that were against other countries, also legal under US law.
+ 
+
+
+
+
+ The first time it was cool, but the next 4 times it was a little boring. I'd much prefer $4 as a tip. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If you haven't seen these before: http://slatestarcodex.com/tag/fiction/ 
+
+
+
+
+ because logic 
+
+
+
+
+ Gold 
+
+
+
+
+ Or about one person with extra cash 
+
+
+
+
+ How is spying on other countries illegal?
+
+Edit: downvotes but no answers? 
+
+
+
+
+ A crooked cop may be more common, but a crooked cop who lied on *this specific case* is less common. 
+
+
+
+
+ I thought the question was between suicide/accident. I wasn't taking murder seriously at all as an option. 
+
+
+
+
+ That's not how it works. That's not how any of this works!
+
+How to join ISIS boston bombers kill infidels nato oil war war war war 
+
+
+
+
+ Above it says the police think it's suicide. 
+
+
+
+
+ Sometimes, but they also have no training in finding the truth, and most people are just incompetent. It's like asking a random guy on the street who may have a bit more motivation.
+
+Relatives also have motives for wanting a specific story. Police may also, but here the police were just reporting on what happened, and weren't involved. 
+
+
+
+
+ It's surely possible that the US is exerting influence to embarrass him, but he's not facing any US charges. 
+
+
+
+
+ Assange is hiding on charges of not using a condom in Sweden. 
+
+
+
+
+ Because relatives undergoing trauma always know better than the police 
+
+
+
+
+
+
+
+
+
+ Use http://www.givewell.org/ and https://www.givingwhatwecan.org/ to vet charities next time. 
+
+
+
+
+ 60 minutes for expensive items 
+
+
+
+
+ Fair enough. 
+
+
+
+
+ Ulbricht used an unlocked laptop with sensitive information that could and did land him a lifetime in jail in public with people around.
+
+Don't mention his name and "properly" together, please. 
+
+
+
+
+ This is both about a person that's involved with bitcoin, and illustrates a key selling point for bitcoin; that it can't be seized if held properly.
+
+Both together seemed to make it on-topic, and at least 80 people have agreed so far. 
+
+
+
+
+ Have you seen http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118440? Or http://www.ncbi.nlm.nih.gov/pubmed/9310601?
+
+See http://slatestarcodex.com/2014/04/15/the-cowpox-of-doubt/ 
+
+
+
+
+  The insider trading was illegal, and it should probably stay illegal.
+
+May I refer you to the sources [here](https://www.reddit.com/r/explainlikeimfive/comments/38dfc4/eli5_why_dont_tech_companies_simply_ignore_the/cruebie?context=1)? 
+
+
+
+
+ Source? 
+
+
+
+
+ According to https://en.wikipedia.org/wiki/STOCK_Act, no. 
+
+
+
+
+ that's a pretty good sweet-ass bot 
+
+
+
+
+ Insider trading should be legal, as many economists and others have said.
+
+http://www.econlib.org/library/Columns/y2015/Hooperharmed.html
+
+http://www.forbes.com/sites/jeffreydorfman/2015/03/22/a-modern-insider-trading-law-would-recognize-the-victims-of-current-law/
+
+http://business.time.com/2013/07/26/why-is-insider-trading-even-illegal/
+
+http://www.washingtonpost.com/blogs/wonkblog/wp/2013/07/26/insider-trading-makes-us-richer-better-informed-and-could-prevent-corporate-scandals-legalize-it/ 
+
+
+
+
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+ Sort of, although that can be obscured as well, using Coinjoin. That basically means that multiple users all send in a merged transaction, so there's no way to tell which one owns which. There's code to do that at https://github.com/chris-belcher/joinmarket
+
+But what I was describing is different. Basically, you send bitcoin to a site that has a large "pool" of bitcoin, and they send different ones back to another address you own. So only that site knows which coins were which. If they delete logs (like they claim to), then nobody can tell even after the fact. There's one at https://bitmixer.io/index.html 
+
+
+
+
+ Buy bitcoin, transfer to a mixing service, transfer to a new wallet, bam, you're anonymous. Cost of 1% or so. Rout the second wallet over VPN or tor for even greater anonymity.
+
+Not that hard. 
+
+
+
+
+ He does accept bitcoin, with his mega startup. Does that count? 
+
+
+
+
+ /u/nathanielpopper, anything to say for yourself? 
+
+
+
+
+  usually
+
+ 
+
+
+
+
+
+
+
+
+
+ Plot twist: all alts. 
+
+
+
+
+ Not this again. If you don't like it, downvote and move on; I'm not going to have the exact same argument every time a submission is not directly related to bitcoin. 
+
+
+
+

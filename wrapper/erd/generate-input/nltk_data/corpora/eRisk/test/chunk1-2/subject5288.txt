@@ -1,0 +1,6248 @@
+ I drew a few drawings, and that's about it! 
+
+
+
+
+ I am doing fine and I am very sleepy as it's almost 1am here :) What about you? 
+
+
+
+
+ Hello! 
+
+
+
+
+ Our Lord is testing your faith. Don't join the ugly shills at Cyanocorp. 
+
+
+
+
+ 5.5.0
+
+
+Damn, you are futuristic. 
+
+
+
+
+ Nope, no idea about it as I have never been there :( 
+
+
+
+
+
+
+
+
+
+ Yes, it's similar in India! It's unbearably hot here, too. 
+
+
+
+
+ It's 12am here and I turned 16 just now! Feels awesome :) 
+
+
+
+
+ Naut 3 is a really good theme and it would make the sub look elegant. 
+
+
+
+
+
+
+
+
+
+ I had been working on it since 4 hours and I made this app which doesn't do much! Feels great :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Comcast= Literally Hitler
+
+
+Hitler=  Approved Prophet
+
+
+Therefore, Comcast is an Approved Company. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just curious as many people don't seem to know about it. 
+
+
+
+
+
+
+
+
+
+ Please be serious here. Did 5.1 manage to fix your 5.0 complaints? Because I am getting quite stellar performance on 5.1... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Praise DuARTe! 
+
+
+
+
+
+
+
+
+
+ Stop this sub from being infected with Galaxy S6 shills!
+
+
+**DO IT FOR DUARTE!** 
+
+
+
+
+
+
+
+
+
+ It's 1st April! 
+
+
+
+
+ Ban Ki-Earth. 
+
+
+
+
+
+
+
+
+
+ And why is he Lord DuARTe? 
+
+
+
+
+
+
+
+
+
+ * NEXUS NEXUS NEXUS NEXUS NEXUS
+
+
+
+* DuARTe is love, DuARTe is life.
+
+
+
+* I use Sync for reddit.
+
+
+* I own a NEXUS
+
+
+* I sacrificed three goats to Lord DuARTe for this post.
+
+
+
+* Lord DuARTe appeared in my dream and said that he would grant me one wish. I asked if I could be a MOD at Android Circle Jerk. He said YES. 
+
+
+
+
+
+
+
+
+
+ **Best Phone :** Nexus 6
+
+
+**Best Tablet:** Nexus 9
+
+
+**Best Cheap Phone:** Moto G
+
+
+**Best Material App:** ALL GAPPS
+
+
+**Best Circlejerker:** You tell
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have to study that for my exam... 
+
+
+
+
+
+
+
+
+
+ All praise Lord ARTem. 
+
+
+
+
+ All hail DuARTe. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yay! 
+
+
+
+
+ Seriously. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hi all.
+**INTRODUCING MEGA OVERCLOCK TO 11900GHz**
+Download: 
+boot image:
+http://kernels.test_subject5288-lnx.net/Nexus6/5.0/
+zips:
+http://kernels.test_subject5288-lnx.net/Nexus6/5.0/zips
+
+Installation:
+fastboot flash boot boot_name_img
+or
+flash the .zip in the recovery
+
+    FEATURES
+
+    *Easy installation with fastboot installer
+    *overclocking/underclocking options
+    *select independent frequencies for each core
+    *optional l2 and bus overclocking
+    *CPU governor with gboost
+    *optional max screen off frequency **11900GHz**
+    *full voltage control
+    *choose voltage profile in installer
+    *wake gestures support
+    *optional sweep2wake and doubletap2wake
+    *options to disable wake functions with timeout or power button
+    *optional USB fastcharge
+    *NTFS r/w, CIFS, exFAT, exTHIN, F2FS support
+
+**Disclaimer to moderators:**
+Slight OT is fine, but when users decide to act stupid they should be dealt with with the appropriate means - its really annoying for me when OT turns crazy. Please put the warning/ban hammer anytime any of you think there's lack of respect and/or too much unwanted OT crap - but if it doesn't meet this criteria let the OT posts alone. Thank you.
+
+Cheers! 
+
+
+
+
+ Is it a massive battery drain or a light one? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just curious as I just got my  N7 2013 and I wanted to flash a kernel. Also, as this is essentially a Snapdragon 600, is it safe to overclock it to 1.7 GHz? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... For not updating the Steam app to material design. 
+
+
+
+
+
+
+
+
+
+ Go to developer options and tick "Disable HW overlays". I haven't experienced any redraws after that. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Google's developers took a couple of weeks off for the holidays  or from my perspective, they gave me a couple of weeks to rest  but now they're back and it's time for the app updates to resume. Naturally, it's time to breathe life back into the teardowns, and we're back with a  VERY big one. Google Search v50.2 began rolling out to users yesterday, and we've already seen quite a few HUGE adjustments and improvements. After plenty of digging, a stack of additional changes have surfaced, including one that is already live, and several more just waiting for some finishing touches including the much awaited **Project Food**. 
+             **Disclaimer**: Teardowns are, by their nature, speculative and based on incomplete evidence. It's possible that the guesses made here are totally and completely wrong. There is always a chance that details may change or plans may be cancelled prior to launch of a new feature. As with all rumors, nothing is certain until it's officially announced.
+        
+* **'Ok Google Make me a Sandwich'**
+By far, this is the biggest feature Google has implemented. This is the first step to Google's ambitious 'Project Food'.  Just say the phrase "OK Google, Make me a sandwich" and lo, your sandwich will be made by your mobile! This will, according to Google, go a long way in providing free food to everyone.
+
+* **Excitement for the future**
+There are subtle hints dropped for us to see that Project Food is about to come. For example, when we saw the code, there was a line which mentioned, "OK Google, make me a burger." This probably means that Project Food will cover a variety of foods, ranging from burgers to sandwiches. 
+Here is the code we observed
+     string name="search_pref_header""OK Google, Make me a burger"/string
+     string name="search_bluetooth_pref_title"Make a burger/string
+     string name="search_headset_pref_title"BURGER BURGER!/string
+     string name="search_headsets_confirmation_title"BURGER PROCESSING!/string
+     string name="search_headsets_confirmation_body"YOUR BURGER IS READY TO EAT!!!!!/string
+
+
+*  **Wrap-Up**
+* That's about it for this teardown. It's clear Google is preparing quite a few changes for the coming months, and there's definitely something for everybody on this list. It's only January, and there's already a lot showing up in the Search app, so by the time I/O rolls around, most of this list will probably be live and we'll have a whole new set of foods to eat. I think it's going to be a good year for food junkies.
+
+
+ 
+
+
+
+
+ http://www.reddit.com/r/AskReddit/comments/2tbkx6/noniphone_users_why_do_your_prefer_your_current/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ON 30TH JANUARY, A LORD WAS BORN. A SAVIOUR WAS BORN. OUR LORD DUARTE WAS BORN!!!!!!!!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.express.co.uk/life-style/science-technology/550405/Review-Google-Nexus-9-Android-5-Lollipop-Update-iPad-Air-Comparison 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This problem is resolved if I use a headphone. But why is this happening? 
+
+
+
+
+ This didn't happen before... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Personally, I prefer Philz because of its interface. 
+
+
+
+
+ Boxing gloves to punch the shills. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What can I do? Please help. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Do you face the same annoying launcher redraws on the GPE ROM? 
+
+
+
+
+ Seeing that it did not bring any significant performance improvement, is the ART runtime insignificant? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The old AOSP Messaging, or the new Google Messenger? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Same with me, I have never even taken a selfie, let alone posting it :( 
+
+
+
+
+ Think you forgot Ingress? 
+
+
+
+
+ You guys don't understand, Lord DuARTe uses a Macbook to keep an eye on the enemy. 
+
+
+
+
+ India... 
+
+
+
+
+ Blazing hot. 40C/104F. 
+
+
+
+
+ Thanks for the advice, I would definitely try that today! 
+
+
+
+
+ But how do I go about drawing them... When I draw real-life people, they turn out to be a complete disaster :( 
+
+
+
+
+ But my drawings will look very amateurish to you!...
+
+
+[Here's one!](http://i.imgur.com/ZBMROO6.jpg) 
+
+
+
+
+ Great! I never can do as good as that! 
+
+
+
+
+ Yes!!! 
+
+
+
+
+ Even I am glad that I took it up. Really helps me utilise my free time. Can you show me one of your drawings? :D 
+
+
+
+
+ I did realize the fact, that's why I inserted it there :P
+
+
+I quit drawing a few years back, but this year I started to love it again, and I started spending more of my time on it... 
+
+
+
+
+ I live in Maharashtra... 
+
+
+
+
+ I love drawing catoons! (and sneks, lol jk). What do you like to draw? :) 
+
+
+
+
+ **MY EYES ARE RELIEVED!!** 
+
+
+
+
+ I am in India, and I just finished the 10th grade exams... 
+
+
+
+
+ I love drawing, and tinkering with my mobile... 
+
+
+
+
+ What about you? 
+
+
+
+
+ Ummm... You would find me a wierd personality, as I never listen to music and I don't play games... 
+
+
+
+
+ I am just watching a few vids... 
+
+
+
+
+ XD. So, what are you doing? 
+
+
+
+
+ [Saw ths pic, can't stop laughing!](http://i.imgur.com/tW4AjAU.jpg) 
+
+
+
+
+ Indian food :) ... What about you? 
+
+
+
+
+ Sure :D 
+
+
+
+
+ But the effects were great... 
+
+
+
+
+ Bored, too... nothing much to do :( 
+
+
+
+
+ Yeah, certainly nice to look at!  
+
+
+
+
+ The James Cameron one! 
+
+
+
+
+ Yes, I seem to prefer dogs! 
+
+
+
+
+ You saw Avatar? 
+
+
+
+
+
+
+
+
+
+ Then.... Gravity? 
+
+
+
+
+ You saw Interstellar? 
+
+
+
+
+ [For all orange fans!](https://www.youtube.com/watch?v=ZN5PoW7_kdA)     
+
+
+
+
+ It's about cats? Somehow, I don't seem to like cats... 
+
+
+
+
+ Yes! 
+
+
+
+
+ I've never read horror books, too. 
+
+
+
+
+ Which ones do you like? 
+
+
+
+
+ I have no work to do currently :( Just browsing reddit... 
+
+
+
+
+ I never watch horror movies. Do you read books? 
+
+
+
+
+ No. *Hint: The country which your team defeated in the Cricket World Cup semifinals* 
+
+
+
+
+ Thanks! What do you plan to do now? 
+
+
+
+
+ If you like animated movies, you would love to watch Home! It's a cute movie :D 
+
+
+
+
+ Yep. 
+
+
+
+
+ Nothing, just browsing CC, nothing to do :( What about you? 
+
+
+
+
+ Hi, just feeling very bored! 
+
+
+
+
+ Far off... 
+
+
+
+
+ Nah... 
+
+
+
+
+ I doubt... 
+
+
+
+
+ Now guess where I live... 
+
+
+
+
+ :P 
+
+
+
+
+ I made it orange. 
+
+
+
+
+ Australia? 
+
+
+
+
+ Asia? 
+
+
+
+
+ In your house? 
+
+
+
+
+ [Here are my new shoes!](http://imgur.com/39L28Yw)   
+
+
+
+
+ Water :P 
+
+
+
+
+ I would, for sure. 3 of my friends have come over, will you be there in 2 hours? Will catch up with you! 
+
+
+
+
+ I bought a Sketchers running shoes for my birthday! 
+
+
+
+
+ I woke up and read the newspaper. That's about it :P In the evening, I would go for running, as I am excited about my new shoes :) 
+
+
+
+
+ Hi! So, how's your day going? 
+
+
+
+
+ Hey, no problem mate. :D 
+
+
+
+
+ Thanks a lot! 
+
+
+
+
+ Power cut at my place, and I switched to my mobile. Really can't do much at 1.20 AM without lights :'( 
+
+
+
+
+ Visita
+
+
+Reminds me of their epic failure. 
+
+
+
+
+ Power cut here :( On my mobile now, really can't do much without lights at 1.15 AM :'( 
+
+
+
+
+ Really sorry, my scanner is not working :'( Please forgive. 
+
+
+
+
+ Really sorry, my scanner is not working :'( Please forgive. 
+
+
+
+
+ Really sorry, my scanner is not working :'( Please forgive. 
+
+
+
+
+ Really sorry, my scanner is not working :'( Please forgive. 
+
+
+
+
+ Really sorry, my scanner is not working :'( Please forgive. 
+
+
+
+
+ Never heard of them... Can you tell about them? 
+
+
+
+
+ On it!
+ 
+
+
+
+
+ I am starting to love drawing now! 
+
+
+
+
+ Thanks! 
+
+
+
+
+ What was the epicentre? Any idea? 
+
+
+
+
+ Shit! All safe? 
+
+
+
+
+ I didn't get you! 
+
+
+
+
+ Right! 
+
+
+
+
+ Not Sunday yet, though! But Saturday's almost over :) 
+
+
+
+
+ Saturday's almost over here :( 
+
+
+
+
+
+
+
+
+
+ Same for you, mate.  
+
+
+
+
+ Even I am hoping for the same...
+
+ 
+
+
+
+
+ He was 14 when a bullet hit him during school rifle practice. He's still in coma now after 2 years... 
+
+
+
+
+ I read that one of your friends suicided. Even one if my school friend was hit by a bullet, and I know how it feels :( 
+
+
+
+
+ I haven't slept before 3 since the start of April! 
+
+
+
+
+ Hey! What's up? 
+
+
+
+
+ Hey, what's going on? 
+
+
+
+
+ Happy birthday! 
+
+
+
+
+ The British spellings are always used in my country, so I prefer them. 
+
+
+
+
+ Mornings! That's what I've done always! 
+
+
+
+
+ :D 
+
+
+
+
+ Yes! Sure! I would love to :D 
+
+
+
+
+ :( Thanks for the info, though! 
+
+
+
+
+ I have seen you before on this sub posting about it... 
+
+
+
+
+ My Nexus is currently at home, so I cannot provide proof. Till then, I am using a Moto G GPe. What about you, OnePlus shill? 
+
+
+
+
+ #IUseLollipop 
+
+
+
+
+ MKBHD
+
+
+God
+
+
+
+**MODS MODS MODS MODS MODS** 
+
+
+
+
+ Apptly? 
+
+
+
+
+ what's up
+
+
+Ceiling. 
+
+
+
+
+ Umm... I don't know... Never seen any cases or so... 
+
+
+
+
+ Hmmm... Interesting. I read that it stops on a fact-book, but I guess it would be wrong. 
+
+
+
+
+ The reason behind saying bless you is, when we sneeze, our heart-beat stops for a millisecond. 
+
+
+
+
+ Hi, Philippines! 
+
+
+
+
+ I know, the whole country is in ruins :( The tremors were felt here in India, too. 
+
+
+
+
+ Seeing your username, are you fine? 
+
+
+
+
+ Nope. I have never had one before :) 
+
+
+
+
+ I don't think so :P 
+
+
+
+
+ Cause I don't have one. 
+
+
+
+
+ New Jersey, New York, Kentucky, New Orleans, North Dakota, South Dakota, Arizona, New Mexico, Texas, California, Hawaii, Illinois, Florida, Washington, Ohio, Rhode Island, Mississippi, Utah, Alaska, Massachusetts, Connecticut, New Hampshire, Indiana, Indianapolis, Kansas, Arkansas and Pennsylvania. 
+
+
+
+
+ Really? Thanks! 
+
+
+
+
+ [Here's one!](http://imgur.com/SVRwDVE) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Almost 12 hrs timezone difference... 
+
+
+
+
+ It's 11.08 PM here :P 
+
+
+
+
+
+
+
+
+
+ What's the time there? 
+
+
+
+
+ Hey, what are you doing? 
+
+
+
+
+ Hmmm... No... I am not frustrated, but I just never listen to it. I never feel like listening to music... 
+
+
+
+
+ You're not alone. I don't care about any kind of music. 
+
+
+
+
+ He's a time traveller. 
+
+
+
+
+ I don't care about an SO at this stage... 
+
+
+
+
+ I'm from India! 
+
+
+
+
+ Which part of the world still has snow? 
+
+
+
+
+ #NoSOMasterRace 
+
+
+
+
+ You're just like me! 
+
+
+
+
+ No SO... 
+
+
+
+
+ Lucky you, that's it's cold... I am burning here at 41C... 
+
+
+
+
+ It was released last month... 
+
+
+
+
+ Also, I am making a ton of typing errors today on my mobile :P 
+
+
+
+
+ A group of aliens invade earth and shift all the humans to some part Australia. Only a girl remains in New York city and she tries to find her mother along with an alien. A really good movie :) 
+
+
+
+
+ And as for other animated movies, did you see Home? 
+
+
+
+
+ Frozen! And I am big fan of other animated movies too... Which was the last Disney movie you watched? 
+
+
+
+
+ Don't post a selfie. 
+
+
+
+
+ I still watch Disney movies, too... I love them :D 
+
+
+
+
+ It was similar here, too! There used to be a Mickey mouse show on free TV! 
+
+
+
+
+ I love Disney! 
+
+
+
+
+ I still watch these, reminds me of my childhood...   https://www.youtube.com/watch?v=4ycRnLo5HQU 
+
+
+
+
+ But they always end up in the play offs... 
+
+
+
+
+ I just followed the scores, I am watching IPL... 
+
+
+
+
+ Pretty late :P 
+
+
+
+
+ I love cricket! 
+
+
+
+
+ I am up because it's 11.30 AM here. 
+
+
+
+
+ Praise SfR! 
+
+
+
+
+ /u/archon820 confirmed. 
+
+
+
+
+ Now it is... 
+
+
+
+
+
+
+
+
+
+ Might sleep in 15 minutes :D 
+
+
+
+
+ Soo... When do you plan to sleep? 
+
+
+
+
+ Pretty obvious, it's /u/shillfrombrad. 
+
+
+
+
+ Not doing much in my free time... Reading books, drawing, and tinkering with my mobile... And Just Books is near-ish to my house, too! 
+
+
+
+
+ No problem! 
+
+
+
+
+ Yep, 10th boards...
+
+
+You could try JustBooks library... It has a big collection of books... 
+
+
+
+
+ I was trying Android app development, but now I am reading a book... I don't care if I wake up late as my boards got over... 
+
+
+
+
+ Indeed, small world! :D 
+
+
+
+
+ Which city are you in? 
+
+
+
+
+ Pune :) 
+
+
+
+
+ Fellow Indian spotted! 
+
+
+
+
+ midnight
+
+
+You from Asia? 
+
+
+
+
+ Hmmm... Didn't really see the SOT as my sister is not home now-a-days... But I will try to let you know by tommorow. I can confirm though, it does not take a big hit.  
+
+
+
+
+ Same here. Second Gen Dual SIM. 
+
+
+
+
+ Visit this sub. 
+
+
+
+
+ Not exactly, I am using Lollipop on my sister's Moto g 2nd Gen, and it's fine... 
+
+
+
+
+ I am doing this : https://developer.android.com/training/basics/firstapp/building-ui.html 
+
+
+
+
+ I am fine, but very sleepy as it is 12.40 AM here! 
+
+
+
+
+ Yeah, that's what I had! 
+
+
+
+
+ Indian food... 
+
+
+
+
+ You have a Moto G. Why don't you just upgrade? 
+
+
+
+
+ Hey, what's up? 
+
+
+
+
+ Also, the best place for this would be /r/PickAnAndroidForMe.
+ 
+
+
+
+
+ Buy the Moto G first gen. It has a better display than moto e. But if you an SD card slot, why don't you consider the Moto E 2nd gen? 
+
+
+
+
+ #MKBHD IS A SHILL! 
+
+
+
+
+ Hey, even I am learning to code! But I am finding it tough... 
+
+
+
+
+ And I am feeling sad for making it that way :( 
+
+
+
+
+ /uj Man, please visit /r/SuicideWatch. It might really help you :-) 
+
+
+
+
+ :-) 
+
+
+
+
+ Check it now :D 
+
+
+
+
+ /uj Man, I was not being serious there... 
+
+
+
+
+ I loved 5.1.1. 5.1 solved many of 5.0's glitches, and was very smooth as well. 
+
+
+
+
+ /uj wasn't it equally snappy? 
+
+
+
+
+ /uj Did you try 5.1? 
+
+
+
+
+ Why did the chicken cross the road?
+
+
+To get to the ugly man's house.
+
+
+Knock knock
+
+
+Who's there?
+
+
+
+The chicken. 
+
+
+
+
+ In what way do you plan to commit suicide? 
+
+
+
+
+ The biography of Lal Bahadur Shastri. That book taught me what honesty and sacrifice is. 
+
+
+
+
+ Yes! Very much :D 
+
+
+
+
+ Hello! I have never been out of my country :( 
+
+
+
+
+ Nice! Even I want to go somewhere in this vacation! 
+
+
+
+
+ It's definitely fun, but removing the colours is a pain :P 
+
+
+
+
+ My vacations are going on, and it's all feeling the same to me! 
+
+
+
+
+ You might enjoy Holi! 
+
+
+
+
+ Done! :) 
+
+
+
+
+ Yeah! What about you? 
+
+
+
+
+ Delhi. There are just too many heritage sites to explore! 
+
+
+
+
+ Hey! 
+
+
+
+
+ Yeah, X was difficult!
+  
+
+Yoshi 
+
+ 
+
+
+
+
+ Walt. 
+
+
+
+
+ But does that mean something? 
+
+
+
+
+ Ursula 
+
+
+
+
+ Shane 
+
+
+
+
+ Quinton. 
+
+
+
+
+ Olaf :) 
+
+
+
+
+ :O 
+
+
+
+
+ Matthew :D 
+
+
+
+
+ XD 
+
+
+
+
+ :P 
+
+
+
+
+ :) 
+
+
+
+
+ :D  
+
+
+
+
+ You really think so? 
+
+
+
+
+ It's never too quite in India ;-). There's a big crowd always! 
+
+
+
+
+ Kane. 
+
+
+
+
+ It's a small town a few kilometers away from my city... 
+
+
+
+
+ Irina. 
+
+
+
+
+ Thanks a lot! :D  
+
+
+
+
+ [Here's one!](http://imgur.com/WC2DL7E) 
+
+
+
+
+ Yes, that's what I might do today! Would you like to see one of the pictures I took?
+
+
+  
+
+
+
+
+ Yeah, I was too bored and there was nothing to do :D 
+
+
+
+
+ It did, but nothing much. But there was a bug no nice y and I think my whole colony must have gotten up as it was 12.30 Am xD 
+
+
+
+
+ Nothing much, just riding and drove into a car which was parked XD 
+
+
+
+
+ Just lying around. Feel down yesterday while riding a cycle, and my whole body hurts :( 
+
+
+
+
+ So, what's up today? 
+
+
+
+
+ Gary 
+
+
+
+
+ Hey! I don't think I had any compliments :( 
+
+
+
+
+ /r/androidcirclejerk
+
+
+/r/Android
+
+
+/r/Disney
+
+
+/r/India
+
+
+And CC, obviously.
+That's it. 
+
+
+
+
+ Why??? Why can't just /u/Dakar-A create it? 
+
+
+
+
+ No, what's it about? 
+
+
+
+
+ iPhone 6
+
+
+**ADMINS ADMINS ADMINS ADMINS ADMINS** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Petition to add /u/GermainZ to the list of approved mods. Does this require AP confirmaton? 
+
+
+
+
+ I do :P 
+
+
+
+
+ Nothing to study, mnk_400... 
+
+
+
+
+ /r/androidcirclejerk 
+
+
+
+
+ But I am bored everyday... 
+
+
+
+
+ I am very bored today :( 
+
+
+
+
+ :D 
+
+
+
+
+ Student... 
+
+
+
+
+ I know that... That's why I asked why he edited it...  
+
+
+
+
+ *On the bed now* 
+
+
+
+
+ Feeling very sleepy now :P 
+
+
+
+
+ Hmmm.... Science stream here has Physics, Chemistry and Maths... Along with a bunch of languages. 
+
+
+
+
+ 11th and 12th would be Science stream, and then I would probably go for Computer Science... 
+
+
+
+
+ Yup, will be pursuing Science stream... 
+
+
+
+
+ I just finished my 10th grade... 
+
+
+
+
+ 1.30 AM :P 
+
+
+
+
+ What's the time there? 
+
+
+
+
+ :P 
+
+
+
+
+ XD 
+
+
+
+
+ :D 
+
+
+
+
+ So you're chilledUK! 
+
+
+
+
+ Lol, why the hell did he edit that? 
+
+
+
+
+ You really think so? 
+
+
+
+
+ Where are you? 
+
+
+
+
+ Too damn hot... 41C :( 
+
+
+
+
+ In India, they're not... 
+
+
+
+
+ Yup. You would be considered holy... 
+
+
+
+
+ You would be respected a lot in my country... 
+
+
+
+
+ **ALL HAIL THE COW!** 
+
+
+
+
+ **ALL HAIL /u/chilledchile!** 
+
+
+
+
+ But why would you chill them? 
+
+
+
+
+ Humans who go out to work? 
+
+
+
+
+ :P 
+
+
+
+
+ Birds? 
+
+
+
+
+ :D 
+
+
+
+
+ Kinda bored to sleep... 
+
+
+
+
+ But what about the animals? 
+
+
+
+
+ I actually won't now... Probably an hour later... 
+
+
+
+
+ I am very sleepy now :( 
+
+
+
+
+ Why is Chile being chilled? Wouldn't the people there freeze? 
+
+
+
+
+ Big timezone difference! In which country are you? 
+
+
+
+
+ Why chilled? Why not chillingchile? 
+
+
+
+
+ 12.34 AM. You? 
+
+
+
+
+ Why chilled? Why not hot? 
+
+
+
+
+ Yeah, that would really be cool! 
+
+
+
+
+ Why Chile? Why not Argentina? 
+
+
+
+
+ But many users are reporting the touchscreen issues... 
+
+
+
+
+ chilled chile
+
+Why not chilled tomato? 
+
+
+
+
+ India! 
+
+
+
+
+ Anybody else excited?
+
+
+You think anyone won't be? 
+
+
+
+
+ Hey, what's going on? 
+
+
+
+
+ Sure! Will you book the air tickets? :D 
+
+
+
+
+ Might watch it this weekend... 
+
+
+
+
+ How's it? 
+
+
+
+
+ Which movie? 
+
+
+
+
+ Yes :) What about you? 
+
+
+
+
+ :) 
+
+
+
+
+ Thanks for the help! I am getting a Nexus 5 for around 18000... 
+
+
+
+
+ You don't need to be :D 
+
+
+
+
+ Not exactly, I am just getting bored :'( 
+
+
+
+
+ My sister has a Moto G2, and I am looking to upgrade from a Moto G1... The Moto G's hardware is falling behind, and there is no price drop in the last-gen flasgships in India :( 
+
+
+
+
+ Yup. 
+
+
+
+
+ What about a Nexus 5? I am getting one on eBay... 
+
+
+
+
+ But Asus is horrible with updates...
+ 
+
+
+
+
+ My 10th grade just ended! 
+
+
+
+
+ What does Junior grade mean? There's nothing like that in my country... 
+
+
+
+
+ No school... Vacations are going on... Which grade are you in? 
+
+
+
+
+ Nothing much, just browsing... 
+
+
+
+
+ I am fine, just too bored :( 
+
+
+
+
+ The Z3 is too costly here :( 
+
+
+
+
+ Hey, how are you doing? 
+
+
+
+
+ Should I still buy the OnePlus One? Is it still worth it?  
+
+
+
+
+ Duare
+
+
+Time to kill yourself. 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ I'm 16 and I am currently doing nothing in my vacations :P 
+
+
+
+
+ :) 
+
+
+
+
+ It sure is :D 
+
+
+
+
+ But I don't think I have the courage to do that :P 
+
+
+
+
+ But I never tried it :( 
+
+
+
+
+ Parkour seems interesting... 
+
+
+
+
+ What's your favourite sport? 
+
+
+
+
+ Nexus 10
+
+
+Damn, you're old. 
+
+
+
+
+ Now your turn, truth or dare? 
+
+
+
+
+ Telling my friends extremely boring jokes! 
+
+
+
+
+ What's that? 
+
+
+
+
+ Truth! 
+
+
+
+
+ Praise DuARTe! Praise #Materiyolo! 
+
+
+
+
+ Plus, Android 5.1.1 on the Nexus 5 is a joy to use. 
+
+
+
+
+ Photo taken with an iPhone. 
+
+
+
+
+ I hate TouchWiz. 
+
+
+
+
+ Awesome!!! 
+
+
+
+
+ The Nexus 5 is pretty good at this stage. You still get all the updates, it's stock Android, and the hardware is still good. The phone still runs like a champ. Do you really need a Galaxy S6, then?...  
+
+
+
+
+ Dare: go to /r/circlejerk and post "Comcast is actually good." 
+
+
+
+
+ You deliver!!! 
+
+
+
+
+ Go to /r/androidcirclejerk and post "iOS is awesome!". 
+
+
+
+
+ Truth! 
+
+
+
+
+ I 3 BCCI. They're awesome! 
+
+
+
+
+ I love Manjrekar's commentary. 
+
+
+
+
+ All the best! 
+
+
+
+
+ Now you have started! 
+
+
+
+
+ Okay, I  seriously will stop that now :D 
+
+
+
+
+ Okay... Okay... I will stop :P 
+
+
+
+
+ I might try... to stop that XD 
+
+
+
+
+ Yeah, it does feel like a... pause :P 
+
+
+
+
+ That's kinda... funny! 
+
+
+
+
+ XD 
+
+
+
+
+ I'm a time traveller :P 
+
+
+
+
+ Almost... It's 11.22 PM here... 
+
+
+
+
+ Yeah, that's just too far away. And also a bigger change in the timezone... 
+
+
+
+
+ #HITLER IS AN APPROVED PROPHET! 
+
+
+
+
+ Almost across the world... 
+
+
+
+
+ /uj I wish that app would work in India :( 
+
+
+
+
+ I'm in India... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Cupcake
+
+
+Damn, she's old. 
+
+
+
+
+ How can someone not love Baymax! :D 
+
+
+
+
+ Saw Big Hero 6 :D I absolutely loved it! 
+
+
+
+
+ That Nexus is certainly fake. Nothing happens to a real Nexus. 
+
+
+
+
+ Not Hangouts
+
+
+**MODS MODS MODS MODS MODS** 
+
+
+
+
+ For me, the most refreshing drink is water :P 
+
+
+
+
+ Not knowing how our Lord's name is pronounced. 
+
+
+
+
+ Yes!
+ 
+
+
+
+
+ I just used that casually, not like a sad thing :) 
+
+
+
+
+ None of my friends use it... 
+
+
+
+
+ DuARTe is all forgiving. 
+
+
+
+
+ No. I don't. 
+
+
+
+
+ Yes, I do think of it as an art... 
+
+
+
+
+ He told me on /r/India once... 
+
+
+
+
+ I just don't listen to it. 
+
+
+
+
+ By tunes like that, I mean that it's the only one I rarely listen to... 
+
+
+
+
+ I am just not interested in it... 
+
+
+
+
+ There used to be a time when I did like it, but later I just lost interest... But very rarely, I do listen to soothing tunes like 'Come September'... 
+
+
+
+
+ But Material is the latest, and should be loved more. 
+
+
+
+
+ Ummm... I don't really think so... I attribute it more to the fact that I anever really had any interest in music, I always preferred to do something else rather than listening to music...  
+
+
+
+
+ Thank God, I am not alone! 
+
+
+
+
+ butters up
+
+
+Don't insult Project Butter! 
+
+
+
+
+ Then make it Materialification Nation! 
+
+
+
+
+ I love Disney movies! 
+
+
+
+
+ Something that I just don't do... I don't know why, but I never listned to it. 
+
+
+
+
+ I am going to watch Tangled now on my laptop :) 
+
+
+
+
+ Is music really that necessary? 
+
+
+
+
+ That's even hard to imagine for me, never ecxperienced it... So, what are you planning to do now? 
+
+
+
+
+  There have been droughts in areas around my city as well. And the droughts here are bad. Like, water only once a day for the villages. But the cities get a consistent water supply. 
+
+
+
+
+ No, the rains are okay here... What about your place? 
+
+
+
+
+ No. I don't listen to radio, and there's no elevator music here... 
+
+
+
+
+ I hope rain comes here, too :D 
+
+
+
+
+ At 106 even the AC feels ineffective :( 
+
+
+
+
+ 85 is really good :) 
+
+
+
+
+ Yeah, it's kinda good here... What's the temperature at your place? 
+
+
+
+
+ And that's what you've RES tagged me as well... :P 
+
+
+
+
+ India... 
+
+
+
+
+ That's the normal summer temperature here... 
+
+
+
+
+ Yes, no music at all... 
+
+
+
+
+ 41C/106F :'( 
+
+
+
+
+ Well... I don't listen to music, so people find me weird... 
+
+
+
+
+ It's horribly hot here :( 
+
+
+
+
+ I am too damn bored today... 
+
+
+
+
+ But getting rarer :( 
+
+
+
+
+ Yeah, Mountain Dew is refreshing, but I try to stay away from such drinks... 
+
+
+
+
+ Drinking cold water. It's the best way to relax :P 
+
+
+
+
+ India. Horribly hot here. 41C/106F. 
+
+
+
+
+ Thanks for the info! 
+
+
+
+
+ You can flash ROMs? Does the iOS bootloader allow that? 
+
+
+
+
+ But you cannot flash ROMs/Kernels on a jailbroken iPhone...  
+
+
+
+
+ But a rooted Android can provide much more functionality than a jailbroken iPhone... 
+
+
+
+
+ Tigers! 
+
+
+
+
+ BUT YOU SWITCHED TO  CYANOSHIT! 
+
+
+
+
+ 2 days... Not more than that... 
+
+
+
+
+ Truth! 
+
+
+
+
+
+
+
+
+
+ I feel like it's a waste of time and energy... 
+
+
+
+
+ I've never watched. And I never plan to. 
+
+
+
+
+ An AOSP ROM on the S6 might be better... 
+
+
+
+
+ But still, it cannot match the versatility of Stock Android... 
+
+
+
+
+ The skin which Samsung puts over Android...  
+
+
+
+
+ TouchWiz is bad.  
+
+
+
+
+ If you plan a road trip, do visit Kashmir, especially Leh. It has some stunning scenery, and challenging roads. And don't miss the Taj Mahal! 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ It would work only if the sweetener was a lollipop... 
+
+
+
+
+ India. 
+
+
+
+
+ So you deem yourself worthy enough to be in the same list which contains the holy Hitler? 
+
+
+
+
+ But you are not an Approved Prophet! 
+
+
+
+
+ Never been to any country except mine :( 
+
+
+
+
+ It's Monday here :( 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ No, bratfrombrad 
+
+
+
+
+ Same here! 
+
+
+
+
+ No problem :) 
+
+
+
+
+ Sure! I will post it ( If I don't forget :P ) 
+
+
+
+
+ Yeah, the ones like "I just found this sub AMA" are getting boring... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   You have disgraced Lord DuARTe. 
+
+
+
+
+ Ladfrombrad? You mean shillfrombrad! 
+
+
+
+
+ Computer games? 
+
+
+
+
+ What kind of games? 
+
+
+
+
+ Nothing much to do currently... :( 
+
+
+
+
+ I literally haven't done anything today, so it might be cycling... 
+
+
+
+
+ Truth! 
+
+
+
+
+ Shitler
+
+
+**HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ using WhatsCrapp and Shittyfy 
+
+
+using KitKat
+
+
+
+**MODS MODS MODS MODS MODS** 
+
+
+
+
+ Giving lesser respect to DuARTe's latest work. 
+
+
+
+
+ Not renaming Holofication Nation to Materialification Nation. 
+
+
+
+
+ My school has a website, but it's horrible, and hasn't ever been updated... 
+
+
+
+
+ My school only has an SMS system for important messages... 
+
+
+
+
+ /uj Your school has an app? Most Indian schools don't... 
+
+
+
+
+ Mmmm... I don't know much about dog breeds :) 
+
+
+
+
+ I probably would have a dog :) 
+
+
+
+
+ There's no place in my house for pets to fit... (I dont have a balcony :(  ) 
+
+
+
+
+ 30 cats!!!! What's did you keep them? Did they fit in your house? Also, I have no pets :) 
+
+
+
+
+ 'Cause they are infected by TouchJizz... 
+
+
+
+
+ XD... So, how many cats do you have? 
+
+
+
+
+ I know, such timings are really bad :'( I once had to skip my science paper because of a horrible cold... 
+
+
+
+
+ This year I had a bad cold before my history paper. It was bad :( 
+
+
+
+
+ Yeah, I know :D I am always down with a cold :P 
+
+
+
+
+ Even I am just lying in my bed right now :). Down with a cold? 
+
+
+
+
+ Hey, what's up? 
+
+
+
+
+ I'm from Maharashtra in India. Just finished my 10th grade exams... 
+
+
+
+
+ Hi! I'm from India and I am a student. 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ Moto X 2014 GPE? Is there one? 
+
+
+
+
+ 420
+
+
+
+Damn, you're old.
+
+ 
+
+
+
+
+ Evar.
+
+
+Not using Google Keyboard :P 
+
+
+
+
+ ## I CYANOCIDED MY S2 TO ALLEVIATE THE HORRORS OF TOUCHJIZZ!!!!!!
+
+
+Mr. Shillfrombrad has been made a mod of /r/cyanogenmod.
+
+
+
+
+
+
+ 
+
+
+
+
+ Isn't this kinda a.... repost? 
+
+
+
+
+  S2 was one of my favourite phones
+
+
+
+Mr. Shillfrombrad has been made the mod of /r/Samsung. 
+
+
+
+
+ A honey-comb has been built at least 1000 times outside my window... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not no. 3. No 2 is a lie. 
+
+
+
+
+ Aladdin was a really good film, and Robin Williams made it excellent. I miss Disney's hand drawn films... 
+
+
+
+
+ I love animated films.
+
+
+
+I use an iPhone.
+
+
+
+I love Android. 
+
+
+
+
+ But stock Android is aesthetically much better. 
+
+
+
+
+ I would draw something today... 
+
+
+
+
+ Baymax is the most lovable character :D 
+
+
+
+
+ Do check it out, it's really good! 
+
+
+
+
+ I loved Frozen as well! 
+
+
+
+
+ Most of them aren't kid's movies these days. I am super-excited for Inside Out, which appears nowhere close to a children's movie. 
+
+
+
+
+ Paperman is a really good movie. One of my favorite shorts, along with Feast. 
+
+
+
+
+ Even I am a huge fan of animated movies! I prefer them over normal movies. 
+
+
+
+
+ Up was awesome. I love most of the Pixar films. 
+
+
+
+
+ Lion King is a classic. 
+
+
+
+
+ But Fantasia 2000 was a disappointment :( 
+
+
+
+
+ The Toy Story trilogy is simply amazing! 
+
+
+
+
+ Aladdin was great, especially Robin Williams! 
+
+
+
+
+ But it feels bad that Ego lost his job :( 
+
+
+
+
+ Does it require proof? 
+
+
+
+
+ Wall-E is amongst my favourite movies. A truly amazing movie, and my favourite Sci-Fi movie ever.  
+
+
+
+
+ Musafa's death is the saddest part :'( 
+
+
+
+
+ The Toy Story trilogy is truly awesome! 
+
+
+
+
+ I've never seen a Miyazaki film :( 
+
+
+
+
+ The Incredibles, like most of the Pixar films, is awesome. 
+
+
+
+
+ I liked Wreck-it Ralph a lot, especially Ralph's and Vanellope's character. 
+
+
+
+
+ Mine would be Big Hero 6 and Toy Story! 
+
+
+
+
+ It's bloated and ugly. 
+
+
+
+
+ The layer that Samsung puts over Android. 
+
+
+
+
+ TouchWiz is bad. 
+
+
+
+
+ TouchWiz. 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ When are you planning to sleep? 
+
+
+
+
+ Am? 
+
+
+
+
+ What's the time at your place? 
+
+
+
+
+ So, what's up? 
+
+
+
+
+ Hey! Last night I was trying a difficult drawing, and I messed up :( 
+
+
+
+
+ implying you shouldn't already have eaten them. 
+
+
+
+
+ I love Vada Pav! 
+
+
+
+
+ fuarte
+
+
+**HOW DARE YOU MISSPELL OUR LORD'S NAME?** 
+
+
+
+
+ Not SfR
+
+
+**LJDAWSON LJDAWSON LJDAWSON LJDAWSON LJDAWSON** 
+
+
+
+
+ Sorry for that. Won't happen again :) 
+
+
+
+
+ m8
+
+
+**HTC SHILL DETECTED!**
+ 
+
+
+
+
+ Now Vertu can't sue Lollipop! 
+
+
+
+
+ #WHO THE HELL FLAIRED IT AS I/O IS LAME?  
+
+
+
+
+ From what I have heard, Seoul seems madly populated, too... 
+
+
+
+
+ BTW, is it the South or the North you are living in? 
+
+
+
+
+ Cities here in India are madly populated... 
+
+
+
+
+ We stay far away! 
+
+
+
+
+ I have been obsessed with Disney and Pixar movies lately! 
+
+
+
+
+ It's 7.38 pm here! 
+
+
+
+
+ Still up? 
+
+
+
+
+ k
+
+
+KitKat
+
+
+
+
+Hey, Grandpa! 
+
+
+
+
+ What's the time there? 
+
+
+
+
+ L 
+
+
+
+
+ Hey, what's up? 
+
+
+
+
+ Hey! 
+
+
+
+
+ Big Hero 6  and Frozen! 
+
+
+
+
+ I love the sub! Praise DuARTe! 
+
+
+
+
+ /r/androidcirclejerk
+ 
+
+
+
+
+ BTW, what does your flair mean? I can read Hindi, but I cannot understand your flair... 
+
+
+
+
+ Flounder = Nexus 9 
+
+
+
+
+ But overheating? 
+
+
+
+
+
+
+
+
+
+ It's good? 
+
+
+
+
+ I might see Dumbo now... 
+
+
+
+
+ You should see it. It's excellent! 
+
+
+
+
+ I just finished Pinocchio! 
+
+
+
+
+ Hi! I am watching movies... 
+
+
+
+
+ /uj Don't. The touch issues are bad. 
+
+
+
+
+ **DUARTE DUARTE DUARTE DUARTE DUARTE**
+
+
+*Moderators are a lost cause, only Lord DuARTe can save us now.* 
+
+
+
+
+ I am on a Disney movie watching spree! 
+
+
+
+
+ 41C here too! 
+
+
+
+
+ India... 
+
+
+
+
+ 41C at my place! 
+
+
+
+
+ Almost Monday here :'( 
+
+
+
+
+ Sure! I will PM you once my college starts :) 
+
+
+
+
+ I will try to do that... 
+
+
+
+
+ That's what I want to do! But let's hope I can get there... 
+
+
+
+
+ What are you planning to pursue? 
+
+
+
+
+ I kinda attend often. Like, once a month... I am there for 10 mins or so...  
+
+
+
+
+ I visited a temple today! 
+
+
+
+
+ 7pm here! 
+
+
+
+
+ It's evening here :) 
+
+
+
+
+ Even his face is a bit similar! 
+
+
+
+
+ Even I am loving this site! 
+
+
+
+
+ Yes, the expressions of Genie were amazing! And he looks kinda like Williams, too! 
+
+
+
+
+ I'm fine! What about you? 
+
+
+
+
+ His Genie's role is my favorite, though! 
+
+
+
+
+ Yeah, but the movie was disappointing, not befitting to an actor of his calibre. The first part was excellent, though. 
+
+
+
+
+ Sorry, the last one o saw was night at the museum 3, which was pretty disappointing :( 
+
+
+
+
+ The last Robin Williams movie I watched in the theaters was Night at the Museum 2... 
+
+
+
+
+ The voice of Robin Williams is excellent! 
+
+
+
+
+ India. 
+
+
+
+
+ I watched Aladdin yesterday, and I loved it too :) 
+
+
+
+
+ I just saw Big Hero 6 and Tangled, and I loved them :D 
+
+
+
+
+ Saw any movies lately? 
+
+
+
+
+ Hey, what's up? 
+
+
+
+
+ It's almost 3 PM here... 
+
+
+
+
+ Yes, it's 2.15 pm here... 
+
+
+
+
+ Even I loved Elsa's character! I just drew her, too... 
+
+
+
+
+ Yes! 
+
+
+
+
+ Unfortunately, my exams were going on when it was released :( Now, I plan to watch Frozen again... 
+
+
+
+
+ It's 10.55 AM here... 
+
+
+
+
+ I am curretly on a Disney movie watching spree... In 5 days, I saw Tangled, Big Hero 6 thrice, and Aladdin... 
+
+
+
+
+ Yes, nearly opposte ends! Saw any movies lately? 
+
+
+
+
+ India. Where are you? 
+
+
+
+
+ It's 10.40 AM here! 
+
+
+
+
+ I am fine. too :) What's the time there? 
+
+
+
+
+ Tom's Hardware's Android 5.1 performance test apperars to be surprising, as I found the real-life performace of 5.1 much better than 5.0. It's silky smooth with no frame-rate drops.   
+
+
+
+
+ Hi! How are you? 
+
+
+
+
+ I think it might be either Tintin or Baymax for me! 
+
+
+
+
+ Abki baar DuARTe sarkar. 
+
+
+
+
+ ICS
+
+
+Damn, he's... DuARTe. 
+
+
+
+
+ Do you deem yourself worthy enough to wear them? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nope. My vacations ate going on, so I am not procrastinating anything :) 
+
+
+
+
+
+
+
+
+
+ /uj The AutoMod replies are getting really annoying now. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ You should! 
+
+
+
+
+ My favourite is running and cricket :) 
+
+
+
+
+ Yup, or was pretty sad. The first 10 minutes of Up were sadder, though. 
+
+
+
+
+ Which sport do you like the most? :) 
+
+
+
+
+ I love Toy Story 3. It was an amazing movie. 
+
+
+
+
+ Toy Story trilogy :) 
+
+
+
+
+ You favourite movie? 
+
+
+
+
+ Not a lot of rules, it has as many as a normal sport. What's the most popular sport in your country? 
+
+
+
+
+ Playing Cricket is really fun, and it's the most popular game here in India. And, you should really watch HTTYD. It's one if my favourite movies
+ 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ I woke up a few hours ago, and now I would play cricket (heard about the game?) with my friends. Yesterday I saw How To Train Your Dragon 1   2, and both were really good movies. 
+
+
+
+
+ Hi! How's your day going? 
+
+
+
+
+ I don't really watch a lot of TV, so I don't have a favorite show :) 
+
+
+
+
+ Besides code, I really don't know :P  
+
+
+
+
+ Currently I just finished my 10 th grade, so I didn't really do anything yet to pursue the goals. I would love to be a coder! 
+
+
+
+
+ I would like to see myself in a good university in five years... I hope I would be in a good university doing Computer Science. 
+
+
+
+
+ I would love some random questions :) 
+
+
+
+
+ Mmmm....   Probably just fooling around, troubling people :P 
+
+
+
+
+ Toy Story (1,2   3). I just love them. 
+
+
+
+
+ I would go for truth! 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ /u/Flexxkii has wonderfully done it. This is the best implementation of Naut 3 I've ever seen. 
+
+
+
+
+ I almost cried during the first 10 minutes of Up. 
+
+
+
+
+ As you have counted Toy Story, I would also like to count in Up. The first 10 minutes were too damn emotional.  
+
+
+
+
+ **MODERATORS MODERATORS MODERATORS MODERATORS MODERATORS** 
+
+
+
+
+ what's up?
+
+
+
+[This](http://m.imdb.com/title/tt1049413/) 
+
+
+
+
+ **DUARTE DUARTE DUARTE DUARTE DUARTE** 
+
+
+
+
+ **MODERATORS MODERATORS MODERATORS MODERATORS MODERATORS** 
+
+
+
+
+ So should we start screaming "MODERATORS MODERATORS MODERATORS MODERATORS MODERATORS"? 
+
+
+
+
+ AutoRepeatModerator. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ !rule ban
+
+
+*Unauthorized bots are not allowed on this sub.* 
+
+
+
+
+ But they are being monotonous! 
+
+
+
+
+ They get irritating and boring after a while. 
+
+
+
+
+ **M0DS!** 
+
+
+
+
+ Praise Beautiful (Sundar means beautiful) Pichai. 
+
+
+
+
+ The 300 GIF was awesome! 
+
+
+
+
+ What spam does this sub have? 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ Seriously. AP has shown themselves to be the only Android news blog that takes itself seriously. They consistently produce new, useful, substantiated content. I don't see many other android journalists (or even other journalists in other fields) do as fantastic 
+of a job as you guys do.
+
+
+The APK teardowns, fantastic sources of information. Don't see others doing this. You don't just post "Oh boy i think this is happening rumor rumor rumor." You go through the code line by line to see what it could mean. That's dedication.
+Every week, the "x apps of the week." Awesome! What a great way to find apps. Original reviews, insightful and honest opinions, I love it!
+
+
+All other general news. Always original content. Rarely do I see recycled "this rumor happened" and "this is coming out" like I do from literally every other blog.
+
+
+Getting to know Android x.x.x. Perfect. Probably my favorite recurring thing on any blog ever.
+Basically, what I'm trying to say, is thank you so much for putting out actual content. Thank you for not trying to get pageviews from "hot" titles and "latest rumors!" Thank you for trying to get pageviews from writing solid articles and putting thought into almost every post.
+
+
+Seriously, I love you guys. I hope you can tell from all the upvotes and how many of your stories hit the front page! But even still, I wanted to let you know how absolutely grateful I am (and we all are)! Stick around, and keep up the fantastic work! We don't take it for granted, even if it might seem like it sometimes!
+
+
+**tl,dr; I LOVE YOU ANDROID POLICE! THANK YOU FOR EVERYTHING! 3** 
+
+
+
+
+ I seriously love these new shorts! 
+
+
+
+
+ Not running M Preview.
+
+
+Damn, you're old.
+
+
+not Google+
+
+
+You have disgraced Lord DuARTe. 
+
+
+
+
+ You have been indefinitely blessed. 
+
+
+
+
+ He's totally awesome :D 
+
+
+
+
+ Dhruv? 
+
+
+
+
+ Baymax! 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+ TIL ladfrombrad is Thor. 
+
+
+
+
+ 13, as M is the 13th alphabet. 
+
+
+
+
+ implying it would ever get. 
+
+
+
+
+ implying a Nexus 6 can be destroyed. 
+
+
+
+
+
+
+
+
+
+ [The volume controls have been improved!](http://i.imgur.com/TIqVSjB.jpg) 
+
+
+
+
+ Chrome custom tabs look amazing! 
+
+
+
+
+ I am waiting for DuARTe, too. His speech is at the end :( 
+
+
+
+
+ But his phone won't crash with an SMS. 
+
+
+
+
+ m8
+
+
+**HTC SHILL DETECTED!** 
+
+
+
+
+ You might be better off getting /u/LocutusOfBorges 's phone number. 
+
+
+
+
+ It's 11.00 PM here, so I'm not sleepy...
+
+
+ 
+
+
+
+
+ Yup, all keynotes start at night for us :( 
+
+
+
+
+ That's even worse! 
+
+
+
+
+ Hey, I have a Red Bull can lying around in my fridge, that might help! 
+
+
+
+
+ I love the timer. It's amazing! 
+
+
+
+
+ M0DS 
+
+
+
+
+ I hope I can stay up! 
+
+
+
+
+ India/GMT+5.30. I don't want to miss the Material Now event today :( 
+
+
+
+
+ I think I'll have to pull off a nighter today to participate in the thread. 
+
+
+
+
+ Waiting patiently for the ACJ thread! 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ I love Asterix! 
+
+
+
+
+ CC and /r/androidcirclejerk. 
+
+
+
+
+ Books, reddit and animated movies. 
+
+
+
+
+ I don't play games. I don't listen to music. 
+
+
+
+
+ Cyanoshit
+
+
+
+You have disgraced Lord DuARTe. 
+
+
+
+
+ 40C/104F here. 
+
+
+
+
+ I will try to come! 
+
+
+
+
+ What? Why do you want me to crush women? :O 
+
+
+
+
+ Because it is designed by Lord DuARTe. 
+
+
+
+
+ This movie looks too damn promising. 
+
+
+
+
+ First time I have used it, I am going to watch the movie today after 6 years, so I was excited :P 
+
+
+
+
+ what's up?
+
+
+
+[This](http://m.imdb.com/title/tt1049413/)
+ 
+
+
+
+
+ 'Cause I'm 16. 
+
+
+
+
+ I like to drink water. 
+
+
+
+
+ Only a few people hate it. It's actually very good, and that's the reason why it's the highest grossing animated movie. 
+
+
+
+
+
+
+
+
+
+ I am getting super-excited for this one! 
+
+
+
+
+ Also, how was the movie? Does it live up to the high expectations? 
+
+
+
+
+ And using reddit is fun *is not fun.* 
+
+
+
+
+ Buzz Lightyear? 
+
+
+
+
+ It would be the monsoon season here, with rains, and that would make it gloomy :( 
+
+
+
+
+ Summer's almost over here :( 
+
+
+
+
+ I might rephrase the question. Why is he the biggest shill? 
+
+
+
+
+ Why is /u/ladfrombrad literally Stalin? 
+
+
+
+
+ My top comment is this:
+
+
+
+
+I had put an AMA request for him on ACJ, I think he saw that...
+
+
+Yup, pretty proud if it... 
+
+
+
+
+ MKBHD. 
+
+
+
+
+ Running, it always helps relieve stress. 
+
+
+
+
+ Even I love animated movies and I am re-watching most of the animated movies I love! 
+
+
+
+
+ I loved Tangled as well. The CGI is beautiful. 
+
+
+
+
+ Monster's Inc. is very nice film. I just rewatched it yesterday. 
+
+
+
+
+ The animation was perfect.  
+
+
+
+
+ Up was a very touching movie... I loved it. 
+
+
+
+
+ Yup. Wall-E is amazing. 
+
+
+
+
+ Probably the most underrated Disney movie? 
+
+
+
+
+ Yup, Tangled and Frozen were excellent as well, and Big Hero 6 is my all-time favourite. 
+
+
+
+
+ 16, M, No, No. 
+
+
+
+
+ Also, when did I tell you I like Disney? I genuinely don't remember :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not the OP, but Charizard :D 
+
+
+
+
+ Why do such horrible things keep on happening? 
+
+
+
+
+ Nope. Was the first day of class, went with my sister for admission. 
+
+
+
+
+ Seriously. Never expected this. 
+
+
+
+
+ xD 
+
+
+
+
+ She just stared screaming "Get out!". I don't just know what happened. 
+
+
+
+
+ No, an external coaching class... 
+
+
+
+
+ Got pushed out of a chemistry classtoday in Pune when the teacher understood I was a Gujurati, with she screaming at the top of her voice, "You guys do business, don't come for academics." :( 
+
+
+
+
+ /uj I hope /u/ladfrombrad you are not offended :) 
+
+
+
+
+ Numix and Numix circle icon pack...  Numix is really nice. 
+
+
+
+
+ Yes, I am Indian, and I watch Bollywood movies, but I found only some of them like Lagaan, 3 Idiots or PK to be great. I prefer Hollywood animated movies over anything. 
+
+
+
+
+ Thanks! :D 
+
+
+
+
+ Mmmmmm...... is... [this](http://imgur.com/4mvJeZS)... enough for a sample???  
+
+
+
+
+ :'( 
+
+
+
+
+ Ummmm.... I don't think so... 
+
+
+
+
+ /uj I don't mean to replace Duarte with Pichai, but just a temporary fun experiment. 
+
+
+
+
+ ladfrombrad = ~~shillfrombrad~~  
+
+
+Stalinfrombrad. 
+
+
+
+
+ I'm pretty sure it will, it has a 100% rating on RT as of yet! 
+
+
+
+
+ The first ten minutes of Up were the most emotional moments in any animated movie. 
+
+
+
+
+ Brave was okay-ish at best. Pixar hasn't really made an excellent film after TS3. 
+
+
+
+
+ Well... the movie wasn't so popular in my country, so I had never heard of it. And as I was on an animated movie watching spree, I just stumbled across this one and was pleasantly surprised :) 
+
+
+
+
+ I just saw it 2 days ago for the first time, and I am wishing I should have seen it earlier! 
+
+
+
+
+ Yes, MU was great, but it wasn't up to Pixar's high standards. 
+
+
+
+
+ I just love the Toy Story trilogy, I can never get enough of them. 
+
+
+
+
+ Toy Story 3 is my favourite film ever, but Up was mind-blowing as well, and definitely one of my favourites. Inside Out looks very promising, and it looks like Pixar might finally be back on track. 
+
+
+
+
+ Yup, Pixar's Toy Story trilogy, Finding Nemo, the Incredibles, Wall-E, Monsters, Inc. and A Bug's Life were amazing. Here's hoping the same for Inside Out! 
+
+
+
+
+ I rewatched Wreck-It Ralph today, and it's really an amazing film. 
+
+
+
+
+ The Toy Story trilogy. Even I am on an anmated movies watcing spree, and I have watched tons of them in the last few days.  
+
+
+
+
+
+
+
+
+
+ Yes, enjoying last few moments of freedom! 
+
+
+
+
+ Last day of vacations, just enjoying it :) 
+
+
+
+
+ Very sleepy, 3.10 am here. 
+
+
+
+
+ **WE DID IT REDDIT!** 
+
+
+
+
+ Okay. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ Yep XD 
+
+
+
+
+ :O ??? 
+
+
+
+
+ Where have you been? 
+
+
+
+
+ Pete Docter. 
+
+
+
+
+ Hi! Seeing you after some time :) 
+
+
+
+
+
+
+
+
+
+ So... Did you buy it? 
+
+
+
+
+ I found [Rapunzel](http://agoofyidea.com/wp-content/uploads/2013/03/rapunzel.jpg) from Tangled to be the most attractive. 
+
+
+
+
+ /u/ladfrombrad
+
+
+DuARTe's chosen disciple
+
+
+
+Someone please x-post this to /r/Jokes. 
+
+
+
+
+ "I am a bot, and this action was performed automatically."
+
+
+
+Ladfrombrad is botfrombrad confirmed. 
+
+
+
+
+ /u/trollabot ladfrombrad 
+
+
+
+
+ I will surely see! 
+
+
+
+
+ Yup, I haven't even seen any Hobbit films :( 
+
+
+
+
+ I've never seen any LoTR movie... :( 
+
+
+
+
+ It's a really good film, especially if you like Pooh. You should definitely watch it. I am currently watching a lot of Disney and Pixar films. 
+
+
+
+
+ Winnie the Pooh (2011) :P It was a great film, though. 
+
+
+
+
+ It's 1.30 am here, and the only things that I did today were cycling and watching a movie. 
+
+
+
+
+ /uj Isn't this quiet like /r/AndroidMasterCard? 
+
+
+
+
+ Yes! :D 
+
+
+
+
+ First, you should **BuyANexus** 
+
+
+
+
+ Thanks :) 
+
+
+
+
+ I might try to order it now... I'll look for it on Amazon. 
+
+
+
+
+ But not available anywhere in my country :( 
+
+
+
+
+ I like blue colour! 
+
+
+
+
+ I craving to see Spirited Away :( 
+
+
+
+
+ Toy Story 3. 
+
+
+
+
+ Yes, Lord DuARTe blesses everyone. 
+
+
+
+
+ Mark as NSFW! 
+
+
+
+
+ Diwali is the biggest festival in India, and the celebrations here are grand. It is like the Christmas here :) 
+
+
+
+
+ MKBHD. 
+
+
+
+
+ /uj I really lked the new sidebar image and thanks for the replacing of the submit button! 
+
+
+
+
+ But... M = 1000! 
+
+
+
+
+ I cannot fathom my heresy! I will whip myself 1000 times now and ask Lord DuARTe for forgiveness! 
+
+
+
+
+ I should've have seen it earlier! 
+
+
+
+
+ A Nexus 5 with KitKat? Damn, you're old.
+
+
+Edit: Forgive me for my heresy. 
+
+
+
+
+ It's just awesome! 
+
+
+
+
+ The Nightmare Before Christmas? 
+
+
+
+
+ Which one OS best
+
+
+That guy's certainly not using Google Keyboard. 
+
+
+
+
+ Yes, a big one! 
+
+
+
+
+ Almost 6 PM here :) 
+
+
+
+
+ Says the heretic who's trying to burn himself with an M9. 
+
+
+
+
+ Though the Mumbai showed in the cartoon is far from the reality, I seriously love the new Mickey shorts! 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ But... but... they made the Nexus 9! 
+
+
+
+
+ The MCG! It's too damn huge! 
+
+
+
+
+ In most cases, yes :) 
+
+
+
+
+ Yup. I know!  
+
+
+
+
+ The current name is too hard too pronounce. Thiruvananthapuram. 
+
+
+
+
+ I'm kinda used to it now! 
+
+
+
+
+ Skyscrapers. 
+
+
+
+
+ Yup, staple Indian food. 
+
+
+
+
+ /uj Yes. I am a huge Pixar fan. 
+
+
+
+
+ Yes! 
+
+
+
+
+ True! 
+
+
+
+
+ Mumbai. 
+
+
+
+
+ Ummm... Probably Diwali holiday here in India... 
+
+
+
+
+
+
+
+
+
+ All people in Chile are blessed. 
+
+
+
+
+ I am just lazing around currently... 
+
+
+
+
+ **BURN THE TREES!** 
+
+
+
+
+ Hey, what's up? 
+
+
+
+
+ 10 AM here in India, and it's very sunny. 
+
+
+
+
+ No Netflix in my country :( 
+
+
+
+
+ Yes, Cars 1 wasn't good. The story was not sensible. 
+
+
+
+
+ Blue inked! 
+
+
+
+
+ I liked MU a lot, too, but it wasn't up to Pixar's standards
+ Brave was an okay-ish kind of film. Cars 2 on the other hand... 
+
+
+
+
+ Let's hope it would be good, there really hasn't been a good Pixar movie since Toy Story 3. 
+
+
+
+
+ Here's the good dinosaur trailer, if you are interested :) https://www.youtube.com/watch?v=R1nfAxkpx9M 
+
+
+
+
+ But I'm didn't really like the trailer of The Good Dinosaur. The dinosaurs look too goofy... 
+
+
+
+
+ Adding the founder of iVerge to the list of Approved Prophets? **NEVER!** 
+
+
+
+
+ Also, Finding Dory might ruin Finding Nemo, too. Inside Out looks very promising, though. 
+
+
+
+
+ I think You are right. I am not really sure about it, let's hope Cars 3 comes after it! Also, they should scrap their plans of making Toy Story 4. The trilogy is almost perfect, they might ruin it with this one... 
+
+
+
+
+ Cars 3 is coming before it :'( 
+
+
+
+
+ It was 2017, but then delayed :( I am desperately waiting for The Incredibles 2, though :) 
+
+
+
+
+ But the third is coming in 2018 :( 
+
+
+
+
+ Even I did a back to back watch! It's amongst my favourite movies now! 
+
+
+
+
+ The whole two new apps would be coming Soon  
+
+
+
+
+ I watched How to Train Your Dragon 2 yesterday :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ KitKat
+
+
+
+Cyanoshit
+
+
+
+
+**MODS MODS MODS MODS MODS** 
+
+
+
+
+ Nah, their HQ will burn down due to the One M9s before they go bankrupt... 
+
+
+
+
+ Paperman was pretty good. 
+
+
+
+
+ I started with my Maths and Physics classes... Junior college not started yet. 
+
+
+
+
+ XD. The weather here is getting gloomier due to rains :( 
+
+
+
+
+ So, are you planning to sleep today? 
+
+
+
+
+ Which games did you buy? 
+
+
+
+
+ Heavy rains here... The only thing that I did today was atching a movie. How was your day? 
+
+
+
+
+ 3.44pm here... 
+
+
+
+
+ What's the time at your place? 
+
+
+
+
+ Yes, it looks amazing! Finally a good Pixar film after 5 years. 
+
+
+
+
+ inside Out is releasing on the 26th in my country :( I am definitely going to see it, though! 
+
+
+
+
+ I am very excited for Finding Dory, too! 
+
+
+
+
+ I love Finding Nemo, too. It's just amazing. 
+
+
+
+
+ My favourite would always be Toy Story 3, for the nostalgia. I've never seen The Road to El Dorado, though... 
+
+
+
+
+ Yes, they did announce Incredibles 2, and I am super-excited for it! I am a huge fan of animated movies, and also a big fan of Pixar movies. Which is your favourite animated movie? 
+
+
+
+
+ It's my favourite Science Fiction movie. I am also going to rewatch The Incredibles today. 
+
+
+
+
+ I watched Wall-E today after many years. I love that movie. 
+
+
+
+
+ The Heads-up notifications in Android 5.0 were a complete mess, and I hated them. The implementation in 5.1 is much better.  
+
+
+
+
+ It's releasing on the 26 in my country :( Can't wait for it! 
+
+
+
+
+ Which distro are you using? 
+
+
+
+
+ Petition to add DuARTe's daughters to the list of Approved Daughters. 
+
+
+
+
+ Yes, the JP callbacks were good... 
+
+
+
+
+ I saw JW, but I personally thought that JP1 was much better. I am a lot more excited for Inside Out. 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ Redditing, and sometimes, watching animated movies. 
+
+
+
+
+ Truth! 
+
+
+
+
+ Most of them are incredible. 
+
+
+
+
+ All Pixar movies.  
+
+
+
+
+ [Yes, you can make it at home.](http://www.boldsky.com/cookery/vegetarian/break-fast/bun-maska-recipe-030880.html) 
+
+
+
+
+ Yes, it's very tasty! If you ever come to India, you should definitely try it. 
+
+
+
+
+ [Yes.](http://www.rajkotfoodie.com/wp-content/uploads/2014/02/brun-maska.jpg) 
+
+
+
+
+ [Someone else has the same name as you.](http://i2.cdnds.net/13/10/618x448/movies-disney-film-feature-6.jpg) 
+
+
+
+
+ Come after your work is done! 
+
+
+
+
+ Sure! Come to India! 
+
+
+
+
+ Bun and butter. It's an Iranian dish found in Iranian cafs in India, and the bun has loads of butter put on it. 
+
+
+
+
+ I am having lunch right now. 
+
+
+
+
+ Because it's 1pm here in India. 
+
+
+
+
+ "I go." One of the most emotional scenes in the movie. 
+
+
+
+
+ Even I still have kept my toys in the bedroom. They were a big part of my childhood, and mean a lot to me. And after watching TS3, I don't have the heart to throw them away. 
+
+
+
+
+ The ending is just amazing, always gets me. 
+
+
+
+
+ Toy Story 3 and Up. Also, The Iron Giant. 
+
+
+
+
+
+
+
+
+
+ I started to read Redwall by Brian Jacques. 
+
+
+
+
+ One of the best comments! 
+
+
+
+
+ peasant
+
+
+This is not /r/AndroidMasterCard! 
+
+
+
+
+ You need to see JP1. It's incredible! 
+
+
+
+
+ I saw it in 3d. I found the movie to be okay. Jurassic Park was better, IMO. 
+
+
+
+
+ What makes you think all Indians here are poor?  
+
+
+
+
+ CC, androidcirclejerk, android. 
+
+
+
+
+ Pixar's best? This is getting me seriously hyped! 
+
+
+
+
+ Nothing yet. 
+
+
+
+
+ [I collect a few of them, but they aren't close to what you've got.](http://imgur.com/rAdfOql) 
+
+
+
+
+ The ending of TS3 always gets me. 
+
+
+
+
+ The first 10 minutes of Up. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ It's a Linux based distro, widely regarded as one of the easiest to use distros. 
+
+
+
+
+ No. I am using Ubuntu. 
+
+
+
+
+ [A screenshot of my desktop :)](http://imgur.com/1A5dY1y) 
+
+
+
+
+ Studying :( 
+
+
+
+
+ Spiderman 2 was awesome. Much better than the Amazing Spiderman series. 
+
+
+
+
+ The ending of Toy Story 3. 
+
+
+
+
+ Mine is The Incredibles. 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ Sheriff Woody! 
+
+
+
+
+ Time for our beloved AutoMod to reach there. 
+
+
+
+
+ This one's only the second flair I've ever had, so I've never had a witty flair. 
+
+
+
+
+ I didn't really like the trailer of the good dinosaur, though. 
+
+
+
+
+ But I heard the movie was about Finding Dory's roots, her parents and finding about her childhood... At least that's what I heard... Incredibles2 could be great as well. 
+
+
+
+
+ Inside Out looks amazing, but it's releasing one week late in my country, on 26th :'(
+
+
+
+Also, the script of Finding Dory looks good, too... 
+
+
+
+
+ *cough cough* Cars 2 *cough cough*
+
+
+
+I am super-excited for Inside Out, though. 
+
+
+
+
+ Even the ending of TS3 was very emotional. 
+
+
+
+
+ The first 10 minutes of the movie were too damn emotional. 
+
+
+
+
+ Yup. I love the movie. I love almost all of Pixar's movies. 
+
+
+
+
+ what's up?
+
+
+
+[This](http://movies.disney.com/up)
+
+
+
+
+^^^Just ^^^kidding
+ 
+
+
+
+
+ Not using Chrome OS.
+
+
+
+**MAWDS!** 
+
+
+
+
+ The IMEI sticker should be removed immediately. The no. is not for others to see. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ Will try to do at least 20 today! 
+
+
+
+
+ Praise DuARTe! 
+
+
+
+
+ The Indominus Rex is funded by Verizon and it also has a "Samsung Innovation Center". 
+
+
+
+
+ Thanks! And I don't think I would ever be able to do 120 Push-ups in a day. 
+
+
+
+
+ I cycled almost 8km yesterday for the first time! Feeling great :) 
+
+
+
+
+ I never got into gaming... 
+
+
+
+
+ Almost all of them. 
+
+
+
+
+ The Iron Giant? 
+
+
+
+
+ The Indominus Rex shown in the movie is also funded by Verizon. 
+
+
+
+
+ No... I didn't see such things... 
+
+
+
+
+ Flappy Bird. 
+
+
+
+
+ Goa, India. Yes, it was an enjoyable experience! 
+
+
+
+
+ Not an early bird, not a night owl, as it's 6pm here :P 
+
+
+
+
+ Hi, what's going on? 
+
+
+
+
+ India. 
+
+
+
+
+ Asia, as I'm an Asian :) 
+
+
+
+
+ Truth! 
+
+
+
+
+ What about Inside Out? 
+
+
+
+
+ I just had rice for dinner. 
+
+
+
+
+ [Here.](http://imgur.com/x0PGxSi) Sorry for the delay! 
+
+
+
+
+ In going out for half an hour, I will be back soon and will surely upload one. 
+
+
+
+
+ Yes, wait... I'll have to upload one. But they're not good :P 
+
+
+
+
+ Yes, wait... I'll have to upload one. But they're not good :P 
+
+
+
+
+ Cartoons :) 
+
+
+
+
+ I've been fine, I started a bit of drawing recently
+ :) 
+
+
+
+
+ Hi, missed your panda drawings! 
+
+
+
+
+ Me too! 
+
+
+
+
+ Charizard :D 
+
+
+
+
+ Loving Pokemon! 
+
+
+
+
+ /j    
+
+#BuyANexus 
+
+
+
+
+ Yeah, right. :( 
+
+
+
+
+ What right do they have to say that? 
+
+
+
+
+ Anyway, I won't be returning to the class. 
+
+
+
+
+ That's what I thought in the end, "Thank God I didn't take admission here." 
+
+
+
+
+ She was the person running the class. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yes, it's third for me too, behind TS3 and Finding Nemo! 
+
+
+
+
+ Truly a fantastic movie. It's one of my favourite Pixar movies now, and it has definitely got me hyped up for The Good Dinosaur. 
+
+
+
+
+ Inside Out! I loved it :D 
+
+
+
+
+ The Emperor's New Groove is on Netflix, and it's awesome! My favourite movie, though, is Toy Story 3. 
+
+
+
+
+ For obvious reasons. 
+
+
+
+
+ The Nexus 6 uses a Qualcomm processor. 
+
+
+
+
+ Brad Bird - Tomorrowland. 
+
+
+
+
+ In just saw The Emperor's New Groove, and It's hilarious! I haven't laughed so much in a movie since ages. Why it isn't considered as good as the other Disney animated classics, is beyond me.
+Edit: Spelling. 
+
+
+
+
+ You should definitely give Inside Out a shot. 
+
+
+
+
+ No... It's been there since a few days when the word on the sidebar was changed to "conservationists". 
+
+
+
+
+ The most epic moment in the movie! 
+
+
+
+
+ A famous quote from my favourite movie. 
+
+
+
+
+ See the pic at the end of the sub... It's hilarious! 
+
+
+
+
+ I hope Pixar shows how the dinosaurs started to look goofy, just like they did with the humans in Wall E. 
+
+
+
+
+ You mean /r/GalaxyS6Circlejerk? 
+
+
+
+
+ Even I don't swear. Not even on reddit. 
+
+
+
+
+ Yes, I like it when I am not stuck in it! 
+
+
+
+
+ It's the current Android design philosophy, introduced along with Android Lollipop. 
+
+
+
+
+ It's my favourite Reddit app. It's currently the one which implements Material Design most accurately. 
+
+
+
+
+ I use Sync for Reddit on my Android phone. 
+
+
+
+
+ You're so new! 
+
+
+
+
+ India
+
+
+It's currently raining heavily
+
+
+
+8.10 AM 
+
+
+
+
+ Hi, fellow Indian! :) 
+
+
+
+
+ The greatest shill of all time. 
+
+
+
+
+ The rant thread at /r/Android has basically become "If Google does not implement x feature, I will switch to iOS." 
+
+
+
+
+
+
+
+
+
+ I've always had a strange attachment with the Toy Story characters... 
+
+
+
+
+ Yeah, I am from the future! xD 
+
+
+
+
+ What's a lotto number? 
+
+
+
+
+ 8.19 AM, Friday. 
+
+
+
+
+ Kill Bill. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ This reminds me that /u/Unlifer was supposed to eat his Moto G...
+
+
+[Source](https://www.reddit.com/r/Android/comments/2b4jkr/new_motorola_phone_xt1063_spotted_in_brazilian/cj1qv69) 
+
+
+
+
+ Yup, same with me. 
+
+
+
+
+ :( 
+
+
+
+
+ I find them to be a little annoying... 
+
+
+
+
+ It's one of my favorite Pixar moments, after Ego's monologue at the end of Ratatouille. 
+
+
+
+
+ Inside out was amazing. It's one of my favourite Pixar movies now. 
+
+
+*Take her to the moon for me* :'( 
+
+
+
+
+ Can't decide between Toy Story 3, Finding Nemo and Ratatouille. 
+
+
+
+
+ Redmi 2. 
+
+
+
+
+ [This is Up.](http://www.rottentomatoes.com/m/up/) 
+
+
+
+
+ Almost all Pixar movies. And also, The Iron Giant. 
+
+
+
+
+
+
+
+
+
+ Jan Pinkava. 
+
+
+
+
+ Ratatouille. They had to change the director midways... 
+
+
+
+
+ Inside Out. 
+
+
+
+
+ After The Sixth Sense, M. Night Shyamalan was supposed to be the next big thing... 
+
+
+
+
+ A lot of studies to do this weekend :'( 
+
+
+
+
+ Ehh... I was 9 when I watched Up and hence it was the first to make me cry. 
+
+
+
+
+ I don't know... The basic plot looks interesting, but the dinosaurs look very goofy. 
+
+
+
+
+ Nexus 6 is literally DuARTe. 
+
+
+
+
+ Up was the first movie to make me cry. 
+
+
+
+
+ Wreck it Ralph. It was much better than Brave. 
+
+
+
+
+ Toy Story. 
+
+
+
+
+ DuARTe wants to spread his light and hence there's no dark theme. 
+
+
+
+
+ I was watching India vs Zimbabwe today... 
+
+
+
+
+ Ashes or India vs Zimbabwe? 
+
+
+
+
+ Anton Ego's monologue at the end of Ratatouille. 
+
+
+
+
+ "Congratulations San Francisco, you've ruined Pizza! First the Hawaiians, and now you!"
+
+
+
+Edit: The above quote is from Inside Out. 
+
+
+
+
+ Thanks! :D 
+
+
+
+
+ I had a mathematics and chemistry test... 
+
+
+
+
+ I had to study a lot :( 
+
+
+
+
+ **MODERATORS MODERATORS MODERATORS MODERATORS MODERATORS** 
+
+
+
+
+ 12 AM... 
+
+
+
+
+ I am really tired of Google not updating their Android apps. Why are the  Google iOS apps getting the updates first? Why isn't the Android team competetent? These things are causing people to switch to iOS. 
+
+
+
+
+ *prehistoric 
+
+
+
+
+ /uj Yes, I know this is a 'Going Dark' protest, and this thread feels out of context. I will probably delete it.
+
+
+ 
+
+
+
+
+ /uj I know, I am just trying to make a joke... 
+
+
+
+
+ I liked Lava, but it wasn't anywhere close to being as good as Presto or Geri's Game. Inside Out, though, was awesome. 
+
+
+
+
+ #BuyANexus 
+
+
+
+
+ /r/IAmA went private because they could not handle the heavy traffic due to DuARTe's AMA. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ In my imaginations... 
+
+
+
+
+ You're not the only one, I have an exam on Monday. 
+
+
+
+
+ I would buy a mobile. 
+
+
+
+
+ **HITLER IS AN APPROVED PROPHET!** 
+
+
+
+
+ **MODERATORS MODERATORS MODERATORS MODERATORS MODERATORS** 
+
+
+
+
+ Toy Story 3. 
+
+
+
+
+ For not accepting Lord DuARTe as the true God. 
+
+
+
+
+ Paperman is by Disney, not Pixar. 
+
+
+
+
+ /uj Yes, the people over at /r/Android cite the reason as "The iOS team is better." That shouldn't matter though, Google should take their Android apps seriously. 
+
+
+
+
+ Have you seen Feast? It's awesome as well! 
+
+
+
+
+ /uj Does Google really want people to switch to iOS? It seems ridiculous that the iOS app was updated before the Android one... 
+
+
+
+
+ Paperman. I also loved Pixar shorts like Geri's Game and Presto. 
+
+
+
+
+ Paperman is by Disney, though. 
+
+
+
+
+ ....some fresh fruit? 
+
+
+
+
+ [Presto.](https://vimeo.com/68386465) 
+
+
+
+
+ Truth! :D 
+
+
+
+
+ Yes, the make-over of Woody by Geri was oddly satisfying.... 
+
+
+
+
+ Geri's Game. 
+
+
+
+
+ ~~Burn them~~ M9 them. 
+
+
+
+
+ [This is Up.](http://www.imdb.com/title/tt1049413/?ref_=nv_sr_6) 
+
+
+
+
+ Also, Isis(Softcard) is owned by Google. 
+
+
+
+
+ Yes, I love BH6. Baymax is awesome! 
+
+
+
+
+ Cars 2. 
+
+
+
+
+ Saw the movie Inside Out. It's awesome. 
+
+
+
+
+ 12 AM here, so preparing to sleep... 
+
+
+
+
+ Why do you want to burn yourself? Is your house already on fire? 
+
+
+
+
+ *Cyanoshit 
+
+
+
+
+ Spirited Away. 
+
+
+
+
+ And the disparity between the rich and the poor goes on increasing here... 
+
+
+
+
+ I'm from India. I hate the filth here. 
+
+
+
+
+ Yes, it's my 3rd favourite Pixar movie! (After TS3 and Finding Nemo.) 
+
+
+
+
+ Really a very touching movie. One of my favourite Pixar movies. 
+
+
+
+
+ Be prepared to cry, though! 
+
+
+
+
+ Definitely one of Pixar's best. 
+
+
+
+
+ Yes, the cast, especially Amy Poehler, was amazing! That one part, though :'( 
+
+
+
+
+  That one scene had me in tears, though :'( 
+
+
+
+
+ Yup, it's very emotional. Not as much as Up or TS3, though. But keep your tissues ready! 
+
+
+
+
+ It's absolutely amazing. Pixar's back, guys. 
+
+
+
+
+ Nothing. My day was pretty bad. 
+
+
+
+
+ Yup, I just love cricket! ( Though the loss to Bangladesh was bad) 
+
+
+
+
+ Cricket. 
+
+
+
+
+ The Road to El Dorado. 
+
+
+
+
+ Even I want to see Inside Out badly, it's releasing on the 26th here. I have seen a lot of Pixar movies lately. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

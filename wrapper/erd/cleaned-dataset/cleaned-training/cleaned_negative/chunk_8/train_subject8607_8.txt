@@ -1,0 +1,28 @@
+ Too many variables at play to be anything other than coincidence, in my opinion...but i also imagine that the rate of conjoined births is so low, and the factors you are asking about are so subjective, that there is no way to tell for certain. 
+
+
+
+
+ Anecdotally, that's the mantra, right? Or "Beer before liquor, never sicker"? 
+ 
+Usual causes of hangovers are dehydration, low blood sugar and stomach irritation. I think we can split hairs over the presence of congeners or other "impurities" in gin vs. vodka vs. brown liquor vs. wine vs. beer, but -- by and large -- the key is HOW MUCH you drink...not WHAT. 
+
+That is to say, if mixing it up means you drink more high-alcohol content drinks in the same time period, then yes -- you'd probably have a worse headache than if you just stuck to beer. For the most part, though, that's due to the fact that you drank a bunch more alcohol -- not due to the fact you mixed up the types. 
+
+
+
+
+ Judging by the concentration-response curves I could find with a cursory PubMed search, I would say diphenhydramine is a competitive antagonist at the H1 histamine receptor. It causes a parallel rightward shift in the curve, which is pretty typical of the pharmacodynamics of competitive antagonists. Thus, it seems to interact with the receptor in a similar way to histamine.
+
+That being said, I did find other information that suggests diphenhydramine is actually an inverse agonist: that is to say, it blocks constitutive activity of the H1 receptor (activity present in even in the absence of histamine). So, I imagine that the description as a competitive inverse agonist may be apt here. Or, some allosteric modulation is also happening -- but that is PURE speculation on my part. 
+
+
+
+
+ My best guess without doing a lot of digging is the relative metabolic demand of the tissues as compared with the blood volume. There is less blood to be pumped (and a much smaller heart to do it), and that creates the issue. For some small animals, a pretty high metabolic demand is present for many tissues. Same reason your heart rate goes up during exercise: think of a chipmunk, bouncing around all the time -- it takes a lot of energy to do that, and thus a high heart rate. 
+
+Thus, I imagine the high HR is related to high metabolic demand of the animal's organs and tissues, and the small volume of blood present to carry nutrients to meet that demand...even when docile. 
+
+
+
+

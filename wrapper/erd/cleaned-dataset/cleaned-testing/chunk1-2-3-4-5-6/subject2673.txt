@@ -1,0 +1,1026 @@
+ Funny ~~re~~post bro 
+
+
+
+
+ Sad to see the comments section has devolved into a java rocks vs java sucks war. As an intermediate level programmer using Android, I got something out of it. He makes some valid points regarding for each loops which require the use of iterator() and Iterators, which can necessitate more GC when used for long lists. The use of static methods also helps when you don't need to access any instance variables. Google's Developer section also points these things out and more in their documentation article about increasing performance: [Link](http://developer.android.com/guide/practices/performance.html) 
+
+
+
+
+
+
+
+
+
+ the build up was what made it so good too haha. 
+
+
+
+
+ sick flow and very lyrical for his age. the thing is he has room for improvement too
+
+a newer track from OF with him in it (his verse starts at 7:05): http://www.youtube.com/watch?v=fzi24Nssiow 
+
+
+
+
+ Are you referring to Android's "Dalvik" JVM? 
+
+
+
+
+ ah yes. Handles! 
+
+
+
+
+ freakin upvote people! 
+
+
+
+
+ Extreme chunk error is extreme... am I wrong or can people reproduce this with the same seed? Just curious. 
+
+
+
+
+ You can't help but facepalm.jpg 
+
+
+
+
+ Is this a Nas instrumental? (hope I'm not embarrassing myself lol) 
+
+
+
+
+ great mix man make #3 i will listen! 
+
+
+
+
+ Here's the release schedule for those who don't feel like searching:
+
+M7  Friday, May 11
+RC1 Friday, May 25
+RC2 Friday, June 01
+RC3 Friday, June 08
+RC4 Friday, June 15
+Quiet time, June 16 to June 27
+ (no builds during "quiet time", assumed all code is done by end of RC4)
+Release Wednesday, June 27, 2012 
+
+
+
+
+ All pretty valid points, thanks for clearing that up. 
+
+
+
+
+ I'm a fan of Hopsin. I think he's pretty lyrical. However, the verse about Obama on Nocturnal Rainbows is extremely ignorant if that's what he actually believes. He mentions the Illuminati as if they actually exist... 
+
+
+
+
+ 8/10 i like your breasts and your smile 
+
+
+
+
+ ill 
+
+
+
+
+ yeahhhhh 9/10 i like ur hair :D 
+
+
+
+
+ 7/10 I suggest changing your hair color to something other than red and growing your hair out. you will look really good that way. 
+
+
+
+
+ You look really good with straight hair :D 
+
+
+
+
+ 5/10 need more makeup and dress better plz 
+
+
+
+
+ Last pic 0_0  10/10 would bang 
+
+
+
+
+ wow you are really pretty and skinny. try straightening your hair. 8/10 
+
+
+
+
+ nice legs and skin 8/10 
+
+
+
+
+ really sexy 9/10 
+
+
+
+
+ Linux Kernel 3.2 hypeeee put ur hands up!!! 
+
+
+
+
+ Nas still got it 
+
+
+
+
+ sick 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ lol boke 
+
+
+
+
+ at a [0] in psych lecture 
+
+
+
+
+ I know that feel bro, uptoked all the way :) 
+
+
+
+
+ Use a different operating system... 
+
+
+
+
+ obviously... 
+
+
+
+
+
+
+
+
+
+ I wish more people like you were more involved in bug reports for all kinds of software. 
+
+
+
+
+ ...Sarcasm? 
+
+
+
+
+ I am very experienced with Java, and willing to help! Is there a public repository that I can pull from or does one need to be granted push/pull permissions?
+
+edit: Never mind, I found the GitHub repo and downloaded the source code. Still looking for the bug list.  
+edit 2: Found the bug list. Currently familiarizing myself with the codebase. My username on GitHub is test_subject2673.  
+edit 3: Working on [#BUKKIT-2181](https://bukkit.atlassian.net/browse/BUKKIT-2181) found the problem in code, will try to fix tomorrow.  
+edit 4: Working with undocumented code takes a lot longer, there are hundreds of undocumented functions named a() or b(). Doing the best I can though.  
+edit 5: BUKKIT-2181 seems to be a server-side issue that can only be fixed with a client side mod  
+edit 6: Commented on [BUKKIT-2193](https://bukkit.atlassian.net/browse/BUKKIT-2193) with a possible fix.  
+edit 7: after reading through some of the emails I got after signing up for the github notifications, the sheer amount of complaining is staggering 
+
+
+
+
+ Also if anyone plans on responding, I would appreciate a technical explanation, not a scrub explanation. 
+
+
+
+
+ Back it up and keep it down until a fix is found... Is there any way of detecting client side mods? How do the nocheat and nocheat+ multiplayer server options work? 
+
+
+
+
+ This just happened to me 5 minutes ago... I feel like a complete idiot. Same guy too! 
+
+
+
+
+ I don't have the pair of menus like that on my LXpanel, so I guess the changes won't be affecting me. Thanks for the great explanation :) 
+
+
+
+
+ Sorry if this is a nooby question, but I run Lubuntu 12.04 (basically ubuntu with LXDE instead of GNOME) and I was wondering if this change would affect Lubuntu 12.10 as well. 
+
+
+
+
+ Ahh didn't notice the interface part. Thanks for pointing that out. 
+
+
+
+
+ the palmer squares need to go on tour 
+
+
+
+
+ Just checked the Java 7 docs as well, was disappointed to see it still there. 
+
+
+
+
+ there is (sort of): /r/badcode 
+
+
+
+
+ You're absolutely right about the attitude part. However, the user shouldn't have to choose between familiar/functional interfaces and security (not sure why you called it abstract, do you mean that users aren't aware of how vulnerabilities work?). I use Nightly Linux x86 and first thing I do in the morning is update it, then get on with browsing. If there are multiple updates in one day and it pops up to notify me, I simply press restart to update, wait a WHOLE 5 SECONDS and carry on with my business. Firefox even saves all your tabs for you while you update, so I suppose the point I'm trying to make is why are people so angry about quick updates? My best guess is that the vast majority of users have no idea about major exploits and the consequences of running unpatched software. Feel free to let me know if I'm going in the wrong direction with this though, because what I feel it really boils down to is patience. 
+
+
+
+
+ "But I WANT zero-day exploits in my browser! WAAAHHHH WE NEED MORE UNPATCHED REMOTE CODE EXECUTION EXPLOITS!" That's all I hear when people complain to me about browser updates. 
+
+
+
+
+ Came into this topic expecting propositions of new logos and being able to feast my eyes upon new potential candidates... 
+
+
+
+
+ Platform fragmentation makes it hard to support a large range of devices when developing apps. As an Android app developer, I understand the struggle of maintaining compatibility with older platforms when newer versions of an app can have API-specific dependencies, and therefore hold nothing against Google in the way they've made Chrome available on Android.
+EDIT: I'm a Firefox user though. Where is my file menu Chrome? I'm still waiting for that option. 
+
+
+
+
+ AMD procs implement the x86 instruction set in a different way as well, not sure if that makes a difference though. 
+
+
+
+
+ Great read. I was surprised most by the 1 in 190 initial failure rate of CPUs being higher than the 1 in 270 initial failure rate of hard drives. Did anyone else find that odd? 
+
+
+
+
+ Serious question: What kind of companies rent that much compute power for 87k an hour (if i read the post correctly)? 
+
+
+
+
+ Very informative! Malware authors sure are a peculiar bunch... 
+
+
+
+
+ I love the way you shifted it to minor instead of major (that Rocket Man is in). Great song! 
+
+
+
+
+ You're right, it was a pretty bad generalization. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you! Dear god yes 
+
+
+
+
+ That nug looks like a sinusoidal wave. Anyone? 
+
+
+
+
+ I have not tried this, nor do i have any experience with edibles, but I came up with this idea while I was really high. So what you would do is bake chocolate sauce with a bunch of kief and dip strawberries and bananas in the resulting sauce. Don't know if this would work... 
+
+
+
+
+ Kudos to you, I'm way too stressed out during the week to want to do anything other than chill on a Friday. 
+
+
+
+
+ Tax season keeps the o's rolling in 
+
+
+
+
+ Sorry that had to happen to you friend. Some people just don't understand. 
+
+
+
+
+ I don't vape because a vape is 170$+. Also bongs get you way higher than vapes. They are both different highs though. 
+
+
+
+
+ Do you have any other reason for supporting this initiative other than "I don't like cigarette smoke, therefore nobody should be able to smoke anywhere on campus, because I live on campus"? Your opinion comes across as closed-minded and self-centered. 
+
+
+
+
+ Just hold your breath. I don't smoke, but I still respect smokers' desire to be able to smoke outside. It's really not a big deal at all. Don't let it rustle your jimmies. 
+
+
+
+
+ Toking up for you tonight. Good luck with life friend 
+
+
+
+
+ Good stuff man i would attend 
+
+
+
+
+ Being high opens your mind to new possibilities and helps you realize that everyone is just like you and that we should all respect one another. I speak from experience when i say that I am more mature and my mind is more open after i started smoking on occasion. You will also feel very happy and appreciate everything around you, like nature, much more as you realize life is the result of a complex set of interacting systems. Toke on, friend. 
+
+
+
+
+ Honestly I never post, but I felt morally obligated to offer my condolences to any parties involved. :( 
+
+
+
+
+ Just dropping in to say congrats, that was smooth as silk 
+
+
+
+
+ I won't lie - the title almost made me downvote the content immediately. Then I noticed it wasn't a self-post. Then I read the attached article. Very well said. I need to work on how quickly I judge posts made on reddit... 
+
+
+
+
+ College student, RA is never around, never make noise 
+
+
+
+
+ It looks more like a joint to me. Needs moar weed. Good roll though 
+
+
+
+
+ I'm not sure I fully understand. Can't you just declare the method as final in Java to prevent subclasses from overriding it? Or is the OOP concept of overriding itself at fault here? 
+
+
+
+
+ 301 reporting :) 
+
+
+
+
+ i see it. uptoke to bad movies haha 
+
+
+
+
+ So last night I smoked and then went to eat at a cafeteria. I had grabbed some delicious brownies and was walking back to the table my friend was at who was at a [6] but he handles his shit like a fucking boss. Looked down on the ground and I found what I thought to be 40 bucks. I rush over and pick it up, suddenly aware people probably think I'm baked as fuck.  
+Anyway when I get back to my table and show my friend I take it out of my pocket and it was actually 60 bucks! At this point I could not handle my shit at all; I had just found the largest amount of cash ever in my life on the ground. I was leaning forward on the table giggling uncontrollably, getting paranoid that someone might have seen me pick it up. But no one did, and me and my buddy left the cafeteria 60 bucks richer. I plan on using it to buy an eighth. Good times.  
+TL;DR found 60 bucks on the ground, using it to buy an eighth :D  
+edit: also I really enjoyed the brownie. 
+
+
+
+
+ I definitely second CLRS, the sections on Red-Black trees and hashing are great. The book even denotes parts that are intended mostly for grad students so if it doesn't make sense then you don't have to panic :) 
+
+
+
+
+ very good story, read the whole thing. i think you acted very maturely dude, I would have lost my shit if the police put me in cuffs... Congrats everything was cool at the end too. uptoke for chill police and even chiller people 
+
+
+
+
+ *sits and waits patiently* 
+
+
+
+
+ Some implementations are a bit messy.  A bit.  Messy. 
+
+
+
+
+ If you can get your hands on it, try medical or blue dream. Those two get rid of my back pain very effectively. 
+
+
+
+
+ This. I really enjoy smoking with friends as a social experience because it enhances it. Even if i gotta smoke people up most of the time :) 
+
+
+
+
+ That was fucking beautiful ;_; Uptoke for great justice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ it aint really what it is but it do 
+
+
+
+
+ shit starts spinnin' 
+
+
+
+
+ This article was great! I don't post much, but I just wanted to stop in and show my appreciation for an article of such quality.
+
+It is truly unfortunate that static recompilation is difficult to use more extensively in emulation due to the inherent complexity of code.
+
+Very good read though, it's clear that you put a lot of work into the article. Thanks for sharing. 
+
+
+
+
+ MD MoCo ent reporting. Nice spot 
+
+
+
+
+ Get this superstitious bullshit off world news. Stories like this contribute nothing to this sub and you should feel bad. 
+
+
+
+
+ Theories of Relativity and Special Relativity by Einstein. Nobody even came close to understanding gravity before this. The 20th century is great. 
+
+
+
+
+ Can someone please explain to me why anyone even cares about these statistics? I don't understand, why is it significant if less women go into a field one year compared to past years? And why does it belong in this sub? 
+
+
+
+
+ Competitive SSBM ent here. Sick controller. 
+
+
+
+
+ Does that just mean that no one has been able to prove it's either P or NP-complete? 
+
+
+
+
+ If this is OC and you're really asking, good luck man. 
+
+
+
+
+ Razors. Those fuckers are expensive 
+
+
+
+
+ How about "pick one programming paradigm and stick to it"? 
+
+
+
+
+ As human beings, I feel like we strive to attach meaning to inherently meaningless things. It's sad, really. The way humans live life today is just an endless circlejerk with some escapism thrown in for shits and giggles. 
+
+
+
+
+ 99 bottles of beer on the wall, 99 bottles of beeeer... etc. 
+
+
+
+
+ Long term medication is a scary concept. Ive been on medication for around 7 years (growing up) and I can assure you it changes your personality. In my case, I feel overwhelmingly neutral whenever a conflict comes up. I have trouble feeling anything at all and as a result I'm terrible with women. I have never had a girlfriend even though I'm outgoing and have a decent amount of good friends. I am very critical of things that I don't agree with and I criticize those that don't understand certain situations like I do. Stay away from medication in the long term if you can. This sucks. 
+
+
+
+
+ Alcohol can often make things harder instead of easier. There are some medications out there that will make you feel better, you just have to go to a therapist/psychiatrist to get help. Falling asleep with so much pain is terrible. If you have someone in your life who is willing to listen, talking to them will definitely help. It is the main reason i can keep from being so depressed, along with my medication. In any case, good luck with your life and try to decrease the drinking to weekends if you can. 
+
+
+
+
+ Speaking from experience: try to sit down with her and tell her how you really feel about this and any concerns you have. In any functional relationship, both sides listen to one another's concerns and make their thoughts and opinions known to each other. 
+
+
+
+
+ The way I think of it: if you give people a chance, they will give you a chance. You may find that when it's their turn to reciprocate the kindness you showed to them, they will show that they care about you. 
+
+
+
+
+ The world can be hard to understand. I've tried making the best of life by setting short term goals for myself like attending every class at college and going to every shift at work. It's still very hard but at least I know I'm on the right track. Setting goals can help. 
+
+
+
+
+ Sometimes you have to be the one to reach out to others in your life. Maybe if you try to reconnect with others, you will be able to feel better. This is what happened with me and having people around me helps a lot. 
+
+
+
+
+ My Pots on Thought lol 
+
+
+
+
+ Just let go of her, she's holding you back. You can be so much more. 
+
+
+
+
+ Depression is unique because there are so many ways we experience it. I am currently in the same boat as you. Most of high school I was stepped on. You just have to keep on living. Friends were a valuable resource when i finally found some real ones. This community is also great because we can let our feelings be known and not feel so alone. Sorry if this post isnt really making a point, I'm just greatful this subreddit is here as much as you. 
+
+
+
+
+ If you're in college, try to find things in common with people in your classes. I was depressed before and now I have a small group of friends with common interests and we all support each other. It is very hard at first, but just try to chat people up. At uni most people are nice and will listen, unlike high school. I wish you luck, hope my advice was ok. 
+
+
+
+
+ I understand, i do this with pop tarts. What i do to help is study for 30 mins then take a break and eat. Then repeat. I'm a uni student by the way. 
+
+
+
+
+ Yeah i wanna know too but im lazy and google is so far away. Marylents unite! 
+
+
+
+
+ I would imagine they are attempting to move heavy objects, given the crane. I hope this clears up any questions you may have had. 
+
+
+
+
+ uptokes for tries lol 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You're implying that the President is directly responsible for the treatment (not just the policies regarding treatment) of certain minorities by different agencies in the government. "Treatment" is a very personal problem as well: even if we lay rules down, will it guarantee that everyone will be treated the same in all instances of personal interactions within these agencies? In my opinion the two issues you mentioned are completely unrelated. 
+
+
+
+
+ Today I listened to MD rapper Logic's new-ish mixtape: [Young Sinatra: Welcome to Forever](http://www.datpiff.com/Logic-Young-Sinatra-Welcome-To-Forever-mixtape.483644.html). If you don't have time to download, check out the song [Nasty](https://www.youtube.com/watch?v=eVbTkFsCc24) (YouTube link) from his mixtape. Very lyrical with a sick beat.  
+  
+My opinion:  
+Overall the mixtape has some solid lyricism and production. There are two skits which I found pretty hilarious. One involves his dad coming into the room while he's recording, and the following exchange is pretty hilarious. He recently signed to Def Jam and is planning to release an LP soon I believe. Worth checking out. 
+
+
+
+
+ 150 pounds or kilos? Also the less fat you have on your body, the better shape you'll be in to pass. You can buy self-test kits from a CVS if you live near one. If you take it in the morning, make sure you wake up early, piss, and drink lots of water to dilute your piss for the test. There is a certain vitamin you can take to help cleanse but I forgot which one; it's definitely worth a google. Good luck man. 
+
+
+
+
+ Hello ents,
+
+I come to you today with a problem. The weed I have right now is a very potent unnamed indica strain. I smoke out of a triple-percolated chandelier bong. The problem is, after taking only two hits (around 0.5g) of this stuff, I get a very strong body high and begin to feel drowsy.
+
+Do any of you have any advice on how to stay awake after getting a strong body high? Should I change my method of smoking? I also have a bowl and papers if that helps, but I prefer the bong since it's smoother.
+
+Any advice is welcome. 
+
+
+
+
+ The title is very misleading. Causation cannot be established between the reclassification of a substance and increased rates of psychosis. This is because the latter implies usage, and usage implies possession. Possession is achieved through illegal means anyway, therefore the legal reclassification of a substance bears no correlation to increased rates of psychosis. 
+
+
+
+
+ Cockroaches, as long as they aren't where you live. There is nothing inherently "gross" about these bugs, but having them in your home is obviously undesirable. I once asked a friend why he thought cockroaches were gross and he replied, "They can like, survive a nuclear holocaust dude." I wasn't sure how to respond. 
+
+
+
+
+ I wish I had a table of all the techniques of differentiation,  integration, and construction of power series stored in my head so I could readily apply the most effective techniques when attempting to solve problems in applied math when calculus is involved. 
+
+
+
+
+ Hadn't watched a truly "sad" movie until one fateful summer night... I decided to get relatively high and watch The Notebook by myself. By the end I was bawling my eyes out. It was a very powerful emotional experience and I would recommend it to anyone with a decent understanding of interpersonal relationships. 
+
+
+
+
+ Great read, it really sheds some light on how hard it is to parse C. Edge cases are awesome 
+
+
+
+
+ Superbad. The characters are so believable and it's so over the top you can't stop laughing. 
+
+
+
+
+ That's pretty unfortunate. I can see why you were apprehensive when shaking someone's hand. Still not sure why my comment got downvoted though, I feel like it's a relatively civil approach to the problem. 
+
+
+
+
+ Strong AI 
+
+
+
+
+ If I'm at work or in a formal setting, ignore it. If it's a casual or random encounter, I ask them directly why they don't feel comfortable shaking my hand. The ball is in their court at this point. 
+
+
+
+
+ Says Linus is using intimidation and violence. Uses an expletive and threats of "not being a nice girl anymore".
+
+This is very unprofessional and her concerns have been greatly exaggerated. Unfortunately, immature people who can't understand mature humor are everywhere. Dealing with it is the hard part; just recognize stupid when you see it, don't antagonize, and move on. 
+
+
+
+
+ this is a gif right dude [8[ 
+
+
+
+
+ Dat misleading title. Quote from the article: "Wyden said he imagines the White House is willing to reconsider the current surveillance policies in place"... This is nothing more than speculation. Move along. 
+
+
+
+
+ Good old perspective projection. Well done OP. 
+
+
+
+
+ w.. woah dude be careful theyre gonna fall [7] 
+
+
+
+
+ this doesn't introduce any new attack vectors for malware, therefore this changes nothing 
+
+
+
+
+ ITT: people's pet peeves 
+
+
+
+
+ Listen to lots of your favorite music. It helps keep my mind off things, I hope it can help you too. 
+
+
+
+
+ You're right. I think media outlets should have stressed the importance of providing troubled teenagers with the right kind of help instead of focusing on the age-old gun violence debate. It is a little known fact that even mentally stable people can benefit from therapy or counseling. I think the problem now is a combination of growing up in the information age as well as having to deal with stresses like school and work. Parents should be educated and made aware of certain signs that indicate their child is having a hard time. This should assist them in finding their teenager the right kind of help.  
+  
+When it comes to giving actual advice to parents with teenagers though, it seems like a tremendously difficult undertaking; I wouldn't even know where to begin. 
+
+
+
+
+ "the terrorists"  
+  
+You use those words as if you're implying these people are acting as a group, which couldn't be further from reality. There are domestic as well as foreign terrorists, whose motivations range from hatred of the U.S. and its citizens to crazy, irrational reasons. I think the threat of terrorism has been overemphasized as well as blown out of proportion by the U.S. media.  
+  
+"Their job", I would say, is dependent on the individual terrorist's motivation. Therefore, determining "whether they have done their job" wouldn't be proving anything.  
+edit: grammur 
+
+
+
+
+ My personal suggestions: ArsTechnica and New York Times.  
+  
+Already mentioned: NPR, BBC, Al Jazeera, Guardian, The Independent 
+
+
+
+
+ In general, "are we better off than we would be if..."-type questions rarely seem to elicit responses that are based on more than mere conjecture. I suggest avoiding those types of questions when possible, and instead asking a more relevant, focused question such as, "What would be the implications of restricting the NSA's access to our personal information, and what role would this play in the NSA's ongoing mission of protecting America?" 
+
+
+
+
+ Yeah most parents are idiots 
+
+
+
+
+ The overall effectiveness of preventing unwanted surveillance using encryption is entirely dependent on the implementation of the software utilizing a myriad of cryptographic methods to secure any sensitive data involved.
+
+eli5: If software you are using encrypts or exchanges data incorrectly, your data could be seen by other people. 
+
+
+
+
+ Computer programming. Unfortunately, in the industry, managers will often throw more software engineers at a project instead of giving the existing team more time. But to be fair, managers are not always in charge of deadlines, and management style differs drastically depending on the person as well as the company. So yeah, try to code slowly folks. Doing so will help decrease the total number of bugs in the software and ensure proper functionality for release.  edit: grammar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Here's to a man with hundreds of chemical creations and thousands of psychedelic experiences under his belt... Truly inspiring. RIP 
+
+
+
+
+ It seems to me that if an analog is discovered and subsequently marketed as "not for human consumption", then it is treated as if it is not yet scheduled, which implies that it would be legal. The Federal Analog Act specifies that analogs of Schedule I or II substances are only illegal if intended for human consumption:  
+  
+* (C) [Controlled substance analogue] does not include -
+  * (iv) any substance to the extent not intended for human consumption before such an exemption takes effect with respect to that substance.  
+  
+Let me know if you think I'm interpreting this incorrectly. 
+
+
+
+
+ LSZ is an RC analog of LSD that people claim to be stronger and more euphoric. It is unscheduled in the U.S. and can be purchased online from RC vendors. It's a psychedelic but I thought I'd mention it anyway. 
+
+
+
+
+ LSD shud be the only one with no taste.
+
+Not necessarily. LSD can have a metallic taste to it. But from my understanding NBOMEs will make your tongue feel numb, while LSD won't. 
+
+
+
+
+ /r/DarkNetMarkets 
+
+
+
+
+ So something like this?  http://i.imgur.com/egimb.jpg  Found this on a bluelight thread (http://www.bluelight.org/vb/archive/index.php/t-637070.html) 
+
+
+
+
+ If you're into electronic music, I would suggest Flying Lotus, Boards of Canada, XXYYXX, Emancipator, Tycho and Com Truise.  I would say take care in choosing which Boards of Canada songs you play though since I remember the vibes getting very weird with certain songs. Also, it can't hurt to listen to all the music you're planning on tripping to beforehand so you can carefully choose the vibes you want (i.e. chilled or upbeat). 
+
+
+
+
+ This is pretty bad. Can you provide a link to a paper/report/etc that describes this process? 
+
+
+
+
+ 'rita' is Ritalin, which is one of a couple brand names for methylphenidate. 
+
+
+
+
+ It's after incidents such as these that the importance of testing your tabs should be reiterated. Buy some Ehrlich reagent (from Amazon, etc.) and test a tab from every batch you buy. Stay safe! 
+
+
+
+
+ I'm hoping for a new class of empathogens or partial agonists of the 5-HT set of receptors. Ideally the bioavailability of these new drugs would be very high, even with more traditional ROAs such as oral or sublingual, in addition to having higher binding affinities for the receptors they target. Perhaps I'm ignorant of the biochemical and/or neuropharmacological limitations on the existence of any drug that fits this profile, but one can hope. 
+
+
+
+
+ are you a tourist? you should try some special truffles while you're there. 
+
+
+
+
+ i think it's pretty over-engineered. decent attempt at producing a trap album from drama. not the worst of all wiz's tapes though in my opinion 
+
+
+
+
+ Chance the Rapper: "Music and tabs of lucy, take your chance with this rapper" 
+
+
+
+
+ "I did it all without a Drake feature" love it 
+
+
+
+
+ maybe you'll find more help over at /r/drugnerds 
+
+
+
+
+ What's the book called? I'm interested. 
+
+
+
+
+ I tripped alone once, just listen to some nice chill music. Or you can keep it off and experience where your mind takes you. Ambient light or darkness is the best. 
+
+
+
+
+ "I deeeed it" 
+
+
+
+
+ I would say try Wolfram Alpha or Mathematica (the former is a subset of Mathematica, but is available online).  
+See http://reference.wolfram.com/mathematica/ref/Zeta.html  
+Like EEBrony said however, the best you can get is an approximation.  
+However, if you want better precision within Java (i.e. better than using 64-bit floating point), try using java.math.BigDecimal instead of double for the variable z. It's a bit slower since you need to use methods within the BigDecimal class to perform operations, but you get the benefit of arbitrary precision arithmetic as well as better precision. 
+
+
+
+
+ Tycho - Dive 
+
+
+
+
+
+
+
+
+
+ assert contentsOfYourBrain == null. 
+  
+In all seriousness though, I am of the belief that var == null and var != null seem to be the best for clarity. It also seems to be fairly idiomatic. 
+
+
+
+
+ Dabs, kief bowls or 10 bong rip challenge. Not one after another though haha 
+
+
+
+
+ About a quarter of the way through the story I'm thinking, "This guy's definitely a writer." Aaaand you're a writer haha. Excellent story. Good luck with your education and hobbies. Hopefully you will run into someone who smokes soon enough. 
+
+
+
+
+ College ent here. So me and my buddy were in my dorm enjoying some bong hits and music last Friday when another guy i know knocks on the door with his friend. After the new guy introduces himself, he sees that I'm already high and asks me if I'm an ent. I get pretty excited and say yes. Apparently we both browse /r/trees every day. He was a very chill guy too.  
+
+Then they told me they both came over intending to get high as fuck. So they both throw $10 and I start packing bowls on bowls. After about 5 hits each they were both about to go to sleep. I think I got to 12 rips, and i got pretty high but i was still awake (tolerance). So i woke them up and jokingly asked if they wanted more, and they both laughed and declined the offer. They both went on their way shortly after. Such a chill night.  
+tl;dr i met an ent and we smoked, talked and had a great time. ents are great people. 
+
+
+
+
+ I was going to put the series representation of pi in brackets as a lame math joke but then I realized there's no TeX support on this sub, unlike /r/math :/  
+  
+Great drawing though, toke on. 
+
+
+
+
+ Shit man thats some great pancake man [7} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

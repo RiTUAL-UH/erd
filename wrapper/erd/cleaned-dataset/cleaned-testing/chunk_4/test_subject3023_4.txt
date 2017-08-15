@@ -1,0 +1,163 @@
+ Aha. I see what you did there. 
+
+
+
+
+ And in EnderIO you can upgrade your machines with new Capacitors as you go. You can also upgrade your armour and conduits. 
+
+
+
+
+ Not sure what he's looking for in a point. Unless you've got a quest book, Minecraft is a game where you do whatever you want. It's sandbox for a reason. If he truly wanted a point, he could use HQM or play another game.
+
+And it's not like TiC has more of a point than EIO.
+
+What could have happened:
+ someone (~chatzilla@2001:558:6025:b:61a6:66e3:ae28:196a) has joined #TinkersConstruct
+
+"I've made a Pickaxe. What am I supposed to make next?"
+
+"Tell me there's something to make next. I will be severely disappointed if there isn't."
+
+"I'm looking for progression or something to do other than 'hurr move dirt and stone around'"
+
+"I'm looking for a goal or task that the mod wants me to perform."
+
+"The mod has content with absolutely no direction or purpose on its own?"
+
+It's a sandbox game. It's not meant to have a goal. 
+
+
+
+
+ I always ask this :P 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ What's the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ For the armour, it only blocks 90% of damage now, if you have the required blood. However, using Soul Harden, you can get it back to 100%.
+But it was buffed at the same time. Now it has more protection against Piercing and other negative effects like Wither. 
+
+
+
+
+ /u/SatanGives ?
+
+(/me hopes that's the right way to do it on Reddit) 
+
+
+
+
+
+
+
+
+
+ This is my base on a slightly modified PhoenixCraft II. I think it's pretty good, but I need some help figuring out what to do. I give descriptions and stuff on the album's page. I'm usually not one for aesthetic builds, so this is a little new to me. 
+
+
+
+
+
+
+
+
+
+ Not sure how up to date this is, but there's this: http://forum.feed-the-beast.com/threads/cofh-world-generation-users-manual.48678/ 
+
+
+
+
+ Sweet! 
+
+
+
+
+ Everyone's favorite Blood Magic Dev [WayofTime](https://www.youtube.com/user/WayofFlowingTime) has been playing Bevo's Tech Pack for 1.7.10. 
+
+
+
+
+ It's filling the internal buffer. If anyone were to use "I'm Looking at Blood" (an addon for WAILA), or take out the Vanilla Sigil of Sight, they'd see that it is filling the internal buffer. 
+
+The Internal Buffer itself holds 10% of the Altar's max capacity, so for a non-upgraded Blood Altar, it would drain about 1000 blood. Subsequent upgrades (E.X. Runes of Augmented Capacity) will increase that, and Runes of Dislocation will increase the speed at which it fills/empties. 
+
+
+
+
+ This guy explained it well:
+http://www.reddit.com/r/feedthebeast/comments/2jnu9f/i_havent_played_minecraft_in_a_year_and_a_half/cldkhgj 
+
+
+
+
+ I know how to use Lockdown, m8. But until the feature is added that allows for one to specify the spawn dimension, you can use PerfectSpawn to specify it.
+
+As of right now, Lockdown and PerfectSpawn do different things, as Lockdown generates the same world, and PerfectSpawn specifies an exact spot for people to spawn at. 
+
+
+
+
+ You can use PerfectSpawn for that 
+
+
+
+
+ ...Blood Magic 
+
+
+
+
+ Adding to this.
+
+For even more guidance on mods that aren't in Monster, [Material Energy^3](http://forum.feed-the-beast.com/threads/1-6-4-material-energy-3-jampacked-hqm-ctm-beta.48913/) appears to be popular, as well as [Running Red](http://forum.feed-the-beast.com/threads/1-6-4-running-red-v1-1-4-jam-packed-hardcore-magic-rpg-good-as-crash-landing.47464/) (#Shamelessplug).
+
+Running Red is focused around telling a story (and a fun mod called [Blood Magic](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0-updated-oct-13)), and may have a theme a little too dark for some people. It tied with Crash Landing in second for the Jam-Packed competition, which makes it just as popular. Right? .
+
+ME^3 is focused around conquering dungeons in an amazing CTM style experience, having you collect trophies, complete quests, and complete the Periodic Table. It's a very fun and popular experience. It won first place in Jam-Packed, and I really recommend checking it out. 
+
+
+
+
+ I was about to ask why there wasn't a "No" answer. Then I realised. 
+
+
+
+
+ inb4 you crash into another planet 
+
+
+
+
+ Deadly World 
+
+
+
+
+ Well, this is vanilla. But if you happen to head underground, and see a cobble version... Silverfish nest! \o/ 
+
+
+
+
+ I'm testing a new release right now. It's *mostly* bugfixes, as it's been hard to add new content while working on three packs. Recently I've been requested to update PhoenixCraft II, and as well, I need to get that one update out for Running Red.
+
+Once I finish all those, I'll start on adding new content. I have some things in mind.... ;) 
+
+
+
+
+ I imagine like with Crash Landing, where they'll have points taken off 
+
+
+
+

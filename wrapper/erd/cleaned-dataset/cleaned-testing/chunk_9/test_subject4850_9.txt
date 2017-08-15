@@ -1,0 +1,68 @@
+ Wow, so this is actually something that I would have thought should not happen, but apparently does.  On the one hand, it makes sense.  On the other hand, I don't quite agree with this being handled in this way.
+
+So, here is what is going on: You are deleting your enemies upon creation.  Because they are created as objects (IE: Not referenced objects via pointers), as soon as they are created, they are destroyed, because they are no longer in scope.  You need to make your array an array of pointers instead of an array of just objects.  (IE: enemy npcs[10]; needs to be made into enemy* npcs[10];).  Then, you can create each enemy using new, and call the destructor for each one with delete.
+
+Honestly, I too am a bit surprised this is happening, and maybe it's a compiler thing as it seems wrong, but maybe I'm mistaken.
+
+TLDR; Your objects are out of scope because your arrays is an array of objects, not pointers, so game::npcs[game::total] = enemy(x, y, 1); will result in their deletion immediately. 
+
+
+
+
+ Just a quick look through the code, it looks like you may be moving the sprite off screen too quickly in void game::update() (you move every npc by 0.0002,0.0002 each iteration through, but there is no delaying this).  I would try removing that first and see if that fixes it. 
+
+
+
+
+ Hey, sorry about the delay!
+
+So, the problem in your code is that you *technically* are deleting your enemy's texture.
+
+When you create your enemy it its constructor (enemy::enemy(int x, int y, int type)), you create a local texture variable (sf::Texture texture;).  Notice that this is not a pointer to a texture, but is a new texture object in that constructor.  When your constructor exists however, it gets rid of all local variables created within there.  In this case, because you created a new object, and not a pointer to an object, it will delete your texture when exiting the enemy constructor, thus creating the white square problem.  Remember, any time a method finishes, it cleans up everything.
+
+*Technically* pointers also get destroyed, but what they reference does not!  Hence, a quick solution to fix this is to change your texture to a pointer (sf::Texture* texture;) and create it using the new keyword.  Make sure however that you keep that reference so you can delete it later, otherwise you will end up never deleting the texture object that is referenced, and will end up with a nice memory leak.
+
+I hope I've worded everything clearly, but if not, feel free to keep asking questions :) 
+
+
+
+
+ I can give it a shot :) do you have your code somewhere because that'll make it a bit easier. 
+
+
+
+
+ While this could be possible, I actually have another theory that I'm going to attempt to put together this weekend, that would require only 2 or 3 motors (potentially).  I'm finishing up the designs, so we'll see how it goes.
+
+Hopefully I can keep it fairly cheap cause I really want to have my own army of BB8s XD 
+
+
+
+
+ Can't be wheels. If you watch the video footage, the head is able to be on the side of the body, where it would fall if only moved by wheels. Also, there's a shot during his close up where the head moves around the top of the ball (and down towards the sides a bit, just a small amount) but the body stays completely and perfectly still. It is definitely using some sort of magnetism.  
+
+
+
+
+ What I imagine this giraffe is thinking: http://imgur.com/MhTGEbQ 
+
+
+
+
+ Thank you!  I'll make sure to definitely post it there then :) 
+
+
+
+
+ Ahh!  Well according to the changelog, supposedly support for iOS and Android is in it, but maybe not?  Would be interesting to try and port it over if it's not already.
+
+See here: http://www.sfml-dev.org/changelog.php#sfml-2.2 
+
+
+
+
+ You're quite welcome!  SFML is super fun, and I especially enjoy how quickly I can get it up and running.  That said, I'm excited to add some more APIs to the videos I make too :) 
+
+
+
+

@@ -1,0 +1,140 @@
+
+
+
+
+
+ First off, my brothers and I were/are huge fans of your show!  Really awesome that you're still doing stuff with acting!  My question: What are you some "odd" hobbies you have? 
+
+
+
+
+ Speaking of which, I've actually had a neat idea for #2 recently lol 
+
+
+
+
+ Oh man, I remember watching that finale when it appeared.  I still to this day consider it to be one of the absolute best season finales I've ever seen.  It has served as inspiration to me on many levels in what I design.
+
+That said, I was disappointed with how they handled it after.  I was hoping they would really play up the fact that he was this brilliant doctor in a psychiatric hospital more, but then they ended up using it for only a couple of episodes. 
+
+
+
+
+ ### Keybase proof
+
+I hereby claim:
+
+  * I am [gemisis](https://www.reddit.com/user/gemisis) on reddit.
+  * I am [gemisis](https://keybase.io/gemisis) on keybase.
+  * I have a public key whose fingerprint is 27E7 0F84 1A4B 49B7 BFCF  FE16 92BB 6EBE 1E4E 1FAA
+
+To claim this, I am signing this object:
+
+
+    {
+        "body": {
+            "key": {
+                "fingerprint": "27e70f841a4b49b7bfcffe1692bb6ebe1e4e1faa",
+                "host": "keybase.io",
+                "key_id": "92bb6ebe1e4e1faa",
+                "kid": "0101c0be6badecc1baa56a3ac7f2bb95320c86d784452e03d9f3258bfaa4250b8a4f0a",
+                "uid": "668aa3cc2b04111a837abe0448681119",
+                "username": "gemisis"
+            },
+            "service": {
+                "name": "reddit",
+                "username": "gemisis"
+            },
+            "type": "web_service_binding",
+            "version": 1
+        },
+        "ctime": 1432678608,
+        "expire_in": 157680000,
+        "prev": "d1bd4f4698e6062d9d98a6149f69164d2d20836c1581ca3b06e7bf1337e79e6b",
+        "seqno": 3,
+        "tag": "signature"
+    }
+
+with the key from above, yielding:
+
+
+    -----BEGIN PGP MESSAGE-----
+    Version: Keybase OpenPGP v2.0.8
+    Comment: https://keybase.io/crypto
+    
+    yMIHAnicdVJdSBVBGL1qhhpWRARWYmxEmNfa2Z2dnbVAKwqiHwrJXqrLzO7sdbW7
+    17t7NU36oZ4qEFOiP4jAoCBJSftVwaQUNDSITI2y7L6IoBVkpIbNir3VvAzf+c45
+    fPOdeZGa4EuJ2xYbKPhSlRQf1/NcLfUdNL6+rhRo2KgQciqFYjZ3mZYdZE6JY9lR
+    IUeQVKaKJoaAQAo1qlJTN00GkCZRihhlgEEGTEIEv1AYdj0Ft6HEZRutMMd4EbAM
+    jv6DXzzXEIEIdJEyRInBdB1QQhREZKKrJpdoiiyJOkaGiiFUJCbKhmbKkoIp94CS
+    IlJMoCl6dqVzdghhQmRdl6gIAQAEyyqhTIQQI8xrzSO6zLFJiHF2kIUs13KFk36B
+    g2WWzrwNzDcdZhhW9L+CaEWJhxxnNDCvDVDLNvj2uKSMOa4VtoUcwJl61PLEAMoS
+    UjESsV9g5SWWwwKWx1BUhEV+/EKJw8q4pQGoAU2INMyQiCRDMzRMEICaiTSAoCEZ
+    kohlpAMFA53IVESM5wJkmWel8UUK3msidljIkfmYJMgtXStok2ipw4STHe2HF/ji
+    UnwLE+O9/H0pyUv//gpwKsnX8rg1LdY53DrUVUdvbyh9kr4pcuCjVP9gc7abse7E
+    hpGmsymNT5Ord645mjHTMOqbCuXW1p971/wmlvpy+tnp6vKpO5l929M/JFbntj1c
+    sWN690S/ciWY4C88Erc4Sy8IDFxfeK25LpQFq5Sm1R1t9cvy8p1r9zPv3bi4rmeL
+    fbUP/x5aG70x8m1XZHJkbHD4U3u6XbT3Z/Ytd3fb2cnOlUrW9c/xrevvFvVOzpCG
+    5l/LA7WXayr2N0bW9+avqp9UxvLk7K3NZyLdE4uK+o61oCVjr668Tc3s6r4wnm+e
+    75wtOFG3L+PSj/7kmtjOwanxvEOj30Pvwx2t+s3c2T09Ztqjhj+LgS6R
+    =sF65
+    -----END PGP MESSAGE-----
+
+Finally, I am proving my reddit account by posting it in /r/KeybaseProofs
+ 
+
+
+
+
+ And then there's this lol (Though OPs is still awseome)
+
+https://www.youtube.com/watch?v=24QZA0-pMLI 
+
+
+
+
+ See, this gives me hope that some of us small-timers will be able to get one still :) Here's to hoping! 
+
+
+
+
+ Can anyone confirm that they received an email from valve after registering? Kinda curious as it sounds like this is about developers who already had access in some way, not the ones who signed up on their page.  
+
+
+
+
+ Whoops, sorry about the delay!
+
+So, when I say "cleanup" I mean delete any pointers you've created essentially in this particular case.  So for example, for your array of pointers for npcs you need to free each one that you've created, in order to ensure that they don't keep hogging the memory you gave them. 
+
+
+
+
+ This, so much this. I used to install Firefox to use instead of IE and my family would blame it for slowing down the computer when it wasn't even running (and  had ample hard drive space yes).  If anything went wrong with any tech I was at fault, but they wouldn't listen to my suggestions for things. As an aspiring programmer and maker at the time, it was a major blow to my confidence with tech looking back on it now.
+
+It wasn't until I was halfway through my degrees in computer engineering and computer science at college and had an internship that my parents FINALLY started trusting me around their computers. Now that I have a full time job, they're slowly starting to ask me for advice too. 
+
+TLDR; parents didn't trust me with technology until I got a career in the field even though I'd done fine with it for years. 
+
+
+
+
+ (*game::npcs[game::total]).setPos(x,y); is a bit silly, I would just use game::npcs[game::total]-setPos(x,y);, but yeah, that'll work technically.
+
+Uhh, basically you need to cleanup any resources associated with that enemy (textures, etc.) 
+
+
+
+
+ Look into shared pointers. They have a limited garbage collection system that might prove useful when starting if you are worried about memory leaks and such. 
+
+The problem is that pointers are one of the big reasons that C++ is used as you gain big speed and performance gains. If you aren't using them, you may want to look into other languages to make your life easier.  
+
+
+
+
+ Sorry about the delay, just got home from work.  See my response above for a fix :) 
+
+
+
+

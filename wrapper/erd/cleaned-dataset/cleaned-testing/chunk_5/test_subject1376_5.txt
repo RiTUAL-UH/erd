@@ -1,0 +1,189 @@
+
+
+
+
+
+ All gnomes are double agents. 
+
+
+
+
+ If you make something grand share the codepen url. 
+
+
+
+
+ I've read git isn't really the best for [binary files](https://robinwinslow.co.uk/2013/06/11/dont-ever-commit-binary-files-to-git/). If you're looking for something more for backing up your work check out [extended version history](https://www.dropbox.com/en/help/113) in dropbox. Other services like google drive might have something similar though I haven't looked. 
+
+
+
+
+ If you're interested in animating read up on [SMIL](http://www.w3.org/TR/SMIL3/smil-animation.html#animationNS-AnimationModel) 
+
+
+
+
+ Here is some light reading for those sleepless nights http://www.w3.org/TR/SVG11/ 
+
+
+
+
+
+
+
+
+
+ I can see how it's misleading now thanks, I think I updated the article in a way that makes my intentions more clear. 
+
+
+
+
+ A good place for me (and many designers) to start is by tinkering with the code that makes the stuff run. You can [play with the examples in the article on codepen](http://codepen.io/ryanallen/pen/OPpbbR) without making an account or spending time setting up a dev environment.
+ 
+
+
+
+
+ Yeah view it here: http://codepen.io/ryanallen/pen/OPpbbR
+
+Ironically enough, the medium.com publishing platform doesn't support .svg files at this time (or embedding codepens), the animation at the top is actually a gif :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What are your pros and cons with polymer so far? I've been anticipating playing with it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The way I learned how to do it was by drawing curved shapes in a vector drawing program (sketch, illustrator etc) and exporting to SVG to take the code apart. 
+
+After that I began reading the w3 spec recencyeffect posted to learn all the hidden goodies.  
+
+
+
+
+ It's for a section in a larger piece for a web based project. The entire piece will be [animated](http://www.w3.org/TR/SVG/animate.html) in code.  I never thought I would do pixel art in a vector program until recently, though I believe hexels is vector based but I haven't used it in a while.  
+
+
+
+
+ I suppose I formed a bad habit early and never thought to do it any differently. I'm glad I finally took the time though :) 
+
+
+
+
+ What is the most frustrating thing about working with IE8? 
+
+
+
+
+ I have never had a reason to use more than one background image until now. I fear there are thousands of small things like this I'll never have a need to know. 
+
+
+
+
+
+
+
+
+
+ Thanks my secret is proper hydration. 
+
+
+
+
+ Thanks, I updated the markdown title. 
+
+
+
+
+
+
+
+
+
+ Thanks for this, I may try something similar for a star twinkle animation and it's useful to have samples to reference. 
+
+
+
+
+     $img-path: "../../img/";
+ 
+    body {
+      background: url(#{$img-path}astronaut-ryan.svg) no-repeat fixed 0 0;
+    } 
+
+
+
+
+
+
+
+
+
+ Trade Dev time for whichever current hobby consumes the most of your time. If you play video games for a few hours everynight try spending that time on your portfolio during the week and "cheating" on the weekends when you can resume the hobby for a nice break.  
+
+
+
+
+ You just blew my mind as well. 
+
+
+
+
+
+
+
+
+
+ Wow, that's amazing. I have a lot of polishing left to do on my current animations apparently. 
+
+
+
+
+ Maybe try making the gradient greyscale and then applying a lumosity blending mode to it http://helpx.adobe.com/illustrator/using/transparency-blending-modes.html#about_blending_modes 
+
+
+
+
+ Think of it as the opportunity to do an art project in a week. Make a website advertising your favorite super hero's services. 
+
+
+
+
+ I'm not sure what you're asking. Do you want advice on how to create more things for a portfolio? So you want critiques on what you've already done? 
+
+
+
+
+ The [top is empty](http://imgur.com/uXCv6kZ) on safari in ios8 
+
+
+
+

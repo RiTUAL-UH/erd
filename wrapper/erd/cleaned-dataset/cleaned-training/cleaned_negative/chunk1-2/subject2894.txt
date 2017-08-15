@@ -1,0 +1,202 @@
+ That's the point.
+They treat others how they would like to be treated. #TrueHeros 
+
+
+
+
+ Found the issue! CPU-Z is saying the Multiplier keeps jumping from x16.0, all the way down to x4.0 - which is bottlenecking the GPU, now what's causing the CPU Multiplier to drop?
+
+Edit: 'Underclocking' the CPU seems to of solved the issue. Hm. Could it be PSU related I wonder? 
+
+
+
+
+ I've looked at any recently installed programs and removed them all - Issue persists. :( 
+
+
+
+
+ Hmm. My long guess is that the GPU 'crashing' aka no signal caused by GTA has upset something in the windows files, as I've had to force the computer to shut down, due to having no display.
+
+Hmm. I'll try booting windows disk and checking for any issues. Thanks for the brainwave.
+
+Edit: No issues found 
+
+
+
+
+ Hmmm. Nothing installed recently, I'm also running windows 7 in Aero mode, and have turned off all unnecessary processes and services. =o 
+
+
+
+
+ Any game, any settings - Issue persists :( 
+
+
+
+
+ That's what I was thinking, but then I remembered that it was working fine a few days ago... With the same CPU, so there has to be an issue somewhere. :\ 
+
+
+
+
+ **Edit: FIXED. I don't know exactly how this resolves it, but I noticed the CPU temps going high, and the CPU multiplier bouncing all over the place, so I 'underclocked' the CPU to x12 instead of x16, and it seems to of solved the issue. I'm not sure how this fixes it... but It did =o**
+
+[THE ISSUE (Reddit didn't wanna link)](https://imgur.com/JOHznwS)
+
+Okay, hey guys, so I'm having an issue with my GTX 980, as are some others, and I just can't figure it out. It was working flawlessly a few days ago. #Sadface
+
+This has happened before, I just switched the power cables to the ones provided with the GPU, and it was solved. But now it's back.
+
+
+As you can see, there are multiple drops that keep reoccurring every X seconds. It happens in every game on any settings.
+
+****
+**Things I've tried so far:**
+
+* Set Nvidia power settings to performance
+
+* Set windows to performance
+
+* Set pre-rendered frames to 3
+
+* Turned off Vsync and put everything to low (still happens)
+
+* Ran Microsoft Troubleshooter.... hah just kidding.
+
+* Ran it at different resolutions
+
+* Looked for Driver updates (even though it was working fine on the same update before)
+
+* Running on Win 7 Aero
+
+* Shut off services and processes that are not needed
+
+* Full defrag on all hard drives (except SSD)
+
+* Checked over wires, nothings lose
+
+* Ran Windows 7 Disk searched for errors - none
+
+* Removed recently installed programs
+
+****
+**Computer Information:**
+
+[SPECCY LINK](https://imgur.com/DIUpnQ4)
+
+[CPU LINK](https://imgur.com/p0lP0Y9)
+
+****
+Extra note : Problem seemed to have started when the GPU crashed a few times on GTA (the system kept running, the GPU was turned off though, no signal.)
+I'll post the solution when I figure out what's up, for anyone else having this issue.
+****
+*P.s. Razer Krappen 7.1s have ~~great~~ terrible audio quality. Don't buy. Would recommend anything other than a Kraken.* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm with you here. 
+
+
+
+
+ Hello Timmy,
+
+What specs are you using, more specifically, your motherboard name.
+
+Try the following
+
+* Ensure that your hard drives inside of your computer case are **properly connected.** Look for the name of the hard drives as well for the next possible solution.
+
+
+* In the BIOS boot sequence, make sure that the hard drive with your operating system installed on it is first in the boot sequence. If you are not sure how to do this, it may be in your "advanced bios features". or you can boot up the computer and spam (usually) F8, depending on your motherboard, to tell it which hardware you want it to boot up from (select your OS hard drive)
+
+
+* If you find this too confusing, try unplugging all your hard drives and optical readers, except for the one with your OS installed. And ensure your HDD is first in the BIOS boot sequence.
+
+
+* If the boot sequence is not the issue, then I'd recommend updating your BIOS, simply google your motherboards name and look for the latest BIOS drivers. You may need another computer and a USB stick in order to do this. There are many tutorials on how to do this. Check your BIOS version and write it down before doing so, in order to save time, incase it's the newest version.
+
+
+* Finally, if all else fails, try clearing the CMOS, this can either be done in the BIOS menu somewhere, or usually there is a small black button on the motherboard itself. Press it while the computer has turned on, and it will restart, hopefully fixing your issue.
+
+
+Goodluck! Any help you need, ask away! 
+
+
+
+
+ Windows 10 :s.
+
+I don't think there will be any privacy on Windows 10. NSA. 
+
+
+
+
+ You should get some sort of monitor [bracket](http://www.amazon.com/Mount--Freestanding-Widescreen-Monitors-Horizontal/dp/B00FQU7CPU/ref=sr_1_14?ie=UTF8 qid=1433086085 sr=8-14 keywords=monitor+bracket), will save alot of desk space! :) 
+
+
+
+
+ Or the one after that... 
+
+
+
+
+ The more you pre-order and buy stupid things like EA's BF4 PREMIUM. (Aka buy the game twice to play) The more they'll do it, and you help ruin the quality of games. 
+
+
+
+
+ Also the GCHQ/NSA are spying on you, just saying like. Nothing too important. x) 
+
+
+
+
+ Still searching...
+Nothings came through yet. :( 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

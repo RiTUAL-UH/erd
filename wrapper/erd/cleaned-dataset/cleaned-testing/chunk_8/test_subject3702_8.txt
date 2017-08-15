@@ -1,0 +1,814 @@
+ Delicious uranium 
+
+
+
+
+ I disagree with /u/Pewpewonme, I do not think your job is easy. 
+
+But FOH falls within the realm of hospitality. BOH is artisinal in nature. 
+
+And sorry to say, but you don't really *make* anything. You contribute to the atmosphere of a restaurant. 
+
+As far as that goes, there are college majors in hospitality. It would be silly to write anything exclusively on "serving" or "waiting tables". Why? Be nice, smile, always check back on your tables two minutes after they get their food etc...
+
+The things that make your job difficult are stress and memory, and things that contribute to your success are largely people skills. There could be other things, especially in super fine dining, as specific knowledge of wines / beers / ingredients.
+
+All of the above is a part of hospitality. So you could start there...
+ 
+
+
+
+
+ This is how software security works. You make the exploits public so everybody is aware,  and then the community begins to write patches.  
+
+
+
+
+ --------------
+hello.asm
+--------------
+; ----------------------------------------------------------------------------------------
+
+; Writes "Hello, World" to the console using only system calls. Runs on 64-bit Linux only.
+
+; To assemble and run:
+
+;
+
+;     nasm -felf64 hello.asm    ld hello.o    ./a.out
+
+; ----------------------------------------------------------------------------------------
+
+        global  _start
+
+        section .text
+    _start:
+        ; write(1, message, 13)
+        mov     rax, 1                  ; system call 1 is write
+        mov     rdi, 1                  ; file handle 1 is stdout
+        mov     rsi, message            ; address of string to output
+        mov     rdx, 13                 ; number of bytes
+        syscall                         ; invoke operating system to do the write
+
+        ; exit(0)
+        mov     eax, 60                 ; system call 60 is exit
+        xor     rdi, rdi                ; exit code 0
+        syscall                         ; invoke operating system to exit
+
+    message:
+        db      "Hello, World", 10      ; note the newline at the end
+
+--------------
+hello.c
+--------------
+
+    #include stdio.h
+ 
+    int main()
+    {
+        printf("Hello world\n");
+        return 0;
+    }
+
+-------------------------
+sass
+-------------------------
+
+    .container{
+        width: 100%;
+        max-width: 900px;
+    }
+
+--------------
+css
+--------------
+
+    .container{
+        width: 100%;
+        max-width: 900px;
+    }
+ 
+
+
+
+
+ Lol, that's 4 degrees over the average temp of an alive cow.
+
+Hey, you like what you like.  I go with rare steaks, blue rare is too difficult to eat for me. 
+
+
+
+
+ haha I don't know. 
+
+Apparently blue-rare falls between 115 - 125 f. At that temperature, it's basically raw with a sear.
+
+I've personally never experienced anyone who requested anything lower than that. Though, there was one regular who would order his steak 'pitsburg style.' And the specific way he'd like it was for us to  "throw it in the coals for a few seconds and then give it to me. " So there's that.
+
+Also consider that 115 f is  45 degrees over room temperature. Anything under might resist a proper sear... who knows?! hopefully someone else. The steak would probably look something like [this](https://www.youtube.com/watch?v=IsF1G1sGr-g) 
+
+
+
+
+ Well, first and foremost: seek therapy.
+
+Seriously, you feel as though it's harming you. Get professional help.
+
+But since that's not always an option for everybody...
+
+
+What are you insecure about? Your looks, actions etc... After you isolate what you are insecure about, start taking proactive steps towards adjusting your mindset. 
+
+I think it's important to realize that you aren't going to wave a wand and all of your insecurities will evaporate. It's normal to be insecure in certain situations, that's just part of being an ape with a crazy imagination. You're also not going to feel better immediately. 
+
+Changing your outlook is an organic process, you need to gain the experience while growing. You could spend 48 hours reading about how to play a guitar, and not be able to play it at all. You could spend 48 straight hours practicing guitar, and still suck. But if instead you spent 48 days playing guitar 1 hour a day, you are likely to have better knowledge and skill at the guitar.  
+
+It sounds corny, but it's just down to hard work. Don't allow yourself to ruminate, try not to sweat the small stuff. 
+
+It's all I can give you 
+
+
+
+
+ "I would like a steak please."
+
+"Ok great. How would you like that cooked?"
+
+"I'll take it blue-rare please."
+
+"Ok awesome, I'll put that right in."
+
+[ticket prints in the kitchen]
+
+"fire a steak blue-rare."
+
+"heard."
+ 
+
+
+
+
+ In my casual glancing at this sub, I've found that it's become filled with:
+
+* people who have cleaned their kitchen properly
+* people who haven't cleaned their kitchen properly
+* people who have gotten slammed last minute
+* [insert some artisanal assertion here] that will later be derided by people with a more corporate attitude toward food service.
+
+I still like it, and I'm still subscribed because I like trading/reading stories with people in the business.    
+
+
+
+
+ Ah yes, let's spin up an epiphenomenal crisis, offer vague solutions and then go back on every word of it.
+
+She's basically just yelling "I'M NOT A REPUBLICAN SO VOTE FOR ME!" 
+
+And the sad part is that a large portion of people are going to fall for this bullshit. 
+
+It's incredible, the older I get the more political theater begins to resemble vaudeville. I wonder if this is because of the same rinse and repeat nonsense each and every election cycle or is the disingenuousness of politicians just becoming so overt that we come to expect the shit they feed us so they don't even bother labeling it otherwise. 
+
+
+
+
+ drink massive amounts of coffee and design websites 
+
+
+
+
+ hi it asked me for my ss twice already, should I put it in a third time or is this something you're still working on? 
+
+
+
+
+ you might be surprised at how easy it is to dox someone once you get a few seemingly unrelated threads of information. 
+
+
+
+
+ ah, sorry about the confusion. From the context I read it, it just seemed like you were saying that the kids don't need anything extra. 
+
+
+
+
+ Yeah, i can see that. I find that parents tend to use the word need reflexively towards their own children, and at times sarcastically or often in a humorous way. 
+
+
+
+
+ eh, approximately 44k, which is more than double minimum wage afaik. 
+
+Where are you at 65-80k? 40k is a livable wage, depending on where you're living. Boston, New York, San Fran, yeahh? Portland, fucking absolutely. Chicago, sure.
+
+It also depends on you're quality of live? Let's assume 50k is dead of the line middle class. What exactly are you doing with that slightly upper middle class margin? 
+
+And more importantly, why do you feel that you need tha slightly upper middle wage to be considered earning a livable wage? Owning a house, having kids etc?
+
+Some people don't see those as qualities required for thier standard of living. 
+
+An on-and-off swanky bachelor, 45k- 55k should be more than enough. edit: **to live comfortably** 
+
+
+
+
+ just tell them that the next time they call you you'll cancel service and feel better about it. To put you on the no call list immediately.
+
+And if they call you up again, tell them that you're cancelling because of above statement. And when they try to keep you, ask for a promo 
+
+
+
+
+ It's this kind of aggressive response that blows my mind about parenting and parenting culture. 
+
+Louis C.K. has a bit related to this, only he's talking about people who hit thier kids and others that encourage hitting kids.
+
+Which obviously you aren't saying.
+
+First, I doubt he believes that his children literally need Nickelodeon. He probably means that if he's going to pay for it, might as well pay for something to keep the kids entertained as well.
+
+But even on top of that, what exactly are you implying? That, above the basic necessities they get a whole pile of jack shit? It just seems like an insane way to run a family unit, and a poor attitude to pass on.  
+
+
+
+
+ " In theory there is no difference between theory and practice. In practice there is." 
+
+
+
+
+ When I quit smoking, I just started saying "I'm going to step outside for a minute."
+
+No one seemed to care, we're all in it together. Though I do tend to take less breaks now than my smoker colleagues, it doesn't really matter. Next to nobody takes more than 2 minute smoke breaks when it's anything but dead slow. 
+
+
+
+
+ yes, I am looking to spend tens of thousands of dollars for amateur hobbyist kind of stuff.  
+
+
+
+
+ why? because then you know he likes women? 
+
+Seriously, I don't understand... I know that it sounds like I'm intentionally being dickish. But if you go over your friends house to play video games and you see a model in underwear on his desktop you get... uncomfortable? Like as in, you don't know what to say? Or you feel bad/sad/something? inadequate? 
+
+I mean, I don't subscribe to displaying sexy women on my walls and or desktop. But strictly speaking, I don't subscribe to putting anything on my desktop, and think it's a sin for you to have anything more than a solid color. And the color better not be too crazy.
+
+But I digress, I could understand awkwardness if you went over to a friends house and he had -- as his desktop background -- Stoya taking a big fat cock up her ass. Even more so if it were a perfectly looped gif.
+
+But aside from being a straight male and liking women, I also think that there is an aesthetic wonderfulness of a women's body (not to say that the male figure is unpleasing). 
+
+What if your friend had a small paper weight replica of something like [this](http://www.metmuseum.org/toah/images/h2/h2_52.11.5.jpg), or perhaps [this](http://www.decodingtheheavens.com/blog/image.axd?picture=2010%2F6%2F399px-Obese_woman-Louvre-CA968bis_mg_7494.jpg). Would that still be awkward?
+
+Do you get awkward when you go to museums?  
+
+
+
+
+  without holding on to the railing.
+
+easy there buddy
+ 
+
+
+
+
+ hey bro, if it goes down it goes down. Maybe you can make a casualAMA about it  
+
+
+
+
+ Me too, it's a bit cathartic and a bit of an exercise in letting go. I spend so much time being nervous about things, but on an airplane it's like "well if this fucker goes down, rip in peace me!" 
+
+
+
+
+ Something isn't working correctly. I tried on chrome and firefox and I can't see anything happening to the tablet.
+
+Other people are pointing it out and getting downvoted? 
+
+What browser/OS are you using?
+
+The tablet rotates on the y axis following the cursor.
+
+Oddly enough, it works on I.E. for me. Also my windows version of safari, 
+
+
+
+
+ http://youtu.be/1sHyXqkPkkc?t=54s 
+
+
+
+
+ Let's make it happen 
+
+
+
+
+ That was my first thought as well
+ 
+
+
+
+
+ sweet find man! 
+
+
+
+
+ fucking awesome 
+
+
+
+
+ honestly, I don't mind working 40 hours a week at something I enjoy.
+
+I have my time split up between working in a restaurant and freelance web development. If I could make it without the restaurant check, I would gladly put more than 40 hours a week into web dev. 
+
+I don't even *hate* the restaurant that much, it's just a mild 30/hr wk inconvenience that pays my rent. 
+
+
+
+
+ did you use a sealer? 
+
+
+
+
+ The only thing I can find that actually uses jQuery is the staticscraper, which appears to use cheerio internally.
+
+Seems like a bizarre decision to require it for one method of one part of the program. 
+
+But it otherwise looks pretty fucking awesome, so there's that. 
+
+
+
+
+ I think we can all agree that the pot salad blob was a bad idea. 
+
+
+
+
+ I don't believe that people in Portland should dress up in costumes on a daily basis.
+
+But that belief doesn't change a whole lot, unfortunately.  
+
+
+
+
+ Heh peepshow reference.  Love that show 
+
+
+
+
+ I would subscribe 
+
+
+
+
+ This comment actually scares the shit out of me, because a lot of people think like this. 
+
+You just equivocated spanking with evil violence, and the use of which on your own child as cowardly and completely indefensible.
+
+
+Now let's just define some terms. 
+
+The act of spanking involves tapping someone on the bottom and applying light to medium force. The force should not be so hard as to leave a bruise, swelling or extended redness.
+
+Now, I would define evil violence as something along the lines of something heinous and radically counter intuitive to human life. 
+
+Examples of committing acts of the above nature are -- tragically -- happening in the in the world today. Subjugation, genocide, torture, war ans so on.
+
+
+So, if you don't like spanking don't use spanking. If you want to evangelize your anti-spanking stance, please  by all means do. 
+
+BUT if you want people to take you seriously, don't imply spanking is like committing genocide.   
+
+
+
+
+ nice, I think I'll enter this year 
+
+
+
+
+ oh wow. 
+
+
+
+
+ You'll probably be downvoted. But I agree wholeheartedly. 
+
+ 
+
+
+
+
+ jesus 
+
+
+
+
+ where did you register it if you don't mind me asking?  
+
+
+
+
+ what could you possibly expect out of an answer for this? 
+
+
+
+
+ So my question is along the lines of this:
+
+When we say, "species x is impossible to domesticate!" Do we mean to say something along the lines of, "species x is completely impractical and too hard to domesticate!"
+
+I wonder because it seems absurd to say that it would be impossible to mold something into something else from a generational standpoint. 
+
+Admittedly, I don't know enough about it to talk intelligently. But I think that plants would be at least slightly analogous to animals as far as domestication is concerned. Animals being more complex would present more variables and therefore take longer. 
+
+But I would imagine that it took more than a few generations of humans to produce the domesticated plants that we have today. 
+
+So why wouldn't we be able to have a domesticated zebra in 120 years time? If somebody (edit: multiple sombodies, at least) *reallly* wanted to do it, I would bet my money that they could do it.
+
+Just sayin. Humans are pretty awesome, we fly through the air in metal birds and talk to millions of people with a series of tubes. 
+
+
+
+
+ stop! It's sivatime. 
+
+
+
+
+ came here to post this. what a bunch of bullshit 
+
+
+
+
+ oh my god I finally found him 
+
+
+
+
+
+
+
+
+
+ more than that most likely 
+
+
+
+
+ It looks like it might have even come through that space in between the wall and floor and not the door.  
+
+
+
+
+  and grandmasters know the exact moves they will make 10 moves in advance because everything follows a flowchart.
+
+quit spreading bullshit around 
+
+
+
+
+  Can I have an intelligent conversation about the technologies and concepts involved in the position that they are trying to fill?
+
+Most of the time this is yes.
+
+Thank you, It helps just getting nudged in a direction. I guess I just need to push myself into sending out resumes / setting up interviews. 
+
+
+
+
+ It depends on what server side language you are running. You could be running something with PHP, Node, Ruby on Rails, Python or many others. 
+
+It seems like you want to use Ruby on Rails. Do you have the environment set up? 
+
+Take a look at [the getting started docs](http://guides.rubyonrails.org/getting_started.html) for some general guidance.
+
+Then, **the very basic** strategy is to 
+
+* send the JSON data to the server
+* take JSON data server side and update database
+* send response from server with whatever updated information you would like to send back
+
+ 
+
+
+
+
+ Two things first:
+
+
+http://www.reddit.com/r/webdev/comments/2b2u38/ive_just_noticed_a_pretty_big_security_flaw_with/
+
+
+Rundown:
+
+
+/u/smokedoutraider discovers that namecheap sends GET data with usernames and passwords in plain text. 
+
+"HOLY FUCKING SHIT, that's incredible," is what everyone should be thinking. Inside the thread several people defend this as Namecheap's Community Manager says that they're working on it. 
+
+The phrase "junior dev" is tossed around as an argument against incompetence and in favor of somebody just not knowing any better.
+
+
+**THEN**, earlier 
+
+
+http://www.reddit.com/r/webdev/comments/2b1u4h/2_hours_ago_we_came_up_with_an_idea_for_a_new_app/
+
+
+Here, I don't even know. Some guys getting drunk at a pub think it's a great idea to make an app to tell them what clothes to wear instead of the temperature and current state of the precipitation outside.
+
+This thread was negatively received. I personally think along these lines: "making things is (almost) always better than not making anything." But I understand a lot of the grief in the thread. Still, their website was very amateur and the developers seemed naively enthusiastic.
+
+
+
+**Alright,**
+
+
+Where do I apply to get into a junior position?
+
+
+I have been freelancing on and off for over three years. I have a day job that doesn't involve writing code or making websites. I'm now at the point where I split my time as 30 hours/wk day-job, 30+ hours/wk freelancing. I have some stuff up on github, hang around stackoverflow occasionally, try to contribute to open source projects when I can...
+
+But I don't have a college degree. And then I read that it's acceptable in some people's minds that a junior dev can send GET data containing plaintext passwords, or that a "group of developers" believe they can get people to do the ground work of their UX design for free.
+
+
+The few job listings for front-end devs I see scare me away. Every time I work up the nerve to start looking, I get half-way through the requirements and become discouraged. 
+
+"Strong Computer Science Background and/or five years experience in the field." Seriously, what junior dev has that? I went to school for Comp Sci and more than half of the students that did graduate didn't have a "Strong Computer Science Background."
+
+I think that I would have something to add to a company and would really like to start working with/learning from people in the same field.
+
+**In short,**
+
+Developers currently working in the field, what advice would you have for someone looking to get their foot in the door? What would you expect/look for in a junior developer? 
+
+
+
+
+ About a year ago I cracked a molar on the right lower side. 
+
+Recently, it's been a bit intense when eating / drink cold stuff. 
+
+I just looked at it in my mirror with a little led pen light and noticed that there's a decent sized black dot where I would imagine the root begins... It's not completely black like some of the horror show images I've been looking at.
+
+But I have been feeling on and off sick for the past week and a half: headache, nasally, one side of throat a tad sore and just run down.
+
+I don't have any insurance, so is this something that needs immediate attention? Like don't go to work today? Or can I call on monday (because that's when the clinic hours are)? 
+
+Sorry, I know this post sounds naive, I just wanted some outside opinions before I go running somewhere with wads of money that I don't really have. 
+
+
+
+
+ Hmm, now that's interesting. Don't you think that we would just make a leap of interpretation and say something like 
+
+"geo- of or relating to the earth." where "earth" is to be interpreted as soil, rock etc. 
+
+That way it would be understood that the geology of the martian surface would be the study of the planet's composition. 
+
+
+Although awesome, it seems a bit silly to have to have a specified name for every object that existed outside of the earth. 
+
+
+
+
+ I went to one of these in San Diego... I hated it. I panic ordered every drink and instead of ending up with what I wanted, I ended up with an odd mixture of booze and beer. 
+
+
+
+
+ Once, while working in the kitchen, I got into a 2 and a half hour long argument with a fellow cook about whether self-driving cars will become a primary sorce of transportation in the next 50 years. 
+
+Towards the end it had degraded into 
+
+"YES THEY WIL--"
+
+"NO THE--"
+
+"YES TH--"
+
+bartender: "both of you need to shut the fuck up!" 
+
+
+
+
+ sorry, wrote it on my phone. 
+
+
+
+
+ I need money like you wouldn't believe.  So in debt, owe a friend who I barely knew at the time (still not as much as I'd like) a ton of money... but the moment my employer pulled some guilt trip on me like this...I'd be looking for a new job.
+
+Hey, I don't want to come across as a dick or anything. But my biggest fear in life is being unemployed and broke. The second biggest is  drowning in debt. 
+
+I would much rather eat a little shit from an employer than be in either of those positions.
+
+**EDIT** 
+
+Reading through these comments, it seems to me that a lot of people here are not familiar with what it is like to be solely responsible for your living situation. It's possible that this is due to the younger user base of reddit, but who knows. I'm by no means 'old', but I am truly on my own. I live thousands of miles away from **any** of my family and live in a major metropolitan city.
+
+Look, it's like this:
+
+I have a certain standard for my quality of life. I want to have a place to live, food to eat and to be able to enjoy myself from time to time. Even if you have $5,000 to $10,000 in savings -- which is still not a lot of money -- six months of unemployment begins to get very dire. 
+
+Rent, phone bill, laundry, electricity, transportation, internet, clothes and food are all expenses. Sure not all of of them are essentials, but as you start cutting them out you become less competitive and more withdrawn. This is just a fact of the modern world.
+
+And yes, you can turn your back on almost all of these things and still be alive. But being a gutterpunk, crustpunk, homeless person is simply not something that I want to do. 
+
+
+Yeah, I get it. I'm "part of the problem" blah blah blah. How many of you pointing this out would be willing to put yourself into a dire situation to prove/fight a flaw in the system? 
+
+There is no magic escape plan for a lot of people, where "uh oh I can't pay my rent this month" turns into "okay you have 1 month the get the fuck out of my apartment complex." 
+
+So yeah, I actively let the man beat me down at times. I'm not saying it's right or just. I just want my apartment, my phone, food, internet electricity and to be able to go out for drinks on the weekend. Sorry guys! 
+
+
+
+
+ I don't understand the context of your comment, but it made me laugh.  
+
+
+
+
+ ah there we go, sorry I skimmed. 
+
+
+
+
+ Well, I would assume that they include this because the mice were given much more cinnamon than is commonly ingested for an animal that size. 
+
+I didn't see a dosage size in the article though... 
+
+
+
+
+ That actually made me fucking laugh. 
+
+He's obviously very frustrated.  
+
+
+
+
+ What do you feel is inflexible about Bower? I ask because a)I use it quite often and it never gives me any trouble but b) would be open to new solutions, if only for the sake of seeing what else there is being offered. 
+
+Personally I think bower works really well. Just a simple, intuitive command line tool.
+
+I also don't understand what you mean by lightweight? 
+
+
+
+
+  A person who must rely on public transportation is viewed as unreliable and a possible liability by most companies.
+
+I don't see how this would be a problem in many cities. 
+
+Trains often run faster during high traffic volume and when there isn't time to take a train or bus just hop in a cab. 
+
+I can't imagine being discriminated against in NYC, Boston, or Chicago for relying on public transit. 
+
+If you're living outside of a city, or in a smaller city surrounded by the suburbs... Well, of course you need a vehicle. But Major cities? A lot of times it makes sense to just take public transportation. 
+
+
+
+
+ Look into exchange and study abroad programs. 
+
+You'll need your parents to ok it. 
+
+
+
+
+ Not to mention, dropping fuck cunt and shit in every sentence will get you nowhere fast.
+
+Eh, depends what you do for work. I've worked places that have been so crass you need to start making up new swears so they still have meaning. 
+
+You shitbagcuntfucker.
+ 
+
+
+
+
+ Look into the three quarter sleeve. 
+
+For interviews you can wear the long sleeve button down and roll up the cuffs about half forearm length.  
+
+
+
+
+ How old are you? If you're in high school, take a drama class and/or get involved with after school drama. If your school doesn't offer anything like that, look around for community theaters. Usually (but not always) these put on very low-stress productions and will get you used to being on stage.
+
+If you're past high school age, then your best bet is probably to do the same with the community theater or to find out what's going on in a nearby university / college. 
+
+It wouldn't hurt to take some acting classes, you'll meet people who have the same interests and it's a great way to learn the craft and network to find different opportunities. 
+
+You could also skim craigslist for people putting on small-time film projects as well. Usually these will be extra-type roles.
+
+Networking and knowing people will be your best friend. 
+
+
+
+
+ While I agree with your sentiment, I think that what people get upset about is that it presumably takes much more devotion and mastery to get a phD then it takes to become a waffle house line cook.
+
+I'd propose that:
+
+1 - education is important for society and
+ 
+2 - people are required for providing that education.
+
+I am not surprised that certain people feel entitled to higher wages. I am less surprised that someone who has worked 7+ years at mastering a specific craft feel especially entitled to higher wages. 
+
+Sure, you know some people that are doing fine. But there are many many many adjunct professors making 25k/year. And that simply isn't enough money. 
+
+So, yeah, I think people should be slightly outraged and entitled. Basically, I fucking love eating at waffle house, and I think that maybe adjunct faculty would like eating there too. Unfortunately, some can't because they decided that instead of flipping waffles all day, it would be a good thing to teach some people some cool things and probably learn some new stuff in the process.
+
+WHY DON'T YOU WANT PROFESSORS TO EAT AT THE WAFFLE HOUSE?! 
+
+
+
+
+ what are you so upset about? he's remaking that his friend has a phD, can only afford basic food and lives in looming fear of losing her job. 
+
+No special treatment for her. 
+
+But as a cook and a freelance web designer -- shit, just as a cook -- I am not going through this much hardship.  
+
+
+
+
+ They'll just take this away from us soon enough 
+
+
+
+
+ That's amazing 
+
+
+
+
+ But then they say "great! Wanna hang out?!"
+
+Oh... uh... I'm doing well, thanks. 
+
+
+
+
+ Nah 
+
+
+
+
+ They can sign up to go fight in a war.
+
+I had four people in my small graduating class join the military.  One junior year and three senior year. 
+
+At that point, we still had to raise our hands to go to the bathroom.
+
+That's not to say that when I was 17-22 I wasn't a complete idiot.
+
+But to treat young adults as though they are still children -- I think -- is a complete mistake. 
+
+I am currently 25. I'm now what's considered to be "an adult." I know that that is still relatively young.  What surprises me most is how much I have to learn but how much I should have spent considering myself capable of making life changing decisions. 
+
+I'm still a fucking idiot. 
+
+
+
+
+ That was my guess. But I said in my mind, "so cal?" 
+
+
+
+
+ 5'4"... I uh... :( 
+
+
+
+
+ Dude don't be ashamed of that.  Come to portland or with that shit. You'll be loved.  
+
+
+
+
+ Wow, you really arn't getting the whole safety thing huh? 
+
+
+
+
+ This is just more evidence for you to use in support of his Douchebaggery 
+
+
+
+
+ /r/karmacourt 
+
+
+
+

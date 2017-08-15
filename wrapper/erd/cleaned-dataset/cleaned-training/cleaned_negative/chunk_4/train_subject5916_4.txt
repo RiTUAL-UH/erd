@@ -1,0 +1,413 @@
+ Ez Tron skins Ez life 
+
+
+
+
+ If you dislike the map looks, point out your opinion below on why.
+ 
+
+
+
+
+ I'll check it out. 
+
+
+
+
+ No. D: 
+
+
+
+
+ I'll do an open playtesting on Mapcore, check that website out for all the cool mapping stuff. 
+
+
+
+
+ I used it as a refference for inspiration, it's not totally a rip-off. The actual place is real and it exists in UAE. Most of structures in screenshots are based on refference photos i found on Google. I'm unsure about posting links in comments on this website, so if you'd like to see the photos PM me.
+
+Moving on, I'm not sure whether people hate or like the maps looks. I can scrap the map anytime and make another generic facility/cache style one.  
+
+
+
+
+ Ez Tron skins Ez life 
+
+
+
+
+
+
+
+
+
+ The tower doesn't make sense. I'd rather make it into some old ruined temple or something.
+
+It's very nice for the first map though! 
+
+
+
+
+ I'm just joking. No need to hype up. 
+
+
+
+
+ De_OpticGamingCOD 
+
+
+
+
+ volvo pls. 
+
+
+
+
+ Since I don't know the guy i can't blame, but clips don't make you a pro. Just like my friends thought I'm Global Elite cause i got a few lucky wallbangs and uploaded them. 
+
+
+
+
+ Okay, I hate to be nit-picky about the map design over-all but here's a few pointers and suggestions.
+
+* The overview is bad, you need to highlight parts which you can access and which you cannot, Bombsites and Spawns.
+
+* Map lacks clipping, players can get out of bounds pretty easily.
+
+* Try to make arches round instead of "triangle-ey" looking.
+
+* Players hate dust and fog.
+
+* Use info_particle_system for dust instead of func_dustcloud. it looks way better and is less intrusive. 
+
+* Each choke-point should provide a decent amount of cover with pros and cons. You might get to a good spot but CTs would still be able to counter you. Kinda like Rock - Paper - Scissors.
+
+* You can find entities in Hammer (Related to your note about fog)
+
+Anyways, I hope to see it improved. Nonetheless , good work.
+ 
+
+
+
+
+ It works if you defeat the De_Dust2 boss. Didn't you know!? 
+
+
+
+
+ Rekt. 
+
+
+
+
+ IMO it will be too OP, IMO having 24 hits in the head should be a kill so people don't over use it IMO. 
+
+
+
+
+
+
+
+
+
+ Just a note, it seems like compressing the video caused some weird motion blur. Demo wasn't the greatest too, sorry for inconvenience. 
+
+
+
+
+
+
+
+
+
+ It gets WORSE. Only during Gold Nova 1-4 
+
+
+
+
+ Dudududududududududududu 
+
+
+
+
+ I'm playing over Wi-Fi but i have fairly decent ping. 
+
+
+
+
+ Yeh! Let's go back to 1.6 then! 
+
+
+
+
+ Oh no! I see a dust mote in the air! VOLVO FIX PLS. 
+
+
+
+
+ That's one of the perks of having a knife. GabeN thought it all along. 
+
+
+
+
+ It also depends if they wan't to showcase the new engine. If yes, they'd update the models/textures a bit i guess. 
+
+
+
+
+ Everything is done in real-time. The Hammer will no longer need to compile/bake lighting and rendering. tl;dr - No compiling. :P 
+
+
+
+
+ It's basically the same except you can edit in 3D grid and no more compiling, hordes of new stuff.
+I am sure you will be able to set up workspace like in previous Hammer versions. 
+
+
+
+
+ Download the new developer tools to see for yourself. The tool is completely different from World-craft style Hammer we seen before.
+
+Where did i get this info? Open up and take a look.
+Lighting and rendering ARE real-time. 
+
+
+
+
+ Actually, new engines are meant to be more efficient. If it was only a graphical update we would still be running on Source 1, Valve has said themselves that they wanted their engine to be more efficient and easy to use.
+
+For example, the rendering in Source 2 is dynamically calculated unlike previous Source, which is both easier for developers and more efficient if done properly.
+
+
+And if all else fails you will always have graphical settings.
+You would have to have a really ancient PC not to be able to run CS:GO on lowest of lowest settings.
+
+
+
+Here's the list that new Source engine has that we, map makers would love to see -
+ Lighting is dynamic/real-time. No more need of 24 hours of compile or shit tons of optimization.
+ Same goes for rendering. No more hint brushes.
+ New materials system - 5 way-blend instead of default 2 on displacements.
+ Displacements can have way more splits on the fly now. Way more flexible.
+ Real-time cubemaps
+
+This would be a godsend for map makers.
+
+ 
+
+
+
+
+ Is it possible to somehow set it up for use in Source 1 games? I'm just wondering. 
+
+
+
+
+ Source 2 is comming... And it's gonna strike hard.
+
+
+
+"Get ready boys, we're going in." 
+
+
+
+
+ Players could have an option to disable Directx11 effects? 
+
+
+
+
+ Not only would that RADICALLY increase graphics and performance, it would also make it easier for server owners and developers/mappers.
+DO IT VALVE! 
+
+
+
+
+ Blessed GabeN granted you the power of partial- Wallhack.
+Use it wisely, you don't wan't Overwatch to reck you. 
+
+
+
+
+ Dualies? What drugs are you on? 
+
+
+
+
+ Ok. 
+
+
+
+
+ Ok. 
+
+
+
+
+ Ok. 
+
+
+
+
+ Have you ever heard a term called "Yoloqueue"? Stop complaining and go premade. Ez. 
+
+
+
+
+ Sup Crashz! Mapcore FTW. 
+
+
+
+
+ Like, this subreddit. Do you know what this subreddit is for?
+I would suggest trying to contact the owner of those servers, neither CS:GO devs or players are officially in any relation to Freebieservers. 
+
+
+
+
+ CS:GO, remember? 
+
+
+
+
+ Fuc* you m8. 
+
+
+
+
+ A human brain has a part responsible for emotional attachment to inanimate objects caused by common brain activity disorder called.. Just kidding, I don't know shit. I just love Source engine physics when the pots fall and break. 
+
+
+
+
+ The bolt animations after shot were so much faster, in result you had "almost" an auto-sniper with sick accuracy. 
+
+
+
+
+ Ok. 
+
+
+
+
+ Yet again your saying "bugged out". That's funny. 
+
+
+
+
+ Carn? Source?
+It doesn't show nicks.
+
+It is said so in the overwatch FAQ. Duuh.
+
+ 
+
+
+
+
+ "Steam bugged out" - There is a bug or there is no bug, shit like "bugged out"  is your own fault. I doubt steam support would be able to help with that. 
+
+
+
+
+ The players on Nova ranks are even more toxic than Silvers. (Silvers are atleast genuinelly bad) 
+
+
+
+
+ You do not need to make new threads everytime steam goes down!  We get 100 of those! 
+
+
+
+
+ Go check out TopHattwaffle (If i spelled correctly?) and 3kliksphilip. They have a lot of great tutorials. It's worth it if you do it right. 
+
+
+
+
+ You cannot overwatch higher rank players. 
+
+
+
+
+ It's a pain in the ass to recompile official maps but I'll make it. It would be called de_dust2x2 just like in 1.6 i assume. 
+
+
+
+
+ You sir, should switch to COD. Maps should never give unfair advantage for those who simply find these cheap spots. Even Valve's Aztec has solid bushes. I don't know if the map maker is weirdo or you just made it up. 
+
+
+
+
+ At Silver rank if you know your shit you can basically one tap enemies. Try to rely less on teammates carrying you and more on self improvement. 
+
+
+
+
+ Legend says that if you scream on MIC with mid-puberty teenager voice during warmup or half-time the Juan Deag ghost will grant you confidence and insane deagle skills. Use that wisely, you don't wanna face Juan Deag in the opposition ever. 
+
+
+
+
+ rekt. 
+
+
+
+
+ Unfortunately, I'm still working on It's fresh new layout, as it proves to be suuuuper imbalanced on CS:GO.
+If you would like to play the original layout, the map has already been remade by someone and posted on the Workshop.
+
+Also, I would like to mention that Torn is my side project, as I am not the original author of the map and it's mainly a fan remake. Don't get me wrong, please, as much as I love it i would like to make a map that is solely crafted by my own to put it at my portfolio, as i don't have any reputation so far in the map making community. 
+
+
+
+
+ Thank you! Means a lot to me! :) 
+
+
+
+
+ Thank you, I'll be updating the album as i progress!
+Since everything you saw in the screenshot was made over-night, with that rate of making I'll hopefully be able to finish the map in about a few weeks or so.
+My main concern is that I don't have any "fans" of my map to show them something to, as i never released any versions of the map anywhere. I'm mainly focused on showing how MUCH a single person can improve on level design! :)
+ 
+
+
+
+
+
+
+
+
+
+ It's pretty retarded to see cheaters at that rank. 
+
+
+
+
+ Players play with low graphics mainly due to visibility. Previously, if you had graphics on high you had a smudge on AWP scope. They patched it recently. Remember, it's about gameplay. 
+
+
+
+
+ My hearts beatin! My hands are shaking! But I'm still shooting! Boom Headshot! Boom headshot! BOOM HEADSHOT!!! 
+
+
+
+
+ I didn't see frags in the video due to the over-use of screen shake. 
+
+
+
+
+ Wait.. Did you use decals/overlays to make snow...? There's paint alpha for blend textures....! 
+
+
+
+
+ By using physboxes and vscript, with some advanced modelling this is totally possible! 
+
+
+
+

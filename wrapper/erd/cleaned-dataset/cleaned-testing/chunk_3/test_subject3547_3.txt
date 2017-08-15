@@ -1,0 +1,81 @@
+ !gameMe 
+
+
+
+
+ I have it built, do you think it would be worth it to set up a server for it? Maybe I should message the subreddit mods and see if they approve of it running 24/7 for this subreddit. 
+
+
+
+
+ lol yah. I'm having rate limitation issues. I need to build the bots karma up for a few days before I launch it fully. 
+
+
+
+
+ D'oh, street view would be from a while ago .
+
+I believe that the reference to Florida was just a story. That story was the one part of it that seemed too forced/fake.  
+
+
+
+
+ Update: All done now, should be working on this subreddit as well
+!gameMe 
+
+
+
+
+ !gameMe 
+
+
+
+
+ The banners don't match the ones in the videos, would they have changed them in two weeks? 
+
+
+
+
+ !gameMe someServerThatDoesn'tExist 
+
+
+
+
+ Don't we all need a little ego-boosting from time to time? ;) 
+I can't really think of when it would be used either, but it'll be there if people want it.
+
+(Also, I'm almost done now, so too late!) 
+
+
+
+
+ There's a [playlist](https://www.youtube.com/watch?v=a7VQARbRhYA list=PLIvrgpZKZrKim6ga0LD3PBbopdqRQ3Lhf) of all the videos. It's terrifying, idk what's going on D:
+ 
+
+
+
+
+ What is that in the [window](https://www.youtube.com/watch?v=NJ-u4_sQSNk)!?! 
+
+
+
+
+
+
+
+
+
+ I'm trying to play around with reddit's API, and I got a neat idea for a bot. a gameMe/hlstats bot that pulls your stats for a specific server and posts them as a comment. e.x.
+
+test_subject3547: "!gameMe someServerName"
+gameMeBot: "Pos: 9001 Points: 0"
+
+You would associate your steam and reddit accounts with the bot by sending it a PM like "associate STEAM_0:XXXXXXXX"
+
+Any interest/suggestions? I would probably make it search through this subreddit, /r/gaming, maybe /r/steam and any other subreddits for games tracked by gameMe.
+
+Edit: I've got a prototype working, just working on customizing which server to pull stats from. 
+
+
+
+

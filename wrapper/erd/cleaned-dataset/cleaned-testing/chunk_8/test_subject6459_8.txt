@@ -1,0 +1,974 @@
+ Another thing: I don't think we can demand better moderation of the forums, since the nastiness was all over. 
+
+
+
+
+ I have know idea who/what Vizard is, probably because I'm not involved enough in the community. 
+
+Are there any key points you want to extract from the interview since it might not be published? 
+
+
+
+
+ Good to know, thanks. 
+
+
+
+
+ Added.
+
+Donations where 100% goes to the author may not even happen.
+
+They might add a donate button if we push hard enough. That's why I'm advocating for a paid mods being a guaranteed certain level of quality by the developer so it is differentiated from donations. 
+
+
+
+
+ That thing is an eyesore to read. Who was the interview with? 
+
+
+
+
+ [Link to skyrimmods post.](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/)
+
+I'm new to the modding community, which means I only started playing Morrowind a year ago and Skyrim over the last six months. But like people have been saying a lot, recent events have inspired me to give back. As I have next to no money and not enough time to learn to mod extensively (even though I played around with it a bit in Morrowind), I was thinking about what's going to happen in the future. I realized two things:
+
+1. Paid mods are coming, no matter how much we protest. The Valve press release was pretty clear about that. 
+2. Next time around, there won't be a community uproar at nearly the same scale. The Skyrim modding community is the biggest we have, another one won't be established by the time the next game is released. We can't stop the hundreds of thousands from buying the next Bethseda game, even if it is announced with paid mods. 
+
+Since we can't stop paid mods arriving, I think the best solution is to preemptively speak as a community to Valve and Bethesda about what we *do* want. Reading around the forums, I've noticed most people don't have a problem with paid mods **in theory**, as long as several key conditions are met. However, the implementation this time around was abysmal and we all realized nothing but slow (or not so slow) decline of mods would come from it. 
+
+So I have a radical idea. I think we should compile a list of the many sins that were committed, the problems they would cause, and improvements that would need to occur next time. We can present these to Valve/Bethesda as demands for the community to reluctantly support, or at least not condemn, paid mods. By conditioning our support on several key demands, we can make sure Valve sets up a marketplace that does not set off the disastrous effects we fear. Both parties would benefit: Since we can't stop paid mods, we could turn them into something which will have neutral or maybe even beneficial effects. Bethesda won't get the inevitable PR hit next time around, which is fresh in their minds right now and so holds the most power.
+
+I've started small list below, and I think it would be great for the community to put together a comprehensive list and make it as official as possible. Hopefully this will be an opportunity to bring us together after the recent bitterness.
+
+Here's my start, from what I've seen people saying. 
+
+Issues:
+
+1. The way the marketplace was set up encouraged crap shovelware micro transactions over good mods.
+2. There is no good way to test a mod and return it if it doesn't work.
+3. There is no way to make sure that the modder will continue supporting the mod through main game updates and other mod changes. 
+4. Mods use one another assets all the time, which makes monetizing them a legal quagmire. In addtion, relying on modders and the community to police stolen assets in unworkable.
+5. The paltry 25% the modders got was absolutely ridiculous.
+6. The secrecy of the implementation runs counter to how the modding community functions.
+7. Most of us using mods don't use the Workshop because of its limited functionality, meaning we can't access the mods posted like SkyUI 5.0.
+
+Solutions: 
+
+**Quality**
+
+/u/DiamondMind: A paid mod being on the marketplace means that the developer has endorsed it as unofficial DLC for the game and guarantee it. This legitimizes the cut they take and gives them a stake to supervise which mods have their name attached. 
+
+/u/DavidJCobb: All mods must have a seven day return policy, no questions asked and no consequences.
+
+**User convenience**
+
+/u/DavidJCobb: Load order managers and mod managers are essential to using mods while keeping one's game stable, but Skyrim doesn't natively support these tools, and the average Steam user won't know much about them. This is quite possibly the largest barrier to modding. Bethesda must develop their own analogues to LOOT and MO/NMM, and integrate these directly into the PC versions of FO4 and TES6.
+
+Authors should be permitted to upload full archives, rather than a BSA/ESP pairing (the current limitation), but the uploading of loose files should be discouraged, and some sort of warning should be indicated to the user in the Steam Workshop's UI.
+
+/u/DiamondMind: Do not tie downloads into the workshop; allow them to be used like Nexus files. That way, Bethesda and other developers do not need to create their own tool and force us all to use it. 
+
+**Compensation**
+
+Modders need to get at least 50% of the sale. Valve and the publisher can work out how to split the other 50% on their own. There are more than enough differences between mods and other "industry practices" to allow this.
+
+/u/NeuroticNyx: A donation button on unpaid mods on the Steam Workshop.
+
+/u/MaryMudpie: A clearer system of Pay-As-You-Go for paid mods. For example, all prices are listed as "Recommended: $xx" on the main page and has a "Minimum: $xx" on the mod's individual page as well.
+
+
+**Limitations on sale**
+
+/u/DavidJCobb Mod authors should not be permitted to sell bugfixes for base game content, official DLC, or any other mods. These must be free. Obviously this policy must be worded in such a manner as to permit a mod author to continue selling a mod even if they must later release a bugfix for it; yet to forbid that author from releasing the bugfix itself as a separate paid product.
+
+/u/DiamondMind: UI and other "fixes," not just bugs, should also never be sold.
+
+**Theft**
+
+If a mod author's resources are stolen and used in a paid mod, that author should be able to report that to Valve and have it acted on promptly. The thief's revenue should be transferred to the original author; or, if the author doesn't have payment details registered with Steam, the full amount should be held in escrow indefinitely, without a time limit, until it can be transferred to the original author.
+
+In particular, we need assurances that Valve will pay attention to content that was originally uploaded to other sites, or at least to the more notable ones, when investigating theft reports. The full details of their policies regarding theft should be made public.
+
+**Transparency**
+
+Speak to us every step of the way, and release a prototype version first that we can check for issues.
+
+
+This is of course unfinished, and there a lot more problems to address. Comment and I'll add it to the list!
+ 
+
+
+
+
+ Still won't work for paid mods, but I'll add it in another section. 
+
+
+
+
+ I agree that Nexus should be more strongly pushing donations for the modders, and maybe take a 5% cut to keep the site running. (Seems like they're already doing it. If you download a mod, you get a donation pop up) However, this will NOT be a counter to payed mods, because as much as we want it differently only a fraction of people would donate, and Steam would look more attractive for the guaranteed money. So though I think Nexus' improvements are part of the solution, we have to work with Steam as well.
+
+The reason I think it should go through the Nexus is because many of the most popular mods are improvements on the bugginess or lack of quality of the vanilla game. Bethesda should not be rewarded with revenue from the sale of SkyUI 5.0 after they did such a piss poor job with the original UI and didn't even bother to update it in a patch. They should not get money from a mod like CWO (not that Apollo would sell it, of course) that reintroduces content that was cut.
+
+See my discussion with /u/DavidJCobb about what should and should not be allowed to be sold. I agree with you, but it is a grey area. 
+
+
+
+
+ Best list I've found yet! I linked you in [my topic here](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/), since I'm doing something complementary to you. Maybe you should make your own topic again?
+
+A couple more points: The actual mods given were mostly shitty (see /u/lolzergrush above) and the secrecy surrounding it runs counter to the modding community. 
+
+
+
+
+ Unfortunately, with how often skyrim can crash, that is pretty much during play. :P 
+
+
+
+
+ That would be wonderful, but I don't think it's going to happen, unfortunately.  
+
+
+
+
+ Yep, but we're working with what is possible, not ideal. Still, added. 
+
+
+
+
+ Unfortunately, I don't think there is any way to enforce that. 
+
+
+
+
+ That's an understandable concern. Good on you for discussing it calmly, and rationally.
+
+That's why I didn't post about this over the last few days. Now that everyone's emotions have calmed down somewhat, we can get something positive done.
+
+My concerns are the inverse image of yours: if we decide that something along the lines of SkyUI shouldn't be permitted for sale, whatever logic we use to justify that can inevitably be used for just about any other game mechanic. If the community thinks that TES6's combat design is horribly lacking, will it suddenly push to deprive combat modders of their right to sell? Would that be fair to those modders?
+
+Yes, there would need to be some clear definitions of what is allowed and prohibited. But I would rather err on the sign of overly restrictive than loose because otherwise it can get out of hand. If I had my way, I would want to restrict paid mods to ones like falskaar only (large DLC/expansion style mods), but I don't think that is going to happen for a variety of reasons. 
+
+
+
+
+ 1. We're not really talking about voluntary donations here, since I don't think we're going to get that. This is making the best of a bad situation.
+
+2. People hate messages interrupting play. I think a better system would have something like Nexus' endorsements pop ups  
+
+
+
+
+ Much of your argument hinges on the notion that "finished" and "ideal" are the same things, when they are not. 
+
+You're correct, in a sense. The problem is where the line is drawn. For example, if you were not able to use the mouse on the PC UI, would you call it finished? What if you had to use the arrow keys instead of the WASD keys? I contend that vanilla skyrim UI for PC is neither ideal nor finished, both because of the bugs and the lack of functionality.
+
+Even if Bethesda decided to skimp on PC UI again, they can't guarantee that the best, or most-well-known, UI overhaul that the community produces will be a paid mod. Even if they decide, "Oh, we can just let the community handle this," there's no guarantee that they'll profit from that specific decision.
+
+You're correct on the details. But I, and a lot of others, are worried about the snowball effect of allowing those kind of mods to be allowed.
+
+
+ 
+
+
+
+
+ [Link to skyrimmods post.](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/)
+
+I'm new to the modding community, which means I only started playing Morrowind a year ago and Skyrim over the last six months. But like people have been saying a lot, recent events have inspired me to give back. As I have next to no money and not enough time to learn to mod extensively (even though I played around with it a bit in Morrowind), I was thinking about what's going to happen in the future. I realized two things:
+
+1. Paid mods are coming, no matter how much we protest. The Valve press release was pretty clear about that. 
+2. Next time around, there won't be a community uproar at nearly the same scale. The Skyrim modding community is the biggest we have, another one won't be established by the time the next game is released. We can't stop the hundreds of thousands from buying the next Bethseda game, even if it is announced with paid mods. 
+
+Since we can't stop paid mods arriving, I think the best solution is to preemptively speak as a community to Valve and Bethesda about what we *do* want. Reading around the forums, I've noticed most people don't have a problem with paid mods **in theory**, as long as several key conditions are met. However, the implementation this time around was abysmal and we all realized nothing but slow (or not so slow) decline of mods would come from it. 
+
+So I have a radical idea. I think we should compile a list of the many sins that were committed, the problems they would cause, and improvements that would need to occur next time. We can present these to Valve/Bethesda as demands for the community to reluctantly support, or at least not condemn, paid mods. By conditioning our support on several key demands, we can make sure Valve sets up a marketplace that does not set off the disastrous effects we fear. Both parties would benefit: Since we can't stop paid mods, we could turn them into something which will have neutral or maybe even beneficial effects. Bethesda won't get the inevitable PR hit next time around, which is fresh in their minds right now and so holds the most power.
+
+I've started small list below, and I think it would be great for the community to put together a comprehensive list and make it as official as possible. Hopefully this will be an opportunity to bring us together after the recent bitterness.
+
+Here's my start, from what I've seen people saying. 
+
+Issues:
+
+1. The way the marketplace was set up encouraged crap shovelware micro transactions over good mods.
+2. There is no good way to test a mod and return it if it doesn't work.
+3. There is no way to make sure that the modder will continue supporting the mod through main game updates and other mod changes. 
+4. Mods use one another assets all the time, which makes monetizing them a legal quagmire. In addtion, relying on modders and the community to police stolen assets in unworkable.
+5. The paltry 25% the modders got was absolutely ridiculous.
+6. The secrecy of the implementation runs counter to how the modding community functions.
+7. Most of us using mods don't use the Workshop because of its limited functionality, meaning we can't access the mods posted like SkyUI 5.0.
+
+Solutions: 
+
+**Quality**
+
+/u/DiamondMind: A paid mod being on the marketplace means that the developer has endorsed it as unofficial DLC for the game and guarantee it. This legitimizes the cut they take and gives them a stake to supervise which mods have their name attached. 
+
+/u/DavidJCobb: All mods must have a seven day return policy, no questions asked and no consequences.
+
+/u/BullZEye22: Mods should gather a certain amount of approval before they can be sold.
+
+/u/fadingsignal: Behind the scenes, there should be a partially dedicated faster-response support team for mod authors. If a mod is having trouble because the Steam downloader is screwing it up, or there is abuse or stolen assets being used, someone who is a verified author should have a slightly elevated support level, so they can in turn better support their customers who purchase their mods.
+
+**User convenience**
+
+/u/DavidJCobb: Load order managers and mod managers are essential to using mods while keeping one's game stable, but Skyrim doesn't natively support these tools, and the average Steam user won't know much about them. This is quite possibly the largest barrier to modding. Bethesda must develop their own analogues to LOOT and MO/NMM, and integrate these directly into the PC versions of FO4 and TES6.
+
+Authors should be permitted to upload full archives, rather than a BSA/ESP pairing (the current limitation), but the uploading of loose files should be discouraged, and some sort of warning should be indicated to the user in the Steam Workshop's UI.
+
+/u/DiamondMind: Do not tie downloads into the workshop; allow them to be used like Nexus files. That way, Bethesda and other developers do not need to create their own tool and force us all to use it. 
+
+/u/fadingsignal: Fix the Steam Downloader to be actually useful.
+
+**Compensation**
+
+For Paid Mods:
+
+Modders need to get at least 50% of the sale. Valve and the publisher can work out how to split the other 50% on their own. There are more than enough differences between mods and other "industry practices" to allow this.
+
+/u/fadingsignal: Option to set the minimum price to $0
+
+
+For Unpaid Mods:
+
+/u/NeuroticNyx: A donation button for unpaid mods on the Steam Workshop. No profit form Bethesda can be made from this, as it is not endorsed.
+
+/u/MaryMudpie: A system of Pay-What-You-Want for all mods. (Probably not going to happen.)
+
+/u/EggheadDash: A pop for a donation once the game is closed, with Yes/Remind me Later/No options.
+
+**Compatibility patches**
+
+Modders should be permitted to create compatibility patches between mods even when one of the mods is paid, so long as the compatibility patches don't use any resources from any of the original mods (including the paid one(s)) without their authors' permissions. Users should not be permitted to sell compatibility patches; they should remain free. This should rather neatly solve the community's concerns about the interoperability of paid mods; if a paid mod is good enough, I guarantee you that some industrious user will build a patch to make it work.
+
+
+**Limitations on sale**
+
+/u/DavidJCobb Mod authors should not be permitted to sell bugfixes for base game content, official DLC, or any other mods. These must be free. Obviously this policy must be worded in such a manner as to permit a mod author to continue selling a mod even if they must later release a bugfix for it; yet to forbid that author from releasing the bugfix itself as a separate paid product.
+
+/u/DiamondMind: UI and other "fixes," not just bugs, should also never be sold.
+
+Perhaps there should also be a lower limit on the content sold so that microtransactions like adding a sword aren't allowed.
+
+**Theft**
+
+If a mod author's resources are stolen and used in a paid mod, that author should be able to report that to Valve and have it acted on promptly. The thief's revenue should be transferred to the original author; or, if the author doesn't have payment details registered with Steam, the full amount should be held in escrow indefinitely, without a time limit, until it can be transferred to the original author.
+
+In particular, we need assurances that Valve will pay attention to content that was originally uploaded to other sites, or at least to the more notable ones, when investigating theft reports. The full details of their policies regarding theft should be made public.
+
+**Transparency**
+
+Speak to us every step of the way, and release a prototype version first that we can check for issues.
+
+
+This is of course unfinished, and there a lot more problems to address. Comment and I'll add it to the list!
+ 
+
+
+
+
+ Skyrim's UI was finished. It just wasn't ideal for all platforms. 
+
+I disagree and think these two statements contradict each other. 
+
+If Bethesda were to deliberately leave part of a game unfinished, they'd necessarily be doing so for all platforms. 
+
+I disagree with this as well. Just because a game was finished for consoles does not mean it was finished for PC. Since mods are only on PC, we should not allow them to make money off the mods fixing the "only PC" problems.
+
+It seems pretty obvious that console sales dwarf PC sales; if Bethesda intentionally leaves a mess for modders to clean up, then they're openly and permanently screwing over the vast majority of their customers.
+
+But in this case, they satisfied console users while leaving PC users to make due on their own. This obviously did not hinder game sales, and this shouldn't happen in the future.
+
+Am I right in guessing that you're nervous about the prospect of SkyUI going pay-only?
+
+No, it just got me thinking about it, though I do think those modders made the wrong choice. I don't think Bethesda should be making money off things which should have been done in the first place. 
+
+Maybe we need a category of fixes vs. additional content? I don't know. 
+
+
+
+
+  UI improvements are no more or less valid than improvements to other game systems, and should be permitted for sale.
+
+My problem with this is we don't want to pay for things twice. Where should we draw the line between what will encourage developers to leave part of the game unfinished (and profit twice) and what will be a legitimate improvement? 
+
+
+
+
+ Edit: Since this might not be clear:  **We're trying to keep the modding community as open and collaborative as possible while preparing for the inevitable paid mod scheme, especially for the next TES or Fallout game. This is not about giving Valve or Bethesda money, but about keeping modding alive for the next generation.**
+
+I'm new to the modding community, which means I only started playing Morrowind a year ago and Skyrim over the last six months. But like people have been saying a lot, recent events have inspired me to give back. As I have next to no money and not enough time to learn to mod extensively (even though I played around with it a bit in Morrowind), I was thinking about what's going to happen in the future. I realized two things:
+
+1. Paid mods are coming, no matter how much we protest. The Valve press release was pretty clear about that. 
+2. Next time around, there won't be a community uproar at nearly the same scale. The Skyrim modding community is the biggest we have, another one won't be established by the time the next game is released. We can't stop the hundreds of thousands from buying the next Bethseda game, even if it is announced with paid mods. 
+
+Since we can't stop paid mods arriving, I think the best solution is to preemptively speak as a community to Valve and Bethesda about what we *do* want. Reading around the forums, I've noticed most people don't have a problem with paid mods **in theory**, as long as several key conditions are met. However, the implementation this time around was abysmal and we all realized nothing but slow (or not so slow) decline of mods would come from it. 
+
+So I have a radical idea. I think we should compile a list of the many sins that were committed, the problems they would cause, and improvements that would need to occur next time. We can present these to Valve/Bethesda as demands for the community to reluctantly support, or at least not condemn, paid mods. By conditioning our support on several key demands, we can make sure Valve sets up a marketplace that does not set off the disastrous effects we fear. Both parties would benefit: Since we can't stop paid mods, we could turn them into something which will have neutral or maybe even beneficial effects. Bethesda won't get the inevitable PR hit next time around, which is fresh in their minds right now and so holds the most power.
+
+I've started small list below, and I think it would be great for the community to put together a comprehensive list and make it as official as possible. Hopefully this will be an opportunity to bring us together after the recent bitterness.
+
+Here's my start, from what I've seen people saying. 
+
+Issues:
+
+1. The way the marketplace was set up encouraged crap shovelware micro transactions over good mods.
+2. There is no good way to test a mod and return it if it doesn't work.
+3. There is no way to make sure that the modder will continue supporting the mod through main game updates and other mod changes. 
+4. Mods use one another assets all the time, which makes monetizing them a legal quagmire. In addtion, relying on modders and the community to police stolen assets in unworkable.
+5. The paltry 25% the modders got was absolutely ridiculous.
+6. The secrecy of the implementation runs counter to how the modding community functions.
+7. Most of us using mods don't use the Workshop because of its limited functionality, meaning we can't access the mods posted like SkyUI 5.0.
+
+(To see longer arguments for above points, go to [this comment](http://www.reddit.com/r/skyrimmods/comments/343jtf/your_voices_were_heard/cqr1041) by /u/xaliber_skyrim
+
+
+Solutions: 
+
+**Quality**
+
+/u/test_subject6459: A paid mod being on the marketplace means that the developer has endorsed it as unofficial DLC for the game and guarantee it. This legitimizes the cut they take and gives them a stake to supervise which mods have their name attached. 
+
+/u/DavidJCobb: All mods must have a seven day return policy, no questions asked and no consequences.
+
+/u/BullZEye22: Mods should gather a certain amount of approval before they can be sold.
+
+/u/fadingsignal: Behind the scenes, there should be a partially dedicated faster-response support team for mod authors. If a mod is having trouble because the Steam downloader is screwing it up, or there is abuse or stolen assets being used, someone who is a verified author should have a slightly elevated support level, so they can in turn better support their customers who purchase their mods.
+
+**User convenience**
+
+/u/DavidJCobb: Load order managers and mod managers are essential to using mods while keeping one's game stable, but Skyrim doesn't natively support these tools, and the average Steam user won't know much about them. This is quite possibly the largest barrier to modding. Bethesda must develop their own analogues to LOOT and MO/NMM, and integrate these directly into the PC versions of FO4 and TES6.
+
+Authors should be permitted to upload full archives, rather than a BSA/ESP pairing (the current limitation), but the uploading of loose files should be discouraged, and some sort of warning should be indicated to the user in the Steam Workshop's UI.
+
+/u/test_subject6459: Do not tie downloads into the workshop; allow them to be used like Nexus files. That way, Bethesda and other developers do not need to create their own tool and force us all to use it. 
+
+/u/fadingsignal: Fix the Steam Downloader to be actually useful.
+
+**Compensation**
+
+For Paid Mods:
+
+Modders need to get at least 50% of the sale. Valve and the publisher can work out how to split the other 50% on their own. There are more than enough differences between mods and other "industry practices" to allow this.
+
+/u/fadingsignal: Option to set the minimum price to $0
+
+/u/sleepystudy: Humble Bundle esqe slider when checking out, or perhaps a manual entry.
+
+For Unpaid Mods:
+
+/u/NeuroticNyx: A donation button for unpaid mods on the Steam Workshop. No profit form Bethesda can be made from this, as it is not endorsed.
+
+/u/MaryMudpie: A system of Pay-What-You-Want for all mods. (Probably not going to happen.)
+
+/u/EggheadDash: A pop for a donation once the game is closed, with Yes/Remind me Later/No options.
+
+**Compatibility patches**
+
+Modders should be permitted to create compatibility patches between mods even when one of the mods is paid, so long as the compatibility patches don't use any resources from any of the original mods (including the paid one(s)) without their authors' permissions. Users should not be permitted to sell compatibility patches; they should remain free. This should rather neatly solve the community's concerns about the interoperability of paid mods; if a paid mod is good enough, I guarantee you that some industrious user will build a patch to make it work.
+
+
+**Limitations on sale**
+
+/u/DavidJCobb Mod authors should not be permitted to sell bugfixes for base game content, official DLC, or any other mods. These must be free. Obviously this policy must be worded in such a manner as to permit a mod author to continue selling a mod even if they must later release a bugfix for it; yet to forbid that author from releasing the bugfix itself as a separate paid product.
+
+/u/test_subject6459: UI and other "fixes," not just bugs, should also never be sold.
+
+Perhaps there should also be a lower limit on the content sold so that microtransactions like adding a sword aren't allowed.
+
+**Theft**
+
+If a mod author's resources are stolen and used in a paid mod, that author should be able to report that to Valve and have it acted on promptly. The thief's revenue should be transferred to the original author; or, if the author doesn't have payment details registered with Steam, the full amount should be held in escrow indefinitely, without a time limit, until it can be transferred to the original author.
+
+In particular, we need assurances that Valve will pay attention to content that was originally uploaded to other sites, or at least to the more notable ones, when investigating theft reports. The full details of their policies regarding theft should be made public.
+
+**Transparency**
+
+Speak to us every step of the way, and release a prototype version first that we can check for issues.
+
+**Issues still to be addressed**
+
+1. What happens if a modder wants to stop working on it and it breaks?
+
+
+This is of course unfinished, and there a lot more problems to address. Comment and I'll add it to the list!
+ 
+
+
+
+
+ If your mother is Jewish, it makes the halacha (Jewish legality) of the situation much simpler. 
+
+
+
+
+  Is there not already tons and tons of free shovelware mods? Hundreds upon hundreds of nude mods, skins, bikinis, oversexualziation mods, completely stolen retextures, etc
+
+Yes, there are lots of bad mods, but you can try them out and then uninstall if you don't like it, without going through a return and customer service. There is no way to do this under a paid model, or  to check if someone is reissuing textures that you made.
+
+Also, it does seem like Valve has a vetting system to make sure that this is done correctly. They clearly did not open this system up to anyone who wanted to sell their mods with their limited offering. That in itself might limit the shovelware.
+
+Have you looked at the page? Half right now are adding a random weapon or armor, and some are asking a ridiculous price.  
+
+In regards to the numbers are possibly flexible, but Valve is providing transaction services, advertising, possibly vetting and implementation, and opening discourse with the developers to legitimize an income stream. Why does it matter that it is not an AAA title or a car, it requires someone's time. 
+
+That still doesn't make the current split at all legitimate. 
+
+In addition, the argument is that by generating a real revenue stream, mods will no longer be limited to small pieces of code but could spur the creation of more large overhaul mods or new innovative ideas that very often die in their infancy.
+
+That's a nice theory, but we can already see what happens in reality. Instead, mods should be offered for pay *only* if it is one of these overhaul mods which can have a stable performance. No early access or microtransaction bullshit. There are better ways to go about it than what Steam is doing right now.
+
+Making it a payment does tie up the legality, but is usually more reliable than donations in terms of making money. Which is why we see people sell their goods instead of relying on donations.
+
+First, if you really want payment for your work, you can make your own game instead of a mod. Second, that's why I recommended the slider or big flashy donate button when you check out. Therefore, it's not mandatory but you can still pay if you want to support the modder.
+
+In regards to your TL;DR, why can't it be about making a product? Mods have made great products, and have become better through monetization such as Counter Strike or Team Fortress which were originally mods. The old paradigm doesn't necessarily need to exist in the new, nor will the modding landscape necessarily look the same.
+
+I am not necessarily objecting to a platform to sell large overhauls of games that are approved by the developer, and kind of unofficial DLC. But they should not claim to be the same as mods are now, nor have both small and large modifications. For a mod marketplace to work, the product needs to be a worthwhile investment and guaranteed, which will never be the case in this conception.  
+
+
+
+
+ I think you have a few good points, but the bad far outweighs the good. 
+
+Let's first consolidate what you think the arguments against this move are and make them stronger, and so refute your counterarguments:
+
+ 1. They all used to be free
+ 2. More people will want to make crappy mods for easy money
+
+becomes: 
+
+ 1. This will significantly worsen the current "market" by incentivizing crap shovelware over good mods.
+
+It's not that we're "entitled" to modder's work, as there are many modders who vehemently oppose Valve's move. Instead, this creates a worse environment for both modders and users. There are some crap mods now, but since modders are working for the love of the work over financial gain, the mod "market" isn't flooded with them. It is a very legitimate fear that the steam workshop will become like the google play store and microtransactions. No one outside of people trying to make a quick buck want that.
+
+ 6) People steal and reupload mods for profit
+
+Have you seen Valve's customer service? There is no way to make this work well and efficiently, and no modder wants to check every day and issue DMCA notices to everyone who tries to copy their work. In addition, how are they supposed to check if you have to pay to find out what is in the mod? There could be assets in the code that aren't immediately obvious. Modders aren't a business and shouldn't have to behave like one. 
+
+ 3) A donate button is a better idea
+
+ 7) Steam gets 75% of the cut
+
+ 9) Its a cash grab for skyrim and older games
+
+
+becomes: 
+
+ 2) Valve is claiming this is for the good of the modders, so that they get rewarded for their hard work. The fact that the modder gets only 25% of the cut, and ONLY if the mod sells at least $400 worth, shows that is a lie.
+
+If Steam wanted to have modders rewarded, it would be very simple to create a big fat donate button on the mod page. Maybe a banner, or a humble bundle slider before you download. Anything is better than a forced payment, especially if the person who worked on this is barely getting any profit. This is not a AAA title or a car, it is usually a small piece of code released to make a game better. 
+
+If Steam REALLY wanted a form a payment, there are better ways to split it. As Steam isn't really providing a new service to anyone by offering these mods, Steam should get a small cut; the original developer should also get one, as this is originally their product. Most people would be fine with 80% - 10% - 10%, or even anything over 50% for the modder. What we have now is ridiculous, and even worse that it's not even explicitly stated anywhere.
+
+Last point: Making a payment rather than a donation makes the legality of mods incredibly more complicated. Up to now, it has been a community where people share their work and build off of others to make everyone benefit. From now on people will be closely guarding their assets to make sure others trying to profit off their work, and all the paid mods will have to be built from the ground up instead of being a collaborative effort. In addition, many mods use copyrighted materials, which has been fine up until now because everything has been free. It's all a quagmire if the modders, Valve, and the developer are profiting off of the work.
+
+
+ 4) Mods arent worth the price being advertised
+
+ 5) Mods that go out of date will be useless
+
+ 10) Developers will rely on modders to fix their games
+
+ 11) Modders will leave mods unfinished
+
+Modding, up until now, has never been a product to sell, but something to give to the community. This change upends the modder-consumer relationship entirely. 
+
+1. From /u/Red_Inferno at /r/Games: 
+I find this to be very dangerous. What happens if the devs create an update and suddenly half your mods stop working and 25% of the mods that are not working also no longer have a dev to fix them? It seems to me like there has to be a guarantee of support from the people who make the mods that does not appear to be there. Then the question becomes should valve have to refund people if their mods are no longer usable? What happens if someone dies who made a great mod and this happens? Will valve fix it? Will the skyrim devs fix it? Will it go opensource?
+
+2. You envision some kind of culpability system for modders who make bad products. But again, modders and businesses. What if they decide to abandon their product because they no longer find modding worthwhile? There goes your 50+ hour save which contained your scripted mod, because those things are difficult to uninstall completely and can screw up your game. What stops someone from saying that they promise they'll complete a mod someday but never follow through while they rake in the cash? It's already bad with early access games and greenlight, so why do we think it will be any different with mods? If you think there is an accountability system that would work, describe one, because right now it looks like there will be zero accountability if something goes wrong, one way or another.
+
+3. Most larger mods require testing by lots of people to make them work correctly without (a lot of) crashing. Nobody will want to pay to test these mods, especially when there is no guarantee that there will eventually be a finished product. Making a mod in a job for one person, but making it work takes the community.
+
+ 8) Free mods at other places will dry up
+
+Nobody is "entitled" to the mod for free. But this has been a resource that lots of people relied on and contributed to. Why should they stand by as this all dries up? Making mods into DLC means changing the very essence of what modding is.
+
+**TL;DR: Modding has never been about creating a product, but about passion. This move by Valve will pressure modders to work as developers rather than hobbyists, to the detriment of everyone involved.** 
+
+
+
+
+ An AEPi trip means a birthright trip sponsored by AEPi. It is common for organizations to have their own trips funded by birthright. 
+
+
+
+
+
+
+
+
+
+  The risk vs. reward argument completely disregards the concept of bodily autonomy that most non-mentally-diseased humans of cognitive competence value.
+
+So should children not get any vaccines until the age of consent in order to respect their bodily autonomy? 
+
+
+
+
+  Is there actually any theology behind this very young age?
+
+Yes. Abraham was commanded to circumcise Issac at 8 days, and so are Jews today. 
+
+
+
+
+ The haaretz article only mentions de facto discrimination, which is definitely a problem. The first link has only two possible laws which are problematic, and even those have valid uses. We can talk more about them if you want a discussion.  
+
+
+
+
+ Point out to me where.  
+
+
+
+
+ If Palestinians are second class citizens in Israel, than I shudder to think what blacks are considered in the US, since they are often treated worse.  
+
+
+
+
+ But to say that "women are just as bad (in regards sexual assault generally)" is ridiculous. 
+
+I think it's more that both men and women act badly when in positions of power, but it happens that men are in those positions more often.  
+
+
+
+
+ No, it means he refused to accept citizenship when it was offered and is now paying the price.  
+
+
+
+
+ That was amazing. 
+
+
+
+
+ Thanks for the chance!  
+
+
+
+
+
+
+
+
+
+  but the rockets have not really been an issue for Israel over a decade now
+
+not true. we haven't had a war with hezbollah in a decade, and that was bad. Even with Iron Dome, people fear that the next war up north will be worse. 
+
+
+
+
+ It (well, not homosexuality, but homosexual acts) is a sin, but not THE sin of sodom and Gomorrah.   
+
+
+
+
+ I also work there. It's good for retail, but not much room for advancement.  
+
+
+
+
+ As someone who just read the comic after watching the movie several years ago, I disagree. The movie modified the themes of anarchy and individual power to be about freedom and group power, but keep most of the symbolism intact. I think the movie also made the ending quite a bit better.  
+
+
+
+
+ And apparently the natural solution is to change the victim rather than the attacker.  
+
+
+
+
+ Yes, blaming the victim always leads to the best solutions! I dare you to say this to your Jewish friends' faces and see how they react.  
+
+
+
+
+ So, as a Jew, I've never been comfortable making the sign of the cross or saying the prayers
+
+If you feel uncomfortable with some of the most basic tenants of Catholicism, why do you want to convert? 
+
+
+
+
+  Satan, a free willed angel (capable of supernatural actualizations) exists (if Satan can be shown in actualization, then other members of the supernatural Deity hierarchy will be accepted) 
+
+This is not part of Jewish theology. 
+
+
+
+
+ And how does jesus fit into all these statements? Seems to me that "there is none other"  is pretty clear cut.  
+
+
+
+
+ Hey, why not? 23 year old male in Boston, somewhere in between Conservative and orthodox. Looking for friends as well as dating, so go ahead and message me! :) 
+
+
+
+
+ Looking through his later comments, he is definitely Israeli. I just think he despaired and doesn't follow the news anymore, or only gets it from news to the left of haaretz. 
+
+
+
+
+ Has to be Jewish. There just can't be a future with someone who doesn't share the same core values that I do. 
+
+
+
+
+ Indosians go in, whites go out. You can't explain that with the patriarchy!  
+
+
+
+
+ Before, and it worked. 
+
+
+
+
+ War =  dead children = attention = money. Hamas was starved of funds and losing support, so they needed a conflict to get back both. 
+
+
+
+
+ That's why this kind of "analysis" baffles me. These researchers aren't even in Israel to see the evidence. Unless everyone was hallucinating rockets being blown up, it's working. 
+
+
+
+
+ They actually use sub-human? Are we laguz now? Did I change into a dragon when I wasn't paying attention? 
+
+
+
+
+ Simple: That in Deuteronomy 18, there is no prophecy. There is merely a description of what a prophet is. Also, it does say that the prophet will come from among you, i.e. the children of Israel.
+
+The post linked has some vague analysis which is pretty disconnected from the source text. I'm not going to bother going through each point. 
+
+
+
+
+ That is literally impossible, because no one aside from the state owned the Negev, which made up at least 25% of the Palestinian Mandate. So how the hell did they get 85%? 
+
+
+
+
+  who at that stage legally owned only 7% of it and remained a minority (33% in 1946) of the population."[1] 
+
+How much did the Arabs there own? 
+
+
+
+
+ Sonnet #90 sure sounds like it's talking about my love life right now. Does that mean Shakespeare predicted my heartbreak? 
+
+
+
+
+ Yes, I've read it. I've read Tehillim several times over, in fact. I still don't see what an inspirational poem has to do with Jesus. 
+
+
+
+
+ What is this from? 
+
+
+
+
+ The government is not based on Judaism any more than England is based on Anglicanism, and probably less. A Jewish state, in this case, means a state for Jews, not a state for Judaism. 
+
+
+
+
+ You tell me listen. I have the full text, and I don't see it. Quote a line or two. 
+
+
+
+
+ To answer your question, the main argument the israeli regime has to justify what its doing is the Nazi treatment of the Jews in WW2. They use it both as a fear mongering tactic for their own people, and a shame tactic for anyone who dares question their crimes.
+
+Anti-Israel say this all the time, but the only thing Israelis ever say that comes close is that they need a state so that a similar massacre never happens again. I've never seen anyone cite Nazi treatment for Israeli brutality. Show me one. 
+
+
+
+
+ Oh, I've read a lot of books, especially on this. Back to the discussion: You said you knew a lot about this conflict, and I did not. Do you or do you not believe that Israel was founded because "the Nazis killed a bunch of" Jews?  
+
+
+
+
+ If you actually believe Israel was founded because "the Nazis killed a bunch of Jews" and you think that you're educated about all this, I feel sorry for you. Do you think that Assad was actually good to Syrians, too? 
+
+
+
+
+ Yeah, it's not good. Guns aren't toys. But I would be would be more calm in the face of a rifle in the hands of someone in the professional army rather than the police. But it's not a good situation for the kids, you're right.
+ 
+
+
+
+
+ I know where people are coming from.
+
+Really?
+
+But they left and came back because....wait for it...the Nazis killed a bunch of them
+
+No, no you don't. 
+
+
+
+
+ Don't take something out of context and I won't make fun of it. There are much better ways to characterize this video that don't play up sympathy at the expense of the truth. 
+
+
+
+
+ [1](http://www.reddit.com/r/worldnews/comments/2z1jun/on_video_israeli_soldiers_raid_homes_question/cpf04gt)
+
+[2](http://www.reddit.com/r/worldnews/comments/2z1jun/on_video_israeli_soldiers_raid_homes_question/cpf2iih)
+
+[Everything you said here on down.](http://www.reddit.com/r/worldnews/comments/2z1jun/on_video_israeli_soldiers_raid_homes_question/cpf18is)
+
+[
+Look, someone even agrees with me!](http://www.reddit.com/r/worldnews/comments/2z1jun/on_video_israeli_soldiers_raid_homes_question/cpf1pse)
+
+You really need to understand where people are coming from before attacking them, because you're only making yourself look bad. 
+
+
+
+
+ You've demonstrated your ignorance about the history of Jews and the region throughout this entire post. 
+
+
+
+
+ I don't think he was. He had only one hand on it (standard protocol in case someone tries to grab it) and his hand wasn't on the trigger. Maybe he should have pointed down? Yeah, maybe. But it's such a weird thing to get upset over... 
+
+
+
+
+ interrogating innocent children
+
+Oh no! Sounds horrible! What did they do? Tie them up? Force them to be without food and drink for hours? Made them answer questions about every detail of their lives? Sell out their parents?
+
+...wait, all that happened was the got out of bed, asked their names, and had their picture taken? I've had worse *interrogations* at the principal's office. 
+
+
+
+
+ I don't think you picked up on the sarcasm. 
+
+
+
+
+ The only thing that happened here is that the children got out of bed and were asked their names. OMG, the horror. The U.S. police do worse, regularly. 
+
+
+
+
+ What is this? Soldiers coming into the house in the middle of the night. SWAT teams in the US do worse regularly. 
+
+
+
+
+ Oh, it legit. The Israeli soldiers are speaking Hebrew and the Palestinians are speaking Arabic. The IDF does do middle of the night "raids" like this sometimes. But...nothing happens. as you can see from the video, it's more tame than a police raid in the U.S., and definitely better than the no-knock warrants that are constantly in the news. 
+
+
+
+
+ You're own quote is proving you wrong. Verse 12 says that whoever is murders another person should be executed. Verse 13 says if the killing is unintentional, the killer has a place to flee to [if a relative of the deceased pursues him]. Verses 18-19 speaks of injury but not death. Verses 21-22 again speak of injury, but not death. There isn't even a clause for the person who caused the miscarriage to flee to a refuge city, which means that the miscarriage was not seen as equivalent to killing, intentional or not. 
+
+
+
+
+ I just don't care enough to debate on NT grounds. Maybe a better sentence would be "You can only argue that Christianity is internally consistent if you ignore the Judaism that preceded it." It doesn't make much of a difference to me.  
+
+
+
+
+ This Is The Part Where He Doesn't Kill You 
+
+
+
+
+ That wasn't Aushwitz, it was another death camp. There were a dozen or so. 
+
+
+
+
+ Yes, before it was agreed that Jesus was part of God. 
+
+
+
+
+ Why are you giving me a poem? Should we use Shakespeare's sonnets as predictors of events too? Prove to me that Psalms is prophetic, without referring to Jesus, and then we can talk about this one. 
+
+
+
+
+ Christianity is only internally consistent if you ignore the Judaism that preceded it. 
+
+
+
+
+  Christianity is the only faith that teaches that God has done all the work required for salvation, all other faiths teach that man must do all the world.
+
+This is what makes Christianity so irrational as a religion. God made us so...nothing? 
+
+
+
+
+ Aside from Jewish and maybe descendent of David, no he really didn't. Most prophecies given are usually not prophecies at all, or completely misinterpreted.  
+
+
+
+
+ By this standard, all of the NT is invalidated. 
+
+
+
+
+ And yet, he walked away instead of talking. Has this put the Palestinians in a better position? 
+
+
+
+
+ Jews have the right of return to Israel, Palestinians will have a right of return to Palestine. Seems pretty simple. 
+
+
+
+
+ You're missing the fact that Palestinians in the West Bank in Gaza aren't robots controlled by outside forces, nor are they slaves to their baser natures. In addition, the rise of Hamas is much, much more complicated than that. in short, they were not forced into anything but rebelled against the PLO when Arafat "renounced" violence at the Oslo Accords. Even now, if there were non-violent protests in the West Bank, as well as other demonstrations that show the Palestinian people are ready for peace, the Israeli electorate would vote in a left wing government to negotiate it. 
+
+
+
+
+ Likud does get stuff done in Israel though. They don't throw shit everywhere and call it a day.  
+
+
+
+
+ chabad, sometimes 
+
+
+
+
+ What is your view on the Arab-Israeli conflict as well as anti-Semitism in the Muslim world?  
+
+
+
+
+ Hey, want to move to Israel? Lots of atheists here!  
+
+
+
+
+ I was going to say talk to him for a bit and see what he was thinking, but there are way to many red flags here. Say you're not feeling it and you don't want to date anymore. It's very likely he will fly off the handle, which really tells you all you need to know. Just do it in a public place. 
+
+
+
+
+ As someone playing through the game for the first time right now, thank you for that! 
+
+
+
+
+ No, I heard of these verses from a friend, 
+
+And where did he get them from? As gingerkid said, they are probably out of context or made up. For example, the gittin quote, why do you think this refers to Jesus at all? All it says is "sinners of Israel?"
+
+ I am just curious as to how modern jews view these verses
+
+Here's the thing, they're not verses but rather arguments or opinions. The Talmud is a very complicated legal document, not the straight word of God. So the quotes were of some Rabbi, probably quoting his Rabbi. Just because someone in authority 1500-2000 years ago said something does not mean it is a divine decree. 
+ 
+
+
+
+
+ More proof that "messianic Judaism" is simply Christianity in disguise.  
+
+
+
+
+ Ad-hominem, insulting, and not relevant. What do **you** think Judaism believes about Satan? Since you are dismissing the views of actual Jewish people on this sub, provide some sources please. 
+
+
+
+
+ This is might be because you have too many choices. Having more choices about what to do can actually be worse for your happiness than having no choice at all. Humans are weird like that. 
+
+
+
+
+ Yep.
+ 
+
+
+
+
+ I do not have sources handy at the moment, maybe others here can give them to you. But it is supposed to be the same as described in the Torah about God's presence descending upon the Mishkan once it is built. See Exodus 40:34. 
+
+
+
+
+ The standard Jewish belief is that God's "presence" (shechina) rested inside the Temple, not that God himself came down. God does not have physical form, and so cannot physically descend. 
+
+
+
+
+ I think the article is a good analysis, even though the author relies heavily on one or two sources. However, I think they're mistakenly conflating the reform and conservative movements. They are not the same movement, and the critiques levelled toward the reform movement do not apply in the same way to the conservative one. I don't see any other explanation as to why traditional egalitarian Judaism has failed as well as liberal Judaism, except for the Orthodox monopoly and the widely held idea that they are torch bearers of the faith.  
+
+
+
+
+ Those are a lot of quotes...and none of them have sources! So legit. 
+
+
+
+
+ The second lord isn't specified at all, we don't know who the author was intending to talk about. Why do you think it is even about the messiah in the first place? Also, the second lord is not referring to a deity. The two lords in the phrase are different words in Hebrew. The first is deific, the second is just an honorific. The nt here, like in most places jesus argues,  is a strawman.  
+
+
+
+
+ Ask! Go to synagogue! As long as you're respectful, everyone loves talking about themselves. 
+
+
+
+
+ No, it is used to refer to "a god," an idol. Not the God. 
+
+
+
+
+ These have all been answered long ago. Angels, Angel (who are also Elohim as are judges), God's Spirit (do you think God has an actual face and back?), bad translation ("My Lord said to my lord, etc. The second lord refers to David himself.)
+
+I'm not going to touch the trinity argument (though it could be wrong) because I don't care enough about it.  
+
+
+
+
+ That's an adjective, not smichut, I think. 
+
+
+
+
+ All words have both singular and plural in Hebrew by the way the grammar is structured. There is no such thing in Hebrew like "fish" can be used in both singular and plural contexts. The word sky "shamaim" does have a singular, it just does not refer to the sky. Likewise, the word "elohim" does have a singular, it is just not used to refer to God. 
+
+
+
+
+ Eh, everybody stereotypes in comparison to their normal. I've heard people from the south say that everyone up north is rude and doesn't know proper manners. 
+
+
+
+

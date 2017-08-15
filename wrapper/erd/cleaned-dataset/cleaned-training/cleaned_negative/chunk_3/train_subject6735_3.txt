@@ -1,0 +1,585 @@
+ Just came back in from the Point Reyes into Novato. Things are getting hairy out there, for sure. South Beach at the point was closed, ranger at North Beach said he's about to just close the roads at the gate to the point and go home. Some poor group of people has to sleep out at the light house during this. 
+
+Wind coming back was pretty amazing. Few times coming over crests on the road the wind put my bike into the oncoming traffic lane. If you're in West Marin, or heading there, tuck yourself's in, it's getting ramped up. 
+
+
+
+
+ Ribeye's? I thought you guys only grilled Tri Tip out here. I was starting to worry that Californians didn't realize that the rest of the cow could be  eaten too. 
+
+
+
+
+ In Novato and the winds are 15mph, between gusts. Still raining pretty good here. Come visit beautiful Marin. 
+
+
+
+
+ [Never forget](https://imgflip.com/i/f6km8) 
+
+
+
+
+ Raspberry PI, NOIR Camera, Wifi Dongle, a little bit of Python and some bash. Do it. 
+
+
+
+
+ None at all? Not even one letter? 
+
+
+
+
+ But what if they inconvenienced them so much that they convenienced them into getting rear ended when they came to a stop because of the protests by a semi-truck, and the lady that got rear-ended was one of the police officers daughters and he had to run over to her car and she was dying and gasping her last breath and she said to him, "Dad, whatever you do, don't gaawkwkkkkchlll hhhhhhhhhhh..." And he's all like, "DON'T WHATTTTT!!!!!!!  WHY, GOD, WHYYYYYY!!!!!" And he goes crazy and starts roundhouse kicking protesters in their faces and one of them is a kung-fu master because he's been training in a dojo that said they trained Bruce Lee and he round house kicks the cop back and it turns into a roundhouse kick fight and they're roundhousing left and right and all up and down University and then all of a sudden they're break dance fighting and than the cop does the hammer time move and drop kicks Bruce Leroy out the park and than the cop picks up a microphone out of nowhere and starts signing "New YORRKKKK, NEW YOOOORRRKKKK!!!!!" and some Giants fan come out of nowhere and snatches the microphone from him and than he gets round housed to the face and his face is all bloody and ugly and the cop is all like "HA, THAT'S WHAT YOU GET" and the bloody-faced guy is jamming tampons up his nose and eating razor blades and the cop places him under arrest, but it's really not under arrest it's under a moving car and than out of nowhere Wonder Woman show's up but she lands her invisible jet on the people in the street doing their peaceful protest and now it's a bloody wonder mess with razor blades and tampons all over the place and no one can get through to anywhere and the world explodes. The End. 
+
+
+
+
+ What about Jesus? Would you like to discuss Jesus for a bit? 
+
+
+
+
+ I think I get right you're angling at.
+
+[This should sort of work, or at least get you started.](http://i.imgur.com/YpHJmTn.png) You can't see it in the screenshot, but the false case is exactly the reverse of the true case. On true, we decrement, on false we increment. And make sure you're AND'ing the array, not OR'ing it.
+
+Obviously the while loop in this never stops, so you'd need to define some sort of stop condition. One way I would do it would be by removing one element of the historical array each time you reverse directions. Once you're down to one element left, you know you're at the peak. For your data you'd obviously want to play with the size of the historical array for tuning purposes. 
+
+Once you go from simulation to implementation than you'd replace the array and index array with an actual call to make the photo diode measurement, and the increment/decrement would be used to adjust the position of your light. 
+
+
+
+
+ So, to be clear, you're shining a light at a light dependent voltage source from different locations, and you'd like to find the point at which the resistance (position) is equal to some nominal voltage (perfect light)? 
+
+Just re-phrasing it so I understand the goal. If that's right, I've got some ideas. 
+
+
+
+
+ I know that the people out doing this horrible stuff (this, the meatballs, that ass that covered the children's jungle gym with razor blades, etc...) are doing it late at night or early in the morning, and I'm unlikely to ever happen upon it. But seriously, god help them if I ever do. The sick individuals that derive joy from this kind of malicious behavior (with planning and forethought, at that) deserve a beating.  
+
+
+
+
+ Same thing happened to me like a week ago. Check my post history, you'll find the guy who definitely confirms that there is no possible way that this could be happening to more than one person in a similar time period. 
+
+
+
+
+ Holy hell that looks intense.  
+
+
+
+
+ Came to the comments to find the shop. Disappointed that it wasn't in San Francisco and now I can't go give them my next ink business. 
+
+
+
+
+ Had Poke Shack for lunch today. We're actually staying at an Airbnb right across the street from it, so I'm sure we'll have it a couple more times before we go. 
+
+I'll give the other two a shot, thanks. 
+
+
+
+
+ Oh cool, so when's the next birthday in your family? Or better yet, mine was yesterday, you can throw me one. 
+
+
+
+
+ Ahhh, I see. We'll focus on enjoying the beauty of the island than and take-in the Hawaiian food for lunch. 
+
+Thanks. 
+
+
+
+
+ My family and I (mid-30's mom and dad, 18 year old son and a 1 year old daughter) are visiting the big island of Hawaii on the Kona side and wanted to do something as close to a traditional Hawaiian dinner as possible. We read all the luau reviews and after looking at it all and most locals replies it seems like something we do not want to do because of the cheesiness of it. Can someone recommend someplace sort of traditional Hawaiian that doesn't have the touristy, cheesy feel of a luau? 
+
+
+
+
+ Woah, I just got to Kona yesterday too. Enjoy yourself. 
+
+
+
+
+ Maybe he hasn't removed the disc from inside yet. 
+
+
+
+
+ I don't admit to any money. I politely say no and go back to ignoring everyone on the train. 
+
+
+
+
+ Wait until it starts coming back up curdled. 
+
+
+
+
+ 11 year old's won't think this, but all I can think of is Raven Symone and 'That's So Raven'. 
+
+Edit: My daughter's name is Temperance Ophelia, so take that with a grain of salt. 
+
+
+
+
+ So, you're calling me stupid than? **/s** 
+
+
+
+
+ You saying I have AIDs? **/s** 
+
+
+
+
+ I'm shocked at how much I'm expected to use this '/s' tag to denote my comment as sarcasm. How bad has this world gotten where my over-the-top sarcastic comments are taken as something that a human being would actually say. 
+
+
+
+
+ Maybe they were implying that things that were on fire were made out of weed. Maybe, the real implication was that the resident's of Ferguson have for years been building structures and vehicles out of weed to cover their giant drug sales and transport syndicate. Maybe CNN was actually revealing the truth behind the city government-run drug mafia and that city councilman was upset that the truth was getting out, hence the 'Fuck CNN' comment.  
+
+
+
+
+ Oh god. Thank you so much. I'd have never known. 
+
+
+
+
+ Ubisoft confirms that they don't own a map. I mean, really, was that supposed to look even vaguely like the US? 
+
+
+
+
+ Yeah, but in the UK it's not a race thing, it's a soccer hooligan thing, right? At least, that's what I see in the movies. /s 
+
+
+
+
+ Worked for Detroit. /s 
+
+
+
+
+ Is this actual speed or slowed down so we can see what's happening? I've worked with laser systems before doing die cut and this seems ridiculously slow to me. If this is slowed down, what's this machines normal operating speed in parts per second or minute? 
+
+
+
+
+ Same as ever? You mean, avoid it too? /s 
+
+
+
+
+ Leave now. /s 
+
+
+
+
+ [Youtube] (https://www.youtube.com/user/zennie62/videos) vlogger, on the scene. 
+
+
+
+
+ Didn't have time to watch the whole thing but my heart was pounding from that first match.  
+
+
+
+
+ The downside of the timing primitive is that it stops the thread. Nothing else is being done while that wait is there. So, for five minutes, nothing happens. However, in addition to that, the Wait primitive occurs either before or after the rest of the code in your loop, depending on how you have things written, which means your loop timing is actually however long it takes to execute your code, plus five minutes. 
+
+
+
+
+ I think what you want is something like this. 
+
+[Code](http://i.imgur.com/zTebih0.png)
+
+The loop is iterating with a 50ms wait, however, it's usually only executing the False case and whatever other code you have in the loop. Once the current timestamp minus the original timestamp is equal to or greater than 600 (the number of seconds in five minutes) than execute your code in the True case. In the True case, make sure you pass the current timestamp into the shift register.  
+
+
+
+
+ Pull over. Burn bike to the ground. Move to new country. 
+
+
+
+
+ I think his point is that he did go through it without going to an online community for help, hence the reason why he can't sympathize.  
+
+
+
+
+ Have an upvote.  
+
+
+
+
+ I've worked in software QA before. It was neither vital or important. It was thankless and painful. The last thing high-paid devs (and their even higher paid bosses,) want is some QA jerk telling them something is wrong with their last source push. The company I worked for did QA because their customer base thought it was important that they did it, not because it was vital or important in the eyes of the all-knowing software team. If they had their way, the upper muckity-mucks would've rather fired us and used the money to add a sushi chef to the onsite cafeteria.  
+
+
+
+
+ But it was REALLY hard.  
+
+
+
+
+ You've been very helpful. You should get a job in support.  
+
+
+
+
+ If it was update related than some users might see it at the same time. How unbelievable is that? 
+
+
+
+
+ Was watching TV and the light on the Kinect turned off. Tried hard resetting. Tried hard resetting and unplugging everything than powering back on and going to Kinect and plugging it in then, like the troubleshooting guide says. Nothing seems to work, it's dead. Anyone else having Kinect issues out of the blue. 
+
+
+
+
+ Airwolf.  
+
+
+
+
+ I think that was his kid trying to make him feel better. Or, his wife has the handwriting of a six year old. 
+
+
+
+
+ Marin. Work remotely. Drink wine and feel better than everyone else all day. 
+
+
+
+
+ First thing I taught my daughter is that the safe pass is the responsibility of the passer. That applies on the slopes or on the track. However, I also made sure to keep an eye on what was going on around her too while teaching her, especially on busy slopes.  
+
+
+
+
+ This reply is bullshit. You train kids by watching them. Not by allowing them to ski cross slope, behind you, without looking at anything that's going on around you. The snowboarder was already slowing down and paying attention to not running over the kid on his left, whom he was going barely faster than. When he reaches over to make sure they don't collide, the kid is still in front of his dad. As soon as he turns forward he immediately throws up an arm to go to cut but it's too late. What occurred was an accident, but an accident that could've been avoided had the father been paying attention to his young and inexperienced skier. 
+
+Edit: Watch it again, you can see he's sideways when he hits the kid and began stopping as soon as he could. It wasn't a speed issue at all. It was a "I couldn't have seen him issue." Keep an eye on your kids on the slopes. I do when me and mine go out, it's the responsible thing to do as a parent. 
+
+
+
+
+ Kids don't pay attention, that shit happens. However, the father who was holding him, than allowed him to ski cross slope behind him, out of his line of sight, without looking up slope to see what was coming at them is completely, 100% at fault. Sometimes I see videos like this and I try to read both sides of the situation and say, well, it could've been this or that. This was a clear cut case, that dad was a dick. To make the situation even worse, he totally over reacted, causing even more emotion to be stirred up.  
+
+
+
+
+ Good to see the internet getting won so early this week. 
+
+
+
+
+ I love it when people say this kind of stuff. They think they know everything but are really just tagging along on the karma train. 
+
+
+
+
+  Krokodil
+
+I don't know, I think World War era Russian political magazines are cool. 
+ 
+
+
+
+
+ Couldn't help myself from laughing like mad when they drove up on the sidewalk. 
+
+
+
+
+ This gentleman exercised his rights. He ended up injured and in a jail cell. I think there's a difference between exercising your rights civilly after the fact and just being obstinate to prove a point. You may be right in either case, but one way is definitely more self-destructive. I'm definitely not siding with the police in this case. However, had the rider pulled over and acted in a civil manner he may have had a chance to publish this youtube video that didn't involve his arrest. The thing to realize here is that in either case, the cops are going to get off scott-free. So, do they walk away with you getting injuries and jail time, or do you both get to walk away? 
+
+
+
+
+ Even if the last word of this post was missing I would've asked if this happened in Topeka.  
+
+
+
+
+ Mother fuckers with a hand print on the side of their emo fucking faces, that's who. 
+
+
+
+
+ I've always thought the same thing. My workaround has been to use VIPM to create a package and deploy it with the installer. Than you get your error code file deployed to the right place.  
+
+
+
+
+ I thought /s closed out a strikethrough, my bad. And I don't even have a beard. Now I have to have a beard and friends to play video games, WTF??? /s 
+
+
+
+
+ Not into the sarcasm, huh.  
+
+
+
+
+ People pay tens of thousands of dollars for cars. Recalls still happen. Not to mention that car ownership is fraught with micro transactions, and people still go out and pre-order the fanciest models before they're available.  
+
+
+
+
+ Must be nice to have all those friends. Thanks for rubbing it in. 
+
+
+
+
+ Reproduce real-life in our video games. Today I started a kerbal program to put a lander on an asteroid. Only lost 30 kerbals so far, so there's that. 
+
+
+
+
+ Oh, gotcha. I only play it for the SP. At my age, getting pwned get's old. 
+
+
+
+
+ I believe they're working hand in hand with Mono project members to make it happen. Says so in the article. Sorry. 
+
+
+
+
+ Hoping that this was the top comment. 
+
+
+
+
+ Everyone keeps saying that. I've played through CE and Halo 2 without any issues or weird glitches. 
+
+
+
+
+ Is this real? Since when did I have to have friends to play fucking video games? The reason I play video games is because I don't have friends. 
+
+
+
+
+ Motorcycle game where you fail 100s of times??? 
+
+You're talking about Battletoads, right? 
+
+
+
+
+ Microtransaction source? Or are we just going with past Ubi-tude? 
+
+
+
+
+ And you're enjoying Halo now? 
+
+
+
+
+ And you're enjoying Halo now? 
+
+
+
+
+ Right, because you know when you go to play it you'll get stuffed on a server where the only thing to be heard from anyone's mic's is the sound of them coughing or their babies crying in the background. 
+
+I met one guy, once, whom I had good teamwork with over the mic. It was during the Evolve Alpha (Beta) and it actually made the somewhat bland Alpha fun. And then it crashed and for some reason his GT's from Evolve didn't show up in my recent plays, so alas, no more fun mic times. 
+
+I'll miss you mic-bro. 
+
+
+
+
+ Perez Hilton only has 5.87 million followers, not 6. But yeah. 
+
+
+
+
+ I need to up my alcohol game apparently. 
+
+
+
+
+
+
+
+
+
+ Whew. I was really worried that you were going to take this the wrong way. Good on you for being open-minded and wanting to be a better rider.  
+
+
+
+
+ Punched in the face seems somehow not mean enough. Smacked with a flaming 2x4 in the face... hmmm... maybe. 
+
+
+
+
+ Have a back up controller. 
+
+
+
+
+ This accident sucks and I wish you all the luck in the world getting it set right with the city. But blaming things outside your control is a recipe towards a second low-side. Analyze what you did and how best to make sure you don't do it again or the next time you encounter something like this situation you'll be unprepared. 
+
+I'm not saying that your ignoring the analysis maybe you've already thought about it and are just posting this after the fact, but I want to make sure that you're being as safe as possible, even if it means telling yourself that this may have been partially your fault as well. 
+
+
+
+
+ Try Volgaar yet? 
+
+
+
+
+ I don't get this. So I've been paying 60 or 70 a year for Gold. Every month I get a new free game. The games are typically low-level and sell for between 5 and 10 dollars. Times twelve, that means I'm winning. 
+
+This Ghosts and Goblins Viking game is freking hard though, I'm a little pissed. 
+
+
+
+
+ If I were to write it, I would probably start with a generic amplifier object, that way when you or someone on your team decides to replace the Copley with something else later you have some reuse and not a complete rewrite. The public API for this object would expose a settings object to set amplitude and frequency. I would also expose some type of State object which contains feedback of the waveform going to the Copley.
+
+I flipped through the Copley site and supposedly there are some LabVIEW examples in the CMO installed files. However, I couldn't get the downloaded installer to run on my machine, so I can't be much more help. 
+
+
+
+
+ Not when I saw launch, but it seems like the default to anything I say that the XBone doesn't totally understand is, "Watch E".  
+
+
+
+
+ Checked your post history, can definitely see why it would be a weird holiday. Would totally join you as this is what me and my family normally do (restaurant holidays) but this year we decided how nice it would be to have Thanksgiving in Hawaii. I will think of you as I pass the poi.  
+
+
+
+
+ Never watched Ultimatum. Was so pissed at the casting choice that it never even made my Netflix list. Is it really worth it? Keep in mind that I really enjoy the 'Trilogy' as a great piece of action. Almost to the point of being called a die-hard. 
+
+
+
+
+ As the father of an 18 year old who swam competitively from 1st grade until Sophomore year in high school, I'll try to describe how we handled a very similar situation. When my son got out of middle school we moved to a new school district which meant all new friends and teammates and an entirely new social order to figure out, (we had moved from a rural Kansas town to a more mainstream area in the Kansas City metropolitan area.) Freshman year was understandably tough for him. Trying to make friends, figure out high school, and still excel at a sport he loved was very tough for him. He quickly fell into a group of friends who were not active in sports and went out of their way to heckle and demean him for wanting to be a "jock." Having made up his mind that he wanted to be friends with these kids, he told us at the end of the summer swim season after freshman year that he did not want to swim anymore. After realizing that this a social pressure thing, we told him fine, but you have to do a sport, figure it out. He relented, after weeks of teenage whining, and decided just to swim again. He was miserable. He wanted to be accepted by this group for whatever reasons he had put in his head, and nothing would change that. He began skipping lessons and for the first time ever, lied to us, outright, to our faces. After forcing him to finish out the season and walking him to morning practices and evening meets to ensure his attendance we finally gave in. We told him if he didn't want to do anything Junior year, that was his decision. 
+
+Fast forward to post-graduation. We've since moved to California and he's come with us. His very first job was as a lifeguard at a local pool. He aced the requirements exams, got his first aid and emergency responder certs, and actually saved a kid in the first month he was there. He's decided he wants to go into the EMS program at one of the local schools and from there go into Search and Rescue. We were talking the other day, about random stuff, and he said to me, completely out of the blue, "I never should have quit swimming." 
+
+The moral that you may be reading here is that we should have done something different than what we did. Maybe forced him to keep going or let him quit earlier. But I still feel that the way things worked out, despite the weeks or months of strife they caused, ended up working out for the best. He has a regret. That regret has helped keep him motivated about his future. He learned a valuable lesson that friends and social circles, albeit demanding, eventually fade and the real friends that you're left with don't care if you're fat, skinny, a jock, or small-dicked. For those reasons, I can sit here on my couch and know that deep down, we messed him up the right way. 
+
+One thing you gotta understand, and this is really the only thing I've learned as a parent, is that typically, there's no right answer. There's lot's of horrible answers, and some that are slightly less wrong. But in the end, for the short-term, they're all wrong by some degree. 
+
+My advice to you. Go with your gut. And whatever decision you make, own it. And when you think it's wrong, understand that it is, but really, they all are, so just keep going with it. I guess the real moral here is that whatever decision that you as the parent decide to make, understand that eventually it will work out. Just keep being there as a parent and stick through the hard times. As children, they can really, horribly disappoint us sometimes, but it seems like eventually, on a long enough timeline, all of it comes together into this adult that acts responsible (about 75% of the time at least.)
+
+Sorry I can't be more help. 
+
+
+
+
+ I have never agreed with a Harley rider so much. :) 
+
+
+
+
+ But ATHF, the bizarro episode? Best "get stoned and watch cartoons" cartoon ever. 
+
+
+
+
+ I'm not a chopper guy or a cruiser guy. I ride dual-sports and sport bikes mostly. But this, this piece of art, it transcends mere labels of what kind of 'guy' you are. Roland Sands makes amazing machinery. 
+
+
+
+
+ Came to the comments to make sure this was said. Seriously. 
+
+
+
+
+ Right, that's what I thought. When I read this line, "Find my Controller to easily find (or identify) a controller by making it vibrate," I thought, oh, they somehow implemented a Find my controller command, awesome, because my one year old likes to come out first thing in the morning and hide it, every day. 
+
+
+
+
+ How do you make it find your controller? "XBox, find my controller" ??? 
+
+
+
+
+ Yeah, we're gonna need you to share that jam recipe too.  
+
+
+
+
+ [Relevant](https://www.youtube.com/watch?v=8n6NqxBZP0Y) to this whole thread. 
+
+
+
+
+ The word simultaneous isn't really the correct word that you want. LabVIEW is inherently multi-threaded, and when possible will make use of a multi-core machine to distribute that load. However, in your attached image there is no mechanism in place to guarantee that any of those express VIs will run simultaneous. In fact, due to the nature of the express VI architecture, I can pretty much guarantee you that they will not run simultaneously. They will run in parallel, and possibly asynchronous. But the order of operations of those three VIs will be completely up the LabVIEW and when run three times could be three different orders. 
+
+The only way to enforce an order of operations is dataflow (usually the best choice) or sequence structures (usually the worst choice, although not a bad idea per-say for troubleshooting.) 
+
+There are some methods of enforcing simultaneous operation across multiple cores of a machine, however, just putting them in a line and connecting them to the same inputs and outputs isn't one of them. 
+
+
+
+
+ So confusing. Back, front, back, front....  
+
+
+
+
+ Yes, thank you. Let's not delve too deeply into what would happen if you let a rotting corpse walk around in the sunlight for a few days, but seriously, zombies? Yeah right. 
+
+Now robots, they scare the shit out of me. 
+
+
+
+
+ Anyone playing. I got right in a few hours ago, now it seems like I'm stuck at the RROL. 
+
+
+
+
+ Wait, stealth doesn't leave prints? Dammit. 
+
+
+
+
+ http://en.wikipedia.org/wiki/Lane_sharing
+
+Seems like yours is definition 2 and mine is definition 5. So, technically, we're both right. 
+
+
+
+
+ My sentiment also. Perhaps I'm assuming people are doing it on accident when they are actually attempting to make my life more difficult. Either way, they affect less than a second of my day. I'm going to put that same amount of energy into being angry about it. 
+
+
+
+
+ This is what most people don't get. I'm a fellow bay area commuter (Novato to Hayward, yeah, 101 - 580 - 80 - 880 it sucks.) I'll encounter all types on my commute. The inattentive drivers, the old people weaving, the guy on his cell phone, the girl on her laptop, the tech-bus that rides the line, at some point in my week I see a handful of each, at least. I still would never consider not lane-sharing. The safest place for me sometimes seems like it's between two cars. 
+
+
+
+
+ I've been lane-sharing in California for the past three years, almost two hours a day of a commute. I've never once had someone attempt to intentionally harm me and many, many times over have had people move to the side some amount to make it easier for me to pass. I've also dealt with some inattentive drivers unintentionally trying to harm me, but that's a whole different topic. 
+
+
+
+

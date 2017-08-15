@@ -1,0 +1,34 @@
+ Also I've just gorged my ears out, is there a recommended subreddit for first aid? 
+
+
+
+
+ Whats with all the stuff above the wall?  Shouldn't it be a roman no go zone? 
+
+
+
+
+ Buy a SSD they said, never have a disk crash again they said... 
+
+
+
+
+ Slowing moving the VM to the cluster rather than mess around as a reboot will fix it. 
+
+
+
+
+ Nope, reset that from the console with no luck. 
+
+
+
+
+ Can anyone help with an issue with a 5.0 host? A blade dropped out of vsphere a few days ago.
+
+Ive tried the normal restart of the management agent from the console and ssh but the host refuses to connect again. Connecting directly to the host with the vsphere client also fails.
+
+All the vm on the blade are still working as normal, its just I cant get the blade back in the cluster to vmotion everything off. A number of the vm are very important production servers that cant currently be shut-down. Ive logged a number of calls with HP and their current solution is to reboot the blade, which doesnt help getting the vm off the blade or what the cause of the original issue is.  
+
+
+
+

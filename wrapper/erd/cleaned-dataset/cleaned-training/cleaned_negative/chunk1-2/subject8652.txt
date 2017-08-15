@@ -1,0 +1,1811 @@
+ Jesus.   I didn't tell them anything that wasn't public knowledge.   But I won't respond to the idiots anymore.  
+
+Thank you.  
+
+
+
+
+ There are two different types of mod-removal actions.   They are called "Spam" and "Remove".    Your comment [looks like this](http://imgur.com/ADoQdfa) too me.   Submissions have the same removal options. 
+
+If I click spam, it removes the comment and the spam filter learns that a moderator dislikes you and remembers that bit of info for future reference.     If I click remove, it just removes your comment but doesn't remember it for future reference.  
+
+As to what the spam filter learns in these *spam* cases, is open to question.   Does it key on your username? Or that I removed a comment with the phrase "shed some light on it"?   Not sure if it learns either of those things, both, or something else entirely.   From observations I have made, I think it's the third option. But even that's just a bit of a educated hypothesis.    
+
+
+
+
+ Defeating Link redirectors is old hat.  The admins have blacked holed more than a few of them via the soft and hard domain ban lists they manage.   Of those that aren't 100% blocked by the admins,  There are some standard Automod rules that block a good number of the remaining redirect domains.  
+
+
+
+
+ It specifically says "for this page may edit".  So that seems to be how it works.  
+
+The standard subreddit settings wiki-settings [look like this](http://i.imgur.com/h1SMc16.png), which says "Only mods, approved wiki contributors, or those on a page's edit list may edit", which is three separate classes.  If the second and third meant the same thing, I don't think they would both be mentioned.   
+
+
+
+
+ Yes, it's possible to give a wiki-page in your sureddit different permissions than you default permissions.    [See this image](http://i.imgur.com/LhlhuPk.png). 
+
+Change the permissions on your page.   Just give some specific mods the rights to "only approved wiki contributors for this page may edit", and don't add any.   Mods will still be able to edit it, and since there is no one else on the access list for that specific page, regular subreddit approved submitters won't be able to edit it.   
+
+
+
+
+ What if I want to used "Rule #6" for the list in the mod log, and drop a mod comment that says "I'm sorry, but we don't allow [insert domain name here] in /r/example_subreddit".    
+
+Rule #6 is meaningless to the user, and the later is too long for the mod log. 
+
+Also, sometimes mods don't want to tell the user it was removed at all.  As often we block domains that we view as always spam in all situations.   Since, by definition in this example, the  submitter is a spammer, we don't want to notify them that Automod had stopped them.   Sure, it's easy for people to figure it out if they know what to look for, but most spammers never actually bother to check.     So, if I don't want to communicate the information, I shouldn't be forced to communicate the information. 
+ 
+
+
+
+
+ You aren't the only one excited by that.    Some moderators I'm sure are now feeling *fully functional*.   
+
+
+
+
+ I was going to look that up.   But thank you, that made my job easier.   I only even thought of it after randoh12 mentioned it.   It's not a normal thing I use in Automod.    
+
+
+
+
+ I mod several subreddits with extensive Approved Submitter lists.   Some run in the multiple thousands.   I don't think there is a limit.  
+
+
+
+
+ I should mention that Automod does have the feature to block certain Youtube channels.   Similar to a domain block or a user Automod-ban.  I don't use that feature much, as most Youtube spammers I find use different channels all the time.   That's my experience anyway.   
+
+
+
+
+ I'm a mod of /r/History.  So, trust me when I say this. But 16th Century Spain had way too many Papists for 1950's Birmingham to be comfortable with.   Really doesn't matter which Birmingham you might be talking about either.    
+
+
+
+
+ You realize that 1950's Birmingham would have claimed they weren't 16th century Spain.   
+
+
+
+
+ Yeah, it was a simple ~100 year period when Whites only did business with White owned businesses in the post-Civil War South.   That wasn't a long time at all.   The market will sort everything out.   
+
+
+
+
+ That would be better directed to the mods of /r/AskReddit.   I don't see why not though.  But I don't use /r/AskReddit a lot either.   
+
+
+
+
+ In the future, please don't use bot-accounts in /r/Help or similar subreddits. 
+
+Thank you.  
+
+
+
+
+ I still have some down vote bots that follow me around from events from years ago.   Know this:  The bots votes look like the register, but they don't.  The admins have probably already shadow banned the bot.  The bot doesn't know that it's been caught and stopped.   
+
+I've discussed this topic with the admins, and they have a lot of counter measures in place when it comes to things like down vote bots.  
+
+Contacting The [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com) to let them know might be helpful for your peace of mind.  But as I already said, I'm sure they have already neutralized the idiot down voting you. 
+
+
+
+
+ There are other subreddits one could ask questions at too.   /r/AskReddit and /r/Self both come to mind.  
+
+
+
+
+ I removed it a few minutes ago.  See my other comment in this thread.  
+
+
+
+
+ It's been removed.  
+
+The greater context is important.   
+
+For example, the 1952 and 1953 events with the Iranian Coup and Counter Coup are very complex.   Prime Minister Mosaddegh and the Shah were both going at each other hard.   Stalin has only very recently passed away.   Soviet Troops had occupied Northern Iran during WWII and had only pulled out a few years previously.   Also, even good histories often leave out that Ayatollah Khomeini supported the Shah in his show down with Mosaddegh.    
+
+Same problems with the later information about Iraq.   
+
+These are not unimportant details.   The blogspam glosses over all that.  Dare I say the author of it didn't even know about any of these details.    It's a shit piece and it's removed.     
+
+
+
+
+ A better link would be [this one](http://www.dancarlin.com/product-category/hardcore-history/current-hardcore-history/).   
+
+
+
+
+ I'm sorry, but your submission has been removed. This subreddit is specifically for tech support help with Reddit.    Try asking your question in /r/Gaming or a similar subreddit.  
+
+
+
+
+ http://www.reddit.com/r/mod/about/log/?type=removemoderator mod=AutoModerator
+
+Almost caused a panic attack when I first saw it.  
+
+
+
+
+ You already told him to do that, Chtorrr.   It makes too much sense.  He wants to believe he's found a loophole.   He's going to get rich via this loophole, don't you know.   
+
+
+
+
+ You don't want to believe the people who are telling you, fine.  Get banned.  I won't lose any sleep over you at all.  
+
+Good bye.  
+
+
+
+
+ You are playing semitics games.   Sol Invictus and the former top mod of /r/Trees tried to play that game.   They were shoved off of reddit with extreme prejudice by the admins.    
+
+
+
+
+ any form of compensation
+
+Any form of compensation of any form of compensation. 
+
+If you don't like the rules, then don't be on Reddit.  
+
+
+
+
+ No.  
+
+
+
+
+ Several Northern Generals, including Winfield Scott, the man who tried to talk Robert E. Lee into leading the Union Army of the Potomac, were also from Virginia.   Scott didn't turn Traitor because he was actually a man of honor.   Can't say the same thing for Lee.    
+
+
+
+
+ The Constitution of the Confederacy (mostly a cut and paste job from the original US version) banned states from ever banning slavery in the future.  They wanted to limit states rights to even consider removing slavery from their new attempted government.     
+
+Yeah, they were so in favor of states rights that they have to limit states rights.  By which I mean states rights was never part of what the Confederacy was about until long after they lost their treasonous war.  
+
+
+
+
+ Normally it forces updates when you restart your browser too.  
+
+
+
+
+ Because were not free if we aren't allowed to bully people into suicide.    Obviously.   
+
+ 
+
+
+
+
+ Yup.   The Confederacy believed in States rights so much that their Constitution (mostly a cut and paste job from the original US version) banned states from ever banning slavery in the future.    Yeah, they were so in favor of states rights that they needed to limit states rights.   
+
+
+
+
+ I would love to see the admins shadow ban anyone who criticizes Ellen Pao.   Cause those people are totally stupid and if they vanished, the average IQ of the Reddit userbase would increase by at least 40 points.   
+
+
+
+
+ What I would like to see is the raising tide of Hate-Speech dealt with.   Holocaust Deniers, Neo Nazis, Homophobes, Ethnic and Religious Hate, etc.  Sites like Storm Front are actively trying to *colonize* (their word) Reddit with their bullshit.   This is something that the Admin-team should be addressing as well.  As it often leads to groups of people who make throw-away after throw-away accounts to harass people who believe simple facts like in the reality of the Holocaust.   
+
+
+
+
+ Yes, real users should notice when they are shadow banned.   Then they can message the admins and be told what they did wrong.   I know this works because I was shadow banned for a short time once.   I asked the admins, they told me what I did wrong and asked me to not repeat the mistake.   I made the promise and they unbanned me.  
+
+I've known other users who were shadow banned and then restored.   This is not hard.   It was all rather simply.  
+
+And Reddit is not the only  site that does shadow bans or some nature.   Some sites call them quiet bans.  Others call them shadow bans.  It's the norm for the internet. 
+ 
+
+
+
+
+ You need to message the mods of the subreddit it was removed from.  
+
+
+
+
+ It's harassment no matter who it's yelled at.   
+
+
+
+
+ There is [Karma Decay](http://karmadecay.com/) and [Google Reverse image search](https://support.google.com/websearch/answer/1325808) too. 
+
+Neither is 100%, but both can be helpful.  
+
+
+
+
+ Imgur.com has a close relationship with Reddit.   But it's still not Reddit.   Not going to remove this post, but people should try the normal trouble shooting things you do when you have trouble with a site.    
+
+* Restart your browser  /  try a different browser
+* Clear your cache
+* Disable any browser extensions/add-ons you are using.  
+
+That said, I just went to imgur.com and everything was working for me.   So maybe it's a network issue with some large ISP or something.  
+ 
+
+
+
+
+ You think mods do it for free.     Everyone knows that mods are highly paid individuals.   For example, /r/Food gets [handsome payoffs](http://s14.postimg.org/hkbso7481/cca350tonnes.jpg) from the propane and propane accessories industry.   
+
+
+
+
+ Magic Mushrooms induce the euphoria.   
+
+
+
+
+ So, no space aliens then.   And I was sure Bigfoot was from outer space.   Must be a time traveler instead.   
+
+
+
+
+ Wow.  You think they would just answer things with catch call application of *that's how magic works*.    
+
+
+
+
+ Just like Reddit moderators.     
+
+
+
+
+ As you have discovered, verifying your e-mail address is important.  But some subreddits will have account age and karma-requirements as well.   If you have a problem with a specific submission not going through, you need to contact the moderators of the subreddit you're having trouble in.   They're going to be the only people who can help you.  
+
+ 
+
+
+
+
+ I don't think /r/engineering has ever trended before.   That's cool.   Maybe we'll see some new subscribers from this.   New users should know we are rather strict in our approach to moderation.   
+
+
+
+
+ That would be interesting.  
+
+I have not talked to the other mods of /r/History, but I think we might be willing to voltmeter allowing other subreddits to import the use of our anti-racist/anti-nazi rules.   We have previously made some of the rules available in places like /r/Modtalk or /r/Defaultmods, but we have several more than what we have already shown.   
+
+Myself, but especially /u/Creesch and /u/Cordis_Melum, and others, have developed some very good rules that stop most racists, Nazis, stormfronters, homophobes, ethnic and religious haters, and other associated lunatics and crazies, from having free reign of /r/History's comment section.  
+
+So, if you need people willing to help you with stuff like that, please let us know.   
+
+ 
+
+
+
+
+ The moderators here can confirm.   The admins contacted us about this ahead of time.  
+
+[Initial announcement](http://www.reddit.com/r/food/comments/353e3r/rfood_is_proud_to_have_dan_churchill_australian/).  
+
+
+
+
+ Might be something weird with your account.  Message the [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com).    
+
+
+
+
+ I'm sorry, but your submission here has been removed. This subreddit is specifically for help with Reddit. As Phew1 already suggested, you should try asking your question your question in /r/askwomenadvice, /r/askwomen, /r/birthcontrol or a similar subreddit. 
+
+Thank you.  
+
+
+
+
+ I think it's that way to prevent people from doing this:   **^^This ^^text ^^is ^^super ^^superscript** without their really, really, really meaning to do it.    To prevent it being done just for pointless annoying reasons.    
+
+
+
+
+ [Interesting short little video](https://www.youtube.com/watch?v=piEayQ0T-qA). 
+
+
+
+
+ I'm sorry, but your submission here has been removed. This subreddit is specifically for help with Reddit.   Try asking your question your question in /r/AskDocs, /r/Psychology or /r/NeedAdvice instead.  
+
+Thank you.  
+
+
+
+
+ Message the mods of /r/interestingasfuck.   It's possible that your comment was eaten by the spam filter, or violated some rule they have setup via Automod for their subreddit.   Only the mods there can tell you why it was removed or approve it.   
+
+
+
+
+ Try the "retry thumb" option on your submission.   
+
+
+
+
+ I'm sorry, but your submission here has been removed.    This subreddit is specifically for help with Reddit.    Please try asking your question in /r/Music, /r/Self or /r/Assistance instead.
+
+Thank you.  
+
+
+
+
+ Well, say one thing for the Antebellum South.  The upper class was very well dressed.    In this case, they aren't wearing pants, and that t-shirt hasn't been washed in weeks.   
+
+
+
+
+ Most of the subreddits I mod have automod rules in place to remove hate speech.    It just makes the comment discussions a little better.   Not a lot better, but a little bit can go a long way sometimes.   
+
+
+
+
+ I'm sorry, but I have to remove this thread.  
+
+This is an issue between you and the admins.    They don't want to allow it,  then.... it's their web site.    
+
+
+
+
+ There is no  *beginning*  of a subreddit as such.   You will have to use search and just read old threads.    
+
+
+
+
+ Actually it does stop the down votes.   It doesn't let the down voter know that though.  But after a while it discounts their downvoter crusade into the great /dev/null device in the sky.    
+
+So, it's kind of a secret prevention program.   The down voter isn't supposed to catch on and stop.   They are just supposed to waste their time and effort forever or until they stop being jack ass.   Which ever comes first.  
+
+
+
+
+ You might want to message the mods of /r/photoshopbattles and tell them about it.   They can drop a mod-comment waring people, remove the comment, etc.   
+
+
+
+
+ How now brown cow?   
+
+
+
+
+ Man, I don't suppress known truth.  I suppress unknown truths.  For example, I keep Mathematicians from finding out that 2+2 actually equals 6.   
+
+
+
+
+ On Chrome, go to Settings | Advanced Setting | Password and forms | Manage Passwords | choose a password and click show. 
+
+
+
+
+ I'm sorry, but your submission has been remove.  This subreddit is for tech support help with Reddit.     Try /r/Gaming or /r/Games instead please. 
+
+Thank you.  
+
+
+
+
+  Enrico Fermi, Max Planck, and J. Robert Oppenheimer
+
+Fermi, yes.  He left Europe to get away from Mussolini's fascist government.  But Planck stayed in Germany for the entire war.   And Oppenheimer was an American, born and raised.   
+
+As to the German Rocket Scientists, when they were captured by the Allies at the end of the war, they were amazed at being asked all the questions about rockets by the Americans.  Finally asking their American handlers why would the Americans need German Rocket scientists, when it was American Robert Goddard's work they were building on.  They were amazed the the US military didn't really know who Goddard was or why he was important.    
+
+
+
+
+ Do not repeat phrases from the mod-guidebook to those are who aren't cleared for the information, please.  
+
+
+
+
+ It looks like a subreddit you are attempting to comment in does not allow news user accounts or those with little comment karma to comment in their subreddit.  It's probably done for spammer and troll prevention.  
+
+These are legitimate concerns for that mod team.  You should build some comment karma elsewhere before commenting there  Or alternatively you could try and message the mods of that mod team.   But I would bet that are going to tell you to build up some comment karma elsewhere first.   
+
+
+
+
+ We have the [CSS banner](http://i.imgur.com/dPC9pAF.png) at the top too.  And the [submission box text area](http://i.imgur.com/PDMkyeV.png) that explains what the subreddit is for too. 
+
+People straight up don't pay attention to those, nor to the sidebar.    And they don't look at the content already present before hand either.   
+
+People think "I need help with something" and then they can't think of a subreddit is should be submitted too, so they type in "help" as the name of the subreddit.   
+
+When the mods find these inappropriate submissions, we remove them.   Normally we give suggestions about where the submission would find a better home too.   Sometimes they are so crazy that we're even at a loss for where they should go.   Where were thinking "why would you even post  that on the internet?"
+
+If you see a submission that shouldn't be here, please report it or [message the mod-team](http://www.reddit.com/message/compose?to=%2Fr%2Fhelp).    We'll remove it then.  
+
+Thank you.  
+
+
+
+
+ Unsubscribe from it.   
+
+
+
+
+ Message the [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com).   There is something wrong with your account.   Your post (This post I am replying too) does not appear on your [user overview](http://www.reddit.com/user/leadguit).   You are not shadow banned.   So, there must be something wrong with your account.  
+
+
+
+
+ I've seen instances where it doesn't do that if you aren't a mod of the subreddit.     I'm not exactly sure what causes it in those cases.   
+
+
+
+
+ I'm thinking that the spam filter ate his comment for some reason.  If I'm right, the mods of /r/Minecraft are who he needs to talk too.   
+
+
+
+
+ Did you old browser settings cache your password?  If so, you should be able to get Firefox or Chrome to tell you want it thinks your Reddit password is.  Then you can use it.   
+
+If not, sorry, but since you didn't associate your account with an e-mail address, there is no other way to reset your password in a way where Reddit knows for sure that your account is you.   
+
+
+
+
+ Shekels for for when you need to buy ice cream.   
+
+Admins need to be offered [sterner stuff](http://s14.postimg.org/hkbso7481/cca350tonnes.jpg). 
+
+ 
+
+
+
+
+ For Brutus is an honorable man.   
+
+
+
+
+ While this person says they were reasonable
+
+That just proves that the admins brain washed them.   
+
+
+
+
+ I'll make sure that /u/krispykrackers gets at least 100 kilograms of fine Israeli Gold bars if she bans them all.        
+
+
+
+
+ That was a pretty good [short story](http://en.wikipedia.org/wiki/Killdozer!_%28short_story%29). 
+
+
+
+
+ Try [this link](http://www.reddit.com/r/androidthemes/search?q=site%3Agfycat.com sort=new restrict_sr=on t=all) or [this-other link](http://www.reddit.com/search?q=site%3Agfycat.com+reddit%3Aandroidthemes sort=new t=all).   They should produce the same results, but both are formed a little different.    
+
+
+
+
+ Glad I could help.   I use the hosts file to block a lot of advertisement-only domains.    
+
+
+
+
+ Hosts files are an an old way, from pre-DNS days, that computers did IP lookups.  
+
+I'm going to assume your running Windows on your machine.  The hosts file is probably located at:
+
+* %SystemRoot%\System32\drivers\etc\hosts
+
+Which is probably C:\Windows\System32\drivers\etc\hosts for you.  
+
+If there is an entry for reddit.com in that file, then your system is going to always assume is reddit.com is that IP address, no matter what DNS thinks.    Now a days, the host file is usually used to assign things to localhost so that your system doesn't try to visit them.  This can be used as a way to prevent a system from visiting potentially harmful sites.   They are also something that somebody can use to block users from visiting web sites for other reasons, because most regular users don't know about it's existence.   
+
+
+
+
+ Browser add-ons, software on the computer, does the localhost file blackhole reddit maybe?     Is it a a work-machine where your workplace computer techs may have blocked Reddit with the use of software that blocks it?    I know that some of my employers have blocked sites like Myspace and Facebook.  
+
+
+
+
+ Sounds like network problems from whoever is your internet provider.    Your phone would use your cell-phone providers network, which travels a different route to Reddit.  
+
+
+
+
+ It's allowed.   That said, it is sometimes considered to be against the spirit of [reddiquette](http://www.reddit.com/wiki/reddiquette).   Depends on the subreddit, and the opinions of the mods as to whether they allow it.   When in doubt, message the mods ahead of time. 
+ 
+
+
+
+
+ Because it's going to automatically submit something, you should clear that plan with The [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com) before implementing it.   That seems very close to spamming.     
+
+That said, there are people who know how to implement bots, such as /u/Deimorz, /u/multi-mod and /u/creesch who all know to make them work.   I'm not sure if any of them have written a how-to guide, but one of them may have.  
+
+
+
+
+ Those are some bitter nuts.   
+
+
+
+
+ It's been 9-months, so I am not sure what you can do now.   That said, if you think your account has been compromised, message the [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com).   I'm sure they will be happy to look into the issue.  
+
+
+
+
+ I'm sorry, but your submission has been removed.   This subreddit is for tech support help with Reddit.   I would suggest asking your question at /r/photoshop or /r/Images instead. 
+
+Thank you.  
+
+
+
+
+ Users can do that.   That's a moderator option.   You can message the mods of the subreddit and ask them to make the change for the thread though.   
+
+
+
+
+ The mods of the subreddit are the only people who can help you.   That said,  sometimes it takes a while for moderators to get back to people.   If you haven't heard back after 24-hours, just politely message them again.  
+
+ 
+
+
+
+
+ I'm sorry, but this post has been removed.   This subreddit is for help with Reddit.   I'm not really sure where one would ask about Lawn Mowers on Reddit.   /r/lawncare maybe?   
+
+Thank you.   
+
+
+
+
+ This post shows on your overview and it has not been removed.   If there are other submissions that are not showing up on your overview page, it would be because you deleted them.   Mod-removals don't make things disappear from your user overview.  
+
+But one last thing you should check is /u/me/hidden area.   See if you hid anything from yourself.  That shouldn't remove it from your user overview, but I'm trying to think of other things you can check.   
+ 
+
+
+
+
+ You mean your user overview?  
+
+/u/me should take you there.   Or just click your username.  
+
+
+
+
+ I don't think you can.   
+
+[How Reddit search works](http://www.reddit.com/wiki/search).  
+
+
+
+
+ Are you are looking for this link? --  /u/me/comments/ 
+
+
+
+
+ If you think you have a down voter that is doing it for nefarious purposes, then you should ask the [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com) to look into the situation.   That said, sometimes it's a regular user who is just being weird and dislikes everything for the moment.   
+
+
+
+
+ Reddit search doesn't search comments.  It never has.    
+
+
+
+
+ I'm sorry, but your submission here has been removed.   This subreddit is for tech support issues with Reddit.   Please try /r/TechSupport or /r/privacy instead. 
+
+Thank you.  
+
+
+
+
+ If it's not Zombie Stalin, he's too much of a sell-out to them.   And even Zombie Stalin would have people complaining about him being a sell-out for hoping on Corp Americans current Zombie band wagon.   I can see it now "Even Stalin whores himself to Madison Avenue's Corp-created fashion trends".  
+
+Where as I would worry more than my name might be on a little list in Zombie Stalin's pocket of people who have to go to make room for the Zombie Revolution.  
+
+
+
+
+ Or you could get a little karma, where the issue becomes moot.  It's not hard.   This is a change the admins implemented to stop spammers who were using it to get around other spam prevention tools.  
+
+
+
+
+ [See here](http://www.reddit.com/r/help/comments/2yob6r/creating_a_subreddit/).
+
+In short, somewhat recent changes to subreddit creation requirements, you need karma to create subreddits.   
+
+
+
+
+ On your [user preferences](https://www.reddit.com/prefs/), do you have "message options" | "show message conversations in the inbox" enabled?  Make sure it's enabled.   Likewise, check the "mark messages as read when I open my inbox" option as well.  
+
+If not that, then check [this old thread](http://www.reddit.com/r/bugs/comments/2kn156/constant_orangered_mocking_you_when_you_dont_have/) out and see if maybe that is the issue you are experiencing instead.  
+
+ 
+
+
+
+
+ This isn't the kind of thing that only happened once or twice 40 years ago.   These are all relatively recent. 
+
+* This happened after a surfing competition: http://i.imgur.com/fz9ZLFH.jpg
+* This happened after a football team lost: http://i.imgur.com/JcvSEUt.jpg
+* This happened after a baseball team won: http://i.imgur.com/ThQDczy.jpg
+* This happened after a hockey team lost: http://i.imgur.com/4oD2hNY.jpg
+* This happened after a pumpkin festival: http://i.imgur.com/c7ArKYi.jpg
+* This happened because a coach was fired for protecting a child rapist: http://i.imgur.com/1iqPXhl.jpg
+* This happened after a basketball team won: http://i.imgur.com/ElXyQtD.jpg
+* This happened after a baseball team won: http://i.imgur.com/g5YWkZs.jpg
+* This happened after a football team won: http://i.imgur.com/TJ2j2GH.jpg
+* This happened because of a power outage: http://i.imgur.com/KYfAF2x.jpg
+* This happened because of a party: https://www.youtube.com/watch?v=UFy1JL1pQwQ
+* This happened after a basketball team lost: https://www.youtube.com/watch?v=S4_3pGbNGdE
+* This happened after a football team won: http://i.imgur.com/URCMFBs.jpg
+* This happened after a basketball team lost: https://www.youtube.com/watch?v=qpCO1oTdqqc
+
+Race has nothing to do with it, except apparently when it involves people with dark skin.   
+
+
+
+
+ Maybe he just wasn't seeing it earlier.   
+
+
+
+
+ You sure?   He had config earlier.   He has since gotten the access permissions.   I assume he has access to the stylesheet menu now.   
+
+
+
+
+ There are stores in my area that have signs that say they card everyone.  It's because the stores want to make it is simple of the teenagers they hire to figure out who they should card.   Just tell them "Card everybody, no matter what".     
+
+It's one-size-fits-all management because they don't want to face possible fines or even just hassle from law enforcement.   
+
+
+
+
+ The page must be changing dynamically based on where my request is coming from.  I don't have the ability to watch it on that page.    I only get the opportunity to purchase it on iTunes for $12.99.   Pages that do that stink.   
+
+
+
+
+ No, it doesn't.   It says "Watch Clips From the Film".   Those are just snippets from it.  The documentary only aired two days ago.   Not months back.   
+
+
+
+
+ None of those are to the documentary though.   Trailer and an Info page and a dead link.   The documentary originally aired only two days ago.  
+
+
+
+
+ That seems to indicate the issue is no longer manifesting then.  
+
+
+
+
+ Could you provide a link to the original please?  
+
+Thank you. 
+
+ 
+
+
+
+
+ When I reply now does the mail icon light up?   
+
+
+
+
+ Messages from Shadow banned accounts only show up to moderators in mod mail.   Mods will also see any comments they might make in threads in their own subreddits.   But users won't see the shadow banned accounts PM's.   And users will only see comments from the shadow banned if a mod has approved said comment.  
+
+
+
+
+ No problem.  
+
+
+
+
+ On your [user preferences](https://www.reddit.com/prefs/), do you have "message options" | "show message conversations in the inbox" enabled?  Make sure it's enabled. 
+
+If not that, then check [this old thread](http://www.reddit.com/r/bugs/comments/2kn156/constant_orangered_mocking_you_when_you_dont_have/) out and see if maybe that is the issue you are experiencing instead.  
+
+If not, let us know and we'll see if we can think of another possible reason.  
+
+
+
+
+ I'm sorry, but your submission has been removed.  This subreddit is for tech support with Reddit.   I would suggest asking your question either at /r/Google or /r/techsupport instead. 
+
+Thank you.  
+
+
+
+
+ You are sorting the comments by New.   Change it to either Best or Top. 
+
+Also, check your [preferences](https://www.reddit.com/prefs/) and check what you have "comment options" | "sort comments by" set too.   Again, probably best to choose either Top or Best depending on what you like.   I prefer Top, but the Admins recommend Best for most people.   
+
+
+
+
+ Why is everyone always horrified of Clippy?   The one I truly fear is [Microsoft Bob](http://en.wikipedia.org/wiki/Microsoft_Bob).   Bob was the most diabolical software creation in all history.   
+
+
+
+
+ Any update on when this issue might be fixed?   
+
+
+
+
+ It's possible somebody off-reddit shared the link.   On another site, maybe Facebook, Twitter, etc.   Which would then not be something Reddit search would know about.  
+
+
+
+
+ [Look here](http://i.imgur.com/gY33ELB.png).
+
+Wait, I think I see the problem.  You don't have full permissions on [that subreddit](http://www.reddit.com/r/spongebobfnaf/about/moderators).   If I recall correctly, you need either the access or wiki rights.  I don't remember which. 
+
+As your top-mod for those rights.    
+
+
+
+
+ I know people on both sides of this one.  I am still confused as to what actually happened.  I know enough about Reddit drama to know that not all the information is out here and generally known.   There is definitely something else at play here that is not known outside of their politics_mod subreddit.  
+
+I know Luster and TheRedditPope and mod with them at places.  They are good mods and good people.  I also know noeatnosleep and mod with him as well.   He is also a fine moderator and a good person. 
+
+I don't like seeing all the people condemning Luster and Pope when I am sure there is more to this drama.   I really have to think that this is a giant misunderstanding where nobody wanted to back down for some reason or other.   Hopefully everyone makes up soon and they all get back to moderating their subreddit.    
+
+
+
+
+ That whole job of adding mods there was you and me and a few stray comments from a few others.    But we found a good collection of guys who now do most of the daily work.  I mod /r/Apple mostly from mod mail now and let the newbies (who aren't all that new anymore) run the day to day things like Stricky threads and the like.   
+
+
+
+
+ It's was a big surprised considering that 1964 Republican Party Platform, which was not written by Nixon's people.   It was written by Goldwater's guys and some of Reagan's future team, who were then working for the Senator from Arizona.  
+
+
+
+
+ Lets just remember, more than half the Senate (then) Democrats who voted against the 1964 Civil Rights Bill, by 1976 were registered Republicans.   The Republican Party welcomed the likes of Strom Thurmond and a bunch of the others with open arms.   To the point that you guys were celebrating their careers and saying Thurmond should have been elected President in 1948....  because he was against the anti-Lynching law.  He was out and out 100% openly pro-murder and the Republicans welcomed him into their party. 
+
+Also, the 1964 Republican Nominee for President (Barry Goldwater) and the 1964 Republican Party Platform was anti-Civil Rights.  
+
+Anyone who was welcomed into the Republican Party, who retired from politics as a Republican, should be counted as a Republican in those statistics.  You are just using Statistics to lie to people about Reality.  
+
+The Democrats threw those jack asses out of the Democratic Party.  The Republicans welcomed them and celebrated them.   
+
+
+
+
+ If somebody mentions more than three usernames in a comment, nobody get's a message about the username mention.  That's a measure put in place by the admins to prevent their user as a spam tool.  
+
+
+
+
+ If you think you have a down voter that is doing it for nefarious purposes, then you should ask the [Reddit admins](http://www.reddit.com/message/compose?to=%2Fr%2Freddit.com) to look into the situation.   That said, sometimes it's a regular user who is just being weird and dislikes everything for the moment.   
+
+
+
+
+ Karma is also rather easy to get.   All you need to do is submit a few things on occasion.     This morning I submitted about 10-15 news stories about various topics.    I read the news each morning, and when I found things I thought were a little interesting, I submitted them to /r/News, /r/Politics, /r/Worldnews and a few other subreddits.   
+
+If news isn't your think,   /r/Funny, /r/Pics, /r/AdviceAnimals and the SFW-porn subreddits exist for most images, among several other subreddits.  
+
+Offbeat weird internet things can submitted to /r/WTF, /r/nottheonion, /r/Offbeat, /r/NewsoftheStupid and /r/NewsoftheWeird.  
+
+Those are just  three categories out of the whole of Reddit.   There are 49+2 [default subreddits](http://www.redditblog.com/2014/05/whats-that-lassie-old-defaults-fell.html) out there, plus a lot of sizable non-default subreddits.  The [100-largest subreddits](http://redditmetrics.com/top) are all 300K+ users now.  And there currently are 362 subreddits with more than 100K subscribers.  
+
+There is something out there for everyone.   People just need to check it out and submit to those subreddit-communities that interest them.   If they do that, karma will come to them.   
+
+ 
+
+
+
+
+ Want to mention [this thread](http://www.reddit.com/r/help/comments/2yob6r/creating_a_subreddit/), as it addresses this issue a little more in-depth.  
+
+
+
+
+ [I miss Warren Zevon](https://www.youtube.com/watch?v=h0FaVI9ae24).   
+
+
+
+
+ From [here](http://www.reddit.com/r/help/wiki/faq#wiki_why_am_i_being_told_.22you.27re_doing_that_too_much....22) in the /r/Help FAQ:
+
+Karma is stored (internally) on a per-subreddit basis; if you are new to a subreddit, you'll have to be patient. The delay will decrease as your karma in that subreddit increases and it only takes a fairly small amount of positive karma before the timer will turn off. This applies to both posts and comments. You can also get the timer turned back on if you make a lot of negatively voted posts/comments.
+
+So, yes.... it is in there.   
+
+
+
+
+ Never compare yourself to Jesus.   People who like Jesus get pissed about things like that, and people who don't like Jesus don't like Jesus.     
+
+
+
+
+ In the future, please [message the mods](http://www.reddit.com/message/compose?to=%2Fr%2Fapple) about things like this.  We will remove them.  
+
+It's removed now.  
+
+Thank you.  
+
+
+
+
+ If that's happening, I would suspect that you have some browser add-ons that are doing something you don't expect them to do. 
+
+For the moment, I would suggest you open parent permalinks via new-tabs rather than just clicking them. 
+
+Not sure what else is going on, sorry.  
+
+
+
+
+ Sorry, but no.   Only the submitter can edit it. 
+
+That said, many subreddits create a shared-mod account that they often use for posting mod-announcements.   Anyone who knows the password can log into it and use it, including to edit the older mod-announcements.   In most cases, these kind of shared accounts are used specifically for this ability.   
+
+
+
+
+ in the Subreddit Settings, look for Content Options.  [See here](http://imgur.com/UMNMDjA).  
+
+
+
+
+ In case anyone needs a visual.   
+
+* http://i.imgur.com/xuw1Es4.png 
+
+
+
+
+ Just wrote this comment for another thread.   Applicable to this thread too.
+
+Read the [Reddit 101 Guide](http://www.reddit.com/wiki/reddit_101).   The various FAQ guides can be helpful too:
+
+* [Reddit FAQ](http://www.reddit.com/wiki/faq/)
+* [/r/Help FAQ](http://www.reddit.com/r/help/wiki/FAQ)
+* [reddiquette](http://www.reddit.com/wiki/reddiquette) 
+* [Reddit Rules](http://www.reddit.com/rules/)
+
+
+
+ 
+
+
+
+
+ You are welcome to build a time machine and warn Spez and Kn0thing back in 2005.  
+
+
+
+
+ Just want to point out that this is addressed in the [/r/Help FAQ](http://www.reddit.com/r/help/wiki/faq). 
+
+
+
+
+ It's been that way for 9+ years.   For all that time there have been some people who complain about it.  It's left in place because there isn't a better solution for the issue in many cases.   A bad solution that works 90% of the time is better than no-solution that doesn't stop any spam.   
+
+
+
+
+ If the parent comment to the one you are clicking is on the page, it just jumps to the #tag location on the page.   If it's not on the current page, then it needs to load the URL to the permalink for it.   
+
+
+
+
+ Admin /u/xiongchiamiov commented on this issue on this thread:
+
+* http://www.reddit.com/r/help/comments/344mua/u_comments_sort_by_top_24hrsweekmonthyear_doesnt/
+
+They are working on a fix for it.  Not sure where that is at in he pipe-line though.    But the admins are aware of it.   
+
+
+
+
+ The rate limit has existed on Reddit since it was founded.   It is a simple way to prevent spam.   
+
+
+
+
+ One of two issues is at play. 
+
+* The mods of that subreddit need to approve it.   You would need to write to them to find out if they are willing to approve it.   
+* You may be shadow banned on your (other, I assume) account.  In that case, the admins are the only people who can help you.  The number one reason get shadow banned is for spamming.   You might want to read the following rules of Reddit:
+ * [Reddit Rules](http://www.reddit.com/rules/)
+ * [Spam Rules](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F)
+ * [Self Promotion Rules](http://www.reddit.com/wiki/selfpromotion)
+ * [The reddiquette](http://www.reddit.com/wiki/reddiquette)
+ 
+
+
+
+
+ You are correct.   RES add-ons are little java-scripts that execute, while the Reddit tools are URL links.   
+
+
+
+
+ Read the [Reddit 101 Guide](http://www.reddit.com/wiki/reddit_101).   The various FAQ guides can be helpful too:
+
+* [Reddit FAQ](http://www.reddit.com/wiki/faq/)
+* [/r/Help FAQ](http://www.reddit.com/r/help/wiki/FAQ)
+* [reddiquette](http://www.reddit.com/wiki/reddiquette) 
+* [Reddit Rules](http://www.reddit.com/rules/)
+
+
+
+ 
+
+
+
+
+ If the government wanted to make sure nothing from /r/conspiracy made the front page of Reddit.com, I think calling up the admins and saying "We will give you $20 million to make sure /r/conspiracy never makes the front page".    If you are going to live in a conspiracy-world, that's so much easier than anything else.   
+
+And if I was an admin, I would take that deal because nothing of value would be lost.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Richard Nixon Died Today](https://www.youtube.com/watch?v=c48RJGu6fGw) 
+
+
+
+
+ I also like to eat steak with a salad folk.    
+
+
+
+
+ What about me?   Can't I get at least two minutes of hate anymore?   I don't get [no respect](https://www.youtube.com/watch?v=ZCVR_ajL_Eo).   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nothing beats Mossad's dental plan though.    They even cover cab rides to and from appointments.   
+
+
+
+
+ [No respect](https://www.youtube.com/watch?v=ZCVR_ajL_Eo)! 
+
+
+
+
+ Come on, everyone knows you only got to be a moderator via magic powers.   You hypnotized people into making you a moderator.    
+
+Just like me.  
+ 
+
+
+
+
+ The guy from 60 Minutes I miss the most is Ed Bradley.   He was great.  
+
+
+
+
+ With a side of butt hurt.  
+
+
+
+
+ I'm /u/Bechus, and AL is /u/ProbablyHittingOnYou.    
+
+
+
+
+ Team..... Can't they just use the proper name: Mossad Golem Project Ice Cream Foundation.     
+
+
+
+
+ That guy is such a big old evil agent of Mossad.    I heard he ate a live baby once.   
+
+
+
+
+ Dude, I'm just with Mossad.   To find out if Rito is an arm of the NSA you'll need to check with /u/Agentlame.   CIA can be contacted via /u/Karmanaut.    /u/Bipolarbear0 is the representative of the Walmart Agency.   
+
+
+
+
+ I'm sorry, but shilling for a gaming company only gets you a T-shirt.    The hats are only for employees of intelligence services.    And our space lizard overlords.   
+
+
+
+
+ For the record, I was [cast as Tyrion Lannister](http://np.reddit.com/r/SubredditDrama/comments/24w9xh/nsapril_revolution_leader_uhonestduanes_shadowban/chbahp0?context=3) and I'm not giving that part up.    They can be Cersei, but she isn't really a member of House Lannister anymore, since she married Robert.  They're the weird people who sleep with their siblings.  
+ 
+
+
+
+
+ Who would want to control such a place?   I have better things to do with my time.   Like root out spam infestations.   
+
+
+
+
+ Let's get these things straight.   I work for Mossad.   /u/Agentlame is an NSA wunderkind.    
+
+As if either of us would stoop to work for the crappy CIA.   Do we look like /u/Karmanaut?  
+
+
+
+
+ All down votes for me are currently counting as up votes.  Thanks the counter measures built into Reddit.   So, thank you for your unwitting support.  
+
+
+
+
+ Oh, I am sure the admins are on it.   As it is right now now...... all votes for me, regardless of their being up or down votes, currently count as up votes.  The more they down vote me, the more comment-karma I earn.  
+
+It's kind of funny to watch.   
+
+
+
+
+ We asked him to remove his Bird Mask.  After repeated requests we discovered the horrible truth: It's not a mask.   
+
+
+
+
+ But, you're an evil /r/History moderator.  You would think that.    Oy vey.  
+
+
+
+
+ I love /u/Agentlame too.   That guy is great.   He makes the best brownies for the /r/Food mod team pot luck breakfasts.   
+
+
+
+
+ This is a useless discussion to have in that subreddit.   These are people who think everything is slavery and rape except for actual slavery and rape.   Which they are sure aren't all that bad really.  
+
+Which means logical communication with them is inherently impossible.   
+
+
+
+
+ That is a good idea.   I will look into maintaining a list. 
+
+
+
+
+ I've added it to several subreddits I mod.  I was an early adopter of it.  It's a very decent tool.  
+
+
+
+
+ Slaves do not get paid hundreds of thousands of dollars each year.   That's why Universal Health care is not slavery.     Slaves are not highly paid.    
+
+
+
+
+ Probably just burning sulfur.  Nothing to worry about.  
+
+
+
+
+ Thank you.  Added those to the list.   
+
+
+
+
+ In /r/Cancer we see a lot of  phony "I'm sick, I need money" spam submissions.  To the point that we were forced to ban fund raising entirely.   99% of them are really spammers or scammers.     
+
+
+
+
+ The subreddits I mod do a lot of that.     It's a good way to limit the impact of the spammers.   But they still need to be reported to /r/spam.    
+
+
+
+
+ When you have a young subreddit, you have to submit a lot of content yourself.    Also mention is **when appropriate** in comments in other subreddits.    
+
+* Advertise it via places like /r/newsubreddits and via a nicely worded one-time self-posts in related subreddits.   One-time means one-time.   If you do more than that, the mods of those subreddits may take offense and the users may start to think you are just being a jerk/spammer.   
+* You can also politely ask other mod-teams to list you on their sidebar.  But sometimes they will say no.   Be gracious when they decline your request.  If they think your a jerk, then they may block you entirely. 
+* Ask some users who you see submitting similar content elsewhere to also submit to your subreddit.   If you like them a lot, maybe ask them to be a mod.  
+
+And continue to submit content to it. This is the most important thing.   The more stuff you submit, the more people may take notice of it.   If there is no new content, then even if somebody discovers it months later, they won't come back again.    
+
+
+
+
+ Let's cut this on to the chase.
+
+Question: Does believing the earth is 6000 years old make you "an idiot"?     
+
+Answer:  Yes, it does.   
+
+
+
+
+ You know Hitler and Elvis share a second floor walk up in Cleveland.  But they had to evict Jim Morrison for not paying his share of the rent.   
+
+
+
+
+ So far reddit moderators are still going undetected by society-at-large.    The plan is working.    
+
+
+
+
+ For our purposes it is the same picture.   Removed! 
+
+
+
+
+ Yes, it is.  This repeat submission has been removed.  
+
+
+
+
+ The Duggar family, even without all the weird religion and stuff, is still just weird.  To be honest, revelations like this about a family of 19 kids.... not a huge surprise.   These are very weird people.  
+
+Throw in the very, very Mormon beliefs, the TV show, the extreme right wing politics, and it all was bound to spin out of control into something very bad.     I don't know if it could have been prevented with all that crazy spinning all around.   
+
+
+
+
+ Are you the Warl.....  Hummm.... might kill me like a Warlizard.  Never mind.   
+
+
+
+
+ I'm sorry, but this submission has been removed.  This is a repeat submission of this top-200 post:
+
+* http://www.reddit.com/r/gentlemanboners/comments/34pl73
+
+Please see rule VI on the sidebar: No reposts from the past 30 days or of the top 200 all-time.
+
+Thank you. 
+ 
+
+
+
+
+ I am pretty sure I threw cannon balls.  
+
+
+
+
+ I went threw counting the zero-day-old accounts.  I am sure I got them.  
+
+
+
+
+ Bans have been handed out to the god-damned dirty rotten spammer ++++.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

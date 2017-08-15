@@ -1,0 +1,94 @@
+ Yea from all the comments i figured SMS and email are much better, will definitely use them :) 
+
+
+
+
+ you can do video streaming with the Skype shield in the 1Sheeld app.
+
+http://1sheeld.com/shields/skype-shield/ 
+
+
+
+
+ Haha I don't have a baby i just built the system. 
+
+
+
+
+ I just used it for the sake of using Twitter you know, you're right notifications and email would wor better. 
+
+
+
+
+  Twitter is free, while most SMS services are at least nominally pay.
+ 
+
+Yea you're right, I could use the notification, e-mail or SMS. They are all included in the 1Sheeld app. 
+
+
+
+
+ Actually I'm using the phone for that, I use the phone as a gateway to Twitter through the Twitter shield in 1Sheeld. 
+
+
+
+
+ Thanks! You can find all the details in the instructable :) 
+
+
+
+
+
+
+
+
+
+ Yea the point is to leave a cheap smart phone inside the car, and this phone acts as a GPS, Accelerometer and GSM shield so you can talk to it and receive messages as well. 
+
+
+
+
+ This one is the easiest, you use 1Sheeld that connects to an old phone, the Arduino is connected to the master fuse so you can send it a message to stop remotely.
+With the GPS and accelerometer in the phone, it sends you a text message with the location of the car.
+http://www.instructables.com/id/Tracking-and-Controlling-your-car-remotely-using-A/ 
+
+
+
+
+ Where is the US link? 
+
+
+
+
+ Nice! So what do you think of this tutorial videos: https://www.youtube.com/watch?v=7nf6lpsOrkI 
+
+
+
+
+ Cool thanks for the advice! We'll get a new explainer video done 
+
+
+
+
+ Yea it's for $55 but it has 36 shields and gets me access to stuff like voice recognition and text to speech in an easy way, check this one: https://www.youtube.com/watch?v=P35hSIyYltM 
+
+
+
+
+ Well you are not writing the function itself as it's included n the library, and the good thing here is you don't get any tokens since you login from your smart phone. 
+
+
+
+
+ Yea the beauty about it is that you access 36 shields on the phone itself, including voice recognition, text to speech, facebook, phone calls, video calls ... etc. 
+
+
+
+
+ Yea the meaning here is this one line: 
+
+Twitter.tweet("Plant is thirsty!"); 
+
+
+
+

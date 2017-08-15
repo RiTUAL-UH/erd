@@ -1,0 +1,720 @@
+
+
+
+
+
+ I've been working on a new subreddit using Naut 3.2 (I'm a Naut newb), and testing how things look/work.  I'm stuck confirming that certain sprites used for types of posts are working properly:
+
+1. **self-post** (grey speech icon [OK])
+1. **link-post** (globe icon [*not* OK], seeing reddit snoo icon instead])
+1. **mod-post** (green icon [*not* OK], seeing grey speech icon instead])
+1. **nsfw-post** (pink eyeball icon [OK])
+
+Any insight into what I am doing wrong is greatly appreciated! I'm assuming that I haven't found the right sprite-usage FAQ or something.  The subreddit I am testing in is:
+
+http://www.reddit.com/r/opentrackerproject/
+
+Its locked, but there are some test posts visible. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ TEST POST 2 REPLY 2 
+
+
+
+
+ TEST POST 2 REPLY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *I hope no one downvotes.  Discussions like this are always interesting - when you get to see different perspectives.*
+
+I've enjoyed most of the costumes so far in the MCU.  More so than what we have seen in Marvel properties being produced by other studios. 
+
+
+
+
+ and they say chivalry is dead. 
+
+
+
+
+ In the youtube comments, someone russian commented that the child was alive.  but I didnt see anything with a more specific status. 
+
+
+
+
+ I'm not sure.  It was/is located in the main lobby of the building, so its possible. 
+
+
+
+
+ I concur.  I really liked the aesthetic of the black mask - but it seem to borrow a lot from the mask that Iron Fist wears. 
+
+
+
+
+  Its currently at the Directors Guild of America, where Netflix was hosting an event.
+
+ 
+
+
+
+
+ Its currently at the Directors Guild of America, where Netflix was hosting an event. 
+
+
+
+
+
+
+
+
+
+ If the policy is "NO PETS", then there is probably an agreed upon penalty if you are caught with one. 
+
+
+
+
+  What happens with sling when you travel ?
+
+SlingTV is a streaming video service.  If you have an internet connection and a compatible device - you can access SlingTV.
+
+ can u use it with your cell phone and does it eat up your data?
+
+Yes, SlingTV uses your cellular data - just like every other internet video playback service. 
+
+
+
+
+ It is.  And Taco Bell is looking to soon be *selling* alcohol as well. 
+
+
+
+
+ You will see references if you pay attention, but there are no direct mentions.  Its especially interesting watching from the Daredevil side, as they don't name-drop anything.  IMO, its a good thing. 
+
+
+
+
+ Skrulls are tied to the FF4. 
+
+
+
+
+ faaaaake!  redditors can't get dates.
+
+^^/s 
+
+
+
+
+ My money is that its a glitch in Plex, and not you.  I'll bet the subtitles were straightened out during a library update. 
+
+
+
+
+ Interesting.  I wonder if a forced rescan of your library would sort it all out.
+
+    "Plex Media Scanner.exe" --scan --refresh 
+
+
+
+
+ With Filebot, use the "-get-subtitles" switch with the "-lang" switch. Also use "-type srt" if you are using SubRip subtitles. Filebot will use the medianame you search against, and append ".lang.srt" to the end of the subtitle file it downloads.  Here are the basics for the command-line:
+
+    filebot.exe -get-subtitles "medianame" --lang eng --output srt 
+
+
+
+
+ ...it was a quote from Chappelle's Show. 
+
+
+
+
+ And you know what the most dope thing about "skeet" is? White people don't know what it means yet. When they figure it out, they're going to be like, "My God, what have we done?" 
+
+
+
+
+ "seizure" is interchangeable with involuntary convulsions or spasming.  under these circumstances, a form of a seizure is exactly what is happening. 
+
+
+
+
+ More like casualties of jrjr, amirite? 
+
+
+
+
+ Nor for me.  No reportable issues over the last 24 hours. 
+
+
+
+
+ So weird, as I am seeing the opposite on other clients (instead of seeing the 3-letter sub language, its only seeing a 2-letter sub language).  I can't imagine wtf is going on, but its hella annoying.
+
+AFAIK, the SubRip format (.srt) uses 3-letter language codes.  Its unofficial, but a generally observed practice.  When I download subs (with Filebot for example), the subs are named with a 3-letter language code. 
+
+
+
+
+ /r/shitImissed 
+
+
+
+
+ I couldnt say.  I've always used 3-letter language designations.  Which client are you using?  I've had 2/3 letter issues with certain Plex clients before. 
+
+
+
+
+ I thought that subtitles use the ISO 3-letter standard.  .en = .eng 
+
+
+
+
+ This is how most scrapers handle specials; in "Season[ ?]00". 
+
+
+
+
+ This reminds me of a Die Hard movie plot. 
+
+
+
+
+ The answer to your question is *selfishness*.  
+
+
+
+
+ exactly. this [frequently] kills the relationship.   
+
+
+
+
+ If *I* could, *I* would. 
+
+
+
+
+ Awesome pic!  How was it coming back down in the twilight? 
+
+
+
+
+ Change your port. 
+
+
+
+
+ wow.  Note to self: Don't bring a rifle to a missile fight. 
+
+
+
+
+  which **may** not have happened  
+
+
+
+
+ idontbelieveyou.bumpersticker 
+
+
+
+
+ El perro, el perro, es mi corazn! 
+
+
+
+
+ Because not all Plex clients have playlist options. 
+
+
+
+
+ Not all Plex clients have playlists. 
+
+
+
+
+ it was a girl 
+
+
+
+
+ If you want it to be. 
+
+
+
+
+ For quality sake, I would not recommend uploading to imager without being logged in.  Your image will be subject to downsampling. 
+
+
+
+
+ For anyone that is curious, that's the Living Tribunal behind She-Hulk. 
+
+
+
+
+ [I prefer the P-Diddy of India](https://www.youtube.com/watch?v=vTIIMJ9tUc8) 
+
+
+
+
+ I agree.  I think its in part by her not stretching her lips up above her gum line.  Plus, softer colored lipstick that isnt so contrasting against her fair skin.
+
+Definately an improvement.  I hope this is current. 
+
+
+
+
+ That the radar gun was capable of accurately measuring his car at that speed.  Some people think that a radar gun is inaccurate over certain speeds and/or there is something special about *their car at high speeds* that will cause inaccuracies. 
+
+
+
+
+ this informs me of very little useful information. 
+
+
+
+
+ The speed.  Its much much safer to perform a speed test of this magnitude on a professional track of some sort:  very long straight, with higher quality grading (flatness). 
+
+
+
+
+ As soon as I saw it, I got some heavy 80's flashbacks.
+
+* Still acid after all these years... * 
+
+
+
+
+ porque no los dos? 
+
+
+
+
+ Yea, I get that.  But its a tire that is performing the uppercut here.  Sagat's move is "Taigaa Appaakatto".  Japanese for tire is "taiya". 
+
+
+
+
+ Yea, I cant deny that may have been a part of the same for me with too much expectation buildup.  But then ago, there is always substance lost when you throw in multiple good/bad guys without significant character development.  Its the achilles heal of these kinds of movies. 
+
+
+
+
+
+
+
+
+
+ WOOSH 
+
+
+
+
+ Thats very interesting if the bug turns out to be Florida-specific.  Maybe a word should go out to all Florida subscribers. 
+
+
+
+
+ interesting.  which state are being billed from? 
+
+
+
+
+ As per the youtube description, this is a part of the *Directors Cut* commentary track. 
+
+
+
+
+ I updated my post with additional references to explain.  'Taiya Appaakatto' is Japanese for 'Tire Uppercut'.  Its a play on words of Sagat's "Taigaa Appaakatto" (Tiger Uppercut). 
+
+
+
+
+ No.  This is a play on Sagat's "Taigaa Appaakatto" (Tiger Uppercut).  
+"Taiya" is how the Japanese say "tire".  
+
+----
+references:
+
+1. http://streetfighter.wikia.com/wiki/Tiger_Uppercut
+1. https://www.google.com/search? q=how+to+say+tire+in+japanese 
+
+
+
+
+ I'm guessing a bug bite spooked it? 
+
+
+
+
+ Someone needs to update IMDb, because it still says she is. 
+
+
+
+
+ I totally agree.  I was disappointed by AoU, but AoS again failed to disappoint. 
+
+
+
+
+ https://www.youtube.com/watch?v=tj7TV7QAmi0 
+
+
+
+
+ IIRC, *Lets Get Retarded* was the original version that didnt play well, and they later reworked it as *Lets Get It Started* for pop success.  If I'm correct, *Lets Get It Started* is a remix. 
+
+
+
+
+ I think you all mean 'Taiya Appaakatto'
+
+----
+references:
+
+1. http://streetfighter.wikia.com/wiki/Tiger_Uppercut
+1. https://www.google.com/search? q=how+to+say+tire+in+japanese 
+
+
+
+
+ This is an interesting breakdown.  These are certainly must-see movies if appreciate genre-defining chase sequences. 
+
+
+
+
+ or maybe it was a genuine glitch, and you pointed out a glaring miscalculation to them that they were happy to correct for you. 
+
+
+
+
+ state the amounts or post a screenshot here. 
+
+
+
+
+ I'm talking in terms of your typical eggs, pancakes, french toast, etc., but my focus is *buttermilk pancakes.*  I've hit lots of places, but nothing that I consider particularly stand-out here in LA.  Suggestions of your favs would be hugely appreciated! 
+
+
+
+
+ Clearly any jagoff can create a subreddit.  But that wont just make it a thing.  I hope for the latter.
+
+Good for you for creating it.  You must be so proud of yourself. 
+
+
+
+
+ Just to expand on your phallus: Cialis 
+
+
+
+
+ I wonder if Starlin stalked and planned to kill the writer of that dreck.  
+
+
+
+
+
+
+
+
+
+ You had *one job*, Dr. ____! 
+
+
+
+
+ Come to the dark side; we have cookies! 
+
+
+
+
+ Is Thor[dis] really worthy if Mjlnir can only be lifted with kegels?  
+
+
+
+
+ I hope /r/princesscrowns becomes a thing. 
+
+
+
+
+ Its a necessity because the USB is "locked".  The only way to unlock it is to connect it to the computer system at that location, in that bunker.
+
+edit: they fully knew the risk of detection involved. 
+
+
+
+
+ Please follow the rules when making requests.  Thanks! 
+
+
+
+
+ "involved in" does not mean "cause".  While being involved in a crash does not imply negligence, it can infer that the driverless cars were contributing factors because they lack the spatial awareness and adaptivity of a human that could have avoided a dangerous situation. 
+
+
+
+
+ https://www.google.com/maps/@34.038443,-118.230518,3a,75y,106.15h,87.39t/data=!3m4!1e1!3m2!1spEyqAL4stNAXXxI3nVAvwQ!2e0!6m1!1e1?hl=en 
+
+
+
+
+ I love Marvel, but a lot of things going on right now are simply re-hashes of old shit.  They do a great job of updating and restyling, but its still stuff we have seen before (albeit 20-30 years ago). 
+
+
+
+
+ unfortunately. 
+
+
+
+
+ I've hiked similar trails where you are essentially skirting along a narrow footpath with a drop-off.  There is no way I would do that on something that could possibly tip over.  And hell - when its really windy, I would make yourself lower or even crawl until I was beyond that danger.
+
+People who do otherwise have no regard for their personal safety and obligations in life, and they do it for bragging rights.  Fucking clown shoes. 
+
+
+
+
+ This is at the Getty right now?  Awesome!  Thank you thank you thank you for posting this information! 
+
+
+
+
+ Its more about connecting the US military bases, and using a web metaphor. 
+
+
+
+
+ It looks like he was punched repeatedly in the neck. 
+
+
+
+
+ Staying awake when critically injured doesn't save you.  Being told to "stay awake" by EMTs serves a completely different purpose. 
+
+
+
+
+ The thing is - technology does not grow at a constant rate.  It grows exponentially. 
+
+
+
+
+ That's the whole point of intellectual property attorneys... 
+
+
+
+
+ http://i.imgur.com/ZclE4cl.jpg 
+
+
+
+
+ I dont think you understand there reference we are making.  Yes, NGE has lots of religious overtones, but these images share distinct features with many of the "angels" in NGE - including their "cores". 
+
+
+
+
+ He didnt instigate anything.  he was documenting two very disruptive patrons to an event he was a director for. 
+
+
+
+
+ oof.  thank you for the breakdown. 
+
+
+
+
+ Was it really calculated as 10K gallons?  Because when I saw this reported on TV, it was a resident claiming that amount - and there was no actual estimate from LADWP. 
+
+
+
+
+ Do not believe his lise. 
+
+
+
+
+ but its a great expose on race-privilege attitudes.  
+
+
+
+
+  it's insane!  we're like three white normal people!
+
+
+ 
+
+
+
+
+ surface tension is a fascinating phenomenon. 
+
+
+
+
+ Its ok.  It also needed to be put out of its misery.  That body/model of Camaro is a huge piece of shit. 
+
+
+
+
+ thats not an emoji. its a character from a font set.  they are different.  emojis are graphics/pictures.  that is actually a font character.  If you see it as an alien head, then you have the correct font installed.  if you dont, then you see an empty box character instead. 
+
+
+
+
+ First thing I thought of:  These paintings, in some way or another, are inspired by NGE.  You can see something in every picture. 
+
+
+
+
+ I always thought those posts were *mostly* satirical.  I cant help but think that most people in this sub that are hardcore eva fans, are adults like myself, who were exposed to eva when we were teens.  I enjoy rewatching the series every now and then, and it seems like I learn or notice something new every damn time.
+
+Regardless of the various collectables and collections posted here - the things that sketch me out are the posable dolls of the characters. 
+
+
+
+
+ [I'm sorry, Shinji](https://wrongeverytime.files.wordpress.com/2014/01/coalgirls_evangelion_3-33-0_you_can_not_redo_1920x816_blu-ray_flac_fc2091f9-mkv_snapshot_01-24-42_2014-01-31_23-30-54.jpg) 
+
+
+
+
+ just image the front bottom she must have. 
+
+
+
+
+
+
+
+
+
+ regarding H.264 video, this is quite easy to verify.  use MediaInfo to determine what which H.264 profile/level was used, and compare that to client playback specs.
+
+In all cases I have encountered, its a matter of the media having been authored at too high a level (codec settings that are too high-quality for the client to playback smoothly).
+
+----
+
+MediaInfo:
+
+https://mediaarea.net/en/MediaInfo/Download
+
+H.264 level/profile info:
+
+http://blog.mediacoderhq.com/h264-profiles-and-levels/ 
+
+
+
+
+ Interesting.  My first/initial glance made me think 65984 
+
+
+
+
+ M'hammer 
+
+
+
+
+ http://cdn.appshopper.com/icons/894/568865_larger.png 
+
+
+
+
+ I dont know what is more wtf: that a gallery of this exists, or that you can recall this guy by name. 
+
+
+
+
+ As an american, I'm kinda disgusted that I have never learned any of these details from the media in any meaningful way in which to change my initial and long-standing "ridiculous/frivolous" assumptions about this case.
+
+Thank you very much for shedding light on this. 
+
+
+
+
+ Additional info:
+
+http://www.climate.gov/news-features/featured-images/monthly-carbon-dioxide-levels-hit-new-milestone 
+
+
+
+
+
+
+
+
+
+ Then those channels go away, and their shows get picked up by different networks.
+
+And maybe, just maybe, there will be no need for reality tv filler anymore. 
+
+
+
+
+ YES!  Thank you for finding it! 
+
+
+
+
+ **I**f **I** **R**emember **C**orrectly 
+
+
+
+

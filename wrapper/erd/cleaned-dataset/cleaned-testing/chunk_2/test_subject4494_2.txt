@@ -1,0 +1,926 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is there a timetable? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The files listed are as follows:
+
+1. https://wikileaks.org/sony/docs/filelist/01.html 1445 directories, 19156 files 
+2. https://wikileaks.org/sony/docs/filelist/02.html 27 directories, 3383 files 
+3. https://wikileaks.org/sony/docs/filelist/05.html 461 directories, 7514 files 
+4. https://wikileaks.org/sony/docs/filelist/bonus.html 40 directories, 223 files 
+
+for a total of 30276 files. I knew there were more files than that (see https://www.riskbasedsecurity.com/2014/12/a-breakdown-and-analysis-of-the-december-2014-sony-hack/), so I took a closer look.
+
+It appears that only documents are included, based on filenames extensions. It also appears that many documents not in txt format were converted to txt. They were then published twice, once in original format and a second time in txt format. Not all documents, for some reason. So the true amount of documents published now is a little over a half of 30,000.
+
+The following formats are in the list:
+
+* xlsx
+* pdf
+* txt
+* docx
+
+This suggests both that Wikileaks published only "document files", not all files (and horrible reporting by those who don't have a clue), and that they only took from the 01, 02, 05, and bonus filesets.
+
+I'll confirm when I have more time whether any documents from the other sets appear in wikileaks list, as the naming *could* just be a quirk.
+
+(To download all the files yourself, see my comment [here](https://www.reddit.com/r/hacking/comments/2o8zyd/the_sony_hack_what_we_know_and_dont_know_so_far/cmlnktc).) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In most such disagreements, the grown-up is probably right, so I'm interested in hearing the ones in which they weren't. 
+
+
+
+
+ For bonus points, choose different size hard drives (~1MB would be interesting) and different times to go back to. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AND THEN THERE WAS A SINGLE ARC TAKING UP SEVERAL YEARS! SKIPPING OVER EVENTS MORE SIGNIFICANT THAN EVENTS THAT GOT MULTIPLE ARCS! WTF IS GOING ON??!
+
+(Just finished the Bonesaw interlude. Seriously, what *happened*?) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nobody buys a drink. The bar is declared a success. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/thebutton 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I send a lot of books to my kindle via calibre email. When I update a book and send it again, it creates a new book on the device that doesn't have any notes from the old book, and also leaves the old one on it. Is there a way to just replace the old book by the new one and keep all the notes and highlights? Also, is there a way to backup my notes, because every so often they disappear from large books. They still show in the "my clippings" book, though. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Because they had constant arguments! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In memory of [this](https://www.reddit.com/r/HPMOR/comments/2ykyyj/panic_thread/cpahdil), I declare an anti-panic thread.
+
+Edit: nvm, it's up. https://www.fanfiction.net/s/5782108/120/Harry-Potter-and-the-Methods-of-Rationality 
+
+
+
+
+
+
+
+
+
+ As you know, there has been a lot of speculation that we are still in the DATA EXPUNGED. There are a couple of variations on this theme, but they all agree that REDACTED and that it really *was* REDACTED. On my recent reread, I noted all the parts in the text which appeared to support the claim that DATA EXPUNGED, and am collecting them here. There's also a section on WoG confirmations which can be REDACTED.
+
+First, we get this right in the beginning:
+
+Ad-free mirror of the text;
+
+clearly implying that the entire text is inside a mirror (see document 297-T-REDACTED for further elaboration on this).
+
+Second, we see in the intro what appears to be an obvious DATA EXPUNGED:
+
+ This is a rationalist story;
+
+Rationalist comes from ancient Latin from mirror. In fact, if you search google for Rationalist mirror, [hpmor comes up](https://archive.today/KzShE). But this might not be conclusive, because of REDACTED and REDACTED.
+
+Third, we get in Chapter 6 the following
+
+There was an abstracted look on her face (almost exactly the same look that had appeared on Harry's own face while experimenting on the pouch, if Harry had only seen himself in a mirror to realise that).
+
+This is obviously foreshadowing DATA EXPUNGED and DATA EXPUNGED, as well as providing strong evidence that people are stuck in a mirror and can't see through it.
+
+
+Fourth, there is the widely talked about DATA EXPUNGED from Chapter 6
+
+As his hand touched the back door's handle, he heard a last whisper from behind him.
+
+"Hermione Granger."
+
+"What?" Harry said, his hand still on the door.
+
+"Look for a first-year girl named Hermione Granger on the train to Hogwarts."
+
+"Who is she?"
+
+There was no answer, and when Harry turned around, Professor McGonagall was gone.
+
+This strongly implies that Professor REDACTED was left out of the DATA EXPUNGED, for reasons too obvious to detail.
+
+Further on, we observe (Chapter 10)
+
+I am in essence a sort of mirror with which to trap children
+
+possibly the most explicit confession in-story to date, with the possible exception of DATA EXPUNGED
+
+Then we get to 27
+
+The Weasley twins had tested their new monocles on the "forbidden" third-floor corridor, making a quick trip to the magic mirror, but when they tried to go back, they'd realized they were stuck forever.
+
+Moving on, Chapter 37:
+
+"Yes!" said Dumbledore. "My own great foe was Grindelwald, and him I understood very well indeed. Grindelwald was my dark mirror, the man I could so easily have been, had I given in to the temptation to believe that I was free of the mirror, and therefore sure of my observations.
+
+This is starting to give some clues that the mirror is connected to Grindelwald. I looked through REDACTED to find more clues, and sure enough DATA EXPUNGED:
+
+ I am Grindelwald. I am also the mirror, and have been so all along. I am also [Millicent Bulstrode](https://www.reddit.com/r/HPMOR/comments/2f7csv/whats_the_craziest_theory_you_can_come_up_with/ck6mynp). Indeed, I am even DATA EXPUNGED. You are also.
+
+So we know where it came from.
+
+Next, let's look at chapter 54
+
+Thirty seconds later Harry was the proud new owner of a curved mirror, and quickly walked into it (which confused his mind for a bit, before he got distracted by whatever he wanted).
+
+And
+
+The mirror lay alive and vibrant in his hand.
+
+And
+
+his mirror was perfect
+
+This confirms that it infected Harry early on, but in case you're uncertain see 63:
+
+ Harry had been infected by the mirror for as long as he could remember
+
+Now, one thing we *haven't* confirmed is whether Hermione is in the REDACTED. Chapter 72:
+
+Hermione reached into her robes, and drew out a little rod with a mirror on the end of it and an eyepiece. The mirror quickly took over her body and mind, leaving her in eternel bliss.
+
+Plus this bit of REDACTED from 77:
+
+Hermione hadn't tried walking past a mirror yet, she wasn't sure she wanted to.
+
+Plus a little later in 84 we get confirmation that the mirror is responsible for Hermione dying:
+
+The mirror cut off abruptly.
+
+Susan, 73:
+
+For an instant, she glowed in a strange mirror-color, like a reflection of herself, until the mirror swallowed her whole
+
+Tracey, 74:
+
+Well, I'm pretty sure I did," said Tracey, sounding briefly uncertain before she rallied. "I mean, I looked at myself in a mirror and I look paler and can make my wishes come true now, and I can always feel darkness surrounding me, and I was a conduit for his dread powers and everything...
+
+Pansy, 74:
+
+After Pansy drew out a mirror and looked at herself, she turned even paler.
+
+Now we know where it came from, who it infected, DATA EXPUNGED and REDACTED, but who has it now? Let's look at 82:
+
+Terrible and stern stood the ancient wizard, like he was carven from stone; beard woven of thread like iron, half-moon glasses like mirrors, and the pupils behind as sharp and unyielding as black diamond.
+
+So there *was* a pair of glasses that [wasn't just that](https://www.reddit.com/r/HPMOR/comments/2x4lxu/im_way_better_at_having_bad_ideas_than_good_ones/), after all.
+
+Now, there's also a piece of evidence suggesting that DATA EXPUNGED, as well as proving that the REDACTED can hold multiple people at once (84):
+
+The mirror transmitted a sound of muffled laughter in the background, sounding like it was coming from more than one person.
+
+Let's skip to 100:
+
+The mirror was in Draco's hand, and it remained lifeless as his finger mechanically tapped at the surface, over and over.
+
+This is definite foreshadowing of the mirror breaking at some future point, which is consistent with information gotten from REDACTED.
+
+WORDS OF GOD
+
+There are a couple of statements from the author of reality, REDACTED, which provide support for this theory.
+
+1. [here](https://www.reddit.com/r/HPMOR/comments/2xxybs/chapter_116/cp4fzlj?context=3) THEY'RE IN THE MIRROR
+
+2. [here](https://www.reddit.com/r/HPMOR/comments/2xxybs/chapter_116/cp4hnx1?context=3) You're inside the mirror
+3. [here](http://hpmor.com/notes/119/) yes they are still inside the Mirror of DATA EXPUNGED.
+
+(Note: this last one is proof that even the events up to 119 are still part of REDACTED.)
+
+
+Note: this was inspired by https://www.reddit.com/r/HPMOR/comments/2w3z8p/its_been_in_front_of_us_all_along_spoilers_all/, and also by SCP. This is also a first draft, if you have any suggestions on how to make this flow better I'm open. I'm not too good at structuring long things like this. 
+
+
+
+
+
+
+
+
+
+ EVERYONE PANIC 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Let's celebrate the time we have before 116 reveals it's all a mirror trick!
+
+18 minutes and counting! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... or just patent it then sue. It's a lot easier.
+
+(while pondering the recent half a billion dollar loss for Apple) 
+
+
+
+
+ First of all: I've seen parts of this out there already. I came up with this mostly on my own, trying to be original, but there's obviously not *too* much to work with, and I had already seen some attempts.
+
+So. Harry has been told that the first thing done to him is Stunning. The obvious step here, is:
+
+Partially transfigure himself. Harry transfigures two layers of the skin around his entire body. The outer layer is transfigured into dead skin (or something the same color), so he still looks normal. The inner layer is transfigured into a substance which blocks (preferably absorbs) at least the stunning spell.
+
+Two tiny layers of skin coming off should be perfectly safe (have not gotten an answer from a doctor here, so don't try this at home).
+
+He delays while talking to V as long as possible. When he's done, they "stun" him. He falls down, and makes sure his wand is pointed towards his time-turner.
+
+He should have at least a few minutes before they begin chopping off his limbs, during which their guard will be down. He uses this to transfigure his skin into a line of *something* (will elaborate) towards his time-turner. This substance is designed to look like the surrounding air, so it is effectively invisible. Once it is in contact with the time-turner, Harry is able to transfigure the time-turner, then untransfigure it to right beside him. It is still hidden by the camouflage transfiguration. He then gets the time-turner into his hands, and twists it.
+
+As soon as he is in the past, he sends a message to Moody, Bones, and Dumbledore, and tries to leave.
+
+Anyway, if there are any ideas here anyone feels are new, feel free to take them and use them in your own answer. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ... the update notices (i.e. "the next update will be") are still there. Has /u/EliezerYudkowsky  gotten lazy or does that mean anything? 
+
+/tinfoil hat 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ From 17:
+
+"It's a plot hole," said Harry. "I made myself weird enough to distract the universe for a moment and it forgot that Goyle had already picked up the Remembrall."
+
+Now
+
+... this may be relevant to current events. Details in comments. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is it before Harry got the message? Surely summoning all the Death Eaters would notify Dumbledore, and he'd send someone to pick up Harry like by Azkaban. This didn't happen, so something I believe must be false.
+
+Even if it's after, someone would go back in time, or know that they couldn't.
+
+Also, where is this? Are we at the graveyard, or a "real" one assuming the one dosed was fake, or somewhere else? 
+
+
+
+
+ ... that current!Harry is missing some memories, and that was masterminded by the good guys (either himself or Dumbledore). Additionally, this is causing him to act in a way that appears non-optimal, but is necessary for reasons that will be explained. (Possibly because he needs to believe some things to say them in Parseltongue.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

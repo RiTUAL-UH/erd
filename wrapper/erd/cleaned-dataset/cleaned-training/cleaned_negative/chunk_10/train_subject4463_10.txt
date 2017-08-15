@@ -1,0 +1,630 @@
+
+
+
+
+
+ Does it even abide by any of the settings yet?
+
+I tried simple things like turning off the bed temp, etc and it never changed the starting gcode.  Same for positioning items on the bed.  I could put them as far left/right as I wanted, and always got centered gcode. 
+
+
+
+
+   low-skill factory job but those jobs simply don't exist anymore.
+
+This is what most people don't realize.  Low skill jobs are routinely being replaced by robots.  There is coming a time where we need to seriously take into consideration that we have more people than we have jobs. 
+
+
+
+
+ The fact of the matter is, the human brain was seemingly built to get around rules.
+
+So what companies would start doing, was splitting off their own local "employment agencies", which then provided staff to said company.  The 999 employees, would then be "contractors" for said company, where said company had multiple different employment agencies providing the number of staff they needed in order to bypass the minimum wage law.
+
+Seriously, no matter what we do - there's a lawyer out there who will find a hole in the law. 
+
+
+
+
+ As a scientist, never trust anything.  Even the journals are all bullshit nowadays too, and other scientists bought and paid to produce results that the funder wants regardless of any real science. 
+
+
+
+
+ I've actually found that ES File Explorer now also works as an SD card cleaner as well.  When I uninstall a program, it now goes and searches out the data and ends up asking me if I would like to delete the folder.  Since I already use ES File Explorer anyways as a file picker, and FTP server, etc -- it's been a welcome addition. 
+
+
+
+
+ CHOO CHOO!!! 
+
+
+
+
+ I dunno.  Soberlol #1 Korgath. 
+
+
+
+
+ I found a pair of dental-pick like tools when this happened to me.  Spent a bit of time cleaning every little bit of broken rubber out from around the spark plug, (including a little hacked together straw/vacuum cleaner micro suction device) 
+
+
+
+
+  Granted you don't have the absolute control over part dimensions and placement like you would in other programs, but you are perfectly capable of manually modeling parts.
+
+...you know, that's basically the key point of mechanical design... 
+
+
+
+
+  Prejudice is prejudgment, or forming an opinion before becoming aware of the relevant facts of a case. The word is often used to refer to preconceived, usually unfavorable, judgments toward people or a person because of gender, political opinion, social class, age, disability, religion, sexuality, race/ethnicity, language, nationality, or other personal characteristics.
+
+Multiple different sources define the word slightly differently, most of them do not have the "not based on reason" portion included within.  In fact, prejudice people often do have reasoning behind their prejudice.  It's often the wrong reasoning, but...it's still reasoning.  Stereotyping is closer to racism than being prejudice is.  Stereotyping is generally of a whole group of people.  You can be prejudiced and not be racist.  If I'm walking down a dark alley and see some homeless dude, I'm going to pre-judge him to be a threat.  Same with a group of black men walking down the street.  But I don't hate or dislike black people because of their skin color.  Nor do I believe that black men walking down the street would by-default be a threat to anyone in their path. 
+
+
+
+
+ Stereotyping is prejudice.  Take a look into the etymology of the word.  It means "Judgement in advance". 
+
+
+
+
+ I wish people would start using the "prejudice" word more often.  A white woman walking across the street because she sees a group of black men heading her way? - Prejudice.  Not racism. 
+
+
+
+
+ Then later you build a gigantic, cabbage empire! 
+
+
+
+
+ I've got 2 daughters now so...plenty of that was going on as well.  She was a gamer before I met her (playing Diablo II, etc) 
+
+
+
+
+ If your printer isn't tuned correctly, Simplify3D won't cure your problems.  It'll just make a properly tuned printer perform better. 
+
+
+
+
+ Hell, the drinks cost $3.20 at some places any more...you can still get tap water for free though. 
+
+
+
+
+ We were going for high-warlord on my warrior back when PvP titles meant "who could spend the most constant amount of time in battlegrounds".  If you could manage to stay on 24 hours a day for weeks at a time, you were practically guaranteed to get it. 
+
+
+
+
+ Most of the time, me and my wife were sharing the same account - I'd play for 10+ hours while she was at work, and then she'd take over my account and play for another 4-6 hours after work.  Years of playtime isn't that uncommon. 
+
+
+
+
+ Damn!  What's the aspect ratio of that screen?! 
+
+
+
+
+ And here I am 3 days into signing up for an account and they still haven't activated it..... 
+
+
+
+
+ If I had like 3 screens, I could totally get used to tiling window managers.  But when 90% of the websites I visit assume that you're viewing them on a full screen 1600+ wide monitor, tiling window managers become pretty worthless.  Fuck, even reddit doesn't scale well if you try to 50% your web browser to the left side of your screen. 
+
+
+
+
+  just a design aspect
+
+That's what a "metal umlaut" is... umlauts for design-only. 
+
+
+
+
+ https://en.wikipedia.org/wiki/Metal_umlaut
+
+You're right!  It's a thing! 
+
+
+
+
+ It is.  The ends are made out of a single-piece stamped metal shell.  None of that weird fold-around with dovetail joints and clasps. 
+
+
+
+
+ Fuck off.  This "anti vote brigading" thing is bullshit.  It's on reddit, it came from another link on reddit, we're encouraged to cross post, so others who come here from other parts of reddit should be encouraged to upvote/downvote and comment as they freely please.
+
+The admins of reddit also need to know that the whole np domain, etc is fucking stupid as well.
+
+People should be downvoting this bot as well, so that he gets caught in the spam filter. 
+
+
+
+
+ Nope, refrigerators in campers are "Absorption Refrigerators".  They use LP gas to heat an exchanger liquid (a combination of water, H2, and ammonia, which separates and recombines in a specific manner in order to basically use heat in order to cool.  LP gas can actually be mixed down to the equivalent of R-134, and be used as the working liquid as well in a typical compressor system. 
+
+
+
+
+ You can use LP gas as a refrigerant, it just so happens to also have explosive tendencies. 
+
+
+
+
+ What I want to know is how much actual food you get.  I can get a single chicken nugget for less than $0.20 but it doesn't mean that because it's under $10 that it's "cheap eats".  What is going to fill me up for $5?  Not... "This meal is $5!  But it looks like this http://i.imgur.com/uMmLuKS.jpg " 
+
+
+
+
+ Try GFLOPS.  Phones surpassed the MFLOPS measurement a LONG time ago.  For example, I believe you have your iPhone 6 measurement wrong, because from what I'm seeing, it's closer to 300 GFLOPS.
+
+The Adreno 300 (used in many Android Phones) pushes 130GFLOPS, which is well over the 1000x better mark that you're bitching about. 
+
+
+
+
+ Honestly, I'm quite tired of the news already.  I'm glad that we're moving in the direction of equal rights for everyone, but fucking hell...give it a rest already.  We get it.  (Not you OP, just...in general) 
+
+
+
+
+ Polycarb can also crack.  I have Polycarb V wheels on a printer of mine, and they have fracture marks (even though they still work fine) 
+
+
+
+
+ I wonder how long it will take him to shake that knowledge... 
+
+
+
+
+ I guess you don't understand sarcasm...... 
+
+
+
+
+ Just look at Ted Cruz for a fine example of Republican leadership at work. 
+
+
+
+
+ It's _not_ going to be a real Q A session, Limor Fried has always sucked MakerBots dick, because she was/is good friends with Bre Pettis.  You'll notice it all on their forums and other public communities.  They rule with a heavy handed fist, and delete all negative commentary about MakerBot, etc. 
+
+
+
+
+ The post on Hackaday specifically asked for their users to post questions.  Instead, there's nothing but jokes and argument about adafruit, or argument about MakerBot and nobody actually posting questions _FOR_ makerbot to answer.
+
+There's like a total of 2 questions there; the rest are...statements, and obtuse stuff like arduino srl vs llc, etc...  things that have absolutely nothing to do with the article at hand.  It looks like it's being flooded with trolls, and nonsense so that the legitimate questions that are ultimately asked can be glossed over for their own pre-canned questions. 
+
+
+
+
+ Holy shit the signal/noise ratio on this is absolutely astonishing...even in this thread there's a lot of derailing, and same thing on the hackaday thread.  Lots of derailing over there as well. 
+
+
+
+
+ Man, I used to have a Z-grip Automag RT.  This was before the new valve system they had designed that wouldn't chop a ball.  Loved that thing.  Then they...didn't make a Z grip for anything else and I was bummed.  Closest thing I found was the 2008...ish Angels that had the vertical grip. 
+
+
+
+
+  Sniper 2
+
+Nah, The Sniper 2 would be if you left the cocking rod in, and took the pneumatics off...the reverse of what I was doing.
+
+When you took the cocking rod out, it wouldn't cock the hammer required for the shot.  But you could still make the back-block "fire" back and forth by pulling on the trigger.  No balls would fire, but it was fun to play around with when you weren't playing a game. 
+
+
+
+
+ Was always fun simply taking the cocking rod out of the back too, and playing with the pneumatics. :P 
+
+
+
+
+ Cancer. 
+
+
+
+
+ Daaaayyyyuuummmm, I used to trade markers on that site.  Traded all the way up to a 04 Vert Feed Cocker from a Spyder. 
+
+
+
+
+ You should get Pao to ban their subreddit.  That's what we do now when we don't like things, right? 
+
+
+
+
+ We should totally ban that subreddit for not being a safe space... 
+
+
+
+
+ Yeah, I've seen the heads with the 3D milled cams that slide back and forth in order to adjust timing that way.  I figured, given that my interest was in a smaller engine, that there may be some options out there for electronic valves.  (Or....electronic air injection of sorts?  Kind of like a 300psi valve that could be opened for air intake) 
+
+
+
+
+  DSM
+
+? -- Diagnostic and Statistical Manual of Mental Disorders? :P (DSM looks like the old Eclipse/Eagle Talon?)
+
+Also, the electronic valve system interest was for being able to advance/retard timing on the fly.  Is there a better way to go about this?  I have a lot of interest in having as much of the engine controllable as I can get. 
+
+
+
+
+ _LOTS_.  That's the power behind Linux, in fact.  The fact that it can scale down so far, and also up so far.  I still run Arch on an original EEE900A.  A machine with 8gb of storage space and 1gb of RAM.  Granted, I don't use firefox, I use surf -- but there are more of us than you think. 
+
+
+
+
+ Little bit of an odd question for /r/MechanicAdvice, but I'm looking to understand a little more about _controlling_ an engine through the ECU, etc.  (Actually, to be honest, looking to build my own open source ECU.)
+
+Are there any real, small, 4-stroke engines out there that can be had which have proper modern-ish electronic features?  Things like Electronic Fuel Injection, Electronic Ignition, (Electronic valves?), and a set of sensors suitable for experimentation (temp sensors, camshaft position sensor, MAF, etc)?
+
+I've thought of trying to buy a small motorcycle engine, but I've never worked on a motorcycle and don't know what I should be looking for.  I have dropped, rebuilt, and reinstalled an 86 Fiero engine and done multiple head jobs though - so I'm not entirely foreign to engines.
+
+Any suggestions? 
+
+
+
+
+ There are tons of computers out there with 2gb of ram or less.  In fact, I'd say it's more rare to have over 4gb of memory in a machine.  A brand new machine...sure.  But there are far more _not brand new_ machines being used right now than those.
+
+So no, there's no way in hell that's a "rare use case".  I know of an installation of 100+ kiosks that are using raspberry pis with firefox as their front end. 
+
+
+
+
+ On things like the Raspberry Pi/2, you've only got 1gb of RAM to work with.  Reducing memory usage for low ram machines is a huge speedup because you're not having to write out to swap/cache. 
+
+
+
+
+ Just a heads up, none of the video acceleration works for this build.  That means it's completely non-performant, and absolutely has no valid reason to use it with the exception of educating yourself on it. 
+
+
+
+
+ jailbait was on the edge of legality.  That and lots of bad press somewhat forced their hand.
+
+the fappening was the dissemination of illegally gained photographic material.
+
+Both of those had little to do with free speech, and more to do with being either very close to illegal, or just plain outright illegal. 
+
+
+
+
+ He's a law student.  He knows damn well what he's doing, and he's only doing it for the attention that he gets.  Good or bad. 
+
+
+
+
+
+
+
+
+
+ Honestly, if GravityBox can bring back my ring-unlock, and the old KK menu, and proper power menu for rebooting into recovery, etc I'll be happy.  That's all I want. 
+
+
+
+
+ Nexus 5 stock, Amplify is not working on the newest Xposed yet it seems. 
+
+
+
+
+ I've not been able to find this using my Google-fu, but is there a way to transfer a complex mating geometry over to a 2D form which could, for example, be wrapped around a steel tube in order to cut it correctly for mating purposes?
+
+Say I want to do something like this: https://ludemannengineering.files.wordpress.com/2011/12/p1090388.jpg
+
+I'd really like to be able to print out a 2D to-scale piece of paper, wrap/glue it around the pipe, with some lines to measure against, and then be able to properly form the end of the pipe with a grinder or 4 axis laser cutter/mill. 
+
+
+
+
+ You're exactly right.  The more modern package managers DO know this information.
+
+More Modern != Have a GUI - oftentimes I am SSHed into a machine and need this information available to me on the terminal. 
+
+
+
+
+ This is what's beautiful about pacman.  With ubuntu, I need to know the exact name of the package that I'm looking for.
+
+With Arch, I do pacman -Q image editor and get all the results with image and editor in them.  I get told the package name, and then I install it.  No needing to hunt the web for things, I do it all right there in the command line and then the package manager gets out of my way so I can work again. 
+
+
+
+
+ It's almost as if the economy is recovering!  
+
+
+
+
+  Publix gives out free samples of their food, but no one goes home, changes clothes and comes back a few more times for seconds. You just pay for the food and leave.
+
+So, just me then?   I sneak by there multiple times and then when I can't do that I send my children.  
+
+
+
+
+ Can you do aptitude search "image editor" and end up with gimp?  
+
+
+
+
+ Just did it, and it seems so much less robust than pacman's search.  I don't know if it's just simply not got the packages I'm looking for, or what. 
+
+
+
+
+ If this is how it was since the beginning, I probably wouldn't have switched as quickly as I did.
+
+I've got a deployment of Ubuntu in a VM, and I just did the apt-cache search bit...and it didn't seem nearly as thorough as pacman.  
+
+
+
+
+ I was poor, not even a college student.  Joined a hackerspace and a guy that goes by chorca kept my questions answered and my spirits high.  He gave me a bunch of parts to start with, but not nearly enough to actually build a printer.  
+
+So a friend of the lab brought his in -- a prusa mendel, the first version that came after the sells.  He told me "if you can get this damn thing working, and printing right then you can use it to print the parts for your printer" and boom - I was off like a mad scientist.
+
+In the end, it cost me way more to build my printer than the printrbots now cost but up until about a year ago I didn't know any 3D modeling.  My passion was engineering, fixing, tinkering, learning, coding, etc.
+
+It eventually drove me to learn enough solidworks that I could whip out any part that I need in about 20 minutes, but for about 4 years or so I had no need for 3D modeling. 
+
+
+
+
+ Arch is when I finally stuck with Linux.
+
+I went something like Windows - Mandrake - Windows - Slackware - Windows - Debian - Windows - Ubuntu - Windows - Ubuntu - Windows - Ubuntu - Arch.  (RedHat was somewhere in there too...)
+
+I found that I kept breaking the shit out of my Ubuntu installation, and not being able to understand where everything was, or how to put it back together.  I was also starting with a full blown desktop and trying to strip it down to the bare essentials to keep everything lightweight, but I was doing it completely backwards.  So I ended up deciding that I needed to start from the other direction.  Minimal and then build my system UP.
+
+Arch...back when I installed it the first time, everything had to be set up through the beginners guide and that was the first time I had that "Eureka!" moment.  I finally understood the directory structure.  I understood the package manager.  (This was a BIG one) and it just was like boom, Zen linux user.
+
+Obviously I'm still learning fucking LOTS (6 years later).  Moving toward teaching myself vim, slowly getting a hang of it.  SSH is fucking useful as all hell.  And the fact that you can do nearly everything from a command line is oftentimes complained about by normal people but I grew up on DOS so I love the command line.
+
+And linux has come in way more use than I care to state.  Recovering bad data, I can read practically any damn filesystem format, imaging drives, and most of all the OS _not assuming that I'm an idiot_.  Additionally the development environment is a breeze to set up for practically any language you want, and generally things just tend to work as long as you pay attention...
+
+The biggest complaint I had about ubuntu at the time was the package manager.  Pacman is intuitive.  Want a package?  -Q for query.  There's no apt-get search...I still don't fucking know how to find packages on ubuntu. 
+
+
+
+
+ Don't feel this way.  It's just a new way of doing things.  A far more powerful, amazing way of doing things.
+
+Keep at it.  I didn't get it on my first distro, went back to Windows over and over again - but this was back during the Mandrake Linux years. (changed to Mandriva, and now defunct)   Nowadays, you can install most distros and end up with a really nice looking graphical interface and actually be completely set up from the get go.
+
+Once you're there, if you have any issues...google for them, and as long as your google fu is strong then it's likely the answer is already posted in the arch or gentoo forums. 
+
+
+
+
+ The problem is that they aren't Arch.  Evo/Lution isn't a distribution.  Antergos and Manjaro are.  They may be based on Arch, but - you can't use the Arch Forums, the communities are smaller, etc. 
+
+
+
+
+ You could just say "No, but thanks for the offer."  You don't have to mention your relationship status. 
+
+
+
+
+ Don't try Arch as a beginner.  If you want Arch, without the hassle of the big follow-through beginners guide, look for Evo/Lution.  It's just a big, user friendly Arch installer (when it's finished, it's vanilla arch with all the same repos, etc) 
+
+
+
+
+ This also makes you look like a _huge_ bitch. 
+
+
+
+
+ Yeah, in addition to that shit, you've got chemtrail nutjobs. 
+
+
+
+
+ You should Reply-All: UNSUBSCRIBE 
+
+
+
+
+ Holy fuck man, tilt your camera up why don't you?  The whole video, you can barely see 10ft ahead of you because it's pointing at the pavement.
+
+And christ, do you have the reaction time of a turtle or something?  Because you were nowhere close to getting hit, you could see that guy coming around the bus before you even got into the lane. 
+
+
+
+
+ Tell that to the fucking people in Atlanta, GA.  You go ahead and try to go 55mph down there...see if you think the same afterwards.
+
+If nobody follows the "rules"...then it's a stupid rule. 
+
+
+
+
+ ...Which is strange.  Because Florida is mostly Philadelphian retirees.  Wait, are we talking about New York, or *New York*? 
+
+
+
+
+ Yeah, sorry.  But scare quotes is the universal symbol for sarcasm.
+
+Like, saying you were totally "correct". 
+
+
+
+
+ What a huge waste of space.
+
+It's amazing to me that we have so many churches, and so much money is funneled tax-free through them.  Ever notice how _every_ preschool is a "christian academy"?  Yeah...big tax dodge. 
+
+
+
+
+ Not "some kind".  Changes have been merged upstream.  The newest builds can use a mostly vanilla Linux kernel.  (Of course a lot of packaged binaries for certain ICs) 
+
+
+
+
+ Bluetooth Keyboard.  They even have foldable full size that will still fit in a good sized pocket.
+
+There's no reason a device like this would ever be useful when we have smartphones with bluetooth capability. 
+
+
+
+
+ No no no.  If they're 33% white, 33% black, and 33% asian, everyone is a minority.  60% of people _aren't_ white, so white is a minority now! 
+
+
+
+
+ I'm not sure you guys are competitors just yet.  His points are all spot-on, given the wild claims you guys have made.  I'm not saying your work isn't exciting, but elmoret isn't known to just simply shittalk for the sake of it.
+
+Did you realize how much this looks like you're ducking reasonable discussion when you drop down and start calling people names? 
+
+
+
+
+ You had to flash your printer to think it was a cartesian, didn't you... 
+
+
+
+
+ Sure it's not your fan? 
+
+
+
+
+ Can you report cops locations on GMaps yet? 
+
+
+
+
+ Additionally, it can save you a lot of money when things break down.  For example I had a shop try to lie to my wife about my car and say I needed a new head for my Hyundai - My OBDII adapter told me it was simply a misfire on Cylinder #2 and all I needed was a new coil pack. 
+
+
+
+
+ I'm not sure how many of them you could install though.  A lot of them rely on http://developer.android.com/google/gcm/index.html
+
+So you'd be able to use them potentially, but not get push-notifications. 
+
+
+
+
+ That stuff is Android, not gapps.
+
+Gapps is specifically things like gmail, play store, the photos app that gets shoved down your throat, etc. 
+
+
+
+
+ GMail and Hangouts are Google apps.  They wouldn't exist on this. 
+
+
+
+
+ Yep.  It goes on and on and on... 
+
+
+
+
+ An app store, obviously.  Also all the code that's used to track you.  Most other things have alternatives. 
+
+
+
+
+ Because you're ruining other peoples reddit experience by bitching about "spoilers". 
+
+
+
+
+ What the fuck does their employment have anything to do with _anything_. 
+
+
+
+
+ Oh shut up.  The whole series is done and over with.  You can't bitch about "spoilers" when the damn show is completely done with. 
+
+
+
+
+ This is the first picture like this one that freaked me out: http://flowergarden.noaa.gov/image_library/expedition/coralspawn10/divershia389a.jpg
+
+Don't know why, but under water, where things start kind of fading off into the distance...creepy. 
+
+
+
+
+ I'd be completely on-board with this.  If you've ever tested a phone without the gapps flashed package, you'll notice that battery life is a _fuckton_ better. 
+
+
+
+
+ I see no way of setting tension on the extruder. 
+
+
+
+
+ http://bukobot.com/nozzle-cleaning
+
+You should do your best to perform a cold pull of the filament.  I don't know if any kind of design decisions make this useful on a UM2.  But generally this is how you fix a clogged nozzle.
+
+When printing woodfill, purge with a different filament once you're done.  I've heard many people having problems after printing with it, and then leaving it in the nozzle.  I don't know if it's some sort of one-way curing process that it goes through or what. 
+
+
+
+
+ Shitty service.  Especially during the WiMax period, they were terrible. 
+
+
+
+
+ Well, given the upvotes I'm not sure most people disagree, I do think the most _vocal_ people disagree though, because it would somehow go against their selection of a mobile carrier and they somehow think I've wronged them by disagreeing. 
+
+
+
+
+ brojob? 
+
+
+
+
+ They sell a service.  They sell advertising to their users.  They don't actually sell the users' data.  The data is what makes their service what it's worth. 
+
+
+
+
+ Sounds like they're getting a lot better than they used to be then. 
+
+
+
+
+ It's actually downtown Orlando, next to Wet-n-wild, Disney, Universal Studios, etc.  Specifically the intersection of International and Sand Lake - don't know where the closest tower is. 
+
+
+
+
+ T-Mobile is fucking amazing for me.   LTE nearly everywhere I go, 68mbps down, 42mbps upload.  Crazy shit. 
+
+
+
+

@@ -1,0 +1,102 @@
+ I've been searching for one and found some links to products but they are either not commercial yet or very expensive!
+
+* This [one](http://www.electronicsnews.com.au/Features/First-commercial-silver-ink-UV-cured-without-heat) was announced in 2012 but I can't find a link o buy it.
+* This [one](https://www.sigmaaldrich.com/catalog/product/aldrich/791873?lang=en region=US) costs $389 for 10 gm!
+* And I don't know how to get this [one](http://www.conductivecompounds.com/uv-curable/z-904-ultraviolet-curable-anisotropic-conductive-ink.html), the company is not replying.
+
+Can anyone help?
+ 
+
+
+
+
+
+
+
+
+
+ Awesome! Check more projects on its [Hackster page](http://hackster.io/1sheeld/projects). 
+
+
+
+
+ Why dead? the percentage of successful campaigns is growing far beyond the failing ones. 
+
+
+
+
+ I've met them in the bay area maker faire last month, it's working! 
+
+
+
+
+ My recommendation is to put a switch to change the mode of your shield between 3.3V (for the Due) and 5V (for the Mega).
+
+Have you heard of the [1Sheeld](http://www.1sheeld.com)? It has that switch and the manufacturers share the schematic design to be open source, check it on [Github](https://github.com/Integreight/1Sheeld-Schematics-and-Board).  
+
+
+
+
+ I recommend the [1Sheeld](http://www.1sheeld.com) Arduino shield. It turns your smartphone's hardware into 40 different shields through an Android app.
+
+So you have the sensors like a Gyroscope, Accelerometer, GPS, Proximity, Temperature (I don't know if you have that in the S4).
+Also voice recognition, storing data, text to speech, posting on twitter, facebook, video streaming through Skype ... etc.
+
+Check the list of [shields](http://1sheeld.com/shields/) and the getting started tutorial [video](https://www.youtube.com/watch?v=4LlfBoycKE8).
+
+I built with it some projects like a [candy grabber machine](http://www.instructables.com/id/How-to-create-your-own-candy-grabber-machine-using/), where I used the phone as a Gamepad controller for children to grab candy and teach them about Arduino and coding, it was a nice game in the maker faire. 
+
+
+
+
+ Nice! 
+
+
+
+
+ Intel Galileo would be a great idea, if you code using Arduino IDE it sucks but I'll try Windows, thanks a lot! 
+
+
+
+
+ Thanks, interesting read. 
+
+
+
+
+ Sure! I'l keep you posted. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ Exactly, I want to control the ink jet as i control a CNC machine. So basically there are no open source drivers? Do I have to override the driver and control it with motors directly?
+ 
+
+
+
+
+
+
+
+
+
+ Well at least they have the Arduino trademark in the US. 
+
+
+
+
+
+
+
+
+
+ Yea some of them are collaborations with they guys at the makerspace :) They don't like using Reddit! Say it has a bad interface which is true :D 
+
+
+
+

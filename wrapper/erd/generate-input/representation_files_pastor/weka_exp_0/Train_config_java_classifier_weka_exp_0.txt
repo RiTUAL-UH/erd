@@ -1,0 +1,3 @@
+spaces:
+- {a: 1, b: 6}
+class_index: 6

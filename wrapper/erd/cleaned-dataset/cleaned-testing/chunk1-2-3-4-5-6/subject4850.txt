@@ -1,0 +1,447 @@
+
+
+
+
+
+ What's the funniest joke you know? 
+
+
+
+
+ Hey guys, we're doing a charity today called Replay for Life!  All money donated goes straight to Relay for Life, an organization helping to fight cancer.  We're live streaming our games today, so feel free to check it out, spread the word, and donate, via www.replayforlife.org! 
+
+
+
+
+ Hello Gabe, Wolpaw, EJ, Ido, and Coomer!  Glad to have you guys here!
+
+I was wondering if you had any tips for wannabe game developers who only have coding experience.  While I can code a game fairly well, I don't know many people who can do the artwork, nor do I know many people who can do the music/sounds, and while I want to get into the industry, it's been a long struggle.  What tips would you have for either meeting people who can do so, or finding ways around it (preferably under a college-student budget)?
+
+On another note, any internships available at Valve, and if so, could I have one? XD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've gotta say, Github made their generator very creative lol 
+
+
+
+
+ Hey guys, a quick compo idea I posted a few days ago.  If this is not the right subreddit please just let me know (not on here too often still), otherwise enjoy!
+
+The name of this minicompo is The Github Name Game.  When you create a repository on Github, it generates a random project name as a suggestion.  The idea with this is to create an entire project based around whatever name you get (for example: I got duck-batman XD).  If you're interested, post the entry on my blog post below.  I'll try to keep an eye on this thread (or elsewhere if it get's moved).  No prizes or anything for this as of yet, but even if there are none, it's still a good resume booster I'd say!
+
+
+Link to blog post: http://gemisis.blogspot.com/2014/01/the-github-name-game.html
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ From what I've seen mostly. The only limitation is the size of the room, which would get better with tech (going to be using the new alpha Kinect with it soon since that can see further).  
+
+
+
+
+ The reason I ask this is because most definitions of it define it as simply a room you can interact within (usually with holograms, though other demos use similar tech as this) and also label themselves as holodecks, so if there's some part I missed, do feel free to say.  
+
+
+
+
+ Maybe I'm missing something then, what exactly do you qualify as a holodeck? 
+
+
+
+
+
+
+
+
+
+ Essentially the idea would be to create a penetration testing group (hacking team) and follow them around with a camera on whatever jobs they get for companies.  I did a really in-depth description about this on my blog, so feel free to read about it more in depth here: http://gemisis.blogspot.com/2014/04/hack-it-tv-show-idea.html
+
+This was just one of the crazy ideas I dreamt up while attempting to sleep one night (Why must the mind do this??? XD) 
+
+
+
+
+ Being able to do a ton of them in bulk with a cup was what I was pointing out.  It'll let you make a dozen of them without having to wait for them to all cool individually. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I honestly don't really think any current AAA developers will take advantage of VR best.  I think we may see new AAA developers popup as a result of VR honestly, assuming that VR takes off this time around. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ My favorite Star Wars ship is the Voyager, and my favorite Star Trek captain is Han Solo. 
+
+
+
+
+ Huge fan Bill!  Just wanted to ask, what are your thoughts on all of the gifs on the internet with you in them? 
+
+
+
+
+ I cannot up-vote this enough........ 
+
+
+
+
+ I hadn't seen any simple C++ libraries for the Oculus Rift other than the normal SDK, which seemed a bit overly complicated, so a friend and I made one for our senior project.  It also includes support for the Microsoft Kinect, and I'll be adding support for the recent updates to the Rift SDK soon.  I've also got a new Kinect 2.0 that I plan to add as well.
+
+https://github.com/gemisis/Project-Virtua
+
+We have a website over at http://www.projectvirtua.com that includes documentation and stuff too.  There's also some example projects you can look at as well there. 
+
+
+
+
+ If you could go back in time and change one thing about the original Tony Hawk's Pro Skater games, what would you change and why?
+
+Side note, huge fan! :D 
+
+
+
+
+ It's the one where [Hey, Who turned out the lights?](/spoiler) 
+
+
+
+
+
+
+
+
+
+ $20 I don't have sadly.  Most of the tech here I'm either borrowing or was given to me as a gift. 
+
+
+
+
+ If I had the money for UE4 that may have been an option, but assuming it has Kinect support then yes, that would look better. Big goal here was to do so on a low software budget.  
+
+
+
+
+ Yeah, we were kind of pressed for time XD I'll try and get a better demo setup at some point that shows the Kinect off. First goal is to get it to use the new alpha sensor though.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Both servers were driving distance from where I was staying. In fact, the servers both claimed to be in the same city. Would have kept the cities in the image, but according to [Da Rules](http://img4.wikia.nocookie.net/__cb20140907220547/infusiongaming/images/4/47/Da_Rules.jpg) all personally identifiable information has to be removed :( 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ When deciding on passwords, what would you recommend to do to make them as secure as possible? (Outside of password managers) 
+
+
+
+
+ That's a fake (footage from games) 
+
+
+
+
+
+
+
+
+
+ Yep, I've done all of that and it's still draining just as fast.  Worried now it might be a physical issue with the battery.  Gonna try to call Motorola tomorrow since they put me on hold for an hour today T_T 
+
+
+
+
+ After the most recent, my moto360 started having great battery life.  Then, randomly this past weekend, it's life shot way down.  It only lasts for a max of 5 hours now.  Has anyone had this issue?  No settings have changed, and even untethering it from my phone kills it in the same amount of time.
+
+Edit: After sending it back to Motorola and getting a new one, the issue has been resolved.  If you experience battery issues like this with a moto360, it might be worth calling support as this seems to be a hardware issue with the batteries where it can't hold a charge long enough essentially. 
+
+
+
+
+ The Star Wars prequels are awful 
+
+
+
+
+ Depending on the cost I may be interested. You have a cost estimate so far? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not gonna lie, completely missed that first post lol 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://twitter.com/gemisisDev
+
+I'm currently working on my first big game on the PS Vita (Keeping it private until I have something pretty to show... which is looking like it'l lbe in the next two weeks or so!)  I also do miscellaneous dev stuff, like helping with some 3DS homebrew stuff, running a C++ game development Twitch Stream, game jams (when time permits), and more.  Working to use Twitter more so recently, though I just want to Tweet about stuff that matters, cause I don't think people would find my ever day thoughts as fun lol That said, once my game is public, expect lot's of Tweets as I work on development more :) 
+
+
+
+
+ Pretty sure that's the "YOU STOLE MY T.A.R.D.I.S.!" expression lol 
+
+
+
+
+ Gonna call it now, he's a Terminator. 
+
+And I kind of like the idea of that lol 
+
+
+
+
+
+
+
+
+
+ All of my brothers friends, who are 6-10 years younger than me, are now either 6ft tall, getting their drivers, or going to college soon. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The only thing that could make this better is if it was a perfectly looping gif.............. 
+
+
+
+
+
+
+
+
+
+ So, I started deving for DK1 using the hardware my school had one semester. When I tried to continue the project over the summer without access to the hardware, I found there was nothing like what you mentioned. If this has changed now (which it seems it has as of December 2014) then obviously that's good, but as a product that will just be starting out, it's important to do that from the beginning. 
+
+
+
+
+ I am now more excited than ever to start developing games and apps on your platform. Thank you for being awesome! 
+
+
+
+
+ This excites me way too much :D
+If these golden tickets are true, count me in! 
+
+
+
+
+ One of my biggest gripes with Oculus is the lack of an emulator for development. Is this something you guys are looking into? I really like developing for hardware like this, but sometimes the costs and limited quantities make it tough.  
+
+
+
+
+ With the first iteration of whatever you guys are making at Magic Leap, how easily will developers be able to access tools to develop for it? 
+
+
+
+
+ Don't forget, cocoa is also a fruit.
+
+So you'd basically be drinking a smoothie.......... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

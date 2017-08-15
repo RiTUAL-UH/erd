@@ -1,0 +1,504 @@
+ It would take a very very large surface area to significantly impact the precipitation in the region, and I am unaware of any projects that have created such rainfall after filling a dry basin.
+
+It is well understood that the benefits of pumping large volumes to extremely dry regions are immense. Wildlife returns/appears, tourism can thrive, fishing may become economical, and water becomes available for agriculture. The concern however is the rise in salinity which can 'poison' existing water tables containing freshwater.
+
+There is a massive project underway to pump water into the diminishing Red Sea, and you may find it interesting: http://en.wikipedia.org/wiki/Red_Sea%E2%80%93Dead_Sea_Canal 
+
+
+
+
+ If it's just used for storing media and it isn't being shared out to hundreds of simultaneous users then cheap consumer NAS drives should be sufficient. You won't get much benefit with hybrid drives, as your content is media and hybrids mostly assist with increasing speeds for files that have a typical load pattern (like those used by the OS).
+
+Vibration and heat shouldn't be a problem, especially if you have a CoolerMaster with that many bays. They designed it for that, and your drives won't be running extremely hot anyway. 
+
+
+
+
+ One of those gauges is in incredibly good condition for being in salt water for ~70 years. That 4 is totally readable.  Nearly a century later and the seal still hasn't broken? That's impressive! 
+
+
+
+
+ Other humans who are trying to keep their existence a secret, who live in the "real world" and spread disinformation to make us believe we are the only ones here. We're the equivalent of the uncontacted tribes of the Amazon, and the UFOs appear when the outsiders must come into our section of the planet and change something. 
+
+
+
+
+ That's the point. If they are more productive, then they should get rid of me. But if I am more as productive or more productive than others (as I believe I am) then I should be able to stay productive, instead of just being forced to be onsite 100% of the time because some other employees are not productive remotely.
+
+If anything this is a great opportunity for companies to find out how to make their remote employee **more** productive.
+ 
+
+
+
+
+ This is so backwards. As we create better technology to close the gaps caused by telecommuting there should be an increase in remote workers rather than a push to get rid of them.
+
+It's happening all over. I believe it was Yahoo that recently recalled all its remote workers, and I'm also seeing it in other large tech companies with net initiatives to have everyone on site.
+
+Currently I have a job that allows me to work remotely a couple of weeks each month, and I'm much happier because of it. I would also say I tend to be more productive when i am remote. I understand some workers may not be as productive remote versus/onsite, but if that's the case these companies should just eliminate those specific workers, rather than changing overall policy and hurting those to whom it is deeply beneficial. 
+
+
+
+
+ It's pure science. Others will leverage this information to build further scientific findings which will eventually lead to much more broad understanding and applicable developments.
+
+We NEED this kind of information. 
+
+
+
+
+ It seems like a primary aspect of this study/trial was eliminating stress. Stress by itself can cause significant cognitive/memory issues. Without very specific and highly significant changes in cognitive measurements, I'm inclined to believe that this probably doesn't alter the Alzheimer's pathology itself, but instead removes the additional mental hit caused by severe stress. 
+
+
+
+
+ One thing I notice with most of these videos is at least some of the cops seem compassionate/dismayed after these incidents. It gives me hope.
+
+Towards the end of that video you can see one of the cops give the "wtf?!?" gesture towards the officers who sprayed the protesters. They should be the ones getting the promotions, not the officers who spray people in the face when they aren't a physical threat. 
+
+
+
+
+ The changing stances of those around him seem to indicate dismay. Even his own comrades are probably asking 'why?'.
+
+More images like this will only result in more protesters, and more anger. Hopefully it makes its way around China some before getting completely blocked. Even if they don't support the protesters (and why would they?) at least the Chinese citizens can display their own anger at these police tactics in a modern world. 
+
+
+
+
+ The ants are getting restless. 
+
+
+
+
+ It doesn't directly. The isolation does, and it's necessary for prolonged isolation. 
+
+I'm not some backyard bunker fanatic, but I do believe if you have an opportunity to prepare for certain emergencies, it would be unwise to not do so. I'd rather have a holdout/isolation destination that goes unused, than be stuck without one and wishing I had one during an improbable but possible widespread emergency. 
+
+
+
+
+ At the simplest and incremental backup system will take up the space of the base file, plus the size of each of the incremental changes, along with a small overhead for indexing/tracking the changes. Typically the incremental backup software will store previous incremental changes with compression, to further reduce space (but increase restoration time). 
+
+With files that change infrequently or only have minor changes incremental backups will be a very wise use of space. I would definitely advise against it for files that change extensively and often however, because the amount of space you require will skyrocket. Additionally incremental backups will not be very efficient storage-wise if you are using them regularly against compressed media files that change. For example, you may be better off with full backups if you are altering and re-encoding mp4s, as most of the file content will change and the added incremental backup overhead will not be worth the benefits. 
+
+
+
+
+ Classified documents, war plans, wiretapped conversations, and... 
+
+Oh. I mean... it's mostly films in .mp4 containers, coming in at about ~2GB per film on average. The second biggest thing is full backups from previous desktops, and also some current backups for important files. 
+
+I think for most people the answer will be media, media, media.  
+
+
+
+
+ I'm almost 29 and my optimism continues to go down with age. I have an excellent job that most people would only dream of having financially... But my Facebook feeds are full of photos of my friends' kids and their first days in grade school... Meanwhile here I am, just trying to keep from losing things like my job, my health, etc etc. Nothing is being added, only slowly taken away.
+
+Yay! Depressing Monday! 
+
+
+
+
+ I wonder if the train engineer slightly shit his pants seeing a man in the distance put something in the tracks before running away. 
+
+
+
+
+ I have. With something like cotton it's easy to get a light, especially when motivated. Not dying would be very motivating. 
+
+
+
+
+ Damn. If I were fighting back then and it was such close combat I'd equip myself with flint/tinder and some oil. When the armored foe got close enough just throw the oil on him, light the torch and roast the son of a bitch. I wouldn't want to get stabbed in the eye! 
+
+
+
+
+ I'm afraid as long as Islam exists the world will be raging war against atrocities carried out in its name. 
+
+
+
+
+ Good for them and good on the doctors for allowing them to keep their dignity instead of eventually wasting away in nursing homes while cruelly being kept alive only to endure suffering. 
+ 
+
+
+
+
+ Are there fishermen dependent on these areas for their livelihoods? Are they going to get any support from the government?
+
+Corporations can get the fuck out. But I feel for private fishermen should any lose their ability to earn a living.  
+
+
+
+
+ Traffic data is largely generated by measurements of Android users' GPS coordinates while they are determined to be travelling on the roads. It's automatic and it's transparent.
+
+It'd be really difficult to get roadkill data reliably and accurately, as it'd pretty much certainly be based upon user reports.   
+
+
+
+
+ Cool, and my GPA is the same.  
+
+
+
+
+ Fly to Africa. Get Ebola. Fly back to the US. Buy a spandex suit. Draw a snazzy design on it. Go to the White House and jump the fence while screaming you are the one and only "Ebola man!". 
+
+
+
+
+ I see other parking spots available.  
+
+
+
+
+ Countering an ass move with another ass move doesn't nullify the ass moves. Now you just have two ass moves. 
+
+
+
+
+ Are you kidding me? Obvious troll. That part of the world has been on a decline since before the USA even existed.
+
+Having fun under the bridge? 
+
+
+
+
+ ISIS is like new viral outbreak, you can either stamp it out when it first takes hold, or you can wait until it becomes a worldwide disaster.
+
+Ebola really isn't currently OUR (the US's) problem right now either, but would you prefer to leave that to the locals too? 
+
+
+
+
+ Is the building leased? It's probably connected to higher voltage lines in case the company leasing the building wants to run equipment. 
+
+
+
+
+ OS   Browser accessibility features allow for this, assuming the website has proper markup/notation describing objects. The users will be 'read' the text associated with checkboxes/text boxes/etc and can iterate through them. On a website like Reddit, and most websites, it would be a real challenge due to the quantity of content pieces... but it is doable.  
+
+
+
+
+ Seeing that on any fridge would weird me out a bit. The outside of a single man's refrigerator door should be a barren landscape of masculinity.  
+
+
+
+
+ I think your wife probably wonders why there is a command center in your house =P 
+
+
+
+
+ It took me a while to establish a connection from my lunar outpost on the dark side of the moon, but thanks for sharing this terrific article! Welp! Back to collecting moon rocks... See ya later! 
+
+
+
+
+ * **Redeemer** from Unreal Tournament
+* **Celebral Bore** from Turok
+* **BFG** from Doom series
+* **Ripper** (shoots spinning discs that ricochet off walls and decapitate people)  from Unreal Tournament 
+* **Snarks** (little creatures you can release that chase down enemies/players) from Half-Life 
+
+
+
+
+ The filming style conveys sort of an eerie feeling... I love it.  
+
+
+
+
+ And his wife sounds like she's extremely aware of the extreme retirement. 
+
+
+
+
+ All this has to do is cross over into a war zone like Syria or certain parts of Africa, and then we're all in trouble. 
+
+
+
+
+ As stupid as it may sound... Aren't these pranksters technically terrorists? They are using terror to advance their own cause (YouTube audience). 
+
+
+
+
+ Just curious. How do you know you have the same thing? Were you tested? 
+
+
+
+
+ Originally I thought Snowden had the right intentions. Now I think he's just out to stay relevant and smear the US anyway he can. 
+
+The initial documents he released after fleeing the US were about programs that were targeting US citizens unfairly and unjustly. But as time has gone on the documents are getting to the point where they are only hurting US citizen interests. Even ISIS is using his documents to help evade detection, because he released documents that had information about monitoring protocols in theaters of war... He should have stopped while he was ahead a long time ago.  
+
+
+
+
+ Some people treat Reddit like it's a nation and take everything so seriously it's facepalm worthy. **It's just a fucking website where people go to waste time!** 
+
+
+
+
+ Your Dad is a pretty cool guy Sam. He looked so cool I decided to take my time machine back to greet him Sam. 
+
+Side note: Paint sure is sticky! 
+
+
+
+
+ Oh you! 
+
+
+
+
+ "Ferguson was enough for me! I'm tired of all these white people!"
+
+White house under attack in 3... 2.... 1 
+
+
+
+
+ European politicians need to take a stand against this otherwise it's going to continue to spiral out of control. Extremist Muslims living in Europe and Australia are already publicly calling for beheading 'infidels', yet these countries don't crack down on such Muslims... I suspect it's because the politicians are scared that they will become targets of violent Muslims. But if they don't act soon, then every non-Muslim will be a target. 
+
+
+
+
+ Are you fucking kidding me? Your post/comment history includes much anti-Jewish content and you're calling the OP out for supposedly being anti-Muslim because he posted an article pertaining to a logical action? 
+
+You're part of the core of the Muslim problem dude.  
+
+
+
+
+ Christian militias going around attacking Muslims in the Central African Republic isn't right, but I'm not sure that's a fair comparison. Those militias were established after many constant and brutal attacks from Muslims on Christian villages. The villagers finally had enough and realized there was no safe escape, so they began to form militias to attack the Muslim attackers. In the process those militias began driving out all Muslims to avoid future attacks. The point being they are not doing it because they believe their religion says they should... They are doing it because they are/were under attack by Muslims who were trying to violently push their religion.
+  
+
+
+
+
+ The student was Barry Kidston and 18 months later he died of a cocaine overdose. He really wanted that high. 
+
+
+
+
+ How many people are able to comfortably fit and play from the truck? 
+
+
+
+
+ That's incredible. It's like an apocalyptic death machine coming to destroy everything.  
+
+
+
+
+
+
+
+
+
+ I think it's very common knowledge that Russia invaded and attacked Poland. But I do not think it is common knowledge that when doing so they claimed to be protecting Ukrainians. That part was not taught to me in school, so it's a TIL. 
+
+
+
+
+ I think it's very common knowledge that Russia invaded and attacked Poland. But I do not think it is common knowledge that when doing so they claimed to be protecting Ukrainians. That part was not taught to me in school, so it's a TIL. Any questions? 
+
+
+
+
+
+
+
+
+
+ Maybe he suspected he was dosed with something (who the hell wouldn't if they suddenly had a weird experience while working with the CIA?), and saw it as a good time to quit the business. 
+
+
+
+
+ For example what are some common products/services that should be avoided?  
+
+
+
+
+ Regardless of any potential psychiatric issues this guy had poor judgement... You're a young teacher, and you choose to write about a school shooting? That's going to make for some interesting parent teacher conferences at the very least! 
+
+
+
+
+ I dig ponds, dig ditches, and clear rock manually on a farm with a shovel to get my muscle building in. Everyone thinks it's silly. But I find it much more silly that they go to a gym for several hours each week, and leave without accomplishing any tangible work. 
+
+
+
+
+ Easily renewable at the moment. But people don't seem to realize how big of a problem logging will be for us in the relatively near term future. 'Typical' logging land not receiving new sediment from river sources has been shown to be able to last ~1000 years with heavy logging before nutrients are depleted. 1000 years is a long time, but in areas in China much land has been depleted of key minerals/nutrients and can no longer sustain logging... Eventually that'll start occurring around the world, and we'll be forced to fertilize logging zones. Something that won't be very easy. 
+
+
+
+
+ Saudis' rule by fear. Public whippings are very common, as are other physical forms of punishment that don't result in death. If a group in Saudi Arabia declared part of the country as a democratic breakaway, I have little doubt the Saudis would be extremely ruthless in their efforts to suppress it. 
+
+
+
+
+ I'm not a realtor, but as someone who has looked at many mid-range homes ($400-600k in my area) and put inspections/offers on a few... If they have JUST put in carpeting, ask the previous owners why they put it in. Also walk around and feel for uneven spots. I've been to two places with brand new carpeting, and with both of them it was a sneaky way of hiding uneven spots in the floor.
+
+And it's not really a question, but more of a tip. Watch for trees that are too close to the house. For one they can damage the foundation (your inspector will let you know if any damage has already occurred) and secondly they can make it an absolute bitch to clean your roof + gutters.
+
+Plus a no brainer: Ask how old the roof is, and how long it is rated for. 
+
+
+
+
+ Saudi Arabia is essentially what Islamic State terrorists are creating elsewhere in the Middle-east. The main difference is that Saudi Arabia has been long established and people are already beaten into submission, while people are still fighting back against the Islamic State. 
+
+
+
+
+ Absolutely. This should be one of the Reddit rules. Not posting pictures of people not already in the public eye for the sole purpose of ridicule. 
+
+
+
+
+ Imagine how radically geopolitics would change if our US President proposed a unity with Iran and Syria against barbaric terrorist groups, and also acknowledged ideological differences and mistakes in the past. He'd pretty much become an infinitely better president over night. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Some were throwing bottles (including glass bottles) at police. 
+
+
+
+
+ It seems like it's a few minutes behind. It's a broadcast TV station so I'm guessing it may be a delay to allow them to quickly stop broadcast if something needs to be censored (like extreme profanity tirades, etc). 
+
+
+
+
+ There is another slightly delayed stream at http://new.livestream.com/ktvi/live . The police are demanding that members of the media leave the area of protest... Most reporters have been forced out, but a few remain. 
+
+
+
+
+ But they just announced there will be a grand jury? This Viper station seems to be the only one reporting this. I'm very skeptical. 
+
+
+
+
+
+
+
+
+
+ It's very different than MS in both symptoms, severity of symptoms, and progression rate as well as pathology. MS is thought to be caused by myelin sheath degradation/destruction, whereas ALS is caused by motor neuron death. 
+
+To put it into computer-like perspective based on current pathology suspects: MS is like having a network cable between two computers that is damaged/being damaged, so sometimes messages between the two behave incorrectly... If you repair the cable you can alleviate the symptoms (in MS your body will try to repair myelin as well), as the source and recipients are just fine. ALS is like the network card going bad... eventually messages will not be able to be sent or received, and the progression to failure is usually much faster. 
+
+
+
+
+ So does this mean that those with Parkinson's Disease will always feel tired and sleep a lot more?  
+
+
+
+
+ Being a neurosurgeon must be very stressful... Being a neurosurgeon under the public eye must make it even more stressful. What do you find yourself doing to relax and destress? 
+
+
+
+
+ Dysautonomia is mostly just the catch-all syndrome, and I have it too =(. I'm curious if you're one of the lucky ones to know the underlying cause?
+
+ 
+
+
+
+
+ It's truly incredible how common rare diseases really are across the population. I have a neurological/autoimmune illness and while the specialists know what antibodies I have, and what the symptoms are, very little is actually understood about the illness... to the point where it doesn't even have a name. 
+
+Prior to the antibody find I was told I may have the following ALS (first), Stiff Person Syndrome (two months later), Neuromytonia (three months later), Parkinsons or Multi System Atrophy (six months later). Then when they found the antibody they told me it was none of these previous suspects. The only real treatments currently known are suppression of the immune system or plasma exchange (both treatments I have been lucky enough to avoid)... And those are basically some of the most generic treatments out there. All of this both scares me and excites me when it comes to our understanding of neurological illnesses... It scares me because often diagnoses are often just educated guesses and change frequently with the symptoms, and because the underlying pathology of many of these illnesses is unknown. But it greatly excites me also, because I can see we are in the infancy of understanding, and that means incredible advances lay before us! 
+
+
+
+
+ Stephen Hawking's case is extremely rare, and there are theories that the underlying pathology may be quite different from most ALS cases. Unfortunately ALS typically robs the sufferers of life within a very short period of time... Rarely is survival greater than a few years. It's a very very scary disease. 
+
+Luckily there are some companies working on some promising treatments (check out Brainstorm's clinical trials). Currently there is only one treatment available, and it only extends function for weeks or a few months. Breakthroughs can't come soon enough. 
+
+
+
+
+ They weren't burning down stores, they were burning down college campus buildings. They even attacked the firefighters responding... They weren't really that peaceful.  
+
+
+
+
+ The violent 'protesters' have been causing trouble for over a week. They seem hellbent on getting some violent clashes to take place, probably because they foolishly find it to be adventurous and fun. If they haven't stopped yet, they probably won't stop for the National Guard. It's going to be very interesting, because in many previous historical instances where the National Guard is called in to stop riots, they end up shooting and killing multiple rioters... and that was before social media. Now with Twitter, Facebook, and all the other social media so easily accessible, I could foresee this turning into long term 'insurgency' of sorts, with race being the underlying factor in who is being attacked and who is attacking. 
+
+
+
+
+ When the police first fired rubber bullets and tear gas at the peaceful protesters I was on the side of the protesters. Now that they've started looting, becoming violent, and not contributing to peace... I hope the National Guard crushes those that come out at night to stir trouble. 
+
+
+
+
+ This is a stupid "solution" and just a populist idea. Weapons are not the core of the problem here, the problem is the behavior and heavy handed tactics of some police departments...  If you take away some of their military grade weapons, those individuals that see them selves as macho military types will not suddenly become respectful of citizen rights.
+
+ 
+
+
+
+
+ That's absolutely what they mean. Not all black people though, just the true gangsters and wannabe gangsters. I think a lot of people hate those types, but it's very politically incorrect to say you hate 'thugs' so they keep it inside. 
+
+
+
+
+ Except this is divided along racial lines instead of political ones, so it's unlikely to spread too far. However if it does spread it'll probably get ugly, because a lot of people are looking forward to a race war. Several people I know have said they hope it spreads so they can begin gunning down thugs in their neighborhoods. They are mostly joking... but I think part of them truly believe that. 
+
+
+
+
+ What a total clusterfuck. The black rioters are burning down the town, looting, and shooting at police helicopters... and the police will be hesitant with a strong response, because that's what the protests are all about. 
+
+
+
+
+ Blankets.
+
+Ask your friends and family to bring you extra blankets when you're in prison. It's going to be cold :) 
+
+
+
+
+ Nothing sells newspapers like a good ol fashioned race war!  
+
+
+
+
+ It makes it seem so "real" (not in the holocaust denial sense, but in a compassion sense). Whenever I read about World War II and the atrocities committed it seems so distant, as if I were reading about Genghis Khan. 
+
+Recently I've started to realize just how brutal and barbaric the Nazi's were... I mean I knew they were brutal, and did terrible terrible things, but again it felt so distant. But now I see videos from Iraq of civilians being tortured and killed in mass by the 'Islamic State'... The Islamic State members say they are determined to wipe out entire races/religions and are clearly moving forth in that plan. I can imagine how terrifying it must be to be one of those targeted civilians in Iraq... and then it begins to dawn on me just how terrifying it would have been in Nazi Germany, because unlike Iraq, in Germany it was an entire nation wanting to kill you.  
+
+
+
+

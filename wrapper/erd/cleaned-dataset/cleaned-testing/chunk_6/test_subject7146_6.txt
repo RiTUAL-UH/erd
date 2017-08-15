@@ -1,0 +1,448 @@
+ I had some extra cash, so I got the bundle of all the stamps,plus 1 more. Was it worth me jumping around the servers with a giant hat and having everyone ask wtf is that? A little. I wouldn't do it again. But I am a supporter of all the maps now, so there's that I guess.  
+
+
+
+
+ Ugh, the Cherry Blossom Festival is the worst. Tons of people and vendors to look at trees. They're pretty enough, but I don't see the appeal to hang out in huge crowds for something you can see at  times when the crowds aren't there. 
+
+
+
+
+ I believe Adblock will let ads play if the sponsor pays them. Pretty shitty of them, really. 
+
+
+
+
+ I got the [Philateler](https://wiki.teamfortress.com/wiki/Philateler) for a day. Same premise, but for buying the most stamps in TF2 for the day. Rolls around at 7 pm CST. I played the hell out of TF2 that day, it's actually a pretty cool, HUGE hat. 
+
+
+
+
+ Reboot? It's an ongoing series...  
+
+
+
+
+ If the PS3 won't play .mkv files (or other ones for that matter) it will transcode them (convert them on the fly). This, however, slows down your streaming speed as it uses much more processing power, and you can end up having to wait every once in a while on your buffer to fill back up as you try to watch it. The better option is to convert your video file with something like Handbrake to a format your PS3 will play, and use that file on Plex. 
+
+
+
+
+ What about Friday Night Videos? I think they came out around the same time. 
+
+
+
+
+ I remember the first time we rented a VCR and a couple movies. Movies without editing or commercials at home was absolutely awesome. 
+
+
+
+
+ I can't count the number of times I woke up to either the beeeeeeeeep of the off-the-air signal or white noise. 
+
+
+
+
+ Searching the couch cushions for the TV Guide was a national pastime. 
+
+
+
+
+ Back in my day, we spun a dial on the phone corded to the wall to make a call, our long-distance calls were kept to a minimum because they cost so much, we had 4 networks on TV and the only cartoons were on Saturday mornings, we didn't need seat belts or insurance to drive around, our electronic entertainment was playing our albums at 78, our sandbox games were erector sets and legos, all our food was prepared on the stove and in the oven, and our doors were never locked.   
+
+
+
+
+ We had 2 channels each for NBC, CBS, and ABC, one on VHF and one on UHF. Doubled the variety of shows between the soaps and prime time. 
+
+
+
+
+ I think I broke my brain a little trying to read this. 
+
+
+
+
+ WiFiKill, but I'm a dick, so. 
+
+
+
+
+ It's all about how you present yourself.  
+
+
+
+
+ lol I can't believe all my searching around didn't pop this up.  
+
+
+
+
+ Imagine the time it's taking to develop this amazing skill, the painstaking hours upon days upon years to be this good.  
+But if you want real karma, snap a quick pic of your kitten.  
+Reddit appreciation. 
+
+
+
+
+ [Internet Speed Meter](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite) shows your data speed at all times. I'm addicted to seeing how fast I'm transferring any type of data as it's happening. 
+
+
+
+
+ Yeah, that's the one I wasn't quite sure about. I've only just started rewatching them in this order (after a good year of watching any of them at all) and haven't gotten that far yet. I only put it first because it was aired a year earlier, but included it in season 5 since the production code is for 5. Should Halloween be watched after What Color? I don't remember if it showed any links between the 2.
+ 
+
+
+
+
+ I grabbed some from [IconArchive](http://www.iconarchive.com/category/movie-icons.html). Lots of goodies there. 
+
+
+
+
+ Yeah, I just did it a week ago, and the db edits survived an update as well. 
+
+
+
+
+ I think I read about the IOS thing, I don't believe anyone had a solution for it. 
+
+
+
+
+ NOTE: This won't work for IOS clients as The_Dogg pointed out. I'm using a Windows client and it works fine. It should work fine for Linux as well (If you're using Linux, you probably have the know-how to edit the steps to work for you.)
+
+This took some Google-Fu to get right. I took info from a couple of articles and forum posts. No one had everything right for me (I'm using Win 8), but all the pieces were there. This pops up whatever icons I wish on my Rokus. I have maybe a dozen libraries, and when I'm scrolling through them I couldn't see the names of them or tell them apart except for the type and the library I'm about to select. So here's what to do...   
+
+Get your icons ready. I made mine 240 x 240 .png images, and they work great. Put them in a folder on the same drive as your Plex server (I keep an icon folder for such things.)  
+
+Shut down your Plex server. I missed this one my first time through and it really didn't like it.  
+
+If you don't have [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/?icn=tabz) then get it, and install the [SQLite Manager plugin](https://addons.mozilla.org/en-us/firefox/addon/sqlite-manager/). If you have an alternate way and the know-how to edit SQLite DB files, all the better, and you'll have the knowledge to deviate from the next steps as needed.  
+
+Find your file com.plexapp.plugins.library.db. Mine is in C:\Users\username\AppData\Local\Plex Media Server\Plug-in Support\Databases\   
+
+Make a copy and put it somewhere safe. Backup, backup, backup should always be your mantra whenever you start fiddling with stuff. Always.  
+
+Go into your tools menu in Firefox, and select the SQLite Manager.  
+
+Select "Database" at the top, then "Connect Database". Change file type (right above the Open and Cancel buttons) to "All Files", navigate to the folder containing your com.plexapp.plugins.library.db file, and open the file.  
+
+In the left pane, select "library_sections". In the right pane, select the "Browse   Search" tab. You should now see all your libraries with their accompanying info.  
+
+Either highlight the library you wish to edit and hit the "Edit" button, or simply double click on the library. You'll see all the fields in a separate window. It helps to drag and expand the window.  
+
+Field 9. user_thumb_url ( varchar(255) ) is the field to edit. Some folks said they could simply put in the url of an image and it'll load, but it never did for me.  
+
+Put the file directory and name in. My icons are in C:\Users\username\Icons\ so with an icon image named KidsMovies.png I use this format...   
+**file:///Users/username/Icons/KidsMovies.png**  
+(Note the 3 / characters after file:, 2 of them is an escape character so it has to be nulled as I've been led to believe.)  
+
+Press "OK", "OK" again, then "Cancel" to back out of that window, choose another library, and repeat. When you're  completely done hit "Database" at the top again, then "Close Database".  
+
+That's it. I had to reboot my Roku, but it works great, and flipping through the libraries is much nicer. Why this isn't an option in Plex, I have no idea. Doesn't seem like it would be hard to implement an option to edit the db within the server itself, but I'm not a programmer.  
+
+Hope this helps someone!
+
+edited: note 
+
+
+
+
+ Futurama was my first experience with having to change things manually in Plex, took me a while to figure out how to get the specials to show. Now I am breezing through them pretty quick. Copy/paste from TVDB for stuff. The season covers won't show up since Plex is having issues trying to load data, so more Google-Fu for covers and paint.net to trim them up. I just put the specials in with the regular season episodes for correct chronological viewing.  
+Almost done with season 2 now... 
+
+
+
+
+ I wanted this too, so I figured it out with some research after finding no list out there anywhere. [I posted the list here.](http://www.reddit.com/r/venturebros/comments/2uvfbo/correct_viewing_order_of_the_venture_bros/) 
+
+
+
+
+ I have them on Plex, which follows the airing order according to TVDB, so I'm in the midst of manually changing everything in Plex. Fun, fun, fun. 
+
+
+
+
+ I was reading the wiki, and read that CN aired the first 3 seasons  out of order, and the production codes were out of order as well. I never did find a list, but Wiki says that the DVDs were released with the correct order. After some Google image searching I found the back covers of them and made my own list. So here it is...   
+
+Season 1  
+The Terrible Secret Of Turtle Bay (Pilot)  
+Dia de Los Dangerous!  
+Careers in Science  
+Mid-Life Chrysalis  
+Eeney, Meeney, Miney...Magic!  
+The Incredible Mr. Brisby  
+Tag Sale - You're It!  
+Home Insecurity  
+Ghosts of the Sargasso  
+Ice Station - Impossible!  
+Are You There, God? It's me, Dean.  
+Past Tense  
+The Trial of the Monarch  
+Return to Spider-Skull Island  
+A Very Venture Christmas  
+
+Season 2  
+Powerless in the Face of Death  
+Hate Floats  
+Love-Bheits  
+Escape to the House of Mummies (Part II)  
+20 Years to Midnight  
+Victor Echo November  
+Assassinanny 911  
+Fallen Arches  
+Guess Who's Coming to State Dinner?  
+I Know Why the Caged Bird Kills  
+Viva los Muertos!  
+Showdown at Cremation Creek (1)  
+Showdown at Cremation Creek (2)  
+
+Season 3  
+Shadowman 9: In the Cradle of Destiny  
+The Doctor is Sin  
+Home is Where the Hate Is  
+The Invisible Hand of Fate  
+The Buddy System  
+Dr. Quymn, Medicine Woman  
+What Goes Down, Must Come Up  
+Tears of a Sea Cow  
+Now Museum, Now You Don't  
+The Lepidopterists  
+ORB  
+The Family That Slays Together, Stays Together (1)  
+The Family That Slays Together, Stays Together (2)    
+
+Season 4  
+Blood of the Father, Heart of Steel  
+Handsome Ransom  
+Perchance to Dean  
+Return to Malice  
+The Revenge Society  
+Self-Medication  
+The Better Man  
+Pinstripes   Poltergeists  
+The Diving Bell VS. The Butterglider  
+Pomp   Circuitry  
+Every Which Way But Zeus  
+Everybody Comes to Hank's  
+Bright Lights, Dean City  
+Assisted Suicide  
+The Silent Partners  
+Operation P.R.O.M.  
+From the Ladle to the Grave: The Story of Shallow Gravy  
+
+Season 5  
+A Very Venture Halloween  
+What Color is Your Cleansuit?  
+Venture Libre  
+SPHINX Rising  
+Spanakopita  
+O.S.I. Love You  
+Momma's Boys  
+Bot Seeks Bot  
+The Devil's Grip  
+
+Season 6  
+All This and Gargantua-2
+ 
+
+
+
+
+ I heard that same thing growing up. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Says the person who must go in and comment on the comment on cats.  
+
+
+
+
+ I've been told a couple of times you only need 5 or 6 for good streaming, but I really don't know for sure.  
+
+
+
+
+ Co-inventor of the high/low five.  
+
+
+
+
+ By doing on to the most have.  
+
+
+
+
+ I've had this too. I assumed the buffer was empty and that skipping back was just an alternative to freezing the screen while it reloaded a bit.  
+
+
+
+
+ Yeah, but it works well, and simplifies things.  
+
+
+
+
+ So did you get your info? 
+
+
+
+
+ And another learns the value of backups the hard way.  
+
+
+
+
+ Yeah, that got me at first too. What I missed was the folder title, not just the episode titles. 
+
+
+
+
+ Change them to what? I have this issue, and have to change every episode. I use Filebot to name them as Doctor Who (2005), the folder name is... oooooh. Doctor Who. Damn. Ok, good advice :)
+
+edit: Changed the folder name to Doctor Who (2005) and it got everything right. Nice catch, thnx. 
+
+
+
+
+ [Also, check this app out.](http://www.androidpolice.com/2013/04/29/new-app-nandroid-manager-gives-rooted-users-full-control-of-their-nandroid-backups/) 
+
+
+
+
+ I'm looking at my Titanium Backup Pro backups now, and see the following...  
+Accounts  
+Application Widgets  
+Bluetooth Pairings  
+Call Log  
+Country, Language, Time zone  
+Messages (SMS   MMS)  
+Wallpaper  
+Wi-Fi Access Points  
+
+With a custom recovery (which I'm assuming you have installed) you can do a nandroid backup, which includes absolutely everything. I remember some time ago (I haven't needed to fiddle around with flashing for quite some time) that there was an app or something that pulled data out of your nandroid so you could just restore what you wanted out of it, though I don't recall the name. It's on XDA somewhere (which really should be your first stop on all things Android.) TB also will pull apps + data from nandroids, but I'm not sure about other info.
+
+As far as a backup that you don't need root to backup and restore app data (and possibly other things, you'll have to research it) as well as just the apps, Helium can do that.
+
+I am, however, at least a year out of the loop. I used to wipe and flash my phones almost daily just playing around, but between TB, Helium, and my nandroids, I had most everything covered.
+
+edited: more stuff 
+
+
+
+
+ Dear God, don't hide that! Women love the idea of taking a virgin almost as much as men. 
+
+
+
+
+ Did you consider just synching them to Google Drive or something?  
+
+
+
+
+ I have to admit I have no idea who you're talking about.  
+
+
+
+
+ Mine was downvoted into oblivion. I learned right off the bat that the reddiquette is a pipe dream, and that valid comments with merit which don't follow the popular mindset are utterly skullfucked to death. So I simply stopped commenting or even reading opinion pieces, and stick to questions asking for help with stuff (Android as an example) or interesting news and other junk like that. I just have different options than too many redditors, and how they handle honest debate is a too disheartening to be a part off. 
+
+
+
+
+ Dying over and over. Gotta mess with one's mind. 
+
+
+
+
+ Yay! More happy for me! 
+
+
+
+
+ Oooo, no, I installed Fast a couple years ago and hadn't felt the need to try a different app, probably because I only check my Facebook once every couple months. But I'll dl it and see what it's like, thnx for the tip. 
+
+
+
+
+
+
+
+
+
+ Plus, this is the internet. "Best ever" doesn't even come close to applying here. 
+
+
+
+
+ This is Reddit, where /r/trees is a default subreddit. You think you're going to get non-biased answers to this question here? 
+
+
+
+
+ Yeah, you can wipe cache, there are plenty of good apps that will do this for you, but if your phone is usually laggy, cache probably isn't the problem. If you really want to help your phone, delete apps that you don't use. Then look at the big ones, and see what options you have for those. I don't use the official Facebook app myself, I use Fast for Facebook. There are good alternatives to lots of the large apps. But too many apps, or crappy ones that intrude into places they really don't need to be, are one of the biggest lag problems. If your phone is especially old and long out of warranty, CyanogenMod ROM or the like can really help alot, but unless you know what you're doing, rooting and installing a custom ROM takes real time and research. It's something you don't want to do until you understand all the ins and outs. 
+
+
+
+
+ 100% wrong. Factory reset will wipe apps, accounts, contacts, etc. Cache is just a chunk of memory where data is kept by various apps for quick access. Your dalvik cache can even by wiped without losing your apps. You lose nothing by wiping cache. 
+
+
+
+
+ Cigarettes. Nuff said. 
+
+
+
+
+ Same boat here. I usually bring up I don't like them in my life, and go from there. 
+
+
+
+
+ I'm pretty sure he was asking about opinions about relationships, not whether drugs are moral or not. 
+
+
+
+
+ Well, since they aren't real, I'll just go with magic. 
+
+
+
+
+ I've had this happen a couple times, didn't get our drops either time. 
+
+
+
+
+ PUT YOUR FUCKING MOUTH ON THE CURB! 
+
+
+
+
+ I pay mine online monthly, choose auto-refill for the discount, then cancel it a couple days later. Been doing it for almost a year. 
+
+
+
+
+ She was a dead fish. I mean, as soon as things heated up, it was like I hit a switch and she lost the ability to move. It felt like I was raping someone I slipped a roofie to. After a month, I couldn't take it. Way too creepy.  
+I got a bonus out of it though. I can say I had anal with a high school math teacher. 
+
+
+
+

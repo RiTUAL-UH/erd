@@ -1,0 +1,98 @@
+ I guess part of it has to do with not just speed, but cost.  As sequencing becomes both faster and cheaper, not only would a researcher or a doctor sequence the genomes of more patients (for example), they would also use sequencing to look at gene expression, sequence the genome of tumors over time to look at mutations causing new drug resistance, sequence various types of samples to look at microbial populations in the digestive tract or elsewhere. 
+
+
+
+
+ In addition to what /u/skgoa said, both types of information transmittal that you described occur in the nervous system.
+
+The action potential fired by a neuron is stereotyped, always the same, but some sensory neurons do represent the magnitude of a stimulus (such as pressure) by increasing their frequency of firing, as you describe in your question. If I'm remembering my basic neuroscience correctly, in many cases this happens on a log scale--e.g. a stimulus 10x stronger would induce 2x increase in firing rate.
+
+In addition, dedicated neurons and neuronal circuits detect specific types of stimuli.  Light pressure would be detected by pressure sensory neurons in the skin; heavy pressure might also activate pain neurons, and the resulting subjective experience would be painful pressure. 
+
+
+
+
+ Open access article is here: http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002195 
+
+
+
+
+
+
+
+
+
+ This news article mentions a hypothesis that selection pressure to avoid predatory birds influenced early bats to become nocturnal, and that the earliest bats did not use echolocation: http://www.theguardian.com/science/2008/feb/13/bat.evolution. 
+
+
+
+
+ I've never worked with qPCR in a clinical setting, so how is 15 minutes achieved?  What about RNA extraction and cDNA synthesis steps? 
+
+
+
+
+ Another example of auditory hallucinations that may be pleasant is musical hallucinations.  Some people find them irritating or disruptive, but others may enjoy them.
+
+Link that mentions pleasant musical hallucinations in passing: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105559/ 
+
+
+
+
+ Even with the link to the paper reference, I can't see the full text of the original study.  I wonder what species they are comparing gray squirrels to?  Other squirrels, or other rodents?  It is neat that the squirrels change learning tactics quickly, but I wonder whether this is actually cognitive flexibility that contributes to their invasive success, or a trait that many rodents share. 
+
+
+
+
+ Thank you for taking the time to do this AMA, Dr. Heng!
+
+My understanding is that there are many different risk factors that predispose women to preterm labor and delivery, and you mention in your discussion that this heterogeneity may have contributed to small gene expression fold changes in your study.  Would it be feasible to identify several biomarkers that are more reliable for different sub-populations of patients?  In a clinical context where a rapid diagnosis is important, what kind of labwork (qPCR?) does one use to examine biomarker expression, and is there a practical limit to the number of genes that could be tested?
+
+Thank you again! 
+
+
+
+
+ When someone says "but I want X": " Want must be your master!" From The Enchanted Castle, by E. Nesbit.
+
+A very bad habit, since no one recognizes it and therefore it probably sounds weird or rude. 
+
+
+
+
+ Thanks for taking the time to answer!  Unfortunately, this is not quite what I was looking for.  I'm aware of the chemical complexity of odors, but for this activity I'd like to relate the subjective properties of  floral scents to the type of pollinator that each plant is adapted to attract (e.g. flowers that are pollinated by bees often have scents that a human would identify as moderate, floral and pleasant, while some fly-pollinated flowers have pungent, foul odors.) 
+
+
+
+
+ I've read a little bit about an ecology of cognition theory that suggests species with bigger brains and/or greater plasticity of behavior (~intelligence) tend to be more successful when adapting to urban environments.  Does that fit with your knowledge of the species that dominate in more urbanized areas?  Have your cameras captured any interesting instances of learned behavior (eg, crows using traffic patterns at intersections to crack and retrieve nuts.)
+
+Edit: is the fennec still at the zoo?  I saw it a few years ago and it was the highlight of my summer! 
+
+
+
+
+ I am designing an outreach activity related to pollinators and pollination, and would like to include a comparison of the odors of different flowers.  For logistical reasons I'd like to include a sunflower description, but haven't really smelled sunflowers too often . . . or at all?  I realize scents are tricky to describe except by relating to other scents, but any input at all would be great.  Google isn't helpful, and I'm not confident that a sunflower perfume is an accurate representation.
+
+I wonder if this is hard to answer because they have a mild scent and are often too tall to get "personal" with? 
+
+
+
+
+ This is great research.  I know just a tiny bit about biomarker research in cancer.  Why the choice to look on the level of protein, rather than mRNA?  Are these results easier to transfer to a clinical setting?
+
+I hope this isn't a dumb question :-/ 
+
+
+
+
+ Original article is open access, a more public-friendly summary is here: http://www.treehugger.com/lawn-garden/4-plants-your-garden-reduce-west-nile-virus-risk.html 
+
+
+
+
+
+
+
+
+

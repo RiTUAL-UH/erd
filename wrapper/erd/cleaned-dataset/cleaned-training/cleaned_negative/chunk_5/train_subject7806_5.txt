@@ -1,0 +1,87 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Surprisingly yea though I like Alasdair very much! 
+
+
+
+
+
+
+
+
+
+ Thanks for the info. So there is no existing solution for this? 
+
+
+
+
+ Yea so my question is, is there and Arduino-like product that has a good enclosure as well without having to design it with a 3D printer?
+
+ 
+
+
+
+
+ Thanks but as I said in the earlier comment, she won't like the Arduino shape itself, I need a well designed enclosure package. 
+
+
+
+
+ Yea but I meant the packaging and enclosure + I don't want to build a  new PCB, I have space for the Arduino but itself needs to have a good package design.  
+
+
+
+
+
+
+
+
+
+ I mean a beautiful designed platform that I can use to build the project and then give it to someone as a gift, something without the hassle of wires and visible boards. Any ideas of the existence of such platforms? 
+
+
+
+
+ Yea I send SMS and it stops :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks for the answers guys! 
+
+
+
+
+
+
+
+
+
+ Super cool! Add [1Sheeld](http://www.1sheeld.com) to the collection, it turns your Android smart phone into a generic Arduino shield, so you can use its sensors and capabilities.  
+
+
+
+

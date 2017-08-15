@@ -1,0 +1,26 @@
+ Good, glad to hear things are running better now. 
+
+
+
+
+ Because imagine the letters as water and the picture as an object. The water (text) just gets displaced. Also, "through" should make the text go through the image, mine must be messed up, sorry. 
+
+
+
+
+ Have you tried running an anti-virus/anti-malware program to try and deal with it? Adblock is a good addon to have with Google Chrome also. 
+
+
+
+
+ Run the following commands in cmd, after completion restart your computer. Let me know how it goes. 1)netsh int ip reset C:\netsh.log.txt 2)netsh winsock reset 3)net stop netman 4)net start netman 
+
+
+
+
+ Try changing your boot options in the BIOS. A PXE boot means that it is trying to boot over a network connection, which would be using a server or something like that. My computer decided to default to this one day after installing some program and wouldn't boot either. Try boot overriding by selecting your hard drive in your BIOS boot settings. Let me know what happens.
+// On my computer F10 at startup is boot override 
+
+
+
+

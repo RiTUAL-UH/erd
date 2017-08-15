@@ -1,0 +1,675 @@
+ There's a remote sensing lab in Russell? I feel like I should have known that. 
+
+
+
+
+
+
+
+
+
+ Don't get me wrong, bees are expensive and any responsible grower would not use a practice that seriously and quickly harms the bees. But if a grower is getting hammered by a pest right at time of pollination there are tricks to get around injuring the bees. 
+
+
+
+
+ Bees are also diurnal. Crops that require herbivore insect rpotection during fowering can be sprayed at night when the bees are holed up in thier hive. 
+
+
+
+
+ Not quite. It's more like gnats can get through a screen that will stop mosquitoes. 
+
+
+
+
+ Oh! And try not to muck up the teflon tape around the threads of the nozzle head. Although it's easy enough to replace if you do.  
+
+
+
+
+ Looks like it! Although, now that it's been used it is filled with plastic. That glues it in place. That makes unscrewing it a huge pain. What I've done in tha past was to turn the heat on to melt that plastic, then quickly unscrew it with a small crescent wrench. Be really careful or wear thin gloves. Extruders get crazy hot.
+
+If you can figure out another way to get it off go for it. I'd also like to know.  
+
+
+
+
+ A bb gun doesn't have the umpf needed to get DNA-coated gold nanoparticles into cells. The original gene gun was a .22. Also, HEPA air purifiers are useless for this kind of thing. They don't come close to removing enough contaiminants and they do not direct air in a laminar flow. A real flow hood filter is about 6 inches thick.
+
+If you want a real hood, try searching for those used by mushroom cultivators. They run at least $400 and up. 
+
+
+
+
+ Maybe, I've never tried it. You could easily strip your filament doing that but that's not a big problem. 
+
+
+
+
+ It essentially has to do with the arrangment and behavior of electrons in materials. Depending on the energy of a photon (or wavelength, they are related), it changes how the electron(s) react or if they react. For instance, microwaves tend to make atoms or molecules rotate, this heats water up. The same home microwave does nothing at all to dry ice (frozen CO2) because the bonds in the molecule are different lengths. 
+
+But! There are materials that are transparent to visible light, like glass. But again, long infrared cannot penetrate glass well but can penetrate crystals of some salts (including table salt).  
+
+
+
+
+ It sounds like you may have a plugged nozzle. It happens to the best of us. Try soaking the tip in acetone if it was an ABS print. For PLA, try boiling the nozzle in water and reaming the tip with a fine needle.  
+
+
+
+
+ Carbohydrate and fats, primarily. I ran the math once for a biochem class. All that water is formed at the end of the electron transport chain. 
+
+
+
+
+ In fact, an average adult produces about a liter of water a day from this source. 
+
+
+
+
+ About a year ago we one of our's found two VHS tapes of porn on a railroad track. Trail treasure is in the eye of the beer holder. 
+
+
+
+
+ I replaced the infrared filter in a canon powershot with a infrablue filter from [infragram (public labs).](http://infragram.org/). It's a near infrared because the CCD is not designed to detect the lower energy infrared light. Essentially because of the [photoelectric effect](http://en.wikipedia.org/wiki/Photoelectric_effect). It's not a thermal imaging camera because again it was not designed to detect those faint signals.
+
+The reason I converted the camera is because I'm a grad student in plant pathology. This summer I plan to try to do some remote detecting of plant health in Ag fields. Chlorophyll (like the pine in the photo) show up as very bright in infrared and very dim in blue light. The opposite is true for plants low in chlorophyll. Using both can map general plant health.
+
+Oh, and I processed it in [Fiji](http://fiji.sc/Fiji) using a [plugin](https://github.com/nedhorning/PhotoMonitoringPlugin/tree/master/downloads) for this kind of photo.
+
+Fun stuff. Can't wait 'til summer. 
+
+Edit: Added the processing info. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What's a phone book? 
+
+
+
+
+ No known trees are older than about 9,000 years. There may be or may have been trees this old but none are known to science. 
+
+
+
+
+ [Corers](http://www.youtube.com/watch?v=phd-du6DW1A) can be used to get a small cylinder of wood going through the tree. These are then glued to a larger piece of wood and scanned into a computer. The software will straighten the curved rings and align them to a preestablished tree ring library for dating.
+
+Interestingy, since trees of a species in an area will grow similarly each year. If a tree dies but does not decay, those ring widths can be aligned going back farther than any of the trees are alive. This is called [dendrochronology.] (http://en.wikipedia.org/wiki/Dendrochronology) The current maximum for this method is around 11,000 years, even though none of the trees are that old.  
+
+
+
+
+
+
+
+
+
+ This gets a little complicated. A common method is called [Isochron.](http://en.wikipedia.org/wiki/Isochron_dating)
+
+Essentially, an igneous rock will contain a handful of different specific minerals. Think granite. In any mineral solidifying from the source, two different isotopes of, say, strontium, will be incorporated at a constant proportion. The isotopes of Strontium 86 and 87 react chemically identically. In this way, initial proportion becomes fixed in all minerals within a given rock. This is like how blue m m's and green m m's taste the same, but are a little different.
+
+Rubidium and strontium will act chemically different. A mineral may contain more or less of each and that ratio will change mineral to mineral within a rock. Green m m's and green skittles do not taste the same. 
+
+Rubidium 87 decays to strontium 87 over time. At the initial formation, the Sr 87/86 ratio was fixed. As Rb 87 changes to Sr 87, and as initial Rb 87 varied in the minerals, the proportion of Sr87/86 will change AND change differently for each mineral within a rock. This can be [plotted](http://www.tulane.edu/~sanelson/images/rb_sr_isochron.jpg) to project an age to a volcanic rock.
+
+What's notable, is that initial concentration of parent isotope doesn't need to be know. However, it can be calculated after the fact. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Did it make a sound? 
+
+
+
+
+ Eva Green is the name of the BioRad PCR reagent we use. 
+
+
+
+
+ No. 
+
+
+
+
+ Is that from the top of the Stadium? 
+
+
+
+
+ Yes, as you vaporize your gas would create a momentary buffer for your space ship. 
+
+
+
+
+ You have cancer. 
+
+
+
+
+ It looks to me like Solanum quitoense. 
+
+
+
+
+
+
+
+
+
+ This is a common misconception. Adults invented cinnamon toast crunch. I personally put it in my coffee. 
+
+
+
+
+ The real trick is to just spend one Sunday brushing your teeth and you are good to go for a year. 
+
+
+
+
+ If Binge drinking 5 or more drinks, and the "bottle" is the unit of wine, does that mean I can drink 4 bottles of wine in a sitting without binging? 
+
+
+
+
+ A catalyst stabliizes the intermediate molecule. You can think that in the process of the beginning products going to the ending products, this is a middle point where they are all together and it's some combination of bonds. Even "half bonds". This step is the unstable step. It takes a lot of energy to hold it in this step.
+
+A catalyst, will take the two starting products, and stablize the half-bonded middle step. Then it could either slide back to start, or slide down to the lower energy end products.
+
+All this essentially means it lower the barrier of the activation engery, allowing the reaction to more easily move to end point.
+
+[A graph of above.](http://en.wikipedia.org/wiki/File:Catalyst_effect.png) 
+
+
+
+
+ If it's coming from all directions, the light receptors wouldn't meaure a difference between any two directions, so it would act like normal and grow upward due to gravity. 
+
+
+
+
+ Oh damn! You are right! I knew I fixed that decimal the wrong direction. 
+
+
+
+
+ There's no need to guess. It can be calculated. 
+
+
+
+
+ Also, for reference, if the Earth was the size of a basball the moon would be about 7.5 feet away and the Milky way would be 3.4 billion miles wide.
+
+Space is big. 
+
+
+
+
+ Fun Question. So, The Milky way is about 100,000 light years in diameter. Andromeda is about 2.5 million light years away. So, Andromeda is about 25 time farther away than the milkyway is wide.
+
+A baseball is 7.3cm in diameter. 7.3cm * 25 = 1.825 meters or about 6 feet.
+
+Space is big.
+
+Edit: misplaced a decimal. And Again 
+
+
+
+
+ Yes, it's about that simple. Two things you might want to know though. Many plants (Magnolias included) prefer to be cross-pollinated, as in, pollen from one plant fertillizing the flower of a different plant. It's more robust on a genetic level for the species. You can self-pollinate (essentially inbreeding). It will work for Magnolias, but you may get a lower seed set than if you had another tree around.
+
+The second is that some plants, to encouage outcrossing, mature the pollen and the stigma (the receptive female part of the flower) at different times. I don't think this happens in Magnolias, but to be safe try several flowers at once.
+
+Good luck! 
+
+
+
+
+ Yep, it will work. It's best when you can see the pollen grains starting to fall out of the stamens, just like in your photo. Fun fact: Magnolias are a very anceint lineage of flowering plants. They pollinated by beetles because when Magnolias evolved, bees were millions of years in the future. 
+
+
+
+
+ It looks much more like an opportunistic infection. In other words, it moved in after the damage was done. Could you take a closer photo? As close as you can make it clear. 
+
+
+
+
+
+
+
+
+
+ I'm a plant path grad student. I love it. I like biological interactions. It's a field (like much of biology) where you can spend your time in fields or forests or in the lab running constant PCR. 
+
+
+
+
+ Looks like a Ganoderma. Likely Ganoderma tsugae. Nice shot! 
+
+
+
+
+ Most of the time, no. If you compress it AND drop the temperature, then yes, almost all gases will form a solid at some point.
+
+The reason a thing is a gas is becuase it has enough energy to overcome the molecules attraction to one another. This attraction is fairly weak for things that are gases at room temperature (hence why they are gases). If you take many gases and compress them, but keep the temperature around 70F (25C), they will form a [superfluid](http://en.wikipedia.org/wiki/Superfluidity). Superfluidity is a special and weird and very cool form of matter.  
+
+
+
+
+ They also have 8 sets of chromosomes (Octoploidy) and most cultivated ones are hybrids between two continents. And are delicious. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nope. Not an oak anyway. Grafting only works between closely related groups. Usually the "family" designation is the bounary. If you look at the website you provide, you'll see that the fruits group together by how they are related. 
+
+
+
+
+ Find one. Just one. 
+
+
+
+
+ Of course, we can now isolate genes so they don't spread in the pollen (by inserting into the chloroplast genome). No one yet has because the cost of deregulating a single transgenic event is about $100 million. So, due to unscientific review processes, we're all stuck with the old technology because the incremental increase in prfit doesn't offset the investment. It's also the same reason you don't see start-ups breaking into this market. 
+
+
+
+
+ That's actually not true. Yes, genes can move through pollen, but Monsanto has never actually brought suit to farmers with accidental gene trasmission. Most people are familiar with [this suit](http://en.wikipedia.org/wiki/Monsanto_Canada_Inc._v._Schmeiser) but remember it as Monsanto crushing some farmer. In reality, the defendant violated Canadian patent law by intentionally growing the protected seeds.
+
+I challenge anyone to find a case where Monsanto actually sued a farmer for accidental contamination. And don't just find some crappy blog. Find court documents supporting your position. 
+
+
+
+
+
+
+
+
+
+ I'll be honest, the ID was just based on growth habit on a norway maple. It's a relatively new disease in the United States. Somewhere, there exists some dichotomous keys. They usually rely on the shape of appendages on the chasmothecia and the number of asci and spores. You'd have to google around.
+
+If you find scenescent leaves infect with mildew you may find the small black stuctures. I did a wet mount with those. Then with the end of a pen or probe, you can press on the cover slip until it cracks. You can usualy hear it crack. As water moves in the asci swell and poke out.
+
+It's fun. 
+
+
+
+
+ I study plant pathology, so I love it. They are one of my favorites. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'll be there. Whoo! 
+
+
+
+
+ There are occasional "Full Moon Runs", usually in the summer. Keep an eye on the website for when those are. It's also somewhat unwise to set a run before you've done a few. Sorry dude. 
+
+
+
+
+ Respiration of 1 gram of fat (plus O2) gives about 1.1 grams of water (plus CO2). 
+
+
+
+
+ Well, the core started hot from the materials condensing into a planet and rock insulates pretty well but that's only part of it.
+
+Radioactive decay is the rest. This continually releases energy within the earth, keeping it hot. On the upshot, this is also where the helium comes from.
+
+Yes, it can eventually run out and solidfy. This is what happened to Mars. Mars, being a little smaller, has a greater surface area to volume than the Earth and cooled faster. 
+
+
+
+
+ First: Not a race, you racist.
+
+J/k, Taking a guess based on the hares (the people setting the trail) and that fact that it's March Madness, it is probably a start of a Saturday. However, there is a strong chance of drinking at bars until 2. That happens kind of a lot. Some hashes are all night or even all weekend affairs. 
+
+
+
+
+ Well?? 
+
+
+
+
+ Because I have shit to do and "tin" is some number fewer syllables. 
+
+
+
+
+ Sometimes fails look really neat. 
+
+
+
+
+ Yep, and for all ages. Just have a sense of humor and don't wear nice clothes (it's not always on roads). I am trying to get over my hangover from yesterday's run. There was something with apple cider and everclear. I have a headache. It was a good time. 
+
+
+
+
+ Cool story bro. 
+
+
+
+
+ It's called ice. You can't drink ice, but once pretreated properly it becomes ingestable. 
+
+
+
+
+ The first and formost reason is speed. If it takes about 5 years to go from seed to a fruiting tree then during the career of a plant breeder they may only be able to do 6 or 8 generations, at best. As compared to something like beets or beans, where you might get 2 generations a year, progress is slow.
+
+The second reason is mangos act a bit like apples. Apples do not "come true to seed" and neither do mangos. Each tree that comes from one seed has a huge degree of variability which makes it hard to breed for any particular trait. Any worthwhile apple tree that, partly by luck,  happens to have good qualities is propagated by grafting (a form of cloning). The same is true for good quality mango trees.
+
+Third is economic. It's sad, but the rich countries either haven't cared about mangos or don't grow mangos, or both. This is true for a lot of crops and as government funding asymtotically approaches zero, most crop breeding is focused around crops companies can make a living selling.
+
+Fourth, is that no one likes GMOs. Making a safe, seedless mango is close to trivial using modern techniques. It could be made in the same way the seedless grapes, watermelons, and bananas have been made all of which are clearly safe. But! No one likes a GMO, so we're stuck with seeded Mangos and a whole pile of other foods that might be made better. My wish is tearless onions, but hey, not 'til education is fixed.
+
+
+
+  
+
+
+
+
+ That's usually only a temporary condition. 
+
+
+
+
+ And if you like a ton of beer while you're running, try the [Hash House harriers](http://www.madisonh3.com). Also, some nudity.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sorry everyone that the article is behind a paywall...
+
+But hey, new garlic! 
+
+
+
+
+
+
+
+
+
+ That's one of the most attractive answers you could give. You could also test the success of face vs. smile with a number of independent potential partners and model it with a Poisson distribution.
+
+Though there are better ways to spend your time. 
+
+
+
+
+ Wrong! It was cool. 
+
+
+
+
+ I saw that Dr. Who. 
+
+
+
+
+ I have my alarm set! 2:45AM and clear skies! 
+
+
+
+
+ This looks like you are washing out the chlorophyll. If you boil leaves in ethanol the chlorophyll is removed but reds and yellows (anthocyanin and xanthophylls, respectively) remain. 
+
+
+
+
+
+
+
+
+
+ I have a slightly shady site too. Peas burn out before they do much. Tomatoes just get leggy and by the time I had any last year they were cheap at the farmers' market. Kale and spinach do much better.
+
+If you want to play it lazy, you could wait for the Farmers' Market to start up. There are transplants there the first several weeks. They are growing those plants for this climate and you could ask about lighting conditions. I usually get a few there to fill out my space.
+
+Good luck! 
+
+
+
+
+ Pick something that's not fro a plant. Even animal products are made from plants. Steel is smelted with coal made from plants. Half of pharmacedicals are plant derived inlcuding morphine, quinine, and the hormones in birth control (from a yam (not a sweet potato), FYI). Many pesticides are also derived from plants. I'm wearing trichomes (cotton) and just ate breakfast, all of which were plants.
+
+How about [bioremediation](http://en.wikipedia.org/wiki/Bioremediation)?
+
+Or [Nitrogen fixation](http://en.wikipedia.org/wiki/Nitrogen_fixation) that accounts for half of the nitrogen in your body.
+
+Or how about mythology? How many poems reference the beauty of a flower? There are people whose whole job is to grow plants, not for food, that make areas more asthetically pleasing.
+
+Or soil erosion control, peat smoked scotch, [plastics](http://en.wikipedia.org/wiki/Polylactic_acid), biodesil, [solvents](http://en.wikipedia.org/wiki/Turpentine), perfumes, coffee, [pigments](http://en.wikipedia.org/wiki/Indigo), and [poison.](http://en.wikipedia.org/wiki/Socrates)
+
+All of the above ignores wood products...
+
+I like plants.
+ 
+
+
+
+
+ You know, you could probably do better than chance by just knowing age. 
+
+
+
+
+
+
+
+
+
+ It's a Dracaena. Maybe Dracaena fragrans? It looks a little low on light. Try cutting the stalk so it braches down where the light shines through the window.
+
+Also, if the tap water is hard in your area, then it might be in need of a repotting. Hard water will build up salt deposits in the soil of house plants and choke them out. If you see white material on the soil surface, this is likely your problem. Repot and water with demineralized water (distilled, bottled drinking water) at least occasionally. 
+
+Only do one of the above at once. 
+
+
+
+
+ I mean, that's a weird pasttime, even for Austrian scientists. 
+
+
+
+
+ Plants like this are why herbicides were invented. Or you learn to love it. 
+
+
+
+
+ You are aware this has nothing to do with religion, right? It fits your world view, but let's be honest, this is a story about untreated mental illness. No, I don't mean religion.
+
+Look, I think religion is as dumb as the next dude. Most religious people believe in rediculous crap and still don't do this. 
+
+
+
+
+ This is my favorite news item in a while. I hear this is how the hash riots of the 1980s started. 
+
+
+
+
+ You Shall Not, PASS! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's a bummer it doesn't have a chance to pass untill we get a new senate. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

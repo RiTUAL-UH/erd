@@ -1,0 +1,1000 @@
+ There's a party everyday in the US *somewhere*. 
+
+
+
+
+ Titled
+
+Account request - Please Change Email
+
+I use blur from https://abine.com/index.html for privacy. My email is from opayq.com. Apparently circle doesn't like them. 
+
+
+
+
+
+
+
+
+
+ *If you owe the bank 100 thousand, you've got a problem. If you owe the bank 100 million, the bank has a problem.* 
+
+
+
+
+ Time travel.
+
+It would be even *more* noteworthy if it was announced yesterday, though.
+
+Second would be a solution to the negentropy heat death problem. 
+
+
+
+
+ Reminded me of https://www.youtube.com/watch?v=tb_-a9I_fto 
+
+
+
+
+ reproduce the content
+
+That's arguably questionable, if you take that to mean "copy it to our own servers". Google's webcache [was ruled fair use](https://www.eff.org/deeplinks/2006/01/google-cache-ruled-fair-use), but I can see arguments that this would be different; the guidelines mentioned in https://en.wikipedia.org/wiki/Field_v._Google,_Inc.#Fair_use don't all apply.
+
+That said, reading through that page does make one think it would be legal, as the blog post says:
+
+ After all, having an RSS feed in the first place is an implict opt-in to that sort of thing. But trying to dictate terms on top of that while telling me that I automatically agree to them unless I opt out is unacceptable, even if the terms themselves are relatively benign.  
+
+
+
+
+ On his part, or on Apple's part? 
+
+
+
+
+ The problem isn't with the terms, it's that Apple *assumes you agree if you don't say anything*! I'm sure the blog author agrees Apple can demand anything they want in exchange for listing. But considering someone to have agreed to terms when they're silent is silly, and will never hold up in court.
+
+You're basically agreeing to take responsibility for your own content.
+
+Apple is *assuming* you agree, and in order to disabuse them of this notion you must do an action. That's what's unacceptable. 
+
+
+
+
+ Apple doesn't have to be responsible, but they have no right to demand the original author defend them. The original author made no guarantee to Apple.
+
+It'd be the same as trying to sue your RSS reader of choice for something from my blog that you read and didn't like.
+
+An RSS reader that runs on device is different, because the developer doesn't store it.
+
+A better analogy would be if Google would index my site without my agreement (with an "opt-out" clause), then sues me because they got a takedown notice.
+
+If the argument is that Apple shouldn't be responsible for the content, that's *their* job to make that argument in court, not mine.
+
+Again, it's fine to put whatever you want in your terms and require people to agree if they want to use your service, but you have no right to demand people agree with your terms in general, and assume they agree unless they opt-out. 
+
+
+
+
+  He is attacking Apple for being transparent. That is ridiculous.
+
+He's attacking them for assuming he agrees to whatever they want if he doesn't opt-out.
+
+The terms state
+
+ If we receive a legal claim about your RSS content, we will tell you so that you can resolve the issue, including indemnifying Apple if Apple is included in the claim.
+
+Do you know what indemnify means, and why someone might not want to agree to it? 
+
+
+
+
+ https://github.com/basil00/PseudoNode
+
+It pretends to be a node, fetches blocks and other data on the fly from other nodes. 
+
+
+
+
+
+
+
+
+
+ It was written by Professor Anthony Glees, the director of the centre for security and intelligence studies at the University of Buckingham, and has never been corrected.
+
+Well, now it has. 
+
+
+
+
+ The point is that it may be fine legally for them to take the content, and he'd be fine with that, but adding terms as opt-in is wrong. Especially the indemnify clause. 
+
+
+
+
+
+
+
+
+
+ Fascinating. Can you tell me more about how the price has only risen ever, because of this new economic theory? 
+
+
+
+
+ "mining pools are more decentralized than ever"
+
+"everybody responsible for the 08 crisis still has a job"
+
+*citations needed* 
+
+
+
+
+ Does Pseudonode count? 
+
+
+
+
+ Learn coding and web security pentesting, hack some exchanges/wallets/etc and improve overall security by weeding out bad actors.
+
+Or open a darknet market, then vanish when you're hodling millions. 
+
+
+
+
+ Visualize it as knowing the private keys to some numbers in the cloud. 
+
+
+
+
+ Thanks for making me read a whole article before finding out there's no more info than the title. 
+
+
+
+
+ That's odd  
+
+
+
+
+ Because tens of millions of people always think as a hivemind. 
+
+
+
+
+ Statistically, that is true; the vast majority of people can't. 
+
+
+
+
+ Have you seen https://www.youtube.com/playlist?list=PLC64C47A407D58AAC? 
+
+
+
+
+ Wait, you mean some believe HPMOR has non-insane interpretations? 
+
+
+
+
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+ https://bitmixer.io/ is a mixer. I understand you don't trust third parties, but there's strong reason to trust them in particular, at least to not steal your funds.
+
+They give you a "Letter of Guarantee" signed by their address, so if they ever scam anyone there would be cryptographic proof. So as long as nobody produces a Letter of Guarantee that hasn't been fulfilled, they probably aren't scamming anyone.
+
+(As I understand it, the letter basically says "if btc is sent to addressX by timeY, we will send Z% to addressX2 by timeY2, with limits such and such". So you can see in the blockchain if it's been fulfilled or not.)
+
+This may not be enough for you, just something to think about. 
+
+
+
+
+ Recently?  
+
+
+
+
+ something something upvote karma 
+
+
+
+
+ Fun fact: a recent study showed that patients did better when cardiologists were away at a conference.
+
+I feel this has to be relevant somehow but can't come up with that perfect line to tie it in. 
+
+
+
+
+ Nah. Don't you have to do something to get high? I'm not quite sure what, but I definitely haven't done it. 
+
+
+
+
+ I have ideas like that all the time and have never been high. 
+
+
+
+
+ I'm not disputing that right now spam can dos the network.  My claim is that there are viable solutions to that. If blocksize isn't limited, but almost everyone needs to pay around the actual costs, then spammers are just paying for miners and nodes to get larger hard drives.
+
+I'm not claiming you can make spammers happy, just that you can make anyone we care about happy. 
+
+
+
+
+ The spammer can't win, but why can't the miners and nodes win, and the legit user pay a nominal fee? That subset is all the designers should care about, and they are not zero sum. 
+
+
+
+
+ That's probably because they don't think those are legally enforceable in France. If there was any threat of actually being blocked in France they would cave IMO. 
+
+
+
+
+ http://www.eia.gov/tools/faqs/faq.cfm?id=23 t=10
+
+In 2014, about 136.78 billion gallons (or 3.26 billion barrels) of gasoline were consumed in the United States, a daily average of about 374.74 million gallons (or 8.92 million barrels)
+
+So 240 million gallons less would be 136.54 billion, a reduction of less than .2%. 
+
+
+
+
+ Username checks out. 
+
+
+
+
+ They haven't been completely ignoring them. They did, in fact, remove stuff from the .fr site. 
+
+
+
+
+ Rabbis. Rabbits aren't. [Source](https://www.ou.org/torah/mitzvot/taryag/mitzvah154/) 
+
+[another one](http://www.chabad.org/library/howto/wizard_cdo/aid/133726/jewish/Which-Animals-Are-Kosher.htm) 
+
+
+
+
+ Google doesn't have the balls to do that. 
+
+
+
+
+ But if you look for the link in archive.is before google removes it, they'll mirror it from google. 
+
+
+
+
+
+
+
+
+
+  That's the reason I haven't had to bother to look at the proposals, just as I wouldn't bother to read your interesting exercise on how to square the circle or solve the traveling salesman problem in polynomial time.
+
+The difference is that for squaring the circle, there are mathematical proofs that it's impossible, and for P=NP, most experts believe otherwise, and there's a [whole lot of people claiming proofs](https://www.win.tue.nl/~gwoegi/P-versus-NP.htm). (That page also links to http://www.wisdom.weizmann.ac.il/~oded/p-vs-np.html which says why he won't check such claimed solutions.)
+
+This "problem" of DoS that you mention has neither rigorous mathematical proof of its impossibility, nor a consensus among academic experts of the same. It's therefore incorrect for you to make the comparison.
+
+Now, as for the actual problems you've brought up:
+
+The government would pay to enlarge the mined block up to its limit. That's what a DoS is. The limit can be "variable" but it can't be infinite, as otherwise mempools will fill up on nodes everywhere in the network.
+
+Nobody's talking about making it infinite (which is impossible to do without computers capable of relaying infinitely large blocks.) THere's been talk of dynamically increasing limits based on averages of past blocks, which would only be able to grow at a fixed rate even if spam was introduced.
+
+Aligning the incentives so that miners profit when spammers engage in spamming has nothing to do with the incentives for people just trying to pay someone using Bitcoin.
+
+That's right; currently, the incentives aren't sufficiently aligned. The miners' incentives are aligned the right way, as in they won't be forced into doing something they don't want. What we need is some kind of incentive for nodes that sufficiently rewards them for their costs. If that was implemented, then spamming would just increase funding for the costs it creates, thus being a wash.
+
+It isn't only a 2-party problem no matter how much you try to simplify it, and not everyone can have their interests aligned to when some of the interests are diametrically opposed.
+
+Can you prove this mathematically? Which people are in a zero-sum situation (which I'm assuming is what you mean by "diametrically opposed")? Anyone wanting Bitcoin to survive automatically has a shared interest with anyone else who also does, so the only possible zero-sum seems to be enemies of Bitcoin versus non-enemies. This part of your argument isn't so clear.
+
+ 
+
+
+
+
+
+
+
+
+
+ If you have any investments you got to pay at your parents' rate. Can't get any back. 
+
+
+
+
+ Actually username mentions have been rolled out to the plebs. 
+
+
+
+
+ Or ublock. 
+
+
+
+
+ Well yes, you'll note the sweep option as well there.
+
+Just spend a few minutes learning about what exactly keys are and you'll be fine. 
+
+
+
+
+ So upgrade. https://electrum.org/#download 
+
+
+
+
+ Define agenda.
+
+Is anyone *for* the increase that doesn't have any agendas? 
+
+
+
+
+ [Like so](https://i.imgur.com/ruSoErx.png) 
+
+
+
+
+ How can you make it turing complete while maintaining the two-way peg? 
+
+
+
+
+ If you can convince a judge that altcoins count as a good, you'd come under the section
+
+ The following Persons are exempt from the licensing
+requirements otherwise applicable under this Part: 
+
+...
+merchants and consumers that utilize Virtual Currency solely for the purchase or sale of goods or
+services or for investment purposes.
+
+Of course, the rest of the document explicitly mentions virtual to virtual as included, so good luck. 
+
+
+
+
+  I assume that the currency exchanges wouldn't come under the bitlicense but I assume they have another set of regulations to follow. No idea how this stuff works.
+
+It's pretty clear. 
+
+http://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf
+
+(d) Exchange Service means the conversion or exchange of Fiat Currency or other value into Virtual
+Currency, the conversion or exchange of Virtual Currency into Fiat Currency or other value, or the conversion
+**or exchange of one form of Virtual Currency into another form of Virtual Currency**; 
+
+...
+
+Virtual Currency Business Activity means the conduct of any one of the following types of activities
+involving New York or a New York Resident:
+(1) receiving Virtual Currency for Transmission or Transmitting Virtual Currency, except where the
+transaction is undertaken for non-financial purposes and does not involve the transfer of more than a nominal
+amount of Virtual Currency;
+(2) storing, holding, or maintaining custody or control of Virtual Currency on behalf of others;
+(3) buying and selling Virtual Currency as a customer business;
+(4) **performing Exchange Services as a customer business;**
+
+...
+
+License required. **No Person shall, without a license obtained from the superintendent as provided in
+this Part, engage in any Virtual Currency Business Activity** 
+
+
+
+
+ All attempts at using ShapeShift within New York will redirect to PleaseProtectConsumers.com
+
+Links to http://pleaseprotectconsumers.org/
+
+This has been your daily reminder that the media isn't good at proof-reading. 
+
+
+
+
+
+
+
+
+
+  a 10$ kiddy pool setup done in a few minutes can be used to demonstrate the effect.
+
+Don't see the claim that it take only a few minutes. 
+
+
+
+
+  Look, I said the effect it negligible and plays no role when it comes to "toilets, kiddy pools and sinks".
+
+Yes, and so far you have yet to source the pools part.
+
+Now you want to talk about pools? Do I have to find a source that says the effect does not matter to green kiddy pools after that?
+
+The original claim was **only** about pools. There's been no goalposts moved, despite what you seem to be implying.
+
+You don't have to learn physics, just to be able to understand the wikipedia article on the coriolis force enough to know that the size and duration of the system are what matter here. Educating yourself on the strength of the coriolis force does not require more of you than to look it up!
+
+And the size is larger, so your sources are worthless for the question here. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SPV nodes have no way for example to detect if a node fraudulently reports the receipt of bitcoins to the SPV nodes wallet that dont exist in the fully-verified block chain.
+
+That's actually stupidly easy to check; download all the headers, verify those, and download the block that transaction is supposed to be in.
+
+I think the real problem is the reverse: that they could withhold transactions, and without scanning the whole blockchain you wouldn't know about these missing transactions.
+
+E. A change would be irreversible - Changing the block size limit requires a hard fork and if the larger block size were to be abused, changing it back may not be possible due to changes in who would still be mining without coersion from outside organizations. 
+
+Changing it back would require just 51% of miners and nothing else. It's easier than changing it in the first place, which requires nodes to upgrade. 
+
+
+
+
+  Elevier charges too much. Most publishers do.
+
+That seems like even less of a legal argument. 
+
+
+
+
+ You seem extremely convinced of your position, despite being unwilling to look at the proposals that would solve the problem. Why is that?
+
+Finding ways to easily filter out spam if someone should choose to pursue DoS is a governance problem, but as soon as you have guys like Gavin deciding which people (or bots) are and are not allowed to get their transaction into the blockchain, you've just added government into Bitcoin.
+
+Miners will individually decide which transactions they allow. If they're fine with a transaction, then it can hardly be called spam, can it? If some government wants to pay for the miners' costs, that just lowers the price for the rest of us.
+
+The important things that need to be done (and are starting to be addressed with technical proposals) are aligning the incentives better, so that the same people who'd be paid by spammers are the ones the cost falls under, for example. Do you think that's impossible, and if so, why?
+
+Ironically the actual banking systems in use in the world are decentralized in execution in a way that Bitcoin is not. I can deposit money in a local bank without having to have the transaction wait a turn in line on a global transaction clearing scheme before the local bank could treat that deposit as an asset.
+
+If your bank trusts you, you could use something like Ripple or Lightning network to deposit bitcoins there instantly. Or if they trust your exchange, they can greenaddress their addresses and deposit instantly also. 
+
+
+
+
+ You seem to both lack enough imagination to solve the problem and are unwilling to read the proposals.
+
+If you could actually point to an analysis that showed that the network was vulnerable to Dos and that none of the proposed solutions are viable, that would be a different story. 
+
+centralized blockchain 
+
+Wat? 
+
+
+
+
+ Yes, yes, we know about hindsight bias. 
+
+
+
+
+ That's completely irrelevant. 
+
+
+
+
+  It won't be. If it is it will just be the target of DoS attacks, which is why the initial blocksize limit was instituted in the first place! You do know that Bitcoin wasn't born with a 1MB blocksize limit, right?
+
+There have been proposals. You can go read them.
+
+Yes, I know it didn't start with a 1MB limit. The cost for spamming was also much less when bitcoin was worth less.
+
+Are you being deliberately obtuse now?
+
+No. I was trying to explain my earlier comment on how your argument seemed circular. I get how you responded to that, but I disagreed, as above.
+
+This isn't a difficult concept and it's not something you should pawn off on the Great Developers running their Tons of Simulations. You should strive to understand what is going on yourself instead of just leaving things in the hands of people smarter than you.
+
+The concepts we're talking about now are much more difficult than you give them credit for. I've done a lot of reading, there are dozens of different technical proposals at this point.
+
+If you can't imagine a variable blocksize that isn't vulnerable to Dos, maybe you should read some of those proposals. 
+
+
+
+
+ What kinds of fees are we talking about?
+
+ But when **transaction** fees go up
+
+I know we're talking about transaction fees, I mean numerically how high.
+
+Yes, if usage increases then fees have to go up. Even Bitcoin isn't immune to supply and demand, and remember that you're the one assuming the 20MB blocks are already filled up. If the number of transactions you can fit in a block is fixed, and more people want to push transactions into the blockchain, the price of each transaction must go up until there is equilibrium between transaction demand and transaction supply again.
+
+If the blocks are completely full, then sort of. But what if the max blocksize is variable, and expands if more transactions show up? (And yes, it's more complicated than that, which is why there are developers running tons of simulations to try and figure out what's best to do.)
+
+Fees go up - less tumblers used - tx volume goes down (since non-bot volume can't increase to match what computers could put on the blockchain).
+
+Why do the fees go up in the first place? And remember, these fees are starting at 1/20th of the current fees, assuming 20MB blocks. 
+
+
+
+
+  I'm not saying that no one is paying for the privilege. Criminals pay hefty fees to launder money in fiat, after all. But when transaction fees go up as you have the moon-rocketing masses on their way to Satoshi's Comet, fewer people will use tumblers and transaction volume will then go back down. 
+
+What kinds of fees are we talking about? If usage increases, the fees don't go up over today's implied fees in the subsidy (again, assuming constant price+hashrate), they go down.
+
+What you're describing as inevitable doesn't seem so to me, because there's so many things you're handwaving (fees go up - less tumblrs used - fees go up? Circular?) 
+
+
+
+
+ No such thing as bad publicity. 
+
+
+
+
+ But how are those any less legitimate than others? Tumblrs perform a service, and get paid for it, and so on.
+
+But look yourself, pegged against a stable reference point you can see that transaction volume has been flat... for months.
+
+I'm not sure USD value is a good peg, because often a transaction is for much less than the amount actually transferred. If an exchange has a hot wallet around a constant size of btc, then USD value will fluctuate regardless of actual transfer size. 
+
+
+
+
+  since most transactions are artificially constructed anyways.
+
+As opposed to? Seriously, I'm not sure what you mean. Almost every transaction is created by a computer, yes. But I doubt most transactions are made not for the purpose of transferring money. There's been some stress tests (and spam) recently, but I don't think that accounts for a majority? 
+
+
+
+
+ I think the phrasing in OP was poor.
+
+20MB blocks isn't going to magically fix that.
+
+Well yeah, but 20MB blocks plus increase in transaction volume will, and the whole point in 20MB blocks is because people expect transaction volume to increase. 
+
+
+
+
+  But that's analogous to asking "why do I have to pay my barber to move those scissors around my head (when I can do it myself)?" or "why do I have to pay my employees to push keys on a keyboard (when I can do it myself)?".
+
+Possibly; but that doesn't make the complaint wrong. I complain about Windows charging for upgrades, and use mostly Linux myself, where I get completely free upgrades. (And I do like that Windows 10 will be freeish for some time.)
+
+Is my complaint that Windows costs somehow wrong?
+
+Perhaps he's simply demanding that people give him free stuff.
+
+Or stating that he's going to use the free stuff from other vendors. 
+
+
+
+
+ How is it not a feature? 
+
+
+
+
+ If there aren't more transactions, then there can't be 20MB blocks (well, barring much larger transactions).
+
+each 20 MB block has the same number of transactions per block as is happening today
+
+That's impossible (again, barring huge transactions, but those are likely to represent multiple "real" transactions ala Coinjoin). 
+
+
+
+
+ Well yeah (although with some of recent stress tests they were), but a main reason given to raise the blocksize is that blocks are expected to fill up with greater adoption.
+
+I feel your post is a bit disingenuous. It implies that the cost would be the same regardless of volume, esp. that part about how larger blocks wouldn't fix it. What would be more accurate is that *if* the price stayed the same *and* volume stayed the same, then the cost would remain the same.
+
+I think you should clarify that your calculations are assuming transaction volume doesn't increase. 
+
+
+
+
+ Yeah, 20MB blocks isn't going to magically fix that. 
+
+Could you elaborate on that? Assuming hashrate and price remain constant, increasing blocksize by 20X would cause the price per transaction to go down by roughly 20X as well. 
+
+
+
+
+ I'm not sure if you can call that foreshadowing; it was a blatant riddle. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hey, just read my comment again and the replies to it [here](https://www.reddit.com/r/LifeProTips/comments/396irq/lpt_how_to_remove_get_windows_10_icon_permanently/cs1owl9). 
+
+
+
+
+ I already answered that in the other thread. 
+
+
+
+
+ They are in a sense, but then those aren't hard to pick through, it says right in the title of the update. Besides, you can just allow all "important ones", which pretty much is only security updates. 
+
+
+
+
+ Nobody's asking you to buy it, it's free. 
+
+
+
+
+ As an American, I'm not sure what this is about but you're so wrong. 
+
+
+
+
+ Um, bitlocker was around in Win7 as well? 
+
+
+
+
+ So why not switch back to the beta? 
+
+
+
+
+ Copy the game files, run DOSBox. 
+
+
+
+
+ I don't know where you got that 99% figure.
+
+A lot of updates are just security updates, meaning you'll never actually notice any differences. The rest are usually for obscure programs or edge cases, like other languages.
+
+I'd say that less than 5% of updates are even noticeable. 
+
+
+
+
+ So sex with a poor prostitute is rape? 
+
+
+
+
+ Hate to be THAT guy (actually I love it), but that should read "my friend and I". 
+
+
+
+
+ Yes, but how many people would they have working on this? And how well do those people knw bitcoin? And if you generate new addresses, you need to communicate them whenever someone asks, while a single address (or even many static ones) could be shared among followers.
+
+Note that some ransomware bitcoin demanders reused addresses, when that's a much larger problem. 
+
+
+
+
+ It's rather common for fundraising to just list an address for donations. Otherwise you need to generate a new address on demand, which requires running a server and custom code. 
+
+
+
+
+ Not flipping a switch is because of electricity. 
+
+
+
+
+ But How Can Blocks Be Full If Spam Isn't Real 
+
+
+
+
+ Well deliberately misunderstanding someone to increase outrage is uncool. 
+
+
+
+
+ I don't think that's how it's supposed to work. Your link contradicts your description.
+
+ 
+
+
+
+
+ You're allowed to leave your house. 
+
+
+
+
+ Should have included a /s 
+
+
+
+
+ I didn't say it wasn't open source, I even called it legit.
+
+That doesn't mean we can't complain about it. Altcoins are also open source, that doesn't mean they're all good. 
+
+
+
+
+ Because there's no way quoting the sidebar could be patronizing. 
+
+
+
+
+ Unless some are reusing addresses, likely for fundraising. 
+
+
+
+
+ If you write a detailed and convincing blog post with good data, you should be able to get it picked up. If you can pay you can make an actual press release as well. 
+
+
+
+
+ Let me get this straight: you think it's possible that it is used for terrorism, but if so that fact should be hidden? 
+
+
+
+
+ Sounds like I've got some fun times ahead. That seems like a good start, thanks. 
+
+
+
+
+  OP obviously means "Why do I have to pay a fee to you, if I use the pre-built binaries or source code without modifications".
+
+Is that not how other people took it? 
+
+
+
+
+ How about instead of whining on reddit about it, you do some research and write a report on exactly how much is being raised compared to total volume and other methods of funding, then send that to the relevant people (press release, etc)? 
+
+
+
+
+ Can you use Multibit HD without paying the fee? If not, that counts as being unable to turn it off without stopping to use the program.
+
+I'm also not sure if the wallet seed is compatible with other wallets. 
+
+
+
+
+ It would take exactly the same time for mine vs Multibit HD. Besides, for some it will be a matter of principle. 
+
+
+
+
+ I'm assuming Multibit's build process is well-documented; if not, should be fun to play with and figure it out. 
+
+
+
+
+ Their funding model is legit. The complaining is legit as well.
+
+Including a "feature" that most users will not want and not allowing it to be turned off (except by forking) is not user-friendly.
+
+It's similar to the uTorrent Bitcoin mining problem in that regard. 
+
+
+
+
+ Article makes some big conclusions with out really providing any evidence to support them
+
+Welcome to the media. 
+
+
+
+
+ The (forked) source would also be available, and people could build it themselves. I mean, the same question can be asked for any binary of open source code.
+
+I'm thinking of something akin to Iceweasel, which changes almost nothing about the original code but the name. 
+
+
+
+
+ I think I'll just host the binaries on Github. 
+
+
+
+
+ Anyone interested in a fork that just removes this, and I guess changes the name and removes any communication with Multibit servers? 
+
+
+
+
+ iirc there was testimony that the wallet was found on his computer.
+
+He also agreed that the coins found on his computer were his, when he agreed to the government auctioning them off. 
+
+
+
+
+ I know some people have done it, definitely for earlier versions of OSX. Haven't kept up with recent developments. 
+
+
+
+
+ I suggest you enlighten *yourself* by reading the transcript of the trial, which introduced evidence for him ordering them.
+
+The best his defense could do was claim he didn't mean them. No explanation for all the bitcoins paid from his wallet, though. 
+
+
+
+
+ I don't know.
+
+You're supposed to have the source code. It depends on how it's implemented; if you get some kind of certificate that signs the app, then you probably could sign an app even without the source. If you build it, then upload to Apple to sign, the question is how they know who actually built it. 
+
+
+
+
+ That's a much weaker claim than OP. Of course, as both nodes and miners need to upgrade, if all nodes upgrade then only (51% of) miners will need to. 
+
+
+
+
+ As a tumblr user with like 10 blogs and a couple hundred followers, your number is wrong. There are normal people on tumblr who aren't trolling. 
+
+
+
+
+ There was a post on that recently on the frontpage of Hacker News, try searching for virtualbox there in the last month and see. If I wasn't on mobile I'd do it myself. 
+
+
+
+
+ That exploit is long fixed, only works on old IOS versions. 
+
+
+
+
+ Use Virtualbox/VMware. 
+
+
+
+
+ It takes one guy an hour to change the fork so it only allows 1MB blocks that are compatible with all nodes. If 50% do not want larger blocks, they can upgrade to this fork.
+
+All miners mining 1MB blocks will get orphaned automatically, so there's actually a strong inventive not to mine those.
+
+I don't think you've thought through the incentives here. A miner upgrading to the new 1MB fork is just like a miner staying on the same software if the fork is backwards compatable. 
+
+
+
+
+ Looks like you'll be able to install custom apps with only an Apple ID now, no dev membership required. 
+
+
+
+
+ Hold my press, I'm 
+
+linky? 
+
+
+
+
+ 51% of miners could easily upgrade to the new version, then enforce 1MB blocks, which would be the same as preventing the fork. 
+
+
+
+
+ There don't seem to be any new points in that; are we concluding our debate, then? 
+
+
+
+
+ The world finished, never to start again. 
+
+
+
+
+ I'm just imagining the guy processing that refund. That's probably a guaranteed audit, right? 
+
+
+
+
+ Chances are the kind of person who can game the lottery is keeping track anyway. 
+
+
+
+
+ How much do you have to spend before being considered professional? Since $9 million isn't enough, clearly. 
+
+
+
+
+ They usually deduct the taxes before giving you the money, so you would file for a $4 million refund? 
+
+
+
+
+ You will this thread 
+
+
+
+
+ If you spend $9 million on winning $10 million, do you pay taxes on $10 million or $1 million? 
+
+
+
+
+ Also, it's not the banks that are suing. 
+
+
+
+
+ Check out GiveDirectly. 
+
+
+
+
+ You don't mess with 50% of mining power. 
+
+
+
+
+ If I mine using the old (current) software, will nodes that upgraded accept that block? If yes, then this "softfork + hardfork" looks exactly the same as "nofork", so in what sense did the network fork at all? 
+
+
+
+
+ They send it to the exchanges; since their chain is longer, the exchanges are on their chain.
+
+Miners with 51% can enforce a minimum blocksize among many other things. 
+
+
+
+
+ I don't think it's the same people who agreed that are suing, though. 
+
+
+
+
+ Because he clearly didn't read past the title, or he'd know they aren't asking for a loan? 
+
+
+
+
+ Somehow it feels like you didn't read the article  
+
+
+
+
+ Again, if an exchange is doing that we have larger problems. 
+
+
+
+

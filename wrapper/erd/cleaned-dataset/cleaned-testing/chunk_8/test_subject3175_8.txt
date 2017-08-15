@@ -1,0 +1,120 @@
+ That's true and one of the points they and others looked at in more detail later on in subsequent studies. This lead to comparison of a wider range of jobs and the effects of physical activity and exercise on life expectancy, with being more physically active correlating to increased life expectancy.  
+ 
+
+
+
+
+ Weightlifting (well strength technically) appears to have an additive effect to cardiovascular exercise. However, cardiovascular fitness appears to be better at decreasing mortality than strength.
+
+This study compared the bottom, middle and top 3rd of strength in a group of patients and looked at mortality rate to a range of conditions (primarily cancer and old age).  The basic message is that the stronger you are the longer you live. In terms of cardiovascular "fit" patients those in the bottom 3rd of strength were more likely to die than those in the top 2/3rds. However, cardiovascular fitness appeared to have a bigger effect on decreasing mortality than strength. It's important to note that only strength was measured not if they weight lifted. 
+
+Study: http://www.bmj.com/content/337/bmj.a439 
+
+
+
+
+ I posted a reply to somebody else that may help with what is physical activity.  
+
+An interesting side note/point is that the original studies of benefits of physical activity actually came from observations of the incidence of heart attacks between bus drivers and conductors on London buses. Bus drivers were significantly more likely to have heart disease than the conductors - so same environment but one is sitting and the other is standing and get on and off the bus. These studies were published in the 1950 and 60s and an example of one can be seen here (from 1958) if anyone is interested (I think it's open access - at uni so not sure but it's PMC)  
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2027542/pdf/brmedj03082-0009.pdf
+
+EDIT: took out exercise and replaced with physical activity 
+
+
+
+
+ That's a good question and is a little difficult to answer because people have different fitness levels and it depends on how fast you're walking etc. During my undergrad I had a module covering this type of thing and have loosely followed it since. These are 3 ways that have been used to measure/determine moderate physical activity.  
+
+1. You should be able to talk but not sing whilst performing the activity (this was used in a program I helped out in for type II diabetic patients prescribed/recommended exercise and I think still used for NHS based exercise recommendations).  
+
+2. To aim for level 12-14 on the Borg scale. The borg scale is a qualitative "rate of perceived exertion" that studies find correlate fairly well to heart rate and oxygen consumption. It's not perfect as it's qualitative but is used in the field as it is easy for people to answer and cheap. An example can be seen here http://www.hsph.harvard.edu/nutritionsource/borg-scale/  
+
+3. A more quantitative approach for walking was done in this study (it is paywalled) http://www.ajpmonline.org/article/S0749-3797(09)00087-7/abstract They found that in general 100 steps/min would count as moderate exercise and recommended doing them in at least 10min long bouts. Again, individual differences may mean that you need less than 100 or more than 100 steps/min.  
+
+Hopefully that helps you better gauge if walking around town or not is moderate exercise for you or not
+
+EDIT: adjusted Borg scale from 12 to 12-14. 12-14 is the scale typically used as moderate exercise, 12 was what was used in a study I helped out in for diabetic patients as explained below and I forgot to put the range in. 
+
+
+
+
+ From this method? I'd say no as:
+1. they needed 1000 volts to generate maximum contraction 
+2. From a 25mm x 5mm square they got a maximum deflection of 1mm
+3. the forces generated are low (they didn't show a specific force but from the images and data I'd suggest that they're at least 200 times weaker than normal muscle of similar thickness/size). 
+
+So basically they're very weak and getting a power supply of 1000V in a limb would be difficult and maybe dangerous (physics isn't my specialty but I don't know of a compact, lightweight and long-lasting 1000V power supply - someone else might be able to shed light on that)
+
+Taking concepts from this study and other studies? Then yeah definitely there are potential ways of making prosthetic limbs. The best paper I've seen is this one http://www.sciencemag.org/content/343/6173/868 where the fibers they make are stronger than human muscle. For the paper I linked more work needs to be done to make these behave how you'd like in a prosthetic limb but progress is definitely being made.
+
+ 
+
+
+
+
+ Something I put on another post about this:
+
+The term muscle in these studies is a little misleading and a bit confusing. The "muscles" they make are not meant to be used in people but in machines as actuators.
+
+They took the outer layer of an onion (the epidermis) as at the microscopic level it mimicked a very basic muscle structure (aligned, densely packed rectangles in the onion vs aligned, densely packed cylinders in native muscle). 
+
+They then freeze-dried it to get rid of water and to make it structurally stable. This meant that they had a sheet that kind of looked like a muscle but obviously without any contractile proteins to make the structure contract.
+
+To get the muscle to contract the added/plated a very thin layer of gold to both sides of their onion layer. Gold is electrostatic, so when the applied a voltage they could get their onion layer to move due to electrostatic forces. Essentially the same basic science as when you rub a balloon against a surface (the voltage in this study) and it makes your hair (in this case the artificial "muscle") stick up.
+
+I don't know enough about these artificial "muscles" to know the significance of the work but it's a pretty cool proof of concept. If this will translate to something you can buy or will wind up in electronics I'd assume not as down the line somebody will engineer a polymer or plastic that does this. 
+
+
+
+
+ The term muscle in these studies is a little misleading and a bit confusing. The "muscles" they make are not meant to be used in people but in machines as actuators.
+
+They took the outer layer of an onion (the epidermis) as at the microscopic level it mimicked a very basic muscle structure (aligned, densely packed rectangles in the onion vs aligned, densely packed cylinders in native muscle). 
+
+They then freeze-dried it to get rid of water and to make it structurally stable. This meant that they had a sheet that kind of looked like a muscle but obviously without any contractile proteins to make the structure contract.
+
+To get the muscle to contract the added/plated a very thin layer of gold to both sides of their onion layer. Gold is electrostatic, so when the applied a voltage they could get their onion layer to move due to electrostatic forces. Essentially the same basic science as when you rub a balloon against a surface (the voltage in this study) and it makes your hair (in this case the artificial "muscle") stick up.
+
+I don't know enough about these artificial "muscles" to know the significance of the work but it's a pretty cool proof of concept. If this will translate to something you can buy or will wind up in electronics I'd assume not as down the line somebody will engineer a polymer or plastic that does this.
+
+ 
+
+
+
+
+ This must be one of the worst science journalist articles (i.e. the newspaper piece) that I've ever read.
+
+Quotes from the lead author:
+
+"Understanding this pattern of telomere growth **may** mean it can be a predictive biomarker for cancer,"
+
+"with the right testing these procedures could be used to **eventually** diagnose a wide variety of cancers."
+
+From an insurance agent/spokesman:
+**If** this test showed 100 per cent probability over a certain number of years then it could affect premiums
+
+It's a good reminder to scientists that you need to be crystal clear when talking to journalists about work, the lead author said nothing misleading at all but probably should have explicitly stated something along the lines of  "this work may lead to a predictive biomarker for cancer in the future but in it's current form and with our current understanding cannot currently be used as a clinical prediction of cancer". (Maybe somebody less tired can create a more succinct soundbite lol) 
+
+
+
+
+ A brief simplified background into how this works and the findings of paper:
+
+The immune system typically targets and destroys abnormal cells such as cancer cells. However, some cancer cells can "hide" from the immune system by modulating how the immune cells work. Melanomas are pretty good at doing this and this trial uses 2 drugs that target 2 distinct pathways/mechanisms which melanomas use to "hide" from the immune system. Previous work in animals and one other clinical trial had shown that targeting both pathways was much more effective than just targeting one pathway. This paper saw the same thing, that a combination therapy (i.e. targeting both pathways), was more effective than using one drug. Effectiveness meant longer progression-free survival and increased chance of tumor reduction (not all patients had this on the treatment but your chance of having this increased).
+
+This was a Phase 1 trial - the purpose of these trials is to make sure that the drugs are safe to administer to people and to determine what dose/amount of drug to give. This was also a double-blind trial - this means that both the patients and doctors don't know what treatment had been given until after the trial ends. This is important as it helps negate the placebo effect and doctors unintentionally introducing bias. Phase I trials are typically focused on finding safe doses and don't always have to find a positive effect to move onto Phase II due to the small number of patients used in these studies. Seeing a positive effect is a good thing but due to the small number of people it could be a statistical fluke (the clear effect they saw very strongly suggests that it isn't), so a Phase II trial will start with more patients enrolled and long-term effects/outcomes recorded.
+
+The main purpose of a Phase 1 is to determine safety, with the combination therapy they had 3 cases where doctors thought the therapy may be responsible for sudden death (it does not mean it will kill you but is why these studies are done before giving it everybody with melanoma). Also of patients who stopped combination therapy, 45% stopped due to adverse events (such as uncontrolled vomiting, diarrhea etc.). This is not surprising as combination therapy tend to cause more side effects, side effects can sometimes/often be lessened and controlled given time and experience with using the drugs (e.g. doctors will find which anti-emetics work best with this treatment the more patients they treat and experience they get with the drug).
+
+The safety aspect is one reason why they did the case report on the lady who had such amazing tumor reduction. It lets other doctors know to look out for that type of reaction/outcome and that an extreme effect might be seen in some patients. Additionally, researchers will like to figure out why she had such a strong response as it could help in the design of the next generation of drugs and help screen people who might have such a strong response so they can be monitored more carefully.
+
+This is not a "cure" as they only looked one year into treatment and disease progression still occurred in many subjects - it delayed disease progression suggesting that it would give you more time to live. The study was done in patients with advanced (stage III and IV) melanoma, so it might be more effective at an earlier stage (it also might not be). They also saw that the effectiveness was not linked to having a BRAF v600 mutation or not. BRAF mutations are thought to be responsible for 50% of melanomas so it suggests that this combination treatment *should* work in the majority of cases (it does not mean it *will* work in all melanomas and patients either). 
+
+Overall, the findings are really positive. More trials will take place, the treatment regimen will likely be tweaked to improve it's efficacy and hopefully it'll be found to be safe and effective in the larger studies. If I had melanoma and was eligible I'd try and get involved in a trial with this treatment and discuss it with my oncologist.
+
+ 
+
+
+
+

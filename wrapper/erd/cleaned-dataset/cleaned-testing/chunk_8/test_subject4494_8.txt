@@ -1,0 +1,890 @@
+ Wouldn't the same logic say to not give income tax breaks to religious people, because they might spend it on religious things? 
+
+
+
+
+ Just because you don't want the money doesn't mean other schools don't, or that it shouldn't be offered. Presumably you could just refuse it even if it was offered.
+
+I'm sure a lot of private schools *do* want the money.
+
+And seriously, "Taking state money makes you accountable to the state and all of its standards and curriculum and bureaucracy etc"? As far as I know, schools need to be accredited anyway, regardless of if they take funds. (Although that might be different for different states, not sure about that.) 
+
+
+
+
+  This is less to help poor kids go to a private school and more about destroying public schools and giving well off people a discount on their private school fees.
+
+Why doesn't this help poor people, though? Nobody's saying you should need to be rich to get the vouchers, are they? 
+
+
+
+
+ So what about funding only the non-religious aspects of private schools? What's the problem with that? 
+
+
+
+
+ If they're providing a service the government already provides, and people using them saves the government money, it doesn't seem unreasonable for them to get government funding.
+
+I mean, for my state I've seen numbers that the government would save a whole lot of money just offering vouchers for less than public school costs the government. 
+
+
+
+
+ When someone's in the vault legitimately, there's a goblin right next to them, though. The lock is presumably for those who get in unofficially.  
+
+
+
+
+ That could just mean that he could legally prevent him from getting into his vault. But once he's in there legally, he can take whatever he wants. Don't let people into your vault if you don't want them taking stuff. 
+
+
+
+
+ *life 
+
+
+
+
+ If I just want to know a simple fact I expect to be uncontroversial, then yes, I'll look at Wikipedia and treat it as a credible source.
+
+All non-primary sources pull from other sources. Your statement is wrong. 
+
+
+
+
+  Patients with whom the physician sat reported a more positive interaction and a better understanding of their condition. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dang, there goes my dreams of being a Walmart executive. 
+
+
+
+
+ You may. See http://frequentmiler.boardingarea.com/laboratory/ 
+
+
+
+
+  You need exactly one random number per spin (or you can use a single random number to seed a PRNG if you need a few more, but you don't ever really need very many for this sort of game). So, what you do is have a counter that you are incrementing very quickly (on a modern processor, billions of times a second) and then simply use whatever's in the counter when the user spins. It is impossible for the user to predict or control the counter since it's going so much faster than human reaction time.
+
+If you do that, your effective entropy is however many times you can increment in a human's reaction time\*. [This source](https://www.ethicalhacker.net/features/book-reviews/mitnick-the-art-of-intrusion-ch-1-hacking-the-casinos-for-a-million-bucks) puts the time for a skilled person at five milliseconds. Assuming 1 billion possibilities per second, and a human capable of hitting a target within five milliseconds, the number of possibilities is 5 million, or around 22 bits of entropy. There are 311,875,200 possibilities for 5 cards out of 52 in order, so knowing that is certainly enough to determine what the seed is. Even with a slightly lower reaction time, you could still do it. Slot machines may have less bits leakage, though.
+
+\*reaction time isn't really the right word here, you're aiming the first few times just to know what time you pressed it, and the time when you actually press something you may want to press it at a specific time. 
+
+
+
+
+ From the top comment at [HN](https://news.ycombinator.com/item?id=9797918):
+
+I don't think he did much wrong here. It doesn't appear that he actually broke in to your computers, he just submitted lots of bets.
+**If you're going to run a casino (whose entire business model is based on exploiting weaknesses of others for profit), don't be surprised if people try to exploit your weaknesses for profit.**
+
+Can't say I disagree. 
+
+
+
+
+ The statement I took issue with was
+
+ Not sure if it uses entropy at all.
+
+in the context of someone using the lack of entropy to beat the program. My statement right before that was:
+
+If you are generating it locally, there might be a limit on how much entropy is available, which would mean you could get a lot of data and then analyse it to get the algorithm.
+
+So the way I used entropy there was including anything that could be analysed, which includes pre-programmed "entropy".
+
+Given that I introduced the word into the discussion, did in fact use the standard definition, and the reply used the same word but using a different definition (according to you), I don't see what's wrong with my pointing out above that their statement makes no sense with the words it used. If they want to clarify, they can do so. 
+
+
+
+
+  When people speak of introducing "entropy" into a program they pretty much never mean accessing pseudo-randomness that was present in the system in it's initial state. They mean getting hardware-based entropy in real-time.
+
+Well they should specify if they are using a non-standard definition. Preselected entropy has its own problems (in particular it may be leaked), but that doesn't mean it doesn't count as entropy. 
+
+
+
+
+ (I'm assuming every number is a bit, for simplicity.)
+
+It will still take you N/M completely unpredictable interactions to start getting information you can make sense of.
+
+That is equivalent to saying that your system uses at least N bits of entropy (perhaps minus a small constant). If your system uses less, say Y, then after observing YN bits, I can already start predicting. It might take a handful of more bits just to confirm, but your statement can't be true unless you come pretty close to N bits of entropy. 
+
+
+
+
+  When he says "unpredictable one from the next" he is probably referring to unpredictability for the end user given the information exposed to them, not completely unpredictable knowing everything there is to know about the system state. You don't need any entropy for the former whereas you certainly need entropy for the latter.
+
+The information exposed to them is exactly however many bits they're willing to pay for. If we assume each play gives you 4 or so bits, then 100 plays gives you 400 and won't cost too much, and if you don't have at least 400 bits of entropy to work with, those 400 bits will probably yield useful info.
+
+If you have *no* entropy, then anyone playing a couple games can already analyse it. See my sibling comment for a bunch of examples of this. 
+
+
+
+
+  Not aware of any incidents in the company's history of anyone being able to predict the outcome of a game in the wild.
+
+I don't know which company you're working for, but [here](http://www.cigital.com/papers/download/developer_gambling.php) [are](https://books.google.com/books?id=gZlAAAAAQBAJ pg=PA12 lpg=PA12 dq=broken+rng+gambling source=bl ots=UxbK5yXqTI sig=oQFxsiVzeiIY4EjLB4i6QhgN4EI hl=en sa=X ei=M1ORVZOaJMG7-AHQiI_wBA ved=0CGQQ6AEwCQ#v=onepage q=broken%20rng%20gambling f=false) [some](https://www.ethicalhacker.net/features/book-reviews/mitnick-the-art-of-intrusion-ch-1-hacking-the-casinos-for-a-million-bucks) examples in the wild. 
+
+
+
+
+ It's not doing any sort of cryptography, it just needs results which are unpredictable one from the next.
+
+Uh, that requires entropy. In fact, if it's completely unpredictable, it's got to have as much entropy as the number of bits used.
+
+https://en.wikipedia.org/wiki/Entropy_(information_theory):
+
+**Entropy is a measure of unpredictability of information content.** 
+
+
+
+
+  Well, it uses a random number generator, and when you press 'spin' it has a x% chance of picking the low reelband and a y% chance of picking the high reelband, where x and y are chosen so that overall the payout is, say, 83% (or whatever).
+
+I pretty much figured that from what you said previously.
+
+There's no way to predict what the random number generator will decide. Some jurisdictions require an externally-approved generator, some even require the random numbers to come from an external server. But there is no way to predict what a slot machine is going to give you without nefarious and probably illegal means.
+
+I've seen too many stories about profits from reverse-engineering RNGs to assume that there isn't a way. If you are generating it locally, there might be a limit on how much entropy is available, which would mean you could get a lot of data and then analyse it to get the algorithm. 
+
+
+
+
+ No - it's decided after you pay, for each spin (rather than across all spins for one session).
+
+What information goes into this decision? It's generating some random bits *somehow* to decide which reel to use; is there any way to predict that? 
+
+
+
+
+ Is there any way to tell which one was chosen before betting (or choosing how much to bet)? 
+
+
+
+
+ /r/programmerhumor 
+
+
+
+
+ His wanting to mentor Harry only has truth implications for things related to mentoring; there are reasons for him to lie about this, and if the truth is that it's alive but Q doesn't want Harry to know, adding mentoring doesn't seem to change anything. 
+
+
+
+
+ That doesn't follow, sorry.  
+
+
+
+
+ They aren't in serious competition, for one; those are entirely different price points.
+
+Also, China. 
+
+
+
+
+ I use cashbackmonitor. Just checked a random site in both (sears) and evreward seemed out of date. 
+
+
+
+
+ To be fair, I've spoken with customer service reps that had no idea what to do until I told them. 
+
+
+
+
+
+
+
+
+
+ TIL posts didn't used to be archived after 6 months. 
+
+
+
+
+ I'll save you some time : YES!
+
+-Daniel Tosh 
+
+
+
+
+ I've seen it happen multiple times before. Although I don't actually know it wasn't /u/Frognificent, so you might still be right  
+
+
+
+
+ Unfortunately, a lot of environmentalists just want to reduce what they see as wasteful or destructive actions, without actually doing a cost-benefit analysis. See: nuclear energy, for one.
+
+Also, the Senate voted to recognize climate change a couple months ago, your last sentence is misinformed. 
+
+
+
+
+ Yeah but neither of those are neurobiology 
+
+
+
+
+ You living under a rock? Free speech and voting "rights" have been attacked and stopped since forever.  
+
+
+
+
+ /r/foundtheprogrammer 
+
+
+
+
+ Also evolution and global warming! 
+
+
+
+
+ Store it on DNA. 
+
+
+
+
+ In that there's little evidence he ever said that. 
+
+
+
+
+ That's crowdsourcing for you. Someone submitted it, upvotes. 
+
+
+
+
+ And what if people disagree on what size they want? 
+
+
+
+
+ Taylor Swift can fix this, I'm sure. 
+
+
+
+
+ What does an actual report have over one from CK? 
+
+
+
+
+ You can buy something on ebay with a credit/debit card without a paypal account. Unlink your paypal account from ebay if needed in settings.
+
+Did this recently when paypal was taking too long to confirm a new card; did it without logging in and went through. 
+
+
+
+
+ See also archive.org. 
+
+
+
+
+ Having a good reason to believe Q is lying is not necessary to consider his words not strong evidence. He is smarter than us, after all.
+
+He may have been trying to discourage Harry from looking for it, for one. 
+
+
+
+
+ You're missing the point of my critique. OP considered Quirrell's statement alone strong evidence. 
+
+
+
+
+ That doesn't mean he told the truth. It wasn't in Parseltongue. 
+
+
+
+
+ Yes, but Quirrell is slightly less than completely trustworthy, to say the least. Nothing he says is ever "strong evidence". 
+
+
+
+
+ Except if you read the article you'll see that isn't true. OP fails reading comprehension . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ OP links to https://github.com/bitcoin/bips/pull/163 and http://gtf.org/garzik/bitcoin/BIP100-blocksizechangeproposal.pdf, following the first URL you can look at https://github.com/bitcoin/bips/pulls for proposed ones. Other than that I can't really help. 
+
+
+
+
+ The article didn't contain any of that when I posted it (and they changed the headline). See https://archive.is/nWVMY 
+
+
+
+
+
+
+
+
+
+ Looks like it, see https://archive.is/nWVMY That also didn't contain any of the info about it not being that close, the denials, etc. 
+
+
+
+
+  I have a high IQ. It's a fact. But it is just a number. I did not say that I am a highly accomplished individual. Insisting on evidence of intelligence though accomplishment is like telling someone who is 7'2" that he is not tall because he doesn't play for the NBA.
+
+Which test did you get that number from? Is it a well-validated test? Or just some random test online that spits out meaningless numbers?
+
+The SAT measures achievement, so you can get a very high score by studying. An IQ test measures aptitude.
+
+There's a suspiciously high correlation between the two. See http://www.slate.com/articles/health_and_science/science/2014/04/what_do_sat_and_iq_tests_measure_general_intelligence_predicts_school_and.html
+
+High IQ also correlates well with a bunch of other things as mentioned in that article, like living longer, and so on. 
+
+
+
+
+ I just clicked "suggest title", didn't edit the title. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Plug for my first submission ever here https://www.reddit.com/r/HPMOR/comments/2deijm/comed_tea_and_defence_job_link_spoilers_chap_14/ 
+
+
+
+
+ While Quirrell's "speculation" as to the Basilisk's fate was fairly strong evidence in favor of the Basilisk's death
+
+What? 
+
+
+
+
+ Most people that think they're really smart are not. I'd expect some evidence (Ivy League degree, founded large company, invented something complicated, etc) first. Considering you admit you aren't making that much compared to your less gifted husband, maybe you should reconsider why you think you're so smart.
+
+For the record, .5 top IQ isn't even that smart. I got a 1600 Math/Reading SAT, which corresponds to around 1/1000, or top .1%.
+
+Anyway, chess is mostly practice, at least at higher levels. Chess masters don't do better on non-chess related problems, it's just that spending 30,000 hours on anything while not being a complete idiot (say bottom 25-50% IQ or so) makes you pretty good. 
+
+
+
+
+ RemindMe! 1 week ago 
+
+
+
+
+ Why not publish it last week? 
+
+
+
+
+ Something something Congress exempt from Obamacare something something insider trading exemptions something something 
+
+
+
+
+ /r/iamverysmart 
+
+
+
+
+ How was slavery being made illegal in the South before the secession? 
+
+
+
+
+ If the North weren't trying to free the Southern slaves, why would the South secede to stop that from happening?  
+
+
+
+
+ Saving the Union meant getting the South to stop the sucession; had they done so, there would be no need for war.
+
+The South seceded because they *thought* Lincoln was going to free the slaves, among other reasons. That doesn't make it the main issue in the war if the North was fighting for a different reason.
+
+I guess my main problem is with people who think the North was fighting in order to free the slaves, or that slavery was the sole reason for the South. 
+
+
+
+
+ Never ever buy anything on a credit card if you aren't sure you'll be able to pay it by the next statement. If you need to borrow money, don't do it with credit cards. There are better ways.
+
+Pay every bill as soon as you get it, and set up autopay for as many as possible. 
+
+
+
+
+ They left because (among other things) they *thought* Lincoln would free the slaves. Whether that was correct (i.e. would Lincoln have done anything like that had they not seceded) is debatable. If the Emancipation Proclamation had been before the succession, you would be right. 
+
+
+
+
+ That wasn't what I meant, sorry. I see how it could be misunderstood.
+
+My point is that since only one side was fighting for slaves (or thought they were), the war was not "mainly" about slaves. Nothing about who was right. 
+
+
+
+
+ How is that not an offer, though? He basically said "if the only way to get you to stop is by letting you have slaves, then I will". If the Southern states' main reason was ensuring they could have slaves, they should have taken him up on that.
+
+And my second point remains. The North fought to prevent the South from seceding, *not* to free the slaves. 
+
+
+
+
+ Your claim seems to imply that the reason the North fought was to free the slaves. Got any sources for that? 
+
+
+
+
+ There are two sides to the war; the Northern side's reason for going to war was not to free the slaves. 
+
+
+
+
+ Then why did the states fight even after they were offered to keep those rights? Or for that matter, why did Lincoln offer that if the main purpose of the war was to free the slaves? 
+
+
+
+
+ They seceded well before any of those rights were taken away, though. 
+
+
+
+
+ I didn't say it wasn't a large part. Read my comment more carefully. And I don't fly any flags, that's just irrelevant. 
+
+
+
+
+ Well if you know some history you'd be one of those people too. 
+
+Edit: my claim is that it wasn't completely, or (arguably) mostly, about slavery. IIRC Lincoln was ready to let the south keep their slaves at one point if it would stop the war. 
+
+It was definitely part of it, though, just not a large a part as many might think. 
+
+
+
+
+ \* insert stupid comment here\* 
+
+
+
+
+ Think of one of your hobbies, one you put a lot of time into; say, at least 5-10 hours a week you spend reading the latest news about it, thinking about it, commenting online about it, etc.
+
+Now, you've been doing that for years. I know absolutely nothing about it. How long would it take me to learn enough that I know more than you?  
+
+
+
+
+  but it would be pretty messed up for a company to provide a service and completely misrepresent the costs.
+
+Welcome to the business world. 
+
+
+
+
+ Could it be that you were paying that to the company, and also paying 2% or so to the issuers? And maybe someone along the way misunderstood and thought the small fee was all there was? Because I really don't think any small business can pay that little based on what I know. 
+
+
+
+
+ Those are Interchange Plus Pricing, which is on top of the credit card fees to the issuer. See https://en.wikipedia.org/wiki/Interchange_Plus
+
+There is no way you're paying less than a percent total.
+
+For comparison, paypal and square take 2.7%, amazon local register takes 2.5%. These are viewed as competitive rates. 
+
+
+
+
+  In the old system you were still subsidizing old/sick people.
+
+Please source this. Why would any insurance do that, which seems to be strictly suboptimal for them, if they weren't being forced?
+
+Why would the law need to force the insurance companies to do that if they were doing it anyway? 
+
+
+
+
+ Yes, I pay less, but not enough less. I'm paying more because of this law to subsidize old/sick people, when I shouldn't be, and you're trying to pass it off as "standard insurance practice", when it isn't. 
+
+
+
+
+  and the whole thing hinges on the premise that young people...can and should subsidize the healthcare of baby boomers
+
+From http://abcnews.go.com/Business/top-reasons-young-adults-sign-affordable-care-act/story?id=22690267:
+
+Prior to the ACA, older and/or unhealthy adults could be charged more than five times what young, healthy adults were for health insurance premiums. The ACA limits this "age-rating" ratio to threethat is, older or unhealthy individuals can be charged only up to three times what the young and healthy pay.
+
+So if I'm a fifth as risky as a high-risk person, I still need to pay a third of what they pay, which means I'm overpaying. The ACA outlawed charging based on risk for more than a 1:3 ratio. Yes, that was invented by the ACA. 
+
+
+
+
+ Except generally the people at higher risk pay more. You should pay the same amount as anyone else with the same expected cost, and those should balance out for the insurance company; but if I'm low risk, why should I pay more because insurance companies aren't allowed to charge more to high-risk people? They can only charge the highest risk people at most 3 times of the lowest risk people, regardless of how large the difference in risk may be. 
+
+
+
+
+ Sigh ...
+
+I went through it again and copied the text.
+
+In this particular city, you have two options: you can take the local train, which is cheap, or you can take the express train, which is more expensive but which will save you a full hour of travel time. (Suppose your plans aren't time-sensitive, **and that you don't have anything fun to do on the train  you'll just be waiting in your seat throughout the ride, and there isn't really anything to see outside the window.**) 
+
+
+
+
+  Also unless I skim-read over the top of it, the train scenario didn't give any concrete numbers for exactly how much time it saves, so drawing any conclusion about the consistency of our valuation of time seems suspect.
+
+Pretty sure it specified *exactly* 1 hour. 
+
+
+
+
+  I would be willing to spend more money on using the do-it-fast machine than on the express train because I can do other things on the slower train (e.g. play video games) whereas if I have a task that must be done on the weekend it is something that would require my attention and prevent multitasking.
+
+It specified that you can't do anything fun on the train. Careful reading -2! 
+
+
+
+
+ I got rationalist and 86.84%, not too bad.
+
+I do wish it broke down what the "correct" answer should be where I lost points ... 
+
+
+
+
+ And did he pass them on? Yes. 
+
+
+
+
+ She was against gay marriage, for the Iraq war, for the Patriot act. 
+
+
+
+
+ If she'd done that, she'd still be a billionaire. 
+
+
+
+
+ Well, if it succeeds, would the devs switch? 
+
+
+
+
+ Isn't your argument completely symmetrical? Gavin won't be a dev anymore on the main code if he goes ahead with the fork. 
+
+
+
+
+ Did *not* expect this one to be a bot too. 
+
+
+
+
+  The reality is of course it is ultimately there will be a vote by miners. The most work chain will always win and the miners will prove they are more powerful than the subreddit, the developers, full node operators, merchants and the exchanges combined. None of the other groups will ever be able to challenge the most work chain, in my view.
+
+It's more complicated than that; even if 95% of miners change, since this is a hard-fork, no exchanges or nodes can be forced onto the new chain. If 95% of miners *don't* change, they can stop the fork assuming it's backwards-compatible with old blocks, but not in reverse. 
+
+
+
+
+ I agree with you; I just wanted to point out that parent's claim of "90% support one side" can be twisted both ways. 
+
+
+
+
+ The question is whether you're talking about the 90% of devs who didn't like Gavin's proposal, or the 90% of bitcoin users who did. 
+
+
+
+
+
+
+
+
+
+ Try http://gen.lib.rus.ec/scimag/index.php?s=10.1016/j.ssresearch.2015.06.008 
+
+
+
+
+ Well the other three do all fall into the Android category. 
+
+
+
+
+ [sure](http://www.amazon.com/Vicwin-One-Bleach-Kurosaki-Swastika-Necklace/dp/B00XJ01YZI/ref=sr_1_3?ie=UTF8 qid=1435152782 sr=8-3 keywords=swastika+flag) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *Happy happy loud-sstartling-noisse loud-sstartling-noisse plasse-of-sstagnant-water plasse-of-sstagnant-water plasse-of-sstagnant-water.*
+
+FTFY 
+
+
+
+
+ ##  
+
+
+
+
+ Great way to get shut down. 
+
+
+
+
+ That was not obvious at all. 
+
+
+
+
+ When did the Pharisees say there was no resurrection? It sounds like you're talking about resurrection in general; but that's well documented in the Old Testament. https://en.wikipedia.org/wiki/Resurrection#Judaism_and_Samaritanism 
+
+Also, it's only a theory, and my source says right after that Ibn Ezra rejects it. 
+
+
+
+
+  Probably
+
+ 
+
+
+
+
+ I was hoping this was a novelty account :( 
+
+
+
+
+ I second this minion.
+
+FTFY 
+
+
+
+
+ everyone on reddit is a bot besides you 
+
+
+
+
+ http://www.researchgate.net/profile/Corey_Cook2/publication/275528243_Harry_Potter_and_the_measures_of_personality_Extraverted_Gryffindors_agreeable_Hufflepuffs_clever_Ravenclaws_and_manipulative_Slytherins/links/558514a808ae7bc2f4484c15.pdf?disableCoverPage=true 
+
+
+
+
+ [/r/ofcoursethatsathing](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+
+
+
+
+ I submit direct links all the time to /r/nocontext and never had a problem. 
+
+
+
+
+ Why, what's wrong? 
+
+
+
+
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's one theory that he actually killed him, and he was resurrected.
+
+http://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0001_0_00627.html
+
+Ibn Ezra (commentary on Gen. 22:19) also quotes an opinion that Abraham actually did kill Isaac (hence there is no reference to Isaac returning home with his father), and he was later resurrected from the dead.  
+
+
+
+
+ Stop shouting or I'll no longer be willing to have conversations with you. 
+
+
+
+
+ You mention not being allowed to make loans; I'm interested in shorting fully collateralized (against fiat), which wouldn't require any loans. Is there a chance of that? 
+
+
+
+
+ Are there plans to offer shorting? 
+
+
+
+
+ As someone with pretty bad vision who's been told that they aren't likely to gain much with surgery, is there any hope that one day I'll be able to improve my eyesight and not require glasses? 
+
+
+
+
+ I'm not so interested in those, because there's a $250 limit, they charge shipping, and don't accept Amex. 
+
+
+
+
+ If you're interested in how it was found, see https://www.quora.com/How-did-Richard-Sabey-come-up-with-the-below-equation-which-is-accurate-to-over-a-septillion-digits (which is where I saw it), and the other times it's been submitted (to /r/math) https://www.reddit.com/r/todayilearned/duplicates/3atrct/til_that_theres_an_approximation_for_e_accurate/ 
+
+
+
+
+ Are VGCs or Mastercards bought from https://www.giftcards.com transferable to Serve at Walmart? If not, what other ways can they be cashed out? 
+
+If it helps, according to http://www.giftcards.com/faq:
+
+Visa Gift Cards are issued by The Bancorp Bank. Personalized MasterCard Gift Cards are issued by CenterState Bank of Florida, NA. Local Gift Cards are issued by Sutton Bank. 
+
+
+
+
+  dec 2015
+
+Can I borrow your time-turner? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ An amazing pandigital approximation to e that is correct to 18457734525360901453873570 decimal digits is given by
+
+ (1+9^(-4^(76)))^(3^(2^(85))), 	
+
+found by R. Sabey in 2004 (Friedman 2004). 
+
+
+
+
+
+
+
+
+
+ Wouldn't it be cheaper for them both to buy a new fridge, then? 
+
+
+
+
+ Isn't this exactly why you should do family law? 
+
+
+
+
+
+
+
+
+
+ Well, at the bitcoin high .01 BTC was only worth a bit over $10. 
+
+
+
+
+ That's currently ~$2.50, what are you talking about? 
+
+
+
+

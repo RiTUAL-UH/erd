@@ -1,0 +1,35 @@
+
+
+
+
+
+ Soylent Green-tastic! 
+
+
+
+
+ This particular warning ("harmful programs") I think is related to PUP (Potentially Unwanted Programs), things like programs with toolbars and other stuff that's set to install by default during the installation routine, or ads that lead to sites that offer these kind of downloads. 
+
+If a site has been hacked or is offering actual malware (the virus/trojan kind), or is a phishing site, Chrome displays slightly different warnings (see: https://support.google.com/chrome/answer/99020?hl=en).
+
+Google has been very active in labeling "harmful program" sites lately - it recently blocked SourceForge for the same reason. 
+
+
+
+
+ Being self employed has its perks sometimes ... 
+
+
+
+
+ I have my base set up similar to the linked screenie in smuttyinkspot's post, maybe with defenses more closely together, and more mines on the sides to discourage flanking. The weakness in this kind of base design is always the flanks, as once you get past the front defenses towards the production buildings at the back, it's game over basically. The advantage is that attackers are overwhelmed the minute they set foot on the beach, so they have to spend a lot of GBE destroying defenses before they land.
+
+I leveled up the HQ and then upgraded the shock launcher as a priority, as its relatively large coverage wreaks havoc with attackers with this kind of denser base design.
+
+To defend against warriors, you might want to upgrade the flamethrowers and have them closer to your HQ, along with upgraded machine guns. The flamethrowers are currently too far away and can only do damage to one side of the HQ for each flamethrower, as opposed to all four sides at the same time when placed right next to the HQ. Also wouldn't hurt to have more high DPS defenses covering the HQ, to pick off the warriors in a single shot.
+
+Also for the OP, you have a pretty high VP count for your level - it's gonna be tough to defend bases against players that are leveled to the high 40s, regardless of your strategy. So focus on upgrading your defenses if you find you're losing most of the loot you earn to home base attacks (I prioritized upgrading boom cannons, sniper towers, cannons, rocket launchers, flamethrowers around the HQ, machine guns around the HQ in this order before I got to level 17 and got the shock launcher). 
+
+
+
+

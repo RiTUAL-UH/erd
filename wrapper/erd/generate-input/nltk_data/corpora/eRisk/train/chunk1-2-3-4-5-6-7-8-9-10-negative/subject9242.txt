@@ -1,0 +1,10987 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://upload.wikimedia.org/wikipedia/commons/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Enjoy:
+
+http://3.bp.blogspot.com/-Nu1QW9rZ030/VMvfjJ889tI/AAAAAAAAt7A/KpeyNUcraWI/s1600/boygeorgebook1_Page_8.jpg
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I know all about german history  
+
+
+
+
+ \I know when you renovated your kitchen last summer.  
+
+
+
+
+ You seem evil 
+
+
+
+
+ She could do egg storafege 
+
+
+
+
+ Ivf has been done since the 1980s bro.  
+
+
+
+
+ Can you give me a link?  I'm interested.  
+
+
+
+
+ The diseases caused by advanced age of parents are things like autism, which have a huge social cost.  
+
+
+
+
+ The double dutch. We are very familiar 
+
+
+
+
+ #oops. #YouOnlyFileOnce 
+
+
+
+
+ The budget of the irs has shrunk their capacity to audit. Ffs it is awesome. 
+
+I think less people will be terrorized over stupid shit as this keeps up.  
+
+
+
+
+ Verdict: Dindoo nuffin, IRS employees all ruled honors students.  
+
+
+
+
+ Holy shit. What kind of research was it?  This is why storage across different institutions and offsite is such a big deal.  
+
+
+
+
+ If you "made mistakes" and accidentally deleted your income reports and tax records, would they accept that? 
+
+
+
+
+ That is also a really big stereotype.  
+
+
+
+
+ I asked a while back for all of this to be put into the sidebar but apparently duolinguo makes the cut whereas this doesnt.. 
+
+
+
+
+ Maybe get it in writing and record your call by calling only on skype with them. 
+
+
+It is like dealing with the mafia. You gotta wear a wire to nail them.  
+
+
+
+
+ DIAPERS TO THE GOVERNORSHIP2016! 
+
+
+
+
+ [You have now been banned from /r/keto] 
+
+
+
+
+ Residential advisors are sellouts.  
+
+
+
+
+ I'm sorry that the baby boomers destroyed our coujtry and bankrupted the public college system so they could get tax cuts. Would you like to critque my eating habits more now? 
+
+
+
+
+ There are some scam companies that just troll/harass these cases as a staple source of business.  
+
+
+
+
+ This is a textbook tu quote
+
+
+I never said that.  
+
+
+
+
+ I didnt say either of those things.  
+
+
+
+
+ Not that Sen. Graham would know anything about that.  
+
+
+
+
+ Also fuck ted 2.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ But surely the segregation era laws at disenfranchising and disarming blacks aren't bad at all! 
+
+
+
+
+ Sins of the father are sins of the son-except when you are a so-cal movie star. Then you're absolved.  
+
+
+
+
+ Good. Lying asshole.  
+
+
+
+
+ Prostitution isn't human trafficking 
+
+
+
+
+
+
+
+
+
+ I didn't say I wanted to fuck him, I said I wanted a body like him. 
+
+Projection much? 
+
+
+
+
+ One of the mormon truisms that always makes me crack up is "back massages in the front room turn into front massages in the back room".  
+
+
+
+
+ How do I get a body like that?-tired of being a fatty 
+
+
+
+
+
+
+
+
+
+ Mfw their will inevitably die in story mode and you won't be able to revive them 
+
+
+
+
+ Are you a heritage speaker of hindi/punjabi/urdu? 
+
+
+
+
+ Most psychometricians/psychologists think that is retarded though 
+
+
+
+
+ \the economist
+
+Thanks for such a neutral and thoughtful academic source 
+
+
+
+
+ What languages do you speak? 
+
+
+
+
+ Yeah this is dumb as hell. 
+
+
+Next people will be mad that a white woman can't play othello.  
+
+
+
+
+ No 2 quote 
+
+
+
+
+ The postal service is of the highest quality institutions in the united states, and it was established by the constitution. For "constitutionalists" conservatives sure love to disobey the constitution when it comes to the postal service 
+
+
+
+
+ \body intelligence
+
+
+What? 
+
+
+
+
+ I subscribe to wastewater management monthly, the monocle,  and a bunch of economics journals. Does that turn yoh on? 
+
+
+
+
+ I dumped a guy because he had an echard tolle book on his shelf 
+
+
+
+
+ "Uuh I wanna go back to Dorsia..." 
+
+
+
+
+ This seems like he is just doing self promotion and trying to sell this book. I want Suze Oreman not this guy.  
+
+
+
+
+ You can get those speeds on dsl? 
+
+
+
+
+ It is a large number that drink the coolaid... 
+
+
+
+
+ Maybe show her the penn and teller multi level marketing thing? 
+
+
+
+
+ \incredibly vibrant urine
+
+Go on, I'm already listening 
+
+
+
+
+ Oh yeah, keep him going to the con job veterinarian.  
+
+
+
+
+ QUICK!  TO THE EMPORIUM! 
+
+
+
+
+ Uh, palestinians? 
+
+
+
+
+ Maybe you just have toxiplasmosis? 
+
+
+
+
+ Or learning a language. Download duolinguo 
+
+
+
+
+ That is genius. Make them think you are loaded.  
+
+
+
+
+ Condoms always go in the nightstand.  
+
+
+
+
+ ...pee?  How? 
+
+
+
+
+ With 8 cups of leftover pasta water at a simmering boil 
+
+
+
+
+ Books!  Three new shelves installed to hold 10,000 titles!  Right next to my laborghini! 
+
+
+
+
+ God that would be such a bitterly ironic situation in which he did nothing morally wrong 
+
+
+
+
+ Username checks out 
+
+
+
+
+ [Screams Internally] 
+
+
+
+
+ [You are now a mod of /r/frugal] 
+
+
+
+
+ The government deciding what is good or not is a really slippery slope.  
+
+
+
+
+ But muh yellow journalism!
+
+
+Also, some people want to get rid of the exemption for churches, which I kind of agree with 
+
+
+
+
+ AKA lindsey graham? 
+
+
+
+
+ That is hilarious. And I meant suburb in the prior comment.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Liquor stores and gas stations are sometimes more friendly to having petitions hung up. Just ask.  
+
+
+
+
+
+
+
+
+
+ Why does it have text?  Shouldn't it have only visuals so people from Starkville can understand it? 
+
+
+
+
+ Ugly as hell. It looks french on the background 
+
+
+
+
+ Tbh not really.  
+
+
+
+
+ Seriously?   I wonder how much butthurt there woukd be if you flew an isis flag in a suburd 
+
+
+
+
+ Why?  None of them nor their/parents/grandparents were slaves 
+
+
+
+
+ You're on the list 
+
+
+
+
+ \jared diamond 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I just found out at 22 I was the child not of my father, but instead of my mother and a sperm donor who had Croatian citizenship at the time (the procedure took place in New Orleans in the early 90s if it matters). 
+
+I automatically had American citizenship at birth by being born of an American and by being born in America, but now that I suspect I could get Croatian citizenship I am very interested in acquiring it. 
+
+The Croatian bills regulating it suggest you need to settle the matter before you are 18, yet I did not know of my true origin. 
+
+Also of note, I am not sure if he fled as a refugee in the 1990s, and I know a lot of the laws are different and written with the aim of resolving stateless citizens, so I am not sure if I could inherit citizenship if he was fleeing refugee wise. 
+
+I should have access to proof of my origin via the fertility clinic, so is there a possibility of getting citizenship?  
+
+I will link the relevant text of the Croatian legal code. 
+
+The gentleman in question likely signed away the kinds of rights in regard to actions such as child support or whatnot, but I doubt that still includes the ability to confer citizenship. Is that the case?
+
+http://eudo-citizenship.eu/NationalDB/docs/CRO%20Law%20on%20Croatian%20Citizenship_consolidated%2028_10_2011_ENGLISH.pdf
+
+
+http://www.hrvatiizvanrh.hr/en/hmiu/croatian-citizenship/66
+
+
+I am older than 18 and not on the register of Croatian citizens, so I have no idea what to do and I presume this will involve a fair amount of paperwork even if I find all of the documentation. 
+
+Thanks in advance. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I was planning on at least 100 if not 200. I am not going to ever turn the A/C over 75 if I am inside the house.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In terms of their governments. Like did they have cooperative foreign policy as little statelets or what?  Both were short lived in the long term, but did they have something like camaraderie as very small states who wanted independence from their southern neighbor?
+
+
+Edit: especially in regard to race and the griqua being another force not necessarily subservient to the cape 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I did keto for a few weeks and was amazed at how full i was while eating 1600 calories a day. Even just eating lower carb can get great results.  
+
+
+
+
+ You know what he meant. 
+
+ 
+
+
+
+
+ Sometimes (ie always) I jerk off with it 
+
+
+
+
+ Mfw usa and ussr comperable in their view 
+
+
+
+
+ If people were turning non working cars with their plates towards their homes it would be pretty hard to do considering the car wasn't working 
+
+
+
+
+  ...Somalia? 
+
+
+
+
+ I'm gay 
+
+
+
+
+ Maybe rail is just a bad mass transit option? 
+
+
+
+
+ Light rail usually holds way under the max capacity though because they are so underused.  
+
+
+
+
+
+
+
+
+
+ Please make sure you donate to his campaign and not a superpac 
+
+
+
+
+ Thank you for your brave act to help the middle class.  
+
+
+
+
+ \All politics is brinksmanship. 
+
+
+Ftfy 
+
+
+
+
+ Will attempts ad devaluijg the cureency work if people still use the euro?  
+
+Or will the govt make people somehow use the drachme by force? 
+
+
+
+
+ National soverignty != opressive and backwards. Women in poland could drive to germany for abortion pills if they wanted.  
+
+
+
+
+ Like one person basically 
+
+
+
+
+ It is even more sad conisdering one of hillary's speeches to goldman sachs probably earned her more than his net worth 
+
+
+
+
+ This is a hitpiece, but I think it is worth being familiar with so we can be prepared to counter the Hillary Campaign talking points 
+
+
+
+
+
+
+
+
+
+ You're right. If we make college free for 4 years we will have a lot more voters. I like the way you think. You have to spread the message around 
+
+
+
+
+ Why not?  We need to each voters why we will help them.  
+
+
+
+
+ Was circumcised and suffer from lack of feeling in the end of my penis. I had it done soon after birth for no medical reason soon after birth.
+
+It is completely equivalent to female genital mutilation except it happens to males.  
+
+
+
+
+ I am a Bernie Sanders disctrict leader for my voting precinct. 
+
+You can't stop Sanders for president. 
+
+I donct know what campaign is paying you to post so late at night, but I can tell you that you will never win  
+
+
+
+
+ Quit being so closed minded you heteronormative prude. 
+
+Quit projecting your morality into other people's relationships.
+
+They are both tested and monotanous, so their is no health risk 
+
+
+
+
+ Lube up and be on the floor naked and ready when he gets home. 
+
+
+Ass up. 
+
+He won't be able to resist.  
+
+
+
+
+ a.y.l.m.a.o 
+
+
+
+
+ When they're not doging Bosniak sniper fire. 
+
+But they have a large leadership role, which she used to malicious ends, just like when she was in the senate and was against freedom of speech, gay rights, and a leader in promoting the war on the Iraqi people 
+
+
+
+
+ Agreed. But salon is very fairweather progressive and much too neoliberal for me, so you can only get so much 
+
+
+
+
+ How?  Bernie Sanders has an economic platform that benefits groups in poverty, which are disproportionately African American and Woman American. 
+
+By teaching people how voting Bernie Sanders will vote themselves money via common sense middle class economic ideas, like raising the minimium wage and expanding social security, Bernie Sanders can beat Hillary Clinton. 
+
+It is just a matter of educating and teaching people why voting for neoliberalism never works.  
+
+
+
+
+
+
+
+
+
+ 100% 
+
+
+
+
+ Agreed. I don't think he will run, and if he does he will be competing for HRC voters, not those of Bernie Sanders. It is like how Marco Rubio is going jead to head with Jeb being advantageous to Rand Paul. If Kasich gets in the Republican side, it will dilute the Jeb vote even more if more the establishment vote gets even further diluted.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ We need a government, tax system, culture, healthcare system, police force, energy policy, and gay rights like Europe too. 
+
+I am tired of being governed by the American Taliban.  
+
+
+
+
+ I don't understand why african americans aren't more grateful at how much bernie has done for them. Why would they vote for hrc?  She is like the queen of the drug war 
+
+
+
+
+ Bernie Sanders :D 
+
+
+
+
+
+
+
+
+
+ Ah yes, why hasn't the senator from kentucky dictated laws for his statek. Hint: he can't. He isn't a state rep/senator. 
+
+He has introduced a bunch of bills like you are describing with the cosponsorship of corey booker 
+
+
+
+
+ Buzzfeed should be a felony 
+
+
+
+
+ Remember 2008?  I am not saying Bernie will be the nominee, but hillary was rejected last time, and she hasn't done anything to bolster her resume since.  
+
+
+
+
+ Randal. His name is Randal.  
+
+
+
+
+ Women and minorities are being tricked into voting against their interests in favor of the interests of the banksters. 
+
+I am voting Bernie.
+
+
+#EntertheSandman #FeeltheBern 
+
+
+
+
+ The exciting world of unpaid interning 
+
+
+
+
+ He got autism from the vaccines, and you shouldn't leave guns around autistic children.  
+
+
+
+
+ Manson is floridaman though 
+
+
+
+
+ If anything this easies demmand in surrounding places so they dont have a bunch of luxury development. Idk how that is a bad thing 
+
+
+
+
+ Honors students  
+
+
+
+
+ Yeah. Lady gaga should endorse bernie 
+
+
+
+
+ http://www.nheri.org/research/research-facts-on-homeschooling.html 
+
+
+
+
+ Basically America's fault.  
+
+
+
+
+ Morocco is mostly concerned with western sahara.  
+
+
+
+
+ The coin has already been minted. Its too late.  
+
+
+
+
+ http://www.reddit.com/r/vexillology/comments/38txg1/the_rainbowdaesh_a_hybrid_lgbtisis_flag/? 
+
+
+
+
+ Kuna jogoo kubwa! 
+
+
+
+
+ Wtf does JB even stand for?  Common core and amnesty?
+ 
+
+
+
+
+ Quit doubting bernie please. You are hurting the cause. 
+
+/r/sandersforpresisent 
+
+
+
+
+ Yaaas gurl. Feel the Bern.  
+
+
+
+
+ These bears arenct endangered, and as long as the hunting quota isn't large than the amount that can sustainably hunted each year, who cares?  
+
+Is there a good argument against it? 
+
+
+
+
+ Cock and ball torture? 
+
+
+
+
+ If you spend on porn these days you are dumb anyways 
+
+
+
+
+ Much of the antiporn research just comes from crazed 3rd wave antisex feminists.  
+
+
+
+
+ Devil's Dessert 
+
+
+
+
+ Good. Staying in the family is better than buying from some new construction made by an investor or renting from blackrock.  
+
+
+
+
+ \not segregated by race
+
+Boston.jpg
+
+Also, the gifted program in NYC is almost all white and a way to prevent black kids from being in white classes 
+
+
+
+
+ Yes. It is the only way to force equality of opportunity. 
+
+People should be educated based on their needs, not giving all of the opportunity to the highest achievers. It is biased to have some schools better funded than the schools that educate the working and middle class.  
+
+
+
+
+ One word. Homeschooling.  
+
+
+
+
+ Having a used toyota is a better life decision than having a tes[Le] 
+
+
+
+
+ I'm on mobile 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dual water and conservation on end users is worth a lot less than forcing conservation of industrial users, farmers, and power plants.  
+
+
+
+
+ Do you think allowing water to raise to market prices and face the real cost of water waste is a key part of solve our water stress issues in the US?
+
+Or do you prefer keeping water distribution at below the market value for farmers? 
+
+
+
+
+ /r/vexillology and /r/vexillologycirclejerk made a bunch, just ask them 
+
+
+
+
+ EXCLUSIVE SCOOP ON ISIS INFLITRATION OF THE DEPTHS OF LONDON GAY SCENE, MORE AFTER THE BREAK, ONLY ON CNN 
+
+
+
+
+ This is how many privatized utilities work and ir works pretty well 
+
+
+
+
+ I don't get why the financial and organizational arms of the church ahven't been shut down. 
+
+
+They are essentially a criminal gang. Raids on fbi offices. Attempted coup of city govt. 
+
+Massive theft of private info and stalking of political opponents.  
+
+
+
+
+ Daily reminder hassan refused to sign the medical marijuana law if PTSD would be a qualifying condition, if people would be allowed to grow their own medicine, and if there would be more than 4 stores. Asshole.  
+
+
+
+
+ I don't know why republicans don't pass massive tax breaks for people to build fiber/wireless internet for 5years or a decade. 
+
+Like, they could do a tax cut or zero tax thing for small isps building fiber to make the enviornment more competitive and tax friendly. 
+ 
+
+
+
+
+ Assoles. Bad drivers. Loud. Pretentious.  
+
+
+
+
+ Pro corporate republicans in Mississippi made this giant facility to process the most worthless kind of coal and it is a total white elephant. It has cost more than 300 million for taxpayers, and it has in large part contributed to rate increases.  
+
+
+
+
+ Still had better public transit and less potholes than now 
+
+
+
+
+ Uniforms are deductible right? 
+
+
+
+
+
+
+
+
+
+ Fwiw not being discriminated aginst in renting and the workplace are like 100 foldore important than marriage 
+
+
+
+
+ ...which strike more fear into people. Sometimes they work but oftentimes they just make the situation worse.  
+
+
+
+
+ [You have now been banned in /r/Pyongyang] 
+
+
+
+
+ South pile (the brand) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tutoring kids in math/finance or college students is a great way to make cash. Especially AP students and the like. Or doing act/sat prep.  
+
+
+
+
+ If they drink a few gallons of it yeah. Not if they are spraying it in a tractor.   
+
+
+
+
+ Elon musk plz fund dis 
+
+
+
+
+ You've gotta answer the door naked. Didnt you leaernt he lesson from OP? 
+
+
+
+
+ Renewal Assessment Report: Glyphosate, Volume 1, Report and Proposed Decision", German Institute for Risk Assessment, 18 December 2013, p. 65. Download available from EFSA Provision of documents (registration required):Volume 1, pp. 6466
+
+
+It is behind a paywall but it found the link tenuous. 
+
+
+Glophosphate (roundup) DOES have legitimate concerns about overuse and the ubiquity with which it is applied, but it isn't dangerous in the sense that something like lead is. 
+
+Glyophosphate only lasts for like a few hours before it denatutes and becomes harmless, it isn't something that would harm you if someone sprayed it on your food a week before it was harvested. And it isn't sprayed soon before harvest, so a lot of the baseless concerns seem to be ridiculous. 
+ 
+
+
+
+
+ He would've if it was a black lab.  
+
+
+
+
+ Do you have a source that it causes cancer?
+
+The burden is on you.  
+
+
+
+
+ Nobody cares about muslims, just asshole parkers.  
+
+
+
+
+ That is absolute gold.  
+
+
+
+
+ Or they could just stop being entitled and walk or bike from where they find parking.  
+
+
+
+
+ There is a difference between directingn traffic for a crowd and making special religious rules instead of the secular rules everyone follows 
+
+
+
+
+ It isn't allowed but people donct enforce it.  
+
+It should be enforced. They are impeding traffic. Park elsewhere.  
+
+
+
+
+ But muh special religious rights!!11! 
+
+
+
+
+ He is black and some people are tied into 60s identity politics to give him a pass for everything because of it 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Blackrock Group Intensifies] 
+
+
+
+
+
+
+
+
+
+ http://www.cdc.gov/parasites/fasciola/gen_info/faqs.html 
+
+
+
+
+ Hillary has already greased the wheels of power. It isn't too late to stop her though.  
+
+
+
+
+ How long does the shipping take though?  
+
+And I am sure a digital copy would have less of a carbon footprint than a brick and mortar store out in the suburbs.  
+
+
+
+
+
+
+
+
+
+ Not to be a spoilsport, but since you are new please understand that safe sex is a must everytime for giving or recieving anal, and that there is never an excuse not to use a rubber.  
+
+
+
+
+ Je ne see pourquoi il there ya rsistance to notre cultural rgime.  
+
+
+
+
+ Lol. National Front is totally antithetical to a violent and marauding foreign policy typical of American Neoconservatives. Same with UKIP. 
+
+The way you speak about the right wing being associated with neoconservativism shows how innacurate your commentary is.  
+
+
+
+
+ Moral relativism much?
+
+Norwegians are as guilty of colonialism and environmental crimes against the planet as anyone else. That is why I vote Greens. We have gotten rich off of evil and carbon based oil. It is pure evil incarnate.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Yiff] 
+
+
+
+
+ It is the closing song in the graduate 
+
+
+
+
+ He worked in a dentist's office for a while, so he started doing it as a way to be ultra hygenic when you are bent over someone's face 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nair works well, just use it for a shorter time than reccomended.  
+
+
+
+
+ You can nair your balls easily. Just be sure to put it on for less than the advised time by a few minutes and use a timer. I have done it before and it isn't super complicated.  
+
+
+
+
+ I like girly scents too. "heavy " scents like sandalwood are kind of noxious to me. I much prefer something light that smells pf citrus or lime. I think those are classic scents in my book.  
+
+
+
+
+ Shaving or trimming your armpits makes a huge difference. Even if you just buzz them or scissor trim the hair short, the deodorant can be a lot more effective because it actually touches the skin instead of sitting like a half an inch away on the hair. 
+
+-not indian but lives somewhere sweaty. Try it. 
+
+
+My mom told me my grandfather always shaved his pits and never had a problem with BO.  
+
+
+
+
+ Denmark has socialism though. It is le best country in the world. Everything (college, food, healthcare) is free. Why would you give that up? 
+
+
+
+
+ It looks good, but you can cut the sides a little and have it look a little neater if you like the look. 
+
+https://ceruleangypsy.files.wordpress.com/2013/12/mens-hair-3.jpg
+
+I like this cut as it is kind of neat while still being much more fun than a traditional cut. If you keep it combed back it looks very handsome. 
+
+
+I also think something similar to chris hemsworth but a few inches shorter would be a sweet spot. Something like a inch or two shorter than the photo in the back. 
+
+https://lh6.googleusercontent.com/-1SZS1DqFBW8/U4nqlW4JCUI/AAAAAAAAFko/2Gw7Acnxsz0/w506-h750/96587_original.gif
+
+I am not sure if it would work on your hair type though 
+
+
+
+
+
+
+
+
+
+ That is what all of the opinions end in. Grow up.  
+
+
+
+
+ "we have a meeting with you at 4:30" 
+
+
+
+
+ Is it too forward to write the letter in your car after the interview and leave it with the secretary?  I have often heard that bandied about as a tip.  
+
+
+
+
+ Uh extremist muslims are actively at war with things they dislike, such as jews, cartoonists, whatever segments of liberal society which bother them
+
+
+When Islamic society tries to force their opinion of gays( like myself) or women, it is time to stand up for liberal european values 
+
+
+
+
+ Yeah this megathread is terriblement 
+
+
+
+
+ [Citation Needed]. 
+
+
+Almost all terrorist groups or antigovernment rebels have used these tsctics historically 
+
+
+
+
+ Vive le french language! 
+
+
+
+
+ Asian people have smaller stature anyways. I wonder if that warps their opinions a bjt 
+
+
+
+
+ Gerontocracy 
+
+
+
+
+ I'm a pro-gay republican who was recently banned from /r/conservative without reason. They just ban people who aren't following the santorum schtick.  
+
+
+
+
+ Last time it rained heavily and I was on I12 some chucklefuck bulocal policeman flipped his cruiser because he was driving irresponsibly at like 80 in the rain for no reason 
+
+
+
+
+ Pre islam wasn't ignorance. The ancient world was very developed.  
+
+
+
+
+ Shorter on the sides, longer on the top.  
+
+
+
+
+
+
+
+
+
+ Louisiana republican here, can confirm nobody likes him 
+
+
+
+
+ CHIPOTLE!  SKATEBOARDS!  SURFING! Will they kill your kids? 
+
+
+
+
+ Look up bromance video parody by bryan hawn on youtub 
+
+
+
+
+ People claim a sorts of wacky cures because of it 
+
+
+
+
+ Ad homenim 
+
+
+
+
+ [Citation] 
+
+
+
+
+ Dilutjon is rhe solution to pollution. Nothing about the idea is radical.  
+
+
+
+
+ I was thinking national lampoon's family vacation to bond villain but same effect.  
+
+
+
+
+ I know this is controversal but I like hulu actually. They have a JAY PEG filter on the videos you watch, so the quality is less overstimulating than the high def commercials in between episodes 
+
+
+
+
+ Try your local library and just burn their cds so you keep a backup 
+
+
+
+
+ Do you even understand the fair housing ruling? 
+
+
+
+
+ Detox?  No such thing. Gluten free shouldn't be pseudoscience.  
+
+
+
+
+ Like flukes? 
+
+
+
+
+ Didn't we decide that the need to get "complete protein" at every meal is mostly bunk? 
+
+
+
+
+ Fruit juice in general but apple juice, cranberry juice, cherry juice, and apple cider vinegar too 
+
+
+
+
+ Drinking water with the noodles can help. Just give it time and stop taking laxatives, drink more water, and exercise.  
+
+
+
+
+ Watch your anonymity this is a small sub.   I would probably delete this 
+
+
+
+
+ Decrowd?  Donct people have a right to assemble under the constitution?  Decrowding is racist, just like we decrowded the indians.  
+
+
+
+
+ Ending the drug war would also probably help rehabilitate neighborhoods and improve property values  
+
+
+
+
+ And 99 other things non home owner 19 year olds think about social issues in our new compendium, "Best of Reddit: 2015!" 
+
+
+
+
+ This happened in memphis as well.  
+
+
+
+
+ I donct get this though. If black people are more poor pn average, in theory every rule could be challanged on equal protection amd disparate impact on minorities. 
+
+
+Things like having the grass mowed and minimum lots sizes, as well as rules on number of occupants could all be challanged.  
+
+
+
+
+ There is a strong case that they would just be rent seekers and vote for anything that incteased the already disproportionate amount of funds and jobs that go to DC 
+
+
+
+
+ Is this a hate crime?  If someone did this to a statue of a black person the FBI hate crimes division would be there before it hit twitter.  
+
+
+
+
+ Anonymous speech is a vital part of the 1st amendment 
+
+
+
+
+ COMCAST 
+
+
+
+
+ Can't you just have an accurate whois with a bullshit 501 c 3 or a trusteeship or a shell corporation?
+
+
+It is accurate and legit, just not the ultimate owner 
+
+
+
+
+ /r/jayden 
+
+
+
+
+ Looks like we got an Obama apologist guys.  
+
+
+
+
+ Only Sanders can save us. All le upboats to le Sandman! #FeelTheBern 
+
+
+
+
+ I don't know how to put this tactfully but I'll say it anyways. I think the balding looks less bad when you are ripped. 
+
+Great going on the gains bro.  
+
+
+
+
+ Yeah. I am joking at I got of tobacco by doing meth. Lol 
+
+
+
+
+ Maybe a PhD would be a better option?  
+
+
+Why are you so against higher education? 
+
+
+
+
+ Repeated bad experiences with Affirmative action is evidence of it being a bad idea.
+
+Nobody (I know) is saying Affirmative action is ineffective for what is ergo black people are bad/terrible. I am not saying that nor is he.  
+
+
+
+
+
+
+
+
+
+ I'm on the TINA tobaco cessation program.  
+
+
+
+
+ On amazon you can almost get any book used for less than ten bucks with 3.99 shipping much cheaper than a lot of the prime options. 
+
+
+Hell, a lot of them are only a penny with 3.99 shipping.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Make sure you have term life insurance and start working on her college fund  
+
+
+
+
+ Have you looked at getting an LLM or doing something to make more income?  Maybe you could each high school with your undergrad degree and make more cash than a public service law job.  
+
+
+
+
+ Oh you watch breaking bad too? 
+
+
+
+
+ What school did you go to? 
+
+
+
+
+ Uh obamacare priviledges the boomers with extra rights while raising rates foe young people. 
+
+We are a gerontocracy.  
+
+
+
+
+ Having more personal savings is better, but you can still presume it will exist in some small form.  
+
+
+
+
+ Or just make all important political/social issues a fractuous battle between a nearly evenly divided society. Yugoslavia turned out well right?
+
+
+And Israel/Palestine.  
+
+
+
+
+ But my all white private school and ten black kids for photo ops was so fun!  Why do you hate diversity?  /s 
+
+
+
+
+ I don't get what the endgame is. 
+
+I fear instead of minorities being lifted up and society as a whole being more prosperous and better, that there will just be more minorities and the same social problems that exist now at a greater scale.  
+
+
+
+
+ Ffs South Africa has largely disenfranced the political power of those outside of Jacob Zuma and the ANCcs background. Like if a lot more shitty for mixed race, indian people, and immigrants.  
+
+
+
+
+ So we should discount personal experience with a failed affirmagive action system as faulty?
+
+
+You know the plurality of personal observation is data and totally sound to base opinions on?
+
+
+There is good evidence that affirmative action is a very ham fisted pokicy that doesn't work all that well 
+
+
+Affirmative action relplaces discrimination with more discrimination, and mostly benefits upper middle class african americans, not the historically disadvantaged.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ More housing stock would temper it a good bit. We haven't been building enough.  
+
+
+
+
+ God-mode lifestyle choice is getting a good degree or high income job in a low cost of living state. 
+
+Engineers or nurses in those kind of environments can make some serious headway in their financial lives  
+
+
+
+
+ 1.6-2k miami 
+
+
+
+
+ What is fucked is that the elderly/"low income" people get these sweet apartments subsidized, and middle class or like 80 percent of the country get fucked. 
+
+The luxury condos often are allowed to be built at a higher density if they have a portion that is below market rent. Now this goes beyond the federal affordable housing programs, and makes rhe upper middle class responsible for housing the urban poor,which is controveral in the firdt place. It is like taxing your home. 
+
+What it also does is upbids and increases the price that the middle class has to pay, as there are even larger blocks of people who are taking up housing stock at a subsidized rate. 
+
+
+Really I think zoning needs to be relaxed in many places to promote infill, smaller units, multifamily, and independently managed apartments. 
+
+
+It is most profitable to only do luxury units because they make more money and have more stable clients, so when the government puts a bunch of red tape on a market that has little interest in it, it is pretty damn hard. 
+
+
+I wish we had more unconventional housing in odds and ends,  on top of buildings, multistory, housing connected to workplaces and the like. 
+
+Europe has a lot more housing like that, but instead we have our workplace/entertainment/housing rigidly seperated thanks to zoning in most places. My large street where I lived a while back had no food/gas on the whole street because all of it was zoned residential, and it seemed like such a clusterfuck not to have those amenities. 
+
+Even the rental market is heating up a good bit, but there are so few units vacant and new ones are at a higher price point, so many people don't save money doing it. 
+
+I will likely just get roomates well into my future as a young professional and invest the saved money. 
+
+I will not pay 1450 a month in rent plus utilities and comcast to boot. I am more than happy to share a washing machine and actually keep my money. 
+
+If housing prices weren't artificially subsidized by the mortgage interest deduction, the deductability of taxes on a house, and artificially low interest policies/zero interest rate policies, the value of homes would fall back into equilibrium. Somethinng like a lower multiple of average yearly income than where it is now.  
+
+
+
+
+ A lot of communities that are older fear too many kids will raise property taxes, which fund schools. Having only seniors move into their city/neighborhood can in theory save a little bit on taxes in the short term, but really hinders the region. This kind of thing forces young and middle aged people to commute from further out if they are going to work a job. 
+
+It really is discriminatory and needs to be cracked down on. It is highly ageist. 
+
+It happens all the time in new hampshire 
+
+
+
+
+ What shpreme court cases are you upset about? 
+
+
+
+
+ Breh he think it real cuz he aint got good credit 
+
+
+
+
+ No. Shitty cameras probably have poor low hight performance and low resolution.  
+
+
+
+
+ It is self perpetuating a bit. Once communities get an "anchor in" by having an expat community, it is easier than being one of very few people there.  
+
+
+
+
+ Or maybe low end gear doesn't work as well on those metrics? 
+
+
+
+
+ And there are pretty easy workarounds. Like non mandatory after school religious clubs and whatnot 
+
+
+
+
+
+
+
+
+
+ This is a public school giving money essentially to a person who is running for president 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am from florida but I lend you my rsvp. We can do this. The event is going to be awesome!
+
+
+I am going to watch a stream of it 
+
+
+
+
+ \I CAN FEEL THE BERN
+
+JSM 
+
+
+
+
+ Disgusting and wasteful 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Why would income discrimination be a good thing? 
+
+
+
+
+ This has been my experience in Kenya as well.  
+
+
+
+
+ It isn't.  
+
+
+
+
+ And I think they are ota in many/most places as well.  
+
+
+
+
+
+
+
+
+
+ And earthlink is cheaper?  I am asking about alternatives:  the apartment in pembroke pines I'm moving to is only wired for comcast cable. Idk how dsl works though 
+
+
+
+
+ That makes sense. I just want to see her on top of the charts again 
+
+
+
+
+ DRC is way more progressive than people realize 
+
+
+
+
+ Metropolitan limits have only been around since the 1950s and it would be troubesome to switch methods halfway through. I wanted data since the 1700s 
+
+
+
+
+ https://upload.wikimedia.org/wikipedia/commons/9/93/Carte_Utah_population.png 
+
+
+
+
+ Is brighthouse dsl?  Soy de Miami  
+
+
+
+
+ It is easier to act like it is a consipacy when you don't consider all of the problems like energy density in airplanes and the like
+
+The world can't pay 30 cents per kilowatt like german solar costs 
+
+
+
+
+ Artpop wasn't a critical success and didn't have many good singles, and cheek to cheek was a jazz project, rather than pop music.  
+
+
+
+
+ Most of the world isn't either.  
+
+
+
+
+ Cheek to cheek is niche jazz music though, not meant for popular consumption.  
+
+I mean like dancepop. 
+
+
+Music people actually listen to 
+
+
+
+
+ Look at the estonia population chart from like the 1990s to now and it is uber telling 
+
+
+
+
+ We're the greatest superpower ever to exist, have the highest gdp of any country, and bankroll your continent. 
+
+
+ 
+
+
+
+
+ Costs an arm and a leg to get there 
+
+
+
+
+ No, VIVIDLY. 
+
+Almost nobody lives in Utah outside of the wasatch fron/ogden valley. 
+
+
+It is VERY clear and easy to see. Please educate yourself with a population density map of utah.  
+
+
+
+
+ I prefer Sluts for Sanders 
+
+
+
+
+ Please take your reaction imagrs back to 9gag with the other kids 
+
+
+
+
+ They posted the story before you. Delete this 
+
+
+
+
+ You know that amy winehouse song?  .... 
+
+
+
+
+ While large amounts will knock you out of ketosis, even small cheats like tart cherries are something I allow.  
+
+
+
+
+ I miss listening to her music in the last few years. Where has she been? 
+
+
+
+
+
+
+
+
+
+ \for an actual argument that isn't mindlessly luddite, and would actually be erudite enough for this subreddit
+
+
+Ftfy 
+
+
+
+
+ Le wrong generation 
+
+
+
+
+ This isn't new. 
+
+http://www.amazon.com/Bowling-Alone-Collapse-American-Community/dp/0743203046
+
+https://en.wikipedia.org/wiki/Bowling_Alone
+
+
+
+http://bowlingalone.com/
+ 
+
+
+
+
+ That seems like a major oversight to be that short of a common size. I guess it keeps weight down and mpg up.. 
+
+
+
+
+ http://www.truth-out.org/opinion/item/31626-interrupting-pride-for-black-lives 
+
+
+
+
+
+
+
+
+
+ Socialism is the policy, and it works. Just look at Sweden, or rich countries like Norway that are heavily socialist.  
+
+
+
+
+ We can't be quiet or stifled. We need to start a political revolution in this country ! 
+
+
+
+
+ /r/SandersforPresident :where there is only one flavor of koolaid 
+
+
+
+
+ Yeah things like that aren't that bad when you contextualize them. Bernie was doing a good thing and he is a feminist, unlike conservatives who want to ban abortion and make it illegal to be a woman and illegal to be gay.  
+
+
+
+
+ We should follow his lead then! 
+
+
+
+
+ \adults are probably more informed and way more against it
+
+
+.....uuuh. ..... 
+
+
+
+
+
+
+
+
+
+ In fact, they were born here! 
+
+
+
+
+ Enhance 
+
+
+
+
+ Please attack his logic not his personage. 
+
+You know nothing about him.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Only one kind though. Got to save money to feed the kids 
+
+
+
+
+ If Romania grew like poland for a bit it wouldnct be unrealistic 
+
+
+
+
+ Can gay men come? 
+
+
+
+
+
+
+
+
+
+ https://www.youtube.com/watch?v=uVjRe8QXFHY 
+
+
+
+
+ I know the situation kinda sucks for you, but there are some awesome resources for free at your local library.  They have "pimsleur" series CDs at the library, and you can copy the CDs to your laptop or MP3 and pick up some surival spanish very easily.
+
+
+
+The peace corps/dli/FSI courses for free here are in the public domain and are more than enough to learn spanish with:
+
+
+https://www.livelingua.com/#project
+
+I just moved to Miami and speak no spanish.
+
+I'm doing it, you can too.  Man up. 
+
+
+
+
+
+
+
+
+
+ *frist-kund h//ow d=@re oo 
+
+
+
+
+ Edit: You just have to slam it to make it lock into place.
+
+I am an idiot.
+
+ 
+
+
+
+
+
+
+
+
+
+ White power! 
+
+
+
+
+ I went to the post office and they had 3 actual workers who were 50 and working slowly, and a woman who was in her early 20s who was doing all of the work,  not allowed to sit while she was working, and had to sort the crowd of people into lines and then help them with their postage.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He is from florida. 
+
+
+Maybe he is a hermit crab? 
+
+
+
+
+ It is the two systems existing side by side without progressing either way. 
+
+If union benefits phased out it would be more fair, but now it just acts like creating a second tier class of workers.  
+
+
+
+
+ You can also tutor younger students in computer science. You could easily charge 15/20 an hour for coding lessons for high schoolers or other college students. A few hours a week freelance can easily make some grocery money.  
+
+
+
+
+ 10 billion is a lot but not relative to german tax revenue 
+
+
+
+
+ These kind of social democracies can really backfire. It is like jobs where the old people are unionized and have killer benefits and then there are young people who are only allowed to work part time at minimum wage with zero benefits.  
+
+
+
+
+ Turning off data when not on wifi is the way to go 
+
+
+
+
+ https://en.wikipedia.org/wiki/Angolan_general_election,_1992
+
+
+Total clusterfuck 
+
+
+
+
+ Give me your house.  I donct have one. I'm in a time of need.  
+
+
+
+
+ I have only had bad experiences with traditional taxis and only good experiences with uber.  
+
+
+
+
+ Yellow cab is the new terrorist 
+
+
+
+
+ Supreme court rules that literally everything is interstate commerce in the 1920s. This would take a case at the supreme court decision to overturn.  
+
+
+
+
+
+
+
+
+
+ I mean chinese equities are massively overvalued, and the PE ratio of us stocks aint that hot either. College debt is another massively real bubble.
+
+
+Trying to time a bubble is hard, but it isn't like there aren't sectors that are overblown or not worth their valuation 
+
+
+
+
+ Getting a roomate he basically knows he will make 500-1000 a month. Getting a mortgage for another property would add debt and the liability of taking care of the house, and what happens if real estate values decline and the house becomes underwater?
+
+I just mean getting a roomie is by and far the most simplistic solution with little downside relatively speaking. 
+
+And the stock market is a lot more liquid than paying off your house esrly, with the added benefit of being able to cash out if he wanted to stay in that home during retirement.  
+
+
+
+
+ Yeah. Just a bit of levity.  
+
+
+
+
+ Blackrock did this.  
+
+
+
+
+ What is so obnoxious is that they want the right to sue gun manufacturers for people killed when their product is misused. Imagine if you could put ford out of business because someone drunk drove. It is such stupid and ignorant view of the legal system.  
+
+
+
+
+ But that is a lot more legwork and speculative real estate wheeling and dealing than just getting a roomate where he is currently 
+
+
+
+
+ And obviously betting you can work till seventy is a risky proposition, but if OP's dad waits at least until his full retirement age his SS benefit won't get nerfed. Really he should wait as long as possible to take SS.  
+
+
+
+
+ No. Usually with people so close to retirement I have them get into FOREX shorts to start them off.  
+
+
+
+
+ Dad already has a house. A much easier solution is either moving out somewhere cheaper and renting the house, or getting a roomie for his current situation.  
+
+
+
+
+ Stop the double payment, pay the minimum, and put that money that your dad had been putting extra into the mortgage into an IRA or other savings vehicle 
+
+
+
+
+ How many rooms does his house have?  This may sound silly, but getting a roomate for a few years would give him a lot more cash flow and cut his expenses on things like utilities in half.  
+
+
+
+
+
+
+
+
+
+ Andrew WK? 
+
+
+
+
+ I dont see color.  
+
+
+
+
+ No it doesnt. They pay the same rate.  
+
+
+
+
+ Except there were no fascists. The anti-republicans who stopped a communist revolution are heroes.  
+
+
+
+
+ Oh well we'll just wait another 100 years. /s 
+
+
+
+
+ https://www.reddit.com/r/FloridaMan/search?q=dick+oranges restrict_sr=on 
+
+
+
+
+ Already submitted a million times 
+
+
+
+
+ Total Ghandi move lol 
+
+
+
+
+ Prosecco, but yes.  
+
+
+
+
+ The people with minimimal education or drive who migrate through civil service/dmv type jobs are quite apathetic from what I have seen. The lifers at colleges/universities can be pretty bad, much like those in city govt.  
+
+
+
+
+ Do you have more constructive to contribute or are you just going to use ad homenim insults against others? 
+
+
+
+
+ Lazy is as lazy does. Why don't they get jobs? 
+
+
+
+
+ Vote ACT or NZF 
+
+
+
+
+ ...and we can do it here too!  Bernie Sanders 2016! 
+
+
+
+
+ As a speaker of old cement, our language is spoken in south sudam as well 
+
+
+
+
+ [Lesbianism Intensifies] 
+
+
+
+
+ Damn he even won new orleans 
+
+
+
+
+ And the hole 
+
+
+
+
+ Western Sahara is Morocco 
+
+
+
+
+ But everyone pays the same percent so it is equal. 
+
+Or do you just not believe in math? 
+
+
+
+
+ $   
+
+
+
+
+ Someone stole the key... 
+
+
+
+
+ Shave it this minute it looks bad and you will look a lot better.  
+
+
+
+
+ Moscato.  
+
+
+
+
+ It looks fine. Dont change it.  
+
+
+
+
+ Americam Crew Fiber. Toustle it when it is moist. Apply from the roots out. 
+
+Use like a 3 on the sides and grow the top out to make the look complete 
+
+
+
+
+ Why do people not support consent with cosmetic non-medically needed procedures?  To me it is inexplicable that with all of the antirape activism that people still support male genital mutliation. 
+
+How can babies consent to something that isn't medically necessary? 
+
+
+
+
+ Is the OP that oblivious or are they trolling? 
+
+
+
+
+ It is used in the USA too. 
+
+Basically they are bernie sanders voters.  
+
+
+
+
+ Hipsters don't want anyone to join their cool treehouse clubs.  
+
+
+
+
+ Liberals and progressives can be really hateful when it comes to this kind of stuff. Liberal.michiganders and wisconsinites habe all of these weird phobias about the great lakes being drained by foreigners. It is dumb as fuck.  
+
+
+
+
+ Ffs most new world wines can rank onnpar with french wines of similar class and has been that way for decades. France has been making wines only on par with california for decades 
+
+
+
+
+ Don't mind the slight of hand 
+
+
+
+
+ Tbh bestof and srs inevitably do it as well. I am amazed shitlibertarianssay has mods that are that caustic to socialists/communists.  
+
+
+
+
+ Champaign socialists? 
+
+
+
+
+ Sls? 
+
+
+
+
+ Either way I'm getting the popcorna. This is more entertaining than the hissyfits after an Angolan election 
+
+
+
+
+ NEVER FORGET 1994 
+
+
+
+
+ The french are huge japonophiles though.  
+
+
+
+
+ Did you marry a giraffe? 
+
+
+
+
+ This song has helped me through some tough times. Listen to the lyrics. 
+
+www.youtube.com/watch?v=B1n2KgKpb3Y 
+
+
+
+
+ Wait isn't details " "not a gay magazine" " "? 
+
+
+
+
+ \crossfit 
+
+
+
+
+ One of my frienda from changsha china always tells me about the new orleans chicken they sell
+
+The whole nola stuff gets appropriated weird ways over there. It is funny though.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not LDS but more than willing to talk. PM me 
+
+
+
+
+ BernieSandersnomics isn't working 
+
+
+
+
+ /r/syriancivilwar has a bunch of those types 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The school may not have a legal office, but the office that does foreign students and the counseling center.  The foreign student office thing won't be able to give you legal advice, but they are a free source of advice and have probably dealt with this before many times. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Atatrk is rolling in his grave.  
+
+
+
+
+ Yeah for some reason people get wrapped up in psedoscience when it comes to their pet issues. VT/NH have large amounts of gun owners, but much less violence than Chicago. UK has lots of knife crime. 
+
+The consequences and rates of death from violence are higher with guns that knives, bur trying to ban guns rather than trying to fix our fraying societies in some urban neighborhoods is simplistic at best.  
+
+
+
+
+ Mama Mia!  Here we go againa. My my, why'd I ever let you go! 
+
+
+
+
+ But muh progressive messiah.  
+
+
+
+
+ Caution:  He might try and exercise you.  
+
+
+
+
+ Idaho Gold.  
+
+
+
+
+ Yeah. Google it.  
+
+
+
+
+ It was minor in rhe sense that he blew like a .085 and didn't kill anyone ore wreck a car. He got caught at a checkpoint.  
+
+
+
+
+ The Michel Thomas and Pimsleur language tapes are awesome to workout to, and are available free at your local library. I love sort of using time two ways and getting a lot more productivity out of the day like that.  
+
+
+
+
+ Contacting the school may be a good idea. They have this happen all the time, and if OP was convicted they would likely find out anyways.  
+
+
+
+
+ Not to be an "I told you so", but while OP is in the US I wouldn't drink at all (anymore).   The risk now is too high. 
+
+I know people who have gotten kicked out of PhD programs for one relatively minor drunk driving arrest without even an accident, and while OP can probably plea bargain it down or get a diversion sort of program going, any subsequent arrest would be a lot more onerous and OP wonct have any of the first time get out of jail free kind of cards. 
+
+
+I also knew a girl who had to return home because she got caught with pot.. 
+
+
+
+
+ That is the secret at chickafila. Brine yo chicken in pickle juice 
+
+
+
+
+ Vous devez voter MLP 
+
+
+
+
+ "Freedom" is slavery.  
+
+
+
+
+ "I disagree with rand paul on everything but like him on this issue" 
+
+
+
+
+ I submitted this article because Americans have very few safeguards against pesticide use, and this article explores how corporations and the government collude to expose passengers to dangerous pesticides with unknown long term health consequences.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Obama did this 
+
+
+
+
+ The governor still shits over it occasionally 
+
+
+
+
+ I cashed out a lot of my IRA to support Bernie. 
+
+We can do it if we all pitch in. 
+
+I quit my job and am going door to door full time now 
+
+
+We are just weeks away from Bernie eclipsing Hillary and leading the polls. 
+
+
+Sanders has already doubled his support, and if he does it again he will be head to head with Clinton. I encourage you to educate yourself on the issues and read his policies.  He is very middle class oriented, and is against free trade (ie, pro middle class). 
+
+/r/SandersforPresident
+
+
+#FeeltheBern 
+
+
+
+
+ As a gay man, please quit appropriating our struggle into arts and crafts you can repin on pintrest and tumblr and shit 
+
+
+This isn't your life, nor is it your fight.  
+
+
+
+
+ I am fearful of the cult of personality around him, with all of the saving kittens and saving people from burning buildings and stuff. It just seems incredulous.  
+
+
+
+
+ Isn't that presumptuous?  That isn't yout place to keep him out of the know about his own family.  
+
+
+
+
+ How?  Race relations have soured because of obama. Disagreeing with you doesn't make someone ignorant.  
+
+
+
+
+ The Devil would make 20/hr if bernie was erected president 
+
+
+
+
+ Busses use less energy, cost less, have better usage rates, and are faster. 
+
+http://www.debunkingportland.com/max_vs_bus.html
+
+
+Do you have any facts other than what you see in your suburban neighborhood?
+
+
+
+
+ 
+
+
+
+
+ Dont. Dental insurance is a scam 
+
+
+
+
+ TPP.  
+
+
+
+
+ The middle class is his economic plan 
+
+
+
+
+
+
+
+
+
+ Please stop the damage control. He is a part of the lobbyist machine. 
+
+
+We need politicians dedicated to public service, like Bernie is.  
+
+
+
+
+ Seattle for two hours a day is not a lot of the time. You are taking your personal anecdote of a tiny amount of the transit system and subsrituting it for empirical data .... 
+
+
+
+
+ "We should have wealth in this country according to each person's humanity, not according to their profession" -Bernie Sanders 
+
+
+
+
+ That is a terrible idea. 
+
+
+She is literally the same as bush on every important issue. She is anti gay, and you're being used by voting for her.  
+
+
+
+
+ That sounds like George Bush's foreign policy 
+
+
+
+
+ Publishing memoirs isn't an accomplishment. She startwd another war in Libya and her memoire didn't sell worth shit 
+
+
+
+
+ Region?  I am willing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Turn off the gas!
+
+
+ 
+
+
+
+
+ Probably for the greater good anyways... 
+
+
+
+
+ Is shitloris more appetizing? 
+
+
+
+
+ Tbh liking lady gaga is pretty gay
+
+
+ . 
+
+
+
+
+ You can get in my bussy in the meantime 
+
+
+
+
+ http://i.imgur.com/SNKZALo.jpg
+
+
+Follow the numbers.  
+
+
+
+
+ \hurt the economy
+
+
+What? 
+
+
+
+
+ I'd still hit it 
+
+
+
+
+ GO TO THE DR 
+
+
+
+
+ 6ft 3 master race reporting in 
+
+
+
+
+ It is Pierce Brosnan 
+
+
+
+
+ Bernie's campaign will do more for the poor than any fundametalist run food banks or homeless shelters would.  
+
+
+
+
+ Not a classic at all. Piece of crap movie  
+
+
+
+
+ Repost:  https://www.reddit.com/r/todayilearned/comments/27l999/til_gaslighting_is_a_form_of_emotional_abuse/?ref=search_posts 
+
+
+
+
+ Is it game of thrones? 
+
+
+
+
+ \The geomorphology of the Gambia is dominated by the Gambia River. The River Gambia divides the country into two strips of land no wider than 30 km. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Get a small set of solar panels and electric backup.  
+
+
+
+
+ But things are different this time and ruissia's small economy and shrinking populace are super dangerous!  /s 
+
+
+
+
+ Cloudy with a chance of meatballs.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ FUCK RHETT 
+
+
+
+
+ Elves are racist assholes who think they own everything 
+
+
+
+
+ I kept the faith!  I don't know how people can't belive or see the truth.  
+
+
+
+
+
+
+
+
+
+ \this is my country
+
+
+\my grandparents immigrated here 
+
+
+
+
+ Cats are disgusting. You have no right to kill native wildlife so your cats can kill songbirds with impunity.  
+
+
+
+
+
+
+
+
+
+ Some libraries have tapes that you could copy with relative ease.  
+
+
+
+
+ 200 million if you include L2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The protein power probably still has a good ampunt of carbs.... 
+
+
+
+
+
+
+
+
+
+ The insert or closeup in the northeast of the map is sitting on top of it. 
+
+It sort of covers up most of the body of water north of Baku.  
+
+
+
+
+
+
+
+
+
+ Dat intelligent Costa Rica policy 
+
+
+
+
+ In America? 
+
+
+
+
+ EV is a joke and is far from a consistant or formidable force on the battlefield 
+
+
+
+
+
+
+
+
+
+ Because literally everything is comperable and Putin=Hitler. 
+
+Right... 
+
+
+
+
+ Nothing says EU candidate country either like trying to kill a democratically elected President just because you don't like election results.  
+
+
+
+
+ I know he used to be popular last round of the conflict with Gaza, but since when did he become a journalist for RT?
+
+ 
+
+
+
+
+ As a customer, don't gouge plain iced coffee. I don't see why a large black coffee is like 3 dollars at a coffee shop and iced is like 5.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ \implying they have internet 
+
+
+
+
+
+
+
+
+
+ Monentizing debt to pay for it is very dangerous  
+
+
+
+
+
+
+
+
+
+ It has been an abusive relationship.  
+
+
+
+
+ If Senator Sanders is giving the speech you know it will be good.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A.S. lmao 
+
+
+
+
+
+
+
+
+
+ Chile/Uruguay/Argentina/Thailand/Costa Rica are all awesome options. Even Indonesia is quite relaxed and inexpensive. Or hell, even Portugal/Spain are cheap and have easy languages plus they are affordable 
+
+
+
+
+ Yup. It is your benefit. Even if you are in mexico/costa rica 
+
+
+
+
+ Please make sure you have a diet for your birth other than sunflower seeds. You should be feeding your bird a store bought mix or something. 
+
+
+Millet should only be like a once a week thing. Or like 10 percent of their diet max 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Typical 
+
+
+
+
+
+
+
+
+
+ Where was he putting his money?  In theory drawing nearly 200k/yr he should be quite wealthy saving anything at all.   
+
+
+
+
+ No offense but just find a loose girl  
+
+
+
+
+
+
+
+
+
+ And was the best president in history! 
+
+
+
+
+ You should be able to see it on youtube 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Bernie is speaking!  Senator Bernie Sanders! 
+
+
+
+
+ Kendrick lamar!  Bernie! 
+
+
+
+
+ Socialism is fucking awesome. Just look at sweden, denmark, and France.  
+
+
+
+
+ I cried the whole time watching the speech 
+
+
+
+
+ Yglesias is a neoliberal. Watch out.  
+
+
+
+
+
+
+
+
+
+ What is best for the campaign is what is best for vermont, the United States, and for the globe. 
+
+
+#feelthebern 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Maybe Jody Foster? 
+
+
+
+
+ A small minority.  
+
+
+America's presence in europe is a net negative 
+
+
+
+
+ The jobs in the dod are destructive.  
+
+
+
+
+ I hate that we aren't more sweden like
+
+America kinda sucks these days... 
+
+
+
+
+ Iraq. We will criticise her where she is wrong. 
+
+She is a subpar choice in comparison to the good Senator from the State of Vermont 
+
+
+
+
+ Agreed. We need to do what bernie wants and what is best for the campaign 
+
+
+
+
+ Why? 
+
+
+
+
+ My body my choice 
+
+
+
+
+ HOW BOUT THEM GAY PEOPLE! 
+
+
+
+
+ Dui 
+
+
+
+
+ Wearing diapers, increasingly confused 
+
+
+
+
+ The AP 1000 is very earthquake safe. Hurricanes have relatively little impact, and if it was like at an elevation 100 feet above sea level a tsunami would be of very little risk. Florida has lots of nuclear plants that have hurricanes taken into account. A single nuclear reactor would be a great long term solution to the island's energy costs.  
+
+
+
+
+ This is income discrimination 
+
+
+
+
+ Louisiana republican here, fuck jindal 
+
+
+
+
+ Gov Long 2.0 
+
+
+
+
+ Do you know anything about croatian citizenship law? 
+
+
+
+
+ Sohr is a propagandist outfit of Jahbat al nusra 
+
+
+
+
+ Hezbollah aint ghandi, but I'll sleep easier knowing JAN is losing. 
+
+Best of luck and stay safe.  
+
+
+
+
+ Le gusta mucho? 
+
+
+
+
+ I would give you my phD 
+
+
+
+
+ Putting the in back in interning 
+
+
+
+
+ Soy de miami ese 
+
+
+
+
+
+
+
+
+
+ Insidehighered is a sjw circlejerk 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That is good. Agreed 
+
+
+
+
+ I know greedy gen X ers who didn't save and had the gall to say the economy was bad when they lived through those times of good wages and high employment.  
+
+
+
+
+ I would buy a beater and continue to invest/save for a selt driving car if that is what he really wants.  
+
+
+
+
+ http://3.bp.blogspot.com/-aeSd7vb5Jj4/Uwvxd5jVnZI/AAAAAAAACMA/zmIslYy1YU4/s1600/civilians_225.gif 
+
+
+
+
+ I am 1 twelve and what is this 
+
+
+
+
+ Will they in october though? 
+
+
+
+
+ This map excludes a lot of areas as well. Not kidding/trolling, but there are many other non contiguous pockets of kurdish inhabited land 
+
+
+
+
+ Yeah the war and all is something they really lack the money for. People don't understand how bad the poverty/hiv is over there 
+
+
+
+
+ And what about south sudan? 
+
+
+
+
+ That statement is tautological. "x is good as long as it is good". 
+
+Many states have recessions or slowdowns and then the payments can grow relative to the economy, or other problems. Carrying a large debt load as a nation is far from an always beneficial policy 
+
+
+
+
+ People just circlejerk the debt is a good thing narrative. 
+
+
+People take Krugman to an extreme and then suggest that interest rates are low and that it is foolish not to outbuild a lot of infrastructure now. It just seems historically that state debt is something to take seriously, and that it isn't sort of assured long term gain.  
+
+
+
+
+ Someone overlay this with the french/german populated regions of Switzerland. It seems like a direct match 
+
+
+
+
+ Pls trade semen for euros. 
+
+Pls.  
+
+
+
+
+ Maybe PR will learn to make payments on time then. 
+
+
+The minimum wage should be lower in PR than the US, the jones act should be repealed or exempted for PR and Hawaii, but the federap benefits should probably be tied to price levels in your region. I donct see how that is inhumane.  
+
+
+
+
+ Wind/solar/nukes. I think a few of the smaller islands in the Caribbean got some sort of monies to convert to more cost competitive sources of energy. 
+
+Maybe in St Kitts, somewhere around there 
+
+
+
+
+ Puerto Rico is more poor and more dependant on social benefits than Mississippi.  
+
+
+
+
+ The jones act is stupid and protectionist, but it is even more impacting on Hawaii, so it is kind of fallacious to say it is a colonial law 
+
+
+
+
+ Deflation would be awesome.  
+
+
+
+
+ The beef! 
+
+
+
+
+ Even things like mcds have grown massively. Almost all of the stuff at mcdonalds was dollar menu sized when it came out, people moved more, and they ate out less as well 
+
+
+
+
+ \NSV:arrested for traveling under a passport suspected of being counterfeit 
+
+
+
+
+ Patana rafiki. 
+
+You donct speak a language if you have survival skills enough to ask how are you and the my name is stuff. You can't speak in a language at that rate, but you only know the basics of it. 
+
+Memorizing a dialog or two off of a pimsleur tape isn't a giant feat worthy of ted talks. I don't get the hype. 
+
+
+In some ways this dabbling hyperglottism is less impressive than someone actually learning one or two languages to a high level.  
+
+
+
+
+ Maybe your forehead is just underdeveloped brah? 
+
+
+
+
+ That boy aint right 
+
+
+
+
+ If you compare to forward thinking countries like sweden, he is totally a centrist.  
+
+
+
+
+
+
+
+
+
+ \I have mastered the Cairns dialect, the NSW Dialect, the language of Sydney, and the regional language of Cannaberra 
+
+
+
+
+ I am just keeping cash till they have a financial crisis and I put my money in.  
+
+
+
+
+ Bernie Sanders is an independent centrist anyways 
+
+
+
+
+ Disagree.  
+
+
+
+
+ No I mean I don't see people as black or white. 
+
+We're all human.  
+
+
+
+
+ I would say read the books in the sidebar, don't get a bunch of dumb debts during school, and don't dabble in the stockmarket in an unwise way (ie I read a book or two on the market, I'm goinng to put every paycheck towards tesla). 
+
+Even just saying afloat and saving a little during college are huge successes.  
+
+
+
+
+ You gotta buy low sell high. Eventually all of california will be gentrified and Oakland will be filled with loft apartments and gluten free cupcake factories.  
+
+
+
+
+ No dont... 
+
+
+...-bisexual -random- my -names 
+
+
+
+
+ FFS we had a glut of physics phd students after the space race. 
+
+People like to talk shit on the humanities, but pharmacists and biochemistry phd students are not at all dissimilar 
+
+
+
+
+ I hope some get burned badly and lose a bunch of trade secrets. 
+
+
+Cutting corners is awesome till you lose the company.  
+
+
+
+
+ Facebook.  Facebook. Facebook.  
+
+
+
+
+ Demographically europe is a mess too. Eventually having less and less people can't be compensated for by productivity gains.  
+
+
+
+
+ Nothing says credibility among middle class consumers like stuffing a bunch of gourmand San Francisco dwellers with chacuterie on top of a building only for rich people.  
+
+
+
+
+ My friends and family say the same of hattiesburg 
+
+
+
+
+ Bring the kids too! 
+
+
+
+
+ SEAT-GATE 
+
+
+
+
+ Agreed. It wouldn't surprise me to see 10-15k with the way the movement is growing so quicky.  
+
+
+
+
+ Please don't excuse the wealth gap and the massive hierarchies in our society 
+
+
+
+
+ Why would investment from latin america be bad?  I know more broad investment would be good, just wondering 
+
+
+
+
+ Where are any african languages?  Ffs they don't even have swahili on here from what I can see.  
+
+
+
+
+ That jewish kid from nyc speaks really bad swahili. The one who did the ted talk?
+
+
+I know everyone has different goals, but staying in one tense and a script in 10 languages is an oddity, but nowhere speaking "x languages".  
+
+
+
+
+ Gay rights, locally produced food, no large corporations, mostly small business, tight family structures, almost everything they eat is organic 
+
+Women and men have similar job outcomes, not like the wage gap in the US or europe. 
+
+
+Face it, the DRC is basically as progressive as any city in the globe. I would say it is more forward leaning than San Francisco, which voted as a state to ban gay marriage less than a decade ago.  
+
+
+
+
+ We did it reddit! 
+
+
+
+
+ Mandarin (Chinese) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Give me a hippaa release and I'll take you up in it.  
+
+
+
+
+ \He is just some eastern european prince going on a parade. Who wants to see that old geezer?
+
+
+\Who cares if some populists get elected to the reichstag?  The two party system is destroying germany
+
+
+
+
+You never know bro 
+
+
+
+
+ \people selling god. 
+
+
+What a profound typo 
+
+
+
+
+ Be sure to rsvp! 
+
+
+
+
+ Land Management did nothing wrong! 
+
+
+
+
+ If someone tried that on me while I was in a car it wouldn't be pretty. This shit is terrible. 
+
+
+People don't realize the seriousness of how bad these events are.  
+
+
+
+
+ Remember how fat makes you fat?
+
+.... 
+
+
+
+
+ /r/thathappened 
+
+
+
+
+ Imagine the butthurt if this gets overturned.  
+
+
+
+
+ It sounds like you need another vaccinatiom 
+
+
+
+
+ He has a nice coat too 
+
+
+
+
+ These days there are less sort of flophouses and unspecialized work. 
+
+Like, these days you can't easily sublet a room by the week and work at a cafe.  
+
+
+
+
+ I mean any situation has risk. I would just rather find a grad student or professional and double up and have more cashflow and less expenses. Obviously renting with strangers has more potential for clashing with them.  
+
+
+
+
+ Even a lot of the formerly good second tier cities are appreciating too much to make them a good value. Chattanooga used to be awesome price wise but now the downtown has risen in price dramatically. The rust belt is still a good choice if you are in certain industries where you can have the best of both worlds.  
+
+
+
+
+ Do what you have to do to survive. How many beds/baths is your place?  
+
+I plan on either buying one of the few "entry" level homes for 130k and living in one bedroom while I rent the other. 
+
+I am realizing more and more that people in general have to roll with the economic times and hustle to get by, and I am totally willing to do that. 
+If you and your wife life in a relatively large home/condo, getting a roomie may be a wise move. Even in a year or two you will have saved a bunch of cash without more hours at work.  
+
+
+
+
+ Exactly. Even if you get one and it appreciates, unless you get a bunch of roomies and charge through the nose in rent, the taxes/HOA will eat you alive. Unless you sell, in which case you no longer have somewhere to live. 
+
+But you might make a handsome profit.  
+
+
+
+
+ One word. 
+
+Bernie Sanders for President.  
+
+
+
+
+ And consider that they may never be able to buy into the market like boomers did. People in nyc/sf/portland where the prices may grow 3/4 percent yearly mean that their income, even high ranking nationally, may not keep pace with prices.  A lot of people in these cities bought decades ago when homes were relatively inexpensive in comparison to income.  
+
+
+
+
+ It is like any big industry. Buy up all the market and make the rules so nobody can enter the market and raise barriers to entry. 
+
+Blackrock did the same on a national scale, buying up massses of rental properties. 
+
+
+Zoning is what makes people have to buy and rent subpar units. Otherwise there would be more stock available.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is it that different than america?  If you can't pay the right price, you are left to die for lack of medical care 
+
+
+
+
+ You're acting as if the EU and federalization is a good thing
+
+
+It isn't.  
+
+
+
+
+ This could be fodder for a Brexit as well 
+
+
+
+
+ Anti EU sentiment.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ \During a concert in 2001 some members of the audience made Hitler salutes. The band stopped playing to make clear that they did not want to be seen playing for Nazis. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Honestly divorce him and don't help your kids with college. 
+
+
+The kids can get loans.  
+
+
+
+
+ Moving animu rapidly through atlanta? 
+
+
+
+
+ His memes have gone septic 
+
+
+
+
+ Especially the more prominent dr who fandom since the relaunch in 2005. It has been the domain of legbeards for a while.  
+
+
+
+
+ Are you from scandinavia? 
+
+
+
+
+
+
+
+
+
+ This is like Hitler buying stock in Comcast 
+
+
+
+
+ Is he... Filipino or Mexican?
+
+It is so mysterious... 
+
+
+
+
+ 1. It is a plug in, and is probably adequate for most short commuters
+
+2. It is already an 18 percentage point jump in a year 
+
+
+
+
+ Dr rachel maddow?  She didn't get her phd. 
+
+She worked on it for a few years but never finished her dissertation 
+
+
+
+
+ YUM 
+
+
+
+
+ I get it. It just makes it less interesting from a layperson's view. I dont know him 
+
+
+
+
+ I almost cut myself on that edge.  
+
+
+
+
+ Learn english and foreign language while you can and ehead to greener pastures. There is no shame in that. 
+
+
+A plane ticket, even to us/canada is only 1k euro or less. You could take the bus to UK/France/Germany if need be.  
+
+
+
+
+ They are chearinf without alaska, PR, hawaii, guam and the like. Usvi.  
+
+
+
+
+ Not to prod but scale?  I don't see any y axis values.  
+
+
+
+
+ It isn't black!  Vinegar wipe and you're golden pony boy! 
+
+
+
+
+ Why do you discount facts and figures?  Should we not look for truth in facts?
+
+How could there be anything that is true but not in fact?
+
+
+Both california and texas have a c on the infrastructure scorecard
+
+
+http://www.infrastructurereportcard.org/states/
+ 
+
+
+
+
+ They are fatcats 
+
+
+
+
+ Its too crowded 
+
+
+
+
+ Mdr. On ne faut pas attendre chaque manif @ votre l'ecole!
+
+ 
+
+
+
+
+ Do you even speak french? 
+
+
+
+
+ Because they have no state tax. It is net taxation that matters, not the method 
+
+
+
+
+ One person's stereotypes are not good data.  
+
+
+
+
+ Progressive paradise right? 
+
+
+
+
+ We are in a TOTALLY DIFFERENT scenario right know. 
+
+Bernie "the Sandman" Sanders is creaming Hillary, and he has all of the momentum. 
+
+You can't compare rhe campaign from then to the campaign now. 
+
+
+Literally everything has changed, and Hillary is losing.  
+
+
+
+
+ I like blonde twinks. Sue me. 
+
+Tbh I was thinking of bleaching my hair even... 
+
+
+
+
+ Please don't play semantics. It is free at point of use.  
+
+
+
+
+ I think oregon has a good climate for berries as well 
+
+
+
+
+ FYROM FYROM FYROM 
+
+
+
+
+ YES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just look at something like www.runbernierun.com .  It is an educational nonprofit that educates about Bernie Sanders and his progressive issues. You can educate us from abroad about things like the NHS!  I am so jealous of the free and superior healthcare you guys get. It is time we join the 21 st century 
+
+
+
+
+ I think I'm having a bad month for these kinds of things. 
+
+https://www.reddit.com/r/prius/comments/3bkma8/gen_ii_how_the_hell_do_i_lock_the_back_seats_back/ 
+
+
+
+
+ You are handsome. I like your hair long too. 
+
+Habitez vous en le centreville ou au campagne? 
+
+
+
+
+ Dont get it cut bro. Doctors have steroid creme and stretching exercises they can recommend 
+
+
+
+
+ O est ce que tu va  l'universite 
+
+
+
+
+ FHA is capitalised at 1 to 48. 
+
+Lehman before the crash was at a 1 to 40 ratio. 
+
+The leverage is too high 
+
+
+
+
+ The results of the conservatives arenct perfect, and I don't agree with them on snowden, but at least there isn't the wanton spending of labor. The govt is still spending more than before the recession as a percentage of gdp if I'm not mistaken. They still spend way too much.  
+
+
+
+
+ Take some kurdish refugees then. Why the long face? 
+
+
+
+
+ \rustique
+
+Ftfy 
+
+
+
+
+ Bad cops outnumber good cops. Do you know nothing about NOPD? 
+
+
+
+
+ Have y'all tried keto? /r/keto 
+
+
+
+
+ https://www.reddit.com/r/TrueReddit/search?q=albert+einstein+socialism restrict_sr=on 
+
+
+
+
+ You have my axe! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ My buttcoins stand with you! 
+
+
+
+
+ Psychopathy is much more common among the rich. 
+
+How else can you explain their behavior? 
+
+
+
+
+ Totally normal bro.  
+
+
+
+
+ Just post on craigslist for it 
+
+
+
+
+ Thanks FDR! 
+
+
+
+
+ Looks great 
+
+
+
+
+ You lose some of the protections of federal loans like PSLF, but for many it is a good option for the rate reduction.  
+
+
+
+
+
+
+
+
+
+ Black or chocolate? 
+
+
+
+
+
+
+
+
+
+ Can we get a whitehouse.gov petition going? 
+
+
+
+
+ And comcast 
+
+
+
+
+ Guess again!
+
+
+http://www.pornhub.com/view_video.php?viewkey=792619449 pkey=10821541 
+
+
+
+
+ Its not too late ; its never too late 
+
+
+
+
+
+
+
+
+
+ Edit:cleared cache and data and it works 
+
+
+
+
+ I'm on an m7 and it won't download any more apps from google play. I am on my mobile connection, and when I to download apps the little progress bar just spins. I know there is probably some sort of permission to let it download apps over mobile data, but I have never had problems with this before. Help?  
+
+
+
+
+ Thanks boomers! 
+
+
+
+
+ Hint: it was.  
+
+
+
+
+ Nuke it and put the matter to rest.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You have seen his nudes right? 
+
+
+
+
+ I hope people got that I was kidding... 
+
+
+
+
+ Have you thought about renting it and moving somewhere cheaper?  I met a couple in a similar situation and it is working really well for them.  
+
+
+
+
+ A recession and a more reasonable valuation of stocks and homes would be a godsend 
+
+
+
+
+ You are investing in a scale of years/decades, nor days.   
+
+
+
+
+ Low and slow. 
+
+Slow and steady wins the race.  
+
+
+
+
+ There are private websites were you can refinance to a cheaper rate 
+
+
+
+
+ Join these subs! I want to do it myself. There is an IRC chat on one of the subreddits.
+
+https://www.reddit.com/r/lgbtsex/search?q=foreskin+restoration sort=relevance t=all
+
+
+
+I am a c3 on the coverage index, and want to restore. I don't like the long elastic to the leg method, but the dual tension restorer seemed like a reasonable method. I have no idea though 
+
+
+
+
+ While youcre in the neighborhood try /r/bitcoin ! 
+
+
+
+
+ Like XE/academi operator or like telephone? 
+
+
+
+
+
+
+
+
+
+ Worse. Much worse.  
+
+
+
+
+ Nous sommes plein, salope 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The risks of secondband smoke are empirically small, according to science. 
+
+Are you a science denialist or do you accept the scientific method as truth?
+
+https://www.sciencebasedmedicine.org/hyping-health-risks/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I mean the propensity of consonant vowel pairings, not the number of phoenemes  
+
+
+
+
+ When bernie sanders was marching with SNCC, Hillary was supporting a senator who voted against the civil rights act 
+
+
+
+
+ Do it!  We have to tell EVERYONE we meet if we have a hope of beating the corporate media machine 
+
+
+
+
+ WAKE UP PEOPLE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Love Europe, fuck the eu 
+
+
+
+
+ Good. Young people have suffered enough 
+
+
+
+
+ American political polls for president only use 1.5 thousand people. If  they use the right methods you don't need to poll thousands.  
+
+
+
+
+ Fuck this. What about freedom? 
+
+
+
+
+ "Justice has taken part in several charity events. She has supported charities such as the United Nations Foundation, which benefits numerous causes such as AIDS, Children, Environment, Health, Human Rights and Peace.[39] On September 30, 2010, Justice announced she would be joining the Charity Campaign Girl Up" 
+
+
+
+
+
+
+
+
+
+ Fingerprints too fam. Wear gloves. Nor kidding.  
+
+
+
+
+
+
+
+
+
+ Bruhuehuehuehuehue 
+
+
+
+
+ Japanese is a very balanced and pretty language with so many vowels. It is like spanish, italian, or swahili.  
+
+
+
+
+ HILLLARY OR PERISH (DAE PLURALISM?) 
+
+
+
+
+ Agreed.  
+
+
+
+
+ 1. We don't get our public policy from poetry
+
+
+2. The world has less use for manual and unskilled labor, and taking in large amounts of it won't help people in this country. It isn't 1880 where anyone who came here could become a farmer.  
+
+
+
+
+ Porque no los dos? 
+
+
+
+
+ Regulatory capture. Hillary has already paid off the bosses while the middle class likes sanders 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Agreed. A no vote seems to be the only solution 
+
+
+
+
+ Helium.  
+
+
+
+
+ Beans and legumes use lots of water also. It isn't like one has a clear advantage over another 
+
+
+
+
+ Party favors?  Can you hook me up with tina? 
+
+
+
+
+ Woof!  Show me your GAAP : p 
+
+
+
+
+ Nair. Use it for less than the recommended time.  
+
+
+
+
+ I mean that does make sense in some ways. 
+
+If the volume of product delivered is lower, the amount of cash that goes into infrastructure could rise relatice to the volume. 
+
+I know you were being sarcastic, but it isn't shocking to see that part of the rate rise if it were to happen 
+
+
+
+
+ Because of birthright citizenship all of them will quickly be voters.  
+
+
+
+
+ TBH it makes me so mad. We should be courting the global upper/middle class to move and invest here, not bringing the jobless and destitute.  
+
+
+
+
+ But fdic would still be challenged to cover everything if there was a systemic failure 
+
+
+
+
+ Have you seen the video of the cockatoo who knows he is going to the vet on youtube?
+
+
+That bird threw a giant fit 
+
+
+
+
+ Https://404/filenotfound 
+
+
+
+
+ How much of this is revenue raising and how much is really motivated being antilitter? 
+
+
+
+
+ /r/louisiana shut itself down 
+
+
+
+
+ That was /s 
+
+
+
+
+ \those are nice cuts actually
+
+
+You been here too long fam 
+
+
+
+
+ Please send him my condolences 
+
+
+
+
+ Because birds never mate in the wild right?  
+
+I have mostly heard this from older bird owners in my region (Mississippi), never from bird owners in coastal states when I have been at conventions. I think it is mostly just rooted in prudishness 
+
+
+
+
+ I love this!  It is just zinger after zinger after zinger! 
+
+
+
+
+ He is one of the top posts in the sub. Honestly he is kind of cute and just got engaged. Trying to be a social media celebrity is very self indulgent, but who cares?  He seems happy and isn't hurting anyone. He really seems in love with his BF 
+
+
+
+
+ Glasses need to be biggers so people know you are wise. 
+
+
+I would do a manbun as an omage to snooki, where it is very bouffant oriented and stands up towards the top of the head.  Very chic 
+
+
+
+
+
+
+
+
+
+ Comparing the candidates in an empirical way isn't a personal attack. 
+
+We shouls compare the candidstes, and make the truth evident.
+
+
+The facts are why I support Bernie, and the voters should know the facts so they can decide.  
+
+
+
+
+ I have a shirt on, so I won't be showinf my numismatictitties 
+
+
+
+
+ Pic? 
+
+
+
+
+
+
+
+
+
+ /r/pics already gave in
+
+
+They are mere peons of she who must not be named 
+
+
+
+
+ They think they are too good for it or "too important"
+
+
+/r/syriancivilwar thinks circlejerking over Al Nusra and their Free Syrian Army is more important that the way this site is headed
+
+
+/r/askhistorians thinks deleting helpful commentary is more important than the website. 
+
+
+/r/askscience is shit and thinks they are too good for it as well 
+
+
+
+
+ We shouldn't segregate our issues by race.
+
+
+That sounds very uninclusive 
+
+
+
+
+ This is very Paris, texas 
+
+
+
+
+ Worlds tallest building is a curse 
+
+
+
+
+
+
+
+
+
+ Voting is using force. 
+
+Just shut it down.  
+
+
+
+
+ I think all the state subs banding together would be a good thing.  
+
+
+
+
+ /r/louisiana did
+
+
+Thank god for Mississippi I guess... 
+
+
+
+
+ I thought the thing about him and his bf being disapproved of and them kissing in a video was dubbed, but it was his real voice. 
+
+Go figure. What is [edited] 
+
+
+
+
+ Can you imagine the drama if jesse jackson of all people got her fired? 
+
+
+
+
+
+
+
+
+
+ SAA is keeping their powder dry.  
+
+
+
+
+ Sweden can host a lot more refugees than they are taking in 
+
+
+
+
+ It is a part of Kurdistan 
+
+
+
+
+ Dark ages?  You mean christianity? 
+
+
+
+
+ Terrible choice. This is like sipping your Pabst during stonewall 
+
+
+
+
+
+
+
+
+
+ Ayyybubakar Lmaoooo 
+
+
+
+
+
+
+
+
+
+ Get job! 
+
+
+
+
+
+
+
+
+
+ Wecre winning the war of ideas and winning on principle. 
+
+We have already doubled Bernie's support, and will double it again before the year is out.  
+
+
+
+
+
+
+
+
+
+ Generated** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kako ste? 
+
+
+
+
+ Being on my knees has never been this great : p 
+
+
+
+
+ They must have forgotten a zero somewhere 
+
+
+
+
+ I'm alrady doing my part 
+
+
+
+
+ Gaybros has already been Ruined byAll THe GoSH DArN quEEns!!1!2!3! 
+
+
+
+
+
+
+
+
+
+ Cut it a few inches shorter so it is bobbed like this. I like long hair on guys, I wouldn't go much shorter than maybe 3-4 inches shorter than this photo. 
+
+I really think long hair looks good on you and am planning on growing out something similar. 
+http://cps-static.rovicorp.com/3/JPG_400/MI0002/105/MI0002105947.jpg?partner=allrovi.com
+
+
+Here is a comperable style:
+http://khalijarecords.com/wp-content/uploads/2015/05/nice-long-haircuts-for-men.jpg
+
+
+Your hair has less body than his, but I like the behind the ears as a hair style.  
+
+
+
+
+
+
+
+
+
+ His rainbow hair is even more noxious 
+
+
+
+
+ Noise complaint is the only way to get results.  
+
+
+
+
+ As an american, they don't. If you have a good idea, argue for it. 
+
+Don't use some other country as a a grass is greener trop 
+
+
+
+
+ \long term stable sources of funding 
+
+
+Like ticket sales? 
+
+
+
+
+ Rent control creates another huge set of problems 
+
+
+
+
+ /r/spiderbro 
+
+
+
+
+ Dont forget the pitchfork 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am gay and a little grubby looking but still fear women thinking I'm a creeper. Tbe needle has swung too far in the other direction.  
+
+
+
+
+ Gay guy here.  Very guilty of this 
+
+
+
+
+ Please!  Not my calcium! 
+
+
+
+
+ They're all nice till they shoot you. That is what they say in every one of these. Look at columbine. Or james holmes. He was pretty well adjusted for a while.  
+
+
+
+
+ Hey CNN needs viewers one way or another 
+
+
+
+
+ Ah. When in doubt blame whitey right?
+
+75 percent of america is white. Of course they make up a large proportion of attacks. 
+
+Muslims are like one percent of the population or two, and they make up more than that in terror incidents I would think 
+
+
+
+
+ RELIGION OF PEACE 
+
+
+
+
+ The peace corps/fsi courses here are enough to teach yourself a lot.
+
+Teachers are expensive as fuck and you can gain a lot used in conjunction with a manual. 
+
+The memrise Flashcards for any swahili stuff are great as well. 
+
+
+https://www.livelingua.com/project/ 
+
+
+
+
+ Basically yes. 
+
+We spend trillions on militery welfare. 
+
+Why not use it to study le science and go to Pluto (which isn't a planet). 
+
+
+What would Neil Degrassy Tyson do?
+
+Vote Sanders 
+
+
+
+
+ Bernie sanders would have stopped it. 
+
+We would have had signle payer and he would have had free healthcare and college.  
+
+
+
+
+
+
+
+
+
+ London only gets like 35 inches of rain a year. By comparison, new orleans and miami get like 65 inches.  
+
+
+
+
+ So ... Like dragon dildos? 
+
+
+
+
+ Young people from spanish/italian cultures seem loud as fuck 
+
+
+
+
+ \mainlanders
+
+
+Ftdy 
+
+
+
+
+ Hold my car collection! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ American 
+
+
+
+
+ THANKS A LOT DARIEN 
+
+
+
+
+ Santorum came in second place last time around and made himself a lot more rich from it 
+
+
+
+
+ Dank/Meme's 2016! 
+
+
+
+
+ Is the economy really that bad in tanzania right now? 
+
+
+
+
+ USAA?  Do wrong?  Impossible! 
+
+
+
+
+ I got banned from /r/frugal by saying that the political articles posted by maxacus fucking suck.  Seriously, /r/lostgeneration is a bernie sanders circlejerk half of the time as well 
+
+
+
+
+ They still have obligations to follow what is outlined in the lease about respecting the property and not damaging it beyond normal wear and tear.  
+
+
+
+
+ Um yeah where did you go to law school. U Florida?  Lmao. Enjoy being a. TTT 
+
+
+
+
+ Dank meme bro 
+
+
+
+
+ http://www.worldatlas.com/articles/100008-the-richest-nations-in-the-world-the-ten-richest-countries-on-the-planet 
+
+
+
+
+ Quit being such a tennants rights advocate. If OP had a large party he could have easily been both breaking the terms of the lease and destroying the property of the owner,  
+
+
+
+
+ Fracking isn't very dangerous 
+
+
+
+
+ Thank you!  I talked to everyone about the campaign at work as well! 
+
+
+
+
+ Asshole 
+
+
+
+
+ Werent there quite a bit in angola or libya or something? 
+
+
+
+
+ Being sexual is an addiction like being gay is an addiction.
+
+We are born this way. 
+
+
+
+
+ Tela was killed by edison.  It is a fact.  Too much money is being made from electricity for the man/utilities to let people finish the research to make it free. 
+
+
+
+
+ Why would he pay them?  It is their fault. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There is free wireless energy.
+
+Tesla discovered it, but Thomas Edison had him killed to keep making money from selling electricity for profit (ie, not for good use ). 
+
+
+
+
+ You seem really judgemental.
+
+As long as OP is enjoying it, he is doing what is best for him.
+
+Who are you to judge?
+
+Judging his sexuality and saying his orientation is wrong and slut shaming him is just as bad as the rhetoric of Jerry Falwell and Pat Robertson 
+
+
+
+
+ Honest about his status is probably more like "honest about his status" 
+
+
+
+
+ Very very fantastical science fiction.  This isn't the first megaproject that is way beyond today's technological capabilities. 
+
+
+
+
+ Johnny Appleseed. 
+
+
+
+
+ Euphoric 
+
+
+
+
+ What country are you going to? 
+
+
+
+
+ FUCK COX 
+
+
+
+
+ ie, something they agreed to pay back? 
+
+
+
+
+ Why is he so mean?  They are taxpayers too.  
+
+
+
+
+ Really?  Do you have a source? 
+
+
+
+
+ Why can't we have it forgiven?  Everyone else will have free college.  
+
+
+
+
+ What is funny is that people think national politics is brutal, when local politics is even more biting.  
+
+
+
+
+ One drought does not climate change make 
+
+
+
+
+ Canada literally cannot run out of water. This isn't australia 
+
+
+
+
+ You don't treat water as a commodity now?
+
+Have you ever purchased bottled water?  Or paid a water bill? 
+
+
+
+
+ Please dont take quotes out of context 
+
+
+
+
+ Jimmie Carter was the last good president America has had. He was better than even Reagan by far.  
+
+
+
+
+ \minorities are the most uninformed segment of the population
+
+
+Racist much? 
+
+
+
+
+ /r/SandersforPresident 
+
+
+
+
+ I was considering crop topping it or even just widening the hole. I would stick with clear/white poly. 
+
+And they have models with a hose spigot at the bottom, which I could use to drain solids with relative ease.  
+
+
+
+
+ Madea at the Apollo! 
+
+
+
+
+ Probably stealing taxpayer dollars with the scam that is RICO 
+
+
+
+
+ I was going to drop food in the top and drain out the bottom into the yard.  I live in USDA zone 10, so it would be plenty warm.  I could cut the top open or add a hatch of sorts if it was too small.  I even planned on just dumping an adequte air pump down the top. 
+
+
+Would something like this be too crazy?  The rest of the family doesn't want a pond in the yard.  I will keep the stocking rate something healthy for the fish, and I think in reality it could provide a very safe and healthy environment.  I was going to probably have a water change rate of 10-20 percent a week, and drain the bottom into my surrounding yard.
+
+
+
+http://www.usplastic.com/catalog/item.aspx?itemid=24879 catid=871 
+
+
+
+
+ CHOO CHOO 
+
+
+
+
+
+
+
+
+
+ Only on M/W/F 
+
+
+
+
+ You would habe to be asleep to believe it.  More like the American nightmare to me.  
+
+
+
+
+ Jasmine and basmati are the best two 
+
+
+
+
+ Please don't make this a race issue. Bernie is popular in all of the demographics of my neighborhood. Everyone in williamsburg loves him! 
+
+
+
+
+ Duke Nukem Forever! 
+
+
+
+
+ That would be dank if you cooked the tilapia in weed oil 
+
+
+
+
+ Work more/start a business/do a hobby 
+
+
+
+
+
+
+
+
+
+ Wakati chama! 
+
+
+
+
+ Jet fuel can't melt steel beams 
+
+
+
+
+ Are you pretty successful making calls/texts over google voice and wifi? 
+
+
+
+
+ Tunein radio app is pretty good as we 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They are stockpiling weapons in case burt reynolds comes for the water 
+
+
+
+
+ /r/marijuanaenthusiasts 
+
+
+
+
+ So condoms don't work anyways? 
+
+
+
+
+ Any athiest porn? 
+
+
+
+
+ Le hehehe mon vercengetrois, nous speaky speaky toutes seul le francais heuheuheu 
+
+
+
+
+
+
+
+
+
+ \we wont let you monopolize the service anymore
+
+
+MUH OPRESSION! 
+
+
+
+
+
+
+
+
+
+ Does it include growing it yourself? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ At least he learned to mind his own business 
+
+
+
+
+ No. It is just interesting 
+
+
+
+
+ /r/elvesamongus 
+
+
+
+
+ 1997 was 2000 years ago 
+
+
+
+
+ Politically motivated 
+
+
+
+
+
+
+
+
+
+ Keto works.  
+
+
+
+
+ You could buy 3 for the rpice of a tesla. 
+
+It isn't that ridiculous.  
+
+
+
+
+ Ffs it is only 500 bucks 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It depends on the state/country. Texas is much more of a clear cut yes than france, for instance 
+
+
+
+
+
+
+
+
+
+ http://www.youtube.com/watch?v=C4Va82B64ow
+
+http://talkingbirds.com.au/world-firsts/galatiel-php/world-first-galah-breeds-with-cockatiel/
+
+It looks like they are 25% larger than a normal tiel. I totally want one now. It seems like galahtiels would be great for people who live in apartments.  
+
+
+
+
+ I WARNED YOU ABOUT GAY MARRIAGE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ She is also anti northern pass and pro expansion of the amtrak line, which will be a huge and perpetual money loser for the state.  
+
+
+
+
+ She threatened to veto the already very strict MMJ bill unless PTSD was not a qualifying condition and home grow medicine wasn't allowed. She is a very typical politician.  
+
+
+
+
+ By the end of the obama presidency there will be more guns than people. We will have the most guns of any country in the world 
+
+
+
+
+ Ad homenim .jpg 
+
+
+
+
+
+
+
+
+
+ For those prices I would consider it. It is like 400/month for rent in nyc 
+
+
+
+
+ We should grow the community as much as possible and spread the love. 
+
+There is nothing wrong with protecting yourself.  
+
+
+
+
+ How?  Everyone is at risk if you are sexually active. Idk why you guys are playing the race card 
+
+
+
+
+ Americanforeskin?
+
+
+Just curious, are your parents asian or hispanic?  They are a lot less likely to circumcise 
+
+
+
+
+ .....planetfitness.com ? 
+
+
+
+
+ .....planetfitness.com ? 
+
+
+
+
+ I think women get them and think it is exotic because of the name.
+
+https://s-media-cache-ak0.pinimg.com/236x/9e/70/61/9e7061727b2a1167c1edca460d2f1843.jpg
+
+
+So many of these just look terrible and are such low quality. I see women, especially outside of large cities, who try highlights and it ends up looking like trash 
+
+
+
+
+ You forgot South Sudan 
+
+
+
+
+ Le offbrand Rachel Maddow Face 
+
+
+
+
+ He is a typical politico. 
+
+He has gotten rich while in government, and turned his background in civil rights agitation into a polifical career 
+
+
+
+
+ It ia a really bad balayage job 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I mean you already have a roomate, which is the gist of what I was suggesting.  
+
+
+
+
+ Thank god the regional monopolies are enshrinedbby law! 
+
+
+
+
+ You forgot south sudan 
+
+
+
+
+ Seriously.  Even just one large/clean cup is enough to be a huge boon.  Also, either an ice maker or a bag of ice if you don't have a machine. My current host has no machine, no little ice trays, or a bag of ice.  Kind of frustrating..
+
+I hadn't thought of it before, but a bunch of paper plates and disposable cutlery from like McDonalds would be a huge help as well as far as conveniencing guests.  
+
+
+
+
+ I saw them selling drugs and there were used needles on the ground. 
+
+
+
+
+ Anyone who ever votes republican meets the clinical definition of insanity 
+
+
+
+
+ I saw that as well. Screencap and post to kotaku in acfion 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That sounds awesome!  I am just glad it reduces my risk so I can play a lot more now and still be pretty safe 
+
+
+
+
+ Who knows?  Maybe the immune boost will boost your 1RM and VO2 max 
+
+
+
+
+ So it is sort of like you take it as if it were male birth control? 
+
+
+
+
+ Tiger woods is an aptronym 
+
+
+
+
+
+
+
+
+
+ Do you think they are artificially boosting it? 
+
+
+
+
+ There were dozens of grown men hanging outside doing nothing in wife beaters from 5-11PM. 
+
+What can I do to minimize my losses and gtfo out of here?
+
+My host listed the cancellation policy as flexible. Do I have to pay the booking fee and rental cost for the rest of the week if I cancel or what?
+
+The website is quite confusing. I feel unsafe even parking my car here.  
+
+
+
+
+ I mean if it isn't bad or is only a little bit on the edges it is still yummy. I use it all the time in homemade cookies 
+
+
+
+
+
+
+
+
+
+ Holy shit. 
+
+
+
+
+ Chocolate if it gets hot will also sweat where the fat sort of migrates to the surface, but if it is on sale it is still most likely safe and pretty tasty.
+
+It is still chocolate. 
+
+
+
+
+ I've drank diet energy drinks and powerbars that were on sale and like year past date.  These sorts of things are often fine.
+
+I got the big MET RX cookies and cream bars for like 3 dollars for 12 a while back and ate a lot of them 
+
+
+
+
+ The situation of owning a home.
+
+If you can get a decent differential between renting out your main place and renting an efficiency, it can be a pretty sweet arrangement.
+
+I know that couple, and even though they do not need to do that because of fiscal hardship, it is still a really great way to monetize their home.
+
+Just look at how much your house would rent for vs how much you could rent a one bedroom for.  
+
+I know you live in a cheap COL area, but I know people that are grossing an extra 2k/month from this if they have a nice house.  That would give you a lot more cash flow and equity on your home, even just in a few years. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is a huge achievement. Most people only gain weight their whole lives 
+
+
+
+
+ This is a huge achievement. Most people only gain weight their whole lives 
+
+
+
+
+ Keep it 
+
+
+
+
+ Okay. 
+
+I think I'll take it then!
+
+
+Can I get at GNC/Vitaminshop/walmart, or do I need to see like an herbalist to try it out? 
+
+
+
+
+ Pre K has little connection to long term academic performance. In fact, almost none.  
+
+
+
+
+ I'm a sexually active male.  
+
+
+
+
+ Your hair and face look cute now. You could submit the first photo to /r/justneckbeardthings though 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Mm! 
+
+
+We should make the bear our state animal 
+
+
+
+
+ Hillary likes comcast, was an executive at walmart, and voted for the war in Iraq. Do you stand for that? 
+
+
+
+
+ Wow I'm pretty, what a struggle 
+
+
+
+
+ Cheaper?  The food will cost billions of drachma 
+
+
+
+
+
+
+
+
+
+ Anyone want to make any guesses? 
+
+
+
+
+ Shit. I forgot you went to a private school. My bad bud.  
+
+
+
+
+ I was just asking as your username sounded foreign. 
+
+I would speak to your school counselor ASAP if you are struggling. 
+
+Many times people are melodramatic about being outed, but if you think that your parents would hurt you or kick you out, do not come out until you have finished college. 
+
+You are going to make it through this. Just hang in there. 
+
+
+Also, dont get busted or outed via your reddit account. Set a passwordon your phone and laptop.  
+
+
+
+
+ Maybe just a "teenie weenie" bit 
+
+
+
+
+ This isn't fifa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ One hand?
+
+Isn't this what mom is for?
+
+ 
+
+
+
+
+
+
+
+
+
+ Imitation crab meat is still just white fish colored red. It isn't that unhealthy to my knowledge 
+
+
+
+
+ Knowing how to fancy up home cooking is the way to go.
+
+
+The markup for most restaurant food is insane. Even a simple greek salad of lettuce, olive oil/vinegar, olives, and feta cheese is like 4/5 dollars. 
+
+Even if you eat a lot of convenience foods, the prices are still easily half that of restaurants.  
+
+
+
+
+ I think it looks great imho.  
+
+
+
+
+ CLICK HERE OR WE'LL SHOOT THIS DOG 
+
+
+
+
+ Irrespective of wanting to expand/shrink entitlements, don't entitlements plus the debt start to spiral out of control in less than five years?
+
+SSDI is already on the verge, and like 25 percent of social security is missing in the long term.  
+
+
+
+
+ Benadryl and soak the legs in water as hot as you can for 15 min under the faucet of the tub 
+
+
+
+
+ Have you had the lime cuticle cream?  You can use it on your lips too. Amazing!  The pomegranite lip balm is to die for too 
+
+
+
+
+ I am sure the owner will come forward soon. Thank you for your hospitality.
+
+
+-another bird owner 
+
+
+
+
+ It isn't about parking, it is about $$$ 
+
+
+
+
+ You can still phone bank for primary states 
+
+
+
+
+
+
+
+
+
+ Exactly. The EU as it exists is not a help to us.  
+
+
+
+
+ Have you ever read "the Vampire L'Estat"?
+
+What a good amateur fanfic! 
+
+
+
+
+ \33% of Finnish citizens "believe there is a God". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Closeminded much? 
+
+
+
+
+ Please give me calcium mr doot doot 
+
+
+
+
+ Dont pay a penny more.  
+
+
+
+
+ Dont worry, its just beets.  
+
+
+
+
+ Phds only have like a 3.5 percent pay increase vs masters degrees. Wtf. Idiot.  
+
+
+
+
+ On the other hand I went on a date with a type 1 guy who had two large icees over the course of 30 minutes on an empty stomach 
+
+
+
+
+ Just average them 
+
+
+
+
+ [Citation Needed] 
+
+
+
+
+ Talk about a plot twist 
+
+
+
+
+ Yes and no. They have the rail that is nect to el laayoune, but not the mauritanian mines at zouerate. Quite odd. 
+
+ 
+
+
+
+
+ \what is wrong with it
+
+
+Ce n'est pas en franais bien sur.  
+
+
+
+
+ Rachel Dolezal Medal of Courage winner 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ THIS SOUNDS LIKE A JOB FOR DWIGHT BALL 
+
+
+
+
+ Austin has a lot of trouble he gets into when the cameras aren't around.  IT is a mess.. 
+
+
+
+
+ Dan Jones already sent all of us good christian folks to death camps.
+
+Better off looking for a job at Mississipi Collage or Libarty Universitea in Vagina. 
+
+
+
+
+ \In 2012, Snoop Dogg endorsed Congressman Ron Paul for the 2012 Republican presidential primary 
+
+
+
+
+
+
+
+
+
+ From LA and have been all around the state.
+
+/r/thathappened quality material here 
+
+
+
+
+ Ty! 
+
+
+
+
+ Can you give me some tips on eyebrows and beard blocking? 
+
+
+
+
+ I remember when the sub was still small and masc.
+
+Now they are actually people who are gay acting.
+
+
+
+ 
+
+
+
+
+ I would let them "beat" me any day! 
+
+
+
+
+ Ask him out then! 
+
+
+
+
+ Mostly just prudishness. 
+
+These people are like the male equivalent of third wave feminism.  It is so dumb. 
+
+
+
+
+ No fappers are retarded. 
+
+If you need counseling for sex addiction or whatever get it, but not waking won't solve much unless you are literally addicted to masturbation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://valuingeconomics.blogspot.com/2010/07/broken-window-fallacy.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Weignardner worked for HRC a while back.
+
+This has less to do with Bernie being unpopular than the head of the AFT being buddy buddy with HRC. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Teachers LOVE him, but randi weingardner was an ex hillary staffer or something and had the AFT illegally endorse her before the date that it would actually be possible
+
+
+https://www.google.com/?gws_rd=ssl#q=american+federation+of+teachers+bernie+sanders tbm=nws
+
+ 
+
+
+
+
+
+
+
+
+
+ Fish is made of meat btw 
+
+
+
+
+ App trail? 
+
+
+
+
+
+
+
+
+
+ BERNIE SANDERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ post this to /r/labrador  
+
+
+
+
+ You can't have affordable housing, neoliberal style free trade, and open borders. 
+
+
+This is why we have a housing problem in this country.  
+
+
+
+
+ 3. Universal basic income and a $20 dollar an hour living wage.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ TIL Florida, NH, Tennessee, Texas, and Nevada are uncivilized.  
+
+
+
+
+ it is outside though.  : /
+
+I might die.  The heat... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He is young and likely has no/little nest egg as well.  
+
+As an EE if he saves a lot and works hard he could likely retire by 40 and travel full time if he wanted, hell, maybe even earlier.
+
+It all just depends. 
+
+
+
+
+ Unsub from cable 
+
+
+
+
+ The media keeps trying to subvert senator sanders. 
+
+They keep lying about how popular he is 
+
+
+
+
+
+
+
+
+
+ \socrates
+
+Ftfy 
+
+
+
+
+ Or from the Clarion Liar 
+
+
+
+
+ You look very handsome 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Human trafficking is mostly a myth. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What were status symbols of the era?  
+
+Books?  Nice furnature?  I am not familiar with the period.  
+
+
+
+
+ \we don't do the lavish things like expensive coffins
+
+then what about the big rush to get you in the ground 24 hours after you die?  and the demands that it face mecca and whatnot?
+
+It seems kind of entitled. 
+
+
+
+
+ So whats the deal with airlines these days? 
+
+
+
+
+
+
+
+
+
+ The bigger they are the harder they fall 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He means Barney Sanders, the gay senator from Vermont 
+
+
+
+
+ /r/conspiracy 
+
+
+
+
+ Silence citizen!  Eat more Bunny Bread! 
+
+
+
+
+ Salt isn't unhealthy.  
+
+
+
+
+ We need more people living in and developing cities, not emulating and recreating far flung suburbia. 
+
+
+Why are you trying to recreat Le Corbusier's dream? 
+
+
+
+
+ Seaworld is evil 
+
+
+
+
+ Garissa college too. It is mostly al shabap activists from Somalia who sneak in.  
+
+
+
+
+ \spread the wealth
+
+Dude what? 
+
+
+
+
+ You are missing sidi ifni in morocco belonging to spain as well.  
+
+
+
+
+ You are missing the portuguese bases on the swahili coast of kenya and tanzania. Please fix these types of errors before you return 
+
+
+
+
+ The crimeans voted for it.  
+
+
+
+
+ What do you want to do after your time in Ghana is up? 
+
+
+
+
+ Most of the cheese in africa is simple farmers cheeses 
+
+
+
+
+ Can I file asylum for too little death metal in Ohio? 
+
+
+
+
+ /r/thathappened 
+
+
+
+
+ Aren't they still African American though? 
+
+
+
+
+ Wake up and smell the Bern.  
+
+
+
+
+ The additional income ROI for a phd vs an MA is like 3.5 percent ish at best on average if I remember correctly. 
+
+
+Look at it economically... 
+
+
+
+
+ \I'm an austrian
+
+\GMU
+
+Quelle suprise. Tell Veronique hello.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Except they literally are. One is socialist and the other is socialist and very nationalist. They are very similar. 
+
+
+ 
+
+
+
+
+ Ad homenim much? 
+
+
+
+
+ Back to /r/conspiracy with you 
+
+
+
+
+ \over 50 economic migrants settled in europe and likely on the dole. Vote Milibong lads!
+
+FTFY 
+
+
+
+
+ "Experiencing war". 
+
+
+Is that why they come from like Eritrea, which is not at war, refuse to file asylum at any country on the way, and don't accept asylum in countries like France and Italy?  Ffs it is a farce and they are overwhelmingly ecpnomic migrants.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ All of the ethnic minorities of american renaissance. Lol 
+
+
+
+
+ I am filing for economic asylum. 
+
+We don't have unuversal healthcare 
+
+
+
+
+ Can't I just get an asylum? 
+
+
+
+
+ I wanted to move. I work at starbucks in Ohio but could really see myself being Norwegian, or maybe finnish, I like death metal and black sabbath. 
+
+I had to withdrawl from collards for grades, but am looking to immigrate or get asylum. I have my money saved up for a ticket and am leaving soon. 
+
+Which cities are best?  I am so ready to move to a forward thinking place where healthcare is free and the government takes care of people. I love the diverse vibe in cities like Oslo too, it is awesome. I can really see my life improving where I have more opportunity. 
+
+Ciao! 
+
+
+
+
+ \will.i.am
+
+\artistic integrity
+
+Dude what? 
+
+
+
+
+ Can you distance yourself from the parents? 
+
+
+
+
+ The jig is up boomers/bankers. 
+
+We don't want your expensive crap.  
+
+
+
+
+ This fall on CBS!!! 
+
+
+
+
+ [Trigger Warning] 
+
+
+
+
+ ..and most of the medical research confirms this.  
+
+
+
+
+ Who drinks a six pack of monsters in a sitting? 
+
+
+
+
+ These drinks have comperable amounts of caffeine to coffee. It isn't heroin.  
+
+
+
+
+ \I can't sleep ergo nobody in my age class can have this. 
+
+This is a little controlling right? 
+
+
+
+
+ Oh yeah?  Did you go to some TTT law school or something? 
+
+
+
+
+ Complete with yellow or brown filling! 
+
+
+
+
+ Counterpoint: Amys Baking Company 
+
+
+
+
+ That isn't true. Please stop sullying Senator Saunder's record.  
+
+
+
+
+
+
+
+
+
+ https://en.wikipedia.org/wiki/Business_Plot 
+
+
+
+
+ Basically all of our history was progressing until the baby boomers too over the country?  That is what the numbers show.  
+
+
+
+
+ Also of geopolitical importance, much like the Jewish community in America, their population is pretty urban. The largest concentrations of Armenian Americans are in a few pockets of Calfornia, which I would wager gives them more social capital and networking of political importance than had they ended up in the Mississippi Delta, like a few Syrians and Chinese immigrants did prior to the 1900s. 
+
+Not to sound too crass but basically I think being in California made them a lot more influential than had they ended up in Eastern New Orleans like the Vietnamese refugees generally did.  
+
+
+
+
+ But I mean does like semen even count as a food?
+
+You can't buy it in a grocery store.  
+
+
+
+
+ Semper fuckdellis! 
+
+
+
+
+ : ( 
+
+
+
+
+ If you are american but have relative ease getting a croatian passport is it worth doing?
+
+ 
+
+
+
+
+ This is SF. She may have been okay with it to boot. Nothing wrong with that.  
+
+
+
+
+ White man works at high power company job!  The salacious details on page 3! 
+
+
+
+
+ ($$$) 
+
+
+
+
+ Does swallowing during ramadan before sundown count as being haraam or is it okay?
+
+
+Edit: serious responses only 
+
+
+
+
+
+
+
+
+
+ Look at where DF is in comparison.  
+
+
+
+
+ Fuck gawker.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Look at his username. You think you will get serious discourse here? 
+
+
+
+
+ Grandpappy bush literally worked as a business consultant for the third reich and helped to try and organize a fascist coup against the FDR in the 1930s.  
+
+
+
+
+ Hillary is a neoliberal 
+
+
+
+
+ Obama is a scam 
+
+
+
+
+ It is portuguese-mozambican chicken and I think the whole periperi thing came from macau.  
+
+
+
+
+ Archbishop of Banterberry 
+
+
+
+
+ I don't know how people can be so close minded to middle class economics.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ffs even a lot of them. If you allow new counstruction the investment is really good. They pay property taxes.  
+
+
+
+
+ I think it is a big miscalculation on China's part. 
+
+These kind of actions just polarize countries against china. This is how they end up alone internationally and going to war. Even with significant oil, reduced trade could still be more costly than potential oil.  
+
+
+
+
+ [Motherhood Intensifies] 
+
+
+
+
+ Law is already being automated. Ever heard of e discovery? 
+
+
+
+
+ What is funny is that a lot of commentators act like chinese aggression in the region over islands is new, but they have done this in the 1970s and whatnot to taiwan and vietnam as well 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Literalaaaaaaay 
+
+
+
+
+ Posting in a gaybros thread!  Have a good fapday ladies! 
+
+
+
+
+ Where did you go for blizzcon?  A lot of cities/tates have hotel and food and beverage taxes to get cash out of tourists and add to the taxes they get from hosting events 
+
+
+
+
+ The people are a large part of the problem. Lots of drugs, vice, low education et cetera 
+
+
+
+
+ The health coverage wasnt manditory before obamacare. Why did they cut it?
+
+Obamacare reduced their incentives to treat their employees right. 
+
+Not everything is the corporate world's fault. 
+
+By making healthcare more inclusive and harassing no frills plans, poor people and the working class got thrown under the bus by obamacare.  
+
+
+
+
+ Dont forget the stupid 40 hour rule bullshit 
+
+
+
+
+ Many people in cities don't do the things thier density allows them. It isn't an either or thing, and the stereotypes that the suburbs are boring are kind of black and white.  
+
+
+
+
+ Jaden smith is the product of scientology 
+
+
+
+
+ M'erlin 
+
+
+
+
+ Lots and lots of redbull and singing madonna to stay awake.  
+
+
+
+
+ Thanks for manning the NSA data center in AUS. 
+
+Go back home GI.  
+
+
+
+
+ \in the uk the news has to be impartial
+
+Uh, wut 
+
+
+
+
+ Aka reddit 
+
+
+
+
+ I was talking to my family about this. If the government is just going to originatw and give credit for loans to banks from the fed/fha/fannie/freddie, why not do the credit screening and origination by the fha and not give credit for private stuff and cut the profit?  It is BS that the guarantors and source of credit privatize the gains and socialize the losses. Either we subsidize them or not. Basically the way it is set up now makes it more advantageous for the banks than homeowners.  
+
+
+
+
+ Anuka honey does have antimicrobial properties that are pretty well substantiated. 
+
+Organics is generally baseless though.  
+
+
+
+
+ Thank you for your service.  
+
+
+
+
+ Progessive is very gay friendly as well.  
+
+
+
+
+ I see this all the time at the post office. Three baby boomers chatting and reading the paper and a college girl is doing all the work at the counter. Wtf.  
+
+
+
+
+ Liberalizing the laws would be more reasonable. Only punish people selling fake tickets.  
+
+
+
+
+ I'm-bi-zim 
+
+
+
+
+ Cities waste a hell of a lot more on bullshit than libraries. Probably one of the few things with a decent ROI.  
+
+
+
+
+ Seriously copy the pimsleur courses at the library. It is like 600 dollars new.  
+
+
+
+
+ He wrote some plays where the government had these terrible bureaucratic offices and people use that word to describe sort of really confusing office bullshit. Franz Kafka. He grew up in eastern europe. He wrote "metamporphasis" 
+
+
+
+
+ And tenths and portcullises 
+
+
+
+
+ /r/churning 
+
+
+
+
+ But drug prohibition is religious findamentalism, and when I make artificial barriers to the free flow of capital, people won't just go to worse and more predatory forms of lending with less oversight! /s 
+
+
+
+
+ /r/outside 
+
+
+
+
+ ....big love: 
+
+
+
+
+ That would be a hoot for caitlyn jenner or rupaul to host. 
+
+Would watch/10 
+
+
+
+
+ There was a version with a gay guy of sorts. It was pretty interesting, at least more than whatever duggar bullshit is on TV 
+
+
+
+
+ http://www.youtube.com/watch?v=Tw-t2RsDJL4
+
+
+It already exists basically 
+
+
+
+
+ Have you ever seen "playinng it straight on youtube"?  It is a show where a bunch of gay and straight guys all try to get a gay guy to pick them as their final date person guy. And the gay suitor doesn't find out a few are straight till a few episodes in.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

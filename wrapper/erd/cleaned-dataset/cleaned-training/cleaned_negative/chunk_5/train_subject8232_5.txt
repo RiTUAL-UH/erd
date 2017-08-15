@@ -1,0 +1,995 @@
+ Pretty simple question I hope. I am looking to pick up the PA2.0, concentrate trays, and UFO (I'd prefer it over the orbiter). Does anyone know if there are any resellers that carry all 3? I've only been able to find the UFO on the main website. 
+
+
+
+
+ Hey everyone. We have a walmart special HP printer/scanner/copier from black friday 2-3 years ago. We have been refilling the ink cartridges as they run out using a refill kit. The last fill up was about 2 weeks ago. Since then we have printed about 30 pages, all black. But still, attempting to clean the printheads, it appears as if there is no ink left in ANY of the cartridges when you try to print (it's blotchy, same behavior as if they were empty).
+
+I have read that the cartridges eventually die out after about 5 ink refills. Is this the sort of behavior that is normally exhibited? 
+
+
+
+
+ You have a ferret!? 
+
+
+
+
+ Sikhs are hardcore! I wonder if he hides his knife in the turban? 
+
+
+
+
+ The military requirement is new. They used to offer private military arms and tactical training classes. If you completed all of their courses successfully you could apply.
+
+This was... 9 or 10 years ago maybe? 
+
+
+
+
+ I don't so much hate everyone - I hate how illogical and inefficient people are. That's why I tend to like machines far more.
+
+I'm mostly apathetic towards people, but because I frankly view smalltalk as a waste of time and because I am really uncomfortable in conversations, I come across as narcissitic, cold, and standoffish.
+
+I'd like my kid to at least have some ability to communicate well with other people. I totally get what you guys mean. Theyre not going to learn from me so they will just have to practice. 
+
+
+
+
+ Married to an elementary school teacher. My wife has been told to limit physical contact as much as possible - kind of difficult because she is a music performance teacher whose job is to teach kids how to play band instruments. It puts her in a weird place because she isn't supposed to touch kids to correct finger placement on things like saxophones and clarinets.
+
+She is also supposed to try and dissuade kids from touching her, like in hugs and stuff. 
+
+
+
+
+ For our new unix guys, I actually always have them build a new nix box specifically to execute that command so they can see what it does.
+
+It's interesting to see the commands you can execute slowly dissappear until eventually you are left with only shell commands (because the shell is in memory) 
+
+
+
+
+ Awesome work! This may become a permanent fixture in totalterminal if I can get it running on OSX. I'll list my results when I get to the office. 
+
+
+
+
+ "Oo de lally" from Disney's Robin Hood. 
+
+
+
+
+ Yup, but the downside is flank is often a good deal more expensive than round 
+
+
+
+
+ Is every cop a corrupt bully? Probably not. But they all pay dues to the same unions, and those unions directly fund defenses for bad cops. The same unions help sow corruption in our legal system (remember the dude who was killed by cops in NY for selling single cigs?) by ensuring that DA's don't actually do their job in front of grand juries. Oh, and when someone calls them out on their bullshit, they threaten to stop policing - just like the NYPD. Holding the public hostage because a mayor says the public is scared of them - some fucking heroes those "good cops" are. 
+
+Your arguement is essentially "just because they pay for nazis and throw their hats in with nazis, that doesn't make them nazis!" 
+
+
+
+
+ Go to a restaurant store and get one. Unlike other knives a cleaver's job is essentially to be abused. It just doesn't make a lot of sense to spend a ton. 
+
+I don't think ive spent more than 50 dollars and that was on an 10 inch bone cleaver. 
+
+
+
+
+ I'm a telecommunications engineer, with a specialization in voice data. I also support net neutrality. BUT this article is really, factually, incorrect.
+
+First:
+ As far as the network is concerned, data is just data - a series of 0s and 1s. A telecom network sees all data as a series of 0s and 1s - whether it is video, text or graphics. That is, in fact, the key advantage of the Internet - it doesn't care what the data is ultimately going to be assembled into - a picture, a text message or voice.
+
+This is *mostly* correct. Data is just data, but all data is subject to varying levels of service. The network DOES care what type of data it is, because several types of data have very different requirements. If a packet (the bits of information that encapsulate all data on the internet when they're in transit) for a lolcat picture shows up 3 seconds late, you probably won't notice - your workstation receives it 3 seconds late, it will figure out what resource it is part of, add the data, and you see your picture. Likewise, if packets are received with varying levels of delay, or are received out of order, you probably won't notice. Everything can be done on a "best effort" basis.
+
+If voice packets to your 911 phone call show up 3 seconds late, your call is going to be completely unintelligible and someone could die as a consequence. Likewise, if your voice packets show up incredibly out of order, or if the amount of delay is all over the place, the call will be unintelligible. The same is true for video. So, while all data is data, not all data is treated equally (hence terms like QoS and DSCP) because it makes no sense to treat all data 100% equally. Just like you wouldn't store people in a cargo compartment of an airplane - different payloads have different requirements. For voice signaling and media to be considered acceptable you essentially need to dedicate a 64Kbps channel to media (more or less, this varies by voice codec, 64kbps is G.711 u-law, the standard). This is data that requires timely delivery, and has specific requirements to ensure that those packets get routed across the network faster than your lolcat pictures so your phone call is actually understandable when you call 911. Video falls in the same bucket to be usable (the big difference is that video on most cable networks is distributed using multicast traffic whereas voice needs to be unicast).
+
+Second:
+ As a result, the cost of carrying 1 GB of text data and 1 GB of video data on the Internet is exactly the same. In that sense, neutrality is built into the very structure and essence of the Internet.
+So, once it's agreed that 1 GB of video does not stress telecom networks more than 1 GB of text messages, there is absolutely no justification for telcos to discriminate on the basis of what these 0s and 1s will ultimately be put together into.
+
+This one is more problematic. The cost of carrying 1GB of text data is significantly lower than 1GB of video/voice precisely because of what I mentioned above. 1GB of text data likely has no QoS (Quality of Service) requirement attached to it. It doesn't matter if the packets show up in a jumble, the user's software can reassemble them and show them their cat picture and cat story within a few milliseconds. However voice and video require "timely" transmission and receipt. If your voice or video packets show up out of order, are slowed down, or have delays that bounce all over the place (jitter), you have the option of either adding a buffer (which has a noticable impact on user experience) or removing buffers and ensuring that all network equipment along the communication path knows to give that traffic priority. Either way, you have added expense in either user experience, additional equipment, or infrastructure to dedicate bandwidth to that one particular stream of data - something you don't have to do for text data. In addition there are significantly different types of equipment required for specific types of traffic. For example voice data will require SBCs (session border controllers), SIP proxies, application servers, etc to be traversed - again, different hardware is required to process a different type of data. So while it's all 1's and 0's, the way the 1's and 0's are treated is fundamentally different. So, yes, 1GB of voice stresses entirely different equipment than 1GB of text.
+
+Another strike against the article is it, like so many others, treats the internet like a "cloud" when in fact that "cloud" is made up of thousands of different networks that each can impose a toll to send your packets across their borders, and they do. It's the whole basis of the wholesale data/voice industry. Every time a packet traverses network borders, there is an opportunity for a charge to be applied. If it is voice data where there are SLA's (service level agreements) that have to be maintained, there may be even bigger charges. In fact, usually routing tables are often built not on the basis of speed, but on the basis of cost (that's why lots of routers give you the option to choose between them). Not mentioning this shows that the author has a very lay understanding of how the technology works.
+
+Like I said, i am pro net-neutrality (and amazingly enough, most engineers behind telecoms are). But I really wish more of these articles were written by people who were actually in the industry and not folks who don't really understand how converged networks work, or how the modern internet functions. A lot of the pushback on net neutrality makes more sense when you see things from the side of an engineer who maintains them. I still don't like it, but saying "all data is the same!" ignores that all data is different, and therefore the requirements are different.  
+
+
+
+
+ Yup, that sounds similar to mine. I get tiny bubbles, about the 1mm or so (very rarely larger), usually on my fingers. They rarely are red unless I scratch them open.
+
+I wish I could just be a carrier. My system is incredibly weak to the virus. I've had chicken pox 4 times despite being vaccinated. I just cant seem to build up an immunity. 
+
+
+
+
+ Only way to be sure is talk to a dermatologist when they're there. They can culture the fluid if there is enough. I was lucky to have a doctor who had it himself and knew on sight.
+
+It was an illuminating conversation... basically 75 to 80 percent of the adult human population has some strain of herpes. Ever had chicken pox or shingles? Same virus. 
+
+
+
+
+ I wonder if this would help me. I have herpes whitlow (basically tiny bubbles form under the skin of my fingers and occasionally toes). It isn't a terrible case but I do get breakouts when I am stressed - if you GIS it it's about equal to the tamest pics you see.
+
+I'd also love to feel comfortable holding my kid. My parents gave it to me because their doctor always told them it was postular psoriasis and didn't know they could spread it. 
+
+
+
+
+ Fruitbodies of plants mostly. Unlike vegans they can eat honey and cheese. No eggs though.
+
+http://en.m.wikipedia.org/wiki/Jain_vegetarianism 
+
+
+
+
+ The fried potatoes are actually a separate but equally delicious item on the burger :) 
+
+If you look at the bottom half of the bun on the right you can see some dark splotches in the background. That's them. Quarter inch slices of potato fried crispy. 
+
+
+
+
+ Also interesting for Indian cooking,  one of the major religions in India is called Jainism. It is forbidden to hurt living things - any living things - plants included. Eating onion or garlic involves eating the root which kills the plant.
+
+A lot of Jains use a spice called asofoetida (aka hing). You use the spice at the time when you would use onions and garlic, in place of them.
+
+It reeks like death but when it hits hot oil it transforms into something totally awesome. Just store it away from other spices because it reeks havok on them. 
+
+
+
+
+ She sounds like a see-you-next-tuesday.
+
+How presumptuous is that? Or is there more to the story OP? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sounds like she had a hell of a lot of coke. Was she hurting you or anyone else? If not, let her have her time and move on. Too late now, but always remember to try and maintain unconditional positive regard with intoxicated people. You can be the reason they have a bad trip or go coke crazy if you trigger them the wrong way, especially if they aren't experienced psychonauts.
+
+You should have just listened to her theory and not tried to shit all over it. You're not going to shake the confidence of someone who is coked up, so you're just going to make her defensive. And that sounds like exactly what happened.
+
+After a lot of experience - decades - you learn it's best to shrug off what you don't understand - just stay positive and shepherd them through to the other side without judging. It works better for everyone. 
+
+
+
+
+ The only shade of grey here is polyamory. 
+
+
+
+
+ And hurling is a thug's game played by thugs. 
+
+
+
+
+ Was it? I remember hearing glycerine first. Thats digging way back in the memory banks tho. 
+
+
+
+
+ Choosey moms choose gif. 
+
+
+
+
+
+
+
+
+
+ Hey everyone. First, I am a complete newbie. I am trying to design a circuit so that when an IR photoresistor passes a strip of IR LEDs, it starts a piezoelectric buzzer. However all photoresistors I find increase resistance when exposed to light, which is the opposite direction of how I want to go.
+
+Can anyone suggest a better way to implement this, or some reading I should check out to better understand what I am trying to do? 
+
+
+
+
+ I am incredibly impressed this hasnt devolved into a racist flame war and is instead turning into an intelligent conversation. Good show reddit! 
+
+
+
+
+ Fidelity allows you to monitor stocks 
+
+
+
+
+ Lampreys are awesome. Unchanged physically for millions of years. Sometimes the design just works. 
+
+
+
+
+ Well, they are, but unlike other carriers they have to support a ton of wimax equipment. They gambled on that standard and lost :(
+
+Gotta suck having to run multiple networks instead of just focusing on lte. 
+
+
+
+
+ When I picked them up I honestly hadn't realized that they came in such nice hobby cases, then I started checking it out. I am kinda wowed! 
+
+
+
+
+ Yup! I have one of their older "electronic learning lab" kits but the books that came with it were utterly terrible. All of the projects are shown with electrical diagrams, but considering they are meant for absolute beginners who have no idea how to read the diagrams.... 
+
+
+
+
+ The whole thing was about 120 dollars before tax. The total savings was like 130 dollars. It was one of those "too good to be true" things.
+
+Ill be going over again today to see if they have any raspberry pi or arduino kits. Also IR LEDs and line sensors. 
+
+
+
+
+ Hey - I was able to get it using the method you said. Sadly some of the end grain tore out but it is still getting glued and screwed in place so I'm not worried.
+
+Thanks so much for your help! 
+
+
+
+
+ The issue I am running into is that the drill seems to catch on to the wood and literally pull itself through. The initial pilot hole was tough, but as I am stepping up I have very little resistance.
+
+Like I said, my concern is that it will pull itself through and wreck it :/
+
+Should I step back on the drill speed? 
+
+
+
+
+ Hey everyone. I am trying to repair a chair that has a cracked leg brace. It appears to have 4 countersunk holes (one in each corner). The issue is that the countersink is approximately a half inch into the wood. This image hopefully shows what I mean:
+http://imgur.com/tMvo6k0
+
+All I have is a hand drill... I know I need a 1/2 inch diameter countersink bit, but how would I get it a half inch deep? Do I need to use a drill press for this?
+
+Sorry, I know this is probably a really simple question, I appreciate any help you can offer. 
+
+
+
+
+ Yeah, Ive wanted to get the set for a year now but the price was so high. But with the massive discount, I couldn't help but grab it. It'll be a fantastic way to remember radioshack I think 
+
+
+
+
+
+
+
+
+
+ Rated up. Thank you so much for posting this - I get so frustrated with people who don't understand that macroeconomics don't work the same way as balancing your personal checkbook. This was really well written and concise. 
+
+
+
+
+ I appreciate your feedback, but I disagree. Downvotes occur automatically after a period of time. This was almost immediate. There is a difference. I'm aware of the reddit downvote system - I'm not new here. 
+
+
+
+
+ Rules of war are written by the winners. Just like history of the war. 
+
+
+
+
+ F*cking miracles 
+
+
+
+
+ I'll ask because the title is "no stupid questions" - this is a bit meta - 
+Why, in general, is this sub so unfriendly?
+
+A few weeks ago I posted about tonewoodamp, asking if anyone had played with it and what they had thought. No responses, just immediate ratedowns. It was topical. I had appropriate flair on the post. But nothing.
+
+I posted a few days later about what the finish was on a little Martin - again, no comments, just ratedowns. Again, topical, with appropriate flair.
+
+It feels like anyone who asks a salient question on this sub gets rated down immediately, and the mods don't really give a damn to stop it. I've pretty much stopped using the sub because of it. I mean, what is the point when you ask a valid question and just get rated down without anyone bothering to provide any information? 
+
+
+
+
+ You da real mvp, little kid. 
+
+
+
+
+  a public omission
+ Admission?
+
+Yup, good catch! I'll correct my post because it's a very different meaning. 
+
+
+
+
+ Thank you so much!!!! 
+
+
+
+
+ I'm glad to see you're not so much of a shill anymore. My memory of you from hashtalk was you berating every single person who dared to ask a question.
+
+They'd point out that something didn't make sense, or that the $20 floor wasn't being honored, and then you'd chime in that "this has been discussed a thousand times" and then start slinging insults like a petulant child. Then Garza made you into a mod because you were so good at shilling for GAW. Hell, I remember you insulting me because I advocated people hedging their bets in case of XPY failing. I said there was no good reason to trust GAW, you said I didn't know what I was talking about (though in a way more juvenile way). Good thing I didn't take your advice - who knows about the other people who read your posts while you were trying to make me appear stupid. Guess I was right, huh? 
+
+Or how about that time I posted that it was concerning how quick the mods were to ban or shadow ban anyone who asked difficult questions, and how it was giving the forum a bad image as an echo chamber? You swooped in to tell me off because "I didn't know what I was talking about," along with other juvenile insulting tirades. Man, I guess I was right again.
+
+I wonder, when Garza made you a mod on HT, how many people did you censor? How many people who were telling the truth did you ban? How many more did you berate for asking good, valid, uncomfortable questions? How many lives do you think you helped destroy because you helped usher Garza's charade along? Do you sleep well at night knowing how much you supported his scams and some people could literally be homeless because of you? Does that bother you at all?
+
+Whatever happened to those documents and emails you were going to leak with the other XPY origin people? The ones you raised a big stink about on gethashing and then suddenly disappeared? 
+
+
+
+
+ How the hell does this not count as a public ommission of guilt that he is trying to skirt regulatory obligation? 
+
+
+
+
+ We have. Garza is being investigated by the SEC, IRS, and several other agencies for securities fraud. I can't imagine the moron is trying to launch yet another freaking exchange with this many eyes on him. 
+
+
+
+
+ Hey everyone, I am hoping someone may be able to find this video.
+
+The video was of an African American gentleman who served in the US army during Jim Crowe segregation, before the civil rights act provided protections in public Accommodations.
+
+He discusses how when he went to a new base, one of his first orders of business was trying to find an apartment. The base had several landlords they worked with, and all were keen on his business. Until he showed up. Then suddenly none had any rooms available. He ended up having to find a place well over an hour off base to live.
+
+He continues on about when he had to transfer bases, how hotels would have vacancy signs on, but when he would ask for a room they'd say they forgot to turn the sign off until he left, and then in the rearview he'd see the sign flip back on.
+
+Specifically I need this for an ongoing discussion about human rights and the reason behind protecting classes of people in public accommodations.
+
+Any help identifying the video would be very much appreciated. 
+
+
+
+
+ Hm, I will definitely investigate. I think I need to do a mental paradigm shift from how Splunk works. 
+
+
+
+
+ Hey everyone. First, I am coming from a Splunk background. That's a big driver for why I am curious about hadoop. We are involved with generating massive amount of logs, but the cost to take enough data into splunk and make it useful is absolutely devastating. So, i am interested in looking at hadoop as a possible alternative.
+
+I know that instead of using indexes, hadoop uses HDFS. Can anyone provide some information on how you get data into HDFS?
+
+With splunk, I can configure a forwarder to tail files, listen on ports, etc, and all data is then forwarded into Splunk indexers. Those indexes then process the data based on rules we create, add some metadata, and store them in time series indexes. You can then search against the data.
+
+So, does hadoop have something like forwarders? Would I need to copy logs onto HDFS somehow? I'm just trying to figure out how it works. 
+
+
+
+
+ holy shit... what kind of wood is that?  Also, white tip badger? That brush could easily be 200$ on its own! That's one hell of a gift! 
+
+
+
+
+ I'm wondering if he hit it and approached too soon. On the upside, pheasant is delicious. 
+
+
+
+
+ Rekt. 
+
+
+
+
+ Barktacelli? 
+
+
+
+
+ If you carry it with you until you beat the last boss you get an achievement!! 
+
+
+
+
+ Honestly, not sure who is DV you, you've been more than civil. 
+
+I actually was unaware they had made such a plan to go into the PC market. Then again, that would make sense considering how much of semi-old hardware is named off of AT specs, that is a really good point.
+
+I know at the time they had extended into a ton of different markets - phones, point of sale systems, answering machines, typewriters, and more. All to more or less degrees of "seriousness." I had no idea they were such a big player in the PC market. 
+
+
+
+
+ *wistful sigh*
+
+Oh hot Becki. We had such potential. You and your saab and your boobs the size of my head... 
+
+
+
+
+ So much for Governor Pence saying the law can't be used to discriminate. 
+
+
+
+
+ When I was dating my ex-fiancee, she had to be taken in to the hospital because of abdominal pain and bleeding. Between blood work, 2 bags of saline, a doctor shoving his fingers up her ass, and 3 hours in the ER her bill came to over $15k. She wasn't admitted to the hospital either. 
+
+
+
+
+ Interestingly almost no drug test gives accurate results for the presence of a drug. They dont actually test for the drug - they test for metabolites of the drug (the leftover chemicals after the drug has been metabolized). You could smoke pot, be high, and take a test a few minutes later and show as clean. It would take several hours for metabolites to show up in a meaningful way.
+
+This is important because chemical analogs could pitentially produce the same metabolites,  meaning you vould fail a screening necause you ingested something chemically similar. 
+
+
+
+
+ Ozymandias from Watchmen.
+Because seriously, he was right.
+(Trying to keep this spoiler free) 
+
+
+
+
+ Wave really was useful under the right conditions. I remember having 10 people similtaneously editing a single document - a plan for a large camping trip. Everyone was able to edit everything and add stuff on to lists,  claim responsibility for stuff (I'll bring the cheetos!), delegate tasks (hot Becki will call the campground), etc. We had the whole trip planned in about 45 minutes. It never could have been done that fast trying to coordinate with other tools available at the time.
+
+The problem is most folks didn't get to have that experience, so I think it kinda floundered. The nice thing is, they spooned the code into google drive.  If you have multiple editors on a single document, you can use it just like you used wave. So the spirit lives on. 
+
+
+
+
+ I made money selling invites on ebay. Much beer and pot was had. 
+
+
+
+
+ But the thing is, personal computing wasn't their primary sector, and it still isn't. They did dabble, but ultimately refocused because it wasnt in line with their core business. Their name says it all: International Business Machines.
+
+Microsoft doesn't really produce hardware, while IBM does. A better company to compare IBM to would be Cray. Except IBM does way more in the way of r d and integration services. They're a veritable patent factory. 
+
+
+
+
+ Yeah, I get what you are saying but its also important to remember that IBM is massive, and has many lines of business.
+
+Losing out to MS on personal computing is like saying GE lost to Sylvania. Sure, maybe in one market, light bulbs, but overall that was one product line of thousands. 
+
+
+
+
+ Honestly it would be awesome if your dad could do an AMA. I would love to know more about watson under the skirt. What powers it...him...? Is it some crazy heavy metal mainframes like ibm produces? Is it hundreds of mainframes? Just a ton of commodity pizza box hardware? How much memory does Watson have? How is data stored? What sort of algo does it use for storing and retrieving, and for semantic processing? Is it map reduce with some special sauce? Stuff like that.
+
+I'm a telecom r d engineer - IBM would be a dream job for me if only for the truly cool things they build. 
+
+
+
+
+ IBM hasn't really competed with microsoft since OS/2. They are in largely different sectors. 
+
+
+
+
+ As someone who grew up about 2 miles from a stone quarry, fuck yes. 
+
+
+
+
+ I'd argue that it is tied with hashing as the greatest sport you've never heard of.
+
+http://en.m.wikipedia.org/wiki/Hash_House_Harriers 
+
+
+
+
+ As a US American, the first time I saw a hurling match I fell in love. Then I lost the world sports channel so I haven't seen it since. I'd love to play though. 
+
+
+
+
+ AIN'T NOTHIN GONNA BREAK HIS STRIDE 
+
+
+
+
+ GAWsome! 
+
+
+
+
+ LOL! I actually didn't! However, my wife has her masters in music education :) She's my go-to when I don't have access to my primary teacher, up to and including how to study the best. 
+
+
+
+
+ Still, it will let me make some killer [gummy bears](http://mixthatdrink.com/vodka-gummy-bears/). 
+
+
+
+
+ God damnit, I wish Pennsylvania let alcohol be sold privately :( 
+
+
+
+
+ Vocal trance is awesome. How that dubstep crap ever overtook it I'll never understand. We had dubstep back in my day - it was called hard house. 
+
+
+
+
+ Also, something bout Murika, roads, trucks, tractors, and tight jeans 
+
+
+
+
+ Usually I approach a new piece like this:
+
+First, play through ignoring pretty much anything related to dynamics, just trying to see where my hand/fingers need to be, sticking roughly to note durations. I don't use a metronome for this.
+
+Second, I start approaching the piece from the beginning with a metronome, usually around 30bpm, and start slowly working through it until I can mostly play it. 
+
+Next, I play through and focus on every spot I seem to have an issue with transitions, places where I can't get my hand to the right spot, etc. I mark off passages I have a hard time with (usually the book looks like graphite exploded all over it at this point).
+
+I drill on those sections one at a time, trying to tighten them up or seeing if there is a different way to play them, and then incorporate them back into the piece. Usually I'll either start by playing the same line over and over until I can play through smoothly.
+
+The problem is, there are still some rough edges at this point when the piece is played altogether.
+
+At this point, my teacher usually requests me to start focusing on musicality.
+
+That's the process... also I try to jump back and forth between 2-3 pieces at any given time so I don't get bored when I'm practicing and start to lose focus. Usually I max out at 2-3 playthroughs of a particular piece (about 5-10 minutes) before I switch to another of the pieces. 
+
+
+
+
+ In the Parkening book, I'm currently working on Greensleeves and some of the more technical exercises. While I can play the piece, I find that, like I said, I am having a lot of buzzing/muted strings when I shouldn't.
+
+Another example is Allegro from Giuliani - I can play clearly except for the the notes where the 3rd and 4th finger are used on the fret hand - I can focus on placing them perfectly, but it slows me down considerably. Otherwise I can get them "more or less" right but tonality suffers. This piece I have mostly mastered though, it's not as bad as greensleeves. 
+
+I've been using Pumping Nylon mostly for the finger exercises (ascending slurs, descending slurs, finger strength and independence builders, etc). 
+
+
+
+
+ Yup - I do. I just have clumsy fingers which don't do me any favors. I usually start abysmally slow (sub 30bpm) and progress from there. I still have issues getting everything clear. But much below that and I can't really keep track of the beat easily. 
+
+
+
+
+ I adore my Kremona. They cost less than spanish classical guitars, but have a sound easily comparable to a higher end Spanish classical. 
+
+
+
+
+ Hey everyone. I have been playing sincr june of last year, so maybe I am getting ahead of myself. However I still notice a lot of buzzes, or inadvertently muted strings.
+
+I've talked with my teacher and he said that right now it's more important to explore a variety of different exercises than it is to get things perfect.
+
+Still, the buzzes/twangs/muted notes annoy me because I know they don't sound right, which usually leads me to pause my playing and correct my fingering. This has caused a nasty habit of stopping what I'm doing instead of carrying on the melody. We are working to eliminate that now - with the rational reason being that the ear is more forgiving to a missed note or slight buzz than it is the piece suddenly stopping and starting.
+
+But if I'm not to focus on getting fingerings perfect now, how can I work to ensure that I'm not building muscle memory with the incorrect fingerings? How can I still keep focusing on progressing while still also keeping a mind to improving my fingering?
+
+I'm working through the parkening method, and also the Pumping Nylon technique book. 
+
+
+
+
+ Or Filipino.  Or really anywhere from the Pacific islands 
+
+
+
+
+ Can you provide a verifiable source that he actually manipulated data? The only claim I've heard was a meta-analysis of his work that most news sites orgs misinterpreted as showing Milgram doctored results when that's not really what the study showed at all.
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976349/ 
+
+
+
+
+ I would become a pig - preferably a heritage pig.
+I have eaten so many of them, its only fair to go through what they do.
+
+On top of that, I could br used to make some of the finest food on earth. 
+
+
+
+
+ I think you're missing my main point.
+
+In OP's case, he didn't see an issue for months, came back to damage, but the damage had been ongoing for months.
+
+In my case, the issue was hidden (floor tile covered the damage) and damage built over a few months, until we saw damage after chipping a tile).
+
+In both cases, damage built up over time and wasn't noticed by the owner.
+
+I get what you're saying that insurance companies aren't the catechall for "deferred maintenance" (which is somewhat incorrect because you can be actively maintaining a property and not notice damage if it is occurring to, say, subfloor - you are suggesting that the owner isn't maintaining things when they may be). The point is - OP's insurance company may not help him if the damage has built over time. 
+
+
+
+
+  Pain neuron is a guy. Pressure neuron is a girl. Spinal cord is bar. Inhibitory neuron is bouncer. 
+
+I feel like this should be made into a t-shirt. 
+
+
+
+
+ Am successful friend.
+I post mostly scathing indictments of coworkers where I know they can never read them.
+
+Oh, and pictures of cats. 
+
+
+
+
+ You may also end up paying more for your repair if you do that. Many old/broken parts are sold back to companies like NAPA, advance auto, autozone, national auto, etc for what's called a "core credit." Essentially the parts can be cleaned, milled, and often refurbished to be used again, or melted down and made into something new.
+
+If you ask for the part, the mechanic won't get the core credit on the price they pay for the part, so they'll pay a higher price. That higher price will be passed on to you. In many cases, unless you are the one purchasing a new part, you can't redeem the core for the old part (this helps prevent chop shops from selling stolen parts). So while you may feel more secure the job was done, you will pay a good bit more cash for it.
+
+Source: Worked at National Auto for about 5 years as a delivery driver/sales guy in high school/early college 
+
+
+
+
+  This ideology isn't dead, Marxists are still around, and it still perverts into violence against people with **natural born talents** like **intellectuals**, entrepreneurs, and **people born into wealth**
+
+Yeah, no.
+Being part of the golden sperm club doesn't make you naturally talented. 
+And most intellectuals are able to look at the world around them and see that the best, most stable countries are the ones that have tried to stray from either extreme with a mix of some socialism and capitalism (primarily capitalistic societies with socialist programs to support the poor, provide education, and help the downtrodden). There's a reason so many conservatives lambaste universities as "citadels of liberalism" - because most intellectuals disagree with a lot of what you're saying.
+
+You sound like you've read a bit too much Ayn Rand. 
+
+
+
+
+ When you have lost that much, so brutally, what in the world can really get you down?
+
+Asshole cut you off in traffic? Well, at least he wasn't threading a rope through my hands or bashing my child against a tree.
+
+My income tax bill was higher than expected? Well, it's not like watching my wife be clubbed to death.
+
+The things most people consider to be problems in our neck of the world simply don't compare to the true monsters that are out there. When you've seen those monsters, I think most of the modern world's troubles just... well... they aren't really troubles. 
+
+
+
+
+  Why did an ideology devoted to the very best in us turn out to be so good in unleashing the very worst?
+
+The same reason that religions are so good at slaughtering people. The most dangerous people are the people who are convinced that they are working for good. 
+
+
+
+
+ It's also appropriate to be vigilant about people who seem eager to kill or to excuse collateral damage. 
+
+
+
+
+ Dinner. 
+
+
+
+
+ This is something I always think about - we refer to ourselves as exceptionally violent, but if you watch most animals in their social structures, they are plenty violent. 2 million ants and termites fighting and killing every survivor of the other side for example. Domestic cats kill trillions a year.
+
+We do have the market cornered on doing it in an organized, systematic fashion, though. 
+
+
+
+
+ Not really. Give those people an authority figure and a sense that they'll be punished if they don't listen, and people are often more than happy to kill. Look up the Milgram experiments. Human beings are brutal creatures. 
+
+
+
+
+ Yup, I meant units and not options.
+
+Now I'm wondering if this is a yearly thing, or a one time grant. I suppose that's a question for my boss. 
+
+
+
+
+ Ok, that makes sense!
+
+I think I'm starting to understand a bit more now. From what I am gathering about the restricted grant, that is essentially stock shares I am given but according to a vesting schedule.
+
+I think I'm understanding now. Thank you!! 
+
+
+
+
+ So, it is less income, and more a guaranteed discount on the price of the stock shares? In fact, I'd have to have the money on hand to purchase the shares if I wanted to use the options? 
+
+
+
+
+ At my yearly review, my supervisor was surprised to see that I was the only one on my team not receiving stock options. He said he would see what he could do about that.
+
+Today I logged in to fidelity and see two new account types that have been added - restricted stock options, and a "stock option plan".
+
+The restricted stock options look like they are full shares that just have a vesting schedule over the next 5 years.
+
+The stock options though, those I don't understand. The account shows a zero balance. BUT it shows a "NSO" type grant, with a grant price a few dollars above the current stock price. It says there are N unvested options, and N total options (N is the same number). It also shows an expiration date 10 years from now.
+
+Can anyone help explain what this means? I've never had stock options before and I'm kind of confused, specifically about the second item. Also, how are these guys taxed? I'm pretty good with finances and investing but this one is new to me. 
+
+
+
+
+ Will this help him? I know most insurance will only help with acute problems (we had a pipe burst), and not build-up problems (slow leak led to damage over the course of a few months). I say this because we recently had to gut a bathroom after finding out there was a small leak doing damage over time that had all but rotted out a floor. The insurance company wouldn't help. 
+
+
+
+
+ I was surprised that the install on the macbook was pretty painless. Basically it fired up an open source driver, and then gave me the option to install the restricted ATI driver, and boom. Worked without any fuss. I'm glad to hear that things continue to improve. Has any movement been made on supporting more wireless chipsets?
+
+As of last year I know it was still a bear for a lot of broadcom chipsets, and even when you could get them to work the signal reception was terrible compared to the same device in windows.
+
+I don't mind linux on a desktop, but, I still just feel like I'm more comfortable with it using a command line. Maybe I'm nostalgic for the old red hat apollo days (been using linux for almost 20 years now, sheesh).
+
+I tend to be a pragmatist about OS's :) 
+
+
+
+
+ Honestly, it was probably in 2008-2010. What thrashed it was doing a system update on ubuntu (I had been running compiz fusion). It royally jacked up the system and I just couldn't get it back. But it left such a bad taste in my mouth after fighting to get that ATI card running.
+
+Eventually I made the switch over to mac hardware, probably in... 2012 maybe? I tri-boot OSX, windows, and ubuntu. And I will say that the graphics management in ubuntu has **markedly** improved, but hardware compatibility is still a bit of a pain sometimes (especially on mac hardware). Fan control is a bit of an issue (it's either off or full blast), and backlighting can all be temperamental. I find i can work just as efficiently in OSX with some tweaks as I can in linux. Especially with brew.
+
+I boot into my ubuntu partition maybe once every few months.. I really should just nuke it and reclaim the space.
+
+I have about 2000 RHEL boxes at work so I get plenty of linux exposure there, lol. 
+
+
+
+
+ Just remember how much libraries have helped you the next time your local legislators try to cut their funding.
+
+Libraries are the hallmark of a civilized culture. Taking them away from people is spitting in the face of human progress. 
+
+
+
+
+ Awesome! Glad I could help! I was a vegetarian for about 8 years, but got lured back in by bacon, fish and hot dogs :) The upside is I have no issue with tofu.
+
+One thing I would recommend - after you sear the pineapple, sprinkle with a big pinch of kosher salt and cover with some aluminum foil (do NOT do this if you have it on a metal pan or plate). The salt really makes the pineapple pop. 
+
+
+
+
+ Hey everyone. Today I made peanut butter eggs for the upcoming holiday. We had a decent amount of leftover chocolate and I happened to have a lego brick mold, so I figured what the heck. This photoset shows the rest:
+http://imgur.com/a/ZNUFk
+
+My question though, is about this photo:
+http://i.imgur.com/r3Y0pCG.jpg
+
+What are those marks from? The chocolate was tempered with shortening, and it seems like even though it was completely incorporated with the chocolate, it managed to resolidify in some spots. Additionally, along the side of the mold I have several streaks, as if the chocolate was extremely old.
+
+What caused this? How can I avoid it in the future? This is the first time I've used a mold to make chocolate so I'm unsure what I did incorrectly. The mold was buttered, and then had the hot chocolate poured in. 
+
+
+
+
+ There are a ton of really good thickeners, and the key is knowing when to use each one. I prefer arrowroot to cornstarch as far as starch-based thickeners.
+
+Gelatin is also very good. Rouxs have already been covered above.
+
+The final one is a personal favorite - reductions. While not as great at thickening, they are FANTASTIC at intensifying flavors in a way that no other thickener can. 
+
+
+
+
+ It works very well, just make sure to use a very mild cheese (hence farmer cheese). Anything strongly flavored would throw it off. 
+
+
+
+
+ Not a web dev, but a telecom engineer.
+
+The reason I use OSX is because, while I love linux, I feel that it shines the most in a server rack, with a minimal install, where I can configure it to be an appliance that I know will be rocksteady into the future.
+
+Trying to use it on a desktop is problematic. You configure it exactly as you desire, and then suddenly a new update thrashes your X config and suddenly you cant get a window manager to run, even in bulletproof mode. Some piece of hardware requires a hacky workaround to function (which is in itself a problem), and suddenly an update fixes the hacky workaround so the hardware is useless.
+
+I used linux as a primary desktop os for 3 years, and it was a constant source of frustration for me. The above items were real problems, and the community couldn't help. So, when I switched to OSX,  it was great to know it had a BSD pedigree. A few choice apps/scripts like totalterminal in visor mode, and brew, and oh my ZSH, an updated python and perl install, and I had everything I wanted from linux but with excellent support. Or at least a guarantee that updates wouldn't suddenly lock me into a TUI mode.
+
+That's not to say OSX doesn't have issues - it totally does. If you have a weird system problem that is very complex, good luck. Intelligent support is hard to find. The "geniuses" are a joke when you start trying to discuss deep system related problems. Most of them seem unable to do much more than look smug, sell, and wear skinny jeans. It also lacks features I'd love to see from *Nix (the proc filesystem for example).
+
+All OS's are good. Some are just better at some stuff than others. 
+
+
+
+
+ LOL, I kinda wanted to throw on some hot dogs just for profiling purposes. We have a ton of tofu in the freezer that we need to use, so I figured I would grill it. Next in the pipeline is a 13lb pork loin :) 
+
+
+
+
+ Peanut butter eggs, chocolate legos, and some chocolate granola bark! 
+
+
+
+
+
+
+
+
+
+ We have a bunch of tofu on hand, so I decided some grilled bbq tofu sandwiches with grilled pineapple on onion rolls were a nice way to go. Yum. 
+
+
+
+
+
+
+
+
+
+ I'm pretty sure that the us code's definition of public accomodations prevents descrimination for any currently defined protected class, I don't think it has to be specifically listed. Again, I could be wrong :) IANAL! 
+
+
+
+
+ Yeah! Glad you like... i was just thinking if two couples come in to your bakery, each asks for a cake that says "Congratulations Steve and Terry!" - the only difference between the gay and straight couple is the sex of Terry. That's our variable. And it is an established protected class.
+
+ https://www.law.cornell.edu/uscode/text/42/12181 is what public accomodations are.
+
+I believe sex was one of the covered classes under the civil rights act of 1964, and further defined under the equal pay act, but let me doublecheck. 
+
+
+
+
+ I would argue that it is a direct violation of federal law, as most of those companies are considered public accomodations, and their decision is being made based on the sex of one of the customers (and while sexuality isn't a protected class, sex IS).
+
+Essentially, if I want to buy a cake and they would sell me one if my partner is a woman but not if my partner is a man, they are essentially discriminating based on sex of the person that I am with. If it is a business we are patronizing together, they are then directly discriminating against us based on sex. 
+
+
+
+
+ Care to provide case law that a religion requires more than one follower? 
+
+
+
+
+ Even easier: "This just in, Gencon has been disbanded. All assets and management have been purchased and hired by a new company, Jencon."
+
+Oh sorry, that contract was with Gencon which is now defunct. So sorry. 
+
+
+
+
+ Honestly, any politician dumb enough to sign this bill into law doesn't deserve to be president. The utter lack of foresight to think "Hm, I wonder if this will have a backlash that could make me unelectable" alone means he doesn't have what it takes to be POTUS. 
+
+
+
+
+ Sort of. There's a lot of folks who simply can't vote because we're the only farking industrialized nation where election days aren't holidays. It is still quite easy for a boss to come in and tell his low-wage workers "yeah, I need you to come in and leave after polls close." 
+
+
+
+
+ Final fantasy xii, if only because it is pretty much the only game in the main series currently unavailable on ps3. 
+
+
+
+
+ I want that rosette.  Beautiful!  
+
+
+
+
+ I absolutely agree. But some of the big ones are fun occasionally, if only to see some of the goofy stuff that gets posted :) 
+
+
+
+
+
+
+
+
+
+ NEVER WANTS A PASSERBY TO PASS TO PASS HIM BY 
+
+
+
+
+ While he has no problem poking fun at living people and putting them in farsical situations, I don't see him doing that. Likewise I don't think Mercury's family would let his life to be made into a farce.
+
+So far the most serious roles I've seen him in was as the innkeeper in Les Miserables, Hugo, and Sweeney Todd. I think he can handle it. 
+
+
+
+
+  Men are better than women at basically everything.
+
+Everything includes more than physical.
+
+FTA:
+
+ Counting standard deviations--the measurement of difference between sets of data--she shows how even the widest psychological differences, like physical aggression (0.60 standard deviations, leaning toward men) aren't as much as you might expect. Less than 0.10 standard deviations or between 0.11 and 0.35 standard deviations was common, and those are both defined as small differences. She also measured motor behaviors in boys and girls ages 3 to 20 to get a sense of the difference. Some of those, like grip strength (0.66, toward the gentlemen again), were large compared to the rest of the data, but still small to moderate overall. Throwing velocity and throwing distance? Both blowouts, at 2.18 and 1.98 standard deviations, respectively. Well above anything else, psychological or physical. 
+
+If you read the base article as well, the physical differences are actually not that big. Throwing is a major standout. 
+
+
+
+
+ My grandfather had a shotgun he referred to as his "nigger gun" 
+
+
+
+
+ It still is, just more of an r d patent factory these days in addition to being a driving force in really heavy computing. 
+
+
+
+
+ Shadow of thr Colossus 
+
+
+
+
+ Interestingly, thats not true. There are rather few distinct places where we are different in performance.  Surprisingly, women throw weaker than men. Beyond that, not too many differences.
+
+http://www.popsci.com/science/article/2012-09/fyi-do-men-and-women-throw-ball-differently 
+
+
+
+
+ I'd post a series of decent links. 
+
+
+
+
+ Marriage. 
+
+
+
+
+ Way longer than that. Speech to text/IVR is still years away from understanding normal speech to a point where it would be a full substitution for paid subtitles.
+
+As mentioned, see the youtube example.
+
+Nuance, one of the leaders in the field can't understand what you say if you have a stuffy nose as another example.
+
+There are a ton more issues... accents, local jargon, professional words and jargon, people who speak other languages, telling one speaker from another, etc. It has come a long way over the past 20 years, but I think it could easily be 10 before really servicable, maybe 5 if the datamining stuff like siri and echo pays off 
+
+
+
+
+ You know, now I want to start infecting USB drives with rootkits and shipping them back and forth internationally to see if any blips show up. 
+
+
+
+
+ One thing I am pondering. Mycelium is also a young growth stage for fungi, including "magic mushrooms."  While mushroom spores are legal to ship, mycelium cultures are not.
+
+I wonder if there is some sort of confusion going on? It's a stretch, but maybe. 
+
+
+
+
+ I actually do know people who hate texas, but the majority have moved out. Thats probably part of the issue. Visit Austin if you get the chance, you'll meet a lot more people who are less proud of Texas.
+
+But as for the personality of texans, there is a show on Netflix called "the shapes of our states" or something like that. They have an excellent episode on Texas. In general most Texans think of themselves as Texans first and Americans second.  
+
+
+
+
+ The problem is the same as the US, which is why I'm drawing the parallel. The sense of exceptionalism, with a healthy dose of whitewashing history. 
+
+
+
+

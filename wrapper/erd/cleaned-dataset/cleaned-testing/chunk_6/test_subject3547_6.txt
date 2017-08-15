@@ -1,0 +1,85 @@
+ I added a gif of playing through one level. 
+
+
+
+
+ Thank you :)  
+I've since slowed down the asteroids, but I think it might be too slow now. I just have to find the right balance. I've also increased the firing rate ever so slightly, and thank you for the point abouut the bullets being difficult to see. I'm also thinking of implementing the "hyperspace" mechanic from the original, where you can teleport to a random location on the screen.
+
+Edit: I just looked back at the build I uploaded, and I can't see the the bullets either. This is a glitch, and will hopefully be resolved by replacing the dots I was drawing with proper bullet/rocket sprites. 
+
+
+
+
+ #Jovian Gasbags
+Jovian Gasbags is an asteroids clone I'm working on to expand my portfolio. It's in an early state, but it will be done in the next few days. I just want some feedback on how the game plays. Control speed, player thrust power, fire rate, asteroid size/speed etc.  
+###[GIF](http://i.imgur.com/CuVmjss.gifv)
+###Controls
+Arrow keys to turn + thrust, spacebar to shoot. Press enter to generate a level.
+
+###Downloads
+##[Windows](https://drive.google.com/file/d/0B8Kqppgx0wjBTU1JSGt5RGY5Y00/view?usp=sharing)
+***
+##[Linux/Source](https://drive.google.com/file/d/0B8Kqppgx0wjBdXFIdWxEWXJrVWs/view?usp=sharing)
+To run the game on linux or other non-windows systems, download the source file above, and install the [LVE 2D Engine](https://love2d.org/) 
+
+
+
+
+ https://xkcd.com/508/ 
+
+
+
+
+ Throw his law notes on the ground to assert dominance. 
+
+
+
+
+ Links are allowed. These were bot accounts that were posting gibberish and links (probably to phishing sites).  
+
+
+
+
+
+
+
+
+
+ /r/retiredusername 
+
+
+
+
+ You've given me a new purpose in life. I could use Markov Chains and everything... 
+
+
+
+
+ More posts on this subreddit should include project plans. Thank you for that.
+
+Unfortunately, I'm not solid on javascript, but I wish you luck! The current build is very cool, it reminds me of candy box. 
+
+
+
+
+ Thanks, it was created for the ludum dare 72 hour jam, so it's a little short and simple.
+
+I wish you luck on this project. 
+
+
+
+
+ I'm not sure I want to work on a project with such vague guidelines, but here's one of my [games made in LOVE](http://ludumdare.com/compo/ludum-dare-30/?action=preview uid=34574) anyway. 
+
+
+
+
+ Beautiful :D
+I love the visuals you make, and the descrptions of the world that the turtle has created.
+
+I have but one small criticism. You used the wrong "it's" several times throughout the poem. 
+
+
+
+

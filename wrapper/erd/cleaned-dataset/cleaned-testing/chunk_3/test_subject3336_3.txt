@@ -1,0 +1,697 @@
+ HTC tattoo  
+
+
+
+
+ if you could, please contribute more info on the bug page :) 
+
+
+
+
+ incase its a similar bug and if you have time to spare, please contribute more info here - https://bugzilla.mozilla.org/show_bug.cgi?id=1041968 
+
+
+
+
+ it'll be good if a HTML5 video related thread is stickied for a small time 
+
+
+
+
+ Hey there, would recommend you download fedora 21 Linux and burn the ISO file to a USB pendrive using LiLi 
+
+
+Also here's an easy guide to help you out 
+https://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/
+
+Hope it helps  
+
+
+
+
+ Firefox is getting its own flash like chrome by a project called Shumway. It's being worked on.  
+
+
+
+
+
+
+
+
+
+ Thank you :) That seems like a fine solution, but it would have been nice if the favicon could be used as a thumbnail pic.  
+
+
+
+
+ im wondering if you could replace the tile screenshot's on the new tab page with something like the site's logo or so? Is there any way? Because it kinda seems privacy intrusive when people can actually see image content of sites like facebook and the like, when you open a new tab.  
+
+Also i've noticed most elements are not captured in the screen shot, its like some content has been captured and show and the rest where ignored/left out.
+ 
+
+
+
+
+ html5 video(mediasource) is currently under intensive work.  
+You can follow the progress here https://bugzilla.mozilla.org/show_bug.cgi?id=778617  
+
+If you find your issue very unique or specific to some url, please do file a bug-report. As far i can tell you youtube/vimeo videos play, but with issues at times. 
+
+
+
+
+ thats true :), but since this app doesnt do something out of the box and several other facebook and twitter clients work just fine, i dont understand why its a big problem for them to optimize for the lower end.  
+FB plans to put itself everywhere, then it should concentrate that its a problem free experience on mobile. 
+
+
+
+
+ it is kitkat minimum requirement. i've got a higher Ram phone. Just that FB app was never optimized to run on lower end
+
+Edit - all the other apps ran very fine, and i noticed once i got rid of the facebook app, my phone was much faster and smoother 
+
+
+
+
+ If your phone is 512mb ram. Have a good day on using it smoothly or more importantly without closing  
+
+
+
+
+ very true, i was just mentioning the javascript stuff.  
+i'd really love more battery efficiency. Most browsers usage does give a sure hit. 
+
+
+
+
+ Even if u take benchmarks, it recently beat everyone at their own benchmark index.  
+
+
+
+
+
+
+
+
+
+ 4 models, all with the best spec possible, and no TouchWiz, 2 year solid OS updates.    
+1. low budget  
+2. mid budget  
+3. Supremely high budget  
+4. Phablet - mid to high budget pricing 
+
+
+
+
+ Press and hold the link - pop-up menu appears - Select open with app 
+
+
+
+
+ still unable to sort photos according to date creation :( but date loaded onto device 
+
+
+
+
+ i have a STRONG feeling this is because of the FACEBOOK app.  
+Even on my old micromax a110 512mb ram device this happened when facebook was installed.  
+
+Once i uninstalled my facebook app, phone was butter smooth.  
+Same thing with the Moto G 2ng Gen.   
+
+EDIT - not on the forums. but you could try this out and just report it there to help us ALL! 
+
+
+
+
+ i have a STRONG feeling this is because of the FACEBOOK app.  
+Even on my old micromax a110 512mb ram device this happened when facebook was installed.  
+Once i uninstalled my phone was butter smooth.  
+Same thing with the Moto G 2ng Gen.   
+
+
+
+
+ Forever alone just reached a new level  
+
+
+
+
+ You should probably try the beta or the normal stable version. Nightlies are test oriented  
+
+
+
+
+ Guess you should disable the e10s mode for normal use 
+
+
+
+
+
+
+
+
+
+ google needs to do something about this.
+They have the most customizable OS, a theme manage will be an absolute delight! 
+
+
+
+
+ Theme manager  
+
+
+
+
+ Hehe, get the aLogcat or catLog app from the play store  
+
+
+
+
+ maybe a logcat contribution could help the devs, i've tried contributing more info, but nothing fruitful has been found to solve this issue. :(  
+
+Please do contribute to the bug post if you find time :)
+ 
+
+
+
+
+ Does it crash without a send crash report?  
+because if you are experiencing this random crashes a bug is already open https://bugzilla.mozilla.org/show_bug.cgi?id=1041968  
+Contribute if you can! 
+
+
+
+
+ ah yes! thanks for correcting me :)  
+"generating its search results from key crowdsourced sites such as Wikipedia and from partnerships with other search engines like Yandex, Yahoo!, Bing, Wolfram Alpha and Yummly." - wiki 
+
+
+
+
+ i hope it is true, it'll be a real nice way to have broad financial independence, since DDGO gives ~~google~~ results with the additional privacy features. 
+
+
+
+
+ ORBOT by EFF - fight internet censorship! 
+
+
+
+
+ Any income from DuckDuckGo to Firefox? by searches? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Try creating a new profile, in-case you haven't.  
+Whats your OS? Audio card brand/driver? 
+
+
+
+
+ PLEASE bring this to Firefox as an add-on, or even better try talk to the devs and integrate within the browser! :D  
+Its something awesome and more people need it now, especially on desktop browsers  
+
+
+
+
+ Same :( Never found a solution 
+
+
+
+
+ me too 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ actually lots of site including news.google.com look weird with chrome's rendering mechanism.  
+Thanks :) but I've tried that extension, it helps to a little extent. 
+
+
+
+
+ chrome only - http://imgur.com/6sv8BWE 
+
+
+
+
+ is there any way to improve font rendering in chrome on linux? 
+its so bad, jagged. Some sites are beautiful but most are just meh. 
+
+
+
+
+ audacious for music - with xmms theme  
+vlc for rest 
+
+
+
+
+ i guess yes! 
+
+
+
+
+
+
+
+
+
+ The HUGE title bar of gnome windows 
+
+
+
+
+ ah that means you need a dark adwaita theme or the gtk3 firefox version(under development) 
+
+
+
+
+ Op's GNOME theme - https://addons.mozilla.org/en-US/firefox/addon/adwaita/ 
+
+
+
+
+ kinda yes - https://addons.mozilla.org/en-US/firefox/themes/
+
+Edit: i guess it'll replace your adwaita theme - not sure 
+
+
+
+
+ You could do away with the color problem by installing a Persona(lightweight themes) of your own choice after installing the HTitle add-on 
+
+
+
+
+ i use the HTitle add-on to maintain the Australis look :)  
+Does a neat job on GNOME! 
+
+
+
+
+
+
+
+
+
+ incase you want to follow the progress - https://bugzilla.mozilla.org/show_bug.cgi?id=577084 
+
+
+
+
+ ah yes i get what your trying to say :)  
+i have a couple of emoji font installed on my system to help me out.  
+I just felt this could be better since the user doesn't need to do any-end work 
+
+
+
+
+ ah i've noticed on http://getemoji.com/ that you can copy paste emojis from there. 
+Its the way i do currently on Firefox when i need to add some emoji. 
+
+
+
+
+  and paste as if they were regular text which is a shame. Another option is to not use these and include a web font 
+
+ah i dont quite understand, maybe im wrong here, but its really easy to copy-paste emoji's from http://getemoji.com/  
+Just select and copy! :)
+
+Font support is good, but colors are still an issue. Since this seems like it has SVG support, it can work quite well i guess.
+
+Third option is actually what i felt would be good, cross platform OS based or software based support.  
+Since Firefox doesn't have a way to input emojis directly into text fields, i felt this could do very well for those who want emoji inputs. 
+
+
+
+
+
+
+
+
+
+ im not sure of the emoji one thing - recently stumbled across it.  
+But if its not supported then fall back to ":smile:" for 
+Thing is if this is implemented at an OS font or so, end users don't have to go searching for fonts etc. 
+
+
+
+
+ i see a lot of emoji hate, but its much better to have something than those black boxes everywhere. 
+
+
+
+
+ ah i guess i saw an SVG implementation on their github.  
+Also since this can be used as a standard cross-platform Emoji Support since its open-source(CC    MIT license),based on Unicode, and thus help in correct rendering of Emoji's.  
+Good for the users i guess :) 
+
+
+
+
+
+
+
+
+
+ This will actually be a boost to both parties.  
+Lots of users can get around internet censorship with Tor quite easily. 
+
+
+
+
+ Use the Tor Browser Bundle - you get everything of Tor, Firefox and free access 
+
+
+
+
+ May this come super soon! _/\_ 
+
+
+
+
+ What Kind Of Sorcery Is This :O 
+
+
+
+
+  re you're not running into an unintended bug? I vaguely recall seeing that they've been working on one word searches in Windows lately, so maybe I'm wrong.. (I'm on Linux right now)
+ 
+ah im kinda having this issue, on the word - help  
+Rest all words work fine :| 
+
+
+
+
+ oh okay :) 
+
+
+
+
+ https://support.google.com/plus/answer/1216376?hl=en - Supports firefox 
+
+
+
+
+ ah this? https://www.google.com/tools/dlpage/hangoutplugin 
+
+
+
+
+ the story is underwraps so far.  
+In a interview "He(lead actor) said that the movie is about modeling industry when a model enters the field not by his own wish, but on compulsion."  
+
+According to rumours(NOT Confirmed) - "it revolves around five persons, a model (Amy Jackson) a doctor(Upen Patel) and three other people who get affected by a poisonous chemical. Reports add Chiyaan(Vikram) will sport a look which will depict a person with his face affected by such chemical."  
+
+Its a teaser, so the plot is still off.
+As for the lead actor, he's versatile and professional. An old film of his - http://www.youtube.com/watch?v=7zRVTV1Wy8E
+
+ 
+
+
+
+
+ yes,  
+http://en.wikipedia.org/wiki/I_(film)  
+
+ 
+
+
+
+
+
+
+
+
+
+ i tried the same slowest was around 30fps but it did hit 60fps at some points. But was constantly shifting between 38-50fps
+
+Edit - Fedora 20, nvidia gt525M  
+Score: 4693
+Total CPU Time: 38.79s, Total Lag: 161ms 
+
+
+
+
+
+
+
+
+
+ ah yes! didn't elaborate properly! was too excited xD 
+
+
+
+
+
+
+
+
+
+ they're just trying to keep the same design language across all their products 
+
+
+
+
+ yes, i use the beat version v-33.  
+but the general google search is still the same :( 
+
+
+
+
+ The news.google.com site started appearing in cards format on Firefox android
+
+edit - http://imgur.com/3gihk5N 
+
+
+
+
+ i just noticed the news.google.com site displays in the cards format on Firefox for Android!
+
+edit - http://imgur.com/3gihk5N 
+
+
+
+
+ Hopefully this should help you out too http://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/ 
+
+
+
+
+ Ah okay, thanks for the info :)  
+
+
+
+
+ Nightingale ?
+ 
+
+
+
+
+ try looking for a proprietary driver, if the open sourced one is at fault.
+
+http://wireless.kernel.org/en/users/Drivers/b43
+http://www.broadcom.com/support/802.11/linux_sta.php
+
+One of these should help your situation :)
+
+Edit:- i searched more through the interwebs:
+Enable RPM Fusion repo, or install them if you havn't
+Try doing a "yum install kmod-wl" 
+
+ 
+
+
+
+
+ Try LiLi. Worked best in my experience http://www.linuxliveusb.com/ 
+
+
+
+
+ im not sure, might be a stupid guess too, but if your network card has a proprietary driver you could try install that and see if your thing works.  Check in windows or so to know your manufacturer  
+
+Also you could try disabling IPv6 support and see if you find some luck  
+
+Edit: Try ifup and ifdown to switch individual cards.
+
+ lspci can list out all the detected cards etc. 
+
+
+
+
+ i really wish the variable stroke path width comes in fast to Inkscape.
+
+It's of real and great importance to people who draw and illustrate on the computer 
+
+
+
+
+ whats you said is true too, since people use their mobile devices a lot to type online, the emoji habit will also show up in text fields. 
+
+
+
+
+ ah, i guess, in your case the system is missing the Segoe UI font or some other emoji color/noncolor supported font; which is why you're seeing boxes 
+
+
+
+
+
+
+
+
+
+ :) you're welcome 
+
+
+
+
+ i think this might be website enabled - http://www.fileformat.info/info/emoji/browsertest.htm  
+
+Still black and white; colored ones are images.  
+Why didnt emoji's get made in SVG?
+
+EDIT:
+Also
+https://en.wikipedia.org/wiki/Emoji
+
+Edit 2:
+I think its because you are on Windows and have a color emoji support font installed on the system, My Linux system still shows b w :/ 
+
+
+
+
+ twitter did mention on a tweet long back that they started supporting color emoji's 
+
+
+
+
+ that write up is just brilliant! hahaha xD 
+
+
+
+
+ Firefox's edge is with the add-ons it has, thats one thing millions of users love. But yes e10s is highly needed to have that edge over chrome again.  
+
+Sometimes i feel e10s should have been a much higher priority in the past itself. FF wouldn't have lost out a good amount of users to chrome. Also risking the add-ons will be a blow to the already using FF users. I think with proper co-ordination and fast paced interaction within the Firefox community can make both e10s and add-on compatibility a great success.  
+
+http://arewee10syet.com/ -- the working add-on list shows good promise, even though there are lots of buggy ones and non tested ones too. 
+
+
+
+
+ my dog starts barking loud! its like he's yelling around im hungry im hungry!  
+
+
+
+
+ get the spice fire one - has an additional camera, and feels better from the youtube reviews too 
+
+
+
+
+ ah yes, and once the update comes through, same issue.  
+Tried new profiles and reset.  
+my goto method on linux was disable the e10s autostart on launch thing in about:config and delete the updates folder and relaunch. Somehow it used to update.  
+
+Now it doesnt though :( 
+
+
+
+
+ so it wasnt just me on linux O_O 
+
+
+
+
+
+
+
+
+
+ Im sorry to hear that you're having troubles with Firefox.  
+I've been using firefox since it's version 1.0+ days.  
+
+My best guess is that you try out to get the latest stable version. Incase you've had it installed, try a browser reset or start a fresh profile.  
+
+https://support.mozilla.org/en-US/kb/reset-firefox-easily-fix-most-problems
+
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles 
+
+
+
+
+ krita is mainly meant for the artists, GIMP was like the OSS response to photoshop.  
+
+
+
+
+ Driver 2 
+
+
+
+
+ i use both gimp and inkscape alternatively as a combo :) 
+
+
+
+
+ the ones ive mentioned are mostly GNU GPL licensed and FOSS 
+
+
+
+
+ http://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/ 
+
+
+
+
+ Firefox, GIMP, Inkscape, Blender, Fedora Linux, Ubuntu Linux, Audacity, Krita, Birdie, Pidgin IM, Audacious, FBReader,  VLC  
+
+Edit -  forgot Libreoffice 
+
+
+
+
+ could you try some other browser and see something similar is happening or not? 
+
+
+
+
+ it could also be your OS downloading updates in the backgroud.  
+
+in case its on mobile, you can restrict background data usage on android in Data usage settings.   
+
+
+
+

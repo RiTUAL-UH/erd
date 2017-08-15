@@ -1,0 +1,145 @@
+ Not too late to add it.... ;) 
+
+
+
+
+ Running Red spatial cell coming right up 
+
+
+
+
+
+
+
+
+
+ You could try Running Red 2: Vampire money [here](http://forum.feed-the-beast.com/threads/1-7-10-beta-running-red-2-vampire-money-chapter-one-hardcore-magic-rpg.51957/). It's a hardcore pack based around combat. And other fun stuff. 
+
+
+
+
+ :3 
+
+
+
+
+ It appears so. I'm working on a fix 
+
+
+
+
+ Running Red?
+
+#shamelessplug 
+
+
+
+
+ And yeah. If you didn't see what trajing said, the release is now available on the launcher 
+
+
+
+
+
+
+
+
+
+ What version of BM are you using? 
+
+
+
+
+ Here, I'll give a few more, as people haven't found these:
+
+* Energy Cube from Mekanism (Mechanized)
+* Die 64 times (We're Not Working Out)
+* Something involving Milk. I can't remember what, exactly (Running White) 
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ Explosions. 
+
+
+
+
+ The guy who says that he is you.
+
+GG m8. 
+
+
+
+
+ http://gideonseymour.blogspot.com/2014/09/in-response-to-this-httpthewatcher-blog.html
+
+All there. 
+
+
+
+
+ Despite the fact that you told me this was your account several times on IRC. 
+
+
+
+
+ Bloody hell, RealSketch.
+
+You have some sources for that conclusion? 
+
+
+
+
+ I use Unity by CyanideX, as even things that aren't textured yet blend in well with the theme 
+
+
+
+
+ There's one being developed here:
+http://forum.feed-the-beast.com/threads/1-7-10-hqm-hardcore-the-butterflutter-0-0-1.51296/ 
+
+
+
+
+ The pull request is being merged, which does several things, but the most important being the move from the BC API to the RF API 
+
+
+
+
+
+
+
+
+
+ And adding in the Lifesteal effect. Normal Golden apples will not be craftable, and Ghasts won't drop tears*. The only non-violent way to get health regen is via Notch Apples.
+
+*Air Sigils 'n all the things that use the tears as components will have altered recipes. 
+
+
+
+
+ If you can get it 
+
+
+
+
+ It's a custom potion effect designed by Strikingwolf that gives health regeneration when you damage things, AKA drinking their blood. You get the effect thanks to Lore Expansion, which awards you the effect when you get the appropriate piece of lore, AKA your level of vampirism 
+
+
+
+
+
+
+
+
+
+ Pretty much. 
+
+
+
+

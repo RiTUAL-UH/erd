@@ -1,0 +1,79 @@
+ Is the name Ellen Pao not allowed here? 
+
+
+
+
+ I see what you did there... 
+
+
+
+
+ I've now tagged her account as Paopatine. That's amazing 
+
+
+
+
+ Unfortuantely, I don't get that reference 
+
+
+
+
+ I like it :) 
+
+
+
+
+ He couldn't write because his arms were broken. 
+
+
+
+
+ This thread is about to get all meta... 
+
+
+
+
+ [test](/GNU Terry Pratchett)  
+
+
+
+
+ [](/GNU Terry Pratchett)  
+
+
+
+
+ Not sure whether mine is drawable... 
+
+
+
+
+ Tagged as [Dick-Suit](http://gyazo.com/07c38acf2562970603f70df380db482a) 
+
+
+
+
+
+
+
+
+
+ Fun little Asteroids clone I made for the One Game A Month challenge. You are a spaceship pilot, sent to wipe out the hordes of Jovian GasBags infesting Jupiter's upper atmosphere. These jelly-fish like creatures float in the air, splitting apart under laser fire.
+
+##Controls
+***
+Arrow keys/WASD to turn/thrust. Spacebar/Control to shoot. Press escape to pause while in game, M to mute the music, and R to restart quickly when you're on the death screen. The levels get harder and harder, and when you die your highscore is saved locally.
+##Links
+***
+[Game Link(itch.io)](http://deltaf1.itch.io/jovian-gasbags)  
+A windows build is available, as well as a source file, which can be run if you have the \*awesome\* game engine [LOVE](http://www.love2d.org) installed.  
+   
+  
+##My info  
+***
+[My twitter](https://twitter.com/StarhopperGames)  
+[My Ludum Dare games](http://ludumdare.com/compo/author/deltaf1/) 
+
+
+
+

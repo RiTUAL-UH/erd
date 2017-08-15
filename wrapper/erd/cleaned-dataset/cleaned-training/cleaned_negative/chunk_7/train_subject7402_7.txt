@@ -1,0 +1,98 @@
+ Human Centipede 
+
+
+
+
+ I was the Vice president of our RC club (NVRCC) for a year.. Hated the job.. Actively told other club members that I dont want / would suck at the job back when the nominations came up.. (This was 2003) I'm horrible with politics. I speak my mind.. I are who I are.   
+  
+  I can see that with the OTs, they is, who they is. Its alright to me. I just hope I don't become one of them.. 
+
+36YO here.. :-)
+ 
+
+
+
+
+ I can see that side of the argument. (Yeah, I'm not a huge fan of uncle sam having yet more authority over private matters) However, being both a landlord, and a homeowner of a house in a HOA, I think (if nothing else) awareness needs to be brought to this. If it requires a law to be enacted to do so, then so be it. In my short tenure as an amateur radio operator, i've come to understand just how important of a civil service hams are in the event of a disaster. Living in the bay area CA, we all know all too well that we get shakers all the time, and every time I experience one, the cell towers are jammed, landlines typically wont work, and power can be out for up to a few days. In the case of an apartment, or condo complex, having an amateur radio operator with usable antennae would be of a *huge* benefit to the locals.  
+  
+  I think its a good thing for someone to point out these facts to the HOAs so they can make an *educated* decision on allowing (or not) an antenna to be erected. Hearing this argument from the guy who wants to set up the antenna will generally fall on deaf ears, no matter how well reasoned the argument. If the federal government can step in to raise this awareness, then all the better IMO. 
+
+
+
+
+ I think 4chan and 14.313 are a match made in.. well.. somewhere? :-D 
+
+
+
+
+ My reddit-fu is not strong :-D  
+  
+  Thank you a ton!  
+
+
+
+
+ PM Sent! 
+
+
+
+
+ I give you Lactarius Indigo.  The Blue milk mushroom.  
+  
+  http://en.wikipedia.org/wiki/Lactarius_indigo 
+
+
+
+
+ This has been posted here before, but heres a (stunningly) visual example of RF "burning" stuff (in my opinion).. Its a vid of a couple Russian kids burning grass on the base of a local stations radio tower.  
+  
+  You'd think, "Its radio frequencies, how can it hurt me?" But, even whats going on inside your microwave is all RF "burning" asymmetric molecules.  
+  
+  
+  Check the video out. (Yeah, RF, especially at any power, needs to be respected.. It will bite.. ) https://www.youtube.com/watch?v=6Scm-tKTHls  
+  
+  ..Mendnwngs 
+
+
+
+
+ Well, kinda.. But, within the context of your original post, a pair of baofeng handhelds on a simplex freq won't get out all *that* far. Maybe 10-20 miles. Likely, you won't find any activity other than the other person (who also must be a licensed ham). Regardless, you can identify the other party by your callsigns.  
+  
+  You can limit whom you receive, and who can receive you by using "tones" (For instance CTCSS). This is a set of sub-audible tones that get transmitted along with your voice. If you set up your radio to only listen to a signal with a CTCSS of 100.7, then only someone who has set up their radio to transmit with a CTCSS of 100.7 will "get through" (open the squelch) of your radio. Anyone in the area transmitting on the same frequency with a different CTCSS tone will not be heard by your radio.  
+  
+  It sounds complicated (maybe) but its really not, and you will learn about it while studying for your ham license exam. If you have any technical know-how, or background, I think you'll find the info needed to pass your Technician is really easy, and pretty trivial. 
+
+Edit 1) Clarification.. 
+
+
+
+
+ Do!  
+  
+  Its a fun, and rewarding obsession.. er.. I mean, Hobby.. Plus, with your license, you can use your baofeng on any of the simplex frequencies, at the full output power of your handheld without breaking any laws!! *YAY* :-)  
+  
+  You may find that the 5W output on 2m simplex gets you much further distance between radios as "walkie-talkies" than the other (quite limited) MURS, FRS, GMRS radios, so theres that as well.  
+  
+  Looking forward to hearing you on the amateur bands once you get your ticket!  
+  
+  -73!! 
+
+
+
+
+ Greetings /u/nvertedflyer!  
+  
+  Firstly, (and most importantly) a warm welcome home to your daughter. The hospital is no fun. The train_subject7402 family sends warmest wishes for a speedy recovery, and no more pain. :-( As a chronic sufferer of pain myself (lower back..Ugh) I know all too well the suck of hospital time, and dealing with pain issues.  
+  
+  Secondly, I dont know how to 'prove' it, heh, but I've been helping a visually impaired friend get on the air with his kenwood radio, and JAWS software. I used to set-up assistive technology for the visually impaired many moons ago, Back when Dragon (not Naturally speaking, not even dragon dictate, but just plain ol' Dragon) and Vocal-eyes were the leading edge software for voice readback, and voice control. (downright brutal compared to todays technology). We're playing with his Kenwood TS-2000, and Kenwood ARCP-2000 software.  
+  
+  My cousin (a silent key now, KD6WXE) was blind, and used Vocal-eyes. I'm kind of channeling that history to help my friend currently.  
+  
+  Thank you for running this ham-it-forward 'esque contest. I'll follow this thread with great interest. And good luck to all who are entering. No matter who takes the prize, the simple encouragement to help out fellow hams makes for a lot of wins. :-)  
+  
+  
+  73! 
+
+
+
+

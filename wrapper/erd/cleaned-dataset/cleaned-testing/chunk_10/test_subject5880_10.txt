@@ -1,0 +1,725 @@
+ Just a lurker here and completely inexperienced with drugs other than marijuana,
+
+but this is the funniest damn thing I've read all day. 
+
+
+
+
+ Sup folks.
+
+I'm in the market for a drip tip.
+
+I'm looking for something glass, long (longer the better), and widebore.
+
+I know not where all you guys get your funky drip tips, so any assistance is appreciated. 
+
+
+
+
+ This gif is as goddamn old as time itself 
+
+Remember all the this is Sparta remixes? This is older than that. 
+Hell, this is older than runescape. 
+
+Older than albinoblacksheep. 
+
+Older than ebaumsworld. 
+
+This might just have been the first image to ever be broadcasted on the Internet.  
+
+
+
+
+ Congrats, man! Super jealous! 
+
+
+
+
+ Vape as in hardware, or liquid?  
+
+
+
+
+ Vape Dojo, eh? Nice to see you still around here. 
+
+I have a question for you. Last night I found myself having a full body craving for Zen Juice - the first Eliquid I've ever had. 
+
+The question is, do I buy all the Zen juice you've ever created, or no? 
+
+Edit: I just bought a lot of Zen Juice anyway. 
+
+
+
+
+ Oh yeah. Imagine during a 7 hour workday, only having 15 minutes to get nicotine in, and having to struggle with 3mg Eliquid in the shistey fogger.  
+
+
+
+
+ You digging Cowboy Cooler? I was thinking about placing an order. Not sure if I should get fruity freeze as well, as I loved that in my last order.  
+
+
+
+
+ Check my ninja edit on my previous comment - that may help him out a bit. 
+
+ yes the horror stories are strong in this subreddit. 
+
+
+
+
+ In my eyes, it's still a really, really great device. While I've stopped recommending it to others as I don't feel comfortable giving them something they'd have to fix, I'm confident in my ability to do so. I don't regret the purchase at all and I don't want to return it. I really enjoy this device. 
+
+However if I had to do it over, I'd plug up the screw on the top of the device closest to the firing button, and I'd insulate the space between the sliding plastic window and the black iStick enclosure - either saran wrapping it to keep liquid out or something else creative.  
+
+
+
+
+ Yes.  
+
+
+
+
+ Generally, I believe the taste of a dry hit is produced by acrolein.  
+
+
+
+
+ A user on here seems to think it's about a T6 if that helps.
+
+However, I had your same exact problem. If you need a vape right away and don't have the Torx, here's a couple of workarounds that got me through. 
+
+This isn't going to sound serious, but in all reality, I banged it onto my leather steering wheel a few times right below the button to try to force the button mechanism out. Worked fantastically. 
+
+Another thing that worked was unscrewing the atomizer, screwing another one one, and screwing back in the old one. 
+
+However when you get the Torx drivers, check out this fix I posted today.
+
+http://www.reddit.com/r/electronic_cigarette/comments/39ytol/how_i_stopped_my_istick_50w_from_autofiring/ 
+
+
+
+
+ Thanks Totes 
+
+
+
+
+
+
+
+
+
+ Did you take her apart? 
+
+
+
+
+ Sure could! 
+
+The only time I wouldn't present a chemical to a vape is if I believed it were to have the chance of heating up and me inhaling the fumes. However I'm sure that isn't really a hot spot. 
+
+ hell if you really wanted to, you could put some saran wrap under the center sliding plastic window and out over the walls it slides into, and then cut off the excess.  
+
+
+
+
+ http://i.ytimg.com/vi/xANkTK2jxgU/0.jpg 
+
+
+
+
+  Aeolus
+
+I've never heard of it, however it sounds close enough to areola that i'd want to buy it. I'll check her out. Hopefully she's sick as tits.
+
+Edit: holy $85 
+
+
+
+
+ Besides this fix, which I believe is likely to increase your life expectancy tremendously, you can turn your iStick off whenever you are not using it, and if you want to be even safer, remove your atomizer during long periods of non-use. 
+
+
+
+
+ Well, if I see a bunch of Hawaiians dancing my way, I'll now know whats up. 
+
+
+
+
+ I have a feeling that if they didn't already have a picture of me on a wall to throw darts at, then they definitely do now.  
+
+
+
+
+ You're not ignorant at all :). However I have seen just a small few people talk about their 30w's autofiring. I've seen way more 50w posts, however. The 50w was also the hottest product on the market at the time, so that could also account for the difference in amount of posts.
+
+I wouldn't stress about it. When the iSticks started autofiring, people really, *really* lost their cool very fast.
+
+When I saw the issue, I just kept doing what I was doing - turn your iStick off when you're not using it. In addition to that, I started sometimes taking off the atomizer if I was going to leave it sit in my hot car during work. That way there is nothing for the iStick to fire.
+
+I had an autofiring iStick, yet I still made use of it for a week, since I really wasn't feeling my mech mod setup. As long as you just unscrew the atomizer as it's autofiring, you're still in control of the device. 
+
+I don't know much about the VT60! What I can recommend doing to learn a bit about it is to punch it into the search engine for /r/electronic_cigarette. Try punching in VT60 autofire, or various other google-fu terms. 
+
+
+
+
+ Your bravery will inspire redditors for many reddits to come.  
+
+
+
+
+ Holy shit, dude. I have no clue.
+
+The only thing I could think of is melted glue - as none of that is supposed to bend. The chip is stuck to the batteries and the batteries are stuck flat to the chip. That's some f'd up gore, though, man.
+
+While mine didn't autofire past the 10 second limiter (so far that I've seen), I have seen some that have. Maybe it's possible that this thing fired all night, and the batteries got so hot that it just melted shit up?
+
+If you wanted to check whether or not it was actually the batteries that were an issue, you'd have to peel back or cut through the insulation on both terminals of the battery so that you could put the leads of a multimeter on there. If the battery were to be around 0 volts, that *could* be the reason it won't take a charge, as 18650's won't charge after they stoop down to a certain voltage. However it could also be a faulty chip in that situation. However if the batteries were to be around 3-4v, you know that you've got a chip issue.
+
+I'd ask /r/openpv. I'm not by any sense a master of electronics. I just happened to find a fix for one of the many issues with this device :\. 
+
+
+
+
+ Interesting. I've tried to wrap my mind around induction, but still can't seem to. I've seen a company that makes induction vaporizers for eliquid, oils, or flowers. Interesting stuff. 
+
+
+
+
+ This is a thought provoking idea.
+
+How would you charge it? You couldn't just really wrap the sides, you'd need a full enclosure.
+
+I once saw a tablet on the front page that had a battery vent overnight and the tablet actually burst, showing a full charging bag looking thing. It was pretty interesting. 
+
+I think the issue is that when a battery vents, it lets off so much gas. You'd need that material to have a lot of space to move or it will burst   cause an explosion. I have a charging bag, and it is made to still release gas, but just not flame. 
+
+
+
+
+ A battery was... leaking?
+
+Usually if 18650's are punctured in any sort of way that will result in flames. What does the leaking look like? Is there any sort of corrosion? 
+
+
+
+
+ Of course.
+
+It is mainly due to [this issue I had with them.](http://www.reddit.com/r/electronic_cigarette/comments/2m5km4/horrible_customer_experience_with_eciggity/)
+
+It is also due to the issues felt by many of those who participated in their Black Friday sale. Many orders were charged upwards of 8 times, totaling over $1000. Here's [one case](http://www.reddit.com/r/electronic_cigarette/comments/2nowen/eciggity_ruined_my_weekend/), [another](http://www.reddit.com/r/electronic_cigarette/comments/2o6yo1/eciggity_charges_have_finalized_no_refund/), [another](http://www.reddit.com/r/electronic_cigarette/comments/2o28ww/anyone_got_any_money_back_from_eciggity_yet/), and [another](http://www.reddit.com/r/electronic_cigarette/comments/2p4952/continue_to_be_disappointed_with_eciggity/)
+
+It's also because I feel that they participate in vote manipulation on reddit, both on comments made by their official account and on posts relative to their company. 
+
+
+
+
+ Thank you sir! This is exactly the comment I was waiting for! 
+
+
+
+
+ Yeah, totally relevant. I haven't had any luck finding other people taking apart the 50w, so I'm glad to have read it.
+
+If it shits out on me again, I'll be sure to update the post!
+
+Thanks for your comments, m8 
+
+
+
+
+ I've worked on a buddy's Lemo Drop. It's a pretty decent product! Thanks for the recommendation. 
+
+
+
+
+ I didn't have the veritas long enough to determine whether or not it was a product I loved - I just know that it never leaked on me and that's my biggest priority.
+
+I've always just brushed off the hardness of building (which is why I own a fogger, the hardest thing in the world to build). However I would like something easier to build, which is why I'm totally into the idea of the Marquis.
+
+However I never had to build my dual coils with only one wire on there! I was able to use two. I can dig up a picture of my build if you're interested.
+
+Edit: I stumbled across my only build image. It's not too helpful anyways, but I still love the color of that 'Nana Cream. http://i.imgur.com/EAEdSlU.jpg 
+
+
+
+
+ Thanks m8
+
+I aim to be the hero ECR needs, but sadly I am not the hero ECR deserves.
+
+;D
+
+Edit: http://imgur.com/8At2BP2 
+
+
+
+
+ I was going to reply to this comment but I see you have it covered completely. This is a super strange issue. Sadly a bit of rubbing alcohol might not fix your buttons being in the same circuit. 
+
+
+
+
+ This is super interesting. Thank you for posting this here.
+
+It's very possible that this might not be a forever fix. While jiggling around the button - it does seem to be a piece of shit. However he does attribute humidity to being a possible cause for the button not working - and this should solve the humidity/wetness problem. I still think that the reason the button sticks inside is due to eliquid getting in there.
+
+It was a fix for me, but there is a whole variety of issues some people have with the 50w that this sadly might not fix. 
+
+
+
+
+ Thank you for this. Sadly, I won't be doing any business with Eciggity. 
+
+
+
+
+ Great point. 
+
+Everything I get leaks. I got an infinite CLT v2. It leaks. My friend borrowed me his new plume veil. It leaks and sucks. I went back to my old fogger. It leaks and dry hits (amazing combination to have from an atomizer). I'm currently building coils for the CLT. I want a marquis or a veritas to stop the leaking, I just haven't found any good ones.  
+
+
+
+
+ Best of luck! Let me know if you have any further issues or questions. 
+
+
+
+
+ The fix was successful. Check 'er out.
+
+http://www.reddit.com/r/electronic_cigarette/comments/39ytol/how_i_stopped_my_istick_50w_from_autofiring/ 
+
+
+
+
+ [Here 'tis, mane.](http://www.reddit.com/r/electronic_cigarette/comments/39ytol/how_i_stopped_my_istick_50w_from_autofiring/) 
+
+
+
+
+ What's up ECR.
+
+I know we had a pretty long period of everyone's homes being destroyed by iStick 50ws. I was confident that my home would remain safe, however my iStick 50w too fell victim to autofiring. 
+
+However I didn't toss her, as I'm poor and cheap - I instead decided to take her apart, have some looks, and see if I could locate a problem. I did this about 2-3 weeks ago, and waited to see if any problem has returned, and I'm happy to say that I have had no further issues at all.
+
+The issues I were having with the iStick 50w came on very suddenly. I was getting high one day, and the dog knocked over my iStick and it leaked liquid all up onto itself, and upon grabbing it a while later, I noticed the firing button would not work. I could adjust the wattage, but I could not fire the device or turn it off.
+
+I later found out that this was because the firing button was stuck on. As I drove into work the next morning, the device actually began to autofire in my hand. I just unscrewed the atomizer, used a buddies vape for the day, and used the device on/off for about a week before deciding to do something about it - as there are no other products on the market that I'm really interested in right now.
+
+So here's a little treat for all of those who didn't throw out their iSticks instantaneously :) - hopefully it'll stop your house from burning down.
+
+Here's a shoutout to /u/ddo405 who tracked me down a few days ago looking to see if my fix was successful. It took me a little bit, as work has been hectic, but I put something together for ya. 
+
+
+
+
+
+
+
+
+
+ Absolutely. I used to sing road man all the time as a kid, and now after recently rediscovering the album, I drive around to the tune. 
+
+I also now smoke up to the song Stoned quite frequently, but hey.  
+
+
+
+
+ Titles can change? What did the title use to be?  
+
+
+
+
+ I'm still listening to astro lounge to this day :)  
+
+
+
+
+ #[OH YEAH] ( http://digitalonq.com/wp-content/uploads/2014/05/kool-aid-man.jpg)  
+
+
+
+
+ [climbs down the urethra] ( http://ak-hdl.buzzfed.com/static/2014-06/12/19/enhanced/webdr08/anigif_enhanced-4054-1402614053-1.gif)  
+
+
+
+
+ I'm obsessed with [Let It Happen by Tame Impala]( https://www.youtube.com/watch?v=Kyic0eOWH7o feature=youtube_gdata_player) 
+ right now. 
+
+The song drags on for a bit in the middle but the dynamic changes toward the end. After 5:00 is my favorite part :)  
+
+
+
+
+ Yeah. That's fucked up alright.  
+
+
+
+
+ [This is how we trip.]( https://www.youtube.com/watch?v=JKqV_ybCS-I feature=youtube_gdata_player) 
+
+
+
+
+ I sure was! The fix was simple and mine hasn't had issues in a couple weeks. All you need is the small torques screw driver to open the case ,some rubbing alcohol, and some cotton. I'm currently in a tree right now but I'll put together a photo album when I get home.  
+
+
+
+
+ This could ^(be interesting^I ^wonder ^if)  
+
+
+
+
+ I'm pretty bummed out. I haven't been in a strong relationship for quite a while. I sadly can't even remember when it was, as I got heavy into benzodiazepines toward the last half of our ~14 month relationship, and I really wiped out a lot of my memory for that ~6 month period. I got cheated on, again, by a beautiful woman I was living with. I think its been maybe 2 years since then, but I haven't been able to commit to anyone since.
+
+I'm trying to get back into the game. There was a girl this semester in college I was obsessed with, but it didn't take off. My old friend with benefits who I haven't seen in quite some time said she wanted to get down on Wednesday and I got so fucking excited, and then she called it off. Two nights ago I just got the number of this adorable girl I work with, and we had a date set up for tomorrow, and just now she canceled. 
+
+It's like, I just want a partner to be by my side. I've been diagnosed major depressive with a side of a severe anxiety disorder. In the end of 2013 I went through the hospital system, and early 2014 I did months of therapy, but since the end of 2014/beginning of 2015 I've been really trying to climb above it and feel normal, and mostly succeeding at doing so. I've been working out, getting out, doing fun things, but in these last months its like nobody around me is down for the count. I really struggle to find people to do things with anymore. Although I was there to support all of them at their lowest, none of them turn around to just spend some time - so I'm stuck at home with my depression, getting high and/or drinking, when I'm not bold enough to go out and try to have fun solo.
+
+When I was in that committed relationship, with that partner, we'd do everything together - spend every moment with each other, and never tire of each other. I'd have someone to talk to on long hikes, someone to go cruise beautiful roads and hang around lakes with to just watch the damn sunset and feel alive - but lately I feel that I've got none of that. I get my hopes up so much when I get the slightest indication that things are really starting to look up - that someone is taking an interest in me and I might get a new friend or special someone, but I feel like I keep getting let down again and again. I don't know what it is, but it's got me sad. 
+
+
+
+
+ Check out this fix if you're interested in trying to prevent the short and fire yourself. 
+
+http://m.imgur.com/a/xv9aq
+
+https://www.reddit.com/r/SmogGB/comments/39d9a7/ipv4_balance_board_removal_if_anyone_cares_lol/ 
+
+
+
+
+ I had a similar thing happen to me this semester at college. There was a girl that I was super obsessed with. I tried to move my way closer to her slowly, and I think we decently hit it off, however the opportunity to get her number never really presented itself. I gave up on it, thought about it and she didn't seem right for me anyways. Luckily I've just met a girl through work , and have already started texting her back and forth :). 
+
+In my freshman year of high school, I dated my best friends sister. While me and that friend are still great friends, I can not recommend the dating of the sister.  
+
+
+
+
+ #Beer is good! 
+
+
+
+
+ Best of luck! 
+
+
+
+
+ Congratulations on becoming one step closer to healing. Learning more about yourself is always a great step to make.
+
+The hospital can be a frightening environment, but it is also where I learned some of the most important things I'll ever learn in my lifetime. Don't expect yourself to be fixed as soon as you leave the hospital, but do realize that you will have the tools to much better deal with the problems you encounter in life - and that really makes all the difference. 
+
+
+
+
+ RIP?    
+Oh no, why RIP? 
+
+
+
+
+ Back to the 90's recently.
+
+[Smash Mouth - Waste](https://www.youtube.com/watch?v=4cRvxVBxQ_8) and [Fallen Horses](https://www.youtube.com/watch?v=F0sdzCdMBe4)
+
+[Sugar Ray - Someday](https://www.youtube.com/watch?v=NQSCKWfJlXs)
+
+And also lots of Tame Impala, like [Music to Walk Home By](https://www.youtube.com/watch?v=V4Kb8wF_EFU). 
+
+
+
+
+ I got a really cute girl's number last night, and woke up to a text from her this morning :).
+
+ It's been quite a while since I've been in a serious relationship - but hopefully maybe I'm on my way towards another one! 
+
+
+
+
+ Oh, hey! That makes sense then. I didn't realize you were installing a larger 510 connection. 
+
+
+
+
+ Why not insulate the short? Just put some of that yellowish battery insulating tape between the 510   the balancing board? 
+
+Thanks for providing a fix to the community!  
+
+
+
+
+ Even if you don't make the news, it's pretty common (I've worked at two different banks) for all employees (I worked as a teller and a desk job behind the scenes) to receive email alerts of robberies with pictures from the camera after any Robbery in the area happens, no matter if it's within the company or not. 
+
+You also need to make sure that you don't know anyone who works for a bank. I've personally exposed one person.  
+
+
+
+
+ False. A bank Robbery commonly sends an immediate report to all banks in the area, because it is now extremely common for robbers to rob a chain of banks in one area instead of just one per day.  
+
+
+
+
+ Sounds like you almost got sick as tits, man.  
+
+
+
+
+ Still want this. I will be buying, however it'd be excellent to go through Smog.  
+
+
+
+
+ Well, she lives in a trailer. She ripped off the condom, and her vaj smells like fish. Her mother begged me to impregnate her. Her stepfather is an Outlaw 1%er and her mother is property of the Outlaws. 
+
+Looks like my life would be the worst it could possibly be, had we gotten married.  
+
+
+
+
+ Fuck. I forgot to press.  
+
+
+
+
+ Try not to cheap out too much. This is the one thing you don't want to skimp out on.  
+
+
+
+
+ Having a variable sensitivity would make sense in this situation.  
+
+
+
+
+ POWERTHIRST 
+
+
+
+
+ That fucking username 
+
+Died  
+
+
+
+
+ I have really had my eye on this thing the last few weeks as I saw it posted on vaperoyalty. I absolutely love the look of it, the 50w range, and the temp control.  
+
+
+
+
+ ask 
+
+
+
+
+ Bananas 
+
+
+
+
+ I don't even have to click the link and I know what this is. 
+
+I made a trappish electronic track featuring this guy and all his lawd reekis's   motherfuckinbootlegfireworksshit 
+
+
+
+
+ Thanks for the very in depth answer, my friend! This was very interesting to watch before passing out last night.  
+
+
+
+
+ Nice, dude! I guess the price is right!  
+
+
+
+
+ Oh hell yeah!  
+
+
+
+
+ I don't care if this is a reference, this is one of the greatest things I've read on reddit. Sounds like Dwight Schrute.  
+
+
+
+
+ Sex.  
+
+
+
+
+ Wow, man. That's really incredible.    
+ Just trying to wrap my mind around this. 
+
+
+Do the graphics emulate the feeling of a certain type of drug? Like, what should I be tripping on while in watching this (real American spirit in particular) to enjoy it to the best of my ability? 
+
+
+Great stuff man. Sorry if my comment seems unknowledgable  
+
+
+
+
+ Can confirm 
+
+
+
+
+ Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin Friggin  
+
+
+
+
+ CONGRATULATIONS! I've been really worried as to what would happen to the business due to the outright crazy laws passing in your state. I'm really glad to hear that you're choosing to relocate and continue business! I'll be placing an order soon!  
+
+
+
+
+ I don't understand how he reached age 20 in a matter of 16 months  
+
+
+
+
+ I want to hear him narrate tripping on LSD. I'd watch for hours.  
+
+
+
+
+ This is an excellent explanation of the subreddit /r/todayilearned, where nobody learns anything because every post links to a Wikipedia page where the idea being examined has no reputable sources.  
+
+
+
+
+ Pretty smart, actually.  
+
+
+
+
+ Same, man. Someone's gotta shut down that website. That's such bull shit.  
+
+
+
+
+ Jet fuel?  
+
+
+
+
+ You ever lose someone that matters to you?  
+
+
+
+
+ Agreed.
+
+Every time I click the thumbnail instead of the title on a YouTube link. 
+
+http://imgur.com/xe6LtAC 
+
+
+
+
+ This was on /r/funny literally just 5 days ago.  
+
+
+
+
+ Won't auto fire til it gets wet. Mined lasted over 2 months before having issues.  
+
+
+
+
+ Make sure the RDA doesn't leak onto the 50w too much. It starts screwing up once it gets wet.  
+
+
+
+
+ /r/floridaman 
+
+
+
+
+ Looks like grumpy cat.  
+
+
+
+
+ Check this out as well
+
+https://www.youtube.com/watch?v=9RHFFeQ2tu4 feature=youtube_gdata_player 
+
+
+
+
+ I can dig this, man.    
+I jammed out to this while making peanut butter Ritz cracker sandwiches.    
+I really felt that saxophone.  
+
+
+
+
+ It changes all the time! I'm into anything but country, but I have to admit that I dabble the most in electronic music. Dubstep is really my best friend (excision shambhala mixes) when I'm having a really controlled energetic mind late night high. Right now I'm spacing out to the metahuman album by eprom. 
+
+Aside from tame impala, other great vibe artists have to be Rebelution for sure, pink floyd is always a given, and I've recently dropped back into Smash mouth ( sugar ray  everclear) as well -  more specifically their astro lounge album I had as a kid. 
+
+Aside from that,  regular everyday music would range from Cake's Satan Is My Motor album, psychostick, tech n9ne,mac Lethal, Eminems old stuff, big chocolate (trap-ish music), Green day, and blink 182,   
+
+
+
+
+ No problemo 
+
+
+
+
+ I don't believe it to be any more dangerous. I don't know that I'd smoke straight hash, usually mix it with flower or vaporize in the form of dabs of hash wax.  
+
+
+
+
+ No fucking way man! Even the same album. 
+
+http://imgur.com/0bWapMq
+
+Tame impala is the only way to have it. 
+
+Discovered this video just as I picked up smoking again, and I still can't stop watching it and listening. Was my first tame impala song. Now I've got all of them on repeat daily.  
+
+
+
+
+ Dude yes. I was watching Billy Madison and but changed to adult swim before smoking up. I really regret it right now. 
+ also it's normal to not be able to form sentences.  
+
+
+
+
+ Goddamn glad you got gold for this.  
+
+
+
+
+ I really third this. Always been interested in high CBD strains. Recently tried hemp CBD Eliquid, but would enjoy something more natural.  
+
+
+
+
+ Best of luck with your battle against gravity.  
+
+
+
+

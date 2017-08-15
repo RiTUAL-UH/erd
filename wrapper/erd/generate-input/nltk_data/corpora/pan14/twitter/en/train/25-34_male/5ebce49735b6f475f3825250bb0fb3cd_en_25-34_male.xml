@@ -1,0 +1,2009 @@
+Yepee! My first tweet!    
+    
+    
+    Web game engine without Flash, only standards: http://bit.ly/7wjguz    
+    
+    
+    #youtube "This video is not available in your country due to copyright restrictions" ¬_¬    
+    
+    
+    Writing an article on global illumination algorithms and techniques.    
+    
+    
+    Starcraft 2: Even more similar to Warhammer 40k.    
+    
+    
+    Teach Yourself C++ in 21 Days. http://bit.ly/9g9ghw    
+    
+    
+    Back to work!    
+    
+    
+    ¿Una Constitucional neoliberal sin referéndum? http://menea.me/sxn1  via @meneame_net    
+    
+    
+    http://www.eljueves.es/2011/08/24/zapatero_propone_modificar_constitucion_para_limitar_deficit_publico_rajoy_apoya.html …    
+    
+    
+    Dilbert Daily Strip: 2011-08-25: http://www.dilbert.com/strips/comic/2011-08-25/ …    
+    
+    
+    Now selling photos on Getty Images http://bit.ly/ciJGHO    
+    
+    
+    Vaya tela http://robberymaps.com/map.html#lt=41.379803 …&ln=2.172611&z=1&k=2&a=1&tab=1    
+    
+    
+    @guxlightyear @Catatoonics Siempre tomo Chufi, tendré que probar la Carrefour.    
+    
+    
+    Don't dare to create a GL_TEXTURE_CUBE_MAP with non square of 4 faces. The driver of the Nexus S crashes on tex creation. Mem align issues.    
+    
+    
+    Environment mapping working now. Cube map downloaded from http://www.xsibase.com/forum/index.php?board=29;action=d … http://twitpic.com/6en0s2     
+    
+    
+    Some issues solved. Different cubemap downloaded from hazelwhorley. http://twitpic.com/6fdgw9     
+    
+    
+    Just discovered and fixed an old bug in the math core that mirrored the whole scene along the X axis.    
+    
+    
+    I have finished the input system at last. Flexible, robust and works like a charm. #android    
+    
+    
+    Bye, Google Desktop http://googledesktop.blogspot.com/2011/09/google-desktop-update.html …    
+    
+    
+    @idaho06 A mí el wifi no me alcanza a la terraza xD    
+    
+    
+    New picture on sale. Get it now! http://www.gettyimages.es/detail/124368745 …    
+    
+    
+    The lack of proper multithreading support in OpenGL is exasperating.    
+    
+    
+    Dilbert Daily Strip: 2011-08-14: http://www.dilbert.com/strips/comic/2011-08-14/ …    
+    
+    
+    Models with multiple materials applied are working now    
+    
+    
+    @JuanKRuiz Jaja, yaya, estaba bromeando :D    
+    
+    
+    Bitcasa - Infinite Storage on Your Desktop - Sign up for Beta now! http://www.bitcasa.com/beta-signup?share=562370881 … via @Bitcasa    
+    
+    
+    Google Dart to “ultimately ... replace JavaScript”... http://www.2ality.com/2011/09/google-dart.html?spref=tw …    
+    
+    
+    "All of your hard work, regardless of how well it is intended, is for naught if it results in a pile of rubbage." - Bryce's Law    
+    
+    
+    Impressive: http://bit.ly/b56wK2    
+    
+    
+    @guxlightyear Well, they used WebGL, very similar to OpenGL ES 2.0, also defined by the Khronos Group.    
+    
+    
+    @ddavity http://twitpic.com/6r2su0  - there be dragons...    
+    
+    
+    Mi instituto en la prensa: http://www.20minutos.es/noticia/1170284/0/profesora/frances-madrid/no-sabe-frances/ …    
+    
+    
+    European Users Overwhelm Facebook With Data Requests: http://bit.ly/n2zJ4K     
+    
+    
+    Just received the OTA update to Android 2.3.6.    
+    
+    
+    @kikogolk http://twitpic.com/6sxle4  - Nunca conseguí pasar del pimer nivel del Abu Simbel Profanation    
+    
+    
+    Automatic mipmap generation. System-wide trilinear filtering enabled for compliant textures. http://twitpic.com/6u5ami     
+    
+    
+    Android 2.2 Java API doesn't support VBOs. Someone forgot to wrap two C calls. Will have to wait until 2.3+ share grow way larger than 2.2.    
+    
+    
+    Now let's implement automatic tangent and binormal vector generation on the OBJ model loader...    
+    
+    
+    Normal mapping fully working. Up to three lights per material. http://twitpic.com/6z6ssb     
+    
+    
+    Now working on cel shading    
+    
+    
+    Cel shading implemented. Single-pass viewing angle based outline. http://twitpic.com/6zp7fx     
+    
+    
+    Shader frenzy http://twitpic.com/707n78     
+    
+    
+    Grand Tour of Closet-Sized Crew Quarters in Space http://www.universetoday.com/81424/grand-tour-of-closet-sized-crew-quarters-in-space/ … via @diythemes    
+    
+    
+    First Private Spacecraft In Orbit After Perfect Launch (Updated) http://gizmodo.com/5709153/  via @gizmodo    
+    
+    
+    Just left my current job. Interesting time ahead.    
+    
+    
+    Reader Merging With Google+: http://bit.ly/rdpwmR     
+    
+    
+    The first version of the text engine is working now http://twitpic.com/744g1q     
+    
+    
+    Testing a small quake-like scene modeled in Blender. Textures extracted from a Tenebrae map by Willi Hammes. http://twitpic.com/74vybl     
+    
+    
+    Lowering the specular exponent produces better visuals. http://twitpic.com/74wfn0     
+    
+    
+    @idaho06 ¡Felicidades!    
+    
+    
+    @kikogolk Alone in the Dark 2, Doom    
+    
+    
+    Cubemap-based reflection modulated by fresnel factor and a checkerboard pattern intensity map. http://twitpic.com/77n5tp     
+    
+    
+    The Phong+Bump+FresnelReflection shader is finished. Fast test with a model downloaded from Blender Swap. http://twitpic.com/78e8xw     
+    
+    
+    Atontaus in Town http://goo.gl/fb/rPx1L    
+    
+    
+    Simple earth test. Layer 1: Diffuse+Specular+Normal. Layer 2: Diffuse cloud map, with alpha channel. http://twitpic.com/7bk2sx     
+    
+    
+    Excellent tool for exploring OpenGL blending options: http://www.andersriggelsen.dk/glblendfunc.php     
+    
+    
+    Solid color can b defined instead of textures. New feat thx 2 d major rewrite of d materials system in progress. http://twitpic.com/7ewxe4     
+    
+    
+    @valleruben Si solo fuera una persona...    
+    
+    
+    Emission maps for materials (look at the ceiling):  http://twitpic.com/7fatyf     
+    
+    
+    @ordend ¡Suerte!    
+    
+    
+    When using shaders don't forget to set all the uniforms on your GL code. All kind of weird unrelated things could happen if you don't.    
+    
+    
+    Parallax mapping, first take. Working on tangent space. http://twitpic.com/7hff37     
+    
+    
+    Some specular added to enhance the effect. Wet bricks all over the place. http://twitpic.com/7hipqv     
+    
+    
+    City lights at night http://twitpic.com/7hywg4     
+    
+    
+    New planet atmosphere shader. Cheap scattering simulation. Color and opacity configurable via 1D texture. http://twitpic.com/7i23u7     
+    
+    
+    @kikogolk Descargando las tengo ya.    
+    
+    
+    Java generics are so ill-conceived that are almost unusable, except for the most trivial cases.    
+    
+    
+    When using alpha-blended camera-plane-oriented billboards sort by distance to the plane instead of distance to the camera.    
+    
+    
+    The information on random point picking at MathWorld is very useful for particle emitters creation and random sampling http://mathworld.wolfram.com/topics/RandomPointPicking.html …    
+    
+    
+    Fire, Snow, Explosions... the brand new particle system is working ^_^ http://twitpic.com/7m8v3q     
+    
+    
+    @ID_AA_Carmack Drink more water!    
+    
+    
+    Live_ISS_Stream - NASAtelevision http://www.ustream.tv/channel/live-iss-stream …    
+    
+    
+    I, for one, #hate when after following a tutorial I get completely different results    
+    
+    
+    Inside Search: Showing some love to math lovers http://insidesearch.blogspot.com/2011/12/showing-some-love-to-math-lovers.html?spref=tw …    
+    
+    
+    Dilbert Daily Strip: 2011-11-04: http://www.dilbert.com/strips/comic/2011-11-04/ …    
+    
+    
+    #Android "Starting with 2.2, the #NDK enables debugging native code on production devices" Yepee!    
+    
+    
+    The first time you copy code from one class to another one you know you have to refactor and extract this reusable piece of code.    
+    
+    
+    I've just finished the stand alone scene graph renderer. Different types of scene graphs can be changed on demand.    
+    
+    
+    #youtube #vevo "who has blocked it in your country on copyright grounds" FUUUUUUUUUUUU!    
+    
+    
+    Here's What People Look at on Facebook Brand Pages http://mashable.com/2011/12/14/eyetracking-facebook-brand-pages/ … via @mashable    
+    
+    
+    Daily Wrap: Microsoft's Apology for IE and More by @duzins http://rww.to/rsaqDC  via @RWW    
+    
+    
+    The Hobbit: An Unexpected Journey – See the trailer http://trailers.apple.com/trailers/wb/thehobbit/ …    
+    
+    
+    Static Code Analysis http://altdevblogaday.com/2011/12/24/static-code-analysis/ …    
+    
+    
+    FindBugs has shown some not noticed hard to find bugs in our code base. And it's free.    
+    
+    
+    Mi calle parece Vietnam    
+    
+    
+    Integrar Google Chrome en KDE http://goo.gl/fb/muqNR    
+    
+    
+    #ComparteCultura: http://wp.me/pfKuH-298     
+    
+    
+    Fog is supported now (exp2). No impact in performance so far.    
+    
+    
+    I underestimated the amount of work to be spent on content creation tools.    
+    
+    
+    Tools: Material Creator. 12 hours coding sprint. http://twitpic.com/85qii5     
+    
+    
+    @idaho06 It's a tool to define parameters for the generator wich resides in the Android engine. Shaders are generated & compiled on demand.    
+    
+    
+    L.A. Noire: The Technology Behind Performance http://www.gametrailers.com/video/developer-diary-l-a-noire/708504 …    
+    
+    
+    The #Android Matrix.invertM() method internally allocates 448 bytes. Several uses per frame in real time and the GC goes crazy.    
+    
+    
+    @ruben3d My previous post is no longer true on Android 4.0.    
+    
+    
+    Discarding fragments early on alpha test reduces the performance impact of the branch. Still too costly to use on the full scene. Use wisely    
+    
+    
+    WebGL now in Beta: here comes the 3D web! http://bit.ly/dOX0tq    
+    
+    
+    Tools: Model Viewer. http://twitpic.com/87yo7j     
+    
+    
+    A autoemplearse: http://www.navegapolis.net/content/view/1050/53/ …    
+    
+    
+    I support #wikipediablackout! Show your support here http://tinyurl.com/7vq4o8g     
+    
+    
+    New Blender free and open short film. Help the project! http://www.blender3d.org/e-shop/product_info_n.php?products_id=143 …    
+    
+    
+    #Chrome 9 #WebGL Aquarium 1000 fishes 50+ FPS http://www.chromeexperiments.com/detail/webgl-aquarium …    
+    
+    
+    In-game graphic level modification is working. It freezes 200ms while compiling new shaders. Now the framerate vary between 18 and 55 fps.    
+    
+    
+    The heavy fragmentation of #Android devices is driving me nuts. Can't find two GPUs with the same load of issues and bugs.    
+    
+    
+    @kikogolk http://identi.ca/     
+    
+    
+    The GalaxyS2 graphic driver does a pretty good job removing death code from shaders. Sadly it forgets to notify which uniforms were removed.    
+    
+    
+    View frustum culling has dramatically improved performance in some situations.    
+    
+    
+    With multitouch support the soft feature freeze finally arrived to the engine. Bugfixes and urgent small changes from now on.    
+    
+    
+    Facebook Files for $5 Billion IPO http://mashable.com/2012/02/01/facebook-files-ipo/ … via @mashable    
+    
+    
+    Misteriously the Nexus S is limited to 300 GL drawing calls per frame. After that the ZBuffer fails. Could not reproduce on other devices.    
+    
+    
+    Ended up building my own GL based widget toolkit.    
+    
+    
+    Listening to the album Irish Jig by Gwendal #nowplaying #tunesday http://tny.gs/zOYVAf     
+    
+    
+    Coder facts! http://coderfacts.com/post/15503997383/analista-sr-experiencia-en-uml-ms-project … via @coderfacts    
+    
+    
+    The XML Schema editor in Eclipse is great. Editing XSD files never was so fast.    
+    
+    
+    Working again...    
+    
+    
+    @XaV1uzz Yo fui de http://upload.wikimedia.org/wikipedia/commons/3/33/ZXSpectrum48k.jpg …    
+    
+    
+    I tried to watch Game of Thrones and this is what happened - The Oatmeal http://theoatmeal.com/comics/game_of_thrones … via @Oatmeal    
+    
+    
+    I favorited a @YouTube video http://youtu.be/0YpcacekDSY?a  TRAILER DE JESUCRISTO 2009    
+    
+    
+    @ddavity ¿Qué terminal es?    
+    
+    
+    @ddavity Una app    
+    
+    
+    @ddavity Pasame un mail por privado.    
+    
+    
+    @alberticomf No tiene mala pinta    
+    
+    
+    Just fixed a bug in the perspective matrix calculation that went unnoticed for 11 months :O    
+    
+    
+    I wish you a Merry Christmas and a Happy New Year!!    
+    
+    
+    Emprender o emigrar http://www.equiposytalento.com/noticias/2012/03/30/espana-vive-una-fuga-de-ingenieros-informaticos-debido-a-sus-malas-condiciones …    
+    
+    
+    The hardest decision of my childhood http://randomgag.com/funny-image/6183/lol.html …    
+    
+    
+    My Nexus S got the official Android 4.0 ICS update. Lots of eye candy.    
+    
+    
+    Menus almost ready for release http://twitpic.com/9621mf     
+    
+    
+    He marcado como favorito un vídeo de @YouTube. http://youtu.be/qURei6svd90?a  Doom II OST - Map 01,15 - Running from Ev    
+    
+    
+    C'mon, who else does this? http://randomgag.com/funny-image/32509/lol.html …    
+    
+    
+    The in-game tutorial is working. Everything almost ready for release.    
+    
+    
+    Hard code freeze! Urgent bugfixes only from now on until release.    
+    
+    
+    The PowerVR SGX 530 fails painting alpha-blended non-square mipmaps.    
+    
+    
+    @kikogolk @elpixelilustre Spectrum 48k forever <3    
+    
+    
+    City Lights - http://bit.ly/hPS4hE (via @NASA)    
+    
+    
+    According to @klout, my Klout score is 45. How influential are you? http://klout.com/user/ruben3d/score-analysis?n=tw&v=klout_score …    
+    
+    
+    Fibonacci spiral http://bit.ly/JxLxSc     
+    
+    
+    An update for Aerial Wild Adventure is in the oven... #android    
+    
+    
+    I favorited a @YouTube video from @bass_boss_ http://youtu.be/Hppky-V77B8?a  Patten Live @ LEV Festival 2012    
+    
+    
+    Preparing a course on Windows Phone 7 #wp7    
+    
+    
+    Carmageddon: Reincarnation by Stainless Games — Kickstarter http://kck.st/IFBdGm  via @kickstarter    
+    
+    
+    Something is cooking in the oven. Smells like... Chapter 2 with 10 new levels! https://play.google.com/store/apps/details?id=com.tapasinteractive.aerialwildadventurefree … #android #free #game    
+    
+    
+    I'm greatly surprised. The nvidia Tegra 3 executing complex shaders on complex scenes at 720p is astonishing. @NVIDIATegra    
+    
+    
+    The Tegra 3 GPU driver crashes when using gl_FrontFacing on a shader on the Asus Transformer Prime.    
+    
+    
+    I just backed Carmageddon: Reincarnation on @Kickstarter http://kck.st/IFBdGm     
+    
+    
+    #KDE SC 4.5.0 released!    
+    
+    
+    Carmageddon Mobile http://www.youtube.com/watch?v=jKjEfS0IRT8&feature=youtu.be …    
+    
+    
+    Awesome http://www.youtube.com/watch?v=hgll-XTqcS4 …    
+    
+    
+    I favorited a @YouTube video http://youtu.be/XHmf_WWFLWg?a  Aerial Wild Adventure - Trailer #1    
+    
+    
+    I favorited a @YouTube video http://youtu.be/32fRW5AIcwk?a  Aerial Wild Adventure - Trailer #2    
+    
+    
+    I favorited a @YouTube video http://youtu.be/nIwrgAnx6Q8?a  O Fortuna Misheard Lyrics (Animated)    
+    
+    
+    Defending Free Software against Oracle's attack http://bit.ly/crviSQ    
+    
+    
+    631. Mea culpa http://shar.es/svM8J     
+    
+    
+    About Microsoft Surface and Ipad. So true. http://yfrog.com/mgkcjxlj     
+    
+    
+    I favorited a @YouTube video http://youtu.be/tTXUuDiThzA?a  Hooverphonic - Vinegar & Salt (live @ Benicàssin Festival)    
+    
+    
+    Arithmetic for Beginners http://abstrusegoose.com/474     
+    
+    
+    I favorited a @YouTube video http://youtu.be/P5_GlAOCHyE?a  Planet Earth seen from space (Full HD 1080p) ORIGINAL    
+    
+    
+    Love making games pic.twitter.com/UhwEL7YM    
+    
+    
+    Say god particle one more time http://shar.es/t1DXi     
+    
+    
+    #Tron Legacy: Avoid watching it at all cost    
+    
+    
+    Aerial Wild Adventure http://goo.gl/fb/Qguzh     
+    
+    
+    Random terrain and cave generator, first take. http://twitpic.com/a68lgm     
+    
+    
+    "This video contains content from UMG. It is not available in your country." FFFUUUU-    
+    
+    
+    Just discovered my 6 year-old C++ build system doesn't work anymore with gcc 4.6.1. The order of parameters matters for the linker. Easy fix    
+    
+    
+    It appears that the cellular automata wasn't necessary after all for pleasing results on the random terrain generator.    
+    
+    
+    Physical assault by McDonald's for wearing Digital Eye Glass http://eyetap.blogspot.com/2012/07/physical-assault-by-mcdonalds-for.html … @McDonalds    
+    
+    
+    Testing Windows phone 7    
+    
+    
+    @ChickenTyping Moby Dick    
+    
+    
+    Microsoft reports first public loss. Google reports stronger than expected earnings http://gu.com/p/396ef/tw     
+    
+    
+    My Nexus S has been updated to Android 4.1 Jelly Bean. Better widget management, some performance improvement, Google Now.    
+    
+    
+    Developer console crash reports: "java.lang.RuntimeException: eglSwapBuffers failed: EGL_SUCCESS" What the...?? Makes no sense.    
+    
+    
+    Earth from space (#Blender 2.63 #Cycles) http://flic.kr/p/cDmFeJ     
+    
+    
+    Amazing showcase of #HTML5 capabilities: http://bit.ly/aUFV3d (Google Chrome experiment)    
+    
+    
+    Android beats iPhone in number of total users for first time http://androidcommunity.com/android-beats-iphone-in-number-of-total-users-for-first-time-20110107/ …    
+    
+    
+    @iverona ¡Evitalo si puedes!    
+    
+    
+    Android 2.3 Gingerbread Ported to iPhone 3G http://androidcommunity.com/android-2-3-gingerbread-ported-to-iphone-3g-video-20110108/ …    
+    
+    
+    46-inch panel accepts unlimited touch inputs http://www.engadget.com/2011/01/08/multitouch-ltds-46-inch-panel-accepts-unlimited-touch-inputs-w/ …    
+    
+    
+    Ya llegó mi Nexus 7 pic.twitter.com/3BMl54ij    
+    
+    
+    Google Nexus7 tablet: Connect Nexus 7 to Linux via MTP using USB http://www.nexus7tablethelp.com/2012/07/connect-nexus-7-to-linux-via-mtp-using.html?spref=tw …    
+    
+    
+    The World http://twitpic.com/3okgse     
+    
+    
+    @ddavity Suerte, y que se dé bien :D    
+    
+    
+    @notch I felt a great disturbance in the Force, as if millions of clean coders suddenly cried out in terror, and were suddenly silenced.    
+    
+    
+    @Sosowski @notch If this is java he can't to that.    
+    
+    
+    @Bitomule @gamevelop "Modern C++ Design: Generic Programming and Design Patterns Applied", Andrei Alexandrescu #LibrosDeveloper    
+    
+    
+    @AnaMathius ¡Menudo robo!    
+    
+    
+    I favorited a @YouTube video http://youtu.be/-txDHDxklmc?a  Ben Prunty Music - FTL - 24 Rockmen (Battle) FTL Soundtrack    
+    
+    
+    Developers Fork Mandriva Linux, Creating Mageia: http://bit.ly/dluWpb    
+    
+    
+    Modern browsers in real-world benchmark: http://bit.ly/b5YEix    
+    
+    
+    I favorited a @YouTube video http://youtu.be/GZynD4bx-V8?a  Lluis Llach - L'estaca    
+    
+    
+    That's no moon #iOS6 http://twitpic.com/axxa1j     
+    
+    
+    I favorited a @YouTube video http://youtu.be/SQngoCBvq3Q?a  Andromeda Software Development - Happiness is Around the Bend    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/hGdx_82GFSM?a  - Earth from space - Blender 2.64 RC2 - 1080p).    
+    
+    
+    I favorited a @YouTube video http://youtu.be/JE2muDZksP4?a  8.Mozart's Requiem-Lacrimosa (lyrics+translation)    
+    
+    
+    217 points http://html5test.com/ #Chrome 6.0.472.63 #HTML5    
+    
+    
+    I favorited a @YouTube video http://youtu.be/ExJShWGsAB0?a  Wizorb music - Slime Forest    
+    
+    
+    @kikogolk Ya te daré envidia cuando me pueda descargar mi copia :D    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/UKe2Wa9linU?a  - Earth from space HD 1080p - Realistic Version - Blender 2.64 Cycles).    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/MlQKLZgCjLE?a  - Earth from space HD 1080p - Vintage Version - Blender 2.64 Cycles).    
+    
+    
+    Depth of field implemented! http://flic.kr/p/dnyYKe 
+http://flic.kr/p/dnyYQk  #raytracer    
+    
+    
+    The Blender Foundation releases the open movie project Sintel: http://bit.ly/9RDaZH    
+    
+    
+    Horn, published by @zynga, was so poorly localized into Spanish that I wanted to play the English version. Shame I can't choose the language    
+    
+    
+    @kikogolk Yo lo dejé a mitad cansado de padecer.    
+    
+    
+    @gamevelop Mejor    
+    
+    
+    @eleizel ¿Pero qué te ha pasado?    
+    
+    
+    #Windows Vista source #code leaked: http://bit.ly/cnUeWY    
+    
+    
+    #IE marketshare falls below 50% http://timesofindia.indiatimes.com/tech/news/internet/IE-marketshare-falls-below-50/articleshow/6692281.cms …    
+    
+    
+    http://Amazon.com  recommends me books I've already purchased from them.    
+    
+    
+    Space scenes created using #Blender #Cycles http://flic.kr/s/aHsjCKpXRd     
+    
+    
+    "This video contains content from WMG and UMG. It is not available in your country." Okay. It's Grooveshark then.    
+    
+    
+    I favorited a @YouTube video http://youtu.be/Zk-q4RD2fP4?a  Santana - Maggot Brain - Kaiser Gold Sounds 96 - São Paulo    
+    
+    
+    CARL SAGAN: Make the most of this life  http://zenpencils.com/comic/carl-sagan-make-the-most-of-this-life/#.UJztEtNDVEQ.twitter …    
+    
+    
+    Cross-Platform C/C++ Development with Eclipse CDT http://twb.io/MpnOZM     
+    
+    
+    "Mathematics for 3D Game Programming and Computer Graphics" by Eric Lengyel is one of the most useful books I've ever had.    
+    
+    
+    http://lnkd.in/h_gmX9  Both APIs can achieve the same results, but OpenGL. got my vote thanks to cross-platform compatibility. With...    
+    
+    
+    Coded support for VBOs and the FPS are the same. So the bottleneck is still in the fragment shaders and we have space for tons of geometry.    
+    
+    
+    Top+5+reasons+you+should+love+your+ternary+operator+http://wp.me/p10053-1P    
+    
+    
+    Useful tip: you can enter unicode characters within the Inkscape Text Tool by pressing Ctrl+U, the code and then Enter.    
+    
+    
+    I favorited a @YouTube video http://youtu.be/OD0vMWg1ULE?a  Luciano Pavarotti "Recitar...vesti la giubba" Pagliacci    
+    
+    
+    Sometimes when drawing diagrams you never know if they are easily understandable by other people or not. pic.twitter.com/HrsHqpnz    
+    
+    
+    Cherry coke! pic.twitter.com/g7bvt8Fj    
+    
+    
+    Averaging last frames time deltas for current solved lots of FPS issues but on demand shader compilation is still noticeable on some devices    
+    
+    
+    @gamevelop Veo que todavía no podemos registrarnos :(    
+    
+    
+    Testing my brand new Samsung #NexusS    
+    
+    
+    http://bit.ly/aFjR5t #GoogleDocs launches new #chart maker    
+    
+    
+    Most contradictory comment ever: 5 stars "Is f***ing great never download it piece of s**t unstall this!!!" #android #googleplay    
+    
+    
+    @guxlightyear Yep    
+    
+    
+    @buguibuguibuda Looks great! Make the menus show on mouse over, instead of showing them on mouse click.    
+    
+    
+    @buguibuguibuda The menus at the navbar. I'll take a look into meteor.js when I have some spare time, it looks interesting.    
+    
+    
+    Just upgraded to Fedora 14    
+    
+    
+    @damianfm @elmundoes Menudo fail    
+    
+    
+    @idaho06 Si te sirve, a mí me ha pasado eso a todas las edades.    
+    
+    
+    Apple Promises To Fix Glitches In Map Software By Rearranging Earth's Geography   http://www.theonion.com/video/apple-promises-to-fix-glitches-in-map-software-by,30616/ …    
+    
+    
+    Why Eric Schmidt Left As CEO of Google?: http://bit.ly/fvziqg    
+    
+    
+    @TheJare It happened to me. It turned out that using the real deltatime every frame was a bad idea. Averaging past frames solved it.    
+    
+    
+    @TheJare I keep the GC away from running. It appears that the time between calls to onDrawFrame varies greatly on sequential similar frames.    
+    
+    
+    "Math for Game Developers" series teaching the basics http://www.youtube.com/user/BSVino/featured …    
+    
+    
+    @ddavity Ha durado 10 minutos escasos.    
+    
+    
+    @ArtX365 Great lighting!    
+    
+    
+    Major Samantha Carter creates a virus for Goa'uld controlled Stargates, uses C# #microsoft #msdn cc/@JuanKRuiz pic.twitter.com/irKwplmR    
+    
+    
+    #Android SDK Tools r9 and #ADT 9 just launched... now that's speed coding!    
+    
+    
+    I scored 34 of 50 on the #MSDOS #screenshot challenge: http://tinyurl.com/dos-quiz  @StarfieldSoftUK    
+    
+    
+    WolframAlpha - zoidberg curve http://wolfr.am/XeETK8     
+    
+    
+    @Algunenano ¿Tras completar The Secret of Monkey Island?    
+    
+    
+    Enjoying the new SimCity thanks to @LuisMorens    
+    
+    
+    @aitorciki ¿Chrome zampar memoria? ¡Calumnias! pic.twitter.com/kt2H1M1v5x    
+    
+    
+    #KPackageKit in #Fedora 14 tested on some computers... unstable in all of them.    
+    
+    
+    Camera depth of field running in real-time on an Android device :D http://twitpic.com/cgi224     
+    
+    
+    @MRLia ¿qué te ha pasado?    
+    
+    
+    My raytracer is working now on Windows :D http://twitpic.com/cozn5p     
+    
+    
+    @ID_AA_Carmack Compilation time, and keeping all these data on the application memory data segment at the same time, unless using DLLs.    
+    
+    
+    FTL for $2.49 on gog! http://www.gog.com/gamecard/faster_than_light …    
+    
+    
+    Android Fragmentation Report July 2013 http://opensignal.com/reports/fragmentation-2013/ …    
+    
+    
+    This is geek on some many levels http://codepen.io/TimPietrusky/pen/eHGfj …    
+    
+    
+    Intel CEO: Nokia Should Have Gone With Android http://tech.slashdot.org/story/11/02/18/1535257/?sms_ss=twitter&at_xt=4d5fc25d0365042d,0 …    
+    
+    
+    Ya han llegado mis Sennheiser 439 ^_^ pic.twitter.com/yIEQSLAJDi    
+    
+    
+    @Cibeles_ "This video contains content from NBC Universal, who has blocked it on copyright grounds." u_u    
+    
+    
+    Nokia Sells Qt: http://bit.ly/gOH8Fl    
+    
+    
+    Khronos Releases Final WebGL 1.0 Specification - Khronos Group Press Release http://shar.es/3iDl9     
+    
+    
+    My #SVN is slowly rotting... again    
+    
+    
+    Opinion: How the PC is making consoles look out of date http://www.pcauthority.com.au/?250462    
+    
+    
+    #IE9 still lagging behind http://bit.ly/dYkqlK    
+    
+    
+    What Happened to #Nokia?
+http://mobilesoftware.tumblr.com/post/3565611897/what-happened-to-nokia    
+    
+    
+    Game developers want DirectX to 'go away,' says AMD man http://www.engadget.com/2011/03/21/game-develops-want-directx-to-go-away-says-amd-man/ … via @engadget    
+    
+    
+    Carmack: Direct3D is now better than OpenGL http://www.bit-tech.net/news/gaming/2011/03/11/carmack-directx-better-opengl/1 …    
+    
+    
+    Rendimiento IE9-Chrome 10-Firefox 4-Opera 11.01-Safari 5 http://www.muycomputer.com/2011/03/23/comparativa-ie9-chrome-10-firefox-4-opera-11-01-safari-5 …    
+    
+    
+    On Graphics APIs - http://www.gamedev.net/blog/42/entry-2249692-on-apis/    
+    
+    
+    ISO C + Committee Approves C++0x Final Draft: http://bit.ly/fKRTWz    
+    
+    
+    Nokia - No More Symbian Phones After 2012: http://bit.ly/gu2WDj    
+    
+    
+    Coder facts! http://coderfacts.com/post/4216866300/a-todos-se-nos-ha-pasado-por-la-cabeza-alguna-vez … via @coderfacts    
+    
+    
+    I'm very tired of #PHP    
+    
+    
+    Facebook To Be 'Biggest Bank' By 2015: http://bit.ly/e8drud    
+    
+    
+    Dating too Expensive? Get a 'Cloud Girlfriend'  http://www.pcmag.com/article2/0,2817,2383485,00.asp … via @pcmag    
+    
+    
+    Preview: #webOS 3.0 Beta 1 emulator leak http://www.precentral.net/preview-webos-3-0-beta-1-emulator-exclusive …    
+    
+    
+    Stable #Blender 2.57 released! http://bit.ly/ezCvgL    
+    
+    
+    How to fix any computer - The Oatmeal http://theoatmeal.com/blog/fix_computer … via @Oatmeal    
+    
+    
+    My transformation pipeline for OpenGL ES 2 on #Android is working now :D    
+    
+    
+    Preallocating large static buffers for many short-lived small objects reduces the GC overhead on #Android for real-time applications    
+    
+    
+    After 50 hours of work, my multi-threaded 3D engine prototype for #Android 2.2+ is working :D    
+    
+    
+    "The 30 people who dislike this can deep throat a cactus" Best comment I've read on #Youtube    
+    
+    
+    CryTek For Free: CryEngine 3 SDK and Editor: http://bit.ly/hNP8GX    
+    
+    
+    #PHP Passing and returning hashmaps as parameter lists should be outlawed. Maintenance is driving me crazy    
+    
+    
+    I love debugging concurrent code on Saturday morning    
+    
+    
+    Single-pass smooth transition between frames for animated textures is working now :D    
+    
+    
+    It appears that using a frame of reference (pos,front,up) for cameras and actors is working better than using Euler angles. Easier dynamics.    
+    
+    
+    Google Engineers Deny Hack Exploited Chrome: http://bit.ly/mTbkJu    
+    
+    
+    Coder facts! http://coderfacts.com/post/4561743096  via @coderfacts    
+    
+    
+    Rendering of multiple viewports, cameras and scene graphs is working now ^_^    
+    
+    
+    Ubuntu Switches To OpenStack For Cloud: http://bit.ly/lrQegt    
+    
+    
+    Just finished the OBJ loader. Optimizing the mesh was easier than expected but way slower on my NexusS. Will have to use a custom bin format    
+    
+    
+    Models exported from Blender, downloaded from Blender Swap. http://twitpic.com/50q8sg    
+    
+    
+    Simple phong lighting is working now! http://twitpic.com/522cyc    
+    
+    
+    Specular maps are working.  http://twitpic.com/52nzdi    
+    
+    
+    When working with multiple lights, it is way faster using a shader for each light count than using branching or looping on a single shader.    
+    
+    
+    Microsoft Windows after 25 years: A visual history http://www.networkworld.com/slideshows/2010/110810-microsoft-windows-visual-history.html?ap1=rcb …    
+    
+    
+    8 Free E-Books on C# http://rww.to/lIpieV  via @RWW    
+    
+    
+    Per-pixel. Up to 3 lights + ambient. Performance is better than expected and there's room for some improvement. http://twitpic.com/54aauv    
+    
+    
+    Microsoft has received five times more income from Android than from Windows Phone http://www.asymco.com/2011/05/27/microsoft-has-received-five-times-more-income-from-android-than-from-windows-phone/ …    
+    
+    
+    Doom on the Web http://mzl.la/j2WAvM  via @mozhacks    
+    
+    
+    Building "Windows 8" - Video #1 http://www.youtube.com/watch?v=p92QfWOw88I&feature=share …    
+    
+    
+    Debuging math code...    
+    
+    
+    The set of lights contributing to each object is computed and the optimized shader for that set is used. http://twitpic.com/56famt    
+    
+    
+    I felt in love with Thunderbird 5    
+    
+    
+    @ddavity http://www.mozillamessaging.com/en-US/thunderbird/5.0b1/releasenotes/    
+    
+    
+    13 Reasons Why One Developer Dropped Google App Engine http://rww.to/i7FhwA  via @RWW    
+    
+    
+    Silverlight developers rally against Windows 8 plans http://www.itnews.com.au/News/259910,silverlight-developers-rally-against-windows-8-plans.aspx … via @itnews_au    
+    
+    
+    If using quicksort, move to insertion sorting when your subarrays left after pivot selection are small (10-20 elems).    
+    
+    
+    Very useful: http://www.touchtrigonometry.org/     
+    
+    
+    “If I had six hours to cut down trees, I’d spend the first three hours sharpening my axe, and the last three cutting down the trees.”    
+    
+    
+    Common sense http://imgur.com/eoi3d     
+    
+    
+    Pedir http://www.linuxhispano.net/2011/06/21/pedir/ …    
+    
+    
+    Ortographic camera working http://twitpic.com/5exjkm    
+    
+    
+    Simple HUD test http://twitpic.com/5fnzdk    
+    
+    
+    Rendering multiple scenes on multiple viewports http://twitpic.com/5hat08    
+    
+    
+    @ddavity ¡Gracias!    
+    
+    
+    When going mobile, manually unroll all your loops on #shaders. The branch penalties are really high. Got a 5x speed up on Nexus S.    
+    
+    
+    Designing a flexible input system that integrates with 3D picking    
+    
+    
+    @Blag oh my... tell me you have some spare invitations ^_^    
+    
+    
+    Testing #Google+    
+    
+    
+    Source Engine SDK To Be Free: http://bit.ly/j8bnIe     
+    
+    
+    9 Reasons to Switch from Facebook to Google+ http://soc.li/id0fhAL     
+    
+    
+    Just finished the implementation of the Unproject function. Given 2D screen coords produces 3D rays ready for scene intersection checks.    
+    
+    
+    Full screen landscape layout http://twitpic.com/5n3k0o    
+    
+    
+    Dilbert Daily Strip: 2011-07-07: http://www.dilbert.com/strips/comic/2011-07-07/ …    
+    
+    
+    Just substituted my 3 years old Fedora with a fresh Ubuntu install. I'm liking it so far.    
+    
+    
+    Bruce Campbell Confirms New Evil Dead Movie: http://bit.ly/oLF8kT     
+    
+    
+    Adobe Released 64-bit Flash For Linux: http://bit.ly/nWh5e0     
+    
+    
+    Entrevista con Rafael Sanches creador de Recipe Search, Craiglist Notification y Asteroid Tower Defense http://and.roid.es/entrevista-con-rafael-sanches-creador-de-recipe-search-craiglist-notification-y-asteroid-tower-defense.html … via @androides    
+    
+    
+    @ClaudiaTrasto ¡Qué te ha pasado?!?    
+    
+    
+    Wikileaks Moves to Amazon Web Services by @klintron http://rww.to/ewpOhF  via @RWW    
+    
+    
+    @unclebobmartin "Good idea but we don't have time for that" they usually say.    
+    
+    
+    Cambiando de base http://goo.gl/fb/EU1g1    
+    
+    
+    Google Open-Sources NoSQL Database Called LevelDB by @klintron http://rww.to/qrqOLN  via @RWW    
+    
+    
+    The new input system is working for screen events (tap, hold, drag). Now debugging scene and entity events. Won't be ready before vacations.    
+    
+    
+    Android takes almost 50% share of worldwide smart phone market | Canalys http://www.canalys.com/newsroom/android-takes-almost-50-share-worldwide-smart-phone-market …    
+    
+    
+    @ClaudiaTrasto Angry Birds http://www.rovio.com/index.php?page=angry-birds    
+    
+    
+    Yepee! My first tweet!    
+    
+    
+    Web game engine without Flash, only standards: http://bit.ly/7wjguz    
+    
+    
+    #youtube "This video is not available in your country due to copyright restrictions" ¬_¬    
+    
+    
+    Writing an article on global illumination algorithms and techniques.    
+    
+    
+    Starcraft 2: Even more similar to Warhammer 40k.    
+    
+    
+    Teach Yourself C++ in 21 Days. http://bit.ly/9g9ghw    
+    
+    
+    Back to work!    
+    
+    
+    ¿Una Constitucional neoliberal sin referéndum? http://menea.me/sxn1  via @meneame_net    
+    
+    
+    http://www.eljueves.es/2011/08/24/zapatero_propone_modificar_constitucion_para_limitar_deficit_publico_rajoy_apoya.html …    
+    
+    
+    Dilbert Daily Strip: 2011-08-25: http://www.dilbert.com/strips/comic/2011-08-25/ …    
+    
+    
+    Now selling photos on Getty Images http://bit.ly/ciJGHO    
+    
+    
+    Vaya tela http://robberymaps.com/map.html#lt=41.379803 …&ln=2.172611&z=1&k=2&a=1&tab=1    
+    
+    
+    @guxlightyear @Catatoonics Siempre tomo Chufi, tendré que probar la Carrefour.    
+    
+    
+    Don't dare to create a GL_TEXTURE_CUBE_MAP with non square of 4 faces. The driver of the Nexus S crashes on tex creation. Mem align issues.    
+    
+    
+    Environment mapping working now. Cube map downloaded from http://www.xsibase.com/forum/index.php?board=29;action=d … http://twitpic.com/6en0s2     
+    
+    
+    Some issues solved. Different cubemap downloaded from hazelwhorley. http://twitpic.com/6fdgw9     
+    
+    
+    Just discovered and fixed an old bug in the math core that mirrored the whole scene along the X axis.    
+    
+    
+    I have finished the input system at last. Flexible, robust and works like a charm. #android    
+    
+    
+    Bye, Google Desktop http://googledesktop.blogspot.com/2011/09/google-desktop-update.html …    
+    
+    
+    @idaho06 A mí el wifi no me alcanza a la terraza xD    
+    
+    
+    New picture on sale. Get it now! http://www.gettyimages.es/detail/124368745 …    
+    
+    
+    The lack of proper multithreading support in OpenGL is exasperating.    
+    
+    
+    Dilbert Daily Strip: 2011-08-14: http://www.dilbert.com/strips/comic/2011-08-14/ …    
+    
+    
+    Models with multiple materials applied are working now    
+    
+    
+    @JuanKRuiz Jaja, yaya, estaba bromeando :D    
+    
+    
+    Bitcasa - Infinite Storage on Your Desktop - Sign up for Beta now! http://www.bitcasa.com/beta-signup?share=562370881 … via @Bitcasa    
+    
+    
+    Google Dart to “ultimately ... replace JavaScript”... http://www.2ality.com/2011/09/google-dart.html?spref=tw …    
+    
+    
+    "All of your hard work, regardless of how well it is intended, is for naught if it results in a pile of rubbage." - Bryce's Law    
+    
+    
+    Impressive: http://bit.ly/b56wK2    
+    
+    
+    @guxlightyear Well, they used WebGL, very similar to OpenGL ES 2.0, also defined by the Khronos Group.    
+    
+    
+    @ddavity http://twitpic.com/6r2su0  - there be dragons...    
+    
+    
+    Mi instituto en la prensa: http://www.20minutos.es/noticia/1170284/0/profesora/frances-madrid/no-sabe-frances/ …    
+    
+    
+    European Users Overwhelm Facebook With Data Requests: http://bit.ly/n2zJ4K     
+    
+    
+    Just received the OTA update to Android 2.3.6.    
+    
+    
+    @kikogolk http://twitpic.com/6sxle4  - Nunca conseguí pasar del pimer nivel del Abu Simbel Profanation    
+    
+    
+    Automatic mipmap generation. System-wide trilinear filtering enabled for compliant textures. http://twitpic.com/6u5ami     
+    
+    
+    Android 2.2 Java API doesn't support VBOs. Someone forgot to wrap two C calls. Will have to wait until 2.3+ share grow way larger than 2.2.    
+    
+    
+    Now let's implement automatic tangent and binormal vector generation on the OBJ model loader...    
+    
+    
+    Normal mapping fully working. Up to three lights per material. http://twitpic.com/6z6ssb     
+    
+    
+    Now working on cel shading    
+    
+    
+    Cel shading implemented. Single-pass viewing angle based outline. http://twitpic.com/6zp7fx     
+    
+    
+    Shader frenzy http://twitpic.com/707n78     
+    
+    
+    Grand Tour of Closet-Sized Crew Quarters in Space http://www.universetoday.com/81424/grand-tour-of-closet-sized-crew-quarters-in-space/ … via @diythemes    
+    
+    
+    First Private Spacecraft In Orbit After Perfect Launch (Updated) http://gizmodo.com/5709153/  via @gizmodo    
+    
+    
+    Just left my current job. Interesting time ahead.    
+    
+    
+    Reader Merging With Google+: http://bit.ly/rdpwmR     
+    
+    
+    The first version of the text engine is working now http://twitpic.com/744g1q     
+    
+    
+    Testing a small quake-like scene modeled in Blender. Textures extracted from a Tenebrae map by Willi Hammes. http://twitpic.com/74vybl     
+    
+    
+    Lowering the specular exponent produces better visuals. http://twitpic.com/74wfn0     
+    
+    
+    @idaho06 ¡Felicidades!    
+    
+    
+    @kikogolk Alone in the Dark 2, Doom    
+    
+    
+    Cubemap-based reflection modulated by fresnel factor and a checkerboard pattern intensity map. http://twitpic.com/77n5tp     
+    
+    
+    The Phong+Bump+FresnelReflection shader is finished. Fast test with a model downloaded from Blender Swap. http://twitpic.com/78e8xw     
+    
+    
+    Atontaus in Town http://goo.gl/fb/rPx1L    
+    
+    
+    Simple earth test. Layer 1: Diffuse+Specular+Normal. Layer 2: Diffuse cloud map, with alpha channel. http://twitpic.com/7bk2sx     
+    
+    
+    Excellent tool for exploring OpenGL blending options: http://www.andersriggelsen.dk/glblendfunc.php     
+    
+    
+    Solid color can b defined instead of textures. New feat thx 2 d major rewrite of d materials system in progress. http://twitpic.com/7ewxe4     
+    
+    
+    @valleruben Si solo fuera una persona...    
+    
+    
+    Emission maps for materials (look at the ceiling):  http://twitpic.com/7fatyf     
+    
+    
+    @ordend ¡Suerte!    
+    
+    
+    When using shaders don't forget to set all the uniforms on your GL code. All kind of weird unrelated things could happen if you don't.    
+    
+    
+    Parallax mapping, first take. Working on tangent space. http://twitpic.com/7hff37     
+    
+    
+    Some specular added to enhance the effect. Wet bricks all over the place. http://twitpic.com/7hipqv     
+    
+    
+    City lights at night http://twitpic.com/7hywg4     
+    
+    
+    New planet atmosphere shader. Cheap scattering simulation. Color and opacity configurable via 1D texture. http://twitpic.com/7i23u7     
+    
+    
+    @kikogolk Descargando las tengo ya.    
+    
+    
+    Java generics are so ill-conceived that are almost unusable, except for the most trivial cases.    
+    
+    
+    When using alpha-blended camera-plane-oriented billboards sort by distance to the plane instead of distance to the camera.    
+    
+    
+    The information on random point picking at MathWorld is very useful for particle emitters creation and random sampling http://mathworld.wolfram.com/topics/RandomPointPicking.html …    
+    
+    
+    Fire, Snow, Explosions... the brand new particle system is working ^_^ http://twitpic.com/7m8v3q     
+    
+    
+    @ID_AA_Carmack Drink more water!    
+    
+    
+    Live_ISS_Stream - NASAtelevision http://www.ustream.tv/channel/live-iss-stream …    
+    
+    
+    I, for one, #hate when after following a tutorial I get completely different results    
+    
+    
+    Inside Search: Showing some love to math lovers http://insidesearch.blogspot.com/2011/12/showing-some-love-to-math-lovers.html?spref=tw …    
+    
+    
+    Dilbert Daily Strip: 2011-11-04: http://www.dilbert.com/strips/comic/2011-11-04/ …    
+    
+    
+    #Android "Starting with 2.2, the #NDK enables debugging native code on production devices" Yepee!    
+    
+    
+    The first time you copy code from one class to another one you know you have to refactor and extract this reusable piece of code.    
+    
+    
+    I've just finished the stand alone scene graph renderer. Different types of scene graphs can be changed on demand.    
+    
+    
+    #youtube #vevo "who has blocked it in your country on copyright grounds" FUUUUUUUUUUUU!    
+    
+    
+    Here's What People Look at on Facebook Brand Pages http://mashable.com/2011/12/14/eyetracking-facebook-brand-pages/ … via @mashable    
+    
+    
+    Daily Wrap: Microsoft's Apology for IE and More by @duzins http://rww.to/rsaqDC  via @RWW    
+    
+    
+    The Hobbit: An Unexpected Journey – See the trailer http://trailers.apple.com/trailers/wb/thehobbit/ …    
+    
+    
+    Static Code Analysis http://altdevblogaday.com/2011/12/24/static-code-analysis/ …    
+    
+    
+    FindBugs has shown some not noticed hard to find bugs in our code base. And it's free.    
+    
+    
+    Mi calle parece Vietnam    
+    
+    
+    Integrar Google Chrome en KDE http://goo.gl/fb/muqNR    
+    
+    
+    #ComparteCultura: http://wp.me/pfKuH-298     
+    
+    
+    Fog is supported now (exp2). No impact in performance so far.    
+    
+    
+    I underestimated the amount of work to be spent on content creation tools.    
+    
+    
+    Tools: Material Creator. 12 hours coding sprint. http://twitpic.com/85qii5     
+    
+    
+    @idaho06 It's a tool to define parameters for the generator wich resides in the Android engine. Shaders are generated & compiled on demand.    
+    
+    
+    L.A. Noire: The Technology Behind Performance http://www.gametrailers.com/video/developer-diary-l-a-noire/708504 …    
+    
+    
+    The #Android Matrix.invertM() method internally allocates 448 bytes. Several uses per frame in real time and the GC goes crazy.    
+    
+    
+    @ruben3d My previous post is no longer true on Android 4.0.    
+    
+    
+    Discarding fragments early on alpha test reduces the performance impact of the branch. Still too costly to use on the full scene. Use wisely    
+    
+    
+    WebGL now in Beta: here comes the 3D web! http://bit.ly/dOX0tq    
+    
+    
+    Tools: Model Viewer. http://twitpic.com/87yo7j     
+    
+    
+    A autoemplearse: http://www.navegapolis.net/content/view/1050/53/ …    
+    
+    
+    I support #wikipediablackout! Show your support here http://tinyurl.com/7vq4o8g     
+    
+    
+    New Blender free and open short film. Help the project! http://www.blender3d.org/e-shop/product_info_n.php?products_id=143 …    
+    
+    
+    #Chrome 9 #WebGL Aquarium 1000 fishes 50+ FPS http://www.chromeexperiments.com/detail/webgl-aquarium …    
+    
+    
+    In-game graphic level modification is working. It freezes 200ms while compiling new shaders. Now the framerate vary between 18 and 55 fps.    
+    
+    
+    The heavy fragmentation of #Android devices is driving me nuts. Can't find two GPUs with the same load of issues and bugs.    
+    
+    
+    @kikogolk http://identi.ca/     
+    
+    
+    The GalaxyS2 graphic driver does a pretty good job removing death code from shaders. Sadly it forgets to notify which uniforms were removed.    
+    
+    
+    View frustum culling has dramatically improved performance in some situations.    
+    
+    
+    With multitouch support the soft feature freeze finally arrived to the engine. Bugfixes and urgent small changes from now on.    
+    
+    
+    Facebook Files for $5 Billion IPO http://mashable.com/2012/02/01/facebook-files-ipo/ … via @mashable    
+    
+    
+    Misteriously the Nexus S is limited to 300 GL drawing calls per frame. After that the ZBuffer fails. Could not reproduce on other devices.    
+    
+    
+    Ended up building my own GL based widget toolkit.    
+    
+    
+    Listening to the album Irish Jig by Gwendal #nowplaying #tunesday http://tny.gs/zOYVAf     
+    
+    
+    Coder facts! http://coderfacts.com/post/15503997383/analista-sr-experiencia-en-uml-ms-project … via @coderfacts    
+    
+    
+    The XML Schema editor in Eclipse is great. Editing XSD files never was so fast.    
+    
+    
+    Working again...    
+    
+    
+    @XaV1uzz Yo fui de http://upload.wikimedia.org/wikipedia/commons/3/33/ZXSpectrum48k.jpg …    
+    
+    
+    I tried to watch Game of Thrones and this is what happened - The Oatmeal http://theoatmeal.com/comics/game_of_thrones … via @Oatmeal    
+    
+    
+    I favorited a @YouTube video http://youtu.be/0YpcacekDSY?a  TRAILER DE JESUCRISTO 2009    
+    
+    
+    @ddavity ¿Qué terminal es?    
+    
+    
+    @ddavity Una app    
+    
+    
+    @ddavity Pasame un mail por privado.    
+    
+    
+    @alberticomf No tiene mala pinta    
+    
+    
+    Just fixed a bug in the perspective matrix calculation that went unnoticed for 11 months :O    
+    
+    
+    I wish you a Merry Christmas and a Happy New Year!!    
+    
+    
+    Emprender o emigrar http://www.equiposytalento.com/noticias/2012/03/30/espana-vive-una-fuga-de-ingenieros-informaticos-debido-a-sus-malas-condiciones …    
+    
+    
+    The hardest decision of my childhood http://randomgag.com/funny-image/6183/lol.html …    
+    
+    
+    My Nexus S got the official Android 4.0 ICS update. Lots of eye candy.    
+    
+    
+    Menus almost ready for release http://twitpic.com/9621mf     
+    
+    
+    He marcado como favorito un vídeo de @YouTube. http://youtu.be/qURei6svd90?a  Doom II OST - Map 01,15 - Running from Ev    
+    
+    
+    C'mon, who else does this? http://randomgag.com/funny-image/32509/lol.html …    
+    
+    
+    The in-game tutorial is working. Everything almost ready for release.    
+    
+    
+    Hard code freeze! Urgent bugfixes only from now on until release.    
+    
+    
+    The PowerVR SGX 530 fails painting alpha-blended non-square mipmaps.    
+    
+    
+    @kikogolk @elpixelilustre Spectrum 48k forever <3    
+    
+    
+    City Lights - http://bit.ly/hPS4hE (via @NASA)    
+    
+    
+    According to @klout, my Klout score is 45. How influential are you? http://klout.com/user/ruben3d/score-analysis?n=tw&v=klout_score …    
+    
+    
+    Fibonacci spiral http://bit.ly/JxLxSc     
+    
+    
+    An update for Aerial Wild Adventure is in the oven... #android    
+    
+    
+    I favorited a @YouTube video from @bass_boss_ http://youtu.be/Hppky-V77B8?a  Patten Live @ LEV Festival 2012    
+    
+    
+    Preparing a course on Windows Phone 7 #wp7    
+    
+    
+    Carmageddon: Reincarnation by Stainless Games — Kickstarter http://kck.st/IFBdGm  via @kickstarter    
+    
+    
+    Something is cooking in the oven. Smells like... Chapter 2 with 10 new levels! https://play.google.com/store/apps/details?id=com.tapasinteractive.aerialwildadventurefree … #android #free #game    
+    
+    
+    I'm greatly surprised. The nvidia Tegra 3 executing complex shaders on complex scenes at 720p is astonishing. @NVIDIATegra    
+    
+    
+    The Tegra 3 GPU driver crashes when using gl_FrontFacing on a shader on the Asus Transformer Prime.    
+    
+    
+    I just backed Carmageddon: Reincarnation on @Kickstarter http://kck.st/IFBdGm     
+    
+    
+    #KDE SC 4.5.0 released!    
+    
+    
+    Carmageddon Mobile http://www.youtube.com/watch?v=jKjEfS0IRT8&feature=youtu.be …    
+    
+    
+    Awesome http://www.youtube.com/watch?v=hgll-XTqcS4 …    
+    
+    
+    I favorited a @YouTube video http://youtu.be/XHmf_WWFLWg?a  Aerial Wild Adventure - Trailer #1    
+    
+    
+    I favorited a @YouTube video http://youtu.be/32fRW5AIcwk?a  Aerial Wild Adventure - Trailer #2    
+    
+    
+    I favorited a @YouTube video http://youtu.be/nIwrgAnx6Q8?a  O Fortuna Misheard Lyrics (Animated)    
+    
+    
+    Defending Free Software against Oracle's attack http://bit.ly/crviSQ    
+    
+    
+    631. Mea culpa http://shar.es/svM8J     
+    
+    
+    About Microsoft Surface and Ipad. So true. http://yfrog.com/mgkcjxlj     
+    
+    
+    I favorited a @YouTube video http://youtu.be/tTXUuDiThzA?a  Hooverphonic - Vinegar & Salt (live @ Benicàssin Festival)    
+    
+    
+    Arithmetic for Beginners http://abstrusegoose.com/474     
+    
+    
+    I favorited a @YouTube video http://youtu.be/P5_GlAOCHyE?a  Planet Earth seen from space (Full HD 1080p) ORIGINAL    
+    
+    
+    Love making games pic.twitter.com/UhwEL7YM    
+    
+    
+    Say god particle one more time http://shar.es/t1DXi     
+    
+    
+    #Tron Legacy: Avoid watching it at all cost    
+    
+    
+    Aerial Wild Adventure http://goo.gl/fb/Qguzh     
+    
+    
+    Random terrain and cave generator, first take. http://twitpic.com/a68lgm     
+    
+    
+    "This video contains content from UMG. It is not available in your country." FFFUUUU-    
+    
+    
+    Just discovered my 6 year-old C++ build system doesn't work anymore with gcc 4.6.1. The order of parameters matters for the linker. Easy fix    
+    
+    
+    It appears that the cellular automata wasn't necessary after all for pleasing results on the random terrain generator.    
+    
+    
+    Physical assault by McDonald's for wearing Digital Eye Glass http://eyetap.blogspot.com/2012/07/physical-assault-by-mcdonalds-for.html … @McDonalds    
+    
+    
+    Testing Windows phone 7    
+    
+    
+    @ChickenTyping Moby Dick    
+    
+    
+    Microsoft reports first public loss. Google reports stronger than expected earnings http://gu.com/p/396ef/tw     
+    
+    
+    My Nexus S has been updated to Android 4.1 Jelly Bean. Better widget management, some performance improvement, Google Now.    
+    
+    
+    Developer console crash reports: "java.lang.RuntimeException: eglSwapBuffers failed: EGL_SUCCESS" What the...?? Makes no sense.    
+    
+    
+    Earth from space (#Blender 2.63 #Cycles) http://flic.kr/p/cDmFeJ     
+    
+    
+    Amazing showcase of #HTML5 capabilities: http://bit.ly/aUFV3d (Google Chrome experiment)    
+    
+    
+    Android beats iPhone in number of total users for first time http://androidcommunity.com/android-beats-iphone-in-number-of-total-users-for-first-time-20110107/ …    
+    
+    
+    @iverona ¡Evitalo si puedes!    
+    
+    
+    Android 2.3 Gingerbread Ported to iPhone 3G http://androidcommunity.com/android-2-3-gingerbread-ported-to-iphone-3g-video-20110108/ …    
+    
+    
+    46-inch panel accepts unlimited touch inputs http://www.engadget.com/2011/01/08/multitouch-ltds-46-inch-panel-accepts-unlimited-touch-inputs-w/ …    
+    
+    
+    Ya llegó mi Nexus 7 pic.twitter.com/3BMl54ij    
+    
+    
+    Google Nexus7 tablet: Connect Nexus 7 to Linux via MTP using USB http://www.nexus7tablethelp.com/2012/07/connect-nexus-7-to-linux-via-mtp-using.html?spref=tw …    
+    
+    
+    The World http://twitpic.com/3okgse     
+    
+    
+    @ddavity Suerte, y que se dé bien :D    
+    
+    
+    @notch I felt a great disturbance in the Force, as if millions of clean coders suddenly cried out in terror, and were suddenly silenced.    
+    
+    
+    @Sosowski @notch If this is java he can't to that.    
+    
+    
+    @Bitomule @gamevelop "Modern C++ Design: Generic Programming and Design Patterns Applied", Andrei Alexandrescu #LibrosDeveloper    
+    
+    
+    @AnaMathius ¡Menudo robo!    
+    
+    
+    I favorited a @YouTube video http://youtu.be/-txDHDxklmc?a  Ben Prunty Music - FTL - 24 Rockmen (Battle) FTL Soundtrack    
+    
+    
+    Developers Fork Mandriva Linux, Creating Mageia: http://bit.ly/dluWpb    
+    
+    
+    Modern browsers in real-world benchmark: http://bit.ly/b5YEix    
+    
+    
+    I favorited a @YouTube video http://youtu.be/GZynD4bx-V8?a  Lluis Llach - L'estaca    
+    
+    
+    That's no moon #iOS6 http://twitpic.com/axxa1j     
+    
+    
+    I favorited a @YouTube video http://youtu.be/SQngoCBvq3Q?a  Andromeda Software Development - Happiness is Around the Bend    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/hGdx_82GFSM?a  - Earth from space - Blender 2.64 RC2 - 1080p).    
+    
+    
+    I favorited a @YouTube video http://youtu.be/JE2muDZksP4?a  8.Mozart's Requiem-Lacrimosa (lyrics+translation)    
+    
+    
+    217 points http://html5test.com/ #Chrome 6.0.472.63 #HTML5    
+    
+    
+    I favorited a @YouTube video http://youtu.be/ExJShWGsAB0?a  Wizorb music - Slime Forest    
+    
+    
+    @kikogolk Ya te daré envidia cuando me pueda descargar mi copia :D    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/UKe2Wa9linU?a  - Earth from space HD 1080p - Realistic Version - Blender 2.64 Cycles).    
+    
+    
+    He subido un vídeo de @YouTube (http://youtu.be/MlQKLZgCjLE?a  - Earth from space HD 1080p - Vintage Version - Blender 2.64 Cycles).    
+    
+    
+    Depth of field implemented! http://flic.kr/p/dnyYKe 
+http://flic.kr/p/dnyYQk  #raytracer    
+    
+    
+    The Blender Foundation releases the open movie project Sintel: http://bit.ly/9RDaZH    
+    
+    
+    Horn, published by @zynga, was so poorly localized into Spanish that I wanted to play the English version. Shame I can't choose the language    
+    
+    
+    @kikogolk Yo lo dejé a mitad cansado de padecer.    
+    
+    
+    @gamevelop Mejor    
+    
+    
+    @eleizel ¿Pero qué te ha pasado?    
+    
+    
+    #Windows Vista source #code leaked: http://bit.ly/cnUeWY    
+    
+    
+    #IE marketshare falls below 50% http://timesofindia.indiatimes.com/tech/news/internet/IE-marketshare-falls-below-50/articleshow/6692281.cms …    
+    
+    
+    http://Amazon.com  recommends me books I've already purchased from them.    
+    
+    
+    Space scenes created using #Blender #Cycles http://flic.kr/s/aHsjCKpXRd     
+    
+    
+    "This video contains content from WMG and UMG. It is not available in your country." Okay. It's Grooveshark then.    
+    
+    
+    I favorited a @YouTube video http://youtu.be/Zk-q4RD2fP4?a  Santana - Maggot Brain - Kaiser Gold Sounds 96 - São Paulo    
+    
+    
+    CARL SAGAN: Make the most of this life  http://zenpencils.com/comic/carl-sagan-make-the-most-of-this-life/#.UJztEtNDVEQ.twitter …    
+    
+    
+    Cross-Platform C/C++ Development with Eclipse CDT http://twb.io/MpnOZM     
+    
+    
+    "Mathematics for 3D Game Programming and Computer Graphics" by Eric Lengyel is one of the most useful books I've ever had.    
+    
+    
+    http://lnkd.in/h_gmX9  Both APIs can achieve the same results, but OpenGL. got my vote thanks to cross-platform compatibility. With...    
+    
+    
+    Coded support for VBOs and the FPS are the same. So the bottleneck is still in the fragment shaders and we have space for tons of geometry.    
+    
+    
+    Top+5+reasons+you+should+love+your+ternary+operator+http://wp.me/p10053-1P    
+    
+    
+    Useful tip: you can enter unicode characters within the Inkscape Text Tool by pressing Ctrl+U, the code and then Enter.    
+    
+    
+    I favorited a @YouTube video http://youtu.be/OD0vMWg1ULE?a  Luciano Pavarotti "Recitar...vesti la giubba" Pagliacci    
+    
+    
+    Sometimes when drawing diagrams you never know if they are easily understandable by other people or not. pic.twitter.com/HrsHqpnz    
+    
+    
+    Cherry coke! pic.twitter.com/g7bvt8Fj    
+    
+    
+    Averaging last frames time deltas for current solved lots of FPS issues but on demand shader compilation is still noticeable on some devices    
+    
+    
+    @gamevelop Veo que todavía no podemos registrarnos :(    
+    
+    
+    Testing my brand new Samsung #NexusS    
+    
+    
+    http://bit.ly/aFjR5t #GoogleDocs launches new #chart maker    
+    
+    
+    Most contradictory comment ever: 5 stars "Is f***ing great never download it piece of s**t unstall this!!!" #android #googleplay    
+    
+    
+    @guxlightyear Yep    
+    
+    
+    @buguibuguibuda Looks great! Make the menus show on mouse over, instead of showing them on mouse click.    
+    
+    
+    @buguibuguibuda The menus at the navbar. I'll take a look into meteor.js when I have some spare time, it looks interesting.    
+    
+    
+    Just upgraded to Fedora 14    
+    
+    
+    @damianfm @elmundoes Menudo fail    
+    
+    
+    @idaho06 Si te sirve, a mí me ha pasado eso a todas las edades.    
+    
+    
+    Apple Promises To Fix Glitches In Map Software By Rearranging Earth's Geography   http://www.theonion.com/video/apple-promises-to-fix-glitches-in-map-software-by,30616/ …    
+    
+    
+    Why Eric Schmidt Left As CEO of Google?: http://bit.ly/fvziqg    
+    
+    
+    @TheJare It happened to me. It turned out that using the real deltatime every frame was a bad idea. Averaging past frames solved it.    
+    
+    
+    @TheJare I keep the GC away from running. It appears that the time between calls to onDrawFrame varies greatly on sequential similar frames.    
+    
+    
+    "Math for Game Developers" series teaching the basics http://www.youtube.com/user/BSVino/featured …    
+    
+    
+    @ddavity Ha durado 10 minutos escasos.    
+    
+    
+    @ArtX365 Great lighting!    
+    
+    
+    Major Samantha Carter creates a virus for Goa'uld controlled Stargates, uses C# #microsoft #msdn cc/@JuanKRuiz pic.twitter.com/irKwplmR    
+    
+    
+    #Android SDK Tools r9 and #ADT 9 just launched... now that's speed coding!    
+    
+    
+    I scored 34 of 50 on the #MSDOS #screenshot challenge: http://tinyurl.com/dos-quiz  @StarfieldSoftUK    
+    
+    
+    WolframAlpha - zoidberg curve http://wolfr.am/XeETK8     
+    
+    
+    @Algunenano ¿Tras completar The Secret of Monkey Island?    
+    
+    
+    Enjoying the new SimCity thanks to @LuisMorens    
+    
+    
+    @aitorciki ¿Chrome zampar memoria? ¡Calumnias! pic.twitter.com/kt2H1M1v5x    
+    
+    
+    #KPackageKit in #Fedora 14 tested on some computers... unstable in all of them.    
+    
+    
+    Camera depth of field running in real-time on an Android device :D http://twitpic.com/cgi224     
+    
+    
+    @MRLia ¿qué te ha pasado?    
+    
+    
+    My raytracer is working now on Windows :D http://twitpic.com/cozn5p     
+    
+    
+    @ID_AA_Carmack Compilation time, and keeping all these data on the application memory data segment at the same time, unless using DLLs.    
+    
+    
+    FTL for $2.49 on gog! http://www.gog.com/gamecard/faster_than_light …    
+    
+    
+    Android Fragmentation Report July 2013 http://opensignal.com/reports/fragmentation-2013/ …    
+    
+    
+    This is geek on some many levels http://codepen.io/TimPietrusky/pen/eHGfj …    
+    
+    
+    Intel CEO: Nokia Should Have Gone With Android http://tech.slashdot.org/story/11/02/18/1535257/?sms_ss=twitter&at_xt=4d5fc25d0365042d,0 …    
+    
+    
+    Ya han llegado mis Sennheiser 439 ^_^ pic.twitter.com/yIEQSLAJDi    
+    
+    
+    @Cibeles_ "This video contains content from NBC Universal, who has blocked it on copyright grounds." u_u    
+    
+    
+    Nokia Sells Qt: http://bit.ly/gOH8Fl    
+    
+    
+    Khronos Releases Final WebGL 1.0 Specification - Khronos Group Press Release http://shar.es/3iDl9     
+    
+    
+    My #SVN is slowly rotting... again    
+    
+    
+    Opinion: How the PC is making consoles look out of date http://www.pcauthority.com.au/?250462    
+    
+    
+    #IE9 still lagging behind http://bit.ly/dYkqlK    
+    
+    
+    What Happened to #Nokia?
+http://mobilesoftware.tumblr.com/post/3565611897/what-happened-to-nokia    
+    
+    
+    Game developers want DirectX to 'go away,' says AMD man http://www.engadget.com/2011/03/21/game-develops-want-directx-to-go-away-says-amd-man/ … via @engadget    
+    
+    
+    Carmack: Direct3D is now better than OpenGL http://www.bit-tech.net/news/gaming/2011/03/11/carmack-directx-better-opengl/1 …    
+    
+    
+    Rendimiento IE9-Chrome 10-Firefox 4-Opera 11.01-Safari 5 http://www.muycomputer.com/2011/03/23/comparativa-ie9-chrome-10-firefox-4-opera-11-01-safari-5 …    
+    
+    
+    On Graphics APIs - http://www.gamedev.net/blog/42/entry-2249692-on-apis/    
+    
+    
+    ISO C + Committee Approves C++0x Final Draft: http://bit.ly/fKRTWz    
+    
+    
+    Nokia - No More Symbian Phones After 2012: http://bit.ly/gu2WDj    
+    
+    
+    Coder facts! http://coderfacts.com/post/4216866300/a-todos-se-nos-ha-pasado-por-la-cabeza-alguna-vez … via @coderfacts    
+    
+    
+    I'm very tired of #PHP    
+    
+    
+    Facebook To Be 'Biggest Bank' By 2015: http://bit.ly/e8drud    
+    
+    
+    Dating too Expensive? Get a 'Cloud Girlfriend'  http://www.pcmag.com/article2/0,2817,2383485,00.asp … via @pcmag    
+    
+    
+    Preview: #webOS 3.0 Beta 1 emulator leak http://www.precentral.net/preview-webos-3-0-beta-1-emulator-exclusive …    
+    
+    
+    Stable #Blender 2.57 released! http://bit.ly/ezCvgL    
+    
+    
+    How to fix any computer - The Oatmeal http://theoatmeal.com/blog/fix_computer … via @Oatmeal    
+    
+    
+    My transformation pipeline for OpenGL ES 2 on #Android is working now :D    
+    
+    
+    Preallocating large static buffers for many short-lived small objects reduces the GC overhead on #Android for real-time applications    
+    
+    
+    After 50 hours of work, my multi-threaded 3D engine prototype for #Android 2.2+ is working :D    
+    
+    
+    "The 30 people who dislike this can deep throat a cactus" Best comment I've read on #Youtube    
+    
+    
+    CryTek For Free: CryEngine 3 SDK and Editor: http://bit.ly/hNP8GX    
+    
+    
+    #PHP Passing and returning hashmaps as parameter lists should be outlawed. Maintenance is driving me crazy    
+    
+    
+    I love debugging concurrent code on Saturday morning    
+    
+    
+    Single-pass smooth transition between frames for animated textures is working now :D    
+    
+    
+    It appears that using a frame of reference (pos,front,up) for cameras and actors is working better than using Euler angles. Easier dynamics.    
+    
+    
+    Google Engineers Deny Hack Exploited Chrome: http://bit.ly/mTbkJu    
+    
+    
+    Coder facts! http://coderfacts.com/post/4561743096  via @coderfacts    
+    
+    
+    Rendering of multiple viewports, cameras and scene graphs is working now ^_^    
+    
+    
+    Ubuntu Switches To OpenStack For Cloud: http://bit.ly/lrQegt    
+    
+    
+    Just finished the OBJ loader. Optimizing the mesh was easier than expected but way slower on my NexusS. Will have to use a custom bin format    
+    
+    
+    Models exported from Blender, downloaded from Blender Swap. http://twitpic.com/50q8sg    
+    
+    
+    Simple phong lighting is working now! http://twitpic.com/522cyc    
+    
+    
+    Specular maps are working.  http://twitpic.com/52nzdi    
+    
+    
+    When working with multiple lights, it is way faster using a shader for each light count than using branching or looping on a single shader.    
+    
+    
+    Microsoft Windows after 25 years: A visual history http://www.networkworld.com/slideshows/2010/110810-microsoft-windows-visual-history.html?ap1=rcb …    
+    
+    
+    8 Free E-Books on C# http://rww.to/lIpieV  via @RWW    
+    
+    
+    Per-pixel. Up to 3 lights + ambient. Performance is better than expected and there's room for some improvement. http://twitpic.com/54aauv    
+    
+    
+    Microsoft has received five times more income from Android than from Windows Phone http://www.asymco.com/2011/05/27/microsoft-has-received-five-times-more-income-from-android-than-from-windows-phone/ …    
+    
+    
+    Doom on the Web http://mzl.la/j2WAvM  via @mozhacks    
+    
+    
+    Building "Windows 8" - Video #1 http://www.youtube.com/watch?v=p92QfWOw88I&feature=share …    
+    
+    
+    Debuging math code...    
+    
+    
+    The set of lights contributing to each object is computed and the optimized shader for that set is used. http://twitpic.com/56famt    
+    
+    
+    I felt in love with Thunderbird 5    
+    
+    
+    @ddavity http://www.mozillamessaging.com/en-US/thunderbird/5.0b1/releasenotes/    
+    
+    
+    13 Reasons Why One Developer Dropped Google App Engine http://rww.to/i7FhwA  via @RWW    
+    
+    
+    Silverlight developers rally against Windows 8 plans http://www.itnews.com.au/News/259910,silverlight-developers-rally-against-windows-8-plans.aspx … via @itnews_au    
+    
+    
+    If using quicksort, move to insertion sorting when your subarrays left after pivot selection are small (10-20 elems).    
+    
+    
+    Very useful: http://www.touchtrigonometry.org/     
+    
+    
+    “If I had six hours to cut down trees, I’d spend the first three hours sharpening my axe, and the last three cutting down the trees.”    
+    
+    
+    Common sense http://imgur.com/eoi3d     
+    
+    
+    Pedir http://www.linuxhispano.net/2011/06/21/pedir/ …    
+    
+    
+    Ortographic camera working http://twitpic.com/5exjkm    
+    
+    
+    Simple HUD test http://twitpic.com/5fnzdk    
+    
+    
+    Rendering multiple scenes on multiple viewports http://twitpic.com/5hat08    
+    
+    
+    @ddavity ¡Gracias!    
+    
+    
+    When going mobile, manually unroll all your loops on #shaders. The branch penalties are really high. Got a 5x speed up on Nexus S.    
+    
+    
+    Designing a flexible input system that integrates with 3D picking    
+    
+    
+    @Blag oh my... tell me you have some spare invitations ^_^    
+    
+    
+    Testing #Google+    
+    
+    
+    Source Engine SDK To Be Free: http://bit.ly/j8bnIe     
+    
+    
+    9 Reasons to Switch from Facebook to Google+ http://soc.li/id0fhAL     
+    
+    
+    Just finished the implementation of the Unproject function. Given 2D screen coords produces 3D rays ready for scene intersection checks.    
+    
+    
+    Full screen landscape layout http://twitpic.com/5n3k0o    
+    
+    
+    Dilbert Daily Strip: 2011-07-07: http://www.dilbert.com/strips/comic/2011-07-07/ …    
+    
+    
+    Just substituted my 3 years old Fedora with a fresh Ubuntu install. I'm liking it so far.    
+    
+    
+    Bruce Campbell Confirms New Evil Dead Movie: http://bit.ly/oLF8kT     
+    
+    
+    Adobe Released 64-bit Flash For Linux: http://bit.ly/nWh5e0     
+    
+    
+    Entrevista con Rafael Sanches creador de Recipe Search, Craiglist Notification y Asteroid Tower Defense http://and.roid.es/entrevista-con-rafael-sanches-creador-de-recipe-search-craiglist-notification-y-asteroid-tower-defense.html … via @androides    
+    
+    
+    @ClaudiaTrasto ¡Qué te ha pasado?!?    
+    
+    
+    Wikileaks Moves to Amazon Web Services by @klintron http://rww.to/ewpOhF  via @RWW    
+    
+    
+    @unclebobmartin "Good idea but we don't have time for that" they usually say.    
+    
+    
+    Cambiando de base http://goo.gl/fb/EU1g1    
+    
+    
+    Google Open-Sources NoSQL Database Called LevelDB by @klintron http://rww.to/qrqOLN  via @RWW    
+    
+    
+    The new input system is working for screen events (tap, hold, drag). Now debugging scene and entity events. Won't be ready before vacations.    
+    
+    
+    Android takes almost 50% share of worldwide smart phone market | Canalys http://www.canalys.com/newsroom/android-takes-almost-50-share-worldwide-smart-phone-market …    
+    
+    
+    @ClaudiaTrasto Angry Birds http://www.rovio.com/index.php?page=angry-birds    
+    
+    
+    

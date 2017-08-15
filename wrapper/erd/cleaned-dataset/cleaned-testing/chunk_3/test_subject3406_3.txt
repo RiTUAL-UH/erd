@@ -1,0 +1,640 @@
+ When applying to the bar, they'll probably want to know. If you were a 0L applying to law schools, you'd probably have to disclose it then. I can't imagine why you'd have to disclose it to your school as a current student. (I also can't imagine how disclosing it to your school would hurt you in any way if you felt compelled to tell them.) 
+
+
+
+
+ Also, nearly every law school offers its students access to CALI lessons and nearly every law student stops looking at them after 1L year. I think that's a mistake. CALI lessons can be valuable for hints at the sort of things professors in that area of law might test. 
+
+
+
+
+ This all depends on what your prof covered/emphasized, obviously. If you had my professor, beyond Chevron/Skidmore/Auer, you'd need to be prepared for questions about the type of evidence permitted in adjudications (hearsay is often okay, ex parte is not, etc.), when can agency heads be removed (Myers, Humphrey's Executor, Wiener), when is formal rulemaking required, issues of delegation, what information must be given as part of rule making (underlying data, concise general statement of basis and purpose, etc.),  when is ex-parte communication accepted or at least non-fatal in rulemaking, issues of reviewability (standing, ripeness, mootness, exhaustion, preclusion, review of agency inaction), due process concerns (Goldberg, Matthews v. Eldridge, where property interests come from, etc.), definitions of substantial evidence, separation of powers, ... These were the key concepts I focused on. 
+
+
+
+
+ The FDA is not looking at coffee or cola, but at other products. 
+
+
+
+
+ It is inaccurate to say that the FDA intends to potentially regulate caffeine. Caffeine is already regulated. The FDA is looking into potentially enforcing its existing powers that it has, to date, not exercised much towards caffeinated products.
+
+Food, drugs, medical devices, cosmetics, and food additives are all regulated under the federal Food, Drugs, and Cosmetics Act (FCDA). An important aspect of the FDCA is classifications. Food, drugs, cosmetics, medical devices, food additives, color additives, etc., all are definitional categories with different types and burdens of regulations. Often, the classification is based on the intended use of a substance or item, and caffeine is no different.
+
+Caffeine is regulated based on its intended use. Caffeine in food is not a dietary supplement, it is a food additive and one must show that it is safe. Caffeine in pill form is a drug. Certain products containing caffeine are dietary supplements which is a category of food with special requirements.
+
+When the FDA is speaking about increasing its oversight of caffeine in food products, it's not talking about going after coffee. Caffeine is a natural, non-added constituent in coffee. The same can't be said of many of the other products caffeine has been added to. The FDA is concerned about the use of caffeine as a food additive as well as the blurring distinction between foods and dietary supplements.
+
+Foods are consumed primarily for its taste, aroma, or nutritive value. Food additives are defined in FDCA 201(s) as "any substance the intended use of which results or may reasonably be expected to result, directly or indirectly, in its becoming a component or otherwise affecting the characteristics of any food [omitting the subsequent exceptions]."  Food additives must be Generally Recognized As Safe (GRAS). There is no premarket approval process before an item can be sold, nor is there a definitive FDA-issued list of everything that is GRAS, instead, manufactures have the option of notifying the FDA of their belief something is GRAS before marketing or they can just put it on the market and wait to see if the FDA objects. 
+
+The key element is that GRASness is not inherent in the ingredient, but in the intended use. The FDA recognized caffeine as GRAS in soft drinks, but that determination only applies to soft drinks. All other food products beyond soft drinks that include caffeine have not received prior sanction from the FDA, merely a history of inaction which can change at any time. The FDA would not be adding a new regulation, merely choosing to exercise its existing authorities to declare that an additive (caffeine) is not GRAS in a certain use or form.
+
+Dietary supplements are defined by FDCA 201(ff) as products which contain a vitamin, mineral, herb or other botanical, amino acid, a dietary substance to supplement the total dietary intake, etc. and are not represented for use as a conventional food or as a sole item of a meal or the diet. One problem the FDA has with current dietary supplements is that they are being sold in a way that does not distinguish them from conventional foods. (See http://articles.chicagotribune.com/2011-09-09/health/ct-nw-supplements-quiz-20110909_1_dietary-supplements-energy-drinks-american-herbal-products-association which discusses a food energy drink and a dietary supplement being sold in the same cooler.) Foods have certain safety requirements that dietary supplements do not. Their ingredients are not reviewed for safety in the way that ingredients are for food, or for safety and efficacy the way drugs are reviewed.
+
+The TL;DR version of all is (1) The FDA isn't coming for your coffee; (2) the FDA is not creating new regulatory requirements; and (3) the FDA is considering enforcing its existing authority because of safety concerns and because the public might be mislead into thinking products have been evaluated for safety in a way they actually have not. 
+
+
+
+
+ There is a bus between Brattleboro and Bennington: http://www.moover.com/routes-timetables/bennington 
+
+
+
+
+ When Democrats accused the Bush Administration of engaging in torture, illegal warrantless wiretapping, going to war under false pretenses, and other assorted high crimes and misdemeanors, we were accused of "Bush derangement syndrome."
+
+The feigned outrage of Benghazi is little different from Whitewater (which despite actually stumbling across Monica Lewinsky during its fishing expedition, never found any wrongdoing by the Clintons related to the stated purpose of the investigation) or from those who accused the Clintons of murdering Vince Foster. Say what you will about Democrats, but at least we accuse Republicans of shit they've actually done. 
+
+
+
+
+ AFAIK, without a car, not really. There's no direct bus from Boston or from Hanover, you'd have to take a bus from Hanover to Boston, from Boston to Albany, and then from Albany to Rutland.
+
+Do you have a license? If so, find out if you can rent a car from Rent a Wrecksome locations have lower age requirements than Hertz, Avis, National, etc. 
+
+
+
+
+ I'm not a Prenda fan and I hate being Mr. No. Fun, but while I enjoyed the Star Trek references in Judge Wright's opinion, I find myself agreeing with Mr. Steele that they seem inappropriate in a serious judicial order. It's one thing to slyly slip one or two in, or to have fun in an opinion about a talking cat (if you haven't read it, google Blackie the Talking Cat), and another thing entirely to include many unrelated pop culture references in a serious sanction order accusing people of misconduct. (See pg. 22 of the Federal Judicial Center's Judicial Writing Manual. http://www.fjc.gov/public/pdf.nsf/lookup/JudicialWritingManual.pdf/$file/JudicialWritingManual.pdf)  
+
+
+
+
+ While the common law in the US has generally treated pets as property for which one can receive monetary compensation for things like vet bills or the value of the pet (not encompassing any damages for the emotional attachment and the likejust the replacement cost), this is slowly changing in some US jurisdictions. Courts in California, Florida, Washington, and Louisiana have allowed mental suffering damages related to a wrongful death or injury of a pet, for example.
+
+Whatever source you find for UK tort law, make sure that you check to see if there are new developments in the field. 
+
+
+
+
+ Every legal group constantly holds its views out as law whether it's the liberal ACLU or conservative ACLJ. Every conservative talking head on TV arguing that the Affordable Care Act's individual mandate was clearly unconstitutional (while ignoring that it was originally the idea of the ultra-conservative Heritage Foundation and part of the GOP's own healthcare plan in 1993, before being adopted by Mitt Romney in Massachusetts) ignored the broad language of 1942's Wickard v. Filburn. That the Court eventually went along with a narrowing of Wickard doesn't mean that a metric buttload of people weren't making broad proclamations that what they wanted the law to be was what the law was, even when precedent wasn't on their side.
+
+Every legal advocacy group does it, and it's not a bad thing, it's how the law gets moved. 
+
+
+
+
+ Sometimes the Supreme Court changes its mind, and it doesn't do so unless there is a case before them where at the District Court and Circuit Court of Appeals levels, lawyers argued that what is legal differed from that the Supreme Court previously said was legal. In fact, since the Court rarely takes appeals where there isn't a circuit split, with some Circuit Courts of Appeals going one way and others going the other, it usually involves many lawyers in many courts challenging what the Supreme Court has previously ruled.
+
+An ACLU lawyer might have a broader view of rights, a prosecutor might have a narrower view of rights, and on any given day, either one may be right. 
+
+
+
+
+ Law can be hard. If it was easy, there wouldn't be smart, hardworking lawyers on both sides of an issue arguing before a learned district court judge, appointed by the President and confirmed by Congress, who might decide a question of law one way, be reversed 6-5 by the Circuit Court of Appeals, and then be reversed back 5-4 by the Supreme Court.
+
+Moreover, the law can change. What you know to be the law today might not be the law tomorrow. Administrative law is a good example of how the Supreme Court can be a bit wobbly on issues. Read (if you dare) about Chevron, Auer, Skidmore, Chirstensen v. Harris County, and the latest decision, Decker v. Northwest Environmental Defense Center, and how questions of deference versus respect have moved back and forth. Each decision (well, not Decker, that maintained the status quo more or less) overnight changed the way admin law was practiced. Hell, Justice Scalia wrote the majority opinion in Auer for a unanimous Court in 1997 and a few months ago, wrote a scathing attack on the reasoning of Auer, writing "Our cases have not put forward a persuasive justification for Auer deference," etc., making no mention of the fact that HE WROTE THE BLOODY DECISION! Sorry. Back now. 
+
+
+
+
+ The case law on online student speech is incredibly muddled. In 2010, two en banc panels of the Third Circuit each heard a case involving students creating a spoof MySpace account of their principal with rather similar facts involved, and on the same day, the two panels handed down decisions with opposite conclusions of law. (It was Layshock v. Hermitage Sch. Dist. and J.S. ex. rel. Snyder v. Blue Mountain Sch. Dist.) It was cleared up a year or so later though a rehearing, but it goes to show how unsettled this area of law is.
+
+The Pennsylvania Supreme Court held that speech aimed at a school or its personnel that is brought onto the school campus will be treated as in-school speech. (J.S. ex. rel. H.S. v. Bethlehem Area Sch. Dist.)
+
+The Second Circuit, in two cases, applied a very broad view of school regulation of students' online speech. The Second Circuit's view is that speech likely to come to the attention of the school and cause a material or substantial disruption can be punished, seemingly without anything in the way of a limiting principle. (Wisniewski v. Bd. of Ed. and Doniger v. Niehoff.)
+
+Since it's late and I need to sleep, I'll stop here and just sum up by saying administrators can pretty much do what they want right now. So long as they don't overstep the regulation and punishment that would be permitted for in-school speech, the law is unsettled to the point that being deemed to have qualified immunity is fairly certain should a suit arise. It would be very hard to hold them personally liable for violating a student's online free speech rights. 
+
+
+
+
+ How long do you have before your paper is due? If you have a bit of time, you may want to try getting in touch with the Department of Justice itself and ask if an attorney would be willing to give you their view of the CFAA. (Hint: it's broad. One of their computer crimes attorneys told me a few years ago that he believed using an open wifi without permission may be a CFAA violation, analogizing to walking into a neighbor's home just because the door was left unlocked or open. And please, no downvotes for that, it's not MY view, I vehemently argued against this interpretation.) 
+
+
+
+
+ Goss seems more relevant than morse. One is entitled to due process before suspension or expulsion, but the due process required is quite minimal.
+
+The granddaddy of student rights cases was Tinker v. Des Moines, standing for the principal that student rights don't end at the schoolhouse gate and that wearing black arm bands in protest of the Vietnam War was protected symbolic speech so long as it does not result in a substantial/material disruption of the school environment.
+
+Since others have brought up the free speech cases, I'll quickly run through the holdings, but I don't think believe they relate to the OP's question. Bethel excluded sexually explicit speech from protection in the schoolhouse context (one could phrase it as the Court deciding sexually explicit speech is inherently disruptive), Hazelwood was about speech in the context of school-controlled forums such as a school newspaper, school events, other publications, etc., and Morse was the court carving a special exception out to allow schools to engage in limited viewpoint discrimination when it comes to speech seen as promoting illicit drug use.
+
+The better cases are Goss, TLO v. NJ, etc. 
+
+
+
+
+ It's been codifiedthe First Amendment. It seems that you are asking for what it will take to codify it further?
+
+You seem to be using precedent and codification interchangeably, and the two are not synonymous. Precedents are case law, they're judicial interpretations of statutes and the constitution. Codification is statutes, the Constitution, etc. (I say this not to be a dick or be pedantic, but because I'm not really sure what you are looking for.)
+
+What would it take to further clarify the First Amendment? An additional amendment, which requires a 2/3rd vote in the House and Senate and ratification by 3/4ths of states, or 2/3rds of states to demand a Constitutional Convention, Congress to set the agenda of the Convention (although whether Congress can limit the agenda is disputed by various scholars), the Convention to propose amendments, and 3/4ths of states to ratify them. 
+
+
+
+
+ As an American lawyer, I can't help you much. I know next to nothing about Canadian law, but the best argument I can see for a standard labor law is easing the regulatory burden of businesses. A national company spread across Canada may find itself subject to a range of labor laws, some of which may be conflicting and which may inhibit growth, cost money in software and HR, etc. Federal preemption can ease these burdens. (The counterargument is that preemption can be anti-democratic, because in the US, at least, states are often more responsive to citizen pressure and initiatives than the federal government, and allowing federal preemption in an area reduces the target of special interests to one political arena, whereas otherwise, they'd have to split their time and resources among the provincial governments.) 
+
+
+
+
+ Ultra vires? Really? Grade 12? :P 
+
+
+
+
+ Wow. Compared to other ex-Presidents this long after their presidency, Clinton looks remarkably young and healthy. His diet and exercise regimen have worked wonders. 
+
+
+
+
+ I have no idea what the research methods or accuracy of the methods are, but this does not seem like a positive commentary on the public's view of the judiciary. 
+
+
+
+
+
+
+
+
+
+ In some jurisdictions, yes, and that's certainly the common-law definition. In many jurisdictions however, by statute, the definition of criminal assault encompasses battery.
+
+In Maryland, for example, assault, battery or a combination of the two is charged as assault. There is no longer a separate criminal charge for battery. 
+
+
+
+
+ No need to "guess". Any intentional unwanted physical contact with another person is assault. 
+
+
+
+
+ An administrative law essay question (55 minutes of the 4 hour exam) was based on NASCAR. 
+
+
+
+
+ Have you stayed in touch with any of your past patients (or have they stayed in touch with you by sending the occasional thank you note or Christmas letter-sort of update)? 
+
+
+
+
+ For federal law enforcement officers under the Executive Branch (which includes the Secret Service, FBI, US Marshals, US Park Police, Park Rangers, Pentagon Police, Federal Protective Service officers, DEA agents, ATF agents, etc.), 5 C.F.R. Part 2635 applies. It's not a police-specific statute, it applies to all employees of the Executive Branch. Gifts can be accepted under certain circumstances, and it may well not have applied to what OP described had a federal agent been involved instead of the local cop, but on the other hand, US Office of Govt. Ethics says, "Even if a gift is from a person or organization that has no official dealings with the employees agency, accepting a gift offered because of the employees official position may create an appearance of using public office for private gain." Changing the hypothetical from cop asking for free admission to cop getting free admission by flashing badge still creates an appearance of use of public position for private gain.
+
+On the state law side, many jurisdiction's ethics rules are aimed towards preventing corruption in govt. contracting or in legislating, but some of the state laws in this matrix can apply to police officers: http://www.ncsl.org/legislatures-elections/ethicshome/50-state-table-gift-laws.aspx 
+
+
+
+
+ It isn't always perfectly legal. Depends on the jurisdiction. Moreover, there's a big difference between accepting a gift and using your position of public authority and public trust to *ask* for a gift. 
+
+
+
+
+ Wow. That's very unethical and in many places, criminal. If this happens again, you may want to ask your manager if he wants to contact internal affairs. 
+
+
+
+
+ Yikes. One more instance of someone violently attacking a retail worker and not getting the cops called. :/ Perhaps pressure should be brought to bear on large corporations to treat physical abuse the way they do shoplifters? 
+
+
+
+
+ Unfortunately, I can't a streaming version of it, but if you like this song, the Pyrates Royale, a Maryland pirate/nautical-themed band, do a cover that I think is better than the original. It's on their latest album "Keep Calm and Seek Revenge." http://www.pyrates.com/recordings/ 
+
+
+
+
+ In 2010, a Lebanese army sniper shot and killed an IDF Lt. Colonel and wounded another IDF soldier as an IDF team tried to cut a tree on Israel's side of the border. The UN Interim Force was informed of this work beforehand, and confirmed that the IDF soldiers did not cross the border and that Lebanon had no cause to fire on the soldiers.
+
+Nevertheless, Egypt, Iran, Morocco, Jordan, and Syria all blamed Israel for the incident. 
+
+
+
+
+ Britain and France told the US about it first. Israel was the third country to claim there were chemical weapons used in Syria, but given the anti-Israel conspiracy nuts, this has been lost on many. 
+
+
+
+
+ I thought cats in boxes were both dead and alive? 
+
+
+
+
+ Was the district's legal counsel not consulted or was s/he unaware of the concept of intentional infliction of emotional distress, the concept of post traumatic stress syndrome, and the number of digits that could be in a check to any teacher in that room who decides to sue? 
+
+
+
+
+ Was the district's legal counsel not consulted or was s/he unaware of the concept of intentional infliction of emotional distress, the concept of post traumatic stress syndrome, and the number of digits that could be in a check to any teacher in that room who decides to sue? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If it was the CEO and not two interns, I'd watch. 
+
+
+
+
+ I haven't made them in quite some time, but they always came out well (and I'm NOT a particularly experienced baker). A pretty fool-proof recipe. :-) 
+
+
+
+
+ I've used this recipe..... http://robbiehaf.com/Recipes/A/69.htm 
+
+
+
+
+ If by stole you mean paid for, then sure.
+
+Apple paid Xerox a million dollars worth of pre-IPO stock in exchange for access to Xerox PARC's facility and use of its technology. 
+
+
+
+
+ Law firm. When you graduate, a law firm might hire you. Professor won't. 
+
+
+
+
+ I believe Massachusetts was the last state to require every thing be labeled on merchandise, although there may be local city or county ordinances with such a requirement. MA eliminated that law at the beginning of this year.
+
+I am curious if the sticker law applied to liquidations.... 
+
+
+
+
+ 1993Islamic fundamentalists park Ryder rental truck bomb in World Trade Center parking garage trying to destroy the complex.
+
+1995Tim McVay parks Ryder rental truck bomb in front of Murrah federal building and destroys it.
+
+There is no clear hallmark of foreign terror versus domestic terror. 
+
+
+
+
+ This isn't a very effective threatI'd welcome Fox converting to a cable/satellite-only channel and freeing up the public airwave for a better public use. 
+
+
+
+
+ This isn't a very effective threatI'd welcome Fox converting to a cable/satellite-only channel and freeing up the public airwave for a better public use. 
+
+
+
+
+ This isn't a very effective threatI'd welcome Fox converting to a cable/satellite-only channel and freeing up the public airwave for a better public use. 
+
+
+
+
+ Federal law? Federal law does not set alcohol prices. 
+
+
+
+
+ *nods* Certainly seems questionable. If the worker has a medical condition leading to the flatulence, it should lead to an interactive dialogue between the employee and the SSA, not a reprimand. 
+
+
+
+
+ I'm genuinely not sure if the flatulence disgusts you or the attempt to write him up for it disgusts you. 
+
+
+
+
+ Guess it wasn't as bad as the Social Security Administration's employee whose chronic flatulence made national news when they tried writing him up for it: http://www.nydailynews.com/news/national/fed-agency-retracts-official-reprimand-flatulence-article-1.1238760 
+
+
+
+
+ That's...not true. The articles you linked to say that based on his stature as a hero, trying Rommel before the People's Court would have been very damaging to the military's morale. To avoid damaging morale, Hitler gave Rommel the option of suicide in exchange for his family's suicide, and gave the honorary funeral, official cause of death wartime injuries, etc. to maintain the fiction.
+
+It had nothing to do with Hitler liking him as a general. 
+
+
+
+
+
+
+
+
+
+ "Getting to Yes" by Roger Fisher and William Ury is one of the classics... I'd start there.
+
+For a more anecdotal book, with less of an overarching method, I like Herb Cohen's "You Can Negotiate Anything: The World's Best Negotiator Tells You How To Get What You Want." 
+
+
+
+
+ It's assault. It merits investigation by law enforcement and if it occurred within the relevant statute of limitations, it merits criminal prosecution. 
+
+
+
+
+ It's been done. http://cbsfresh1025.files.wordpress.com/2013/02/spiderman-window-washer.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's illegal to make servers pay for dine and dashers. See: http://consumerist.com/2013/04/02/after-a-dine-and-dash-is-it-legal-for-a-restaurant-to-take-money-from-a-waiters-tips/
+and
+http://www.cleveland.com/schultz/index.ssf/2009/12/the_costs_of_getting_stiffed_s.html 
+
+
+
+
+ Thanks! 
+
+
+
+
+ Thanks! :-) 
+
+
+
+
+ How? 
+
+
+
+
+ If the weather is nice next weekend, go to the Cherry Blossom festival. One of my favorite local performers, Margot Macdonald, is performing on Sunday the 7th. Oh, and the parade is on the 13th and the food afterwards is really good. 
+
+
+
+
+ Back in the late '80s or early '90s, I remember my parents having to return 2 or 3 defective microwaves they just purchased. In frustration, they took a bag of potatoes to the store (I think it was Sears?), exchanged the defective microwave, and tested the replacement right then and there in the store. I think we still went through several more before getting a working model. 
+
+
+
+
+ Who knows-it's possible they might never. But if they do and you didn't disclose it, you are well and truly screwed. Disclosing fully is the best policy (and the ethically appropriate one).  
+
+
+
+
+ The Maryland Bar requires disclosing suspensions and expulsions going back to middle school, which was irksome because I received 1 day of "in-house suspension" for fighting in 6th grade and had to disclose it. (Before school started, while all the teachers were on the 2nd floor in a staff meeting, I was randomly attacked from behind by a kid with issues who started choking me. I defended myself, we wrestled, and someone went and got a teacher who broke it up. Even though the kid, to his credit I suppose, admitted he randomly attacked me, because we both fought, we both got 1 day of inhouse suspension.)
+
+In my mandatory meeting with a member of the character and fitness committee (not because of my disclosure-everyone meets with a member of the committee), she said the committee laughed about this incident.
+
+While your fake ID incident is not likely to amuse (or thrill) law school admission committees, I don't think they are likely to penalize you for it, either. 
+
+
+
+
+ You. I like you. 
+
+
+
+
+ (Note that I do NOT suggest actually attempting this.) 
+
+
+
+
+ The definition of an electronic signature under the Uniform Electronic Transactions Act passed in most states is even more fun! "Electronic signature" means an electronic sound, symbol, or process attached to or logically associated with a record and executed or adopted by a person with the intent to sign the record." (quoting Maryland's version of the Act) If affixed to a record with the intent to sign the record, one could theoretically have a clip from a Britney Spears song be their signature. 
+
+
+
+
+ This was actually the subject of a lawsuit. http://www.lettersofnote.com/2012/03/butt-head-astronomer.html 
+
+
+
+
+ I'm a big fan of Elaine Corn's "Now You're Cooking: Everything a Beginner Needs to Know to Start Cooking Today." http://www.amazon.com/Now-Youre-Cooking-Everything-Beginner/dp/1883791057/ Very clear descriptions of common recipe terms, clear recipes, it's a wonderful starter book. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Why would the process suffer merely by being more broadly observed? 
+
+
+
+
+ Audio and transcripts aren't the same as video. The law isn't a popularity contest, but we do gain by letting the public view the process-transparency begets legitimacy. It could move us beyond thinking of the Court as a 5-4 binary block and highlight the cases when Ginsburg and Scalia are both dissenting, or when the Court is unanimous.
+
+Members of the Court claim that video would lead to 5 second soundbytes, as if Court coverage is not already 5 second soundbytes-they're just being read by anchors instead of the real thing. Video would at least give the possibility of more people getting the full story through a CSPAN-type channel. 
+
+
+
+
+ This isn't a new thing, it's common practice for important oral arguments as the NYT article reports, and it's common for Congressional hearings too.
+
+Live broadcasting oral arguments on TV wouldn't completely eliminate folks being paid to stand in line, but it would help ensure that a full understanding of the workings of one of the three branches of government isn't limited to those who can afford to spend $50 an hour starting four days prior to arguments. 
+
+
+
+
+ This isn't a new thing, it's common for oral arguments as the NYT article reports, and it's common for Congressional hearings too.
+
+Live broadcasting oral arguments on TV wouldn't completely eliminate folks being paid to stand in line, but it would help ensure that a full understanding of the workings of one of the three branches of government isn't limited to those who can afford to spend $50 an hour starting four days prior to arguments. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There are plenty of pieces of history that are in private hands. Are you proposing seizing them as well? 
+
+
+
+
+ For those unfamiliar with the Narwhal Bacon, see here: http://knowyourmeme.com/memes/the-narwhal-bacons-at-midnight 
+
+
+
+
+ What does it take to be disbarred in California? Good grief-attempts at ex parte communications with the judge, and her history of sanctions in other cases seems to merit suspension at bare minimum! 
+
+
+
+
+ When they're the party in a suit, such as a criminal case, family law case, etc., it's not quite so easy to dismiss their filings. 
+
+
+
+
+ That's a question best suited for your lawyer, since debt collection is not my area of expertise. As I recall, (keeping in mind that I can't give you legal advice, I'm not your lawyer, and it's past my bedtime so my memory may be a little foggy), there may be a difference between what an agent of the company can do versus a debt collector. First party collections is generally not covered by the Fair Debt Collections Practices Act. I don't recall off the top of my head if this is a request that needs to be in writing or not. 
+
+
+
+
+ If threatening to turn you in to the feds is threatening you with federal law enforcement, be smart and lawyer up. That's treading dangerously close to extortion if not over the line. 
+
+
+
+
+ *grins* To be fair, we almost never know when a case is coming down. ;) Suspect, maybe, but unless it's the last day of the term.... 
+
+
+
+
+ Gotcha. In that case, we're in complete agreement. :-) 
+
+
+
+
+ I really mean no disrespect when I say this (as opposed to people saying no disrespect when they really mean that they don't care that they're being disrespectful), but I wonder if you and the SPLC are both overstating your respective cases. It does seem overblown to suggest that the issues of courts and the participants being swamped is a result of sovereign citizens and not chronic underfunding and a lack of staff. On the other hand, I think you may be understanding the amount of resources that sovereign citizens drain compared to a more "normal" or rational case. 
+
+To put it in tl;dr terms, The prolong, dragged out nature of these cases is a significant burden on the system, more than just being merely annoying and rarely violent, so I disagree with you there, but I think the system would be pretty well and truly borked regardless of sovereign citizen issues, so, I disagree with the SPLC too. 
+
+
+
+
+ For those paying attention, the white nationalist side of the sovereign citizen movement has been reasonably well documented by the media, but the press has not gotten into the Moorish off-shoots very much. (Although the Southern Poverty Law Center has certainly taken note of the many African-Americans involved with the movement. see http://www.splcenter.org/get-informed/intelligence-files/ideology/sovereign-citizens-movement )
+
+I thought law.reddit.com might be interested in the Post's treatment of the Moorish sovereign citizen movement. 
+
+
+
+
+
+
+
+
+
+ This sort of activity is one reason even in cases with DNA evidence, there is a risk of wrongful conviction. In the midst of the death penalty repeal debate in Maryland, some state senators argued that the tightening of MD's death penalty statute a few years ago that limited death penalty eligibility to cases involving a videotaped confession, evidence on videotape, or DNA evidence was sufficient to avoid wrongful convictions. (One state senator even loudly proclaimed he was tired of hearing the other side of the issue utter the name Kirk Bloodsworth, a Maryland man freed from death death row who was in attendance at the hearing, because they tightened the statute to prevent that sort of scenario.)
+
+DNA doesn't speak for itself, however, It's interpreted evidence, interpreted by science, potentially manipulated accidentally or purposefully, and at risk of having a forensic person lie about the result. 
+
+
+
+
+ I'm glad you stood strong! 
+
+
+
+
+ Yikes. Sorry you went through that. 
+
+What did the 8 group leaders want to ask you or tell you? 
+
+
+
+
+ Sorry to hear about this. :( I do tend to suspect it might be a matter of sequestration, as callmehondo said below. It definitely sucks and is unfair, but there's also not much in the way of potential remedies for it... 
+
+My only suggestion is to contact some alums in the private sector (if there is a private sector counterpart to what the job would have been), say what happened, and ask if they know anyone who might be able help you find an equivalent internship. (You'd probably have to go unpaid instead of paid, but better than nothing...) Given that you so obviously got screwed, alums of your school may be more inclined to help you than the average person who shoots them an e-mail. 
+
+
+
+
+ Some pay, some don't. Pathways program, for example, are all paid. 
+
+
+
+
+ Testing people's security by walking up to their houses and jiggling the door handle will probably get you in legal trouble. Going inside houses, taking an item from each, and giving your spoils to the press to publicize the issue will definitely get you in legal trouble. 
+
+
+
+
+ An interesting mix in the decision making: Breyer wrote the majority, joined by Roberts, Thomas, Alito, Sotomayor, and Kagan. Kagan wrote an concurring opinion joined by Alito. Ginsburg wrote a dissent joined by Kennedy, and joined by Scalia except to parts III and V-B-1. 
+
+
+
+
+
+
+
+
+
+ We live in a very scary world. Glad the guy was arrested, and I hope your coworker is doing better now. 
+
+
+
+
+ It's a state-specific analysis, so, hard to give you advice in the abstract... 
+
+
+
+
+ Good for you! :-) 
+
+
+
+
+ I'd hope that surveillance footage might be worth at least handing over to police.... Assault is a serious matter. 
+
+
+
+
+ I'm distressed by the number of stories in this subreddit that involve things being thrown at employees. Do stores really not call the cops over this? It's assault, for goodness sakes. 
+
+
+
+
+ You certainly won't have opportunity for street busking like you might in Boston or NYC. Playing for free on the Green? Sure. Having folks toss money in a hat? Not going to happen.
+
+But yes, there are plenty of things to do. The Dartmouth Outing Club has many outdoorsy options beyond extreme sports, if you're interest in skiing, there's the Dartmouth Skiway, there's horseback riding at the Dartmouth Riding Center, there's pickup sports games, there's frisbee on the Green, there's the Hanover Country Club if you want to play golf, etc... All sorts of options.
+
+There are sometimes open mic-type events at the Collis Center, and you may be able to arrange playing there as well. Not many places to play off campus because there isn't much "off campus" in general. There IS an acoustic music showcase at the Canoe Club, a restaurant a block from the Green. I'm not sure if it's an open mic night or what-that particular event only started up last month and I'm long graduated, but you could give them a call or e-mail and ask. http://www.canoeclub.us
+
+As far as not getting bored, the Hopkins Center for the Arts is pretty good at bring fascinating performers to campus, and student tickets are really cheap. I definitely miss getting front row tickets for artists like Itzhak Perlman or Bobby McFerrin for $5. (I think they're $10 now, but $10 to hear the likes of Yo-Yo Ma, who performed at Dartmouth this past September, seems like a bargain to me.) The Hopkins Center would also probably be the folks to contact to ask about jam sessions and the like-they should know... 
+
+
+
+
+ Profiling is legal, so long as it isn't based on prohibited criteria, such as race, nationality, religion, etc. Having a pot leaf sticker or t-shirt isn't a protected classification.
+
+Looking like a stoner doesn't give the officer a right to have a dog brought in-the officer already has a right to have dog brought in, and has the right to exercise discretion as to whether to bother or not. Making that decision because someone looks like a stoner, so long as the officer's definition of stoner isn't based on a suspect class like race, etc., perfectly okay. 
+
+
+
+
+ Apparently, the government must intrude on individual rights to ensure the government doesn't intrude on individual rights. 
+
+
+
+

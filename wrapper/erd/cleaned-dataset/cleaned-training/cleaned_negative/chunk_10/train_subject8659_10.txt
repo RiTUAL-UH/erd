@@ -1,0 +1,233 @@
+
+
+
+
+
+ He's not saying that he doesn't WANT to believe it, but rather pointing out some inconsistent or strange details in the story, as many other people have in this thread. Reddit is notorious for blindly taking stories at face value without questioning the credibility, and thats exactly what /u/drguildo is doing. 
+
+While your statement is a very valid one, it doesn't apply to this situation at all. 
+
+
+
+
+ That WAAYY too much truffle oil. I would use like 5-10 drops of truffle oil in 1/2 cup ketchup. I'm assuming they're referring to truffled olive oil instead, but that's a HUGE difference. Also, 2 tbls of real truffle oil would cost at least a dollar. 
+
+
+
+
+ I'm more or less just summarizing what was on the front page of reddit in the aftermath of the FPH ban. I'm not stating whether the reasoning was sound or not, but rather WHY people felt that way. I mentioned /r/coontown because that was one of the frequently debated subs since many people consider it to be harassing, even though it didn't technically break any of Reddit's rules. 
+
+
+
+
+ Although a bit of a double standard, I think it more the way that it was done.
+
+Most people seemed to be upset that there was no transparency in what was going on within Reddit (Pao Admins Mods Users) rather than the actual situations. Plenty of people were 100% for banning FPH, but thought it was ridiculous that these rules came from nowhere and other subs like /r/coontown were still active. Also, Huffman seems like a standup guy whereas Pao seems like... well, you get it. 
+
+
+
+
+ I have medium hands and use a fingertip grip and I find it very comfortable.  
+
+
+
+
+ Nope, rather the opposite. I tried eating and ENTIRE lemon... the peal is still EXTREMELY bitter, where as the sour fruit is like lemonade. 
+
+
+
+
+ Update on any photos? 
+
+
+
+
+ Neither is "better" or "worse" because people died. 1st degree murder is generally thought to be worse than manslaughter, even though the outcome (someone dying) is the same. 
+
+
+
+
+ Do you know if the M65 is the same size/shape with different features, or if it's completely redesigned? 
+
+
+
+
+ Didn't realize they were actually made for claw grip...Thanks! 
+
+
+
+
+ I noticed the chassis on my R.A.T 7 was a little bent making it impossible to get accurate shots, so I'm looking for a replacement. I mostly play FPS or RTS games, so I don't need dozens of buttons, but its hard to find a mouse that is good for us claw grippers. 
+
+
+
+
+ Have you ever torrented before? I ask because a Windows 7 disk would be the best tool in this situation and it's very easy to get a copy via torrents.
+
+Also, [see if there's a Microsoft Store near you](http://www.microsoft.com/en-us/store/locations/), they'll do free tune-ups and repairs for you!
+ 
+
+
+
+
+ Your system should still POST without a CMOS battery, although you can always try to "reset" it by removing the regular and CMOS battery, shorting out the CMOS battery pin for a few seconds with a paperclip, screwdriver, etc., re-inserting the regular battery, but leave the CMOS out and see what happens.
+
+In some cases this can effectively reset your BIOS settings if that is the actual issue. As others have stated, it does seem like a possible motherboard failure. Even though it doesn't seem to be booting properly, I would still try a second display just for kicks and see if it even tries to detect an input. Most POST's try to check a video card, so if your onboard graphics are shot, you wouldn't get a display and the computer wouldn't continue to boot normally.  
+
+
+
+
+ That link is a great start. Post back if you get stuck or none of those options fix it. 
+
+
+
+
+ I believe MSI uses the delete or Del key to enter the BIOS. Make sure the system is COMPLETELY powered off, hit the power button, keep tapping the delete key. If it doesn't work the first time, try a couple more to make sure. 
+
+
+
+
+ Yay! 
+
+I would still run at least [ADWCleaner](http://www.bleepingcomputer.com/download/adwcleaner/dl/125/) and [Malwarebytes](http://www.malwarebytes.org/lp/malware_lp_form/) since it's most likely some adware that caused that change in the first place. You may also want to look at any recently installed programs or browser add-ons/extensions to see if there's anything suspicious.
+
+Good luck! 
+
+
+
+
+ okie dokie...
+I would make sure your network drivers are fully up-to-date. Also, you can run the command, "ping www.google.com -t" and it will constantly ping that website until you stop it. Its normal for the occasional ping to not go through, but if you start to get several in a row, that's definitely an issue. 
+
+
+
+
+ Generally, no. The LED is wired directly to the webcam, so if that's getting power, the LED is on.
+
+That said, there are probably models NOT wired this way, but the vast majority are. 
+
+
+
+
+ [THIS](http://www.utechsmart.com/Attachments/download/UtechSmart-Venus-Driver.rar) is a link to the software and drivers for your mouse and [THIS](http://www.utechsmart.com/Attachments/download/536c76730cfaa.JPG) is the manual. 
+
+They package it in .rar so you may need 7zip or WinRAR to unpack them. Once extracted, install all software. Hopefully the software will let you configure your buttons.  
+
+
+
+
+ Do you have another device to test the connection with? This would help pinpoint whether it's your device, or the Comcast modem/router. 
+
+
+
+
+ Go to your BIOS and make sure Secure Boot and/or UEFI boot are enabled.  
+
+
+
+
+ What brand/model laptop? Different laptops use different battery technologies. 
+
+
+
+
+ I currently have this issue and it's a known issue.
+
+Your Ethernet drivers aren't currently compatible with that build of Windows. There's no software workaround (unless you can find an random Ethernet driver that is compatible with your NIC and Windows 10) but, you could purchase a Ethernet-to-USB adapter or a USB Wifi adapter if needed.
+
+Things link this happen when running beta software :/ 
+
+
+
+
+ I would check your splices in the wires. I did the same thing once, the electrical tape fell off, and they shorted.  
+
+
+
+
+ I'm thinking it's an OS issue, malware, or RAM issue.
+
+1. In an elevated command prompt (search "CMD", right-click, and select "run as admin"), type "sfc /scannow" without the "". When the scan is done, let us know what it says.
+
+2. Make a bootable USB with [Memtest86+](http://www.memtest.org/download/5.01/memtest86+-5.01.usb.installer.zip) on it. Boot to the USB and let memtest run overnight or for several passes. If you need further help with this, let us know.
+
+3. Run a bunch of malware scans to see if you might have an infection. This is a [helpful link](http://rtechsupport.wikia.com/wiki/Virus_and_Malware_Detection_and_Removal)
+
+ 
+
+
+
+
+ Do you hear your HDD spin up? If you have an optical/DVD drive, will it open? If either of these are true, your PSU is *probably* fine and its a motherboard issue.
+
+It may be a pain, but I would visit a local shop to help diagnose. Geek Squad, Microsoft Store, or even a local shop should have a power supply (PSU) tester and/or a spare PSU to test your components. It should very quickly tell if your PSU or motherboard are bad. 
+
+My guess would be on motherboard as that is a very nice PSU. That said, there should be a switch on the PSU for 120v/220v.. make sure its on the correct setting. If its a modular PSU, un-plug and re-plug BOTH ends of the cables.
+
+Do you hear your HDD spin up? If you have an optical/DVD drive, will it open? If either of these are true, your PSU is *probably* fine and its a motherboard issue. 
+
+
+
+
+ Sometimes, this issue fixes itself after an update, but lets try to manually do this.
+
+What brand PC is it? Generally, the BIOS menu is F2, Esc, Del, or F12.  
+
+
+
+
+ In addition to checking the Task Scheduler Library, try running a program like CCleaner (specifically the registry cleaner) which will sometimes remove missing .dll files. Autoruns is another free program that you could use to investigate and possibly solve the issue. 
+
+
+
+
+ Couple things to try...
+
+-Go to Control PanelNetwork   InternetInternet Options. Select the "Connections" tab, and then click the LAN settings button at the bottom. In the new window, un-check the "Use proxy server..." and check the "Automatically detect settings" box. If the proxy box was checked, this should resolve the issue, however, some malware will continuously re-enable it. Let us know if that's the problem.
+
+-Malware is the most likely cause for this to happen. ADW Cleaner and Malwarebytes are awesome and permanently free. Hitman Pro is another great program that does a great job at removing rogue proxies, but its only a 30 day trial.
+
+-If none of these work, you could try to manually remove any proxies from the registry, but lets cross that bridge only if we need to.
+
+ 
+
+
+
+
+ Do this:
+
+1. go to https://myservice.surface.com/
+
+2. Honestly answer the questions, or click on the talk to agent link.
+
+3. They should be able to offer you a replacement for ~$320
+
+OR
+
+Go into a Microsoft Store, if there is one near you. They might be able to do it in store for you. 
+
+
+
+
+ better native photo editor, photo manager, video editor and music manager than windows
+
+True (although the new Windows 10 ones are seemingly improved), but there are SO many free ones available on PC, it doesn't justify a high price point.
+
+they sure as hell have "redeeming qualities" that windows does not have
+
+You are quoting build quality, yet comparing it to Windows. Windows Hardware. There are many, MANY high end PC's that have amazing build quality. Hell, even the Acer makes an laptop comparable to a MacBook Air, the S7. If anything, OSX vs Windows is a preference, but Windows is lighter, especially Windows 10.
+
+they just aren't for gaming; EDIT: Which is why people should stop bringing it up on a gaming subreddit.
+
+You could argue that /r/pcmasterrace is more of a hardware sub than a true gaming sub. 
+
+ 
+
+
+
+
+ Personally, no. I may go about once every 3-4 weeks and my hair grows pretty fast. I have many male friends who have shorter, "professional" hair styles that require them to get their hair cut every two weeks. They think its strange that I wait a month! 
+
+
+
+

@@ -1,0 +1,811 @@
+ Holy Mother of God! They are sooo beautiful  
+
+
+
+
+ I like Australis among the flaws that several have reported.  
+
+One thing that totally breaks up the user experience is the sliding tab movement.  
+
+What I've noticed it that is as long as the mouse pointer stays in the tab's area, then movement is smooth and perfect as usual; but the moment i go a bit down and over the Awesome bar or anything in vicinity, the drag movement abruptly stops.  
+Honestly, its a total ruin because nobody can be so precise in maintaining the drag movement in such a small area.  
+
+Please borrow idea from the competition and extend the drag-able area to the Awesome Bar also.  
+Only then during fast browsing session can people feel the speed, mainly due to lack of disruption. 
+
+
+
+
+ Ah yes, I did read about this, my Seagate cable has the usual plastic covering around it.  
+I feel it was the driver problem though, after installing the proprietary drivers all seems fine :)  
+
+
+
+
+ firefox creates a  new profile after install.  
+better do the above mentioned method for fixing your problem. 
+
+
+
+
+ Nightingale - though its a media player, it can browse the web too  
+http://getnightingale.com/
+ 
+
+
+
+
+ 98 is just perfect!  
+i really wish they rid of all the blue color for the icons, The original colors(Gold, greens etc.) have to be brought back.  
+and i personally found the less curvy tabs more beautiful.  
+Just wish they bring back what people need.   
+
+
+
+
+ F1 cards 
+
+
+
+
+ im installing it, do i need to uninstall the driver that comes along with fedora? if yes, do you know the package name?
+
+EDIT-  
+Ive installed(broadcom-wl;akmod-wl) and uninstalled nothing. Everything seems to be working fine and im able to connect my hard disk and browse for now :D :D :D   
+
+THANK YOU! For your time and help! :D :D :D
+
+Why cant the open source driver just be as good O_O?   
+
+
+
+
+ I so wish they do this to DOWNLOADS. i hate a new window 
+
+
+
+
+ yeah! :D i wish this gets implemented somehow 
+
+
+
+
+ Sorry for the confusion  
+
+i meant that an upward scroll of a few lines and "all the way up"scroll will reveal this toolbar menu.( if you use the new Facebook app you'll probably understand much easier) :)  
+
+At the top position of the page the toolbar should be shown as default
+ 
+
+
+
+
+ Since most of the highly used buttons of a browser are tucked away and accessing them requires more click or taps, i felt a disappearing toolbar area just like the way the new Facebook app does with 'Status|Photos|Activity' bar on the bottom would be great.  
+
+Screenshot - https://imgur.com/Efav1kc
+
+For  once you start scrolling down, it neatly hides its self, and only reveals when your are scrolling all the way up or are already at the top of the page.  
+This way you still get back all the screen space and the most used buttons are always available to the users upfront. 
+
+
+
+
+ unfortunately there is no debug file in b43 folder :/ 
+
+
+
+
+ TouchPal is actually quite popular and free! Please do check it out :) 
+
+
+
+
+ i've had this issue more profound on TouchPal keyboard. After i switched to SwiftKey, its kinda less, maybe RAM freed up?  
+
+
+
+
+ its probably got to do with the google search suggestions thing.  
+ 
+
+
+
+
+ 1) I'm using the ones that came default with the Fedora install. I havn't modified the WiFi drivers in anyway so far.  
+2) http://pastebin.com/4eL8pc9p
+
+EDIT - the SSL thing is probably the https everywhere addon. And it include the normal browsing phase, HD connecting and internet inactive phase, and the back to normal phase once i disconnect the HD 
+
+
+
+
+ 1) 09:00.0 Network controller: Broadcom Corporation BCM4313 802.11bgn Wireless Network Adapter (rev 01)  
+2) where do i find the logs to copy paste? 
+
+
+
+
+ Wifi works on windows 7 after connecting the external HD.  
+It seemed fine in ubuntu(long back) 
+
+
+
+
+ ive got a seagate external usb hard disk and for some reason my Wifi stops working once i connect it. I browse through my android phone and the internet work super smooth at these times.
+The current fix is only to disconnect the hard disk and continue browsing.  
+
+Its a Dell N5110 15R system with Fedora 20 completely updated. Any way to fix this issue?   
+
+
+
+
+ just try uninstalling/reinstalling the font support package via fedy itself. Fedy installs infinality http://www.infinality.net/ package for better font rendering. 
+
+
+
+
+ i guess ill have to buy a new good phone without a physical menu button :D XD  
+
+Yeah that's true, its just that it would be great if important buttons are laid out like the desktop version....hey! wait, is it possible to have a disappearing menu/button bar area, just like the new facebook app which has "status | photos | activity" that disappears while scrolling down and re-appears while upward scroll? 
+
+
+
+
+  If the phone has a physical menu button, no menu should be displayed, unless the app has an outdated Manifest (might be the case for Twitter for all I know).  
+
+Yeah that's it, the tradeoff between physical/virtual menu button. i feel it'll be best left to the user if he/she wants to enable the 3 dot menu button on phones with a physical menu button. 
+
+i feel the most important buttons such as back, forward, refresh should be in a much more easily accessible location on the screen, instead of going through a menu.  
+
+
+And thank you for the mention of gestures- will get an add on right away :D  
+
+ 
+
+
+
+
+ on large screen phones, while holding it one hand, reaching the menu key to refresh or reload the page is painfully annoying.   
+People need to shift the phone position just to do a simple refresh.  
+And on large screen size phone's the 3 dot menu is not provided(due to design guidelines by google), but the Twitter app has still provided it. Some sort of fix or user choice enable/disable menu/custom button should be provided near the tab count icon. 
+
+
+
+
+ The earth also, but we don't share it very well like the internet  
+
+
+
+
+ Found that the twitter app on my phone has the menu option enabled - https://imgur.com/UfPwUUN
+
+Guess sometimes user-experience comes first. 
+
+
+
+
+ but at-least leaving an option in something like about:config would have helped lots of users out, instead of just disabling this menu button completely. :( 
+
+
+
+
+ Its a Micromax A110 Canvas 2.
+Yes it is has capacitive buttons on the bottom of the screen.
+
+But the lack of a Soft-Menu button is a deal-breaker :(  
+Since this is a phablet type(5-inches) device moving the finger from the screen to the bottom just to access menu button is quite frustrating. 
+
+The FF team should have provided this option to the users to enable/disable the virtual menu button :( :(
+
+Edit - runs on stock android jelly bean 4.1.1 
+
+
+
+
+ I love it! 
+
+
+
+
+ I Use the latest version Firefox Beta 29 (android) on a Micromax A110 Canvas 2 Device which runs on Jelly bean.  
+I've noticed a three dotted menu button in various screen shots and other devices, but i do not have one :/  
+
+Screenshot - https://imgur.com/cWb8yKn  
+
+It kinda ruins the browsing experience because it is such a big phone and reaching down to access the capacitive buttons is totally a mess.  
+
+Anyone know of a fix?   
+
+
+
+
+ It is in the works, a project called Electrolysis  
+
+https://www.youtube.com/watch?v=7YkWWAAglJ8 
+
+
+
+
+ :) 
+
+
+
+
+ happy to help! :) 
+
+
+
+
+ well, if you have a no-history state, then you can pin in all the sites you enter the first few times. You can Drag and re-order them too.  
+
+You can also pin the bookmarks by dragging and dropping them on any of the thumbnail.
+
+Or maybe this add-on could help you - https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/  
+There 
+
+
+
+
+ well copying of features works vice-versa in the open-source world.  
+That's why good things spread and progress happens :)  
+
+Custom tiles as in? 
+
+
+
+
+ Great going! :) 
+
+
+
+
+ The power that governments have these days can be misused.  
+Take a look at Syria, Turkey, UAE, Saudi Arabia, China etc.  
+Forget the internet in places like North Korea.  
+
+This is the why Mozilla has taken a stand to support a free and open web among other things.  
+
+
+
+
+ Over the past few year, so many policies and controlling measures have come in to the world on controlling internet usage.  
+
+We have seen SOPA, PIPA, NSA, NETRA(india), CMS(India) etc. that have been proposed to control the flow of content and hamper sources over the internet.  
+This Clearly breaks the foundation of free speech, privacy among various other issues.  
+
+Please take a stand and Join the effort - http://mzl.la/QQRcMM
+
+YOU are the change and YOU are in charge!  
+
+Our voice maybe tiny but it definitely leaves an impact in the world community, which the internet truly is, a global one.  
+
+NOTE - Though you may or may not be a user of the Firefox browser. Please consider sharing this piece of info of your fav. social networks!  
+It is no way a campaign to download the latest Re-designed version of the Firefox Web Browser(but if you do download/use, thank you for keeping the community strong)   
+
+
+
+
+ Beautiful 
+
+
+
+
+ Felt the same way too :D 
+Good move Mozilla by launching Firefox and this on the same day 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've made a newbie linux guide. Hopefully you should find it useful! :)  
+https://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/
+
+Share it with your friends, family if you would like to. Peace! :) 
+
+
+
+
+ oh, thats bad :/
+
+But if someone could figure out something like the new linear loading bar, it would be awesome! ;) 
+
+
+
+
+ Thanks a lot for help and time! :) 
+
+
+
+
+ ah yes it is indeed an external mouse. i've used it before without problems, but probably some update package has caused this :/ 
+
+
+
+
+ THIS IS SO GOOD :D  
+
+
+
+
+ I've noticed when I access the Options to tap-click things likes sync, customize, Mozilla etc. there this certain animation of one screen closing and the tap-clicked option opening up.  
+Thing is on low powered(512MB) devices, there is a noticeable lag while this switch takes place. 
+
+Is there anyway to disable this animation? 
+
+
+
+
+ Me too!  
+
+
+
+
+ Im having an issue while using the scroll wheel on my mouse.
+If im scrolling down a page, sometimes out of nowhere, it bounces lightly and scrolls upward a bit.
+This is mighty frustrating on long webpages when, i have to go through this effect every few lines that get scrolled.
+The mouse works perfect and I've tested it in windows too without any problems. 
+
+Anybody have a solution? 
+
+
+
+
+
+
+
+
+
+ i use the nightly and the beta, the rounded back button still doesn't seem to pushed into beta yet.  
+Hope it comes soon, makes the interface equal and standard over different platforms. 
+
+
+
+
+ like the new website idea a lot! :) 
+
+
+
+
+ i initially thought it was a gnome desktop with lots of beautification. 
+
+
+
+
+
+
+
+
+
+ http://imgur.com/sXoizoK
+
+Mag lines travel in a particular direction, if im not wrong, so wont this cause and upward force, considering the force lines flow from bottom to top?  
+this is what i meant, just wanted to know if its possible. 
+ 
+
+
+
+
+ Well if that's the case, then keeping one magnet fixed and the other in a container above the stationary one, the magnet should float or hover right? 
+
+
+
+
+ I'd like to know if magnets on their own or using some combo can produce repulsive force of order like 1000N or so? 
+What factors hamper such things, like area, material etc? 
+
+
+
+
+ Personal BeliefCompany PolicyWhat i want to do with my money!
+
+Edit-I don't care about the down votes and all, but I wouldn't hate America or Americans because Obama or George W. Bush was the President.  
+
+
+
+
+ Twitter follows the emoji pack - https://twitter.com/Support/status/451399393850052610 
+
+
+
+
+ i'm not seeing the Anti-Firefox page now.
+But the damage has been done. A big one i believe. 
+
+
+
+
+ Time to boycott OkCupid.
+There are thousands of people who may or may not support the LGBT groups, but seriously WTF is it got to do with a non-profit that makes a pro-privacy browser?
+
+Edit : They(OkCupid) have to publicly apologize and make up for all the lost Firefox users. 
+
+
+
+
+ They should get sued!  
+
+
+
+
+
+
+
+
+
+ You'll have the Segoe UI Symbol Fonts i guess 
+
+
+
+
+ well, technology evolves.  
+But yeah i agree, there isn't much consistency over these symbols on different platforms 
+
+
+
+
+
+
+
+
+
+ Just found that these two packages are available for Emoji support for Fedora Linux - gdouros-symbola-fonts   google-android-emoji-fonts
+
+Made a blog post to help stranded users - http://test_subject3336.wordpress.com/2014/03/29/emoji-on-fedora-linux/
+
+Also color emoji support might come soon if Noto Color Emoji comes upstream 
+
+
+
+
+ thanks a lot, i hope something similar exists on fedora :) 
+
+
+
+
+ The logo instead of the 'O' in fox - awesome! :D 
+
+
+
+
+ I get these  - boxes with number's when i see an Emoji. Is is because im on Linux or is it the browser issue?  
+Some of them are rendered pretty though. 
+
+
+
+
+ Good Going! I Just hope more people are aware about this project! :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ah yes, just saved the the top result on google ^ _ ^ ' 
+
+
+
+
+
+
+
+
+
+ yeah thats also nice! :D 
+
+
+
+
+ create a new profile 
+
+
+
+
+ i just made a rendition of mine http://imgur.com/FDM2nkz 
+
+
+
+
+ its the flat-look effect.  
+can we have a Firefox logo somewhere? 
+
+
+
+
+ http://rpmfusion.org/Configuration/
+
+This link is all you need at first. Install the repo's there and if you like terminal do a - "yum install vlc"  
+
+
+
+
+ Bang-on! Prefect hit all those points.
+Though i love the whole shift to Australis, the issues above are worth pondering and acting upon 
+
+
+
+
+ www.nsa.gov 
+
+
+
+
+ The Direction looks stunning in the trailer 
+
+
+
+
+ oh okay :)
+Ive been trying to solve an issue involving these option, so just wanted to know if there was a manual page.  
+Thanks! :) 
+
+
+
+
+ This is the newer version that works for me(Some inconsistencies are present):
+
+    @namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+        #urlbar {-moz-appearance: none !important; background-color: #FFFFFF; border-radius: 20px !important;}
+        #search-container textbox {-moz-appearance: none !important; border-radius: 20px !important;}
+
+Edit - The code lines posted by @shortkey work perfectly on Firefox for Windows.  
+The above lines are for Linux versions of Firefox 
+
+
+
+
+ hey can i know from where you find out parameters like #urlbar and its associated options? 
+
+
+
+
+ Nothing is. NSA clearly has an upper hand now.  
+All we as common people do is enforce encryption in the services we use.  
+It only increases computation time to break codes then. 
+
+
+
+
+       they have to be manually changed I guess.
+ 
+ Yes this would be most serious roadblock. Also I am not sure if different drivers would be available for these totally different kind of old hardware presen
+
+Installing Linux takes 10 Minutes. Legacy Hardware support is quite good. 
+
+
+
+
+ If its new Machine orders, manufacturers take care of preloaded OS.  
+If its in use they have to be manually changed I guess. Once the switch is made OTA updates are possible to upgrade Linux Distro's.
+
+Survival of Fittest.  
+
+
+
+
+ Distro Dev's are contributors to Kernel Codes. 
+
+
+
+
+ The post was about Linux not Unix. Out of the blue a Unix Kernel talk came and its reached so far. I'm done talking.
+
+Have a Good Day.  
+
+
+
+
+ Error Reports dont just go out in the name of UNIX. It goes back to the developers(Here apple and FreeBSD).
+If its somebody else who developed the UNIX variant, it goes back to them. 
+
+
+
+
+ Please go use a new good Linux Platform, you'll understand the way in which bugzilla works these days by auto uploading your bug-reports, even without you providing any details of the bug. All you need to provide is your email and password during the initial setup of the bug reporting tool.  
+
+SER as you says only collects and gives to Micro - true, but whats the use if you pay for an OS that doesn't fix your problem??? Why are people wasting $ on a company that chooses if it has to fix your problem or not?  
+
+This whole topic was on Linux and Windows.  
+I did mention a bit above that Linux and Unix are two different things.
+ 
+
+
+
+
+ This whole forum was on Linux.  
+
+And as for Unix, FreeBSD a variant of it does the above. Also does Mac OS X which is a derivative of Unix, they do it well too. 
+
+
+
+
+ It does, it does!
+
+My error was on my end, not the mechanism 
+
+
+
+
+ Damn you've got to be kidding me.  
+
+Linux has Bug report systems like ABRT, Bugzilla. And they do a Better job than Send Error Report(which i haven't seen fix any errors).  
+
+I dont know if you mean Autodesk 3ds Max, Maya, CATIA  as poorly designed apps. But ive got a heck load of problems when i used to work with them. 
+
+And as for so called "unix distros don't have any central company to supply updates"  
+Maybe you should use Ubuntu or Fedora and see how wonderful they handle updates.(That includes core kernel updates without breaking the system).
+Also you're able to Upgrade the entire OS to the latest version from these central repositories. 
+
+I use windows for my gaming, i love it for that. Its the only place it shines.  For work its Linux, because its reliable and stays solid
+
+ 
+
+
+
+
+
+
+
+
+
+ Since Fedora is a community based Distro, i feel it'll be great to have some feedback from them itself for the Fedora Project to be leaders again in the Free Linux OS field.
+
+I've been using Linux dating long back to Redhat Linux 7 and onwards.
+There have been amazing changes. Since ive used Linux so long, its real hard for me to go back to my Windows OS.
+
+Here are few areas i feel Fedora Project need to pay more attention to:
+
+1. Looks:  
+We have all the icons and everything is symbolic. Its perfect. But where it lacks is that its not aesthetically pleasing. People always tend to judge a product by its finish and looks. One amazing example here is Apple - Im sure most mac buyers don't go into the details of the OS or its usage and purpose, but just give into the looks of the product. The color palette needs a refresh i feel. 
+Currently its functional not pleasing (from the eyes of a normal user)
+
+2. Tutorials:  
+We need to provide the common user an OFFICIAL source of Text and Video based tutorial regarding things like installation, Music, Movies, App Installation etc. It should be clean and no Gimmicks. And the best way to host them would be TORRENTS! 
+
+3. Default Packages:  
+This is one part im a bit sad about. Previous version of Fedora came with the big guns of open source like GIMP, games etc. but most of it is removed these days. 
+Normal people wont want all the other packages(they consider it junk) just like all the those preloaded android phone apps from manufacturer's.
+
+4. Do NOT scare the new user   
+New users Judge a product within 30 seconds i feel. If they feel its complex, they leave, if its too simple, they question and wonder. Just provide what is needed. FAQ are the best way to address.
+
+5. Bug Reports  
+This is daunting for a new user. They go through this unknown thing called ABRT, then Bugzilla, (GOD WHAT's Happening :O) They have been scared to death already now. We need to simplify this process. And make them understand how things work on the open source end.
+
+6. Customization  
+This was what Linux is all about.  
+Fedora needs to point users to where they can find new content like themes, icons (that's what a normal user cares to find)  
+
+7. Proprietary Package  
+I know this is the No! NO! but normal user eventually need them for their Graphic Cards etc. The community should make people understand that its OK for them to install but the packages are responsibility of the company providing them. A video might help clear the air. 
+
+8. Media, Formats etc  
+Another important area where we should educate users that they can watch their favorite movies, or listen to songs in Open Source Formats, BUT, since half the world moves on mp3, avi etc, options are always available to install player like VLC etc.
+
+9. Social Media  
+Maybe the open world doesn't agree with Facebook but that's where users are and that's where users share their content. We need to make a definite presence.
+
+10. Presentation  
+Easy to understand, clean and visually beautiful. Hit them right and i guess the world will start following.
+
+We have YouTube/Torrents to share all this Tit-bits of knowledge for free!
+
+Do share in  your views! :)
+
+ 
+
+
+
+
+
+
+
+
+
+ I would like the make the Awesome bar rounded on the ends, also the Search bar. How can this be done? I've looked into add-ons, sadly didn't find any.   
+
+
+
+
+ Thanks for the update to the nightly channel.
+
+The white outline surrounding the icons, like the bookmarks, home etc. really help visibility! :D. Hope it comes to the actual release!
+
+If you guys could just make the close button rounded like the new "back" navigation icon, it'll just be an epic win!
+
+Go Australis! 
+
+
+
+
+
+
+
+
+
+ Does anyone know what's the difference between drivers provided by Intel graphics installer and the original ones that come with the distribution? 
+
+
+
+
+ I used a fully updated Fedora 20 Distro on a laptop with an Nvidia 525M Card. Its Optimus technology based.
+I've read that kernel 3.13 comes with inbuilt power management features, so do i need bumblebee here after?
+I've tried uninstall and reinstall the packages and drives using "yum reinstall bumblebee bbswitch bumblebee-nvidia" to no avail.
+Anybody else here in the same boat?
+*the bbswitch package was updated to ver. 8 
+
+
+
+
+ I've noticed that firefox always needs to download the persona to display after launching the browser, this might be (just) okay on the desktop but on mobile its quite a resource hog and slows the start up performance of the browser.
+There is a severe lag, when the connection is slow.
+
+Why cant it be stored in the SD-Card or the Hard disk and be loaded straight from there?   
+
+
+
+
+ i would like to know about your favourite clients on xmms2, do you still use the old or the new version and much more, Considering these were(or maybe still is) the best music player Linux will ever have!
+To the Devs of xmms2 - please a standard out-of-the-box GUI _/\_ 
+
+
+
+
+ Here's the link to the trailer - http://www.youtube.com/watch?v=ZrudC0STJ0U
+
+Its not on the Soundtrack of the film :( It comes from some other source.
+
+From a post on last.fm i found a few words of the lyrics
+
+The lyrics appear to be -- "don't you worry ... about the flight yeah ..." ... "careful and true... we've flown..." ..."sing for the way we've grown... we grow..."
+last.fm post -  http://www.last.fm/forum/5/_/527438
+
+It might be an Australian band too, the film comes from Australia.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ how do i know what chords can be played with what notes? I mean to ask if there is any rule that states that so and so notes and only be played using these chords?
+And also how do i develop my chord knowledge. Thanks! 
+
+
+
+
+
+
+
+
+

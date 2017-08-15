@@ -1,0 +1,212 @@
+ Dog is lucky he didn't flush... 
+
+
+
+
+ Fallout 3 was my first introduction into RPGs, and I loved it. Open world, play your own style at your pace.
+I had just been a purely FPS player prior to that, but now I'm broadening my genre horizons... 
+
+
+
+
+ As a long-time lurker, I was just here to browse content and chuckle at witty comments. I've decided to change my ways and attempt to become more involved in the community.
+
+We'll see if I regret it... 
+
+
+
+
+ Assuming it took an hour to cut the grass, that's about $0.16/hr. 
+
+
+
+
+
+
+
+
+
+ Better safe than sorry... 
+
+
+
+
+ It's missing for me as well.
+
+Instructors, any update on this? 
+
+
+
+
+ It's not listed on the course site and it was not clear in this week's intro video when the due date was for the midterm.
+
+Is it due by this weekend or the next? 
+
+
+
+
+ Same issue here as well...
+D9 Quiz is not present, and the first answer on D8 isn't related to the subject matter.
+
+Is there an estimate on when these quiz problems will be resolved? 
+
+
+
+
+ I noticed the same thing, and it seems to only be with the Webgoat demo videos. I thought perhaps they just didn't have audio to begin with... 
+
+
+
+
+ I solved this by changing the port WebGoat was running on from 8080 to 80:
+
+java -jar WebGoat-6.0.1-war-exec.jar -httpPort 80
+
+For whatever reason Burp didn't like forwarding to localhost:[port] 
+
+
+
+
+ I'm attempting the "Path Based Access Control" lesson on WebGoat, but when using Burp as a proxy I'm not able to use WebGoat. Any attempts to load a page (before or after intercepting) result in the following errors in Burp:
+
+"Timeout in transmission from localhost"
+"Timeout in communication with remote server"
+
+All other webpages work just fine. I'm only having this issue with WebGoat on localhost. My configurations are below:
+
+- WebGoat is running on localhost:8080
+- Burp Proxy is configured to listen on 127.0.0.1:8081
+- Firefox is configured to use the Burp proxy.
+
+I've spent several hours Googling and tweaking the configurations, but I have not been able to get it to work. Any help would be appreciated. 
+
+
+
+
+ It's mistaken coded as a relative URL. Here, try this:
+ [hack.me](http://hack.me) 
+
+
+
+
+ It turns out he's a suspect in a burglary :-/ [Source](https://sports.yahoo.com/blogs/ncaaf-dr-saturday/usc-cb-josh-shaw-admits-he-lied-about-heoric-act--retains-a-lawyer-230956759.html) 
+
+
+
+
+ The apartment that was broken into was on the 3rd floor and had a balcony, and the suspect was seen jumping off this balcony.
+[Source](https://sports.yahoo.com/blogs/ncaaf-dr-saturday/usc-cb-josh-shaw-admits-he-lied-about-heoric-act--retains-a-lawyer-230956759.html)
+ 
+
+
+
+
+
+
+
+
+
+ Since no one else wants to go there, I will.
+STDs. 
+
+
+
+
+ Damn it. Beat me to it... 
+
+
+
+
+ Gotcha. So, by not vaccinating, you not only put yourself at risk, but everyone around you, and you do all of this for a weak "maybe" of a risk.
+
+Doesn't seem worth it at all. 
+
+
+
+
+ Yes, I've seen many references to mercury being potentially implicated in this, so you make a good point. 
+
+
+
+
+ Thanks! Just did :) 
+
+
+
+
+ My parents are anti-vaccinations, and I've been trying to educate myself on the matter so that I could address and potentially counter their concerns knowledgeably.
+
+I know Reddit is quite pro-vaccine, and I hear all the time about the flawed and debunked autism-vaccine study. I watch Penn and Teller's Bullshit episode on vaccines, and I see people "poo-poo" any casual connection between vaccines and autism.
+
+But then I come across a site like [this](http://adventuresinautism.blogspot.com/2007/06/no-evidence-of-any-link.html), and I become confused. It appears to be heavily cited, with over 60 papers and studies that present a connection between various types of vaccines and ADS (austism spectrum disorder).
+
+There seems to be misinformation on this topic everywhere, and it can get a little overwhelming. Reddit, can you help me sort out fact from fiction, speculation from science?
+
+*EDIT* Whoops, forgot to include link
+ 
+
+
+
+
+ This is great, thank you! I'm not one to take a blogger or even a study at face value, but I sometimes have a difficult time taking apart the research process like you did.
+
+And those are great resources, I'll definitely be bookmarking those for thorough reading :) 
+
+
+
+
+ I understand, but even if we assume that one is completely safe (which isn't the case) that's only a single vaccine. There are studies linking autism to the Hepatitis B Vaccination, for example.
+
+I guess I'm just wondering if vaccination simply becomes a question of risk tolerance? "Am I okay with with the rare but possible side effects of this vaccination?" 
+
+
+
+
+ Okay, so would you agree it's a case then of risk assessment? Not all vaccines are for potentially fatal diseases. 
+
+
+
+
+
+
+
+
+
+ "If you visit a link on one computer, itll show up purple across your other computers."
+
+Will this also be the case for mobile apps? This would greatly improve the efficiency of my toilet based reddit browsing. 
+
+
+
+
+ I hope it's mandated to use these new server names in conversation as well.
+
+"Oh shit, Titty-Sprinkles is down again" 
+
+
+
+
+ Really? Where are you getting that from? According to Wikipedia:
+
+"Lyrically, "Daughters" is an admonition to fathers (and to a lesser extent mothers) to nurture their daughters in their childhood, because the relationship will affect their future relationships with men as adults."
+
+http://en.wikipedia.org/wiki/Daughters_%28John_Mayer_song%29 
+
+
+
+
+ I...I never noticed that. 
+
+
+
+
+ So 6AM is the optimal time to misbehave then? 
+
+
+
+
+ The Avengers 
+
+
+
+

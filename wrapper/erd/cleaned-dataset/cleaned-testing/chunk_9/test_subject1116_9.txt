@@ -1,0 +1,116 @@
+ Youtube loads the video up at t either 1440p or 4k. But then the video is downscaled to fit your screen.  Technically it is supposed to look better, but I can't really tell the difference. 
+
+
+
+
+ I had issues with youtube videos stuttering on my Toshiba CB2.  To fix this issue I would usually force youtube to playback using flash, but now I'm [this chrome extension](https://chrome.google.com/webstore/detail/h264ify/aleakchihdccplidncghkekgioiakgal?utm_source=chrome-app-launcher-info-dialog
+).  It fixed the stuttering problems I had when using HTML5 to playback 1080p 60fps videos.  
+
+EDIT: It also seems to have resolved any stuttering issues I had playing back 1440p and 4k videos on youtube (not that it matters on a 1080p display). 
+
+
+
+
+ Just a heads up you can run a linux distribution on a chromebook using crouton.  This way you can run a full operating system.  I currently use crouton to run elementaryOS and I'm able to program in Java and C++ for my classes. 
+
+
+
+
+ You should try and see if you could retake the class at a local public college during the summer and transfer those credits over to your current school.  I would assume that would be more affordable, if it is doable. 
+
+
+
+
+ Your welcome, I hope it's helpful. 
+
+
+
+
+ [Here's the FAQ and Wiki](https://www.reddit.com/r/androiddev/wiki/index) from /r/androiddev  
+
+
+
+
+ Here is the full list of pokemon: http://pldh.net/gallery/the493
+
+I wish they made these into t-shirts or hoodies. I would definitely buy a few.
+ 
+
+
+
+
+ Worked for me thanks! 
+
+
+
+
+ R has its uses in stats.  But like every programming language it has its faults.
+
+If you want an alternative to R, may I suggest Python.
+
+Here is the official tutorial: https://docs.python.org/2/tutorial/
+
+Here is a link to the IPython documentation, which allows you to better interact with Python:
+http://ipython.org/ipython-doc/stable/index.html
+
+
+Here are some resources that will introduce you to stats using Python:
+
+http://work.thaslwanter.at/Stats/html/index.html
+
+http://greenteapress.com/thinkstats/
+
+Theres also these resources for bayesian statistics using Python:
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+http://www.greenteapress.com/thinkbayes/
+ 
+
+
+
+
+ That's fair. But by saying "there's no evidence that they are wired differently" you seem to be implying that there aren't physical differences between male and female brains. 
+
+
+
+
+ There are observable differences between the brain structures of males and females.  For example women tend to have a higher percentage of grey matter, while men have more white matter.  [Here's the wikipedia page that covers the differences.](https://en.wikipedia.org/wiki/Neuroscience_of_sex_differences) There's even a bit about how men and women are wired differently. 
+
+
+
+
+ I use the magic actions extension and just fore player type to flash. No stuttering after that. 
+
+
+
+
+ No I rarely have any problems with RAM.  If I ever do it's when I'm running Linux via crouton and I am programming using R while having a big data set loaded into RAM.  The biggest issue that I see is that when I switch over to Chrome OS, old inactive tabs will auto refresh when I switched back to viewing them.  That's pretty much it. 
+
+
+
+
+ Try running those 60fps videos using flash.  I used to have issues with stuttering but then used Youtube magic extensions and set all youtube videos for Flash. 
+
+
+
+
+ [Actually the nfl does admit officiating mistakes.](https://www.google.com/search?btnG=1 pws=0 q=nfl+admits+officiating+mistake) 
+
+While I do agree the larger sample size of plays/possessions/games allows more room for error by the NBA officials, it doesn't mean they are more competent at their jobs and it doesn't mean that their bad calls don't have an equally significant impact on the game.  The bad calls nba refs make are just less obvious and their impacts are less obvious.
+
+A few bad ticky-tack fouls on a player early on in the game does alter how they play and limit their playing time. A recent example that comes to mind is Lebron James against the Pacers in last years playoffs.  
+
+Plus the nba empowers their refs to give technical fouls and kick guys out for "showing up the refs." Which can lead to [Joey Crawford.](https://www.youtube.com/watch?v=a2SYIrUnf5Y#t=1m25s) The nfl can give out personal foul calls but they rarely kick guys out of games, and if they do it is for throwing a punch not hurting a referee's feelings.
+
+There was also a recent [game fixing scandal in the NBA regarding one of its refs.](https://en.wikipedia.org/wiki/2007_NBA_betting_scandal).  And the NBA completely absolved Tim Donaghy. Also before the NBA got Sportsvu for the whole league, the Sportsvu cameras actually collected data on the refs.  But afterwards the NBA actually stopped collecting or reporting that information. Check out this [bit for the BS report with Haralabos Voulgaris](https://www.youtube.com/watch?v=1s1TVQhDYgg#t=47m) that covers the Donaghy scandal and the Sportsvu data.  So all this hoopla over the ref transparency reports is just a bunch of bullshit.  If the NBA really cared about transparency they should not have stopped collecting or reporting the Sportvu referee data.
+
+Here are two lists of controversies involving officiating from both leagues:
+https://en.wikipedia.org/wiki/National_Football_League_controversies#Controversial_calls
+https://en.wikipedia.org/wiki/National_Basketball_Association_criticisms_and_controversies#Conspiracies
+
+In the end officiating is equally terrible in both sports. It could be because it is a hard job, or it's hard to judge good or bad officiating (we seem to notice bad officiating but we rarely compliment or notice good officiating),  maybe the refs are just incompetent, or some combo of each. I would like both leagues to be more transparent when reporting on referee performance and I want both leagues to lessen the impact of bad officiating on the games.  But that is hard to do and probably unlikely when both leagues want to constantly change/add/enforce rules that lead to less/safer physical contact between players for the sake of increased offensive output.  Because we all know more offense means more viewers, which means more revenue for the leagues.
+ 
+
+
+
+

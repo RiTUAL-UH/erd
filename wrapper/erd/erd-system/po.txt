@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "../evaluation/erisk_eval.py", line 49, in erde_evaluation
+    precision = float(pos_hits)/pos_decisions
+ZeroDivisionError: float division by zero
+
+Some file or directory doesn't exist or an error has occurred

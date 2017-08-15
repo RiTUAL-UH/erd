@@ -1,0 +1,294 @@
+ Try looking into some of Corsairs less expensive cases, specifically their Carbide Series models. They do an amazing job of providing some really nice features such as 2x120mm(140mm) mounts for double-wide radiators, cable management, and other small things in there more budget friendly cases. I have two 400R's ($100) and a SPEC-03 ($60) that are fantastic. 
+
+Also, NZXT cases are really nice for reasonable prices. I love the LED's above the I/O panel... such a great idea! 
+
+
+
+
+ Ohhh! Thanks for this... Vivaldi looks pretty!
+
+Since I'm lazy, care to share the TL;DR on why it's awesome? 
+
+
+
+
+ Not to be *that* guy, but the few times IE11 crashed on me, it reopens in like half a second with all my tabs intact and functioning. Also, IE11 creates a separate process for each tab which was the big appeal to Chrome in the first place. FYI, I'm using Windows 10, build 9926. 
+
+
+
+
+ Looking for some advice!
+
+Budget - $100-$200 (flexiblish)
+
+Source - Phone (Lumia Icon), Computer (DTS support), homemade headphone AMP, and possibly my receiver/pre-amp
+
+Isolation - Not an area of concern. I most definitely do not want active noise-cancelling. 
+
+Preferred Type of Headphone - I'm looking for circumaural as I have a large head and supra aural tend to cause discomfort over time.
+
+Preferred tonal balance - I generally like a neutral/flat tone, but appreciate solid midrange performance. Overly bright headphones would be a turn-off
+
+Past headphones - These would be replacing a cheap pair of HD428s. I also have a pair of Shure SE215-K IEM and Astro A40 w/ Mixamp for gaming. 
+
+Preferred Music - I'm all over the place. Classical/orchestral, rock, folk, electronic, etc. These would also be used occasionally for gaming (I would be giving away the A40's), and possibly occasional home theater use.
+
+My biggest issue in picking out the right pair, is how versatile I want them to be. I realize that there is not going to be an ideal set to fit all of my requirements, but I'm curious as to what /r/headphones has to say! I would be using these for travel, on-the-go, and at home. They will be used for 70% music, 20% gaming, and 10% movies.
+
+Also, I can get Vmoda M-100's for half off ($150). I understand they are bass heavy, but I appreciate that they are full-size and are still portable, although this is not a requirement as I was happy to tote my HD428s's around when needed.
+
+Thanks! 
+ 
+
+
+
+
+
+
+
+
+
+ More expensive than $5, but there are VESA mountable Pi cases that use your existing VESA holes on your TV, assuming it's not using them already :P 
+
+
+
+
+ You're very welcome! Glad its your card rather than the motherboard or worse. Good luck! 
+
+
+
+
+ I've worked a lot with the Steam series (7,8,11,13, and 14). The 7 and 8 area great for the price; a device running FULL windows that the Microsoft Store has on sale for $70 all the time... WOW. The laptop variants (11,13,14), although budget models, actually have really good build quality. The keyboard has very little flex and the keys feel nice, the plastic is solid and doesn't feel flimsy at all. My biggest caveat is the screen is noticeably low quality, but it works! Also, the addition of the SD card slot makes the local storage issue go away. For the price, they are definitely a Chromebook killer.    
+
+
+
+
+ Serious question...Have you used Linux before? If not, it may not be the solution you're looking for as it can be substantially more technically challenging to do simple things, much more difficult than creating a boot disk. 
+
+As /u/cuddlychops06 mentioned, it sounds like you may have a failing hard drive, and it's not a Windows issue at all. It can be difficult to discern between software and hardware issues, especially without seeing the computer in person, but every symptom you have described could be caused by a failing hard drive. (FYI, hard drives are the most common hardware to fail)
+
+What brand computer do you have? Many HP's and Dell's have built in hardware scans you can try to run. Also, do you have access to another PC? If so, we could walk you through creating boot media on that PC to repair the one in question. 
+
+Some boot media tips:
+
+-You have to copy the CONTENTS of the .ISO, not the file itself, or it wont be bootable.
+
+-If you're using a USB flash drive, you have to format it to FAT32 to boot properly. 
+
+-Depending on your PC, you may have to disable "Secure Boot" and enable "Legacy" or "CSM" to get the PC to boot to the disk or USB drive.
+ 
+
+
+
+
+ If your motherboard has video out, try removing your graphics card and see how it looks then. If everything is normal, you know its your card. It is strange that if works okay in Safe Mode, but it could be because its drawing less power. 
+
+Also, I would make sure your PSU is 100% dry. If something in that goes it could fry everything in your case and even possibly start a fire. If this were to happen again, I would dismantle the entire PC including motherboard, use canned air on any of the affected parts to blow out any water, and let the components sit for 72 hours. The patience could potentially save you some money :P 
+
+
+
+
+ Unfortunately, you cannot use the laptops screen as a second monitor for the desktop. The ports on the laptop are output only. 
+
+You would have to use the laptop as the computer and connect the extra monitor with the VGA cable. If you really wanted to use the desktop and weren't too picky about a monitor, you can get fairly cheap monitors off craigslist.
+
+Good luck! 
+
+
+
+
+ Totally agree. I work IT and when dealing with clients who are not tech savvy, the larger number is always better in their mind, despite explaining the huge advantage of an SSD, even if it has less storage. 
+
+My personal theory is that LOTS of consumers don't understand the difference and see a $300 PC that has a 2.0GHZ Celeron, 4GB RAM, and a 500GB HDD and see it as a better value than a $600 2.0GHz i5, 4GB RAM, and a 128GB SSD. They see the processors as the same, the RAM is the same, and one has way more storage. 
+
+
+
+
+ There are 3 main things to use to prevent this in the future:
+
+-Better surfing/downloading habits
+
+-Only ONE on-access scanner
+
+-Several on-demand scanners/tools
+
+
+
+**Safe Surfing:** As far as better surfing/downloading habits, you just have to be careful on what you click. There is no combination of antivirus or software that can 100% protect you from malware, otherwise an entire industry would be out of business. Some solid "safe surfing tips:
+
+-Install Adblock Plus on all the browsers you have. This helps with preventing fake links and pop-ups from even appearing.
+
+-If you're installing software, always try to get it from the manufacturers or developers website. It is less likely to have 'extra' software.
+
+-When installing software, instead of blindly clicking "Next" or "Okay", make sure you aren't agreeing to install extras. An example would be Java always tries to get the Ask Toolbar installed.
+
+-Before clicking on a sketchy link, hover over it. Depending on what browser you're using, it generally tells you at the bottom of the screen the actual address of where it will take you. If you're still not sure, a quick search should reveal whether or not it should be trusted.
+
+ **On-Access Scanner:** This is your general antivirus program. It attempts to scan all the incoming and outgoing network traffic on your computer to prevent bad things from coming in. They also offer system scans to check everything on your PC for malware. The problem with almost ALL of these scanners is that they do a bad job detecting low-level malware (ads, pop-ups, fake fix-it programs,etc), but rather try to stop the really bad stuff that would render your computer useless or worse. There are two main kinds: Free and paid subscription. To avoid opening a can of worms as to which anti-virus is best, I'll just list several popular ones. Please note that you should only have ONE of these installed at a time, or they basically fight with each other (and exception would be Defender which cannot be uninstalled and will automatically disable itself). My disclaimer for this is that I feel most on-access AV programs perform very similarly and it's really a toss-up as to which is definitively the best. For subscription/paid software, check www.dealnews.com in the software section and every once in a while you'll find it free with a rebate. 
+
+Free: Windows Defender (its already in Windows 8), AVG, Avast, Avira, Bitdefender, Panda, and Comodo. There are many more, but these are probably the most popular. With the exception of Defender, they all come in paid versions as well.
+
+Paid: Norton, McAfee, Trend Micro, Kaspersky, and Webroot are amongst the most popular. Some offer different kinds of subscription and protection, but the general consumer version should suffice. 
+
+**On-Demand:** These are the scanners you use to aggressively find and remove malware that is already ON your computer. They do not prevent it. These programs are where the real magic happens when things go south. Unlike on-access scanners, which there should be only one of, I recommend you keep several different on-demand scanners. Some programs are generally good at everything (Malwarebytes), where others only look for specific things (TDSS killer). I'll list some favorites and what they do.
+
+Malwarebytes: Well rounded, very popular scanner. Easy to use and very effective.
+
+Hitman Pro: Only gives you one 30-day trial, but it is an excellent all purpose scanner. There is also a "Kickstart" version which can help systems that have malware blocking you from running normal scanners.
+
+SUPERAntiSpyware: Again, very effective all-round scanner. It does a good job at picking up those fake programs and easily removing them.
+
+ADWCleaner: This doesn't search for "bad" virus's like the other guys, but it is SUPER effective against completely removing adware and a scan takes a few minutes at most. This is a personal favorite.
+
+TDSS Killer: This searches for malware called "rootkits" which can be extremely bad. A scan takes about 30 seconds, but frequently gives false positives (HP software frequently gets picked up, you can tell it to "skip")
+
+Rkill: Doesn't remove anything, but rather kills any running malware that may have been preventing other scanners from running properly. You generally want to run this first.
+
+SFC/DISM: Sometimes, even when all the malware is removed, there is damage that may need repairing. These are built in Windows utilities that can help repair your OS after all the malware is presumably gone. Open up an elevated command prompt (on Windows 8, it's "WinKey+X" then "A". In the black box that appears, type *sfc /scannow*. This System File Checker tool will see if Windows is okay. When it's done it will say that it didn't find anything, it found stuff and repaired it, it found LOTS of stuff and you should restart and run it again, or the most common, It found corruptions, but could not repair them all. If you get this last one, you'll want to run a specific DISM command. In the same black box, type *dism /online /cleanup-image /restorehealth* and wait for it to finish. You can re-run SFC to double check it fixed everything.
+
+Windows Refresh: If all else fails and you don't want to do a full system reset, you can do a Refresh. This keeps all your files and settings, but removed anything that wasn't originally installed on the PC (it will give you a list of what was removed). This is an excellent fix-all that has a high success rate. 
+
+...but really, just don't click on bad stuff :P
+ 
+
+
+
+
+ It's really about what you need. They don't even make netbooks anymore because of that. 
+
+If you just need to browse the web and do basic word processing, Chromebooks are awesome... that's exactly what they're built for. Comparing a Chromebook to a PC is like a motorcycle compared with a car. They can both get you from point A to B, but still have very different uses. 
+
+
+
+
+ I agree. Chromebook's have an excellent boot time which is a mix of very lightweight OS and hardware designed to boot fast. That being said the line of HP Streams which go on sale for $200 or less, boot in like 20-30 seconds to a FULL OS. 
+That said, HDD's are WAY cheaper than SSD's, so it's no surprise that they cost more. Also, there are many value priced PC's now that have SSD's... but they are 32GB or 64GB. I'm kind of hoping that mid to low end PC's start shipping with a 500GB HDD and the ability to add an mSATA SSD, which are way cheaper than a normal 2.5" SSD. 
+
+
+
+
+ Out of curiosity, why do you think MSE was great and the new Defender is rubbish? 
+Defender receives all the same updates as MSE and is essentially the same program, just pre-installed and with slightly better system access. 
+
+
+
+
+ As someone who works IT (both enterprise and for the uninformed masses) Windows 8 Defender is really quite good, especially when comparing to other popular free AV's. I'm not saying it's the best and I'm not saying its perfect; it's far from both. But as a pre-installed and always free/updated AV, its an excellent solution for most. 
+
+I can't tell you how many times I see a copy of Norton that expired 3 years ago, or AVG that is constantly popping up asking to give permissions for everything (not counting TONS of false positives). 90% of people that have computers don't know what they're looking at, and that's where the true beauty of Defender comes in... almost everything is done discretely in the background, without annoying warnings or pop-ups.
+Personally, I think it does a great job against more serious malware. Compared to Windows 7 and prior, I see WAY fewer rogue infections or infections that seriously disable the functionality of the computer since Windows 8 came out. It used to be there was at least one solid virus a year that infected TONS of computers... remember that FBI rogue infection and all the fake AV rogues before that? There hasn't been anything nearly as wide spread since Windows 8 with Defender launched.
+
+Realistically however, all of the common free AV's perform so similarly that it really doesn't matter a ton. Also, you have to consider how widespread UEFI is now and how that effects things. The real magic is done with the on-demand scanners anyway :P 
+
+
+
+
+ Unfortunately, I think its probably a loss. If it was a core component, those are all soldered to the motherboard, and it wouldn't be cost effective to replace. If it's just the screen, the laptop should still power up like it normally would.
+
+Important questions... Where did you buy it and how long ago? 
+That would NOT be covered under the manufacturers warranty, BUT you may be able to get away with it since its not obvious how it happened. If you wanna be super shady, you could say that you went to use Skype or something and as soon as your camera turned on *POP*. As someone that used to make warranty decisions, that would seem somewhat feasible to me, although seeing it in person may be different. 
+
+
+
+
+ Double check that you didn't confuse the GPU and CPU connectors. There is no such thing as a 4-pin GPU connector, they are 6 or 8 pin. CPU power connector is a 4 or 8 pin and there is only one CPU connector on PSU's whereas there can be multiple GPU connectors. 
+
+If you plugged a GPU connector into the CPU power port on the MOBO, that would be an issue. That being said, I don't think that it would actually fit. 
+
+
+
+
+ In all fairness, its probably not the laptop causing it to run poorly. Almost all computers are running identical hardware and identical software; an Intel i3 from Dell is the same i3 from HP. 4GB of 1600Mhz RAM in a Samsung is identical to that of Asus.
+
+The manufacturer (HP, Dell, Asus, etc.) basically figure out cool ways to shove them into smaller chassis and figure out details such as how many USB ports, keyboard and FN key layout, materials to use, etc.
+
+I can take a $200 laptop and have an excellent experience surfing the web, typing documents, and other normal activities. I can also have a miserable experience on a $2000 gaming PC because I clicked on every ad and banner and downloaded tons of malware. Its generally the user that defines the experience, not the computer. 
+
+
+
+
+ -What price range are you looking at for a production model? 
+
+-Did you have an end use use in mind? (e.g. Cosplay, military, exo-skeleton, etc.) 
+
+-Your website says that you view this as a connection between art and technology. what demographic do you view as a potential market for this?
+
+-Are all the features you listed, such as the "backdoor system", currently operational and do you have videos?
+
+
+Really cool stuff man! Impressive passion to pursue.
+ 
+
+
+
+
+ Emma Watson look-a-like?! 
+
+
+
+
+ The newer generations of XPS are actually really nice. They ditched the flashy gamer flair, and are now sleek, powerful and surprisingly well built. Many of them look very similar to MacBooks actually, and the new XPS 13 look amazing and doesn't feel at all cheap. 
+
+I've always been a huge fan of Asus and I only use Asus motherboard for by personal builds, but many of their laptop, even the high end ones, are starting to feel cheap :/ 
+
+
+
+
+ Xbox One is plug and play with Windows, and has been for a while. 
+
+
+
+
+ Xbox One controllers just need a microUSB (phone charging) cable and Window 8.1 has the controller drivers pre-loaded :) 
+
+
+
+
+ Thanks for the suggestions!
+
+I ended up getting him some MDF, small hardwood pieces from Rockler, and a 8" tablet running full Windows 8.1 with homemade stand to run the CNC control panel so he doesn't have to leave his laptop in the basement. 
+
+
+
+
+ Lol... You said Conduit :P 
+
+
+
+
+ That's kind of along the line of what I'm thinking. What's a touchscreen kit though? 
+
+
+
+
+ I was surprised at how well it actually worked. Even with 1080p and 5.1 surround there were no issues. The frustrating part was the dashboard/menus would be quite laggy, but considering the hardware, it was impressive.
+
+ I do think that there are better options now, such as the little Atom processor mini-pc's for ~$100. The Pi may be $35, but after you get an SD card, cables, case, Wifi dongle, and flash drive for caching, you're hovering around $85. The mini-pc's are WAAYY better. 
+
+
+
+
+ Thanks for the link! 
+
+I should have mentioned, he's a tool and die designer/machinist by trade, and has an extensive workshop at home. He's been wanting to get a CNC for a while and finally splurged :)
+ 
+
+
+
+
+ My dad just purchased a [Rockler 60th Anniversary Edition Shark CNC](http://www.rockler.com/rockler-60th-anniversary-edition-cnc-shark) and I was looking for some accessories to get him for Christmas or his upcoming birthday... any suggestions?!
+
+My only current idea is to build a dust hut with some angle iron and plexiglass. Is this a good/bad idea? 
+
+
+
+
+ That's a great idea! I have a Nokia Icon with built in Qi capability :)
+
+Thanks for the idea!
+
+ 
+
+
+
+

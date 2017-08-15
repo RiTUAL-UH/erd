@@ -1,0 +1,224 @@
+ I'm not proud.  I browse the web on a (Dell Optiplex 770L)[http://support.dell.com/support/edocs/systems/op170l/en/ug/specs.htm].  You may laugh, but it was free and it runs Ubuntu just fine, thank you very much.  But every so often I click on a stupid oversized cell-phone picture like (this one)[http://imgur.com/FVQ5x] (only chosen because it's the latest culprit)  and it FREEZES MY COMPUTER FOR ABOUT 3 MINUTES WTF!?!  The picture wasn't even that funny and there's NO REASON ON EARTH THAT IT NEEDED TO BE 1,936px  2,592px.  No reason at all.  The resolution is crappy and there's just not that much information there anyway.  imgur provides low-resolution links, let's start using them, people!
+
+Thank you for your time. 
+
+
+
+
+ Once I was waiting on the subway platform with a group of friends, and this woman was singing acapella.  She was *terrible*.  I walked over to her and told her I'd give her a dollar if she'd stop singing until we got onto the train.  She looked confused and explained that she'd been classically trained.  I said, "Well, I don't know much about music, but there's something very wrong here."  She accepted the dollar and stopped singing.  My wife was mortified, and one friend said, "You're either my hero or the biggest asshole I've ever met."
+
+I report, you decide. 
+
+
+
+
+ k.  I'm gonna jump in here.  Years ago I was talking with a gay friend over beers, and I asked: "What is **with** you guys?  Why are [your clubs](http://www.paradisecambridge.com/) always getting shut down over wild orgies?"  He explained, "In heterosexual relationships there's usually one party who wants to do it **all the time** and another who sort of keeps things sane.  Well, you get a bunch of guys together, and you pretty much don't have that sanity element.  Everybody wants to do it." 
+
+
+
+
+
+
+
+
+
+ If so, then wouldn't Sarah Connor have already blown it up? 
+
+
+
+
+ Just finished watching Watson run the table on the meat-puppets.  Anybody else feeling obsolete? 
+
+
+
+
+ I'd say save yourself $100 and get the Pandigital Novel.  It's still no iPad, but it's quite [hackable](http://www.slatedroid.com/wiki/index.php/Introduction_to_the_Pandigital_Novel):  
+
+
+
+
+ Non hic adsum ut amIcos faciam! 
+
+
+
+
+ Am I the only one disappointed that this wasn't about making Cylons? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Now that I'm a father, I consider Calvin's Dad to by my personal role-model.  Thanks to the [Calvin   Hobbes Search Engine](http://reemst.com/calvin_and_hobbes/stripsearch) I managed to find these links; anybody got any more?
+
+A lesson in polar coordinates:
+http://www.gocomics.com/calvinandhobbes/1986/11/26
+
+And structures:
+http://www.gocomics.com/calvinandhobbes/1990/06/05
+
+Anatomy:
+http://www.gocomics.com/calvinandhobbes/1993/10/30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ McDonald's could use a guy like Andrew! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just to put your $400 in perspective:  The sysadmin and I put an incorrectly configured redirect click server into the pool, so it basically silently failed to redirect clicks to our paying advertisers, and not only that, it was logging the failures as 200s, i.e., successful pages served, so none of our Nagios alerts were fired.  Nobody noticed it until the next morning, so 1/3 of our click logs were lost.  The business is ALL clicks, and if they're not served, we're not paid.  Lost revenue was about $25k.  Our overlords were *not* happy. 
+
+
+
+
+ is that sarong? 
+
+
+
+
+ Or more practical, "Where are my keys?" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This above all, to thine own self be true
+
+And it must follow, as the night the day
+
+Thou canst not then be false to any man. 
+
+
+
+
+
+
+
+
+
+ I'm planning to decline a role in our local [Security Theater Production](http://en.wikipedia.org/wiki/Security_theater) at the South Station T-stop in Boston.  The cops stand by the turnstile with a little counter and ask every nth person to have their bags inspected.  If selected I will invoke my 4th Amendment right against unreasonable search and seizure, as politely as possible, of course.  What should I expect?  I imagine that I won't be able to pass, but what else? 
+
+
+
+
+ Wow.  Hadn't listened to this in about 20 years.  Thanks. 
+
+
+
+
+ How sad is it that somebody from China has to show us how to stand up for ourselves?  I don't mind a few trailers, but the last few times I've gone to the moves, I've been subjected to numerous commercials.  It's ridiculous to buy an expensive ticket and then be subjected to advertising. 
+
+
+
+
+ Another First World Problem. 
+
+
+
+
+
+
+
+
+
+ ... best served with a side of crow? 
+
+
+
+
+ Oh, and for you home-brewers out there: never leave your hops out where the dog can get them.  Very bad. 
+
+
+
+
+ I'm really sorry about your dog, but ... I couldn't help thinking of one of those [Things You'll Never Hear A Redneck say](http://www.goofball.com/jokes/top10/talk_Top_36_Things_Youll_Never_Hear_A_Redneck_Say): "You can't feed that to the dog." 
+
+
+
+
+ I guess I have it down pretty well.  It only takes me about an hour to fry up the bacon, make the weave, and fill it.  But the smoking does take a few hours. 
+
+
+
+
+
+
+
+
+
+ vulgus vult decipi, ergo decipiatur -- The people want to be deceived, therefore let them be deceived. 
+
+
+
+
+ So this guy is telling his dad about his first time paratrooper training:
+
+"Well, I was scared and said I didn't want to jump."
+
+"And ... ?"
+
+"The jumpmaster said, 'well, son, I'm gay and there's only one way you're getting out of this.'"
+
+"So, did you jump?"
+
+"A little, at first." 
+
+
+
+
+ Two things:
+1. Eating fat doesn't make you fat, eating carbs does: http://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html
+2. Exercise doesn't help you lose weight.  It doesn't burn enough calories, and generally makes you hungrier.  This is not to say that exercise isn't good for you, it's just that eating less is the best way to lose weight. 
+
+
+
+
+ So ... not one photoshop job on the group photo? 
+
+
+
+

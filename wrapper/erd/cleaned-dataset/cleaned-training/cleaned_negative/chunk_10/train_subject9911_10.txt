@@ -1,0 +1,55 @@
+
+
+
+
+
+
+
+
+
+
+ Easy speaker replacement 
+
+
+
+
+ Okay, I was wondering what was going on. 
+
+
+
+
+ Are you able to install Avira to just do scans with no real-time? 
+
+
+
+
+ No, actually mostly adware. It has found some trojans as well. 
+
+
+
+
+ I run AdAware in it's second line of defense mode so it just scans, no real-time protection. I've found that it finds more than the paid version of BitDefender. The downside is that the scans can take longer than other AVs. 
+
+
+
+
+ *Humans kill more humans than any other animal. 
+
+
+
+
+ The free version of Ad-Aware has found way more viruses than my paid version of Bit-Defender. You can install Ad-Aware as a 2nd line of defense by having Real-Time Protection off. 
+
+
+
+
+ Don't forget to go through msconfig and take off unwanted start up programs and services. 
+
+
+
+
+ You will probably need something like [this.](http://forums.lenovo.com/t5/image/serverpage/image-id/169i7439D0FCBFE8A695/image-size/medium?v=mpbl-1 px=-1) If you have funds for the more expensive one, I would go with that. The cheaper one looks like your ears would hurt a bit after a while. 
+
+
+
+

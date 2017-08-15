@@ -1,0 +1,1368 @@
+ It requires even more intelligence to listen to solid advice, both legal and financial. 
+
+For example, someone told him that's his best argument is to not have liquid assets and later testify about it, say that everything is a show. It takes strong will and intelligence to fight the ego - especially in that industry - and actually follow on that advice. 
+
+
+
+
+ That little fall at the end... Wars would stop if you just show this video to the generals.  
+
+
+
+
+  competition
+
+Hence, thread about GoG. Nobody is saying that Steam is bad. They are saying with competition lile GoG it will be better and with less chance to abuse power. 
+
+
+
+
+ TIL /r/QuotesPorn. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You see, I don't know how to feel about your comment. So if your score was visible right now and it was 0 or negative, I would get mad and downvote you. If I see you have 4-5 points, I would think 'this guy got a point'. If you have 10+ I would comment to get some karma.
+
+But the score is hidden. It's like saying my heart is hidden. I just don't know what to feel and how strong.
+ 
+
+
+
+
+
+
+
+
+
+ I found the mini sax (I'm too ignorant to know the name) funny, and by the end Letterman says: you are pretty good, we should get you a real one. 
+
+
+
+
+ You know, I just can't imagine Biden murdered Governor candidate to become VP and then later conspired with Chinese and local billionaires to make Obama resign while screwing each and any one of them *after* he casually pushed a journalist off a train platform and framing another one for cyber terrorism.
+
+Buy hey, what do I know. 
+
+
+
+
+ [Here's her insta](https://instagram.com/syderoni). 
+
+
+
+
+
+
+
+
+
+ [more from that shooting](http://imgur.com/a/QMF63). 
+
+
+
+
+
+
+
+
+
+ No. I think those are all legitimately good movies. Some are excellent, some might not be your taste, but this it was a great year. 2013 was okay, 2012 wasn't that great.  
+
+
+
+
+ It's funny because just yesterday I went through 2014 movies to see if I missed anything and DAMN that was a terrific year in cinema. For example (in 2014 alone):
+
+1. Boyhood
+1. Nightcrawler
+1. Whiplash 
+1. Citizenfour
+1. Starred Up
+1.  	Birdman
+1. Snowpiercer
+1. The Grand Budapest Hotel 
+1. Guardians of the Galaxy
+1. X-Men: Days of Future Past
+1.  	Song Of The Sea
+1. Blue Ruin
+1. Dawn Of The Planet Of The Apes
+1. The Overnighters
+1. Ernest   Clestine
+1. Two Days, One Night
+1. A Girl Walks Home Alone at Night
+1. Captain America: The Winter Soldier
+1. The Lunchbox
+1. Gone Girl
+1. Wild
+1. The LEGO Movie
+1. Locke
+1. How to Train Your Dragon 2 
+1. The Imitation Game
+1. Frank
+1. Force Majeure
+1. Big Hero 6
+1. Foxcatcher
+1. The Drop
+1. A Most Wanted Man
+1. Under the Skin
+1. Chef 
+1. Joe 
+1. Coherence
+1. The Theory of Everything
+1. The Fault In Our Stars
+1. The Wind Rises
+1. Cold in July
+ 
+
+
+
+
+
+
+
+
+
+ being a kid is actually an advantage here. Over curiosity, fresh eyes, no worries about daily burdens (food, survival), the tablet is a huge playground for them waiting to be explored. Every step is an achievement to brag about and gain social status among other kids or just feel victorious like gaining levels in a game.
+
+Average adults, on the other hand, won't get past the desktop. I can imagine one of them saying: "why do I need to see weather, it's fucking Africa here, I know it's hot. What a useless crap". 
+
+
+
+
+ Use MediaMonkey to organize the music. It's one of the best out there. XBMC will just pick up the editing you are doing in MM.  
+
+
+
+
+ Thanks, I couldn't find the source. 
+
+
+
+
+ From [16 Ways To Stay Cool When Sleeping, The Sleep Matters Club](http://www.dreams.co.uk/sleep-matters-club/stay-cool-when-sleeping-infographic/). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's not at him. She's trying to protect him. She probably thought she doesn't have a chance or saw that this is what he wanted, so looked at him one last time and let him go. 
+
+
+
+
+ The look on my face was the same. And I'm a male. 
+
+
+
+
+ Go to /r/electronicmusic and ask them why electronic music is just dubstep why there aren't any subgenres.  
+
+
+
+
+ Abridged version of the text:
+
+ Hi, I'm 12 years old. but I'm 12 so what do I know? 
+
+
+
+
+ The *only* difference for me between women and other useful objects I use in daily life, is that my phone or car don't have 50/50 chance of making another phone or car. Women are marvelous invention and indeed change the way we interact and mange ourselves in the modern world. 
+
+
+
+
+
+
+
+
+
+  you pretty much stop flopping around positions long before you get to 55.
+
+That's actually a bad thing. Not that you should flip your position just for the sake of it, but there's also a natural progress in human behavior, and I hope that when I'll be in my 50's I'll still be open to see that's going in the world, what's working and what's not - and adapt accordingly. 
+
+I don't see any shame in saying "I used to think like that, but times have changed and I changed my mind". Better than the opposite. 
+
+
+
+
+ If I don't have anything serious to write (meaning, I'm stuck), I just pick random topic and write few paragraphs about it. Can be with an existing characters or brand new ones.  
+
+
+
+
+     #z::
+    if (togglemouse != 1)
+    {
+        BlockInput, MouseMove
+        togglemouse := 1
+        return
+    }
+    if (togglemouse = 1)
+    {
+        BlockInput, MouseMoveOff
+        togglemouse := 0
+        return
+    }
+	
+
+I used #z, but instead of that you can map it to one of your mouse keys.
+
+Edit: oh wait, I thought this is the /r/autohotkey. So I'll just add now that you need to install [AutoHotkey](http://www.autohotkey.com/), which is a great scripting language that lets you do tons of stuff on windows. I use it alot with xbmc also.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *When you're sad and when you're lonely  
+And you haven't got a friend  
+Just remember that death is not the end  
+And all that you held sacred  
+Falls down and does not mend  
+Just remember that death is not the end  
+Not the end, not the end  
+Just remember that death is not the end*  
+
+*When you're standing on the crossroads  
+That you cannot comprehend  
+Just remember that death is not the end  
+And all your dreams have vanished  
+And you don't know what's up the bend  
+Just remember that death is not the end  
+Not the end, not the end  
+Just remember that death is not the end*  
+
+*When the storm clouds gather round you  
+And heavy rains descend  
+Just remember that death is not the end  
+And there's no-one there to comfort you  
+With a helping hand to lend  
+Just remember that death is not the end  
+Not the end, not the end  
+Just remember that death is not the end  
+For the tree of life is growing  
+Where the spirit never dies  
+And the bright light of salvation  
+Up in dark and empty skies  
+When the cities are on fire  
+With the burning flesh of men  
+Just remember that death is not the end  
+When you search in vain to find  
+Some law-abiding citizen  
+Just remember that death is not the end* 
+
+
+
+
+
+
+
+
+
+ * thinking you are a murderer
+* getting a deep cut by your friend, leaving you with a smile
+* thrown off a train
+* shot in the shoulder while attempting to kill your best friend
+* so what are we having for dinner? oh, my brain
+* a visit to a pig farm, yay!
+
+\#justwillgrahamthings
+
+*Can't the guy catch a break?* 
+
+
+
+
+ It's a bit more complicated than that. You can reimburse VAT only against paid VAT in a certain period. In some cases and places, a business that bought printer tuners, paid VAT, but didn't have any customers for few months (or a year) won't be able to get reimbursement for those tuners.  
+
+
+
+
+
+
+
+
+
+ Math book!
+
+* [The Norm Chronicles: Stories and Numbers About Danger and Death](http://www.goodreads.com/book/show/18467746-the-norm-chronicles?from_search=true search_version=service_impr)
+* [The Joy of x: A Guided Tour of Math, from One to Infinity](http://www.goodreads.com/book/show/13356649-the-joy-of-x?from_search=true search_version=service)
+* [Love and Math: The Heart of Hidden Reality](http://www.goodreads.com/book/show/17290683-love-and-math?from_search=true search_version=service)
+
+Economics, yay!
+
+* [The Undercover Economist](http://www.goodreads.com/book/show/70420.The_Undercover_Economist?from_search=true search_version=service_impr) (there's a sequel also)
+* [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](http://www.goodreads.com/book/show/1202.Freakonomics?from_search=true search_version=service) (again, with a sequel)
+* [Business Adventures: Twelve Classic Tales from the World of Wall Street](http://www.goodreads.com/book/show/22710212-business-adventures?from_search=true search_version=service_impr)
+
+For (entertaining and somewhat useful) science!
+
+* [Predictably Irrational: The Hidden Forces That Shape Our Decisions](http://www.goodreads.com/book/show/1713426.Predictably_Irrational?from_search=true search_version=service)
+* [What If?: Serious Scientific Answers to Absurd Hypothetical Questions](http://www.goodreads.com/book/show/21413662-what-if?from_search=true search_version=service) (from xkcd)
+* [Friendfluence: The Surprising Ways Friends Make Us Who We Are](http://www.goodreads.com/book/show/13642231-friendfluence?from_search=true search_version=service_impr)
+* [Mistakes Were Made (But Not by Me)](http://www.goodreads.com/book/show/8724626-mistakes-were-made?from_search=true search_version=service)
+* [The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing](http://www.goodreads.com/book/show/18883677-the-success-equation?from_search=true search_version=service_impr)
+* [You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself](http://www.goodreads.com/book/show/11709037-you-are-not-so-smart?from_search=true search_version=service_impr) (also check his [podcast](http://youarenotsosmart.com/podcast/)).
+
+Edit: added links.
+ 
+
+
+
+
+
+
+
+
+
+ Are you one of those 3? (please don't comment while you are at work) 
+
+
+
+
+ If it was filmed in SF instead of LA, they would be forced to pay him at least $15 after the minimum wage hike.  
+
+
+
+
+
+
+
+
+
+  He's also not very food motivated at all
+
+Dog's privileges.  
+
+
+
+
+ Not the person you asked, but using cold water, I brew it overnight in the fridge.  
+
+
+
+
+ Anybody got link to the original prompt maybe? Edit: maybe [this one?](https://www.reddit.com/r/WritingPrompts/comments/25jswe/wp_a_little_girl_is_terrified_of_the_monster/) 
+
+
+
+
+ Really, this again? 
+
+* The increase in minimum wage is stretched to 3 years, so there's really no reason to believe there's a connection now, unless you want to find one. 
+* the official statement from the company is that prices increased by 10%. So where did the 14% came from? few items in few locations were increased by 14%. not the average price. Nobody went to check what's the cause for those items. could be wages could be not. We won't know if we won't check.
+* Nationwide prices were increased by 4%, in SF by 10% on average. So again, we are talking about 6% premium. Where this number came from? Maybe real estate? maybe taxes? Maybe other places increase also by 6% compared to their increase some place else?
+* unlike what people, chain restaurants like Chipotle don't rely on local markets for supplies. They have distribution centers. So price will only affect those working on site. It doesn't explain why certain ingredients increased more than others.  
+* What about other restaurants? shouldn't we see 14% increase as well if the logic is so infallible?
+
+I mean come on, you are going to see two 14% numbers and spit out all the regular well rehearsed material about minimum wage implications? 
+
+We all know about the relation, we all know 101 economics, fine. But this article doesn't provide even anecdotal evidence to that connection. 
+
+
+
+
+ Are you replying to me? because what you wrote doesn't make sense. 
+
+I didn't say I'm Krugmanite, nor did I say I support loose monetary policy or Keynesianism. So really you are talking to yourself there (but hey, it's easy to win this argument, right?).
+
+All I said is that it's hard to find example of austerity because very few countries have tried it. And if austerity policies are rare then successful ones are even harder to come by. 
+
+Actually, I was repeating what you said! you dared the person you replied to come up with example of true austerity measured, and you are right. Those almost don't exist.
+
+So you can argue pro austerity all you want, that's fine, but don't send anyone to history books because this chapter is very thin and nothing can be concluded from it. 
+
+
+
+
+ "I didn't sign up for this shit" - his mother 
+
+
+
+
+ Can you link me to their touring bikes collection page? Can't find it in Google translate. 
+
+Edit: Okay, I think I found it. It's called trekking. 
+
+
+
+
+
+
+
+
+
+ Yeah, I was about to do it last night, and all I was missing were protective contact lenses, so I called the whole thing off and watched TV instead. 
+
+
+
+
+  Before you do that I recommend you actually find a country which really applied austerity
+
+That's exactly the point. Most countries never applied austerity, yet all them recovered from recessions and depressions they faced in the past. Some even preferred to default on their debt. 
+
+There are so few austerity case studies to learn anything from it. But there are plenty of examples of countries that spent/printed/inflated/defaulted/re-arranged and recovered successfully.  
+
+
+
+
+  you have to cut spending
+
+No, you don't have to. 
+
+A country can default on its debt ([lots of them did in the past](https://en.wikipedia.org/wiki/List_of_sovereign_defaults), probably more than people realize), or, as more common solution, print money to pay the creditors (and spend some domestically) and probably devalue the currency on the way.
+
+Now, I'm not saying those are good solutions, but they are available solutions just like austerity. 
+
+OP asked about Greece, so it's important to note that Greece doesn't have an option to print money (which is the real issue here) and defaulting also has some consequences that sovereign debtors usually don't face.
+
+Very few countries in history, including those who defaulted, actually applied austerity measures.  
+
+
+
+
+ Full album at Bandcamp: [Tensleep](http://oldabrambrown.bandcamp.com/album/tensleep). 
+
+
+
+
+
+
+
+
+
+ Their biggest screw up was Jordan's 2 years off. 
+
+Handed it over to Houston. Houston had a lousy 94-95 season (less than 50 wins, if I remember correctly, #6 or #7 seed) and defeated Utah in first round. They then defeated Phoenix after being 0-2 and 1-3. For the conference finals they had the Spurs (I think) and then swept Shaq's Orlando. 
+
+ 
+
+
+
+
+ Or, you can simply start it late. If you know when you want the food ready. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I second *Daemon*. Very realistic and technical. The author knows his way around computers and hacking. 
+
+
+
+
+ Here you go: https://gifsound.com/?gfycat=IllfatedMetallicCricket v=pQk4a5fJrBc 
+
+
+
+
+ Really? so in your opinion everybody that gets the DP should get it and everybody that shouldn't get it doesn't get it, and everything is fine? You just wrote 'Not questionable rape cases', are they in the scope now? how come? lack of imagination probably. Have you reviewed all the cases that slipped away from DP and positive that none of them deserved it?  
+
+
+
+
+ Okay. The problem is that because we differentiate between one murder and another (and I'm not saying we shouldn't), it's almost impossible to determine those special circumstances you are talking about.
+
+It's easy to look in hindsight and determine who should live and who should die, but it's very hard to write coherent laws that look *forward* and will cover different scenarios while being fair, not giving too much power to the state or too much loopholes to render them useless.  
+
+
+
+
+ Yeah, but those 'special occasions' are what's causing it to drag so many years. Also, why one murder is different than another?  
+
+
+
+
+ Yeah, I'm surprised so many people talk about the money and not about the moral questions it raises. If it's 'the right thing to do' then you just need to make it more efficient. And if it's 'wrong', then it should be stopped regardless of price.  
+
+
+
+
+ A mistake only a faggot OP will make ;)
+
+Excellent post btw. 
+
+
+
+
+ Germans are the worst at parties, 76 years and counting. 
+
+
+
+
+ Two options:
+
+1. IB is a broker with full paper trading, which I found out to be okay (they won't simulate slippage, so don't test illiquid instruments).
+2. NinjaTrader is a platform that has simulated trading built in. You'll need to connect it to data feed or use Yahoo's 20 min delay data. The nice thing about NT is that after you leave the platform running and collecting real time data, you can replay it and run your strategy on that. It also has backtesting capabilities.  
+
+
+
+
+ Reading this comments, I realize I have a 5 acres, 10 bedroom, beach front property waiting for me in hell. Can't wait to get there. 
+
+
+
+
+ You can't go wrong with [Tinker, Tailor, Soldier, Spy by John le Carr](http://www.goodreads.com/book/show/18989.Tinker_Tailor_Soldier_Spy). The book stands on its own, but it's also part of a *The Karla Trilogy* (*The Honourable Schoolboy*,*Smiley's People*) which let further explore Smiley and Karla.
+
+*The man he knew as "Control" is dead, and the young Turks who forced him out now run the Circus. But George Smiley isn't quite ready for retirementespecially when a pretty, would-be defector surfaces with a shocking accusation: a Soviet mole has penetrated the highest level of British Intelligence. Relying only on his wits and a small, loyal cadre, Smiley recognizes the hand of Karlahis Moscow Centre nemesisand sets a trap to catch the traitor.* 
+
+
+
+
+
+
+
+
+
+ I think it's less about the absolute wage and more about the difference between tech jobs and other jobs. 
+
+For example, even if a tech job pays well in Sweden, a bright kid might prefer to take a less stressful job, like being a teacher. The salary is good enough and the premium wage of software engineering in a start-up isn't worth the stress, the long hours and the risk.
+
+Now take a bright kid from a low income family in the US. For him working in a start-up or hi tech company - even if the pay is average - still can be the difference between living comfortably and barely escaping poverty.
+
+The income inequality, which is greater in the US than any other country in Europe ^^[source](http://www.oecd.org/social/inequality.htm#income) , plays a big role in risk taking appetite.  
+
+
+
+
+ Beautiful music, thanks for sharing. 
+
+
+
+
+ If you have a PC, install Calibre and [DeDRM plugin for calibre](https://apprenticealf.wordpress.com/2012/09/10/calibre-plugins-the-simplest-option-for-removing-most-ebook-drm/). Now just transfer the books to your computer and import them into Calibre (simply open the app and grad drop them). They'll be DRM free and you can copy them to any device straight from the app (plug in the new device while Calibre is running, right-click on any book, and send to device).  
+
+
+
+
+ [Lucius -- "Go Home" [Indie pop] (2014) Soaring voices](https://www.youtube.com/watch?v=7EXbAFkCPBA). Just heard of them at /r/listentothis. Their entire album is great. 
+
+Also from my recent playlist: [ Unknown Mortal Orchestra](https://www.youtube.com/watch?v=rRaFVyuBEtg) and [ Strand Of Oaks](https://www.youtube.com/watch?v=y9VaNamkXw0). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I can only hope Hannibal will have season finale as perfect as Dexter's. 
+
+
+
+
+ Who says $50 was a fair price back then? 
+
+
+
+
+ I really hope for their sake that Joe Disney won't hear about it. OP please delete the names. Think of the children! 
+
+
+
+
+ I don't know man (I assume you are a man), Ethiopia is in East Africa, so why not the rest of it be true? 
+
+
+
+
+ Try to troubleshoot it. Put MsgBox in different lines to see what values you are getting and where it stops. 
+
+
+
+
+ Change the \^F11: to \^F11::
+
+It's there because that's your global hotkey to activate the ZenMate shortcut. So you basically hit Ctrl-F11.
+
+Put the file next to the script in the same folder.
+
+ 
+
+
+
+
+ You can add a chrome keyboard shortcut, then write AHK script that sends that keyboard keys +  click on the on/off button. 
+
+If you have trouble locating the on/off, you can use image locate on screen (screenshot two images, [like that](http://imgur.com/aq2QgLX,RJTSPee), and use [ImageSearch](http://ahkscript.org/docs/commands/ImageSearch.htm) to find either one, and click it. Don't use the images I uploaded because your might be different, depends on your screen resolution).
+
+The script should look something like that (I wrote it here, so there might be typos):
+
+    #ifwinactive ahk_class Chrome_WidgetWin_1
+    ^F11:
+    ;;assuming you assign CTRL+ALT+Z to ZenMate
+    Send {CTRLDOWN}{ALTDOWN}z{ALTUP}{CTRLUP} 
+    ;;adjust the sleep as needed
+    Sleep 500
+    
+    FoundX:=0
+    FoundY:=0
+    ImageSearch, FoundX, FoundY, 0, 0, 2000, 2000, zen_on.png
+    if ErrorLevel = 1
+    {
+    ;;zen_on.png not on screen, so search for off
+    ImageSearch, FoundX, FoundY, 0, 0, 2000, 2000, zen_off.png
+    }
+    if FoundX0
+    {
+    ;;adjust for your resolution
+    FoundX:=FoundX+10
+    FoundY:=FoundY+10
+    Click, FoundX, FoundY
+    }
+    
+    
+    return
+
+
+Don't forget to save the mouse location and return the cursor to its place. Also, try first just click on the button, its coordinates should be fixed relative to the chrome window. 
+
+
+
+
+ The problem with the interview is that the country I'm currently at is autobanned in the IRC channel.  
+
+
+
+
+ Yeah, I was going to write you about that, but this doesn't enable/disable the extension - just activate it different depends on each add on. 
+
+
+
+
+ *by him. It's one guy with a stage name.  
+
+
+
+
+ You might want to take a look at [SimpleExtManager](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk). This will allow to enable/disable extensions from the keyboard or via context menu. 
+
+
+
+
+   perfectly summarizes life in the digital age...and it was spoken over 70 years ago
+
+That goes and tells you the digital age isn't so special and unique after all. It changed the method of communication but not the nature of it. 
+
+
+
+
+ I'm looking for what.cd invite and I wonder if there are general forums (or here maybe?) for that? 
+
+
+
+
+ And you know what's the worst? Obama doesn't allow our soldiers to carry guns anymore! Share if you believe in our constitution.  
+
+
+
+
+  If a girl looks swell when she meets you, who gives a damn if she's late?
+
+ J.D. Salinger, The Catcher in the Rye  
+
+
+
+
+ Could have bought Greece. Move all berkshire subsidiary companies there. Save on rent.  
+
+
+
+
+ [More](http://www.nude-gals.com/photoshoot.php?photoshoot_id=13718). 
+
+
+
+
+
+
+
+
+
+ By [Alex Tin / 500px](https://500px.com/alextin). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have just tried it based on your comment, and I prefer it way over TT. Thanks. 
+
+
+
+
+ She also writes comic books: [Frenemy of the State (#1) by Rashida Jones](http://www.goodreads.com/book/show/15784910-frenemy-of-the-state). 
+
+
+
+
+ Best upgrade any computer or laptop can have. If you are reading this, and your computer still runs regular drive, the least you can do is add SSD for the OS to run from. 
+
+
+
+
+ Also, Gaza isn't Palestine. Palestine is divided to the West Bank and Gaza, with two different governments. The official President of the Palestinian National Authority is in the West Bank. 
+
+
+
+
+ I would argue that this is valid even through the 80's. Until the Star Wars revolution, movies in general didn't have much competition, weren't made to be block busters, and especially world wide, there weren't many competing theaters. So a hit movie like ET could enjoy a long period in which absolutely everyone went to see it. 
+
+
+
+
+ I posted the link with a different title in mind. Then Reddit told me that it was posted 7 months ago in a different sub by ... me. So I kept the title. True story. 
+
+
+
+
+
+
+
+
+
+ Or you can try the [Hannibal way](http://i.imgur.com/ROjCDob.gif). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [source and more facts](http://animals.nationalgeographic.com/animals/mammals/elephant-seal/). Picture by [David Merron](http://www.davidmerronphotography.com/).
+ 
+
+
+
+
+
+
+
+
+
+ The law of music: tell me how you label your music, and I'll tell you how old are you. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If you don't mind lack of character customization and enjoy a great story - try The Witcher series. the Witcher 1 released in 2007, and #3 just release few weeks back. 
+
+
+
+
+ This is excellent. It's from the album [The Mozart Sessions/Bobby McFerrin, Chick Corea, Saint Paul Chamber Orchestra](http://www.discogs.com/Bobby-McFerrin-Chick-Corea-Saint-Paul-Chamber-Orchestra-The-Mozart-Sessions/release/3745452). 
+
+
+
+
+ Yes, but at this point he doesn't really care. He's aware his cover is blown. What's one more murder to the list. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ We should all take note from /r/shittyaskscience. The only true sub that truly promote naive questions, spreading knowledge and real science to all. 
+
+
+
+
+ I think he's smart enough not to dilute it.  
+
+
+
+
+
+
+
+
+
+ By the way, I majored in Math. My best friend majored in Physics. I think his degree was much more difficult than mine. He thought the opposite. 
+
+The difficult level got a lot to do with the student abilities towards certain areas. For me Math is easy. Physics is hard. Philosophy is much harder. Another friend of mine studied literature, and as much I love reading, I would probably have failed. 
+
+My point was that getting the degree, compared to history, is trivial. For example, when my friend's father had his engineering degree 50 years back, there was 1 university in the country where he lived, with 35 spots open every year. You didn't make it? too bad, wait for next year. There was one store that sold books, there weren't exams databases, nobody offered him any loan. and for women there were dozens of other obstacles to overcome. And at his time, about 10% had a degree. today it's 50%. That says a lot.
+
+ 
+
+
+
+
+ More pics at [Camille Rowe (@fingermonkey)  Instagram](https://instagram.com/fingermonkey/?hl=en). Created this cute [gif](http://i.imgur.com/BVs4L2u.gif) from there. 
+
+
+
+
+
+
+
+
+
+ 'Are you not entertained?' Screamed the gladiator. 'Yes!' Shouted the crowd back. 'Good, that will be additional 9% on your entry ticket.' 
+
+
+
+
+ Benfleck always look uncomfortable, that's his thing.  
+
+
+
+
+ Yeah, physics is also very trivial. 
+
+Now, I'm not saying the studies are easy, far from it. Not in philosophy and neither in arts nor in physics. But it's simply very common. Getting into university or college, and getting a degree - any degree - isn't that special.
+
+I didn't say anything about the difficulties of the studies, I personally would probably fail in philosophy, arts, and the other 90% of available degrees. But finding the degree that fits you and getting into high education - is not as hard as it used to (let's say 30 years ago).
+
+So yes, even if you are STEP major, good for you, but don't expect anyone to be impressed by it.
+
+ 
+
+
+
+
+ Ninjatrader has a nice automatic and programmable system, starting from a simple wizard with lots of default conditions up to full blown, non sandbox, c# programming. They also offering brokerage services of their own, or you can pick one of the supported brokers. 
+
+
+
+
+  one of the greatest shames of modern education is emphasizing professionalization of undergraduates versus overall education
+
+There is a good reason for that. In modern days overall education isn't a big achievement. High education is available to everybody, graduating isn't hard and in most cases isn't very expensive. Universities and colleges are bigger and more accessible than ever, some of them are even online. Getting a liberal art degree, or simply high education, doesn't give any bragging rights like it used to. 
+
+So yeah, "Philosophy and many of the other liberal arts are legitimate fields of study", just don't expect a pat on the back for doing something very trivial nowadays.
+
+The professional world however is getting more competitive by the day, with very limited spots and ever growing supply of candidates all over the world. 
+
+---
+
+edit: Okay, looks I didn't explain my point properly. **Nearly 40 percent of working-aged Americans now hold a college degree, according to a new report from the Lumina Foundation**. Something that 40% of population does **isn't special**.
+
+I simply responded to "emphasizing professionalization of undergraduates versus overall education". Of course it does, because getting overall education is something that doesn't need any support.
+
+I'm not saying anything about how difficult the studies are. The fact that 40% the work force gets a degree proves that it's **very achievable**.
+
+And yes, I'm talking about any high education. STEM included. 
+
+
+
+
+ "I have done nothing wrong, I was just helping him experience alternate career options" 
+
+
+
+
+ Ann Perkins! 
+
+
+
+
+ Just Cardiology department. It's usually 5-6 doctors, and there were several devices because there were several computers.  
+
+
+
+
+ Meaning, if this was developed in Google's office in Nairobi instead of Mountain View, this wouldn't have happened.  
+
+
+
+
+ This remained a mystery. The company that supplied us with the scanner acknowledged the issue, but didn't provide any information. Eventually we had to abandon the whole thing, for several reasons. This was one of them, as Indian doctors  common in US hospitals.
+
+This was about 15 years ago, so I'm sure the technology had advanced greatly since. Maybe this is why you personally didn't have any issue in the past years.
+
+ 
+
+
+
+
+  The enormous increase in the quantity of currency precipitated an era of hyperinflation in the Confederacy as more dollars chased fewer goods. The price level in the South rose by roughly 10 percent per month during the conflict and by the end of the war, the price level had increased in the Confederacy by a factor of 92, though imports tended to inflate more quickly and exports more slowly. At the same time, the blockade, military destruction, and the loss of workers to the war caused real wages and output to fall dramatically, with per-capita consumption falling by 50 percent in real terms. Indeed, if banks had not sharply increased their reserve ratios for fear of bank runs, the inflation created by excess money in the South would likely have been even more severe.
+
+ The Confederate government passed the Currency Reform Act of 1864 in an effort to stem the rampant inflation ravaging the South. The Act effectively removed one third of all currency in the South from circulation by mandating that all large denomination bills be converted to 4 percent Treasury bonds before April 1, 1864, and imposing a 3-to-2 redemption ratio for small bills after the deadline. As people tried to get rid of their large notes, velocity spiked and in the months prior to the deadline, inflation rose to 23 percent a month. In the summer of 1864, though, price levels in the Confederacy finally stabilized and even declined slightly, just as monetary theory would predict following a contraction in the money supply. However, in the face of continuing pressure to meet war obligations, Congress authorized the printing of an additional $275 million in August of 1864, mostly reversing the effects of the Currency Reform Act. 
+
+
+
+
+
+
+
+
+
+ A company I used to work for sold finger print readers to users. The target users were doctors in hospitals (to access our software without entering password). 
+
+The reader systematically failed reading and identifying Indian doctors.  
+
+
+
+
+ I don't think you should expect employers to do police work and check workers' origin and legal status. And if so, why stop at employers? Why not put in prison every Walmart manager that sells goods to illegals? If they can't buy food, no reason to come.
+
+If you want to stop illegal immigration, tighten the border, and accept that some will pass. Also accept it's not a bad thing. 
+
+
+
+
+ Modern day Dickens. 
+
+
+
+
+ Is that episode with the health inspection? alright, alright, alright, that episode was amazingly good.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Sure, we can use your contract. Our lawyers will have to approve it first - because nobody in their right mind will sign ANYTHING without running it through legals (nor they are allowed to), and that will cost you $1,000/hr in legal fees, which I'm sure you wouldn't mind paying"  
+
+
+
+
+ Who wouldn't? 
+
+
+
+
+
+
+
+
+
+ I find Scott Kelby's books to be accessible and useful with the basics. Straight, no non-sense advice on how to shoot in different scenarios. The series is called *Scott Kelby's Digital Photography* and I think it has 4 volumes. His Adobe Lightroom book is also good if you use this program.  
+
+
+
+
+ There could be dozens of reasons for that, and it's usually clear only in hindsight. The typical reasoning is that investors and money managers sees the USD as safer. Meaning, the risk at holding euro doesn't compensate enough relatively to the yield.
+
+The effect on trade is causing European goods cheaper to USD holders and having USA goods more expensive to Euro holders. 
+
+On one hand it strengthen the USD financial market (there's is more demand for financial instruments traded in dollar) and on the other hand it weakens the export companies that manufacture in USD and sell in Euro. 
+
+There isn't a clear cut answer to the cause and effect. It's a complicated machine. 
+
+
+
+
+ The rate by itself doesn't mean much, it's just an arbitrary number. What you care about is the change in rate.
+
+If one currency is getting more expensive compared to another, it means that this currency is in more demand compared to the second one. 
+
+Why do people prefer to sell the second currency and get the first one? 
+
+They think it's a better vehicle to keep value. Meaning, the first currency will keep its purchasing power better than the second currency. The value of the currency encapsulates interest rates, sovereign risk, inflation risks, future demand (by other investors) and future supply (by the central banks).
+
+ 
+
+
+
+
+ That's the correct answer. 
+
+
+
+
+ He quoted from the article, so obviously he at least clicked it. He also quoted a line that is written after the energy reason is mentioned. So I really don't see why you need to push the "nobody's clicking the link" circlejerk.
+
+(maybe we should start "nobody is reading the comment they are replying to")
+
+On top of that, his question is legit and you didn't answer it.
+
+ Two of the main costs of manufacturing are the labor and the electricity
+
+Good. He's asking if the energy savings offset possible future labor costs. Do you have an answer for that? The article doesn't seem to compare future labor costs among different countries.  
+
+
+
+
+ You can't go wrong with any of those:
+
+1. The Idiot
+2. The Brothers Karamazov
+3. Crime and Punishment 
+4. Notes from the Underground
+
+Whatever you pick, I would also suggest reading notes online to better and deeper understanding of the novels, there are many subtle motives that can go unnoticed.  
+
+
+
+
+ Exactly. And the headline that gets the bigger font is according to the price action in the previous couple of hours. It's worthless.  
+
+
+
+
+  When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down happy. They told me I didnt understand the assignment, and I told them they didnt understand life.
+
+--John Einstein Lennon, age 5.
+ 
+
+
+
+
+ Have you tried the default Windows Media Center? (assuming you work on Windows). It might be what you need with minimum effort. 
+
+Also, like some said, you can tweak XBMC to behave like a normal app. I do that on my laptop. Minimal skin, windowed (meaning, not full screen). I work with mouse and keyboard.  
+
+
+
+
+ It's to be expected, considering real estate is probably the most expensive thing in the shop. I do agree that many shops don't use their current space smartly. 
+
+
+
+
+ The latter is better. You can buy shares of Monsanto [NYSE:MON] if you think they'll keep growing profit. The exec's compensation is nothing compared to their earnings ($32M out of $15B revenues and $2,700M net earning). 
+
+
+
+
+ Weren't they mounted? 
+
+
+
+
+ /r/lewronggeneration  
+
+
+
+
+ Twist: the trigger controls the camera 
+
+
+
+
+ No way he's even close to be a (anti) hero. He's the most egocentric person on earth. At best, he's anti-villain. 
+
+
+
+
+ [ Seven Lions](https://www.youtube.com/watch?v=Ypf7WPWO0mQ)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, that's the one. Should have looked for it myself, so thanks for the extra info.  
+
+
+
+
+
+
+
+
+
+ It's a bit different. Thinking: Fast and Slow is more academical in nature, more serious, founded and deeper. *You are not so smart* is more anecdotal and lighter.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Personal experience in movies, and I would argue especially in comedies, got a lot to do with your personality *at that moment*. So it's not only whether this type of humor touches you, but also the mood you are at, the company you watch with, the theater experience, etc.
+
+Sure, some movies are genuinely bad or brilliantly good, but for the majority of films, it's really a personal experience and timing. Someone can enjoy a movie and only later be aware of its flaws. If someone watches a movie with a notebook to write down used tropes, he isn't going to have a good time.
+
+I used to hate comedies, but I learned to love them by letting go and matching them to my general mood. Hell, I even laughed in Horrible Bosses 2, a movie I wouldn't even dare watching few years back.  
+
+
+
+
+ I personally hate the [Medieval Stasis](http://tvtropes.org/pmwiki/pmwiki.php/Main/MedievalStasis).
+
+ So, you have a Heroic Fantasy with a long history in order to account for the fact that the Sealed Evil in a Can has been forgotten. You fast forward about five thousand years and reveal a world... exactly like the one you started in! Same kinds of tools and devices, same form of government, same language, same culture  you wouldn't even need to dress differently to fit right in.
+
+ Medieval Stasis is a situation in which, as far as the technological, cultural, and sociopolitical level are concerned, thousands of years pass as if they were minutes
+
+ 
+
+
+
+
+ How about the classic [The Count of Monte Cristo by Alexandre Dumas](http://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)? 
+
+
+
+
+ The problem with leverage funds is that they lose money on sideways movement. If someone wants to leverage the S P, it's probably better to use margin account or roll futures which have built-in leverage.  
+
+
+
+
+ Maybe also [Daily Rituals: How Artists Work by Mason Currey](http://www.goodreads.com/book/show/15799151-daily-rituals). 
+
+
+
+
+
+
+
+
+
+ And that crazy fat dude from the radio who said he'll leave the country if Obamacare passes. 
+
+
+
+
+
+
+
+
+
+  face off
+
+ 
+
+
+
+
+ My current read. If you doubt your rational choices or if you think you are one supreme intelligent and rational creature, this book is for you.
+
+[You Are Not So Smart: Why You Have Too Many Friends on Facebook, Why Your Memory Is Mostly Fiction, and 46 Other Ways You're Deluding Yourself by David McRaney](http://www.goodreads.com/book/show/11709037-you-are-not-so-smart).
+
+ Whether youre deciding which smart phone to purchase or which politician to believe, you think you are a rational being whose every decision is based on cool, detached logic, but heres the truth: You are not so smart. Youre just as deluded as the rest of us--but thats okay, because being deluded is part of being human.
+
+ Growing out of David McRaneys popular blog, You Are Not So Smart reveals that every decision we make, every thought we contemplate, and every emotion we feel comes with a story we tell ourselves to explain them, but often these stories arent true. Each short chapter--covering topics such as Learned Helplessness, Selling Out, and the Illusion of Transparency--is like a psychology course with all the boring parts taken out.
+
+ Bringing together popular science and psychology with humor and wit, You Are Not So Smart is a celebration of our irrational, thoroughly human behavior. 
+
+
+
+
+ Faith in snakes = restored. 
+
+
+
+
+ Just visited a friend of mine with his 5 years old son. The kid has 2 iPads and he loves watching movies on YouTube. But guess what, he also got tons of crayons and he loves his legos. When you got 12 hours a day to play, you sure can accomplish a lot. 
+
+
+
+
+
+
+
+
+
+ Are the scientists doing sleep researched tried to talk to guys from Microsoft?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ To put it in words (in addition to all the technical and correct explanation you received), it means the momentum in the market is fading. Meaning, the market is going up as fast as it did. It's like a car slowing down. Does a car has to slow down before it stops in reverse? sure. Does it stop and reverse EVERY TIME it slows down? of course not. Indicators are tricky.  
+
+
+
+
+ Or organic.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  money has been draining out of the market
+
+Money cannot be drained out. For every seller there's a buyer. 
+
+ stock market's cap has been increasing
+
+This happens for specific companies because buyers and sellers are settling at higher prices. And on top of that, it happens at the total market if there are more IPOs than write-offs. 
+
+ if US investors are net sellers of US equities, I must presume that foreign investors are net buyers
+
+It doesn't matter really who's doing the buying or selling. for every buyer there's a seller.
+
+The only argument that can be made is if the sellers are smarter than the buyers. So if, for example, you hear that some big shot hedge fund manager sold his FB shares and million barbers, taxi drivers, redditors and gas stations operators bought each a share, then you might argue that something is going on here.
+
+Unfortunately, it's never a clear cut, only on extreme market conditions. And right now, this is not the case. I'm not saying that market will go up or down, I don't know. But I do know that this chart isn't any indication to what's going to happen. 
+
+ 
+
+
+
+
+ Well unfortunately (or fortunately, depends how you look at it) it's outside Zion Park in the valley, so zero bars.  
+
+
+
+
+
+
+
+
+
+ This is BS article.
+
+1. If we want regulated markets that protect small investors from doing stupid shit with their money, that's a reasonable and accepted part of the plan.
+
+2. Most startups won't even accept investments of less than few hundred thousands dollars. So it makes sense to limit the investment to "accredited investors". 
+
+3. If you do have half a million dollar, and it's all your money, and you really want to invest in some start up despite better judgement, there are easy and legal ways to achieve that. 
+
+4. Most start ups fail. You know what else fails? This article. It doesn't mention the hundreds of start ups that go bust and give zero money back to investors, but instead keeps dropping names like Facebook and Linked In.
+
+5. Most of the "accredited investors" are white men, but how is this relevant? It's like saying the Yacht market is blocked to black people. Wealth inequality exists,so let's deal with it. I don't see any added value by putting it in a stock market regulation article.
+
+
+ 
+
+
+
+

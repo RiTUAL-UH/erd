@@ -1,0 +1,999 @@
+ I can tell you right now that there aren't any anime characters on the roster currently. The rule for third-parties (and, by extension, fourth parties) is that they must have had an appearance on a Nintendo console, their games are well-remembered, and made an impact on the console they appeared on, or gaming in general. An example is Sonic, Mega Man, etc. 
+
+
+
+
+ I'm definitely thinking options to change things like airdodges and such, but I kind of see what you mean. I think that I may keep one general speed, but customization on a character before you select a stage would be interesting, kind of like choosing a kart in Mario Kart.  
+
+
+
+
+ Yes, this means that we'll be implementing techniques from both. For instance, pivot grabs from Brawl will be added, and we're contemplating a lot of different techniques from Melee, such as moonwalking. 
+
+For characters, a lot of moves are taking more reference to the character's origins. While this does spice up characters a little bit, characters like Dr. Mario (assuming we add him in later) will likely take more scrapped parts from their original counterparts to make them more unique. A example off the top of my head would be that Mario gets the F.L.U.D.D. while Dr. Mario keeps the Mario Tornado.  
+
+
+
+
+ Hi, I'm test_subject6948 and I'm developing a game currently titled "Super Smash Bros. Affinity". It's main goal is to take the best from Smash 64, Melee, Brawl and SSB4, and put it into a free online game that people can pick up and play. Currently, a very basic demo is expected by July, but I need some fan input. Here's what I can tell you so far:
+
+-The game is sprited, similarily to that of Smash Bros. Crusade and Smash Flash 2. We're currently using sprites from other sources in the demo, but custom sprites will be added soon. 
+
+-The game's main goal is to focus on improving veterans and mechanics first, but we can promise you that many newcomers will appear eventually. 
+
+-The game will attempt to reach the speed of Melee, but appeal to Brawl players as well. 
+
+-We're mainly keeping it to Nintendo and some of it's third-party affiliates. 
+
+-A variety of Nintendo characters will appear, such as Mario, Link, Samus and Ness, alongside newcomers such as the Balloon Fighter, who's main focus is stage control and lightning-fast aerial combos, as long as you avoid getting your balloons popped.
+
+-Stages include iconic locations from previous games, such as PictoChat, Mario Galaxy and Onett, as well as new stages like Mt. Dedede and Kokiri Forest. 
+
+I'd truly appreciate the input on ideas or suggestions, and a link to some in-development pictures is below. Thank you for your assistance.
+
+http://smashboards.com/threads/super-smash-bros-affinity.342020/page-9#post-16846227 
+
+
+
+
+ I've got the Tale of Desperaux for the Wii. 
+
+That ought to be a funny video.  
+
+
+
+
+ MEGA MANS EVERYWHERE.
+
+IT'S LIKE SOMEBODY RAIDED CAPCOM'S DUMPSTER. 
+
+
+
+
+
+
+
+
+
+ I get to live out my dream of fighting boxers, plumbers, gorillas, princesses, monsters, knights, demons, aliens, spies and bounty hunters as a small blue robot. 
+
+My life's complete.  
+
+
+
+
+ I have very basic coding skills (small webpage basic in HTML, to be exact), but I'm always trying to learn more.  
+
+
+
+
+ I was thinking to myself a few nights ago, and with all the Classic Mega Man stuff happening lately, I thought up two ideas for Mega Man fan games:
+
+1. Mega Man: Worlds Collide. Basically, it's the Mega Man Archie crossover with Sonic, but in game form! Play as Mega Man or Sonic, and fight the 8 Roboticized Masters (Shadow, Knuckles, Amy, Vector, Charmy, Espio, Blaze, Silver) and summon in Tails or Rush for assistance. 
+
+2. Mega Man Smash. Mega Man vs. the 8 original fighters from Smash Bros: Mario, Link, Samus, Kirby, Pikachu, DK, Fox and Yoshi. 
+
+They're kind of stupid, but I'd like to know if anybody else would be interested in doing this before I scrap 'em.  
+
+
+
+
+ Let's see:
+
+Super Mario 3D World (5/5)
+Pikmin 3 (5/5)
+Legend of Zelda: Wind Waker HD (5/5, only get if you don't own it on GameCube)
+Nintendo Land (4/5)
+New Super Mario Bros. U (4/5)
+Sonic Lost World (4/5)
+New Super Luigi U (4/5)
+Pac-Man and the Ghostly Adventures (3/5)
+Scribblenauts Unmasked (3/5)
+
+I highly recommend 3D World and Pikmin 3, as well as Lost World and Nintendo Land. Also, try out Rayman or Donkey Kong, and definitely get Mario Kart and Smash when they come out.  
+
+
+
+
+ I'd personally keep Pika, Puff, Lucario and Red (with Squirtle, Ivysaur and Charizard) snd add Mewtwo. But a standalone Red, Meowth or Zoroark would be kind of cool too.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Looks like this leak is officially debunked. You said that Rosalina was an AT, yet now she's a playable character. Don't fret, Shulk and Little Mac supporters! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A bunch of new concepts are being used for characters. I can't reveal too many of the changes this early, though.  
+
+
+
+
+ Hey Dustination. Yeah, I came just to see what people wanted. The demo's likely to be out by July, though, so I'm getting some input in before we finalize it.  
+
+
+
+
+ I can't confirm anything for them yet. Do know that I plan on including SOMETHING related to Super Mario RPG in the game.  
+
+
+
+
+ Indeed.  
+
+
+
+
+ Items will definitely return, and later we may implement those other things into a online mode down the line.  
+
+
+
+
+ Thank you for this advice!  
+
+
+
+
+ C#, I believe. Don't worry, nobody dies and we aren't going to ask for money.  
+
+
+
+
+ It will definitely lean towards Melee, but with mechanics from SSB64/Brawl/SSB4. Veterans are definitely getting some updates to better fit their character or to help them in combat. For instance, a good example is Mario, who's recovery is being boosted and with a bit of extra power. This includes giving him a Ground Pound stall-then-fall dair, buffing the Super Jump Punch, and other things.  Many characters will receive changes to differ themselves from not only their console interpretations, but Project M and other fan game interpretations as well. It won't be Melee 2.0 or Brawl 2.0.  
+
+
+
+
+ Veterans are the main focus currently, but there are quite a few newcomers that are being planned, mostly to fill certain fighting game archetypes and provide a unique Smash Bros. experience. The Balloon Fighter is the main character from one of Nintendo's original NES titles, Balloon Fight. He's recently been a trophy in Melee, had music in Brawl, was a featured game in Nintendo Land and is in the NES Remix games.  
+
+
+
+
+ We're keeping it very low-key for the moment, when the demo comes out I'd definitely appreciate some assistance in patching it for problems. We're trying to make it the same core as Smash Bros. with the best mechanics from different installments, yet add enough new mechanics to differentiate it from any previous or upcoming Smash. It's likely the full version won't be out until after SSB4.  
+
+
+
+
+ We're definitely trying to get all veterans into the game.  
+
+
+
+
+ -There aren't any OCs in this game. All veterans are hopefully going to be implemented into the game before the final version. 
+
+-This game brings the best of each Smash game together, as well as introduce new things from other fighters and Nintendo games that wouldn't be in the upcoming SSB4. 
+
+-Our coders and spriters do. I've worked a small amount, and do know a bit of coding, but I'm able to manage the team efficiently and help assist them if needed. 
+
+-I'm trying my best to make this happen so that it's available on Mac, PC and Linux. It may take a while, though. 
+
+-Affinity is a work in progress name, it's based off of a new mechanic we're implementing into the game, but I can't reveal it until we can definitely put it into the game.  
+
+
+
+
+ I have been thinking about that, and I'm planning on putting a lot of work into making sure animations are smooth and flow like a model would. This will likely give more of a cartoony feel to the game, but it fits the premise nicely. For instance, an attack to the face will actually affect the face, not just put them into a damage animation. Characters will react to their surroundings instead of just having inputs.  
+
+
+
+
+ The problem is that, while P:M has great gameplay and SSF2 the pixel art, they both lack new Nintendo characters with moveset capability. This will be treated as a normal Smash game would: the characters from Nintendo's history and present fighting for supremacy, give or take a few rivals.  
+
+
+
+
+ I'm going to sound stupid, but could you repeat them?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well, Bo Peep happened. Never expected that.  
+
+
+
+
+ That's genius! But I think you're forgetting McGucket's transformation, that'll definitely cause trouble for them.  
+
+
+
+
+ Well, looks like I can throw that all away. 
+
+But if he dies, then... what happens to the other one?  
+
+
+
+
+ Dat ain't Falco.  
+
+
+
+
+ Soos Gumby is my new role model.  
+
+
+
+
+ All aboard the hype train! 
+
+
+
+
+ First off:
+
+A. Talking Waddles will be amazing. 
+B. Claymotion will be amazing. 
+C. Jessie/Spider-Man crossover is literally the one thing Marvel fans feared would happen once Disney bought Marvel. ONE JOB. Putting the superheroes in a Disney cartoon is OK, but putting the Disney characters in the superhero cartoon? UGH.  
+
+
+
+
+ If the only reference is the title, I'll be slightly disappointed. Little Shop was the last musical I performed in, and I loved it. 
+ 
+
+
+
+
+
+
+
+
+
+ I volunteer as tribute.  
+
+
+
+
+ It's good to be the King.  
+
+
+
+
+ The more I watch, the funnier it gets. Great job, man! 
+
+
+
+
+ Turns out a few other characters were announced a while back:
+
+-Paper Mario. Paper Mario lacks range by himself, so summoning his partners will allow him to control the stage and combo with speed. 
+
+-Lip. Her wand will drain health from enemies, so naturally her weaker attacks are powered up when you use them in tandem with her flower powers. Racking up damage has never been so satisfying. 
+
+-Robotnik. This is a upgrade character. He can use his skills to repair his weaponry, allowing him to increase power, range and knockback. All of this disappears when he's KO'd, though. A good example is his recovery, the jetpack. It will blast farther and release more flames as it's upgraded. Think Engineer from TF2 and Lucas from PM combined. 
+
+That's all I can reveal at the moment, but we're working furiously.  
+
+
+
+
+ I love SSF2 and Crusade, both are awesome games. But I do notice things that they hit or miss on, and I want to kind of do my own thing that makes Affinity unique from other fan games or the console installments.  
+
+
+
+
+ C# for Unity.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They fist bumped.  
+
+
+
+
+ Homework always takes priority over Smash, that's the first thing I told him. :) I'll let him play for a while, and when I think it's time, that's when we'll get serious.  
+
+
+
+
+ Indeed. We asked about just having 4 players vs. 4 CPUs, but she was instructed only to do normal Smash. 
+
+Luckily, there was still a lot of fun to be had with normal 4-player. Wii Fit Trainer dittos and the Gamer stage were highlights.  
+
+
+
+
+ Lucky. We weren't allowed to use 8-Player Smash at ours.  
+
+
+
+
+ We'll be playing SSB4 together mostly every day for at least 2 months, so we'll likely be practicing a lot. I told him there's math behind the game as well, so he can use that as an excuse if he wants to.  
+
+
+
+
+ So, just some quick background here:
+
+I'm by no means the best player. I've played with competitive level players, and I'm always coming out in 2nd or worse. So, it's no big surprise I wasn't doing well. 
+
+Then there's my brother, who's turning 10 a few days before SSB-Wii U drops. He's by all definitions a casual. He mostly spends time in Brawl spamming Toon Link's dair yelling "DUCKTALES!". So, he tagged along when I went to GameStop, hoping to try out the new game. 
+
+There was a group of people that were competitive-level players who were trashing everyone, including me. So, my little brother secretly asks to use my controller so he can play against these guys, and I agreed. They never bothered to look at who was playing.
+
+The two guys both chose Pit, and my brother the Villager. There was a Diddy Kong somewhere, but he died pretty early. Items on, 3 stocks, Palutena's Temple. 
+
+Fast forward to near halfway through. Diddy's gone, and everyone has one stock. The Daybreak item begins to appear. One of the Pits manages to grab two, and the final piece spawns behind my brother. This is when I begin to watch him more carefully. He quickly plants a tree near the Daybreak, and one Pit doesn't see it. He rushes towards the piece, and then BAM. My brother finishes him off with a final blow using the tree. 
+
+My brother pockets the piece and runs. The final Pit, with the other two pieces, begins to rush towards him. What I saw my brother do, this filthy casual who likes to spam attacks and then Kirbycide 90% of the time, really made me proud of him. 
+
+He used Lloid Rocket to space himself decently from the player, and did nothing but constantly avoid the grasp of him by rocketing from one platform to the other, and sometimes using Balloon Fight. He planted trees to create walls in order to get some time. At one point, he landed on the bridge and destroyed it right as Pit landed on it using his Weed Pluck D-Tilt. He continually attacked using the slingshot, and managed to grab nearly every single  arrow this guy threw and shoot it right back. The guy was screaming "Get over here, stop running away! It's my Daybreak!" After managing to rack up enough damage, my brother stops on a platform. He doesn't plant anything, he doesn't do anything, he stands there with enough damage that a good aerial from Pit would kill him. 
+
+The Pit rushed towards him. The platform rose above the ground, and the guy cockily laughs as he jumps onto the platform and stands there. My brother begins to dance. Pit started up the Upperdash Arm, and just as the dance ended, my brother rolled for the first time in history, and then used the twirling stick U-Tilt to land a finishing blow on this guy. 
+
+The player looked at me, and stuck his hand out as a "good game" kind of thing. I told him it wasn't me playing, and my brother grinned ear to ear and started laughing.
+
+This is the kind of stuff I really enjoy seeing. He's never been this excited about a match before, and suddenly he picks up on some techniques he's never used before, and uses them to win against two competitive players. I've started calling him Decky the Destroyer, and he's enjoying every moment of it. 
+
+I really do hope we can see this kind of stuff pop up in the future.  
+
+
+
+
+ Isn't the screwdriver the same one Blendin takes in the Time Traveler's Pig? My only question is why that specific date was needed to take the screwdriver.  
+
+
+
+
+ Well, my personal idea...
+
+**King K. Rool**
+
+N-Special: Bunderbuss. He pulls out his blunderbuss and fires a cannonball. Comparable to Bowser Junior's N-Special. A character can kick it in any direction assuming their move has enough knockback. He can charge this move, and if uncharged, the cannonball will drop right in front of him, and can be used as a Soccer Ball type item for K. Rool. 
+
+* N-Special 2: *Blunderbuss Gas*. K. Rool fires a burst of slow-moving poisonous gas instead of a cannonball. If an opponent gets trapped in it, it'll be a continuous attack that doesn't make opponents flinch, like Fox's laser or Palutena's Heavenly Light. Think the Ashley Assist Trophy in cloud form. 
+
+* N-Special 3: *Blunderbuss Dash*. Instead of firing a cannonball, the blast from the blunderbuss can be used to dash K. Rool forwards or backwards. Wonderful for moving across the stage. 
+
+S-Special: *Crown Toss*. K. Rool throws his crown as a boomerang attack. It acts a lot like you'd expect, except it's multi-hit and can trap opponents on the way back. He can still move around while it moving, and activate other moves, but once it touches K. Rool again, it will return to him, allowing for some insane mind games. 
+
+* S-Special 2: *Crown Shot* K. Rool can throw the crown faster and farther, but at the cost of charging it. 
+
+* S-Special 3: *Crown Volley*. A lot like the actual Boomerang item, K.  
+Rool can hit the B Button again to launch the crown back. 
+
+Up Special: *Helicopter Pack*. K. Rool pulls out his helicopter pack from DKC3 and uses it to fly upwards. The blades are a hitbox, but K. Rool is vulnerable everywhere else. Once the move is over, it'll disappear and he'll go into freefall. 
+
+* U-Special 2: *Electric Pack*. It has an electric effect and can damage opponents on the way up, but it has a shorter range. 
+
+*U-Special 3: *Explosive Pack*. It will explode with high knockback at the climax of the attack. K. Rool will take 5% damage if it happens, but he'll receive no knockback. 
+
+D-Special: *Kremling Krush*. A lot like Bowser Bomb, except it creates a rather large shockwave that traps opponents. References his DK64 fight. 
+
+* D-Special 2: Kremling Jump*. He'll jump upwards with great force and a gust effect, but the move can be cancelled into an aerial.  
+
+
+
+
+ This is no different than the random appearance of platforms in Fountain of Dreams in Melee, or Yoshi's Island in Brawl. If it is indeed Final Destination-shaped, it should be legal. Assuming that the Dog's the only random platform and there are no actual hazards.  
+
+
+
+
+ Duck Hunt: Some wild dog running in the wild, hunting, when he's ambushed by villains. Somebody saves him, and he's now following them around to help them. 
+
+Wii Fit Trainer: She's jogging and the road is blocked by some baddies. She whoops them and meets up with Wario, who's captured somebody. Being Wario, she wants to fix his problem, and assists whoever's chasing him.
+
+Little Mac: Training with Doc and sees Donkey Kong. Challenges him. Helps him when they finish and someone wins.  
+
+
+
+
+ I stick with the classic Blue Bomber, of course. 
+
+However, I also dabble with my Tux Dr. Mario.  
+
+
+
+
+
+
+
+
+
+ All the references to the Sorcerer's Apprentice made me freak out, especially the broom and turning the apprentice into a mouse. As a huge fun of the Mickey shorts and films, this was amazing. 
+
+Henry as the new Sorcerer's Apprentice makes sense. He's the one that reunites all of these fairy tales, and will obviously be playing with some magic. He's our human Mickey, and I honestly couldn't be happier.  
+
+
+
+
+ I'm male and I love this show. t's worth watching at least once.  
+
+
+
+
+ Touche.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Marth's unavailable, but Wii Fit Trainer is. 
+
+I've already got Villager, which other ones are rare enough to get before December?  
+
+
+
+
+ It's one of the Super Smash Bros. Brawl ones, I think.  
+
+
+
+
+ **1. What amiibo figure would you like to see in the future?:** 
+
+I'd definitely like to see some more varied characters to fill up what Smash Bros. doesn't already have, such as Captain Toad, Waluigi, Ridley, Tom Nook, etc. Plus, third-party figures like Rayman and Bayonetta would be cool. 
+
+**2. What other types of amiibo functionality do you want?:** 
+
+I'd like to see a sandbox-styled game where you can use the characters o build your own games based off their franchises. Think Disney Infinity and LittleBigPlanet combined. Plus, using amiibos as the playable characters, combined with unlocking specific parts/textures/items/vehicles would be cool. 
+
+**3. Thoughts/Suggestions for /r/amiibo (if any):** 
+
+I'd like to see some sort of way to find the amiibos and where they're in stock, such as if they're out of order or if they're exclusives. 
+ 
+
+
+
+
+ 3DS was basically "Make sure to play as all of the characters! Do you know about this mode? Try it out! Collect all the trophies! Have fun!"
+
+Wii U is "You're going to know every character inside and out. You will have to know EACH FRAME OF EVERY ANIMATION or else you're screwed. One wrong move costs you EVERYTHING. You're going to effing bleed if you want the Knuckle Joe trophy. Welcome to 20XX, bitch." 
+
+
+
+
+ I got a Villager, and the Toys R Us had everything but Marth. 
+
+ 
+
+
+
+
+ And now I feel like an idiot. Thank you.  
+
+
+
+
+ We've experimented with several menus, but we've never been able to load the amiibo on. We can't find any specific sub-menu for it, and it's been bothering us all day. How do we scan the amiibos in Hyrule Warriors? 
+
+
+
+
+ Villager is "Destroyer", based off my brother's previous Destroyer shtick. 
+
+Link's "HeroOfTime". 
+
+Mario is "Gonzales." Like in Thousand Year Door.  
+
+
+
+
+ I really think that Sakurai needs to look at some other resources for Ridley, considering that PM fan model we saw a while back. With a fanbase that big, and a slightly smaller hatebase, you'd think he'd try a bit more to incorporate him. 
+
+A bit off topic, but I'm really hating the fact that 5-6 morons are being used as the definiton of "Ridley supporter" and anyone who does want Ridley is a delusional maniac. I'd appreciate it if every time I get into a debate, people stop pulling the same cards on me and telling me I have no idea what I'm talking about. 
+ 
+
+
+
+
+ http://www.ssbwiki.com/series_symbol
+
+This should have everything.  
+
+
+
+
+ They mentioned being in quite a few tournaments in the state, and making it to semi-finals. I don't know their names or usernames or anything, just that.  
+
+
+
+
+ This is beautiful. I fully approve.  
+
+
+
+
+ I believe he probably used it and then opened up the Pocket to grab Pit's arrows.  
+
+
+
+
+ They chose Palutena's Temple to see if they could do the Palutena's Guidance. When they weren't able to, they opted out and just fought.  
+
+
+
+
+ Villager and Toon Link. He's also looking a bit at Mega Man (Because "lemons") and Ness. He seems to gravitate towards the younger characters, considering he also liked Lucas in Brawl.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hell has frozen over.  
+
+
+
+
+ Captain Falcon, Pit, Wii Fit Trainer, Marth- 54952 
+
+
+
+
+ Had to choose 3 amiibo on release date...
+
+Got Villager and Link (they didn't have Marth), so I needed to choose between Wii Fit Trainer and Mario. 
+
+Chose Mario.  
+
+
+
+
+ I've found no Pit, Marth or WFT amiibos in my entire state. A few Falcons are about an hour away, though, and everyone seemingly has Luigi. Thank you for this! 
+ 
+
+
+
+
+ Diddy's pretty rare.
+
+I've only seen one in store. Like, ever. 
+ 
+
+
+
+
+ Ursula, Cruella and Maleficent are WAY more iconic than most of those characters. It also helps that they've set up Ursula for a while, and they've apparently planned out an explanation for Maleficent. The only one that's confusing people is Cruella. 
+
+
+
+
+ I TRY TO NOT SUCK AT SMASH, BUT THIS ASS WIPE SAT THERE AND FUCKING U-AIRED CONSTANTLY AS MARTH AS A COMBO, THEN TEABAGGED OVER AND OVER AGAIN. I DISCONNECTED AND HE REPORTED ME.
+
+SPEAKING OF MARTH, I WANT THAT AMIIBO DAMMIT!  
+
+
+
+
+ They told me they couldn't hold anything due to it being holiday hours or something. All I can say is I'm happy I picked up Villager on release day, and regret grabbing Mario over WFT. 
+
+I'm still on the hunt, but it looks like I'll have to rely on Ebay.  
+
+
+
+
+ Wisconsin native here. When I called in to a local Target, they told me SPECIFICALLY they had WFT and Marth on shelves, and described them. But when I got there, they said they never had them and that it was out of stock for about 2 weeks. 
+
+They didn't apologize for the inconvenience. 
+
+I've searched all 3 Targets in my area (Appleton/Menasha), all 4 GameStops, 2 Best Buys, and a Wal-Mart. No success. 
+ 
+
+
+
+
+ GOD DAMN IT
+
+WHEN I ASK ABOUT MARTH AMIIBOS AND YOU SAY YOU HAVE THEM, AND DESCRIBE THEM PERFECTLY, DONT TELL ME IT WAS NEVER IN STOCK WHEN I GET THERE
+
+ALSO, I HAVENT PLAYED ROB AT ALL AND YET YOU GIVE ME ALL OF HIS CUSTOM MOVES FIRST WHEN I PLAY AS FUCKING EVERYONE ELSE
+
+I KNOW I SUCK AT SMASH, BUT CAN ROSALINA PLAYERS ACTUALLY PROVIDE A CHALLENGE ON FOR GLORY INSTEAD OF FUCKING ROLLING N' SHIT AND SPAMMING LUMA SHOT 
+
+ALSO I HATE YOU EVENT MATCHES
+
+AND CHEAP-ASS KILLS ON CRAZY ORDERS I SPENT MONEY ON YOU I COULD'VE USED TO BUY A FUCKING POWER PELLET TROPHY
+
+WHY THE FUCK IS THERE A SHITTY POWER PELLET TROPHY 
+
+
+
+
+ All stores in my area carry nothing but Mario and assorted. 
+
+There is no way for me to find them in-store.  
+
+
+
+
+ So, the last time I hosted a tournament, it was a huge mess, no communication between us and just major problems everywhere. While the tournament had nearly no lag (Way to go, Brawl!), it was just confusing and people couldn't hear. 
+
+This time, I'm hosting one IRL with some friends from school. What do I do in order to keep it running smoothly?  
+
+
+
+
+ When I sent in my Wii U for repairs, I asked them if it would be back in time for Smash Bros. for my little brother. Not only did they allow us to ship it for free, but they also arranged overnight shipping at no extra cost. 
+
+Their customer service rocks.  
+
+
+
+
+ Season Finale: Emma, Elsa and Anna fight against the now-evil Baby Neal, who has magic abilities like Emma now and summons Cthulhu or something as his servant creature. 
+
+Plus the Three Little Pigs.  
+
+
+
+
+ I honestly like the idea of an open world type of Sonic game. If they implemented characters right, and still featured some levels like the Classic and Modern styles in Sonic Generations, it would work. I'd love a game like this. 
+
+I think the main problem is transferring the speed and excitement of the previous games over to this open world. What would work best is the Sonic Adventure formula, but with larger levels inbetween the "Gotta go Fast" zones, and a few 2.5D Classic-styled segments as well.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I understand the fact that it's limited edition. That's not my problem with it. My problem's the fact that the pre-orders sold out in 2 hours in a time when the majority of people are working/in school. And when the majority of them aren't even doing it for the figure, that's what bugs me.
+
+As an older brother, it's freaking difficult with my brother and I trying to collect. Marth was sold out Day 1 for me, and I can't find a Captain Falcon anywhere. Luckily, I got my brother his two most wanted, Villager and Little Mac, before they became rare.  
+
+
+
+
+ "Instead of re-releasing them with the sculpts we already own, let's make new sculpts that defeat the exact purpose of why people wanted the originals, and gives an even wider range of products people now need to buy them! 
+
+Because the only reason you're buying these is for the chip inside, right?" 
+
+
+
+
+ In the end, for me, it doesn't matter to me, but apparently it does to others. I don't care what box art they have, I just want the figure.  
+
+
+
+
+ Can we please organize an angry mob with pitchforks and torches? 
+
+I'm not saying this is THE cause of the shortage, but he's certainly a small chunk of it. He's doing it solely to screw over people. No other reason. Not because he's a "collector", no collector needs that many of one kind. 100 Rosalinas? Seriously? 
+
+People like this really need to get over childish hissy fits. He's complaining that Mario isn't from Brooklyn anymore... from Mario Bros. in 1983. 
+
+Half troll, half scalper... what has this world come to.  
+
+
+
+
+ Hooray for not being able to go.  
+
+
+
+
+ 54952, Pit  Falcon. 
+
+***sliver of hope intensifies*** 
+
+
+
+
+ Have you ever played Super Contra, and also, does your mom have a dick? 
+
+No, seriously, my question is if we'll ever see any more Malkovich material in the future. It's among one of my favorite segments from the older episodes, and I hope it appears at least one more time. 
+
+-test_subject6948, all the way from sunny Wisconsin 
+
+
+
+
+ PM me please. I'd like to see what you have to offer.  
+
+
+
+
+ First off, let me just say I'm a sophomore in high school, and not exactly the most persuasive person on the planet. 
+
+I've been on the hunt for amiibos for quite a while, namely a few of the more rare ones (Marth, WFT, Falcon, Pit). I was lucky enough to get Villager and Mac a while back, but otherwise I'm out of luck. I've been calling store after store, and I've noticed that some people are a bit... shady. For instance, one of the Wal-Marts told me that they had nothing but Mario and Pikachu. When I asked if there was by any chance a few amiibos in back, he gave a long pause and then said that what they had out was all they had in-store, and that I'd have better luck looking elsewhere, then hung up. 
+
+While a majority of employees are cool (One Target employee directed me to a store where he'd seen a few Falcons, but they had sold out by then), it's a bit more difficult to approach the shadier ones and call them out. Considering I'm also unable to drive and have very limited access to ordering online (can't import or go over base price, heck I was only able to pre-order 2 amiibos for the next wave), how should I handle trying to search for the ones I'm missing?  
+
+
+
+
+ Honestly, I'm thinking of just making a bunch of amiibo concepts and putting them in an album, and then post it here afterwards.  
+
+
+
+
+ I would've done that, but it would've meant editing the model again, and frankly, I was too tired for that.  
+
+
+
+
+ I suppose I could try making one for you.  
+
+
+
+
+ He said "retard" in it, and some people were bringing it up because of that whole Twitter controversy, so Jon must've unlisted it in order to shut 'em up. 
+
+A shame, it's one of my favorite JonTron videos. "6 Golden Bananas plus out of Shigeru Miyamoto." 
+
+
+
+
+ Hey, by any chance do you have the template you used for the plastic packaging? I want to make my own, and I can handle the figure and the back card, but the packaging itself is difficult to draw. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ARE YOU KIDDING ME
+
+CURSE YOU 30-MINUTE CLASS 
+
+
+
+
+ Ice Climbers, Lucas, Wolf and/or Snake. 
+
+I think Lucina negates any purpose for Roy to return (minus possible alt. costume for her or Marth if they really want to stretch it), Young Link's basically dead with Toon Link there (unless they revamp him with new weapons and/or the masks), and Pichu didn't work well as a character.
+
+Wolf and Lucas, while they had a lot of similarities to Fox and Ness, still had major differences and lots of unique moves. Snake and Icies were just fun to play as.  
+
+
+
+
+ I'm interested. 
+
+Thank you for doing this for the community, and congrats on your test scores! 
+
+
+
+
+ Dipper choosing fun over the possible apocalypse of Bill? 
+
+Everything is different now.  
+
+
+
+
+ Alright, in the case that this is legitimate (which it's looking to be):
+
+What'd his moveset be? Besides the obvious Helicopter hair and wind-up punch ending up somewhere? 
+
+
+
+
+ Honestly, what I want is to see Norman Osborn appear more in line with the Avengers' stories, and having the majority of Spider-Man's rogues gallery / supporting characters (Black Cat, Vulture, Shocker, Hydro-Man, Sandman, Tombstone and Hammerhead all seem like good options) appear on the Netflix shows. If they need to, I'd say Doc Ock, with maybe references to Spidey previously fighting Norman as the Goblin, and then sometime in the future, set up for Venom to appear, possibly with the Guardians.  
+
+
+
+
+ I'LL MAKE IT THROUGH, PROVE IT TO YOU 
+
+
+
+
+ Goddammit Ross... 
+
+
+
+
+
+
+
+
+
+ I pre-ordered him and Sonic. 
+
+I see I chose right.  
+
+
+
+
+ I'd pick up Toadette, Daisy and Waluigi. 
+
+Spike? Eh... not so much. 
+
+
+
+
+ I'd be fine with either, honestly. As long as crew battles are part of Smash 4, I'm fine with it. 
+
+While SSB4 may not have as strong a 1v1 game as Melee did, 4v4 and 2v2 are NUTS.  
+
+
+
+
+ Marth, Ike, Robin and Lucina are compatible in Codename: Steam. 
+
+AND MARTH'S GETTING RESTOCKED THIS YEAR WOO 
+
+
+
+
+ Young Link and Tingle in Hyrule Warriors
+Toad, Ness, Wario and Pac-Man amiibos
+Splatoon
+Punch-Out and Metroid Prime Trilogy on Eshop for Wii U
+
+All I need is Mewtwo and then I'll be happy.  
+
+
+
+
+ Honestly, there's a lot they could do with these figures that they haven't done. Like you said, the fact that only certain amiibos are getting used kind of stinks. I've got quite a few ideas myself that could really help push amiibos. 
+
+Pokemon games: This is among one of the most obvious to me. You scan an amiibo in, and you get some sort of costume piece for your Trainer (Full-blown costumes even, I'd love to see a Trainer decked out like Link or ). However, if you scan a Pokemon amiibo in, you can use the amiibo as that Pokemon, with the amiibo basically working as an extra Poke Ball. It's your Pokemon that you deck out and battle with. Of course, the amount of Pokemon would be limited, they surely won't make over 600 types of Pokemon amiibos... right? 
+
+Animal Crossing: Basically, cartridges like in the original, or costumes/furniture your character can use.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

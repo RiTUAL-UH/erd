@@ -1,0 +1,63 @@
+ A game of thrones, The Name Of The Wind, The Blade Itself, LOTR 
+
+
+
+
+ 1) Don't learn about CPU, GPUS, MBS or anything that's actually about computers.
+
+2) Learn everything about Microsoft office to show you're a trainable monkey who can work in an office one day.
+
+For real. 
+
+
+
+
+ This should be absolutely fine. 
+
+I play Arma 3 myself, and know how CPU intensive it can be when online, the chosen CPU should be able to handle it without losing performance, and can possibly be overclocked if needed. (Arma 3 coding is terrible, I'd stick with that cpu he's chosen.)
+
+In my humble opinion, I'd say lose the windows 7 OS and *cough* ~~*cough*~~ buy it from *cough* [**somewhere else**](http://wallpoper.com/images/00/40/56/34/pirates-jolly_00405634.jpg) *cough* - sorry I've got a cold.
+
+Nice computer case. If you drop the OS, you can buy some lights to put inside it, which will automatically *make everything run at least 3.4 times faster.* 
+
+
+
+
+ * Speccy
+* CPU-Z
+* GPU-Z
+* MSI Afterburner
+
+And umm... some others! 
+
+
+
+
+   Rebooting won't fix your shit
+
+Found this out the hard way. x) 
+
+
+
+
+ Um, I'm running Linux now and can confirm, for Ubuntu at least, it's apt-get, same on Debian too.
+
+It may vary depending on what distro you're using :) 
+
+
+
+
+ Just installed Ubuntu, and holy cow was that one hell of an epidemic. CPU failed initialization before I'd even installed it, required ethenet cable to download adapter drivers which should of already been pre-installed, and then the video drivers almost destroyed the entire OS, I'm hoping it's all fixed now. Took me 4 hours just to get the damn thing up and running properly. xD 
+
+
+
+
+ Alot more secure than the new Windows 10. 
+
+The NSA slapped their backdoors in last second before release. You can see the vunerabilities of Windows 7 simply by using Linux tools such as metasploit, most of them are listed there, and MOST, but not all, can be prevented with simple precautions such as anti-viruses and firewalls. Not only this, encrypt everything and your golden.
+
+Now then, Windows 10 is going to be alot less secure with the NSA in mind from the very beginning is it not? Would you like Windows 7 or Windows 10? I'm using Linux as my personal OS, dual bootcamped with Windows 7 for games / production. GG NSA. 
+
+
+
+

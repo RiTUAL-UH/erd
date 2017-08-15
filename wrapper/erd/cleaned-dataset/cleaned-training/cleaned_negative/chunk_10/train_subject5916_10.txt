@@ -1,0 +1,464 @@
+
+
+
+
+
+ Just have the UFO ring with spikes out of it, or even better, make it hollow. 
+
+
+
+
+ It was just an example, I assume.
+And I'm sure lava was pretty abundant back then (volcano eruptions ETC). 
+
+
+
+
+ If you use GCFScape you can extract files from CS:GO materials folder, there's a higher quality Pop Dog decal from the new Train in there.
+Check it out. 
+
+
+
+
+ I'd give 2/10 for exactly those reasons pointed out 
+
+
+
+
+
+
+
+
+
+ They're painting that fancy CS:GO logo on the server computer, of course /s 
+
+
+
+
+ Kamehameha anyone..? 
+
+
+
+
+ I am working on Agario type multiplayer game that has better graphics (if that's what you may call, then let's say "effects"), better multiplayer integration, and exports to Playstation, Xbox (older and next gen platforms), Steam and of course, Windows and Mac.
+
+It is based on HTML5, so it's both efficient and works nice on any platform.
+
+I would not be interested in any sort of payment, however, certain costs would need to be covered such as Greenlight, export modules, shipment, web hosting, servers and other developmental costs. I am intending this to be a serious project, so the most likely outcome would be one Ad, and those "really" pissed off by it would be able to donate to remove it.
+
+However, the real question is will be able to pull it off (Yes, I know several programming languages).
+
+I will NOT integrate any sort of login/register system, those will be obsolete not only due to my lack of knowledge in social systems (besides multiplayer and giving skins/nicks), but also because I would not want to piss people off
+Feel free to leave your ideas below. I already have a working prototype however it's not as good as you would expect (but that's a start)
+ 
+
+
+
+
+
+
+
+
+
+ Aaaaand... We hugged the website to death. 
+
+
+
+
+ Wait, now they can even *teleport*?
+Welp, no more MM for another few months. 
+
+
+
+
+ Have you ever had a fear of your underground shelter collapsing, burying you in sand? 
+
+
+
+
+ [Who's next?](http://i.imgur.com/HJdfUoq.png) 
+
+
+
+
+ F 
+
+
+
+
+ Cyka Blyat 
+
+
+
+
+
+
+
+
+
+ I don't think FMPONE's got something to do with Valve in terms of gameplay related stuff. Mapping? Yes, maybe. 
+
+
+
+
+ The white t-shirt kid was acting too jumpy at the start of it, playing off moves n shit. The other guy was all calm and taking his stance 
+
+
+
+
+ zatknisiy cyka, gib avp nob 
+
+
+
+
+ Some say it's one of the visual clues to finding the Dust2 boss... 
+
+
+
+
+ Jet can't fuel melt beams steel 
+
+
+
+
+ hey its me, ur military dictator 
+
+
+
+
+ !waffle 
+
+
+
+
+
+
+
+
+
+ That was the most anticlimactic sad "Ta-da" I've ever heard 
+
+
+
+
+ Valve can add it, Volvo cant.
+ 
+
+
+
+
+ Just googled CSGO SG553, half of the pictures have the ironsights unfolded and half of them have it folded.. I'm confused, is this a feature? 
+
+
+
+
+
+
+
+
+
+ enfu enfu enfu enfu enfu enfu 
+
+
+
+
+
+
+
+
+
+ Hey bro, I'm a website developer. I can help you redesign the website to a bit of a higher standard, feel free to contact me and I'll give you some examples of my work. 
+
+
+
+
+ chiki briki mikrofon IV 
+
+
+
+
+ zatknisiy merikado cyka chiki briki 
+
+
+
+
+ Here, have a downvote. 
+1. Self advertising 2. These are casual clips, I don't see anything special about them. 3. Intro + Outro 
+
+
+
+
+ cyka gamburger merikon  
+
+
+
+
+ It's a subtle effect. It looks bad when used on everything. 
+
+
+
+
+ I do. Also, good for frag clips. 
+
+
+
+
+ High/highest, correct. 
+
+
+
+
+ I'm interested to hear, let me know when you start styling it! 
+
+
+
+
+ Phong is more efficient than cubemaps. It would make the spectatorship experience more attractive, and pros would still be able to play without the effect.
+ 
+
+
+
+
+ The effect will only work on High/Highest shaders setting. 
+
+
+
+
+ It's always been about creating games, also, I don't see how modding is related to mapping/update features. 
+
+
+
+
+ Operation Shlong (  (   ) ) 
+
+
+
+
+ Source always had Phong support, but only for models.
+Edit: I'll check later. 
+
+
+
+
+ AFAIK Phong on world brushes is a thing from Source 2, it might be likely that Valve are indeed porting CS:GO to Source 2. Especially considering that with every update there's some sort of deep level coding changes.
+ 
+
+
+
+
+ The latest update has been bigger than many people think, on the technical side of things Valve allowed us to use Phong on world surfaces.
+What does this mean? It means that mappers can now use Phong on brushes instead of models, it allows to increase graphical fidelity of maps.
+
+What is Phong? 
+https://developer.valvesoftware.com/wiki/$phong
+(Directly from Wikipedia)
+Phong shading refers to an interpolation technique for surface shading in 3D computer graphics. It is also called Phong interpolation[1] or normal-vector interpolation shading.[2] Specifically, it interpolates surface normals across rasterized polygons and computes pixel colors based on the interpolated normals and a reflection model. Phong shading may also refer to the specific combination of Phong interpolation and the Phong reflection model.
+
+Here's the things that Mapcore people have been able to come up with the new feature.
+
+[Concrete texture by Guma](http://images.akamai.steamusercontent.com/ugc/34118850568944063/05B442B78C2C337809B847C1ADFE6C6AC2E8D130/)
+
+[Concrete texture 2 by Guma](http://images.akamai.steamusercontent.com/ugc/34118850568913905/0B15F6F97EA052E18051421451BA14FABF5F80DC/)
+
+[de_studio by Guma](http://images.akamai.steamusercontent.com/ugc/34118850568495396/8F6258E75B6C42014ABA00494CC951F92AFB26F7/)
+
+[Phong ground by Levi](http://i.imgur.com/0FVYbzZ.jpg)
+
+[cs_cruise by Skybex](http://i.imgur.com/87CiHVN.jpg)
+
+[de_resort by RZL and Yanzl](http://i.imgur.com/YSDJpel.jpg)
+
+[de_resort by RZL and Yanzl](http://i.imgur.com/Z7urlaY.jpg)
+
+[de_resort by RZL and Yanzl](http://i.imgur.com/ouhdMhk.jpg)
+
+[de_resort by RZL and Yanzl](http://i.imgur.com/pbCQ1sa.jpg)
+
+[Ground texture by EddieLTU](http://images.akamai.steamusercontent.com/ugc/36370312383810992/32636AE7A69A2A97DB51BE1E0585DC6019A3B25F/)
+
+[de_quadeem by Guma](http://images.akamai.steamusercontent.com/ugc/34118512570466612/04FA71DE78BA311C2BA71F645FB2F522CCFCF8B8/)
+
+**Is Phong resource intensive?**
+
+Previously the reflections were done by using cubemaps, which were images that had to be stored inside the file. They took more space than using Phong alone.
+
+**Will my computer be able to run Phong?**
+Most modern computers should be able to run the effect, it works only when the graphics settings are on highest so if you do not want the effect you can just simply play on low graphics.
+
+**Does it affect the gameplay?**
+Phong does not affect the gameplay in any way or matter, in fact, it increases brightness and helps certain models stand out more.
+
+**Want to integrate Phong into your custom textures?**
+https://developer.valvesoftware.com/wiki/$phong
+
+(Make sure to visit Mapcore and give it some love, many great mappers are usually there!)
+Thank you Valve! 
+
+
+
+
+ I'm not bullying, you are picking on OP's bad grammar yet your own grammar is terrible. Also, you are getting angry, keep the swearing to yourself buddy. 
+
+
+
+
+ Did you mean to say, you are sure it is not?
+Your grammar and word placement are wrong off the charts, mate.
+Please don't escalate any further. 
+
+
+
+
+ That's the correct way to say it, prick. 
+
+
+
+
+ what the heck are you talking about, *5000$ headset* 
+
+
+
+
+ gamburger YAEBAN 
+
+
+
+
+ Weird, I remember having to hide inside the pool so that you don't die when the bomb explodes 
+
+
+
+
+ I and some other people are working on a complete Chateau remake with radically improved layout and gameplay;
+http://cloud-4.steamusercontent.com/ugc/34117345745155339/E67E22C29324D7381275E2BBB2CE65DF738C5862/ 
+
+
+
+
+ Hoejhus9 /s 
+
+
+
+
+ Unless the author doesn't get paid for it or Valve does their own version.
+The map is simply a recompile, I don't see why one would get paid for minimal skybox and lighting changes. 
+
+
+
+
+ As far as I can remember Valve considered adding Poolday to an operation but never did because the map only had one bombsite (which was in the pool in middle) and because it was too small. 
+
+
+
+
+ **500 Internal Server Error**
+
+Please check back soon 
+
+
+
+
+ not intended 
+
+
+
+
+
+
+
+
+
+ *I doubt there will be people buying skins in CS:GO...* - CS:GO 2013 
+
+
+
+
+ As a map maker, this is huge 
+
+
+
+
+ I found it *decent* in terms of balance,
+also, the map looks very good 
+
+
+
+
+ Yet again Reddit proves that OP is a shitter, in this bonus clip you posted (http://gfycat.com/ViciousYellowishAmericanbadger)
+you are gaining speed without even strafing properly (or at all).
+I've played HnS since 1.6, and I can tell you that what you have is not legit.
+Additionally, OP had to bring in his brother which makes it even more suspicious. "Me and my brother are both 100% sure he's legit" - Isn't that an excuse I've heard before like 1000 times?
+
+It sickens me that even in Nova ranks people have to show off by putting up achievement hacks, bhop scripts and other cheats. More over, post videos like this (or gifs).
+
+Sorry OP, your Bonus clip was a dead giveaway.
+
+[Here's some real action for ya kids](https://www.youtube.com/watch?v=KYEyIGLRqW0)
+I know it's CSS, but even then you had to strafe to gain speed. Considering it's harder to BHOP in CS:GO, I have no idea how OP magically gains speed without even moving his mouse properly. 
+
+
+
+
+ He wasn't strafing at all 
+
+
+
+
+ So I had this discussion with some people in popular mapping communities, pretty much the workshop as it is at the moment is very messy and unfiltered.
+What do I mean by that?
+Night/snow/rain/competitive versions of official maps is a trend growing at the moment, Dust2 Night being top rated map of all time.
+There is absolutely no problem with that, however, maps like these are listed in "Classic" gamemode tabs. With the increasing amount of such maps, real custom maps (made from scratch, and not just recompiled with changes) are getting pushed back and harder to find.
+I propose a change that a new section should be added, a section where;
+
+- Competitive edits (de_newke, ETC)
+- Night themed official maps
+- Snow themed official maps
+- Rain themed official maps
+could be uploaded.
+Basically, anything related with recompiling of official maps.
+
+This would allow Valve to actually filter custom content easier and faster, so that we could get new quality content for upcoming operations.
+I'm not saying it's any worse now, however, hosting quite a bit of servers of my own I find it hard to filter maps, and adding new sections would generally help out the workshop.
+
+On the upside, people who enjoy Night themed maps and such would be able to check out that section and find all of them neatly placed there.
+
+This would help a lot, both for custom content creators and people who want to find specific types of maps.
+
+Discuss! 
+
+
+
+
+ Smoking off A site is nearly useless, as if you smoked off heaven you'd still get destroyed from above squeeky, mini or hut. The outside is ridiculous.
+It needs MAJOR tweaks and changes.
+
+Also, the map looks like direct CSS port. I'd love to see some new coat on Nuke as long as visibility and performance is better. 
+
+
+
+
+ uninstalled until further notice 
+
+
+
+
+ Remember the teaser screenshots of Nuke revamp?
+Maybe Valve is taking their resources and time to remake Nuke and (hopefully) port CS:GO to Source 2?
+As far as we know the CS:GO developer team isn't big compared to other titles like Dota 2, so it makes sense the updates would be lackluster for some time.
+
+What are your thoughts? 
+
+
+
+
+ You changed the way I see myself killing the chickens...
+A brutal murderous psychopath killing innocent animals along the way with a hunting/stabbing knife used for tactical purposes. PETA would hate me 
+
+
+
+
+ Wait till you get to SEM, that's the hell everyone's talking about. 
+
+
+
+

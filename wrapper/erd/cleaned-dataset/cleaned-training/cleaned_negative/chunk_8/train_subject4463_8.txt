@@ -1,0 +1,661 @@
+ Or pebcak. 
+
+
+
+
+ Want a port for the Nexus 5 PLX! :( 
+
+
+
+
+ Fuck the whole amoled vs non amoled debate. I want them to stop trying to shove 4k resolution screens into phones. Higher resolutions mean more power hungry screens.  
+
+
+
+
+ This is the proper way to do it, and exactly the way the eustathios does it. 
+
+
+
+
+ GT2 belts don't use Kevlar cords, unfortunately.  They use fiberglass, or some other weaker material.  I think there might be some special manufacturers out there who make them with Kevlar (like the T-series belts) but I haven't been able to find one. :( 
+
+
+
+
+ The eustathios can use an open ended belt for the X/Y Gantry.  In fact, belt tensioners are build into the printed carriages.  You don't need a closed loop belt for the X/Y gantry because the X and Y never move far enough to actually cause your joint to go past the pulleys.
+
+However, the eustathios does need closed loop belts for the extention of the drive motor to under the bed, and for the Z drive.  That's because the smooth rod on the outsides has to turn quite a lot in order to move the carriages.  Same for the screw drive bed.
+
+ 
+
+
+
+
+ In that very example, down in the comments:
+
+ Hey there,
+Im an engineer with Fenner Drives (we make NinjaFlex). I just wanted to add a few comments given that his review has been linked to by so many sources. First off, thanks for the thorough consideration of the product and the detail that you provide on printer settings. The comment my printer is a RepRapPro Huxly which has a bowden extruder which might actually not be ideal for extruding a soft and springy filament. is key. I dont have experience with bowden extruders, but given the concept, *I was actually very surprised that you were able to get moderate quality prints with this setup.* From all the testing weve done on flexible materials, the 2 key factors for getting high quality prints seem to befully supporting the filament b/w the drive gear exit and entrance to the cold end.and reducing the drag due to the tacky surface of flexible filaments. And maybe a close 3rd would behigh retraction settings to improve stop/start. None of these match up well with a Bowden.
+SoIf you have access to a non-Bowden printer and are interested in making this a more comprehensive review, please give it a try.
+If you search on thingiverse for FD_Engineer, you can see some parts I posted that show typical print quality. Let me know if you want more info.
+Thanks,
+Steve
+
+Also, I'm not claiming your belts aren't straight.  I was merely giving an example of one of the many problems that can go wrong with a delta geometry printer.  Don't take this as any kind of personal attack. 
+
+
+
+
+  I don't know what picture you are looking at.
+
+The one that the OP posted.  You can clearly see that the belts are not anchored completely linearly.  It's obvious, because the frame, which is straight is right next to it and easy to see.
+
+Mind showing me these people printing FilaFlex with a bowden setup? 
+
+
+
+
+ Really garbage, tbqh.  They don't offer any kind of unlimited data plan at all.  I got hit with my cap rather quickly.
+
+I'd try out T-Mobile - If you're willing to bring your own device, you can save a bunch of money.  100 minutes, unlimited text, unlimited data, LTE speeds (74mbps download over on sand lake!).
+
+http://prepaid-phones.t-mobile.com/prepaid-plans - It's hidden, one of the smaller text ones, with no link to the plan (you get it by buying a SIM)
+
+Not to mention, being prepaid, if you don't like it, you're not locked into a contract and can try someone else. 
+
+
+
+
+ And I'm not saying Delta owners haven't.  But each machine I build goes through 2 full days of burn-in testing.  We print a 2 layer big-gear, to ensure that everything stays flat edge to edge, and we print a "6 tower test" on each edge to ensure that each tower is completely straight and layers align properly. 
+
+
+
+
+ Equivalent areas of pain are experienced across gender boundaries. 
+
+
+
+
+ Well, just as a small example - from the picture, I can tell that those belts are not straight.  Ok, fine - not straight belts aren't so much of an issue, right?
+
+Not so.  Non linear belt will end up changing tension as the carriage rolls up and down the linear rail.  We print 6 towers, on the very edge of our build plate to check for stuff like this.  As that tension changes, the geometry of your part changes.  So our "6 tower test", would be likely to fail with edges of the towers seemingly wobbling random as they were built higher in layer.  It's not a large effect, mind you - but it's there.
+
+I honestly couldn't tell you if the people here with delta 3D printers of their own actually ever print any test objects.  It's likely they don't.  If things seem like they're working in the middle, they never see the minute errors that are part of the print.
+
+That's just one example.  I know of about 5-6 other failure modes that are _completely_ non-intuitive when they do arrive as well.  The Kossel looks like it uses "real" linear railing, so it's less likely to hit at least 1 of those failure modes I speak of, but still.
+
+Also, I know from experience that 3D printed corner brackets are far less sturdy than people might expect.  A lot of our prototype machines were made with 3D printed corners and have a bit of wobble to them.
+
+Additionally, the i3 can print in things like FilaFlex, NinjaFlex, etc with the proper (printed) extruder.  The delta is limited to bowden only, so you're limited to hard plastics like PLA.  (There is some work in remedying this, myself among the researchers)
+
+I do agree with further assessments in this thread, that an I3v would be better - additionally, I think a Mendel90 would be best. 
+
+
+
+
+ I work for DeltaMaker, so I've got a lot of experience building Delta printers.  I've built over 240 of them by hand so far, and let me tell you....
+
+Get the Prusa i3 instead.
+
+Diagnosing issues on delta printers when they do arise, is a huge pain in the dick.   
+
+
+
+
+ Whatever you do, do _NOT_ use a Raspberry Pi.  The ethernet is run off of a puny USB 2.0 bus, which is shared among other devices as well, you will severely limit your speeds if you do such a thing. 
+
+
+
+
+ I use [Pronterface](https://github.com/kliment/Printrun) for controlling my 3D printer.  Python GUI. 
+
+
+
+
+ This is key.  If you don't use enough PlastiDip, the stuff only comes off in little chunks.  You've gotta have a bunch of coats in order to make it thick enough to peel off whenever you want to peel it off. 
+
+
+
+
+ I'll never understand people like this.  It's a fucking car.  It's an extension of your personality, you chose it, and customizing it is one of the first things _any_ car owner should do. 
+
+
+
+
+ Nobody worth a shit, gives a shit about that woman. 
+
+
+
+
+ If you've got a Mercedes, and you don't at least open 'er up once in a while, you're fucking driving it wrong. 
+
+
+
+
+ Well, it does make them solid! 
+
+
+
+
+ The master key, is a key which has its own key pattern - which can unlock multiple doors with differing key patterns. 
+
+
+
+
+ Linux shouldn't be that far away in implementing it. We already have a kernel flag for avoiding bad ram, we just don't apply it on the fly.  (Or maybe this was a custom set of patches that I once used? Has this been mainlined?)  
+
+
+
+
+ Oh, I certainly understand cherishing not having to do it any more.  Major difference between brain-work, and physical labor.  But those that do the physical labor aren't any less of people. 
+
+
+
+
+ Make sure belt tension is correct (not just tighten them, make sure they're not over-tight as well).
+
+Make sure all set screws and pulleys are securely fastened down.  Pulley slipping on a quick travel move is pretty common.
+
+Make sure you're not moving too low on the Z, allowing your X ends to lift off of the nuts. 
+
+
+
+
+ It's amazing how many people in this sub are absolutely _JOYOUS_ about their ignorance.
+
+You know how many Architects I know that hang drywall?  About a half dozen.  And they know how to frame, block, and wire a building as well.  Yet that seems to be the go-to explanation here...
+
+Know how many computer engineers I know that say "Oh, I just design integrated circuits and ASICS, I don't ever actually use them"...pretty much none.
+
+The fuck is wrong with you people...
+
+I get it, being an electrical engineer isn't the same as being an electrician.  But you damn sure have about 90% of the knowledge domain and then some that you could easily do that job. 
+
+
+
+
+ And?  Companies have always used proxy shell corporations in order to attack the things they didn't like or that competed with them.  It's not a new tactic, it's not an evil tactic either.  It's a way to protect a much larger company from huge losses.  I said let's be pragmatic here... 
+
+
+
+
+ While I wholeheartedly agree, most plebs probably don't.  In order to bring them over to the master race, we must take these things into account! 
+
+
+
+
+ I don't think you can say "aesthetics!" and then show a picture of a terminal. It defeats the purpose.  While I love me some terminal time, a regular user is going to see this screenshot and dive right into the fact that there are terminal windows on it.  
+
+
+
+
+ It's called a polyfuse or resettable fuse.  Or a thermistor.  Basically as more and more power goes through it, it heats up.  At some point it basically trips for electrical safety.  Problem is that these are often faulty, low quality, or once they've tripped they have a tendency to trip in the future much easier.
+
+It's OK to use a relay.
+
+A friend of mine ended up desoldering his, buying these external 20A car fuse terminals, and soldering those into place.  (Like this: http://p.globalsources.com/IMAGES/PDT/B1062636862/Car-fuse-holder.jpg) 
+
+
+
+
+ All I fucking want, is a Linux phone with the ability to hook up to an external display and peripherals.  With the proper native resolution of the display, proper scaling of fonts, etc.
+
+So I can just take my computer everywhere I go.  I'm used to my EEE 900a, with its bullshit 1.6ghz single core ATOM processor - at this point I'm almost certain that my quad core 1.9ghz with 3gb of ram is actually faster.
+
+I would be so happy...they started to kind of do this with the Motorola Atrix, but abandoned it.
+
+I've looked into possibly getting a native X.org compiled, but that looks like it's quite difficult as well. :( 
+
+
+
+
+ Redeems himself for what exactly?  Acting exactly how a CEO should act, and making sure his company was as profitable as it could be?
+
+What exactly should he be repentant for?  I dislike Microsoft's underhanded strategies just as much as the other guy, but lets be pragmatic here.  Nothing the man has ever done could really be classified as "evil", and his only "mistake" is being a competitor to Linux. 
+
+
+
+
+ Gnome 3 plebeians... 
+
+
+
+
+  plug in seatbelt quickly 20 times in a row
+
+This is apparently NOT a joke!
+
+http://www.subaruoutback.org/forums/80-electrical-electronics/2636-disable-seatbelt-chime.html 
+
+
+
+
+ Honestly, the shit they pulled with Lollipop by locking down certain API functions, and breaking at least some of my apps, means that if I could manage to get a Nexus 6, and _downgrade_ it to KitKat, I would be so happy... 
+
+
+
+
+ So I know there's a /r/functionalprint - If there were a counter to it, this would certainly be posted. 
+
+
+
+
+ "Nozzle height"  
+
+
+
+
+ It does though.  They're all working on commission.  Phone sales reps regularly get bonuses (an extra $20-30 per phone sold) for certain devices, etc.  So they prioritize selling those devices to unsuspecting victims. 
+
+
+
+
+ It's because Nexus devices aren't preloaded with shit-ware so the phone reps don't get as many bonuses as some other devices when selling them.  This means that nobody ever quite figures out how fucking _amazing_ nexus devices are...only Android "enthusiasts". 
+
+
+
+
+ You should really learn what the word troll actually means.  Here's a hint: It does not mean "someone I don't agree with". 
+
+
+
+
+ I mean, if this is your output on an object of this size, then you're good - Those frogs are probably just messy because you're printing them so damn small and as the nozzle hovers over the plastic, it never gets a chance to cool down.  This is pretty close to perfect.
+
+You may simply be printing so slow on the frogs, or so tiny, that you're overextruding due to the PLA getting a chance to heat up and expand - increasing the volumetric output of the filament at such small sizes.
+
+You really don't want to be printing things the size of a penny in the first place. 
+
+
+
+
+ I've never heard of any 3D printer issues being referred to as "z-gap"...mind explaining what you're referring to?
+
+Edit: Nevermind.  I see what 3DS refers to as "Z-gap" now.  No, I don't think it's indicative of a Z gap issue. 
+
+
+
+
+ But should more realistically be included in the "cool your plastic as it exits the nozzle" umbrella. 
+
+
+
+
+ Default is 1.0 extrusion multiplier on slic3r, I find usually a 0.98 works for me as far as pulling extrusion across so that it remains tight across the bridge. 
+
+
+
+
+ You're overextruding.  This has little or nothing to do with temperature other than likely your hot end is hovering over the piece for too long because you're trying to print things the size of a penny.
+
+Print multiples of this at a time, so that the layer of plastic has a chance to cool, and lower the amount you're extruding by a hair.  You can see islands at the top of the back legs because your nozzle is dragging through the filament. 
+
+
+
+
+ Laser sintering 3D printers are way more than just the printer.  They have huge operating costs because the volume of the build chamber needs to be filled with an inert gas (argon usually), and even then - afterwards they are generally filled with more metal in a huge furnace with wax sprues that get melted out.
+
+It's just simply not worth it.  You're better off printing in PLA, and paying a local metal casting shop to investment cast the piece. 
+
+
+
+
+ There aren't many for sale because they're dangerous as shit. 
+
+
+
+
+ I'd probably get a properly rated adapter for it, plug it in for a couple hours inside a house, and see if it continues to happen.  If it does, time for a replacement.
+
+According to http://www.amazon.com/Whistler-CR85-Performance-Laser-Radar-Detector/dp/B00CM06VIQ - It might actually be new traffic flow sensors that it's detecting.  Keep an eye out on the lines that lights are on.  I know that area has had a lot of new "smart light" stuff installed lately that detects the flow of traffic in order to change lights at times that will save drivers from stopping completely, etc.  It could very well be those new sensors that are triggering it. 
+
+
+
+
+ Double up on your detection; If you've got a smartphone - fire up Waze.  I've gone without a radar/laser detector for a long while now, and Waze alone has saved me from at least 4 major speeding tickets due to community-based reporting.
+
+I know it's not a solution to your specific issue, just figured I'd recommend an app that's been a huge help to me.  Google bought them, and I know they pull _some_ data into Google Maps like traffic accidents and such, but I'm not sure if they pull police reports/data, so Google Maps may offer this functionality as well - though I haven't checked. 
+
+
+
+
+ Or alternatively, quit being a thin-skinned crybaby. 
+
+
+
+
+ Banning people "for being jerks" though is stupid as shit.  It's the internet.  People are going to be jerks.  People here are also (in general) adults...and can handle jerks.
+
+Don't turn this into some pissy-pants kindergarten playground, where everyone must be cordial, and two-faced for the sake of not being banned.  Sometimes people just need to be told to fuck off.
+
+/r/Orlando is the only sub I've seen where people whine and cry like little babies because someone was "rude" (ON THE INTERNET NO LESS!)...I mean holy fucking christ, do we need to wipe their little bottoms after they take a shit as well? 
+
+
+
+
+ Finkle Einhorn
+
+https://www.youtube.com/watch?v=tFL1UXuHJ-A 
+
+
+
+
+ This is completely wrong, and a bit ignorant to say the least.  Chip and PIN are just as insecure as mag readers, and can have man in the middle attacks performed against them.  https://www.schneier.com/blog/archives/2010/02/man-in-the-midd_1.html
+
+The difference is that, with chip and pin the bank then moves the fault over to you - because you're liable for someone having your PIN, and it's much more difficult to determine that someone has used your card fraudulently.
+
+So in our case, the user of the card gets their money back - and the huge bank that makes billions every year may lose a little bit.
+
+In your case, the user loses his money, and the bank doesn't give a fuuuuck.  They can argue all day that it was you, because the thief "knew" your PIN and you're just trying to get out of payment. 
+
+
+
+
+ Hahaha, that's awesome.  DeltaMaker has been working on this, and E3D is going to be releasing a hot end soon as well called the "Cyclops".  So it looks like multi-color, single nozzle extrusion with automated filament swaps is now a thing.
+
+E3D also has a blending nozzle that they've shown off, swapping from multiple different colors near instantaneously.  It's a good time to be in the 3D printing industry. :D 
+
+
+
+
+ Plug a 100k resistor into your thermistor ports and it'll read basically room temp all the time.  If you plug in a 10k, 1k, etc you can get higher temperature readings so that it always thinks it's up to temp. 
+
+
+
+
+ Replace the USB cable that the raspberry pi uses to talk to whatever board you're using (RAMPS, etc) - also ensure the connectors are nice and secure.
+
+Lots of people here are going to say "ooh but it's such a noisy environment electrically" and while they're not wrong, USB communication isn't that intolerant of noise.
+
+Worst case scenario, you can connect an external FTDI UART chip externally to your board, and communicate that way. 
+
+
+
+
+ Thank you so much for your comments.  Huge help in tracking down what I will eventually use and/or likely be building.  PSDs, Quadrant detectors, whole slew of stuff I haven't had a chance to look at yet!  You rock! 
+
+
+
+
+ Are there sensors which work on convergence of a beam of light, or similar?  Or some sort of tiny viewing angle and an angled beam so that distance of the toolhead determines the beams location on the bed?
+
+I've looked for so many different phrasings of "range finder" and "optical distance sensor", etc that perhaps I might be missing the name of a specific technology that I could further find info on.
+
+Or, an optical focuser that uses a short-throw optical lens that adjusts, finds optimal focus of a dot, and determines distance from that?  I've looked for all sorts of ICs that may implement this kind of thing and have come up short handed. 
+
+
+
+
+ /r/Unexpected  
+
+
+
+
+ Yeah, in my original post I mentioned these.  Already looked at them.  15mm+/- depending on temperature, etc.  Though what's nice about them is that they do have an interrupt output so you can set a threshold for interrupt.
+
+I already ordered one of the breakouts for them, only like $1.50 for 3 from OSH Park! 
+
+
+
+
+ When probing, we can slow down to whatever we need.  Fast response isn't needed, it would be nice but it certainly isn't a requirement. 
+
+
+
+
+ Thank you!!  This is an amazing read! 
+
+
+
+
+ Large scale CNCs are built on far more rigid platforms.  They're cast-iron, and generally have milled tables to exacting specifications.  This isn't a solved problem for them because they don't compensate for the bed being unlevel or have a requirement for multiple different build surfaces.
+
+The idea being presented here, is a sensor based approach so we can gather data and compensate for machines that have been built to unexact specifications, by users who may or may not have all of the correct tooling to ensure that things are 100% perfectly in-tram, etc.  It makes 3D printers easier to use, without the need for users to spend extraordinary amounts of money to build a working machine. 
+
+
+
+
+ https://postalinspectors.uspis.gov/raddocs/tipvandl.htm
+
+ ***Mailboxes are considered federal property***, and federal law (Title 18, United States Code, Section 1705), makes it a crime to vandalize them (or to injure, deface or destroy any mail deposited in them). Violators can be fined up to $250,000, or imprisoned for up to three years, for each act of vandalism.
+
+If you want to sound stupid some more, Title 18 covers pretty much all of it.
+
+Is that too fucking clear for you? 
+
+
+
+
+ How about citing federal law then, smartass: https://postalinspectors.uspis.gov/raddocs/tipvandl.htm
+
+Mailboxes are considered federal property, and federal law (Title 18, United States Code, Section 1705), makes it a crime to vandalize them (or to injure, deface or destroy any mail deposited in them). Violators can be fined up to $250,000, or imprisoned for up to three years, for each act of vandalism. 
+
+
+
+
+ Nothing in your link relates to ownership at all.
+
+You are incorrect for these reasons: http://www.reddit.com/r/AdviceAnimals/comments/2lrt8p/hes_been_hitting_on_me_for_a_month_now_and_lied/cly1pkf 
+
+
+
+
+ So, would also having a high-bit ADC help with the accuracy of a sensor such as this as well?  I'm thinking of testing this with a 24-bit ADC in order to increase resolution. 
+
+
+
+
+ http://www.answers.com/Q/Does_the_US_Postal_Service_own_your_mailbox    
+http://www.cleveland.com/business/index.ssf/2010/04/postal_service_controls_the_ou.html    
+
+http://www.residential-mailboxes.net/mailbox-laws-and-regulations/law-for-residential-mail-box
+
+ Homeowners need to be aware that even though they purchased and maintain the residential mailbox, the mailbox belongs to and is controlled by the USPS (United States Postal Service).  That means that any tampering of the mailbox is a federal offense.
+
+Yes they do.  Might want to do a little bit of research before you wrongly go arguing with someone. 
+
+
+
+
+ [Higher quality sauce](http://i.imgur.com/qQx7eKq.jpg) 
+
+
+
+
+ Note: It's only a federal offense because the government owns your mailbox.  Don't believe me?  Go check your mailbox.  It will have a stamp on it stating it is property of the federal government.  This is basically what they ended up having to do in order to make mail theft a federal offense, vs just stealing.
+
+I'm not sure that stealing a package off of a front door step would violate those laws; though I'd love a lawyer to chime in. 
+
+
+
+
+ To think, it only took a class action lawsuit! 
+
+
+
+
+ The reprap 3d printing community has begun using various sensors to detect build surfaces, and apply mathematical corrections to mechanical movements in order to make printing easier for new users (no having to adjust beds, etc)  Right now, there's a move to inductive touchless sensors, as larger build volumes have a tendency to flex against mechanical touch probes, etc.
+
+I'm here looking for ideas on sensors I could use, hoping that someone here has perhaps worked on a similar problem in the past and might be able to recommend a sensor or type of sensor technology that I can do further research into.
+
+The qualities I need to have in a sensor include: They need to be accurate; 0.1mm repeatable measurement with minimal drift.  They need to be able to detect multiple different types of surfaces (glass, PCB substrate, metal, and acrylic).  They need to have suitable measurement distances to remain out of the way of the printing toolhead while remaining small enough to fit near it.  And last, they need to remain unaffected (or minimally affected) by ambient light, humidity, and temperature(s of between 20C and 30-40C).
+
+Would a simple IR reflector, after some calibration, be able to achieve repeatable enough results?  I worry that ambient light would throw it off.  Reflectivity of the material is fine to calibrate for, but having to calibrate it based on ambient light changes is way too much to ask people to do.
+
+I've looked at the VL6180X, but that's certainly not even in the range of accuracy I need it seems.  Everything from voltage to temperature can cause it to vary by 15mm or more if I'm reading the datasheet correctly.  I was intrigued by it because it used "time of flight" reading and wasn't changed too much because of material reflectivity.
+
+Inductive sensors don't allow to people to print on materials such as glass, acrylic, and PCB due to such short measurement distances (without blowing the sensor up to huge dimensions in order to increase the measurement range and read a metal bed under the printing surface)
+
+Capacitive sensors?  Worth looking at?  They seem like they should work, but I worry about humidity, temperature, etc affecting them too wildly.  It's been suggested to me that these might not be a good solution either.  Any opinions on this type of sensor are welcome.
+
+Sonar proximity sensors I've attempted to use are way too noisy/inaccurate.
+
+And I'm unaware of any LIDAR sensors that are small enough to get where I'm looking to mount a sensor
+
+Are there any other sensor technologies I'm missing out there that fit some/most these criteria?  Obviously mechanical measurement doesn't have the drawbacks of the touchless systems, but it means mechanical deployment, retraction of a probe, etc.  ***edit:*** The community as well as myself, have also used the metal nozzle with force sensitive resistors under the build surface, but they're not supposed to be stored "under load" or they deform over time, ruining your measurements.  Another thing we've used is using the metal nozzle against a metal bed, but that has the drawbacks of molten plastic messing up readings, and again - only being able to utilize a solid metal surface. 
+
+
+
+
+ Certainly, but I've seen people try to do much weirder things. 
+
+
+
+
+ Well, shit - I never got around to watching that.  Looks like I've gotta get on that. 
+
+
+
+
+ That's the jist of it, yeah.  Great for things that don't need a lot of data throughput, like temp logging, etc.  But you're not going to use it to download and store large files, etc. 
+
+
+
+
+ So a lot of people really liked the dual saber or "staff", which was also really cool when it separated into two separate units.
+
+That made me think, that I'd also really like to see someone with dual light saber daggers, where the user (likely an assassin) holds them in a backwards fashion ([like this](http://i.imgur.com/0weptnd.jpg) and likes to be very up close and personal with them.) 
+
+
+
+
+ Wow, your 3 year old is fucking dumb.  Like...dumber than a typical 2 year old. 
+
+
+
+
+ It's almost like pop culture is everywhere!  Who would have thought?! 
+
+
+
+
+ It's probably more apt to say "$5 UART to WiFi bridge" so that people understand you're still limited to UART speeds, etc.  But, it's pretty capable as its own microcontroller as well. 
+
+
+
+
+ /r/isthisatrollor 
+
+
+
+
+ You can fuck right off.  The damn show is on Nick.com - the episodes regarding this have been out for easily a month now.  Freely available to anyone and everyone. 
+
+
+
+
+ I'd like to include that this is the same for deltamaker.  We just did our standard testing, they got the same machines that our customers get.  Though that may not stay true for long, as we tend to iterate rapidly and just roll things into shipping.  
+
+
+
+
+ To some, it is literally the only thing that matters _enough_ to get them out to vote in the first place.  Pushing people just to vote on Amendment 2, helps get them voting on...say...the governor, which they wouldn't have done before.  
+
+
+
+
+ I used to use this a while back, and it doesn't seem to splatter all over the frequencies as you suggest. 
+
+
+
+
+ http://www.faberdashery.co.uk/products-page/print-materials/electric-blue/ - 3mm, 115meters is about 1kg, and it's 42.00 or $67.14 USD/kg/734cc (as they calculate it)
+
+http://www.makerjuice.com/product/gplus/ - G+ is only $55/1 liter or 1000cc
+
+https://ultimachine.com/content/abs-175mm-black-1kg-spool - $46/1kg spool.
+
+http://shop.printbl.com/products/3mm-pla-filament-1kg-spool - $43/1kg spool.
+
+(btw, these are the only filament manufacturers I will use, due to their quality)
+
+So if I brought the lower price, quality filament for PLA that I use, or a similar spool of ABS, up to the 1000cc (assuming 1kg = 734cc of material) then the $43 spool would be 1000/743 = 1.36 (required multiplier to get up to 1000cc of material); $43 x 1.36 = $58.  The G+ is $3 cheaper than the PrintBL filament.
+
+Resin printing is not the crazy wallet-burning beast that it once used to be.
+
+As far as weight/strength - it's better: https://www.youtube.com/watch?v=5t6deOZloBU 
+
+
+
+
+ http://makezine.com/projects/make-38-cameras-and-av/raspberry-pirate-radio/
+
+Like, holy crap extends way past FCC regulations.  If you've got an empty channel, you can do line of sight at like 100m.  If it's on the most popular channel in the city, you will hear the Pi over the popular channel at like 5-10 ft. 
+
+
+
+
+ It was actually decided out of engineering practicality.  They're using an LCD, with a UV backlight.  They needed an LCD without any kind of color filters (monochrome) so they look like they're using a repurposed nokia display. 
+
+
+
+
+ Your information is a little bit out of date.  Resin from MakerJuice is on-par with quality ABS filament in terms of price.  Resin printing is not significantly more expensive than FDM printing any longer...it's actually about the same. 
+
+
+
+
+ Filthy casual, using the mouse to buy weapons... 
+
+
+
+
+ Thank you!  For a second there, scrolling through the comments I was afraid I wouldn't find this... 
+
+
+
+
+ Make your own low budget bluetooth music system:
+
+Step 1: Start with a low budget bluetooth music system...    
+Step 2: Wire up the rest of the fucking music system...
+ 
+
+
+
+
+ But...[baby back ribs](http://stream1.gifsoup.com/view2/1112154/sad-baby-o.gif)... 
+
+
+
+
+ Honestly, I just stole it from somewhere else for free karma.  Was more a lighthearted joke to me than anything. 
+
+
+
+
+ Good to know.  I've been using the Arch netinstall image; which has the old "graphical" (curses based) installer that still drops you to a command line, but at least does the hard drive/config prepping for you.  Looks like EvoLution Linux does a little bit more, and quite a bit nicer looking. 
+
+
+
+
+ Does this use the vanilla arch user repository and pacman mirrors?  
+
+
+
+
+ Apparently plague. 
+
+
+
+
+
+
+
+
+
+ Chinese RAMPS boards and Arduinos are pretty awesome actually.  Occasionally you'll have bad solder joints or something but if you're handy with a soldering iron, they're a much cheaper alternative. 
+
+
+
+
+ Awwww yiss.  Everything the same here except xfce-panel is tint2 for me.  Running on an EEE900a, 2gb of ram, 8gb of drive space.  Certainly teaches you how to bring in as few dependencies as possible.  
+
+
+
+
+ If anyone has anything they'd like to see covered, don't be afraid to speak up. 
+
+
+
+

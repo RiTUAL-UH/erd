@@ -1,0 +1,937 @@
+
+
+
+
+
+
+
+
+
+
+ Rubular (http://www.rubular.com/) is also very helpful. 
+
+
+
+
+ I find NB to be quite good for both plain Ruby, and Rails development. 
+
+
+
+
+
+
+
+
+
+ Here's the irony: A good programmer will write more and better test code because they are more aware of what could possibly go wrong; however their code already reflects their awareness of those potential problems, and therefore while the tests help, they are in a way a double-check for something that they've already well covered in their code.  On the other hand, a poor or novice programmer will have less awareness of what could possibly go wrong, and therefore won't account for those things in their code, but because they're unaware of them, won't write proper tests that would catch those potential problems. So in either case, the helpfulness of tests is limited; the former because their code is generally good enough without the tests, and the latter because their knowledge is too poor to write good tests, and once they're knowledge increases their code gets better and therefore their need for tests decreases.
+
+That doesn't mean tests are not useful. Where I believe they shine is not in catching defective code, but in making sure that a change made to one piece of code doesn't break something somewhere else that may seem unrelated (or that you didn't remember was related), without having to "manually" test the app by running through all the steps. The larger and more complex the app, the more important this becomes and saves countless hours of checking to see if everything still works. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ +1 Lets focus on more important things. 
+
+
+
+
+ Datamapper (http://datamapper.rubyforge.org/) is promising too. 
+
+
+
+
+ +1 
+
+
+
+
+ If the time that you saved writing significantly shorter but more obtuse code is then lost when trying to read that code later (or someone else trying to read the code), then you didn't save any time.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh, well. I guess I'd better stop using Ruby then. It was fun while it lasted.
+
+Seriously though, I think Ruby/Python comparisons are unhelpful. Both are good, complete, mature languages, similar, but different. They both have good web frameworks. Some programmers seem to "click" with one approach more than the other, and that's natural too--our brains don't all work the same. A programmer with experience in one who "tries out" the other will probably be disappointed, and while they can have a helpful fresh perspective and spot issues that need to be corrected, many of their negative reactions generally result from a lack of experience with the new language and familiarity with the old (and therefore largely irrelevant).
+
+ 
+
+
+
+
+
+
+
+
+
+ Looks very useful. Beast (http://beast.caboo.se/) is my favorite Rails forum (and Mephisto my favorite blogging system). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Completely agree with you on the plugins. There are quite a few plugins that are much more widely used (and useful) than a basic admin interface.  
+
+
+
+
+ Does *anyone* still use Windows?  
+
+
+
+
+ Nice to see a comparison that's not slanted or flame-throwing.
+
+Unfortunately, while the presentation prominently features the Admin advantage from Django, it fails to mention that AjaxScaffold (and several others) provide similar (or more) functionality for Rails. Having said that, most sites need a more customized Admin interface than provided by either Django or AjaxScaffold and the like, so the advantage provided by either is more likely to be leveraged only while prototyping or as a "extra". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As far as a beginner's programming language, I think Ruby is better than PHP. I've found Ruby easy enough for my 9 year old daughter to learn and write programs in. PHP handicaps you by not forcing you to think in an object oriented fashion, which you'll have to learn eventually anyway. PHP is nice for putting up a quick webpage (and certainly easier to deploy than Ruby), but doesn't provide a solid programming foundation (which it was never intended for anyway). Ruby is very well thought-out and structured. 
+
+
+
+
+ words = %w(zero one two three four five six seven eight nine)
+
+(it's nice not to have to hassle with all the quote marks)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Coming in Rails 2.1. 
+
+
+
+
+
+
+
+
+
+ This already existed as a well-used plugin, but I just discovered it as a gem, which is much more handy, IMO. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I agree it's a good thing. I look at it as a commercial entity giving to the open-source community, while at the same time making money without which they wouldn't be able to host FOSS repos anyway.
+
+ 
+
+
+
+
+ In gem v.1.0.x this is now "gem server" and it's helpfully listed in the list of commands. Prior to that, I had no idea that gem_server existed. Very useful. (use --daemon to run as daemon).
+
+ 
+
+
+
+
+
+
+
+
+
+ IDEA: There have been a number of a "essential gem" posts, some linked on reddit. What would be cool is if someone made a simple "ruby-gem" site with all the available gems listed (users could submit ones), and the ability to vote and comment on the gems, or a "I use this" button to which ones are actually most used. Or maybe a "gems" section should be added to agilewebdevelopment.com.
+
+Or, perhaps something like this exists and I haven't found it yet.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've seen a lot of Rails attachment-handling plugins, but this is the first one I've really liked.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I meant to write MySQL but actually should have just dropped the My as the principles apply to other SQL DBs. 
+
+
+
+
+
+
+
+
+
+ I've use NB a fair bit and find it to be pretty good; I haven't noticed any speed issues that slow me down. When it comes to debugging, while the breakpoints and variable inspect features are nice, what I really want is a full IRB session at a breakpoint (as you would get using ruby-debug from the command line). It's much faster to not only inspect variables using IRB, but you can then run commands on the data and see what's happening. It's on the feature list for NB, but not sure when the team will get to it. On the overall, kudos to the team (and it's free).  
+
+
+
+
+
+
+
+
+
+ Very well put. I'm grateful for the time ruby-core puts into maintaining the language, but I hope they read this article and take some notes.
+
+ 
+
+
+
+
+ There are a lot of tips and tricks on the web as to how to do things better/faster/cooler with Ruby/Rails. But there's not enough talk about how to make sure your site is secure with Ruby/Rails.
+
+ 
+
+
+
+
+
+
+
+
+
+ another, perhaps easier way, is to run "gem server --daemon" which gives you access to all of your gem docs at localhost:8808 (or another port of your choice).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Start with: http://pine.fm/LearnToProgram/
+
+ 
+
+
+
+
+ Why do you need squeak to teach them variables or OO programming? In teaching my daughter Ruby I just used real-world examples such as a Ball is an "object". It has "properties" such as the size and the color. There are certain things you can do with it, "methods", such as throw it or squish it. Variables are pigeonholes where you can put something you might need later. Some you can access only while in the same room (local), the same house (class), or from anywhere in the world (global). Etc. 
+
+
+
+
+ It works :-) 
+
+Hackety Hack is a great idea, and I've tried it. But it's only about halfway there and the author (brillant as he is) has lost interest and moved on to other tools (like the more brillant Shoes; now that's something you could use for child programming).  
+
+
+
+
+ I agree. I've look and tried the various "child-oriented" programming options (Logo, KTurtle, Squeak, Scratch), and while it's true that it might get them interested in programming, it's better to introduce them to a language that they can build on to create more and better programs. (On the other hand, something like Scratch might be great for a 5 year old.) I think that it's best children learn the underlying tools rather than an automated tool that becomes a crutch (think Frontpage) that later limits you. I taught my 9-year-old daughter HTML and CSS and she hand-coded her own site from scratch. We then moved to Ruby on the console, and now she's 10 and we're porting the console-based Ruby program she wrote to a Web app with Rails, combining what she learned from HTML, CSS and Ruby. She has a perfect understanding of OO programming (Ruby is great for that), and is learning tools with which she can create "real" programs (or pick up another language like Python). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Newsfire 
+
+
+
+
+ http://apidock.com/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Speaking from experience, unless you're only translating one or two word phrases, or very simple and unambiguous phrases ("this is a pen"), Google translation, and similar online services, are useless as the translation is more likely to be wrong than right. 
+ 
+
+
+
+
+ Advantages over cron that I can see:
+
+* Access to your rails environment. (Okay, cron could call a rake task that loads the environment. But this is simpler as it's right in your rails project. No need to mess with editing crontab as root.)
+* Ability to set up and/or trigger scheduled tasks dynamically based on user input.
+
+ 
+
+
+
+
+ but changing IRB.conf[:PROMPT][:DEFAULT][:RETURN] to simply "%s" doesn't return the same results as irb_rocket (output on the same line rather than on the next line) I'm making the wrong change?
+
+ 
+
+
+
+
+ Built fine for me on 10.5.6 
+
+
+
+
+ Yes!! A big win for both projects, and most importantly, for the users. Congratulations. 
+
+
+
+
+ This series of interviews needs a new title. Judging by the content so far, it's aimed squarely at beginners who know very little about Ruby, and mostly states stuff that's widely known from those who follow Ruby at all. That doesn't make it bad, it's just not about "little known ways" to "ruby mastery".  
+
+
+
+
+ Thinkpad (Lenovo) is the best, IMO. But I've run Ubuntu on Dell and HP laptops too without problems. Forget about the company shipping with Ubuntu; just wipe the drive and install Ubuntu on top--or keep the Windows OS on there and dual-boot if you like. 
+
+The main thing is to stay away from certain incompatible wireless and video chipsets. The safest is to pick a laptop that has Intel video and Intel wireless--they're almost certain to work with Ubuntu out of the box.  
+
+
+
+
+ Personally, I'm happy with prototype and the Rails helpers. 
+
+
+
+
+ Rails-Footnotes has more info, though I like the bar idea. Maybe the two could be combined. 
+
+http://github.com/drnic/rails-footnotes
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Love the macros! Maybe I'll actually start writing tests for my apps now :-P
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That does suck. Maybe you should have looked for another college that would accept all the credits.  
+
+
+
+
+ Lots of top schools offer scholarships. My daughter is starting this fall at a top private college for considerably less than she would pay at a local in-state school.  
+
+
+
+
+ Because credit card companies factor in the default rate to their fees. If that were done with student loans interest rates would have to be higher to cover defaults.  
+
+
+
+
+ the fact that /u/ekjp accepted to be a mod on Reddit has exponentially increased my respect for her 
+
+
+
+
+ Go back and demand a jelly bean! 
+
+
+
+
+ Nah, the death penalty takes too long and is too much hassle. Precrime is the answer! 
+ 
+
+
+
+
+ Considering boat crews are often international, I'm assuming the English is the lingua Franca on these type of ships? 
+ 
+
+
+
+
+ Thanks.  
+
+
+
+
+ Which is the more interesting job - Tower, Tracon or Center? Also, is the pay similar for ATCs in all three facilities? (I would imagine the Tower is more difficult and therefore pays more, but I'm just guessing.)  
+
+
+
+
+ What do you mean by "culturally" deaf? I've never heard that term before. Does it just mean "officially" deaf, or have some other specific meaning?  
+
+
+
+
+ What do you consider an "international" school compared with a school that has an "international program" or department?  
+
+
+
+
+ I live in Beijing and am familiar with that school. It's one of the best. Costs an arm and a leg though.  
+
+
+
+
+ Actually they get the weekend off from public school. However, anyone who can afford it will send their kids to "after school" classes in the evenings and weekends. So the kids, especially middle school on up, but even many primary school students, are lucky if they get half a day off on the weekends. They also study from morning until night on week days. And if you think that these after-school classes are fun, extra-curricular stuff, think again. There might be a piano lesson in there, or swimming or tennis (if they're wealthy enough), but it's usually math and English.  
+
+
+
+
+ +1 for shoes - not only a useful tool, but great for educational purposes (a good way to get kids started with Ruby) 
+
+
+
+
+
+
+
+
+
+ Gnucash. Powerful and free. Universal binary available so you don't have to install from macports.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *some* of them care about those things , plenty of others just want to provide helpful answers. I've answered lots of stack exchange questions and don't care about all that "is it relevant enough, did enough people reply/view this, is it interesting enough, is it truly a question blah blah -- all those are subjective; to the person asking the question and others searching for the same question later, it *is* relevant/important. The site didn't used to be so "snobby" and "elitist" and was therefore more helpful to the average person. I stopped contributing for that reason. 
+
+
+
+
+ This ^ 
+
+
+
+
+ They flag too many questions/answers that are helpful and of interest to "non expert" programmers, making the site less useful and certainly less friendly.  
+
+
+
+
+ Russians are definite contenders. I'm not sure Iran or SA have the capability  
+
+
+
+
+ Definitely which is a common saying. "Long live China"  
+
+
+
+
+ I wasn't aware of the direct correlation between rank and price. Is that common for books?  
+
+
+
+
+ Most likely "killing in a way that some westerners would not consider humane" became "torture". 
+As for media lies, look up Fox News reports on "no go zones" in Paris :) 
+
+
+
+
+ cidian. zidian would be  (dictionary of characters rather than words)  
+
+
+
+
+ The question should be whether he did a good job or not. If he did, his former education or lack of it, is irrelevant. Plenty of incompetent people have degrees and vice versa.  
+
+
+
+
+ Not so. You should see some of the environmental friendly houses built in Scandinavia  
+
+
+
+
+ What? So the team that knocked off OBL just happened to die in a crash?  
+
+
+
+
+ Don't confuse "trading partners" with "friends".  
+
+
+
+
+ True. But since the china gov also has motive,  manpower and skill to pull this off, this makes them more likely to be the source 
+
+
+
+
+ Good. Alternatives to Reddit will only help Reddit get better and/or provide users with more options. I generally like Voat so far, though the communities are still quite small for many subverses.  
+
+
+
+
+ I've lived in China for 4 years and I have to agree that American police are much scarier than Chinese police -- that is, until you're arrested (I haven't experienced that) as there is less respect for procedures and anything can happen.  
+
+
+
+
+ So Japan and Western Europe are full of criminals roaming around free?  
+
+
+
+
+ On that we agree. I would never have paid full price - or let my daughter take out a loan for it - for the college she will attend  
+
+
+
+
+ There is plenty of data that says otherwise.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Social media is the new customer support  
+
+
+
+
+ That's surprising. Aren't gag orders issued by a judge in a court case so as not to taint the jury? The gov can't just order gag orders willy-nilly,  can it?  
+
+
+
+
+ An excellent resource is memrise.com 
+
+
+
+
+ so you're posting from the afterlife? 
+
+
+
+
+ Hey! Ireland is not England.  
+
+
+
+
+ Are you saying the Internet is wrong?  
+
+
+
+
+ Maybe the technology was bought by a telecom and the silence being part of an NDA deal. If it was the government he'd be more likely to protest or complain about the decision  
+
+
+
+
+ I disagree.  the Internet is a global network that needs international cooperation. That doesn't go against him saying it's a necessity.  
+
+
+
+
+ I see it as a tactical move to get the results he - and his constituents- want, not a dishonest one. It's pretty clear what issues he stands for and he much more consistent than most politicians. It's what I like about Sanders too. Clinton on the other hand is a typical "go with the wind" politician who will say one thing today and do another thing tomorrow  
+
+
+
+
+ - Japanese kanji will help with reading/writing but nothing else. 
+- Mandarin, definitely. 
+- Individual tutor (with a native speaker) definitely more effective if you can afford it, but I would combine that with *small* group classes for added variety. 
+- set yourself vocabulary goals and stick to them. 
+- Don't spend too much time learning to *write* characters; you won't often need to write by hand (computers and phones use pinyin), and it's time-consuming (though perhaps easier for you if you're good at kanji). Reading is much more important.  
+- Chinese is interesting historically, culturally and politically, and well worth learning.  
+
+
+
+
+ And yet, Japan, France and Germany can provide excellent healthcare without having to resort to this.  
+
+
+
+
+ Can't make a perfect system that works for everyone. ACA isn't very good but it's better than what was before it.  
+
+
+
+
+ True but at least it's a step in the right direction as insurance is much cheaper than paying out of pocket when you have a serious illness or accident. Making care affordable would require the type of government intervention that is anathema to most Americans.  
+
+
+
+
+ The problem is also lack of competition. If the cost of producing X widget is too high another business will see the opportunity and enter the market at a lower price to capture market share. With health care, the barrier to entry is so high that's not really an option. And smaller markets can't support multiple competitors, especially for specialized care. (GPs can be more competitive and this is why they don't make as much money and no one wants to be one) 
+This is why free market models don't work for health care and it should be regulated to avoid price gouging just like the state does with basic utilities. I favor free markets but this is one case where Europe and Japan definitely have it right.  
+
+
+
+
+ Trademarks are not global and they don't cover social media accounts.  
+
+
+
+
+ Why should Instagram get involved in this case? You have to work it out directly with the account holder. It sucks, yeah, but you should have taken the name before someone else did.  
+
+
+
+
+  If they lose customers they lose advertisers and their business. Thus, customer service.  
+
+
+
+
+ Sure, back then, when they had no ads/revenue. But they're now owned by FB$$$ and have ads so yeah customer service is expected.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

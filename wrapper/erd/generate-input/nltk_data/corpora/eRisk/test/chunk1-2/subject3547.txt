@@ -1,0 +1,969 @@
+ rps! rock 
+
+
+
+
+ rps! spock 
+
+
+
+
+ Your bot could keep some kind of database with entries for every user it encounters, and the link to their wiki page. I'm not sure how you would go about creating the wiki page, but your biggest problem would probably be retroactively adding users who posted their first post before the bot became active. 
+
+
+
+
+ Kung Fury anyone? 
+
+
+
+
+ Used to make cake for your cake day?
+:P 
+
+
+
+
+ RemindMe! 
+
+
+
+
+ Relevant xkcd: https://xkcd.com/375/ 
+
+
+
+
+ Major lag issues with this update. Every few minutes everyone on a server will experience massive lag, and input is like skating. I'm waiting for Valve to fix this one. 
+
+
+
+
+ This is my favourite ad on reddit. I don;t use bitcoin, but I click on it every time anyway. 
+
+
+
+
+ I love the contrast between the smooth, fuzzy circles and ripples, and the hard, geometric hand.  
+
+
+
+
+ The shape is perfect, I love the crystal-like look to it. I can't think of anything to change, maybe make the purple part a little bit transparent? Otherwise it's perfect. 
+
+
+
+
+ Very pretty.  
+
+
+
+
+ I like it, but it seems odd that the middle part of the glasses would be made of glass as well. It would make more sense for it to be made of a different material, like a grey metal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ !gameMe 
+
+
+
+
+ Evert account on reddit is a bot except you 
+
+
+
+
+ Relevant XKCD
+https://xkcd.com/1102/ 
+
+
+
+
+ Open like your door? 
+
+
+
+
+ I was driving home the other afternoon, as the sun went down. The light had begun to get redder, and the air to cool. I was feeling happy and relaxed, and then had a thought. What if sunsets are beautiful because it signifies another day survived? From an evolutionary perspective, we've evolved to feel good after surviving another day, which drives us to keep going. /notabiologist 
+
+
+
+
+ Help eye bleach bot! I need eye bleach ! 
+
+
+
+
+ [Much Better Now...](http://i.imgur.com/mRKbDnY.png)
+
+Sorry about the blotchy skin, first time correcting skin tone. Also first time posting here. 
+
+
+
+
+ Looks like the hotel from Just Cause 2... Rico! 
+
+
+
+
+ bloopbleep! 
+
+
+
+
+ !bleepbloop 
+
+
+
+
+ !bleepbloop 
+
+
+
+
+ \begin{tex} a = 2x \end{tex} 
+
+
+
+
+ /u/trollabot test_subject3547 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ !gameMe 
+
+
+
+
+ I have it built, do you think it would be worth it to set up a server for it? Maybe I should message the subreddit mods and see if they approve of it running 24/7 for this subreddit. 
+
+
+
+
+ lol yah. I'm having rate limitation issues. I need to build the bots karma up for a few days before I launch it fully. 
+
+
+
+
+ D'oh, street view would be from a while ago .
+
+I believe that the reference to Florida was just a story. That story was the one part of it that seemed too forced/fake.  
+
+
+
+
+ Update: All done now, should be working on this subreddit as well
+!gameMe 
+
+
+
+
+ !gameMe 
+
+
+
+
+ The banners don't match the ones in the videos, would they have changed them in two weeks? 
+
+
+
+
+ !gameMe someServerThatDoesn'tExist 
+
+
+
+
+ Don't we all need a little ego-boosting from time to time? ;) 
+I can't really think of when it would be used either, but it'll be there if people want it.
+
+(Also, I'm almost done now, so too late!) 
+
+
+
+
+ There's a [playlist](https://www.youtube.com/watch?v=a7VQARbRhYA list=PLIvrgpZKZrKim6ga0LD3PBbopdqRQ3Lhf) of all the videos. It's terrifying, idk what's going on D:
+ 
+
+
+
+
+ What is that in the [window](https://www.youtube.com/watch?v=NJ-u4_sQSNk)!?! 
+
+
+
+
+
+
+
+
+
+ I'm trying to play around with reddit's API, and I got a neat idea for a bot. a gameMe/hlstats bot that pulls your stats for a specific server and posts them as a comment. e.x.
+
+test_subject3547: "!gameMe someServerName"
+gameMeBot: "Pos: 9001 Points: 0"
+
+You would associate your steam and reddit accounts with the bot by sending it a PM like "associate STEAM_0:XXXXXXXX"
+
+Any interest/suggestions? I would probably make it search through this subreddit, /r/gaming, maybe /r/steam and any other subreddits for games tracked by gameMe.
+
+Edit: I've got a prototype working, just working on customizing which server to pull stats from. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not a video editor, but I approve of the Tut Tut Child ;) 
+
+
+
+
+ Wow, this is really cool! :D
+It's a very original idea, and I love the little details, like the colours changing as you rotate. 
+
+
+
+
+ That's one small wank for man  
+One Giant wank for mankind! 
+
+
+
+
+     volume = 1 
+    while True:  
+        answer = ask("why")  
+        if not answer:  
+            volume += 1  
+        else:  
+            break 
+
+
+
+
+ This is really pretty. 
+
+
+
+
+ Maybe he went upstairs to use the bathroom or something? And then made the innapropriate comment when he saw you watching them. 
+
+
+
+
+ !gameMe n00bz 
+
+
+
+
+ try !gameMe (note the capital "M") I can change it to make it non case-sensitive if you'd like. Also you'll need to associate your account first. 
+
+
+
+
+ !gameMe 
+
+
+
+
+ Test 
+
+
+
+
+ !gameMe 
+
+
+
+
+ !gameMe wearenoobz 
+
+
+
+
+ !gameMe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wow, a link on InternetIsBeautiful that can withstand being hugged! Truly you have created a miracle :P 
+
+
+
+
+ What an amazing throwaway name XD 
+
+
+
+
+ Dissapointed that doesn't exist 
+
+
+
+
+ That's adorable, thanks \^.\^ 
+
+
+
+
+ I think it's been hugged XD 
+
+
+
+
+ Can you draw a cute robot that's a little beat up? Bent antenna, nicked metal, but still happy? Thanks. 
+
+
+
+
+ Set the flair to be "review" and then mods will consider it for acceptance. 
+
+
+
+
+ \#HaveAWank 
+
+
+
+
+ It's more suspenseful this way. 
+
+
+
+
+ What engine are you looking to use? I have experience programming in [LOVE 2D](http://www.love2d.org), and some in Unity. 
+
+
+
+
+ If he's long enough that his dick hits the water before his feet, I don't think he needs to worry about her being dissappointed ;) 
+
+
+
+
+ /r/upvotedbecausegirl 
+
+
+
+
+ Upvote, downvote, sidevote? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I added a gif of playing through one level. 
+
+
+
+
+ Thank you :)  
+I've since slowed down the asteroids, but I think it might be too slow now. I just have to find the right balance. I've also increased the firing rate ever so slightly, and thank you for the point abouut the bullets being difficult to see. I'm also thinking of implementing the "hyperspace" mechanic from the original, where you can teleport to a random location on the screen.
+
+Edit: I just looked back at the build I uploaded, and I can't see the the bullets either. This is a glitch, and will hopefully be resolved by replacing the dots I was drawing with proper bullet/rocket sprites. 
+
+
+
+
+ #Jovian Gasbags
+Jovian Gasbags is an asteroids clone I'm working on to expand my portfolio. It's in an early state, but it will be done in the next few days. I just want some feedback on how the game plays. Control speed, player thrust power, fire rate, asteroid size/speed etc.  
+###[GIF](http://i.imgur.com/CuVmjss.gifv)
+###Controls
+Arrow keys to turn + thrust, spacebar to shoot. Press enter to generate a level.
+
+###Downloads
+##[Windows](https://drive.google.com/file/d/0B8Kqppgx0wjBTU1JSGt5RGY5Y00/view?usp=sharing)
+***
+##[Linux/Source](https://drive.google.com/file/d/0B8Kqppgx0wjBdXFIdWxEWXJrVWs/view?usp=sharing)
+To run the game on linux or other non-windows systems, download the source file above, and install the [LVE 2D Engine](https://love2d.org/) 
+
+
+
+
+ https://xkcd.com/508/ 
+
+
+
+
+ Throw his law notes on the ground to assert dominance. 
+
+
+
+
+ Links are allowed. These were bot accounts that were posting gibberish and links (probably to phishing sites).  
+
+
+
+
+
+
+
+
+
+ /r/retiredusername 
+
+
+
+
+ You've given me a new purpose in life. I could use Markov Chains and everything... 
+
+
+
+
+ More posts on this subreddit should include project plans. Thank you for that.
+
+Unfortunately, I'm not solid on javascript, but I wish you luck! The current build is very cool, it reminds me of candy box. 
+
+
+
+
+ Thanks, it was created for the ludum dare 72 hour jam, so it's a little short and simple.
+
+I wish you luck on this project. 
+
+
+
+
+ I'm not sure I want to work on a project with such vague guidelines, but here's one of my [games made in LOVE](http://ludumdare.com/compo/ludum-dare-30/?action=preview uid=34574) anyway. 
+
+
+
+
+ Beautiful :D
+I love the visuals you make, and the descrptions of the world that the turtle has created.
+
+I have but one small criticism. You used the wrong "it's" several times throughout the poem. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This. I'm straight, and I still ran around telling straight people the good news, because it's good news regardless of your orientation. 
+
+
+
+
+ !RemindMe 
+
+
+
+
+ OP pls deliver 
+
+
+
+
+ Sun Tzu said that!  
+And I'd say he knows a *little* more about fighting than *you do*!  
+
+-Soldier 
+
+
+
+
+ If you really didn't sexually molest the kid, then tell your parents. If you leave this alone, then it could have repercussions for your reputation. Talk to your parents, the principal, or if you don't trust either party, talk to a teacher you can trust.
+Edit: Spelling 
+
+
+
+
+ I think OP is asking if you can calculate how much faster than c you would have to be moving. In a theoretical world where you can move FTL, what would the escape velocity *just inside* the event horizon be. e.g. 2*c 
+
+
+
+
+ Tagged as Dick-Man 
+
+
+
+
+ U 
+
+
+
+
+ *Your balls are my balls, and my balls are your balls* 
+
+
+
+
+ That's beautiful. 
+
+
+
+
+ I'm not sure what he meant in that context, the only GNU I know of is the software. 
+
+
+
+
+ Dominance asserted 
+
+
+
+
+ `PNU = Pratchett's Not Unix` 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is the name Ellen Pao not allowed here? 
+
+
+
+
+ I see what you did there... 
+
+
+
+
+ I've now tagged her account as Paopatine. That's amazing 
+
+
+
+
+ Unfortuantely, I don't get that reference 
+
+
+
+
+ I like it :) 
+
+
+
+
+ He couldn't write because his arms were broken. 
+
+
+
+
+ This thread is about to get all meta... 
+
+
+
+
+ [test](/GNU Terry Pratchett)  
+
+
+
+
+ [](/GNU Terry Pratchett)  
+
+
+
+
+ Not sure whether mine is drawable... 
+
+
+
+
+ Tagged as [Dick-Suit](http://gyazo.com/07c38acf2562970603f70df380db482a) 
+
+
+
+
+
+
+
+
+
+ Fun little Asteroids clone I made for the One Game A Month challenge. You are a spaceship pilot, sent to wipe out the hordes of Jovian GasBags infesting Jupiter's upper atmosphere. These jelly-fish like creatures float in the air, splitting apart under laser fire.
+
+##Controls
+***
+Arrow keys/WASD to turn/thrust. Spacebar/Control to shoot. Press escape to pause while in game, M to mute the music, and R to restart quickly when you're on the death screen. The levels get harder and harder, and when you die your highscore is saved locally.
+##Links
+***
+[Game Link(itch.io)](http://deltaf1.itch.io/jovian-gasbags)  
+A windows build is available, as well as a source file, which can be run if you have the \*awesome\* game engine [LOVE](http://www.love2d.org) installed.  
+   
+  
+##My info  
+***
+[My twitter](https://twitter.com/StarhopperGames)  
+[My Ludum Dare games](http://ludumdare.com/compo/author/deltaf1/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ nAAaMe  
+
+FTFY 
+
+
+
+
+ Where's /u/corvoattano420's lennies when you need them? 
+
+
+
+
+ One of today's 10,000! 
+
+
+
+
+ RemindMe! 1 day 
+
+
+
+
+ Relevant username 
+
+
+
+
+ lol 
+
+
+
+
+ ayyyyyy 
+
+
+
+
+ I have her account tagged as Paopatine. This image makes it so much better...  
+Edit:Spelling 
+
+
+
+
+ Please, do an AMA on this. 
+
+
+
+
+ [Am I meta now?](http://i.imgur.com/Grpc8xS.png) 
+
+
+
+
+ AFAIK he's just hiding the "we are legion" message in a bit of fluff. 
+
+
+
+
+ people will take these **anonymous** memories with them... But the **legion** that is the internet will evolve. It will not **forgive** the transgressions... And it will not **forget** the virtues... We can **expect** the cycle of progress...  
+
+See it now? 
+
+
+
+
+ We are Paononymous
+We are Paogion
+Paospect us 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ *Destroyer of OP's bum* 
+
+
+
+
+ Shoved a car up my ass for something  
+FTFY 
+
+
+
+
+ I know, but it still is a bit. 
+
+
+
+
+
+
+
+
+
+ 1234 points...  
+Want to upvote... Can't disturb the beauty... 
+
+
+
+
+ He's daydreaming about how best to fuck Canada over. 
+
+
+
+
+ Cl**ass**y
+
+FTFY 
+
+
+
+
+ +/u/User_Simulator /u/test_subject3547 
+
+
+
+
+ I need Eye Bleach! 
+
+
+
+
+ PM this to OP! 
+
+
+
+
+ Fuck, you reminded everyone!
+:P 
+
+
+
+
+ Remind Me Bot doesn't seem to be working for me. Is it down, or just spotty? 
+
+
+
+
+ Well, smoking it does cause disease, but that's inherent in smoking, not in the marijuana. 
+
+
+
+
+ 7 Not too late? 
+
+
+
+
+ no 
+
+
+
+
+ Same situation. My father's parents were very formal, and so even just mentioning sex or relationships gets him uncomfortable. My female friends can't gross me out by talking about their periods, since I grew up with all sisters. 
+
+
+
+
+ Wil Wheaton's golden rule... 
+
+
+
+
+ o.0 
+
+
+
+
+ SHAME 
+
+
+
+
+ \*bows\*  
+Thank you. 
+
+
+
+
+ Can you write me a poem? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

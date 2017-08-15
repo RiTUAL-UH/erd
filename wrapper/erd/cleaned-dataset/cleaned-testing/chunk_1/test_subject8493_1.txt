@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+
+
+ Rubular (http://www.rubular.com/) is also very helpful. 
+
+
+
+
+ I find NB to be quite good for both plain Ruby, and Rails development. 
+
+
+
+
+
+
+
+
+
+ Here's the irony: A good programmer will write more and better test code because they are more aware of what could possibly go wrong; however their code already reflects their awareness of those potential problems, and therefore while the tests help, they are in a way a double-check for something that they've already well covered in their code.  On the other hand, a poor or novice programmer will have less awareness of what could possibly go wrong, and therefore won't account for those things in their code, but because they're unaware of them, won't write proper tests that would catch those potential problems. So in either case, the helpfulness of tests is limited; the former because their code is generally good enough without the tests, and the latter because their knowledge is too poor to write good tests, and once they're knowledge increases their code gets better and therefore their need for tests decreases.
+
+That doesn't mean tests are not useful. Where I believe they shine is not in catching defective code, but in making sure that a change made to one piece of code doesn't break something somewhere else that may seem unrelated (or that you didn't remember was related), without having to "manually" test the app by running through all the steps. The larger and more complex the app, the more important this becomes and saves countless hours of checking to see if everything still works. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ +1 Lets focus on more important things. 
+
+
+
+
+ Datamapper (http://datamapper.rubyforge.org/) is promising too. 
+
+
+
+
+ +1 
+
+
+
+
+ If the time that you saved writing significantly shorter but more obtuse code is then lost when trying to read that code later (or someone else trying to read the code), then you didn't save any time.  
+
+
+
+

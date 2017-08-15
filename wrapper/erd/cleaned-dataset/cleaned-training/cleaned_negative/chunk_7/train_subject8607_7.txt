@@ -1,0 +1,37 @@
+ Apparently there are 13 different proteins in the peanut that contain amino acid sequences to which antibodies attach ("epitopes"). People with peanut allergies usually have a specific immunoglobulin (IgE) that recognizes these epitopes from peanut proteins, and generates a massive immune/inflammatory response...hence, the severe anaphylaxis caused by peanuts in people with a peanut allergy.
+
+It appears there is still some debate as to the major culprit, but you can read more about this topic [here](http://www.hindawi.com/journals/ijfs/2013/909140/). This paper gives a nice (but technical) overview of the different allergens thought to be responsible for peanut allergies. 
+
+
+
+
+ [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/) is a good place to go. All the papers here are free to everyone. They're not the newest, but usually within the last 18 months. All of us government-funded researchers are now required to deposit our manuscripts there for "public consumption" after the original publication. 
+
+
+
+
+ Agreed about administration; it's getting absurd the amount of 6-figure salaries being paid to people who tell us to do the exact same thing 5 different ways.
+
+However, as a research scientist, I see very little incentive from the University to teach undergraduates. My grants bring in far more indirect dollars than my students, so most of my time is spent trying to get grants instead. Sometimes it feels like teaching responsibilities are used as punishments for scientists who've fallen on hard times (funding-wise). I think the united state's universities would be well-served to reward and encourage their brightest and best faculty to teach.
+
+Also? No one has EVER taught US how to teach! Education classes should become compulsory during PhD-level graduate education...but perhaps this is a topic for a different discussion... 
+
+
+
+
+ Two reasons: 
+
+* the absorption rate/location of the drug
+* the metabolism rate/location of the drug.
+
+-
+I'll use caffeine as the example, per your request. Caffeine is absorbed into the blood stream from your mouth, throat, stomach, and intestines. This absorption happens rapidly as you drink a cup of coffee for example, since caffeine is both water- and lipid-soluble. So, it gets into the blood stream pretty quickly and pretty freely. 
+
+Furthermore, The enzymes that metabolize many drugs (caffeine included) are expressed in the highest amounts in the liver, not the digestive tract. Caffeine is thus not "broken down" until after it reaches the liver through the blood stream. In the liver, caffeine is then metabolized at a much slower rate, leading to a half-life of around 5 hours.
+
+-
+TL;DR: The body doesn't break down caffeine during digestion because it can't. 
+
+
+
+

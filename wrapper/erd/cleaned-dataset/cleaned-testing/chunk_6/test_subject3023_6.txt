@@ -1,0 +1,145 @@
+ Yeah, we just brought on a whole bunch more people. We should get through the updates much more quickly. 
+
+
+
+
+
+
+
+
+
+ You could try [Phoenix Reborn](http://forum.feed-the-beast.com/threads/1-7-10-phoenix-reborn-tech-magic-progression-ores.59301/). It's got quite a bit of tweaking, and has all the mods you mentioned. Plus, it's got a whole bunch of progression instituted and whatnot. 
+
+
+
+
+ Well, due to how progression works in Phoenix Reborn, ProjectE isn't accessible 'till late game, and can't be automated until even later. So, at the beginning of the game, I had a huge farm in order to supply me with plenty of toast. I had several machines that I used in various stages, and most of them are still back at the original base where power gen is. I only transferred the frequently used ones to the new dimension.
+
+And I figured that I might as well make it compact, once I started making the void dimension. From there it was pretty simple. 
+
+
+
+
+ http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-powerful 
+
+
+
+
+ Yes, it's amazing. I've looked at the Shield System as well, and it's a great low processing power cost alternative to MFFS. Plus, it's really easy to build the shield as well. 
+
+
+
+
+ That's either Apple Core or Spice of Life. It indicates the amount of time left in that Hunger Point. I believe you can disable it in the configs. 
+
+
+
+
+
+
+
+
+
+ Don't worry, you're not a bad person. It's my fault for making the code a little to obvious :P 
+
+
+
+
+ Heh, I'll make sure to fix that. 
+
+
+
+
+ \o/ 
+
+
+
+
+ Running Red, Wanderlust, and Tolkiencraft II. 
+
+
+
+
+ If you look through this AMA, you'll see that even slowpoke himself agreed that Ultimate, although generally looked upon as well balanced, actually had quite a few balance issues, mainly via cross-mod compatibility.
+
+I find the tools much more of a upside than a downside - without them, something like Running Red or Crash Landing would never have been possible. And bloat, well, I think FTB is trying to avoid that now. You saw how Monster turned out. FTB is now trying to make well balanced and enjoyable packs, between Mage Quest, the soon to be released inFlux, and Resurrection, we have very many specific packs. Sure, there is a lot of them. But it's not like Monster or the Adventure Update - everything isn't being crammed into one. Each pack caters to specific audiences. No single pack is too large, and no single pack is too big to be considered to have content bloat. 
+
+The tools are helping pack creators fulfill there vision for the packs. Without them, I would never have been able to tell a story, Jaded wouldn't have been able to build the paradise in the sky, Eyamaz wouldn't have been able to create hell on Earth, Iskandar wouldn't have been able to create a faraway planet, Orator would never have been able to bring to life the works of JRR Tolkien, parcel would never have been able to make compressed cookies, Elec would never have been able to create the skylands, Lumaceon would never have been able to make a Crafting Paradise, and Yulife would never have been able to reload our Wanderlust. These tools are what give are packs life. They're what make our packs unique and not just another kitchen sink pack, which is all we had before this. We're not creating bloat - we're creating something new. Something unique.
+
+I'm sure we'd all be glad to play the same packs, over and over again, just for a different version of mods, or a different version of Minecraft. But I find it more enjoyable to play something new. To be cast into a world without water, or one filled with evil creatures, or in a station, with disks of the world in my hand, or in a medieval landscape, or in a home in the sky. None of this would have been possible without these tools. None of the small tweakings that go into making each pack work. We can make our packs better, and take our time to give you good content, or, would you prefer it if we gave you a kitchen sink pack with cross-mod compatibility issues? Sure, one may take time. But each time we take our time, we create something new. Whether it's a mainstream pack built around Gregtech and memories of the past, or a jarring landing on a distant planet, we're reinventing modpacks.
+
+Noone's trying to replace Ultimate. Ultimate has been done. We're trying to create something new. If you want Ultimate, it's still there for you to play it. We making things that haven't been made before. Just look at the Third Party Modpacks section on the FTB Forums. Would you prefer that each pack is another kitchen-sink pack with different mods, or would you prefer to see stuff in there like Crash Landing, ME^3, Wanderlust, Tolkiencraft, Running Red, PhoenixCraft, Blast Off!, Infinitech, FluxGalaxy, ImpactFlux, Clouds of Darkness, and the Dark Trilogy? These tools have given us the power to create packs like this. No one pack has content bloat- they all have their own visions and tweaks and quests that make up what each pack is. We don't throw mods together and change IDs anymore, like we did with Ultimate. We take those mods and change them, make them fit in the world in which we are creating. We can do so much more than we used to, thanks to these tools. Would you call that a caveat, or a bonus? I'd call it a bonus. 
+
+
+
+
+ The reason it takes more time than it used to is because there are so many more tools available to pack creators. It's not so much throwing mods together and fixing ID Conflicts anymore - now we have the ability to change recipes, create quests, change ore gen, biomes, and so much more. So yeah, it takes more time than it used to, but as well, there's so much more being put into it. 
+
+
+
+
+ Not certain why, but it's in the changelog for the latest build: http://minecraft.curseforge.com/mc-mods/59968-special-mobs/files/2216952 
+
+
+
+
+ All you need to do to fix this is update Special Mobs. 
+
+
+
+
+ Well, try the second. It's nothing like the first. 
+
+
+
+
+
+
+
+
+
+ For the world generators, EBXL was only included because of the ability to enable and disable the biomes and villages in those biomes. I'm trying to avoid adding any mods that add content like that, just things that can be used as bases for packs. 
+
+
+
+
+ Alright, I added those. 
+
+
+
+
+ Probably the original for ultimate. The panes are arranged in the same format
+http://i.imgur.com/50Q0IgS.jpg 
+
+
+
+
+ Because it takes a while to make these things. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What is the average airspeed velocity of an unladen swallow? 
+
+
+
+
+ It's technically not made for multiplayer, but in the recent updates, I've been trying to add more support for it.
+
+I've made quests repeatable so those on non-hardcore worlds and servers can reclaim their effects after death, and I've also added a multiplayer only object that allows for others to revive you. Possibly more in the future.
+
+Anyway, I would be interested to see if there are any servers as well. 
+
+
+
+

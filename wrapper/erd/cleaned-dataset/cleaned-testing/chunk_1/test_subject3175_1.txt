@@ -1,0 +1,79 @@
+
+
+
+
+
+ Access to the paper can be seen here:
+
+https://www.researchgate.net/publication/264984751_The_effect_of_serum_origin_on_tissue_engineered_skeletal_muscle_function
+
+Cow serum (FBS or FCS) is used to grow cells in a dish and is known to be highly variable which can effect cell growth and proliferation. This paper takes serum from different continents and finds that they alter muscle phenotype which is pretty surprising as that is hard to modify. 
+
+They don't identify what might cause this but speculate that differences in how cows are treated (e.g. growth hormone administration to cows is not permitted in the EU) and resulting hormone changes may be responsible.
+
+It's unclear how drinking milk or eating meat might effect people and it was an in vitro study but I thought it was interesting. 
+
+
+
+
+
+
+
+
+
+ People are going to have a spectrum of adverse reactions (from minimal/few to severe) which is shown in the paper and at the moment can't be predicted. The only way to know how you'd react is to take the drug. 
+
+It should be noted that the extra year survival is compared to those who only take one antibody (i.e. trastuzumab and docetaxol). and is not compared to a no treatment control. The treatment that caused this extra year (i.e. pertuzumab,  trastuzumab and docetaxol) costs $120K/yr, A 2006 study showed that trastuzumab alone cost 70K/yr (see end for source), not sure what it is now but I assume a little less given the costs in this study. The antibodies are the expensive part of the treatment due to how they are manufactured and the associated research costs. If you have no treatment with this aggressive form of breast cancer you;re looking at 6-12 months, old school chemo gives you 18 months, trastuzumab gives you 36 months and this one 48 months - so in a way it's $120K/yr for 3yrs survival. 
+
+"Am I suffering in that last year of life?" - Yes in that last year as the adverse effects of cancer get stronger you will suffer but that is the same as if you didn't have treatment. There is some anecdotal evidence (based on discussions with oncologists and personal experience) that some of these targeted cancer therapies (i.e. the antibody) can result in a more rapid last stage of death which would decrease the time suffering at the end stage of cancer (that is based on renal carcinomas treated with sunitinib a VEGFR and PDGFR inhibitor). If that is true (it's anecdotal/based on doctors observations not saying it's fact) then you would expect to spend less time in a hospital or hospice in your last year compared to no treatment.
+
+"Does the last year bankrupt my family or financially burden them?" - Possibly but you're not forced to have the treatment and is something you'd have to discuss with your family prior to starting treatment. The cost of these treatments are amazingly high, particularly in the US due to the healthcare system (i.e. direct hospital/physician costs) and the cost of the drugs themselves (due to research costs of the drug and to cover the costs of other drugs which don't make the grade). In the UK (where I'm from), there is debate about providing these treatments on the NHS (i.e. for free) and a "postcode lottery" sometimes exists where a treatment is available in some areas but not others. The cost effectiveness of trastuzumab treatment in France can be seen here: http://www.ncbi.nlm.nih.gov/pubmed/19487912
+
+The cost-benefit of this remains to be seen and unfortunately it won't be available for all due to the cost. Really, it's another treatment tool that can be used and in time as the costs decrease will be more widely available -  just like any other treatment.
+
+2006 cost study:
+http://muse.jhu.edu/login?auth=0 type=summary url=/journals/hastings_center_report/v036/36.3fleck.pdf 
+
+
+
+
+ They used 2 antibodies (pertuzumab and trastuzumab also known as herceptin) which both block HER-2. HER-2 is found at higher levels in more aggresive breast cancer tumours (it's thought to increase/cause tumour cell proliferation) and it's level is associated with poor survival. The 2 antibodies bind to different areas of HER-2 and have been shown to act synergistically to decrease tumour growth. 
+
+Docetaxel stabilises microtubules which are important for a range of cellular processes including cell proliferation. 
+
+Basically the antibodies inhibit growth factor signaling pathways that promote cell growth, proliferation and survival. Docetaxel stops part of the machinery that is required for cellular function. By targeting different mechanisms you're in theory going to increase cancer death which is what they saw. 
+
+
+
+
+ I think by "genetically predisposed" theathlete46 was referring to type I diabetics, who cannot produce insulin which is required to increase glucose uptake in muscle and brain. This treatment may help lower the dose of insulin they need to inject themselves with by increasing insulin sensitivity but they will still need to inject insulin to see the benefits of this potential treatment.
+
+In terms of being predisposed and developing a disease being different things then I totally agree with you, I just interpreted the previous commentators differently :) 
+
+
+
+
+ Like many drugs or compounds that effect metabolism there is potential for huge side effects, particularly with prolonged use. A preview to the paper states 2 possible side effects from the data in the paper: 1. May promote cancer cell growth - via the Warbug Effect/hypothesis. 2. May increases risk of CVD and stroke as the drug leads to intracellular accumulation of homocysteine - a known risk factor for CVD and stroke.
+
+The link for the preview:
+http://www.sciencedirect.com/science/article/pii/S1550413115000650 
+
+
+
+
+ As far as I'm aware there's no info regarding how MOTS-c is controlled naturally. Given its role in this paper it is likely that exercise increases its levels and release (exercise can increase transcription of the mitochondrial genome which is where this protein is coded for).
+
+The use of high-fat diets was to induce an obese and type-2 diabetic state as is often done in these studies and induces mitochondrial dysfunction - which likely decreases the levels of MOTS-c but wasn't tested for. In the paper they showed that fasting decreases MOtS-c levels but that was the only "natural level" they measured - everything was injecting the peptide into animals and drug treatments in vitro. The high fat diet was likely 60% fat, 20% protein and 20% carbs and the same calorie intake as controls, control diets are 10% fat typically and 70% carbs - this is based on the typical HFD model which was probably used.
+
+In terms of diet for strength training, protein content and quality is more important for protein synthesis. The peptide in the paper activates AMPK which inhibits protein synthesis so you wouldn't want to inject it before you work out!  This is a good article linking the molecular level changes to diet but it does only focus on protein. 
+
+http://www.gssiweb.org/en/Article/sse-123-nutrition-and-the-molecular-response-to-strength-training 
+
+
+
+
+ It's most likely the best way to engineer a muscle but the force measurements were from single-fibres and not the whole muscle. Tissue engineered muscle has poor transfer of force to the extracellular matrix and is less dense than native muscle and this way of testing force doesn't allow you to test those properties. Still a good study but findings a little over-hyped 
+
+
+
+

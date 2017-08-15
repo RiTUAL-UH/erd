@@ -1,0 +1,879 @@
+ you're welcome :) 
+
+
+
+
+ there could be a solution, im just not aware of it 
+
+
+
+
+ Snippet - http://www.reddit.com/r/firefox/comments/39yf9n/how_do_i_restore_my_firefox_page_to_the_original/  
+
+
+i use ctrl+T and start typing away.  
+My New tab opens my about:newtab page. So i stay in the URL bar and can type away.  
+
+And yes you can type keywords in URL Bar and it will search for what you entered with a search engine or previously accessed URL's 
+
+
+
+
+ i think its a WIP:  
+https://bugzilla.mozilla.org/show_bug.cgi?id=820679  
+https://bugzilla.mozilla.org/show_bug.cgi?id=878288  
+
+Hope someone knows a temp solution.  
+Some more info of your situation(not real solutions though):   
+http://fedoramagazine.org/how-to-get-firefox-looking-right-on-a-high-dpi-display-and-fedora/  
+http://stackoverflow.com/questions/23099849/stop-firefox-dpi-scaling-when-windows-setting-is-at-125   
+
+
+EDIT-  
+https://addons.mozilla.org/en-US/firefox/addon/nosquint/ - FOR Text  
+https://addons.mozilla.org/en-US/firefox/addon/fxdpi/?src=search  
+https://addons.mozilla.org/en-US/firefox/addon/autohidpi/?src=search  
+ 
+
+
+
+
+ it'll go away soon, new announcements happen there from mozilla's side to create awareness.   
+in about:config "browser.aboutHomeSnippets.updateUrl" to empty value should do it(DISCLAIMER - ive not tested this personally so not sure of the consequences and dont blame me :) ) 
+
+
+
+
+ i meant the OS theme, Windows Classic possibly, but anyway small thing 
+
+
+
+
+ ah im really not sure on this, maybe you've switched system themes or so?   
+If im not wrong, its implemented by the OS so probably some theme is causing the trouble; orelse the only other possibility is that the CSS rendering is different for different browsers.  
+http://www.marioaraque.com/html-css-checkbox
+  
+Im on Linux currently, and im subject to the OS styling.  
+
+Bug related - https://bugzilla.mozilla.org/show_bug.cgi?id=605985 
+
+
+
+
+ the '!' mark shows thats its not enabled, and thats the way it should be as default for now.   
+When webM gets properly implemented you'll have an awesome video experience on YouTube.   
+
+I don't really understand the tick boxes situation, could you please post a image/screenshot somewhere? 
+
+
+
+
+ in case your youtube is working fine then, i guess its okay.  
+
+If you're still having problems its better to start off with a fresh new profile.  
+
+Since you said webM is enabled on the youtube.com/html5 page, i thought it would be better to have a refresh/new profile created.  
+WebM is still under development and as such you'll run into issues with video playback.  
+You can disable it in about:config "media.mediasource.webm.enabled"  in case its still enabled.  
+ 
+
+
+
+
+ I'd recommend you to still refresh the browser and if that doesn't work out then create an a new profile and use Firefox.   
+
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles
+
+Mostly likely the old browser which is based on firefox has left some settings enabled and that's causing all your troubles.  
+Your YouTube video problems are most likely happening because you have webM support enabled   
+
+
+
+
+ visit youtube.com/html5 and report here how many boxes are ticked and unticked.  
+
+If you've used FF before and then stopped using it, i'd recommend you start off with a fresh profile. If you don't want to do that then you can reset Firefox in Menu-Help-Troubleshoot Information  
+
+
+
+
+ This needs to be stickied!  
+Also info on HTML5 playback that webM is still under going development and its better not to turn it manually for normal usage.   
+
+
+
+
+  The State Bank of India tells me I need an international card since purchases made in the Play Store count as International purchases. Whatever that means.
+
+You'll need to activate your card for international purchases. IIRC Cards before 2013 Dec have this On as default, new cards need to be activated for international purchasing.   
+Contact the cards dept of your bank and they'll walk you through the process.   
+
+
+
+
+ Boooooob the builder! Can you build it?  
+
+
+
+
+ and better not to, its still under development - webM that is 
+
+
+
+
+ you were talking of targeted advertising all the way down along with the data collection/usage etc.  
+
+Marketing by advertisement will require some form of data without which no marketing will work.  
+As long as Personal identity is not revealed or stolen, im fine with with being show products etc on my way based on things i find interesting.  
+If i like something ill buy or else chuck it off.  
+Humans aren't dumb to go on a purchasing spree because they see ads.  
+
+And atleast these are not some click-bait ads that lead you to some data theft/survey/questionable site.   
+
+
+
+
+ Ah not really, you can buy don't know how far you'll go to achieve your results.   
+It's better to stick to gimp for that purpose  
+
+
+
+
+ Hehe you're paranoid.  
+
+ good ads  
+
+Oh look the TV has ads! They are tracking you as well. Oh look at that street, it's filled with posters and ads. There are ad spies tracking what you look at O_O  
+/s 
+
+
+
+
+ And the Web is always expanding and it's future not limited.  
+Being prepared is the best option.   
+
+People can keep complaining and criticizing.  
+Unless it's constructive, or contributes to a better future/implementation, there's no use for one.   
+
+Even in case of ads Mozilla, could and possibly I hope, will make ads less intrusive.  
+There are good ads and bad ads.  
+Good ones are far better than the bad. 
+There's absolutely nothing wrong in advertising unless you profit from unethical/unlawful use of user data.  
+
+To be a leader you have to start preparing now or else you play catch up till the end.   
+
+
+
+
+ Here are a few things you could try:  
+Go into safe mode in Firefox and see if it's fine. If it's fine then Check troublesome addons.  
+
+Create a new profile. Remember to back up old Firefox data if you need them. 
+
+Use pipelight for flash on Linux. Yes this causes the browser to get stuck for a second or two as it loads pipelight but you'll have a much better flash experience.   
+It uses the latest flash version available on windows instead of the outdated Linux version of flash  
+
+
+
+
+ I suspect VR will definitely come to the Web in the future.  
+Everyone is investing on the tech right now.  
+Google showcasing the ability of cardboard on android could also mean that one day in the future we would have streamable VR content for maps, street view, movies, YouTube etc.   
+
+It's better they do put in resources now, than suffer a similar backlash that's happening with Electrolysis, MSE in the future.  
+
+
+
+
+ Fire marketing completely.   
+
+Cut down on product portfolio.   Maintain 3-4 global devices.   
+Get the specs, camera and design right for the flagship.  
+The rest should be priced lower in the mid and low range will the best specs possible at those price range. 
+Let blogs/social media do the marketing job for you.    
+
+
+
+
+  I'm afraid, I disliked Australis.. and immediately installed the Classic Theme Restorer addon.
+
+Its looks more like AutoCAD tabs than chrome/chromium tabs
+ 
+
+
+
+
+ works pretty good.  
+Shipped with Fedora 22 , gtk3 as default.  
+Issue's with readability on dark themes. Light themes works as good as the gtk2 port.  
+Not sure of the underlying tech but visually things are improving! :)   
+
+
+
+
+ Since you're on Linux, I'd recommend you to get pipelight.  
+It uses the latest version of flash available instead of the old Linux version.  
+And yes when you load a page, it'll feel it's stuck for a second or 2 but it's pipelight loading flash in the background.   
+
+For html5 videos, you can enable MSE in about:config.   
+Enable everything except webM support.   
+Check the status of html5 on YouTube.com/html5 
+
+
+
+
+ Thats strange O_O  
+For me:
+"The HTML5 player is currently used when possible."  
+There should be an option to switch on that page itself.  
+
+Also you could resort to some add-ons to force enable it incase things don't work 
+
+
+
+
+ Also this to true:
+media.fragmented-mp4.gmp.enabled 
+
+the youtube.com/html5 should use html5 as default player by now hopefully. You can right click and check stats on video's 
+
+
+
+
+ webM is still under-development.  
+Try keeping everything except webM enabled 
+
+
+
+
+ Strange that  
+
+
+
+
+ Set these to true
+
+media.mediasource.enabled  
+media.mediasource.format-reader.mp4  
+media.mediasource.mp4.enabled  
+media.fragmented-mp4.exposed  
+media.fragmented-mp4.ffmpeg.enabled 
+
+
+
+
+ I have everything except webM enabled on YouTube.com/html5  
+
+I'm happy with the adaptive streaming. 
+
+If you need some more control I think some add one works perfect, it's mentioned quite a lot here. You could search the previous posts. YouTube control center or something (development version).    
+
+
+
+
+ webM still under development, so you'll encounter into issue.  
+Best option is to leave webm false untile later. 
+
+
+
+
+ Ah thanks for that info, updated the bug to gtk3 since this affects wine and others too.   
+
+
+
+
+ filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 
+
+
+
+
+ filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 
+
+
+
+
+ Filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 
+
+
+
+
+ for me using a sennheiser HD202 on my laptop i was able to uncover the 320/Uncompressed from the 128 quite easily.  
+Differentiating between the 320 and uncompressed was a little more difficult since the instruments play in the background.   
+Tom's Diner was quite easy to pick out, there was an airiness and depth to the voice on the uncompressed version. 
+
+
+
+
+ yeah thats possible, a trail before a complete launch. 
+
+
+
+
+ Witness Me!   
+
+
+
+
+ Battery life is best addressed by installing the correct Graphic drivers of your Mac. Don't really know how it works. Google will definitely help.  
+
+In-case they have the hybrid tech like Optimus(Intel+Nvidia) i think you'll need to go for bumblebee. Be sure to read more on the internet!   
+
+
+
+
+ Get gnome-tweak-tools.  
+
+
+Don't forget the HTitle extension for Firefox if that's your browser choice.  
+Avoid the dark-theme mode in Fedora for some time.  Firefox is still improving on the gtk3 support. The light themes work fine! :)  
+
+Free advice- try getting used to gnome without changing it at first. You'll love it. Incase you don't go for the Gnome extensions to suit your needs.  
+
+And remember to improve the fonts with Freetype-freeworld package or Infinality.(Check prev. post's on /r/Fedora for more info)   
+
+
+
+
+ you've enabled Testtube feature https://www.youtube.com/testtube 
+
+
+
+
+ the end of Candy.  
+Other ones that hit me are The Great Gatsby and Seven Pounds endings 
+
+
+
+
+ on linux gtk3-dark is pretty nice. Could definitely use improvements though.  
+I wish i knew a way to put australis tabs on the dark dev theme. love the dark look it has. 
+
+
+
+
+ Happens to me on Linux if pipelight flash is enabled. Try disabling flash and loading the page.  
+On windows it mostly loads smooth for me.  
+
+
+
+
+ "lspci |grep -i VGA" single line output with only intel no worries.  
+Double-line output then bumblebee(if nvidia)   
+
+
+
+
+ Install the graphic driver if you have an nvidia or ati.  
+if you've got an intel+nvidia combo (optimus) install bumblebee.   
+ 
+
+
+
+
+ Where did you find this?   
+It seems more of a bug to me.  
+
+
+
+
+ kinda yes, mostly wine, but my "open with" list is flooded with krita :(  
+
+
+
+
+ voted on some of them :) 
+
+
+
+
+ Done it :) 
+
+
+
+
+ I tried to open a file with another app and noticed the same app repeating over and over again in the "Open With" Section.  
+Can be accessed by FilePropertiesOpen With 
+
+Edit: Filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 
+
+
+
+
+ Tabs that are selected have this white light gradient that is highly contrasting with the entire black/dark look.  
+Something in this shade would be much better for selected tabs - http://people.mozilla.org/~shorlander/private-browsing-mode/mockups/australis-pbm.png  
+
+
+
+
+ YAAAY! 
+
+
+
+
+  The obvious interpretation of 'Kids today' is usually a comparison to 'Kids of some other time'. 
+
+Hence the difference
+
+ I assumed it to mean a couple of things 
+
+"then things become unfair."
+ 
+
+
+
+
+  But you original line seemed to indicate that you think awareness has decreased.  
+
+Your interpretation. I never mentioned it decreased, just info not being spread as it should, so largely unchanged. 
+
+ You didn't answer my question at all.   
+
+O_O No thank you means - No.  
+So no to paying for a software just to type an essay in a paid software when i have a Free(in all its sense) software available that does exactly the same job.   
+
+
+
+
+  Orders of magnitude difference actually.
+
+There is a difference since curious people are on the internet researching/doing stuff. As a nationwide initiative, i feel it still needs more work.  
+
+ How much would you pay to type an essay in a word processor? 
+
+3000+ bucks for MS Office(1Year validity) and 10000+ for the OS? No thank you.   
+I can LibreOffice that export it to PDF/docx on Fedora for free.   
+ 
+
+
+
+
+  You seem to be more worried about price than freedom.
+
+I'm worried on both instance.  
+
+Kids today are hardly aware/taught that there are alternatives to proprietary software.  
+A notion that choice exists isn't being propagated.  
+Many are falling for marketing schemes. Its not just Microsoft.  
+eg. Look at Chrome and the way the marketed themselves on the road towards domination.  
+More people using an Android tied to Google than an untied version like CyanogenMod.  
+Win-Intel systems in schools when kids should also be exposed to Linux, Mac's, Raspberry Pi's and Aurdino's.   
+
+The illusion that it works makes it the best. Back in the old days you had to do some work to get things to work. Today not a bit. And its quite a knowledge black-hole when you don't know how things work in the background or the steps involved in making them work.   
+
+Also the beauty of free software, that you can view code, contribute to the project(Artwork/code etc.) and use it as well, makes it a much better source of practical programming and a robust source to gain knowledge.  
+
+On note of price - yes worried there too.  
+
+* A RaspPi's is much more affordable and does pretty well for general computing purpose.   
+* Open Hardware is the future as well.   
+* Free(cost) software means people can use apps/software without being hindered by money. Not all of us can afford the license cost to install a legal Windows copy, a cost to install MS Office, a cost to install Photoshop etc. on top of the cost required to buy the hardware.   
+
+Good things come at a good prices, some are worth the money! But if i end to empty my bank to type an essay in a word processor, then things become unfair.
+
+ 
+
+
+
+
+ I do. Been a linux/FOSS user for 15+ years :)  
+
+Got nothing against proprietary unless they sabotage standards, open formats and kill people's freedom. 
+
+
+
+
+ This needs to be in /r/Fedora   
+I was playing around with Nightly GTK3 and thought i completely 'TIFU' firefox gtk2 on my system XD  
+Totally surprised that F22 ships with GTK3 :D 
+
+
+
+
+ if you've got WebM enabled try disable that and see 
+
+
+
+
+ Everyone uses a Linux device directly or indirectly :P   
+Insert android/Internet xD 
+
+
+
+
+ Will take the example of school:   
+Being taught that Microsoft Office is the best and only tool that can do word processing etc. And that the competition is useless.   
+Children go home with the same mentality and are indirectly affected in buying paid software without being aware that there are amazing free alternatives like LibreOffice that do the same function at 0 cost.   
+
+
+Need to take a look at Europe who's encouraging Free Software growth and usage any where possible; especially in education and government adoption.  
+
+
+
+
+ True, but things like this shouldn't go unchecked.   
+Having to feed capitalism at every end of your computer needs is bad.   
+Competition should be fair.  
+
+
+
+
+ Not without money. No lobbying happens without money.   
+This article is more awareness than lobbying though.    
+
+
+
+
+ These settings are the best for me:
+$ xrdb -query
+
+Xft.dpi: 96  
+Xft.hinting: 1  
+Xft.hintstyle: hintslight  
+Xft.lcdfilter: lcddefault  
+Xft.antialias: 1  
+Xft.rgba: rgb  
+Xcursor.size: 24  
+ 
+
+
+
+
+ dangerous bijness for the future.   
+
+
+
+
+ it'll take time, Intel releases their version after quiet some time  
+
+
+
+
+
+
+
+
+
+ i think the problem is that liberation sans font is coming and overtaking all the proprietary fonts in the browser. The default liberation sans font has jagged edges.  
+Try changing the browser font settings instead of the system wide font settings 
+
+
+
+
+ Try freetype-freeworld or infinality for improving font rendering.  
+
+Chrome has comparatively bad font rendering for me. I use Firefox.   Perhaps you could check that out and see if it works out for you!   
+
+
+
+
+ True, Microsoft have mysteriously been trying to be nice to other OpenSource projects now.  
+hope it doesn't end up on the "embrace extend extinguish" plan 
+
+
+
+
+ GIMP is pretty okay, Try the old versions of blender! O_O   
+Love the new blender though :D 
+
+
+
+
+  despite
+
+KDE has changed the entire experience now.  
+i personally love GNOME.   
+Best thing ive ever used it terms of speed/productivity. Switching between widows with the mouse has never been easier. i hardly reach for Alt+tab.    
+Get hang of it for a hour and your good to go! 
+
+
+
+
+ yes but what if i need to work offline and not interested in making another account for online work?  
+I get a full office suite with this app on desktop without much hassles/cost  
+Still cant understand why MS would keep office away from Linux now, Libre is also coming out with an online version too.  
+ 
+
+
+
+
+ Linux was also being told off with this statement; suddenly the entire world uses it, directly or indirectly ;) 
+
+
+
+
+ agreed!  
+Corporate mentality comes to home as well 
+
+
+
+
+ you still have to pay for MS Office on desktop.   
+Libre is cross-platform ( for me a Linux user this is important)  
+Nothing is completely free with MS - only an illusion, strings attached somewhere or the other.  
+
+On another note:  
+It depends on a person's mentality, If he/she stands up for a brighter future then Open Source is better in the long run and more users means better development and contributors as well.   
+
+
+
+
+ Export is much better now that in the past.  
+At least with Writer and Word the export is pretty good!  
+I mostly export to PDF from LibreOffice and it serves better.  
+
+The problem is proprietary formats, if you don't want to be an open standard then it is time to move on. People need to realize the fact that they themselves are breeding the source of evil. 
+
+
+
+
+ They will mostly improve on it with time. They've recently updated the look on the desktop. Once things get the required pace, and look 'n feel update will come.   
+
+First priority is to get things running and a bug-free experience :) 
+
+
+
+
+
+
+
+
+
+ Method 1 : http://www.reddit.com/r/Fedora/comments/12jetj/you_dont_need_infinality_for_pretty_text/
+
+Method 2 : http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html 
+
+
+
+
+  had to Google around to figure out how to use GNOME Tweak Tool to make my fonts look better.
+
+Also Infinality for fonts if you dont like freetype-freeworld 
+
+
+
+
+ Use the browser in safe mode. Check if it occurs there. If it does not, an extension is your problem   
+
+Why hang onto Flash? Chrome, Firefox everyone is trying their best to kill it off. Chrome already enforces it on YouTube.   
+
+
+
+
+ Menu  options/preferences  advanced  general  uncheck use hardware acceleration  
+
+
+
+
+ try the disabling HWA only if the problem doesn't go away after the update 
+
+
+
+
+ try disable HWA and check.  
+Do update FF, lots of improvements have come in. 
+
+
+
+
+ update firefox and enable html5 at youtube.com/html5
+ 
+
+
+
+
+ Affordability. Usability. Need.  
+
+* I dont find the point in getting the high-end when a better high-end comes out the following year.  
+* If a mid-range can work and do all that i need then why bother with a high end?  
+* Plus all the high-ends have a huge price tag that makes it over-rated and inflated value.  
+* Probably the only good thing on a higher end device to me would be the camera, but if you can spend so much on one why not get a DSLR?   
+* Updates are still slow unless you are on a nexus.   
+
+Doesn't justify the cost for me personally.  
+
+Spending so much and getting outdated with a newer product in a years usage feels like a waste.   
+
+
+
+
+ 600MB is quite odd. i hope they check out the crash reports.  Hopefully you aren't using extensions.  
+I think lollipop might be better suited.   
+
+
+
+
+ Valhalla Awaits :D 
+
+Edit: 
+Tried it out and i love it! It works fine as well as the gtk2 version for me.  
+Looks pretty neat on Non-Dark GTK themes.   
+Few Issues:  
+ 
+* There are few readability issues on the Dark Theme versions(Numix; Adwaita) on GNOME like the drop down boxes on booking.com and initial loading of google.com shows the search bar as black before turning white.   
+
+* I wish we could get rid of the BIG FAT title bar, but HTitle add-on is quite the savior. 
+
+* And in "Get Add-ons" there is a big white space at the bottom
+
+* Amazon tab keep stopping and showing the spinner every second before it completely loads.  
+
+* Scroll bars disappears on booking.com drop down boxes while scrolling from bottom to top - Date; Month.  
+
+Typed the edit on gtk 3 :D  
+ 
+
+
+
+
+ for gmail i think it auto open them in new tabs, you'll have to normal click them 
+
+
+
+
+ You can right click and open in Private Window on Unity Ubuntu.  
+As far as GNOME based linux distro's are concerned, it does not seem possible.   
+I think it'll be addressed in the upcoming GNOME releases.  
+Not sure but do try out Gnome Shell extensions, there could be one for this purpose. 
+
+
+
+
+ Menu - Preferences - General - Uncheck "When I open a link in a new tab, switch to it immediately"  
+
+Use middle mouse button to open links in new tab or Ctrl+ left click on laptop ;) 
+
+
+
+
+ glad it worked out for you :)  
+i hoped it would work out, because i also experienced sudden closing of the browser before but im able to browser way better with recent than before. 
+
+
+
+
+ stable does support extension.  
+
+ It can't even render pinch zooms properly after five minutes, and crashed multiple times.
+
+Try reinstalling  
+If you have time do file a bug report 
+
+
+
+
+ I've been using FF beta on moto g Lollipop,  
+And seems fine, I browse for 20-30mins at a stretch and it doesn't randomly crash like before  
+
+
+
+
+ Use ublock, lighter extension  
+
+
+
+
+ Facebook app uses the built it WebView of Chrome on Android.  
+You can open links in external browser like Firefox by changing the app settings inside the facebook app :)  
+
+I hate both of them help each other track people x_x 
+
+
+
+
+ do you have WebM enabled in youtube.com/html5 ? If yes, then try disable it in about:config 
+
+
+
+
+ I am so sorry for your loss    
+I'm sure Kitten's blessings and love will follow you forever.    
+
+You sir are an awesome human being!  
+Thank you for sharing this story.  
+I hope good things and good times come to you!   
+
+
+
+
+ Yes! It should be on the affordable side though.  
+Low price and good specs can be achieved these days!  
+I wish Mozilla comes out with more mid-tier phones that function as good as the others if not better 
+
+Best strategy would he like Motorola 
+3 phone lines like the moto e, moto g and moto x 
+Everything shall work out good afterwards  
+
+
+
+
+ [new profile](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles)
+
+Edit:
+id suggest you update your graphic drivers(intel/nvidia) and then turn on HWA.
+HWA should speed up video performance 
+
+
+
+
+ That's surprising, I felt the opengl version to be much faster and smoother. Running into stability issues though with opengl 
+
+
+
+
+ i think yes, without it its Basic OMTC and with it you get OpenGL OMTC 
+
+
+
+
+ for google + privacy use [startpage](https://startpage.com/)  
+Its better to use different engines from time to time. On phone i avoid Chrome and use Firefox as well, unless there is a need for which i use Opera 
+
+EDIT - Check [Tor on Android](https://www.torproject.org/docs/android.html.en) - [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android hl=en) - you might like it but its slow, so patience  
+
+
+
+
+ Thank you so much for sharing this!   
+He fixed my lenovo laptop camera  
+ 
+
+
+
+
+ Get HTitle add-on!  
+Enjoy! ;) 
+
+
+
+
+ i think its an indicator of support. Actual implementation will come to linux later 
+
+
+
+
+ Whats your hardware specs?  
+Did you try creating a fresh profile? 
+
+
+
+
+ yeah i've read that, still seems confusing. 
+
+
+
+
+ That helps performance as a plus, i hope im right.  
+My laptop has hybrid graphics (Intel+Nvidia GT525M).
+I've gone ahead(experimenting) and installed libva-intel-driver, libva-utils, libva-vdpau-driver;  
+Any idea why it isn't installed as default?
+ 
+
+
+
+
+ Why isn't VAAPI   VDPAU packages installed by default on Intel hardware that supports it? Is it necessary to have them?   
+I've searched around but i find technical stuff, can someone help me understand if this'll help in a performance boost or so? 
+
+
+
+

@@ -1,0 +1,1104 @@
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+ Let her have cake. 
+
+
+
+
+
+
+
+
+
+ /r/KarmaStore 
+
+
+
+
+ I'll give permission for .01 BTC.
+
+Or one upvote. 
+
+
+
+
+ You can still see the $9999999999.99 price. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Come on, this is at least a .5 for Apple. 
+
+
+
+
+  Remember 2 years ago, when you used to hide behind the couch to poop in your diaper? Same thing.
+
+/r/nocontext 
+
+
+
+
+
+
+
+
+
+ Classified 
+
+
+
+
+ I picked up on exactly zero of these while reading it as a kid. So there's that. 
+
+
+
+
+ Then it would be a crime to release it. No comparison. 
+
+
+
+
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://www.reddit.com/r/ProgrammerHumor/comments/387vfo/0_bottles_of_beer/ 
+
+
+
+
+  If I offer you a deal and you don't accept it, why am I the piece of shit?
+
+Let's start over: in your view, is there anything a company can do legally that wouldn't be right? 
+
+
+
+
+  But if I offer you a deal and you think it's a fair deal, why am I the piece of shit?
+
+But they *don't* think it's a fair deal. That's why many are refusing. 
+
+
+
+
+ From http://taylorswift.tumblr.com/post/122071902085/to-apple-love-taylor
+
+Three months is a long time to go unpaid, and it is unfair to ask anyone to work for nothing.
+
+and
+
+We dont ask you for free iPhones. Please dont ask us to provide you with our music for no compensation.
+
+Where did anyone say they're being forced into this? 
+
+
+
+
+ And *didn't make a deal* with others, whose music will not be on Apple Music. 
+
+
+
+
+  There's no problem with the trial thing.
+
+Yes, I acknowledged the legality.
+
+To be clear, is it your claim that you should never complain about something a company does as long as it's legal?  
+
+
+
+
+ Your claim seems to be that anyone in business can do whatever they want. Sure, nobody's claiming that Apple acted illegally here (well, [maybe not](http://www.computerworld.com/article/2933342/technology-law-regulation/apple-and-music-labels-illegally-conspired-antitrust-probe-seeks-answers-itbwcw.html), but that's not this discussion). The claim is that Apple isn't acting properly, and artists are upset.
+
+If an artist doesn't like their contract, they should go solo.
+
+That's what Taylor did, and that's what a lot of artists who agree with her will do. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/nocontext  
+
+
+
+
+
+
+
+
+
+ No, someone who might pay for a song now won't for the next 3 months.
+
+And again, if Apple thinks that won't happen, let *them* take the risk, not push it onto the artists. 
+
+
+
+
+  The risk is that no record company will sign in with Apple.
+
+No, the risk being discussed here is that people sign up for the trial, but don't continue afterwards, and artists lose sales they would have had otherwise. If Apple pays during the trial, then Apple's taking that risk, while now Apple's insisting that artists take that risk on themselves. 
+
+
+
+
+ In the pouc, of course. 
+
+
+
+
+ If Apple believes that, let them cover the loss for the first 3 months. Apple wants all the potential without any of the risk. 
+
+
+
+
+ Permalink to homepage: https://archive.is/Q3dU6 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /r/nocontext 
+
+
+
+
+
+
+
+
+
+ [relevant SEC document](https://www.sec.gov/litigation/admin/2015/33-9809.pdf) 
+
+
+
+
+
+
+
+
+
+ Fine, so it's not a big problem that F2Pool switched, because attackers will still only succeed part of the time. 
+
+
+
+
+ Any miner is free to mine RBF, so unless you connect to all miners, you can't guarantee detection anyway. 
+
+
+
+
+ https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg08439.html
+
+Having said that... honestly, zeroconf is pretty broken already. Only
+with pretty heroic measures like connecting to a significant fraction of
+the Bitcoin network at once, as well as connecting to getblocktemplate
+supporting miners to figure out what transactions are being mined, are
+services having any hope of avoiding getting ripped off. For the average
+user their wallets do a terrible job of showing whether or not an
+unconfirmed transaction will go through. For example, Schildbach's
+Bitcoin wallet for Android has no code at all to detect double-spends
+until they get mined, and I've been able to trick it into showing
+completely invalid transactions. In fact, currently Bitcoin XT will
+relay invalid transactions that are doublepsends, and Schildbach's
+wallet displays them as valid, unconfirmed, payments. **It's really no
+surprise to me that nearly no-one in the Bitcoin ecosystem accepts
+unconfirmed transactions without some kind of protection that doesn't
+rely on first-seen-safe mempool behavior.** 
+
+
+
+
+ Yes, and links to a model of how that works, in which this snitch location sending-back is fine. 
+
+
+
+
+ I did.
+
+There's nothing about that model that would mean this couldn't work, and you aren't explaining why you think it would. 
+
+
+
+
+  in the model proposed in HPMOR, there are no multiple "loops." There is only a single self consistent reality. 
+
+If that was the case, how could any timeline ever be consistent? Sending stuff back creates things that weren't there the first time around.
+
+There aren't multiple loops in reality, but whatever creates reality must compute more than one loop.
+
+It makes no difference if the variables he is solving for are the password to a safe or x,y,z,t coordinates. it's the same thing.
+
+There isn't proof of impossibility inside HPMOR, and there's strong reasons to believe your model is incorrect, which you haven't addressed. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What about Native Americans? 
+
+
+
+
+ He did grant some refunds back in the day, as I understand. They were called "staking payments". 
+
+
+
+
+ Can you imagine Josh sticking around for over a year still making payments though? 
+
+
+
+
+
+
+
+
+
+  You can sue for anything but a law can only change through an act of legislator. It stays on the books even if it has no effect.
+
+I guess I misunderstood how that works.
+
+So laws that have been invalidated stay on the books?
+
+Edit: just looked this up, yeah, that's right. Wouldn't it still be relevant, just like it would be relevant if you found that a bunch of states still outlawed all abortions, though? 
+
+
+
+
+  based on what?
+
+Because you aren't brute forcing. On the "first" loop, he sends back a location+time. On the "second" loop, he goes to that location at that time. Let's say he fails, because somehow his actions caused it to move; the next loop he's even closer, and eventually is right by it.
+
+According to you, no time travel loops should ever be consistent, because you'll always create small perturbations. My point is that those are smoothed out. 
+
+
+
+
+  Police are taught Garner. It is the standard.
+
+Thanks, that's what I wanted to know.
+
+It could stay on the books, but it wouldn't have any effect.
+
+Could someone then sue to strike the law from the books?
+
+And is this story analogous to finding that a state had an abortion ban on the books? 
+
+
+
+
+ he is trying to determine the correct values for a set of variables (x,y,z position and time) with the intention to send back the correct solution only if it's found. It is exactly the same.
+
+Again, he does not need to test every value until getting the right ones; the "loop" probably ends within two rounds if not less.
+
+This is very different from Harry's brute force factoring algorithm.
+
+ it happens to dumbledore in addition to harry, where attempts to use time turners to get more information result in them just writing notes to themselves not to bother.
+
+Dumbledore wants the note and looks for it; he definitely didn't precommit to not write such a note.
+
+Harry's a bit more complicated, but he did in fact write the note, it was in his handwriting. He definitely wasn't in a state of mind where he would never write such a note. There's even been theories that he played a prank on himself with that note (these are a bit complicated, though).
+
+I see no reason why this couldn't be the same.
+
+Specifically, because the info he was passing back isn't supposed to be difficult to get. There are far fewer loops required for it to become consistent, which makes any "complexity reducer" less likely to kick in. 
+
+
+
+
+  You aren't understanding correctly. Garner v. Tennessee is law of the land and no law can be contrary to it.
+
+That's what I thought. What am I missing? In particular, what are police taught in such a state?
+
+Also, assuming these statutes were around when the Garner case was decided, why didn't that ruling automatically strike down those laws? 
+
+
+
+
+  You are brute forcing a solution with multiple iterations, which is what got us "DO NOT MESS WITH TIME."
+
+It's not brute force, just resolving perturbations. This happens elsewhere in HPMOR as well, and is well-established as possible. 
+
+
+
+
+  It's mostly intellectual wanking
+
+Welcome to /r/Futurology  
+
+
+
+
+ It's technically possible for him not to catch it, but not in a way that maintains a consistent timeline.
+
+If he tries to catch it at that time and it moves, for example, then he will need to send back a different message than the one he received, which makes that timeline inconsistent. 
+
+
+
+
+ you used terminology that is causal.
+
+It's sort of casual in the sense that it represents a deterministic universe model (neglecting QM). Some explanations will need to refer to the entire state of the universe, perhaps.
+
+if it's not causal (which eliezer actually explicitly states in the link you posted), can you reformulate your assertion without causal language?
+
+The (maybe)-possible worlds where Harry doesn't catch it are inconsistent, because in those worlds Harry sends back the info, but if he gets the info in the past, he does catch it. So there is no consistent world where he doesn't catch it, therefore he catches it.
+
+I've also not seen an answer to the idea that he just sends back a message that cedric caught the snitch, or no message. these could be self-consistent realities.
+
+He precommitted to send back a message with the location and time of the catching regardless of what happened, so those are not possible-worlds. 
+
+
+
+
+ Yes, but some of these state laws are direct contradictions of the Garner ruling, if I'm understanding correctly. 
+
+
+
+
+
+
+
+
+
+ That doesn't help me understand. What are police actually taught? 
+
+
+
+
+ The trolley dilemma has a rational solution. The trolley dilemma is removed as soon as sentiment is removed from it.
+
+You have yet to support this. I'd like to hear your resolution of the is-ought problem.
+
+My claim is that selfishness isn't rational is from the perspective that selfishness may achieve your short term goals, but from a long term perspective it is a losing strategy.
+
+In that case, you agree selfishness (as I use it) is rational, you just misunderstand what is meant by selfishness. Of course you also optimise long-term.
+
+That said, even short-term selfishness can be rational; if someone only cares about the short-term, who are you to doubt their preferences?
+
+We have not established a set of goals here... lets say the goal is to minimize your personal odds of harm.
+
+That's definitely a selfish goals, let's take it for now.
+
+ While having self-driving cars protect their owner seems like the choice that achieves that, the opposite is true. Assume the programming comes from the manufacturer and every car gets the same programming (because for something like this that will simply be true). Now, the odds of this situation coming up in your lifetime are incredibly small, but the odds of you being the driver in this situation are even smaller, but orders of magnitude. Therefore when taken on a lifetime basis the choice that causes the least loss of life is also the choice that is least likely to kill you personally.
+
+However, as long as cars are user modifiable, each person still has an incentive to change their own car. It's a large PD.
+
+
+There's also a larger problem with your philosophy; if you were in the car making the decision real-time (this may not be practical, but it's a thought experiment), would you choose suicide to save other people? If the answer is no, then why should you accept a car that makes that same choice for you?
+
+Your answer is probably going to be that you benefit from everyone else doing so as well. But it's not rational to cooperate in every PD, and this scenario lacks the qualities that enable cooperation. 
+
+
+
+
+  it implies causality between different universes.
+
+No, it doesn't.
+
+It's rather simple to lay out a consistent model here; that you can't see one is just evidence that you haven't thought enough about it.
+
+See http://lesswrong.com/lw/fok/causal_universes/, and his comment [there](http://lesswrong.com/lw/fok/causal_universes/7wum) for some more links.
+
+We'll see if you have any problems with the logical system defined there. 
+
+
+
+
+ It's not evidence of *police* discrimination, or of discrimination now. 
+
+
+
+
+  Is there a site on the internet where people actually discuss opposing points of view in an intelligent way?
+
+There are many, you just need to look. It depends on what you want to discuss. Even many subs can have those kinds of discussions, mainly the smaller ones.
+
+There's been a site started recently with that explicit goal you might want to check out: http://www.omnilibrium.com/ 
+
+
+
+
+ Which drafter had a time machine? 
+
+
+
+
+ Are police taught based on this case, or based on their local statute, which explicitly says otherwise?
+
+For that matter, shouldn't local statutes that are contradicted by the Supreme Court be automatically struck down? 
+
+
+
+
+  how so? he found the solution because he had the information.
+
+Regardless of who wins, Harry will know when and where it was caught.
+
+So are you suggesting it's possible he could send back the message "Cedric finds the snitch"?
+
+No, the person who caught it isn't part of the message. In that case, he'd send back just the location and time, just like if he had caught it. However, that makes the cases where he doesn't catch it inconsistent, so it doesn't happen.
+
+I don't need to be, because time turners are impossible, and the rules are not defined, even within the world.
+
+The rules aren't rigorously defined, but there are enough bounds mentioned to extend the idea to certain other scenarios such as this one.
+
+it's 100% conjecture about something that does not and cannot possibly exist.
+
+You'll need to defend this idea; while I'd agree that in our world it's likely that time travel is impossible, the further claim that it cannot exist in any world seems hard to defend. I doubt you could even prove it's impossible given the laws of physics we know; as far as I know there is no consensus among physicists that wormholes cannot exist.
+
+Do you deny that there are mathematically consistent models of time-travel, some of which make HPMOR consistent?
+
+Once you're dismissing models because they aren't real, why read any fiction? Definitely fantasy, which isn't possible, but even other books are not true, and in the sense you seem to use the term, not possible. 
+
+
+
+
+ That's really not that hard to mask. For one, what happens when you set up OB through Tor? It fails somehow, or blocks Tor IPs? 
+
+
+
+
+ Are you trying to get fee free sales or many sales?
+
+eBay charges a high fee, but they also provide a lot of exposure. What makes you think OB will do the same?
+
+Plus, craigslist does have international sites. 
+
+
+
+
+  I'm pretty sure the human brain isn't very good at understanding these "mechanics", if they can be called that at all.
+
+You aren't inside my head, and that's quite presumptuous. If you claimed to understand yourself and thought my ideas contradicted the True Understanding, then you might have a point, but to claim it's not understandable at all because you don't understand is wrong.
+
+HPMOR doesn't actually define the rules of time turners very explicitly, since they are impossible.
+
+It's not defined explicitly; I've speculated at length in this sub on what those mechanics are given the things we do know. If you're interestested I can dig up the links.
+
+As to why I think this specific case is implausible even within the loosely defined terms of the world, it is basically the same as the math search problem; actually, it's worse. The math problem had discrete solutions and a clear algorithm to solve it. If you treat the snitch as a set of variables (position, time, velocity), and let go of the intuition that this "seems normal" from a human perspective, you can see the "snitch finding algorithm" should run into the same problem as the math puzzle. It is attempting to brute force a search via temporal iterations.
+
+There's a big difference; the math algorithm is designed as a brute force algorithm. The snitch isn't.
+
+The equivalent in math would be "check if the numbers are the correct factors, if yes, send them back, if not, find the actual factors by asking whoever multiplied them or using a calculator, then send those numbers back". That only requires one "loop", and in my model it works.
+
+In this case as well, he's not brute-forcing the search space, he's finding out the solution at the end of the loop through non-time-related methods, then sending that back, perfectly consistent with other time travel examples in HPMOR.
+
+if you need to think about it intuitively, consider that the case where harry DOESN'T get the snitch first is more probable, so he doesn't bother sending back a message at all.
+
+Harry resolves to send back the position of the Snitch regardless of who gets it. That makes your example inconsistent.
+
+The time turner should optimize for path of least resistance
+
+It's more complicated than that, and HPMOR doesn't actually say what we're optimising for, so there's some ambiguity there. 
+
+
+
+
+
+
+
+
+
+ As promised:
+
+1. We're talking about modifying your own car, not others. You have a point that it's similar to a PD, although it's not a perfect analogy, because there will be people who are never on the other side, who only drive. It's a lot more complicated than PD, more like many repeated half-PDs with different people.
+2. I addressed this in the other reply.
+3. Your claim is that selfishness is not rational, and your justification seems to be that it hurts other people. You then try to say it hurts yourself also, but then it wouldn't be true selfishness. Could you define rational in whatever sense you're using it that makes selfishness irrational?
+4. Goals are not "objective", that's meaningless. Please explain what you mean. 
+
+
+
+
+  that idiot will be busted in 24 hrs or less.
+
+How so? Has OB had some technical breakthrough that allows for forced deanonymization on a decentralized platform? If not, how can you prevent people from selling whatever they want?   
+
+
+
+
+ If the company was called TS1 at the time instead of Pixar, yes. 
+
+
+
+
+ That actually doesn't address my point at all. You can sell on craigslist and accept bitcoin with no fees, so openbazaar isn't helping you as far as I can see if you were going to sell on ebay. 
+
+
+
+
+ I've thought about time travel a lot, including specifically in HPMOR.
+
+Why wouldn't this work given the HPMOR mechanics? 
+
+
+
+
+ Funding a company that makes a single product can reasonably be called funding that product. 
+
+
+
+
+ I'll try to address your other points later, but as for 2, how do you get around the is-ought problem and assert specific ethical injunctions? 
+
+
+
+
+ 1. It seems pretty clear that using a car that was exactly like the standard autonomous car but optimises for the owners' health in such situations is better for that owner. How is that irrational?
+2. Do you feel either side of the trolley dilemma is irrational, and if so, why?
+3. Your last point seems to imply that selfishness is what causes the problem; however, selfishness is a preference, and can't be irrational by itself unless you're using a nonstandard definition.
+4. What part of the arguments here do you consider unobjective? 
+
+
+
+
+ Have you been reading the prequels? 
+
+
+
+
+ For one; when WMDs are sold anonymously online, will we be better off? 
+
+
+
+
+ If AI don't specifically like us, they won't need these technologies to destroy us.
+
+That doesn't make the other points invalid though. 
+
+
+
+
+ There were six listed in the government's sentencing submission. That's just the ones they could prove likely came from SR (one was discovered dead with their browser open to SR, and a tracking number within belonging to a drug package nearby). 
+
+
+
+
+ The claims in there of safety are speculation, not data based. Read it yourself please. 
+
+
+
+
+ The government introduced evidence of six deaths. 
+
+
+
+
+ When you have VCs funding these noncompanies, it can get confusing. 
+
+
+
+
+ That's not a fair analogy; the benefit from internet communication is orders of magnitudes greater than the potential loss from terrorist use. It's nonobvious to say the least that the same is true of decentralized marketplaces. We all know that illicit sales will be a significant portion of what takes place, far more than the portion of internet communication that is illicit. 
+
+
+
+
+ So 
+
+Is anything written there untrue?
+
+i do think that any AI worthy of being a threat won't need Openbazaar to be dangerous, but the other points seem valid if true. 
+
+
+
+
+ Leonard! Stephen Hawking said something that I didn't understand! 
+
+
+
+
+ If you read the actual articles, they say it affects anyone without solar panels, such as the poor and people in apartments. They also mention that those are disproportionately minorities, but it's not the main point.  
+
+
+
+
+ The argument seems to be that the money given for solar panels is more than what the utility makes from the energy, and so they must raise prices for those without panels, who end up paying more than they should. 
+
+
+
+
+ He knows where it was found and when it was found, and sends both facts back. Pretty simple. 
+
+
+
+
+ Only ten to try, brb 
+
+
+
+
+ Point out to your friends that even though individual votes may not matter, posting on social media may convince many people not to vote, which will matter more.
+
+So they should stfu online. 
+
+
+
+
+  I also don't think the question is valid.
+
+From your next part it sounds like you think the answer is simple. But that doesn't imply the question is invalid.
+
+Always minimize loss of life.  If you have to choose one life over another choose the one with least property damage. If both are equal in all respects (probably will never happen) choose the driver.
+
+That implies killing the least number of people if possible, which is one possible answer. However, note that the driver might not like this, and might not want such a car.
+
+There are ethical problems with designing features that only hurt the owner.
+
+It's definitely not as simple as you make it out to be, there's also the many people who don't think we should kill one person in the trolley problem and so on. 
+
+
+
+
+ It assumes a level of knowledge that isn't practically possible. If I was designing a system I would design it to minimize harm as well as it could, with no life having priority over any other
+
+How is that possible? If it comes to such a situation as described, what does it actually do?
+
+Or are you claiming that design decisions will never need to take into account these kinds of situations? Isn't it better to decide them now rather than depend on some system that you feel shouldn't be answering these questions anyway?
+
+That is, unless you think a autonomous car will somehow never have enough data to decide that it's in a situation with tradeoffs, anyone designing a car needs to decide which tradeoff to take.
+
+It's also been posted at least three times already this week. 
+
+I didn't see this link before. 
+
+
+
+
+ We know from canon that Felix Felicis is banned, surely time-turners are as well (and presumably there are detection techniques). 
+
+
+
+
+ Even had he not found the snitch, he'd know where it was. Doesn't seem to be a problem. 
+
+
+
+
+ but like parchment versus rock, the game was a foregone conclusion: the parchment would have a rock shaped hole through it.
+
+I have a love-hate relationship with these cultural vignettes.
+
+Also typo:
+
+Harry was between Cedric the Hufflepuff goalposts 
+
+
+
+
+ So why don't other countries have this problem? 
+
+
+
+
+ * changed some stuff
+* fixed the problem
+* more stuff
+* commit
+* another commit
+
+Here are some from an actual repo I've got:
+
+* did time stuff
+* Various changes which should be split eventually
+* Changed *project*
+* Changed some things for *project*
+ 
+
+
+
+
+ What is this sub? 
+
+
+
+
+ https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines 
+
+
+
+
+ I hope you never work on designing such systems, then. 
+
+
+
+
+ Yeah. 
+
+
+
+
+ What about when you include the "Jack and his team" part? 
+
+
+
+
+ I didn't read it, just going off the description of
+
+With enemies coming and doomsday rapidly approaching, Jack and his team had better move fast.
+
+A superficial similarity, but still ... 
+
+
+
+
+
+
+
+
+
+ Yes, the world is less competent than you thought when you were 5.
+
+The elites are still pretty damn competent. 
+
+
+
+
+ No fees for sending to friends from a bank account. 
+
+
+
+
+ This just eliminates a handful of clicks. In theory a userscript or extension could have done this for someone who wanted.
+
+Instead of having to buy bitcoin then send it, you can do it in one step. Plus a feature they already had for merchants is now available for others. (And it's not like other companies didn't already offer autoselling.) Big deal. 
+
+
+
+
+ Anything for me? 
+
+
+
+
+ You're the Illuminati, got it 
+
+
+
+
+ Plot twist: he's not your father. 
+
+
+
+
+ What incentive do the elites have to act while the robots are obsoleting the non-elites? 
+
+
+
+
+ [Yes?](http://www.reactiongifs.com/wp-content/uploads/2013/01/new.gif) 
+
+
+
+
+  It means the aggregator will not be liable for the actions of those whose content they display. Full stop.
+
+That is wrong.
+
+http://legal-dictionary.thefreedictionary.com/indemnify
+
+To compensate for loss or damage; to provide security for financial reimbursement to an individual in case of a specified loss incurred by the person. 
+
+
+
+
+ That's not what indemnify means, or at least not the only meaning. 
+
+
+
+
+  Indemnity is already true from a legal standpoint for search engine/aggregators (Google News for example)
+
+Source? Where was someone found liable to Google to pay legal expenses?
+
+This guy seems to be under the mistaken impression that Apple is granting themselves further protections under the law than what already exists.
+
+It's pretty clear that the terms aren't legally enforceable because he didn't agree to them; Apple pretty much implies that they are taking them as agreed to.
+
+I mean, how do you read
+
+When your RSS content is included in News, here are the terms that will apply:
+
+, knowing that they are including your content by default, and not interpret that as Apple claiming something they shouldn't be? Terms are generally understood as creating new legal obligations. 
+
+
+
+
+ The question is whether to prioritize your own life over others. 
+
+
+
+
+  Do you think we will have a worldwide nuclear war in the next 20 years?
+
+Unwilling to say. There are strong reasons to think either way, and I don't feel qualified to speculate.
+
+This does bring up the discussion of international political economy response to a country developing stuff other countries dont like  which meets your second question. Typically this is met with sanctions then war.
+
+That only works if the other countries are more powerful. If one country develops robots first, I doubt the world is competent enough to ban them worldwide. 
+
+
+
+
+ That's a false dictotomy; you can have too little control to stop but enough to choose between options. 
+
+
+
+
+  To make the jump from where we are to the robot replacement ignores hundreds of thousands of steps that provide feedback and allow for course correction or organized activism to affect the outcome that, if the system of political economy is working, (whether or not it is working to my or your satisfaction currently is not relevant) should stop it from happening.
+
+How can you stop that? Would you support a ban on robots?
+
+Give details, please.
+
+To take your third point specifically, when enough people are affected they will do something about it. Conflict is as much a part of economics as money or anything else. It is a way people respond to the distribution of scarce resources.
+
+That has historically failed far too many times for me to feel safe.
+
+The problem with the current state of income inequality is that, save the very poorest people, most people have a standard of living that was unimaginable even 30 years ago. 
+
+Define "most people". If you mean 50% of humans on this planet, that is *not* obvious, and needs to be argued for.
+
+People (I am talking about in the US here) are not changing things because for the vast majority of them, life aint really that bad.
+
+Agreed, although I think the majority is less than vast.
+
+Switch over to your example  and lets just say we are half way to your extreme example where people are being replace at a relatively high rate and unable to find gainful employment  the picture changes at that point and the people organize to get their interests and needs heard and met.
+
+And how do these 50% of humans, say, who can't do anything better than robots, "organize to get their needs met"? Who has an incentive to meet their needs?
+
+I like [this quote](http://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+
+Once a robot can do everything an IQ 80 human can do, only better and cheaper, there will be no reason to employ IQ 80 humans. Once a robot can do everything an IQ 120 human can do, only better and cheaper, there will be no reason to employ IQ 120 humans. Once a robot can do everything an IQ 180 human can do, only better and cheaper, there will be no reason to employ humans at all, in the vanishingly unlikely scenario that there are any left by that point.
+
+How exactly will people mobilize to prevent that? 
+
+
+
+
+  The company that is building and programing robots in the near term I would imagine. Or are you talking robots buildin robots?
+
+Well, yes. If a robot can do anything you can, there's no reason the company still hires you as opposed to a robot.
+
+Theoretically, the leisure class will have arrived (if the human race was rational) and people would be involved in the production and programming
+
+But we've stipulated that robots are better than humans; why have a human produce and program when a robot can do it more efficiently?
+
+or just share in the resources our new robot overlords provided and chillax.
+
+HAHAHAHAHAHAHA. Excuse me, have you seen what happens to actual modern day societies when there are extra resources? They don't end up trickling down too much. If we can't solve poverty for people nowdays, what makes you think we'll succeed when humans are superfluous?
+
+ In reality  because most people dont like to share - most likely wars and unrest on an unimaginable scale until a new normal is established due to the economic disparity between the haves and have-nots.
+
+It looks you like you do get it; so why your argument above that this is natural (and implicitly safe)? 
+
+
+
+
+ The fact that the people lobbying are in the zinc industry doesn't mean the only argument for keeping the penny is that it saves jobs.
+
+Even if there were strong arguments unrelated to saving jobs, you'd still expect the ones to care about it most would be the ones who make money from it. 
+
+
+
+
+ When I can buy a robot that can do literally everything you can do but for less, who is going to hire you?
+
+Previous "industrial progress" didn't completely replace humans because they couldn't do some things humans could.
+
+General AI would be able to. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There seems to be some sort of entitlement that users in here can dictate exactly what services provide them.
+
+The other extreme is not allowing any user complaints. Your logic would say that no one can ever complain about anything a company did, with the possible exception of actually illegal actions.
+
+ I think some people need a refresher, that if an organization is providing a service, and you do not follow the rules, there is a good chance they will not serve you.
+
+Which rules? Their terms do not mention any restrictions on email.
+
+If you would prefer to work by your own rules, you are free to create your own platform.
+
+Would you say the same to someone complaining about Paypal's policies? Obviously nobody is forcing me to use circle, but why is complaining illegitimate?
+
+Would you say the same to someone complaining about Coinbase closing accounts that donated to Gwern?
+
+I would imagine there is a reason behind this, perhaps overlapping from the promotions when they were handing out free Bitcoin for accounts.
+
+I've been ID verified and got no bonus, so that doesn't apply.
+
+If you don't want to, I don't really see a reasonable explanation why Circles policies should adjust for your individual case...
+
+If they want to disallow some emails, they should at least tell me on signup, or make the policy change public. 
+
+
+
+
+ Some of us have seen way too many poorly done studies to trust like that.
+
+When over half of studies fail to replicate, that's not an unreasonable attitude to have towards a single study. When there are multiple studies, meta-studies, etc, then we can put a bit more trust. 
+
+
+
+
+ It's never *easy* to shift someone's beliefs, especially parents. 
+
+
+
+
+ He explicitly says he's fine with that part; it's indemnifying Apple he's got a problem with. 
+
+
+
+
+ There's also phone verification sometimes, coming up with names, captcha, etc, it realistically won't only take two minutes.
+
+Besides, it's the principle of the matter. Don't want to let banning privacy emails become acceptable. 
+
+
+
+
+ It also says it's had problems replicating. So there's that. 
+
+
+
+
+ Isn't that equally explained by parents knowing their kids better than someone just looking at grades? 
+
+
+
+
+ Can't tell you where to sign up; I *can* recommend frequenting /r/hacking and /r/howtohack, and Hacker News.
+
+That link is where the bitstamp hack funds were sent to. 
+
+
+
+
+ Why submit them, when you could [vanish with the funds](https://blockchain.info/address/1L2JsXHPMYuAa9ugvHGLwkdstCPUDemNCf)? 
+
+
+
+
+ Circle verifies ID, there's no reason they should have a problem with the email. 
+
+
+
+
+ Thanks.
+
+So cards without cashout to cash I can ignore?
+
+ 
+
+
+
+
+ And that takes how long? And to do this for each site you want to sign up for?
+
+There are legitimate reasons I use opayq, and switching to gmail would take so much longer. 
+
+
+
+
+ So, 24 times as long as opayq.
+
+Plus you need to check it, whereas opayq forwards all emails to your main. 
+
+
+
+
+ I don't plan to travel at all, I'm only interested in churning for cash.
+
+Does that mean I can completely disregard all miles/hotels/airlines cards, or are those sometimes useful even for non-travelers? 
+
+
+
+
+ blur is easier.
+
+How long does it take to open a gmail account? Compared to 5 seconds for a new opayq email. 
+
+
+
+

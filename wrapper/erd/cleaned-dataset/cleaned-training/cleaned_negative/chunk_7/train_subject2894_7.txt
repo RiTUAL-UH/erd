@@ -1,0 +1,68 @@
+ yeah 14.04, think I'll give 15.04 a shot, I was actually going to get 15.04 at first, but ironically chosen 14.04 so I could avoid the bugs...  
+
+
+
+
+ But I don't like the NSA and all the third party anti privacy backdoor stuff that comes with it :( 
+
+
+
+
+ Computer is all new. I've got to reinstall the whole thing now, simply because I can't login or open terminal, which means getting the ethernet cable out and going through all that pain again. All I wanted to do was install Ubuntu. I'll try again probably tomorrow... thanks for the tip! :P 
+
+
+
+
+ I've ran it in a Virtualbox with no problems. 
+
+But dual booting it, it seemed to want to throw everything that could possibly go wrong at me.
+
+Totally broken the OS now, like straight up broke it. Can't login, can't open terminal cos it goes black when I do. Fml. 
+
+
+
+
+ The usb wasn't bad, it was another usb (LEDS.... some freakin lights....) that was causing the issue. Ubuntu thought the CPU had died...
+
+Nvidia GTX 980, went onto the additional drivers menu, chose one of them (xorg), broke everything, selected another (532), partly works but buggy as hell. 
+
+
+
+
+ A nightmare.
+
+* - Spent 2 hours figuring out why it wouldn't boot the installer, it was caused by another usb.
+* - Spent another 2 hours trying to connect to the internet, I used an ethernet cable in the end to get the drivers needed for the adapter to work (WHY THE FUCK WEREN'T THEY FUCKIN INCLUDED IN INSTALLATION?!?! WTF GOOD LOGIC.)
+* - The wifi adapter kept going on and off, I fixed it finally though, somehow after half a day.
+* - Spent over 3 hours trying to get the freakin video drivers to work, I'm running on a GTX 980.
+* - Installed video drivers, buggy as fuck. Tried fixing the bugginess, broke the operating system.
+* - There is no logical method of finding out what video drivers you need.
+* - Couldn't login, would go black and return to the login screen. Opened the terminal and fix it that way.
+* - Ran some updates. Broke it again.
+* - Tried to login again, same thing as before.
+* - Me being super wise thought I'd just put the backup I made in earlier. There's no option to do so via recovery.
+* - Thought I'd repair broken packages in recovery, did literally nothing. Like enter ubuntu is now afk
+* - Currently uninstalling this disease.
+
+
+And they call this Linux with learning wheels?
+
+Rating: 2/10. Very shiny. Requires a degree in space rocket launch sequences to get it simply in a running state. (And this is all using fairly popular hardware...)
+
+Going to go cry in a corner now.
+
+Edit: Installed 15.04 instead of 14.04. Installed flawlessly. Maybe there's hope? :O 
+
+
+
+
+ ***EVERYTHING!!!*** 
+
+
+
+
+
+
+
+
+

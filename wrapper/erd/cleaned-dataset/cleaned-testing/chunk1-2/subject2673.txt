@@ -1,0 +1,340 @@
+ Funny ~~re~~post bro 
+
+
+
+
+ Sad to see the comments section has devolved into a java rocks vs java sucks war. As an intermediate level programmer using Android, I got something out of it. He makes some valid points regarding for each loops which require the use of iterator() and Iterators, which can necessitate more GC when used for long lists. The use of static methods also helps when you don't need to access any instance variables. Google's Developer section also points these things out and more in their documentation article about increasing performance: [Link](http://developer.android.com/guide/practices/performance.html) 
+
+
+
+
+
+
+
+
+
+ the build up was what made it so good too haha. 
+
+
+
+
+ sick flow and very lyrical for his age. the thing is he has room for improvement too
+
+a newer track from OF with him in it (his verse starts at 7:05): http://www.youtube.com/watch?v=fzi24Nssiow 
+
+
+
+
+ Are you referring to Android's "Dalvik" JVM? 
+
+
+
+
+ ah yes. Handles! 
+
+
+
+
+ freakin upvote people! 
+
+
+
+
+ Extreme chunk error is extreme... am I wrong or can people reproduce this with the same seed? Just curious. 
+
+
+
+
+ You can't help but facepalm.jpg 
+
+
+
+
+ Is this a Nas instrumental? (hope I'm not embarrassing myself lol) 
+
+
+
+
+ great mix man make #3 i will listen! 
+
+
+
+
+ Here's the release schedule for those who don't feel like searching:
+
+M7  Friday, May 11
+RC1 Friday, May 25
+RC2 Friday, June 01
+RC3 Friday, June 08
+RC4 Friday, June 15
+Quiet time, June 16 to June 27
+ (no builds during "quiet time", assumed all code is done by end of RC4)
+Release Wednesday, June 27, 2012 
+
+
+
+
+ All pretty valid points, thanks for clearing that up. 
+
+
+
+
+ I'm a fan of Hopsin. I think he's pretty lyrical. However, the verse about Obama on Nocturnal Rainbows is extremely ignorant if that's what he actually believes. He mentions the Illuminati as if they actually exist... 
+
+
+
+
+ 8/10 i like your breasts and your smile 
+
+
+
+
+ ill 
+
+
+
+
+ yeahhhhh 9/10 i like ur hair :D 
+
+
+
+
+ 7/10 I suggest changing your hair color to something other than red and growing your hair out. you will look really good that way. 
+
+
+
+
+ You look really good with straight hair :D 
+
+
+
+
+ 5/10 need more makeup and dress better plz 
+
+
+
+
+ Last pic 0_0  10/10 would bang 
+
+
+
+
+ wow you are really pretty and skinny. try straightening your hair. 8/10 
+
+
+
+
+ nice legs and skin 8/10 
+
+
+
+
+ really sexy 9/10 
+
+
+
+
+ Linux Kernel 3.2 hypeeee put ur hands up!!! 
+
+
+
+
+ Nas still got it 
+
+
+
+
+ sick 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ lol boke 
+
+
+
+
+ at a [0] in psych lecture 
+
+
+
+
+ I know that feel bro, uptoked all the way :) 
+
+
+
+
+ Use a different operating system... 
+
+
+
+
+ obviously... 
+
+
+
+
+
+
+
+
+
+ I wish more people like you were more involved in bug reports for all kinds of software. 
+
+
+
+
+ ...Sarcasm? 
+
+
+
+
+ I am very experienced with Java, and willing to help! Is there a public repository that I can pull from or does one need to be granted push/pull permissions?
+
+edit: Never mind, I found the GitHub repo and downloaded the source code. Still looking for the bug list.  
+edit 2: Found the bug list. Currently familiarizing myself with the codebase. My username on GitHub is test_subject2673.  
+edit 3: Working on [#BUKKIT-2181](https://bukkit.atlassian.net/browse/BUKKIT-2181) found the problem in code, will try to fix tomorrow.  
+edit 4: Working with undocumented code takes a lot longer, there are hundreds of undocumented functions named a() or b(). Doing the best I can though.  
+edit 5: BUKKIT-2181 seems to be a server-side issue that can only be fixed with a client side mod  
+edit 6: Commented on [BUKKIT-2193](https://bukkit.atlassian.net/browse/BUKKIT-2193) with a possible fix.  
+edit 7: after reading through some of the emails I got after signing up for the github notifications, the sheer amount of complaining is staggering 
+
+
+
+
+ Also if anyone plans on responding, I would appreciate a technical explanation, not a scrub explanation. 
+
+
+
+
+ Back it up and keep it down until a fix is found... Is there any way of detecting client side mods? How do the nocheat and nocheat+ multiplayer server options work? 
+
+
+
+
+ This just happened to me 5 minutes ago... I feel like a complete idiot. Same guy too! 
+
+
+
+
+ I don't have the pair of menus like that on my LXpanel, so I guess the changes won't be affecting me. Thanks for the great explanation :) 
+
+
+
+
+ Sorry if this is a nooby question, but I run Lubuntu 12.04 (basically ubuntu with LXDE instead of GNOME) and I was wondering if this change would affect Lubuntu 12.10 as well. 
+
+
+
+
+ Ahh didn't notice the interface part. Thanks for pointing that out. 
+
+
+
+
+ the palmer squares need to go on tour 
+
+
+
+
+ Just checked the Java 7 docs as well, was disappointed to see it still there. 
+
+
+
+
+ there is (sort of): /r/badcode 
+
+
+
+
+ You're absolutely right about the attitude part. However, the user shouldn't have to choose between familiar/functional interfaces and security (not sure why you called it abstract, do you mean that users aren't aware of how vulnerabilities work?). I use Nightly Linux x86 and first thing I do in the morning is update it, then get on with browsing. If there are multiple updates in one day and it pops up to notify me, I simply press restart to update, wait a WHOLE 5 SECONDS and carry on with my business. Firefox even saves all your tabs for you while you update, so I suppose the point I'm trying to make is why are people so angry about quick updates? My best guess is that the vast majority of users have no idea about major exploits and the consequences of running unpatched software. Feel free to let me know if I'm going in the wrong direction with this though, because what I feel it really boils down to is patience. 
+
+
+
+
+ "But I WANT zero-day exploits in my browser! WAAAHHHH WE NEED MORE UNPATCHED REMOTE CODE EXECUTION EXPLOITS!" That's all I hear when people complain to me about browser updates. 
+
+
+
+
+ Came into this topic expecting propositions of new logos and being able to feast my eyes upon new potential candidates... 
+
+
+
+
+ Platform fragmentation makes it hard to support a large range of devices when developing apps. As an Android app developer, I understand the struggle of maintaining compatibility with older platforms when newer versions of an app can have API-specific dependencies, and therefore hold nothing against Google in the way they've made Chrome available on Android.
+EDIT: I'm a Firefox user though. Where is my file menu Chrome? I'm still waiting for that option. 
+
+
+
+
+ AMD procs implement the x86 instruction set in a different way as well, not sure if that makes a difference though. 
+
+
+
+
+ Great read. I was surprised most by the 1 in 190 initial failure rate of CPUs being higher than the 1 in 270 initial failure rate of hard drives. Did anyone else find that odd? 
+
+
+
+
+ Serious question: What kind of companies rent that much compute power for 87k an hour (if i read the post correctly)? 
+
+
+
+
+ Very informative! Malware authors sure are a peculiar bunch... 
+
+
+
+
+ I love the way you shifted it to minor instead of major (that Rocket Man is in). Great song! 
+
+
+
+
+ You're right, it was a pretty bad generalization. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

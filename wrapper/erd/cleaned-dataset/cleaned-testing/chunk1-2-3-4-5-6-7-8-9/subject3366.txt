@@ -1,0 +1,8324 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://www.youtube.com/watch?v=vH3-Gt7mgyM
+
+BBC series 4 (final series) of Blackadder, set in WW1. Hilarious show, dark end. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.mvps.org/links.html 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Bitcoin and credit card payment buttons work fine, PayPal button does nothing. Friend who was going to buy creddits to distribute mentioned, and it appears so. So she didn't bother. Until working, should hide the button, or stick a note on there explaining outage. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Can we duplicate the reddit search field within a subreddit, but as an exclusionary search to act as a filter? Functionality would be equivalent of using regular search field with eg. "*subreddit:technology -comcast*", minus the subreddit specification because inside it and add a "-" in front of search to create a filter. This leaves it purely optional user choice, and allows for a tailoring of user experience within subreddits.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+* Didn't even look, but you can't just post text of a URL.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ M'momma
+
+***WEEPS GOD AND LOVE!!! 3 3 3 #NoMoreFap*** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I was gonna take drugs in the late 80s, but then I saw this and thought, 'What am I, a *loser*?' and so I didn't. 
+
+
+
+
+ [relevant pussy gif](https://i.imgur.com/5fPpT.gif) 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This is from April last year and has been posted ad nauseum.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Gandalf was not a drinker..all about dat pipeweed.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Pretty sure I've seen videos as to how this played out.
+ 
+
+
+
+
+ Note Sauron was without the Ring in LOTR, but was quite the formidable adversary nonetheless, and growing in power. Scuppering the Ring in the ocean would not change anything, he was going pretty gangbusters as it was. If he regained the Ring, well, game over, but the only way to ultimately defeat him was to destroy it in the fires in which it was forged.Also to address other points in thread, there are no other volcanoes mentioned to cast it into. and as Gandalf stated:
+But there is no smith's forge in this Shire that could change it at all. Not even the anvils and furnaces of the Dwarves could do that. It has been said that dragon-fire could melt and consume the Rings of Power, but there is not now any dragon left on earth in which the old fire is hot enough; nor was there ever any dragon, not even Ancalagon the Black, who could have harmed the One Ring, the Ruling Ring, for that was made by Sauron himself. There is only one way: to find the Cracks of Doom in the depths of Orodruin, the Fire-mountain, and cast the Ring in there.
+
+As to sending it away:
+But Gandalf has revealed to us that we cannot destroy it by any craft that we here possess, said Elrond. And they who dwell beyond the Sea would not receive it: for good or ill it belongs to Middle-earth; it is for us who still dwell here to deal with it.
+
+So you hide it, you lose; you try to send it West, they won't take it; Bombadil will forget and lose it; nobody is immune to its creeping influence. Much as it sux, and given Sauron's rise and the discovery of the Ring, the only solution - despite being ridiculously difficult, was to get that bitch to Mount Doom baby. 
+
+
+
+
+ I like to think he found rest in the west, beyond the sundering sea.. 
+
+
+
+
+
+
+
+
+
+ The veteran: 'There is no real going back. Though I may come to the Shire, it will not seem the same; for I shall not be the same. I am wounded with knife, sting, and tooth, and a long burden. Where shall I find rest?' 
+
+
+
+
+ Which brings us to our next question, in what ways could the Lord of the Rings have played out, had Gandalf been called Gandalf the Greg? 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Submissions must be a technology related article or self post.
+ Self posts must contribute to /r/technology and foster reasonable discussion about technology.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ SPAC-NET 
+
+
+
+
+
+
+
+
+
+ Either way, I'm happy to just let her keep her mountain. Ain't hangin' around with that trigger discipline. 
+
+
+
+
+ What happened next? 
+
+
+
+
+ You have a point there, juggling a lot right now, but still post disallowed, and I provided both an avenue to solutions and a link to your answer. Have a lovely day yeh grumpy git. 
+
+
+
+
+ Well [here y'go](https://www.reddit.com/r/explainlikeimfive/comments/1b8m0u/eli5_why_do_gifs_load_so_slow_although_i_have/). Jebus dude, why the hell would you ask mods a question about shit like this? We're really quite busy keeping the boat afloat.  
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Google it. I did. Or ask somewhere else. This is not the place to ask.
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ [Tom Cruise](https://www.reddit.com/r/AskReddit/comments/wp3w5/which_famous_person_needs_to_come_out_already) 
+
+
+
+
+ ..comments from teh supercoach.. 
+
+
+
+
+ I ain't mad either way Ramona, mods draw lines, but that's like the gay marriage leads to pplz marrying their dog argument.  
+
+
+
+
+ Yeah, and [these folks.](https://storify.com/tometty/staunch-defenders-of-free-press-attend-solidarity) Oh the hypocrisy.. 
+
+
+
+
+ Commitment to openness and freedom of information, lulzing at spinthuggery and exposing faggotry when it bugs me. Is that enough? 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ iz lulzy! () *:.. ..:* 
+
+
+
+
+ lol! thank you obiwan kenobvious, you were my only hope.. 
+
+
+
+
+ [Like a moran who should get a brain..](https://i.imgur.com/HnhWDku.jpg) 
+
+
+
+
+ Yeah..moran.. 
+
+
+
+
+
+
+
+
+
+ welp..that took off..[woke up to this..](https://i.imgur.com/1OfWDME.png) 
+
+
+
+
+
+
+
+
+
+ Sounds like someone's inner Thetan is outta wack..we can fix that for just tree fiddy..thousand..and your chil'ren 
+
+
+
+
+ The truth is stranger than science fiction.. 
+
+
+
+
+ Thanks! Teach me your ways jedi.. 
+
+
+
+
+ oh ffs..no second msg after shot down first time (edit ohh..there waz, just busy).. fuckit, resubbed, prolly shoulda stuck [NEWS] in there or summn' but calculating how many fucks i give.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ lol! done.. 
+
+
+
+
+ ['So long, and thanks for all the fish..'](https://www.youtube.com/watch?v=MFg6Y7zbRg4) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [..wipes a tear..](https://www.youtube.com/watch?v=KJ4HSwb59IA) ()-Y 
+
+
+
+
+ [How's this?](http://pubs.acs.org/doi/abs/10.1021/ac504300n) 
+
+
+
+
+ So will Lars sue me if I torrent it? :) 
+
+
+
+
+ plant false information to make them look unreliable.. 
+
+
+
+
+ [U froget this](http://www.wikihow.com/Browse-Dank-Memes) 
+
+
+
+
+ [Here](http://www.theurbanlist.com/melbourne/a-list/melbourne-s-best-hot-cross-buns-urban-list-taste) are [two](http://www.goodfood.com.au/good-food/top-10-eat-out/its-a-bunfight-melbournes-best-hot-cross-buns-20140405-364y0.html) 'Melbournes Best Hot Cross Buns' lists from 2014 - dig in and enjoy! :) 
+
+
+
+
+
+
+
+
+
+ What if [Keanu sits with you?](https://i.imgur.com/U802F5w.jpg) (and done in Paint as I gotz no 'shop to shoop, but dammit I tried..I'm leaving now..) 
+
+
+
+
+ [Have some nostalgia gold](https://www.youtube.com/watch?v=p_u3YRZb74w). 
+
+
+
+
+ [Both win](https://i.imgur.com/kHQF77y.jpg). 
+
+
+
+
+
+
+
+
+
+ Bart is lifestyle, Homer is instinct..I'm torn.. 
+
+
+
+
+ [Itruthd ur meme](https://i.imgur.com/kHQF77y.jpg).taks memes are srs bzns 
+
+
+
+
+ Should've channelled [that train message.](https://i.imgur.com/fTuiFyy.jpg) 
+
+
+
+
+
+
+
+
+
+ It's [his pretending to be drunk look](https://i.imgur.com/eaMYCDe.jpg) guys. 
+
+
+
+
+
+
+
+
+
+ He can't afford an extendable ladder but. Or to pay someone to risk death doing..whatever he thinks is a good idea. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+ * Rule #7: This is a petition or crowdfunding request.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Archive it. The brand is tainted, nothing good can come of it that won't stink of the past. 
+
+
+
+
+ No they're just a bunch of twats. 
+
+
+
+
+
+
+
+
+
+ It's technology-relevant, it will stay in our feed. We don't discriminate either way. Lol you think kids these days should have their information about maybe bad things censored by us? And barbaric? Jebus, do some research mate. Perhaps abrupt, but generally measured in scope and application. What you seem to miss is that it's not a club, just any group anywhere who choose to not name themselves and run around under that name. Bless 'em, if they were nasty I'd ban 'em but frankly they please me and certainly fit our rules where you see them appear. things like [this](http://blogs.mcafee.com/mcafee-labs/new-hacker-groups-take-up-the-anonymous-banner), and [this](http://www.aljazeera.com/news/middleeast/2011/05/201151917634659824.html), and [this](http://thecolbertreport.cc.com/videos/xjtazd/corporate-hacker-tries-to-take-down-wikileaks) (lol!) and seriously, they are nothing more than modern social activists in the digital sphere. It's like you want us to ban people of colour or women back in the day, no we will not, they're welcome if they fit under the rules voted for by 5  million readers. Welcome to 21C, I don't understand why this even bothers you enough to type so much. Or me to type so much responding for that matter. I must be drunk.. 
+
+
+
+
+ You not understanding the passage of conversation (or wilful negation of) is a poor excuse for yer lack of argument. If it wasn't blindingly obvious (which it really, really was), I'm saying you really have no idea what yer talking about. The more you comment, the more I feel like hugging you as one of our special followers. Just maybe get upset about something else, because this is not something you need to trouble yer precious mind about. To answer yer original query, no. 
+
+
+
+
+ Yea well my opinion is that you really don't know what you're talking about, based on everything you're saying. I appreciate you're working from an ill-informed standpoint (arguably your fault) and that Anonymous may be a pesky fly in your newsfeed, but that river runs deep, and what bugs you is likely [this](https://i.imgur.com/sCQrTOG.jpg), not [this](https://i.imgur.com/g4Q7g40.jpg). Go lurk in /r/anonymous, know yer frenemy. If you're going to voice opinions, please try to know what yer talking about. Heads up - its ultimate boss is the hacker known as 4chan.. 
+
+
+
+
+ [here y'go!](https://www.youtube.com/watch?v=E3yDrL1TMYk) fuck teh h8rz..been taken down most everywhere..but can't keep a good man down.. ) 
+
+
+
+
+ https://i.imgur.com/5aZOBiZ.gif 
+
+
+
+
+ I love this..really sells the concept!
+
+ Five months later, Lister stared out of the sleeping quarters' viewport window and saw nothing. Just a few, very distant stars, and an awful lot of black. It was pretty much the same view he'd had for the past twenty-one weeks At first he'd found it awe-inspiring Then, slowly, that had given way to just plain dull. Then very dull. Then deeply dull. And now it was something below deeply dull, and even below deeply, hideously dull; a word for which had yet to be devised. It was, he thought, even more mind-numbingly, deeply, hideously dull than an all-nighter at the Scala, watching a twelve-hour season of back-to-back Peter Greenaway movies. If you went to the British Library and changed every word in every single book
+ to the word 'dull', and then read out all the books in a boring monotone, you would come pretty close to describing Lister's life on board Red Dwarf. 
+
+
+
+
+ Uh..apologies..I think none of them were the words I was looking for. 
+
+
+
+
+ Ah 2 korrext 4my comfort, 6 late 8 me to gain (_) 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Yep. Though I'm surprised they haven't been curbstomped yet given the communities they've annoyed. Odd really.. 
+
+
+
+
+
+
+
+
+
+ Lol bullshit. Belongs in /r/ThatHappened.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Could you please just post the link rather than as a text post.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ , , , , ,,, ,,,, ,, ,, ,, ,,,, ,,,,,,,,,,,,,,,,,,, , , , , , ,  
+
+
+
+
+ [Chrz but m8](https://i.imgur.com/Lv7iodp.jpg), bedtime.. 
+
+
+
+
+ You reckon he can write a manifesto or put out anthing other than lulzy rants from where he'z currently? Project PM was digging into the shit that nobody took too seriously until the Snowden revelations smashed the doors wide open. He had his foibles, an aristocratic air of snobbery, a penchant for not disagreeing with that he was a mouthpiece for Anon (which doesn't make much sense) but end of day he was an investigative journo who did actually give no fucks in following the story. Was he sloppy? Yes, to his own detriment obviously. And produced nothing? Eh he was a voice sharing what was found. He admits poor skillz, but no point in exposing crime or malfeasance if you have no way to tell anyone about it. So hellz, a FBI shill instigates a raid in a private security company, delivers instructions as to how to pwn them, share linkies with journo in teh loop, he digs into delivered data, fucks up royally online after raids, getz v , faces 100yrz jail for bullshit, and you're gonna complain that he didn't deliver?! Fuckin' 'ell..
+ 
+
+
+
+
+ We don't even have a Bill of Rights..but you do, and yer Amendments and Constitution an' all..y'all seem to think it's kinda okaaay these days for all that to be ignored. Tell y'what, previous generations didn't. Fuck, look at what Nixon got booted out for. A pittance compared to the shit that's exposed and allowed to slide these days, and y'all just roll over and go 'M'kaaay..' Not much shit happens in this country cuz we're small population at teh ends of the earth (worth taking if yer playing Risk but, then sally forth), but for better or for worse in this era the shit you guys do affects us all, as much as the Brits did at one stage, as much as the Romans did at one stage, as much as the Incas did at one stage (time and location dependent). Our laws are getting tightened as a reflection of your laws getting tightened. Not that yer laws are adhered to anyways (national security blanket), just make a workaround from some schmuck to say hey torture ain't torture and yer good. No accountability, and that sux. Weird thing is, I think our prime minister's an asshole, for so many reasons, not least being that he'z an asshole, but i quite like yer prez. But then I step back and realise that what happens there affects here and I only like him cuz he'z less of an asshole than the past few. What kinda compromise is that?! We're in the shit, YOU'RE in the shit, what was once considered American Values is completely compromised. Whistleblowing against abuse of power by elected officials was traditionally not only considered a protected right of the person, but a respected responsibility of the person. Now you get locked in solitary for the rest of yer bloody life. Nope, yer train is off the rails mate.. 
+
+
+
+
+ Or because he's terribly bored and has no heroin..(or a habit any more so there's that.) Think you're viewing it thru blinkers. Not sure how u came to any of those conclusions, other than him not being the most personable person often before incarceration. What do u want? Is he supposed to spout diatribes from the inside pre-sentencing? Your logig iz all wiggida-wack and your ire misplaced, and your conclusions bullshit. He's actually rather a nice guy. Why u so mad at 'im? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **Se7en** 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+ * Rule #7: This is a petition or crowdfunding request.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+* Submissions must be a technology related article or self post.
+ Self posts must contribute to /r/technology and foster reasonable discussion about technology.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+  I don't care for the way Tolkien tells a narrative
+
+('-') ~ no. 
+
+
+
+
+ Duude..[*it's right behind you..*](https://i.imgur.com/LUANw83.gif) RUN!! 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ The cost of upkeep is huge, and if the traffic and turnover slip it becomes unprofitable to maintain the complex for the operator, it's decided more profitable in long term planning and risk analysis to demolish it and do something else with the land. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Here's a catalogue.](http://catalogue.auspost.com.au/catalogue/get-organised-for-2015-with-australia-post/50y8k7ubi.html?pid=promotedCatalogue#pageNo=0) 
+
+
+
+
+ You're not the first cat I've met on the internet.. 
+
+
+
+
+ Dat's [my Ramona..](https://www.youtube.com/watch?v=2SNOm2-aHy0) 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* User posted and deleted themself.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Derp..fixed, thanks. 
+
+
+
+
+ So I see. But now I've deleted what I had and any way I approach the extension link (through /r/toolbox sidebar, direct through Chrome Extensions), it just comes up with 'Added to Chrome', but it isn't. This has been happening since you moved from beta. I was assuming it was just updating. 
+
+
+
+
+ It's 3.0.0..but I'll try it. 
+
+
+
+
+ http://filmot.org/ for all yer Imgur mirroring needs.. 
+
+
+
+
+ Straya..Australia mate.. Seppos - septic tank - yank - yankee, so 'murica. Y'only assume it's prison slang cuz you have the largest prison population (land of teh free notwithstanding) but woteva m8.. 
+
+
+
+
+ Straya mate.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ [All may maymays](https://i.imgur.com/GcooBdx.jpg) are belong to u.. 
+
+
+
+
+ Heh..chin up soulja, I have a good feeling about this year. And I can't always be wrong.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Yes, this. I find any issue I've ever had has been meticulously broken down before and is only a search away. [List of Excel MVPs](http://www.mvps.org/links.html#Excel) helps, but generally I'd search specifics, and have never failed to find. 
+
+
+
+
+ Witch-king's steed had its head lopped off, so unlikely to be flying anywhere. Also:
+The crown rolled away with a clang. Eowyn fell forward upon her fallen foe. But Lo! The mantle and hauberk were empty. Shapeless they lay now on the ground, torn and tumbled; and a cry went up into the shuddering air, and faded to a shrill wailing, passing with the wind, a voice bodiless and thin that died, and was swallowed up, and was never heard again in that age of this world.
+
+So no, wasn't him. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* uhh.. post it to [ELI5..](https://www.reddit.com/r/explainlikeimfive)
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ No more alchemy, no more wizardry, no more sorcery, no thermatology, no electricity, nor magic if you please, we won't play none of these, not since i found teh Jeez.. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Happy new year, just not really allowed..
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ next thing you know, they'll take my thoughts away..
+ 
+
+
+
+
+ do you kill on god's command?..
+a country that's divided surely will not stand..
+
+ 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Copypasta cuz lazy (or efficient)..
+
+While plastic is usually considered an "artificial" material, it is typically a polymer based on organic petrochemical compounds. Polymers can be described as large molecules made up of simple repeating units. The word polymer is derived from the Greek words poly meaning "many" and mer meaning "part". Many types of polymers can be created by varying the molecular composition of the repeating unit.
+Being organically-based, polymers are therefore subject to degradation and breakdown through natural oxidisation. Degradation may be initiated or accelerated by numerous factors including ultraviolet light, visible light, ozone, pollutants, manufacturing impurities, oxygen, and heat. During degradation, oxidisation can result in the breaking and rearranging of chemical bonds along the polymer chain. This can begin even during the manufacturing process, due to the conditions of extreme heat or pressure that may be used to form the polymer.
+To delay the onset of degradation as long as possible, both process stabilisers and long-term stabilisers are added to the polymer. The most important primary anti-oxidants used for long-term stabilisation are the sterically hindered phenols. Unfortunately, these exhibit an undesirable side effect when exposed to ultraviolet radiation. They develop deeply coloured molecular structures resulting in irreversible yellowing of the plastic. To minimise this effect, polymers are also provided with an ultra-violet stabilisation package. This package is often made up of ultraviolet absorbers (UVA) and hindered amine light stabilisers (HALS).
+UVAs protect physically through molecular absorption of the high-energy fractions of sunlight. The absorption transforms the molecule into an excited state, and when it collapses back to its original state, the absorbed energy is released as a thermal emission (heat).
+In contrast, HALS protect chemically by combining with oxygen when exposed to sunlight to form stable nitroxide radicals. These trap the oxidising free radicals released when the polymer is exposed to ultraviolet radiation.
+Eventually, the stabilisers are either consumed or migrate to the surface of the polymer where they are abraded away. The polymer has then lost its protection and deterioration proceeds rapidly when exposed to the factors mentioned above.
+In theory, after-market protectorant products provide a coating to replace or supplement the original UVAs or HALS in the polymer. They cannot, however, reverse any yellowing which is the result of degradation of the sterically hindered phenols within the polymer itself. 
+
+
+
+
+ I will remove you if you don't stop. Read the rules please. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ no ur slow..amirite? 
+
+
+
+
+ Top notch. 
+
+
+
+
+
+
+
+
+
+ And now..['A Walk In The Black Forest'](https://www.youtube.com/watch?v=gS15ACUhTww t=21s).. 
+
+
+
+
+
+
+
+
+
+ and fuckem hey.. 
+
+
+
+
+ yeah, 3 day account, seems totally legit.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Funny you should mention him! Here's them ['some guys' getting past APEC (or OPEC lol!) Summit security](https://www.youtube.com/watch?v=N3zKuLgH_l8 t=43s) to pay Heckuva-Jaab-Bushie a visit dressed as...well...just watch it. 
+
+
+
+
+ i am idea 
+
+
+
+
+
+
+
+
+
+ According to [this thread.](https://www.reddit.com/r/AskReddit/comments/wp3w5/which_famous_person_needs_to_come_out_already)..yes.. 
+
+
+
+
+ Thanks! chaq jagh 'Iw chech SoH. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ https://i.imgur.com/IZUUFP7.jpg 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* If you could post an actual link to something displaying this, it'd be considered, but as a text post there's no way to tell if you didn't write that.
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+* Sorry, but reviewing your posting history you appear to be an anti-Apple (and anti-bedbugs) spammer. Am neither pro- nor anti-Apple, but we don't allow agendas to be pushed in the sub. Happy to discuss!
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Sorry, but not appropriate here. I would've found answers interesting. Post to /r/peru!
+
+* Submissions must be a technology related article or self post.
+ Self posts must contribute to /r/technology and foster reasonable discussion about technology.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+* This is business-related, not tech relevant sorry.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: This violates one of [reddit's site-wide rules](http://www.reddit.com/rules).
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: This violates one of [reddit's site-wide rules](http://www.reddit.com/rules).
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No, I appreciate the dialogue. Not sure where your 7million+ figure comes from. We don't do meta posts for the same reason we don't do  brony posts - it's not technology-related and we are a technology sub. There are plenty of forums for it, but like it or loathe it, we do need to make calls on submissions. We aim to do so openly and transparently, as reddit expects. You're free to complain, or to call us out if you think we're getting it wrong, can chat with us anytime. If you have suggestions, we'll happily hear them, and consider. This is how we came up with our rules, through subscriber consensus. Laws of the sub for the sub by the sub. Anything we change will also require consultation and approval by the sub. Was an exhaustive process to rehabilitate after the dramas (which are actually far more fascinating than people realise,,that shit is almost movie material with MK Shyamalan-Bambalam), but as a tech purist with no agenda nor desire for anything more than a quality tech sub for the tech community. And I (we) approve of all our mods, and don't hesitate to call each other out if we appear to stray from our mission to serve and deliver. Peace out. 
+
+
+
+
+ Yeah, we have the same arguments. What do you do when it's about a tech company but really more business-related, but has ended up popular? Damned if we do, damned if we don't delete. We are looking at the rules to see if we can hone them (subject to sub approval obviously). I'm not 'murikano, so I really don't give a fuck about Comcast, but upvotes say pplz do. Now, is it tech relevant? Y'see, mod dilemma..what do current technology subscribers enjoy vs what should technology sub be That is our problem, and if you have an easy solution, share it. we're damned either way, on the left we drown in fluff and Comcast. on the right do we go hardcore tech on the left. As a general sub, we have to remain a broad techology spectrum. We do have filters, we do have flairs you can filter by. We will never please all the people all the time, it's impossible. Feel free to complain, but undersand we're everything tech-related and delivering as streamlined a service as we can for free. if you have any constructive suggestions as to how we could make it better, we'd welcome that and discuss it. All mods (aside from 2 originals who don't do much) are post shitstorm..was drafted in to fix things. We are not evil, don't paint us with a broad outdated brush. Can say, current mod team is decent. And /u/creq will be creq, you want a creq in your life, keeps shit real..  
+
+
+
+
+ New mods, valid reversals. Our rules were selected by the pplz, voted on and adopted. Some are somewhat vague, which is helpful because it's hard to nail down in one law what can apply to every situation. Should broadly make sense when people read it. But we don't want to preclude valid posts in the technology sphere. Thankfully our readers are extremely helpful in flagging the bad, and frankly I'm proud of the effort of our mod team, coming here each day, cleaning up judiciously, approving, flairing (so you can filter), for nothing more than we like tech. You can yell at us, but I'd prefer you don't. If you have a specific issue, please do. 
+
+
+
+
+ Maybe you missed the extensive consultation process. And no it wasn't. The reason behind no meta is that this is a technology sub, and there are plenty of subs that grievances, real or imagined, can be aired in. It's not something that belongs in a sub about technology. Not in any way hiding from it, you could also ask us directly, we need feedback, and if valid, after discussion, we may change. We are your friends, not some elite with agendas. We are students, professionals, loners, scriptkiddies, unemployed,wise, annoying..and in my case devilishly attractive on top of all of that. Cut us some slack, or just talk to us. 
+
+
+
+
+ Well I haven't seen the specific history, so can't comment on that. I will vouch for creq as a decent human being. And appreciate that he was the canary in the coalmine that exposed the [mod corruption](http://www.dailydot.com/news/reddit-censorship-technology-drama-default/) that nearly killed /r/technology, and I guarantee he's fair and balanced (noit in a Fox way, but like what the words mean), but feel free to message me directly anytime with issues if that would be preferable. We do welcome feedback, ultimately we are trying to just deliver a quality tech stream. For little thanks, but I take the masses that aren't complaining as a good sign. Again, feel free to yell at me/us whenever you see us mess up, helps us improve. 
+
+
+
+
+ So have I..and he really hasn't in excess, and always to keep to rules. We have new mods learning the ropes, mot something you need to get mad about.We're just tech fans trying to deliver tech stuff to you. Getting mad at us..is unwarranted. Talk to us anytime. We understand as well that no matter what we do, someone is going to be pissed off. But generally am happy with us today. Constructive criticism always welcome obv. 
+
+
+
+
+ Oh..may have misinterpreted..just message the mods, button on the leftbar..we will respond, toute de suite depending on timezone, but modcrew are pretty global now. 
+ 
+
+
+
+
+ That's because subclause of Rule 1 (as chosen, voted upon by all y'all) is no meta posts.  
+
+
+
+
+ Lol! We have quite the congenial and collaborative mod team these days. Tekkies by profession, infoaddicts by nature..the mod hiring process is exhaustive. New crew just drafted in! You can check all that out too if you like. It's a rather time-consuming and thankless role, but ehh, we care.. 
+
+
+
+
+ Jebus cripes..was unintentional mishap in tweaking, we will always remain open. Feel free to yell at us anytime if we deserve it, fair call. Or, y'know, tell us if something ain't right, we'll look at it, sort it, and appreciate the feedback. [Sorry 2 offend.](https://www.youtube.com/watch?v=43V6wA4Y75Q) 
+
+
+
+
+ [Cool story bro..](https://i.imgur.com/Yyphxpg.jpg) 
+
+
+
+
+ Yeah but cricket's on today, goin'a smash the Poms. 
+
+
+
+
+ Well add the sheet to their workbook, record a macro of steps, add a button, link button to macro, and once a week they click it to export. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+ * Rule #7: This is a petition or crowdfunding request.
+
+* Sorry, but we don't currently allow petitions in sub.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I wouldn't do this. It assumes the two files are always going to be in the same location, or you'll get broken links errors whenever you open the second workbook, as would anyone you send it to. Also each time you change it, you lose the previous data, so no historic records. Why not have a second tab with all your Cell b4 '='Original Sheet'!B4' etc, then when you update it, right-click second tab, move a copy to new book, copy and paste special values to remove links, save it as whatever, then you have a permanent record. You could macro it, but it's 12 mouseclicks.  
+
+
+
+
+
+
+
+
+
+ Keep an eye out - we've been raided before, not fun.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+* Submissions must be a technology related article or self post.
+ Self posts must contribute to /r/technology and foster reasonable discussion about technology.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Not seized. Please resubmit with an accurate title.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ TISM singin'  [I Might Be A Cunt, But I'm Not A Fucking Cunt](https://www.youtube.com/watch?v=GQO1qZD5lek) 
+
+
+
+
+
+
+
+
+
+ /r/top..pretty much the definition of the club.  
+
+
+
+
+
+
+
+
+
+ [In Soviet Russia..](https://i.imgur.com/m1sIQ9K.jpg)that happened. 
+
+
+
+
+ Henneth Annn was a secret refuge for the Rangers of Ithilien created by the Steward Turin II circa TA 2900 in response to incursions of Orcs from Mordor. Other outposts were also established but Henneth Annn was the longest guarded and manned. It was forbidden in order to to keep it secret. Not a location innocents generally ventured through. 
+
+
+
+
+ lolz! sounds liek a challenge.. does nothing 
+
+
+
+
+ Aaand I grabbed one.. 
+
+
+
+
+ From [his website:](http://banksy.co.uk/faq.asp)
+
+*What do you think about people selling the art you put on the street?*
+
+"As a kid I always dreamt of growing up to be a character in Robin Hood.
+
+I just never realised I'd end up playing one of the gold coins."
+
+He could be ridiculously rich if he chose to be. He doesn't appear to care. And he's never spoken out against his art being shared or monetized, merely ridiculed it. He's like the street art Tom Bombadil.
+
+EDIT: [Lolzquote!](http://www.theguardian.com/artanddesign/2014/apr/24/banksy-works-auction-london-hotel)
+
+"Banksy would like to make it clear  this show has nothing to do with me and I think it's disgusting people are allowed to go displaying art on walls without getting permission." 
+
+
+
+
+ Hmm..I can't find anything official from HarperCollins about it. Only on Amazon, Book Depository etc, or articles referring to it being on Amazon. Looks fishy. 
+
+
+
+
+ That should read 2015, not 2016! It's been pushed back until the movies run their course. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ they're german.. 
+
+
+
+
+ Just a curiosity, [here'z a FB anon page](https://www.facebook.com/OffiziellAnonymousPage) with ~1.9million subscribers..
+
+ 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Really not tech relevant. Also customer complaint meta.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ [Here y'go!](http://www.tednasmith.com/site-map/j-r-r-tolkien/) My fav Tolkien illustrator.. 
+
+
+
+
+
+
+
+
+
+ https://www.reddit.com/r/self/comments/2v6csm/i_dont_feel_like_being_alive_anymore/ 
+
+
+
+
+ Woah..wait up there dude.. You have plenty to work with here to turn this all around! Be happy to discuss with you! Good that you are able to talk about it, this is how solutions begin! Please PM me, we'll get you through this and back where you belong! Internet hugz.. 
+
+
+
+
+ "le reddit army is here lololol!" 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Really not tech relevant.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Go eat yer own face 
+
+
+
+
+ I would've used it to get out of school.. 
+
+
+
+
+ His words..they are relentless and seductively informative.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* This post is inappropriate for /r/technology. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Also 'Anybody died.' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No, whilst we've been lenient with the interminable Comcast posts to the point we added a filter for the plethora of complainants about the Comcast posts, when it is tech related, this just isn't. Also no general customer complaint posts. This is a technology sub, you'll understand we want it to stay tech relevant. 
+
+
+
+
+ Funny, because if I remember correctly they were the only buildings in the CBD to be demolished where there were no protest group who came out to advocate for keeping them! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ You'd be correct! And lawdy, I'd forgotten just how godawfully ugly the Gas and Fuel towers were.. 
+
+
+
+
+
+
+
+
+
+ Don't know if this will mean anything to anyone, but Peter Woodthorpe who voiced Gollum in this production also did the voiceover for Pigsy in the English dub of Monkey Magic.. 
+
+
+
+
+
+
+
+
+
+ not trying to be sexiest.
+
+() 
+
+
+
+
+ This! [Here's a write-up of it.](http://www.containsmoderateperil.com/the-lord-of-the-rings-bbc-radio-adaptation-1981/) I still have original recordings from off the radio when I was a kid, plus the box set I later received as a gift. Fell asleep to it much of my childhood. Best version. 
+
+Incidentally, Ian Holm who plays Bilbo in the movies plays Frodo in the BBC radio dramatisation! Hellz, I even learnt to play the [theme tune](https://www.youtube.com/watch?v=RgPadfvz05s) on piano..still have the sheet music in a box somewhere. Can't advocate this enough.. ^^^^search ^^^^'bbc ^^^^lord ^^^^of ^^^^the ^^^^rings ^^^^mp3' 
+
+
+
+
+ As long as he has a British accent! 
+
+
+
+
+ rofl! does he do requests? I want seor Esposito for gf..he will then know who i am, rendering me inoperative, thus ipso facto proving himself correct.. 
+
+
+
+
+ [Guy Stawkes](https://i.imgur.com/qqxJohk.jpg).. 
+
+
+
+
+
+
+
+
+
+ Also, The Doctor [has been a woman before](https://www.youtube.com/watch?v=Do-wDPoC6GM) and she rocked! 
+
+
+
+
+
+
+
+
+
+ blushes (  ) [Insert acceptance speech here] 
+
+
+
+
+ uhh..i'm in trouble agian..  removing 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sauce for the record: [Extras - Patrick Stewart   Ricky Gervais](http://www.dailymotion.com/video/x3uir5_extras-patrick-stewart-ricky-gervai_shortfilms) - funny as fuck, and I've seen everything! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nah you dun good.. 
+
+
+
+
+ Lol! Ignore..somehow submitted it twice...carry on 
+
+
+
+
+ It wasn't in /r/technology. And I AM a moderator of /r/technology. It's def tech relevant. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+* Last warning, read the rules please.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ *Labor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Here y'go!](https://i.imgur.com/mVB22bh.gif) 
+
+
+
+
+
+
+
+
+
+ Should stick to her [hand-o-prompter](http://thecolbertreport.cc.com/videos/mtoffp/sarah-palin-uses-a-hand-o-prompter).. 
+
+
+
+
+ i'm fuckin' awesome, all teh cool kidz say so, still don't care, will keep on keepin' on..u too bro
+ 
+
+
+
+
+ yeawell..i'll allow it..forgive me my sins for i know not wat i do.. not that i give a fuck though obviously.. 
+
+
+
+
+ the fuck are you bangin' on about bro..can't you see the pictures? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #4: This post consists primarily of an image or video. Please see our sidebar for a more appropriate subreddit to submit this content.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ [ohai!](https://i.imgur.com/GIZHAbL.jpg) 
+
+
+
+
+ it did, can't help it if shit fucks up.. 
+
+
+
+
+ ..incinerates you.. 
+
+
+
+
+
+
+
+
+
+ Why do you care so? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Right to bear arms bro.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Well the titles between the papers won't necessarily be the same. And my title was a concatenation of the title on The Age Online main page and the article title when clicked into. I didn't actually check the sub, if you search the url it'll tell you if it's been submitted. 
+
+
+
+
+ Noted, removed. theage.com.au link did not come up, should've checked for smh.com.au.. 
+
+
+
+
+ ironic..72 virgins will be attacking the terrorists.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Yes, it is a potential issue. Unlikely to happen to you, but most certainly it's a thing. If you're not using your webcam it's safe practice to cover the lens.
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help. Try posting these in /r/techsupport and /r/AskTechnology respectively.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Already posted numerous times sorry.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ [Use stealth finger..](https://i.imgur.com/OPiuTse.png) 
+
+
+
+
+ Have a [pretend robbery IT'S A PRANK!](https://www.youtube.com/v/OUehfnUNLdM), lucky they didn't get shot.. 
+
+
+
+
+ bet u three internets he doesn't.. 
+
+
+
+
+ Been clean 28 months :) not that it has anything to do with anything 
+
+
+
+
+ I'd ask the same about you 
+
+
+
+
+ fuckin love me my monkeys.. 
+
+
+
+
+ whatever dude 
+
+
+
+
+
+
+
+
+
+ Sizewise yes, newswise no. It used to be a broad distinction between broadsheet and tabloid sizings as to content, but today less so as with falling readership many broadsheets have reduced to tabloid size. So tabloid size, broadsheet content to use semi-anachronisms. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+* Funny, you've been around for 5 years but are getting picked up by spam filter for posting too much from one site. Love to know your story, happy to allow if you're legit!
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology). We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ;) 
+
+
+
+
+ Sorry, but that's one of [Basement Cat's minions](http://i.imgur.com/2nuFOla.jpg). Get out now, [this iz srs..](https://www.youtube.com/watch?v=eBxCBi3C67k) 
+
+
+
+
+ imagine life before automod! 
+
+
+
+
+ should try modding 5million subscribers.. 
+
+
+
+
+ Aside from everything else mentioned here, you'd find it extremely difficult to prepare a launch in secret, and there is a large body of [space law](http://www.spacepolicyonline.com/space-law) that would preclude such a mission being allowed to progress to launch phase. 
+
+
+
+
+ He did say in the Foreword:
+
+The country in which I lived in childhood was being shabbily destroyed before I was ten, in days when motor-cars were rare objects (I had never seen one) and men were still building suburban railways.  Recently I saw in a paper a picture of the last decrepitude of the once thriving corn-mill beside its pool that long ago seemed to me so important.  I never liked the looks of the Young miller, but his father, the Old miller, had a black beard, and he was not named Sandyman. 
+
+
+
+
+ [Gravestone _](http://i.imgur.com/Lu8GepE.jpg) 
+
+
+
+
+ Well I guess it comes down to where we define boundaries in a world of spectrums. Which seems somewhat arbitrary. Lions and tigers can produce viable offspring, and you know the others. There seems to be similar issues between the categorisation and cllassification of anmals and planets. We grow up with a black and white understanding, but it's all really rather grey. Maybe it's a a peculiarity of human nature to prefer things to sit in separate buckets when generally the lines are much more blurred than we're comfortable with. I want Brontosauruses and Pluto! Maybe I'm human.. 
+
+
+
+
+ Hugz..kitteh personality shone through in your pics. Memories will live forever, but tonight all my feelz are with you and Willow's loved ones.. 
+
+
+
+
+ [Before Pic!](http://i.imgur.com/4aMKbau.jpg2) 
+
+
+
+
+ Could this approach apply to planetary sciences, and if so, can we please have Pluto back? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fandamtastick! Also cool dragon.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well there's this:
+
+But in a win for iiNet and the other Australian ISPs, Justice Perram ordered that any letters sent to alleged illicit pirates must first be seen by him. He said this would "prevent speculative invoicing", which under Australian may not be lawful. ([source](http://www.smh.com.au/digital-life/digital-life-news/dallas-buyers-club-slays-iinet-in-landmark-piracy-case-20150407-1mey38.html))
+
+
+Here's what one law firm has to say about it ([link here](http://www.iplawwatch.com/2014/11/downloaded-dallas-buyers-club-the-bill-is-in-the-mail/)):
+
+"While speculative invoicing or pay-now-or-else letters are common in the United States, it has rarely been seen in Australia.
+
+Such letters are often pro forma documents that rely on foreign copyright principles and possibly mischaracterise rights and remedies available under Australian law. For example, some speculative invoicing letters we have encountered commonly demand payment of an unauthorised use licence fee far in excess of the licence fee that would have been payable had the content been reproduced lawfully. Under Australian copyright law, damages for infringement are compensatory and not punitive in nature. In the context of unauthorised reproduction of a film, damages are likely to be calculated by reference to lost royalty the copyright owner would have received for the infringing copy had it been licensed. While exemplary or additional damages are available, these are discretionary and would be unlikely to be awarded where the alleged infringement was made for the sole purpose of private or domestic viewing only."
+
+
+ 
+
+
+
+
+ [yey!](https://www.youtube.com/watch?v=Np0mNstndxU) 
+
+
+
+
+ http://i.imgur.com/himZD0M.gif 
+
+
+
+
+ Highlight column, hit Ctrl+Shift+#. 
+
+
+
+
+ I don't even like almonds..
+ 
+
+
+
+
+ Put 'How do you possibly expect me to remember?!' 
+
+
+
+
+ In a letter in which Tolkien first named Alatar and Pallando, also called Morinehtar and Rmestmo, he wrote concerning them:
+
+I think they went as emissaries to distant regions, East and South, far out of Numenorean range: missionaries to enemy-occupied lands, as it were. What success they had I do not know; but I fear that they failed, as Saruman did, though doubtless in different ways; and I suspect they were founders or beginners of secret cults and 'magic' traditions that outlasted the fall of Sauron.
+
+However, in The Peoples of Middle Earth, written by Tolkien in the last years of his life, he said that the Blue Wizards had succeeded in turning the tides of conflict in the East during the Second and Third Ages. Whether this is a revision of what he previously wrote, or whether they were initially successful and then fell, is not known.
+
+The quote from The Peoples of Middle Earth is as follows:
+
+The other two are only known to (have) exist(ed) [sic] by Saruman, Gandalf, and Radagast, and Saruman in his wrath mentioning five was letting out a piece of private information.
+
+The 'other two' came much earlier, at the same time probably as Glorfindel, when matters became very dangerous in the Second Age. Glorfindel was sent to aid Elrond and was (though not yet said) pre-eminent in the war in Eriador. But the other two Istari were sent for a different purpose. Morinehtar and Rmestmo. Darkness-slayer and East-helper. Their task was to circumvent Sauron: to bring help to the few tribes of Men that had rebelled from Melkor-worship, to stir up rebellion ... and after his first fall to search out his hiding (in which they failed) and to cause [? dissension and disarray] among the dark East ... They must have had very great influence on the history of the Second Age and Third Age in weakening and disarraying the forces of East ... who would both in the Second Age and Third Age otherwise have ... outnumbered the West 
+
+
+
+
+ Hi guys, I've just trawled your website and I'm impressed by what I see. Do you have any plans to spread internationally, because my country could really do with what you say you offer. 
+
+
+
+
+ Legit.
+ 
+
+
+
+
+ Means nothing if he can't get fast track (which looks doubtful), and enough popular anger becomes apparent. Don't give up, the only way it is sure to pass is if everyone believes it cannot be stopped (or more likely doesn't know about it and how it's likely to affect so much of everything). That said, I'll be going down in flames trying in my country to ensure it isn't ratified if it gets the initial nod. Educate the voting public. This is by far the worst we've seen in recent yearsm which is impressive because we've seen a shit ton. This basically enshrines the rights of corporations in international law superceding national law. Yes it may bolster the US economy in a changing world, but to the detriment of us all. I never in my wildest nightmares envisioned President Obama envisioning this as crown jewels in his legacy. There is scope certainly for sections of it, but everything we see when it gets leaked is so flawed. The participants in drafting it are not representative of the populations it affects, they are by and large corporate interests. This is not a platform we want to enshrine in international law. So get mad now, or regret later. 
+
+
+
+
+ Mass contacting via tools such as those listed above is precisely how CISPA, SOPA/PIPA, ACTA, TAFTA to name a few were stymied. It truly is the most effective way to make a difference, contact your representative and make your opinion clear. Most of them don't even read the damn legislation, too busy fundraising for reelection. Fair enough, they like their jobs. But whilst they rely on donors to fund their prospects, their fate is in the hands of you the people. According to staffers and interns who have commented on this in these threads, they do pay a lot of attention to numbers of constituents who actually chime in on particular issues, because they do not usually get that much traffic, so when they receive an avalanche of angry calls they extrapolate from that to the voting population and pay attention. And whether it passes does not depend on Obama, but on the votes in Congress. Yes, we can kick it's ass, with online participation. There is strength immeasurable in collective action. Apathy and the false impression of powerlessness kills it. There is already considerable disgruntlement with it amongst progressives and libertarians. We need only push en masse to sway the tide of fencesitters. 
+
+
+
+
+ Check [Harrison Ford's AMA's top thread..](http://www.reddit.com/r/IAmA/comments/22xh4j/i_am_harrison_harrison_ford_ama/) 'nuff said. 
+
+
+
+
+ LEOs are supposed to serve the people. So the police unions are there to correct the power imbalance between LEOs and the people. 
+
+
+
+
+ [They already did that.](http://www.theregister.co.uk/2012/07/28/anonymous_australia_posts_data/) 
+
+
+
+
+ [Guess who..?](http://i.imgur.com/U8NOpVi.jpg) 
+
+
+
+
+ So like yours. 
+
+
+
+
+ Yeah, he flew a plane into a mountain. 
+
+
+
+
+ YFW [ur faget.](http://i.imgur.com/B8oKLCJ.jpg)
+ 
+
+
+
+
+ Hi, bless you for caring. I'd repost in /r/eatingdisorders, you'll find help there. They also have an extensive list of resources. Wish you luck and Laila recovery. 
+
+
+
+
+ The knack lies in learning how to throw yourself at the ground and miss. 
+
+
+
+
+ danks 
+
+
+
+
+ Yes, and it's alright. It does not make me invisible though, nor make me want to rule the world with an iron fist any more than I aleady decided rule the world with an iron fist. is a bit small, only fits on my pinkie. But I have big hands. 
+
+
+
+
+
+
+
+
+
+ [Here y'go!](http://www.ebay.com.au/itm/Hobbit-Gold-The-One-Ring-Necklace-Pendant-w-Elvish-Rune-Engraving-Lord-of-Rings-/281290277453?pt=LH_DefaultDomain_15 hash=item417e35024d) 
+
+
+
+
+ [(   )](http://i.imgur.com/OvTLDhI.jpg) 
+
+
+
+
+
+
+
+
+
+ If you look at the pic real close you can see the light reflecting off their telescope.. 
+
+
+
+
+ [The press release TL;DR.](https://wikileaks.org/tpp-investment/press.html) 
+
+
+
+
+ Have altitude and speed data. Was over mountains, no populated areas. Opportunist when pilot left cockpit, just stuck it in a dive.
+
+http://nl.flightaware.com/live/flight/GWI9525/history/20150324/0835Z/LEBL/EDDL/tracklog 
+
+
+
+
+ The document is classified and supposed to be kept secret for four years after the entry into force of the TPP agreement or, if no agreement is reached, for four years from the close of the negotiations.
+
+Unfuckingbelievable.. 
+
+
+
+
+ Don't forget the [6 U.S. soldiers who were killed whilst searching for him.](http://time.com/2809352/bowe-bergdahl-deserter-army-taliban/#2809352/bowe-bergdahl-deserter-army-taliban/) 
+
+
+
+
+ Don't forget the [6 U.S. soldiers who were killed whilst searching for him.](http://time.com/2809352/bowe-bergdahl-deserter-army-taliban/#2809352/bowe-bergdahl-deserter-army-taliban/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Here](http://echelon2.org/wiki/Main_Page) 
+
+
+
+
+ See it [here](https://wikileaks.org/tpp-investment/). 
+
+
+
+
+ [Here y'go!](http://web.archive.org/web/20131111223433/http://www.trutv.com/library/crime/serial_killers/index.html) 
+
+
+
+
+ Oldest I can remember is
+
+Q: What do computer scientists eat for lunch?
+
+A: Microfiche and silicon chips.. 
+
+
+
+
+ Actually, pure gold is not soft enough to deform by biting. People would cut it with lead, suitably heavy and would mix without discoloring. Also made it softer, so if your bite left an imprint, it was *not* pure gold. Not that Olympic gold medals are pure gold anyway. The last series of Olympic medals to be made of solid gold were awarded at the 1912 Olympic Games in Stockholm, Sweden. Modern Olympic gold medals are required to be made from at least 92.5% silver, and must contain a minimum of 6 grams of gold. So there y'go.. 
+
+
+
+
+ *At the third stroke..it will be..twelve..fifty-one..and ten seconds.....* **BIP.....BIP....BIP**
+
+*At the third stroke..it will be..twelve..fifty-one..and twenty seconds.....* **BIP.....BIP....BIP** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ X  Y ..math is not fickle..  
+
+
+
+
+ I had a mix, from Philosophy where you lost 1% a day from final mark if late, to Information Systems where missing deadline = 0. InfoSys was either bang on time or not started (too late, why bother), Philosophy was never on time and a gnawing burden on my mind. 
+
+
+
+
+
+
+
+
+
+ lol! one does not take a defamation case to court to defend anonymous' reputation.. 
+
+
+
+
+ Thanks for that. 
+
+
+
+
+ Yea! 2010 vintage I think..perhaps 2011, well-loved! 
+
+
+
+
+ [Well hello!!](http://i.imgur.com/ZIpq5wL.jpg) )'( 
+
+
+
+
+ Obviously never seen [Cool As Ice](http://www.rottentomatoes.com/m/cool_as_ice/)..man that movie sucked balls.. 
+
+
+
+
+
+
+
+
+
+ [Call your congressional representative with **a single click**!](http://www.grassroutes.us/cispa) This was an anti-CISPA tool, still works. Enter zip code, select representative, wear headset, click and call. 
+
+
+
+
+ Shaldantic even.. 
+
+
+
+
+ you gambrinous umbo..
+ 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Israel doesn't. There is the opinion that it has become more right wing with the influx of the diaspora from Russia and eastern Europe. We only really get to hear from Americans who are there because easier soundbite, and the more brave the better. It's unsustainable, history moves slow, but maybe we'll get the compromise we need next election. Netanyahu is a cancer on progress, and a self-serving asshole at that, he does not demonstrate a love of country, he demonstrates a love of Bibi, do anything say anything, stir up the red meat of right-wing hatred to the detriment of all in order to stay in power. he is a blight on Israel and a danger to the world. God help us what this term will bring. There is great risk in this play, the guy is incongruous with peace and a pivotal destabiliser. I hope for the best, but I cannot see this turning out pretty for Israelis or Palestinians, or anyone. The guy is a fucking socio-wartard.. 
+
+
+
+
+ Yes, sorry, not how I meant it, it was his commentary on it at some stage on the stories that are in there. Poor choice of words. 
+
+
+
+
+
+
+
+
+
+ you latin memers, you lead such cloistered lives. you can't be expected to understand how a mononymous outdoorspirate like meself thinks.. 
+
+
+
+
+ They seem to support him much more than the people they represent. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Hi Marijan, sorry but this is basically a marketing post which really doesn't work for the sub.
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ What the hell's wrong with the .net domain name?!
+
+The domain name net is a generic top-level domain (gTLD) used in the Domain Name System of the Internet. The name is derived from network, indicating it was originally intended for organizations involved in networking technologies, such as Internet service providers and other infrastructure companies.
+
+Do you prefer commercial (.com) to networks (.net)? 
+
+
+
+
+ Good point. Likely methane then. Propane is heavier than air. 
+
+
+
+
+ there are **billions of the stars in the Milky Way located in the habitable zone**, where liquid water might exist, and with it, life as we know it.
+
+No..that is not a good start. 
+
+
+
+
+ It's deleting it. Either write a quick macro to reset the formulas as a workaround (and link to a button on page for one-click-fix) or get the import fixed. That's not how imports are supposed to be done. 
+
+
+
+
+ The hell was in those balloons?! Hydrogen? 
+
+
+
+
+ [Is this you?](https://i.imgur.com/3tS4o.gif) 
+
+
+
+
+ [Ron de Bruijn's site](http://www.rondebruin.nl/win/s1/outlook/mail.htm) will have what you need. 
+
+
+
+
+ [This shows just how close to Tolkien's heart the tale of Beren and Lthien was.](https://i.imgur.com/KKixWB4.jpg) 
+
+
+
+
+ IKR? I revisited archived [losers.org](https://web.archive.org/web/20051231072226/http://www.losers.org/), he rates 5L, link still active! I loved that site way back when.. 
+
+
+
+
+
+
+
+
+
+ Here's [*Bored Of The Rings*](http://solargeneral.org/wp-content/uploads/library/bored-of-the-rings-henry-n-beard-douglas-c-kenney.pdf), if you're interested. [Wiki article](https://en.wikipedia.org/wiki/Bored_of_the_Rings) for background. 
+
+
+
+
+ In a letter written during the writing of The Unfinished Tales, in which Tolkien first named Alatar and Pallando, also called Morinehtar and Rmestmo, he wrote concerning them:
+
+I think they went as emissaries to distant regions, East and South, far out of Numenorean range: missionaries to enemy-occupied lands, as it were. What success they had I do not know; but I fear that they failed, as Saruman did, though doubtless in different ways; and I suspect they were founders or beginners of secret cults and 'magic' traditions that outlasted the fall of Sauron.
+
+However, in The Peoples of Middle Earth, written by Tolkien in the last years of his life, he said that the Blue Wizards had succeeded in turning the tides of conflict in the East during the Second and Third Ages. Whether this is a revision of what he previously wrote, or whether they were initially successful and then fell, is not known.
+
+The quote from The Peoples of Middle Earth is as follows:
+
+The other two are only known to (have) exist(ed) [sic] by Saruman, Gandalf, and Radagast, and Saruman in his wrath mentioning five was letting out a piece of private information.
+
+The 'other two' came much earlier, at the same time probably as Glorfindel, when matters became very dangerous in the Second Age. Glorfindel was sent to aid Elrond and was (though not yet said) pre-eminent in the war in Eriador. But the other two Istari were sent for a different purpose. Morinehtar and Rmestmo. Darkness-slayer and East-helper. Their task was to circumvent Sauron: to bring help to the few tribes of Men that had rebelled from Melkor-worship, to stir up rebellion ... and after his first fall to search out his hiding (in which they failed) and to cause [? dissension and disarray] among the dark East ... They must have had very great influence on the history of the Second Age and Third Age in weakening and disarraying the forces of East ... who would both in the Second Age and Third Age otherwise have ... outnumbered the West. 
+
+
+
+
+ http://i.imgur.com/hsrlD.gif 
+
+
+
+
+
+
+
+
+
+ Decent political representation for the country? And not fucking up the finances of the next generation of uni students? All this from a smug bastard who sailed through uni for free thanks to (admittedly unsustainable) completely free higher education. He's almost a caricature of all that's unwanted in the education sphere, or some bizarre RL Blackadder 1 dude. I'd laugh if it were comedy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What's so civil about war anyway? 
+
+
+
+
+
+
+
+
+
+ https://i.imgur.com/cCGJ8.gif 
+
+
+
+
+ It depends on sub setup, it's impossible for our sub to keep up with new submissions because we all have lives outside and timezones make it difficult, though we do new when we are able. But our subscribers are keen gatekeepers, and our automoderator (details on subpage) are amazing, and we do check all things flagged, and live by the rules/spirit of the sub. We're open to criticism and, y'know..not criticism, or conversation. 
+
+
+
+
+ TBR at a later date. Be a good intermod conversation, and healthy. 
+
+
+
+
+ Good point. I've hidden it. Will seek a consensus.
+ 
+
+
+
+
+ Woody from Toy Story is hiding in her hair.. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ http://k44.kn3.net/CAC8CE28F.gif 
+
+
+
+
+ Gets to hang with Douglas Adams and write a series about life in the afterlife about novelists united in death writing about life in the afterlife about two novelists who find themselves in the afterlife, and you won't believe what happens next... Ave atque vale you mad nutter, and thanks.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [argh..](https://i.imgur.com/hsrlD.gif) 
+
+
+
+
+
+
+
+
+
+ (This version of the story was refiled to fix garble in line seven)
+
+Funny..that is line seven! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [God Save The King. Recorded 22 June 1911 at His Majesty King George V coronation.](https://www.youtube.com/watch?v=WIu7HLTDLEI) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dammit Jim, I canna change the laws o' furrsics.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Yeah, that..](https://www.youtube.com/watch?v=3I_Ds2ytz4o t=17s) 
+
+
+
+
+ "I have a cunning plan.." 
+
+
+
+
+
+
+
+
+
+ Well, [new law protects the venues now.](http://www.tonedeaf.com.au/414599/melbournes-live-music-scene-to-be-protected-from-noise-complaints-at-last.htm) 
+
+
+
+
+ straya looks okay.. 
+
+
+
+
+
+
+
+
+
+ K, gimme a sec..yeah no can confirm still nor blie is ouch wtf eye dobt wkek aaaaaaaaaaaa  
+
+
+
+
+ The sun doesn't look blue during the day here on Earth.. (_) 
+
+
+
+
+
+
+
+
+
+ Hey, me either! 
+
+
+
+
+ Rule 1 of [Rules of reddit](https://www.reddit.com/rules). It's nothing personal, it's a sitewide rule. You will get shadowbanned by admins if you don't follow their rules. And wy so defensive? You're quite welcome here, within parameters. Does that suck? Yeah, it offends my spirit of personal freedoms in a sense until I think about it, and realise that there are unspoken customary laws everywhere, which serve a purpose. For example I can't punch everyone in the face when they say my name, or shit in the church. Eh, point being, there are rules, deal with it.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ *I got 1750 problems but the BC ain't one..* 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #2: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on the site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1: This post is a request for tech support, asking a question, about customer service, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ No, you came off as user educating, and for that I thank you! 
+
+
+
+
+ Ouch! My bad, posted to me by someone I respect, didn't ring true with stripped down browser. Thanks, wanted comment, got comment in spades. Will feed back.
+ 
+
+
+
+
+ [Comics make everything better..](https://i.imgur.com/Sb0Bl.jpg) 
+
+
+
+
+ Expand his online footprint!! Lol what a jackass.. 
+
+
+
+
+ Thx, removed. 
+
+
+
+
+ Removed. 
+
+
+
+
+ Did..sorry, SF paper, assumed SF. 
+
+
+
+
+ Read it as 'DEA get legitimately angry at Drug Commercials with..' ..thought *'CRIKEY! mebbe change!!'* and then reread.. :'( 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://i.imgur.com/0Mkjvyw.gif
+ 
+
+
+
+
+ Fisting the unions was what OP asked. 
+
+
+
+
+ [Citadelle Laferrire](https://www.google.com.au/search?q=haiti+fortress biw=1249 bih=568 source=lnms tbm=isch sa=X ei=ueBlVfzoBMX28QX12IKwAg sqi=2 ved=0CAYQ_AUoAQ dpr=1) in Haiti is spectacular! 
+
+
+
+
+ http://i.imgur.com/XoeK7.gif 
+
+
+
+
+ Kenneth. 
+
+
+
+
+ [Project PM.](http://wiki.project-pm.org/wiki/Main_Page) 
+
+
+
+
+ Depp Depp Dep-Dep Depp Depp Depp 
+
+
+
+
+
+
+
+
+
+ He'll just pay the fine, come back and finish the film, get paid shitloads, and respect the laws the rest of us agreed to going forward. We do love JD too, just egalitarian. If i did the same I'd get the same, not that I'd have fucken yorkshire yapyap terriers. 
+
+
+
+
+ Strict quarantine laws because we don't have rabies, and have a bad history of invasive introduced species. The US has its own laws about bringing in animals. All countries do.  
+
+
+
+
+ And halfway through filming latest Pirates movie.. And yea, he flew his dogs home on private jet so pretty sure he'll stump up. Equal application of law is heartening. Being able to choose between 10 years jail and being able to pay cash to not do that is really not cool.  
+
+
+
+
+ True, they're cunts imo.. But then how do you feel about the rich and famous judged under a different set of rules? JD's one of my fav bros, doesn't mean he gets to do whatever. We have quarantine laws for good reason. You want me to bring all our beasties to your house? 
+
+
+
+
+ 65 mi^2 is roughly 168km^2.  
+
+
+
+
+ So do we! :) 
+
+
+
+
+
+
+
+
+
+ Don't feel bad..been 6 years.. Funny but, title back then was:
+
+ Awww, this is just too sad [PIC] 
+
+
+
+
+ It..was the same picture.. 
+
+
+
+
+ If they're different types of graph, no. If they're identical but feeding of different similar datasets, make one, copypaste and do a new Select Data, it'll retain the sizing and formatting.
+ 
+
+
+
+
+ Yes, and [to visualise these numbers..](http://i.imgur.com/WWJqgD7.jpg) 
+
+
+
+
+ Also, Erendils star is the 'evening star', or Venus. 
+
+
+
+
+ **long horses* 
+
+
+
+
+ Yeah, imma suggest [TISM - I Might Be A Cunt, But I'm Not A Fucking Cunt](https://www.youtube.com/watch?v=YuJEeAVWG4o) 
+
+
+
+
+ [Nope, gave it back..](https://www.youtube.com/watch?v=6butV1tEVKs) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [This is the endgame.](http://www.huffingtonpost.com/alastair-crooke/isis-wahhabism-saudi-arabia_b_5717157.html) Long but worthwhile read.
+
+Edit: [Part 2](http://www.huffingtonpost.com/alastair-crooke/isis-aim-saudi-arabia_b_5748744.html) 
+
+
+
+
+ To boldly show where no sun has shone before..(in color).. 
+
+
+
+
+ ['Collect it all'](https://www.eff.org/deeplinks/2013/12/2013-year-nsas-collect-it-all-strategy-was-revealed) strategy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Why'd it have to be snakes..](http://i.imgur.com/FQI13T9.gif) 
+
+
+
+
+ Then drag the formula down to B12 obviously. 
+
+
+
+
+ Worked for me using the data in the pastebin, split using Text to Columns with commas as the delimiter. 
+
+
+
+
+ For the record, the reason some dates aren't changing to the "d-mmm-yy" format you have set in the date columns is because they're before 1 Jan 1900, which is where Excel starts counting dates (1/1/1900 = 1), so dates prior to that are text strings, not numbers. To change the formatting on the dates after 1/1/00, highlight the column, right click  Format Cells. On the Numbers tab in Category, select Custom. In the Type field, enter *d mmmm yyyy*.  
+
+
+
+
+ [Here you go.](http://www.uscourts.gov/courtrecords/find-case-pacer) 
+
+
+
+
+ 1.Hold close door button till door closes, keep holding.
+
+2.Select floor and do not let go of number and close door button till elevator moves.
+ 
+The lift will now go straight to the selected floor without stopping. 
+
+
+
+
+ [Meanwhile in Australia..](http://www.smh.com.au/environment/weather/web-wonders-spiders-spin-for-their-lives-as-floodwaters-rise-20120307-1ujov.html) 
+
+
+
+
+ [This is from the wiki](http://www.reddit.com/r/australia/wiki/immigration) 
+
+
+
+
+ [They won a Shonky Award](http://classic.choice.com.au/shonkyaward/hall-of-shame/shonkys-2014/shonky-2014-arnotts-tim-tams-peanut-butter-flavour.aspx) for containing no peanuts. 
+
+
+
+
+ Their biggest city is called Orc-land.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Things are worth whatever people agree they are worth at the time. It may sound stupid now, but rare beanie babies were going for ridiculous amounts in their day. It's weird what takes off, like the [Dutch tulip bubble of 1637](http://en.wikipedia.org/wiki/Tulip_mania).. 
+
+
+
+
+
+
+
+
+
+ Yes, not reinventing the wheel when hungover. Just a ship in the night sharing information, take that as you will. Mostly my sharing is from the heart, sometimes I just compile it from internets. My intentions are pure and I have no interest in your internets points. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As a kid I had the brilliant idea going down a hill to make a helicopter sound by grazing the sole of my shoe on the spokes of my front wheel. So shoe went in, ankle got screwed and i got to eat road. 
+
+
+
+
+ Again, we're talking about a lengthy period here. But in the 5th and 6th centuries trousers, traditionally worn under a short tunic or with a small cloak, were ankle length. If loose, the excess material was bunched around the waist and, as Owen-Crocker describes, hung in folds around the legs. [Owen-Crocker, Gale R., Dress in Anglo-Saxon England, revised edition, Boydell Press, 2004.](https://books.google.com.au/books/about/Dress_in_Anglo_Saxon_England.html?id=45RJYhTGZiUC hl=en) 
+
+
+
+
+ Let me in! 
+
+
+
+
+ [Amiriteamiriteamirite?](http://i.imgur.com/QiQOIPK.gifv) 
+
+
+
+
+ We cannot be sure exactly what Anglo-Saxon children would have worn, but we can make a guess based on objects found in graves, from drawings in Anglo-Saxon books and images on objects.
+
+It appears that Anglo-Saxon children wore clothes similar to the adults. Boys would wear trousers with a tunic and a belt at the waist, like men. Girls may have just worn a long tunic dress but some girls also appear to have worn the over-dress held together with a pair of brooches at the shoulders and a belt at the waist. Children would also have worn leather shoes. 
+
+
+
+
+ And doesn't have his boots on, clearly. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [(   )] 
+ 
+
+
+
+
+ [Tolkien on America, democracy, and 'the West'](http://threehierarchies.blogspot.com.au/2008/06/tolkien-on-europe-america-democracy-and.html) is a decent read on this.  
+
+
+
+
+ That wasn't admin, just some random dude in sub. It makes good business sense for all parties -r eddit gets news, sites get traffic for tidbits. See how we go. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Put it this way, if your girlfriend had a store stuffed with gold-pressed latinum that was quantum locked so you dumped her because the investment value was no longer there, then for reasons I can't fathom she removed that lock..would you not reinvest in that relationship? 
+
+
+
+
+ What if they unpaywall? 
+
+
+
+
+ The subreddit belongs to the subscribers. We're just the curators, keeping it real as best we can. I've submitted [this](https://www.reddit.com/r/ideasfortheadmins/comments/35q6qt/block_paywalled_sites_unless_they_allow_reddit/) to the admins, which could fix the issue both ways. See how we go. 
+
+
+
+
+ Submitted [this suggestion](https://www.reddit.com/r/ideasfortheadmins/comments/35q6qt/block_paywalled_sites_unless_they_allow_reddit/) to admins. It's a good idea, and reddit may well have the clout to achieve it. 
+
+
+
+
+ Reddit has the clout as a major driver of news links to request this. It has precedent and would be worthwhile for the sites who allow this as one-off articles. At present they are clogging up reddit with unreadable news links. 
+
+
+
+
+
+
+
+
+
+ If it were 'Asteroid Impact Imminent In New York' or something, I'd agree, but what is important to the sub is the content of the news, not the speed of delivery. There are plenty of non-paywalled news sources running it now. A paywalled article of import frustrates subscribers and is poor form on our part from a readability perspective. We are drafting a rule change to disallow them. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Our Rules were adopted in consultation with our subscribers, we don't change them lightly. Paywalls aren't an issue that comes up much, but I've initiated a mod thread to discuss. Agreed, they're a pain. There are other non-paywalled sites running the story, or you can google the title and get unpaywalled WSJ article from search links, but I'm leaving this post as it's not against current rules, and at the least will make people look it up if they want to read more. But yes, annoying. 
+
+
+
+
+ Noted. We will discuss. This is a tech-relevant post, though clearly not ideal link. We currently do not have a rule against paywalls, but is an issue. 
+
+
+
+
+ [Found sauce!](https://www.youtube.com/watch?v=WEP1G6PcQO8) 
+
+
+
+
+ [That's the early version of this!](http://i.imgur.com/y1Igq.gif) 
+
+
+
+
+
+
+
+
+
+ Wastin' my days on the factory floor. 
+
+
+
+
+ [Silmarillion trailer](https://www.youtube.com/watch?v=RT9UcZPT2DU), fanmade fun.. 
+
+
+
+
+ Loads of games actually.
+
+ 
+
+
+
+
+ [$()$] 
+
+
+
+
+
+
+
+
+
+ You're thinking of an [Einstein Ring](https://i.imgur.com/grC2wPM.jpg). 
+
+
+
+
+ RIP Alderaan.. 
+
+
+
+
+ This is for you. [$()$] 
+
+
+
+
+ [Antarctic south coast.](https://i.imgur.com/u5x9HUL.jpg) 
+
+
+
+
+ [here you go..](https://i.imgur.com/gI9FoTu.jpg) 
+
+
+
+
+ [The long sock..](https://www.youtube.com/watch?v=CFFTRDdS-Fk) 
+
+
+
+
+ Oh the irony.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tolkien was born in Bloemfontein in the Orange Free State, at that time (1892) an independent Boer Republic. It became part of the Union of South Africa after the Boer War. Tolkien had little conscious memory of South Africa. His father had only taken the assignment in Bloemfontein because the English bank for which he worked had promised him a promotion for going there. Certainly Tolkien never considered himself to be a South African, just an Englishman who happened to be born in South Africa. He never returned. 
+
+
+
+
+ His father was head of a British bank in Bloemfontein. They moved back to England when JRRT was 3. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Florida was first against the wall when the revolution came. 
+
+
+
+
+
+
+
+
+
+ [Relevant xkcd.](https://xkcd.com/303/) 
+
+
+
+
+
+
+
+
+
+ No. 
+
+
+
+
+
+
+
+
+
+ Reminds me of The Simpsons intro. 
+
+
+
+
+
+
+
+
+
+ the Silmarillion, without a doubt! Its the whole backstory underpinning what you've read so far. The start can be a bit tough, like reading the Old testament, but when it gets past creation it really kicks off. These are fanmade, but rather cool for a taster - [trailer for The Silmarillion](https://www.youtube.com/watch?v=RT9UcZPT2DU), and [another trailer for The Silmarillion](https://www.youtube.com/watch?v=I6EJg7P7scY).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ autism 
+
+
+
+
+ [Letter 131](http://pastebin.com/WBF3jvT0) delves into the nature of the Rings of Power. 
+
+
+
+
+ I'll just download one. 
+
+
+
+
+ /u/BSPINER, please report to the bridge. 
+
+
+
+
+ Whether or not I've enjoyed a job has inevitably had less to do with what I'm doing and more to do with who I'm doing it with. I've had jobs which on paper were awesome but worked with one or more really trialsome people and really not enjoyed. Conversely, shit jobs with awesome people and are some of my fav work memories. I couldn't descrbe the jobs without ranting/raving about the people.. 
+
+
+
+
+ Give, and you shall receive.. 
+
+
+
+
+ HE WAS A DARK AND STORMY KNIGHT 
+
+
+
+
+ Yey! 10 points me.. 
+
+
+
+
+ I'd think the electrons leaving so quickly leave the surface full of positively charged ions, which repel each other owing to the ions mutual electrostatic repulsion.  
+
+
+
+
+ When elements are close to being stable, they would want to bond with others to drop that electron to become a compound. When elements want to bond with others so badly, it makes them more reactive. Exothermic. Also:
+
+    2Na(s) + 2H2O  2NaOH(aq) + H2(g)
+
+..hydrogen ignites. 
+
+
+
+
+ Reckon it was Frankie Avocado
+
+ 
+
+
+
+
+ No it wouldn't. the First Amendment is pretty clear, and this has no bearing on it whatsoever.
+
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, **or of the press**; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. 
+
+
+
+
+ It's a cartel. 
+
+
+
+
+ Here in English: [Bongcheon-Dong Ghost](http://comic.naver.com/webtoon/detail.nhn?titleId=350217 no=31) 
+
+
+
+
+
+
+
+
+
+ [World's largest sand island - 1840km^2](http://en.wikipedia.org/wiki/Fraser_Island) 
+
+
+
+
+ [Here](http://tolkiengateway.net/wiki/Pictures_by_J.R.R._Tolkien) are a [bunch](http://tolkiengateway.net/wiki/Category:Images_by_J.R.R._Tolkien). Best collection is probably [this book](http://www.tolkienlibrary.com/art/artistillustr/description.htm). 
+
+
+
+
+ Works if the "+0000" is removed.  
+
+
+
+
+ Was mod of /r/pics trying to get [an image in a comment](https://www.reddit.com/r/pics/comments/92dd8/test_post_please_ignore/c0b6vfw) 5 years back. 
+
+
+
+
+ Easy. So if that combo is in cell A1, to get the date element in B1 use formula:
+
+    =DATE(YEAR(A1),MONTH(A1),DAY(A1))
+
+To get time element in C1 use formula:
+
+    =TIME(HOUR(A1),MINUTE(A1),SECOND(A1)) 
+
+
+
+
+ [21870 upvotes](https://www.reddit.com/r/pics/comments/92dd8/test_post_please_ignore/), it did a bit more than just reach front page. Was reddit's highest voted post ever for 4 years or so. Odd place.. 
+
+
+
+
+ The fate of the ruinous [Oath of Fanor](http://tolkiengateway.net/wiki/Oath_of_F%C3%ABanor) 
+
+
+
+
+ [Operation: Knightfall](http://starwars.wikia.com/wiki/Operation:_Knightfall) all over again 
+
+
+
+
+ Not sure I trust that news source given next linked article is '[Poll: MSNBC least trustworthy source of news, Fox News ranked first](http://www.washingtonexaminer.com/poll-msnbc-least-trustworthy-source-of-news-fox-news-ranked-first/article/2561252)' 
+
+
+
+
+ Chin guard.. 
+
+
+
+
+ 
+**must**
+
+*noun *
+
+mold; moldiness; mustiness: 
+
+'a castle harboring the must of centuries.'
+
+..so *nyyyeeerrrr..* 
+
+
+
+
+ [This is appropriate..](https://i.imgur.com/YnoBhdY.jpg) 
+
+
+
+
+ [Nope, this..](http://www.reddit.com/r/IAmA/comments/s5guk/iam_bad_luck_brian_ama/c4b8m3u) 
+
+
+
+
+ Please
+ 
+
+
+
+
+ Maybe the giant data dump? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ \* to much
+
+FTFY 
+
+
+
+
+ The [bit torrent protocol](http://en.wikipedia.org/wiki/Bit_torrent) is not illegal, it can be used for nefarious ends but so can most things. 
+
+
+
+
+
+
+
+
+
+ I'll defer to that, adjust accordingly. I did 2009 - 2012, and the winds that truly vexed us (actually, 2009 was the only bad year to challenge the the bar structure) was a hardcore easterly. But point being, consider it with camp layout. Missing it again this year :( fair trek from oz. Burn for me.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If you do do this, set it up with the opening facing west. White outs most commonly sweep through east to west, and you don't want to end up a giant dustpan. Something to lower and secure on the open side when the wind kicks up, but also the ability to loosen the walls cloth/canvas/plastic/whatever on all sides if the structure is in danger of shifting if the wind gets too crazy. You'll fill up with dust, but better than the collapse of the structure. No matter how secure it looks, you are still basically a sail, and when the wind is beyond the capability of a ship to handle, you retract them. And as stated, rebar rebar rebar! 
+
+
+
+
+ According to the repository of British wisdom that is QI, [it's without any proof for Hitler, but Mao certainly did.](https://www.youtube.com/watch?v=fEU9YsnBFDo t=40m14s) 
+
+
+
+
+ [Redditors don't really skew very very young.](http://i.imgur.com/BRNdNKf.jpg)  
+
+
+
+
+ Well if they do exist they must be pretty fucking stupid if they couldn't even invent color in trillions of years since ancient history - snow is white and so are most fridges, why? White is the color of nothing. Only now in the dawn of humanity are we making, like, chrome fridges and the yellow snow and stuff, et al. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Avogadro](http://fileinfo.com/software/avogadro/avogadro) 
+
+
+
+
+ http://en.wikipedia.org/wiki/List_of_burn_centers_in_the_United_States 
+
+
+
+
+ They..have sprinkles...DAMN you /u/kn0thing!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Your argument is bad and you should feel bad. 
+
+
+
+
+ No, Nimloth is the name of that one tree, not the family. If you're going to create a category name you'd logically have to go to the root of the family tree. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hmm..Silmarilli apparently, though I can't remember them ever being referred to as such in canon.  
+
+
+
+
+ The White Tree is the symbol for Gondor, and represents Aragorn's hereditary right to the throne of Gondor. With the slow disintegration and eventual disappearance of Aragorn's family line from the throne of Gondor, the "Tree in the Court of the Fountain" withers and dies. So the White Tree of Minas Tirith is clearly connected to the health of Gondor's kings, and to the wellbeing of the kingdom in general. When Gondor loses its king and comes under the power of the line of Stewards, the White Tree dies out.
+
+When the Black Gate first falls and the Eagle comes flying to Gondor to spread the news, the proof the Eagle offers that things are going to get better is that the White Tree will come back to life:
+
+*And the Tree that was withered shall be renewed,*
+
+*and he shall plant it in the high places,*
+
+*and the City shall be blessed.*
+
+When Aragorn comes back to Minas Tirith, Gandalf leads him to the mountain behind the city. There, Aragorn finds a little baby White Tree: "Lo! here is the scion of the Eldest of Trees!". And Aragorn replants this tree in the Court of the Fountain. Its health and rapid blooming proves Aragorn's claim. 
+
+But the White Tree doesn't just symbolize Aragorn's family or the health of Gondor in general. It also represents the link between the Men of Nmenor from whom the people of Gondor are descended and the origins of Middle-earth in the lands of the Utter West and the Blessed Realm of the Valar. That's a fancy, Tolkienesque way of saying that this tree is a symbol of Gondor's roots, which are long and, well, pretty powerful.
+
+This tree that Aragorn finds on Mount Mindolluin, Gandalf traces its descent line: "Verily this is a sapling of the line of Nimloth the fair; and that was a seedling of Galathilion, and that a fruit of Telperion of many names, Eldest Trees."
+
+The return of the White Tree to Minas Tirith proves that Aragorn has restored Gondor's former glory as the home of the Men of Nmenor. Sauron, a servant of the original Great Enemy who destroyed the Two Trees in Valinor, has been driven permanently from Middle-earth. The replanting of the baby tree descended from those original Two Trees shows that we have come full circle: the powers who destroyed the Two Trees in the first place has been conquered and Good (represented by that new young tree) has won out in Middle-earth. 
+
+
+
+
+ No, no special term for the lineage, and they were known simply as the First, Second, Third and Fourth White Tree of Gondor. Also, it's Silmarils. 
+
+Because I can, here's the history..
+
+Yavanna sang into existence the Two Trees, silver Telperion and golden Laurelin shedding light comparable to moon and sun. Telperion was referred to as male and Laurelin female. The Trees sat on the hill Ezellohar located outside Valimar. They grew in the presence of all of the Valar, watered by the tears of Nienna. Because the Elves that first came to Valinor especially loved Telperion, Yavanna made a second tree like it to stand in the city of Tirion where the Vanyar and Noldor dwelt together at first. This tree, named Galathilion, was identical to Telperion except that it gave no light of its own being. It had many seedlings, one of which was named Celeborn, and planted on the isle of Tol Eressa.
+
+In the Second Age, a seedling of Celeborn was brought as a gift to the Nmenreans, that was known as Nimloth, the White Tree of Nmenor. It lasted through the vast majority of the realm's duration, but when Sauron took control of the island he had king Ar-Pharazn chop it down.
+
+The first White Tree of Gondor came from a fruit that Isildur, at great personal risk, managed to steal from Nimloth the Fair, the White Tree of Nmenor, before it was destroyed at Sauron's insistence. He suffered many wounds at this mission, and he came near death, but when the first leaf opened in the spring, Isildur was healed of his wounds.
+
+This sapling was brought to Middle-earth on Isildur's ship, and it was eventually planted in Minas Ithil before the house of Isildur. But when Sauron returned to Middle-earth, he launched a sudden attack that captured Minas Ithil, and he destroyed the White Tree.
+
+Isildur escaped the capture of Minas Ithil, taking with him a sapling of the White Tree to Minas Anor where it was planted in the citadel courtyard in memory of his slain brother Anrion. This tree died in 1636 during the Great Plague.
+
+A third sapling was planted in the year 1640 of the Third Age by King Tarondor. This one lasted until the year 2872 and the death of the Ruling Steward Belecthor II.
+
+At this time no seedling of the tree could be found as the tree had rarely flowered after the line of the Kings had failed and therefore no fruit was produced. It was left standing after its death "until the King returns".
+
+When Aragorn became king he discovered (with Gandalf's help) a sapling of the White Tree upon the slopes of Mindolluin, high above the city, which he reverently planted in the Court of the Fountain. The dead tree was removed from the court but was placed in the Tombs of the Kings with all the honour that would normally be accorded a fallen monarch. In June of the year 3019 of the Third Age the sapling was already laden with blossom.
+ 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ If you can smell chlorine, the swimming pool hasn't got enough. What you can smell are chloramines. These are formed when insufficient levels of free available chlorine react with ammonia and other nitrogen-containing compounds (swimmer waste, sweat, urine, etc.), resulting in their only being partially broken down (creating halomethanes). 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+* Sorry, feel your pain, but this is not the forum to ask. Try the suggestions.
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #5: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on this site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ I'll be yer friend..I am a broad church.. 
+
+
+
+
+ A cynical person might think it helps with [fundraising for elections next year.](https://www.opensecrets.org/news/2015/04/trans-pacific-partnership-deal-has-mighty-lobbying-power-on-its-side/) 
+
+
+
+
+
+
+
+
+
+  , ' ,    ? 
+
+
+
+
+
+
+
+
+
+ No. 
+
+
+
+
+ Where? 
+
+
+
+
+ Supermassive black holes are. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ [Still not the longest ship.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bateaux_comparaison2_with_Allure.svg/1024px-Bateaux_comparaison2_with_Allure.svg.png) 
+
+
+
+
+ No ship is too big to fail. 
+
+
+
+
+ [This shows the Oaisis Of The Seas (7 foot shorther than Harmony Of The Seas) compared to the Titanic.](http://i126.photobucket.com/albums/p100/lastofthebenders/OasisOfTheSea-2.gif) 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Devinitely geranium. [Here's a similar leaf.](http://i.imgur.com/ADlKvo1.jpg) 
+
+
+
+
+ [Like so.](http://gfycat.com/RepulsiveVibrantEquine) 
+
+
+
+
+ http://i.imgur.com/lW7V80H.gif 
+
+
+
+
+ [BLAM!](http://i.imgur.com/XNculz2.gif) 
+
+
+
+
+ I err towards the free flow of information. 
+
+
+
+
+ Yea, i deleted it, I posted it too..and I posted it here and everywhere..I'm a technology moderator, and didn't really fit within our rules..I should live by them even when it goes against my nature.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well, [this tool](http://choice.good.do/nofilter/email-your-labor-mp/) allows you to contract your local Labor representative. Can't go down without a fight.. 
+
+
+
+
+
+
+
+
+
+ [Ononynous..](http://i.imgur.com/Q5J34l0.jpg) 
+
+
+
+
+ Yep, sorry about that. Picks up on facebook-dot-com. Reapproved. 
+
+
+
+
+ Thank you for your comment! Unfortunately, it has been removed for the following reason(s):
+
+* Naughty bot.
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ *Gandhi. And dammit OP, Khan.. 
+
+
+
+
+ I gotchaw number.. 
+
+
+
+
+ [Zalgo is life..](http://i.imgur.com/r9w11Zg.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hi, had to remove post, sorry, rules are rules. You might try /r/startups, or check the other subs in their sidepanel. Best of luck! 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+Rule 1.i: This submission violates the sidebar guidelines, in being:
+
+* * Not primarily news or developments in technology.
+
+* * Not within the context of technology.
+
+* * If a self post, not a positive contribution fostering reasonable discussion.
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+* Rule #5: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on this site.
+
+* We don't allow that here, sorry.
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Proving the existence of God. 
+
+
+
+
+ Maybe switch channels.. Only posted cuz woke up with it stuck in my head, and this is my strategy to remove it..  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No hoverboard..why? It was foretold. 
+
+
+
+
+  trip.
+
+FTFY 
+
+
+
+
+
+
+
+
+
+ Did anyone else used to split them with their teeth and turn them into amimals, like horses, or mooses? (meese..?) Lot of long car journeys as a kid. 
+
+
+
+
+ The apparent refusal to support any public transport infrastructure project funding by this government is abysmally ideological and a disgrace. 
+
+
+
+
+
+
+
+
+
+ Shut down by Yahoo in 2013. 
+
+
+
+
+
+
+
+
+
+ That's [Brian Meeker](https://www.youtube.com/watch?v=pVNDBluxIv8). Here he is talking about it. 
+
+
+
+
+ [Let's enjoy him being punched in the head again..](http://i.imgur.com/atPL5Wk.jpg) 
+
+
+
+
+
+
+
+
+
+ You may leave the playa, but the playa never truly leaves you..  
+
+
+
+
+ brigading 
+
+
+
+
+ That's numberwang! 
+
+
+
+
+ Jeez, take a chill pill, corporate shill! Quit meddlin', stop peddlin' and relax, with that smooooth refreshin' taste of Laramie cigarettes. 
+
+
+
+
+ /r/TOR, /r/privacy and /r/netsec all see it for what it is. Sometimes it's about getting something out. You didn't even watch the video did you. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No. 
+
+
+
+
+ Different paradigm. 
+
+
+
+
+ Well maybe watch the video, it goes for 3 minutes, the title cannot compress the vid info into it.
+ 
+
+
+
+
+ No. 
+
+
+
+
+
+
+
+
+
+ In this context? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Awaiting..he has always come through previously. 
+
+
+
+
+
+
+
+
+
+ [XD AM I DOINITRITE??](http://i.imgur.com/VV16WMU.jpg?1) 
+
+
+
+
+ It's noted that Telperion had white blossoms like a cherry, and that Laurelin had leaves like a beech - though generally it was also noted to have been 'founded' on the laburnum:
+
+On the carbon copy of LQ 2, which otherwise received no emendations, my father added the following note to the word spilth in the last sentence: meant to indicate that Laurelin is 'founded' on the laburnum. 4 'jocund spilth of yellow fire' Francis Thompson  who no doubt got the word from Timon of Athens (his vocabulary was largely derived from Elizabethan English).
+
+~ Morgoth's Ring  
+
+
+
+
+ Well no, of course he's not saying it's a beech. Nor is it a cherry. Its bark, boughs and leaves (though not trunk) are akin to a beech, its flower clusters like a cherry (though golden). He's not describing an actual tree that exists. 
+
+
+
+
+ [This belongs here](http://i.imgur.com/FiGbVHK.jpg) 
+
+
+
+
+ A troll duck 
+
+
+
+
+
+
+
+
+
+ Came here expecting a duck.. 
+
+
+
+
+ "One of the many major problems with governing people is that of whom you get to do it; or rather of who manages to get people to let them do it to them: It is a well known fact, that those people who most want to rule people are, ipso facto, those least suited to do it. Anyone who is capable of getting themselves into a position of power should on no account be allowed to do the job. Another problem with governing people is people." ~ Douglas Adams 
+
+
+
+
+ Rarely is the question asked: Is our children learning? 
+
+
+
+
+ If it were 60% female then it would be 40% male. If for every 40 males there's 60 females then there's 33.3% more females than males. But anyways, [the population is 50.8% female](http://quickfacts.census.gov/qfd/states/00000.html), and either way your point stands. 
+
+
+
+
+ [Bigger than you think..](http://i.imgur.com/bzndHyl.jpg) 
+
+
+
+
+ u got Nickelbacked.. 
+
+
+
+
+ I'll admit it's not the greatest idea in the world, BUT..it is an idea in the world.. 
+
+
+
+
+ Becoming so jaded so young robs you of your potential to grow jaded in later years. Don't give up yet, you have so much to live, and to be, and to do. 
+
+
+
+
+ In /r/technology we have links to all our rules in main screen. Not only does it make practical sense, it saves mod time. How can you not expect rule violations if nobody sees your rules? 
+
+
+
+
+ Fair enough. You could make your posting rules more clear and apparent, they're rather hidden three screens down and unhighlighted. Almost expected a 'Beware of the leopard' sign when I tracked it down. 
+
+
+
+
+ /r/hybridanimals 
+
+
+
+
+ First I want to thank God who makes all things possible. Then of course my Mother and Father, without whom I wouldn't be here today. The mods for being such tender, understanding individuals, the upvoters who are seeing this for the first time. those who have seen it before but don't downvote because everyone deserves to know.. and last of all, all you people who have never posted this before..hang in there kids..your time will come..mine has..God bless, and bottoms up.
+ 
+
+
+
+
+ Agreed! I just noticed I had never posted it, and boy oh boy, I suddenly realised I wanted to be part of that club. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How does the width vary so much in similar latitudes? And how does it reach the Arctic? 
+
+
+
+
+ Is she hiding behind the TARDIS? 
+
+
+
+
+ [No corn on the cob then..](https://www.youtube.com/watch?v=bXdAeg-syY4 t=19s) 
+
+
+
+
+ Thank you for your comment! Unfortunately, it has been removed for the following reason(s):
+
+Rule 1.i: This submission violates the sidebar guidelines, in being:
+
+* * Not primarily news or developments in technology.
+
+* * Not within the context of technology.
+
+* * If a self post, not a positive contribution fostering reasonable discussion.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Vell, Zaphod's just zis guy, you know? 
+
+
+
+
+ https://www.youtube.com/watch?v=89hkmQKx9p4 
+
+
+
+
+ [You'd like this then.](https://www.youtube.com/watch?v=7N5OhNplEd4) 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+Rule 1.i: This submission violates the sidebar guidelines, in being:
+
+* * Not primarily news or developments in technology.
+
+* * Not within the context of technology.
+
+* * If a self post, not a positive contribution fostering reasonable discussion.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+
+
+
+
+
+ [and buseymonsters..](http://i.imgur.com/sN1a9g1.gif) 
+
+
+
+
+ Most similar to a beech tree. From *Unfinished Tales*:
+
+Its bark was silver and smooth, and its boughs somewhat upswept after the manner of the beech; but it never grew save with a single trunk. Its leaves, like those of the beech but greater, were pale green above and beneath were silver, glistering in the sun; in the autumn they did not fall, but turned to pale gold. In the spring it bore golden blossom in clusters like a cherry, which bloomed on during the summer; and as soon as the flowers opened the leaves fell, so that through spring and summer a grove of malinorni was carpeted and roofed with gold, but its pillars were of grey silver. Its fruit was a nut with a silver shale. 
+
+
+
+
+ From Letter 340, from JRRT to Christopher:
+
+"I never called Edith Luthien  but she was the source of the story that in time became the chief part of the Silmarillion. It was first conceived in a small woodland glade filled with hemlocks at Roos in Yorkshire (where I was for a brief time in command of an outpost of the Humber Garrison in 1917, and she was able to live with me for a while). In those days her hair was raven, her skin clear, her eyes brighter than you have seen them, and she could sing  and dance. But the story has gone crooked, and I am left, and I cannot plead before the inexorable Mandos." 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #5: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on this site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #5: It is spam. You may wish to review [reddit's guidelines on self-promotion](http://www.reddit.com/wiki/selfpromotion)  and [spamming](http://www.reddit.com/wiki/faq#wiki_what_constitutes_spam.3F) before continuing to participate on this site.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ I wouldn't've. I understand the indignation, but my inclination is that the privacy fears are slightly overblown. I dislike them, but they're largely benign, and they are what make the pretty amazing free services possible. You can lock down privacy controls to max strength these days, and choose your platforms and services to minimise intryusive practices. Check out /r/privacy, may help. Still..8 years of photos..? Hope you have a backup. Also, sorry but had to remove this post as we don't allow questions in /r/technology, else we'd get swamped by questions. It's in our rules. You might try /r/asktechnology, /r/askreddit, or athe aforementioned /r/privacy. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Just buy a new washing machine. 
+
+
+
+
+ Also, [Tolkien's gravestone.](http://i.imgur.com/a4L9rvW.jpg) 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+*  This link or one very like it has been [submitted recently to /r/technology]().
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Thank you for your submission! Unfortunately, it has been removed for the following reason(s):
+
+* Rule #1.iii: This submission is a request for tech support, asking a question, or asking for help.  Try submitting to /r/AskTechnology, /r/TechSupport, our weekly Support Saturday threads or check the links in our sidebar for more relevant communities.
+
+
+
+If you have any questions, please [message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) and include the link to the submission. We apologize for the inconvenience. 
+
+
+
+
+ Moon goes up, moon goes down. Mom goes out, mom comes home. It always happens. Never a miscommunication. 
+
+
+
+
+ It's common knowledge that the moon contols the tireds. This is why we sleep at night. 
+
+
+
+
+ [*The Lay of Leithian*](http://tolkienleithian.blogspot.com.au/2013/03/canto-i.html) is a 4200+ verse poem by Tolkien telling the Tale of Beren and Lthien. 
+
+
+
+
+ The [original Ronald McDonald](https://brandstanding.files.wordpress.com/2014/08/original-ronald-mcdonald.jpg) was creepy as fuck. 
+
+
+
+
+ [Smallpox.](http://i.imgur.com/Ufr1iAe.jpg) Only took us twelve thousand years to win that war. Smallpox was responsible for an estimated 300500 million deaths during the 20th century. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeahh.. ^\**facepalm** 
+
+
+
+
+ Yes.. 
+
+
+
+
+ No I didn't.. 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+_ ~ ^QUITE.. 
+
+
+
+
+ http://i.imgur.com/bFmRdu1.jpg 
+
+
+
+
+ I just spoke to Bill Gates and he said this didn't happen. 
+
+
+
+
+ The chances that anyone has ever shuffled a pack of cards in the same way twice in the history of the world are infinitesimally small, statistically speaking. The number of possible permutations of 52 cards is 52 factorial otherwise known as 52! or 52 shriek. This is 52 times 51 times 50 . . . all the way down to one. Here's what that looks like: 
+ 80,658,175,170,943,878,571,660,636,856,403,766,
+ 975,289,505,440,883,277,824,000,000,000,000.
+
+ To give you an idea of how many that is, here is how long it would take to go through every possible permutation of cards. If every star in our galaxy had a trillion planets, each with a trillion people living on them, and each of these people has a trillion packs of cards and somehow they manage to make unique shuffles 1,000 times per second, and they'd been doing that since the Big Bang, they'd only just now be starting to repeat shuffles.
+
+~ Stephen Fry, QI 
+
+
+
+
+ Imgur's just a blog site. Google it. 
+
+
+
+
+ *Memes dank melt can't fuel jet* ~ **Yoda** 
+
+
+
+
+
+
+
+
+
+ You're a triantiwontigongolope. 
+
+
+
+
+
+
+
+
+
+ That freaked me the fuck out as a kid ..  
+
+
+
+
+ Look, we're splitting hairs here. No, they didn't sell missiles laden with chemical agents to Iraq, but they did sell, and transfer, the material and materiel for chemical and biological weapons, and this has been known and not been in dispute for a good many years. 
+
+
+
+
+ It's up for review in 2 years, so consider it on a good behaviour bond. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The bite from both juvenile and mature females appear to have similar potency. An antivenom has been available since 1956, and there have been no deaths directly due to redback bites since its introduction. 
+
+
+
+
+ What? Yes they do.
+
+Reports by the US Senate's committee on banking, housing and urban affairs -- which oversees American exports policy -- reveal that the US, under the successive administrations of Ronald Reagan and George Bush Snr, sold materials including anthrax, VX nerve gas, West Nile fever germs and botulism to Iraq right up until March 1992, as well as germs similar to tuberculosis and pneumonia. 
+
+
+
+
+ Oops! [Here y'go..](http://rense.com/general29/wesold.htm) And [here](http://www.dailymail.co.uk/news/article-153210/Rumsfeld-helped-Iraq-chemical-weapons.html), and [here](http://en.wikipedia.org/wiki/Iraqi_chemical_weapons_program). 
+
+
+
+
+ [Yes they did.](http://www.sundayherald.com/27572) 
+
+
+
+
+ Why's it black and white if it's from 1990? 
+
+
+
+
+ I'd prefer not to count dangerous spiders on my hand.. 
+
+
+
+
+
+
+
+
+
+ [It's close to midnight..](https://titlefive.files.wordpress.com/2012/09/marcea-michael-jackson-thriller-set-edit.jpg) 
+
+
+
+
+ God put dinosaur bones in the ground to create work for paleontologists. God is the Job Creator. 
+
+
+
+
+ lol! never seen a sub where every single post has zero votes.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

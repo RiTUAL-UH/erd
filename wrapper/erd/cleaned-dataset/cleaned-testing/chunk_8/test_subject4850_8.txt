@@ -1,0 +1,60 @@
+ Thank you! :) Wish there was more I could say than just thank you on here haha 
+
+
+
+
+ Sorry, not quite sure what you are talking about here.  If you mean "where is the iOS/Android dev", well... I could do android (don't have a mac) depending on the interest. 
+
+
+
+
+ Haha, yeah, I've been a bit of a worry-wart when it comes to posting here.  partially because I haven't been sure whether people would enjoy it, partially because I'm super critical of myself, and worry about whether it's good enough.  It makes gives me confidence that you say this though, so thank you, and I'll do my best in the future to post it here/there more! :) 
+
+
+
+
+ You're welcome!  I hope you find this all useful :) 
+
+
+
+
+ Haha, yeah, I need to figure out a lot of noise issues (my apartment is too loud lol).  It gets better in future videos I think, but I'll make sure to double check it further in the future too :) 
+
+
+
+
+ Of course! :) 
+
+
+
+
+ Thank you! :) I've been contemplating how to do that still actually, and my only concern is I want to make sure that when I show that, I do so properly (especially since I want to avoid any deprecated OpenGL stuff).  While I'm 99% sure I'm fully up to date on everything, there's still a few minor things before I officially do that, but that's my current plan for season 2 :) 
+
+
+
+
+ And in reference to your specific stream idea: Just go for it :) I did a test run with some extra videos prior, which is what motivated me to do more.  If you find yourself being less productive, then you can always stop streaming :) 
+
+
+
+
+ Sure!
+
+Honestly, I feel like overall it's had an incredibly positive impact.  Obviously because I'm doing the stream to make games, I've made a ton of games during this time, but there's also been a huge awareness to the quality of what I make as well that's occurred.  Now when I make a game, I find myself a bit less worried about the quality for my private code, but more worried when I publish things (which I think is good, though I suppose that's debatable).
+
+The other big thing that's been helpful is that it's forced me to learn proper terminology, something I've pushed off a ton during my school years.  That is to say, making sure that when I am talking about references vs pointers, I am able to give a more technical definition, as well as a general explanation.  I'm still working on this personally, but it's a lot better than when I started.
+
+Finally, I've learned about a lot of new tools for my videos, as I didn't want to spend a whole lot of time with setup and such.  Thus I've learned a lot more about other engines, in order to simplify my development.  As an example: I recently learned a lot about Three.js as another potential series.  So when I went to work one week and needed to use it, I was able to use it there, without needing to do a whole lot of extra research on what I wanted to do.
+
+And obviously of course I've learned some new things about C++ and SFML along the way :)
+
+TL;DR: My code quality awareness has gone up, my use of proper terminology has gotten better, and I've learned a ton of new APIs thanks to this stream. 
+
+
+
+
+ Thank you!  It really excites me to see so many people interested in this! :) 
+
+
+
+

@@ -1,0 +1,206 @@
+ It is still not released yet, but I will give a presentation about current (and possibly future) status and possibilities at the end of month, and I will upload a presentation about it - https://plus.google.com/u/0/+MichalTajchert/posts 
+
+
+
+
+ *even be possible to create a music controller on an Android watch...?*
+Just use ongoing notification for such actions. I think it is a wise move as my 95% of use of sw2 is only notifications.
+Also ongoing notifications (as music control) is already available in Google Music, however they didn't released it in API (in preview). 
+Custom card UI will be added in final SDK version (around Google IO). 
+
+
+
+
+
+
+
+
+
+ Hi,
+I have made lately...
+
+1)[Bitcoin Widget](https://play.google.com/store/apps/details?id=com.tajchert.smartextensionbitcoin)
+
+2)[Easy share](https://play.google.com/store/apps/details?id=com.tajchert.smartextensionpasteshare) - you can paste any text to smartwatch, or share any image, or other content to it
+
+3)[QR Codes!](https://play.google.com/store/apps/details?id=com.tajchert.smartextensionqr)  You can generate any kind of QR code, and show it on smartwatch, great as a bussines card
+
+
+Hope you will like it. If you have any questions just ask.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Don't be so closed as iShit, and please share link. 
+
+
+
+
+ I'm tire. I'm going home.
+
+FTFY 
+
+
+
+
+ What are 'executive orders'?
+Please explain like I'm five. 
+
+
+
+
+ I find **Monsters** (2010) surprisingly good.
+
+
+[SPOILER - which make whole film a top notch]
+
+First and last scene are the same (with military troops) - mind blowing. 
+
+
+
+
+
+
+
+
+
+ Where is PSU in "Vader"? 
+
+
+
+
+ My favorites:
+
+[Sweating](http://2.bp.blogspot.com/-zkT6hVdcabc/UWko8PWUbbI/AAAAAAAALP4/YpQGD9TfVso/s1600/airplane.gif)
+
+[Nervous?](http://static.fjcdn.com/pictures/Airplane%2Btrolling_ea87aa_3294773.jpg)
+
+[Docking](http://31.media.tumblr.com/tumblr_lcw8t8eqpZ1qdezf9o1_400.gif)
+
+ 
+
+
+
+
+ Local GDG events (DevFest etc.), I strongly encourage everybody to get in touch with local GDGs.
+
+EDIT: And there is also Mobile World Congress - Barcelona 24-27 Feb. 
+
+
+
+
+ He's not your dude, mate. 
+
+
+
+
+
+
+
+
+
+ Op nick "HighLevelJerk" - relevant. 
+
+
+
+
+ Thank you!  
+
+
+
+
+
+
+
+
+
+ Yes! You just can't sell/buy it via US bank account - but you can transfer them to some local currency exchange and check out there. 
+
+
+
+
+ You mean to select manually all devices with =1GB RAM? It would be like thousand of them - and you have to check every phone specification.  
+
+
+
+
+ http://stackoverflow.com/questions/12234221/specifying-android-market-ram-in-the-manifest
+
+Apart from screen filtering there is no way to target those devices - I share your pain. Unless you want to select them manually, or programmatically at app start - but both of them are far from perfect. 
+
+
+
+
+ Stay tuned (with auto updates), as it is almost ready (center will trigger clock, and ring - calendar). 
+
+
+
+
+ Some of it I just added in 1.91 version - it's messy but better then nothing. I will polish it in next update. 
+
+
+
+
+ In current version (1.91) you can set them to colors of your calendars. In next update I will give an option to customize them. 
+
+
+
+
+ Sorry, but Android doesn't give a list of alarms, also timely doesn't. 
+
+
+
+
+ Check out latest (1.91) version - I added it. Custom colors will be added in next update - with better organised settings panel. 
+
+
+
+
+ Never say never :)
+Reddit made my widget popular so I feel obligated to keep connection and exchange of ideas with you guys. 
+Thank you for being one more person happy with that widget. It really means a lot to me. 
+
+
+
+
+ Will look into that but please don't get your hopes up, as there is very little chance that it would work - but I will try! Reddit made my widget popular, so I own you guys. 
+
+
+
+
+ Hi, there... I was wrong, there is a way... (which doesn't drain battery) and I already added it, I will ad Google Calendar colors as option and will push in few hours an update with that! 
+
+
+
+
+ Yes, it have to be in next 12 hours, and it have to be a "not all day one".
+Also it refreshes every 30minutes so if you add one in meantime, wait 30min. or remove and add calendar to force update. 
+
+
+
+
+ It will work like that in next or 2.0 update - so matter of days. Stay tuned. 
+
+
+
+
+ Glad that bug turnouts to be a feature.  
+
+
+
+
+ Can't get alarms from Android... Sorry. I would love to. 
+
+
+
+

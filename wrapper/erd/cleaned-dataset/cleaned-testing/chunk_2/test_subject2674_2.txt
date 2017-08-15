@@ -1,0 +1,125 @@
+ One way is by studying a small sample population, through banding or radio tagging.
+
+For example, you might tag 50-100 individuals in an area (depending on how hard they are to tag, how expensive the tags are, etc.) and then see how many can be re-located the next spring. 
+
+
+
+
+ This kind of article is what I was originally looking for to write a response to this question . . . thank you for posting it. 
+
+
+
+
+ I am learning so much about bears today!
+
+Apparently the cubs do not hibernate, even though they are born in winter: http://bearstudy.org/website/images/stories/Publications/A_Bear_in_its_Lair.pdf
+
+And it looks like they do have a much higher morality rate than adults during their first winter, mainly because other bears are eating them :-/   http://www.bearbiology.com/fileadmin/tpl/Downloads/URSUS/Vol_7/LeCount_Vol_7.pdf 
+
+
+
+
+
+
+
+
+
+ "Linked" in your headline is a good choice; since the study is based on correlation, they can't say whether anxiety is caused by sitting, more anxious people sit more, or some other relationship.
+
+Given other studies that have shown more tv watching leads to higher risk of depression, it definitely seems like a finding to pay attention to and explore further. 
+
+
+
+
+ I'm not very knowledgeable about that, and mostly I know about honey bees, which don't truly hibernate.
+
+What you're suggesting seems like a sound hypothesis to me, though. 
+
+
+
+
+ The exact mortality rate varies by species, geographical location, and time, but in every species I know of, there is some mortality risk during hibernation, due to predation, disease, starvation, etc.
+
+As a counterpoint to bats, apparently black bears have a really low mortality rate during hibernation, ~1%.  (Seems like that would actually be lower than their mortality rate during the summer!)
+
+ETA:
+
+1. Wow, I did not expect so much enthusiasm for bears!
+
+2. Although it apparently has been a topic of controversy, there does seem to be scientific consensus that bears hibernate:
+https://en.wikipedia.org/?title=Hibernation#Bears
+https://scholar.google.com/scholar?hl=en q=bear+AND+hibernation btnG= as_sdt=1%2C14 as_sdtp=
+http://www.reddit.com/r/askscience/comments/3atd68/how_common_is_it_for_animals_to_die_during/csfwpvo 
+
+
+
+
+ Animals probably don't know consciously whether another animal is an herbivore or a carnivore.  Also, they probably don't have reason to.  It might often be true that herbivores are good targets for predation, it's not universally true (eg, porcupines.)
+
+Carnivores do probably either learn (as individuals) or evolve (as a population) to prefer animals that are easier prey, as well as those that provide them with the nutrients they need the most: "Do wild carnivores forage for prey or for nutrients?: Evidence for nutrient-specific foraging in vertebrate predators."
+http://www.ncbi.nlm.nih.gov/pubmed/25767065 
+
+
+
+
+ It's also a lot more wrong than any physics textbook, I hope. 
+
+
+
+
+ I had to take two tries with American Gods.  Some of the little "interludes" between the chapters weirded me out.
+
+You might try the audiobook--I found it pretty well done, and it keeps you going/engaged through the bleak beginning until the pace starts to pick up.  It does pick up eventually, and becomes (what I found to be) an interesting mystery/thriller combination of a plot, with a lot of neat mythology mixed in. 
+
+
+
+
+ It seems like it would be tricky to create a true placebo control for CBT.
+
+From a little bit of searching the literature, it looks like CBT is often compared in studies with other types of therapy, and/or pharmacological treatment.  For example, in "Predictors of Treatment Efficacy in a Clinical Trial of Three Psychosocial Treatments for Adolescent Depression", CBT is compared with nondirective supportive therapy: "NST was designed  to control for the nonspecific effects of psychotherapy and  consisted of the  provision of support, affect clarification, and  active listening."
+
+While it's possible that individuals in this study had researched CBT and other forms of therapy, could recognize which form they were receiving, and believed strongly that only CBT could help them, it's more likely that they weren't really aware which form they were receiving, and didn't have a strong belief about whether one form was most likely to help.  The comparison of one form of therapy to another, instead of only to untreated individuals, should help control for a placebo effect related to receiving therapy in general.
+
+In general, it sounds like CBT has robust positive effects compared with many types of treatments: "The empirical status of cognitive-behavioral therapy: A review of meta-analyses"
+http://www.sciencedirect.com/science/article/pii/S0272735805001005 
+
+
+
+
+ They're only going to be used in sting operations. 
+
+
+
+
+
+
+
+
+
+ You have the right idea, although I would state this a little differently.  It's not just that the body is trying to "read" the impulses, ie, it's not getting confused because the impulses don't make sense.  It's that the electric current flowing through you is actually sending really strong signals through your nerves that automatically result in muscle fiber contraction, as well as a lot of other things.  It's similar to a radio station suddenly broadcasting a signal so loud that it damages radio speakers everywhere.
+
+When a current goes across someone's chest, it can cause fibrillation.  The heart muscles' normal rhythm gets drowned out, and the fibers lose track of that rhythm.  They can't get back in synch with each other again.  The heart is no longer pumping properly, and this obviously can cause death if something isn't done to re-coordinate the heart muscle action.
+
+In addition, (please someone correct me on this if I'm getting the physics wrong) the resistance encountered in the body by the electrical current will cause the body to heat up, causing burn damage to all the organs the current passes through.
+
+Edited to add a source: http://circ.ahajournals.org/content/112/24_suppl/IV-154.full 
+
+
+
+
+ This could be one aspect, but I'm not sure it's the most informative (although it could contribute to the amount of resources being protected in the nest, see below.)  Most stinging wasp species (unlike honey bees) do not die as a result of stinging--they don't have a barbed stinger or a venom sac that rips out along with their gut. So altruistic self-sacrifice isn't usually relevant.
+
+In addition, in many examples of social wasps, even the subordinate individuals do have some reproductive opportunities--unlike most social bees or ants, in which many or all of the workers are sterile.  So even if a given individual wasp did have to risk her life in defense of the nest, she would be doing so in part for her own offspring.  In some social wasp species, aggression between the individual wasps is what determines the social hierarchy and thus who gets the most reproductive opportunities.
+
+For the original question, there could be many selection pressures shaping the level of aggression of a wasp species.  For example, what kinds of predators attack the wasps, and how frequently?  What resources are they protecting?  One reason that honey bees have to mount an efficient defense of the hive is that they are protecting a hugely desirable resource--a huge collection of honey (sugar), pollen (fat and protein), and larvae (even more fat and protein, yum!) If a wasp doesn't store a huge amount of food in the nest, it may not be very tempting for other animals to attack, and evolve to be less aggressive.  What other animals typically predate on a wasp species might also shape what kind of animal they are likely to attack.  Some species might be very quick to attack a likely predator, maybe another insect, but not inclined to pick a fight with a large and usually non-threatening mammal.
+
+I would guess that you may be right--you don't hang out in the woods often enough to see wasp nests there.  They are probably also better camouflaged in their natural environment, and maybe higher up in trees than you are looking.  Houses are probably an appealing choice for a nest site though, because eaves offer more complete shelter than branches.  For wasps that predate on other insects, lights near houses might also conveniently lure prey. 
+
+
+
+
+ Years after I read East of Eden, I read some scientific literature on psychopathy . . . I was amazed by how closely her behavior and character matched the clinical description. 
+
+
+
+

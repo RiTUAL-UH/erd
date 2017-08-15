@@ -1,0 +1,987 @@
+ Then you have a bug, report it on the forums 
+
+
+
+
+ Just move away until the horse marker isn't on the minimap anymore and he'll respond. 
+
+
+
+
+ Press tab 
+
+
+
+
+
+
+
+
+
+ Sorry, should have been a little more clear. Changed the ones which could be optional 
+
+
+
+
+ Ah, I didn't realize the rarity step. Thanks! 
+
+
+
+
+ This is buy back, for if you accidentally sell something  
+
+
+
+
+ Theoretically. But you have access to the "storage chest" all the time, even when fighting. 
+
+
+
+
+ Hadn't heard of this idea before! I'll add it in. 
+
+
+
+
+ It's also if you hit anything on the way down. 
+
+
+
+
+ As someone who hasn't read the books yet, I somewhat disagree. Yes, a lot of these things are easier to miss, but if you pay attention most of it is explained as backstory. Is it perfect? No, and I felt lost sometimes. But they made the games well enough that you don't lose too much. 
+
+
+
+
+ I play with KB/M, can you explain?
+
+ 
+
+
+
+
+ Added! 
+
+
+
+
+ Added! 
+
+
+
+
+ But why should you have to loot so much to find it? 
+
+
+
+
+ I believe starred items (new) are always sorted at the top. Then once you look at them, the sorting is by type. Within each type, it's sorted by how new they are to the inventory. If you drop something and pick it up again, it should be the last one of that type. 
+
+
+
+
+ Edited to be clear.  
+
+
+
+
+ You can, it's the "change objective" button. You can also turn off the dotted line entirely.  
+
+
+
+
+ Weird, I'll look out for it. They do have a thread for bug reports on the cdpr forums, you should probably post it over there. 
+
+
+
+
+ The actual mechanics of this is that when sword is not out, the other items gain the same amount of damage that your basic fists do
+
+That is so weird. Either way, I think it's a bug and should be fixed to a standard.
+
+Personally I really like the grid system since it gives you a visual representation of where everything is.
+
+I would agree except that everything is jumbled together, especially on the equip screen. It looks a little ugly instead. 
+
+
+
+
+ Even when I roll I sometimes lose a lot of health.  
+
+
+
+
+ I found one...once.  
+
+
+
+
+ Awesome job guys! I've barely got to Skellige and I'm 80+ hours into the game already. IMO, this should go into the list as one of the best games of all time. 
+
+However, there are a bunch of things that people have found to be annoying about the gameplay, which, if fixed, would make the game even more enjoyable. Since you guys don't have the time to be reading every post, a lot of these probably slipped past you. So I took the time to compile all of the complaints/proposed fixes I saw and made them into a list. Here they are!
+
+**Important:**
+
+* Fix fall damage! Make it less, automatic roll, etc. Maybe a potion. We should be able to jump from heights like in the Witcher 1 intro video.
+* More key bindings, fix some of the ones available. For example, right now sheath and dive can only use the same button if you keep the default.
+* Swimming Controls
+* Horse Controls (ex. doesnt stop randomly, reliably navigate around objects, automatic jumping over low barriers)
+* **Storage**: Please give innkeepers stashes like in the two previous games, or maybe a 'Travelers Storage chest' at all inns so we don't have to talk to someone to access our stuff. There are many options for this, but I would like to have all the types of witcher armor and swords available somewhere, though not necessarily on me. Maybe Roach should be a storage chest?
+* More options, especially for potions and bombs, in the quick access wheel, like this: http://www.reddit.com/r/witcher/comments/374d3l/anyone_else_wish_they_had_something_like_this/[3]. This isn't necessarily the answer, but applying oils, switching bombs, and drinking potions is cumbersome right now. It would be alleviated somewhat with extra tabs (see below), but not entirely.
+
+**Combat:**
+
+* Jump while in combat
+* It seems that if the sword is out, all other items deal ~ as much damage. Is this intentional? 
+* Larger axis of rotation when aiming crossbow and bombs. There's a small limit right now, and sometimes I can't shoot high enough to hit flying monsters.
+* Make it easier to run away from a fight, Geralt sticks to the enemy too aggressively.
+* Auto sheathing swords sometimes happens while still in combat but a little far away, or an archer is targeting and you can't parry because you didn't close yet.
+* Option to manually turn on and off combat mode.
+
+**Economy:**
+
+* Merchants need a buy back feature at the price it was sold at. Maybe this should be in a different tab so that the sold items don't clog up the main screen.
+* The buy/sell ratio should be more equalized. Right now it is a little ridiculous for both gameplay and immersion.
+* There is very little coin in the beginning of the game, and lot once you hit level 12 or so.  
+* Food and alcohol prices and extremely high.
+
+**HUD:**
+
+* Adjustable minimap size
+* Slower, larger combat and item log
+* A toggle button
+* Smaller size possible
+* Being able to move it to the actual edge of the screen (adjustable settings don't get it quite there)
+* An option for a compass/clock without the minimap
+
+**Map:**
+
+* Zooming out more
+* Quest filtering/switching on map; maybe have the option show all quests in grey, and clicking on a marker makes it the active quest.
+* Multiple quests shown
+* Option to show a map of the inside area of a cave on the large map screen
+* Custom notes
+* Icons for merchants, blacksmiths, and armorers dont disappear when they unload
+* The world map is hard to scroll with a gamepad, the cursor sticks very aggressively to icons.
+
+**Crafting and Alchemy:**
+
+* Monster mutagens could be disassembled/be used for regular upgrades
+* A sort function in the crafting window, perhaps by item level or damage/armor so that we don't have to look through everything to find the best one.
+* Tabs in the dismantling menu
+* The collapsible menus should not reset.
+* Choosing whether or not to replenish potions and bombs when meditating; and/or choosing to refill potions without meditating.
+* Hide feature for already crafted potions; on the same note, don't replace the old recipe with the enhanced one.
+* Crafting should also have a item is already owned notification when confirming so you don't make something twice
+* When dismantling items, show how much of the components I already own and how much they are worth. How am I supposed to make a decision between dismantling and selling if I don't know if a component is rare or valuable?
+* Highlight new recipes
+* Allow us to auto-buy missing materials from the vendor if he stocks them, or double clicking on the material from the crafting screen.  Now you have to look at the material missing, look for it in between a huge list then look what do you need to craft it and search again.
+* Possibly remaking a piece of equipment to rise its level to your own
+
+**Quests:** 
+
+* Have active quest appear in the quest menu when opened, and save the drop down state.
+* Make the flavour text of quests and glosary entries more friendly when they update.
+* Easy searching of completed quests.
+
+**Inventory:**
+
+* New tab for Books   Letters   Notes
+* Books and scrolls should have an additional tooltip line indicating read/unread
+* Books and letters should have the option to be read when picked up/looted, instead of having to find it in the inventory
+* New tab for food or potions/oils/decoctions
+* Different tabs for crafting   alchemy
+* A sort function with multiple options (weight, price, quality, level req., name, etc.). On that note, how are they currently sorted? Pickup time?
+* A way to fav/trash items
+* A tab for Gwent cards in the inventory 
+* When buying from a merchant or looting, items should have a line in their info popup that states either "Owned: (#)" or "Unowned"
+* There is a lot of dead space on the screen. Either expand the grids or use it in another way?
+* **Maybe**: A list option instead of a grid system
+
+**Other/Controversial/Inane:**
+
+* Better navigation of menus (e.g. quick exit)
+* Option to turn subtitles off for English/chosen language but keep them for the other languages in game in order to understand them.
+* More higher level quests
+* Better leveling -- doing all the side quests leaves you way over leveled
+* Better trophies
+* Fix item weight (feline armor set should not weigh more than griffen!)
+* More things to do, people to talk to after the main story
+* Rewards that correlate to quest level. My blade of the bits was level 15 because that's when I started the quest, even though I ended it at level 19 or so. My masterwork sword was outclassed by the time I got it.
+* Assign a hotkey for reapplying current oil
+* Being able to loot under your feet. You currently have to move a little.
+* Option to reduce the frequency of background music playing. It's unrelenting, there's never a quiet moment. Especially since your environmental sound effects are some of the best I've heard.
+* FOV slider
+* Fist fights should not immediately start on a cutscene ending. There isn't enough time to react.
+* An expanded glossary: Herb locations/descriptions, cities/factions/locations, etc.
+* The drop rate for some alchemy substances is low for rare monsters, like a golem heart or ekkimarra hide. Can we get either the monster to appear more often, a higher drop rate, or special alchemy merchants to sell these for high prices?
+* More gradient speeds
+* Cloaks and hoods would look really cool
+* Camera zoom in and out, if possible.
+* Ability to pause cutscenes.
+* Meditating should save the game.
+
+
+**Extra Requests: (Ignore this):**
+
+* Romance DLC
+* Allow Geralt to imbibe more alcohol.
+* Ability to give money to beggars
+
+Thanks again! We really appreciate all your hard work! 
+
+Non CDPR people: Add your own in the comments. Maybe CDPR will hear you too. ;)
+
+Edit: Edited
+
+Edit 2: Since I'm not going to bother responding to every person, I have a few points:
+
+1. These are suggestions I have seen people have that I thought made sense or seen other people agree with. Yes, some are frivolous, but I purposely did put not graphics or bugs/glitches here. Would you prefer this or a bunch of people continuing to make the same complaints over and over? This is deliberately a positive list of things to make the game better; if you have an objection to something on the list, say it! Writing that 80% of this is crap helps no one and only makes the entire discussion acrimonious.
+
+2. Yes, these are minor improvements, only because the Witcher 3 is already such a great game. No, CDPR is not obligated to do anything. However, since they said they are reading this forum, why not bring issues to their attention? Lot's of good suggestions are buried. 
+
+3. Sheesh people, stop freaking out about the list idea. It was a suggestion I saw a couple of times that I saw other people agree to. Thanks for making your objections known, CDPR probably won't do it. 
+
+4. For the people who made more suggestions, thanks! I added some of them in. 
+
+
+
+
+ The only problem is that the baron's quest get's stuck on investigating the wife's disappearance without and clues on where she it, and you just have to go on. That killed my immersion a little. 
+
+
+
+
+ Yes! This means a Dark Souls 2 discount! 
+
+
+
+
+ Nexus mods is wonderful, but it is really frustrating finding the right mods because of the bad UI. So to keep all the mods I might want straight in my own head, I made a mod list of everything uploaded so far. I realized that it might be helpful to other people too, so I made it publicly available on [google docs here](https://docs.google.com/spreadsheets/d/1zStz8eChga1xHsntz2qKyBgK_BCy9_S-Pvnx4DfKRYk/edit#gid=0).
+
+Then I realized that this would be a very good resource to the fledgling Witcher 3 modding community if more information could be filled in and the list could be continually kept up to date. Unfortunately, I have neither the time nor the resources to do it all by myself. Does anyone who thinks similarly about this want to help me? I especially want to know if it's possible to pull the information directly from nexus (like an API) instead of copy-pasting a bunch of things, since it would make managing updates, etc. a lot easier. 
+
+
+
+
+ And then they have a clear weather, and you realize you're fucked! 
+
+
+
+
+ but had he not killed himself and they had returned
+
+he doesn't kill himself in every ending 
+
+
+
+
+ Minimize your deck. You need a minimum of 22 unit cards, so keep exactly that amount of unit-cards, and trim your special cards. I have 22 unit cards, and 5 special cards (weather, scorch etc) in my deck. It improves your chances of getting the good cards and combos. 
+
+Unless you're playing Monsters/Scoiateal with a bunch of calling cards. Then just load them all into the deck for a massacre. 
+
+
+
+
+ Neat! Did you get the information from actually playing, or did you pull the info from the code somehow? 
+
+
+
+
+ According to [another thread](http://www.reddit.com/r/witcher/comments/37y5lr/increased_damage_with_sword_sheathed/), it seems to be all non sword items, including signs and bombs! No wonder everything else seemed so weak. 
+
+
+
+
+ 1. Remember that except for the last 200 years or so, everyone livid in small villages. It's very easy to pass down family traditions in this setting.
+
+2. Being a Kohen is not just a term given to your family that can easily be forgotten. Even though in practice we have largely abolished the class system, there are different mitzvot that apply to you. Since a large requirement of Judaism is parents teaching their children, this is one of those things that would continue to be taught.
+
+3. As a Kohen, one actually has a different role in the community. Duchaning (the kohen's blessing) is one of the largest. Even as you were separated from your parenys or your entire village at an early age, this thing is an easy identifier of your familial status. As a Kohen there are different rules for calling you up to the Torah; not only can you not go up at certain times, but when you do you are caled up as "name son of name the Kohen." So even for a non observant family that only goes to shul once a year, they would still need to know this little piece of info for the bar/bat mitzvah.
+
+So yes, just like many other things the family tradition of being of Kohen can be lost, especially over the last a hundred years. There are numerous stories about a rediscovering of this kind of thing. But it is almost as hard as your family forgetting it was Jewish in the first place. 
+ 
+
+
+
+
+ While we're in duh moments, is there anyway to get all the info of an item without hovering over it? 
+
+
+
+
+ It would be so much more useful if we could have a potion quickbar. :( 
+
+
+
+
+ They made a character that looks like him and named him Nick. See the pictures
+ 
+
+
+
+
+ Hey, it's not so hard, I only built mine this past November! 
+
+
+
+
+ Hey, if no one sees it what's the point of me making it? 
+
+
+
+
+ Ok, just in case you're really missing the point: There is no way to beat the guard in the picture above unless you want to spend half an hour fighting. This doesn't make sense, narratively, because why are there people so much stronger than Geralt?
+
+This is about leveling and the fact that other enemies seem overpowered. Not you being weak. 
+
+
+
+
+ Anyone know what the consequences are for the different decisions made in the Witcher 2? Obviously [Spoiler](/s "if you kill Sile and Letho they won't appear") but what about the others? If you save Triss are the witch hunters less prominent in the game? Does killing/leaving/saving Saskia make a difference at all? 
+
+
+
+
+ I play with KB + M and I would prefer to attack whatever I'm looking at, even if another enemy is closer, without having to cycle through targets
+
+I do too and never use the targeting button. The auto target usually works, I target whatever the camera points to. 
+
+
+
+
+ Range indicator in the quest log (so it's easy to find nearby quest)
+
+That is something I didn't know I wanted until right now. Yes!
+
+Cooler and more diverse Trophy effects.
+
+What would you like to see? 
+
+
+
+
+ The only problem I have is Roach randomly stopping. What are your issues? 
+
+
+
+
+ Why is that? In order to keep items (or parts of them) when over the weight limit? 
+
+
+
+
+ How would you fix it? The only suggestion I saw that is remotely feasible is binding it to a different key.
+ 
+
+
+
+
+ Use quen and a lot of dodging (not rolling). Apply spectar oil before hand. Use your potions And yes yrden does help, but you have to lure them into the trap, they're only slow inside it. 
+
+
+
+
+ It's two buttons. Once you select the quest, press the map quickkey and then tab. 
+
+
+
+
+ I was searching for mods and getting really annoyed but Nexus' UI. Since NMM doesn't work yet for the Witcher 3 (I think), I couldn't keep track of which mods I downloaded, if they updated, etc. It was also hard to compare
+several mods of the same type.
+
+[So, I made a list!](https://docs.google.com/spreadsheets/d/1zStz8eChga1xHsntz2qKyBgK_BCy9_S-Pvnx4DfKRYk/edit#gid=0) 
+
+Right now it's minimal -- I only included the link, name and author. In the first tab, I also broke them up into different categories to make them easier to sort. Maybe later the community can do something like Skyrim Gems, though I don't think the modding community will get quite that big since the Witcher is a more focused game.
+
+If you want to help edit, shoot me a PM and I'll add you.
+
+Enjoy!
+
+Edit: If you're looking, upvote this so other people can see it too!
+
+ 
+
+
+
+
+ I have no idea what happens at the final battle, I'm not there yet. How would you make it harder on Death March? 
+
+
+
+
+ So the game has been out for almost two weeks now, and everyone loves it (I hope, otherwise what are you doing here?). But we all have our own individual problems we run into. Some people hate the UI, others the controls, or combat just doesn't work. But since we do a lot of complaining about what we don't like, can we try and imagine the best possible solution to it as well? Imagine you're at CDPR and you could change whatever you want, but with one caveat -- you have to try to keep as many people as happy as possible. What would be the best fix? 
+
+I'll start: My biggest pet peeve is every single time when going into the crafting (and lesser extant alchemy) menus, everything is always open and it takes forever to scroll through and find what you want. And then when you do, it's hard to compare it to other one's on the list!
+
+Solution: Save the open/close state of the menus instead of defaulting to open. Then in the bottom right corner where there is all that empty space, add a sort by level or alphabetical option. Everything would still be in the same categories, but now you won't have to squint to find your next tier sword among all the level 5 and 10s!
+
+Your turn! Please keep spoilers to a minimum. 
+
+
+
+
+ There were only 3 paper mario games, what are you talking about? There were no other paper mario games after the Wii. Certainly none on the 3DS. None whatsoever. 
+
+
+
+
+ The Witcher 3 is an absolutely amazing game. I don't know if I'll put as the best game I've ever played quite yet (I just finished the prologue!) but I wouldn't be surprised if it gets there.
+
+That said, there are some issues I've had and others I've seen people complain about on this board and elsewhere. With the newest patch giving more key binding options, it seems that CDPR is really listening in order to make the Witcher 3 the best game it can possibly be. So, I think instead of complaining in individual topics and comments, we should make one topic for all the issues people would like tweaked so that CDPR can better address our concerns. It would be great for the mods to make a sticky out of it, but for now I'll start here. If you comment I can add the the issue in the OP!
+
+**Combat:**
+
+* More options in the quick access wheel. Potions should have their own tab instead of being part of consumables. 
+* Either have oil in the quick access menu or as a hotkey.
+
+**Economy:**
+
+* Merchants need a buy back feature at the price it was sold at. Maybe this should be in a different tab so that the sold items don't clog up the main screen.
+
+* The buy/sell ratio should be more equalized. Right now it is a little ridiculous for both gameplay and immersion.
+
+**HUD:**
+
+* Adjustable minimap
+
+
+**Map:**
+
+* Zooming out more
+* Labels without hovering for better info
+* Quest filtering/switching on map
+* Option to show big map of cave, inside area, not just world map
+
+**Inventory:**
+(adapted from [the other thread](http://www.reddit.com/r/witcher/comments/373eim/cdpr_please_say_that_you_will_update_the_inventory/))
+
+* New tab for Books   Letters   Notes
+
+* Separate food and other usable items. In addition, have a separate slot to put potions to use in combat!
+
+* Different tabs for crafting   alchemy stuff (they don't belong together)
+
+* A sort function with multiple options (weight,sell price,quality,level req., name, etc.)
+
+* A sort function in the crafting window, perhaps by item level, newness, or damage/armor so that we don't have to look through everything to find the best one.
+
+* A way to fav/trash items; a small symbol could appear in the bottom corners (PS4 - click left stick to Fav an item* / click right stick to designate an item to sell/dismantle once you get to a shop http://americandigest.org/trashcan.jpg) a feature from the borderlands games that was very helpful.
+
+* Dismantling is hard! why is everything in the inventory suddenly grouped together in the dismantling menu, please give us the tabs back here!
+
+* Please give inn keepers stashes like in the two previous games, or maybe a 'Travelers Storage chest' at all inns so we don't have to talk to someone to access out stuff. There's stuff I might want to keep (like witcher gear) but don't want to keep with me at all times! Putting them in random places in the overworld gets annoying.
+
+* Please make a way of showing what Gwent cards we have in the inventory perhaps in there own tab so that we don't accidentally buy cards we already own. Having to pause the game and open the Gwent menu is kinda a hassle just to check which cards we own.
+
+* All items in the game should have a line in their info popup that states either "Owned: (#)" or "Unowned"
+
+* Books and scrolls should have an additional tooltip line indicating read/unread
+
+* Choosing whether or not to replenish potions and bombs when meditating.
+
+**General UI:**
+
+* The down menus in alchemy and crafting should not reset.
+
+* Better navigation of menus (e.g. quick exit)
+
+* More options for key-binding  DONE!
+
+* http://www.reddit.com/r/witcher/comments/374d3l/anyone_else_wish_they_had_something_like_this/
+
+Remember: Don't just complain! Offer a solution to the issue you're having instead of bitching about it. We're trying to help CDPR make Witcher 3 the best game it can be, not bash them. 
+
+
+
+
+ It's if you move the mouse while pressing escape, it cancels the escape attempt. 
+
+
+
+
+ Yes! Key bindings was one of the main things I was annoyed about. Hopefully they can fix the menu next. 
+
+
+
+
+ Play people with worse decks like innkeeps and shopkeepers, and buy more cards. Yes, the starter pack isn't great. 
+
+
+
+
+ Any books which focus on 47-48 civil war and the 48-49 independence war will devote some time to this topic. I recommend one or two classic Israeli, one revisionist Israeli, and one Palestinian to get a few range of views. Unfortunately I don't have any specific recommendations since it's been a while since I read these and I'm a little bit biased, but I'm sure you can find some good ones. 
+
+
+
+
+ It's a large combination of factors, including: relations with the local Jewish community, security threat, individual commander choices, levels of fear, etc. This is a question for /r/AskHistorians and then one to read a few books about. 
+
+
+
+
+ Anyone know how to get rid of items once you put them in your cart? I want to check out, but I don't actually want to spend that much money. 
+
+
+
+
+ Hey! Just an idea I had while browsing games today. Maybe ascension should have some kind of check you can run where you can import your cart from websites and see what games you already own. It's getting hard to keep track of everything I have. 
+
+
+
+
+ Is there a defense that she might have been raped? Yes, from what's come to light it's a possibility. But how she's been behaving means that whatever sympathy she had is turned to a political issue. I'm just mad that they let her do this as a senior thesis. 
+
+
+
+
+ This is bugging me, and I want to know the answer before starting the game. If you choose not to import of simulate a save, what are "default" choices made for you? Does anybody know? My google skills have failed me today.
+
+And does anybody know the consequences in the witcher 3 for each of the choices? 
+
+
+
+
+ The West Bank was granted to the Arab state
+
+When? 
+
+
+
+
+ They are hypocrites in a lot of ways. The rest of us learn to deal with it.  
+
+
+
+
+ she says "are German and are Jewish" 
+
+
+
+
+ The professor called Israel and students in the audience Nazis. She objected to the offensive characterization and he responded that  because his parents were in concentration camps he has every right to call other people Nazis if he wants. 
+
+
+
+
+ Rekt 
+
+
+
+
+ There's also the halacha that a non makom kavua does not need a mechitza either.  
+
+
+
+
+ There is zero prohibition in any orthodox Shul I've ever attended for women to have a separate minyan.
+
+But it is almost never done, for a large part because there is a strong social sanction against it. 
+
+What does the rest of your post have to do with  our discussion?  
+
+
+
+
+ So, the reason it's ok for the Kohanim to get special treatment is because it's d'oraissa? 
+
+Yes, and personally I feel better about it because of the explicit balancing laid out. 
+
+
+If there was a source d'oraissa that said women were not obligated to pray three times a day, would you drop the egalitarianism?
+
+1. In this argument I'm advocating, at minimal, equality without egalitarianism. Do you have response to that? 
+2. I'm pretty sure there isnt; I recall a sugya that states the time-based positive mitzvah rule is a guideline at best. And even if there is, why does that stop a woman from taking on the obligation and then leading? Or leading in the non time bound services? 
+
+This also doesn't address the argument of women holding women only minyanim, women being excluded from communal leadership positions, etc.  
+
+
+
+
+ Korach is not a problem because the shul I go to are egalitarian in regards to the sexes but not other societal roles. Kohanim got the first aliyah, etc. 
+
+The Torah says we shouldn't steal. So, if men are constantly stealing, should we change the rules to allow stealing? 
+
+Funny thing is, this is a legitimate way for a community to reject halacha derabanan! If they don't follow it, it will eventually be abrogated. No, the same isn't true for Torah laws, but I think it is important to point out we can change the rules. 
+
+
+What if men didn't abuse the position? What if the Saducees hadn't abused their priesthood during the times of the Second Temple?
+
+The torah has explicit balancing measures to make sure that the priests didn't abuse their authority. But it has no such balancing measures between man and woman, especially those which would apply to today. In addition, from what I see men over the past centuries have used this loppehole to craft halacha and minhag which excludes women from any say in the community. Modern Orthodoxy has taken remarkable steps to attempt to remedy this, but IMO it is not quite there yet.
+
+The fact of the matter is (and this is where we will have an eternal debate that we will never resolve) I believe the Torah represents the Truth of the universe and that man fails miserably to live up to that Truth.
+
+I am arguing from this principle, and I'm trying to live my life by it. I think our disagreement lies in what we interpret as torah. While I believe in torah she bealpe, I don't believe that everything the rabbis say or pasken count as that torah, and I am fully in favor changing halacha derabanan or minhag to achieve equality. The fact is that people hide behind halacha to keep power, and I find that unacceptable. 
+
+Edit: I largely agree with yodatsracist's latest post.  
+
+
+
+
+  The modern world comes along and says: not egalitarian means discrimination but that's not even factually correct, is it?
+
+ An employer isn't better than an employee. It's just a different role.
+
+ A teacher isn't better than a student. Different role.
+
+ That's what Parsha Korach comes to teach us. True equality is that, irrespective of our role before God, we are all like nothing before the Eternal and we should stop worrying about the attractiveness of the other role and focus on our own the best we can.
+
+I agree and disagree. I've been involved in both Conservative and Orthodox communities, and I see this is true *in theory.* However, it is clear that it is also used as an excuse the more right you go. When haredim don't allow women any kind of public influence, the stated reason is that their role is in the home. When women aren't allowed to lead services like kabbalat shabbat even though they would like to, it's because their role is not to their role to lead the community in prayer.
+
+I fundamentally disagree with you because I see the Torah does teach equality in many places, even if it not egalitarian equality. As you gain more power, you are also mandated more responsibility. The Kohanim must continually keep themselves tahor, Levites cannot hold any land and must serve as teachers, landowners must give so much to ones who do not own land, etc. This also applies in the secular world; the employer must provide and not take advantage of their employee, and teacher has an obligation to treat students fairly and ensure the best education.
+
+The problem comes when the power is taken without responsibilities and repercussions. In the secular world, it was when teachers abuse students, when employers work their employees mercilessly in awful conditions. In Judaism, it was when the community did not take care of the downtrodden, when the Levites seized political power. 
+
+This is what I see happening in Judaism. Yes, in theory men and women are equal in different roles and men have more mitzvot to keep. But in practice, men take the power and use it to isolate women. Men are supposed to get consequences in Olam Habah if they abuse this power, but that doesn't remedy the inequality we see here in our communities on Earth. One solution is egalitarianism between the sexes, which of course creates its own set of problems. But it is not a solution to say that we are all technically equal so lets all continue as we are and not worry about it.
+
+This is an issue that has been troubling me for a while, so I would appreciate a response. 
+
+
+ 
+
+
+
+
+
+
+
+
+
+ I've been creating some merged plugins, mostly from the DLC/patches individual mods have because those are the safest. What are script fragments and navmesh edits, and how do I check for them? 
+
+
+
+
+ Just read all the books, read all the Cosmere info, and then re-read the books! 
+
+
+
+
+ :D  
+
+
+
+
+ Hell, it already blows up! I hadn't run ASIS yet, thanks. 
+
+
+
+
+ Go to STEP, and see if that works for you. They also have their own forums you can request help in. 
+
+
+
+
+ I installed pretty much everything I would ever want for Skyrim mods. I used STEP, step packs, and Skyrim gems, as well as looking for other mods I liked. It seemed like it would never stop! I think I got all I wanted for now, thank god. I have played a little vanilla skyrim and some 30+ hours into a STEP extended playthrough, so I'm not doing this blindly and I know about the 255 plugin limit.
+
+So, what can I do now? I've heard a little about merging plugins, but I don't know how I go about that and how it will effect the LOOT order, among other things. What can I do to reduce the amount of plugins I use so I can actually play the game?
+
+http://modwat.ch/DiamondMind#/plugins
+
+Thanks! 
+
+
+
+
+ Thanks! Exactly what I was looking for. 
+
+
+
+
+ I just came across this, and I just want to say that it looks amazing! I wish I could help some, but I noticed the applications are closed for right now. 
+
+Anyway, my two cents: My main problem with the current setup with all the different clients is **not** the separate storefronts, because we have different stores everywhere we go. I think the bigger issue is organizing the games you have bought and/or downloaded all in one place, because right now its a major hassle. If I was in charge I would ignore the storefront for now and just work on that. ;) But I'm not, so thank you and and I hope this works! 
+
+
+
+
+ Thank you, that is exactly what I was looking for! This should be publicized more. 
+
+
+
+
+ With the launch of GOG beta, it's getting increasingly difficult to manage several game clients and keep track of all the games you have/are installed on the computer. It's hard enough on Steam itself, let alone juggling two or more programs to find your game if you're not sure where you got it. Steam has a very limited feature to add outside games, but it is time consuming and not very useful. 
+
+Are the any game organizers, out or in development, which can take the data from each client and organize it? Yes, Razor Cortex is an option, just not a very good one. It wouldn't have to be very complicated, just a simple organizer (by name, category, client, etc.) with a link to each game shortcut for the game to launch without going through the client. You could still use Steam and the rest for the community aspects, in or out of game, but you wouldn't need the open the client to do so.
+
+I think this would be a **very** useful feature which would cut down on the hassle we have now, and which will only get worse in the future. If there isn't one in development, does anyone know how difficult it would be to make?
+
+Edit: Apparently /r/Project_Ascension is trying do something similar. Go check it out! 
+
+
+
+
+ I have it. But it comes with too many other things you might not want, and the UI for finding games it annoying. There isn't even a way to make the icons smaller! Something more user friendly/configurable would be nice. 
+
+
+
+
+ With the launch of GOG beta, it's getting increasingly difficult to manage several game clients and keep track of all the games you have/are installed on the computer. It's hard enough on Steam itself, let alone juggling two or more programs to find your game if you're not sure where you got it. Steam has a very limited feature to add outside games, but it is time consuming and not very useful. 
+
+Are the any game organizers, out or in development, which can take the data from each client and organize it? It wouldn't have to be very complicated, just a simple organizer (by name, category, client, etc.) with a link to each game shortcut for the game to launch without going through the client. You could still use Steam and the rest for the community aspects, in or out of game, but you wouldn't need the open the client to do so.
+
+I think this would be a **very** useful feature which would cut down on the hassle we have now, and which will only get worse in the future. If there isn't one in development, does anyone know how difficult it would be to make?
+
+Edit: Apparently /r/Project_Ascension is trying do something similar. Go check it out! 
+
+
+
+
+ So what you're saying is gun control does work?  
+
+
+
+
+ The Witcher 3 is definitely worth pre-ordering, and I haven't pre-ordered a game in years.  
+
+
+
+
+ I have a Motorola Razr and it's fucking awful.  
+
+
+
+
+ Pre-order the Witcher 3 to show that some companies are still trusted!  
+
+
+
+
+
+
+
+
+
+ He disabled it :P. He changed the the price at my request though, thanks 
+
+
+
+
+ I was about to buy from him and then he raised it to $30 :/ How do you make a lower offer? 
+
+
+
+
+ Damn. I'm having the same problem. I guess I have to go back to all my mods to check. 
+
+
+
+
+ There is a difference between abandoning the religion and converting; the latter is seen as much more serious. 
+
+
+
+
+ Did you ever figure this out? 
+
+
+
+
+ Except then people will cry racism because the vast majority of Arabs also don't serve. 
+
+
+
+
+ Just to correct the poster above you: Marriage laws are a holdover from the Ottoman empire which put marriage under the domain of the recognized religious authorities. This means that anyone can marry anyone, in theory, except that the religions have restrictions on it. Ask an imam to marry a Jew and a Muslim, and it won't go over so well either...
+
+Women not being able to get a divorce is the opposite - true in theory, but not in practice. By quirk of Jewish law, the husband does have to *give* his wife a divorce, but if he refuses he is essentially expelled from society among other unpleasant things. Most "husbands" give in quickly. 
+
+For the rest: 
+
+places where you can't drive through on Saturdays
+
+not by law, but because the community wants it so, and the authorities cooperate. Community, as opposed to individuality, has a much higher standing in Israel than America because of its socialist beginnings. 
+
+The other two are correct, but like for the pigs there are various ways around it without violating the law. 
+
+Think of it like blue laws in the United States.
+ 
+
+
+
+
+ Subtle? They kept the camera on his face for five whole seconds! 
+
+
+
+
+ As you can see by the phrase "he who says, " this is about people who are publicly claiming such, not about those who want privately believe. 
+
+ 
+
+
+
+
+  Gamers won because we have the power, as long as we're not pushovers
+
+Just like we're winning with Greenlight, Early access, shitty mobile apps, and microtransactions, right? 
+
+
+
+
+ You have a good point. I'll sleep on this. Does paying a small minimum amount not change your mind at all? 
+
+
+
+
+ I'm trying to compose a plan to keep the modding community alive for TES6. It's not not a guarantee that we'll have one, you know, 
+
+
+
+
+ But what if Nexus could expand more? Improve the interface, make a better mod manager, etc. What if the modder decided what percentage Nexus gets? 
+
+
+
+
+ I have 100+ mods myself for both Skyrim and Morrowind, so I get what you're saying!
+
+I didn't include it because I thought this was implicit: we're trying to keep the modding community as open and collaborative as possible while preparing for the inevitable paid mod scheme. Hopefully, there will be a few great mods behind the paywall, while the rest will be free; but to do that, donations need to become more of a norm when downloading. If for every 100 downloads, $1 donation is given, many people will make a not insubstantial amount of money.
+
+That's also why I think there should be so many limitations for the paid mods. That shitty armor pack shouldn't be allowed as a paid mod, nor the fancy sword from Dota. The ones allowed in the marketplace will already be good and useful. SkyRe, or something like it, is something I could potentially see being there if the modder wanted it to. But the minimum should be about 25 cents, not a dollar, and for payment a sliding scale like humble bundle, or an area where you manually enter what you pay, is implemented.
+
+I want there to be a community for the TES6, which I fear there won't be if crap paid mods will immediately flood the place. 
+
+
+
+
+ But we underestimated the differences between our previously successful revenue sharing models, and the addition of paid mods to Skyrim's workshop. We understand our own game's communities pretty well, but stepping into an established, years old modding community in Skyrim was probably not the right place to start iterating. We think this made us miss the mark pretty badly, even though we believe there's a useful feature somewhere here.
+
+Nothing there about Bethesda's games not having paid mods in the future, and they still think there is a useful feature. The only way there won't be paid mods is if Bethesda says no, which I don't believe they have.
+
+The Nexus has donations nailed down. Why are you trying to help them take a cut? 
+
+Because a better Nexus means a counter to the inevitable monetized Steam workshop. Plus, a donation to the mod creator should include some to the mod hoster.
+
+ 
+
+
+
+
+ Do you have a source for the Arab immigration? It's a common statement in right-wing Zionist circles, and I've been trying to find one for a while. 
+
+
+
+
+ We can't change the negativity that happened, but I hope we can get something positive out of it. /u/xaliber_skyrim is trying to compile a extensive list of everything that was wrong[ in the stickied thread](http://www.reddit.com/r/skyrimmods/comments/343jtf/your_voices_were_heard/cqr1041).
+
+My opinion is that paid mods are an inevitability we need to prepare for. [I made another thread](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/) where we can discuss how a paid mod scheme might actually work so that it won't destroy the community. 
+
+
+
+
+ I made a discussion to preempt it [here](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/) 
+
+
+
+
+  and it should be modeled after the humble-bundles.
+
+Can you explain how, exactly? 
+
+
+
+
+ Your welcome! I think we also need a compilation of what exactly went wrong, but that is not what I'm focusing on. 
+
+
+
+
+ [Link to original /r/skyrimmods post.](http://www.reddit.com/r/skyrimmods/comments/343ym0/paid_mods_are_coming_whether_we_like_it_or_not/)
+ods and other "industry practices" to allow this.
+I'm new to the modding community, which means I only started playing Morrowind a year ago and Skyrim over the last six months. But like people have been saying a lot, recent events have inspired me to give back. As I have next to no money and not enough time to learn to mod extensively (even though I played around with it a bit in Morrowind), I was thinking about what's going to happen in the future. I realized two things:
+
+1. Paid mods are coming, no matter how much we protest. The Valve press release was pretty clear about that. 
+2. Next time around, there won't be a community uproar at nearly the same scale. The Skyrim modding community is the biggest we have, another one won't be established by the time the next game is released. We can't stop the hundreds of thousands from buying the next Bethseda game, even if it is announced with paid mods. 
+
+Since we can't stop paid mods arriving, I think the best solution is to preemptively speak as a community to Valve and Bethesda about what we *do* want. Reading around the forums, I've noticed most people don't have a problem with paid mods **in theory**, as long as several key conditions are met. However, the implementation this time around was abysmal and we all realized nothing but slow (or not so slow) decline of mods would come from it. 
+
+So I have a radical idea. I think we should compile a list of the many sins that were committed, the problems they would cause, and improvements that would need to occur next time. We can present these to Valve/Bethesda as demands for the community to reluctantly support, or at least not condemn, paid mods. By conditioning our support on several key demands, we can make sure Valve sets up a marketplace that does not set off the disastrous effects we fear. Both parties would benefit: Since we can't stop paid mods, we could turn them into something which will have neutral or maybe even beneficial effects. Bethesda won't get the inevitable PR hit next time around, which is fresh in their minds right now and so holds the most power.
+
+I've started small list below, and I think it would be great for the community to put together a comprehensive list and make it as official as possible. Hopefully this will be an opportunity to bring us together after the recent bitterness.
+
+Here's my start, from what I've seen people saying. 
+
+Issues:
+
+1. The way the marketplace was set up encouraged crap shovelware micro transactions over good mods.
+2. There is no good way to test a mod and return it if it doesn't work.
+3. There is no way to make sure that the modder will continue supporting the mod through main game updates and other mod changes. 
+4. Mods use one another assets all the time, which makes monetizing them a legal quagmire. In addtion, relying on modders and the community to police stolen assets in unworkable.
+5. The paltry 25% the modders got was absolutely ridiculous.
+6. The secrecy of the implementation runs counter to how the modding community functions.
+7. Most of us using mods don't use the Workshop because of its limited functionality, meaning we can't access the mods posted like SkyUI 5.0.
+
+(To see longer arguments for above points, go to [this comment](http://www.reddit.com/r/skyrimmods/comments/343jtf/your_voices_were_heard/cqr1041) by /u/xaliber_skyrim
+
+
+Solutions: 
+
+**Quality**
+
+/u/DiamondMind: A paid mod being on the marketplace means that the developer has endorsed it as unofficial DLC for the game and guarantee it. This legitimizes the cut they take and gives them a stake to supervise which mods have their name attached. 
+
+/u/DavidJCobb: All mods must have a seven day return policy, no questions asked and no consequences.
+
+/u/BullZEye22: Mods should gather a certain amount of approval before they can be sold.
+
+/u/fadingsignal: Behind the scenes, there should be a partially dedicated faster-response support team for mod authors. If a mod is having trouble because the Steam downloader is screwing it up, or there is abuse or stolen assets being used, someone who is a verified author should have a slightly elevated support level, so they can in turn better support their customers who purchase their mods.
+
+**User convenience**
+
+/u/DavidJCobb: Load order managers and mod managers are essential to using mods while keeping one's game stable, but Skyrim doesn't natively support these tools, and the average Steam user won't know much about them. This is quite possibly the largest barrier to modding. Bethesda must develop their own analogues to LOOT and MO/NMM, and integrate these directly into the PC versions of FO4 and TES6.
+
+Authors should be permitted to upload full archives, rather than a BSA/ESP pairing (the current limitation), but the uploading of loose files should be discouraged, and some sort of warning should be indicated to the user in the Steam Workshop's UI.
+
+/u/DiamondMind: Do not tie downloads into the workshop; allow them to be used like Nexus files. That way, Bethesda and other developers do not need to create their own tool and force us all to use it. 
+
+/u/fadingsignal: Fix the Steam Downloader to be actually useful.
+
+**Compensation**
+
+For Paid Mods:
+
+Modders need to get at least 50% of the sale. Valve and the publisher can work out how to split the other 50% on their own. There are more than enough differences between mods and other "industry practices" to allow this.
+
+/u/fadingsignal: Option to set the minimum price to $0
+
+
+For Unpaid Mods:
+
+/u/NeuroticNyx: A donation button for unpaid mods on the Steam Workshop. No profit form Bethesda can be made from this, as it is not endorsed.
+
+/u/MaryMudpie: A system of Pay-What-You-Want for all mods. (Probably not going to happen.)
+
+/u/EggheadDash: A pop for a donation once the game is closed, with Yes/Remind me Later/No options.
+
+**Compatibility patches**
+
+Modders should be permitted to create compatibility patches between mods even when one of the mods is paid, so long as the compatibility patches don't use any resources from any of the original mods (including the paid one(s)) without their authors' permissions. Users should not be permitted to sell compatibility patches; they should remain free. This should rather neatly solve the community's concerns about the interoperability of paid mods; if a paid mod is good enough, I guarantee you that some industrious user will build a patch to make it work.
+
+
+**Limitations on sale**
+
+/u/DavidJCobb Mod authors should not be permitted to sell bugfixes for base game content, official DLC, or any other mods. These must be free. Obviously this policy must be worded in such a manner as to permit a mod author to continue selling a mod even if they must later release a bugfix for it; yet to forbid that author from releasing the bugfix itself as a separate paid product.
+
+/u/DiamondMind: UI and other "fixes," not just bugs, should also never be sold.
+
+Perhaps there should also be a lower limit on the content sold so that microtransactions like adding a sword aren't allowed.
+
+**Theft**
+
+If a mod author's resources are stolen and used in a paid mod, that author should be able to report that to Valve and have it acted on promptly. The thief's revenue should be transferred to the original author; or, if the author doesn't have payment details registered with Steam, the full amount should be held in escrow indefinitely, without a time limit, until it can be transferred to the original author.
+
+In particular, we need assurances that Valve will pay attention to content that was originally uploaded to other sites, or at least to the more notable ones, when investigating theft reports. The full details of their policies regarding theft should be made public.
+
+**Transparency**
+
+Speak to us every step of the way, and release a prototype version first that we can check for issues.
+
+
+This is of course unfinished, and there a lot more problems to address. Comment and I'll add it to the list!
+
+ 
+
+
+
+

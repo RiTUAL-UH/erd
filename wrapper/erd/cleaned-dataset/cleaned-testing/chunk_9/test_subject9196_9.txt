@@ -1,0 +1,192 @@
+ What is most easy and good argument for and against http://en.wikipedia.org/wiki/Simulation_hypothesis  
+
+
+
+
+ I think this is called pull requests. 
+
+
+
+
+ I see there only Python, PHP, Node.js so no easy way to use on Android (unless this framework is only for backend solutions). 
+
+
+
+
+ What for? This is a library, app that is "visible" and can be used is just a mock to show how it uses library. Also it won't be possible as Android M isn't still release as API (for example 23) thus also I cannot upload it to jitpack etc. 
+
+Which is a good thing because there can be still some changes before it going public (and I hope so, this library removes only some of pains to use new Permission model). 
+
+
+
+
+ Is this some clone of a http://jimulabs.com/ (Mirror tool) even gif looks like theirs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Go ahead and give a try to Import.io.
+
+Created two production apps based on it. So far very good experience. 
+
+
+
+
+ To be honest I would suggest traveling to Warsaw/Gdask/Krakw at any occasion that you would have - as Biaystok isn't that much to see. Unless you want to enjoy nature - then mazury is your best bet and it is not that far (great for kayaks/yachts). 
+
+
+
+
+
+
+
+
+
+  Which App Store?
+
+Similar question:
+http://www.reddit.com/r/androiddev/comments/342xdv/china_android_markets_what_is_your_experience/ 
+
+
+
+
+ I would suggest subscribing to AndroidWeekly, browsing /r/androiddev also G+ Android related people etc. and use Pocket to save articles to read at work (on a phone/tablet).
+
+You will soon find out many interestings patterns, ways of solving problems, hacks and cool features. 
+
+
+
+
+ I would guess Leopold FC660M but keys and case (probably) has custom color. 
+
+
+
+
+ Every account on reddit is a bot except you. 
+
+
+
+
+ Thanks, but that sounds good until you have a paid app. 
+
+
+
+
+ I just read this post [Android is finally beating Apple in this one key metric- revenue from apps ](http://www.reddit.com/r/Android/comments/341k7h/android_is_finally_beating_apple_in_this_one_key/) and as almost half app revenue is from "China market" though it would be good to read about it and maybe try to sell there some apps.
+
+
+Did you use any Asia markets (competing with Google Play) to sell your apps ? If yes, which ones and what is your opinion? 
+
+
+
+
+
+
+
+
+
+ Go and look for local developers meetups (my personal recommendation - GDG events), most of them have hackathons - events during which teams compete by making apps. In most cases you can join them as a idea person, and see if anybody is up to join your idea and help to create it.
+Source: I'm local GDG organizer and I love hackathons. 
+
+
+
+
+ Nice post, I would also add accelerometer data to check if user isn't looking down. 
+
+
+
+
+ APK direct link:
+https://bitbucket.org/gorsamp/buttoncommathe/src/39ca13b11d96918f476b61344ec21986e0b4aa12/bin/ButtonCommaThe.apk?at=master 
+
+
+
+
+
+
+
+
+
+ Best libraries are those that solves problems that you didn't know that you have. 
+
+
+
+
+ I would like to see library effect on for example gif in readme instead of having to compile project or download APK. Much appreciated.  
+
+
+
+
+
+
+
+
+
+ Oh, ok now I watched GIF few times more I got this. It is both drawer and wizard. Before that I thought it is wizard with drawer as a part of wizard process. Thanks! 
+
+
+
+
+ I'm not sure if Drawer is correct UX pattern in "wizard", as (in most cases) we don't want user to jump from first to last item without setting middle ones.
+
+Just a thought. 
+
+
+
+
+ Anybody tried it, how are results?  
+
+
+
+
+ His name is Robert Paulson 
+
+
+
+
+ It always bothers me (like now during SpaceX Falcon 9 start) why they start to count last 10 minutes and show all those people doing a lot of important work in command center on dozens of screens.
+Also is there some kind of manual that they go through - can somebody explain it what are some most important moments? 
+
+
+
+
+ 22 here: Computer Study Engineer, worked last 10 months in nice and (mostly locally) well known company but got the feeling that it is the last moment that I can achieve "better" things (risk a bit as I don't have a loan or something). Thus now I just want to push some idea with crowd funding support - so in year or two I can be proud of something that I created. 
+
+
+
+
+ Thanks since posting I used my SO laptop (Lenovo flex 14) to see how does it look as it has even more dim screen - looks like it will be fine in 95% of cases which is good enough for me. 
+
+
+
+
+ Thanks for suggestion but T450s is no match for me - need HDMI output as I'm doing quite a bit of presentation using projectors. 
+
+
+
+
+ Hi,
+I'm on the edge of going with X1C but only turn down is poor screen brightness mentioned in few reviews.
+
+Can somebody confirm if all panels (HD/QHD/QHD with touch) have similar brightness?
+
+I aiming in HD version but maybe it is worth to pay for better screen this 400$ more. 
+
+
+
+

@@ -1,0 +1,132 @@
+ I didn't take the video, a friend did, but it is most certainly the Brooklyn museum, not BAM.  
+
+
+
+
+ Maybe could be a midi conflict? Protools thinks it's getting a signal from a control surface and it's interfering with what you're trying to do. Just a guess 
+
+
+
+
+
+
+
+
+
+ haha I literally just did a film with the exact same perspective shift. Design aside, build the effects chain for your "deaf effect" and put it on an aux channel that returns to your main output. Then insert a send on any of your tracks that you want to morph into deafness, bussed to your new aux channel. Set it to "prefade" then you can fade down the main volume of the track, but fade up the aux send to reroute it through your effect.  
+
+
+
+
+ I need to check but I suspect that indeed the master volume acts as a DCA for the output fader as stated. When outputting just 1 stereo output this seems redundant, but if you have multiple outputs (IE: 5.1 surround sound or more complicated output routing for monitoring) it affects all of of them which is potentially useful, although honestly I don't see why you would ever want your output at anything but unity assuming everything is setup properly.  
+
+
+
+
+ I'm a pro sound designer. Use logic and protools. Actually prefer logic to protools for pure sound design work for its bundled plugins, quicker hand-drawn automation (curves) and since I can experiment and then bounce the track in place. Prefer protools for hardcore audio editing. Would never dream of using it for anything midi based. 
+
+If you're a true pro company you gotta stick with protools as your main DAW though if you expect to send sessions around to other places.  
+
+
+
+
+ I like apple's Space Designer so much sometimes if I'm forced to use Protools, I make an effects return to logic or mainstage with soundflower and use that. Cheaper than altiverb. . .  
+
+
+
+
+  r e c o r d  i t !  
+
+
+
+
+ Thanks, def a useful step in the right direction 
+
+
+
+
+ nope. Doesn't work, this adjusts the whole track OR if a selection is made adds too many nodes and a hard bump which is exactly what I'm looking to solve.  
+
+
+
+
+ Hi folks,
+
+Been using Logic for 10 years but also use protools professionally. Still catching up a bit and have a quick question. (not interested in a debate about which is better). 
+
+When fine tuning automation lanes by hand is there a way to:
+
+Raise or lower (probably w/ trim tool) JUST the segment of automation that lies between two nodes. Currently it either scales the automation of the whole track or if I select that area it adds new nodes interfering with my preexisting fades. (In logic this would just be dragging a segment, stretching the fades before and after it to achieve a new level. )
+
+When I select an area and the use the trim tool to adjust its level, 4 nodes are created (2 on each end) creating a hard jump to the new level. Is there a way to switch this so only two nodes are created essentially creating a fade from whatever nodes are already immediately lbefore/after the area?  
+
+
+
+
+ +1 
+
+
+
+
+ you can't run directly from your interface to the speakers. They're passive which means the need an amp in between. I don't know the specific specs of your speakers so can't recommend an amp. Once you have one though, you could then run 1/4"-Speakon cable from that to the speakers. 
+
+I think you could benefit from hiring a professional  though to fully address your needs. There are different kinds of 1/4" (TS vs. Balanced TRS) and different kinds of speakon (NL2 vs. NL4 for a bi-amped system) 
+
+
+
+
+ Sure why not you just need an amp. All that said, these speakers aren't really going to give you a clear mix if you're doing serious audio work up close. They're more geared towards loud playback in a large entertainment venue, not precision. 
+
+Your signal chain would be: 
+Computer--firewire/usb--interface--very small mixing board*--2 channel amplifier--speakers
+
+*like a Mackie 402VLZ4. Technically your interface could function also as your mixer but it's probably safer to have a mixer in there to gain stage everything correctly 
+
+
+
+
+ wav absolutely supports surround sound. . .  
+
+
+
+
+ Agree, but it's more complicated than that. Anyone with great ears who doesn't have a properly treated room won't actually have an accurate sense of what they're hearing. A fine engineer is going to charge more than $50/track because of the overhead involved with running a professional operation where those good ears can be put to use. 
+
+
+
+
+ at $50 a track you're gonna have trouble. Even if they have decent ears, anyone working on that budget isn't going to have the expensive outboard compressors/limiters and room treatment that makes mastering a valuable step in the process. It's expensive.  
+
+
+
+
+ I know we're past your deadline but I usually prepare 2 stems for theatrical gigs... a wet and a dry. Then when I get to the space I'll mix in the wet as needed.
+
+ 
+
+
+
+
+ I believe traditionally just tacks or nails/needles/pins on a hard surface have been used. But there are no rules. . .  
+
+
+
+
+ I would use a combination of:
+An additional track of hiss/crackle sounds that's sidechained with a compressor  to your main auto to help "glue" them together
+A distortion plugin on your main audio
+a very very slow flanger. You can also use a tape delay with feedback set to zero and then modulate the delaytime to give it that warpy sound.  
+
+
+
+
+ maybe compress everything to glue it together/blend and then fade certain clips up into the foreground strategically. There are no rules though.  
+
+
+
+
+ I feel like all these movies portray the Roma in a fairly romanticized unrealistic way  
+
+
+
+

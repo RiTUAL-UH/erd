@@ -1,0 +1,101 @@
+ This paper shows that many of the benefits of caloric restriction (CR) seen in animal studies translated to people. After 2 years they showed - improved insulin sensitivity, 10% weight loss, decrease in cholesterol and triglycerides and decreased blood pressure.
+
+Perhaps more importantly they showed a good level of adherence to CR (82% of subjects completed the 2 years). A key issue with CR is getting people to maintain CR so showing good adherence is pretty big. However, the target level of CR (25% decrease) was not maintained for 2 years but most maintained a CR of 10% suggesting that the more chronic CR typically used in animals is not needed in humans. 
+
+
+
+
+
+
+
+
+
+ I've only read the abstract so not 100% sure on the methodology but there's nothing groundbreaking or novel from their results and conclusions here:
+
+1. Healthy men were given a high fat diet with the same number of calories as a "normal" diet.
+
+2. Study 1 showed that after 5 days of being on the high fat diet no changes in insulin sensitivity or metabolism (not sure exactly what they measured) occurred. If you just took this at face value (ignoring the short treatment time etc.) you might think that a high fat diet has no effects on those markers.
+
+3. Study 2 shows that changes are occurring at the molecular level (study 1 is more of a whole tissue measure). In general they are saying that markers of inflammation (endotoxin) increase (which is thought to contribute to diabetes onset and progression). P38 is a kinase (a protein that can phosphorylate and change the behaviour of other proteins) and is involved in many process including insulin resistance, glucose uptake and can be activated in response to inflammation. The phosphorylation (a marker of its activity) of p38 is altered with the high fat diet and may contribute to the metabolic and transcript (gene expression changes) changes.
+
+4. Overall the study is saying that molecular events that lead to impaired insulin sensitivity and/or insulin resistance are started with 5 days of the high fat diet but it's not enough time for it to manifest into actual insulin resistance. 
+
+
+
+
+ The key for this is that it is in elderly/older (over 55yrs old) adults. Whey increases muscle protein synthesis but this effect diminishes with age. Increasing leucine can help overcome the smaller increase seen with age. 
+
+Vitamin D3 can help synergize with whey and leucine to increase protein synthesis (in vitro at least). Vitamin D3 is important for calcium homeostasis and typically decreases with age. Vitamin D3 deficiency also increases rates of protein breakdown and decreases satellite cell renewal which can translate to lower muscle regeneration/impaired muscle maintenance.
+
+If you did this with a person in their 20s then it might be that whey alone is sufficient but this is definitely not the case in the elderly population. 
+
+
+
+
+ I think somebody will start a company assuming they can get FDA or equivalent approval. It's not the technically challenging and marketing it as anti-aging therapy means you can charge ridiculous prices. There are companies who will isolate stem cells from you and keep them, so in the future you can have your own cells injected back into you. Taking blood is far simpler and cheaper (they could take some from a younger person and inject them into you) so there may be a company who does it but I've not heard of one. 
+
+Ethically it is questionable as you will be diverting donated blood for anti-aging purposes from those who need blood transfusions for more immediate health issues. I'm not sure how common blood shortages are nowadays (it's likely region dependent) so perhaps it might not be as big an issue as a few years ago. Additionally, giving blood transfusions for a process that has yet to been shown to work in humans (going from mice to humans is a big step) is also ethically questionable. 
+
+
+
+
+ The study they're referring to wasn't called into question (i.e. injecting young blood into older animals/parasymbiosis reverses aging - this has been a repeatable finding). A lot of research, like the linked article, is now trying to finding out what specific proteins/hormones/factors have the beneficial effect.
+
+The paper you're thinking of was about the role of GDF-11 in being a "rejuvenating" growth factor/ a protein that can reverse aspects of aging. Basically, one group (amy Wagers) said that GDF-11 could reverse age-related declines in muscle regeneration but a recent more thorough study (by David Glass) pretty comprehensively showed that not to be case (differences in methodology etc. might be behind the contrasting results). So the role of GDF-11 being the main factor in young blood that "reverses" aging was called into question but not the fact that young blood can reverse aspects of aging.
+
+As somebody posted, the negative effects of this might be on the immune system. Future studies will be needed to see what adverse effects might occur and to determine if there are ways to get around it/alternative targets etc. Like most good initial studies it leaves more questions than answers at this stage :)
+
+
+
+
+
+ 
+
+
+
+
+ The effect of myostatin on muscle growth is well known and well characterized. Natural variation in the myostatin gene have evolved in certain breeds of animals that have effectively led to the absence of myostatin and an increase in muscle size. The scientists in this piece are aiming to use CRISPR or Talen gene editing techniques to knockout myostatin and increase muscle yield from animals such as pigs. This in turn should/could increase the efficiency of meat production (i.e. more meat per animal)
+
+Whilst gene editing has it's own ethical concerns, myostatin knockout animals can exhibit behavioral changes (increased timidity) and can develop health problems much earlier - as they seem to be seeing in the pigs. By creating a haplosufficient (i.e. half a working myostatin gene) animal they may be able to overcome the negative effects of a complete myostatin gene knockout.
+
+The use of gene editing has been getting a lot of interest and it's use in agriculture is something that might be part of the future. 
+
+
+
+
+
+
+
+
+
+ For those wondering about the methodology:
+
+The study used neuromuscular electrical stimulation (NMES), basically electrodes are placed on the skin and impulses sent to induce muscle contraction. Previous studies using this method have shown that it induces far greater muscle damage than a voluntary contraction (e.g. http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2007.128827/abstract). There a few reasons why this is thought to happen but there is no clear consensus in the field and it's likely due to several factors which I won't get into.
+
+This means that during a workout you won't get nearly as much muscle damage as in this study (in the study linked about 40% of fibres were damaged with NMES compared to 10% with voluntary contraction). After 4 days force was decreased by ~20% in this study, I doubt any workout decreases your force production by 20% 4 days later - even with lots of eccentric exercises.
+
+Several studies have shown the benefits of BCAA's for improving protein synthesis, muscle mass and performance and this study doesn't do anything to disprove/dispute that. They were looking at severe muscle damage not exercise-induced muscle damage. 
+
+
+
+
+ Good point, human cardiac progenitor cells (from human ES/IPSC lines) have been shown to be functional within 2 weeks in 3D culture (in fibrin or collagen gels) so their protocol to get cardiac progenitors might not be optimized to generate functional tissue. They just said that the cardiac progenitors were a gift from a company in the paper so it's hard to know how good/differentiated the cells were when seeded. 
+
+Thanks for the reply! 
+
+
+
+
+ It's interesting that they only had function (i.e. contraction in response to electrical impulses and electrical propogation) when they used a cardiomyocyte cell line (HL-1 or H9C2) and that the human cardiac progenitors were not functional. Several groups generate their own cardiac progenitors from ES cells and get good functional tissue so it's unclear why the cardiac progenitors here were not functional - anybody have any idea?
+
+Also their cardiac progenitors and mesenchymal stem cells (MSCs) were unable to remodel the matrix which is a bit odd. It was cool to see differences in gene expression in R vs L ventricle and the endothelial cells seemed to home in to where the endothelial cells were beforehand.
+
+Their claim of mature calcium dynamics is a bit overstretched, they didn't measure maximum capture rate, action potential duration or state the actual conduction velocities (in the discussion they said that they were below that of native cardiac muscle - which is to be expected especially for the cell line, but just showed a representative optical map and never said what it was).
+
+I think their claims were a little overexaggerated from the physiology point of view but using decellularized human heart and showing the responses they saw is a first step forward.
+
+ 
+
+
+
+

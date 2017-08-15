@@ -1,0 +1,1158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's amazing, i watched it the day before maker faire and it's perfect in all ways, the shooting, story board and production. Only disadvantage is they didn't ... Well, not gonna ruin it for you :) Watch it on Friday! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Well I haven't tried it and most probably will get an Android! The iPhone 6 is really ridiculous. 
+
+
+
+
+ LoL 
+
+
+
+
+ Well look at the specs here! Arduino Due + 11 sesnors + Wifi + Bluetooth! 
+
+Check this [video](https://www.youtube.com/watch?v=mibHgib7Rh8) and you'll see 
+
+
+
+
+ It's gonna be for $149 only! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yea but you'll get more exposure if you hit Kickstarter! check our [campaign](kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma), and let me know if you need any help in making your campaign :) 
+
+
+
+
+ Why not make a Kickstarter campaign? 
+
+
+
+
+ How come! ok try the [Kickstarter page](https://www.kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma) 
+
+
+
+
+ Works fine here! What about now? 
+
+
+
+
+ good question, i'll get you the photos tomorrow, it's normal though you won't be impressed. 
+
+
+
+
+ Woops sorry about that! it's 1Sheeld.com 
+
+
+
+
+ Great! Let's meet tomorrow then! My twitter is @Amroosaleh, reach me anytime when you are there, will show you my [gadget](https://www.1sheeld.com) I'm sure you'll like it! 
+
+
+
+
+ Cool! will pass by your booth tomorrow ;) will show you my [gadget](https://www.1sheeld.com) as well! 
+
+
+
+
+ Nop! But I'm attending the Open HW Summit   Makerfaire Rome 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yup, that's it! Thanks .. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ my bad! so what do you think? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just get a Spark Core, it's for $39 and they have amazing software. Check spark.io 
+
+
+
+
+ Thanks! Yea he's wearing it in his [instructable](http://www.instructables.com/id/Human-Jukebox/) 
+
+
+
+
+
+
+
+
+
+ Check out the Arduino shield: [1Sheeld](http://1sheeld.com) it lets you use your smart phone easily with Arduino, you don't have to have that much tech. experience, with one line of code you can post on your twitter account from Arduino! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If you aren't familiar with [1Sheeld](http://www.1sheeld.com), it is a physical Arduino shield that connects to smart-phones using bluetooth and make use of their sensors and capabilities inside your Arduino sketch.
+
+It is used mainly for rapid prototyping of your ideas. Instead of buying multiple shields and components to connect them to your Arduino, you can make use of your smart-phone's accelerometer, gyroscope, gravity, gps, speech recognition, screen ...etc with out buying them individually. Currently we have more than 30 of those. You can visit our [website](http://1sheeld.com) or our [Kickstarter](https://www.kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma) campaign to know more.
+
+We are planning to launch a new feature to our platform. We will enable 1Sheeld users to connect to other 1Sheelds from their Arduino sketch using our Android app.
+
+
+This feature will enable you to:
+
+* Read a digital pin from your remote Arduino(s).
+* Write to a digital pin to your remote Arduino(s).
+* Write to an analog pin (PWM) to your remote Arduino(s).
+* Send string or float messages to your remote Arduino(s).
+* Get notified whenever an input digital pin in your remote Arduino(s) changes its state.
+
+You have to have 1Sheeld board, an Arduino board and a Bluetooth-enabled Android smart-phone in EACH network node to make use of this feature.
+
+Here is an example code for what the sketch will look like: http://pastebin.com/6AJdXZfY
+
+So what are your thoughts? do you think it worth the effort? We think it will help people prototype connected-hardware projects and ideas easily.
+And if you think it is beneficial? what other features can we add? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I hear the next Arduino IDE will be web based, also try codebender.cc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Link for the app: http://bit.ly/1wjijh6
+Link for the source code: http://bit.ly/1FgwuNF 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm building a product based on the Raspberry Pi as the control unit, but I want to modify on the design by removing some components to make it cheaper. Thanks for the link! 
+
+
+
+
+
+
+
+
+
+ It's ideal for rapid prototyping, I'm posting on twitter with only 1 line of code from Arduino, used before in our booth during a big event and the output was amazing. 
+
+
+
+
+
+
+
+
+
+ Hey guys, Amr here from the makers of 1Sheeld, you can chec out a lot of examples by the community on Hackster.io/1Sheeld
+
+Also you can check out some [projects on instructables](http://www.instructables.com/howto/1sheeld/) and let me know if you need anything :) 
+
+
+
+
+ That's awesome, would you share an instructable after you finish? :) 
+
+
+
+
+ Okay, what are the cheapest components to assemble it? do you have a good tutorial? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ no i don't think it will be relevant to children, especially with the gun part! 
+
+
+
+
+
+
+
+
+
+ This one is also amazing: 
+
+https://www.kickstarter.com/projects/barobo/linkbot-create-with-robots 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Surprisingly yea though I like Alasdair very much! 
+
+
+
+
+
+
+
+
+
+ Thanks for the info. So there is no existing solution for this? 
+
+
+
+
+ Yea so my question is, is there and Arduino-like product that has a good enclosure as well without having to design it with a 3D printer?
+
+ 
+
+
+
+
+ Thanks but as I said in the earlier comment, she won't like the Arduino shape itself, I need a well designed enclosure package. 
+
+
+
+
+ Yea but I meant the packaging and enclosure + I don't want to build a  new PCB, I have space for the Arduino but itself needs to have a good package design.  
+
+
+
+
+
+
+
+
+
+ I mean a beautiful designed platform that I can use to build the project and then give it to someone as a gift, something without the hassle of wires and visible boards. Any ideas of the existence of such platforms? 
+
+
+
+
+ Yea I send SMS and it stops :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks for the answers guys! 
+
+
+
+
+
+
+
+
+
+ Super cool! Add [1Sheeld](http://www.1sheeld.com) to the collection, it turns your Android smart phone into a generic Arduino shield, so you can use its sensors and capabilities.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yea from all the comments i figured SMS and email are much better, will definitely use them :) 
+
+
+
+
+ you can do video streaming with the Skype shield in the 1Sheeld app.
+
+http://1sheeld.com/shields/skype-shield/ 
+
+
+
+
+ Haha I don't have a baby i just built the system. 
+
+
+
+
+ I just used it for the sake of using Twitter you know, you're right notifications and email would wor better. 
+
+
+
+
+  Twitter is free, while most SMS services are at least nominally pay.
+ 
+
+Yea you're right, I could use the notification, e-mail or SMS. They are all included in the 1Sheeld app. 
+
+
+
+
+ Actually I'm using the phone for that, I use the phone as a gateway to Twitter through the Twitter shield in 1Sheeld. 
+
+
+
+
+ Thanks! You can find all the details in the instructable :) 
+
+
+
+
+
+
+
+
+
+ Yea the point is to leave a cheap smart phone inside the car, and this phone acts as a GPS, Accelerometer and GSM shield so you can talk to it and receive messages as well. 
+
+
+
+
+ This one is the easiest, you use 1Sheeld that connects to an old phone, the Arduino is connected to the master fuse so you can send it a message to stop remotely.
+With the GPS and accelerometer in the phone, it sends you a text message with the location of the car.
+http://www.instructables.com/id/Tracking-and-Controlling-your-car-remotely-using-A/ 
+
+
+
+
+ Where is the US link? 
+
+
+
+
+ Nice! So what do you think of this tutorial videos: https://www.youtube.com/watch?v=7nf6lpsOrkI 
+
+
+
+
+ Cool thanks for the advice! We'll get a new explainer video done 
+
+
+
+
+ Yea it's for $55 but it has 36 shields and gets me access to stuff like voice recognition and text to speech in an easy way, check this one: https://www.youtube.com/watch?v=P35hSIyYltM 
+
+
+
+
+ Well you are not writing the function itself as it's included n the library, and the good thing here is you don't get any tokens since you login from your smart phone. 
+
+
+
+
+ Yea the beauty about it is that you access 36 shields on the phone itself, including voice recognition, text to speech, facebook, phone calls, video calls ... etc. 
+
+
+
+
+ Yea the meaning here is this one line: 
+
+Twitter.tweet("Plant is thirsty!"); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nice and clean! try 1Sheeld to move it with your smartphone. 
+
+
+
+
+ Good catch, still pretty awesome though! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks but like you said, pricey!  
+
+
+
+
+ Thanks, but i was looking for someone who sells these kits, I wanna buy 10 kits for a school project. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nice, I got used to the Spark Core though. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks! It is actually without an ethernet shield or a PC, I used [1Sheeld](https://1Sheeld.com) which gets the internet from my smart phone. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks! Built a Jhonny 5 before actually so I'll build on it. 
+
+
+
+
+ Thanks for the assistance! I don't have tens of thousands and if I do, I'd spend it for sure :D UK robots are pretty lame, I'll go for the Japanese ones and will update here once I built it.  
+
+
+
+
+
+
+
+
+
+ Works fine now I guess, can you try on your side? 
+
+
+
+
+
+
+
+
+
+ Yea because Arduino.org is still manufacturing in Italy. 
+
+
+
+
+ Yea but Arduino.org is still made in Italy, one of them will kill the other eventually. 
+
+
+
+
+
+
+
+
+
+ Out of the room actually! 
+
+
+
+
+
+
+
+
+
+ Thanks for sharing, I use Codebender.cc, it's an online IDE for all Arduino a-like platforms. 
+
+
+
+
+
+
+
+
+
+ Totally agree, thanks for your feedback and i will pass it to them for sure :) 
+
+
+
+
+ You're right some stuff about the campaign look fishy, i do know them personally though and they graduated from an accelerator called Buildit in Estonia. 
+
+
+
+
+
+
+
+
+
+ The problem is not the sensors but the data rate with BLE, in other Bluetooth modules the rate is 115 Kbps.
+
+ 
+
+
+
+
+  robosapien 
+
+That's a toy guys, is it even hack-able!!? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've been searching for one and found some links to products but they are either not commercial yet or very expensive!
+
+* This [one](http://www.electronicsnews.com.au/Features/First-commercial-silver-ink-UV-cured-without-heat) was announced in 2012 but I can't find a link o buy it.
+* This [one](https://www.sigmaaldrich.com/catalog/product/aldrich/791873?lang=en region=US) costs $389 for 10 gm!
+* And I don't know how to get this [one](http://www.conductivecompounds.com/uv-curable/z-904-ultraviolet-curable-anisotropic-conductive-ink.html), the company is not replying.
+
+Can anyone help?
+ 
+
+
+
+
+
+
+
+
+
+ Awesome! Check more projects on its [Hackster page](http://hackster.io/1sheeld/projects). 
+
+
+
+
+ Why dead? the percentage of successful campaigns is growing far beyond the failing ones. 
+
+
+
+
+ I've met them in the bay area maker faire last month, it's working! 
+
+
+
+
+ My recommendation is to put a switch to change the mode of your shield between 3.3V (for the Due) and 5V (for the Mega).
+
+Have you heard of the [1Sheeld](http://www.1sheeld.com)? It has that switch and the manufacturers share the schematic design to be open source, check it on [Github](https://github.com/Integreight/1Sheeld-Schematics-and-Board).  
+
+
+
+
+ I recommend the [1Sheeld](http://www.1sheeld.com) Arduino shield. It turns your smartphone's hardware into 40 different shields through an Android app.
+
+So you have the sensors like a Gyroscope, Accelerometer, GPS, Proximity, Temperature (I don't know if you have that in the S4).
+Also voice recognition, storing data, text to speech, posting on twitter, facebook, video streaming through Skype ... etc.
+
+Check the list of [shields](http://1sheeld.com/shields/) and the getting started tutorial [video](https://www.youtube.com/watch?v=4LlfBoycKE8).
+
+I built with it some projects like a [candy grabber machine](http://www.instructables.com/id/How-to-create-your-own-candy-grabber-machine-using/), where I used the phone as a Gamepad controller for children to grab candy and teach them about Arduino and coding, it was a nice game in the maker faire. 
+
+
+
+
+ Nice! 
+
+
+
+
+ Intel Galileo would be a great idea, if you code using Arduino IDE it sucks but I'll try Windows, thanks a lot! 
+
+
+
+
+ Thanks, interesting read. 
+
+
+
+
+ Sure! I'l keep you posted. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ Exactly, I want to control the ink jet as i control a CNC machine. So basically there are no open source drivers? Do I have to override the driver and control it with motors directly?
+ 
+
+
+
+
+
+
+
+
+
+ Well at least they have the Arduino trademark in the US. 
+
+
+
+
+
+
+
+
+
+ Yea some of them are collaborations with they guys at the makerspace :) They don't like using Reddit! Say it has a bad interface which is true :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In the end, some idiots will buy it. Reminds me of the USB-C Apple made, a guy built a universal adapter for it and made [$800K+ on Kickstarter](https://www.kickstarter.com/projects/nonda/get-your-macbook-ports-back) off their stupidity.
+ 
+
+
+
+
+
+
+
+
+
+ Makes sense, what about Facebook? 
+
+
+
+
+ Yea I don't like their new design 
+
+
+
+
+  Printrbot Play
+
+Thanks for the info.! 
+
+
+
+
+
+
+
+
+
+ Shit! I wanna get something for the office and we are also launching a contest so I wanna provide 3D printers as the top prizes. If you have $700, would you get 2 of [those](http://printm3d.com/)?  
+
+
+
+
+ What's the alternative then? Trying to get one for less than $200, what do you think of this [one](http://q3dprinter.com/oneup.htm)? 
+
+
+
+
+ Makes sense now! Lima [shipped after 2 years](http://techcrunch.com/2015/07/21/lima-finally-ships-its-dropbox-alternative-to-its-kickstarter-backers-sort-of/)!  
+
+
+
+
+ I think you missed some useful Arduino shields
+
+* [Wifi Shield](http://www.amazon.com/Arduino-WiFi-Shield/dp/B00MEKEBXG)
+* [Smartphone Shield](http://1sheeld.com)
+* [Proto Shield](http://www.amazon.com/Arduino-Proto-Shield-R3-Assembled/dp/B007QXTRNA)
+* [Relay Shield](http://www.amazon.com/4-Channel-Relay-Shield-for-Arduino/dp/B007JOEVNW)
+* [Motor Shield](http://www.amazon.com/Arduino-Motor-Shield-R3/dp/B006UTE70E)
+* [Xbee Shield](http://www.amazon.com/arduino-org-Arduino-Xbee-Shield/dp/B004L6PNLA) 
+
+
+
+
+ Interesting! Do you any any good 3D printers available in the market for under $200? 
+
+
+
+
+ Makes sense, we had accepted pre-orders after our campaign cause we had extra stock in the manufacturing run anyways, but yea you're right, nothing harmful comes if you collect e-mails and send out when you are ready. 
+
+
+
+
+ That's a great insight, thanks a lot for sharing! 
+
+
+
+
+ Great analysis Dan, I agree of course on putting your backers first, but you can actually accept pre-orders in a good by charging the customer instantly through [Grandst](https://grandst.com/).
+When we ran our [1Sheeld Kickstarter campaign](https://www.kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma), we accepted pre-orders afterwards, shipped to our Kickstarter backers first, then pre-orders, then got it on Amazon and in retail.
+It's an interesting approach though as we are launching another product soon and it makes sense to fulfill your Kickstarter orders first then worry about other orders, I'll consider it in plan :) 
+
+
+
+
+ Yea I read that, my first thought is to encourage backers who have doubts to pledge and not wait for retail.
+Still you can accept pre-orders and announce a late shipping date, right?   
+
+
+
+
+ I'm trying to buy a couple of Tiko3D printers for the office, it's a $179 3D printer and hit well on [Kickstarter](https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer), and I was surprised to find they are not accepting pre-orders on their [website](http://www.tiko3d.com/), any thoughts on why are they NOT making money? 
+
+
+
+
+ Nice list, I recommend [Android Community ](http://androidcommunity.com/) as well 
+
+
+
+
+ Nice! Next time write in text please so it's easy to copy :) 
+
+
+
+
+ I went into a Microcenter in NYC and I totally prefer buying stuff online, the sales guy there didn't know the difference between a Particle core and a Raspberry Pi! 
+
+
+
+
+
+
+
+
+
+ THANK YOU! 
+
+
+
+
+ I've used it in our app, it did actually as we directed the feedback to the forum on our website, and started engaging in conversations with our customers, which resulted in more community engagement and better reviews. 
+
+
+
+
+ Thanks, I guess i'll research into that. 
+
+
+
+
+ Check out this [project](https://www.hackster.io/team-omega-d2/ar-drone-and-1sheeld-discover-the-world-around-your-drone), they used an Arduino Mega on a drone + a smart phone for sensor calibration. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,570 @@
+ It's the one that looks like a grid of white squares, and it should be on the screen by default.  And it's called the App Drawer.  This ain't iOS. 
+
+
+
+
+ And just what OS do you think your G3 showed up with then?  4.4.x is KitKat, G3 shipped with 4.4.2...? 
+
+
+
+
+ I don't remember if it was specifically a Halloween ep but the zombie episode of "Valerie's Family" aka "The Hogan Family"...I was 7.  It will forever haunt me lol.
+
+http://www.youtube.com/watch?v=mh9FP_9eskw t=5m30s 
+
+
+
+
+ I still watch Garfield's Halloween Adventure and It's the Great Pumpkin, Charlie Brown! every Halloween.  Those always made the season for me. (I'm 34...when I was a kid I taped Garfield over a copy of Dirty Harry...good old VCR technology.) 
+
+
+
+
+ Monty Python but not Khan.  Someone needs to revoke your nerd card. 
+
+
+
+
+ Last I checked most everyone shows up with parents.  Rich Corinthian Leather was a meme before memes were memes...I've heard about that my entire life.  And if you can't identify RM as Khan from Star Trek 2 (note: NOT Star Trek Into Darkness)...I just don't even know. 
+
+
+
+
+ Oh. My. Gawd.  This interaction on Reddit with the very young, I often find it quite disturbing.  Do yourself a favor and look it up, I'm sure the video is on YouTube.  Also, Khan. 
+
+
+
+
+ Um...huh?  Dude, Ricardo Montalban. 
+
+
+
+
+ Do not turn off traction control in the wet, and also while you're learning to shift. 
+
+
+
+
+ Now find me one fitted with rich Corinthian leather. 
+
+
+
+
+ Not beautiful?  WTH is wrong with you? 
+
+
+
+
+ I love The Ninth Gate, it's one of my faves 
+
+
+
+
+ HTC really needs a win here. 
+
+
+
+
+ Peasants are everywhere, even on Android ;) #justmasterracethings... 
+
+
+
+
+ Might be available eventually, or reps, but they only just announced the thing in the past twoish weeks... 
+
+
+
+
+ My group of friends coined the term "fruit fly" in uni - "hag" had too negative a connotation for us.  :) 
+
+
+
+
+ I was all set to trade my G3 for a Note 4 in the coming weeks but yesterday the G3's bootloader was unlocked so it could become a development hotspot given it's one of the highest powered unlocked devices.  Something to think about if you're into making your device your own. 
+
+
+
+
+ 15 years ago my school had no such question.  I wonder if they do today?  My first roommate asked me if I was gay, told him no.  Probably didn't know what to think when I ended up the President of the school's LGBTQ association "Gays and Friends". 
+
+
+
+
+ Try this thread over on XDA 
+
+http://forum.xda-developers.com/showthread.php?t=2880768 
+
+
+
+
+ It may be possible to restore to stock by flashing a .kdz or .tot using LG Flash Tool but I'm not sure.  Technically they can refuse warranty service on your phone once it's been rooted, let alone had the bootloader unlocked. 
+
+
+
+
+ No idea...
+
+https://www.reddit.com/r/LGG3/comments/2ittfe/lg_g3_unlock_is_finally_here_for_all_variants_of/cl5szx1 
+
+
+
+
+ And yet, it happened. 
+
+
+
+
+ I posted the same over on XDA earlier today - good find :) 
+
+
+
+
+ We'll get an unofficial CM first probably and official support probably eventually, few months I'd guess. 
+
+
+
+
+ The frickin laser will be gone in AOSP. 
+
+
+
+
+ It is.  Folks who say otherwise have problems with reading comprehension.  The devs have been very clear. 
+
+
+
+
+ Music has never been particularly important to me and now that I don't reallysten in the car anymore.  I am actually getting ready to pull my stereo and speakers out of my car altogether because it just means nothing to me.  I'd rather have the weight savings. 
+
+
+
+
+ Frankly things like this make it too easy...folks should have some expertise to know what they're doing.  Someone in a different thread bricked their device using Flashify because they had no clue what they were doing.  Three adb commands is really not a big deal at all people.  How are you going to fix your phone if you have no idea what these mods actually do to it? 
+
+
+
+
+ I don't listen to music when I want to calm down.  EDM or hard rock are it for me. 
+
+
+
+
+ Personally I recommend Tapatalk but it costs and if you don't visit lots of forums it's not worthwhile.
+
+XDA App: https://play.google.com/store/apps/details?id=com.quoord.tapatalkxda.activity hl=en 
+
+
+
+
+ Unfortunately the only way is to spend some time learning.  A lot of how-tos from here:
+
+http://lmgtfy.com/?q=adb+how+to
+
+http://forum.xda-developers.com/lg-g3/general/guide-connecting-lg-g3-to-linux-adb-aka-t2821673
+
+http://forum.xda-developers.com/verizon-lg-g3/help/vzw-g3-detected-adb-t2819713 
+
+
+
+
+ FOLKS W 64GB SDCARDS - KNOWN ISSUE.  Only fix is to reformat to fat32 for the time being.
+
+Permalink: http://forum.xda-developers.com/showpost.php?p=55944771 postcount=106 
+
+
+
+
+ Does your device pingback if its plugged in and you run adb devices?  If not it's not correctly installed yet.  Try a different LG driver pack - there are several on XDA. 
+
+
+
+
+ There was no reason for a huge dev community when it only supported a single device on one of the US' smaller networks.  It'll pick up. 
+
+
+
+
+ Use Tapatalk or the XDA app. 
+
+
+
+
+ You should really learn how to use adb if you want to mod your device - it's very easy to screw things up, and then you'll just be here or on XDA asking for more help. 
+
+
+
+
+ Dude, so you used a shortcut method and it didn't work?  Should've followed the directions.  That's why they're there... 
+
+
+
+
+ It will not see a 64GB card or larger without using a tool to format as fat32 - not a bug; it's a limitation of TWRP. 
+
+
+
+
+ It says right in the dev's video that it's a true unlock, not a workaround.  ROMs always have to be custom made for the device they're going on - that's nothing new.  
+
+
+
+
+ "Auto focus"??  Seriously, in 2014, an aftermarket case needs to talk up a feature of a phone camera, one that most any phone camera has?  Odd. 
+
+
+
+
+ http://www.scion.com/cars/release_series/FRSRS1/
+
+Because apparently some people aren't aware... ;) 
+
+
+
+
+ Anything's possible.  Could always flash back to stock. 
+
+
+
+
+ Started in physics as that was what interested me a great deal in HS.  First roommate was an EE and I took an intro class for fun, liked it, and that became my major.  I also did significant outside major work in law, business and psychology.  Took the GMATs but ended up getting an engineering job and that's what I've been doing since in varying capacities.  But I wouldn't say my major was strongly tied to the specific work I've done the past 11 years.
+
+Maybe think about what you want to do for work and see what folks recommend? 
+
+
+
+
+ I have a 64GB Pro card currently in my G3.  Compared to a class 4 32GB Sandisk I used in my truck just as music storage, it is lightning fast.  And the phone in speed tests could tell the difference.  As far as a tangible benefit though, not sure.  I was just thrilled to get it for only $70 back in July @ BB via an Amazon pricematch. 
+
+
+
+
+ Try this - you can use the wrench icon after tapping the screen to manage the AGPS state such as downloading new data and resetting the GPS., It can take as long as 15 minutes to get a good lock if you haven't had one in a while so plug into a wall adapter and let it rip.  If you still get nothing, check out where you purchased for some warranty service. 
+
+https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2 hl=en 
+
+
+
+
+ No, not actually, but whatever.  The poster specifically mentions crickets and the HPFP, i.e. the same squeaking sound most folks also refer to as crickets.  NOT the sound of injection events. 
+
+
+
+
+ Erm...The crickets sound originates from the high pressure fuel pump, part of the direct injection system.  That's very well known.   
+
+
+
+
+ Right around where my lil bro's fiancee lives.  Nice.  We all grew up in Fremont.
+
+If you can find a group of people with whom you share interests and, better, proclivities (i.e. what is and is not rice), all the better. 
+
+
+
+
+ 34...Male...Closest representation to my belief system is libertarian, which is barely second string in the US, and that doesn't really cut it.  I'm for: guns, marriage equality, choice (abortion), vehicle modifications, motorcycle lane sharing, reduced law enforcement, separation of church and state, preventing religious organizations from free use of public facilities, preventing religious organizations from operating tax free, preventing businesses from offshoring their tax burdens, against unions, against vehicle mileage taxes...Those are probably the things I care most about 
+
+
+
+
+ Still on the stock head unit.  Really?? 
+
+
+
+
+ So is every G3 user on Verizon.  Deal with it. 
+
+
+
+
+ And what do you do when the demographic you want isn't in the mainstream?  Oh, that's right, not a damn thing. 
+
+
+
+
+ I used to.  I voted for the first time in 1998.  Things didn't go how I voted.  They never have any time since then either.  When I moved last year across the country, I did not register to vote.  I am what you call a disenfranchised voter.  I do not feel like I am able to be represented by the election process as it exists in the US today, so I no longer participate. 
+
+
+
+
+ No, never.  Grandmother lost to cancer, smoker.  Dad nearly lost to heart disease, cancer.  Other grandfather lost to cancer, smoker and alcoholic.
+
+Also, addiction is giving up control to something outside myself, which I just won't/can't do. 
+
+
+
+
+ Mine is always telling me to smile.  I put up a pic of Grumpy Cat that says "I AM smiling" and I colored it the "am" with a highlighter. 
+
+
+
+
+ No.  Nothing is so important to me that I need to permanently etch it into my skin. 
+
+
+
+
+ Eldest of two, was bullied through graduation from high school verbally and physically (rocks thrown, belongings messed with, etc.). 
+
+
+
+
+ http://www.ft86club.com/forums/showpost.php?p=1731341 postcount=15 
+
+
+
+
+ People say that but there are plenty of people ethanol free who still have crickets.   
+
+
+
+
+  Personally I'm all for technological augmentation.  I definitely don't feel as strongly about it though as you seem to. 
+
+
+
+
+ You're right, this is Reddit, and this conversation happened weeks ago.  So you don't know what all happened, as I said.  Armchair quarterbacking on Tuesday does no good. 
+
+
+
+
+ You have absolutely no idea what you have stepped in by commenting on this thread.  The context button does not even remotely tell the tale.  Nice job jumping to conclusions though.  I had every reason to respond how I did, Mr. Thought Police. 
+
+
+
+
+ They've been talking this over on Slick Deals,and there's a pretty strong consensus that full price orders are not eligible. 
+
+
+
+
+ No, it's a case of to each their own.  I like the idea that the bezel isn't just a spot for the logo.  That's why I'd never look at an M8 for example.  The G3 is nowhere near that bad but in this case the Note 4 is even more space efficient. 
+
+
+
+
+ I've done both.  If your want to have your computer setup to talk to your Android, use IO as you'll get drivers setup, etc. which could come in handy if you need to reflash stock.  If you just want root NOW, use Stump.  Stump seems to make the USB Debugging setting in Dev Options not stick on reboot so you have to edit build.prop to fix it though. 
+
+
+
+
+ Spent some time playing with a Note 4 at Best Buy yesterday.  Very tempting.  Screen is amazing and the camera is faster than the G3.  Also Panorama mode works - I find the G3's to be very glitchy by comparison.  It's right about the same size as the i6+ but slightly wider and thicker, as well as half an ounce or so heavier.  Like I said, very tempting.  And the BB and Samsung preorder deals are pretty good as well. 
+
+
+
+
+ Well that provides a location for the fingerprint scanner.  Also, the menu and back buttons being in the bezel give you more usable screen area. 
+
+
+
+
+ You'd adversely effect the phone's signal performamce if you used a metal cover unless you could be sure it was fully anodized/painted such that there was no metal/metal contact.
+
+The antennas aren't in the metal band like an iPhone so that's why - see RF Exposure Info 1 para 1.4 for a diagram.
+
+https://apps.fcc.gov/oetcf/eas/reports/ViewExhibitReport.cfm?mode=Exhibits RequestTimeout=500 calledFromFrame=N application_id=942994 fcc_id=A3LSMN910A
+ 
+
+
+
+
+ I am a (very) infrequent consumer of alcohol, and I have never been party to illegal controlled substances.  But I don't go around telling others how they're horrible people just because they imbibe certain chemicals, natural or otherwise. 
+
+
+
+
+ Hate to break it to you pal but that map's no longer accurate.  There's a Whole Foods in Fremont now, for example.  Was there in May.  Source: Mk 1 Mod 0 eyeball, plus grew up there and family still lives there. 
+
+
+
+
+ Is that why I can never get Starbucks' app to work? 
+
+
+
+
+ Bisexual male, LTR with a straight but not narrow woman.  As compared to me, she is a nymphomaniac.  Sometimes the physical and emotional needs she has wear on me, but I love her so I try to do my best.  Barring any unforeseen circumstances I intend to ask her to marry me in the near future.  Been down this road once before and am a bit nervous given how that worked out, but that was a different time and place and the ex and I were vastly different people.  Which is to say we were too alike to succeed. 
+
+
+
+
+ Are you me?  Because, that's me you described.  Startlingly accurately. 
+
+
+
+
+ Senior year 97/98 ;) 
+
+
+
+
+ No, not in trouble with the teacher, in trouble with yourself for missing new material.
+
+High school, oh man...Now I REALLY feel old.  That means when I was in  high school there's a one in four chance you weren't even born yet. 
+
+
+
+
+ Don't disagree - have an LG G3 myself.  Be careful doing homework in class.  That got me in trouble back in the day (assuming you're talking college, you'd have been at best a kindergartner or first grader....man I now feel old lol). 
+
+
+
+
+ Could ypu give me a usage scenario?  What would you need side by side?  I guess it's different for me as I can barely use devices in my job due to what I do for a living.  I see commercials of people using tablets and phones in their jobs and I wonder what that'd be like. 
+
+
+
+
+ I can appreciate that.  I'm much in the same situation wrt people I consider friends.  I'm always available for a chat if you need to blow off some steam.  I'm sure many folks here feel the same.  I can't guarantee I'll be instantly available but fairly quickly. 
+
+
+
+
+ I understand.  I heard similar comments when I was younger, but when I came out it was fine.  Yes, there was turbulence, but it was my fault.  I also was no longer loving at home, or even in the state.  Do you have a support system locally?  Friends, your fiance? 
+
+
+
+
+ I can see this being useful on a tablet but on phones, not so sure of the utility. 
+
+
+
+
+ It'll be gone right around the time racism fades away. 
+
+
+
+
+ Why do you have to stay with your mom?  Is a nurse or other family member an option?  What are the reasons you haven't come out, just the accident?  I'm sorry you're going through this. 
+
+
+
+
+ The G3 isn't listed on Mophie's compatibility page.
+
+http://www.mophie.com/compatibility
+
+I suspect that the current output is too low as I've seen that same error from the direct USB port in a Toyota Corolla rental I had last week - tried to charge, couldn't, popped that message up. 
+
+
+
+
+ New features that haven't been incorporated into the regular builds.  Could be better performance, different fonts, different rendering engine...Just depends on what they're working on.  On  the desktop there are three or four different versions depending on how bleeding edge you want to be.  Beta is actually the "most tame" of those as it's where final testing happens prior to release.  I've always run Beta.  I run the Development channel on my desktop.  You can learn more about it from the desktop perspective here:
+
+http://www.chromium.org/getting-involved/dev-channel 
+
+
+
+
+ Drive it until the tires go flat and then get new tires and drive it some more.  The best thing you can do to ensure your car lasts a long time is learn how to drive it.  Learn how to drive it on sunny days, cloudy days, rainy days, icy days, snowy days, whatever kind of days and nights you have access to.  And those nannies, don't turn them off on the rainy/icy/snowy days.  Enough people have already and they always manage to find a guardrail, curb or lightpost. 
+
+
+
+
+ Nothing like that on my phone...And I have a very dark background.  It does look like a distortion caused by pressure just like /u/chicagostreetwalker suggested. 
+
+
+
+
+ Any Verizon LG G3 is unlocked (for use on other providers except for Sprint).  However, have you verified that the frequencies you need in Brazil are supplied by a US purchased phone? 
+
+
+
+
+ Except that messing with the cats is illegal at the federal level and carries an enormous fine if they catch you.  So keep that in mind.  They don't tend to go after individual owners though - they go after the installers and the manufacturers.  But it's still a risk you should be aware of.
+
+http://www.law.cornell.edu/uscode/text/42/7522
+
+(a) Enumerated prohibitions
+The following acts and the causing thereof are prohibited...
+
+(3) (A) ...or for any person knowingly to remove or render inoperative any such device or element of design after such sale and delivery to the ultimate purchaser...
+
+...which is what happens when an ultimate purchaser such as yourself removes a cat.  As an example. 
+
+
+
+
+ Well, given that warranties are time OR mileage, and the first twins were late 2012, and it's only 2014, and it's a three year / 36k mi warranty (in the US)...That's why I went with mileage. 
+
+
+
+
+ Insurance didn't care whether I had a lease or financing.  They asked "Are you leasing or financing?"  I said yes.  Simple as that.  They only care from the perspective of to whom the policy pays out.  Also, I have no requirement to have my maintenance done at a dealer.  Pretty sure they can't legally force you to do that, even on a lease.  Now, Scion Service Boost gives you maintenance for 22,500 miles (basically, first three oil changes) - maybe that's where you're confused?  I'm in the US as well - things don't vary THAT much on a state by state basis. 
+
+
+
+
+ They are slowish in acceleration.  6.6 to 60 in a manual.  They are not slow through turns.  Once you get going, if you know what you're doing, you can cut pretty good times compared to other vehicles.
+
+Source - I have one... 
+
+
+
+
+ Uh...there are tons of people with more than 36,000 mi on their Twins. 
+
+
+
+
+ I'm on 8.1 64-bit; worked the first time.  I'd already set it up for back when I rooted it with ioroot in July though right when I got it the first weekend so that might've had something to do with it.  It was a major PITA to get the drivers setup the first time. 
+
+
+
+
+ Firmware update is the screen you want.  A lot of the directions are unclear.  It'll say Download Mode in tiny font then go to the Firmware Update screen.  At that point you're ready to start LGFlashtool and pick DLL and TOT file.  I just did this yesterday. 
+
+
+
+
+ I did.  Yesterday.  Thread on XDA.
+
+http://forum.xda-developers.com/verizon-lg-g3/general/restore-verizon-to-stock-t2827878
+
+Now yes it says for Verizon but with the right tot file it'll wprk just fine.  Working smoother now for sure.  I disabled all the disableable stuff, then rooted with Stump Root, THEN hooked it to my Google account. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ The one I have just looks like a miniature ratcheting socket wrench - the bits fit into the end.  Similar to this:
+
+http://www.harborfreight.com/8-piece-right-angle-screwdriver-92630.html 
+
+
+
+
+ Hey do you have any more pics?  I've been trying to decide between the red/white and the black/white for my 37J.  Leaning towards the red/white like you have as it lines up with what I've been doing (expanding the red accents on the seats out to the rest of the car).
+
+Thanks! 
+
+
+
+
+ Penderyn! 
+
+
+
+
+ Well there was an update today.  Dunno if that'd make a difference for you.  November doesn't really matter though seeing as the G3 only came out in July...
+
+I also rarely text because it drives me nuts.  So I don't know if you're one of the text fiends like most kids these days but I can't frakkin' stand texting.  What takes thirty minutes via text would take 30 seconds on a phone call. 
+
+
+
+
+ The Sprint version was the last one rooted.  You took a big risk getting that version.  It may never pay off. 
+
+
+
+
+ The case back you got does have four pins on it right, not just two?  Some folks have been getting scammed on eBay, only ending up with NFC backs... 
+
+
+
+

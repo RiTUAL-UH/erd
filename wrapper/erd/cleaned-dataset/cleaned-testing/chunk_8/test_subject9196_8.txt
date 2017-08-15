@@ -1,0 +1,189 @@
+
+
+
+
+
+ Any opinion on Cruton, any issues worth taking into account? I'm considering buying Pixel LS as it is 700$ cheaper than MacBook Pro (EU here) for Android development so Ubuntu will be my primary OS. 
+
+
+
+
+
+
+
+
+
+ Sure it can be, most likely a drawable inside it.
+But in this way I avoid most of the problems of for example, keeping size, and detecting text bottom line.
+
+EDIT: you can even find a branch with such Drawable instead of 3 textviews on this repo. 
+
+
+
+
+
+
+
+
+
+ Good try of avoiding a pop dialog of Superuser:
+
+https://gist.github.com/stefanhoth/d52cd6cb2174bf6e395d 
+
+
+
+
+
+
+
+
+
+ Actually they work in Telegram, and are pretty great (later on you can easily search by some hashtag). 
+
+
+
+
+
+
+
+
+
+ Yes, it extracts its RemoteInput correctly, set text, and send it back but Hangouts does ignore that text.
+Just tested with Messenger - it works correctly. 
+
+
+
+
+ So I have created sample project with it, and actually it is working.. for every other app except Hangouts (didn't test with other like Messenger).
+https://github.com/tajchert/NotificationResponse
+Probably they require some additional Id or use other way of getting RemoteInput. 
+
+
+
+
+ What tool did you used to decompile? I used 3 different (dex2jar, some online one, and ShowJava app), each time with different results. ShowJava at leasts shows some method in BaseMirror class, that is Wearable related.
+
+"static Mirroring$WearReplyAction a(NotificationSpec var0) {"
+but body is invisible due to some error. 
+
+
+
+
+ Sorry, I found it later on (class) but there is still no code for extracting actions as you described.
+Here is my BaseMirror class: http://pastebin.com/WDLV5yap
+I have downloaded APK from Google Play (not extracted from the phone). 
+
+
+
+
+ I have decompiled latest apk and can't find this class at all (neither "android.wearable.EXTENSIONS") any ideas where is it or what I'm doing wrong? 
+
+
+
+
+ How about Android TV? 
+
+
+
+
+ I'm aware of that - thus I wrote this is (very) small lib. It just save you work of setting up GoogleApiClient. So instead of those 80 lines of code you just wrote around 25. I found it useful in some of my project thus decided to make it a lib. 
+
+
+
+
+
+
+
+
+
+ Student loans 
+
+
+
+
+ Just /r/Android
+
+http://www.reddit.com/r/Android/comments/1uvt84/made_a_clockwidget_with_events_marked_as_colored/
+
+From there it went to AndroidPolice and all other tech news sites. 
+
+
+
+
+ 36 days, thanks to Reddit. No other marketing, 0$ budget. 
+
+
+
+
+ Is Yarn open sourced? Or how is this connected to "dev"? 
+
+
+
+
+ Hi, sorry but I don't have knowladge to help you but did you shared your code? Would love to take a look how to write own simple keyboard and there are very few resources with samples. 
+
+
+
+
+ Thank you! I didn't know that one already exists. 
+
+
+
+
+ That lib is solving a problem that not many people are aware of - if you get a exception/crash on Android Wear device it **won't be reported in Google Play** - so you will get many 1 star reviews and no crash reports. 
+
+
+
+
+
+
+
+
+
+ Do not forget to add license as well (for public ones at least). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dev? 
+
+
+
+
+ G+ source: https://plus.google.com/u/0/+TonySalinasLeDerpyDerp/posts 
+
+
+
+
+
+
+
+
+
+ Is there better res of "yes we code"?
+
+Edit: source: https://octodex.github.com/baracktocat/ so it doesn't look like there is one. 
+
+
+
+

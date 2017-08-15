@@ -1,0 +1,234 @@
+ Waiting. 
+
+
+
+
+
+
+
+
+
+ 3rd on burp cloths...but butt wipes are also seemingly ALWAYS in short supply. 
+
+
+
+
+ You mean, you DON'T? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Username: train_subject8607
+
+General field: Physiology/pharmacology
+
+Particular areas of research include smooth muscle physiology, ion channel function/signaling, and receptor pharmacology.
+
+Education: PhD in Pharmacology and Toxicology, postdoctoral fellow for 3 years, research assistant professor in Pharmacology presently.
+
+Comments: [1](https://www.reddit.com/r/askscience/comments/36i2rj/in_the_body_what_causes_ligands_bind_to_receptors/), [2](https://www.reddit.com/r/askscience/comments/36i2lf/when_becoming_accustomed_to_eating_spicy_food_is/), [3] (https://www.reddit.com/r/askscience/comments/37oaty/why_does_hypertension_cause_ocular_blood_vessels/), [4] (https://www.reddit.com/r/AskScienceDiscussion/comments/36xvbf/selective_absorption_by_epithelial_tissue/), [5] (https://www.reddit.com/r/askscience/comments/36mte4/what_is_the_best_way_to_compare_ic50_values/)
+
+
+Same flair already granted in [/r/Science] (http://www.reddit.com/r/science). 
+
+
+
+
+ Agreed. These bonds between receptor and ligand also have differing association/dissociation constants, meaning the ligand/receptor can be together for varying amounts of time. Some very short, some nearly permanent. This all has to do with the relative associative forces bringing the molecules together, and it's balance with the repulsive forces pulling them apart. Things like electrical charge, simple diffusion, conformational changes in the receptor shape...they all can help push things back apart, and work against the non-covalent bonds that are formed. 
+
+
+
+
+ Capsaicin is a strong activator of a transient receptor potential (TRP) channel called TRPV1. This channel is found on sensory nerves and plays a role in nerve signal conduction. The neat thing about capsaicin is that it is also a strong desensitizer of TRPV1 - so much so that it can actually cause the amount of TRPV1 protein expressed on sensory nerves to decrease for extended periods of time. Less TRPV1 = less sensitivity to capsaicin = less burning-mouth perceived by you. I mean, it's not really "hot"; it's just perceived as such due to activation of TRPV1 channels. No TRPV1 means bland food, no matter how much capsaicin you put in it. 
+
+
+
+
+ Euchre. Well-known in the Midwest US, but otherwise not so much (it seems). Three and 4 player iterations exist.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Interesting question, and I am sorry your tutor vastly over-simplified the answer. It is true that inter-cellular space is nearly nonexistent, as the role of an epithelium is as a barrier. But, it is not true that they only excrete substances. Epithelial cells can express a myriad of transporters, ion channels, and pores that allow all sorts of different things into, out of, and through the epithelial cells. It varies based on the epithelial type in question.
+
+I am wondering one thing, though: to me, the epithelium I think of last is the skin (I research the urinary bladder for a living). The questions you bring up here seem to be related to "transport" across the epidermis' stratum corneum (outer layer of skin) and not an epithelium in the more general sense.
+ 
+The stratum corner is a pretty tight barrier against a lot of stuff, but it is still made up of cells with hydrophobic membranes...so many hydrophobic compounds and lipophilic small molecules are more than happy to alter the cell membrane stiffness and pliability and/or pass right through. Thus, most of the moisturizers you use aren't really imparting water, per se...but imparting elasticity and flexibility. 
+
+As far as the patches and lead and mercury and stuff? Some patches increase permeability chemically, some have special formulations of the drugs that allow them to pass through the cells, and some just rely on simple diffusion of tiny molecules that are intrinsically capable of passing through the skin. The heavy metals you speak of, as inorganic ions, aren't particularly well-absorbed (IMO)...however, organic molecules containing lead and mercury are EXTREMELY well-absorbed through the stratum corneum and EXTREMELY toxic. Again, this is because of the lipophilicity of the organic compound and thus it's ability to basically pass right through the cell membranes. 
+
+
+
+
+ Well, in the simple sense, if your ic50 values are within the confidence intervals of the ic50 values reported  elsewhere, then it seems you could attest that your values are not significantly different from the original values. I can't think of a statistically legitimate way to make the comparison between 2 separate groups without at least knowing the variance within one of the groups. Then you can see if your value fits within that variance.  
+
+
+
+
+ Comparisons without replicates is not really the best idea, IMO.  But when I do this (for EC50, but essentially the same thing), I always use -log(EC50). You can't really average EC50 or IC50 as they are, since on a logarithmic scale...let alone calculate reliable SEM. It's explained well [here] (http://www.graphpad.com/guides/prism/6/curve-fitting/index.htm?reg_why_prism_fits_the_logec50_rat.htm). 
+
+
+
+
+ Something else...the "effects" of which you speak are either due to TRPV1-expressing sensory nerves near your rectum, or due to inflammation in response to large, local release of neurotransmitters due to nerve activation. Interestingly, from a pharmacological perspective, menthol and capsaicin are really doing the exact same thing: opening an ion channel that is depolarizing a sensory nerve. The fact that we perceive it as cold vs. hot is merely coincidental...so, sadly, no balance. Might actually feel WORSE, given the circumstances. :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think the more interesting thing here is knowing that it's an adenosine receptor blocker that's affecting mood and memory, not so much that it's caffeine. Caffeine does a myriad of other things (blocks some important receptors, agonizes others), but knowing that Adenosine 2A receptors mediate these effects on mood is critical to drug development of new, more specific agents. Perhaps this leads to an entirely new class of antidepressants? 
+
+
+
+
+ Every process in your entire body is ultimately regulated by only 4 ions: Na+, K+, Ca2+, and Cl-. 
+ 
+
+
+
+
+ Amusing, yet extraordinarily accurate. Unfortunately, I think "Overselling" has almost become commonplace...that is, if you want a chance at funding. Yes, sometimes what we do as scientists is esoteric and incremental - but that doesn't mean it isn't exceptionally important.  But hey, we can't all cure cancer with every grant application or paper. It's too bad we don't always just say that. 
+
+
+
+
+ Baroreceptors, in this instance, likely have nothing to do with it...That's part of a autonomic circuit used to regulate heart rate and cardiac output relative to changes is BP. To my knowledge, there aren't any baroreceptors in the ocular arterioles.
+
+Ocular vessels narrow due to something called "myogenic tone", or "pressure-induced constriction". The smooth muscle cells in these vessels are able to sense stretch caused by increases in pressure and constrict accordingly. No neural innervation is required; even a single isolated smooth muscle cell would constrict when stretched. The development of this myogenic tone protects the extremely fragile capillary bed from rupture due to high pressures, since capillaries themselves are extremely thin (1 layer of endothelial cells only) and non-contractile.
+
+Pressure COULD get high enough to widen vessels instead, since the myogenic capability of smooth muscle reaches a plateau...but that pressure would need to be pretty dangerously high for that to happen.
+
+I could wax poetic about how this increase in tone ultimately leads to remodeling of the vessel wall, decreased distensibility, and vascular dysfunction, but I won't...unless you want me to. (c: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Reuptake is saturable: a finite amount of glucose can be taken back up at a time. The amount of glucose in the blood in the absence of insulin exceeds the amount that transporters can move per unit time. Thus, out goes the glucose...and out goes water with it, for that matter. 
+
+
+
+
+ I'm a vascular physiologists, so know that my response is definitely from that perspective - and not from the neuroscience perspective. That being said, my guess is that the cause of dehydration-induced headaches is two-fold:
+
+(1) Dehydration decreases blood volume, which causes blood vessels in the body to constrict to maintain blood pressure at a high enough level to properly deliver oxygen/nutrients to your organs. This includes vessels in your head (outside of the skull), which might lead to headache.
+
+(2) Your brain will do anything and everything to maintain blood flow to it, even at the expense of the rest of your body. So, when a drop blood volume also lowers blood pressure, the vessels in your brain do the opposite from the rest of the body: they dilate. Cerebral vessel dilation has also been attributed to development of "throbbing" headaches.
+
+On a side note - exactly how vascular changes cause the headache is still debated, since it seems that both vasodilation and vasoconstriction result in head pain. Somewhere along the line, these vascular changes activate pain-sensing nerve fibers, but several mechanisms for that activation have been hypothesized. We're trying to figure it out, I promise. (c:
+
+--
+
+Sources: [PubMed Central] (http://www.ncbi.nlm.nih.gov/pmc/?term=vascular+causes%20of%20headache), your home for free full-text science articles. 
+
+
+
+
+ It seems like Tim Hunt is not the only person to say wholly irrational, sensational and unfounded statements after winning the Nobel: [James Watson](http://www.independent.co.uk/news/science/fury-at-dna-pioneers-theory-africans-are-less-intelligent-than-westerners-394898.html), for example? 
+
+
+
+
+ As far as benefits go, I think that's constantly evolving - take the paper in question, for example. There are thousands of papers citing the benefits of caffeine in everything from gallstones to Parkinson's disease. Most all of this, however is correlation and not causal relationships...it's still unclear (in my opinion) the link between caffeine and all these other maladies. I think the benefits readily accepted right now are the ability of caffeine to increase alertness and act as a vasodilator; t's also used for some very specific airway disorders. But this is balanced against the diuretic effects, the dependence potential, the increase in heart rate, headache, and the jittery feelings people get. As with most anything, though, the dangers go up as the dose goes up. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

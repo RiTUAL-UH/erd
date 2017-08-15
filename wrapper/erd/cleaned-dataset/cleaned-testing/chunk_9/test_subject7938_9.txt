@@ -1,0 +1,141 @@
+ Haha, alright then. Still, it was handy as a one time use. It cost pennies and some time. 
+
+
+
+
+ Mine did not lift out. There was a good bit of friction on the spear. A tapper could probably do the job, but I only have one and it's busy. 
+
+
+
+
+ I have a feeling that would be true with ABS, but PLA printed a little hot (200-205C) with 20% infill tends to bond well. You could print it on it's side with support without much trouble if you had splitting problems. 
+
+
+
+
+ Yes on the bulldozers. The tires are rated 8-20PSI. At 8 there is significant resistance. Today I commuted 3 miles with 18PSI. It was not bad at all. Slower than my road bike, but easy to keep a good cruising speed and doesn't pull in turns. 
+
+
+
+
+ Yes they are. They definately helped that day, and they attach and detach simply. I like them, but I haven't had them very long either. 
+
+
+
+
+ Screwdriver works alright.
+https://www.youtube.com/watch?v=1ZPfZ_AL380 
+
+
+
+
+ Sure thing:
+[The STL and SCAD on github](https://github.com/ModernBotanist/printableSTLs/tree/spear_puller)
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That tree is already not happy.
+
+Where is this? I known a place where I've seen something similar a few years ago. 
+
+
+
+
+ A rainbow should shoot out when you open that. 
+
+
+
+
+ This is the unit I have and it is fantastic. I'm not sure how I got on before hand. All the functionality of a high end Hakko at a third the cost. 
+
+
+
+
+
+
+
+
+
+ East Woodman's also has a key kiosk. 
+
+
+
+
+ Not the slickest website, but lots and lots of ideas and basic analog and digital curcuits.
+
+http://www.talkingelectronics.com/projects/50%20-%20555%20Circuits/50%20-%20555%20Circuits.html 
+
+
+
+
+ If drunk running is your thing (it's definitely mine):
+
+http://www.madisonh3.com 
+
+
+
+
+ Their --- they're
+
+Not worth it. 
+
+
+
+
+ I'd stay away anyway if they have some kind of swedish Rancor in there. 
+
+
+
+
+
+
+
+
+
+ UNIVERSAL serial bus. Screw you Apple. 
+
+
+
+
+ Get drunk. But in costumes.  
+
+
+
+
+ Get studded tires and keep riding. All the shitty bicyclists are off the road by then so it's not as bad as it sounds.
+
+Yay for bikes stopping at stop signs!! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ham isn't obsolete but it is undergoing a shift. It's always been way more targetted to hackers. Now that the hacker/maker community is growing some interesting developments have been happening. New protocols, space balloons, and software defined radio have not (yet) been made obsolete by the internets.
+
+Then there's Echolink, which is a neat mashup. 
+
+
+
+

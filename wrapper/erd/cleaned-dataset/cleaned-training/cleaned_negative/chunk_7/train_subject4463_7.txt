@@ -1,0 +1,630 @@
+ Not the maker of the videos.  Though Thomas and I floated the idea before he started his. (he has a way better setup than I do)  
+
+
+
+
+ Swap the front left and right motors + endstops.  "Z" should be at the rear of the machine.  "Y" should be your front right, "X" should be your front left. 
+
+
+
+
+
+
+
+
+
+ Measure the ohms between the coils too.  If it's not 2-4 ohm, it's not likely a stepper that you want to be using.
+
+If it's like 10-30ohm, you _certainly_ don't want to use it. 
+
+
+
+
+ Print something with a flat top layer, and post a picture.  Looks like you're over extruding, but it's difficult to tell with that print.  Over extrusion can cause some of the weird layer lines, stringing, etc.
+
+Also, I'm familiar with that model.  You've got your X axis backwards it looks like, unless you mirrored that model on purpose.  When you home your printer, your nozzle should touch the front left corner of the bed.  (Bed should move away from you, nozzle should move left.) 
+
+
+
+
+ http://www.matweb.com/reference/deflection-temperature.aspx
+
+The important column to look at is the 1.8MPa column.  PLA, Nylon, and PET are all terrible materials to use.  (You'll reach 1.8MPa under a screw-head, and things will loosen up over time)  ABS _might_ do, but it's a bit easier to break in the non-glass filled form.
+
+Instead of straight polycarb, PC-ABS is a really nice alternative.  Here's a [review from whosawhatsis](https://plus.google.com/+Whosawhatsis/posts/LWUi17dojhk) and [the place to buy it](http://www.proto-pasta.com/shop/pcabs) but it's _EXPENSIVE_.
+
+dichloromethane is a good polycarb solvent, can you can do PC-slurry much like ABS slurry.  You've already got the E3Dv6, which is perfect for PC.  Taulman Tritan may be a suitable substitute as well, as it has a Tg of 100C 
+
+
+
+
+ Seriously, this is _MASSIVELY_ useful to have!  If a business is just starting manufacture, etc - it makes your job a lot easier having someone that speaks mandarin.  So much easier to source parts, get contracts made, etc. 
+
+
+
+
+ https://www.youtube.com/watch?v=8ruJBKFrRCk 
+
+
+
+
+ You guys see the 2 that he put in there? 
+
+
+
+
+ So, smash everything with colorful spikes, protrusions, etc.  Leave the fur-less ones alone.
+
+Got it.
+
+I fucking hate moths for some reason. 
+
+
+
+
+ http://www.reddit.com/r/3Dprinting/comments/2kcwyq/delta_vs_cartesian/clkv85x
+
+This is enough I think.  I've seen so many people get a delta as their first printer, against recommendation, fuck with it for 6+ months, and then use a cartesian and have everything dialed in completely within a day...while still not being able to get their delta working correctly.
+
+I go by what I see.  I work with all types of 3D printers on a daily basis, and help people repair theirs constantly.  It's my job.  I wake up every weekday at 8am, and do _this_. 
+
+
+
+
+ Running direct drive on a delta is a bad idea.  You can get away with running a really short bowden, and mounting a motor like this: http://i.imgur.com/uGvywHb.gifv - but putting a motor _on_ the end effector is a terrible, terrible idea.
+
+Liquid cooling, not so much.  Run thin enough tubing and it wouldn't add much weight to the end and you'd have plenty of flow left to keep things majorly cool.  I do liquid cooling in my PCs and the surface area of 1 side of a CPU is a lot lower than being able to spiral around a hot end, etc.
+
+I'm working on a potential solution to the direct drive-extruder on the end of a delta machine, but don't have anything to show for it yet.  I'm hoping that it ends up being a nice way to solve a bunch of problems all in one go. 
+
+
+
+
+  Well, the obvious solution to arms interference (especially to someone with a flare DeltaMaker) is to mount extruder under the plate like so: https://www.youtube.com/watch?v=9ALKoD72zjE[1]  
+
+Holy shit.  You lose like, what, 60mm (maybe even 90mm) of build height doing that?!  Now you're using some gymnastics in order to argue your point.  I already told you the _proper_ solution to this.  And that's to mount the extruder like so: http://i.imgur.com/uGvywHb.gifv - it looks ugly but it does a few things: Pairs the extruder close enough to the hot end that you can extrude pretty much anything, including FilaFlex.  Reduces the moving mass on the arms to near zero; the arms don't fight the mass of the motor because the motor is at a near-stationary point in the assembly. 
+
+
+
+
+ There's just simply a lot of confirmation bias in this subreddit.  If someone owns a delta, they don't believe they are wrong in making that choice (and honestly, they aren't wrong in making that choice.  They're perfectly fine machines for people who don't care about the theoretical, or for people who are building them as a pre-assembled kit).  I build them for a living.  I'm around them every day, I use them every day, I calibrate them every day, I troubleshoot faults in them every single day.  I know every single one of their fault modes, and that list is about 5x larger than any of the cartesian fault modes that I've seen over the past 4 years of doing this. 
+
+
+
+
+ Honestly, you won't need bigger motors.  Drive it with belts.  The benefit to Deltas is that they scale pretty big without the need for scaling much else.  Short of you wanting to throw a wood router on the end effector, you should be good with scaled belts/arms. 
+
+
+
+
+ The noise level has nothing to do with being a Delta or a Cartesian.  It has to do more with the quality of parts used for linear motion.  Rollers on T-slot are going to be more silent than LM8UUs on linear rail and they're going to be dampened by the longer belts on the Max. (Going by the list of printers you have in your flair)
+
+And yeah, the arms of a delta are what stop you from mounting an extruder at the end effector for direct extrusion.  You have to account for all arms being vertical at any point in the build volume.  So your entire extruder mechanism has to fit in that vertical space, nothing hanging out.  Then, once you've done that - you're putting substantial load on arms that people are already complaining about having flex in them.  You can somewhat get around this by doing the weird rubber medical hose mounting of the extruder assembly above the end effector, but that just looks weird.  (Though, I'm all for looking weird if it gets the job done!) 
+
+
+
+
+ In this case, I'm not sure if using an MVNO would help. :/ 
+
+
+
+
+ No they don't.  Because they receive an intent, fire off what they need to fire off, and then shut down.  They aren't active for more than a fraction of a second.  In fact, keeping your screen on for that 5 seconds likely uses way more power than the app would. 
+
+
+
+
+ Stop dealing with those companies then!  I love how many people bitch about AT T and Verizon Android devices, but continue to use their service. :/ 
+
+
+
+
+ How about the fact that it also actually works as well.  I've run into plenty of times where SuperSU worked and Superuser didn't. 
+
+
+
+
+ Deltas are just flat out a huge pain in the ass.  If you want a reliable, flat machine that will print _PLATES_ worth of parts reliably and quickly, a cartesian is the only way to go.
+
+Cartesians are just flat out less hassle, have more mounting options for extruders/hot ends.  Ever want to print Filaflex?  Good luck doing that on a Delta with a 2ft long bowden tube.  Cartesians are just hands down better in all respects.
+
+I build DeltaMaker printers for a living, have owned 2 Prusa i3, an Ingentis, a Prusa i2, and a Rostock Mini.  I will never voluntarily own a delta printer.  They're clean.  They're pretty.  And especially regarding wiring - they make it easy to make a professional looking product.  But the hassle in making sure they work constantly, consistently, is just not worth it.
+
+If you get something with a metal plate, and one of the sensors that the printrbot uses, you'll have auto bed leveling on a large surface without plate deflection and if you're talking about a large surface, this is a huge deal.  Deflection becomes an issue with larger build plates. 
+
+
+
+
+ Way to be so late that you submit news that has already been basically redacted, and removed and no longer relevant... 
+
+
+
+
+ This is the number 1 reason why I don't buy Samsung phones anymore.  I've got a smartphone...if it can't even do GPS reliably, then why the fuck did I pay so much for it?  Originally I was a motorola fan, then they started crippling all their phones after the OG Droid, so I went Samsung.  After Google bought motorola they really turned around, and their hardware now is top notch. 
+
+
+
+
+ Some battery management apps are exactly that.  Disabling all the unrequired stuff when the screen is off, keeping location wakes from happening (NLPUNbounce from the XPosed modules), etc.
+
+Not all battery management apps are "kill all the apps!" 
+
+
+
+
+ indeed. 
+
+
+
+
+ First thing's first: You're overextruding.  Actually, fixing that seems to be the core of the problem here.  Retraction can also be improved in a J-head by pointing a fan across the body fins, which will help with oozing/blobbing.   
+
+
+
+
+ This "don't be evil" shit is tossed around way too much. It has nothing to do with being "evil" and more to do with being lazy, or saving money by not having to hire a call center to handle things like this.  
+
+
+
+
+ She's got hank hill ass: http://i.imgur.com/fdtqw0j.jpg 
+
+
+
+
+ Fuck all of the "get an iPhone!/Android!" comments in this submission.  Seriously.  Both phones can mute group texts. 
+
+
+
+
+ It's funny, that as an Apple user, you have to upgrade _your entire fucking operating system_ to get this one stupid feature.  Especially knowing that in some instances, Apple has been known to make iOS updates severely slow down older devices in order to persuade people into buying the new ones. 
+
+
+
+
+ 90% of the time, it works every time! 
+
+
+
+
+ I'm not a Windows user.  I'm a linux user, and I'm quite familiar with out-of-the-blue changes to window managers (Unity on Ubuntu is a good example)... not your average joe here.
+
+I'm used to jumping from multiple different windowing paradigms with ease.  OSX is disjointed, ill conceived, and unintuitive. 
+
+
+
+
+ Seriously, this is bullshit.  This is not a place for advertising your product.  You've been downvoted everywhere else you've posted it. 
+
+
+
+
+ Stop your fucking lying. Google disabled NSFW searches a loooong time ago.  If you search for "tits" you get women in bikinis, not a single bare tit on there.  
+
+
+
+
+ Fuck you. 
+
+
+
+
+ What's this blobbing look like?  Can you post a picture? 
+
+
+
+
+ Honestly, at this point I just need to be able to navigate to parallels with an Arch linux install, and I'm good. :)
+
+If I had anything to say good about Apple computers, it's that Parallels is awesome. 
+
+
+
+
+ I want to say the top one.  Metallic/Glossy.  The settings icon and the terminal icon shown are the exact ones I saw/used. 
+
+
+
+
+ Not sure; wasn't my Mac.  Was one I had to jump on at the office.  It looked like a TV screen, and supposedly hadn't been updated in a while.  The mouse had a left/right click, was gloss white, looked like this: http://store.appogee.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/apple/Apple%20Wired%20Mouse.jpg
+
+If that gives you any idea to the age of the machine?
+
+I won't lie and pretend I have experience with Macs.  It was my first time touching one; I'm mostly a Linux guy - I'm not exactly unfamiliar with strange interfaces (Unity, etc)
+
+It did _NOT_ have the iPhone-esque desktop where all your programs were just thrown into a grid like I've seen on newer macs. 
+
+
+
+
+ Well, then there is also E3D's new hot end the "Cyclops", which is a color-switching hot end.  Single-nozzle, multiple colors.  That's "state-of-the-art" too.
+
+And then things like the iBoxNano (fucking TERRIBLE name, I know) that is using an LCD stripped of its backlight, with UV leds behind it acting as a digital mask to cure resin.  I'd say that's pretty "state-of-the-art" as well.
+
+Then there are the mini LCOS based projectors, with the LEDs replaced with UV leds and projected....it's just...there's so much innovation going on now that the first patents have started expiring. 
+
+
+
+
+ There's no single "state of the art".  There are multiple forms of 3D printing each of which are their own form of state of the art.  It's like any material selection.  Housing?  "What's the state of the art?"...well... you can go wood-frame house, concrete block, preform, etc.  Each have their uses in different climates, etc. 
+
+
+
+
+ Fullscreen != Maximized.  And if OSX is making things fullscreen when maximized, that's non-intuitive. 
+
+
+
+
+ Strangely enough, tried that.  Didn't pull chrome out.  Hit F11 (standard for full screening apps across multiple OSes) and it brought me to a desktop selector.  Ugh.  Oh, that was _after_ having to hit the function key, because who would _EVER_ want to use F-keys?  Nope...on a mac they default to being volume up/dn. 
+
+
+
+
+ The whole damn OS is unintuitive.  ctrl+alt left/right doesn't swap desktops, super+up/dn doesn't max/min windows, you've gotta do this whole drag and drop nonsense in order to install programs, I actually felt more at home dropping to a terminal and working from there. 
+
+
+
+
+ Nothing about OSX is intuitive.  I couldn't even find how to un-maximize my chrome window on a mac the other day... they just hide the buttons, completely. 
+
+
+
+
+ Peachy printer, and they're called galvanometers.  Downside is that the larger your object is, the more time it takes to print.  Benefit of whole-plate exposure is that you pretty much have the same print time per layer regardless. 
+
+
+
+
+ I can't actually find a price on that, but that's almost _exactly_ what I was thinking of. 
+
+
+
+
+ It's more like research for the RepRap project.  Always looking for new ways of curing resin, or depositing filament.  If I manage to figure out some new alternative method and people can build a 3D printer for $200 less than they could before, it's a win for everyone. 
+
+
+
+
+ Well, that's the point.  DLP light projector, $600+
+
+LCD screen, $100 or so? - It's a huge difference in price and might mean the difference between millions of people being able to have access to this kind of tech, or only a handful. 
+
+
+
+
+  You can take any display apart and remove the polarizing filters and such.
+
+Yes, but the color filter is another beast entirely.  It is laminated between these layers and practically impossible to remove.  The polarizing filters aren't so hard.  They are generally unattached once you've removed the metal frame.  (I've converted an LCD into a projector unit before) 
+
+
+
+
+ Why the hell did I have to dig soooo fucking deep for this question?  Sheesh. 
+
+
+
+
+ I cannot actually find monochrome LCDs in any resolutions higher than 20x4, or TFT displays for old nokias which are like 80x60. 
+
+
+
+
+ I'm looking to use an LCD screen as basically a digital-mask for UV light to cure resin, but I can't seem to find LCDs without bonded/laminated color filters.  I'm expecting I could take a regular LCD and put a UV light behind it, but suspect the filters would block most/all of the UV.
+
+Are there, say, 800x600 color-filterless displays out there?  Anyone ever heard of such a thing? 
+
+
+
+
+ What?  Since when?  I'm _constantly_ compiling things from the arch user repository... 
+
+
+
+
+  has your information anonymized on the back end.
+
+I'm guessing you missed that part.
+
+In their database, you are merely a number.  A statistic.  Nothing more.  As far as that number, they have things put in place so that it would be extremely difficult to pick out an individual person. 
+
+
+
+
+ Ooooohh, if this were fleshed out a little more, I could definitely get into it.  It's a little bland/sparse but knowing the flow of Marlin code would be pretty nice. 
+
+
+
+
+ Seconding this!  Every picture/video I've ever taken is backed up in my Google Drive.  I could grind my phone into dust tomorrow and think nothing of it, because important stuff is backed up automatically. :) 
+
+
+
+
+ http://html5test.com/results/desktop.html
+
+Chrome: "What was that?  I can't hear you over all of this HTML5 that I'm supporting" 
+
+
+
+
+ Google doesn't sell your information, it sells access to analytics that has your information anonymized on the back end.  Your information is what makes them so valuable for their advertising services.  If they _sold_ your information, everyone would just simply have your information and wouldn't need to go to Google to advertise.  I feel like a lot of people don't understand this simple concept.  Google does not sell your information.  They sell advertising and analytics.  Your information is a proprietary gold mine for them, they do not share it externally. 
+
+
+
+
+ I'm not sure this is an example of that at all.  We're not talking black and white here with grey somewhere between, we're talking about 2 languages that have strengths and weaknesses.  Python has syntactic sugar as a strength, and C has its speed.  We're not finding a half-way point here, we're taking the good from one, and also the good from another.  Separate, they're still both very powerful.  Together, they're just as powerful. 
+
+
+
+
+ Woah woah woah...
+
+We have a Gentoo user...
+
+Complaining about recompiling?
+
+What fucking universe did I wake up in? 
+
+
+
+
+ Examples:    
+https://plus.google.com/106582723758544717904/posts/6WzPzjBqFoW    
+https://plus.google.com/103855138756399157123/posts/4Bcq9dUUNSR
+https://plus.google.com/115150406129882898848/posts/YCtbRqXNyP2
+https://plus.google.com/103640360813900380904/posts/5W2Vt1ipuYV
+https://plus.google.com/115150406129882898848/posts/E7sZXQ2emqj
+https://plus.google.com/106582723758544717904/posts/fkDtyknCAWd
+https://plus.google.com/103716759551585317663/posts/cnAdVAGTPHV
+
+Simplify3D is not the end-all-be-all slicing solution.  It's certainly worth a look, but lets not pretend that it's going to solve everything.  It still has its fair share of problems.  Or maybe I'm just subjected to people having problems more often because I help people every day and those who need help are only those with problems. :D
+
+Anecdotal evidence, I'm aware. - but I'm just showing you what _I_ see about Simplify3D from the people that I follow, and who spent the money on the software. 
+
+
+
+
+ Or alternatively, for the loss.
+
+The Simplify3D team doesn't actually seem to care about community interaction.  I know a half dozen people that have problems with simplify3D, and want to report print-breaking bugs, but can't get so much as a response from them at all.   
+
+
+
+
+ Ingentis, T-slot-Tantillus, etc are better options. 
+
+
+
+
+ When the code is that old, those companies aren't the ones migrating their server infrastructure over to new versions of Windows.  It'll continue working just the same. 
+
+
+
+
+ You don't check for the string "Windows 9", that's bad programming practice.  You check for version number.
+
+This is just crutching bad programming practice. 
+
+
+
+
+ Again; we're talking nearly 20 years old at this point.  Why are we doing something like this in order to account for bad programmers.  Bad programmers should update _their_ code.  I know, I know...that's how it works.  But, I'm saying it shouldn't work that way. 
+
+
+
+
+ Should Microsoft really even be worried about programs that are checking for Windows 95 and 98 at this point though?  We're talking nearly 20 years old at this point. 
+
+
+
+
+ Well, honestly Arch is for control-freaks like myself.  Dumps you into a command line, expects you to build everything up from scratch.
+
+If you try out something like Mint, it's a drop-in windows experience.  Honestly, set up a virtual machine with Mint Linux and you'll be surprised at the things you _don't_ have to do afterwards.  Something like the new Mint with Cinnamon desktop is surprisingly well polished. 
+
+
+
+
+ So, I found something for you.
+
+https://downloads.archlinux.de/iso/archboot/2014.09
+
+These images actually have the old Arch Installer that basically runs you through a checklist (most of which are defaults which you can simply ignore if you don't understand them) and after the install is done, it'll dump you to a command line with only a root user and base packages installed.
+
+From there you can do a pacman -Syu in order to get fully up to date, and ethernet/dhcp is all previously set up for you.
+
+Or maybe you need something that at least dumps you into xorg? 
+
+
+
+
+ This wasn't a review.  This was a bunch of douchebags at a [6] laughing at Doctor Who stuff for 15 minutes, while occasionally interjecting something about the episode. 
+
+
+
+
+ Because the good Doctor Who episodes are all about the enemies.
+
+And usually the good enemies are the ones who have somehow managed to knock The Doctor off guard. 
+
+
+
+
+ American checking in, never had an issue with english accents or variations of english dialect really.
+
+I regularly have to listen to American English, Ebonics English, Aussie English, Scottish English, German English, Swedish English, Mexican English, etc.
+
+Though yes, I do have to turn the TV up quite loud in order to hear the dialog usually. 
+
+
+
+
+ So.  Imagine you're a 2D being.  Ignore the third dimension.  That 2D circle on the paper, you can only view it from X/Y.  So it looks like a straight line.
+
+You're right.  But as you're traveling from the Y dimension to the X dimension, around the circle...the line never gets taller or shorter.  Reasonable assumption, is that it's a circle.  A square would get taller, then shorter, then taller, etc.  Stars, and other such shapes would get taller/shorter at a higher frequency, etc. 
+
+
+
+
+ But he really wasn't "learning from them".  They were dying, but he wasn't learning anything from that.  He figured out that they were 2D from the first woman dying, but nobody else that died clued him in moreso than the events that were happening. 
+
+
+
+
+ It's certainly sneaking up on being my favorite episode of the whole reboot so far.  Had just the right mix of humor, horror, etc.  I think it would make a good "introductory" episode like Blink. 
+
+
+
+
+ The fact that they didn't focus too much on making it look "real" and gave it the whole disjointed effect is what made it I think. 
+
+
+
+
+ Those military drones?  They're literally unmanned.  As in they don't have to be watched by soldiers on the ground.  They aren't controlled in an RC fashion because half way around the world it would take seconds for the signal to get there, and you cannot fly a device like that with seconds worth of latency between video, input, etc.
+
+Drones are classified differently because their onboard computer, actually flies the thing.  It is not reliant on a human operator.  What you're calling a drone, is not a drone because it _requires_ line of sight and a pilot to fly. 
+
+
+
+
+ There is a difference in classification.
+
+[You wouldn't call this a drone, would you?:](https://www.paramountzone.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/z/m/zmer5.jpg) 
+
+
+
+
+ http://en.wikipedia.org/wiki/Horizon
+
+ For an observer standing on the ground with h = 1.70 metres (5 ft 7 in) (average eye-level height), the horizon is at a distance of **4.7 kilometres (2.9 mi).**
+
+ https://answers.yahoo.com/question/index?qid=20100627084920AAv5Kyf
+
+ What is the maximum range in miles of an RC plane ?
+
+**A typical hobby grade radio set will carry about a half mile in direct line-of-sight reliably.** Some good ones will carry twice that far reliably. With effort at designing optimum receiving antennae, etc, I am sure much greater range than that could be achieved. Even at a half mile, being able to see the model starts to become more of a limiting factor than the radio. Although larger sailplanes are often flown at great distances and are somewhat easier to see due to their size and high-visibility patterns on them. 
+
+There are many toy-grade rc airplanes that cannot be controlled beyond 300 feet. 
+
+
+
+
+ Yeah, we call those "RC aircraft" not drones. 
+
+
+
+
+ So you're telling me, we now have quadcopters that autonomously search out nude women, avoid incoming brooms, etc?  Because that's the only way your argument is correct... 
+
+
+
+
+  You said a quadcopter is a drone
+
+Reading comprehension much? 
+
+
+
+
+  samloveshummus said:    
+ "Unmanned Aerial Vehicle", of which this is obviously one type of example.
+
+Yes, you're completely right.  This quadcopter was obviously looking for boobies completely unmanned!  I mean, it completely responded to the woman chasing it with a broom completely unmanned as well, by backing away in a logical manner that only an unmanned aircraft would do!
+
+Completely unmanned! 
+
+
+
+
+ Then buy better video cards. 
+
+
+
+
+ It's called a quadcopter.  Not a fucking drone.  Get it?
+
+[Drone](http://www.newyorker.com/wp-content/uploads/2013/02/borowitz-drones.jpg)
+
+[Quadcopter](http://www.swiftrc.co.uk/ekmps/shops/swiftrc/images/bumblebee-c-quadcopter-with-dji-naza-fc-6287-p.jpeg) 
+
+
+
+
+ Sell it a build a PC. 
+
+
+
+
+ It's not bad to learn on a single computer.  If you know how to swap VTs (ctrl+alt+F1, F2, etc) then right on bootup it says in the terminal that the beginners guide is available by running [X] command.  I usually swap VTs back and forth while following that guide (enough to get networking set up) and then connect to the 'net, and use links to finish off the rest. 
+
+
+
+
+ Honestly, Arch is easy once you've done the install process once or twice.  Then it's beautiful being able to select the packages you want from the ground up.  I'm on an EEE900A with 2gb of DDR2 and an 8GB internal drive.  On a machine like that, you've gotta practice minimalism in order to pack everything into such a small drive, and also to be able to select lightweight enough packages that your single core 1.6ghz ATOM processor doesn't drive you insane. 
+
+
+
+
+ Those people are in love with the idea of being in love, and things never work out.  
+
+
+
+
+ The Moto G has the same waterproofing, and I've submerged it without issue.  They don't seal up the outside of the phone; they spray a superhydrophobic coating on all the PCBs and interior components so that water never "touches" the electronics. 
+
+
+
+
+ I'm honestly wishing I can find someone who bought it, but couldn't return it, and is selling one dirt cheap so that I can rip it apart, solder a jumper on the motherboard, flash a new coreboot onto it, and load up Arch. 
+
+
+
+
+ [literally?](http://dictionary.reference.com/browse/literally)
+(hint: Look at the usage note)
+
+Or actually? 
+
+
+
+
+ Just remember, they don't see Linux in that user agent string, they've got no reason to ever believe that giving into Linux is a good idea.  Given the fight they've been putting up with the FCC, and causing a fuss over Net Neutrality, you figure one might be a little more "tolerating".
+
+You might not agree with DRM, but...hey...baby steps. 
+
+
+
+
+ Ho-lee-crap.
+
+These would be _amazing_ for kids games or some sort of instructional guide for kids games.  So awesome that you have the mouths, etc.  Are these suitable for left/right walking at all you think?  Looks like it might need to be fleshed out slightly to achieve that. 
+
+
+
+
+ Neewwwwwwwdist BEEECH 
+
+
+
+
+ So, you're saying that you're a lying faggot?
+
+[OP](http://i3.kym-cdn.com/photos/images/newsfeed/000/423/672/667.gif) 
+
+
+
+
+ [](/umad) Jimmies officially rustled 
+
+
+
+
+ That's ok, people who pretend they're normal freak me out.
+
+Yet behind the curtains they like to suck on toes, or other such weird shit. 
+
+
+
+

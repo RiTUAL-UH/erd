@@ -1,0 +1,188 @@
+ Meet people and network the best way you are able. People are what matter, not the tools you use to find them. 
+
+
+
+
+ I honestly don't know if I could make it through this game. I *barely* made it through amnesia and this looks 100 times more immersive! 
+
+
+
+
+ Thanks for this! 
+
+
+
+
+ Did you ever get any to drop? I'm afraid I'm too high level and no elite's ever spawn, so nothing ever drops. 
+
+
+
+
+
+
+
+
+
+ How do you keep from getting too specific? 
+
+
+
+
+ How many other people work in your css? 
+
+
+
+
+ I like the idea of less abstract, general, presentational naming conventions.  Why does that work better for you? 
+
+
+
+
+ How accurate is your aim? How much time is spent refactoring names like .tall_box into .front_page_call_to_action into .cta 
+
+
+
+
+ Why would I want to display an old CTA that I'm replacing? 
+
+
+
+
+ So in a case where content remains the same but the presentation to the user changes. 
+
+How would your naming change if it was the presentation that remained the same but the content changed?
+
+So for example:
+
+On a portrait phone the container is 100% of the viewport's width and height and an image is displayed. 
+
+On a landscape phone the same container is 100% of the viewport and a different image is displayed.  
+
+
+
+
+ How do you keep your class names from getting too crazy in BEM? 
+
+
+
+
+ What happens if the purpose changes? 
+
+
+
+
+ Why are higher levels of abstraction better ("content" instead of "box" in your example)? 
+
+
+
+
+ How important is semantics and why? 
+
+
+
+
+
+
+
+
+
+ That's too bad :( Best of luck in whatever decision you make. Contract fun can be very rewarding! 
+
+
+
+
+
+
+
+
+
+ If you do find yourself working in photoshop to create assets [check out Adobe's built in asset generator](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html). It saves your layers into files based on how you name the layers. It's a huge time saver. 
+
+
+
+
+ I wish I could upvote you twice! 
+
+
+
+
+
+
+
+
+
+ Oh no! Sorry about that. If you have time to post a screenshot I'll add it to my list of bugs. I wonder what it could be? 
+
+
+
+
+ Do you have a link to this by chance? This sounds amazing. 
+
+
+
+
+ Deal.  
+
+
+
+
+ I've always thought it would be incredible to work with IDEO. Maybe it's time to consider relocating... 
+
+
+
+
+ This is great, it works on mobile too! 
+
+
+
+
+ Nicely done, you've inspired me. Thanks! 
+
+
+
+
+ This site reads like a linkedin profile, just forward his website to a linekdin profile you help him set up. You can send my donation to comic relief. 
+
+
+
+
+ Is the difference in pay the only thing that interests you about the new job? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I like using shadows for the [front face of buttons](http://codepen.io/ryanallen/pen/dPpvjo). 
+
+
+
+
+ I had weird issues like that in a current project until I set the svgs as background images in the block elements' css.  
+
+
+
+
+ Very rarely do I create the shapes in code. Usually I use Adobe illustrator and save the file as an SVG. Then you just open the SVG into your favorite text editor and tinker.  
+
+
+
+
+ try [codepen](http://codepen.com) it's amazing and free. Best part is editing other people's work to learn new things.  
+
+
+
+
+
+
+
+
+

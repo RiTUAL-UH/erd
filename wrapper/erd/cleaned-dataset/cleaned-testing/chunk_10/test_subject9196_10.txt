@@ -1,0 +1,218 @@
+ We had an Android Wear watchface for few months, but it was using old (now deprecated) API and we took it off store.
+Currently we are working on:
+Hardware clock, updated Android app with many neat (I hope so) features, and then Wear watchface.
+
+Sorry to put this on the end but we are rewriting whole app to make rending clock faster and more flexible to many situations, and then we can work on watchface with awesome performance. 
+
+
+
+
+ Thanks, I just fixed those mentioned and ask native friend to make a full proofread with some fixing style. 
+
+
+
+
+ Sorry if it sounded off putting.
+My previous posts was mostly - tinkering is awesome and I really recommend it (even if you "end up buying mine") as you will have tons of fun, and maybe we have missed some important thing.
+Also I already developed (for now a beta part) an API for 12hours to allow 3rd party devs to play with this, as I can find one, two... uses for this but I'm sure there are tons more. 
+
+
+
+
+
+
+
+
+
+ Once I find a bit of free time I will make a (probably) medium short story how it went from idea (3 years ago) to current state (and hopefully to product on the market).
+
+Let's just say it was a lot of tinkering, seeing what works, what doesn't, what we should improve, what are key aspects, polishing design, polishing design etc.
+
+And don't get me wrong, attaching LEDs to a clock was easy but for example figuring out that it is good to move from wall clock to desk one is a better idea was tricky part. 
+
+
+
+
+ Thanks, I have added paragraph "what?" near top to make it more clear. Hope it is fine now. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sorry didn't tested it via VPN, maybe some server lag. I changed an hour ago setting where it is available  and description - description was refreshed thus I though it is also available worldwide. 
+
+
+
+
+ I tried similar thing at my old Asus UX32VD - swapping screens between 2014 and 2012 edition. With no luck. Screen was fine but they used cable with different length that had weird angle at one place... I wasn't able to bought it - so I gave up.
+
+So be prepared for that kind of stuff. 
+
+
+
+
+ How about existing quadrocopter with assault rifle on a gimbal  - https://www.youtube.com/watch?v=SNPJMk2fgJU 
+
+
+
+
+
+
+
+
+
+ I don't know what kind of app are you making, but I would recommend going through Google flags apps like Gmail, Newsstand, Play Store itself and check things like button presses. They do not have touch. Even Google Maps sound is limited to voice commends which is key-feature.
+
+One app that I'm aware that stands out is Facebook - sound on refresh, but they are big enough to push their own ideas across platforms.
+
+I'm not sure how it looks currently but at some point also Twitter from what I recall had some sounds on refresh list. 
+
+
+
+
+ Not a source but considering your example (button clicks) -  don't do this. For one simple reason - many users have build in system sound for click on touch screen (ex. LG by default), which will be supper annoying.
+
+Or just offer simple way to turn it off.
+
+Also it is not common to implement sounds in apps (if we consider UI - as refreshes, buttons etc.) probably in most cases only notifications are "loud". Of course this doesn't apply to for example music apps for obvious reasons. 
+
+
+
+
+
+
+
+
+
+ Great sample project for this: https://github.com/eskimoapps/ResourceNestingExample 
+
+
+
+
+
+
+
+
+
+ That would be nice, any suggestions with "easy-to-understand" English and/or subtitled shows? 
+
+
+
+
+ Good one, need to ask my SO as she watches as well tons of it on Youtube so maybe solution is that easy. 
+
+
+
+
+ Cooking and tennis (both playing and watching).
+Probably recipe book in English is a bit boring and will be off putting. 
+
+
+
+
+ Hi,
+I installed Duolingo on my grandma tablet and she started learning at amazing peace and eager. Started with 0 language knowledge around a month ago.
+Her native language is Polish and Duolingo offering Polish-English course was a big plus.
+My guess was to start with movies in English with Polish subtitles as probably her reading skills are better than listening. Other idea is to convince her to go for special course. What are your recommendations for older people? 
+
+
+
+
+ Chet Haase - Patterns, Shmatterns
+
+https://www.parleys.com/tutorial/quickie-patterns-shmatterns 
+
+
+
+
+ https://www.mashape.com/ 
+
+
+
+
+
+
+
+
+
+ I don't know where you live but in my area apart from Hackathons (which probably aren't best fit for you as you are looking for a not that rapid developing) there are dozens of meeting to solve some problems in society - for example http://kodujdlapolski.pl/ which means "code for Poland" and in most of their meetings there are at least few ideas and always too little dev people.
+
+Another idea is to take some popular Android app that is abandoned for a while (bad UI, slow etc.) and make it much better - just be aware of trade marks etc.
+
+Also probably /r/Android or /r/enterpreneur is better to give you just an idea for an app. 
+
+
+
+
+ Mine does (X1 2015) when CPU is used and I scroll too fast, is there way to turn this off? 
+
+
+
+
+ If you think about mobile startup - nice and short reading.
+
+Also as a mobile dev - I can highly agree with author.
+https://medium.com/@pents90/the-story-of-appchat-and-why-android-is-a-better-platform-for-startups-than-ios-6d0847427fb1 
+
+
+
+
+ Take into account Lenovo flex 2 14 or X1 as wel fit your size needs.
+
+Basically all Lenovo have not most bright screen - so if you would like to work on sunny beach, you might consider other laptop (Dell for example).
+
+Source: owner of X1 na SO has a Flex 2.
+
+EDIT: You are asking at /r/thinkpad for dell noise issues? sry? 
+
+
+
+
+ Went from 10 to 300, not going back. 
+
+
+
+
+ Go for some used Samsung old flagship - as S2 or S3.
+They are still popular, and some errors as Samsung-specific from what I saw.
+
+Moto E is nice but, hey it is almost vanilla Android so there is almost no chance of getting an error. 
+
+
+
+
+ https://vimeo.com/18293265 
+
+Skip to 0:45, and 2:27 is probably one of most beautiful shots I have ever seen. 
+
+
+
+
+ I use Win 8.1 (came with win 7 - uh). 
+HDPI is fine, now using FullHD on 24" is a pain ( a bit joking but hell, you get addicted to hdpi).
+There is no many issues with hdpi - mainly scaling in not round way ( 100% is supper small, 150% is fine, but 123% for example is blurry in many place), some installers are a bit blurry but I hope with Win 10 it will be a bit better (also steam application is not hdpi-friendly). Probably HD on 14" is just enough but QHD is only version that was available here in Poland with i7. 
+
+
+
+
+ Polish "PLAY". 
+
+
+
+
+ X1 3rd gen i7, non-touch QHD maks brightness with developing in Android Studio + chrome + emulator = around 5,5-6h
+Screen could be more bright, touchpad one or two times (since 2 months) had some problems - trackpoint not, restart helped.
+Overally happy but 8GB is a bit of pain, 12GB would be perfect. Would buy it second time - also LTE is super nice (even if before buying it wasn't key feature) having 1GB per month for 15$ a year is super nice fallback. 
+
+
+
+

@@ -1,0 +1,64 @@
+ I'm with you here. 
+
+
+
+
+ Hello Timmy,
+
+What specs are you using, more specifically, your motherboard name.
+
+Try the following
+
+* Ensure that your hard drives inside of your computer case are **properly connected.** Look for the name of the hard drives as well for the next possible solution.
+
+
+* In the BIOS boot sequence, make sure that the hard drive with your operating system installed on it is first in the boot sequence. If you are not sure how to do this, it may be in your "advanced bios features". or you can boot up the computer and spam (usually) F8, depending on your motherboard, to tell it which hardware you want it to boot up from (select your OS hard drive)
+
+
+* If you find this too confusing, try unplugging all your hard drives and optical readers, except for the one with your OS installed. And ensure your HDD is first in the BIOS boot sequence.
+
+
+* If the boot sequence is not the issue, then I'd recommend updating your BIOS, simply google your motherboards name and look for the latest BIOS drivers. You may need another computer and a USB stick in order to do this. There are many tutorials on how to do this. Check your BIOS version and write it down before doing so, in order to save time, incase it's the newest version.
+
+
+* Finally, if all else fails, try clearing the CMOS, this can either be done in the BIOS menu somewhere, or usually there is a small black button on the motherboard itself. Press it while the computer has turned on, and it will restart, hopefully fixing your issue.
+
+
+Goodluck! Any help you need, ask away! 
+
+
+
+
+ Windows 10 :s.
+
+I don't think there will be any privacy on Windows 10. NSA. 
+
+
+
+
+ You should get some sort of monitor [bracket](http://www.amazon.com/Mount--Freestanding-Widescreen-Monitors-Horizontal/dp/B00FQU7CPU/ref=sr_1_14?ie=UTF8 qid=1433086085 sr=8-14 keywords=monitor+bracket), will save alot of desk space! :) 
+
+
+
+
+ Or the one after that... 
+
+
+
+
+ The more you pre-order and buy stupid things like EA's BF4 PREMIUM. (Aka buy the game twice to play) The more they'll do it, and you help ruin the quality of games. 
+
+
+
+
+ Also the GCHQ/NSA are spying on you, just saying like. Nothing too important. x) 
+
+
+
+
+ Still searching...
+Nothings came through yet. :( 
+
+
+
+

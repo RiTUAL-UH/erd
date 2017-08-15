@@ -1,0 +1,370 @@
+ Mine's 16, and I'm the second ranger, what do you want from me? 
+
+
+
+
+ For my own input...
+
+Wolves do not require regen unless you lower their durability, because they are able to 3 shot any dwarf outside, and if they can't be set back by low health, then they will absolutely destroy.
+
+I can see skeletons taking more than one hit, don't get me wrong, but to give skeletons infinite arrows, does two bad things, allows hackers to use auto fire, and gives no hindrance to skeleton assaults, they can just continually push uncontested.
+
+Creepers should not take more than one bow shot, they deal 7 hearts of damage up to 4 blocks away, 3 creepers can destroy a wall, and they can move rather quickly. Super Creepers should NEVER take more than one shot, if they are 4 blocks away from a dwarf under or on equal footing as him, it will just kill the dwarf 99% of the time. 
+
+The digging zombie has enough pick to get through one wall, that is quite enough if you ask me. Really Digging zombies are near useless, since going through a wall doesn't do anything much, so really I think they should be removed.
+
+Spider Kings, afaik, are being removed, and if they aren't, they can take you to half a heart in 20 seconds.
+
+Spiderlings, they have a high maneuverability, so they should be able to dodge hits, not take them. I don't contest higher poison if the spider king is removed, but if it's not, spiderlings can take you to half a heart in 35 seconds, and every time you heal, you delay your mana regen. 
+
+
+
+
+ On Bruce's Gym, the format for the website was nearly the same, and what was on that tab was a server-wide Quest to slay 1,000,000 zombies. I would assume on PMC, the logistics would be the same, and it would be a server wide quest covering some or many of the gamemodes of the server.  
+
+
+
+
+ hopefully as a result, we will get more fictional heroes, that would be awesome, maybe even something like my ShepherdOfFire, but that is tooting my own horn :L 
+
+
+
+
+ mhm, makes me sad :(  
+
+
+
+
+ I do not know myself, I have never seen anything to indicate this, and if it's true, I'm sad I'll never get to be Guude, or have a second change at a one shot bow again :( 
+
+
+
+
+ What other explanation do you need? :P 
+
+
+
+
+ Some cool ideas I had to heroes abilities were like, for instance, Lance's axe would do a ton of damage, and swing really slowly, but when he procs, the mining fatigue becomes haste, and swings incredibly quickly. I had two entire ideas about heroes, because that is what I like to do when I'm bored :L. But I couldn't really tell you who I think would make a good hero, since my ideas are more along the lines of Lance. 
+
+
+
+
+ To elaborate on who all the old heroes were: BruceWillakers, LanceWillakers, GoldfounderPause, CaptainBoulderFist, NisovinsIllusion, Deadbones, LadyKedemonia, and RoaminThePaladin.
+
+* BruceWillakers had possession of Virendra, a bow with Punch 10 and one shotted all monsters except golems, and Excaliju, a weapon with greatly increased damage and proc time.
+* LanceWillakers did not have a special weapon, but it is speculated that he will get his (axe?) that he uses in Death Fears Me.
+* Pause had a bow that one shots all mobs, like Virendra.
+* Guude had Frostshock, which I believe was a chain lightning weapon.
+* Nisovin had the Tinder Flame, which was meant to do splash damage, when hitting a mob, but was never completed/fixed, and the Wriggly Wrench, that acted as a melee weapon, and when used on another dwarf, repaired all his armor.
+* Deadbones, as you may have guessed, had his EZFIX SLABS, which placed a large temporary wall in front of himself and could also remotely place blocks.
+* Lady Kedemonia had the Regrowth Star, which could remotely heal dwarves, and death grip monsters, pulling them to her.
+* Roamin had the Holy Purifier. It's a flamethrower. 
+
+
+
+
+ Yetii* 
+
+
+
+
+
+
+
+
+
+ DEADBONES4LYFE 
+
+
+
+
+ The problem with the enderman is that its character model is 3 high, however, because a player model is 2 high, arrows would bounce off its head. DvZ used to use wither skeletons instead of normal ones, but this was changed for that very reason, the character model just didn't work. 
+
+
+
+
+ Thanks for the geegees Ageegee, maybe see you soon sometime, have fun, and good luck. 
+
+
+
+
+ The "Death Zone" has a bit of leverage, it isn't like the instant you pass it you die, it's maybe like a 20 - 30 block range. 
+
+
+
+
+ To add onto the updates of last night, some minor tweaks and changes were made to the game, and one big one:
+
+* Invulnerability has been reduced (10 seconds)
+* Creepers **do not** receive invulnerability.
+* Wood working has been redone: 1. Torches take significantly longer to make. 2. All wood products are **transmuted one to one** (I.E. One plank = one stick **except in the case of sticks to bowls, which is still one to four**). 3. When a bowl is used in oil, it will produce 4 mortar.
+* The only ~~map~~ **maps** at this moment are Mount Willakers, Oasis, and Dogekac as the other maps need to be changed to accommodate multiple shrines. 
+* **Multiple shrines have been added:** Instead of one shrine, there are several, which must be captured **in order** (1st, 2nd, 3rd) for the monsters to win. It seems to take **less time to capture** each of these points, and once one is captured, the **monster spawn is moved on to or close to it.**
+* A monster **cannot** pass the shrine currently being attacked, else it is struck by lightning, and dies. **I'm unsure on this, but this seems to have broken the "Infection" plague, because the instant the infected turn, they die to the shrine's fail safe.**
+* **All maps** now has starting supplies, of about 20 - 40 of mortar, cobble, and torches.
+* At least from what I could tell, past shrine 2, monsters that turn into Super Creepers will do so on the spot.
+
+I figured I would write another one of these to go into detail of the changes, but if Rob and Nis would like me to remove/stop these in favor of the Trello list system, I gladly will if they ask. 
+
+* Link to the Trello here: https://trello.com/b/Wi2Di0qF/playmindcrack 
+
+More features, yay! 
+
+* Oasis returns with 2 shrines.
+* Dogekac has 4 shrines. 
+
+
+
+
+ Nis actually does not have two items, his bow, the Tinder Flame, does no extra damage, and was originally meant to be AoE, but never was implemented that way. 
+
+
+
+
+ If you look to the Changes thing Rob posted, it's actually a complete change of flow, as seen by the "multiple shrines" card. You can't really have squid when the shrine is outside right infront of you, kinda defeats the purpose. 
+
+
+
+
+ They have been removed due to a new upcoming feature, that I will post about when it is fully instated. 
+
+
+
+
+ I had the purifier in it's overpowered version, and my god, it made zombies melt into it, can't wait to see it return. 
+
+
+
+
+ Thanks Juhdas :P 
+
+
+
+
+ I always liked being Nis, and when I was Nis with Virendra, that was heaven. I in general just like class stuff, I could eat that stuff up all day. 
+
+
+
+
+ So many people won't ever know the satisfaction of killing a dwarf, as a squid xD. 
+
+
+
+
+ I myself do not play as monster that often, but do the golems spawn with their picks? If they do not, then they do not do any more damage than one heart, which is unfortunate. 
+
+
+
+
+ Nisovin, as I stated above, Holy Blades do not do 10 damage, and still do 8. Thanks for the clarification though! :D 
+
+
+
+
+ eh, maybe, I would totally do it for the Hero update though, love that stuff. 
+
+
+
+
+ So, as you may know, DvZ is still a WIP, as heroes are not finished, sounds still need to be added, and new maps are still needed. However, there was another "balancement" update rather than "content" update today, and these are the changes I observed:
+
+* Procs are now limited to within 5 blocks of your person, so basically, **bow proccing is removed.**
+* Golems are readded, ~~however, spawn with only a seppuku, so they do not have much of a function other than a walking damage soaker.~~ **They now spawn once again with the ancient pick.**
+* **Healing ale now uses 150 mana** rather than 200 from before.
+* Mount Willakers has invulnerability added upon monster spawn (18 seconds).
+* As of this moment, ~~I did not see any instances of squid (maybe rarer?)~~, ~~wolves (also rarer?)~~, ~~or the map oasis (removed?)~~ ~~and have not played on any map other than Mt Willy to see if they have arrow invul too~~.
+* ~~WE GOT FANCY SPECIAL MONSTER MESSAGES, I LOVE YOU ALL.~~ **SPIDER KING MESSAGES ARE MESSED UP, PRAISE REDACTED.**
+
+I myself enjoy these changes, it makes indoor combat easier, shields have more use outside, and spawn camping isn't devastating anymore, at least from what I observed.
+
+As stated by nisovin below: 
+
+* **Sword damage was increased to 10** rather than 8 (~~**PALADINS, USE THE RUNEBLADE, THE HOLY BLADE IS NOT UPDATED**~~ Fixed.).
+* All map's invulnerability was increased (18 seconds).
+* Squids are, in fact, removed.
+* Oasis, is in fact, removed.
+* Holy Blades and Longbows are shiny again, keep in mind they **DO NOT** do anything extra, just shine.
+
+In a speculation: (as per substitutemyown): An event, rather it be randomly occurring (most likely this, as if it were a special monster event almost) or admin controlled, that occurs during the day known as the Solar Eclipse will block out the sun, and cause havoc among the dwarves, as the zombies regain their buff.
+
+Side note, I would gladly make more of these if people want, it's kinda fun, always pondered the idea of a constantly changing guide, maybe one day... :P 
+
+
+
+
+ No no, the kills recorded fine, the time the game took did not, which is why my longest game is still about 1:20 and not 1:40 :P 
+
+
+
+
+ My *longest* and *highest total* kills game was a game on Mount Willakers in which SlyiceT100 was Bruce, and the game went on for about an hour and 40 minutes, reached 2700 kills, and didn't even record on my stat page, because I was last to die. However, my *best* game was one that only reached about 1200, but 450 were my hand as Bruce, on Mt Willy. And my most memorable game? I was nisovin....with Virendra, Bruce's bow, the props of a ranger 3 (also, do note, all of these are on the gym :P) 
+
+
+
+
+ Heroes, if there is one thing I want to see, it is demonstration of hero abilities. As well as showing what is more effective at killing mobs, aka no mazes. The basics too, of course, so people don't think procs are hacks and to show bow procs are allowed :L 
+
+
+
+
+ Who plays as monster?
+
+But in all seriousness, I love to be anything that isn't a spider or digging zombie, due to them having the least lethality. 
+
+
+
+
+ it's you're, can't, kyle's, and all your "i"s should be "I"s 
+
+
+
+
+ Maybe I can stop by and say hi :P
+ 
+
+
+
+
+ It takes a lot to hold up the 4th place title, but maybe sometime I'll stop by. :P 
+
+
+
+
+ That's because I haven't been in one in ages. I've been in another community, and its nice there. Didn't think anyone actually missed me. 
+
+
+
+
+ huh, weird, Its been a long time I guess, not as long as sk8, but a while. 
+
+
+
+
+ ,. 
+
+
+
+
+ I'm not missed either, no worries :P 
+
+
+
+
+ Even if this is lag, a video from Scorpion is going to be posted soon enough of this guy on ttaylorr's, of him literally flying around. 
+
+
+
+
+ Infinite* 
+
+
+
+
+ I love it 
+
+
+
+
+ :3 
+
+
+
+
+ No one even knows me :P 
+
+
+
+
+ I wish I had any. :( 
+
+
+
+
+ Ultra Hardcore, no crafting table usage, and hardcore mode. There is a challenge. 
+
+
+
+
+ * Shepherd of Fire - Avenged Sevenfold 
+* From the Dust - Rouge 
+* To the Stars - Braken 
+
+
+
+
+ PA, 6:33 P.M. 
+
+
+
+
+ not much, playing games. listening to music, doing (procrastinating) homework. 
+
+
+
+
+ What's up? 
+
+
+
+
+ Hi o/ 
+
+
+
+
+ Gifted have and A, Math have an A, Spanish have an A, Web Page Design have an A, I'm really not that interesting :P 
+
+
+
+
+ A few years ago we had like 5 of these in our own school a year, it was just bad, luckily they solved the problem, but those idiots took away some of our freedom in the mornings. 
+
+
+
+
+ Shepherd of Fire - Avenged Sevenfold 
+
+
+
+
+ The letter Q 
+
+
+
+
+ Maybe the Back to the Future Trilogy? 
+
+
+
+
+ Rouge - From the Dust or Shepherd of Fire - Avenged Sevenfold, been stuck between the two. 
+
+
+
+
+ Literally anything I listen to I could listen to over and over as long as I initially liked it. It's almost a curse really, I will listen to some monstercat or Avenged Sevenfold and won't listen to anything else for weeks, the flip to the other and have to dig up songs out of my Youtube favorites if I want to listen to them. 
+
+
+
+
+ Check to see if someone logging on has a name longer than 16 characters.  
+
+
+
+
+ There is no need to lower the slot number, someone nicknamed themself over the character limit, just disable /nick. Probably want to clear the player files too, if that guy joins back with the nick he will crash it again.  
+
+
+
+
+ He does :P 
+
+
+
+
+ OMG this is amazing, wonder if you could do that in a game, guess you would need a resource pack for it, but on the DvZ server they have it when you level up a thing flashes on your screen, so maybe its possible. 
+
+
+
+

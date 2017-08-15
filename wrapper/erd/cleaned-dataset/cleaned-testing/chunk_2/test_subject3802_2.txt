@@ -1,0 +1,654 @@
+ Hmm okay, I suppose it makes sense that a 1st party flash works better with the body than a 3rd party would. I guess I'll just have to save for a bit longer. 
+
+
+
+
+ Thanks, I'll look into it! As for the slave flash, I can disable the pre-flash in my camera, would it work if I did that? 
+
+
+
+
+ Hey there r/photography. Recently I've been wanting to get an external flash because I feel limited with what I can currently do with the onboard one (I like to do a lot of portraiture). I currently use a Canon 20D and I'm on a pretty tight budget. I was wondering if the [YN-460](http://www.ebay.com/itm/YONGNUO-Speedlite-YN460-Canon-EOS-Rebel-XT-XTi-XTs-/160593250447?_trksid=p5197.m1992 _trkparms=aid%3D111000%26algo%3DREC.CURRENT%26ao%3D1%26asc%3D14%26meid%3D1806658724969685563%26pid%3D100015%26prg%3D1006%26rk%3D3%26) would be suitable for my needs? I mostly do a lot of indoor portraiture.
+
+I was also considering getting a stand/tripod I could mount the flash on (use it as slave). Would [this](http://www.ebay.com/itm/Hot-Shoe-Flash-to-Bracket-stand-Mount-Adapter-Trigger-/220982002387?pt=Camera_Flash_Accessories hash=item33738dc2d3) and [this](http://www.ebay.com/itm/656-200cm-PROFESSIONAL-Light-Stand-Tripod-for-Photo-Studio-Video-Lighting-2m-/290764698956?pt=LH_DefaultDomain_0 hash=item43b2ed354c) do the job?
+
+Thanks in advance! 
+
+
+
+
+ When I replied to your comment I thought you just were talking about how the original AOKP toggles take up too much space, especially since they can't be hidden in the JB notification shade. I was just saying that there is an implementation that takes up as much space as CM's. The only differing aspect of the appearance that I can see is the lines underneath? Otherwise they're pretty much exactly the same. 
+
+
+
+
+ http://www.imgur.com/meJ8k.png
+
+ROM control  toggles  toggle style? I used AOKP ICS fairly extensively and I'm 100% sure this is an option there too. 
+
+
+
+
+ AOKP has an implementation that is identical to CMs, its just a setting change away.  
+
+
+
+
+ [Why wait?](http://fitsnugly.euroskank.com/?rom=cm10 device=i9100) 
+
+
+
+
+ Taken on a beach known as "The Spit" in Gold Coast, Australia. 30 second exposure with the Canon 55mm 3.5-5.6 kit lens.  
+
+
+
+
+
+
+
+
+
+ I don't think it could be done with tasker without a reboot. The only way I can see this working is with the Paranoid Android ROM. Its DPI changing interface is the only thing I know that can change from phone to tablet UI without requiring a reboot (it simply restarts the framework-ui, which takes a few seconds)
+
+OP, your best bet is to install PA and just change to the tablet UI when you need it. It only takes a few seconds. 
+
+
+
+
+ Not the other commenter, but dear god. I hated the snow-only worlds. The second I saw snow I just made a new one. Why was that ever a thing? Biomes are so much better. 
+
+
+
+
+ I'm fairly sure Android turns off mobile data automatically when connected to wifi, all by itself. 
+
+
+
+
+ Thanks so much for the update! Another bug that I forgot to mention seems to have been fixed as well (child comments had a huge indent for some reason). I love every bit about this theme, it should be the official CSS for reddit. Congrats on your work. 
+
+
+
+
+ The result is from WolframAlpha. Makes about as much sense as saying iPhone made your day when you Google searched something funny.  
+
+
+
+
+ Probably something to do with the fact that the notification shade is always there, while the home screen requires a button press.  
+
+
+
+
+ Try clearing data for the app. 
+
+
+
+
+ Pretty Fly for a Wi-Fi 
+
+
+
+
+ Its a comment, and my original comment talks about being able to edit them. Which you said I could.  
+
+
+
+
+ It does, OP just doesn't realize that paragraphs require double enter. 
+
+
+
+
+ Desktop link for those interested: http://www.youtube.com/watch?v=ZeaIvjoH1FY 
+
+
+
+
+ I'm sure he could, but that does not warrant posting incorrect information. Your post adds nothing to the discussion and shouldn't have been posted in the first place. 
+
+
+
+
+ You kinda missed out a pretty vital step in your initial comment
+
+initial comment
+
+You didn't link it in the initial comment, like I had said. You only provided a link after I commented, and I'm sure it was only because you Googled the information after you read my comment - something you should have done before posting and assuming OP is stupid and treating him like so. 
+
+
+
+
+ Why do people constantly try to make out that we're some sort of tight-knit community? Our "reputation"?! This site is frequented by tens of thousands of people daily, and its a total mixed bag. There is no reputation, this does not "have to stop". You're an idiot. 
+
+
+
+
+ You kinda missed out a pretty vital step in your initial comment. Was the OP supposed to just magically know where to find and download the Android File Transfer application? +1 douche points man. Good job. 
+
+
+
+
+ Wow not only were you condescending, but you are absolutely incorrect. With 4.0, android devices default to MTP for file transfer, something that osx does not support natively. 
+
+
+
+
+ How would I go about that? Long pressing the comment only reveals these actions: http://www.imgur.com/SxAI3.png 
+
+
+
+
+ IMO posting about carriers in r/android makes about as much sense as posting about ISPs in r/windows. It has nothing to do with Android, at its core as an OS.  
+
+
+
+
+ Yeah I meant to say r/all, not my Reddit front page. 
+
+
+
+
+ No problem haha. Your post actually reminded me of the feature and inspired me to set it up for myself just now. Also blocked /r/atheism from the front page. RES is amazing. 
+
+
+
+
+ Why is it that so many new Reddit apps lack the ability to edit comments and self posts? Being an app for a mobile device, on which typos are frequent and easy to make, you'd think that this would be one of the first features implemented, right after comment posting. This is literally the only thing keeping me from switching from Reddit News to something like Reddit Sync or even this. 
+
+
+
+
+ The reason these posts make it to the top is because they're being upvoted by people. There are obviously people that frequent this subreddit who want, for whatever unfathomable reason, to have this subreddit spammed with "OMG APPLE SUX!!11". You and me and everyone else in this thread are just going to have to accept the fact that we are in what is called a "vocal minority". The best thing you can do is install RES and filter out any and all posts with the word "Apple" in them from /r/android. 
+
+
+
+
+ lightweight/no-frills
+
+This is kinda what the OP asked for. 
+
+
+
+
+ Solid Explorer has this. Just press   hold on a file and then choose properties, "Calculate MD5" is an option there. 
+
+
+
+
+ That's not the expanded jellybean notifications. They've been doing that since ICS. 
+
+
+
+
+ I politely disagree.
+
+Maybe you're seeing different kind of therapists to me, but I think they provide a wonderful service. Let me tell you why.
+
+Going to a therapist is shit. Even if its helped you at some point, everyone has to admit its awkward, feels pointless and embarrassing. You feel like you're wasting everyone's time and money. Even now, with the knowledge that therapy has helped me make HUGE headway in my recovery, I still dread going to see him. 
+
+But the thing is, every now and then, there's that one session. You walk in, and you just gush and gush and gush. And even if they say something you think is stupid, or you disagree with, the fact that you've got someone there to bounce ideas and solutions for problems you may be experiencing off, is the best feeling. Even if you go to 100 sessions and only 1 of them is like that, it is 100% worth it.  
+
+
+
+
+ This is amazing. Love the support for RES: awesome attention to detail. Please x-post this to /r/pics or something, so the rest of reddit can enjoy this piece of beauty.
+
+Edit: Found a bug. When attempting to visit a subreddit that doesn't exist, the page that suggests possible related subreddits has a bug where the "view images" link is pushed out for some reason. Screenshot: http://i.imgur.com/9473K.png (Windows 7, Chrome) 
+
+
+
+
+ Ah, a quick Google search reveals you're correct (which I should have done in the first place!) but also brings up this: http://www.engadget.com/2011/06/01/netcom-shows-off-microsd-card-with-integrated-nfc-goodness-vide/
+
+Regardless, it doesn't make gilles' comment incorrect, so I retract my comment. 
+
+
+
+
+ I was under the impression that it could become NFC-enabled with the use of a special battery? 
+
+
+
+
+ androidniceties.tumblr.com 
+
+
+
+
+ Not sure if this is stock aosp or a cm feature, but there's a setting for it in the SMS app, like this http://www.imgur.com/3ESck.png 
+
+
+
+
+ Probably the same as the last three times we had this thread:
+
+http://www.reddit.com/r/Android/comments/yu16o/what_are_your_expectations_of_key_lime_pie/
+
+http://www.reddit.com/r/Android/comments/wmfav/what_do_you_want_for_key_lime_pie/
+
+http://www.reddit.com/r/Android/comments/ybqft/randroid_what_features_do_you_want_to_see/ 
+
+
+
+
+ You hear that? That's the sound of a thousand Australian redditors crying because they've been driving past these signs for months without realizing that they're a karma goldmine. 
+
+
+
+
+ SD card slot will never happen.  
+
+
+
+
+ * No. You don't need to be rooted to run Gameboid.
+
+* The BIOS is the firmware for the GBA. It can't be included with the app because its illegal to distribute it - you're technically supposed to rip your own from your existing GBA (which is the same for game Roms). Obviously this can be found on the internet.
+
+* Yes, ROMs from any location should be fine. Just put them somewhere on your SD card and then point the emulator there when you go to open them up. You can leave them in the .zip file. 
+
+
+
+
+ The ability to edit comments is basically the only thing I'm waiting on to switch over from Reddit news. 
+
+
+
+
+ Reddit Sync
+
+Gameboid (not on the market but there are always apks floating around the internet)
+
+Chrome if you're on 4.0+, Opera Mobile otherwise. 
+
+
+
+
+ For your first point, AOKP (The ICS version, JB builds don't have it yet) has the ability to have the pattern or pass code appear after the slider, so you can have both.  
+
+
+
+
+ If you put an AOSP ROM on it (which is what the other replier is suggesting) you WILL lose Touchwiz features like SmartStay and Direct Dial. 
+
+
+
+
+ If you're going to do that then you have to abolish carrier posts as well. How does the fact that T-Mobile now has unlimited data plans have anything to do with Android as an OS? It doesn't. You can't pick and choose between these things. If the Apple posts go then so do the carrier ones. 
+
+
+
+
+ That's a basterdized carrier version. The dispute is between the iPhone and the International Galaxy S, which does bear many similarities. 
+
+
+
+
+ I think it's safe to assume that this was done for the purpose of the photo. 
+
+
+
+
+ Only things missing now are:
+
+* Comment editing
+* View subreddit sidebar
+* The ability to go to the subreddit that a post is from (when viewing from /r/all or the user frontpage) 
+
+
+
+
+ There was a game for N64 where this would actually work. You could control your floating sidekick thing on the same screen with the other controller. It was undocumented in the game manual and I discovered it accidentally when I bumped the other controller while playing. Coolest discovery ever. 
+
+
+
+
+ Why wait? http://forum.xda-developers.com/showthread.php?t=1803672 
+
+
+
+
+ I've been having a weird problem recently, I'm not sure exactly when it started occurring (ie whether or not it began with a recent update to Chrome or some significant change in my system). Anyways, basically what happens is that on some sites, for example on Youtube, I get this weird text clipping issue where half of some of the characters appears to be clipped off/missing. Here's a screenshot http://i.imgur.com/GX996.png (notice the clipped letters in the comment, the most obvious one being the "E"). As you can see I'm running Windows 7.
+
+I assume its either a font issue or something to do with something called Windows Cleartext or ClearType, I can't remember what its called or how to reach the setting in control panel.
+
+Also, now is as good a time as any to ask why the look of disapproval ( #3232;\_ #3232;) appears as 2 boxes for me (see screenshot: http://i.imgur.com/K3ddQ.png)
+
+Any help for either of these issues would be appreciated! 
+
+
+
+
+ Assuming you have the international version (i9100), flash back to stock using Odin and one of the roms found in this thread: http://forum.xda-developers.com/showthread.php?t=1075278
+
+Afterwards, use this guide to root: http://forum.xda-developers.com/showthread.php?t=1499331
+
+And then, once rooted, you can SIM-unlock your phone using this method: http://forum.xda-developers.com/showthread.php?t=1064978 
+
+
+
+
+ Probably because TWRP isn't available on all phones, whereas CWM (almost) is, and its usually the first thing that gets ported to a phone. Its that way simply because it was around first. 
+
+
+
+
+ I was under the impression that Odin was leaked by a rogue Samsung employee? It would explain the total lack of documentation on the program and the fact that any and all download sites for it aren't affiliated with any official Samsung website. 
+
+
+
+
+ You really should look into rooting and flashing an ics/jb rom. It'll feel like a new phone.  
+
+
+
+
+ http://forum.xda-developers.com/showthread.php?t=1814256 
+
+
+
+
+ If its a replacement then you can restore a nandroid backup from your old device onto the new one.
+
+umm, why am I being downvoted? 
+
+
+
+
+ The trouble is, without personally knowing you, its extremely difficult to give advice/extend a helping hand without it sounding super generic. I can't tell you that your life is worth living, or point out the good things in your world or tell you who to talk to. Possibly a close friend or family member could provide that sort of assistance to you, but certainly not a stranger over the internet.
+
+I can however tell you that you *deserve* to live. You deserve the right to a depression-free, happy life - and from one person to another, I sincerely hope you fucking make it mate, I really do. I'd say I'd understand, because I've been there, I've been on the edge, that teetering point of sanity and insanity - but I can't understand you. Everyone's battle is different. Not harder, not easier - different. Hardship is subjective and I don't think anyone should ever claim to know what anybody is going through.
+
+I know its bullshit and its frustrating, especially if I, or anyone else, tell you that only you can do it, only you can move forward. The only thing other people can do is be there. They can just hang around and support you. They can stop you from moving backwards, but the forwards is all on your own. Hopefully you have people like that in your life, that are willing to be there for you in your time/s of need. I was lucky enough to have a huge support network. But I can proudly say I made the journey to where I am now entirely on my own.
+
+You made it this far. Don't back down. You're worth it. 
+
+
+
+
+ Google is probably a good place to start... http://www.google.com.au/search?aq=f client=chrome-mobile sourceid=chrome-mobile ie=UTF-8 q=root+incredible+2 
+
+
+
+
+ Touchwiz provides this functionality directly in the dialer and contacts applications, which adw can't touch.  
+
+
+
+
+ Just an fyi: you're being downvoted not because you're wrong, but because you're being an asshole. 
+
+
+
+
+ I think what s/he means is that the two images you linked to ([one](http://i.imgur.com/xL83s.png), [two](http://i.imgur.com/8pqo2.png)) are both technically "Google search" - albeit in an exceptionally condescending way. 
+
+"Google Now" is *technically* only the notifications you get in the shade without interacting with the device; eg. I frequently get "traffic to home". Google Now utilizes the new (4.1+) Google search interface (which is what the cards are) to display its information. *Technically* the new "cards" interface is not actually "Google Now" - it is just Google search.  
+
+
+
+
+ Yes. Data from any and all apps (especially 3rd party ones or from the Play Store) can cause issues between major versions of the OS. 
+
+
+
+
+ I think the difference between this and update me is that update me requires the use of the dev's own servers, whereas this OTA solution supplies hosting for free. 
+
+
+
+
+ Wow thats embarrassing haha. Okay now I've processed that and got t'(x), found the x value of the stationary point - how do I verify that this is minimum again?
+Find the minimum of t by computing t(0), t(x0) and t(8).
+
+Stuck on this too. Are they just random values? And what is t(x0) - I've never encountered that.
+
+Again, apologies for being thick. :( Thanks so much for helping me out. 
+
+
+
+
+ Is it not required to give b meaning, as b is a percentage of V? 
+
+
+
+
+ Okay, I apologize if I'm being a little slow here, so just bear with me. I'm trying to take things one at a time so I'll get to the rest of your comment later:
+
+t(x) = ((36+x) 100/b + 8-x) / V
+
+A little confused as to how you got here. Obviously you substituted W = bV/100 back into the equation and simplified it, but how did you get here? When doing that I get something like:
+(100(x^2 + 36) - xb + 8b)/bV 
+
+
+
+
+ Okay firstly I'm just going to type out the question word for word:
+
+Alex, an accomplished runner, has just been dropped off at Bandicoot Camp in the bush. The roads back to her home on Dugong Lane run south for 6km to the top of Cassowary Hill and then east 8km to the turn off for Dugong Lane. After limbering up for a run home through the bush, she gets a call on her mobile that she needs to get home quickly and there is no transport available at the camp.
+
+Alex decides to run through the bush directly to the road heading east from Cassowary Hill to Dugong lane on a bearing of 135^o T.
+
+If she runs at V km/h on the road to Dugong lane and b% of V through the bush, evaluate whether this is the best heading to run on?
+
+Investigate Alex's options if she runs along the southerly road to Cassowary Hill between 10% to 20% faster than she can run through bush.
+
+You will be assigned a value of V and b from the tables below. Circle your assigned values.
+
+My assigned values are: **V km/h = 20** and **b = 50, b = 61**
+
+I've gotten as far as drawing up a [diagram](http://i.imgur.com/JqJLg.png) to represent the paths, with the diagonal line being the direction Alex is travelling in (through the bush). I'm having a total mind blank and can't get any further than that. :/ Any help would be appreciated. 
+
+
+
+
+ Okay firstly I'm just going to type out the question word for word:
+
+Alex, an accomplished runner, has just been dropped off at Bandicoot Camp in the bush. The roads back to her home on Dugong Lane run south for 6km to the top of Cassowary Hill and then east 8km to the turn off for Dugong Lane. After limbering up for a run home through the bush, she gets a call on her mobile that she needs to get home quickly and there is no transport available at the camp.
+
+Alex decides to run through the bush directly to the road heading east from Cassowary Hill to Dugong lane on a bearing of 135^o T.
+
+If she runs at V km/h on the road to Dugong lane and b% of V through the bush, evaluate whether this is the best heading to run on?
+
+Investigate Alex's options if she runs along the southerly road to Cassowary Hill between 10% to 20% faster than she can run through bush.
+
+You will be assigned a value of V and b from the tables below. Circle your assigned values.
+
+My assigned values are: **V km/h = 20** and **b = 50, b = 61**
+
+I've gotten as far as drawing up a [diagram](http://i.imgur.com/JqJLg.png) to represent the paths, with the diagonal line being the direction Alex is travelling in (through the bush). I'm having a total mind blank and can't get any further than that. :/ Any help would be appreciated.
+
+**edit** Forgot to mention that the top inner angle of the triangle is 45^o (because 180 - 135 = 45) 
+
+
+
+
+ Perhaps a data wipe is needed? Major version updates seem to cause trouble until a full wipe has been done. 
+
+
+
+
+
+
+
+
+
+ I was just letting you know because your link isn't in the self post haha. Usually that happens when someone tries to submit a link and a self post at the same time. 
+
+
+
+
+ You can't have a link and a self post, just an FYI. It has to be one or the other. 
+
+
+
+
+ Majel? I was under the impression that that's what Google Now was. Why would they release something like Google now and then have another voice assistant? 
+
+
+
+
+ Its only become that simple since ICS. On gingerbread it requires you to be rooted - except for some Samsung phones, which come with a built-in screenshot feature in Touchwiz.  
+
+
+
+
+ Quick question - do the toggles appear and disappear from pressing the settings button (like on ICS AOKP)?  
+
+
+
+
+ Should just be able to flash it through Clockworkmod Recovery. If you don't have that, flash a [CF-root kernel.](http://forum.xda-developers.com/showthread.php?t=1103399 highlight=cf+root) 
+
+
+
+
+ I'd you're looking for similar functionality, search for Airdroid in the market. 
+
+
+
+
+ Been using these builds for a couple of days, everything is pretty much rock solid except for ocassional graphical glitches and lag (mostly in low memory situations with lots of apps open). 
+
+The thread OP just syncs repos with teamhacksung and builds it every 24 hours. Official cm10 experimental builds seem to come once every couple of days so this should satisfy other crack flashers like me until they start churning out official nightlies. 
+
+
+
+
+
+
+
+
+
+ The CM10 preview with the stock CM kernel, gets pretty decent battery life for me with no underclocking/tweaks. 
+
+
+
+
+ Rocking JB on my SGS2 right now. No regrets. :) 
+
+
+
+
+ This was remedied in JB. :) two finger swipe extension reveals more info on gmail notification.  
+
+
+
+
+ Interesting, thanks for the tidbit. :D 
+
+
+
+
+ If its got 150+ upvotes, maybe its because 150+ people thought it was? 
+
+
+
+
+ What makes you use noLED over BLN? 
+
+
+
+
+ Yeah, you can get it on the market. 
+
+
+
+
+ Go away with your logic and let this user belittle the other for a minor error. 
+
+
+
+
+ Probably won't have it because sense uses a keyboard other than the aosp one.  
+
+
+
+
+ "I'm still alive." Its honest and not impolite or awkward if someone was just asking it to be nice, but it still leaves it open for the person to further pursue it if they're interested/care about you.  
+
+
+
+
+ Not trying to be a downer but in the last 24 months alone I've had 3 different people say this same thing... and they all bailed on me when they realized just how fucked up I really was. Fuck people.  
+
+
+
+
+ Jelly bean.  
+
+
+
+
+ Your kernel has to support it. Search for a kernel that supports "BLN" 
+
+
+
+
+ The fact that you posted this shows that you are not.  
+
+
+
+
+ Why would they make a JB release when they don't even have source? 
+
+
+
+
+ Not sure about miui but the jellybean transitions have been backported for use with any aosp ics rom. http://forum.xda-developers.com/showthread.php?t=1738350 
+
+
+
+
+ Just an fyi, aokp has an inbuilt setting to turn off data or switch to 2g when your screen is off. :) 
+
+
+
+
+ Just find the latest stock firmware and flash it with Odin. 
+
+
+
+
+ Handcent seems to work well and r/android likes it.  
+
+
+
+
+ JB sources haven't even been released on AOSP, its gonna be a little while before you start seeing builds available for anything other than the gnex. 
+
+
+
+
+ This is just a port using assets from the SDK and the OTA zip from the Nexus that someone uploaded. It will be majorly improved once the source drops in AOSP. 
+
+
+
+
+ Proof of concept or "just cause" more than anything else IMO. 
+
+
+
+
+
+
+
+
+
+ Flash back to a stock rom using Odin. 
+
+
+
+
+ Swappa is US-only. 
+
+
+
+
+ I think that's why the default browser and chrome are staying separate... chrome is a brand and its trying to stay consistent across all platforms, this means that it can't take on the holo UI. 
+
+
+
+

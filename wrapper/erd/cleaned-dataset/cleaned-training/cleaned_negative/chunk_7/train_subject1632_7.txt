@@ -1,0 +1,872 @@
+ Ah, yeah.  I see the goals of the sub-bass range in drone and trance as quite different, but that may just be a reflection of the kind of drone I like (i.e. I like drone that uses the bass instrument to add harmonic content across the low midrange in addition to the sub-bass fundamental).  You could do it with sines and have a very clean sound for bass, too.
+
+I don't have an example to pull up right now, but I will try to come back to this tonight and offer something. 
+
+
+
+
+ [Sure...](https://soundcloud.com/exuberant_void/1292014a) 
+
+
+
+
+ This album...I never got the appeal.  To me it sounds very pretentious, yet generic and bland at the same time.
+
+The time-stretch seems like an improvement, but...meh.  Those intervals... 
+
+
+
+
+ We could make a wiki linked in the sidebar. 
+
+
+
+
+ Can't access - did you leave the playlist private? 
+
+
+
+
+ That's a lot of four on the floor and melody for a drone 
+
+
+
+
+ Sine waves are pretty boring because they have no overtones (so you can't get anything out of them with a filter, etc).  An overdriven sine wave with a tight lowpass that sweeps a bit could give you a versatile, simple bass drone, as the overdrive adds overtones (duh).  But even easier would be to use a saw with a tight lowpass (resonance mid-high, cutoff low) and sweep (modulate cutoff with an LFO) that a bit.
+
+To make it pulse, you can modulate its amplitude with another LFO, or just duplicate it and make the duplicate very slightly out of tune (so they go in and out of phase, sometimes doubling each other and sometimes canceling each other out). 
+
+
+
+
+ Before you ask he is on no medications nor has he ever been on any ssri's or anything of that nature.
+
+What about supplements, herbal teas, etc?  Perhaps there is some non-drug substance that you or he ingests that influenced the rate at which MDMA was metabolized.  Many popular herbs, supplements, and spices influence the expression of various liver enzymes. 
+
+
+
+
+ Looks like the kind of tube some dispensaries will sell you pre-rolled cones in. 
+
+
+
+
+  I'm wondering if that is what he truly feels or if it was just the drugs talking
+
+I think this is a false dichotomy; it doesn't have to be one or the other.  I don't know you all, but if I had to guess, I would guess that this is how he really felt in the moment he said it.
+
+But that moment was partially drug-induced, right?  Depressants don't make people think other people are their soul mates, but he wouldn't have said that without taking the depressants.  So you should be a bit skeptical, and so should he.  If he isn't, then it sounds like he's not being very realistic about his own thoughts and feelings.
+
+But you know, I don't think it's a big deal.  If you two love each other, you'll be able to talk about it and grow closer through that (regardless of the outcome).  Just be honest with him and talk about your experience. 
+
+
+
+
+ I like it.
+
+The lack of bass and inclusion of creepy intervals gives it a distinctly 1980's science fiction feel to me.  At times it feels sort of melodramatic (kinda like 1980's sci-fi, haha) because of this, which I would tone down if it were my work.  To do that, I'd probably just pull back the velocity on the creepy sounding notes, but I might also add / lower the hz of the lowpass on the reverb.
+
+You could do a lot with the sub-bass and bass ranges if you wanted to.  I could hear a sub-bass tone pulsing around .5 to 6 hz really easily, which could add a lot of complexity and change over the course of the piece.  I think just adding a continuous sub-bass tone because it ought to be there would be a mistake, though; the drone has a cool sound *from* the lack of bass, I wouldn't give it up without getting something in return. 
+
+
+
+
+ There is a lot of information on that page, but I didn't see anything that resembled a probable mechanism, nor any direct biological evidence that DMT in concentrations likely to exist in vivo could reduce cellular oxidative stress enough to extend life during hypoxia.
+
+If the information is there, would please you restate it in clear, concise English?  As it is, it hardly seems worth digging for; most genuine funding proposals *lead* with the science.  This leads with new age mumbo jumbo and a ton of name-dropping. 
+
+
+
+
+ Yes, of course - I don't intend to misrepresent you as thinking COX2 is the whole story, nor as thinking that potency and efficacy can be equated.
+
+But despite the disclaimer, your post implies that this difference is highly relevant to the OP's belief that they are similarly powerful.  It really isn't; OP is about right in believing that ibuprofen and curcumin are similarly powerful medicines. 
+
+
+
+
+ No it isn't - it just assumes a synthesis-naive student audience. 
+
+
+
+
+ Ibuprofen is more powerful than Curcumin, atleast at COX-2.
+Curcumin's IC50 is 15.9m. Ibuprofen's is 1.5m.
+
+I disagree - it isn't this simple.  I searched Pubmed and found the same two numbers; I don't dispute them.  But these numbers only inform a comparison in COX2 inhibition between equal plasma concentrations of these drugs, not in their efficacy during actual use.
+
+It appears likely that curcumin can be tolerated at higher doses for longer periods of time than ibuprofen can.  In this case, the difference in effect for users may be greatly diminished.  For chronic conditions, curcumin may even be more effective, or similarly effective but with reduced risk of ill effect (as ibuprofen is not tolerated in sustained high doses).
+
+More importantly, the [mechanisms by which curcumin works](http://www.mdpi.com/1420-3049/20/5/9183) are numerous and varied, going well beyond inhibition of COX2.  The [mechanisms by which ibuprofen works](https://www.pharmgkb.org/pathway/PA166121942) are also quite varied, though COX inhibition is often heavily emphasized.
+
+I doubt that it is possible to present a rational argument that one or the other  can be known to be a more effective treatment for any particular inflammatory disease state without relying on empirical data from a clinical study comparing both drugs at work in a diseased population.  Pharmacology is very, very complicated; scientists have good reason to use pharmacology to inform the development of treatments, and not as a means of developing them.  Clinical trials are necessary to test hypotheses about the efficacy of potential treatments; pharmacology is necessary to generate new hypotheses and inform trial design. 
+
+
+
+
+ It's worth looking into, in my opinion - the obvious choices haven't worked for you, CBD has immense potential as a treatment for social anxiety, and many states now have CBD-only prohibition exemptions. 
+
+
+
+
+
+
+
+
+
+ 500 to 1000mg is a common dose, and has worked well for me personally.  A wide range of doses have been used in the clinical literature; there is quite good evidence that curcumin in this dosage range or even below it can help inflammatory disorders.  For example, [this study](http://www.ncbi.nlm.nih.gov/pubmed/21194249) used a dose of only ~100mg curcumin twice daily in the form of two Meriva tablets, and found benefit for knee osteoarthritis.
+
+I wouldn't worry too much about the acute effects that you notice; pain is highly subjective anyway, and it's unlikely that you'd be able to distinguish the effects from placebo if you were given curcumin in a single-dose blind test.  This is also true of ibuprofen, etc. - likely true of most pain meds that aren't opioids.
+
+That doesn't mean it won't help you over time, though - there is plenty of evidence that curcumin reduces inflammation to a clinically relevant extent that improves inflammation dependent disease states over time.  It's a good medicine for what it does, and could be a good adjunct treatment to help manage the stiffness and joint pain associated with TMJD (which obviously needs to be treated through other modalities as well). 
+
+
+
+
+ The answer depends on what you want from curcumin, and on how long its effects last.
+
+Do you want to build up an ongoing anti-inflammatory effect to treat a chronic inflammatory disease, or do you want an acute effect to treat acute pain?
+
+Curcumin takes about an hour to reach peak levels in your blood, and has a half-life around an hour as well unless delivered in certain nanoparticle preparations.  This suggests that its action begins within a half-hour or so of taking it, and trails off about three hours after that.  Taking it with a meal should stretch this out by an hour or so.
+
+Meriva apparently uses a time-release formulation, but according to the data on their website it doesn't actually seem to change the time course outlined above.  I'm not confident about this - their presentation is confusing.  Generic curcumin+piperine supplements are far cheaper and have strong research behind them; they'll probably yield a much better return on investment as you could buy two or three times the curcumin for the price and get the same or better bioavailability.  Any supplement with 5mg+ piperine per 500mg curcumin will do.
+
+Anyway - if you want it to have an ongoing effect, you'll have to take it a couple times a day.  For example, with breakfast and at bedtime.
+
+If you only care about it working at night, then you could just take it at night.
+
+Given that curcumin is so cheap if you take a few minutes to find the best deal online, and taking a pill with breakfast is easy, it seems worthwhile to take it 2x a day if you have a chronic condition that it could help. 
+
+
+
+
+ Well, you've tried a lot of the things that are commonly recommended...on to the slightly more obscure, I guess.
+
+If it's available where you live and you can afford it, you should consider cannabidiol - either as an isolate/extract, or in the form of high cannabidiol low THC cannabis.  There is a decent body of scientific evidence supporting its use as a treatment for social anxiety.
+
+For examples, read the introduction of this paper:
+
+[Cannabidiol Reduces the Anxiety Induced by Simulated Public Speaking in Treatment-Nave Social Phobia Patients](http://www.nature.com/npp/journal/v36/n6/full/npp20116a.html).
+
+There's also a strong body of anecdotal evidence available on reddit and elsewhere for CBD or CBD+THC's efficacy in treating social anxiety, generalized anxiety, and PTSD-like symptoms (for what that's worth). 
+
+
+
+
+ Debunk This: Cold Showers Helpful for Depression/Anxiety
+
+The title of your post, the first line of which is a link to the study.  That is the misrepresentation, because the study does not claim this at all.  It claims that more research should be done to find out *whether* cold showers are helpful for depression/anxiety. 
+
+
+
+
+ Whoah dude 
+
+
+
+
+ When administered with piperine, curcumin reaches its maximum levels in blood serum within an hour or so, and shows a half-life around an hour as well.  One nano-particle formulation has shown a much longer half-life, but with comparable peak levels etc (mentioned in the examine.com link).
+
+Ibuprofen, a popular synthetic anti-inflammatory, also takes an hour on average (varies by preparation) to reach max levels in blood serum.  This doesn't mean ibuprofen takes effect in the same amount of time as curcumin, as their mechanisms of action differ (they produce very similar anti-inflammatory results, but in different ways).  But they are probably quite similar in their time to action.  Ibuprofen is often said to have an onset time around 30 minutes.
+
+[Bioavailability of ibuprofen following oral administration...](http://www.biomedcentral.com/1472-6904/9/19)
+
+A small amount of piperine must be included for curcumin to be absorbed in humans at all; you shouldn't use any curcumin supplement that doesn't include at least 5mg (more is not better; 5mg piperine per 500mg curcumin is more than enough).
+
+
+Sources for curcumin's pharmacokinetics etc:
+
+[Examine.com: Curcumin](http://examine.com/supplements/Curcumin/)
+
+[A Comprehensive Review on Pharmacotherapeutics of Herbal Bioenhancers](http://www.hindawi.com/journals/tswj/2012/637953/) 
+
+
+
+
+ Ganoderma is a genus of mushrooms.  It is not an herb. 
+
+
+
+
+ Guys, quick!  Tell the editors at [Nature](http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3343.html) about their terrible mistake so they can revoke publication! 
+
+
+
+
+ In that thread, it was strongly implied that there was a middle manager whose *personal* views about bitcoin were causing Google as a company to avoid innovation involving Bitcoin.  I did not find that particularly believable.
+
+What you're suggesting is quite different (a senior decision carried out by a middle manager), and much more believable. 
+
+
+
+
+ There is an important difference.  Using the statue you linked as an example, the key phrase pointing to this difference is
+
+until the warrant is executed. 
+
+Of course search warrants are not a matter of public record *before they are executed*, because this would undermine the purpose of the warrant (to obtain evidence by force).  FISA court records remain secret after the warrant has been executed. 
+
+
+
+
+ 3  
+
+
+
+
+ That is not true at all.  I guess you care more about being right than anything; no point in corresponding further. 
+
+
+
+
+ The court is considered "secret" because its proceedings and records are all classified.  This might not seem like a big deal if you're ignorant of how the United States' legal system is designed to function. 
+
+
+
+
+ It isn't considered secret because its *existence* is secret, but because its hearings are conducted in secret and all substantive records are classified.
+
+https://en.wikipedia.org/wiki/United_States_Foreign_Intelligence_Surveillance_Court#Secrecy
+
+That might not sound like a big deal if you don't know much about how the United States' legal system is designed to function.  In brief: courts are public for a very good reason, and when they aren't, more abuse happens. 
+
+
+
+
+ I seriously doubt that's where the downvotes come from.
+
+Perhaps gossip was too strong a word - but I doubt I would have been spared the downvotes if I had just called it a lousy primary source. 
+
+
+
+
+ That success could very easily be due to initial good decisions, and have very little to do with the quality of strategic decisions made now.
+
+Hmm...I don't believe that it could be so extreme.  Google's initial success was about 15 years ago, and most of their growth occurred over the next decade after that.  It seems to me that they have demonstrated much more than successfully executing their early ideas. 
+
+
+
+
+ For the most part, I agree that we should condemn driving under the **influence** of psychedelics.  But I have yet to meet a person who can't understand the difference between *no effect at all* and *some effect*.  When people make ridiculous statements, it discredits them.  To claim that there is no safe amount of drug to drive on is obviously ridiculous, because there is always a dose that has a no effect at all, and doses whose effects are marginal, etc.
+
+I would drive after a half-glass of wine with dinner, because it does not effect my perceptual or attentive abilities.  I would drive 3 hours after taking LSD that barely did anything.  I would encourage anybody else to do the same, and I would attempt to refute anybody who claimed that I was being irresponsible in doing so. 
+
+
+
+
+ You edited your posts to include brain regions...nice.  At the time of my writing, it was true. 
+
+
+
+
+ If I read that same primary source in an article by the New York Times (or whatever secondary source you like) I would think it was a crap article.  It's just gossip, no matter who delivers it.
+
+It's like reading a "news article" on Reddit whose sole source is a post on Reddit from last week.  Who cares?
+
+edit:  Ruh roh, I'm disagreeing with popular opinion on /r/bitcoin.  Downvotes incoming. 
+
+
+
+
+ Google remains an outlier.  I'm not saying they're the best company ever, or that their business practices are admirable, or anything like that.  I'm saying that they are unusually successful, in a tier above most other companies in terms of *success*.
+
+That is true.  Look at their stock price.  Compare it to their competitors.  Laugh at how ridiculous MoDuReddit's comment below appears in the context of data. 
+
+
+
+
+ Huh...well, what you said is true, but you're using this phrase "like every company" in a very different way than I meant.
+
+I did not mean "Google is a wonderful good company where nobody makes mistakes."  I meant "Google is an unusually successful company."  That is true.  It also suggests that they have overcome some problems that other companies have not.
+
+Apparently /r/bitcoin doesn't like that fact stated.
+
+Sigh...echo chambers. 
+
+
+
+
+ Oh dear - thank you for correcting me.
+
+There I was, adrift in the dark seas of ignorance, believing that validity and soundness could be rightly equated...but lo, the wise and wonderful /u/MagnusT came and enlightened me with their profound nibblets of truth and reason...from /r/bestof ! 
+
+
+
+
+ Well, all kinds of things are possible.  Mere possibility accompanied with a couple sentences of gossip hardly merit a front-page article. 
+
+
+
+
+ Hmm...it seems to me that whether an excellent emulation of emotion would be good enough (or desirable) is open to debate, but could not reasonably be known until it had been tested repeatedly.
+
+But I disagree that it is necessary at all.  For young children, teaching could be done by AI accompanied by one or more babysitter-like adults (or teenagers).  So the AI would replace the expensive teaching labor, and open up more inexpensive babysitting labor.
+
+But for adults and perhaps teenagers and even older children, an AI teacher lacking emotional simulation may be sufficient all on its own.
+
+Certainly AI without emotions would be sufficient for adults - college professors are not expected nor required to provide emotional support to students whatsoever.  You could learn from the privacy of your home, or in small study groups composed of your existing peers, in a private lecture and Q/A session from an amalgamation of the knowledge and teaching styles of the greatest minds in recent history...likely for the cost of equipment and little more. 
+
+
+
+
+ I have no idea - I don't know Mike, and there was almost no content in the link about the Google claim...
+
+But one middle manager 
+there (who shall remain nameless) hates Bitcoin and has the ability to veto most kinds 
+of work Googlers could do on it. I had to repeatedly go over his head in order to get 
+bitcoinj released and most employees simply aren't willing to engage in that kind of 
+corporate politics.
+
+Is all I could find.  Seems highly improbable, and there is no evidence offered.  Perhaps Mike is lying; perhaps Mike is mistaken; perhaps Mike is very naive about management practices, and is honestly reporting an experience that is badly distorted by that naivete.  Who knows?
+
+  I honestly don't understand why this thread exists; it should have been downvoted into oblivion as a crap source, as far as I'm concerned. 
+
+
+
+
+ This does happen a great deal in the stoner echo chambers of Reddit and various social media sites.  But I am certainly not interested in discounting the findings of the study linked in the OP.  I have often championed negative research findings about THC in particular on Reddit. 
+
+
+
+
+ This post is the first time you've discussed a specific brain region.  Doesn't that seem just a bit disingenuous for you to chide me now for criticizing your prior posts, given that they did not specify any particular part of the brain?
+
+...
+
+Also, I do not see how any particular thing you've cited and claimed in this reply contradicts anything I have said. 
+
+
+
+
+ Come on, now you're making truly ridiculous claims.  Everybody has *some* non-zero quantity of humor, however small. 
+
+
+
+
+ I don't see how it's relevant whether I've worked for a difficult middle manager or not, but for the record, I have (and I've been one).  I'm not saying that this never happens - just that I seriously doubt it is happening in this case. 
+
+
+
+
+ Yeah, usually middle managers aren't a big deal at a huge corporation like that.  People often become a middle manager by accident, just by doing their job reasonably well and staying at the company for a few years. 
+
+
+
+
+ Haha.  I find it quite believable for most companies (especially any one that I've worked for). 
+
+
+
+
+ As stated elsewhere in this thread, the research you are considering relates to different parts of the brain from those reported on in this study; this study provides no evidence for your speculations.  I think this demonstrates my point fairly well.
+
+Although it is popular nowadays to believe things about "serotonin levels" and "oxytocin levels" fluctuating in the entire brain, and this causing various affective states, there are no scientific bases for almost any of these ideas.  Even highly generalized neurotransmitter systems like the serotonin system make specific connections in specific areas with differentiated receptor subtypes and functions throughout the brain.
+
+So you can imagine how skeptical a person might be when they read something like
+
+lowered Oxytocin levels highly correlated with behavior patterns of long term stoners
+
+if that person understands that the actual finding always specifies a specific location - and must do so, because oxytocin's role can only be understood in relation to what it is doing and where. 
+
+
+
+
+ Your statement in no way contradicts it being safe to drive on a sub-threshold dose of LSD.  I'm ashamed to see this sub engaging in petty disagreement-driven downvoting. 
+
+
+
+
+ Google is not like most companies; it is an exceptional company (i.e. it is an outlier).  I would not expect major decisions at Google to be based on the personal preferences of relatively junior employees such as middle managers. 
+
+
+
+
+ I have a very hard time believing that these effects are the result of rogue middle managers. 
+
+
+
+
+ How do you know?  If the effect is mediated by cannabinoid receptors, it seems the great coincidence would be if CBD *didn't* interact in that specific way (i.e. the way it has already been demonstrated to interact with THC and cannabinoid receptors). 
+
+
+
+
+ You're being ridiculous.  There is some amount of LSD on which it is safe to drive.  You can't reasonably claim that a sub-threshold dose of LSD is unsafe to drive on, for example; it has no effect. 
+
+
+
+
+ This presentation of data is profoundly misleading.  It implies that all members of each profession displayed are either Democrats or Republicans, which is obviously untrue.
+
+[About 43% of Americans are independants](http://www.gallup.com/poll/180440/new-record-political-independents.aspx) 
+
+
+
+
+ Google is a profoundly successful, massive multinational corporation.  I don't find it plausible that their decision making process about working with Bitcoin could possibly be this simplistic. 
+
+
+
+
+ I believe so.  I searched for a couple minutes, but could find no suggestion that B6 turns urine yellow. 
+
+
+
+
+ If it was only B12, then it doesn't matter.
+
+The effect is mostly caused by B2, which is yellow and is rapidly cleared in urine; I believe some other non-12 B vitamins also contribute.  Almost any B-complex or generic "B Vitamin" supplement taken in a sufficient dose (e.g. 500% RDA, a common 1-pill dose) will turn your urine bright yellow. 
+
+
+
+
+ Why not?  It seems like a reasonable hypothesis.  I was only able to access the abstract, so cannot tell whether the authors identified a mechanism; if these effects are mediated by a mechanism that CBD is known to interfere with, it would seem very likely that CBD could protect against this effect. 
+
+
+
+
+ Perhaps such ideas could be used to generate hypotheses for further research, but stated as a series of  tenable conclusions your post appears wildly speculative. 
+
+
+
+
+ OP is really small
+
+ 5'7 and 130lb with little fat
+
+I doubt they could fail. 
+
+
+
+
+ If the sample was yellowish and you didn't take a heavy B-vitamin supplement that day, it should not come up dilute.  Normal people who aren't trying to beat the test may drink as much as you did in the normal course of their day; if that qualified the sample for being diluted, they would have to either instruct you not to drink so much or reject a large proportion of their samples.
+
+B-vitamin supplements will turn your pee very yellow for several hours if the dose is high, as it often is (even in multivitamins).  In this case, you can't use the faint color as a clear indicator of a lack of dilution. 
+
+
+
+
+ The title of your post:
+
+Debunk this: Cold Showers Helpful for Depression/Anxiety
+
+The content of the link:
+
+Depression is a debilitating mood disorder that is among the top causes of disability worldwide. It can be characterized by a set of somatic, emotional, and behavioral symptoms, one of which is a high risk of suicide. **This work presents a hypothesis** that depression may be caused by the convergence of two factors: (A) A lifestyle that lacks certain physiological stressors that have been experienced by primates through millions of years of evolution, such as brief changes in body temperature (e.g. cold swim), and this lack of "thermal exercise" may cause inadequate functioning of the brain. (B) Genetic makeup that predisposes an individual to be affected by the above condition more seriously than other people. **To test the hypothesis, an approach to treating depression is proposed** that consists of adapted cold showers (20 degrees C, 2-3 min, preceded by a 5-min gradual adaptation to make the procedure less shocking) performed once or twice daily. The proposed duration of treatment is several weeks to several months. The following evidence appears to support the hypothesis: Exposure to cold is known to activate the sympathetic nervous system and increase the blood level of beta-endorphin and noradrenaline and to increase synaptic release of noradrenaline in the brain as well. Additionally, due to the high density of cold receptors in the skin, a cold shower is expected to send an overwhelming amount of electrical impulses from peripheral nerve endings to the brain, which could result in an anti-depressive effect. Practical testing by a statistically insignificant number of people, who did not have sufficient symptoms to be diagnosed with depression, showed that the cold hydrotherapy can relieve depressive symptoms rather effectively. The therapy was also found to have a significant analgesic effect and it does not appear to have noticeable side effects or cause dependence. **In conclusion, wider and more rigorous studies would be needed to test the validity of the hypothesis.**
+
+I don't think I was unreasonable in my assessment at all.  You misrepresented this work as making a claim it didn't make, and that was the only falsity presented.
+
+p.s.
+ETA:  estimated time of arrival. 
+
+
+
+
+ that is a simple algorithm that picks one battery a sufficient distance from the last set and positions the next three relative to the first one so the closest (or axial) distance to the previous set is within a certain pre-programmed range. This is hardly an AI. This machine could be made entirely without any electronic sensors or programming chips, it could all be mechanical / analog, would you still call it AI? If you were to stack one battery onto another or get two stuck together it would likely make a mistake or crash.
+
+Whether this is an AI or a simple algorithm (or both) seems like a potentially interesting discussion, but ultimately one of semantics - which algorithms qualify as AI, and which do not?  Whatever answer is "true" depends solely on the definition of AI; it's a question about how we choose to use words, not an empirical question.
+
+It also seems to me that any AI *will be an algorithm* (or collection of algorithms).  A sufficiently complex algorithm that models intelligence is an AI.  So the difference between the sorting algorithm for that robot and an AI, for you, seems to be one of degree and not of kind.  If that robot sorter were complex enough, you'd call it AI.
+
+AI complex enough to teach children is beyond our lifetime 
+
+Is it really?  Well, this claim certainly doesn't follow from what you said before it.  Perhaps it is true, perhaps not.  It's an empirical question with only one right answer.
+
+Here's an AI that seems somewhat more relevant, and certainly more complex:
+
+[Deepmind artificial intelligence @ FDOT14](https://www.youtube.com/watch?v=EfGD2qveGdQ)
+
+I doubt this AI, given the sensory and linguistic capacity to interact with human children, and an understanding of the goal of the day's class, would choose such a terrible strategy for child education as the one you proposed (repeating "quiet please" endlessly).
+
+This AI was presented at a conference last year.  It has, among other things, mastered a wide variety of arcade games with no instruction or specialized training, using a form of computer vision to interpret what was happening and what were good and bad outcomes.
+
+That's quite an algorithm...and you really think we can't get one to model any useful teaching activity in the next 50 years or so? 
+
+
+
+
+  Resting energy expenditure during the last 30 min was 4.5+/-2.5% higher in the placebo trial and 10.7+/-2.5% higher (P0.05) in the caffeine/ephedra trial
+
+If that's coming from the 10.7% figure, you're badly mistaken about what that figure means.  It represents an increase in resting energy expenditure following a meal taken with ephedrine and caffeine.  The increase in resting energy expenditure caused by the meal alone was ~4.5% - only **6.2%** of the increase could be attributed to ephedrine, and this increase should be considered a peak effect - not one that can be expected to last 24 hours.
+
+Furthermore, this increase is not in total energy expenditure, but in resting energy expenditure.  In a typical adult, this would never be 2000 calories, but more like ~1500.  This is because it does not include calories burned due to physical activity, which are not changed by ephedrine.
+
+The evidence cited above does not support the claim that ephedrine will cause a 200 calorie increase in total energy expenditure.
+
+edit:
+
+I missed this before.  You said: 
+
+A proper EC dose is 3 times a day, these studies are conducted with a single dose once per day.
+
+This does not matter at all, because the study reported an increase in *rate*, not total expenditure in a day.  You would need additional doses to maintain the increased rate across a longer period of time, but these extra doses would not get you a greater rate.
+
+ 
+
+
+
+
+ The only thing to debunk here is your misrepresentation of the paper.  The paper presents a hypothesis and a proposed research study.  You present it as a claim that cold showers have been shown to treat depression and anxiety, which it is not. 
+
+
+
+
+ Where do you get 200 calories a day from? 
+
+
+
+
+ Rocket engines carry their own reaction materials (e.g. fuel + oxygen). 
+
+
+
+
+ https://www.usafreedom.fail/
+
+This page summarizes important points, with links to the relevant sections of the full text. 
+
+
+
+
+ It is!  I am using the board that generates the control signal and midi, and will scavenge the choke in the power supply.  But the rest is available.  I will try to post pictures later today. 
+
+
+
+
+ There's a reason this study is not in their list of studies supporting increased metabolic rate in humans at the top of the page - it was conducted with only 
+
+eight healthy subjects 
+
+all of whom were about 24 years old ("23.4+/-0.8 years").
+
+Incidentally, the authors of this study concluded that 
+
+Although significant, the increase in energy expenditure is negligible in terms of weight loss.
+
+How can that be? **10.7%**!!
+
+That 10.7% figure is a misinterpretation; here it is in context, from the abstract of citation 7:
+
+Resting energy expenditure during the last 30 min was 4.5+/-2.5% higher in the placebo trial and 10.7+/-2.5% higher (P0.05) in the caffeine/ephedra trial
+
+This is an error on Examine's part, because they reported the figure as though it represented the difference between normal metabolism and metabolism on ephedrine, which it obviously is not.
+
+The correct figure would be 10.7 - 4.5 = 6.2%, which approximately agrees with the other studies cited in that paragraph.  This increase is in resting energy expenditure, so does not include exercise etc.  So for a normal sized healthy adult you could be looking at 1600kcal * .062 = 100kcal / day according to this study, **if you assume this rate change lasts all day**...which is a huge assumption, and one the authors clearly didn't support, given their conclusion...
+
+Although significant, the increase in energy expenditure is negligible in terms of weight loss.
+ 
+
+
+
+
+ Can you link?  I've never seen anything reasonably applicable to human use over 5% (which is probably unrealistically high).
+
+edit:  I looked at the two studies examine.com has for EC / ECA stack metabolic rate.  Each study examined the effect of a meal + ephedrine / EC stack on metabolic rate for the hour or few hours after the meal, comparing it to a placebo (just the meal, no drugs).  Only one study gave a quantified difference, which in the best case for non-obese individuals was about a .05 kcal / minute greater increase in metabolic rate post meal with the ephedrine.  .05 x 60 (minutes/hr) x 24 (hrs/day) = 72 calories a day.  But this calculation assumes that the increased rate persists for 24 hours, which is unlikely considering that it was measured just after a meal.
+
+So it seems that the best case at a great stretch with much benefit of the doubt that examine.com's citations can support is about a 75 cal a day increase in metabolic rate. 
+
+
+
+
+ So, education still requires a teacher.
+
+But what makes you think that that teacher can't be an AI?
+
+[Watch this video of a robot sorting randomly placed batteries](https://www.youtube.com/watch?v=ClXfa4stfJM)
+
+This is the work of an AI that currently exists, and can perfectly sort objects in arbitrary two-dimensional arrangements.  It isn't following a pre-programmed motion - it decides how to move to sort the objects presented.
+
+How is the task of teaching different from this?  What is so special about creative thought - what do you think creative thought *is*?  To me it seems obvious that it is different in degree - it is a more sophisticated and complex task - but not in kind.  It's the same kind of problem.  And it can be reduced to a series of deterministic algorithms that an AI can perform as well or better than a human teacher. 
+
+
+
+
+ Basically any jobs that requires thinking or judgement calls on the fly. Sales, nurses, most skilled trades (electrician, plumbers, etc.), education, law, almost all coding related jobs, analysts, social work, management, etc.
+
+If it requires creative thinking to do, even if rarely, that job probably can't be automated.
+
+Why not?  What do you think is so special about creative thinking and decision making that it can't be done by an adequately sophisticated AI (or AI+ robot)?
+ 
+
+
+
+
+ The figure I've seen is 4-10% piperine by dry weight.
+
+http://www.ncbi.nlm.nih.gov/pubmed/9619120
+
+in humans after a dose of 2 g curcumin alone, serum levels were either undetectable or very low. Concomitant administration of piperine 20 mg produced much higher concentrations from 0.25 to 1 h post drug (P  0.01 at 0.25 and 0.5 h; P  0.001 at 1 h), the increase in bioavailability was 2000%. The study shows that in the dosages used, piperine enhances the serum concentration, extent of absorption [yada yada yada]
+
+So according to this, at least, about ~300mg of pepper (20-30mg of piperine) increases bioavailability by ~%2000.
+
+That would be a good amount of black pepper - well more than a pinch.  More like a teaspoon or so.
+
+But research is like that - dosage is high to ensure that you can find an effect.  I wouldn't take that figure as a dosage recommendation, but as an upper bound.  This is why I also based my recommendation on common product configurations.  Many use only a few milligrams of piperine (approximately equivalent to a pinch of black pepper).
+
+If 20mg raised bioavailability by 2000%, how much will 5mg raise it?  Could be 2000%, could be 500%, could be 1.4355%.  But for various reasons that have to do with how piperine actually does this (see [this article](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3458266/) for more detail), I believe it's quite unlikely that the effect suddenly appears at the fairly massive dose of 20mg but is inadequate at 3-5mg.
+
+...
+
+I agree with your point about the practicality of dosing turmeric vs isolated curcumin as an antiinflammatory drug - you just need too much curcumin.  You can probably get a useful lifestyle enhancing / lifelong effect by eating curry all the time, but for an acute effect like you would get by taking an ibuprofen, you really should use an extract.  One or two capsules vs several tbsp of turmeric?  Easy choice.
+
+But with piperine, I disagree.  The dose you actually need - not the research dose to confirm an effect exists, the end user dose - just isn't very high.  You can just eat a meal that includes a decent bit of pepper (what meal doesn't) and then dose.  If you're concerned, eat a meal that includes a bit of pepper and then dose with a supplement formulated with piperine for a wider margin. 
+
+
+
+
+ There are strong relationships between cannabinoids and opioids, cannabinoid receptors and opiate receptors.  The systems seem to work together.
+
+In any case:  a daily hit of endogenous opioids and cannabinoids can be yours for the rest of your life, at the low low cost of half an hour of cardio daily.
+
+http://www.jneurosci.org/content/22/3/1146.full.pdf
+
+http://www.jneurosci.org/content/21/14/5344.full
+
+http://www.ncbi.nlm.nih.gov/pubmed/3033219
+
+https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#.CE.B2-Endorphin
+https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#Anandamide
+
+etc 
+
+
+
+
+ Intense exercise may be another good one.  Doesn't work as well if you're out of shape - you have to do some work to get a decent psychoactive effect out of exercise.  But it does work, and via a similar route to opiates (maybe a bonus for you).
+
+I doubt you'll be able to sustain habitual opiate, benzo, or alcohol use in this way without experiencing the ill effects of tolerance and physical dependence.  You'd be better off looking at lifestyle changes.  It takes effort, trial and error, etc...but you can actually gain a substantial, lasting positive change in your mood, motivation, attentive abilities, memory, and so on.  No drug habit will do that for you. 
+
+
+
+
+ /r/hailcorporate 
+
+
+
+
+ You need a lot of turmeric and a very little bit of black pepper, judging by the ratios that are common in research and offered curcumin/piperidine supplements.  Think 2tbsp turmeric and a tiny pinch of black pepper.  Take it after a meal that contains fat.
+
+If you're anything like me, a few doses of that will get you thinking about buying a curcumin supplement in capsule form.  Turmeric contains ~2% to 4% curcumin, and you want a few hundred milligrams of curcumin to get a decent dose; that 2tbsp dose above was probably a bit small.  This stuff is pretty cheap if you shop online and know how to find a good deal; a potent curcumin/piperidine supplement can replace ibuprofen in your medicine cabinet and is worth a little cash imo. 
+
+
+
+
+ Yes, fuck yohimbine.  Not safe in this combination. 
+
+
+
+
+ CUTTING RAGE STRIKES AGAIN
+
+CAN"T EAT MUST DESTROY NOOBS 
+
+
+
+
+  does ECA stacks actually burn fat by themselves, or does it only cut your appetite?
+
+It's a little of each.  It increases your resting metabolism a little bit (~50 calories a day), gives you a moderate energy boost, and usually destroys your appetite.
+
+In practice, the increased energy and appetite suppression are the primary benefit.  It might not sound important now, but if you're actually dieting into a caloric deficit, that boost could make the difference between doing a decent cardio workout today and not; the appetite suppression can make the difference between actually dieting at a 500cal deficit and nibbling away 200 calories of it because you're hungry and bored.
+
+That kind of thing actually adds up over a few weeks into a difference in fat loss 
+
+
+
+
+ Can't read the article without registering. 
+
+
+
+
+ Well said; I concur.  Better to err on the side of more philosophical discourse than less. 
+
+
+
+
+ I think this is a fair point.  I dismissed the question above as misplace because I honest do not believe that the OP is seeking the kind of answers that would come from an actual philosophical inquiry into the question.
+
+OP wants to know whether people who have had experience X ever end up having experience Y afterward.  That isn't an ideological question - it's an empirical question.
+
+So it seems to me that the kind of answer OP wants - whether this phenomenon occurs or does not - is an answer from science, and not from academic philosophy. 
+
+
+
+
+ I'd be happy to answer that - I think it's an interesting question.
+
+But first: what does the word philosophy mean to you? 
+
+
+
+
+ Sure...but this question isn't particularly relevant to the discipline of academic philosophy.  As others suggested, you'll probably get a better discussion in a sub that's about personal transformation etc. 
+
+
+
+
+ Congratulations. :) 
+
+
+
+
+ Any of the classical psychedelics (LSD, mushrooms, cacti / mescaline, DMT, ayahuasca).  Your intention and setting are important, as any of these substances could be used in low or moderate doses for entertainment as well.
+
+If you have suffered any significant trauma in your life, are anxious or depressed, etc, then MDMA would be as likely as anything above to induce a life-changing experience.  It may be better to start here if you're inexperienced and seeking positive change to a painful life situation, as MDMA has a strong positive push to it that can clear a lot of obstacles that could be quite difficult for an inexperienced person to handle on psychedelics.
+
+You must test any chemical substance (e.g. MDMA, LSD, mescaline, DMT) before use to determine that it is what it's been claimed to be. 
+
+
+
+
+ I recently tried 3.5 grams of cubensis with much the same outcome--a come up really similar to the come up I get on MDMA, some minor visuals (textures, movement in things that are already patterned in "the real world," some slight trails) but the trip was really mild, really short...
+
+This sounds like what many people would experience on a dose of 1.5 or 2 grams.  You could try taking 5 grams or so, see if anything changes.  Some people seem to require higher doses.  I have yet to find anybody who is naturally immune (but have met many who have temporary SSRI induced immunity, etc).
+
+But first you should determine whether another substance you're taking is interfering, as this is a very common reason to have blunted or absent effects from psychedelics.
+
+What medications, drugs, supplements, etc. had you taken recently when these experiences occurred? 
+
+
+
+
+ Don't be silly.  The correct labeling of supplements depends on local regulation.  Looks like they're required to list the weight of the individual tabs and the total weight of the package contents, and that these figures are not intended to show the dosage (which is presumably listed in Chinese elsewhere on the label). 
+
+
+
+
+ Don't freak out; you probably just need to know a little more Chinese to find the actual dose.  Extremely unlikely that they are selling tabs made of pure melatonin; 500mg is about how much a typical packed 0 capsule weighs.]
+
+Why don't you show us a picture of the rest of the label? 
+
+
+
+
+ It seems reasonably likely that the actual dose is written elsewhere on the package in Chinese, and that the 500mg per tablet 30g per package is a measurement of total mass, not the dosage. 
+
+
+
+
+ This may be the winning answer.  It seems highly unlikely that these tabs actually contain 500mg of melatonin. A well packed 0 size capsule often weighs about this much total. 
+
+
+
+
+ Have you abandoned your claim that the lack of non-human animal civilization is conclusive evidence that non-human intelligent animals are less intelligent than humans? 
+
+
+
+
+ The story in that link is unlikely to be true; the behavior described is extremely unprofessional, and unlike anything I've heard or experienced of pre-employment testing procedures.  Results are not usually available until a couple of business days after specimen collection, and are not shared by word of mouth to the applicant, but through paperwork delivered to the *employer*.
+
+If that's the only evidence against the product, and you have good reason to trust it, you should not be concerned. 
+
+
+
+
+  I'm looking to know about when I will be able to pass an accurate urine drug test, ways to speed up the process, or cheat the system. 
+
+You can't speed up the rate at which your body eliminates THC and its metabolites by any appreciable amount.  Don't waste your time and effort trying.
+
+What you can do is cheat the system.  If your parents are going to test your urine with a kit they bought, you can probably fool this by drinking an extra gallon or two of water the day of the test (or every day until they test, if the day is unknown).  Also, you should not give the first urine of the day for testing.  Make some excuse to ensure that you can give a dilute sample.
+
+If you're going to have to pass a real drug test, done by a lab, then you should follow [this tried and true method](https://www.reddit.com/r/trees/comments/33vb0i/i_have_to_pass_a_drug_test_in_three_weeks_and_i/cqop3vx) if you have time, or else find a way to substitute fake or another person's urine.
+
+I only smoke once every weekend
+
+Oh, haha.  Actually, you can probably pass any test within a week if you follow the dilution method linked above.  Don't bother messing around with fake sample substitution.  Just delay for a week, follow the link above, and you'll pass anything. 
+
+
+
+
+ Yes, of course intelligence does not cause civilization.  But do you understand why your argument is flawed?
+
+However, some intelligence is obviously not sufficient, as there are many intelligent species that have not created civilization
+
+You're assuming that the lack of non-human animal civilization is evidence of a lack of non-human animal intelligence, and ignoring all the other possible explanations of why non-human animals have not created civilization. 
+
+
+
+
+ *Might* is the key word here.  You have no idea whether this is true, and have presented no evidence to suggest that it is true.  By comparison, there is ample evidence that bottle-nose dolphins possess similar cognitive abilities to our own.
+
+Why not look at any of the other differences between human and non-human intelligent animals?  Of those animals known to have advanced cognitive abilities and complex social structures, humans are the only ones with hands.  Perhaps civilization can only occur if you have appendages that can be used to build complex tools.
+
+edit:
+
+Intelligence can be presumed as a prerequisite for forming a civilization.
+
+Yes.
+
+some intelligence is obviously not sufficient, as there are many intelligent species that have not created civilization
+
+No.  You are arguing that 
+
+A is needed for B
+
+B has not occurred
+
+Therefore, A has not occurred.
+
+This logic is faulty.  Consider this:
+
+Wood is required for a fire.
+
+Fire has not occurred.
+
+Therefore, there is no wood.
+
+But what if I had wood, but no spark?  Then this argument would produce a false conclusion. 
+
+
+
+
+  Not necessarily... we only have one example of human-like high intelligence, i.e. with the capacity to create a civilization.
+
+Hmm.  Perhaps I misunderstood you.  The abbreviation "i.e." essentially means "in other words."  I took you to mean that in your view, the fact that humans created civilization shows that their cognitive capacity is beyond that of any other species that has not created civilization.
+
+This conclusion obviously does not follow, as intelligence does not require civilization creating capacities.
+
+There is plenty of scientific literature on the various cognitive, social, and perceptual abilities of human and non-human animals.  It does not support your assertion that intelligence in any broad sense can be adequately modeled as a continuum, nor that humans are far more advanced than all other known intelligent species. 
+
+edit:  Even within human beings, intelligence cannot be modeled as a continuum.  The closest you can really get is a collection of continuous measures.  These might be used to derive a single IQ for practical purposes (e.g. predicting whether a child will need special education), but that IQ is only a summary of a series of variables used as indexes of various cognitive capacities (e.g. spatial visualization) - which are themselves indexes of still more specific capacities (e.g. mentally rotating a 2-dimensional figure). 
+
+
+
+
+ It's easy to condemn people over the internet from the comfort of your home, or on your phone as you go freely about your day.
+
+I saw the contradictions in his letter, too.  But how can I hate this person for regretting actions that have put him through the last year and a half of imprisonment and trial, and which will now take at least the next twenty years from him?
+
+That is incredibly cold, and incredibly naive.  You should go commit some non-violent crime that puts you in jail for a month, and then see if you can still be so callous. 
+
+
+
+
+ we only have one example of human-like high intelligence
+
+It is extremely unlikely that this is true; that you offer this as an unqualified, unsupported claim suggests that you are ignorant of the scientific literature on this topic.
+
+Although the suggestion that octopuses are a comparable intelligence is unlikely to be true, there are two other groups of species containing members whose intelligence may be approximately equivalent to our own: toothed whales and elephants.
+
+Most of the scientific evidence we formerly used to justify human cognitive supremacy (e.g. brain-body size ratios, cortical convolution and relative surface area) can just as easily support the cognitive supremacy of bottle-nosed dolphins, for example.
+
+Here's an article that discusses toothed whale intelligence and seems especially relevant to the thread:
+
+[Dolphin social intelligence: complex alliance relationships in bottlenose dolphins and a consideration of selective environments for extreme brain size evolution in mammals](http://rstb.royalsocietypublishing.org/content/362/1480/587.short) 
+
+
+
+
+ Sure - the metaphor only goes so far.  But your argument depends on inevitable expropriation being a good enough reason not to even *try* establishing new ways to express the idea of anarchism.  Doesn't that seem a bit ridiculous, considering that every useful thing has a finite (and often quite short) lifespan? 
+
+
+
+
+ That is true.  It's also true that psilocin is quite unstable and most of it is lost on drying.  You're really just looking at small effects like gastric emptying time (slower absorption from whole mushrooms vs. isolated compound or tea) and traces of baeocystin as probable mechanisms for some minor difference in effect.
+
+Every time I've used mushrooms was distinct from every other time I've used mushrooms, despite obvious consistencies.  The same holds for LSD and all other psychedelics I've taken more than once.  I wouldn't expect myself to be able to distinguish the difference between 4 AcO and mushroom tea. 
+
+
+
+

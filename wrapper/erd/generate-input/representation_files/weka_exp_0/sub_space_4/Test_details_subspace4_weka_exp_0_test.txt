@@ -1,0 +1,128 @@
+Author: chunk_1
+File's list:
+
+Author: chunk1-2-3
+File's list:
+1    chunk1-2-3/subject1005.txt          2    chunk1-2-3/subject1103.txt          3    chunk1-2-3/subject1222.txt          
+4    chunk1-2-3/subject145.txt           5    chunk1-2-3/subject1572.txt          6    chunk1-2-3/subject1896.txt          
+7    chunk1-2-3/subject2027.txt          8    chunk1-2-3/subject2034.txt          9    chunk1-2-3/subject2064.txt          
+10   chunk1-2-3/subject2101.txt          11   chunk1-2-3/subject2196.txt          12   chunk1-2-3/subject2359.txt          
+13   chunk1-2-3/subject2397.txt          14   chunk1-2-3/subject2459.txt          15   chunk1-2-3/subject2465.txt          
+16   chunk1-2-3/subject2539.txt          17   chunk1-2-3/subject2749.txt          18   chunk1-2-3/subject2973.txt          
+19   chunk1-2-3/subject2990.txt          20   chunk1-2-3/subject3120.txt          21   chunk1-2-3/subject3655.txt          
+22   chunk1-2-3/subject3665.txt          23   chunk1-2-3/subject3802.txt          24   chunk1-2-3/subject3927.txt          
+25   chunk1-2-3/subject3986.txt          26   chunk1-2-3/subject4116.txt          27   chunk1-2-3/subject4255.txt          
+28   chunk1-2-3/subject436.txt           29   chunk1-2-3/subject4494.txt          30   chunk1-2-3/subject4721.txt          
+31   chunk1-2-3/subject4746.txt          32   chunk1-2-3/subject4982.txt          33   chunk1-2-3/subject501.txt           
+34   chunk1-2-3/subject5566.txt          35   chunk1-2-3/subject5689.txt          36   chunk1-2-3/subject570.txt           
+37   chunk1-2-3/subject5859.txt          38   chunk1-2-3/subject5880.txt          39   chunk1-2-3/subject6026.txt          
+40   chunk1-2-3/subject6028.txt          41   chunk1-2-3/subject6049.txt          42   chunk1-2-3/subject6469.txt          
+43   chunk1-2-3/subject6728.txt          44   chunk1-2-3/subject6752.txt          45   chunk1-2-3/subject6899.txt          
+46   chunk1-2-3/subject6948.txt          47   chunk1-2-3/subject7075.txt          48   chunk1-2-3/subject7254.txt          
+49   chunk1-2-3/subject74.txt            50   chunk1-2-3/subject7521.txt          51   chunk1-2-3/subject7730.txt          
+52   chunk1-2-3/subject7733.txt          53   chunk1-2-3/subject7864.txt          54   chunk1-2-3/subject8159.txt          
+55   chunk1-2-3/subject8399.txt          56   chunk1-2-3/subject8434.txt          57   chunk1-2-3/subject8820.txt          
+58   chunk1-2-3/subject8889.txt          59   chunk1-2-3/subject8945.txt          60   chunk1-2-3/subject8981.txt          
+61   chunk1-2-3/subject9069.txt          62   chunk1-2-3/subject9306.txt          63   chunk1-2-3/subject9355.txt          
+64   chunk1-2-3/subject9371.txt          65   chunk1-2-3/subject954.txt           66   chunk1-2-3/subject9565.txt          
+67   chunk1-2-3/subject9579.txt          
+Author: chunk1-2-3-4-5-6-7-8-9-10
+File's list:
+1    chunk1-2-3-4-5-6-7-8-9-10/subject1116.txt 2    chunk1-2-3-4-5-6-7-8-9-10/subject1139.txt 3    chunk1-2-3-4-5-6-7-8-9-10/subject1304.txt 
+4    chunk1-2-3-4-5-6-7-8-9-10/subject1345.txt 5    chunk1-2-3-4-5-6-7-8-9-10/subject1359.txt 6    chunk1-2-3-4-5-6-7-8-9-10/subject1448.txt 
+7    chunk1-2-3-4-5-6-7-8-9-10/subject1483.txt 8    chunk1-2-3-4-5-6-7-8-9-10/subject1613.txt 9    chunk1-2-3-4-5-6-7-8-9-10/subject166.txt 
+10   chunk1-2-3-4-5-6-7-8-9-10/subject1693.txt 11   chunk1-2-3-4-5-6-7-8-9-10/subject1830.txt 12   chunk1-2-3-4-5-6-7-8-9-10/subject2001.txt 
+13   chunk1-2-3-4-5-6-7-8-9-10/subject201.txt 14   chunk1-2-3-4-5-6-7-8-9-10/subject2154.txt 15   chunk1-2-3-4-5-6-7-8-9-10/subject2180.txt 
+16   chunk1-2-3-4-5-6-7-8-9-10/subject2270.txt 17   chunk1-2-3-4-5-6-7-8-9-10/subject2389.txt 18   chunk1-2-3-4-5-6-7-8-9-10/subject2476.txt 
+19   chunk1-2-3-4-5-6-7-8-9-10/subject259.txt 20   chunk1-2-3-4-5-6-7-8-9-10/subject265.txt 21   chunk1-2-3-4-5-6-7-8-9-10/subject2689.txt 
+22   chunk1-2-3-4-5-6-7-8-9-10/subject2960.txt 23   chunk1-2-3-4-5-6-7-8-9-10/subject3172.txt 24   chunk1-2-3-4-5-6-7-8-9-10/subject3408.txt 
+25   chunk1-2-3-4-5-6-7-8-9-10/subject3592.txt 26   chunk1-2-3-4-5-6-7-8-9-10/subject3635.txt 27   chunk1-2-3-4-5-6-7-8-9-10/subject3744.txt 
+28   chunk1-2-3-4-5-6-7-8-9-10/subject3791.txt 29   chunk1-2-3-4-5-6-7-8-9-10/subject3988.txt 30   chunk1-2-3-4-5-6-7-8-9-10/subject4408.txt 
+31   chunk1-2-3-4-5-6-7-8-9-10/subject4499.txt 32   chunk1-2-3-4-5-6-7-8-9-10/subject4818.txt 33   chunk1-2-3-4-5-6-7-8-9-10/subject4850.txt 
+34   chunk1-2-3-4-5-6-7-8-9-10/subject4937.txt 35   chunk1-2-3-4-5-6-7-8-9-10/subject50.txt 36   chunk1-2-3-4-5-6-7-8-9-10/subject5054.txt 
+37   chunk1-2-3-4-5-6-7-8-9-10/subject5061.txt 38   chunk1-2-3-4-5-6-7-8-9-10/subject5355.txt 39   chunk1-2-3-4-5-6-7-8-9-10/subject5413.txt 
+40   chunk1-2-3-4-5-6-7-8-9-10/subject5601.txt 41   chunk1-2-3-4-5-6-7-8-9-10/subject5603.txt 42   chunk1-2-3-4-5-6-7-8-9-10/subject5732.txt 
+43   chunk1-2-3-4-5-6-7-8-9-10/subject5736.txt 44   chunk1-2-3-4-5-6-7-8-9-10/subject6067.txt 45   chunk1-2-3-4-5-6-7-8-9-10/subject6070.txt 
+46   chunk1-2-3-4-5-6-7-8-9-10/subject6436.txt 47   chunk1-2-3-4-5-6-7-8-9-10/subject6732.txt 48   chunk1-2-3-4-5-6-7-8-9-10/subject680.txt 
+49   chunk1-2-3-4-5-6-7-8-9-10/subject7467.txt 50   chunk1-2-3-4-5-6-7-8-9-10/subject7503.txt 51   chunk1-2-3-4-5-6-7-8-9-10/subject7609.txt 
+52   chunk1-2-3-4-5-6-7-8-9-10/subject768.txt 53   chunk1-2-3-4-5-6-7-8-9-10/subject7756.txt 54   chunk1-2-3-4-5-6-7-8-9-10/subject7878.txt 
+55   chunk1-2-3-4-5-6-7-8-9-10/subject7934.txt 56   chunk1-2-3-4-5-6-7-8-9-10/subject8293.txt 57   chunk1-2-3-4-5-6-7-8-9-10/subject8481.txt 
+58   chunk1-2-3-4-5-6-7-8-9-10/subject8498.txt 59   chunk1-2-3-4-5-6-7-8-9-10/subject8720.txt 60   chunk1-2-3-4-5-6-7-8-9-10/subject8969.txt 
+61   chunk1-2-3-4-5-6-7-8-9-10/subject9196.txt 62   chunk1-2-3-4-5-6-7-8-9-10/subject9298.txt 63   chunk1-2-3-4-5-6-7-8-9-10/subject9304.txt 
+64   chunk1-2-3-4-5-6-7-8-9-10/subject9635.txt 65   chunk1-2-3-4-5-6-7-8-9-10/subject9791.txt 66   chunk1-2-3-4-5-6-7-8-9-10/subject9866.txt 
+67   chunk1-2-3-4-5-6-7-8-9-10/subject9942.txt 
+Author: chunk1-2
+File's list:
+1    chunk1-2/subject135.txt             2    chunk1-2/subject1506.txt            3    chunk1-2/subject1620.txt            
+4    chunk1-2/subject1730.txt            5    chunk1-2/subject1878.txt            6    chunk1-2/subject2186.txt            
+7    chunk1-2/subject2284.txt            8    chunk1-2/subject2286.txt            9    chunk1-2/subject2425.txt            
+10   chunk1-2/subject25.txt              11   chunk1-2/subject2607.txt            12   chunk1-2/subject2667.txt            
+13   chunk1-2/subject2674.txt            14   chunk1-2/subject2844.txt            15   chunk1-2/subject3341.txt            
+16   chunk1-2/subject3406.txt            17   chunk1-2/subject348.txt             18   chunk1-2/subject3547.txt            
+19   chunk1-2/subject3702.txt            20   chunk1-2/subject3805.txt            21   chunk1-2/subject387.txt             
+22   chunk1-2/subject4053.txt            23   chunk1-2/subject4188.txt            24   chunk1-2/subject4671.txt            
+25   chunk1-2/subject4796.txt            26   chunk1-2/subject4930.txt            27   chunk1-2/subject499.txt             
+28   chunk1-2/subject5099.txt            29   chunk1-2/subject5288.txt            30   chunk1-2/subject5489.txt            
+31   chunk1-2/subject5688.txt            32   chunk1-2/subject5913.txt            33   chunk1-2/subject5983.txt            
+34   chunk1-2/subject6048.txt            35   chunk1-2/subject6092.txt            36   chunk1-2/subject6491.txt            
+37   chunk1-2/subject6558.txt            38   chunk1-2/subject6772.txt            39   chunk1-2/subject6794.txt            
+40   chunk1-2/subject7451.txt            41   chunk1-2/subject7464.txt            42   chunk1-2/subject752.txt             
+43   chunk1-2/subject7558.txt            44   chunk1-2/subject759.txt             45   chunk1-2/subject771.txt             
+46   chunk1-2/subject7756.txt            47   chunk1-2/subject7775.txt            48   chunk1-2/subject7938.txt            
+49   chunk1-2/subject7987.txt            50   chunk1-2/subject8349.txt            51   chunk1-2/subject8493.txt            
+52   chunk1-2/subject8523.txt            53   chunk1-2/subject8710.txt            54   chunk1-2/subject8773.txt            
+55   chunk1-2/subject881.txt             56   chunk1-2/subject8878.txt            57   chunk1-2/subject8944.txt            
+58   chunk1-2/subject8977.txt            59   chunk1-2/subject9029.txt            60   chunk1-2/subject9098.txt            
+61   chunk1-2/subject9111.txt            62   chunk1-2/subject9320.txt            63   chunk1-2/subject937.txt             
+64   chunk1-2/subject9450.txt            65   chunk1-2/subject9582.txt            66   chunk1-2/subject974.txt             
+67   chunk1-2/subject9985.txt            
+Author: chunk1-2-3-4
+File's list:
+1    chunk1-2-3-4/subject1246.txt        2    chunk1-2-3-4/subject1452.txt        3    chunk1-2-3-4/subject1488.txt        
+4    chunk1-2-3-4/subject1586.txt        5    chunk1-2-3-4/subject1724.txt        6    chunk1-2-3-4/subject1849.txt        
+7    chunk1-2-3-4/subject1914.txt        8    chunk1-2-3-4/subject2027.txt        9    chunk1-2-3-4/subject211.txt         
+10   chunk1-2-3-4/subject2336.txt        11   chunk1-2-3-4/subject2454.txt        12   chunk1-2-3-4/subject2483.txt        
+13   chunk1-2-3-4/subject2560.txt        14   chunk1-2-3-4/subject3107.txt        15   chunk1-2-3-4/subject3112.txt        
+16   chunk1-2-3-4/subject315.txt         17   chunk1-2-3-4/subject3214.txt        18   chunk1-2-3-4/subject326.txt         
+19   chunk1-2-3-4/subject3273.txt        20   chunk1-2-3-4/subject3336.txt        21   chunk1-2-3-4/subject3366.txt        
+22   chunk1-2-3-4/subject3482.txt        23   chunk1-2-3-4/subject3493.txt        24   chunk1-2-3-4/subject3834.txt        
+25   chunk1-2-3-4/subject395.txt         26   chunk1-2-3-4/subject4034.txt        27   chunk1-2-3-4/subject4227.txt        
+28   chunk1-2-3-4/subject4534.txt        29   chunk1-2-3-4/subject4565.txt        30   chunk1-2-3-4/subject4729.txt        
+31   chunk1-2-3-4/subject4930.txt        32   chunk1-2-3-4/subject497.txt         33   chunk1-2-3-4/subject4978.txt        
+34   chunk1-2-3-4/subject5034.txt        35   chunk1-2-3-4/subject513.txt         36   chunk1-2-3-4/subject5366.txt        
+37   chunk1-2-3-4/subject5525.txt        38   chunk1-2-3-4/subject5550.txt        39   chunk1-2-3-4/subject5956.txt        
+40   chunk1-2-3-4/subject6167.txt        41   chunk1-2-3-4/subject6208.txt        42   chunk1-2-3-4/subject6246.txt        
+43   chunk1-2-3-4/subject6267.txt        44   chunk1-2-3-4/subject6498.txt        45   chunk1-2-3-4/subject655.txt         
+46   chunk1-2-3-4/subject6569.txt        47   chunk1-2-3-4/subject6809.txt        48   chunk1-2-3-4/subject7026.txt        
+49   chunk1-2-3-4/subject7073.txt        50   chunk1-2-3-4/subject7101.txt        51   chunk1-2-3-4/subject7299.txt        
+52   chunk1-2-3-4/subject748.txt         53   chunk1-2-3-4/subject7578.txt        54   chunk1-2-3-4/subject7829.txt        
+55   chunk1-2-3-4/subject8039.txt        56   chunk1-2-3-4/subject8078.txt        57   chunk1-2-3-4/subject834.txt         
+58   chunk1-2-3-4/subject8528.txt        59   chunk1-2-3-4/subject8574.txt        60   chunk1-2-3-4/subject8830.txt        
+61   chunk1-2-3-4/subject9085.txt        62   chunk1-2-3-4/subject9359.txt        63   chunk1-2-3-4/subject9451.txt        
+64   chunk1-2-3-4/subject9549.txt        65   chunk1-2-3-4/subject9670.txt        66   chunk1-2-3-4/subject9737.txt        
+67   chunk1-2-3-4/subject9840.txt        
+Author: chunk1-2-3-4-5-6-7-8-9-10-negative
+File's list:
+1    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1062.txt 2    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1111.txt 3    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1372.txt 
+4    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1376.txt 5    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1539.txt 6    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1840.txt 
+7    chunk1-2-3-4-5-6-7-8-9-10-negative/subject1896.txt 8    chunk1-2-3-4-5-6-7-8-9-10-negative/subject2183.txt 9    chunk1-2-3-4-5-6-7-8-9-10-negative/subject2277.txt 
+10   chunk1-2-3-4-5-6-7-8-9-10-negative/subject2285.txt 11   chunk1-2-3-4-5-6-7-8-9-10-negative/subject2521.txt 12   chunk1-2-3-4-5-6-7-8-9-10-negative/subject2751.txt 
+13   chunk1-2-3-4-5-6-7-8-9-10-negative/subject2804.txt 14   chunk1-2-3-4-5-6-7-8-9-10-negative/subject2886.txt 15   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3008.txt 
+16   chunk1-2-3-4-5-6-7-8-9-10-negative/subject306.txt 17   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3081.txt 18   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3175.txt 
+19   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3185.txt 20   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3651.txt 21   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3919.txt 
+22   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3921.txt 23   chunk1-2-3-4-5-6-7-8-9-10-negative/subject3928.txt 24   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4139.txt 
+25   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4261.txt 26   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4276.txt 27   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4291.txt 
+28   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4435.txt 29   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4650.txt 30   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4891.txt 
+31   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4892.txt 32   chunk1-2-3-4-5-6-7-8-9-10-negative/subject4968.txt 33   chunk1-2-3-4-5-6-7-8-9-10-negative/subject5005.txt 
+34   chunk1-2-3-4-5-6-7-8-9-10-negative/subject5209.txt 35   chunk1-2-3-4-5-6-7-8-9-10-negative/subject5266.txt 36   chunk1-2-3-4-5-6-7-8-9-10-negative/subject5926.txt 
+37   chunk1-2-3-4-5-6-7-8-9-10-negative/subject594.txt 38   chunk1-2-3-4-5-6-7-8-9-10-negative/subject5967.txt 39   chunk1-2-3-4-5-6-7-8-9-10-negative/subject625.txt 
+40   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6305.txt 41   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6308.txt 42   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6596.txt 
+43   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6875.txt 44   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6884.txt 45   chunk1-2-3-4-5-6-7-8-9-10-negative/subject6894.txt 
+46   chunk1-2-3-4-5-6-7-8-9-10-negative/subject7115.txt 47   chunk1-2-3-4-5-6-7-8-9-10-negative/subject7146.txt 48   chunk1-2-3-4-5-6-7-8-9-10-negative/subject7513.txt 
+49   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8049.txt 50   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8276.txt 51   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8320.txt 
+52   chunk1-2-3-4-5-6-7-8-9-10-negative/subject857.txt 53   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8585.txt 54   chunk1-2-3-4-5-6-7-8-9-10-negative/subject861.txt 
+55   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8648.txt 56   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8662.txt 57   chunk1-2-3-4-5-6-7-8-9-10-negative/subject8980.txt 
+58   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9062.txt 59   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9096.txt 60   chunk1-2-3-4-5-6-7-8-9-10-negative/subject952.txt 
+61   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9585.txt 62   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9587.txt 63   chunk1-2-3-4-5-6-7-8-9-10-negative/subject96.txt 
+64   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9710.txt 65   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9766.txt 66   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9802.txt 
+67   chunk1-2-3-4-5-6-7-8-9-10-negative/subject9879.txt 

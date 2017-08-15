@@ -1,0 +1,96 @@
+ Thanks. 
+
+
+
+
+ No, not atm.  The graph is just sorted in alphabetical order. 
+
+
+
+
+ I created [this](https://savvas.shinyapps.io/qb_shiny/) interactive graph of QB playoff performance based on DVOA since 1989.  All the data comes from [this](http://www.footballoutsiders.com/stat-analysis/2014/nfls-best-playoff-quarterbacks-dvoa-and-dyar) Football Outsiders article.  [Here's my code.](https://github.com/savvastj/qb_shiny) Let me know what you guys think of it.  I'm open to suggestions on how to make it better. 
+
+
+
+
+ I created [this](https://savvas.shinyapps.io/qb_shiny/) interactive graph of QB playoff performance based on DVOA since 1989.  All the data comes from [this](http://www.footballoutsiders.com/stat-analysis/2014/nfls-best-playoff-quarterbacks-dvoa-and-dyar) Football Outsiders article.  [Here's my code.](https://github.com/savvastj/qb_shiny) Let me know what you guys think of it.  I'm open to suggestions on how to make it better. 
+
+
+
+
+ I recently purchased [this](http://www.amazon.com/gp/product/B001TH7T2U/ref=oh_aui_detailpage_o02_s00?ie=UTF8 psc=1) HDMI to DVI adapter in order to use my Toshiba CB2 with my [QNIX 27" 1440p monitor](http://www.amazon.com/QNIX-QX2710-Evolution-LED-Monitor/dp/B00BUI44US).  I've been unable to get it to work.  I was just wondering if anyone else was able to get their CB2 working with a 1440p external display. Thanks. 
+
+
+
+
+ How would I get this to work if already have Elementary OS installed via crouton? 
+
+
+
+
+ The CB2's screen isn't just better based off just the higher resolution. The CB2's screen covers [98.5%of sRGB color gamut and has a Delte-E score of 1 (0 is the best)](http://www.laptopmag.com/reviews/laptops/toshiba-chromebook-2) while the Air covers [63.3% of the color gamut and has a Delta-E of 2.5.](http://www.laptopmag.com/reviews/laptops/apple-macbook-air-13-inch-2014)   
+
+
+
+
+ You can run a Linux distro via crouton on the Toshiba CB2.  I'm running Elementary OS via crouton right now and runs pretty well. However any chromebook with an Intel Bay Trail processor won't be able to run Linux via Chrubuntu. 
+
+
+
+
+ I don't think it's flash, I use youtube magic actions and force HTML5 playback on videos.  Most 1080p vids playback well, but there are just some that just stutter, like this one [here.](https://www.youtube.com/watch?v=2QRqPPFREx4 index=2 list=UUXGgrKt94gR6lmN4aN3mYTg)
+
+As for when I'm running ElementaryOS I have stuttering issues all the time when trying to run play youtube videos.
+ 
+
+
+
+
+ Performance is just fine outside of video playback.  It can't play certain youtube videos at 1080p which is dissappointing.  It also can have some stuttering issues when playing back video on a 2nd monitor and doing something on the laptop screen.  I am looking forward to future iterations of this laptop with better CPU. 
+
+
+
+
+ Yea it's pretty nice.  Love the screen and the speaker.  Elementary OS runs pretty well on this laptop. However, I do wish it was just a bit more powerful as I have had some stuttering issues with 1080p vids on youtube. 
+
+
+
+
+ Yea I'm hoping everything goes well.  I was debating whether to go through Best Buy's Customer Service or Discover's.  I decided on going through Discover to see how the experience was, in order to do you what you said for next year's BF deals.  Worse comes to worse I only lose $50, which I was already willing to spend on this chromebook anyways. 
+
+
+
+
+ It's silver. 
+
+
+
+
+ Bought the CB2 on monday, thank god for discover price protection
+Edit:
+
+Best buy has it [too](http://slickdeals.net/?sdtid=7432318 sdop=1 sdpid=72206178 sdfid=9 lno=1 trd=BestBuy+for+279 u2=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2Ftoshiba-13-3-chromebook-2-intel-celeron-4gb-memory-16gb-solid-state-drive-satin-gold%2F8790147.p)
+
+As does [bh photo](http://www.bhphotovideo.com/bnh/controller/home?O= sku=1084081 gclid=CImh1sGSmsICFeNaMgod53IAww is=REG Q= A=details) but you need to wait 1-2 weeks, and you may be able to avoid tax 
+
+
+
+
+ 12 team, non ppr
+Currently 3-1
+
+QB: Rodgers, Rivers
+
+RB: McCoy, Morris, M. Ball, R. Mathews, Helu
+
+WR: A. Brown, Cruz, Wallace, Hopkins, Gordon
+
+TE: Gronk
+
+D/ST: Broncos
+
+K: Bailey 
+
+
+
+

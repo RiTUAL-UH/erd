@@ -1,0 +1,105 @@
+ Just get a Spark Core, it's for $39 and they have amazing software. Check spark.io 
+
+
+
+
+ Thanks! Yea he's wearing it in his [instructable](http://www.instructables.com/id/Human-Jukebox/) 
+
+
+
+
+
+
+
+
+
+ Check out the Arduino shield: [1Sheeld](http://1sheeld.com) it lets you use your smart phone easily with Arduino, you don't have to have that much tech. experience, with one line of code you can post on your twitter account from Arduino! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If you aren't familiar with [1Sheeld](http://www.1sheeld.com), it is a physical Arduino shield that connects to smart-phones using bluetooth and make use of their sensors and capabilities inside your Arduino sketch.
+
+It is used mainly for rapid prototyping of your ideas. Instead of buying multiple shields and components to connect them to your Arduino, you can make use of your smart-phone's accelerometer, gyroscope, gravity, gps, speech recognition, screen ...etc with out buying them individually. Currently we have more than 30 of those. You can visit our [website](http://1sheeld.com) or our [Kickstarter](https://www.kickstarter.com/projects/integreight/1sheeld-replace-your-arduino-shields-with-your-sma) campaign to know more.
+
+We are planning to launch a new feature to our platform. We will enable 1Sheeld users to connect to other 1Sheelds from their Arduino sketch using our Android app.
+
+
+This feature will enable you to:
+
+* Read a digital pin from your remote Arduino(s).
+* Write to a digital pin to your remote Arduino(s).
+* Write to an analog pin (PWM) to your remote Arduino(s).
+* Send string or float messages to your remote Arduino(s).
+* Get notified whenever an input digital pin in your remote Arduino(s) changes its state.
+
+You have to have 1Sheeld board, an Arduino board and a Bluetooth-enabled Android smart-phone in EACH network node to make use of this feature.
+
+Here is an example code for what the sketch will look like: http://pastebin.com/6AJdXZfY
+
+So what are your thoughts? do you think it worth the effort? We think it will help people prototype connected-hardware projects and ideas easily.
+And if you think it is beneficial? what other features can we add? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I hear the next Arduino IDE will be web based, also try codebender.cc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

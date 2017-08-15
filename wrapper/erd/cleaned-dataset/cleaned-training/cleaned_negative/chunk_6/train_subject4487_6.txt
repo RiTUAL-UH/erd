@@ -1,0 +1,1188 @@
+ lol. 
+
+
+
+
+ Cool, [but not $2,500 cool](http://www.gainesvillecoins.com/products/169751/2015-somalia-elephant-kilo-silver-puzzle-coin.aspx). 
+
+
+
+
+ We hit the $14s back in late November, 2014. I believe it was on November 30th.  I distinctly remember it being the last day of the month and a Sunday as I hit an order at $14.72 that evening. 
+
+
+
+
+ Not surprising on today's news, [Tech triumvirate propels Nasdaq, S P to record highs](http://www.reuters.com/article/2015/04/24/us-markets-stocks-usa-idUSKBN0NF16J20150424). 
+
+
+
+
+ The [minutes gauge isn't accurate](http://i.imgur.com/Nlg33Xy.png) 
+
+
+
+
+ I took several seconds and would like to tell you it'd be a much better photo if the big one was eating the small one. 
+
+
+
+
+ What do you think about buying HAL today? 
+
+
+
+
+ Well, shit, don't know what the problem is on this end...I'll give it a whirl at home. 
+
+
+
+
+ http://markmarkoh.com/birdman/
+
+Is this fully working for anyone?  I'm not familiar with the opening credit sequence, but I think I know where the demo is supposed to go based on the opening which seems to work for me.
+
+[I end up with a frozen screen like this](http://i.imgur.com/3woikQm.jpg).  I'm assuming it should continue to type/reveal itself based on the audio playing.
+
+Have tried in latest chrome/firefox. 
+
+
+
+
+
+
+
+
+
+ I agree, although it is unique and looks very good quality from [BGASC's recent video](https://www.youtube.com/watch?v=BxUJHtekIFs). It isn't on my purchase list, but I can see it getting on others.  If it were a limited mintage, I would probably get a tube, but I haven't found any info on mintage, so I'm assuming they'll mint to meet demand. 
+
+
+
+
+
+
+
+
+
+ That's their standard ASE ebay #, I've been seeing the green "You bought this item" banner at the top of their ASE BIN auctions since the beginning of this year. 
+
+
+
+
+ I suggest placing 1-2 inches of rigid foam over the lines as insurance.
+
+I'd really look into some [heat cable/tape](http://www.homedepot.com/p/Frost-King-12-ft-Water-Pipe-Heat-Cable-HC12A/100032792) to go inside the foam for pipes that are exposed outside your house. 
+
+
+
+
+ It covers $2,500 of relocation costs. 
+
+
+
+
+
+
+
+
+
+ The rate at which the toolchain/frameworks evolves. 
+
+
+
+
+ Hi frenz, why you no love me like MD Pimple Popper? She no has Woods lamp light. I used to shine so bright in sky like stars here. Thank you for giving your valuable time. 
+
+
+
+
+ Foo Fighters free concert. 
+
+
+
+
+ Our designer had an idea like this as well - with the exception that it went horizontally across the top of the page instead.
+
+I actually made this exact thing, per one of our designers.  I gotta get that shit up on github, it'll blow up. 
+
+
+
+
+ Kookaburra? 
+
+
+
+
+ [Others](http://24.media.tumblr.com/tumblr_lychkjAeFO1r7kviso1_500.jpg) [have done](http://petapixel.com/assets/uploads/2011/08/contact.jpg) [this](http://randomwire.com/wp-content/uploads/biz-card-back.png). 
+
+
+
+
+ My motivation comes around every 2 weeks. This, for some reason, tends to coincide with a trip to the liquor store and a weekend of never leaving home. 
+
+
+
+
+ You've reinvented the scrollbar? 
+
+
+
+
+ * Where do you have these made?
+* What do you provide as the artwork? (vector?)
+* What is the cost/minimum? 
+
+
+
+
+ This is awesome, could you not have gone a little taller and 2 levels for other facilities?
+
+Where is it physically located and what did you have to do for permits?
+
+Are you going to be full-timing in this or is it for recreation? 
+
+
+
+
+ Wanna buy but I'm holding out for a gold American Eagle/Buffalo sale. 
+
+
+
+
+ I actually wrote the order fulfillment algorithm that APMEX uses (patent pending).  You can get [a predictive outcome of your order by manually running the algo here](http://codepen.io/anon/pen/QbLYBw) 
+
+
+
+
+ I don't know if this has any correlation, but the [IMF just wrapped up a meeting in Washington DC, April 17-19](https://www.imf.org/external/am/index.htm). I don't know if there was any announcement that came out of this that would affect the markets this morning. 
+
+
+
+
+
+
+
+
+
+ APMEX has the 2015 1oz on ebay now for $1,225.09, $20 over spot.
+
+Item # [111559013753](http://www.ebay.com/itm/SPECIAL-PRICE-2015-1-oz-Gold-Canadian-Maple-Leaf-Brilliant-Uncirculated/111559013753?pt=LH_DefaultDomain_0 hash=item19f96f7579) 
+
+
+
+
+ MCM on ebay item # [131232751917](http://www.ebay.com/itm/2015-Tokelau-1-Troy-Oz-999-Silver-Year-Goat-5-Proof-Coin-In-Cap-COA-SKU32031-/131232751917) 
+
+
+
+
+ A buddy is looking to buy, just looked at a house that was on the market at $365k, ended up selling for over $400k. 
+
+
+
+
+ Dear Dr. Fantasy Wife,
+
+On a scale of 1-10 when it comes to severity of zits/pus/blackheads that you've personally extracted in your career, what would you rate this guy at?
+
+Thank you and keep the videos coming. 
+
+
+
+
+ Emergency fund = cash. 
+
+
+
+
+ You have to piece meal it all together. jQuery and Knockout are libraries, not frameworks.
+
+Knockout gives you two-way data binding.
+
+jQuery gives you a x-browser abstraction for events, DOM manipulation, ajax and animation (high level overview, of course). 
+
+
+
+
+ No back support = not designed for sitting. 
+
+
+
+
+ This is why you keep receipts. 
+
+
+
+
+ In theory, the benefits of everything that comes with either of those frameworks (MVC/structure, two-way data binding, SPA/routing, testing, documentation, etc).  I'm pretty adamant that right now is just the wrong time for us to do a new app in Angular given what we have to support. 
+
+
+
+
+ We've actually used Knockout on a mobile app here, though it's a bit of a pseudo SPA.  I think what Knockout does, it does well, but it obviously is very limited in what it does do. 
+
+
+
+
+ We have a couple developers here who are throwing around the idea of rewriting an ~ 2 year old app in Angular. It's currently a JSF (Java Server Faces app). I don't think Angular 1.2 is a very good idea at this time and I'd like to hear opinions/justifications by those much smarter than myself.
+
+**We have to support IE8** (we dropped IE7 last year, so not very long ago) and it looks like this would mean we'd need to use Angular 1.2. This is a minor version behind the *current* release of 1.3.
+
+I've read the Angular team plans 1.5 - 2 years of support for Angular *1.3*, but we most likely wouldn't be able to update due to needing IE8 support.  This, to me means we'd essentially be hitting production with a deprecated framework.
+
+As for when we could drop IE8 support and have IE9 as a baseline, that's pretty tough to say.  If 1.3 is supported for 2 years, I would guess it might be possible to upgrade any 1.2 app to 1.3 in 2 years, but then we're back to upgrading to a deprecated framework.
+
+Upgrading from 1.x to 2.x is also a big unknown at this time.  I've read that is an unknown upgrade path as well as the angular team plans to work on an upgrade path.  With the fundamental changes in 2.x, it seems any 1.x to 2.x upgrade will be quite a bit of rewriting, if not mostly a full rewrite.
+
+So I could see it being yet another rewrite in a couple years, which seems a bit ludicrous.
+
+We've never built anything in Angular 1.x, either.  I've done a personal project in 1.3 but that was just to go from reading about Angular to actually doing *something* in it.  This is not saying much as I read and play with a lot of stuff just to go from a 50,000 foot view to a 25,000 foot view.
+
+I've looked at Ember as well, which looks like we'd be topping out (with IE8 support) at [Ember 1.13. They also claim an upgrade to 2.x will be "relatively simple" when you can drop IE8 support](https://github.com/emberjs/rfcs/pull/45#issuecomment-93009469).
+
+Ember looks like a better choice to me at this particular point in time, but I'd love to hear what you guys would do if you were in enterprise land, needed to support IE8 (for the next couple of years at least) and wanted to build some type of modern MV* app.
+
+ 
+
+
+
+
+ Portlanders. 
+
+
+
+
+ Batch job. 
+
+
+
+
+
+
+
+
+
+ Good passive aggressiveness on your part, though.  It's almost like you're from Portland. 
+
+
+
+
+
+
+
+
+
+ I've been playing it for the first time for months now. Make sure you go see Sheogorath, he's a hoot. 
+
+
+
+
+ Not ashamed to admit that I know, just by looking at the thumbnail image, that's Kane Roberts. 
+
+
+
+
+ They want people who understand the language. 
+
+
+
+
+     display:table != table 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Depends on what you buy and sell at. 
+
+
+
+
+ Fantastic and unsafe modern staircases. 
+
+
+
+
+ I bought some RIOM last year, which is now [TAHO](https://www.google.com/search?q=tahoe+stock ie=utf-8 oe=utf-8#q=taho+stock). I'm currently up 2.3% on that. Not quite what my Apple is doing (I'm up 32% on that) but at least it's in the black. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ My wife knows her place.
+
+I order via an assumed identity in another country and use 3 re-shippers. 
+
+
+
+
+
+
+
+
+
+ Impressive. 
+
+
+
+
+ [Kevin Carter](https://www.youtube.com/watch?v=lp9_Ng3wzt4), fantastic Manic Street Preachers song. 
+
+
+
+
+ Ajax (what $.load() uses) needs to be run via a webserver (not the file protocol) and you'll want to be loading files from the same domain, or else you'll need to look into CORS (cross origin resource sharing), which is a separate set of issues if you don't control all the domains in play. 
+
+
+
+
+ I frequently see this from our back-end java and sometimes .NET guys, so I'm assuming the authors of that guideline came to the front-end via the back-end, i.e., they're your typical computer science guys.  
+
+
+
+
+ Sure, just setup a partial html page that other pages can consume and use jquery's load method.
+
+    $( "#elem-on-parent-page" ).load( "path/to/page-to-load-into-parent.html" );
+
+If you only want to load part of the page-to-load-into-parent.html page:
+
+    $( "#elem-on-parent-page" ).load( "path/to/page-to-load-into-parent.html #container" );
+
+Where #container is just the parent element you want to consume. When you have a space after the url, it acts as a jquery selector so the above is loading page-to-load-into-parent.html then filtering it down to just the element with the id of container. 
+
+
+
+
+ So give them a full mockup for web, mobile, app, and a custom logo for the organization ... by tomorrow at noon. 
+
+
+
+
+
+
+
+
+
+ A collar but no ID tag? 
+
+
+
+
+ I said this in a recent thread about the same question and I'm going to say it again...You should *start* with ES3 as that is what you're probably going to be maintaining. There is a metric shit ton of ES3 out there.  Once you feel you have a solid grasp, move up to ES5, then 6. 
+
+
+
+
+ Secretary of State under Wilson who quit as a result of the Lusitania sinking.  The Lusitania was carrying munitions which made it fair game for German subs. It was also carrying American passengers which of course drew outrage and ultimately drew us into WWI.  The German Embassy took out ads in US papers warning not to travel on the Lusitania. 
+
+
+
+
+ Hi frenz. 
+
+
+
+
+
+
+
+
+
+ and I'm now following up with scans of 3 of 10 coins I received
+
+Since my original post I've ordered 20oz ASE from another vendor and all arrived without any visible fingerprints or other defects
+
+I think this is key.  In your latter example you ordered a tube so you are most likely getting the coins as they left the mint. Some vendors may go through tubes and cherry pick what they think are the best to send out for grading but I think you have a much better chance with condition by buying in tubes.
+
+What vendor did you purchase the 10 from? 
+
+
+
+
+ I use a popular project name, then a dead astronomer, then validate, then DX (for Digital Experience).
+
+* jQuery-Galilei-ValidateDX
+* Angular-Copernicus-ValidateDX
+* Node-Kepler-ValidateDX
+* HTML5-Boilerplate-Newton-ValidateDX 
+
+
+
+
+ First, [I would shed a single tear like that native American from the 70s](https://www.youtube.com/watch?v=uGu4AwL5Kho). Then I would put it back in the zip lock bag it came in. Then I would probably start drinking to be honest. 
+
+
+
+
+ Did you carpet bomb it? 
+
+
+
+
+
+
+
+
+
+ Ah, I was not aware of that.  I think I'll start trying to edit the item number to turn it into a link after a comment is made. I wonder if having a comment would keep it out of the spam filter.
+
+The item #s are direct links now. 
+
+
+
+
+ Those posts get stuck in the spam trap, sometimes they don't seem to get fished out. Hence the item #s. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Christ...Here I thought I grew up in a rural farming town. I've got nothing on these hicks. 
+
+
+
+
+ **ASE tube @ $377**
+
+* Item # [141528111687](http://www.ebay.com/itm/141528111687? RILT=Main_Banner2_Silver_Eagles_Tube_eBay)
+
+**1 oz Gold Bar Pamp Suisse Lady Fortuna In Assay (New Packaging)**
+
+* $12 over spot
+* $1,222
+* Item # [111629423556](http://www.ebay.com/itm/111629423556? RILT=Main_Banner_Pamp_Suisse_Gold_Bars_eBay) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Must be a tech hiccup.
+
+Or maybe the end game is here...Quick, to the bunkers! 
+
+
+
+
+ 50 monster boxes. Anyone know what the premium per coin would work out to be? 
+
+
+
+
+ lol. 
+
+
+
+
+ I would be a patent, see Amazon's one click button.  I believe they also have a trademark on one click.
+
+I know Apple licenses the one click to purchase. 
+
+
+
+
+ Pretty sure there are French people in Spain. 
+
+
+
+
+ Consumer Price Index data from the US Dept. of Labor/Bureau of Labor Statistics? 
+
+
+
+
+
+
+
+
+
+ I put my heart into everything I do
+
+That's cute.  God, I remember when I was that naive. Those were good times, I was happy, kind, charming, sober and my cat respected me.
+
+Also, it's *JavaScript* ninja, there, gaijin. 
+
+
+
+
+ It's in frames:
+
+     FRAME NAME="fr_top" SRC="top.pl?ww= w=stupid d=STUPID r=WStupid;Cstupid;" SCROLLING=NO BORDER=0 marginheight=0 marginwidth=0
+
+    FRAME NAME="fr_bottom" SRC="/en/STUPID"
+
+When you view the source of  http://www.wordwebonline.com/search.pl?w=stupid, click on the src links I've outlined above, and as they say in Spain, voil. 
+
+
+
+
+ Lab Animal Technician 
+
+
+
+
+ [You know things have really gotten out of hand when...](https://docs.google.com/spreadsheets/d/1r8rJy2Q5p5QORYKcye93UECwOlSgFL24c5fyF7dqhaM/edit#gid=1607194899) 
+
+
+
+
+
+
+
+
+
+ Here are ten of the top 12 JavaScript
+
+* Top 12 according to who?
+* Why does it actually list 14?
+* Also, the title says "Top 12+ JavaScript Libraries For Developers".
+
+Lol. 
+
+
+
+
+ [Pro JavaScript Design Patterns](http://www.amazon.com/Pro-JavaScript-Design-Patterns-Object-Oriented/dp/159059908X) pretty much takes the GoF patterns to JavaScript.  Even though it came out in 2007, it's still probably the best JavaScript book I've read. 
+
+
+
+
+ Minimum skills:
+
+* DunningKruger
+* Bandwagoning
+* Confirmation bias
+
+Average day:
+
+* Wondering if you're too old to join the army. 
+
+
+
+
+ She wants me to replace some nice, clean elements on the site with a GoFundMe widget
+
+God damned moron trying to facilitate business...Does she not understand you are an artist? 
+
+
+
+
+
+
+
+
+
+ What happened to the first two? 
+
+
+
+
+ This is done in Portland.  The tiny houses are basically parked in a "regular" house's back yard or somewhere on the lot.  In theory it works great until a neighbor starts to complain to the city.
+
+You can do it but it's still a legal gray area. 
+
+
+
+
+ Simple strategy, he's playing both sides.
+
+$upporting = benefits of Hollywood networking/nepotism but not going full Jim Jones. 
+
+
+
+
+ Used to work at an agency back in the 90s where I had one of those Power Computing Mac clones. They weren't available that long.
+
+Fun fact: those PC clones stopped when Jobs went back to Apple. If I remember right Apple bought them to essentially shut them down. 
+
+
+
+
+ Are you aware the 2.0 version is not going to be backwards compatible with 1.x? There are major differences between 2.0 and 1.x. You might want to hold off until 2.0 is out before learning a framework (1.x), only to relearn it next year (2.0).
+
+If you're just looking to do some sort of personal project in a JS MVC framework, I'd recommend Ember today. They embrace stability over stagnation.
+
+If you're dead set on Angular because of the hype train, re-read my first paragraph and do some research on your own. 
+
+
+
+
+
+
+
+
+
+  I own my home but no safe. Even with a safe I'd still prefer a safe deposit box. My home is not hard to break into and I don't want to invite trouble. How often do safe deposit boxes get robbed?
+
+Ditto. 
+
+
+
+
+ I think that I need to start buying shirts and jackets whose sleeves are too short so everyone can see that **I HAVE A FUCKING APPLE WATCH, LOOK AT ME**. 
+
+
+
+
+
+
+
+
+
+ [Here's something I did last summer](http://www.yardshare.com/yard_pics/Patio%20Before%205-14-09%20004.jpg). It's very low maintenance, which is key when it comes to landscaping. 
+
+
+
+
+ Here's a couple of good ES6 links:
+
+* http://es6-features.org
+* https://leanpub.com/understandinges6/read/ 
+
+
+
+
+
+
+
+
+
+ He could have stepped in a bear trap. 
+
+
+
+
+
+
+
+
+
+ Awesome, I love those old Argosys and Airstreams.
+
+How's the insulation in that?  I can't imagine it would handle Texas summers and Canadian winters well. Doesn't look like you gutted it down to the shell and did something like spray foam/insulation.  Windows original as well? 
+
+
+
+
+ Slabtown Customs? I actually like what the guy is doing because he does non-typical tiny house stuff. Does have at least one documented horror story out there, though. 
+
+
+
+
+ I don't think those dates are critically important other than the PR angle.  I think they have something like 30 days or 6 weeks to make the payments before they are considered to be in default, so we're talking mid-end May. 
+
+Sure, the markets will react if they miss the deadline, but there is a grace period for the ape to get ready. 
+
+
+
+
+ [You talkin about this, Willis?](http://www.zerohedge.com/news/2015-04-06/key-events-coming-week) 
+
+
+
+
+ We had a bunch of silver/gold sales last week, poor job #s were out, was it last Friday? Market was closed Friday as well.
+
+Typically the theory has gone spot takes a dive a couple days after the big sales end.
+
+What sayeth the peanut gallery? 
+
+
+
+
+ IMO, you're making the assumption other opinions are invalid because you don't share them.
+
+In the end, what you need is data supporting your rant. Do this repeatedly and she'll start to trust your suggestions/direction as it's backed by something tangible. 
+
+
+
+
+ Why don't you try implementing her suggestions/assumptions and actually test them in production to see how they play out? 
+
+
+
+
+ Hello from Portland.  If you end up going and have a smartphone, can you post up a video of your walkthrough as well as a general review of your experience? I'd love to see this as they've piqued my interest as well. 
+
+
+
+
+ Pick up a hooker. 
+
+
+
+
+ Your best bet to determine if an old poured bar is fake is to melt it down.  If it turns out to be legit, you should re-pour it.  I have Photoshop and can help you make a mold. 
+
+
+
+
+ $.19 over spot.
+
+Wonder if the bars are the style pictured or a variety. I know Englehard has several styles of 100 oz, APMEX usually has several varieties in-stock, though certainly not at this price. 
+
+
+
+
+
+
+
+
+
+ Yes, [there's one here](http://imgur.com/gYOww7z). 
+
+
+
+
+ I've been using a local recruiter very successfully since 2008 (been placed 2x). Last time I looked around myself, [indeed](http://www.indeed.com/) seemed to be the best thing out there. Granted, it's been years since I checked it out but I still hear it brought up in casual conversation from other devs every now and then.
+
+I never found any decent leads/gigs on Craiglist, but again, it's been years since I've looked. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You should start with ES3 because that's going to be what you're going to be maintaining. 
+
+
+
+
+ What should you do when you've completed a basic Java course, and can you get a job with Java?  
+
+
+
+
+ I have a 10 oz Rarities bar, didn't pay too much of a premium for it.  Your 5 oz would probably fetch $100, IMO. That would be a "retail" price, i.e., to someone like the folks here. If you were to sell it to some type of retail establishment, you'd probably get $15-20 less, I'd guess.
+
+I don't know if the 5 oz is particularly rare. I'd guess not so much but can't really speak with any authority. You don't see the Rarities bars much, but I don't think they're that collectible outside of being an older type of silver bar. 
+
+
+
+
+
+
+
+
+
+ As long as people have their air conditioning, cable tv and walmart, nothing. 
+
+
+
+
+ I can understand this point-of-view.  I'm a big proponent of financial history, though, especially money and the institution of banking.  Don't get me started on The Federal Reserve. I won't even ask people about the 3 central banks that came before it in the United States.
+
+Hey, look over there, Andrew Jackson, what a guy. 
+
+
+
+
+ Not a ton of details, but I'd recommend checking out [knockout](http://knockoutjs.com/).
+
+It's a MVVM library (not a framework), does pretty much one thing (2-way data binding), can be easily incorporated into any project and has a low learning curve.
+
+I'd also recommend using knockout's mapping plugin which takes care of mapping your json data to your view model. 
+
+
+
+
+ That's a Morgan Dollar, named after its designer George Morgan.  If you show that to most people, they will have no idea what you're showing them.  It's a bit of a shame there is very little knowledge of common US financial history. 
+
+
+
+
+ 2 oz Fine Silver - One Amero 
+
+
+
+
+
+
+
+
+
+ $18-$20 for 3-6 months is way below market.  You're going to burn through that for lunch in 3 days.
+
+I will pay you $180-$200 for 3-6 months.  You're still going to run out of money to eat, but don't come crying to me with your problems during the 3rd week, we have a contract. 
+
+
+
+
+ Be sure to [check out the demo](http://pixelscommander.com/polygon/htmlgl/demo/filters.html#.VR1tSZOPyF4), crazy stuff. 
+
+
+
+
+ Forget about launch, I get this feeling when walking into a project kick-off meetings with our marketing/UX team. 
+
+
+
+
+ I'd definitely look for the "about us" or "our team" page that has the most plaid. If they have Sasquatch in the firm name, perhaps with a logo of bigfoot riding a fixie, that would be the ultimate trifecta. 
+
+
+
+
+ Under "breakdown of time", what's the difference between "companies" and "projects"? Assuming this is billable -vs- non-billable time? 
+
+
+
+
+
+
+
+
+
+ Canary looks very interesting, thanks much for the reply.  It's a shame they don't offer a discount for multiple cameras/units. http://canary.is is definitely worth checking out if anyone else is interested in this topic.
+
+There's also https://getpiper.com/ which you can pair with open/close sensors for doors/windows (which is cool and something Canary doesn't offer), but I've read some people have issues getting those to work/sync with Piper. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Would like to look into adding some home security where ideally I can monitor via my Android phone. I don't know what's really out there nowadays but figured a lot you guys do and are possibly using it or can recommend what to look into.
+
+BTW, I don't have a static IP address at home, but could probably get one. I go through Frontier. I don't have a land line (phone).
+
+Basically looking for the cheapest way to add some security/monitoring at home.
+ 
+
+
+
+
+ Would like to look into adding some home security where ideally I can monitor via my Android phone. I don't know what's really out there nowadays but figured a lot you guys do and are possibly using it or can recommend what to look into.
+
+BTW, I don't have a static IP address at home, but could probably get one.  I go through Frontier.  I don't have a land line (phone).
+
+Basically looking for the cheapest way to add some security/monitoring at home. 
+
+
+
+
+
+
+
+
+
+ Value doesn't come from the page, it comes from the messaging.  Also more important, IMO, are error messages on the request level, but that's more geared towards apps. 
+
+
+
+
+ Looking at the silver price over the past 5 years, I think I might go crazy later this month. 
+
+
+
+
+ I think that's the best I've ever seen for a JM.  Monarch has .59 cents over spot on their 100oz bars, but not on ever make. 
+
+
+
+
+ I'll try again from home tonight, might be the corporate firewall I'm behind. 
+
+
+
+
+ The Maggregor download button doesn't seem to work in Firefox, is there a FTP mirror somewhere? 
+
+
+
+
+ But [a lot of the jobs suck](http://www.nytimes.com/2014/04/28/business/economy/recovery-has-created-far-more-low-wage-jobs-than-better-paid-ones.html) and wages aren't growing.
+
+Also, [labor participation rate is lowest since 1978](http://data.bls.gov/timeseries/LNS11300000/) (change the from date up top to 1970).  Sure, you have a growing aging population, but I'm sure a lot of people are just giving up.
+
+Do you really believe the [official unemployment numbers?](http://www.forbes.com/sites/louisefron/2014/08/20/tackling-the-real-unemployment-rate-12-6/) 
+
+
+
+
+ I'm digging on setting up my preferences to disallow custom subreddit styling. 
+
+
+
+
+ Not in London, but just yesterday I received an email from my recruiter for a "front end developer" titled/position that in the requirements also indicated full stack, 7-years of python, java and .NET (all of them, not one of them) plus dev ops responsiblities. 
+
+
+
+
+
+
+
+
+
+  The US economy is looking strong
+
+Serious question, how do you figure this? 
+
+
+
+
+ IKEA catalog. 
+
+
+
+
+ I don't know why this has been down voted, it hits the nail on the head. 
+
+
+
+
+
+
+
+
+
+ That is a great score. 
+
+
+
+
+ You probably saw it here:
+
+* https://www.youtube.com/watch?v=GLSxcLww2V4
+* http://minimhomes.com/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     p:nth-child(odd) {
+        display:none !important;
+    } 
+
+
+
+
+ Jesus would use a Macbook and obviously vote Republican while turning water into wine. 
+
+
+
+
+ If you have to give mobile visitors the option of viewing the desktop version (in a responsive site), odds are, you're doing responsive design wrong.
+
+That being said, I can still appreciate this. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Please stop with the stupid animated gifs, they do nothing but distract from the actual content.  I bailed on your article because of this. 
+
+
+
+
+ "Can't load a stylesheet properly" 
+
+
+
+
+ By reading this commentyou agree to pay me $500 and provide naked photos of your sister. 
+
+Enforcing that will be another question.  BTW, I already have the photos.
+
+ 
+
+
+
+
+ https://twitter.com/benbernanke
+
+\#AskBen: Welcome To Twitter @BenBernanke 
+
+
+
+
+
+
+
+
+
+ There's a faction here that thinks when APMEX has sales like this, it's foreshadowing spot price going down.
+
+So let's watch what happens this week. We're at $1,189.40 as I type this on Monday eve.
+
+I'm not finding any silver deals from them, though I'm just looking very quickly, filtering down to bullion--silver--uncertified--1 oz.  I see they have a tube of ASEs for $411 but not much of a deal.  JMB has them for $400 shipped at the moment. Silver spot is $16.82 at the moment so if I'm missing any APMEX silver deals, please post it up for the record. 
+
+
+
+
+
+
+
+
+
+ [Good](https://s-media-cache-ak0.pinimg.com/236x/76/f7/c6/76f7c6bc37625d26afac2fcd59f080a9.jpg). 
+
+
+
+
+
+
+
+
+
+ Just FYI, it's called a Mercury dime and it isn't a key date (which would make it more valuable). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Impossibru! 
+
+
+
+
+
+
+
+
+
+ Item #141572249577
+
+[Link to auction](http://www.ebay.com/itm/10-oz-Scottsdale-STACKER-Silver-Bar-Ten-Troy-oz-999-Silver-Bullion-A182-/141572249577) 
+
+
+
+
+ Or you are here protecting you investments. 
+
+You'd be much better off, IMO, if you would have spent that $ on semi-numismatics.  With those generic APMEX bars, you're directly tied to spot price.  Take a look at the price of silver since 2011 - it has crashed.  What if you would have been doing your research then? Would you still have jumped in with the doom and gloom dollar collapse scenario that proliferates from the silver pumpers? Do you really think you'll find yourself in a silver barter situation?
+
+For someone who has done a "ton of research" and "endless research", yet makes a large first purchase of generics, I'd say your research is failing you. I'm not bashing generics as I have generics, but you really need to be aware of what you're buying. Diversification can be fun, but that doesn't mean it will yield you the greatest gains.
+
+I would strongly suggest researching and getting into semi-numismatics where your silver won't be tied to the spot price of silver, which may not have bottomed yet.
+
+Welcome aboard the silver train. 
+
+
+
+

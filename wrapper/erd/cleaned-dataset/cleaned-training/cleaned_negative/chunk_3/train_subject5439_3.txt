@@ -1,0 +1,46 @@
+ There is a lot of work going in the area of inorganic light absorbers for solar cells, particularly those that are non-toxic and earth-abundant (i.e., lots of the element in the earth's crust, such as iron, copper, nickel, etc).  Good old fool's gold (iron pyrite), a staple in every kid's rock collection, is making a comeback as it has great light absorption characteristics, but has problems related to annoying surface defects that wreck the output of the cell.  Another area is catalysis - catalysts that can make water splitting (into hydrogen and oxygen gases) efficient, and people have shown that iron and nickel oxides are effective.  That's neat.   
+
+
+
+
+ Agreed that if you are still using fossil fuels to generate electricity, then the savings with respect to CO2 emissions are not great.  Automotive people do say, however, that electric cars are more efficient with respect to energy usage as the pesky heat problems in a combustion engine are basically non-existent.  So, there are some savings with respect to energy usage/CO2 emissions if you use an electric car. But, as for your question about the Powerwall, as a stand-alone battery, it's not ideal.  
+
+But, others see the Powerwall as a baby step towards the long range goal, which is renewable electricity generation interfaced with a home energy storage system.  Here is a Toyota home prototype "Smart House".  Of course this is a demo, but people are thinking, and trying things out.  
+
+http://www.toyota-global.com/innovation/environmental_technology/plugin_hybrid/magazine05.htmlglo
+
+I love this idea - having these concepts on the shelf are important.  
+
+
+
+
+ It is fascinating to watch the trends moving through science, particularly through the energy fields.  Over the past two decades, the big thing was dye sensitized solar cells (DSSCs), the really neat architecture first published by Graetzel at EPFL in 1991.  Then along came organic photovoltaics (plastic solar cells), which have enormous potential, but also have lifetime issues (it is obviously bad if your solar cell degrades in the sun!).  For the past few years, perovskites, of the composition CH3NH3PbX3 (where X is a halide = Cl, Br, I) have been the darling of the research field.  These materials have been sitting under our noses for decades, and perhaps even a century, and it was only in 2009, and then 2012, that the right combinations of materials were assembled to produce high efficiency solar cells.  Very large numbers of experimental papers are being published.  For lead references, have a look at the following websites of these (mostly) experimental groups:
+
+Website of Henry Snaith (Oxford):
+https://www2.physics.ox.ac.uk/research/photovoltaic-and-optoelectronic-device-group
+
+Website of Prashant Kamat (Notre Dame):
+http://www3.nd.edu/~kamatlab/
+
+Website of Michael Graetzel (EPFL):
+http://lpi.epfl.ch
+
+All of the research areas I mentioned above have enormous potential, and many smart people are working on them, around the world.  Good to see.  
+
+
+
+
+ Both! Depends. How terrible an answer is that?
+
+Let me give you a few scenarios - in northern Canada, we have thousands of isolated communities that generate electricity locally using diesel-powered generators; the diesel is driven up on ice roads in the winter, and the cost per kWh is ridiculous - $ 0.35 kWh to $1 kWh.  Even if they can only use solar for 6 months of the year during their very long summer days and the tails on either end, it would save a lot of money, not to mention the associated CO2 emissions.  
+
+The Sahara has been considered many, many times, as an enormous solar farm to generate power for Africa and Europe, but political instability and inefficiencies have stood in the way. In this piece by Nate Lewis in the Materials Research Society Bulletin, called "Powering the Planet", he quotes the Sutton Principle: True or not, the story goes that when the clean-cut, polite bank robber, Willy Sutton was caught, he was asked by a reporter why he robbed banks. His response: "Because that is where the money is".  The Sahara and other desert areas are huge sources of energy; our planet is small, and the population continues to grow and industrialize, so eventually we will get our ducks in a row and use it.  We will have to.  
+
+nsl.caltech.edu/_media/energy:ptp-mrs-bulletin-oct-2007.pdf
+
+https://en.wikipedia.org/wiki/Desertec
+http://www.voanews.com/content/solar-power-plant-in-africa-to-supply-europe/2500171.html 
+
+
+
+

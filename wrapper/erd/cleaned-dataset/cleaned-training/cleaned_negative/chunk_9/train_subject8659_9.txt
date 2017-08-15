@@ -1,0 +1,221 @@
+ True, however...
+
+Men's haircuts generally take much less time, say 20-30 minutes, and to keep a hair style you generally have to go twice a month at $20 a pop. My girlfriend on the other hand goes once every 2 months and each cut/color take like 3-4 hours and costs her about $140. 
+
+So the hourly rate for both sexes is about the same (~$40/hr) and the overall cost is just determined by how often you go. 
+
+
+
+
+ 1. Cough. That feeling where you're constricting your throat right before any air actually comes out. That's what you're going for.
+
+2. Take a quick, deep breath while constricting your throat and force the air in. Weird noises should happen, and changing the pressure in your throat will modulate the sound. 
+
+3. Continue to make sea gull/pterodactyl until you get absurdly light headed. 
+
+
+
+
+ The "pre-cooked" on the sign was referring to the weight of the steak before it's cooked, as there is no way to tell how much the steak will be after it's cooked. Many places that sell meat use this nomenclature to advertise the weight of meat. 
+
+In this situation, the steak was 3.5oz BEFORE you cook it.
+ 
+
+
+
+
+ Only Mac Pro's use ECC RAM. All their laptops use non-ECC. Actually, you'd be hard pressed to even find laptop ECC RAM for any system. 
+
+http://www.newegg.com/Product/Product.aspx?Item=N82E16820148609
+
+ 
+
+
+
+
+ Um.. yea..
+
+That made me feel uncomfortable 
+
+
+
+
+ 2 reasons why this is silly:
+
+-There was a special edition CoD Xbox with a 1TB hard drive
+
+-You can use an USB 3.0 external hard drive (min 256GB). You can pick up a 1TB external for like $40-$50. 
+
+
+
+
+ http://www.microsoftstore.com/store/msusa/en_US/pdp/AT-T--Nokia-Lumia-635/productID.307447800
+
+Select the no contract option, and its $49!! 
+
+
+
+
+ You can get a much better phone, the Lumia 635, for $49... They make great GPS, MP3, Point-and-Shoot cameras, etc. 
+
+
+
+
+ If you're feeling generous while at dinner, find a couple that may be out on a date night, and secretly pay their bill. If you move to the bar after dinner, you might be able to see their fantastic reaction when they find out! Also, tip the waiter nicely (if deserved)
+
+I did something similar to this once... It's an incredibly feeling being candidly nice to strangers 
+
+
+
+
+ MY dog would destroy those bottles in a few minutes :/ 
+
+
+
+
+ Its not that they are downvoting him for owning a CRT, it's more that he is known is this sub for evangelizing the benefits of a CRT to an almost delusional degree... Many people consider him to be a troll on the matter.
+
+Look at the title of his post for instance, "...344Hz Gaming Rig". It's only 344Hz @448x336 resolution which is on par with an old cell phone. Also, a walkthrough of his comment history is "interesting". 
+
+
+
+
+ Pshh... You're getting downvoted lol
+
+I completely agree. I don't even understand why you would post here instead of just contacting Amazon about it. Also, you're factoring non-business/shipping days into that. Yes, it is still longer than their promised 2 day shipping even without the weekend. They have amazing customer service and I frequently get emails asking if my packages arrive on time. Instead of ranting, be proactive. 
+
+
+
+
+ I've dealt a lot with MakerBot's and I would personally never buy one. There are many comparable alternatives for almost half the price and the newer 5th Gen models have AWFUL extruders... they clog like crazy and are not nearly as easy to disassemble and clean as other models. Also, their support is a joke. I called there sales line asking how much an additional extruder (the newer models have easily detachable extruders) would cost, and the guy seemed confused. I explained that I wanted an extra so that I could quickly swap it out when one clogged, and he in a shocked voice told me that sounded like a good idea, but they weren't selling them at that time, but his "guess" would be somewhere around $200... wtf?!
+
+They have name recognition and Thingiverse (giant scam), but make a inferior and more expensive product. 
+
+
+
+
+ So, what exactly does go into a PROPER detail? For they layperson who may want to detail a car themselves, do you have any tips, tricks, or specific products? 
+Thanks! 
+
+
+
+
+ What kind of fryer is that?? It looks like a ceramic bowl  
+
+
+
+
+ As others have said, this is probably ground loop noise. An easy way to test this, assuming you're in the US is to use a 3-prong to 2-prong adapter on power sources. If that solves your issue, look into getting a power conditioner or a ground loop noise filter.
+
+Good luck! 
+
+
+
+
+ So what your saying is, if you do it wrong, it wont work?
+
+Sounds about right. :P 
+
+
+
+
+ I suspect he was under-trained. If you notice, he dropped the gun in the video because he was not expecting kickback from a taser. 
+He's 100% responsible for his actions, but I highly doubt his intentions were to straight up shoot the guy, especially in front of a bunch of cops and cameras. 
+
+
+
+
+ I lol'd. Nice title :) 
+
+
+
+
+ Thank *you*! Feedback is so important! 
+
+
+
+
+ Phones are a different story as Microsoft JUST acquired Nokia, so they were technically an OEM, not first party product like the Surface at the time. 
+
+Definitely not piles of anything lol. They *try* to keep a few on replacements on hand, but anyone can use myservice.surface.com for any Surface product to get a warranty replacement if deemed necessary.
+
+Just to clarify, these are anecdotal references based on my personal experiences and do not necessarily reflect the opinions or procedures of Microsoft. 
+
+
+
+
+ Haha, glad you're enjoying it.
+
+Personally, I have a cheap "weatherproof" Bluetooth speaker that I just keep in the bathroom and connect it to my phone or Surface before showertime! 
+
+
+
+
+ This wont work. There is a large back stock of S2's for warranty exchanges. Depending on which model you have, you're looking at about $60 for a Surface 2 trade-in I believe although that fluctuates constantly
+
+I work in a MS store. 
+
+
+
+
+ Possibly? I honestly don't know as the optical stack on a SP3 is so small. That being said, you can purchase desiccant on Amazon for not too much. Keep the Surface in an unsealed container completely covered in silica desiccant beads for several days and see if that removes moisture.. If you have the original box, the grey outer sleeve might work well.
+
+Alternately, if you have a MS Store near you, you could try to replace the Surface there although it may be deemed user damage and not be covered under warranty.
+
+Let me know how it turns out!  
+
+
+
+
+ Couple things to try...
+
+
+1. Run all your updates, including the optional ones as they frequently include driver updates.
+
+2. You can download the SP3 driver pack from [here.](http://www.microsoft.com/en-us/download/details.aspx?id=38826) Download the latest available version an install them.
+
+3. You can try a "Refresh". This essentially removes all programs and re-installs the OS, but leaves all your settings and personal files. If you're willing to swap the device anyway's, this could be an easier solution. To do a Refresh, simply start typing the word "refresh" on the Start Screen and choose the appropriate option on the right hand column. Alternately, you can go to Charms Bar  Settings  More PC settings  Update and Recovery  Refresh.
+
+Seeing as the unit actually works when you re-enable the driver, it seems like a software issue rather than a hardware issue and could be fixed at home. Let me know how that goes! 
+
+
+
+
+ I deal with Surfaces a lot (hundreds) and I've never seen this before. It's highly unlikely, but is there a chance liquid got under the screen, especially condensation? If you kept in in the bathroom while running a hot shower kind of situation?
+ 
+
+
+
+
+ I work for Microsoft.
+
+Go to www.microsoftfeedback.com and fill out the survey. They are taken very seriously and seen at the store level and higher. Also, Samantha would most certainly be recognized by her managers if you copied this post. 
+
+
+
+
+ If there is a Microsoft Store near you, then yes. You can also arrange a new one to be shipped to you via myservice.surface.com, but the Store would just be easier. 
+
+
+
+
+ ?! 
+
+
+
+
+ This is true, a majority of the marketing shows the keyboard attached. There is almost always a * stating the keyboard is sold separately, but your point is valid. 
+
+
+
+
+ You don't have to catch the dust, but I have both the blower and the vacuum and use them in tandem... vacuum on one side of the PSU/heatsink/etc and the blower on the other. Works pretty well, but you could just take it to your garage or outside. 
+
+
+
+
+ I don't see anyone mentioning that webcams almost universally have an "active" light on them, so you know when your webcam is actually turned on. IIRC, the light and camera are essentially on the same circuit, so you can't have the camera on without the light being on making it EXTREMELY obvious... 
+
+
+
+

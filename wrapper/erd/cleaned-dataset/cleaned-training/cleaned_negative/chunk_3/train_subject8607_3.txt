@@ -1,0 +1,26 @@
+ Interesting question, and I am sorry your tutor vastly over-simplified the answer. It is true that inter-cellular space is nearly nonexistent, as the role of an epithelium is as a barrier. But, it is not true that they only excrete substances. Epithelial cells can express a myriad of transporters, ion channels, and pores that allow all sorts of different things into, out of, and through the epithelial cells. It varies based on the epithelial type in question.
+
+I am wondering one thing, though: to me, the epithelium I think of last is the skin (I research the urinary bladder for a living). The questions you bring up here seem to be related to "transport" across the epidermis' stratum corneum (outer layer of skin) and not an epithelium in the more general sense.
+ 
+The stratum corner is a pretty tight barrier against a lot of stuff, but it is still made up of cells with hydrophobic membranes...so many hydrophobic compounds and lipophilic small molecules are more than happy to alter the cell membrane stiffness and pliability and/or pass right through. Thus, most of the moisturizers you use aren't really imparting water, per se...but imparting elasticity and flexibility. 
+
+As far as the patches and lead and mercury and stuff? Some patches increase permeability chemically, some have special formulations of the drugs that allow them to pass through the cells, and some just rely on simple diffusion of tiny molecules that are intrinsically capable of passing through the skin. The heavy metals you speak of, as inorganic ions, aren't particularly well-absorbed (IMO)...however, organic molecules containing lead and mercury are EXTREMELY well-absorbed through the stratum corneum and EXTREMELY toxic. Again, this is because of the lipophilicity of the organic compound and thus it's ability to basically pass right through the cell membranes. 
+
+
+
+
+ Well, in the simple sense, if your ic50 values are within the confidence intervals of the ic50 values reported  elsewhere, then it seems you could attest that your values are not significantly different from the original values. I can't think of a statistically legitimate way to make the comparison between 2 separate groups without at least knowing the variance within one of the groups. Then you can see if your value fits within that variance.  
+
+
+
+
+ Comparisons without replicates is not really the best idea, IMO.  But when I do this (for EC50, but essentially the same thing), I always use -log(EC50). You can't really average EC50 or IC50 as they are, since on a logarithmic scale...let alone calculate reliable SEM. It's explained well [here] (http://www.graphpad.com/guides/prism/6/curve-fitting/index.htm?reg_why_prism_fits_the_logec50_rat.htm). 
+
+
+
+
+ Something else...the "effects" of which you speak are either due to TRPV1-expressing sensory nerves near your rectum, or due to inflammation in response to large, local release of neurotransmitters due to nerve activation. Interestingly, from a pharmacological perspective, menthol and capsaicin are really doing the exact same thing: opening an ion channel that is depolarizing a sensory nerve. The fact that we perceive it as cold vs. hot is merely coincidental...so, sadly, no balance. Might actually feel WORSE, given the circumstances. :) 
+
+
+
+

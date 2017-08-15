@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+ how do I export skeletal animation with cry blend with the latest release of cry blend? 
+
+
+
+
+ I don't have photoshop though 
+
+
+
+
+ 
+
+Every time I bring in a texture in as a .tiff or .psd, nothing shows up. It's just a "Replace Me" cube. What do I do?
+Please don't point me to the manual, as I have already read it. The cryblend manual dosnt work either.
+Tell me please, what are the steps to add textures to my blender exported model. Maybe I'm not doing it right.
+ 
+
+
+
+
+ Maybe I should try sending a 16 bit file rather than the standard 8 bit ptex file. I just don't know! 
+
+
+
+
+   The ptex texture appears blurry and transparent. What might I do? 
+
+
+
+
+  When I go to shaded view mode, all I see is a crystal clear gray texture. Send to maya didn't work. P.S. I'm using mudbox to maya. 
+
+
+
+
+ I'm wondering. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ K thx 
+
+
+
+
+ Just need to know. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Has anyone ever tried this? My pooch is a border collie, so she's pretty smart. But I'm not sure if I'll be able to get her to stay still to take that many pictures of her. 
+
+
+
+
+   Basically, I divided my mesh into multiple sections using the p seperate command. Then, when I was done unwrapping, I used the mirror modifier to make my mesh whole. However, when I want to add texture, I have to add materials to each seperate section of the mesh. If I join all the objects together, it makes a huge mess. What do I do? 
+
+
+
+
+ You got me! April fools to this faggot sub! 
+
+
+
+
+ Simply realistic looking terrain. 
+
+
+
+
+ Other than massive data sizes and textures being loaded procedurally like in Rage, I don't see anything too bad. 
+
+
+
+
+ Terrain in unreal engine looks just so bad! Think of the game Rage. If you let it sit for a while, it would look amazing. With unreal engine, if we can preload the textures so we don't have the same problems as rage, we could create an amazing looking game. 
+
+
+
+
+   Okay. So, what we do is we create one big ass map in a 3d modeling program and compose a texture atlas. We export that as an fbx and bring it into unreal engine. Using gimp or photoshop, we create an even bigger ass image texture. Finally, we unwrap that kush and bam, a realistic map. I think this would do great with terrain, as Unreal Engine isn't good with rendering dirt or sand.
+The only flaws I see with my idea is:
+A: How do we get the image to unwrap in specific areas?
+B: How big of an image would we need? 
+
+
+
+
+ basically I have a warehouse, and I want to apply seperate materials to certain parts. I don't want to have to export dozens of files. What do I do? 
+
+
+
+
+   So I create a new pallet, then what? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh, well are there any 3d printing subs? 
+
+
+
+
+
+
+
+
+
+ Winning the race really 
+
+
+
+
+   Today was our track meet. It was but a fine day for running, as the weather was well suited for the track season. I was running the 300m hurdles. I was doing brilliant. I was in third place, and edging ever so close to passing the individual in second place. Suddenly, the unthinkable happens. I fall. I go from 3rd to last place. I fall in front of my family, my girlfriend, and 1000 people. 
+But this isn't the first time. It's been like this for ages. I just never meet my own expectations whether it be sports or school. I'm just done. I'm ready to go. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I was thinking of me in one of those green morph suits and holding her paws with the gun and then painting me out later in AE. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ For me, I usually recalculate area normals and remove modifiers.  
+
+
+
+
+ Dump em' 
+
+
+
+
+ The object 
+
+
+
+
+ So I can bake my rendered textures to the model and then export it? 
+
+
+
+
+
+
+
+
+
+ I specifically want to send a prerendered model to cryengine. I believe renderman can export .fbx and .objs? 
+
+
+
+
+
+
+
+
+
+ I mean, you guys are r/disney. Y'all should have some experience with animation. 
+
+
+
+
+
+
+
+
+

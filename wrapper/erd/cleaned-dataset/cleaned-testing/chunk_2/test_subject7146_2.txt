@@ -1,0 +1,466 @@
+ Here, take a look at [this good rooting q a](http://www.androidcentral.com/rooting-it-me-some-qa). 
+
+
+
+
+ I have the defender for my X2, and it's a freaking beast. It's big and bulky, but I can't imagine anything else that could protect my phone as well. If you have genuine concerns for your phone in a work environment, this will allay them.  
+
+
+
+
+ Yeah, there might be better rss readers out there, but the few I've tried so far all have some major limitation, and currents works fine for me. This is one of the very few categories of apps where I really haven't bothered to explore alternatives. Guess I have time to browse the market now, though...  
+
+
+
+
+ ...you see reddit as lawful good? It's a screwed up system where quality and genuinely interesting is buried by, well, stuff like this.  
+
+
+
+
+ Well, according to my favorites list, I use Tapatalk, Google TV Remote, and Currents the most.
+
+But it feels like I should say ROM Toolbox, Root Explorer, and MyBackup Pro. 
+
+
+
+
+ That's almost the only reason I always root my phones, so I can flash new and different ROMs. It's true, you can do a whole lot of customizing without root, but I've found it to be just plain fun, not to mention it *does* increase your options for apps and the such. 
+
+That being said, when I got my last phone, I waited until I was certain that if I rooted I would be able to get back to stock. If something were to happen to it, I would want to get it back to original condition for the sake of insurance. 
+
+
+
+
+ Oh. Or that. 
+
+
+
+
+ Well, I would assume that it's smart enough to realize that home is the location where the phone spends the night. And even if it wasn't, I would also assume that you can adjust things manually. 
+
+
+
+
+ Yeah, it's good at what it does, but it's not going to save you much from where you're already at.
+
+However, I've always loved the location part of JD. It used to turn on my WiFi when I pulled up to the house, and turn it off when I left. The same with other common hotspots I frequented. 
+
+
+
+
+ Well, usually flashing a ROM will, or some adb stuff even (though you need to find out exact commands and whatnot, probably from xda). If you're trying to delete various types of data, there are usually apps in the play store that will delete different stuff on your phone.
+
+But a factory reset simply wipes out user apps, settings, etc. It doesn't wipe the phone back to factory new. All kinds of stuff get left on it. 
+
+
+
+
+ Well, since starting a sg costs nothing but a bit of time, someone start one up somewhere. Hell, I'll start it up if y'all want, but I know next to nothing about base building. 
+
+
+
+
+ Well, if you're running stock and haven't flashed or rooted or anything, and you're getting random reboots, then take it to your carrier. Should be their issue to deal with (assuming you keep your insurance up). 
+
+
+
+
+ Well, yeah, it mostly does. However you installed the app after the reset, so the reset can't have an effect on the app, see?
+
+If you just uninstalled and reinstalled to fix it, then it was just a bad download/install the first time around. 
+
+
+
+
+ Sooooo.... are you promoting this app that apparently the guy doesn't want you promoting? 
+
+
+
+
+ There are literally a ton of home launchers. If you're wanting to keep the ICS feel, go with Apex, Nova, or Holo. 
+
+
+
+
+ What sucks is that it still tops out at 20 pages, so I can't see past D. 
+
+
+
+
+ Go to www.cerberusapp.com, log in, click "Help" at the bottom, then click the "I have a rooted device. Can I get additional features?" part.
+
+edit: I'm glad you brought it up, I didn't realize I didn't have it enabled either. Do now. I had to go the .apk route, maybe because of dual sdcards. 
+
+
+
+
+ Install VLC, didn't help with media sharing issues. On my Revue I can still only see what WMP sees. 
+
+
+
+
+ Dude, nothing else worked. You got it right, thanks a million! 
+
+
+
+
+ I'll install and try VLC, but so far I can only see files over the network that WMP can see. 
+
+
+
+
+ File size : 693.63 MB
+
+DirectShow RenderFile check : 
+
+Matroska Splitter : Gabest's Matroska Splitter
+
+
+Installed : no 
+
+Can be created : no 
+
+Matroska Splitter : Haali's Matroska Splitter
+
+
+Installed : no 
+
+Can be created : no 
+
+RenderFile with DirectShow : Cannot play back the file. The format is not supported. (0x80040265)
+
+
+DirectShow detailed rendering : 
+
+0 MyRenderFile : C:\Users\Scott\Videos\Victorious\46 Crazy Ponnie.mkv
+
+0 Creation of GraphBuilder : OK
+
+0 Creation of FilterMapper2 : OK
+
+15 Adding graph to ROT : OK
+
+15 Creation of source filter : OK
+
+15 # Rendering output pin C:\Users\Scott\Videos\Victorious\46 Crazy Ponnie.mkv(Output)
+
+15 Filters matching mediatype : LAV Splitter, AVI Splitter, AC3 Parser Filter, MPEG-2 Demultiplexer, WavPack 
+Audio Splitter, RealMedia Splitter, MPEG-I Stream Splitter
+
+15 Trying connection to LAV Splitter :
+
+234 Failed connecting pin to LAV Splitter, removing it now.
+
+234 Trying connection to AVI Splitter :
+
+234 Failed connecting pin to AVI Splitter, removing it now.
+
+234 Trying connection to AC3 Parser Filter :
+
+234 Failed connecting pin to AC3 Parser Filter, removing it now.
+
+234 Trying connection to MPEG-2 Demultiplexer :
+
+234 Failed connecting pin to MPEG-2 Demultiplexer, removing it now.
+
+234 Trying connection to WavPack Audio Splitter :
+
+234 Failed connecting pin to WavPack Audio Splitter, removing it now.
+
+234 Trying connection to RealMedia Splitter :
+
+234 Failed connecting pin to RealMedia Splitter, removing it now.
+
+234 Trying connection to MPEG-I Stream Splitter :
+
+249 Failed connecting pin to MPEG-I Stream Splitter, removing it now.
+
+249 MyRenderFile finished : There is no common media type between these pins. (0x80040207)
+
+
+This is what MatroskaDiag tells me. 
+
+
+
+
+ Tried it. How do I find out what the actual video codec is?
+ 
+
+
+
+
+ After codec/pack after codec/pack (mostly from download.com) failing to play .mkv files, I finally found one [from cccp project](http://www.cccp-project.net/) that will at least let me see the files with WMP 11 (32 bit Vista), but they still won't play. They all show as having a length of 0 seconds. I know the files are fine, they play great in the KMPlayer, but I need WMP to be able to play them in order for my Revue to see them over the network. I've been Googling, installing, unistalling, etc. for 3 hours. I'm officially disgusted. 
+
+
+
+
+ Not that I can notice. 
+
+
+
+
+ Always hit the menu key when you're looking for something, even if it doesn't seem like it would do anything where you are.
+
+For instance, when you're in the WiFi settings, you can hit menu again for more options. This is where I always go after a flash to keep WiFi on even when asleep. 
+
+
+
+
+ [Doesn't look like it.](http://forum.xda-developers.com/showthread.php?t=791227) 
+
+
+
+
+ The only issue I have with Beautiful Widgets is there's not full screen widget, otherwise I'd be all over it.
+
+I'd use Chrome, but the X2 CM9 won't support it. :(
+
+Podkicker looks ok.
+
+The official Wiki keeps chopping off the right side of charts on my phones. 
+
+
+
+
+ lol 
+
+
+
+
+ Fast for Facebook over the Facebook app.
+
+Chromemarks + stock browser over all other browsers.
+
+HD Widgets over Beautiful Widgets.
+
+MyBackup Pro over titanium Backup.
+
+Pocket Casts over other podcast apps.
+
+Wikidroid over the others.
+
+TweetCaster over Twitter.
+
+News360 is my preferred news aggregator.
+ 
+
+
+
+
+ Well, make sure your family members have your work phone for emergencies, and turn your phone off. Check it on breaks. People survived before cell phones, you know. 
+
+
+
+
+ Not mine. 
+
+
+
+
+ I am a beautiful person. (Just installed it the other day, so it's basically the default.)
+
+And I turn that option off, I'd rather hit the words at the top than have it auto-correcting what it wants me to say. 
+
+
+
+
+ That is a good idea, for Android and PC both. 
+
+
+
+
+ That's what I'll do from time to time. but I never stick with the same look more than a week or two. 
+
+
+
+
+ xda can be another good friend. 
+
+
+
+
+ I hope you're not considering CM7. Back stepping there (well, diagonally maybe). [Look through xda](http://forum.xda-developers.com/search.php?searchid=35505095) and see what they have to say about it. Bet there are a ton of comments already. 
+
+
+
+
+ Honestly, that would be annoying enough to me to simply abandon the widget for another from the play store. I am absolutely positive that you can find another you would find more appealing. 
+
+
+
+
+ 
+Actually, I would probably just split my time going through the basics of operations, through the options on the phone, and through some of the play store apps. 
+
+
+
+
+ Doesn't mean it doesn't work. :) 
+
+
+
+
+ Noted and fixed. You're right of course. 
+
+
+
+
+ lol Thus the list. *With links.* :) 
+
+
+
+
+ Well, besides word of mouth around the forums, I've had a couple Verizon techs tell me this. While it doesn't necessarily mean it's true, it makes it kinda hard to discount. 
+
+
+
+
+ ...why would this reply get downvoted? If you don't believe me, go talk to Verizon or another anal provider. 
+
+
+
+
+ shrug Like where? I wouldn't be against it, but I wouldn't know where to do it. 
+
+
+
+
+ ...Jonny's used to hard ships? 
+
+
+
+
+ I know this is an old thread, but I just wanted to be sure someone turned you onto [Paragon wiki](http://wiki.cohtitan.com/wiki/Category:Contacts).
+Before you accept new contacts when you have a choice, you can look them up and check out their story arcs, rewards, etc. 
+
+
+
+
+ ...there's a sentence I never thought I'd stumble upon... 
+
+
+
+
+ SD Speed Increase is always good thing on a fast card. 
+
+
+
+
+ Well, it depends on the device. My little Ascend is unbrickable, but my Strat can be bricked if you're not careful. I thought I had bricked my Droid X2, but after a couple hours of trying to boot into various modes and dozens of battery pulls I got it back. The fact is you *do* need to be careful and certain of what you're doing on various devices. 
+
+
+
+
+ Yeah, I threw it on when iammolotov mentioned it wasn't there. Big oversight on my part there.
+
+edit: OH! Durr, I was bouncing around then so much I lost track of where I was. 
+
+
+
+
+ I actually thought about doing something like that, but my tastes definitely go against the grain.
+
+I can tell you GO Launcher is pretty much the king of GB, but quite a few folks love ADWLauncher EX, Launcher Pro, and Zeam, and Nova and Apex launchers rule ICS. The bulk of the rest of them are pretty much the same, with different options within each that tailor to different peoples needs. In launchers, I put a little list at the top of launchers that are really different from the rest.
+
+With browsers, there are a lot of good ones. Opera is probably the favorite, with lots of Dolphin users. Chrome is really popular on ICS.
+
+As far as app stores go, Play Market is the only one, outside of providers' own apps, that won't break your TOS. Amazon has a lot of followers, mostly due to the free app of the day. GetJar was getting really popular until they dropped their free Gold apps. SlideME and soc.io mall have a few followers, too. 
+
+
+
+
+ Just remember, read, read, read first. Make sure of what you're doing. If you brick your phone (I don't know how easy yours does) you're 100% out of luck (unless you get creative with your insurance...) 
+
+
+
+
+ Insurance? Eh, I don't know.
+
+But to learn to root, [check out what xda has for your phone.](http://forum.xda-developers.com/showthread.php?t=1603905) 
+
+
+
+
+ Yeah, same with me. I've been using Beautiful Widgets and Recast for my clock and weather, but just switched back over yesterday to HDWidgets. 
+
+
+
+
+ You mean WiFi, don't you? If you're not wanting to use something like Skype, you can use a VoIP app like GrooVe IP. 
+
+
+
+
+ By the way, did you go to the Play Store and simply put in "theft"? 
+
+
+
+
+ Well, for one it will void your Terms of Service, so you can't turn it in if there are any issues unless you flash it back to stock. But the amount of things you can do and apps you can use is greatly increased. 
+
+Myself, I use Cerberus also. 
+
+
+
+
+ Pretty much any VoIP app will. My favorite is Groove IP because you don't need some 3rd party VoIP server. 
+
+
+
+
+ Ok, I put in the link for SlideScreen 2.0 beta that they released openly, since they're not supporting it anymore. 
+
+
+
+
+ Some of my must-have, un-rooted, Play Store apps are...
+
+Beautiful Widgets
+
+ChromeMarks
+
+Currents
+
+Fast for Facebook
+
+GasBuddy
+
+Gmail
+
+News360
+
+Pocket Casts
+
+QR Droid
+
+SoundHound
+
+Tapatalk
+
+Tweetcaster
+
+Wikidroid
+
+Wikitude
+
+Zedge
+
+I have a lot more that I always install, but those are some of the good-for-everyone apps I keep.
+ 
+
+
+
+
+ Right with you there. I really liked Claystone, and was unimpressed with TSF. Updates for both would be welcome. 
+
+
+
+
+ wtf... lol Glancing over it I'm seeing Crome as Chrome. Nice catch, thanks. Fixed.
+
+And I thought about putting in the rating, but once the list got large I put in the Android version required, and that took a long freaking time. So I put off the notion of adding ratings due to time and/or laziness. 
+
+
+
+

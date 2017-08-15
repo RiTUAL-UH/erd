@@ -1,0 +1,6715 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A thought experiment: put aside partisan rejection of the global scientific consensus and assume, just for grins, that the thousands of scientists who've studied this matter for almost two centuries are right: we are cooking the climate and we must quit fossil fuels within 30-40 years, or risk costs so catastrophic that no responsible person would tolerate dumping them on their children. Also assume that the leading economists studying this are correct in calculating that switching from fossil fuels to other energy sources will cost relatively little--about 1% or so of global GDP--so there is no question that the benefits far outweigh the costs.
+
+How, as a conservative, would you then recommend we accomplish this fast transition off of fossil fuels? Carbon taxes? Carbon caps? Martial law? Make the Chinese pay for it all? What? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Now that a [fossil free index exists](http://fossilfreeindexes.com/fossil-free-indexes-us/) and is outperforming the broader S P 500 over long time scales, why aren't the major fund houses offering such an index? Does anyone know of one?
+
+This is actually one of the reasons I buy individual stocks: to cut out fossil fuels, given that all of the world's national scientific academies now agree that the burning them must soon end to avoid gigantic global economic and environmental risks, meaning that these companies stand to lose trillions in assets. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ When we stop *burning* fossil fuels, they'll be even cheaper and more available for other uses like medicines and plastics. 
+
+
+
+
+ Article's content is about what happens if we *don't* stop using fossil fuels. And that's very scary indeed. 
+
+
+
+
+ I invite anyone who thinks this is *not* a good idea to attend any trade show for investment professionals, and explore deals with some of the exhibitors. If, after that, you still think brokers and financial advisors have your best interests at heart, I have shares in an unobtanium mine to sell you.  
+
+
+
+
+ The Interstate system's actual name is the Dwight D. Eisenhower National System of Interstate and Defense Highways, which says much about its original intent. It was a military road system from the outset, originally planned under General 'Blackjack' Pershing in 1922, and later built under Eisenhower. 
+http://en.wikipedia.org/wiki/Interstate_Highway_System 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Then there's [this guy](http://www.spokesman.com/stories/2015/feb/09/city-councilman-fagan-spreads-vaccine-conspiracy-s/). 
+
+Conspiracy theorists muttering and drooling on basement keyboards are one thing, but when they get elected to city councils and appointed to health boards, we have a problem. 
+
+
+
+
+ Simple: the positives of climate change are vastly outweighed by the negatives. That much we know. 
+
+What we don't know is precisely how potentially horrendous the negatives are, but we know they are pretty damned awful, and they are already beginning to cost us. Unless we act soon, even midrange scenarios over just the next century likely result in the deaths of millions, a serious hit to the global economy and food supply, and rising warfare.
+
+But don't take it from me. Read Hansen, Lynas, McKibben, Alley, Mann, Oreskes. Check out NASA Earth Observatory and Skepticalscience.com. Just beware of the fact that the fossil fuels industry is also secretly funding a bunch of crap science and misleading websites to confuse you. 
+
+
+
+
+ Earnings for young college grads have been [declining for 15 years now](http://www.businessweek.com/the_thread/economicsunbound/archives/2009/09/earnings_of_you.html), even as college costs continue to climb.
+
+For many, the only rationale for making that ruinous investment is that the alternative is [even worse.](http://www.decisionsonevidence.com/wp-content/uploads/2012/02/Annual-Earnings-and-Employment-of-Men-with-Only-a-High-School-Diploma.png) 
+
+
+
+
+  Meanwhile, nurses are millionares, welders buy their houses with cash, trim carpenters set their own pay, electricians charge more than lawyers, computer technicians make more than their management staff, and engineers have more job offers than they can shake a stick at.
+
+You do realize that nurses generally have bachelor's or master's degrees, right? Meanwhile, most welders make around [$36K](http://www1.salary.com/Welder-I-Salary.html). Senior-level carpenters pull in [$48K](http://swz.salary.com/SalaryWizard/Carpenter-III-Salary-Details.aspx) on average. Etc.
+
+The myth of boundless opportunities and princely pay for blue-collar work is a repeated trope these days, particularly on the political right, but it just isn't true. Sure, there are lucky exceptions, but they are far from the norm.
+
+Meanwhile, colleges and universities are hardly limited to cranking out sanskrit philosophy majors. A third of grads have associate degrees, usually in the kinds of hard skills you suggest, while the top fields for bachelor's degrees include business, nursing, education, criminal justice, engineering and accounting, none of which are exactly impractical.  
+
+
+
+
+  "Positions on climate change have become symbols of whose side you are on in a cultural conflict divorced from science."
+
+Thanks to very clever public relations efforts by the fossil fuels industry over the past three decades, which have focused on turning climate opinions into a political litmus test. And we fell right into it.
+
+In the US, this almost guarantees that no matter how much you know about the science, your opinions will be determined almost entirely by your age, gender, political tilt, religious affiliation, occupation, television preferences, and place of residence. 
+
+
+
+ 
+
+
+
+
+ But there is no wage growth for those with less education. 
+
+
+
+
+ Seattle is a beautiful, friendly city, and more affordable than any major city in California. Being divided by hills and water it's very much a city of neighborhoods, each with its own little shopping and nightlife district. A new light rail line runs south from downtown through some affordable but nice places like Columbia City. Elsewhere, the West Seattle Junction, North Ballard and Maple Leaf are also worth a look. Capitol Hill is the traditional gay district, and there are some lovely, fairly affordable neighborhoods to the east and south of its center at Broadway and Olive. The suburbs are generally wealthy to the east and west (across the waters), middle class up north and lower income to the south. 
+
+
+
+
+ Two things:
+
+ The fact that college grads still out-earn the less educated does not mean their earnings are rising; some of the delta is due to pay for the less educated falling. More and more of the "benefit" of a degree is to simply avoid slipping into that yawning pit of decline.
+
+ Gender skews the data. Because they started from farther behind, women have made much greater gains in both education and income than men have over recent decades. The [picture for educated men](http://krugman.blogs.nytimes.com/2015/02/22/rip-van-skillsgap/) isn't nearly so rosy. And, now that women have achieved parity with men in education, and near parity in income, we can expect their trend line to start resembling that of men.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Get outside! Nothing deadens mood like a dark room on a dark day, especially if it keeps you from exercise. Speaking from experience here.
+
+Go hiking with local clubs like the Mountaineers or Sierra Club. Some of the hikes are kid friendly. Check their websites for schedules. 
+
+Join new-mom groups like PEPS, or get into a preschool co-op and meet other moms and kids.
+
+Volunteer to do whatever outside activities you enjoy. Join in tree planting projects, trail work, clean-up projects. 
+
+There's always church, too. And you needn't be religious to be an important part of church groups. Unitarians welcome all. 
+
+
+
+
+ Avoid Centralia/Chehalis, which is a conservative town midway between Seattle and Portland. Also Longview and Mt. Vernon/Anacortes. And, surprisingly, Vancouver, WA, just across the Columbia from Portland, is a rather conservative enclave as well; it's where Portland-area conservatives move to dodge Oregon income tax.
+
+Generally the most gay-friendly places are along the I-5 corridor about 70 miles in either direction from Seattle. The Seattle and Portland metros are very gay friendly and prosperous, as are Olympia and Bellingham. The northwest end of Tacoma is prosperous and progressive. Mountain towns like Leavenworth and Ellensburg have their attractions. To the east, Spokane is relatively tolerant and lovely. As anywhere in the US, rural areas and small industrial towns tend to be conservative and less tolerant, and many are economically depressed. 
+
+
+
+
+ Most of the larger Cascade lakes would do: Lost, Olallie, Elk, Lava, Suttle, Diamond, Waldo, East, Paulina...and, if you haven't been to Crater Lake, that belongs at the top of the list. 
+
+For quiet, swimmable lakeside camping, I prefer the central Oregon lakes that don't allow fast powerboats. Boat regs vary by lake, so check online. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A good article with an unforgivably childish headline. Yet another act of self sabotage by The Guardian. 
+
+
+
+
+ It's not exactly news that the Republican Party opposes progressive taxation, nor that Krugman is partisan. But is he wrong about falling returns to education? 
+
+
+
+
+ Yes, but but how is that due to the ACA? Seems to me that the ACA was more a response to the contractor economy than its cause.
+
+As a consultant myself, I was thrilled to finally see affordable health insurance thanks to the ACA, but my industry's atomization into a million consultants and contractors predated the ACA by decades.  
+
+
+
+
+
+
+
+
+
+ How so? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fatburger isn't far from it. 
+
+
+
+
+
+
+
+
+
+ In addition, the long fall in corporate tax rates has disproportionately benefitted wealthy shareholders while shifting those tax burdens to everyone else. 
+
+
+
+
+ "First, they wanted my guns. Then my pickup truck. And now my steaks?"
+
+(Grab some popcorn. This should be exciting.) 
+
+
+
+
+ There is almost no free market competition in energy. Least of all in fossil fuels and nuclear. 
+
+
+
+
+ Just as the Islamic State focuses on teaching the Koran and the Hadith, the sayings of Mohammed! 
+
+
+
+
+
+
+
+
+
+ Meanwhile, both growing inequality and slowing productivity growth link directly to the growing share of economic activity consumed by the financial industry.
+
+http://www.economist.com/blogs/buttonwood/2015/02/finance-sector-and-growth 
+
+
+
+
+ "In America you'll get food to eat
+
+Won't have to run through the jungle
+
+And scuff up your feet
+
+You'll just sing about Jesus and drink wine all day
+
+It's great to be an American
+
+
+"Ain't no lions or tigers
+
+Ain't no mamba snake
+
+Just the sweet watermelon and the buckwheat cake
+
+Ev'rybody is as happy as a man can be
+
+Climb aboard, little wog
+
+Sail away with me" 
+
+
+
+
+ Correction: single-walled railcars are *part* of the reason that Bakken oil trains explode. The other part is that Bakken oil isn't [stabilized before transport](https://www.facebook.com/BombTrainBuckStopsWithNorthDakota) because the North Dakota oil rush has outpaced construction of stabilization facilities there, which would remove the oil's most volatile compounds, and because the oil industry just doesn't want to spend the money to make this explosive oil safe to ship. 
+
+
+
+
+ It's simple editing, really. Everything before 1865...out! The decades of native slaughter...out! The robber barons...out! The seizure of Hawaii...out! Vietnam and Iraq...out! Etcetera. 
+
+Which, by my count leaves us with 1913, 1933-45, and possibly 2014. Who can't make a book out of that? 
+
+
+
+
+ Two things: 
+
+ *Any* rise this century will be back-loaded, with lower rises in the near term and much higher ones in later years.
+
+ This is a high-end scenario. The researchers are simply saying that IPCC high-end forecasts are far too low. 
+
+
+
+
+ That is just so unfair.  
+
+
+
+
+ True. Kahneman's elephant and all that. However, it's not enough to simply say, "pay a little now or a lot later"; conservatives won't believe it.
+
+This is about getting people to recognize their own capacity for evil, and there's nothing easy about that. 
+
+
+
+
+ Conservative crowing about cheap flatscreen TVs aside, it's important to recognize that the material required to process data has shrunk to insignificance. Dematerialization is for real, and that's good news.
+
+What's not so good is that people use the cost savings on each product to simply amass more products. 
+
+
+
+
+ Cortical implants and synthetic biology, which may be entirely integrated. Very exciting.
+
+Not so thrilling: hundreds of millions of redundant, technologically downscaled workers who will be *very* pissed if society tries to cut them out--and they'll have the tools to commit incredible mayhem. 
+
+
+
+
+ Meh. Another libertarian attack on unions, and the only American unions left to attack are public employee unions.
+
+Lissen folks, pensions still account for most employee benefits in most of the world, developed or developing. Americans have simply given them up to fund the private health care racket, but we are very definitely anomalous. The fact that public employees haven't been rooked the way private employees have been is no reason to hate them. We need more pensions, not less. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A wild guess: this was probably unpaid or low-paid, produced on the cheap by the PR guy, Berman, to attract oil company clientele.  
+
+
+
+
+ Here's the Sourcewatch link: http://www.sourcewatch.org/index.php/Big_Green_Radicals 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ FDR also proposed a [100% tax on income above $25,000](http://flaglerlive.com/26685/gc-fdr-and-taxes/) per year (about $350,000 in today's dollars).   
+
+
+
+
+ When it comes to nuclear waste, NIMBY attitudes are *always* the order of the day. I agree with you, but I certainly don't expect Nevada's leading representatives to like it. This is basically a question of secure storage at Yucca to end the insecure, inexcusable mess at Hanford. 
+
+
+
+
+ And how does one sue a company that might have hired you but didn't because it automated the job or sent it to Vietnam? How does one sue a bank that bribed Congress to legalize reckless banking practices which then crashed the economy and cost you your job building houses, which then destroyed your marriage and your kids' college funds?
+
+I think the comparison with the 19th century stands, with some adjustments for modernity. National laws are now minor obstacles for companies whose operations span sixty nations. Unionization is no longer much of a threat. Automation provides abundant and rapidly growing opportunities to bypass even highly skilled and professional labor.  
+
+
+
+
+ Exactly. For many it's not only a cut: it's a chat, a personal interaction, a massage, some flattery, the sense that you're getting the talents of a certain pro. Pretty hard to replace that with software. 
+
+
+
+
+
+
+
+
+
+ It gets better. As cities become increasingly dedicated to automated transport, traffic lights and traffic jams vanish. Travel smoothes, enabling travelers to be more productive in transit.  
+
+
+
+
+ He had me right up to the last sentence...
+
+And I think this future will have to happen because the only other alternative is an aggressive transfer of wealth from the rich to the poor by force of law. I dont see that happening.
+
+ 
+
+
+
+
+ That was only slightly sarcastic. As large companies slash workforces and automation eliminates jobs, the opportunities left will be increasingly those that lend themselves to low-wage freelancing, personal services and esthetic expression, so... 
+
+
+
+
+ Some headlines you just can't make up. 
+
+
+
+
+ Think of it as the rise of Hairdressing Man. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Libertarian voters frequently vote Republican but rarely Democrat. Libertarian candidates usually pull votes from Republican candidates but rarely from Democrats. 
+
+Let's face it, libertarians are merely Republicans without Bibles. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Learn something about survey design and get back to us.  
+
+
+
+
+ Ignore them. They are children in a prison of their own making, screaming and throwing shit to spark a reaction.  
+
+
+
+
+ They're the terrorist equivalent of online trolls; if their last statement wasn't obnoxious enough they'll raise the stakes to see if *that* gets a reaction.
+
+My response follows accordingly: ignore the childish fucks. 
+
+
+
+
+ As someone who has worked on market segmentation for a state lottery, I can confirm. Essentially, lotteries prey on desperation, and the best lottery customers are about what you'd expect. 
+
+
+
+
+
+
+
+
+
+ Why all the downvotes for this?  
+
+
+
+
+ The current situation is weird only relative to the past 90 years, half of which were the most horribly weird period in world history. Pikkety and Saez say that we are simply returning to normal, and Schilling has been voicing a similar tone for the past three decades. I only wish I had followed his investing advice for more than a fraction of that time. 
+
+
+
+
+ Which is only barely higher than the share of global GDP going to fossil fuel subsidies.  
+
+
+
+
+ The only trouble with defined contribution plans is that those who need them the most use them the least. Left to their own devices, most people simply *do not save enough to retire.* Never have and never will. Meanwhile, we're still part of the same rich country and we still have obligations to keep one another from destitution, so the effect of reliance on defined contribution plans is to simply dump employer responsibilities onto lower income taxpayers through the most regressive Federal tax we have. 
+
+
+
+
+ Desal takes immense energy and money. 
+
+
+
+
+ We won't be unemployed. We'll all stay incredibly busy selling sex and pizza to one another! 
+
+
+
+
+
+
+
+
+
+ Being in California definitely helps. However, every market is different, and some have restrictive rules.  Best strategy is often to contact managers through their websites in the off season. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Like many environmental activists, Heinberg is a climate pessimist. Like many economists, Krugman is a climate optimist. It's been an [ongoing dialogue](http://www.economist.com/blogs/freeexchange/2011/02/climate_policy) for some time. 
+
+However, the studies that Krugman cites are merely two of several similar. Other researchers like Nordhaus and McKinsey Global Institute also agree that decarbonization is rather cheap (for now). There are three keys to this view: 1) Around 40% of the actions taken to mitigate climate (energy-efficient building codes, etc.) will save money; 2) Reduced fossil fuel burning produces other benefits (lower health costs, etc.) that also save money; 3) Continuing economic growth over time will reduce the relative burden of mitigation costs.
+
+I do take issue with Krugman's reluctance to endorse nuclear power, which is part of any sensible decarbonization scheme. Still, on the whole, decarbonization is very affordable. 
+
+
+
+
+ To me, the piece reads as a strong call to action to act on GHGs as we have on other pollutants, knowing that the costs of doing so, as before, are likely to be far less than conservative industrial interests claim. 
+
+
+
+
+ No reference to GHGs that I can see.  
+
+
+
+
+ Part of the cost--the low cost--is assistance to poor countries in their transition to clean energy. That would be the Green Climate Fund along with numerous deals like those that appear to have been proposed between the U.S. and India three weeks ago, in which India may have received some trade promised in return for agreeing to expand solar, probably using American panels. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.nytimes.com/2014/09/19/opinion/paul-krugman-could-fighting-global-warming-be-cheap-and-free.html?_r=0 
+
+
+
+
+ They're smuggling crude in all directions, selling it at half the going price. 
+
+
+
+
+  Would politicians really want to nuke other countries and face inevitable massive nuclear retaliation against their own country and people over something as petty as oil or bad weather?
+
+Climate problems lead to food problems which lead to war. Witness the effects of 2010's droughts and floods on global wheat prices, and the knock-on effects of those triggering the Arab Spring wars ever since.
+
+http://climatecrocks.com/2013/09/05/how-climate-change-primed-syria-for-war/ 
+
+
+
+
+  they are probably their own biggest customer for the oil.
+
+Not with all their refineries destroyed and their storage facilities under concerted attack.  
+
+
+
+
+ Sorry, didn't mean to attack you. I rephrased my post. 
+
+However, mere human laziness won't prevent solutions once the stakes are clear. This is cheap and easy to solve, and global agreements are enforceable as long as the planet's major economies work in concert, as they are beginning to do. Count me optimistic. 
+
+
+
+
+ If the oil is all burned, the world very likely incinerates in economic collapse and near-certain thermonuclear war. 
+
+If you want to kill yourself with tobacco, don't let me stop you. But no one has the right to kill me, my kids, my grandkids and destroy everything I hold dear due to some psychotic need to drive an oversized pickup to the office. 
+
+
+
+
+ I suspect the Pontiff is well aware of the Kochs. 
+
+
+
+
+ Jennifer Francis? She says much the same. The polar jets will continue to "lose their way" in steadily more dramatic fashion. It stands to reason that the subtropical jets will as well, although somewhat less so as their amplitude is milder. 
+
+
+
+
+ Well, spring has come a month early in the West, but you'd probably arrive just in time for another of our record wildfire seasons!  
+
+
+
+
+ We aren't talking about all pollution; only carbon pollution.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sure, the generation LBJ referred to was our grandparents, but now we are starting to see the catastrophic results of those alterations, we have done precious little about them, and we know that the US and Europe must lead any solutions.  
+
+
+
+
+
+
+
+
+
+ What does the supply of oil matter if most of it must be left in the ground? That is now the [agreed global scientific consensus](http://www.carbontracker.org/report/wasted-capital-and-stranded-assets/), and it changes *everything*. 
+
+
+
+
+ Poor headline. There's no *could* about it. The study finds that carbon emissions *do* dramatically increase the risk of U.S. megadroughts. 
+
+
+
+
+
+
+
+
+
+ Nice piece, and it's also fun to read Matthew Yglesias' criticizing Ezra Klein for criticizing *him*. 
+
+
+
+
+ "Killing the messenger." It's how conservatives most often deflect criticism; on climate, food safety, health care, wages, you name it. 
+
+
+
+
+ [Here](http://theenergycollective.com/eliashinckley/2181166/oil-prices-saudi-arabia-and-end-of-opec) is my favorite explanation of the recent price collapse: threatened with coming climate regulation, low-cost producers are liquidating their assets while they can, delaying competitive energy sources in the bargain. Along the way, they also accomplish the geopolitical goals of hobbling Iran's ability to build nukes and slapping Russia for its invasion of Ukraine. 
+
+In short, peak oil is now a rather irrelevant concept. We'll have to leave most fossil fuel reserves in the ground. The Gulf countries know this, and they are trying to unload oil before it loses most of its value. This will take decades, so expect low prices to continue. 
+
+
+
+
+  Corp taxes are mostly paid for by labor not capital.
+
+Got a cite?
+
+Yes, I'm well aware of ongoing discussion on the degree to which corp tax divides between labor and capital. However, putting aside the fact that nearly half of US corporate taxes are entirely *unpaid*,  the remainder probably fall most heavily on [shareholders](http://gatton.uky.edu/Faculty/hoytw/704/Harberger.pdf)--a trend increasing over time as production automates. Giving those shareholders a windfall with carbon tax offsets just means someone else has to make up the difference, and that someone else will be those who own the least stock, who also happen to be those with the lowest incomes. *Voila*, a massive shift of taxes from rich to poor. 
+
+That tax shift is especially egregious when compared to the other possibilities for making a carbon tax revenue-neutral: fee-and-dividend, offsets against regressive payroll taxes, etc.. 
+
+
+
+
+ No matter how many times they're [debunked](http://www.skepticalscience.com/OISM-Petition-Project.htm), lies just never die on the internet. 
+
+
+
+
+ Given that so many of these science-denying opinion leaders are directly funded by the fossil fuels industry, can we just go with "whores"? 
+
+
+
+
+  Going down the rabbit hole this seems to be the $409b number that originates with IEA for 2010
+
+Could be mistaken, but I believe this comes from IEA Energy Outlook 2014. IEA EO 2013 specified $547b.
+
+ Extreme weather events will rise in frequency in the future, they have not yet.
+
+Frequency, no. Severity, yes.
+
+ US imposes a $24/t tax on all production and import with 100% tax credit available against corp tax. 
+
+Nice way to shift the tax system in favor of the wealthy. Let's go with fee-and-dividend instead, rebating carbon tax revenues to all with Alaska-style dividend checks. 
+
+As for your proposed $24/t tax rate to cover the social cost of carbon, that's merely a starting point in a graduated scheme, correct? SCC is now credibly estimated by the US EPA at around $40/t and is nearly certain to rise. 
+
+
+
+
+ Did anyone happen to notice that the sample for this claim is a handful of California universities? News flash: Berkeley leans left, really left! 
+
+
+
+
+ In a cherry-picked sample of California universities. Shocking to hear that UC Berkeley and UC Santa Cruz have a liberal slant! I wonder where Humbolt State falls? 
+
+
+
+
+ Fair enough. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://www.cbsnews.com/news/tea-party-supporters-who-they-are-and-what-they-believe/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Movement conservatives are increasingly old, white, male and cranky. Why don't we call the Tea Party what it is: the "Get the Hell Off My Lawn Party"? 
+
+
+
+
+ Journalism is at its worthless laziest when falling back on false equivalency, airing "both points of view" on a non-debatable topic. Sure, it fills extra page space or airtime, and it allows media owners to escape taking a position, but it is the worst kind of chicken shit.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Forget water stocks and other commodity plays. Human ingenuity consistently finds ways around materials shortages of nearly any kind, and you definitely are not the first investor to read popular stories about future water shortages. 
+
+Instead, I invest in technologies and systems that will endure, making money now as well as in the future. Renewable energy is one of those industries, by the way; especially solar (read up on "Swan's Law"). Others include railroads, insurance, consumer staples, technology, health care, urban real estate and energy efficient buildings. 
+
+To a large degree, it's not a question of what you invest in as much as what you *don't*. For example, you'll do well with a broad basket of stocks that just avoids fossil fuels, so you could get into a sector ETF focused on something else like consumer stocks, healthcare stocks, insurance, tech, etc..
+
+But beware of fad sectors. Look for reasonable PEG ratios, good ROE, strong competitive moats, durable product lines and good management. That usually means larger companies.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well, Greenpeace, if you really care so much about solving the climate mess, why do you continue to oppose the nuclear power that can help us do it? 
+
+
+
+
+ What's with the giant hot spot in the middle of Russia? 
+
+
+
+
+ Don't expect it to happen overnight, but I think we'll learn to overcome more of our violent, selfish, simian nature over time--provided that we can cooperate to more fairly distribute the benefits of prosperity, and to avoid destroying the environment that makes that prosperity possible. Challenges, but feasible ones. 
+
+
+
+
+ It depends on two things: 1) how easily labor is displaced by technology, 2) who owns the technology systems and their output.
+
+This is the "elasticity of substitution" debate that is such a hot economic topic now. I'm not optimistic about labor's value in a world bent on replacing workers with machines, and I'm even less optimistic about owners of those machine systems sharing a penny of their profits with their fellow citizens. Instead, we're seeing a retreat of the rich behind various kinds of moats: guarded, elite residential buildings in a few wealthy cities like London, Tokyo, New York and Hong Kong; wealthy tax havens like Switzerland and Singapore; gated compounds and neighborhoods; remote, expensive resort towns, etc..
+ 
+
+
+
+
+ Around 20-25 percent the cost of a nuclear plant. 
+
+
+
+
+ Iraq has been in the grips of a three-way civil war for generations. Saddam represented just one of those three factions and brutally repressed the others. So, when we destroyed Saddam and dispossessed his Sunni Baath followers, we naturally heard some limited gratitude from their enemies. But that wasn't enough to prevent many Sunnis from continuing the war, linking up with Syrian Sunnis, creating ISIS, etc.. 
+
+To be clear, there was probably no way to prevent this escalation of chaos and fanaticism once we had invaded Iraq. Keeping Baathists employed and in some degree of power many have helped, but it is doubtful. The horrific regional drought was also a trigger that would have been hard to overcome. 
+
+
+
+
+ After being installed and cultivated by the US for decades, Saddam Hussein broke with the West in the late 1980s after he (and we) learned that the Reagan and Bush administrations had been secretly selling arms to Iran during his bloody war with that country. He then become the Middle East's worst bad boy, invading Kuwait, launching missile attacks against Israel and Saudi Arabia, brutally killing his own domestic enemies in an ongoing civil war, etc.. 
+
+After his defeat by the US and allies in the 1991 Gulf War, Saddam turned to spouting Islamic religious rhetoric and threats against Israel in a ploy to unite Iraq's warring Muslim factions behind him, which further alarmed the West. He also threatened to sell his country's oil only in Euros, undermining the US Dollar. And, to deter attacks from his neighbors, he also hinted that he manufactured chemical weapons and was building a nuke, which, although untrue, gave GW Bush a flimsy excuse to push the US into invading Iraq.  
+
+
+
+
+ By Paul O'Neill's very credible account, Bush was so intent on finding any pretense to invade Iraq *before* 9/11 that he and his neocon circle jumped at the chance afterwards, and barely gave a thought to the consequences. Once in, of course, they discovered that there was no easy exit. 
+
+
+
+
+ Too much, I agree, but don't forget that nearly all opposition to the Iraq invasion came from Dems.
+
+http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=107 session=2 vote=00237 
+
+
+
+
+ Either very stupid or very cynical.
+http://www.cnn.com/2004/ALLPOLITICS/01/10/oneill.bush/ 
+
+
+
+
+ Not to grab Iraqi oil; to ensure cheaper *global* oil prices.
+
+Look at the [2003 Brent crude price chart](http://classic.tradingcharts.com/historical/BC/2002/0/continuous.html). Can you spot the month when we invaded Iraq?  
+
+
+
+
+ You'll have to ask Tony Blair about specifics, but I do recall that British support was rather key.  
+
+
+
+
+ This was definitely my sentiment at the time but not that of many others. 
+
+
+
+
+ Cheap oil from SA, Kuwait, the UAE, Egypt, Qatar... 
+
+
+
+
+ Not "run by"; "protected by". Also "consumed by" (for example, the US Navy is the world's largest single oil guzzler). 
+
+
+
+
+ Not for Iraqi oil. For Saudi, UAE and Kuwaiti oil. For low WTI and Brent prices.  
+
+
+
+
+ Not where it matters, they didn't. 
+
+
+
+
+ I'm just not as sweet as I seem. 
+
+
+
+
+ Not a bit. 
+
+
+
+
+ Different world back then. The US fracking boom hadn't yet happened.  Also, the desire to protect ME oil wasn't predicated on the desire to ship it to the US so much as to our allies, to keep the global economy ticking. 
+
+
+
+
+ And then we had them sandwiched.  
+
+
+
+
+ Don't be that guy. 
+
+
+
+
+ Al Maliki? "The enemy of my enemy is my friend." There could be no other reason to support him.
+
+However, the litany of Bush botches in Iraq is endless, so who knows? 
+
+
+
+
+ Well, it cost several hundred thousand lives and at least $2 trillion, and it spawned ISIS. How did all that benefit us again? 
+
+
+
+
+ Yeah, but the US at the time was in the act of retaliating against actual Al Qaeda and Taliban strongholds in Afghanistan, where bin Laden and company were hiding out in Tora Bora. We broke off that attack in order to invade Iraq, which Bush well knew had nothing to do with 9/11. 
+
+
+
+
+ Iraq was in a state of civil war kept in check by a dictator. Saddam did not gas his own Sunni people; he gassed Kurds and Shia.  
+
+
+
+
+ Indeed it did, although not through our mere presence so much as through our unforgivable blunders with de-Baathification, etc.. 
+
+
+
+
+ I'll look up a vid. 
+
+
+
+
+ I doubt that the intention was to grab Iraqi oil. Most accounts of the conversation, such as O'Neill's, indicate that plans called for Iraqi oil primarily to pay for reconstruction. However, the greater oil objective was to eliminate the threat that Saddam posed to the oil business across the region, as well as to Israel. 
+
+
+
+
+ So did some Shias. But that was a far cry from any kind of general welcome, no?  
+
+
+
+
+ Well, thanks...I think. Your reference piqued my curiosity enough to drive me to read one of his articles, and he seems interesting. However, I'm definitely not overly concerned with Marx and Hegel, as he seems to be. 
+
+
+
+
+ The US and NATO have Russia surrounded as it is, including air bases, naval bases and missiles much closer to Russian borders than Iraq is. Pressuring Russian client Syria may have contributed to the Iraq decision, but I doubt that anyone was trying to piss off Russia itself. Just my inexpert quick take, however. 
+
+
+
+
+ The Middle East oil patch has been politically unstable since its discovery. The 1990s saw widespread warfare there. 
+
+
+
+
+ Just summarizing the article, with only a little editorializing. 
+
+
+
+
+ Maybe, although one cannot dismiss deeper, oily motives. 
+
+
+
+
+ Nope. Presbyterian. 
+
+
+
+
+ I couldn't agree more. I merely pointed out what some *expected* to happen. Needless to say, they were blind to some key realities.  
+
+
+
+
+ Depends on the cutoff date you choose, as well. If you mean just during and immediately after the invasion, 100,000-200,000. If you include the 12 years of bloody, escalating chaos that the US invasion unleashed, many, many more and still counting. ISIS is a direct result.  
+
+
+
+
+
+
+
+
+
+ "Why would we want to reassure Saudi Arabia?!"
+
+I dunno. Maybe a well-equipped, belligerent rogue nation spanning most of their northern border, just a few hours' drive from Ghawar and Riyadh? A rogue nation that had already demonstrated its ambitions by seizing Kuwait and spraying missiles all over the region, including more than a few at SA itself?
+
+"Iran wasn't the target, it was Saudi Arabia." 
+
+Tell that to the American and British conservatives who crowed during the Iraq invasion, ["Boys go to Baghdad but real men go to Tehran"](http://www.newyorker.com/magazine/2003/04/21/war-without-end).
+
+"you've defined the situation without truly knowing all the facts...you can't fundamentally know what's really going on."
+
+Enlighten me, then. Share your insights rather than just claiming to know secrets. 
+
+
+
+
+ Let's just complete that headline:
+
+"The biggest threat to Americas future is  American conservatives bent on wrecking the Federal government and fracturing Americans into angry tribes, while ignoring all foreigners unless they sell us cheap oil."
+ 
+
+
+
+
+ This article asks exactly that real-adult question. 
+
+
+
+
+ Stabilize the Persian Gulf oil industry and political landscape, reassuring the Saudis, Israelis, Emirates and so on, while creating a staging area for military pressure on Iran. Behind it all, an overarching desire to consolidate Anglo-American control, ensuring the continued flow of Middle Eastern oil and deeper military partnerships with key allies there. Basically, a greedfest for an American-run military-petroleum complex.
+
+Much also has to do with the American conservative hard-on for World War Two, which led to the ignorant delusion that Iraqis would "greet us as liberators", and that the occupation would go as smoothly as in postwar Japan and Germany.  
+
+
+
+
+  the person with the highest production values in their commercials and campaign will probably get the disinterested voters.
+
+They already do, don't they? 
+
+
+
+
+ [Half of Americans](http://abcnews.go.com/Technology/story?id=119358) do not have computers or broadband. That share is far higher among black and Hispanic households, as well as in poor states and counties, on Indian reservations, etc.. What about them? 
+
+
+
+
+ Sometimes apathy, but often just very busy, hardworking people who forget to take time to vote before or after work, and who can't get paid time to do it. It's no surprise that 70-somethings vote three times as often as the young; younger adults are juggling school, work, childcare, military service, moving for jobs, and much else. So we have a government of the old, by the old, and for the old. 
+
+
+
+
+ Let me know when you repeal gravity, and I'll move there for the flying cars. 
+
+
+
+
+ Maybe *you* thought the idea behind basic income is to destroy the rest of the social safety net, but I call that a right-wing fantasy--just like the notion that we can have a functioning society in which all the rewards go to the rich. 
+
+
+
+
+ Not if you think the purpose of basic income is to reverse rising inequality and to reduce the need for a police state. 
+
+
+
+
+ Almost. To be durable, a UBI must indeed be *in addition to* basic human services such as education, healthcare and childcare. However,  the myth that all of the poor will blow every other spare dime on hookers, heroin and horse racing just doesn't bear out. 
+
+Meanwhile, the alternative is inequality rising to intolerable extremes, with a massive police state growing in tandem. 
+
+
+
+
+ Most of these systems are mounted in police cars, and static cameras are already becoming too ubiquitous to avoid. Next it'll be drones recording vehicle locations. Meanwhile, the vehicles themselves are becoming rife with location-revealing gadgets.
+
+All your credit purchases already locate you as well. So do the RFID chips on the products you buy with credit cards. Then there's facial recognition software, which will soon tie into surveillance cameras in every store, every parking lot, every public square, every ATM. And so on.
+
+By the time self-driving cars become cheap and practical, their records of your location will be the least of your privacy worries. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tort reform = Eliminating the right of patients to sue for careless treatment. [Like these poor bastards.](http://listverse.com/2013/05/29/10-horrible-cases-of-medical-malpractice/)
+
+ 
+
+
+
+
+ And Oregon is a vote-by-mail state as well. This couldn't possibly have anything to do with Oregon having some of the [country's highest voter turnout](http://www.csmonitor.com/USA/Elections/2012/1106/Voter-turnout-the-6-states-that-rank-highest-and-why/Oregon), could it? 
+
+
+
+
+ Not necessary if you vote by mail, as every voter in my state does. 
+
+
+
+
+ This. Every US city has flat corridors that should include dedicated bike infrastructure, but generally don't.  
+
+
+
+
+  Washington benefitted a lot from attracting higher middle class people
+
+Cite? I would argue that Washington income averages are skewed by its incredibly wealthy elite and relatively small population. The state also has a fortunate mix of hot companies in tech, biotech, aerospace, healthcare and consumer services, as well as the largest export economic share in the country.
+
+Still, poverty rates have risen over time and inequality is extreme. Once you get beyond the glow of Seattle, there's a lot of life on the skids. 
+
+
+
+
+ Is there really any difference between economics and politics? Nothing is more political than the distribution of money. 
+
+
+
+
+ The WA B O tax rate for service businesses is quite high at .015%, and these are the businesses that employ the most minimum wage workers. 
+
+
+
+
+ Unfortunately not. Human drivers will disrupt and endanger an otherwise smoothly coordinated traffic system. The idea is to do away with traffic lights, traffic jams and even traffic laws. 
+
+
+
+
+ Countless ways. Here's [just one small example.](http://www.motorolasolutions.com/en_us/products/software-applications/public-sector-applications/automatic-license-plate-recognition.html) 
+
+
+
+
+ How true. The trouble with dedicating oneself to constantly repeating a big lie is that, at a certain point, one can never reverse course. 
+
+These days I think of the Republican Party as a philandering husband caught in bed with his wife's best friend, endlessly saying, "what woman? I see no woman here...". 
+
+
+
+
+ 5 feet is a beautiful standard, if only for the fact that it's so much easier to publicize and enforce than the widely ignored 3-foot laws in some states. Most drivers probably won't yield the full five feet, but they'll yield *something*. 
+
+
+
+
+ Think of where tech will be, not where it is. Dealing with unmapped roads won't pose a problem for long. Meanwhile, the privacy of one's movements is already nearly gone, for a number of reasons beyond your phone, and such privacy will soon be even rarer.  
+
+
+
+
+ How would automated cars take away your freedom to go where you want? And records of your movements are already kept.  
+
+
+
+
+ This is why the fossil fuel industry gives [90% of its campaign money to Republicans](http://grist.org/politics/heres-why-the-gop-just-loves-fossil-fuels/). They're for sale. 
+
+
+
+
+ Out of sight, out of mind. 
+
+
+
+
+ Article is behind registration wall. 
+
+
+
+
+ Gut bank regulation and defund the Consumer Financial Protection Bureau? What could possibly go wrong? 
+
+
+
+
+ Tax-exempt bonds are supposed to be for state and local infrastructure and not private business."
+
+Bingo.  
+
+
+
+
+ Same here. Buddies and I rode to school most days, and early teen summers were dedicated to maximizing distance between our Schwinns and our parents. That just doesn't exist now. 
+
+
+
+
+ That and the 1970s energy crisis, both of which spurred the Dutch and Danes to prioritize cycling infrastructure along with wind energy and much else. [Here](http://www.triplepundit.com/2013/10/brief-history-cycling-denmark-netherlands/) is a good piece on it. 
+
+
+
+
+
+
+
+
+
+ That and the [other reasons](http://www.oregonlive.com/pacific-northwest-news/index.ssf/2011/10/newport_surfer_on_great_white.html). 
+
+
+
+
+ The author seems unaware of the fact that fossil fueled Republicans *want* ordinary people to feel pain from EPA regulations, to generate fiercer opposition to them. 
+
+
+
+
+ No 
+
+
+
+
+ Not being a sys admin, I can't comment on the skills you'd learn in a larger enterprise, but I will say that large corporate names bring prestige to almost any resume, in any business field. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Been there as well at minus tide. On acid. Which may be the only way to make the natural colors actually seem that vivid. 
+
+
+
+
+
+
+
+
+
+ Given their apparent phallic fixation, shouldn't they be going after the Washington Monument rather than the White House? 
+
+
+
+
+ Advertisers *do* pay you. They provide you with television networks, radio stations, magazines, newspapers, and an incredibly wide range of websites, games and apps--all for the small price of trying to lure you with appealing messages. That isn't such a bad exchange. 
+
+
+
+
+ 38 inches in Seattle, and almost none of it in the summer. Get ready to fork out millions for larger reservoirs.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Another attack on climate science from a paid oil industry minion.
+
+Get used to this. It won't be the fossil fuel industry's last attempt to defund NASA's climate work. 
+
+
+
+
+ It *is* global warming. The slowing, wobbling polar jet is being driven far north off the West Coast by a warm NE Pacific; the jet picks up cold Arctic air before lurching southward into New England. Result: the entire US West Coast has a record-warmest winter and ongoing drought even as Boston freezes.
+
+The world just had another record-warmest year. This won't be the last time we see wild swings like this. In fact, this may be a recurring pattern. 
+
+
+
+
+ A more likely possibility: Seattle has always been a boom/bust town, and property prices are currently booming, meaning that many restaurants are facing more costly lease renewals. 
+
+The minimum wage boost is still years away for the vast majority of them. This story is just a local magazine's way to spin controversy. 
+
+
+
+
+ Seattle Mag is a slick monthly, but I take your point. And the fact that very few of these restaurants will have to raise wages for years to come suggests that recent closures are for other reasons entirely--such as the fact that Seattle is positively crawling with restaurants. 
+
+
+
+
+ Solar's cost is primarily in panels, infrastructure and transmission; not in land. It's also relative to electricity cost, which is generally highest in most populated areas. So simply providing land for solar in pipeline country, like the middle of Oklahoma, North Dakota or Alberta, doesn't make it worth anyone's while to buy the panels or to pay for transmission to distant cities. 
+
+
+
+
+ "Thus, although CR do not contribute measurably to the 20th-century global warming trend, they do appear as a nontraditional forcing in the climate system on short interannual timescales". 
+
+
+
+
+ They actually hired Timothy McVeigh's defense attorney for this? The clueless haven't a clue. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Here is the link](https://petitions.whitehouse.gov) to the petition, for anyone who cares to sign. There are 271,450 signatures at this writing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Based on all the downvotes, it looks as if the anti-science brigade is in full lurk. 
+
+
+
+
+ First, the recent oil price crash may not be a slump so much as the beginning of a long liquidation. The sheiks are not revealing their motives, but they know that oil will be outlawed as a fuel within a few decades.
+
+Second, the primary beneficiaries of a price uptick would be the nationalized companies that comprise 80% of the oil industry, and which have the world's lowest production costs. 
+
+
+
+
+
+
+
+
+
+ The study seems to clearly show that the rate of change is not constant at all; it is accelerating. 
+
+
+
+
+ Joining Citizen's Climate Lobby is a good place to start. They're one of the most focused and effective groups, and they're dedicated to passing a fee-and-dividend carbon tax. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Your posts here just explained why solutions to this must be broad and systemic. Leaving the matter up to individuals who are locked into high-polluting life investments simply doesn't work; we need to help one another move to something better. 
+
+
+
+
+ It's never too late to stop making the problem worse. 
+
+
+
+
+ It's a press release. There is no such language in the actual abstract: http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2552.html 
+
+
+
+
+ One could also call it The Confederate States of America. 
+
+
+
+
+ All that, *and* lower earners pay [far more](http://www.ibtimes.com/poor-families-pay-double-state-local-tax-rate-rich-study-1782956) of their income in state and local taxes as well. 
+
+
+
+
+ Technicalities. I'm among the Chosen, so I get a free pass! Mom always said I was special.
+
+ 
+
+
+
+
+ We don't need the GOP? You mean the party that controls Congress, the Supreme Court, 31 governorships and 29 state legislatures?
+
+Yes, we need Republicans. 
+
+
+
+
+
+
+
+
+
+ Says the left-leaning Guardian. They're right, but I still chuckle at the irony. 
+
+
+
+
+
+
+
+
+
+ Pensions can be portable.  
+
+
+
+
+ Mine, too. However, neither of us sound like the throng of low-paid, nonunion blue-collar workers in my area whose life savings couldn't buy a new Kia.   
+
+
+
+
+ For those hyperventilating over the headline hype, it's helpful to know that this comes from The Stranger, Seattle's edgier alt weekly, and this is their typical tone. However, the message is a good one: a port commission that claims environmental leadership, yet is dropping trou for Arctic drillers, needs to be held to account. 
+
+
+
+
+ Social Security and Medicare predated the loss of American pensions, while IRAs and 401(k)s were only intended to supplement traditional pensions, not to replace them. As replacements, they have been miserable failures, as this article and many others point out. 
+
+
+
+
+
+
+
+
+
+ A very weak one, so far. 
+
+
+
+
+ The fossil fuels industry and its business allies are behind most organized climate science denial, and they don't hate anyone. For these coldly calculating bastards, business is business, Mann is in the way, and riling up the peasants against him is simply an effective tactic.  
+
+
+
+
+ The Republican Party sells out to the oil industry once again. 
+
+
+
+
+ Yet pensions created and sustained a middle class, and they still do in the rest of the developed world, loosely speaking. Americans alone have abandoned them, largely to fund incredibly costly health insurance instead, yet we have replaced pensions with...nothing. 
+
+
+
+
+ More evidence that voluntary savings will never provide enough for retirement. Hell, [half of American workers have saved nothing](http://www.providencejournal.com/news/economy/20141122-how-will-you-retire-half-of-us-have-nothing-saved-and-many-others-far-too-little-interactive.ece). They think they'll just keep working until they drop, as if any employer wants a creaky octogenarian tottering around. In many industries it's now nearly impossible to find a job after age 45, let alone in one's failing twilight years. Even Walmart employs few of its ancient greeters any more.
+
+This is why the vast majority of employee benefits *outside* the United States are *pensions*, and, in rich countries, those are generally in addition to public safety nets more generous than those in the US. Let's face it: the American abandonment of pensions, with nothing sensible to replace them, has become an unmitigated disaster. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yes, but there is no shortage of plans for what to do with carbon taxes, yet this author doesn't mention a word about them, nor about the fact that absolute carbon pollution caps will ultimately be needed as well. It all seemed very short on saying anything other than, "l'm a conservative concerned about climate!". 
+
+
+
+
+ From the article: But I think weve tried to explain that the connection from an extraordinary climate event to conflict is complex and certainly involves other factors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A very vague piece, as expected. Would be nice to know why minimizing the tax burden is such an important goal, and exactly whose tax burden would be minimized.  
+
+
+
+
+ Tough. Fossil fueled whores have been harassing dozens of legitimate climatologists for decades, issuing hundreds of FOIA demands and dozens of lawsuits, attacking the word's best researchers in every way possible in order to delay evidence of the obvious--delays which will cost humanity millions of lives and trillions of dollars. Now they're whining? Well, fuck them very much. 
+
+
+
+
+ Where did you get the idea that civilization will be gone in fifty years?
+
+Yes, climate change is a severe threat, but few serious scientists forecast anything as dire as what you believe. It's a very long-tail probability.  
+
+
+
+
+ Wherever the aims of capitalism and religion meet, watch out.  
+
+
+
+
+ First, they think the American public is more conservative than it is.
+
+Second, as true believers, they are blindly focused on destroying government.
+
+Third, they know that the young don't vote and the old vote Republican, and that the old are the fastest-growing demographic segment, so fuck everyone else.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This has been underway for many decades in the more desirable corporate marketing departments and their ad agencies, where many senior employees once literally started in the mailroom, with no more than high school educations, then worked their way up into great upper-middle class positions, with plenty of company-paid training and mentoring along the way. Now the path to those great jobs is through selective graduate schools that cater to the privileged.
+
+The result is a growing wall between less educated people and opportunity, with the scales tipping heavily towards those who can afford the high price of entry. 
+
+
+
+
+ Read skepticalscience.com. Especially the list of scientific responses to denier claims. 
+
+
+
+
+ The social cost of carbon is very likely much higher than $50/ton. It's been repeatedly revised upward, and the longer we dither the higher it goes. [This recent Stanford study](http://news.stanford.edu/news/2015/january/emissions-social-costs-011215.html) estimates the cost to be $220/ton.
+
+I know that economists generally prefer carbon taxes to caps, but it's a false choice. The intense need to completely quit carbon within our lifetime means that we will have both taxes and caps, on graduated scales over time, with taxes rising while caps clamp down from above.  
+
+
+
+
+ Good question. As far as I can tell, the answer appears to be: [we're arguing about it.](http://americablog.com/2014/06/climate-news-arctic-seafloor-methane-release-double-previous-estimates-matters.html) 
+
+
+
+
+ [Chicken is pretty low carbon.](http://www.washingtonpost.com/lifestyle/food/vegetarian-or-omnivore-the-environmental-implications-of-diet/2014/03/10/648fdbe8-a495-11e3-a5fa-55f0c77bf39c_story.html) About 7 lbs of carbon emissions per pound of food. In contrast, it takes 27 lbs of carbon pollution to produce a pound of beef. That's versus about 3 lbs for rice or potatoes.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Absolutely. However, those most able to change are those young enough to face lots of material life choices, who can easily decide to live in a city, in an efficient building close to work and transit, to invest in carbon-alternative stocks like solar and railroads, etc.. 
+ 
+
+
+
+
+ It's all about the oceans. If any temperature data would falsify the climate change consensus, it would be extensive evidence of prolonged cooling at all depths in the oceans, which we could only get from a huge network of deep sea thermometers that we don't have. However, we *do* now have a pretty good network of ARGO floats measuring temps in the upper half of the oceans, and they show definite long-term warming proceeding from the top down. 
+
+The PDO is only recently confirmed and remains poorly understood, but that appears to be the key to understanding long-interval warming cycles. 
+
+
+
+
+  "The reason a carbon tax is popular is because it is easy to implement (people can pollute as much as they want, they just have to pay the unit price)"
+
+That's why carbon taxation won't be enough. Sure, the dividend scheme solves the regressive nature of carbon taxes, but, ultimately, carbon pollution must end altogether within a few decades. Yes, fee-and-dividend taxation will be helpful and popular. However, in the end, the need here isn't to *reduce* fossil fuel burning but to *eliminate* it. 
+
+
+
+
+ "Cameron busts a budget"
+ 
+"Linklater was a kid" 
+
+"Keaton is morose again"
+
+"Nicholas Cage Will Work For Beer". 
+
+
+
+
+  I always felt that the religious right should be environmentalists
+
+Except for that "have dominion over the earth and subdue it" part.
+ 
+
+
+
+
+ You'll have to persuade your fellow conservatives first.
+
+http://abcnews.go.com/GMA/Politics/story?id=2344929 page=1#.Ua_7sEAWJr8 
+
+
+
+
+ The main benefit of this is that it solves the regressive nature of carbon taxation. 
+
+However, carbon taxes will never be enough because, ultimately, carbon pollution must stop altogether. That means a cap on it that declines over time until fossil fuel burning is outlawed entirely, probably around fifty years from now. Carbon taxes help, but they can't replace the need for that coming ban. 
+
+
+
+
+
+
+
+
+
+ Half measures. Fee-and-dividend is all well and good, but only if the fee is high enough to actually deter polluters, and that will be high indeed. 
+
+We need carbon caps as well. And, ultimately, before this century is out, our grandkids must ban any and all burning of fossil fuels worldwide. Those are the simple facts if we are to keep the Earth peaceful and prosperous. 
+
+
+
+
+ Merchants of Doubt, for sure. Also Desmogblog.com and Skepticalscience.com. 
+
+Of course, most of the public relations strategies used by the energy industry today were pioneered by PR firms working for the tobacco industry fifty years ago. [Here](http://www.sourcewatch.org/index.php/Tobacco_industry_public_relations_strategies) is a good page on that from Sourcewatch. And the tobacco companies adopted those tactics from the master propagandists of the 1930s, especially Joseph Goebbels. 
+
+ 
+
+
+
+
+ Why not blame the developers? They effectively run most county governments, which is why the codes are so weak in the first place. 
+
+As for buyers, they simply don't know what they're missing. Yet. 
+
+
+
+
+ Right after you check your bias towards ruinous carbon pollution. 
+
+By the way, I don't care if we kill carbon with solar, nuclear, wind or oyster farts, as long as we kill it soon. 
+
+
+
+
+ And the worst free marketeers of all: suburban tract developers! 
+
+
+
+
+ Everyone in Idaho: give away all your property, forgive trespassers, hand over your guns, then take in every drifter, bum and prostitute you can find, and don't forget to wash their feet with your hair. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Damn, that's three times now that we've botched our chance to get rid of Texas. 
+
+
+
+
+ This. Most builders build energy efficiency only to the degree that code requires, so the key is to upgrade building codes to something like "passive house" standards. Airtight construction with heavy insulation and sophisticated ventilation. The beauty of it is that this doesn't cost a dime more than ordinary construction, due to eliminating big HVAC systems. It generally makes a better building, too; very quiet and durable, with much cleaner indoor air.
+
+As for this article, I was disappointed that the author didn't really address insulation and temperature efficiency much at all. That, not electrical management, is most of the efficiency story. 
+
+
+
+
+  No one expects rooftop solar to power the entire country. However, quitting fossil fueled power as soon as possible may be the greatest need that humanity now faces, so *all* economically viable alternatives need immediate development. Most economic estimates put the net cost of decarbonization at around 1-2% of GDP, but it won't be free. But erecting price barriers to distributed solar in order to shelter life-threatening polluters is unconscionable.
+
+ Fossil fueled energy is indeed far more highly subsidized than rooftop solar is, and that's without considering pollution and health externalities, which add several multiples to that cost.
+
+ Granted, the taxpayer buildout of the national grid was decades ago, but it remains one of the costliest national projects ever undertaken. It wasn't merely the BPA and TVA, either. It was the Rural Electrification Act, the construction of mammoth projects like Grand Coulee and Hoover dams, and much more. I have no idea what the total value of all that is in today's dollars, but it's probably in the trillions. And then utilities were given monopoly control of these market areas, which has enormous value in itself. It's no stretch to say that utilities are way out of line extorting fees from taxpayers who do the right thing in net metering. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A few questions:
+
+ Quitting fossil fuels is an urgent priority, and switching to solar provides a low-cost means to do that, so why erect barriers to solar that preserve the fossil fuels monopsony?
+
+ Fossil fueled electricity is much more highly subsidized than solar is, so why compound those subsidies by erecting cost barriers to distributed solar?
+
+ Much, if not most, of core grid infrastructure was built at taxpayer expense, and ongoing maintenance by utilities has already been compensated by granting those utilities market monopolies, so why are they due anything more?   
+
+
+
+
+ Note: quality vineyards take decades to come into their own, so rapid warming makes *any* vineyard investment risky. Prime terroir is now a quickly moving target, so the window of profitable production in any region will shrink. Still, it seems clear that the Columbia Valley and northwestern Europe will be among the best bets.
+
+Still, for every new wine region opening there will be another closing, losing massive investments in infrastructure and old vines. This is likely to be a net loss to wine producers and consumers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hey, isn't Kansas where [two of our biggest welfare queens](http://www.dailykos.com/story/2014/03/09/1283390/-Koch-Brothers-Takes-88-Million-in-Corporate-Welfare#) hail from?  
+
+
+
+
+ Yeah, but they continue to be paid because their lying has worked for decades. 
+
+
+
+
+ But you claim that multiple papers presented at Ringberg "suggest that 2C will be the high" by 2100, which they did not. To the best of my knowledge, *no consensus* at Ringberg or in credible climate science has said any such thing. If anything, the studies presented at the Ringberg Workshop project a likely warming of around 2.5C by 2100, which is both well beyond a "2C upper limit" and probably very conservative given [new data](http://news.sciencemag.org/climate/2015/02/cold-pacific-ocean-offsetting-global-warming) on oceanic warming. 
+
+
+
+
+ I work with folks who place students in these jobs, and it's not necessarily as sunny as it sounds. "Huge" demand in skilled trades now is often tempered by modest pay, sporadic work and nonunion status that lacks benefits. A master welder makes about what a master secretary does, although bigger money beckons in underwater and overseas work. 
+
+
+
+
+ Just like baby boomers when *they* were under 30!
+
+(Let the downvotes begin...) 
+
+
+
+
+  new research was recently presented at Ringberg that clearly demonstrates that making such a prediction at this time is speculative, at best.
+
+Which presentation at Ringberg would that be? If it's any help, [here is a list](http://www.mpimet.mpg.de/en/science/the-atmosphere-in-the-earth-system/ringberg-workshop/ringberg-2014.html). 
+
+
+
+
+ "Backing off the IPCC's 4.5C prediction?" First, 4.5C is the *high end* of the IPCC's current 1.5 - 4.5 degree temperature forecast for 2100. It's not the median. However, more [recent studies](http://phys.org/news/2015-02-evidence-ipcc-climate-sensitivity.html) suggest warming will be at the upper end of this range in a business-as-usual scenario. 
+
+Second, China and India are poor, developing countries heavily invested in hundreds of new coal-fired power plants, their per-capita emissions are still far below ours, and they rightly point out that we westerners are responsible for nearly all of the carbon pollution cooking the climate to date. Still, both ([and especially China](http://thinkprogress.org/climate/2015/02/04/3619026/china-gets-ready-for-national-carbon-market/)) are now making strides to reduce their pollution. 
+
+
+
+
+ [No.](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2573.html)
+
+2C is one *hell* of a long way beyond natural variance in global climate within a single century, and most experts agree that we have already effectively locked in that amount of increase given that we are unlikely to completely quit burning fossil fuels in around 25 years, which is what it would take to limit warming to 2C.  We are more likely headed for [3-4C](http://www.theguardian.com/environment/2013/dec/31/planet-will-warm-4c-2100-climate) warming by 2100.
+
+http://www.carbonbrief.org/blog/2015/04/climate-sensitivity-is-unlikely-to-be-less-than-2c-say-scientists/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Renewables like wind and solar and biomass will certainly play roles in a future energy economy, but those energy sources cannot scale up fast enough to deliver cheap and reliable power at the scale the global economy requires. While it may be theoretically possible to stabilize the climate without nuclear power, in the real world there is no credible path to climate stabilization that does not include a substantial role for nuclear power."
+
+Sincerely,
+
+Dr. Ken Caldeira, Senior Scientist, Department of Global Ecology, Carnegie Institution
+
+Dr. Kerry Emanuel, Atmospheric Scientist, Massachusetts Institute of Technology
+
+Dr. James Hansen, Climate Scientist, Columbia University Earth Institute
+
+Dr. Tom Wigley, Climate Scientist, University of Adelaide and the National Center for Atmospheric Research
+
+http://www.cnn.com/2013/11/03/world/nuclear-energy-climate-change-scientists-letter/ 
+
+
+
+
+ The line can be blurry. Fascism is always totalitarian, always very nationalistic and often insular. Socialism *can* be those things, as it was under Stalin and Mao, but it can also be democratic, culturally open, and blended with capitalism, as in the Nordic countries. 
+
+Fascism rose as a reaction against socialism, led by nationalists like Hitler who hated the internationalism and pacifism of socialists, who many Germans blamed for  losing the First World War. Most fascist governments since have been similarly violent, nationalistic, anti-communist, and run by charismatic strong men.  
+
+
+
+
+ we would see massive investments in solar by private industries to save money and become more efficient. They aren't doing that without subsidies.
+
+[In many regions of many countries solar is now grid-competitive without subsidies](http://www.fastcoexist.com/3043473/in-much-of-the-world-solar-power-is-already-as-cheap-as-grid-electricity).The United States now has a [a few of those regions as well](http://www.hawaiireporter.com/big-rooftop-solar-panels-make-sense-in-hawaii-without-any-subsidies). Many more are on the way.
+
+That's looking at world wide oil and gas and doesn't take into account the enormous difference in market size between oil and renewable. On a per capita basis renewable receive far more money in subsidies than oil and gas
+
+Fossil fuels are the world's second-most-subsidized industry, after arms, and they are *vastly* more subsidized than renewables.  
+
+
+
+
+ There isn't one yet. The world's governments are in preliminary negotiations leading up this summer's the big UN climate conference in Paris.  
+
+
+
+
+ It wasn't enough that McConnell's Congressional Republicans openly tried to undermine the President's nuclear arms diplomacy with Iran? Now they're subverting his negotiations with the world on climate solutions?
+
+Where's a firing squad when you need one?  
+
+
+
+
+ "Solar isn't financially viable - except with massive government subsidies and grants.
+
+First, solar is very economically viable without subsidies in some places right now, and its cost is dropping by half every five years, so it will soon be economically viable nearly everywhere.
+
+Second, solar subsidies are dwarfed by the [$550 billion in annual direct subsidies to the oil, gas and coal industries](http://image.slidesharecdn.com/d2-am-s7-subsidies-petarvujanovic-ocde-141205102749-conversion-gate02/95/fossilfuel-subsidy-reforem-by-petar-vujanovic-2-638.jpg?cb=1417796944)--and that's without considering the trillions in annual *indirect* subsidies for fossil fuels, for things like military actions and automotive infrastructure. And these are subsidies for a mature, incredibly wealthy industry that needs no help with new infrastructure or development, and, let's not forget, this is an industry that every national scientific academy has identified as a major threat to global wellbeing, while solar presents one of our best opportunities to reduce that threat. 
+
+
+
+
+ "Have you got a source for that figure?"
+
+http://www.wsj.com/articles/SB10001424052748704852004575258541875590852
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Dont fight automation; focus on the political challenge of making sure its fruits are shared equitably."
+
+Yes, there's the rub. 
+
+
+
+
+ 80% of the world's oil is in the hands of national oilcos, which are largely unmentioned here. Peak oil isn't a concern, as the recent glut shows clearly enough. (Climate, however, is a true game changer, but the author doesn't mention that either.) 
+
+
+
+
+
+
+
+
+
+ Dodgy. 
+
+
+
+
+ The last cycle measured was 2012, when Dems won.  
+
+
+
+
+ Young people forty years ago didn't vote any more than they do now. Boomers didn't really begin voting in large numbers until the 1990s, and they've only recently begun to hit the late-life stage when people tend to vote without fail (which usually begins around age 65).
+
+As for your feeling that the baby boom was defined by Woodstock and so on, with all due respect that view was manufactured for you by pundits looking for something to talk about at the time and afterwards. Don't get me wrong: the early boomers' coming of age in the late 1960s was big, but mostly because the generation followed the 1930-1945 baby *bust*. However, in economic terms relevant to this article, the boomers had their biggest impact much later than most think.
+
+Truth is, the larger, younger end of the baby boom has much more in common with GenX: they all hit adulthood after the early boomers had taken many of the jobs and bid up the price of houses; all were part of the cohort that first lost employer pensions and lifetime job security.
+
+ 
+
+
+
+
+ All correct, except that Portland's water comes mostly from snowmelt at those higher elevations. The climate is bone-dry most of the summer, when water demand is highest. 
+
+
+
+
+ He's not saying screw driverless cars or anything. In fact he welcomes them.
+
+Yeah, he basically says that insurance companies would be among the only losers, due to fewer accidents, which is obvious enough. We already know that Detroit hates self-driving cars for similar reasons.
+
+For me, the most interesting bit in this is when Buffett hedges and wonders about 10% penetration by 2030. If that's a conservative figure, it says much.  
+
+
+
+
+ [Here](https://www.opensecrets.org/industries/indus.php?ind=E01) is the breakout: 90% of oil and gas campaign money went to Repubs in the last election cycle measured. 
+
+
+
+
+  80% of oil money goes to Republicans and their causes.
+
+That was then. [It's now 90%.](https://www.opensecrets.org/industries/indus.php?ind=E01) 
+
+
+
+
+ Now let's just see if Republicans in Congress can resist the urge to write yet another undermining letter to Iranian leaders. 
+
+
+
+
+
+
+
+
+
+ Agreed, although I suspect the freeway median may have been used here partly to prevent the theft of solar panels. 
+
+
+
+
+ This issue recurs from time to time, and it's always the same ploy: transfer the National Forests and other Federal lands to the states, where easily-bought politicians will then sell off everything to private logging, mining and real estate companies--who will then fence out the public. 
+
+It's up to us to block these bastards. Every time this comes up, write your reps and say, "no way!". 
+
+
+
+
+ I'm reasonably certain that more than one whip-wielding southern slaveholder also told his slaves, "at least you aren't living in Africa!". 
+
+
+
+
+
+
+
+
+
+ We agree that most are only too happy to continue their lazy inattention, maybe while patting themselves on the back for switching to low-energy lightbulbs. However, I doubt that many have yet bought into the oil industry's latest craven pitch to abandon all hope. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Those are results of introducing intermittency into the system.
+
+On the contrary. The smart grid is coming for a hundred reasons that have nothing to do with intermittency. Smart meters and smart buildings top the list, and those primarily concern cost control and efficiency, as outlined in [this ComEd overview](https://www.comed.com/technology/smart-meter-smart-grid/Pages/smart-grid.aspx) which lists everything *but* intermittency. 
+
+The poorest countries don't have nukes
+
+Pakistan *is* one of the poorest countries, and nuclear-armed. North Korea as well. Russia isn't exactly rich. Others will follow. 
+
+I find that (warfare) scenario highly, highly improbable.
+
+You must know better than US military leaders, then. Sleep well.
+
+ 
+
+
+
+
+ Okay, Chris Mooney; *you* may not have been talking about this but plenty others have. Bad headline on an otherwise good article.
+
+You're one of the best journalists writing about the disconnect between science and political preconceptions, but this is different: you're delving into the details of climate science, and this is clearly new territory for you. Step carefully. 
+
+
+
+
+ The few people I know who say "it's too late; it's now hopeless" are people who never cared about climate to begin with. For them, this is merely the latest convenient excuse for continued lazy inattention. 
+
+
+
+
+ I am aware of no single study that doesn't acknowledge the costs of integrating intermittency into the grid. If there were one, I bet you would have cited it.
+
+http://cleantechnica.com/2014/01/24/forget-intermittency-nrel-says-wind-energy-can-boost-grid-reliability/
+
+A smart grid exists for the sole purpose of dealing with intermittency.
+
+No, the smart grid is needed for many reasons: resilience, smart metering, peak pricing, operational savings, etc.. 
+
+I know it's popular to dream of a day when every home is it's energy castle, but it just isn't backed up by economic realities.
+
+Who said grid power will vanish? Not me.
+
+The purpose of warfare when caused by economic depression is to seize what others have. How can you do that if you nuke their shit?
+
+Clausewitz disagrees with your definition of war's purpose, but history shows us that *any* rational "purpose" for war is usually quickly lost in gore, hatred, and the burned bodies of innocents piled to the skies.
+
+To date the primary purpose of nuclear weapons has been defensive: "invade my country and we'll nuke you". However, conflicts and associated chaos will continue to escalate in the world's poorest, most climate-vulnerable regions as climate damage rises, both increasing temptations to incinerate enemies while also inevitably putting nuclear arsenals in the hands of victorious insurgents. ISIS, for example, sprang from the chaos of the long Syrian drought, gathered momentum by adding the excluded Sunnis of Iraq and now Yemen. They would dearly love to someday seize Pakistan and its nuclear missiles, and studies suggest that global warming is [adding to that very threat](http://www.dawn.com/news/1157200). And that's merely one of [many climate concerns](http://www.forbes.com/sites/jamesconca/2014/11/14/does-our-military-know-something-we-dont-about-global-warming/) that now worry US military leaders.
+
+Let's just say that more desperation, drought, cultural friction and economic despair don't make a nuclear-armed world any safer.
+ 
+
+
+
+
+  The more renewables grow, the costlier their impact to the grid.
+
+Debatable, and most of these complaints are coming from old-line utilities trying to preserve their sweet monopolies.
+
+With or without renewables, we'll need a smarter grid, so it's unfair to blame all of its costs on the rise of renewables. 
+
+ Batteries are far too expensive for developing countries. 
+
+[Not for long.](http://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/Storage_Cost_Drops_530_402_s.png)
+
+ Yes, because nuking people solves economic problems. /s
+
+You're probably right. When has economic depression ever led to world war?  
+
+
+
+
+ Speaking of cherry picking, you're basing your complaint entirely on the wind graph, where newer Greenpeace forecasts contrast with older forecasts from other sources. But what about the other two graphs that show more contemporary forecasts from multiple sources? In those, the Greenpeace forecasts still outperform by wide margins.
+
+Again, the point isn't that Greenpeace is perfect, but that most researchers, even theirs, have underestimated the growth of renewables. As in this excerpt:
+
+*"The results for solar PV are even more dramatic...In this case, though, actual statistics proved higher, nearly doubling the optimistic Greenpeace formulation."* 
+
+
+
+
+
+
+
+
+
+ Boomers alone didn't fuck you. Hell, Americans are still basically fighting the Civil War, with political loyalties persistently aligned by North-South geography and opinions on white, Christian supremacy.
+
+Until recently, boomers didn't vote much either. The country has long been run by the very old, because only the very old vote without fail, in absolutely every little election. When it gets down to voting on fire commissioners and school bonds, the ancient are *three times* more likely to cast a ballot than 20-somethings are.  
+
+
+
+
+ No need to tackle reams of peer-reviewed papers. Just read some of the many credible online digests of climate science. [Skepticalscience.com](http://www.skepticalscience.com) should be at the top of the list. Other good sources include [NASA](http://climate.nasa.gov), realclimate.org and climatecentral.com. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's no doubt that renewables are critical, and, taken together, they may be the single most important future power source, but they simply will not be enough, which is why several of the world's leading climate scientists recently issued [this joint letter](http://www.cnn.com/2013/11/03/world/nuclear-energy-climate-change-scientists-letter/) to world leaders.
+
+The need to leave carbon fuels has now become an emergency. We need all hands on deck, and all the carbon-free power that we can muster...like, yesterday. 
+
+
+
+
+ More common: skilled, experienced older workers thrown out of work are reluctant to take a big step backwards, and often for good reason. If your income plunges in your 50s, you may well lose your spouse, your house, your health insurance. Your kids may lose their college opportunities. Prospects for any kind of retirement can vanish. 
+
+
+
+
+ The baby boom's peak birth year was 1957, meaning the heart of the baby boom is now 57-58; they were 10-11 when Woodstock happened, and they didn't really begin voting at all consistently until the Clinton years. (Reagan was elected by their parents.) 
+
+
+
+
+ I don't think the article's point was to praise Greenpeace, but to show how growth in renewable power blew past all forecasts, *even* Greenpeace's. 
+
+
+
+
+ The truth is, boomers didn't control much at all until 23 years ago, when Clinton was elected. Like every other generation, they didn't really begin voting faithfully until well into middle age, and the peak of the baby boom is now only 58. 
+
+
+
+
+ Simply put, this article is a steaming heap of lies spread for years by oil industry flunkies. No matter how often they're debunked, they just keep springing back like a case of herpes. 
+
+There was no 1970s global scientific consensus that the climate is cooling. There was no UN forecast of "50 million climate refugees by 2010". And so on. 
+
+Do some real scientific reading, or, if you can't, at least accept the facts that all 97 of the world's national scientific academies, and 97% of publishing climatologists, are in complete agreement that we are responsible for warming the globe. 
+
+And also be aware that the largest industry in human history is doing everything in its power to confuse you about that. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The TPP hasn't passed, most of its signatories would likely be part of any global climate agreement as well, and, frankly, getting sued by Peru is not at the top of American worries. 
+
+
+
+
+ Ashton would be the wrong guy to ask about the economic details of decarbonization. He simply takes Shell to task for their refusal to acknowledge the need to do it at all, and good for him.
+
+However, few in the know believe this will be accomplished with renewables alone. Nuclear will be part of the solution as well. Yet renewables will carry most of the weight, in both developed and developing nations. Solar/battery combos and microgrids, in particular, are well suited to developing countries precisely because they don't require existing transmission infrastructure. 
+
+As for cost, two points: 1) The cost of decarbonizing is now low--about [1-3%](http://unsdsn.org/wp-content/uploads/2014/09/US-Deep-Decarbonization-Report.pdf) of global GDP--but will [quickly rise](http://www.bloomberg.com/news/articles/2014-05-11/power-decarbonization-cost-rises-22-to-44-trillion-iea-says) if we continue stalling; 2) the cost of *not* decarbonizing the economy is [potentially ruinous](http://press.princeton.edu/chapters/s10414.pdf) (figures like 20% of GDP are often mentioned), and that's before we consider that economic collapse on that order would almost certainly ignite nuclear war.
+
+The only possible conclusion is that we have no choice but to leave most of the world's fossil fuel reserves unburned. The good news is that we can easily afford to do it. The bad news: we cannot afford to wait. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You're right, everyone wants "a throat to choke" when they suffer a loss. However, if that hypothetical kid who ran into the street was killed by *you* behind the wheel, rather than by a computer, there is little chance that you would be held liable unless someone could prove that you had been driving recklessly. Why hold the computer to a higher standard? 
+
+
+
+
+ Thing is, these cars will crash less than human-driven cars will, creating a net benefit for insurers. The hard part is assigning liability, I agree, but should the company have to pay extra for a net benefit it delivers to third parties? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, but Canada isn't forecast to be one of the countries most parched by heat and drought in coming decades. 
+
+
+
+
+ True, but the Dems are still trying to govern. Repubs are simply sowing division, discord and mistrust in order to wreck the consensus needed for government.  
+
+
+
+
+ Although this piece is clearly unpopular with techies on Reddit, thanks for posting it. Sure, many nations excel at mathematics and technical competency, but only the United States wows the world with companies that capture the imagination like Disney, Apple and Nike. 
+
+
+
+
+
+
+
+
+
+ Yeah, lacking brains and a heart is hell on creativity. 
+
+
+
+
+ This is worse than anarchy. This is pitchforks and torches as far as the eye can see.  
+
+
+
+
+ Companies often drink their own Kool-Aid like this, rationalizing away their lapses and convincing themselves that they are actually engaged in something good and even *vital*, then being surprised when the public doesn't buy it.
+
+After the public relations disaster that is *Blackfish*, Sea World's only real recourse is to phase out  orcas as amusement attractions. That is what they must now do, but not before earning yet another black eye in the process. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Agreed. However, if it walks like a sociopath and it talks like a sociopath... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Who made you? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Commuted for years with a backpack myself because I didn't want a rack and pannier on my nice road bike, but always regretted it.  
+
+
+
+
+ Sure it's depressing, but some people *are* intentionally evil, willing to actively lie to get what they want. They're called sociopaths, and they make up [2-4% of the population](http://www.amazon.com/Sociopath-Next-Door-Martha-Stout/dp/0767915828). They are defined by a strong personal sense of superiority, a reckless disregard for "little people's rules", a ruthless willingness to screw anyone for personal gain, and a psychotic confidence that they'll be able to lie their way out of any jam. Sound familiar? 
+
+
+
+
+ Suggestion: rather than strapping a bag to the rack, get a pannier bag to hang off the rack. Much more secure. 
+
+Second-best: get a small backpack.  
+
+
+
+
+ Cruz strikes me as an opportunistic ideologue from oil country (Calgary) who followed the industry's money to Texas, which has a long history of backing oily pols for the Presidency. The fact that he graduated Harvard Law doesn't mean squat about his objectivity or ethics. 
+
+
+
+
+ Still more bad news for beef. 
+
+
+
+
+ We have a fossil fuels industry problem on climate change. That industry merely gives 90% of its campaign money to Repubs. 
+
+
+
+
+ It's more that the main reservoir lies 3,100' above the city. 
+
+
+
+
+ More to the point, we have a campaign finance and political media problem on climate change. When the largest industry in the history of mankind gives 90% of its political donations to Republicans, and the when party leaders depend on support from television and radio networks run by men with close oil industry ties, we shouldn't be surprised that loudmouthed lunatics from Texas are willing to sing their song.  
+
+
+
+
+ But Senator Inhofe has a snowball. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Not a real climatologist, but SoCal isn't going away. 80% of California water usage is in agriculture, so farms will feel it first. LA basin residents will just face stretches without lawn watering or car washing.  
+
+
+
+
+
+
+
+
+
+ Not in the Republican Party. 
+
+
+
+
+ What do you expect from a media corporation run by men with deep [oil and coal industry ties](http://www.wnd.com/2013/01/is-saudi-prince-steering-news-corp-coverage/) who specialize in pandering to the most proudly carbon-polluting consumers in the US, Canada and Australia? 
+
+
+
+
+ Why is this a problem? If we are serious about solving the climate mess, we need every carbon-free energy source we can get our hands on. 
+
+
+
+
+ CCS looks more like nothing but a political talking point to salve swing states. Unfortunately, most big political swing states states happen to be coal states (Kentucky, West Virginia, Colorado, etc.) so CCS is offered to win their support for climate action. Attempts to make it actually work affordably, as with NextGen, however, have mostly failed. The only places where it shows even limited promise are places where coal-fired power plants sit atop deep oil fields with secure capstone, like Texas, in which power plant exhaust can be injected to squeeze out oil.  
+
+
+
+
+ And meals, beer, cable, etc. 
+
+
+
+
+ Bingo. Strelkov's men were very likely the bastards who shot down the Malay airliner. Against that kind of world-class asshole, even Putin look like a softy. 
+
+
+
+
+ Can't say for sure, but I suspect that some of these fraternities began partly as secret societies of military cadets and other future Confederate officers who were networking for the war to come. 
+
+
+
+
+ It's not surprising that they picked this up at a national conference. Those tend to mix young house leaders with older, retrograde racists who run the alumni wings of many old-line fraternities and sororities that originated in the antebellum South, [as SAE did](http://www.sae.net/page.aspx?pid=756). 
+
+
+
+
+ Pretty much. A telling example is the current DirectTV spot featuring Rob Lowe saying "don't be like the other me...the 'peaked in high school' Rob Lowe" (who wears a letterman's jacket while serving fast food). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This could be a preview of coming attractions for other hydro-dependent regions in the world's warmer temperate zones as [Hadley Cell](http://www.goes-r.gov/users/comet/tropical/textbook_2nd_edition/media/graphics/ch3_overview_image.jpg) expansion dries them out. Look out Brazil, China, India. 
+
+
+
+
+ "While there have been a few attempts to found liberal alternatives to ALEC, none have yet caught on."
+
+This made me laugh. ALEC exists because it's backers want to wreck government so they can rule like feudal princes. How many corporations and billionaires are interested in backing a group that stands for *more* business regulation and wealth redistribution? 
+
+Bribery cannot be solved by more bribery. 
+
+
+
+
+ A quaint reminder of those dewy halcyon days before e-commerce and big data were worth trillions, before the Net became the province of spies, gangsters and terrorists. 
+
+Anyone else find it funny that the largest company profiting from our fall from grace is called Apple? 
+
+
+
+
+ In the interest of efficiency, you'll all stop this social interaction, networking, courting, coaching and mentoring shit immediately.  
+
+
+
+
+ Take off in a recursive explosion of intelligence and boogie with the universal intelligences in this and other universes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In American high schools (grades 9-12), private companies sell [expensive jackets](http://www.vsacustom.com/images/varsityjacket_Blue.gif) for top-level athletes to display their athletic awards. If you make the top-level ("varsity") boy's basketball team, for example, you become a "letterman" who "lettered" in basketball, and you are entitled to buy and wear the letterman's jacket with the letter sewn on it.  
+
+
+
+
+ Yep, an armed society is a polite society. 
+
+
+
+
+ To be fair, the US had an underclass long before it had auto-centric suburbs. I'd argue that suburbanization (and GM's trolley destruction) merely put more distance between the *urban* underclass and other Americans, but remember that most American poverty [is rural](http://www.ers.usda.gov/topics/rural-economy-population/rural-poverty-well-being/geography-of-poverty.aspx).  
+
+
+
+
+ The smartest very definitely do *not* "always rise to the top". 
+
+
+
+
+ This is a deeper, darker level than mere passport theft and indentured servitude. This is true slavery: buying people at market, locking them in cages at gunpoint, barely feeding them, forcing unpaid work in factories and fishing ships for life. 
+
+
+
+
+ Call John Brown. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Cities are frequently on the hook for supplying utilities at low or no charge to new suburban developments beyond the city lines. 
+
+It's a vicious cycle that pits city and county governments against one another like this: 
+
+1) County government wants more tax base so approves new suburban development, free riding on burdens to city for water/sewer, connecting roads, etc..
+
+2) City makes up for loss by annexing older commercial districts just beyond city lines, which costs county some of its tax base. So...
+
+3) County government greenlights more development on suburban fringe to recoup tax base lost to city.
+
+ 
+
+
+
+
+
+
+
+
+
+ It's the closest thing to a basic income program that exists in the US.
+
+It's also something of a preview of the fee-and-dividend carbon tax that's likely coming on the national scale. 
+
+
+
+
+ From the article:
+
+"Bear in mind that a family of four collects four same sized dividends."
+
+Alaska families collect a dividend for everyone in the household. 
+
+A friend of mine comes from a low-income family of twelve. You do the math. 
+
+
+
+
+ "The researchers found ten different frames used to communicate climate change: Settled Science, Political or Ideological Struggle, Role of Science, Uncertain Science, Disaster, Security, Morality and Ethics, Opportunity, Economics and Health. The first five frames were used to communicate the IPCC reports much more frequently -- whereas the latter frames were not used much at all."
+
+In other words, the media tend to report on climate in the ways that are most contentious but least connected to our daily lives. 
+
+
+
+
+ About time. Until the 1980s, and with additional damage from a 1978 Supreme Court ruling, we had usury laws that made these practices illegal. And with good reason: usury makes the middle class poor, and it makes the poor debt slaves, tearing apart society. That's why the Bible ranks it as a capital crime in the same league with murder and rape.
+
+[Here](https://americansforfairnessinlending.wordpress.com/the-history-of-usury/) is a reasonably good synopsis. 
+
+
+
+
+
+
+
+
+
+ We can be reasonably sure that any such game-changing, work-reducing new technology would benefit mostly the few engineers who corner the technology, and push the rest of us just that much closer to minimum wage. 
+
+
+
+
+ First of all, your friend has poor taste in other friends, so you might look for better friends yourself. 
+
+As for the link, it's all a pile of crap, but let's just address that first graph as an example:
+
+ It cherry-picks a misleading time span, 1995-2010, which is one of the few in which *surface temps* (more on that below) were flat. To either side of this little window you'd see a rising temp trend.
+
+ It ignores ocean temps. 93.4% of the excess heat from greenhouse warming goes into the oceans, and the oceans have continued warming unabated.
+
+ We now know that the Pacific Decadal Oscillation and other long-cycle oceanic convection currents create multi-decadal cycles of heat capture and release to the atmosphere, so that warming will proceed in stair-step fashion. Right now we are in a PDO "cool phase" due to end in a few years, when atmospheric heating will again take off steeply as it did in the 1990s. 
+
+ The HADCRUT dataset used here is not "air temperature anomaly" (The UK Met Office does not use that term) but "surface temperature anomaly". Because surface temps over the Pacific are not anomalously warm during a cool PDO phase, they make it seem as if global temps have gone flat. However, look what has happened over a [longer span](http://www.metoffice.gov.uk/hadobs/crutem4/), and, in particular, the steep warming in northern continental areas.
+
+I could go on. Your "friend's friend" is putting his/her faith in an obscure conspiracy site created by a conservative lunatic, while ignoring the united opinion of every national scientific academy on Earth, after the largest scientific inquiry of all time? Again, avoid this asshole. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I sure didn't see it. Sold Kraft six months ago. 
+
+
+
+
+ DARVO, actually. Much nastier than mere projection. 
+
+
+
+
+ I notice that some [long-range global drought forecast maps](http://www2.ucar.edu/sites/default/files/news/2010/2090-2099wOceanLabels.jpg) show especially dry future conditions in the Mediterranean Basin and the Mexico/Caribbean/Venezuelan region. What is the confidence interval for these projections? They are pretty scary.  
+
+
+
+
+ The link 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Also a low regulatory bar for building codes, and the ability to cut deals with weak suburban municipalities for low property taxes. 
+
+
+
+
+
+
+
+
+
+ This could kill someone. Holy shit. 
+
+
+
+
+ He actually strikes me as more of a Jefferson Davis guy. 
+
+
+
+
+ Usury. A term that's fallen out of use. Time to revive it. 
+
+
+
+
+ give hospitals an incentive to compete on prices, and hopefully lower the cost of health care.
+
+Unless you're shopping for a specific high-ticket procedure like a hip replacement, you'll probably find medical pricing too impossibly complex for comparisons. This just invites hospitals to engage in loss-leader pricing, gouging on everything else, and it encourages inefficiently duplicating costly facilities between hospitals because no hospital wants to miss a chance at rare but lucrative treatments.
+
+The only thing that has demonstrably lowered care costs by wide margins is just the opposite: government control and near-universal risk pooling. 
+
+
+
+
+ A likely candidate: desal powered by solar PV, which will be both crazy-cheap by then and well suited to the dry, sunny coasts where urban water shortages will be most acute.   
+
+
+
+
+ I'm reasonably sure that Warren Buffett waited for me to sell my stock in Kraft before he pounced and drove up the price 35% today. 
+
+Well played, Warren. Well played. 
+
+
+
+
+ Should we be surprised that the longstanding outliers in satellite data analysis consistently originate with an evolution-denying Christian fundamentalist who serves on the boards of several oil-funded climate-science-denial organizations?
+
+http://www.southernstudies.org/2011/09/climate-science-contrarian-roy-spencers-oil-industry-ties.html 
+
+
+
+
+
+
+
+
+
+ You got that right. However, American utilities aren't exactly known to embrace change, they are legal monopolies, and they are politically powerful at the state/local level, so their first reaction is to block competition. 
+
+If they were smarter, they'd avoid the fate of German utilities like RWE and E.on, which tumbled in value for years before finally selling off their worst coal plants to embrace renewables and DG. 
+
+
+
+
+ Marketing creative slots have vanished in recent decades due to automation in a dozen ways.
+
+Consider the ad agency art director, so called because that person once directed dozens of artisans: pasteup artists, typographers, photographers, film makers, illustrators, strippers, engravers, printers, etc.. Now the "art director" handles all those roles alone, using Abobe CS on a Mac, usually using stock images rather than producing original art. Goodbye to most of those other creative jobs.
+
+The rise of retail is another example, replacing the need for much advertising and PR. The key to *that* was the development of retail databases and scanners. Hello to more minimum-wage Walmart stockers; goodbye to highly paid ad agency copywriters and account execs.
+
+Then consider the consolidation of major consumer companies, which used to be widely distributed but are now heavily concentrated thanks to IT systems that allow fast real-time management of complex networks. That means that the marketing work once done by dozens of local ad agencies and marketing departments across the country is now handled by a handful of people in New York and Chicago.
+
+So, yes, marketing creativity is still in demand, but it takes a lot fewer people to provide it. 
+
+
+
+
+ Except owners of capital. They'll *always* be safe. 
+
+
+
+
+
+
+
+
+
+ Opposition to distributed generation is coming mostly from the electric utility industry, but I take your point. 
+
+
+
+
+ [This](http://www.opensecrets.org/politicians/industries.php?type=C cid=N00033085 newMem=N cycle=2014) explains much. 
+
+
+
+
+
+
+
+
+
+ Bingo. CCS remains a pipe dream except in rare cases where suitable, deep, secure underground storage already exists. 
+
+
+
+
+ Without global Keynesian stimulus spending after 2008, the world would have likely collapsed into a depression as bad or worse as the 1930s. Nations that invested in more stimulus, such as the U.S. and China, have generally fared better than places that invested less, like Europe. 
+
+
+
+
+ True, but production forestry is not problematic; clearing forest for pastures is. A cap and trade system compensates landowners for keeping the land in forest, while a carbon tax does not. 
+
+
+
+
+ What if the collapse of the American Dream is bigger than the baby boom, or bigger than America itself? This is a trend throughout the rich world, and it has been under way for some time. Blaming 1/4 of Americans for not singlehandedly stopping it is pretty harsh. Plenty of boomers are getting screwed as well. 
+
+
+
+
+ Both, actually. We do still have time to prevent warming of 3C or above, and it'd take lots more than dikes to deal with the consequences of *that*. 
+
+
+
+
+ There's a difference between wahoo and whoopee. 
+
+
+
+
+ "So why not build renewable, instead?"
+
+Because, despite all of its benefits, we cannot build enough renewable power to get the world off of carbon fuels in time. 
+
+
+
+
+ Did baby boomers usher in Social Security or Medicare? Did they keep polluting and raping landscapes as previous American generations did? Did they leave Jim Crow racism to fester for a century as their elders did? News to me.
+
+Sure, boomers leave a lot to be desired. So did their parents. And their grandparents. And so will your generation. 
+
+That's the way it should be. Every generation should improve on the previous. But, God help me, there's always a slice of each generation coming of age that thinks their parents' cohort is responsible for all the world's ills. Unless you are 60-something and German, your resentment is misplaced. 
+
+
+
+
+ I don't know you, but it sure sounds as if you worked your ass off more to build security you never had, and less to provide for a family that may come later.
+
+Now that you have a little cushion, why not take those skills and that resume' to a job you'll enjoy more? It will vastly improve your chances of finding a great spouse and starting that family you want. 
+
+
+
+
+ Not so opposite. When he said that, Keynes was countering economists who maintained that capitalism needs no interference because "imbalances work out in the long run". Instead, Keynes favored taking action to improve the future, much like planting a tree. 
+
+
+
+
+ California will do just fine. There'll be fewer irrigated farms, but the cities will thrive, and they're built for quakes. 
+
+
+
+
+
+
+
+
+
+ Note: these complaints aren't from Cubans, but from rich-world *tourists* whining about the impending commercialization of "dear, quaint Cuba". Reminds me of the very elderly rich reminiscing about the charm of old Hawaii when it was poor. 
+
+
+
+
+ We richies may have farther to fall in a total collapse, but a total collapse is unlikely. And, in any economic crisis, the rich always do better than the poor. What concerns me most is the possibility of incremental decline in global prosperity and security leading to police states in rich countries, most likely with heavily nationalistic, fascist overtones. Many would welcome that, seeing it as protection from the brown barbarians killing one another in the real shit-holes farther south.  
+
+
+
+
+ Yes, which is a primary reason why we'll probably have cap-and-trade systems as well as carbon taxes. For all their merits (and their popularity with economists) carbon taxes don't directly reward those who preserve vital carbon sinks such as forests.  
+
+
+
+
+ Sure, the world is well past its agrarian-era carrying capacity, so we are *all* technologically and economically interdependent now. However, over the next generation or so, the greatest threats to rich-world citizens are likely to be from chaos in poor, subtropical countries hit by drought and food supply interruptions. Syria and the Arab Spring uprisings are just a taste. ISIS is as much a product of climate change as of the American destruction of Iraq.
+
+TL;DR- Spreading, climate-caused violence and economic strife abroad is probably a greater threat to Americans than is climate-related collapse of domestic systems. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Generally speaking, citizens of rich countries are at far lower risk than those of poor countries; citizens of temperate and near-polar countries are at lower risk than those nearer the equator; citizens of militarily strong countries are at lower risk than those of weak ones. As the world's richest, strongest country, largest food producer and owner of rich temperate and northern lands, the US will do much better than most. 
+
+
+
+
+ [The referenced Nature article.](http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2570.html) 
+
+
+
+
+
+
+
+
+
+ A bit of both. The US still has a few further opportunities for large-scale hydro, and quite a number at small-scale, but damming many of those places (Yosemite, Canyonlands, Copper River, etc.) has been prevented by well justified environmental concerns. 
+
+
+
+
+ And state officeholders, county council members, school board members and so on. If there is one thing the old/white/passionate conservative base does well, it's to vote in *every* election, no matter how tiny. That ensures they always have a deep bench of junior pols ready to move up, and it preserves the heavy state and federal advantages given to rural voters which allow conservatives to punch well above their weight. 
+
+
+
+
+ http://blogs.denverpost.com/thebalancesheet/2015/03/23/renewable-energy-isnt-boosting-electric-bills-study-contends/12570/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ First, you are cherry picking. Oils outperformed the SPX in 2001-2011, but often lagged before and have definitely lagged since. 
+
+Second, that was then. The global scientific community (all 97 national scientific academies, the UN IPCC, etc.) delivered the verdict on leaving most fossil fuels unburned only last year. The Saudi dumping of oil followed that announcement, not coincidentally. Meanwhile, coal stocks have been in decline for five years, and European utils are selling off their coal-fired generation businesses. This is no longer the *new* reality, but just the reality. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Did you check the MSCI link? Fossil-free indexes have been outperforming the S P for the past five years. That's the reality that exists. 
+
+
+
+
+ All true, but most of the rest of the world is [driving up](http://fm.cnbc.com/applications/cnbc.com/resources/files/2014/01/14/beef_prices_chart.jpg) beef and pork prices as fast as they can. 
+
+
+
+
+ Anyone who thinks these universities would endanger their endowments' performance by excluding fossil fuels, [see this](https://www.msci.com/resources/factsheets/index_fact_sheet/msci-acwi-ex-fossil-fuels-index-gbp-gross.pdf). 
+
+
+
+
+ Based on data like [this comparison](https://www.msci.com/resources/factsheets/index_fact_sheet/msci-acwi-ex-fossil-fuels-index-gbp-gross.pdf) and [this](https://www.aperiogroup.com/resource/138/node/download), combined with the fact that the entire world scientific community now tells us that we must quit fossil fuels entirely within little more than a generation to avoid running insane climate risks, isn't it time to get out of oil, coal and gas stocks?
+
+I've made this a cornerstone of my stock portfolio. Anyone else doing this? 
+
+
+
+
+ [Relevant.](http://www.someecards.com/usercards/viewcard/1d59dbf3adff85344bde64dfe334603f) 
+
+
+
+
+ So, a small fraction of what we just spent to bail out the corporate banks and pull the world back from the brink of depression and war. Got it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ True. However, the takeaway for me is the article's comment from Michael Mann: "the U.S. still needs to create a larger gap between greenhouse gas emissions and economic growth". In other words, relying on market forces to solve this problem over time is woefully insufficient. 
+
+
+
+
+
+
+
+
+
+ True. A better headline would be, "Finally, a conservative with morals the oil industry can't buy". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The "crash" has already begun, but it's more of a slow crumple, like a supertanker hitting the rocks at low speed.
+
+[This analysis](http://www.theguardian.com/environment/2015/apr/10/fossil-fuel-free-funds-out-performed-conventional-ones-analysis-shows) shows the new market reality: stock indexes that include fossil fuels underperform those that don't. 
+
+
+
+
+ None of the fossil fuel majors are doing squat to diversify into renewable energy. The few that even tried, such as Shell and BP, have backed away. CEOs and directors don't last long, so each has a strong incentive to maximize short-term shareholder return, and screw the future. 
+
+
+
+
+
+
+
+
+
+ One item to watch: standing on the pedals too much--as in hill after hill--can lead to leg cramps on longer rides, particularly in hot weather. Try to stay in the saddle, keep a cadence, and hydrate. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Theres a volcano in Alaska, Pavlov, that only erupts during the autumn and winter. The 10cm or 15cm rise in sea level during the winter months, when low pressure comes over, is enough to bend the crust and squeeze magma out. Thats an example of how tiny a change you need, he said.
+
+Fascinating. Thanks for posting this. 
+
+
+
+
+ We need people who know the science but can speak to their tribe. 
+
+Bingo. 
+
+
+
+
+ Except when economists provide cover for pillage and political prostitution. There's *always* campaign cash in those. 
+
+
+
+
+ A fanatic's first reaction to failure is always to insist that the policies tried weren't *pure* enough, so they need to be doubled.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ To be fair, Repubs have two approaches--tax cuts and deregulation--but only one ultimate goal: destruction of government. 
+
+
+
+
+ "Washington State photon torpedoed the idea faster than a Borg could mutate."
+
+Hah! 
+
+
+
+
+ Ian, have you looked into the impact of raising cattle and cattle feed in California? [This Bloomberg article](http://www.bloombergview.com/articles/2015-04-13/cows-suck-up-more-of-california-s-water-than-almonds) suggests that it is the top single drain on California water supplies, yet it seems to get little attention.  
+
+
+
+
+ "First, the government should eliminate energy subsidies of all kinds  for fossil fuels as well as renewable energy."
+
+A very false precondition. "The government" cannot level the playing field by eliminating fossil fuel subsidies, because the vast majority of them come from scores of *other* governments in developing countries; $550 billion annually. We would also have to eliminate much larger *indirect* subsidies such as public money for fossil fueled infrastructure such as highways, airports and utilities, not to mention the vast military costs of protecting oil fields and transport routes.
+
+Fee-and-dividend carbon carbon taxes are beautiful things in themselves. However, until all the world's nations stop subsidizing fossil fuels, renewables will still need subsidies to compete. 
+
+
+
+
+ Consider the alternative: coal, pollution from which is already killing or sickening millions worldwide, making fish inedible, and cooking the climate. Which is the greater risk? 
+
+
+
+
+ Hey, if it walks like a demon, and it talks like a demon... 
+
+
+
+
+
+
+
+
+
+ Shoot the messenger? Lomborg has been hired by a fossil fueled front man to spread doubt about the global scientific community's dire warnings that we must quit fossil fuels very, very soon. That is the story here.
+
+Jotzo is hardly the only economist (or climate scientist) critical of Lomborg's profitable grandstanding: *every national scientific academy on Earth* officially disagrees with Lomborg.
+
+However, the fossil fuel industry just can't get enough of him.  
+
+
+
+
+ You have spent some time building those walls. I won't waste mine trying to break them down. 
+
+
+
+
+ You want credible economists? The IPCC is full of them, and, as a body, they completely disagree with Lomborg, who is no economist at all. 
+
+
+
+
+ Lomborg is more accurately what used to be called a mountebank. Someone who makes a career out of calling attention to himself.  
+
+
+
+
+ Put another way, polluters have learned that buying media and experts to craft messages for it it is a worthwhile cost of doing business. 
+
+PR toadies have responded by creating front groups like the Heartland Institute, which specializes in market research and messaging to divert attention from any harmful business, from tobacco to coal. For a painfully accurate, darkly funny inside look, see the movie, "Thank You For Smoking". 
+
+
+
+
+ Out of sight, out of mind. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "These prices" are now low precisely because Saudi producers know they won't have many buyers in the future. It takes decades to deplete a large field. They're dumping product while they still can, and before carbon pricing begins to eat margins. 
+
+
+
+
+ Haven't we all. However, I think one of the better things one can do for humanity is to raise a wonderful person or two. And I don't buy the doomsayer's argument that kids will merely inherit a hellhole of a planet. Not at all. Sure, climate is a challenge we must confront, but I'm reasonably sure we will do so, and it will be neither the last nor the largest challenge humans will face. (Just wait until synthetic biology and artificial intelligence get rolling!) 
+
+
+
+
+ This should be titled "Large *American* cities ringed by car-dependent suburbs are less green". Most European cities are far greener. 
+
+
+
+
+ Then at least pay for your trash: dumping tons of extra carbon into the atmosphere cannot remain subsidized by the rest of us. 
+
+
+
+
+ Bury it in secure storage.
+
+We simply don't have time to solve the climate problem without using *every* tool at our disposal. 
+
+
+
+
+  I don't want to live in a city they are fucking dangerous.
+
+Some cities are dangerous, many aren't. For examples, look at the top and bottom of [this list](http://www.numbeo.com/crime/rankings.jsp). It's largely a matter of wealth and how invested a city's inhabitants are in its continued wellbeing. Not too different from small towns and rural areas worldwide: some are placidly safe while others are dangerous, also due largely to wealth and emotional investment. 
+
+
+
+
+ We lack time. The world scientific community tells us that we have exactly 27 years, at present trend, to quit fossil fuels altogether if we want to prevent running crazy risks to the climate, peace, prosperity, and the lives of millions. This is now an emergency, full stop. We must develop *every* clean energy source we have, and that includes nuclear. 
+
+But don't take it from some random natterer online. [Listen to the experts.](http://dotearth.blogs.nytimes.com/2013/11/03/to-those-influencing-environmental-policy-but-opposed-to-nuclear-power/?_r=0) 
+
+
+
+
+ Suburbs exist because massive government infrastructure spending and subsidies, along with free carbon pollution, *enabled* them to exist.  
+
+
+
+
+  It's called quality of life.
+
+Its called free riding.  
+
+
+
+
+ What do oil reserves matter when at least half will need to stay in the ground to prevent climate catastrophe? 
+
+
+
+
+ The car itself, even if electric, requires a [huge carbon footprint](http://www.theguardian.com/environment/green-living-blog/2010/sep/23/carbon-footprint-new-car).
+
+Worse, the kind of living that a car enables--big, inefficient, detached homes with thirsty lawns and power machinery, where every errand requires a long drive to still other inefficient buildings, whose occupants *also* depend on driving--is the most carbon intensive by far; several multiples more so than city living. Needless to say, it is also highly water intensive, materials intensive, etc.. 
+
+
+
+
+ If you need a car at all, you are placing a massive strain on resources. It's nearly impossible to live a suburban or rural life without doing so. 
+
+
+
+
+ Then pay for the true cost of [400% more carbon pollution](http://e360.yale.edu/feature/greenest_place_in_the_us_its_not_where_you_think/2203/).  
+
+
+
+
+
+
+
+
+
+ The best way to *prevent* an outcome like that may be to do just the opposite: forget the cabin and [stay in the city](http://www.usatoday.com/story/opinion/2015/04/22/earth-day-climate-change-column/26073883/). 
+
+
+
+
+ Something else that does wonders for mental health is to join others who feel as you do, and raise your voices together in order to be heard. 
+
+Citizen's Climate Lobby and 350.org are great for that, but nearly any environmental group will do. 
+ 
+
+
+
+
+ Bleak? This is the most exciting, optimistic, important time to be alive that has ever existed, and I'm serious. 
+
+As a species, we are overcoming warfare and injustice faster than ever before. Population growth will soon peak. Our grandchildren will live richer material, spiritual and intellectual lives than we do. 
+
+We simply have this little climate problem to solve, which we can easily and affordably do, if we can just cooperate. Gaining that cooperation is the signature task of our time. So get to it! Just remember that you have two enemies in this fight who are determined to wear you down: one is named social inertia and the other is called the fossil fuel industry. Don't let either of those defeat you. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ugh. If this blog lunatic had even *read* the Tyler Cowan article in question, rather than merely attacking its headline, he might have noticed its point: "Our more peaceful and  yes  more slacker-oriented world is in fact better than our economic measures acknowledge. Living in a largely peaceful world with 2 percent G.D.P. growth has some big advantages that you dont get with 4 percent growth and many more war deaths." 
+
+
+
+
+
+
+
+
+
+ [No need for anything like that.](http://thinkprogress.org/climate/2015/01/29/3616382/solving-climate-change-cheap/) 
+
+
+
+
+ Sulfates + water = sulfuric acid
+
+Ocean acidification and acid rain are already massive problems that sulfate seeding would make much worse. 
+
+
+
+
+ True, and the most cost-effective geoengineering scheme, sulfate spraying, will actually make ocean acidification and acid rain much worse. It's like a heroin junkie trying to compensate by smoking crack rather than by breaking their addiction.
+ 
+
+
+
+
+ Lowering taxes on the owners of capital means shifting those burdens onto poorer taxpayers. Meanwhile, on current US trend, the benefits of any extra growth will go entirely to the rich.
+
+Count me out. 
+
+
+
+
+ 1) Solar output peaks when much of demand does, during the afternoon air conditioning hours, so intermittency is less problematic than it may seem.
+
+2) Battery storage costs are dropping quickly as well. For example, [this forecast](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/Storage_Cost_Drops_580_440.png) from three years ago actually *underestimates* the rate of improvement. 
+
+3) While some think that solar or wind will be enough by themselves, most credible voices on the matter believe that we'll still need base-load generation from nuclear, biomass and the like. 
+
+
+
+
+ Installation and other soft costs have rich opportunities to fall in the US. Those costs are [more than double](http://greenzone.co/2014/05/04/solar-pv-system-germany-roughly-50-cheaper-us/) what they are in Germany, and German companies are steadily lowering their costs as well. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Overcoming limited supplies of commodities is what human ingenuity does best. Don't bet on scarcity. 
+
+
+
+
+  exponential modelling of any product is a fool's errand
+
+So Moore's Law doesn't exist? Sometimes exponential product improvements *do* happen. In the case of solar PV, [Swanson's Law](http://en.wikipedia.org/wiki/Swanson's_law) holds sway. It may not move at quite the speed of Gordon Moore's famous dictum, but the mechanics are similar.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nationalists who hate versus internationalists who love. Nothing new about that. ([Godwin's Law hereby invoked.](http://library.flawlesslogic.com/finance.htm)) 
+
+
+
+
+ There seems to be either a Play It Again store or something like it in every metro of a half-million or more. Bonus if hockey is big in your area: it takes tons of gear, it's all-year, and kids start playing early, so parents are always looking for ways to economize. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Google "Earth Day" and your location, and something will probably turn up. Also, just show up at a rally, or write a letter to the editor of your local paper. Those tend to capture the attention of political leaders. 
+
+
+
+
+ ...*Now I'm crowding thirty and still wearin' jeans.*
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In my humble view, there's only one possible name for it: Amanda. 
+
+
+
+
+ Hoax! It was cold in Boston! I have a snowball! Benghazi! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Four degrees warming isn't *likely* to cost more than half of Earth's people their lives, although it might. It would certainly crash the global economy, reduce the food supply and lead to much more warfare. If global nuclear war breaks out, it's goodbye civilization, and that means goodbye as well to the global infrastructure needed to feed billions.  
+
+
+
+
+ They always are. Tribal hatred and all that. 
+
+
+
+
+ Jeb Bush wants to represent a political party that gets fully 90% of the oil and gas industry's campaign money. Let's recall that his oily brother also acknowledged climate change while campaigning, then actively sabotaged and defunded climate science once in office.  
+
+
+
+
+ And twenty years ago today, conservative fanatics killed 168, including an entire child care center, in the Oklahoma City bombing. Merely the worst of many deadly conservative attacks on America before and since. 
+
+By contrast, the most notoriously violent socialist radical group of the 1960s, the Weather Underground, killed exactly one person. The Unabomber killed three. So much for left-wing terrorism. 
+
+
+
+
+ If there was destructively irrational exuberance during Greenspan's tenure, it came primarily from raging libertarian egotists like him. 
+
+I'd like to take a measured, sensible, economist's view of his opinions, but I can't. Not after seeing the massive pain and ruination that resulted from them. 
+
+ 
+
+
+
+
+ Washingtonians and Oregonians have been battling Californian attempts to steal our water for generations. This is merely the first time they've brought Star Fleet to the fight. 
+
+
+
+
+ But just try to insure those. 
+
+
+
+
+ Better idea: rather than spending billions to move water from Washington to California, primarily to raise [cattle and their alfalfa feed](http://www.businessinsider.com/real-villain-in-the-california-drought-isnt-almonds--its-red-meat-2015-4), why not just raise the cattle and the feed in Washington where the water is now? 
+
+
+
+
+ There are plenty of better places to grow water-intensive crops like alfalfa, almonds, pistachios, beef and rice than in the middle of a desert. 
+
+
+
+
+ California has been trying to hijack the Northwest's water for generations, blithely ignoring the fact that Oregon and Washington fight over that water all the time, and they, too, are suffering from drought right now. 
+
+
+
+
+  the ice has been melting for thousands of years because the earth has gradually been warming.
+
+The Earth has actually been slightly, gradually [*cooling* for the past 8,000 years](http://upload.wikimedia.org/wikipedia/commons/c/ca/Holocene_Temperature_Variations.png), after reaching the interglacial peak. The past century's sudden rise looks like a wall on the right side of the temp chart. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Back when? 
+
+
+
+
+
+
+
+
+
+ When did I say "painless"? You say that climate action, "involves simply taxing ourselves into economical and technological stagnation" and that "abandonment of fossil fuel use would bring about complete economic collapse". I simply quoted the global economic and scientific consensus that says your statements are completely untrue. Solutions are very *affordable*, but no one says they're free.
+
+ 
+
+
+
+
+ There's the real objection: if the solution isn't painless, deny the problem. Rationalize it away. Foist it onto others. Shirk responsibility. 
+
+
+
+
+ Upvote for all the above, although I suspect that dumping their oil before it is outlawed is a larger factor than most admit. After all, it takes many decades to really drain giant fields, future extraction technology will undoubtedly extend the life of those fields, and a global ban on burning oil is now inevitable, maybe even imminent. 
+
+The only factor you haven't mentioned, and perhaps this qualifies as fresh thinking, is the degree to which the Saudi oil heartland is also the heart of the Kingdom's Shia population, and Sunni/Shia warfare is breaking out all over, so maybe the Saudis are also concerned about possible future national breakup and the loss of that territory. 
+
+
+
+
+ Everyone's view of where "the other side" begins is relative to their own position on the political spectrum. Where do *you* stand? 
+
+
+
+
+
+
+
+
+
+ The article's point is that continued global warming will lead to an economic crash which will then reduce the pace of further warming, although by that time both climate and economic conditions will be dire. 
+
+
+
+
+ I do dismiss the left's solutions as they're often economically unsound
+
+Which "left" is that? There's some range to consider. 
+
+
+
+
+ Except that fossil fuels receive [$550 billion in annual subsidies](http://www.worldenergyoutlook.org/resources/energysubsidies/), and have been heavily subsidized for generations. That $550 billion is about six times what renewables get, despite the fact that fossil fuels are the largest, richest industry on Earth, with well developed infrastructure that needs no assistance, and fossil fuels represent a global *problem* while renewables are a desperately needed *solution*.
+
+That's the so-called "free market" you're defending. 
+
+
+
+
+ You do realize that the IPCC is also comprised of economists, right?
+
+I'll be moving along now. 
+
+
+
+
+ Not only New Jersey. Coddling cops while attacking teachers has been Republican doctrine nationwide for at least a decade. 
+
+Not hard to see why. More teachers are female, more cops are male. Teachers lean left, cops right. The GOP's geriatric base voters are worried about their own safety but indifferent about educating a generation they won't live to see. 
+
+
+
+
+ Except that every national scientific academy, all 97 of them, agree that we must quit fossil fuels within 20-30 years at present trend, or climate damage will pose existential risks to civilization itself. How is the free market alone going to overcome the entrenched power of the world's largest industry *within that time window*? 
+
+
+
+
+ Did I say that? No. So why did you? 
+
+
+
+
+  I also agree with these scientists.
+
+You agree with Idso, Ball, Lindzen, Singer, et al? Those are merely paid oil company shills singing for their supper, my friend. Others on the list, like McKitrick and Spencer, are conservative political ideologues.
+ 
+
+
+
+
+  I'm skeptical of many populist solutions that involve simply taxing ourselves into economical and technological stagnation.
+
+[No need for that.](http://www.theguardian.com/environment/2014/apr/13/averting-climate-change-catastrophe-is-affordable-says-ipcc-report-un) 
+
+
+
+
+ [Experts!](http://www.theguardian.com/environment/2014/apr/13/averting-climate-change-catastrophe-is-affordable-says-ipcc-report-un) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "We cut renewable subsidies but not fossil fuel subsidies, and renewables lost ground to fossil fuels. Crikey!" 
+
+
+
+
+ I certainly don't know what "Christians are for", do you? There's wide variation on that score. But I can easily see what *Christ* was for: sharing.
+
+How is a voter who agrees to a tax for benefits to others not performing an act of charity? 
+
+
+
+
+ It's much easier to calculate the cost of decarbonization, where variables are known, than to forecast future climate sensitivity where variables are less known. 
+
+
+
+
+ I'm merely saying that Nordhaus's forecast represents the low end of a credible range, the high end of which is much, much higher.
+
+Personally, [Weitzman](http://www.macalester.edu/~wests/econ231/Rev%20Environ%20Econ%20Policy-2011-Weitzman-275-92.pdf)   Wagner are more my breed of climate economists. 
+
+
+
+
+ Rhetoric? No, scientific fact. It's called the [DICE model](http://www.econ.yale.edu/~nordhaus/homepage/documents/DICE_Manual_103113r2.pdf). 
+
+You expected global climate risks to be cheery? 
+
+
+
+
+
+
+
+
+
+  The climate changes during the pliocene are not well explained by carbon, it doesn't even account for a significant portion of the differential.
+
+There is [little doubt](http://www.nature.com/ngeo/journal/v3/n1/full/ngeo724.html) that elevated carbon levels during the pliocene accounted for a significant portion of the higher temperatures and higher sea levels then. And that was merely one of [many such ancient episodes](http://www.whoi.edu/cms/files/zachos08nat_141144.pdf) that provide insights into what a high-carbon atmosphere does to life on Earth. And, in each of these episodes, the impacts to precipitation have been highly uneven, boosting extremes--drier here, wetter there--just as we now see developing.
+
+We agree on the need for action, and on the need for credibility, but let's settle down with the knee-jerk attacks. 
+
+
+
+
+  See, there you go predicting doom if humans don't act soon to decarbonize. How can you be so certain of the stakes?
+
+I'm not predicting anything. I'm simply paying attention to the united opinion of *all* of the world's major research bodies, which say we *must* decarbonize due to the extreme risks involved.
+
+Here's an analogy: we now find ourselves playing Russian roulette, while forcing our children and grandchildren to play as well, all simultaneously, but we don't know with real certainty 1) how many bullets are in the guns, 2) at what part of our bodies the guns are aimed. We do know that, over the course of the next few decades, the number of bullets increases, as does the likelihood of the guns being aimed at our heads. Every decade is a pull of the triggers.
+
+That makes the modest cost of decarbonization (0-2% GDP, net) an essential investment. 
+
+
+
+
+ And Nicholas Stern says 6C could cost [20% of global GDP](http://webarchive.nationalarchives.gov.uk/20130129110402/http://www.hm-treasury.gov.uk/d/Executive_Summary.pdf)--and that's before we consider the costs of ensuing global warfare, where all bets are off. Look at the global cost of the Syrian drought right now. Needless to say, there is quite a range of possible costs, but any of them would be far greater than the modest cost of prevention. 
+
+
+
+
+
+
+
+
+
+ No, not very comforting. 
+
+
+
+
+ 1) Very few "predict doom", because most believe that humanity will act soon to decarbonize. The stakes are simply too high not to.
+
+2) The plea to decarbonize isn't coming from "a scientist" or "just *some* scientists"; this is the united judgement of the entire world scientific community, including endorsements from every one of the world's 97 national scientific academies, the UN IPCC, the World Bank, NASA and just about every other research authority one can name.
+
+3) The fact that we don't know with certainty what to expect is exactly why these organizations and individual experts are all so concerned. Their position is that the likelihood of absolute catastrophe is too high to ignore, and growing higher as we dither, so the only reasonable action is to "buy insurance" by investing in decarbonization now. 
+
+
+
+
+ That's easy, because it has happened several times before and we have abundant evidence of the effects. 
+
+For example, the [last time we had 400 ppm CO2](http://scienceblogs.com/significantfigures/index.php/2013/05/10/the-last-time-atmospheric-co2-was-at-400-parts-per-million-humans-didnt-exist/), as we now do, it led to sea levels more than 100 feet higher than today, global temperature 5F degrees higher than today, with large deserts in the North American Great Plains (complete with camels, no less). 
+
+Let's just say that would now be highly inconvenient--except for the camels, which would be somewhat cool. Yet that was merely a moderate warming event, due to atmospheric carbon levels no higher than today's. [Much worse](http://www.sciencemag.org/content/348/6231/229.full) have occurred. 
+
+
+
+
+ Matthew 19:21 - "Go, sell what you possess and give to the poor, and you will have treasure in heaven."
+
+Luke 12:32-34 - "Sell your possessions, and give to the needy."
+
+1 John 3:17 - "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+
+Luke 3:10-11 - Whoever has two tunics is to share with him who has none, and whoever has food is to do likewise.
+
+Acts 2:44-46 - "And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+
+Acts 4:32-35 - "Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. And with great power the apostles were giving their testimony to the resurrection of the Lord Jesus, and great grace was upon them all. There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need." 
+
+Luke 16:19-31 - There was a rich man who was clothed in purple and fine linen and who feasted sumptuously every day. And at his gate was laid a poor man named Lazarus, covered with sores, who desired to be fed with what fell from the rich man's table. Moreover, even the dogs came and licked his sores. The poor man died and was carried by the angels to Abraham's side. The rich man also died and was buried, and in Hades, being in torment, he lifted up his eyes and saw Abraham far off and Lazarus at his side."
+
+Etc., etc.. 
+
+
+
+
+ All true, but nuclear meltdown is probably among the lesser worries, in my personal view, simply because the *last* thing any government will starve of water is a nuclear reactor; they can be powered down to reduce water consumption; and, even in the event of a meltdown, the damage is usually far more localized than that of war, drought, etc.. 
+
+
+
+
+ The [last time the Earth had 400 ppm CO2](http://scienceblogs.com/significantfigures/index.php/2013/05/10/the-last-time-atmospheric-co2-was-at-400-parts-per-million-humans-didnt-exist/), as we now do, it caused the global average temperatures to rise to 3 to 4 degrees C warmer than today (5.4 to 7.2 degrees F), and polar temperatures to rise as much as 10 degrees C warmer than today (18 degrees F). The Arctic was ice free. Sea level fluctuated between 16 to 130 feet higher than today. Coral reefs suffered mass die-offs. Much of the North American Great Plains turned to desert and dry steppe, complete with camels. 
+
+That's where *today's* 400 ppm is taking us, and never mind what the 550 ppm projected within fifty years would eventually do.  
+
+
+
+
+ True, but it's a small quibble. Temuzjin's fears seem all too plausible. The idea that extreme warming will be delayed or prevented by global economic collapse due to moderate *near-term* warming is horrific. Because, as history shows, economic collapse leads quickly to the worst kind of warfare--which, these days, is as dangerous to civilization as anything a hotter climate can throw at us. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Meanwhile, low-cost oil producers like Saudi Arabia have responded by dumping their oil on the world market at half price, to unload their reserves before burning oil is outlawed and to delay the cost effectiveness of renewables.
+
+That's the problem with fossil fuels: selfish-bastard nations with abundant fuel reserves can always undercut renewables if they choose, going by the logic that its better to sell those reserves now at low price than to see them stranded by the coming global bans.
+
+The only solution is to ban these fuels sooner rather than later. The free market will *not* help. 
+
+
+
+
+
+
+
+
+
+ The hardcore, unfailingly voting GOP base was born long before the 50s. 
+
+
+
+
+ Millennials don't vote; fossils do. From a coldly calculating perspective, aren't Republicans shrewd to cater to cranky old reactionaries who *never* miss a chance to cast a ballot in every election from the Presidency down to the local school board, and to court lethal industries that most fear regulation?
+
+There's only one solution, kiddos: vote, and organize your friends to vote.
+ 
+
+
+
+
+ Agreed. This shows a race to scale up and consolidate in order to achieve bargaining leverage over labor, capital, vendors, retailers, you name it. 
+
+
+
+
+ Hell *yes*! 
+
+
+
+
+ "The government"? These subsidies are coming from scores of governments, mostly in developing countries. Very hard to control, hence the developed nations' subsidies for renewables to compete. 
+
+
+
+
+  I don't understand why it would be viewed as a subsidy to the employer.
+
+Because it rewards the worst-paying employers, lowering the floor for the lowest possible wages, speeding the race to the bottom.  
+
+
+
+
+ Looks as if a Nestle boycott is gathering momentum over this, and not just among Californians. 
+
+Nothing improves company reputation more than making yourself look like the greedy corporate bully in a lifeboat movie, guzzling all of the boat's water when the other passengers aren't looking.  
+
+
+
+
+
+
+
+
+
+  I would like to see renewables take over without the help of government subsidies.
+
+Wouldn't we all. However, fossil fuels are subsidized *six times* more than fossil fuels, despite being the richest industry of all time.  
+
+
+
+
+ "Hey, maybe we can dump our oil on the market cheaply and sell the shit before it's outlawed, while delaying renewable energy so that we have more time to pump more carbon into the atmosphere!" 
+
+
+
+
+ According to the IEA, we have only two years before a 2C rise is locked in. Time to make climate *the* central issue, whether elderly "perfect voters" are ready for it or not.  
+
+
+
+
+ Been saying this for months: dumping oil on the the market is both a great way to drive out high-cost energy competitors (shale, renewables) and to sell more oil before carbon pricing and regulation kick in. For low-cost oil producers like SA, it's a win-win.
+
+Unfortunately, for the rest of us it's a lose-lose, raising a higher price barrier to renewables and conservation. 
+
+
+
+
+
+
+
+
+
+ Why the question mark in the headline? As the lead sentence says, "The world's glaciers are disappearing". 
+
+
+
+
+ Sure, but it's all relative. Free healthcare, free university education, more than a month of vacation, $20/hr wages for McDonald's employees, and a government that taxes 44% of GDP are pretty left wing wherever you go. 
+
+
+
+
+ Yes, we are in an interglacial period. No, there is [no danger of plunging into another ice age](https://www.skepticalscience.com/heading-into-new-little-ice-age-intermediate.htm), at least within the next several centuries, so definitely no need to "prevent" that. 
+
+
+
+
+ Except that in economically comparable places where handguns are readily available, homicide rates are generally much higher, and most are committed with firearms.
+
+In the US, for example, [69%](http://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_7_murder_types_of_weapons_used_percent_distribution_by_region_2013.xls) of murders are by shooting, and 75% of those are with handguns. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Some left-wing parties have also urged the right-wing government to work out a wider mandate for the fund 
+
+Oh, yes, the "right-wing government" of Norway...
+
+That phrase just made my coffee come out my American nose. 
+
+
+
+
+ Thanks for the great answer! 
+
+
+
+
+
+
+
+
+
+ Isn't the model predicated on political differences among counties, states and Congressional Districts? So isn't the result really a map of overall political attitudes rather than anything specific to climate alone? It certainly looks that way. 
+
+
+
+
+ "As Bartlett noted, Federal Reserve policy (slashing interest rates) and the stimulus from increased government spending were also important factors."
+
+Three Pinocchios for Mr. Paul. Again. 
+
+
+
+
+ It's being blamed for conditions in the Northeast as well. The polar jet pushed extremely northward off the West Coast then pulls Arctic air southward to the East Coast.  
+
+
+
+
+ Detroit is merely one of [many American cities](https://www.google.com/search?q=american+city+homicide+rates+per+100,000 client=safari rls=en tbm=isch tbo=u source=univ sa=X ei=bAYnVfqOJMvWoASstIHoDg ved=0CEUQsAQ biw=1063 bih=500#imgrc=iHMcC_C_EJh1XM%253A%3B6gsbx7XDPzh6NM%3Bhttps%253A%252F%252Fd28wbuch0jlv7v.cloudfront.net%252Fimages%252Finfografik%252Fnormal%252FChartOfTheDay_1693_Detroit_is_Americas_Most_Dangerous_City_n.jpg%3Bhttp%253A%252F%252Fwww.statista.com%252Fchart%252F1693%252Fdetroit-is-americas-most-dangerous-city%252F%3B960%3B684) more violent than Glasgow. Hell, many American small towns are more violent than Glasgow. 
+
+
+
+
+ Actually, more guns are smuggled from the US to Mexico than the other way round. Most illegal guns in the US were legally purchased at some point, then stolen or resold to felons, etc.. 
+
+In my area, pickup trucks are magnets for window-smashing prowlers who know that pickup drivers are more likely to keep handguns in the vehicle. Those weapons are then easily sold to fences. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The House is the article's focus. As a counterpoint, I simply said that it fails to mention the greater bias against city dwellers in the Senate and the Electoral College.  
+
+
+
+
+ "By a straw purchaser, which is in itself illegal. So legally purchased? Technically. Legally obtained? No.
+
+Cite?  
+
+
+
+
+ However, most U.S. shootings do not happen during the commission of crimes, and the guns are most often legally purchased. 
+
+
+
+
+
+
+
+
+
+ "If we use all of the fossil fuels in the ground, the planet will warm in a way that is difficult to imagine. Unless the economics of energy markets change, we are poised to use them.
+
+Unless the economics change...
+
+Which is why no market-based approach will work. We are either willing to sacrifice a bit to maintain a habitable, prosperous planet, or we are not.  
+
+
+
+
+ Good points all, except that killing "sprees" are pretty rare in the US. Most US shootings are in the heat of sudden disputes and confrontations, where, as you say, pulling a trigger is simply much easier than raging after someone with a knife, and with far greater certainty that you won't be killed or mangled in the bargain. But the typical death toll is one or two victims per incident. 
+
+
+
+
+ What do you know about water supply challenges in Beijing, where, due to water stress, some are questioning the city's bid to host the Olympics? 
+
+
+
+
+ True, but it's the second map showing opinions by state that's the most disturbing. All those barely populated, fossil-fuel dependent states like Wyoming get the same number of Senators as populous, progressive states like California. The Electoral College gives a similar (but smaller) advantage to empty states in Presidential elections. In short, the US Constitution ensures that each voter from remote coal and oil country gets three votes against every one for a city dweller.  
+
+
+
+
+ That and aging populations. The correlation with leaded gasoline is [striking indeed](http://www.forbes.com/sites/alexknapp/2013/01/03/how-lead-caused-americas-violent-crime-epidemic/). 
+
+
+
+
+ [The reason](http://www.humanosphere.org/wp-content/uploads/2014/03/GunViolence.png) is no mystery. 
+
+
+
+
+ To be fair, the UK had tight controls and a very low handgun ownership rate before the ban, so the ban didn't change much. 
+
+
+
+
+ The greatest responsibility most of us will ever shoulder.
+
+Of course we know our kids will eventually follow us to the grave, but the possibility that *their* distant progeny will eventually become the much improved beings that *we* would like to be is worth all the trouble, as long as we don't overdo it, don't you think? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "it's doubtful that solar and other renewable alternatives can make up for the vast energy contribution of fossil fuels anytime soon. 
+
+[Not so. And why leave out nuclear?](http://www.climatecentral.org/news/report-maps-out-decarbonization-plan-for-u.s-18362) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+ This is an ELI5 for the purpose and findings of the paper only, as with most ELI5 a lot of the nuances are left out.
+
+Background: High fat and/or high sugar diets are known to be associated with increased risk of numerous diseases. Some evidence suggests that high fat/sugar diets causes oxidative stress. Oxidative stress basically means that there is a sustained increase in reactive oxygen species (ROS). ROS are oxygen containing molecules that can react with/modify/damage DNA, RNA, proteins and lipids. This in turn can lead to diseases as cells stop working optimally. ROS levels are controlled, in part, by antioxidants (e.g. superoxide dismutase, catalase). Antioxidants don't stop ROS being formed but convert them into non-reactive molecules (such as molecular oxygen) which stop them from damaging the cell. In theory, if you increase antioxidants you can prevent the negative effects of high levels of ROS. 
+
+Soybean is a protein source that is rich in certain antioxidants and casein is a group of proteins found in milk. The authors wanted to see if: 1) soybean can increase antioxidant levels/activity in rats better than casein, and 2) if rats are fed a high calorie diet, can soybean or casein still increase antioxidant levels. They're interested in the 2nd point because if soybean or casein was able to increase antioxidant levels in a high calorie diet then, in theory, it may be able to reduce the negative effects of high calorie diets (e.g. cardiovascular disease).
+
+Results: 1. Soybean increased the activity of most antioxidant enzymes compared to casein when fed a normal diet.
+             2. When fed a high calorie diet, soybean was not able to increase antioxidant enzymes as much or at all.
+             3. Soybean decreased oxidative stress (by GSH:GSSG ratio) compared to casein, in both a normal and high calorie              diet.
+             4. Soybean was less able to decrease oxidative stress in a high calorie diet compared to a normal diet.
+
+Meaning: Soybean was better able than casein to improve antioxidant levels with a normal and high calorie diet. However, it was less effective at increasing antioxidant levels when fed a high calorie diet. 
+
+Take home message: Soybean can increase antioxidant levels but does not fully prevent the negative effects of high calorie diets on antioxidant levels.
+
+Note: As this is an ELI5 answer, I've not gone into the specifics of changes in different measures of oxidative stress and antioxidant levels and talked about the general trend. 
+
+
+
+
+ No need to apologise, you weren't intentionally misleading anyone and they did allude to that in the paper, it's a common misconception that IGF-1 increases muscle mass automatically which given their bone background is not surprising that it's in the paper.
+
+Having said all that, what you said is most likely correct - dairy protein is likely more beneficial for muscle growth compared to meat. The main reason is that digesting meat takes time and rapid increases in amino acids seem to be better at maximising muscle growth and protein synthesis rates both at rest and following exercise. 
+
+A couple of papers to support what I said, minced beef is more rapidly digested than steak (increased surface area  for stomach enzymes to breakdown when it's minced). Protein retention is increased but not protein synthesis at 6 hrs
+
+http://www.ncbi.nlm.nih.gov/pubmed/23636241
+
+Whey hydroslate, which is more rapidly absorbed than casein, increases protein synthesis to a greater degree and max protein synthesis occurs within 90mins of ingestion
+
+http://www.ncbi.nlm.nih.gov/pubmed/19589961
+
+I don't know of a direct dairy vs meat comparison in muscle (there most likely is one)  but most of the data suggest a rapid increases in amino acids results in greater mTOR activation and thus protein synthesis and potentially muscle mass. Dairy would likely be the better option due to it being digested more rapidly.
+ 
+
+
+
+
+ Whilst IGF-1 is known to be important during muscle growth during development, the role of IGF-1 on **adult** muscle growth and prevention of sarcopenia is debated.
+
+For example:
+
+1yr IGF-1 supplementation in elderly women to those of young women has no effect on muscle mass or strength - http://www.ncbi.nlm.nih.gov/pubmed/11297574
+
+IGF-1 overexpression doesn't prevent unloading induced atrophy -
+http://www.ncbi.nlm.nih.gov/pubmed/9725801
+
+A functional IGF-1 receptor is not needed for muscle hypertrophy -
+http://www.ncbi.nlm.nih.gov/pubmed/17974583
+
+Transgenic overexpression increases muscle mass at 3 months but no further growth compared to wild type mice at 12 months. Shows that IGF-1 increases muscle mass during growth or regeneration (with dystrophic mouse) - http://jcs.biologists.org/content/123/6/960.long
+
+Overexpression of IGF-1-Akt/PKB pathway accelerates aging - 
+http://www.ncbi.nlm.nih.gov/pubmed/23686362
+
+No correlation of IGF-1 levels and resistance exercise induced changes in muscle mass and function -
+http://www.ncbi.nlm.nih.gov/pubmed/22105707
+
+That list is obviously biased towards those showing no effect of IGF-1 on muscle growth in adults but is just to show that increased IGF-1 does not always mean more growth. Additionally, the increases in IGF-1 in animal studies are typically induced by getting muscle to overexpress IGF-1 (i.e. it's a localized delivery and very high levels around the muscle). Increases in IGF-1 with nutrition will be much smaller than IGF-1 increases seen in animal studies with viral overexpression or transgenic mice. 
+
+Overall, increases in IGF-1 won't hurt muscle mass but it doesn't mean that it **will** increase muscle mass. It's something being studied a lot as are the nuances of IGF-1 induced muscle growth in adults or sarcopenia.
+
+ 
+
+
+
+
+ The .gov really has no influence on the paper, the website is a database where peer-reviewed journals upload abstracts and links to accepted papers. Journals from all over the world (i.e. with no government affiliations) use the database as it enables researchers to easily find new or old papers.
+
+The paper is a review paper, summarizing the findings in the field so no new findings or physical study was performed. The paper is also peer-reviewed by experts in the field who would/should ensure that a fair reflection of the literature was provided and discussed. 
+
+
+
+
+ It's a review paper not an actual study, so it discusses previously published papers. The review paper is focused on bone health/growth, which is what the authors specialize in and not on muscle growth/hypertrophy 
+
+
+
+
+ To view the article just hit view on the righthand side of the page, it's a peer reviewed article just presented this link to get around the paywall. The pubmed link is here:
+http://www.ncbi.nlm.nih.gov/pubmed/25857846
+
+A lot of studies have looked at mRNA changes with electrical stimulation in vitro and seen changes there but never really seen changes at the protein level or measured function. This paper measures both protein and function and provides a electrical stimulation paradigm that induces shifts in a wide range of contractile and metabolic proteins -this will allow researchers to study the processes that lead to slow muscle development and if tissue engineered muscle ever reaches the clinic enable a slow muscle to be implanted (big if, and once implanted it may lose the phenotype if innervation is poor or muscle not used). The big thing for researchers is that the protocols typically used don't cause a shift in myosin, which is a traditional marker of fibre-type, but they identified a protocol that does. 
+
+
+
+
+
+
+
+
+
+ A couple of points about the study:
+
+"Based on previous findings, the researchers had predicted that whey protein would be better at facilitating an increase in muscle mass and a decrease in fat, but this wasn't the case"
+
+1. This is an acute study looking at one time point - 3hrs post-ingestion. No change in muscle or fat mass would be able to be measured, so they're looking at markers which might extrapolate to changes in muscle or fat mass. The long-term studies in humans that are cited in the paper show that over prolonged periods (8-12wks) whey induces increases in muscle mass but egg protein does not when combined with resistance exercise. Whey protein given to elderly or ill patients (e.g. cancer, ALS) seem to benefit from whey alone without resistance exercise. If whey alone (i.e. no resistance exercise) in a typically "healthy" person has positive effects on muscle:fat mass I'm not sure.
+
+2. The key here is the 3hr time point, in the rat model they use it's been shown that leucine (thought to be the key amino acid in the beneficial effects of whey protein) increase maximal levels of protein synthesis but not the duration following feeding. The max occurs at ~90mins but is back to basal at 180mins (norton et al. 2009) and is seen in humans too (Tang et al. 2009). It's interesting that they still see an increase in anabolic markers at 180mins, perhaps due to the longer fast (18hrs vs 12hrs) in this study. Anyway, my point is that changes in protein synthesis may only be detectable/significant before 180mins.
+
+3. Figure 1E - the pure whey and 70whey/30egg are significantly higher than control but the 50:50 and 30:70 groups are not. Also, all the protein fed groups are not statistically different from each other. However, you're interested in maximizing protein synthesis to control which from the data shows that the high whey content would be a better choice.
+
+Also going off the puro blot, the pure whey seems to be a lot higher than the other groups - indicating higher protein synthesis (obviously it's a presentation blot and might not be the most representative sample). All the blots aren't from the same gel and the loading controls vary a lot which brings up an important point with the phospho data.
+
+4. It seems that all phosphorylation data is not presented relative to the total levels of the protein which is how it should be done, as it is the ratio of phospho to total that you're interested in. No loading controls are presented and given the puromycin blot in figure 1g it's hard to imagine they have consistent loading in any of their gels. Presenting the data as phospho-to-total helps overcome that limit and normalizes the data more consistently between samples.
+
+5. I don't know much about satiety so I can't say much about it. The only point I'd make is that they looked at mRNA only and not blood levels of leptin, ghrelin etc. Many mRNAs are also regulated post-transcriptionally - that means that though mRNA may increase it doesn't mean you get an increase in the protein. I don't know if leptin mRNA correlates well to changes in leptin levels.
+
+Overall, I wouldn't say it's a good paper due to the one time point, poor presentation of the blots, the fact the phospho-blots aren't normalized to the respective total (HSL is normalized to GAPDH which is a loading control, which though not ideal is better than not normalizing it) and not measuring circulating levels of satiety hormones.  
+
+
+
+
+ You've dealt with poor doctors from what you've described. I've had similar experiences with some doctors too with regard to my dads cancer treatment, my mom's chronic pain treatment and my own back issues.
+
+"Once one enters into a practice, the primary focus is to pay down student debt and accrue frequent flyer miles to attend pharmaceutical company sponsored seminars in locations both sunny and sandy". I'm a research scientist and have worked with medical doctors in taking treatments from the bench to the clinic and never seen the primary focus of any doctor to be to pay down student debt and accrue frequent flyer miles, again some may do but not all. That may be due to being involved with university/research hospitals and being in the UK, where the NHS system helps prevent (again not saying its flawless and pharma influences will have an influence in some cases/treatments) doctors from being influenced by pharmaceutical reps. I've just moved to the US for a clinical translation (i.e. basic research to clinical use) project so it'll be interesting to see the differences. 
+
+Anyway, I hope your diet enables you to stay independent and relatively healthy for the next few years. 
+
+
+
+

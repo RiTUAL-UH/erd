@@ -1,0 +1,10651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This doesn't refer to actual snow itself. I apologize if this has been asked before or violates the rules in some way.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The European market established it this way. Why can't it be done here in America? Some would argue its keeping us from true success.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The Android app: https://play.google.com/store/apps/details?id=com.buycott.android
+
+iOS: https://itunes.apple.com/us/app/buycott/id585933440?ls=1 mt=8
+
+Perhaps the mods can include a link in the sidebar?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I didn't see a single mention of the Seattle - Portland game on tonight, despite it being from the same family of networks in the same sport. No promotion, no commercials, nothing. Was this the same for everyone else? I live on the East Coast, so there may not have been any promotion because of that reason. Was it the same on the West Coast? 
+
+**EDIT**: Apparently I need to pay closer attention. Way to go ESPN! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'd rather have Cubo Torres to be honest, although he wouldn't have fit with LA anyway (Keane and Zardes).  
+
+
+
+
+ It's a different Juninho. [He's only in his mid-20s.](http://en.wikipedia.org/wiki/Vitor_Gomes_Pereira_J%C3%BAnior) The one you're thinking of [did have a stint in New York but is now in Brazil.](http://en.wikipedia.org/wiki/Juninho_Pernambucano) 
+
+
+
+
+  But you're right, I live in LA, don't follow or care about the galaxy
+
+That's a damn shame.  
+
+
+
+
+ I'll be happy if he's the next Cherundolo, personally. 
+
+
+
+
+ That shouldn't be too big of an issue. Our league can pay more, is more competitive and I think has more Japanese expats centralized on the west coast, although I don't think anyone would want him on the Galaxy save for Galaxy fans.  
+
+
+
+
+
+
+
+
+
+ Both of you guys need to flair up! 
+
+
+
+
+ If the dead was an Israeli non-Arab, you'd be crying. Why are you pointing out the specs in everyone else's eyes while ignoring the stick in yours?  
+
+
+
+
+ Look in the mirror and take accountability of your own actions. 
+
+
+
+
+ Any journalist who comes and tries to do an objective job immediately finds their life in danger. That's why we have reporting from Beirut and Skype regarding this conflict. [Serena Shim](http://www.theguardian.com/media/greenslade/2014/oct/20/journalist-safety-turkey) is an example of what happens to the ones who try to do their job. 
+
+
+
+
+ [Serena Shim of Press TV is also dead because of this fact.](http://www.theguardian.com/media/greenslade/2014/oct/20/journalist-safety-turkey) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Well, people in the U.S. today, whether they are authority figures or not, are more afraid of being called racist that whether their actions are motivated by racism.  
+
+
+
+
+ Actually, [New York does have a Civilian Complaint Review Board.](http://en.wikipedia.org/wiki/Civilian_Complaint_Review_Board) 
+
+
+
+
+ Well, is he just a temporary expat or has he immigrated for good? 
+
+
+
+
+ The thing is, if you get a large enough, wealthy enough, taxpaying base moving in to an area, you'll get a more professional police force, you'll get more responsive police and you'll have an effect on the municipal government. More dollars coming in via economic activity will translate to more tax revenue.  
+
+
+
+
+ Intelligence as in "mukhabarat" in this case, I think. I'm not sure on the fourth one though.  
+
+
+
+
+ I laughed, although I don't think racial harmony is analogous to a failed romantic relationship.  
+
+
+
+
+ How is completely separating a "let's become friends" approach? It's more like a "let's try to completely ignore each other" approach. It's almost like you're arguing for everyone to move to their native lands and for everyone to just engage in mere diplomacy. 
+
+
+
+
+ Anything is better than "let's stop trying." I like how things are in the U.S. even if there is a long way to go.  
+
+
+
+
+ Just like how Israelis and their apologists argue everywhere.  
+
+
+
+
+ You're saying that people of different races will never get along, so we should stop trying to live near each other and cut ourselves off as soon as possible. This effectively legitimizes racism. This is the argument that white supremacist groups use today and the argument behind the segregation of old. It seems I have more faith in humanity than you do to live together with equality regardless of race. 
+
+
+
+
+ You can't be racist if you don't see the other race. Brilliant!  
+
+
+
+
+ Don't judge a book by its cover; don't judge an article by the headline.  
+
+
+
+
+ Those areas, back then, didn't become affluent until the middle class white families moved in.  
+
+
+
+
+ I don't agree with that for a second. You're effectively arguing that the only way different races can treat each other as equals is if they wall each other off. That's not an end to racism, that's an embrace of it.  
+
+
+
+
+ You're kidding, right? The whole article is about racism in an Eastern European country. I've seen other stories about how people with darker skin in Eastern Europe are very fearful.  
+
+
+
+
+ Buffalo doesn't get Canadian channels? I'd be surprised if they didn't.  
+
+
+
+
+  OK. Let's say Spain was had underwent a complete process of Arabization and Islamization. By the 10th century the majority of people on the Iberian peninsula would be Arabic-speaking Iberian Muslims (Muwalladun), the minority actual Arabs or Berbers. Eventually the Muwalladun could have expelled their Arab overlords, but they would not have been able to reclaim their Romance languages. 
+
+Didn't this actually happen?  
+
+
+
+
+ "My brother and I against my cousin, my cousin and I against the world" 
+
+
+
+
+ I'm pretty sure the Quran says there were Jews in Egypt too.  
+
+
+
+
+  we're just on a break
+
+I wonder how long the "emergency rule" will last this time.  
+
+
+
+
+
+
+
+
+
+ Never mind that the site he posted from is actually run by Jewish people. 
+
+
+
+
+ If they're in America, that will change soon on their part. Every recent immigrant takes some time to get out of their shell.  
+
+
+
+
+ In the 1950s and 60s, after Jim Crow laws were repealed and schools were desegregated, many white families left cities with high black populations and left to the suburbs rather than live alongside black people or have their children go to school with black children. This, coupled with discriminatory housing laws on the books until the 1980s in some cases, has led to a de facto segregation in many areas across the United States. 
+
+Good example of this here, if you have a half hour to spare: https://www.youtube.com/watch?v=bp22YlJlfHo
+
+If you look at a racial breakdown on a map of a major metropolitan area, you'll see stark differences in the racial makeup of certain areas.  
+
+
+
+
+
+
+
+
+
+ I think America would benefit from people self-segregating less.  
+
+
+
+
+ Well, he didn't even offer any evidence himself, he just made an arbitrary statement, unlike you, who actually post a link.  
+
+
+
+
+ The author writes about the racism he experienced while living in Ukraine, saying that the people overall were aware of racism and eager to learn more, unlike his experiences in the United States.  
+
+
+
+
+
+
+
+
+
+ Or if Vince didn't think he looks "ratty." 
+
+
+
+
+ If he is coming here, it's going to be in LA or NY. I'm not sure he would want to come to a small town (maybe he would for the diminished attention), and the league definitely doesn't want a celebrity like that playing in a small media market.  
+
+
+
+
+ No, we played Bayern Munich in Portland, how did you forget?  
+
+
+
+
+ What's wrong with that?  
+
+
+
+
+
+
+
+
+
+ [I made it one of these! Woohoo!](http://giphy.com/gifs/EXzrnapKb8U92/html5) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's just Mr. Excitement livening things up. People Power! 
+
+
+
+
+
+
+
+
+
+ [US soccer journalist Grant Wahl had a half-serious run. It got weird.](http://www.si.com/more-sports/2011/04/01/fifa-candidacy)
+
+[After that, to prevent an outsider from winning, they changed the nomination rules.](http://www.theguardian.com/football/when-saturday-comes-blog/2014/jun/06/fifa-election-rules-president-sepp-blatter) 
+
+
+
+
+ Dude you had Red Bulls flair a few months ago. 
+
+
+
+
+ They are on the verge of being relegated from the 2.Bundesliga and Bobby Wood hasn't been successful there himself. 
+
+
+
+
+ This is what I was referring to, thanks.  
+
+
+
+
+ If you run racist promos on someone, you better not go over.  
+
+
+
+
+ I'd be happy if the local affiliates picked up the local team's game each round.  
+
+
+
+
+ I don't see where you saw that at all. And that last sentence of yours seems to be reminiscent of predisposed bias.  
+
+
+
+
+ You're my new favorite poster. 
+
+
+
+
+ TEAMS WITH STADIUMS NAMED AFTER TOYOTA: FC DALLAS AND CHICAGO FIRE. SO THERE ARE TWO TEAMS YOU'RE TALKING SHIT ON. 
+
+
+
+
+ THE MAN WHO WASN'T CONTENT RUINING ONE TEAM IN THE EXPOS AND *HAD* TO GO SOUTH TO RUIN THE MARLINS TOO... 
+
+
+
+
+ WILD THING... 
+
+
+
+
+ Hey, Red Bull.
+
+Can you hear me? I said, **hey, Red Bull!**
+
+**YO, RED BULL!** 
+
+Glad I got your attention. You might make some of your fans happy again if you got on this. He'd be nice slotted next to Dax McCarty. Sure, your fans will still be bad about the missing Petke, but this will help put to rest the rumors about cost-cutting and shifting all of your resources to Leipzig.  
+
+
+
+
+ Luis Silva is still healthy, right? Is Conor Doyle healthy again?  
+
+
+
+
+ Beeeee (or Jaaay?) 
+
+
+
+
+
+
+
+
+
+ The movie with Al Pacino is freaking awesome, and would be loved by nearly everyone on this subreddit. Seriously, watch it.  
+
+
+
+
+ You do realize it's used that way as a sectarian slur against those entities because of Shi'i connections?   
+
+
+
+
+ Old Bay tastes good on everything.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It's a slur/perjorative not just used by Daesh and Nusra, but also used by those prejudiced against Shi'i, who are also present in Iraq.  
+
+
+
+
+ Why are you using that word? It's been quite a few centuries now.  
+
+
+
+
+ Of all the countries, how did Lebanon end up with the most conservative of the costumes? Is there a cultural revolution occurring there that I'm not hearing about? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * /r/squaredcircle 
+
+
+
+
+  I put green/red chile on everything as my main spice, so sometimes things feel off without it 
+
+Bro, Indians/Pakistanis do the same thing. You might like their cuisine, as it has a few similarities with Middle Eastern cuisine and is spicy. 
+
+
+
+
+ The Washington Nationals used to be the Montreal Expos, actually. 
+
+The team that used to be the Washington Senators is now the Texas Rangers.  
+
+
+
+
+ You're no longer female or an IT manager?  
+
+
+
+
+ Taking a 34-year-old third stringer was the right decision over taking a someone else who is more than 10 years younger?  
+
+
+
+
+ Thank you for actually answering my question.  
+
+
+
+
+
+
+
+
+
+ It's off the hizzle f'shizzle my cupcizzle.  
+
+
+
+
+ Is Ryder healthy yet?  
+
+
+
+
+
+
+
+
+
+ I hope AJ Soares signs with Hellas Verona soon so the U.S. has another standard-bearer in Serie A.  
+
+
+
+
+ *spelling 
+
+
+
+
+  Gave me a nod so you can say it got pretty serious. 
+
+http://i.imgur.com/5pOdc.jpg 
+
+
+
+
+ It must have blown that kids mind.  
+
+
+
+
+ I don't know if he's among our best.  
+
+
+
+
+ What bot? 
+ 
+
+
+
+
+  NJS
+
+? 
+
+
+
+
+ /r/firstworldanarchists 
+
+
+
+
+ LOL at the wrestling fan complaining about "fake crap" 
+
+
+
+
+ [](/ronsimmons "Seriously?")
+ 
+
+
+
+
+ [](/henry "THAT'S WHAT I DO!")
+ 
+
+
+
+
+ It's a Michael Bay movie. The budget was blown on the effects, you know that.  
+
+
+
+
+ Jake Gyllenhaal in freaking Prince of Persia had a British accent. How??? 
+
+
+
+
+ I think Sin Cara (Mistico) used to do this or something similar as well. 
+ 
+
+
+
+
+ Were you a sk8er boi?  
+
+
+
+
+ You could both be right if you each only hung out in certain parts of the city.  
+
+
+
+
+  horrid 
+
+British English in Abilene, Texas?  
+
+
+
+
+ Hope people realize you were being sarcastic.  
+
+
+
+
+ Yeah, Freddy never scored against Spain.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Flair up while you're at it! 
+
+
+
+
+
+
+
+
+
+ This would be an absolute disaster considering the new TV deal, the new teams coming into the league and the new DPs this year.  
+
+
+
+
+ Daily Mail: Mastroeni's mustache has been transferred to Everton FC for a transfer fee said to be in the $6-8 million range. 
+
+Roberto Martinez is said to be delighted with the mustache arrival: "Now I can look like one of those old-time Arab sheikhs from black and white cinema. I'm hoping that will attract the attention of some wealthy Gulf investors to Everton." 
+
+
+
+
+ Hey, that's not nice to Ray Gaddis! And I don't see as much Union as I like, so is Fabinho really that bad?  
+
+
+
+
+ Are you sure they don't contradict BDS? These are sponsored trips paid for by organizations which do financial as well as public relations support for the Israeli government and military. 
+
+[This post](http://www.reddit.com/r/BDS/comments/2r5tw1/and_the_faithwashing_continues_second_cohort_of/) is about the same issue and did not receive any sort of comment from you. The only difference with the story is that it is a history and summary of the trips along with the backlash to them. Rather than posting six or so links on the issue, I thought this would be a good sum up piece.  
+
+
+
+
+ Upper eastern shore? The county wouldn't happen to rhyme with Beecil, would it?  
+
+
+
+
+
+
+
+
+
+ If he gets US citizenship later, can't he switch then? This isn't a senior national team cap for a competitive match. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He does now that "religion of peace" was popularized by George W. Bush, right?  
+
+
+
+
+ If you think radicalization is a big deal now, wait and see what happens if Saudi gets attacked.  
+
+
+
+
+ Honestly, I never saw it spelled wrong online until I came to Reddit. It's insane.  
+
+
+
+
+ Baltimore isn't getting an MLS team anytime soon :( 
+
+
+
+
+ Putting a USL-Pro team in South Texas is a brilliant move. You're tapping an area with a hotbed of soccer talent that normally looks at Mexico for opportunities.  
+
+
+
+
+ Buffalo Bills of MLS 
+
+
+
+
+ Better than the one that booed Santa Claus (Philadelphia).  
+
+
+
+
+ I think he left on a transfer fee, which negates any rights a team has to a player.  
+
+
+
+
+ They need someone for Wright-Phillips to play off of now that Henry is gone.  
+
+
+
+
+ You got beaten to the punch: http://www.reddit.com/r/MLS/comments/2sg92t/match_thread_usa_vs_aruba_u20_wc_qualifier/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ And keeps his hair short, so that doesn't work.  
+
+
+
+
+ Don't sit in the supporter's section and sit far away (as close to the opposite end as possible) and you shouldn't hear any of that.  
+
+
+
+
+ How are they fitting all of this under the cap??? 
+
+
+
+
+ Saddam?  
+
+
+
+
+ Steve Nicol with New England too. And he did a pretty good job, aside from the lack of MLS Cups. 
+
+
+
+
+ Ok, U.S. Soccer and MLS need to embrace Alianza full stop. Don't lose talent that might otherwise end up with other CONCACAF national teams or Liga MX.  
+
+
+
+
+ Sometimes it causes it. And I only ever get the fish.  
+
+
+
+
+ Nice backpedaling. When you use words like "savages, shithole countries, pitiful sand covered shithole, and uneducated barbaric savages," you're attacking everybody, not just the extremists, and you alienate everyone else. If someone doesn't feel like their country doesn't accept them, they'll look for acceptance elsewhere. And besides that, don't learn about religion from some news articles about tragedies. There's a billion-plus other people who don't do messed up stuff.  
+
+
+
+
+ Pegida, National Front, British National Party, Party for Freedom or one of the other far-right parties in Europe? Or do you hang out on the right here in the States? Or elsewhere? Whatever the case, there's nothing you can do about immigrants or a Muslim presence. The more you ostracize them, the more you'll push them to the militants. Best to get along with them as best you can and, dare I say it, consider them your fellow citizens and natives. They will have a different color of skin than you and have different names than you. They likely will follow a different religion than you. Deal with it. Because humanity doesn't have a good track record of excluding humans because they "aren't like us." If you're in Europe, look backward about seventy-plus years. Or heck, [just three years back to this guy.](http://en.wikipedia.org/wiki/Anders_Behring_Breivik) Because that's the end game of your ideology.  
+
+
+
+
+ Donetsk isn't even playing in Donetsk right now. There's been quite an exodus from the Ukranian League since the separatism.  
+
+
+
+
+ immigrant savages
+shithole countries
+if these immigrant savages don't like how things run over there, they can fuck off back to their pitiful, sand-covered shithole.
+uneducated, barbaric savages.
+
+Bigoted xenophobe confirmed. Attitudes like yours are repulsive and in many ways are more of a recruiting tool than any takfiri website.  
+
+
+
+
+ Cahill may be on international duty a lot, and if you guys play with two strikers he might be needed.  
+
+
+
+
+ He's remarked quite publicly that he doesn't quite see eye-to-eye with Jurgen. Plus, they are both two former forwards with big egos.  
+
+
+
+
+ I can't see Jurgen being okay with a move to Qatar, or even Greece, the one time haven of Eddie Johnson and Freddy Adu. Even Russia these days is probably unfriendly to American citizens, let alone those who play for the national team.  
+
+
+
+
+ Qatar? Greece? Ukraine? 
+
+Who would mess with any of those countries for soccer right now?  
+
+
+
+
+ Ba dum tish 
+
+
+
+
+ This was actually a legit reason for RBNY to back out.  
+
+
+
+
+ Meanwhile, Ethan Finlay was not called into the U.S. camp. A little hope for you guys.  
+
+
+
+
+ This is the best thing to do. While spreading cartoons may make you feel like such a great Free Speech Warrior^TM , these websites are the main recruiting and propaganda tool for these groups. One of the reasons that journalists are executed by them is that they don't see the point when they put out their own videos.  
+
+
+
+
+ Two years ago, [Petke] made a birthday video for my seven year old son wishing him a happy birthday and telling him to keep practicing playing soccer and maybe one day, he would play for him, Ader recalls. Talk about youth development! To have the coach who the kids watch every game say something like that  it really changed his life. Now he is nine and playing soccer everyday, five days a week. I know that role model was key part of it. I am forever grateful to that and for that.
+
+
+Why did they fire Petke again?  
+
+
+
+
+ To be fair, Mix hasn't exactly been acting coherent on Twitter lately.  
+
+
+
+
+ Don't the Red Bulls have a discovery claim on him? 
+
+
+
+
+ Some of the teams pay their players, which is why it's semipro.  
+
+
+
+
+ The trapped migrant workers aren't lucky enough to live in houses. They have shantytowns, tenements and trailers. These would be the middle-class, somewhat better off white collar and service workers.  
+
+
+
+
+
+
+
+
+
+ Monkey logic, indeed.  
+
+
+
+
+ **Submission Statement:**
+
+The article by Teju Cole looks at some of the underlying issues behind the Charlie Hebdo attacks, including the magazine's history of provocation on ethnic, religious and racial lines. It also points out double standards on the deaths of innocents in other places, as well as on free speech itself.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Contrary to outsiders view of Israeli society Israelis actually don't particularly like military campaigns because it means calling on the reserves. 
+
+Does not compute with what you just said.  
+
+
+
+
+ In the first few games called up under Klinsmann, he played really well. Assisted on two goals in two different games against Mexico. Perhaps Klinsmann thinks he can still build on that.  
+
+
+
+
+ Set up the goal in Klinsmann's first game in charge, set up the goal in our first victory in Mexico... yup pretty good track record.
+
+Of the three players involved in that first goal (**EDIT**: changed from game) under Klinsmann (Agudelo, Shea and Rogers), only Shea is left standing, oddly.  
+
+
+
+
+ Andrew Wooten is an American who is playing far better in the 2.Bundesliga.  
+
+
+
+
+ Maybe he's going with a five man backline and wants D-Mid type CBs.  
+
+
+
+
+ What's wrong with him playing for Canada? We've stolen quite a few already (looks like Akindele too) from them, so if they get one or two to switch from the U.S., I'm not going to stress.  
+
+
+
+
+ Why is it that every military campaign has something like 80-90 percent approval among the Israeli public?  
+
+
+
+
+ Nobody ever really had anything bad to say about him from that team.  
+
+
+
+
+ [You didn't know he got hair plugs?](http://i31.tinypic.com/x575dv.jpg) 
+
+
+
+
+ Believe it a not, Muslim is actually a first name too. So he can go by that. He already has a beard.  
+
+
+
+
+ Grant Wahl, the source of this thread, is part of the American press.... 
+
+
+
+
+ Israel likes to schedule their military campaigns near elections. It helps with votes.  
+
+
+
+
+ Kind of sad to read this, looking back. 
+
+
+
+
+ They all have players' unions that have fought like hell to get decent treatment for the athletes, and also give them legal recourse in the event there are disagreements.  
+
+
+
+
+ Brek Shea's one good season got him doing Adidas commercials. 
+
+And how could you say [Mix](https://www.youtube.com/watch?v=zqO1fcU5hk4) isn't marketable?  
+
+
+
+
+ The better question is, why aren't any of the other 18 teams doing so (excluding the Diskerud and Shea situations? 
+
+
+
+
+ Before his disastrous move to Stoke and subsequent injury, Edu was ahead of Beckerman on the USMNT depth chart.  
+
+
+
+
+ Who wants to bet the season ticket holders will be cherrypicked?  
+
+
+
+
+ Switch the two. You have to take Chief Charisma into account after all.  
+
+
+
+
+ He's the UK Muslim version of Fred Phelps.  
+
+
+
+
+ In our bubbles near major cities, we don't see it, but in middle America and the south, and in conservative areas, FOX is the news network of choice. That's a lot of people.  
+
+
+
+
+ If foreign clubs can pay more, MLS academies could lose their best talent.  
+
+
+
+
+ There's nothing in our holy book to back up terrorism.  
+
+
+
+
+ even? 
+
+
+
+
+ In order to be a fan of American soccer, don't you have to like soccer played in America?  
+
+
+
+
+ She wants the E 
+
+
+
+
+ J and J Security would be perfect for this.  
+
+
+
+
+ They won't take the Gaxaly route? Phew, I thought that it said they won't take the Galaxy route. That would be stupid, considering the Galaxy has a nice balance of young talent and foreign stars.  
+
+
+
+
+ At a time when Klinsmann is apparently recommending that young players go overseas, this does not bode well for the league keeping the talent developed in its academies.  
+
+
+
+
+ Why not Berry and Valdes? Austin is still there, right?  
+
+
+
+
+ No, that's Dafoe.  
+
+
+
+
+ Visit where? Flair up! 
+
+
+
+
+ With Switzerland.  
+
+
+
+
+  Source: Had to look at cat dicks in a lab
+
+
+Sure you did.  
+
+
+
+
+ This was our buried friend before Zack Ryder.  
+
+
+
+
+ Start with two through four in that order, and don't limit yourself when it comes to Islamic scholars. Sunni, Shia, etc. all should be explored. You'll have some issues if you don't know Arabic and Farsi for this, as translated works aren't as widespread as they should be.  
+
+However, most of the world's Muslims don't speak these languages (part of the reason is a lack of education), yet they still understand many concepts both basic and not so basic. Most of the world's extremists either haven't read up or have merely seen the most extreme of sources.
+
+After you've learned a bit from scholars and scripture, you'll be able to get a better picture of what's wrong with extremists. At least I hope so.  
+
+
+
+
+ That is some of the most severe right wing propaganda that I have ever read. You're taking some kind social media activism as some kind of organized campaign by the radical left, when really it's slacktivism at worst and legitimate activism as best. Your hatred seems to be directed at "social justice," as well as any sort of left leaning ideology. 
+
+They work hand in glove with race-baiters and use ridiculous theories to convince the uneducated that somehow someone else is responsible for their lot in life. They promote debunked Marxist and Communist economics and politics as solutions for the 'injustice' of our society. They erroneously believe confiscation and redistribution of wealth by the government (with special groups like themselves getting a cut) will solve critical fundamental flaws actually caused by poor quality education and the effective dissolution of families, particularly in the black community. And they use every opportunity to shout down anyone who disagrees with them, usually by playing the race card. Assault, defamation, harassment, innuendo, libel and lies, rumor, slander, threats and violence are their tools of the trade - manipulation of the uneducated masses to accede to their wishes (money and power) is their goal.
+
+My God, it's like I'm reading a tea-party manifesto. 
+
+ SJW, race-baiters, and environmentalists are really nothing more than shakedown artists. They vampire ludicrous amounts of resources but contribute nothing positive to society, and are deserving of all the derision and ridicule they get, IMHO.
+
+Yeah, I'm going to just call you a far-right extremist. That's enough internet for me today.  
+
+
+
+
+ You're completely wrong. The majority of Muslims don't act like animals. Just look at the UK, where most Muslims are fine. France has five million Muslims, the most in Europe, and this is the first terrorist attack of its kind. 
+
+I'm just glad I live in the United States. At least the bigots don't make like difficult for us here, and we tend to be successful. In Europe, we're shoved into ghettos and poverty.  
+
+
+
+
+ What's wrong with that?  
+
+
+
+
+ I think the term's use as an insult is idiotic. The irony of someone campaigning for the internet would be a "warrior" coupled with the fact that they are doing so for a good cause (social justice) and the fact that some people think that's worthy of derision.  
+
+
+
+
+ I've seen dozens of names both cultural and religious, from both Pakistanis, Arabs, Iranians, Afghans, etc. Perhaps it's just where you're at.  
+
+
+
+
+ My whole argument is that Islam teaches NOT to kill people just for having different opinions. This isn't berating, this is arguing. I apologize if you think that's what it is. I don't know if I can convince you of that. Perhaps I can't, but I had to try. Please don't hold prejudice or violence in your heart against Islam. Muslims are full of flaws, but the ones responsible for the attack went beyond the bounds of Islam. That's all that I wanted to say.  
+
+
+
+
+ No, you misunderstand. "The entire religion" doesn't subscribe to one belief because there's no central authority. His ideas are perfectly valid, and I agree. But there's a written tradition from one of the Prophet's descendants: "Don't judge the religion by its followers. Judge the followers by the religion."  
+
+
+
+
+  why issue fatwas on everything disagreeable
+
+This doesn't make sense. Avoid rulings on controversial topics?  
+
+
+
+
+ It just basically said making the cartoons depicting his face or insulting him isn't allowed. It didn't come with any kind of penalty.  
+
+
+
+
+ TIL my religion is apparently defined by polls.  
+
+
+
+
+ There's no central leadership in Islam. So that's not valid.  
+
+
+
+
+ Ironically, they are killing Muslims. 
+
+
+
+
+ Reading a few news articles doesn't mean you know my religion.  
+
+
+
+
+ You haven't met that many Muslims, have you? 
+
+
+
+
+ Beliefs based on faith are not irrational, saying stuff like that pisses off the majority of people of faith, normal or extreme, Muslim, Christian or whatever.  
+
+
+
+
+ Ah yes, even when we condemn it, we're lying! I don't care what you think. I know very well what Islam teaches, having been raised in it, and I and most other Muslims know this is wrong, and you don't get to tell me what I "actually" believe. 
+
+
+
+
+ Hey, you used to have Red Bulls flair... 
+
+
+
+
+ That's a myth. Muslims speak out against such things all the time but it never gets coverage. http://theamericanmuslim.org/tam.php/features/articles/muslim_voices_against_extremism_and_terrorism_part_i_fatwas/ 
+
+
+
+
+ His name is Anjem Chaudary, not Armen, and he's basically the Fred Phelps of UK Muslims. He doesn't enjoy much support and every legitimate Muslim organization has condemned him.  
+
+
+
+
+ [Citation needed]
+
+Here's the actual truth. There are many stories of the Prophet Muhammad's patience. 
+Here are just a couple: http://www.islamicity.com/articles/Articles.asp?ref=IC1209-5257
+
+If it's condemnation of terrorism you're looking for: http://theamericanmuslim.org/tam.php/features/articles/muslim_voices_against_extremism_and_terrorism_2/
+
+ 
+
+
+
+
+ I'm not sure what you are trying to say. Tariq Ramadan not an expert? You're kidding, right? http://en.wikipedia.org/wiki/Tariq_Ramadan 
+
+
+
+
+ Anyone who uses the term "social justice warrior" is an idiot.  
+
+
+
+
+
+
+
+
+
+ Support the Union. You'll have a slightly less incompetent front office. 
+
+
+
+
+
+
+
+
+
+ Oh god he's thanking Vergara. THAT MONSTER 
+
+
+
+
+ This again? 
+
+Stop trying to make Adu to NASL/USL happen. 
+
+IT'S NOT GOING TO HAPPEN. 
+
+ 
+
+
+
+
+ NYCFC making a good decision and RBNY making a bad one? What is this, 2013? 
+
+
+
+
+ Haha, that means RSL isn't global! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If I was Clint Irwin I'd be worried. This is a much safer replacement move than the completely insane Joe Nasco experiment of last year. Irwin still hasn't done anything in my opinion to lose the job, which leads me to believe Mastroeni just doesn't like him for some reason.  
+
+
+
+
+ "Someone" happens to be Eric Heyl, a staff writer for Trib Total Media.  
+
+
+
+
+
+
+
+
+
+ He had an acclaimed role in Milk as Harvey Milk's partner. 
+
+
+
+
+ That Big Red freshness lets you chew it. 
+
+
+
+
+ We've never had a foreign face be WWE champion save for Canadians, and I think Vince's bias is a big part of that if not the sole reason.  
+
+
+
+
+ X-PAC SUCKS! 
+
+
+
+
+ Am I the only one who thought last week's crowd was pretty good?  
+
+
+
+
+ You forgot to plant a "will" in there. Maple you'll do better in the future.  
+
+
+
+
+ Criticism of racism that gets buried.  
+
+
+
+
+ Quit your barking, the thread will bear fruit.  
+
+
+
+
+  3 months in Iran and Iraq
+
+Ahh, Ziyarat.  
+
+
+
+
+ Wait until you graduate see if you can still say that.  
+
+
+
+
+ What kind of hobo can afford a gym membership? 
+
+
+
+
+ That's what the article is about... 
+
+
+
+
+ None of these groups have ever participated in massive terrorist bombings or even attacks targeting civilians.  
+
+
+
+
+ For reference, Faylis are a minority tribe of Kurds that happen to be Shi'a, too.  
+
+
+
+
+ Why the heck would you go to China if you have no interest in the culture? Does he really like his job or something?  
+
+
+
+
+
+
+
+
+
+ That's not what I meant. Cherundolo had a solid but not spectacular career for Hannover and the USMNT. I'd be happy if Yedlin merely reached that level, but to be honest that is the minimum I expect from him. 
+
+And the USMNT is pretty deep at RB. Fabian Johnson, Geoff Cameron and Timmy Chandler can all play there. Yedlin may end up being a marquee right midfielder or winger.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They are an opinion site, not a news site.  
+
+
+
+
+ Everyone says that, but they are usually people who disagree with its politics.  
+
+
+
+
+ The characters are fictional anyway, why do they "have" to stick to that?  
+
+
+
+
+ Downvote and move along, then. /r/politics mods hate Alternet.  
+
+
+
+
+ So what, we went to Iraq and let their government live?  
+
+
+
+
+ I was going to watch, but then I saw /u/dicklordmcfaggotson's comment, and everyone knows he's always right.  
+
+
+
+
+ Clearly they don't want government buildings to be near any future protests.  
+
+
+
+
+
+
+
+
+
+ Sauce? 
+
+
+
+
+ Truth hurts, huh?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If they are devoted to their religion and male, they likely are.  
+
+
+
+
+ [You could not be more wrong.](http://www.thedailybeast.com/articles/2015/01/14/are-all-terrorists-muslims-it-s-not-even-close.html) 
+
+
+
+
+ In Urban areas, racial diversity is normal, so it is a lot less common. That doesn't mean it never happens, but you'll have more people jumping to your defense.  
+
+
+
+
+ The military doesn't realize that serving in a country's military is a big part of Sikh culture, and that the soldier will be extremely professional.  
+
+
+
+
+ Even if he was a Muslim it wouldn't be okay.  
+
+
+
+
+
+
+
+
+
+  Muslims are allowed to eat meat from Christians and Jews. 
+
+Sorry, this isn't agreed upon by all Muslims. http://en.wikipedia.org/wiki/Dhabihah 
+
+
+
+
+ Fun fact: Chilean Sea Bass isn't really ["sea bass."](http://en.wikipedia.org/wiki/Patagonian_toothfish) 
+
+
+
+
+ Uhh, you forgot Mickie James. Maryse wasn't bad either.   
+
+
+
+
+ Not Arab, but Muslim. I stick to seafood or vegetarian if meat isn't halal.  
+
+
+
+
+ Do you ever get fish?  
+
+
+
+
+
+
+
+
+
+ I take it this is for stoppage time?  
+
+
+
+
+ YES, YOU CAN, GET A FLAIR LIKE I HAVE 
+
+
+
+
+ HEY, DO WHAT I DO OR FIND SOME VINTAGE CREST 
+
+
+
+
+ TWO OF DC'S STARTERS WERE HURT YESTERDAY. 
+
+
+
+
+ DORITOS 
+
+
+
+
+ Look at this hipster following the AFC Champions League. /s 
+
+
+
+
+ Does the group plead the FIF?
+
+1,2,3,4, FIF! 
+
+
+
+
+ Their pro-rel is kind of a joke. Rich teams that were relegated were buying the licenses of promoted teams so they could stay up.  
+
+
+
+
+ Ok feud with CM Punk that had Punk creepily singing happy birthday to Rey's adorable daughter.  
+
+
+
+
+ He should've gotten a retirement match or sendoff, though.  
+
+
+
+
+ Where did Styles go?  
+
+
+
+
+  Mysterio vs. Fenix and Mysterio vs. Drago
+ 
+
+Mysterio vs. Johnny Mundo (Morrison)! A match we never got in WWE (at least not that I remember) that would be amazing.  
+
+
+
+
+ You think Gaddis is better? Maybe defensively, but I don't think you remember the Williams from a couple of years ago.  
+
+
+
+
+ Well, we'll see if RBNY can win any playoff competition anytime soon.  
+
+
+
+
+ Wow, good that he's doing that again! When healthy, he really helps the offense and is one of the top RBs in the league.  
+
+
+
+
+ What are those, comment flairs for ants? They should be like, five times bigger.  
+
+
+
+
+ Who made the cross? Well aimed.  
+
+
+
+
+ Except when the CCL rolls around (at least until an MLS team wins it).  
+
+
+
+
+ For those of you who don't get it, he's talking about the Brooklyn Italians. 
+
+
+
+
+ Not according to the UN and most of international community.  
+
+
+
+
+ How much time do you have? Zack Ryder. Christian. Cesaro. Big E. Kofi Kingston. Titus O'Neill. Tyson Kidd. Sin Cara. Every diva who can wrestle and act convincingly.  
+
+
+
+
+ Uh oh, that sounds like union talk! Better get the scabs!  
+
+
+
+
+ Username is great here.  
+
+
+
+
+
+
+
+
+
+ I agree completely. It's why I don't have an MLS team yet. I've never lived anywhere with one, and don't identify with the team closest to my hometown (in MD, close to Baltimore, but the closest MLS team is Philly). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There are like eight teams in London though! And Fulham has a reputation for signing Americans, and now has an American owner. 
+
+
+
+
+ Grammar is usually worse when people type from their phones. I have to know correct grammar for my job. I don't correct people, but when you try to call people out for it (even if it is sarcastic), I HAD to do it.  
+
+
+
+
+ Didn't capitalize Man or I, spotlight is one word, grammar is spelled with two A's, shorthand is usually one word.  
+
+
+
+
+ How do I become clear?  
+
+
+
+
+
+
+
+
+
+ Who is yersel and why should I be thinking for him? 
+
+
+
+
+ Salaam my Arab brother! Christian? Atheist? Jewish? 
+
+
+
+
+ "You Winchesters are idjits!" 
+
+
+
+
+ Whoever was downvoting this earlier is stupid. That's how you respond to "takbir," for one, so it's not unexpected. Second, every Muslim says Allahu Akbar, not just extremists.  
+
+
+
+
+ But then you'd be rooting for financial groups, mate. 
+
+
+
+
+
+
+
+
+
+ OP is whining.  
+
+
+
+
+ Yeah, I think he slipped in that joke.  
+
+
+
+
+ It's been there for eight hours. It's also on /r/videos. 
+
+
+
+
+ Hence why he said "worse-kept secret." 
+
+
+
+
+  Felix Magath's farther 
+
+I take it his closer was German?  
+
+
+
+
+ On  a related note, here's this: http://www.washingtonpost.com/posteverything/wp/2015/02/17/its-hard-to-prove-any-hate-crime-but-for-muslim-victims-its-especially-tough/?hpid=z10 
+
+
+
+
+ Your posterior had better contact someone at once! 
+
+
+
+
+ Hey Garber and the players' union, are you listening? The mental health of these people is at stake! 
+
+
+
+
+ [The FBI thinks there's enough evidence to open an investigation of their own, and have seized the man's computer, a camera and three phones.](http://www.nytimes.com/2015/02/14/us/fbi-inquiry-muslim-student-killings-chapel-hill-north-carolina.html) 
+
+
+
+
+ Terrorism knows no race or religion.  
+
+
+
+
+ Why can't Muslims be rogue idiots with mental problems? Are they always part of a greater movement?  
+
+
+
+
+ In America and England, those are areas of crime, not "Shariah zones" or some BS.  
+
+
+
+
+ Biden's son Beau served overseas, even though he was Attorney General of Delaware at the time.  
+
+
+
+
+ Neither was a hate crime? Yeah, ok. Who says atheists can't be right wing, anyway? We don't know (**EDIT: changed from now) about his political views. 
+
+And you found one supposed false accusation, never mind that there's no web link. Congratulations. 
+
+We have politicians like Bobby Jindal claiming there are no-go zones when that has been debunked. We have people frothing at the mouth when you don't call terrorism "Islamic" or "Muslim," never mind that most of the victims are Muslims, and we have people claiming that Muslims don't condemn terrorism. As Chris Christie put it, "I'm tired of dealing with the crazies."  
+
+
+
+
+ American Muslims have a rational fear of right wing bigotry and terrorism, like what we just saw in Chapel Hill and Houston. A fear of Muslims and Islam is irrational.  
+
+
+
+
+
+
+
+
+
+ You just made some Cosmos official's day. 
+
+
+
+
+
+
+
+
+
+ Yes, I think that's how it works. 
+
+
+
+
+
+
+
+
+
+ DC's is, or so I've heard. 
+
+
+
+
+ U-20s I believe, and he played in competitive matches.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The few that have (I'm talking like three or four) probably have come back to the U.S.  
+
+
+
+
+ That was confirmed actually. He's with Uruguay now.  
+
+
+
+
+ As long as it isn't pay to play. Kids with rich parents in the suburbs won't benefit from this as much as talented kids from the other side of the tracks who can't afford the expensive club teams. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hopefully Ventura Alvarado and Cesar Romero.  
+
+
+
+
+ Someone RES tag him! 
+
+
+
+
+ The Hansel of the US soccer pyramid.  
+
+
+
+
+ https://i.imgur.com/IAt9wjT.jpg 
+
+
+
+
+ I'm picturing two four-year-olds arguing about this and it's adorable.  
+
+
+
+
+ [CONCACAF Champions League.](http://en.wikipedia.org/wiki/CONCACAF_Champions_League) 
+
+
+
+
+ Yeah same with me. 
+
+
+
+
+ I saw one chilling at my hotel in Texas a few years ago.  
+
+
+
+
+ You should use "In Latvia no potato, only pain." 
+
+
+
+
+ He sounds like a keeper. 
+
+
+
+
+ I don't know. Is Bork sensitive about his girl pop love? 
+
+
+
+
+ Bork seems to be into a lot of girl pop for some reason.  
+
+
+
+
+ BORK CAME IN LIKE WREAKING BALLLLLLLLL 
+
+
+
+
+ In the preseason so far, Edu is playing D-Mid, with the Portuguese-Canadian guy on loan and Ethan White holding down the CB spots.  
+
+
+
+
+ **Submission Statement**
+
+The Detroit man who was fortunate enough to get donations after his story of walking 20 miles a day to work went viral now has a host of problems to deal with, as he appears to be wealthy in his impoverished neighborhood and now wears a metaphorical target on  his back.  
+
+
+
+
+
+
+
+
+
+ I'm not even a fan of Indy Eleven and I want it.  
+
+
+
+
+
+
+
+
+
+ Yeah, I read about it in that article by Brian Sciaretta the other week. Sure, the Armenian league isn't all that great, but if Ibarra can get called up, Romero should too. Mexico also has to be noticing his play at this point as media attention increases.  
+
+
+
+
+ Cesar Romero is running away with the Armenian league golden boot. He needs to get called up too.  
+
+
+
+
+ It was good news for Americans, who make up a majority of this subreddit. It also was the catalyst for the creation of MLS.  
+
+
+
+
+ When the '94 World Cup was announced?  
+
+
+
+
+ So, anybody want an older Rapids jersey. It's 2XL and has been sitting in my closet for a while. I bought it from Ross and it still has the tags. I've been too lazy to post to /r/kitswap (I'll do it eventually). Does anyone here want to save me the trouble?  
+
+
+
+
+ He's a Twellman-Holden hybrid.  
+
+
+
+
+ That's what supporters of Bashar say too.  
+
+
+
+
+ You were hoping he had relations with a corpse?  
+
+
+
+
+ Woo woo woo, you know it! 
+
+
+
+
+
+
+
+
+
+ And that's why you're an NYC fan.  
+
+
+
+
+ It's a play on grassroots. Grassroots means an effort that began organically, from the ground up. Astroturf is fake grass, so astroturfing is a fake version of grassroots. 
+ 
+
+
+
+
+ I'm referring to the previous "reform" candidate Mohammed bin Hammam, who has since been banned from FIFA.  
+
+
+
+
+
+
+
+
+
+ Government propaganda can be hazardous to one's mental health.  
+
+
+
+
+ What about that Mecca-Madinah railway?  
+
+
+
+
+ Only in that it is one year afterward... 
+
+
+
+
+ Why are all the reform candidates members of Arab royal families?  
+
+
+
+
+ Autocorrect has ruined me. 
+
+
+
+
+ I always thought a good gimmick would for someone to buy into his philosophy, start Bo-lieving and then suddenly win their matches with Bo's help. Someone like Zack Ryder would be perfect. He could wear a white suit, have a combed haircut and start spouting off how terrible he was before he met Bo and started bolieving. They could do that victory lap holding each other's arms high. 
+
+**EDIT:** Suit not suite. He can't wear a nice hotel room. It's also spelled "bo-lieve." 
+
+
+
+
+ thatsthejoke.jpg 
+
+
+
+
+
+
+
+
+
+ It's sad that you only see those two options. Tunisia seems to be doing well.
+ 
+
+
+
+
+ [Reverse Racism lol](http://youtu.be/SoG4pNWUVZw) 
+
+
+
+
+ OK, Jerry. 
+
+
+
+
+ HATERS GONNA HATE HATE HATE
+
+BORK SHAKE IT OFF 
+
+
+
+
+ Hur durr they're Arab cuz they wear turbans. OP is a   
+
+
+
+
+ I'll talk shit on any unelected king, bro, when they make the news. I have issues with leaders who aren't accountable.  
+
+
+
+
+ You have Arab immigrants too, don't forget them! 
+
+
+
+
+ In your case, probably Israels.  
+
+
+
+
+ He's an unelected king with near-absolute control. I think that's why he's being denigrated.
+
+ 
+
+
+
+
+
+
+
+
+
+ On a related note, what happened to Conor Doyle? He got minutes a couple of seasons ago but rode the pine last year.  
+
+
+
+
+ entire political party bigoted is very much a personal attack
+
+I fail to see the logic in this. 
+
+ 
+
+
+
+
+ He's a mod for /r/PalsbaraInAction, so JIDF probably isn't far off. **EDIT**:Just checked, he isn't and I got him confused with another user. Still posts too much though.  
+
+
+
+
+ Then hummus is biddah, because the clearly the chickpeas are taken from the plant, mashed, and deliciously flavored... 
+
+
+
+
+ /r/im14andthisisfunny 
+
+
+
+
+
+
+
+
+
+ They certainly are, but I'm not less of an American for disagreeing with them.  
+
+
+
+
+ How much of it is him and not being egged on by the producers?  
+
+
+
+
+  If you don't like democracy, YOU can be the one to GTFO. 
+
+Thankfully, there's a first amendment that protects people regardless of their political opinions.  
+
+
+
+
+ /u/sematrix is a bit prejudiced against Jews and Judaism. He posts ok stuff, but discredits those of us who criticize Israel because we are opposed to injustice, not because we don't like Jews or Judaism.  
+
+
+
+
+ I like the post, but I don't like semantics or the poster...oh right, sematrix.  
+
+
+
+
+ I think they're setting up a face Orton - heel Rollins matchup at Wrestlemania, hence the Orton bashing.  
+
+
+
+
+ I'll give you Putin and their laws, but supporting Russia and Russian culture does not make someone a heel, it just makes them proud of their country. Making someone pledge allegiance to another country against their will is a heel move.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Are we sure if this is satire or not? 
+
+
+
+
+ Oh, I wasn't referring to 2003. Back then, Syria was internally ok, relatively speaking.  
+
+
+
+
+ You forgot Bahrain, which brutally crushed its own Arab Spring (all but dead unless you live in Tunisia) uprising.  
+
+
+
+
+ Plenty of Syria refugees are in Jordan as well.  
+
+
+
+
+ Replace the mentions of trolling in the article with harassment, and it's still a good article.  
+
+
+
+
+ Yeah, I noticed that too, hence my comment. 
+
+
+
+
+ /u/Ingens_Testibus's post or mine?  
+
+
+
+
+ Something tells me there is hair on your neck and a fedora on your head.  
+
+
+
+
+ Emegharad! DP! 
+
+
+
+
+ Does that make [Juan Cena](https://www.youtube.com/watch?v=_wKClxSRsg0) El Generico?  
+
+
+
+
+ You mean people can't see him?  
+
+
+
+
+ He must not know much about Intercourse.  
+
+
+
+
+ Up here, /u/mattnox, up here.  
+
+
+
+
+ It was temporary, and I'm back. Terrorism is wrong, everybody, even when it's to advance the game of soccer.  
+
+
+
+
+ Still cringeworthy sometimes. "They wants me to be a good R-Truth!" 
+
+
+
+
+ Should've given him Paul Heyman as a mouthpiece. 
+
+
+
+
+ He forgot all of the Germericans.  
+
+
+
+
+ The more money we come across the more problems we see... 
+
+
+
+
+ YOU MUST BE NEW HERE.  
+
+
+
+
+ Squeeze your nose for a few seconds and then let go. You'll instantly smell the inside of your nose. I'm serious, try it. Usually it's something you recently ate.  
+
+
+
+
+ If terrorists attacked an MLS game it would instantly become the most popular sport in America. 
+
+
+Ok, I just had an evil thought and should probably take a break from Reddit for a while.  
+
+
+
+
+ You sons of a silly person! 
+
+
+
+
+ And what is your team, unflaired one?  
+
+
+
+
+ He's a returning MLS player, though, so aside from the USMNT he still goes through allocation.  
+
+
+
+
+ I guess everyone's ditching the existing USL Pro teams and making their own? Seems like the Kickers and others are chopped liver.  
+
+
+
+
+ Turmeric, red pepper, and a beaten egg. It tastes very good.  
+
+
+
+
+ He was there when he was called up, and in all honesty he's not likely to be sticking around. 
+
+
+
+
+
+
+
+
+
+ Nobody with national team caps should sign with an NASL team, at least not for a while. Freddy is better than that.  
+
+
+
+
+ You're getting Freddy Adu and you will like it!  
+
+
+
+
+ As noted earlier, it would take a DP spot to do that.  
+
+
+
+
+ Crazy, isn't it? I never believed the rumors, as I don't even think he looks that old.  
+
+
+
+
+ I would think so. Although, so many teams would pass on him that it may render the process irrelevant.  
+
+
+
+
+ Freddy Adu?  
+
+
+
+
+ You can't forget tipping the fedora.  
+
+
+
+
+ Also, look at working at the sports department of a mid-sized or small newspaper. Resume building can help out when another media outlet has a soccer reporter opening. Sure, you'll have to cover other stuff, but you'll get experience.  
+
+
+
+
+ You do realize having him last until the final four IS booking him differently, right? Careers can be made out of nowhere with a good rumble showing.  
+
+
+
+
+ I'm a journalist, but not a sports journalist. That being said, freelance and look for a job at the same time. If anything, you'll be building up credibility to help you find a soccer journalism job. 
+
+In the meantime, do a ton of online searching. MLSSoccer.com, journalismjobs.com and even just plain Google will work.  
+
+
+
+
+
+
+
+
+
+ You're right and shouldn't be downvoted. There's never been a foreign face WWE champion and I think that's why.  
+
+
+
+
+ Yeah, you're being the bigger man here.  
+
+
+
+
+ He had better options in the fall, with Werder Bremen and apparently some  Eredivisie teams interested. Heck, if he stayed with Utrecht, he'd be playing with Rubin right now, which would be a sick combination.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Also, he tried to cook a turkey with some of his friends for Thanksgiving in Austria. It didn't go well.  
+
+
+
+
+
+
+
+
+
+ Kleberson was inexplicably kept on the bench by Hackworth, and was actually pretty good. I recall a game-winning free kick.  
+
+
+
+
+ Pun intended?  
+
+
+
+
+ Some French club? It is where he grew up.  
+
+
+
+
+ Yes, a woman can check. 
+
+Source: Muslim who is mad at these women for cheating. Muslims have a bad enough image as it is.  
+
+
+
+
+ Flair up! 
+
+
+
+
+ Eric Lichaj and Jonathan Spector too.  
+
+
+
+
+ **Submission Statement**
+
+Profanity and Gawker aside, this article points out a popular purveyor of pseudoscience - a food blogger who doesn't seem to understand chemistry and trades in myths and unsourced assertions. The writer herself is the exact opposite of the subject - someone who actually is an expert in chemistry.  
+
+
+
+
+
+
+
+
+
+ I agree with everything, but I look at your username and can't stop laughing as it is appropriate (and probably what a right-winger would call you IRL).  
+
+
+
+
+ Ream can even play left back too.  
+
+
+
+
+  Alaska airlines for Portland Etihad for the league
+
+They don't compete, though. Etihad is international and Alaska is pretty much US only.  
+
+
+
+
+ This doesn't lessen or diminish what Russia is doing.  
+
+
+
+
+ The Besler and Omar combo is rock solid, and judging by the latest friendlies, the back line really needs that kind of chemistry. It's far too soon to phase them out.  
+
+
+
+
+ He's married to an American (Sydney LeRoux!), so it shouldn't be long now.  
+
+
+
+
+
+
+
+
+
+ I CAME TO PLAY! 
+
+
+
+
+ MLSSoccer.com is the league-run site, but has a lot of news. Bigapplesoccer.com is a great site for following your Red Bulls as well as soccer in New York in general. onceametro.com is also good for keeping up with the Red Bulls.  
+
+
+
+
+
+
+
+
+
+ True, but fascism and neo-Nazis are particularly brazen in Eastern Europe.  
+
+
+
+
+ Dude, just google facist and racist fans in Eastern Europe. It's insane over there.  
+
+
+
+
+ To change policy.  
+
+
+
+
+ Are you forgetting Kharma?  
+
+
+
+
+ To their credit, they tried this with Kharma a few years ago.  
+
+
+
+
+
+
+
+
+
+ You didn't read the article. Evidently America cares if other countries wish to boycott Israel because, as the article points out, congressional representatives are working on a bill to take punitive measures against countries that boycott Israel. 
+
+
+
+
+ I'd prefer a 30 for 30.  
+
+
+
+
+ [My post was no-sold.](http://www.reddit.com/r/MLS/comments/313amp/this_allocation_idea_is_amazing/) *chokes back tears* 
+
+
+
+
+ I know. [I thought my allocation order post was clever but it was completely no-sold.](http://www.reddit.com/r/MLS/comments/313amp/this_allocation_idea_is_amazing/) :( 
+
+
+
+
+ Allah is just the Arabic word for God.  
+
+
+
+
+
+
+
+
+
+ Mac Performa with a whopping 1 GB HD! I love this thing. I have a great book of CD-ROMs that Apple sent with it, and 8-year-old me just loves using the EA 3D Atlas disc and learning all about the world! The Grolier Encyclopedia disc is also cool to watch videos on.  
+
+
+
+
+ Shots fired, team dead in drive-by. 
+
+
+
+
+ They'd be better off if they picked one Mexican team and copied it, catering to all of the Mexicans in DC. You:d get all of that team's existing fans and you'd never have to worry about attendance again! Heck, you'd have so many fans you'd be able to build your own stadium in no time! 
+
+
+
+
+ Their national team made the World Cup in 1986. Give them a few teams and their national team will be one day be right there with America's. Heck, one of our teams might even beat Mexico one day! 
+
+
+
+
+
+
+
+
+
+ FC Edmonton has a lot of Canadians on its roster.  
+
+
+
+
+ As a positive stereotype, I'd expect RSL to have the most family-friendly SGs in the league (no idea if this is true or not). Conservative Utah and all that.  
+
+
+
+
+ Yeah, this is out of character for him. He was very composed and didn't react negatively or lose his cool when he dealt with racist chants in Holland.  
+
+
+
+
+ Ve call this a valtz in Germany. 
+
+
+
+
+ I meant successful as in overthrowing their entire government. Reading up on Nanny of the Maroons, she and the Maroons seemed to have established their own state in a corner of Jamaica, so to speak, as opposed to overthrowing the entire British colonial government in Jamaica. 
+
+ 
+
+
+
+
+ I meant successful as in overthrowing their entire government. Reading up on the Maroons, they seemed to have established their own state in a corner of Jamaica, so to speak, as opposed to overthrowing the entire British colonial government.  
+
+
+
+
+ The only state in the Western hemisphere to have a successful slave rebellion and they've been paying the price for it ever since.  
+
+
+
+
+ Well, you're drunk, so you can't.  
+
+
+
+
+ Thanks, I was on a mobile device. 
+
+
+
+
+ Shiekh Mansour probably has something to do with this. 
+
+
+
+
+ Or, why I showered with flip flops through college. 
+
+
+
+
+
+
+
+
+
+ It's referred to as the Best XI or something similar. 
+
+
+
+
+ They'd also have to sign them to professional contracts and deal with the side effects from that. 
+
+
+
+
+ /u/spisska, the proud president of the tautology club. 
+
+
+
+
+ Which aspect of their political views? They've been consistent against Israel and against ISIS and Nusra. I take it you don't like their posture in Syria, or is it the fact that they are Shi'a?  
+
+
+
+
+  Jama'at Ansar al Islam/Jaish Ansar al Sunnah and JTJ/TQJBR/MSC/ISI/ISIL/IS and everybody else have nothing to do with KSA
+
+You'd be surprised.
+ 
+
+
+
+
+  much more than KSA in the past 20 years
+
+Yeah, I don't believe this. If you're referring to the war, Iran did not target Iraqi civilians with abandon, whereas many Saudis supported the terrorism in Iraq post-2003. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MediaNews? 
+
+ 
+
+
+
+
+ Except that the Columbia Journalism Review (this publication, probably the leading one when it comes to journalism criticism) is rightfully skewering the series in this article.  
+
+
+
+
+ I've been served. Tip of my hat to you, sir. *adjusts monocle* 
+
+
+
+
+ Nah, because HHH interrupted that one. This was a couple of RAWs before MITB, because I remember that promo ending with "CM Punk is reinstated and you have your match" from Vince. 
+
+
+
+
+ He's making a job about City's ownership, who are Emirati.  
+
+
+
+
+ Vince was threatening to fire him. This was when Cena was trying to get Punk reinstated after the kayfabe suspension over The Pipebomb.  
+
+
+
+
+ Have you not seen Jeb Brovsky?  
+
+
+
+
+ Does RBNY ever partner with anyone over anything? Their terrible marketing is one thing, but when do you ever see community initiatives from them?  
+
+
+
+
+
+
+
+
+
+ To be fair, if you look at Mix Diskerud's history, he kind of said the same thing as Alvarado. He said "first come, first served," meaning that if Norway had called him up first, he'd be a Norwegian international now.  
+
+
+
+
+ Eh, [Snow isn't uncommon in Almaty.](http://en.wikipedia.org/wiki/Almaty#Climate) 
+
+
+
+
+ "DO NOT ALLOW THIS MAN INTO THE BUILDING. HE'S ON THE LUNATIC FRINGE." 
+
+
+
+
+ How can he slap?  
+
+
+
+
+ What's the source for this?  
+
+
+
+
+ Meanwhile, the whites were able to use their savings to buy homes, which is the surest way to wealth in America. Unfortunately, black Americans could not afford homes. 
+
+ 
+
+
+
+
+ This was NEW? I was watching it on TV over the weekend and thought this was an established gimmick from the pop he was getting.  
+
+
+
+
+ Puerto Rico isn't either, but they are in FIFA. Wikipedia says it's because they are a department of France.  
+
+
+
+
+ Why isn't French Guiana a FIFA team?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ONE OF A KIND 
+
+
+
+
+ His best play has always come from club, with a couple of notable exceptions. He's gotten plenty of looks.  
+
+
+
+
+ I theorize that Donovan and Klinsmann's acrimonious relationship goes back to when Donovan's failed loan spell with Bayern Munich in 2009 when Klinsmann was coaching there.  
+
+
+
+
+ Hoffenheim also has hate. 
+
+ 
+
+
+
+
+ Yeah. There's a specific narration that some guy asked Prophet Muhammad what he can hit his wife with. The Prophet happened to be cleaning his teeth with a miswak. He pulled it out of his mouth and said, "with this."  
+
+
+
+
+
+
+
+
+
+ Let me guess, you're atheist.  
+
+
+
+
+  Yeah, I rather lost any respect for this douche after reading the part about his four wives. Sure, AA might save a handful of young and impressionable boys from joining ISIS but nonetheless, guys like him are playing the long-game when it comes to islam and a more global scale...
+
+I fail to see how Islamic tenets are part of some wider conspiracy or some BS, considering that there is nothing close to Islamic unity anywhere in the world.  
+
+
+
+
+ Dude, how could you ever forget Virgil? 
+
+
+
+
+ If you can get CM Punk to a Chicago Fire game, that would be a match made in heaven. 
+
+The Union = one or more ECW and/or ROH stars. 
+
+Seattle = Daniel Bryan. 
+
+Portland = Don't know any wrestlers from Oregon. Maybe Roman Reigns just to troll. 
+
+NYCFC = Zack Ryder! 
+
+DC United = Batista
+
+Columbus = Dolph Ziggler or The Miz. 
+
+RBNY = AJ Lee is from Jersey. 
+
+Toronto = Edge/Christian. 
+
+Montreal = Kevin Owens/Sami Zayn. 
+
+I'm sure there are plenty for other states, but off the top of my head, I'm out.  
+
+
+
+
+ We found the Eurosnob here! /s 
+
+
+
+
+ Never mind that Pakistan and Bangladesh, both majority Muslim countries, have had female leaders.
+
+But besides that, Bukhari is regarded highly by some, but many narrations in the book are not authentic. 
+
+ 
+
+
+
+
+ I swear I've heard this before on this subreddit.  
+
+
+
+
+ Still missed out on Santiago Moyes. Stupid Newcastle.  
+
+
+
+
+ You need a degree to know that the Arabic word in question, daraba, has many meanings, and you very well could be reading a bad translation. Daraba also means "go away from," FYI.  
+
+
+
+
+ I am Muslim, genius. It's a problem, but no more than in any other community.  
+
+
+
+
+ Castillo is playing well at Atlas, you know.  
+
+
+
+
+ This scholar probably has the largest number of followers among Shi'a Muslims.  
+
+
+
+
+ FWIW, in Islam you're not supposed to hit your wife. Even in the oddball interpretations that allow it, you're only supposed to use [this](https://www.google.com/search?q=miswak tbm=isch tbo=u source=univ sa=X ei=1s8QVZyhKcTasAT2voDYBg ved=0CDoQsAQ biw=1280 bih=664), and at their thickest they rival a thick pen with a grip. You're not supposed to leave a mark, either. Meaning, you'll likely just be pissing your wife off if you try and hit her with that.  
+
+
+
+
+ Oh look, we have the expert on Islam here. Where did you get your theology degree from sir?  
+
+
+
+
+ Can we confine Cropper to youth call-ups? He hasn't ever played any first team ball.  
+
+
+
+
+ I'm guessing you live in PA, probably in the center. Why not DC?
+
+Also, that has to be the weakest reason for not being a Red Bulls fan. I've been to that stadium. The area is not that bad. Also, the Red Bulls have made the playoffs for like four years in a row.  
+
+
+
+
+ Where do you live? You should support a local team if you have one.  
+
+
+
+
+ Yeah, WINEP is part of the Israeli lobby.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You'll have to ask Tom Wolf.  
+
+
+
+
+
+
+
+
+
+ We've already established that she is the head cheerleader who probably gets into a lot of trouble that her parents aren't aware about and everyone hates her behind her back.
+
+ 
+
+
+
+
+ Definitely irrational, as Microsoft has a sponsorship deal with all of MLS and thus Sony wouldn't be allowed.  
+
+
+
+
+
+
+
+
+
+ No love for my ABBA reference involving Fernando Aristigueta? 
+
+
+
+
+ This explains a lot about Florida. 
+
+
+
+
+ Evil sister who has had plastic surgery whose parents don't take you seriously. 
+
+
+
+
+
+
+
+
+
+ journalismjobs.com and Poynter.org's career section are the best.  
+
+
+
+
+
+
+
+
+
+ With Wahhabis, there's an ideological overlap. The idea with Obama is loyal to Ayatollah Khamenei is simply ludicrous and not true, while ISIS most likely has some followers in the Gulf.  
+
+
+
+
+ Yeah, and the media doesn't realize it. His statements should be as important as any news on the conflict. 
+
+
+
+
+ There's no Shia empire going town to town beheading people, taking slaves, imposing their own brand of law and destroying historical sites.
+ 
+
+
+
+
+ There's no Shia empire going town to town beheading people, taking slaves, imposing their own brand of law and destroying historical sites.  
+
+
+
+
+ Yeah, it goes to show how much a lot of news agencies know about the region despite the U.S. being there for so many years. One of the leading Islamic scholars and he's just some preacher in the news.  
+
+
+
+
+
+
+
+
+
+ Yeah, this subreddit covers a bunch of cities, you have to specify which downtown you mean.  
+
+
+
+
+
+
+
+
+
+ /r/photoshopbattles 
+
+
+
+
+ No, 60-90 DAYS!!! 
+
+
+
+
+
+
+
+
+
+ I've never given a dime of my money to WWE, and based on the last few months, I'm thoroughly convinced that I've made the right decision. Heck, I'm not going to stream Wrestlemania or download it, either. There's no match I'm really hyped to see except maybe Wyatt vs. Taker, and even then, I'll probably come here to see if it's even worth watching.  
+
+
+
+
+
+
+
+
+
+ Yeah, I saw it, but my question goes a little beyond that. What are they doing these days? I've seen them being allotted tickets at past games, but they are said to be dead. Is it an older crowd that was cannibalized by AO?  
+
+
+
+
+ What about Sam's Army? I never hear anything about them.  
+
+
+
+
+ Petke... 
+
+
+
+
+ That didn't really answer his question. We know it's a militia, we want to know which one.  
+
+
+
+
+ RemindMe! 6 days "radical"
+
+ 
+
+
+
+
+ Guess again.  
+
+
+
+
+
+
+
+
+
+ You and I would possibly disagree on what constitutes evidence.  
+
+
+
+
+ They don't, really. I don't think any of Alaska's routes conflict with Etihad's. 
+
+
+
+
+ Geiger and Jair Maruffo are the two refs. who were on the World Cup short list, and Geiger ended up going to Brazil.  
+
+
+
+
+ I saw Roger and was reminded of Torres, and now I'm sad.  
+
+
+
+
+ *There was something at the game that night, the calls weren't right, Fernandoooo...*  
+
+
+
+
+ This is all completely subjective, but you're treating the supposed non-existence of religion as a fact. 
+
+
+
+
+ And religion has nothing to do with that? I'm pretty sure many religions put the defense and saving of the innocent as a noble cause. 
+
+
+
+
+ You didn't say that, but you're making a false equivalency between Shi'a militias and ISIS/Qaeda. They aren't the same. 
+
+I'm no fan of Shi'a militias as they will often target Sunnis en masse, but they do not copy ISIS tactics nor have they taken slaves nor do they forcibly try to convert people. I can find numerous scholars preaching those things from the Sunni side, even before ISIS ever existed. 
+
+Show me a Shi'a scholar preaching that Sunnis are kafir or that enslaving them or forcibly converting them is ok. The worst you'll likely find is some cursing of the sahaba, which I would agree should be avoided, but even then that in itself is rejected by Iranian and other leading Shi'a authorities.  
+
+
+
+
+  There is no such a thing as Wahhabi.
+
+So the people who follow Muhammad ibn-Abd al-Wahhab are what, then, Salafis? It's just semantics. 
+
+And please find me an example of a Shi'a group declaring Sunnis to be kafirs, because all of the leading Shi'a scholars have straight up prohibited that.  
+
+
+
+
+ So your proof is stuff that hasn't happened yet. I anxiously await the "Shia caliphate" that will invade the surrounding countries and execute the non-Shias. /s 
+
+
+
+
+ In Lebanon, they are allied with Christians, and have pretty much refrained from sectarian bloodshed, even giving aid to Syrian refugees who aren't Shi'a.  
+
+
+
+
+ Yes, because religious people aren't rational. Le redditor is SO brave.  
+
+
+
+
+  recorded by an orchestra in Prague
+
+What the hell? There are plenty of symphonies in North America that could record it!  
+
+
+
+
+ Generally Jewish and Christian kids aren't bullied and vilifed.  
+
+
+
+
+ Don't people like you wear bedsheets with eye-holes cut out of them? 
+
+
+
+
+ Actually, they are the midst of a good run in the CONCACAF Champions League right now! They just upset Pachuca, a Mexican team, becoming one of the few MLS teams to have defeated a Mexican team in a playoff series. [They did so in dramatic fashion, too](http://www.rds.ca/vid%C3%A9os/soccer/impact/porter-joue-les-h%C3%A9ros-3.1117584) with help from [a kid only playing his second professional game](https://en.wikipedia.org/wiki/Cameron_Porter) in front of 60,000 fans at Stade Olympique. This isn't their usual stadium but is being used in the CCL for a larger crowd because Stade Saputo only seats 20,000. They face Costa Rica's Alajuelense in the semifinals. 
+
+While they were in the lower leagues, they had a tremendous upset in the Canadian Cup and surprisingly clinched a berth in the CCL. Via [Wikipedia](https://en.wikipedia.org/wiki/Montreal_Impact_%281992%E2%80%932011%29#The_Impact_and_Major_League_Soccer): 
+
+ In 2008, the Montreal Impact won the Canadian Championship, gaining the chance to represent Canada in the CONCACAF Champions League. The tournament features the best teams in all of North and Central America and the Caribbean Islands. The Impact won two legs against Real Estali 10 and 00 to secure a spot in the tournament. Montreal competed then in the group stage where they defeated Joe Public FC of Trinidad 20 and 41 and CD Olimpia of Honduras 21 and 11. They finished off against Atlante FC of Mexico which they tied 00 and then lost 21.
+
+ On February 25, 2009, the team won the first leg of the quarterfinals match 20 against Santos Laguna from Mexico. The match was played at Montreal's Olympic Stadium in front of a club-record crowd of 55,571. The second leg was held on March 5, 2009 at Corona Stadium, in Torreon, Mexico, where the Impact led 21 at the half (41 on aggregate). With the Impact only a few minutes from a semi-final berth, Santos Laguna's Carlos Quintero scored twice in stoppage time to rally the homeside to a 52 victory, thus eliminating the Impact from the inaugural CONCACAF Champions League 54 on aggregate. Following the match, head coach John Limniatis commented that his side "should have done better", noting that it was "unfortunate to finish this way".
+
+Since 2012, the Impact made the playoffs once, in 2013, despite struggling through the second half of the regular season. [They were eliminated in humiliating fashion by Houston 3-0](http://matchcenter.mlssoccer.com/matchcenter/2013-10-31-houston-dynamo-vs-montreal-impact/recap). 
+
+[They have a nice new stadium](https://en.wikipedia.org/wiki/Saputo_Stadium), but their owner, Joey Saputo, is a bit impulsive, having gone through three managers within the team's first three years in the league. Saputo, an Italian-Canadian, also has a reputation for signing Italians, even older ones. Marco Di Vaio, Matteo Ferrari, and Alessandro Nesta have all played here.
+
+The only Italian now is Marco Donadel, who is new this year. Right now their best players are him, Laurent Cimian (Belgian International defender who is also new), Ignacio Piatti (Argentinian, the team's lone designated player, which means he is paid very well) the underrated Justin Mapp, captain Patrice Bernier, new arrival Eric Alexander (also underrated), Jack McInerney and Dilly Duka. 
+
+The season has a lot of question marks as their chief offensive weapon, Di Vaio, has retired, and they already lost to DC United earlier today.* Judging by their CCL performance, they seem to be much improved from last season, where they didn't even make the playoffs. While I don't think they are title contenders, they do have a shot to make the playoffs and surprise some people. Their owner has a willingness to spend some money (he also owns Bologna FC in Italy) and their coach, Frank Klopas, is a veteran coach and player. 
+
+Hope this helps!
+
+
+* - I mistakenly said they had yet to play. This has been edited.  
+
+
+
+
+ It's the weekend, so MSNBC will catch on next week.  
+
+
+
+
+ Fidel Castro?  
+
+
+
+
+ You can request alternate flairs in [this thread](http://redd.it/2m05m9). 
+
+
+
+
+ Since you're Brazilian, I'd normally suggest Orlando City, as they have a Brazilian owner and have Kaka. However, while they have invested a lot of money into the club and for all intents and purposes are "big," they are brand new to the league, so there's not really any history. 
+
+As for history, the original teams in the league are Kansas City, Dallas, New York (Red Bulls), Dallas, Colorado, Columbus, DC, Los Angeles, San Jose and New England. LA and DC are the first and second-most successful clubs over MLS's entire history, respectively. LA is considered the league's golden child, having brought David Beckham, Robbie Keane and this summer, Steven Gerrard into the league. They were also home to arguably the best American player of all time in Landon Donovan. 
+
+Seattle, Portland, Vancouver and San Jose trace their lineage back to lower level leagues and leagues from decades past. Seattle is the best-supported team in the league by numbers, drawing the most fans to their stadium each year, and is a very wealthy club despite only being in the league since 2009. Seattle, Portland and Vancouver maintain a regional rivalry where they compete for the Cascadia Cup each year, but the rivalry is fiercest between Portland and Seattle. 
+
+Montreal has long supported soccer, and the Impact have a lower league history as well, but have only been in MLS since 2012. Chicago, while not an MLS original, has been in the league since 1998, but has not been successful in recent years. 
+
+And like any league, there are Brazilian players scattered across different teams. 
+
+Hope this helps! 
+
+
+
+
+
+
+
+
+
+ What are you on about? There are tons of Muslims all over Texas.  
+
+
+
+
+ Try to attend as many games as possible, and if you can't attend, watch them in whatever way you can. If you attend, you can also try and join one of Columbus's organized supporter groups.  
+
+
+
+
+  City's worst losses
+
+They're new this year and have yet to play their opening game, so you'll get to experience their worst losses as they happen!  
+
+
+
+
+ I think he's referring to BigSoccer forums.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That would be a glorious tag team.  
+
+
+
+
+  It is an example of one of the many fears that are promulgated. "Men are just afraid of women" - I have heard this exact sentence many times. In fact, a modified version was on a front page comment yesterday. That is why it came to mind.
+
+Not a sexist, but a "feminophobe." Ok. 
+ 
+
+
+
+
+
+
+
+
+
+ I prefer TSN 8 - The Ocho. 
+
+
+
+
+ Oh, like Omar Gonzalez. 
+
+
+
+
+ Nickelback guy?  
+
+
+
+
+ *Al-Sadiq Al-Amin 
+
+
+
+
+  I am not sexist or afraid of women having power - I am more afraid of how they wield it when they do have it.
+
+Wha-? This doesn't fit in with anything else you said.  
+
+
+
+
+ Become friends and hang out together already, geez.  
+
+
+
+
+ They hate us 'cause they anus 
+
+
+
+
+ Messed up my fantasy team :( 
+
+
+
+
+ You've gotta get one top domestic league going at a time first.  
+
+
+
+
+ Egyptian Frank Sinatra, then.  
+
+
+
+
+  MSNBC
+
+LOL, I think you mean NBC Sports Network. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ David Shoemaker, /u/akathemaskedman, frequently airs criticisms of WWE and references a lot of controversial things, such as Punk's podcast. I don't think he'd shy away from it. 
+
+
+
+
+ Was Bill DeMott "steppin' out?" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Egged on by the government. From what I remember from my visit to Dubai I saw a lot of Iranian influence/$$. 
+
+
+
+
+ ...then you'll just repeatedly be the 4,999th.... 
+
+
+
+
+ Bradley, this is your Dad. Get a job already and stop masturbating.  
+
+
+
+
+
+
+
+
+
+ It would be very bad to steal Jobu's rum. Very baaaad.  
+
+
+
+
+ For those of you looking for some substance, here's the Orlando Sentinel's article on the subject: http://www.orlandosentinel.com/sports/orlando-city-lions/on-the-pitch/os-mls-players-avoid-strike-orlando-city-20150304-post.html 
+
+
+
+
+ They don't do a lot of national reporting. They mostly focus on Tampa, Florida and its surrounding area, with some notable exceptions, like Politifact.  
+
+
+
+
+
+
+
+
+
+ We'd still hate you, but just a little less.  
+
+
+
+
+ **Submission Statement**: 
+
+A newspaper with an ownership structure that guarantees its independence has struggled to compete with its crosstown rival, The Tampa Tribune. It has suffered layoffs and buyouts to continue the fight and preserve its integrity, but questions surround how it will survive.  
+
+
+
+
+
+
+
+
+
+ To quote a great man, "I don't hate Roman Reigns, I hate this idea that he's the best."  
+
+
+
+
+ Ziggler was talking directly to him when he was mouthing off. Even if nobody else in the company does, Ziggler still wants to face Daniel Bryan. They're aren't going to do that, though, because that match would undoubtedly steal the show.  
+
+
+
+
+ If Ziggler isn't careful he's going to have some big heat backstage.  
+
+
+
+
+  going around licking women and being some sort of fucked up pseudo lesbian
+
+They've done this numerous divas, starting with Mickie James, the Bellas, AJ, etc. It's coming from up high.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Gaaah I knew I should have cut McCarthy on my fantasy team this week. 
+
+Also, I think we can call this year the curse of the MacMath. A young, but constantly improving goalkeeper suddenly had the rug pulled from under him and the Union have had keeper (and winning) problems ever since.  
+
+
+
+
+ Jihad is not part of the five pillars of Islam. Fasting, prayer, Hajj, the declaration of faith, and charity are the five. I don't know where you got Jihad from. 
+
+
+
+
+ I confused Black September with the PFLP, a Marxist Palestinian group. My apologies. However, Black September was still secular and not particularly motivated by religion. 
+
+
+
+
+
+
+
+
+
+  I have been. They lied to me then, just as you are now.
+
+You're only lying to yourself. You have a confirmation bias. You will only believe negative items about Islam. I wish you peace, and I sincerely hope you find it.  
+
+
+
+
+
+
+
+
+
+   I feel the most useful public discourse would challenge Geller to organize an event that lampooned both Jesus and Muhammed.
+
+Muslims are also forbidden from depicting Jesus, or any other prophet of God. So Muslims would likely shy way from any kind of event, as was the case here, as the only two protesters at the event were these two people.  
+
+
+
+
+ Your source is non-academic and biased. Taiqiyya is only to be used when one's life is in danger, and has historically been associated with Shi'a Muslims, who concealed their faith to avoid physical harm. I'm not lying to you, and it would be a sin for me to do so. Google that Quranic verse on non-compulsion in religion (which you ignored) if you don't believe me. 
+
+ So you're in a minority. Or, you're lying. Either way, what do I care?
+
+Ah, there we are. Your mind is closed. No matter what you learn or who you meet, you would stubbornly remain prejudiced against Islam and Muslims.  
+
+Muslims like myself are the majority of the world's Muslims. As loud as the extremists may be, their attacks are isolated and don't spark that massive war between Muslims and "The West" (this doesn't make sense because many Muslims live in the West and consider themselves Western). I've attended many mosques and gatherings of different interpretations of Islam, from Sufi to Shia to even Salafi, and have never heard of imposition. 
+
+ Facts define Muslims. A poll determines facts. If you believe those facts are in error, it is incumbent on you to demonstrate it, not just throw your hands in the air and claim you don't believe polls. You'd do just as well saying you don't believe in math.
+
+Well, I'd suggest you show up to a mosque and sincerely and politely ask questions. It doesn't seem like you've ever met any Muslims. I'd sit down and talk with you, but as I mentioned before, you seem a bit closed minded, plus you'd probably physically attack me or something. 
+
+I hope you find the truth, or at least, lose your hostility. Peace be unto you. 
+ 
+
+
+
+
+ No, I've heard it used by Muslims talking about extremists espousing Salafi ideals, especially those prejudiced against minority religious sects.  
+
+
+
+
+  Yes, you implicitly did, just as the author of the article did, by implying that Geller's personality in any way whatsoever justified the response of attempted murder 
+
+We clearly didn't read the same article, as Ali condemned the attackers, saying that Islam says to ignore them. There were no protesters at the exhibition, except the two attackers. The large Dallas-area Muslim community mostly stayed away. The writer in no way says that Geller's personality incited or justified the murder. 
+
+By accusing me of implicitly supporting their actions, you're attempting to read my mind. Neither was justified in their actions, in my opinion. Geller's same "free speech" stance is undermined by the fact that she campaigned against Al Jazeera's launching a network in the United States.  
+
+
+
+
+ I think you'd be surprised if you looked at Muslims and gun ownership in Texas. Most, especially those of an immigrant background, do not own guns. 
+
+**EDIT**: Thank you to /u/espitatic for changing "Muslims" to "ISIS" in the above comment.  
+
+
+
+
+ A poll is supposed to define Muslims? I am a Muslim and in none of the mosques I've attended have I ever heard of anyone preaching that Islam should be imposed on anyone. Extremism exists, but it is called extremism because *it is beyond the pale and outside of the mainstream.* It not only flies in the face of religion practiced by the vast majority of its one-billion plus adherents, but also in Islamic history.  
+
+People like to take verses of the Quran out of context. Well, see what you can do with this one: 
+
+"Let there be no compulsion in religion." - Quran 2:256.  
+
+
+
+
+ We're talking about the writer of this article, not the attackers.  
+
+
+
+
+ Where did you get the idea that the reasonableness of depicting the Prophet was an argument? Or that anyone was justifying lethal force aside from ISIS and fellow extremists? Where has that argument been raised in this piece?  
+
+
+
+
+
+
+
+
+
+ Haha, I think Wade Barrett told Jericho that when Jericho was his "pro" during the first season of NXT.  
+
+
+
+
+ Can you seriously not distinguish between ISIS and the other billion-plus Muslims around the world?  
+
+
+
+
+  Wasn't the Munich massacre 42 years ago?
+
+That was a Marxist group who was responsible.  
+
+
+
+
+  In fact, they probably "support" the muslim extremists, inasmuch as they probably think we should give up our free speech so as not to antagonize them.
+
+You're pulling that out of thin air. "OMG he's criticizing the cartoons he must want to appease ISIS" is some zero-sum nonsense.  
+
+
+
+
+  Finally, I'm not really interested in hearing veiled justifications for the attacks based on the personality of one of the people involved in the exhibit. Apologising for people who attempted murder because they were offended by some cartoons is frankly disgusting.
+
+
+Where on earth are you getting that idea? Nobody is apologizing for any attack. Based on your comments and seeming support for Geller, I could make a similar argument that your condemnation for Anders Brevlik's massacre is nowhere to be found either.  
+
+
+
+
+ **Submission Statement**
+
+The shootings in Garland, Texas over an exhibition of cartoons depicting Prophet Muhammad helped extremists as well as bigots with their narrative: that "Islam is at war with the West."
+
+To quote the writer: "These ideological extremists are two faces of the same coin; they have a symbiotic relationship strengthened and sustained by the others toxic absolutism." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Add Otunga to that. 
+
+
+
+
+ I read that in David Spade's voice. 
+
+
+
+
+ All of them dated Susie, too.  
+
+
+
+
+ Nah, you just have to get a special glove like Donkey Kong. 
+
+
+
+
+ THEN Luke Harper.  
+
+
+
+
+ Bork Bobland.  
+
+
+
+
+ Probably because Pete (we think) tipped him off.  
+
+
+
+
+ I think you mean /u/AKATheMaskedMan. 
+ 
+
+
+
+
+ The Masked Man (David Shoemaker, /u/AKATheMaskedMan), before going to Grantland, had his column at Deadspin, a Gawker property. To say they are no friends of the industry is a massive generalization.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You don't want to have a nationality NOT named after a family?  
+
+
+
+
+ Yet again, Vince doesn't think foreigners can be the top faces.  
+
+
+
+
+ Eva Marie! 
+
+
+
+
+ I should have addressed this in my comment. The kafala system is crap and is a form of slavery. Workers from South Asia are horribly exploited.  
+
+
+
+
+ Yes, everyone should. Read it here: http://np.reddit.com/r/videos/comments/343b1k/this_man_really_hit_the_nail_on_the_head_when_it/cqqxlit?context=3 
+
+
+
+
+ The rise of Hindu nationalism, specifically that of the BJP in India, is bringing with it advocacy of Israel and prejudice/discrimination against Muslims, which brings with it Arab bashing. 
+
+ 
+
+
+
+
+ **Submission Statement**
+
+A journalist covering the riots in Baltimore saw two different sides of the city in a matter of seconds, but also put some context to what she saw, and what was neglected in the city.  
+
+
+
+
+
+
+
+
+
+ I was laughing out loud. Pete getting out old-moneyed! 
+
+
+
+
+ Oh, like those Californians Don met in the first season.  
+
+
+
+
+ In New York, there are so many they are bound to be. The street shawarma in NYC is world-famous. Steinway Street in Queens and Atlantic Avenue are full of them. In the D.C., I know of a few Arab restaurants in Georgetown and Northern Virginia that are supposed to be good. 
+
+
+
+
+ Have you ever been to New York and parts of D.C.? Plenty of Arab restaurants there.  
+
+
+
+
+  Arabs are late immigrants to the United States,
+
+Except in Michigan.  
+
+
+
+
+ You should be able to get it in Chicago; there's a sizeable Arab community there from what I've heard.  
+
+
+
+
+
+
+
+
+
+ On the contrary, at least it shows original reporting by each outlet. Granted, they all could be wrong, but at least the PR firms aren't winning the information war, right?  
+
+
+
+
+ But does Bielefeld actually exist? That's what concerns me.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That's an interesting point.  
+
+
+
+
+ That requires a new pro contract, which might not work with salary caps, etc.  
+
+
+
+
+ Also Soony Saad and Justin Meram.  
+
+
+
+
+ Soony Saad and Justin Meram are from Michigan. Both are pros, both are Arab-American and both play for Lebanon and Iraq respectively.  
+
+
+
+
+ They support most of Hezbollah's stances but aren't the party's base.  
+
+
+
+
+ I saw this on WrestleCrap years ago. Still wondering what Tiny Tim was doing on a wrestling show.  
+
+
+
+
+ I've read elsewhere that those areas are primarily Shia and are pretty much AMAL's constituency since Hezbollah won't back weed farming. AMAL is allied with Hezbollah though.  
+
+
+
+
+  Hezbollah protects the great kush fields of Lebanon
+
+Isn't that AMAL territory?  
+
+
+
+
+ Your opinion is disgraceful to that flag you have as your flair.  
+
+
+
+
+ Can someone please leak one of the drafts of the TPP?  
+
+
+
+
+
+
+
+
+
+ Nobody is attacking you or anyone for being successful. The attack is on hindering the success of others long ago and leaving the remnants of that mentality around today to continue that hindrance. It is not about guilt. It is about respect.  
+
+
+
+
+ Google professional wrestler Jimmy Wang Yang.  
+
+
+
+
+
+
+
+
+
+ Found Zapp Brannigan.  
+
+
+
+
+ And that's why you always read the article! *waves hook* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Teshonisn't dragging himself through the media. This article only has comments from Teal Bunbury. 
+
+
+
+
+ When are they going to expand this tournament and include every level of Canadian soccer in it? 
+
+
+
+
+ That isn't what I said, but that is some severe butthurt.  
+
+
+
+
+ Assad's regime still treats religious minorities better. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kevin Eck was a journalist with the Baltimore Sun and left them for a creative job with WWE. His name was even on WWE.com a lot. You can Google it, it's true. 
+
+
+
+
+
+
+
+
+
+ LOBIENA or SLOBINA 
+
+
+
+
+ Oh good, nobody got Matt Damon.  
+
+
+
+
+ Dolo used to do this with the national team on occasion.  
+
+
+
+
+ He was on Jericho's podcast, actually. 
+
+
+
+
+
+
+
+
+
+ Rock's St. Louis comments remind me of this: http://deadspin.com/cardinals-fans-get-ugly-in-clash-with-ferguson-proteste-1643282285 
+
+
+
+
+ What did Adam Jones do?  
+
+
+
+
+  Rock's entire rant is simply the populist pules of a racist.
+
+It's the monologue of a comedian. You seem to have missed the humor in it. Rock is no more a racist than you are, unless you see criticism of anything white as racist.  
+
+
+
+
+ Looking through the comments here, no one seems to be addressing Rock's point about the lily-white crowds.  
+
+
+
+
+ It is a big deal, it's a historically black college. 
+
+EDIT: I was wrong, it is Stillman. 
+
+
+
+
+ He's a stand-up comedian, think of it as a riff or ribbing.  
+
+
+
+
+ Because everybody watches football just to see the halftime show.  
+
+
+
+
+  when they reject it you can't blame MLB
+
+I'm pretty sure you can if they aren't succeeding. Maybe they are just bad programs that need fixing.  
+
+
+
+
+ Bob Dylan was very pro-civil rights, incidentally. See his song "Hurricane." 
+
+
+
+
+ I loved that hop he used to do out of the batter's box after hitting a home run, and that peace sign/kiss thing in the dugout. Of course, I hate him for his contribution to that horrible Orioles collapse in 2005. 
+ 
+
+
+
+
+ By that metaphor, Estadio Azteca would be destroyed at the end.  
+
+
+
+
+
+
+
+
+
+ Seattle fans don't dominate this subreddit. I've been here for a few years and can confidently say so. Also, many of those that are here have been around since the team was founded.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **Submission Statement:**
+
+Der Spiegel, in a long story published over the weekend, "Secret files reveal the structure of Islamic State, said it gained access to 31 pages of handwritten charts, lists and schedules that amount to a blueprint for the establishment of a caliphate in Syria, which the Islamic State in Iraq and the Levant (ISIL) has declared it has set up. 
+
+
+
+
+
+
+
+
+
+ Says the redditor for one month who is unflaired. 
+
+
+
+
+ I'm going to Kuwait?  
+
+
+
+
+
+
+
+
+
+ Good looking and tough, and not signed to a WWE contract? Somehow, I'm not surprised.  
+
+
+
+
+ Well, he's not a fan, especially of wrestling in particular.  
+
+
+
+
+ At least Houston's got the right idea in trying to tap the talent in south Texas. They're even putting their USL affiliate there.  
+
+
+
+
+ Riley! 
+
+
+
+
+ I can't tell if this is satire or not.  
+
+
+
+
+   Jew lobbyist 
+
+You're right in everything but this phrase... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [Gofundme page for the boy's mother.](http://www.gofundme.com/rw8p88r?fb_action_ids=10153329618508738 fb_action_types=og.shares fb_ref=undefined) This witch hunt by police should not be tolerated. The local school board and  local government should be hounded.  
+
+
+
+
+ Reading the article, it sounds like his father has bad blood with the sultan and thus, he may be up for grabs.  
+
+
+
+
+ I'd put Yarbrough ahead of Johnson, on par with Hamid. He starts for a pretty good Club Leon team.  
+
+
+
+
+   Another group with a good number of supporters is Hearts of Oak.
+
+Which resembles an upscale country club in terms of its membership policies.  
+
+
+
+
+ At one point, you could only have one black player per team.  
+
+
+
+
+ How'd that work out?  
+
+
+
+
+ Rimando is Mexican-American.  
+
+
+
+
+ No, you mostly get pity.  
+
+
+
+
+
+
+
+
+
+ As I also said above, he's also from Mercer Island, a very wealthy community, and I can't imagine his parents put much stock in a professional athlete's career. Thus, there probably is a lot of pressure on him to get his college degree before signing any contract, foreign or domestic.
+
+ 
+
+
+
+
+ He's also from Mercer Island, a very wealthy community, and I can't imagine his parents put much stock in a professional athlete's career. Thus, there probably is a lot of pressure on him to get his college degree before signing any contract, foreign or domestic.  
+
+
+
+
+  I like Lenhart.
+
+Uh oh, now you've done it! 
+
+
+
+
+ I'd put them on par with Roma.  
+
+
+
+
+ Are you sure it wasn't Fake Tottenham you bought?  
+
+
+
+
+ Plus they use Under Armour kits.  
+
+
+
+
+
+
+
+
+
+ Is it fair to say he has *puts on sunglasses* Inkoom problems? 
+
+
+
+
+ Is it fair to say he has *puts on sunglasses* Inkoom problems? 
+
+
+
+
+
+
+
+
+
+ Drake helped TFC quite a bit.  
+
+
+
+
+ People travel for international games. There are a lot of Mexicans in the surrounding areas, and trust me when I say they would fill a substantial part of RFK, FedEx or even M T Bank Stadium if Mexico was playing.  
+
+
+
+
+
+
+
+
+
+ Also, Holden's family is Scottish and moved to the U.S. when Stuart was 12.  
+
+
+
+
+ Hey, you're well within the average for height! 
+
+Source: I'm 5'9.  
+
+
+
+
+ The only places in America where you won't get a pro-Mexico crowd are the Midwest or Great Plains.  
+
+
+
+
+ Playing for the USMNT, I mean.  
+
+
+
+
+  all were government financed
+
+There's your difference. A government subsidy is not being requested, but tax relief is.  
+
+
+
+
+ Are you mad, brother?  
+
+
+
+
+ It doesn't help that the only player from Liga MX in the World Cup was DaMarcus Beasley.  
+
+
+
+
+ LOL, I just came up with it. I am South Asian myself. One day we get a national team Desi. Considering how most of us aren't that tall and cricket isn't really taking off in America, we should be playing more soccer.  
+
+
+
+
+
+
+
+
+
+ Samosa Indian or frybread Indian?  
+
+
+
+
+ Kljestan's father is Serbian, and I believe Guzan is of Serban descent. Besler sounds German but I'm not sure. 
+
+Howard's mother is Hungarian-Jewish.  
+
+
+
+
+ Some forms even classify Middle Eastern under "white," and some of my Arab friends, some of whom are very light skinned, don't consider themselves as such.  
+
+
+
+
+  deport his arse
+
+I'm going to have to see his passport. His Americanness is in doubt for using the word "arse." 
+
+
+
+
+  what were the whitecaps playing for
+
+The fans, and not some silly yo-yo quest?  
+
+
+
+
+ By that logic, why do you think international friendlies exist?  
+
+
+
+
+ OP, you ought to read this before posting: http://www.reddit.com/r/MLS/wiki/faq#wiki_dead_horses_that_are_frequently_beaten 
+
+
+
+
+ Oh boy, I'd start by searching in this subreddit for terms like "Mike Petke."  
+
+
+
+
+ LOL, it's cool. Adderall + Reddit when one is supposed to be studying probably is a lethal combination, though. 
+
+
+
+
+  Then who is playing Left Mid? 
+
+Graham Zusi. 
+
+ 
+
+
+
+
+  It's pretty obvious to me that Chandler is one of the top few RBs in the player pool
+
+Eric Lichaj, Jonathan Spector and Michael Parkhurst haven't gotten calls lately, and perhaps they should. 
+ 
+
+
+
+
+ Hey El Tri, if you can't stand the heat, stay away from Kitchen? 
+
+
+
+
+ They are, but citizenship isn't going to take effect until about September.  
+
+
+
+
+ I would be looking at Kitchen as heir apparent to Beckerman, but that's just me.  
+
+
+
+
+ So he's basically a younger Beckerman, who needs to work on his offensive skills?  
+
+
+
+
+ I honestly didn't see any sort of clear explanation of any kind, which is why I was incredulous. Your reasoning kind of seemed fake, to be honest. I don't care who you support, but I was curious as to why you hated this team.  
+
+
+
+
+ **Submission Statement**
+
+I'll quote from the article: 
+
+"This is the first in a three-part investigative series on Chinas inroads in Texas energy industry. It follows [an investigative series](http://america.aljazeera.com/articles/2015/1/26/chinas-louisiana-jindal-methanol-plant-environment-racism.html) on another push by Chinese politician-investors and U.S. officials for a methanol plant in a predominantly black neighborhood of St. James Parish, Louisiana."
+
+In this article, Al Jazeera investigates US and Chinese interests behind a bid for $4.5 billion methanol plant in an underserved black community. 
+
+
+
+
+
+
+
+
+
+ They were happy a goal was scored after a goalkeeper mistake? What fans in the world wouldn't be happy with that? If you're mad at that reaction, imagine if it was a British goal off an American keeper's miscue. The reaction, gloating and mockery would be 100 times worse.  
+
+
+
+
+ Shouldn't you despise him instead... 
+
+
+
+
+ WE'RE GONNA HAVE A MONTAGE 
+
+
+
+
+ Ivesgate is about ethics in MLS journalism. 
+
+      I'm sorry, I'm sorry 
+
+
+
+
+ Isn't it amazing, how, probably just four years ago, everyone was hating the fact that Klinsmann was calling Beckerman into national team camps?  
+
+
+
+
+ Thierry Henry also praised Connor Lade, someone who has to fight for minutes on his team, lest we forget. 
+ 
+
+
+
+
+ That will give him, like, another 7 inches.  
+
+
+
+
+ From four years ago: https://www.youtube.com/watch?v=xCv2nLLkvc0 
+
+
+
+
+ From four years ago: https://www.youtube.com/watch?v=xCv2nLLkvc0 
+
+
+
+
+  Paul Caligiuri
+
+As in "shot heard around the world" Paul Caliguiri? Why isn't this a bigger deal?  
+
+
+
+
+  Kids love to have their parents buy them unfortunately
+
+FTFY 
+
+
+
+
+ Try going into the settings on your box as opposed to your TV.  
+
+
+
+
+ And now you're claiming America's soccer games can't be good! You monster! /s
+
+You have to understand, we American fans are a bit sensitive to criticism from people who look down on MLS and other soccer played in North America. Our league is a lot better than what people who don't watch and/or live overseas give it credit for.  
+
+
+
+
+ Created by Redditors  at /r/soccer.  
+
+
+
+
+ Come join us in /r/MLS! 
+
+
+
+
+ Implying that watching the game in one's own country means you can't ever be more than just a fan?  
+
+
+
+
+ "Salaam Alaikum" Omar or "Buenos Noches" Omar?  
+
+
+
+
+ YYYEEEEAAAAAHHHHH 
+
+
+
+
+ My mind is blown at your "you're/your" error. :D 
+
+
+
+
+
+
+
+
+
+ In Egypt, you also have the really messed up stuff like female genital mutilation too. The fact that it exists suggest some warped views on men, women and sexuality that are far outside of the pale in Islam.  
+
+
+
+
+  USOC
+
+That's the U.S. Olympic Committee.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh, I get that, I'm just curious.  
+
+
+
+
+ Long distance marriage?  
+
+
+
+
+ How do you know that it is shutting down in a couple of months?  
+
+
+
+
+ I want to see an article about how Gambians are coming to MLS. We have a ton compared to players of other African nationalities.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Doran. 
+
+
+
+
+ I think the infected part has to touch her, and it didn't.  
+
+
+
+
+ She didn't touch his infected spot.  
+
+
+
+
+ Because they aren't really that good at throwing things. All they really hit was a giant dragon that you'd have to be visually impaired to miss. Also, at that point the Unsullied would collapse into a ball protecting Danaerys with their shields pointing outward. 
+
+
+
+
+ Doran, Danaerys, Jamie, Brienne?  
+
+
+
+
+ What 180? Desperate times call for desperate measures. He said previously that he would risk everything.  
+
+
+
+
+ Probably patrolling the rest of the city. I'm pretty sure that you don't leave the city unsecured even though there's a gladiator tournament.  
+
+
+
+
+ Give it to Jamie or Doran. 
+
+
+
+
+ She's going to pull an O-Ren Ishii. 
+
+
+
+
+ We didn't see any expert spear throwing. You have to be utterly awful to miss a giant dragon, and that's all they really hit. These guys are fanatics, not trained soldiers. They have no military training and they got scared once their plot was found out by Jorah. 
+
+
+
+
+ These aren't trained soldiers. They are some kind of religious/anti-Danaerys fanatics with no military training. They are still scared of the Unsullied, Naharris and Mormont.  
+
+
+
+
+ She wasn't touching the infected part. And even if that doesn't matter she has super dragon fire powers.  
+
+
+
+
+
+
+
+
+
+ Whitecaps = Wildlings?  
+
+
+
+
+ You're really living up to your username in this thread, aren't you?  
+
+
+
+
+ Gerard Depardieu. 
+
+
+
+
+ Who knows what that scythe on the wall is made of... 
+
+
+
+
+   Old Gods are gone from the realm and forgotten
+
+I wouldn't say that, if you remember Bran, the weirwood tree and the three-eyed raven from last season... 
+
+
+
+
+ TROPECETION 
+
+
+
+
+ Walter Wight. 
+
+
+
+
+ Who is preaching about a dragon queen...Wait, I have a theory.  [Lord of Light theory](#g "Based on the preaching of the priestess in Volantis, I think the dragon queen is an integral part of their faith, and that Melisandre is eventually going to sell out Stannis in favor of Daenerys, either by the end of this season or after Stannis possibly becomes King.")  
+
+
+
+
+ Is that you, Stannis? 
+
+
+
+
+ I don't think he's ever even seen a wight and might doubt their existence. 
+
+
+
+
+ We already are. Public viewing parties are huge when the World Cup rolls around. Plenty of MLS teams routinely sell out their matches, with Seattle averaging 38,000 fans per game. International friendlies always draw tons and tons of fans. 
+
+The sport hasn't reached mainstream status, but it grows every year. And as you saw at the World Cup, the national team does well, too.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nah, he was the quiet and nervous kind of creepy, and really was just a kid scared of being bullied once you got to know him.  
+
+
+
+
+ Both.
+
+ 
+
+
+
+
+ They did this every World Cup, FWIW. It was usually him and Mike Tirico alternating. I have no idea what Fox will do in 2018.  
+
+
+
+
+ You're kidding, right? Bob Ley's been covering US Soccer for over 20 years.  
+
+
+
+
+
+
+
+
+
+ Messed up of the Qataris considering one of Prophet Muhammad's famous quotes is "An Arab has no superiority over a non-Arab, nor a non-Arab over an Arab, except in piety and good actions."  
+
+
+
+
+ The whole notion of Muslims instituting Islamic law is fear-mongering. Some states have tried to laughably ban it despite US law already prohibits any law from superceding US law. Sadly, all this does it make it harder to do small things like enforce a prenuptial agreement made overseas.   
+
+
+
+
+ With Carmello candy bar as a sponsor.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Exactly. If she's just around other women or her blood relatives, then she doesn't wear the hijab.  
+
+
+
+
+ It's actually three substitutions for the entire game, not the half, and that's true worldwide, in every top tier league in every country. 
+
+It's only in college and youth soccer in the United States that the substitution rules are different (some subs can come back in the game, there's more than three, etc.). 
+
+Regarding strategy in subs, yes, they are used for that, and they are also used to sub out tired players. It's up to the coach of each team. Sometimes a coach feels the need to make tactical adjustments with different players, and sometimes a player gets hurt or gets tired.  
+
+
+
+
+  the mod who was leading that charge MIA
+
+It must get pretty spirited in those debates.  
+
+
+
+
+ If she's sincerely wearing the hijab, then she's a practicing Muslim, and thus not having sex outside of marriage. So unless she's married, which would be quite a feat for a high school student, she's almost assuredly not having sex. 
+
+ 
+
+
+
+
+  She's probably a super freak for some lucky fella.
+
+If she's sincerely wearing the hijab, then she's a practicing Muslim, and thus not having sex outside of marriage. So unless she's married, which would be quite a feat for a high school student, she's almost assuredly not having sex.  
+
+
+
+
+ I'm pretty sure that Muslims were persecuted and unfairly expelled as as well. http://en.wikipedia.org/wiki/Expulsion_of_the_Moriscos 
+
+
+
+
+ If a dog sniffs you, or their saliva touches you, you become ritually unclean and can't pray unless you wash with something other than water (old traditions say sand, soap is used now), and that basically means a shower. I don't fear a dog that isn't attacking me, but I pray five times a day and I can't go run and shower and/or change clothing.
+
+As such, Muslims are discouraged from keeping dogs unless we have a real purpose, like for hunting, using one as a guard dog or herding sheep on a farm, for example. This has led to Muslims seeming skittish about dogs, and since we don't keep them as pets, those of us who never spent much time around them (i.e. people who grew up in Muslim countries) may have some misconceptions about dogs. 
+
+Really, though, most of us keep our distance because we're thinking about the next prayer and don't want to deal with showering and changing clothes. 
+
+I was way off on the state, lol. I'm in PA.  
+
+
+
+
+ It should be noted that the governments (at least as far as we know) aren't the sponsors, but private citizens in those countries. Of course, some of those private citizens have royal connections.  
+
+
+
+
+ What about the Muslims who were kicked out? Oh wait, Spain probably hates them.  
+
+
+
+
+ Hope you sent him/her a PM.  
+
+
+
+
+ Such a shame when money goes to corrupt officials and not to places where it is actually needed to keep the game going.  
+
+
+
+
+ Lol, security nightmare, and talk about human rights abuses.  
+
+
+
+
+ They were scared of all the Ebola affected countries taking part.  
+
+
+
+
+ Leaving Ser Alliser in charge is very smart on Jon's part, in that case. Mist of the anti-wildling people aren't going turn on him.  
+
+
+
+
+ I live closer to the Amish than you do, lol. We probably live in the same state. I consider myself practicing, and no, it is not a sin to talk to you. Many Muslim women who cover wear jeans, actually most of of the young Muslim women I've met in the states wear jeans. 
+
+Women aren't required to have a man escorting them everywhere. In some of the more conservative Muslim countries,  sure, that rule is there and it is misguided, but the lack of education of many there makes it a safety issue for women. 
+
+I've been to Iran, Pakistan, Iraq (mid 1990s), Syria, the West Bank, Egypt, Dubai and Jordan, and I've seen women walking around all the time on their own without a male guardian. My mother and sister got to work every day on their own and both wear the hijab.
+
+We use modern technology,  unlike the Amish, and we tend to wear all types of clothing, unlike them.  
+
+
+
+
+  Evidence to the contrary be damned
+
+Did it ever occur to you that your "evidence" isn't representative of Muslims, and that what you see here is what Muslims are *actually like?* 
+
+
+
+
+ Meanwhile millions of Muslims go through live every day, going to school, going to their jobs, raising their families, living their lives as ordinary citizens, throughout Europe and the United States, not bothering anyone. 
+
+Except you though. Because you sat behind your computer screen, read a couple of articles about some out of the blue, rare, abhorrent actions, and decided that those actions defined an entire religion made up of a billion plus people. 
+
+I can see some radical, sitting behind a computer in a far off Muslim country, hearing about a terrorist attack in response to a U.S./coalition bombing and thinking, "You can do your Do-As-We-Say shit in the U.S. or Europe, but here we will not tolerate it. We will not have non-Muslims control our behavior through violent acts."
+
+You aren't quite that different from that radical. He doesn't have the benefit of an education, so he might do something stupid. Thankfully, all you'll ever do is post stupid things on the internet and continue thinking stupid thoughts.  
+
+
+
+
+ That looked like a legit HBO promo. Well done. 
+
+
+
+
+ I recall her being very uneasy during the marriage. For example, she was very relieved when Jorah showed up with his gift. 
+
+**EDIT:** I was referring to Daenerys's wedding to Khal Drogo, not her (upcoming?) wedding to Hizdahr.  
+
+
+
+
+ Aww yeah, BJIV is in! 
+
+
+
+
+ We're not the Amish, lol.  
+
+
+
+
+ Dude, this is pretty old. I've seen quite a few.  
+
+
+
+
+ Not just rooting for the US because they're my team, but because Myanmar is treating the Rohingya minority like crap.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I get the feeling that if he was supporting the Israeli government, you wouldn't be saying that.  
+
+
+
+
+ It's amazing what happens when punitive actions are threatened. This is why the BDS movement shouldn't be discounted.  
+
+
+
+
+ They sort of did: http://np.reddit.com/r/soccer/comments/37nt71/israel_offers_concessions_in_bid_to_avert_vote_to/ 
+
+
+
+
+ If you scroll down: 
+
+ According to the source, Israel offered a four-point proposal that addressed most of the Palestinians grievances.
+
+ 1. Palestinian players and coaches will receive special documents to facilitate their travel from Gaza to the West Bank and abroad.
+
+ 2. Israel will ease restrictions and promote soccer-related projects in the West Bank, including the construction of a stadium and other facilities.
+
+ 3. Israel would cover the costs of tax and customs for sports equipment imported by the Palestinians to the West Bank via Israel  predominantly via the Ashdod seaport.
+
+ 4. A joint committee comprised of representatives from Israel, the Palestinian Authority and FIFA would be formed and would convene monthly to address day-to-day issues and any problems that arise. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  It's important also to note that Jordan is a constitutional monarchy, not an absolute monarchy like the Gulf states,
+
+Eh, this is debatable. They profess to be a constitutional monarchy, but the Hashemite family pretty much calls the shots. They have a secret police and political dissenters aren't always free to express their opinions. They are somewhat better than the Gulf states, but aren't a constitutional monarchy like England or Spain.  
+
+
+
+
+
+
+
+
+
+ York is cheap and has a few bars, plus it is relatively cheap to live there. It's close to Gettysburg, Harrisburg, Baltimore, and Lancaster (sort of in the middle of all of them). Lancaster is a really cool city with tons to do that has a lot of shopping, organic stores, great restaurants and young people, and since that would really be far from Gettysburg, York is your best bet.  
+
+
+
+
+ The Caribbean bloc of CONCACAF were the ones implicated in the scandal. The lone Central American personality indicted was Eduardo Li of Costa Rica. It should be noted that CONCACAF provisionally suspended the current President, Caribbean Jeffery Webb*, in favor of a Honduran official. 
+
+*EDIT: Just scrolled up and saw the name in the sidebar picture. Of course, it's Jeffery Webb. 
+
+
+
+
+ This is the full story from the NY Times. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've been to the mosque. You couldn't even see the Ground Zero site from the mosque.  
+
+
+
+
+ Trevor Noah, a South African comedian, is taking over.  
+
+
+
+
+
+
+
+
+
+ It can't be makruh. Arab Muslims practically invented coffee. 
+
+
+
+
+ Except when you eventually die from scurvy... 
+
+
+
+
+ This post is the most pretentious thing I've seen in quite some time.  
+
+
+
+
+ This is kind of old news... 
+
+
+
+
+ Do yourself a favor and click the "news" section on Buzzfeed. You'll find a surprising lack of clickbait and plenty of substance.  
+
+
+
+
+ If you ever wanted gun control in America, that would be the sure-fire way to get it.  
+
+
+
+
+ Ray guns are haram and biddah! Stick to bullets and AKs like the Salaf used!!! 
+
+/s 
+
+
+
+
+ A tasty, tasty law.  
+
+
+
+
+ Unless you're black.  
+
+
+
+
+ Starting from the bottom, soon we'll be here. 
+
+
+
+
+ You're welcome, international soccer fans.  
+
+
+
+
+ **Your** username should be **you're** as the latter form is being used.  
+
+
+
+
+  there is only one religion/unified group overthrowing countries
+
+LOL, you think Muslims are unified? ISIS is Muslim, most of the people they are killing are Muslim and the people fighting them are Muslim. They have not succeeded in overthrowing any countries, as the countries they are in are *already Muslim* to begin with.  
+
+
+
+
+ If you're thinking about Pynadath, he's in Real Madrid's system. 
+
+
+
+
+ A man does not know the correct usage of "you're." 
+
+
+
+
+ Two buckets??? What kind of money are you making?  
+
+
+
+
+ We have a Shariah movement AND a Muslim President??? 
+
+
+
+
+ Bold theory: She's no one.  
+
+
+
+
+ It isn't known? 
+
+
+
+
+ Only lemon cakes.  
+
+
+
+
+ Someone should have yelled "You screwed Zack Ryder!" 
+
+
+
+
+ Bronn is sitting in a prison cell with Jamie in Dorne.  
+
+
+
+
+ That was a completely different kind of creepy, though. He was very quiet and reserved.  
+
+
+
+
+  the High Sparrow said he recanted 
+
+I think you mean repented. Recant means to take back what you have said while repent means to express remorse on what you have done. 
+
+
+
+
+ Well, he grew up with her and loved her from a young age.  
+
+
+
+
+  They not only can beat you to a pulp
+
+Won-loss record says otherwise.  
+
+
+
+
+ Last year, they qualified for the AFC Cup, the first international tournament they have ever qualified for.  
+
+
+
+
+ I think you mean the FA Cup.  
+
+
+
+
+ [Original Tweet](https://twitter.com/MLS/status/602272391440539648). 
+
+
+
+
+
+
+
+
+
+  LAND IF
+
+**LAND OF**!!! 
+
+
+
+
+  presumably because the Palestinian FA failed to notify Israel that a convicted player would be traveling with them
+
+Aren't national team rosters released to the media ahead of time usually?  
+
+
+
+
+ Why are you being downvoted for providing sources and quotes? Good stuff here.  
+
+
+
+
+ They call him Mr. Glass... 
+
+
+
+
+ Not since the accident.  
+
+
+
+
+
+
+
+
+
+ Yes! He's the one. He gets along well with Tyrion, too.  
+
+
+
+
+ Especially that one dude who dies fighting the Lannisters and saves Arya at the end of season 1. Wait, are we sure they aren't related or something? They look a lot alike... 
+
+
+
+
+ Cersei and Melisandre. 
+
+
+
+
+
+
+
+
+
+ That's because Saudi (and the rest of the Gulf) uses workers like that as pseudo-slave labor.  
+
+
+
+
+ It's that white beard he used to have, isn't it?  
+
+
+
+
+ *You're 
+
+
+
+
+ I think I hear /u/JFLORESHYPETRAIN or whatever his name is crying.  
+
+
+
+
+ Hope Solo should have picked him.  
+
+
+
+
+
+
+
+
+
+ Parents just don't understand.  
+
+
+
+
+ Claire McCaskill is a woman, geniuses. 
+
+
+
+
+ It's more like a hype boxcar in this case.  
+
+
+
+
+
+
+
+
+
+ Probably a replacement for EJ's roster spot.  
+
+
+
+
+ Ugh, Pablo doesn't seem to have gotten the memo that most of American soccer has stopped going after the biggest guys and are now looking for actual technical skill. 
+
+
+
+
+ You also forgot Joshua Pynadath. In Real Madrid's Academy.  
+
+
+
+
+ As much as I like the New Day, Damien San/Mizdow wins this by a mile.  
+
+
+
+
+ She was born to Scientologist parents.  
+
+
+
+
+ Don either finds peace or sells out and makes one of the best ads of all time. I like the open ending. Too much fan service on the part of Peggy + Stan that felt too contrived. However, I like Pete's situation. It seems more natural.  
+
+
+
+
+ Don shot that down in the pilot, lol.  
+
+
+
+
+ Really big pay raise. He makes $6 million+ per year. Also, he wants to raise his kids closer to home.  
+
+
+
+
+ He was battling a foot injury at that time. After the 2014 season he had foot surgery.  
+
+
+
+
+ They should combine the two.  
+
+
+
+
+  this violence is explicitly part of these religion's dogmatic writings.
+
+Not according to what I was taught, and to the scholars which I follow. Tell me, what is the nature of your expertise with Islam? Do you follow the religion, or have a theological background?  
+
+
+
+
+
+
+
+
+
+ Thanks for your views. There are many things wrong in Baltimore and the police department is one of them. 
+
+ 
+
+
+
+
+ I don't comment there. And why? I hold no ill will to you or even most police.  
+
+
+
+
+ Funny thing about that: many who invoke religion don't know the first thing about theirs or do and are only using it as an excuse. If they can't use religion, they'll use something else.  
+
+
+
+
+ It's to provide background about Baltimore's situation. 
+
+You seem to be going out of your way to not comment about Detective Crystal or what happened to him. 
+
+
+
+
+ I tend to be optimistic about people. Hopefully, I get at least one genuine comment before this post drops off the front.  
+
+
+
+
+ You took that excerpt out of context. The story isn't even about Freddie Gray, It's about Detective Joe Crystal, an officer like many here (at least I hope so). You took two paragraphs about a subject not related to the main focus of the article. In any case, the quote you pulled says that the state's attorney concluded this fact, not that she was right or wrong in doing so. 
+
+In no way have you addressed the main content of the article: what happened to Detective Crystal after he reported his fellow officers for misconduct.  
+
+
+
+
+ What do you think about the article? Is it unfairly prosecuting? Does the officer in question have a compelling story or does something not add up? A good article is a good article no matter where it comes from.  
+
+
+
+
+ I just posted an open-ended fresh question in a fresh post. I must confess, I've been in this sub before, and this is most abrasive reaction that I've ever gotten.  
+
+
+
+
+ Ok, this is long overdue, so here goes: 
+
+I saw this and was genuinely shocked at what happened to this officer. I want to know what you all think, and what your experience is regarding officers who report other officers for misconduct. I have no idea of how uncommon or common that is in a police department. 
+
+
+
+
+  I guess you can waddle back to BCND and tell everyone how P S disregarded the article because of the source.
+
+Can you honestly tell me how that is helpful to any discussion? What's done is done now. It seems you're having a bad day, and I'm sorry if this article was just the straw that broke the camel's back. What do you think about the article? Is it unfairly prosecuting? Does the officer in question have a compelling story or does something not add up? Please, I mean no offense. 
+ 
+
+
+
+
+ Please, enlighten me. 
+
+Posters in this thread are judging the story by the domain name, and I see few comments on the actual content of the article itself. i didn't post here to provoke or insult police officers. I wanted to see the genuine opinions of police officers on this subject, positive or negative. Is anyone willing to say anything?  
+
+
+
+
+  RULES
+ Be respectful in your posts and comments. Any posts/comments which simply insult a user will be removed. Also, no ignorant cop-bashing (i.e. calling police officers "pigs") will be tolerated. Please be mature if you have an issue you wish to raise.
+ Practice OPSEC. Remember, this forum can be seen by anyone.
+ No racism, antisemitism, sexism, etc. is allowed.
+ Do not post material such as "Cops Harass Man for Filming" without both a question in the title as well as a meaningful discussion starter (at least a few sentences) in the comment section to accompany it.
+ Do not post links leading to BCND. If you want to link to another subreddit, you are required to use the no participation (NP) domain or your post will be removed. An explanation on this can be found here.
+ Do not post memes, image macros, rage comics, etc. This is only allowed once a week on 'Meme monday'. They are always allowed in comments.
+ Skirting any of the above rules in bad faith will not be tolerated. Users' posting histories and general behavior might be considered when making determinations on whether to remove a post and/or ban or warn a user.
+ Hiring questions that are posted separately from the Weekly Question Thread will likely be removed without notice.
+ Any violation of Reddit's User Agreement will be dealt with in a strict manner.
+ We reserve the right to remove any post we see fit.
+
+Please read these before posting.  
+
+
+
+
+  People tend to tell them to fuck off with the bullshit.
+
+Uh, yeah, ever heard of [Serpico?](http://en.wikipedia.org/wiki/Serpico). This isn't new, and that's not an appropriate way to respond to public criticism. You're not doing yourself or your fellow officers any favors. 
+  
+
+
+
+
+ I think what I like about police most is their friendly relationship with the community.  
+
+
+
+
+
+
+
+
+
+ What's the difference between ISIS and these kinds of people? They both look at texts literally without studying their context or deeper meaning. 
+
+
+
+
+ I genuinely wanted to see what police thought of this story by posting it here. Instead, these comments are about people bitching over Buzzfeed.  
+
+
+
+
+ I'm guessing you saw that post in /r/worldnews. Thank you for having an appropriate response and not resorting to "OMG Islam is evil just like all religions" like many on Reddit are prone to do.  
+
+
+
+
+ Using the term "SJW" is an attempt to shut down a discussion or nullify a point by completely disregarding the person posting it.  
+
+
+
+
+ The history of humanity contains rampant violence, religion or not.  
+
+
+
+
+ Did you actually read the article?  
+
+
+
+
+ Ever heard the phrase "don't judge a book by its cover?"  
+
+
+
+
+ Oh thank you, wise internet man, for educating me about my own religion! 
+
+
+
+
+ I think Godwin's law needs to be invoked any time someone uses the term SJW or any derivative of it.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I don't know if Lee Cosgrove is trying to "take the mick," as they say, but he's hilarious.  
+
+
+
+
+ This is typically only displayed right at the start of the game, and perhaps at halftime, as far as I know.  
+
+
+
+
+ Smurfs are royal blue, buddy.  
+
+
+
+
+ I thought it was funny that NYCFC fans showed up in Harrison today, considering that many of them refused to support the Red Bulls because it meant they would have to actually go to New Jersey to watch the games.  
+
+
+
+
+ MLS academy rules say you can't play for a high school or other club team.  
+
+
+
+
+ Glass houses... 
+
+
+
+
+  Antifa
+
+If you were curious about what this means: http://en.wikipedia.org/wiki/Anti-fascism 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is messed up. What are guys like Twellman saying about it?  
+
+
+
+
+ Dude, Brooklyn is pretty diverse. I'm pretty sure a sizeable amount of kids know what soccer is.  
+
+
+
+
+ Well, he did help write those rules.  
+
+
+
+
+ I thought Kompany was considered the best CB in the world.  
+
+
+
+
+ Why isn't Roman Gall on the team? He helped lead them through the qualifiers.  
+
+
+
+
+
+
+
+
+
+ B-b-but NYC Soccer Warz! 
+
+
+
+
+ The failed tag team of Brodus Clay and CM Punk.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Such a shame that this isn't widely known among Muslims.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LOL, most American Muslims aren't even gun owners.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Narrations place her as old as 16, an din any case, it was no different than what was going on in other places in the world at the time. Then again, I'm wondering why we're jdpudging Muslims of today based on a one narration out of a possible many that took place 1400+ years ago. According to the bible, Noah repopulated the earth by having relations with his daughters. So we can we call Jews and Christians the followers of an incestuous prophet?  
+
+
+
+
+ Oh, so you're an active member of the Church of England? Because that is the state religion.  
+
+
+
+
+ I said actions, not party affiliation. 
+
+
+
+
+ Fat chance, have you seen today's news?  
+
+
+
+
+ Good for you. As a Muslim, I couldn't care less. Just respect our freedom in the same way you want us to respect yours.  
+
+
+
+
+ Who made you the arbiter of patriotic loyalty in GB?  
+
+
+
+
+ That's not the hashtag, but nice projecting there buddy.  
+
+
+
+
+ Hey now, there's legitimate grievances there, and you can't look at this group and automatically label everyone that way. That's stereotyping.  
+
+
+
+
+ Generally, I look at the actions of politicians to judge them, yes.  
+
+
+
+
+ No, I'm pretty sure Sunni Islam believes the Mahdi will defeat him. They don't recognize the 12th Imam, but they do believe he is a descendant of the Prophet Muhammad. [Numerous Sunnis have claimed the title throughout history.](https://en.wikipedia.org/wiki/Mahdi) 
+
+
+
+
+ Muslims believe that the Mahdi, a different person and a descendant of Muhammad, will defeat the Antichrist. Jesus will return though too and will recognize the Mahdi and follow him. The Mahdi is basically the Messiah in Islam.  
+
+
+
+
+ Yeah, that's not true. There's an entire chapter in the Quran devoted to his mother, who is considered one of the holiest women in Islam, and there are several verses describing his birth, his life, the fact that he isn't the son of God (according to Islam), what he taught, etc. 
+
+
+
+
+ Despite the source? Did you notice that the writer was Leander Schaerlaeckens? I know it was Yahoo!, but you have to look at the byline. 
+
+
+
+
+ He was participating in the Civil Rights Movement back when Hillary was supporting Goldwater. That's not a joke.  
+
+
+
+
+
+
+
+
+
+ The Miami Fusion and Tampa Bay Mutiny say hello.  
+
+
+
+
+ Ask Jurgen.  
+
+
+
+
+ Dude, he has a hamstring injury.  
+
+
+
+
+ Jermaine Jones mistakenly spelled it that way in the weeks leading up to his transfer to New England, and we've spelled it that way ever since.  
+
+
+
+
+ This was a nice article on Bill Hamid a few years ago dealing with the same thing: http://www.washingtonpost.com/sports/dc-uniteds-bill-hamid-finds-balance-between-body-and-spirit-during-ramadan/2012/07/31/gJQAWjUmNX_story.html 
+
+
+
+
+ Never mind that there is already one power in the Middle East who already has nuclear weapons and refuses to sign any treaties.  
+
+
+
+
+ No, it's a Zack Ryder - X-Pac tag team.  
+
+
+
+
+
+
+
+
+
+ This article refutes everything that AIPAC says about Iran's nuclear program. I don't know what you're getting at.  
+
+
+
+
+ New typo on his jersey this Gold Cup?  
+
+
+
+
+ What did he say about Feilhaber?  
+
+
+
+
+ /r/outoftheloop 
+
+
+
+
+  Gawker just wants to ride the fucking click-train.
+
+That's every content provider on the internet, genius.  
+
+
+
+
+ It's probably because he recommended Pao, and then saw her subsequently get crucified.  
+
+
+
+
+ Because it could have backfired. Ellen Pao wants to protect hateful subreddits? The spin on that would be that she's no feminist at all, she's a hypocrite. Which probably speeds up her dismissal, but for different reasons.  
+
+
+
+
+ We did it Reddit! 
+
+
+
+
+ Synergy! 
+
+
+
+
+
+
+
+
+
+ Username.  
+
+
+
+
+ Fabinho might not be that good, but he doesn't count as a real LB?  
+
+
+
+
+ And what happens when Brek is healthy again? Do they both play or does Ashe go right back to the bench?  
+
+
+
+
+
+
+
+
+
+ Jozy is currently playing on a strained hamstring.  
+
+
+
+
+ I enjoyed the DB DD with the BTs.  
+
+
+
+
+ In this case, it's neither false, frivolous, nor potentially damaging (it's Reddit, for pete's sake), but nice try.  
+
+
+
+
+ Olivia Wilde sort of looks like Lena Headley.  
+
+
+
+
+ Thanks, but I doubt it will change a thing. I and others have called him out before.  
+
+
+
+
+ Sematrix posts decent articles, but is a raging anti-Semite himself. Don't mistake his posts for legitimate criticism of Zionism, or of advocacy for the Palestinians. He represents neither.  
+
+
+
+
+ I wonder if football fans will complain about penalty box and touchline lines on the field during NFL games.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ One half of The Hart Dynasty, Tyson's old tag team.  
+
+
+
+
+
+
+
+
+
+ A bunch of pretentious old men playing at ruling the world of football.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ And the only prescription is.... 
+
+
+
+
+ That's redundant, chai already means tea! You're just saying tea twice! 
+
+/annoyed Indian 
+
+
+
+
+
+
+
+
+
+ Her and Dwyer's kid? Pencil him/her in the USMNT/USWNT for World Cup 2038/2039.  
+
+
+
+
+ **WOOSHCEPTION** 
+
+
+
+
+ Acadamy? But where will the **academy** players go?  
+
+
+
+
+ They get stars with a little help from their Becks.  
+
+
+
+
+ DC Statehood! #TaxationWithoutRepresentation 
+
+
+
+
+ If another city ponies up the money, a player will go there. Do you think Qatar and China have star power?  
+
+
+
+
+ I THINK HE'S OFF AS OF A FEW WEEKS AGO.  
+
+
+
+
+
+
+
+
+
+ **Submission Statement**
+
+The article debunks the myths surrounding the Confederate flag, chiefly that it was a symbol of liberty against northern tyranny, demonstrating that the Confederate States of America weren't exactly a model of freedom themselves.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Chicago residents - call up local government and complain like crazy.  
+
+
+
+
+ He had a bad foot, played through the pain, and got surgery afterwards.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm a US fan for life, but I'm sad De Rosario never got to play in a World Cup.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He's in the royal family, who makes the laws. The royal family pretty much do whatever they want, and only the ordinary citizens are subject to the laws.  
+
+
+
+
+ Maybe in some European places, but most of the time I've heard he's not a part of any team organization until he is signed to a professional contract. 
+
+
+
+
+ No, this isn't part of any rules. The same thing could happen in Europe if a team doesn't sign an Academy player to a pro contract.  
+
+
+
+
+ Romenesko, Columbia Journalism Review, Reliable Sources on CNN, The Listening Post on Al Jazeera 
+
+
+
+
+ Gaza's airport has been unused for quite a while now.  
+
+
+
+
+ But was not signed to a professional contract, and under no ownership.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Am I the only one who thinks that the NASL should focus on markets without any MLS presence?  
+
+
+
+
+ Probably not, unless he was signed to the team as a professional.  
+
+
+
+
+ ...what?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Things get lost in translation. A new translation can be a new interpretation.  
+
+
+
+
+
+
+
+
+
+ Barring women from going to school, for example. Nothing in Islam says that women can't be educated. Even in other countries with codes based on Islamic law, say Iran and Saudi Arabia, girls do attend school and university.  
+
+
+
+
+
+
+
+
+
+ Uhh, what? I was first. http://www.reddit.com/r/Journalism/comments/3b5e1m/every_year_with_new_us_supreme_court_rulings/ 
+
+
+
+
+ It's low-hanging fruit. All of these negative tweeters actually think SCOTUS blog is the Supreme Court.  
+
+
+
+
+ You are not familiar with Afghanistan then. Literacy is so low and it's the reason that the Taliban's laws were so crappy. They couldn't understand the Quran they had memorized, and their laws contradicted Islam too.  
+
+
+
+
+ WHY ARE YOU TRASH-TALKING YOUR OWN PLAYER?  
+
+
+
+
+ IF THERE'S ONE THING MLS IS MISSING THAT EUROPE HAS, IT'S A RIGHT-WING, FACIST-LEANING CLUB.  
+
+
+
+
+ FLAIR UP! 
+
+
+
+
+ Yeah, I had that in mind when I added that "almost."  
+
+
+
+
+ It's almost impossible to get wrong, though. You're literally sitting in the court building as the ruling is being made.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Great Sports Illustrated piece on Mudiay to people who don't know his story: http://www.si.com/nba/2015/06/24/emmanuel-mudiay-nba-draft-congo-china-texas-smu-larry-brown 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's stories like that narrated by other characters on the show too. Look up "history of Westeros" and "Histories and Lore" on YouTube. 
+
+
+
+
+ From your [Wikipedia link](https://en.wikipedia.org/wiki/Gordie_Howe_International_Bridge#Opposition), evidently the freaking Koch Brothers are involved too. 
+
+ In early June 2011, the conservative group Americans for Prosperity posted bogus eviction notices on homes in Detroits Delray district. With the words "Eviction Notice" in large type, the notices told homeowners their properties could be taken by the Michigan Department of Transportation to make way for the proposed new bridge. The groups state director said the fake notices were intended to get residents to contact state lawmakers, to ask them to vote against the bridge project.[38]
+
+ 
+
+
+
+
+ Eh, I wouldn't be too sure. Can you think of anyone who would be willing to buy a book written by her? She's hated by people of most races and most political persuasions.  
+
+
+
+
+ That's why people use terms like Latino or Latina and Chicano in addition to Hispanic, and why on most forms, Latino is not identified as a race, but as an ethnicity - you'll see a notation that says something like "Latinos may one or more races." 
+
+
+
+
+ Where did you get your journalism degree from?  
+
+
+
+
+ Try clicking the news section on Buzzfeed. There's no clickbait in there.  
+
+
+
+
+ We don't know if he's the heir. Tyrion says that Trystane is the youngest son in season 2.  
+
+
+
+
+ That looks like a display set up by Pringles Corporate, though.  
+
+
+
+
+ Most communities who do that won't do that indoors, though.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Unless you're a White Sox fan.  
+
+
+
+
+ ...what was the point of that? That cloth is actually stained with rosewater, and that kind of decoration is only up in Muharram, when the tragedy of Karbala is being commemorated.  
+
+
+
+
+ Brings my fast? 
+
+
+
+
+ To combat sectarianism like this, go to Iftar this Ramadan to a mosque of which you are not the majority denominations and post pictures on social media with the hashtag. #IStandWithMyShiaCommunity, or #IStandWithMySunniCommunity and tag your friends.  
+
+
+
+
+
+
+
+
+
+ You can't support a commercialized cartoon m8 
+
+
+
+
+  Well, actually Howard is taking a break now as well.
+
+And it is yet to be determined if he's back on the squad once the break is over.  
+
+
+
+
+
+
+
+
+
+ NO GOLD! 
+
+
+
+
+
+
+
+
+
+ So Chinese Muslims should engage in an armed rebellion against the Chinese government?  
+
+
+
+
+
+
+
+
+
+ Might be prejudiced against Muslims. 
+
+
+
+
+ With what? Guns? Wars? I don't see how either of those has anything to do with freedom of religion.  
+
+
+
+
+
+
+
+
+
+ I can't believe that guy is married to Avril Lavigne.  
+
+
+
+
+ What is ends meat? Does it taste good?  
+
+
+
+
+ It's the world's most popular name. Which Mohammed are you referring to? Mohammed Ali, the Moroccan king, my friend from the mosque, Egyptian national football team member Mohammed Salah... 
+
+
+
+
+ "Only." And that's not really true, restaurants are ordered to stay open.  
+
+
+
+
+  I think you mean "bear arms," and I fail to see how owning a gun has anything to do with the freedom of religion.  
+
+
+
+
+
+
+
+
+
+ How diverse is the Nordecke? Not trying to start anything, genuinely curious.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You'd think there would be a couple from when Jay DeMerit played there.  
+
+
+
+
+
+
+
+
+
+ It is known.  
+
+
+
+
+
+
+
+
+
+ He loves to sail, too.  
+
+
+
+
+  little uppity bitch
+
+-_- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How does stuff like this happen? They don't even have an "Uncle Tom" Palestinian at the conference.   
+
+
+
+
+
+
+
+
+
+ SHAME 
+
+
+
+
+ She's from their militant wing.  
+
+
+
+
+ Did they? Trystane was referred to as Doran's youngest son.  
+
+
+
+
+ Sock puppet would also work.  
+
+
+
+
+ Blazer, not Glazer, lol.  
+
+
+
+
+ No more kingdoms! 
+
+
+
+
+ Don't all bastards get that last name, not just the highborns?  
+
+
+
+
+ To paraphrase Locke, "they were both highborn pricks." Why wouldn't they get along?  
+
+
+
+
+ I can't remember where I read it, but "if anyone has an excuse to develop a spare tire around their waist, it's an over-the-hill luchador." 
+
+
+
+
+ If you call split almost overwhelmingly against. ISIS's main opponents are also part of the Muslim faction.  
+
+
+
+
+ I thought the Marines hadn't taken on the ISIS guild directly yet, instead backing the Iraqi and Kurdish guilds.  
+
+
+
+
+ This is patently false. If you try a mosque forum, odds are you will be reported to higher level points before ever joining. The ISIS guild started from people who began on the fringes outside of the mosque forums. Many of the guild's recent members are people who checked out of the mosque forums because they didn't find any adversarial, vengeance seeking quests.  
+
+
+
+
+ Yeah, I'm not following that fringe BS website, nor your completely reprehensible views. 
+
+ In fact, I would rather let the Israelis kill every single last Palestinian man, woman, and child because at the end of the day, better them than us.
+
+ 
+
+
+
+
+ You're projecting your thoughts into my head. My ideal solution is one single state where Jews, Christians and Muslims are living wherever they want and worshipping freely. If you call the death of a Jewish-only state as genocide, then you are deluded. 
+
+The terrorists, the ISIS types, the ones who actually wish a military destruction of Israel would fight against "pro-Palestinians" if Israel is out of the way. They give Israel's military a justification, and most of us don't like that. It's why we have our own organizations and don't work with them. 
+
+I want what happened to South Africa to happen to Israel. Last I heard, when the apartheid there ended, there wasn't some genocide of white South Africans. Now, prejudices there still remain, but people there aren't subject to discrimination and massive human rights violations.  
+
+
+
+
+ You're putting stereotypes into my comment when there is nothing there. You might be right about sematrix, but you might be surprised how many people support the Palestinian cause because they are against the injustices committed against them, not because of some reprehensible prejudice against Jews. I'm no supporter of people like sematrix, as you'll see elsewhere in this thread. 
+
+Groups like the Neuteri Karta, blogs like Mondoweiss (run by Jewish bloggers), individuals like Anna Baltzer and Max Blumenthal, and organizations like B'Tselem and Jewish Voice for Peace make it abundantly clear that the problem is not with Judaism nor the Jewish people. 
+
+
+
+
+ I think people are downvoting you because of your reprehensible views, not because your statement is true. McCarthyist tactics are nothing to be proud of.  
+
+
+
+
+ Sematrix, if you were just against Zionism and not Judaism or the Jewish people and weren't linking to a subreddit known as Gentiles United, I'd actually support you.  
+
+
+
+
+ He's right. It's called canarymission dot com. Here's the [Forward](http://forward.com/news/308902/shadowy-web-site-creates-black-list-of-pro-palestinian-activists/) article on it.  
+
+
+
+
+ What's the point of Tyrstane now? He's just going to get executed upon arrival in King's Landing despite having nothing to do with Myrcella's death. Or, even sooner if Jamie gets irrational and executes him on the boat.  
+
+
+
+
+ What's to stop Jamie from turning the boat around and heading back to Dorne?  
+
+
+
+
+ Does anyone have the video of him presenting the NXT Championship?  
+
+
+
+
+ CLEGANE BOWL CONFIRMED 
+
+
+
+
+ Your flairsake is still alive, at least we think.  
+
+
+
+
+ Hey, we know who he is! He pays the iron price.  
+
+
+
+
+ Whore! *splat* 
+
+
+
+
+ Load the jump program. 
+
+
+
+
+ The crown was also massively in debt while he was Master of Coin. I have a suspicion that he did that on purpose.  
+
+
+
+
+
+
+
+
+
+ From Netanyahu's point of view, I mean. He's saying that the Palestinians will not know justice and freedom as long as Israel exists. I'm talking about Netanyahu saying it, not anyone else.  
+
+
+
+
+ With or without context there is no way to justify that quote.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You Targaryens are a contentious lot.  
+
+
+
+
+ A lot of scholars say that covering the neck is part of hijab.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I would add that the caste system has to figure into it. "The help" is probably not far off.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is what I would say to those who argue that there no miracles today because religion does not exist. No, it's that they would still refuse to believe even if a miracle occurred in front of their very eyes.  
+
+
+
+
+ Hodor.  
+
+
+
+
+ Ser Loras would be happy.  
+
+
+
+
+ Misplaced javelins can't melt steel plot.  
+
+
+
+
+ They should have applied that to the sand snakes... 
+
+
+
+
+ You don't have to root for Ramsey. Brienne's still waiting... 
+
+
+
+
+  He had also previously displayed a disgust at the action of burning people AND. A mistrust of Melissandre's methods.
+
+Which is why the second season started with him burning a ton of people, and pledging loyalty to Melisandre.  
+
+
+
+
+ The first guy who tries that is the first one killed.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

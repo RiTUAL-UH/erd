@@ -1,0 +1,5384 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am an Independent that has become disillusioned at the entire political process. Just wanted to have a fun up or down vote on Reddit. Hope everyone gets laid tonight.. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ First Celebrity Crush: Winnie Cooper (Danica McKellar) from "The Wonder Years"
+
+Close second: Kelly Kapowski (Tiffani Amber Thiessen) from "Saved by the Bell" 
+
+
+
+
+ I have been drinking PBR since these kids were in diapers. I just love PBR. Now I get awkward stares from people because of the fucking hipsters. Thanks, hipsters! 
+
+
+
+
+ This is why they keep prisons so cold. 
+
+
+
+
+ "You touched a bar of soap!!!!! What were you thinking!? Give me those hands.." *applies entire bottle of hand sanitizer* 
+
+
+
+
+ Isnt Obama trying to sell TVA to the same company?  
+
+
+
+
+ Armed forces, DHS, TSA, NSA, CIA, FBI, ATF, Federal Police, DEA, USMS, BOP, ICE, ERO, HSI, USSS, CBP, etc, etc.. How many Federal agencies does ones government need to "police" its own people?
+
+*This doesnt include the Militarized local/state police forces. 
+
+
+
+
+ And guess who is paying that settlement, citizens...
+
+Edit: My only point was. I totally agree this man deserved his settlement and much more. I am just wondering when we will start holding our Government accountable instead of paying settlements every time. I just want people/agencies/politicians held accountable. 
+
+
+
+
+ Obama should relinquish his peace price to Edward Snowden. 
+
+
+
+
+ There were around 40,000 people remaining at the show when he took stage. I think Woodstock peaked around 400,000 people. 
+
+
+
+
+
+
+
+
+
+ Followers of the [Flying Spaghetti Monster](http://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)? 
+
+
+
+
+ Why doesn't he join the Caucasian Caucus? 
+
+
+
+
+ Looks like Murica is about to spread some freedom. 
+
+
+
+
+ McCain is an interesting lil fellar. Hell, Johns alright...... 
+
+
+
+
+ You may take our lives, but you'll never take our POOOORRRNN! 
+
+
+
+
+ I blame every President and Congress for the last 40 years. 
+
+
+
+
+ Hank Paulson is a Republican. 
+
+
+
+
+ That woman had grit. RIP 
+
+
+
+
+
+
+
+
+
+ Its only a hate crime if white people do the beating.  
+
+
+
+
+ Everything     is      fine. The    Government   knows    best  
+
+
+
+
+ Fuck MSNBC! 
+
+
+
+
+
+
+
+
+
+ Why cant we just stay out of other peoples business for a change. Do people have to call the cops about everything? geez. 
+
+
+
+
+
+
+
+
+
+ Is Kanye West really the father? 
+
+
+
+
+ When its warm, I can't ever tell if its actually going in my eye. I squeeze the bottle and then think, "Did anything actually come out of the bottle?". Then the tears run down my face and I finally know. 
+
+
+
+
+ You, I like [you](http://media.tumblr.com/tumblr_lzzi6cUfk91qj2vh0.gif).. 
+
+
+
+
+
+
+
+
+
+ His words are refreshing and I hope they encourage the movement of mountains. 
+
+
+
+
+ The Government does not work for the best interest of the people. It no longer governs by the restraints put forth by our founders.  
+
+
+
+
+ I do it every day. It destroys relationships. 
+
+
+
+
+ Since Reddit I have forgotten how to internet. 
+
+
+
+
+ I cant stop staring at that ass on the right... 
+
+
+
+
+ She is also trying to dismantle the 2nd Amendment. The woman is against the Constitution. I just wish her constituents realized or cared. 
+
+
+
+
+ So he will overlook the use by the rebels just to save face? Are you ok with this? To me the man doesnt have much credibility left. And if he condones the use of Sarin by the Rebels, but not the regime, then he will lose even more credibility. His red line should be for anyone using Sarin. This isn't a game. I think we just need to stay out of it. Its not our fight. Are we going to have to go to war with these rebels in 15 years after arming them to the teeth? 
+
+
+
+
+ What about the UN having reports it was the Rebels that used the sarin..? [Link](http://www.reuters.com/article/2013/05/05/us-syria-crisis-un-idUSBRE94409Z20130505) 
+
+
+
+
+ Yup.. and the fact that we are complacent and lazy just means we will continue to get it "up the ass". Nothing will change because we do not demand it. We get mad about it and then go on to the next Kardashian baby. 
+
+
+
+
+
+
+
+
+
+ I grew up in a Southern Baptist home. When I say voice I dont mean the peons. I mean the larger voices of the Church. Please do not try and tangle my words. Christianity needs leaders that speak of Christ in his true identity, not the falsehood idealism that has plagued it. 
+
+
+
+
+ I just agreed with Sarah Palin for the first time in my life. I will remember this day forever. 
+
+
+
+
+
+
+
+
+
+ Finally a voice of the Christian religion speaks of acting Christ-like. Its refreshing to hear. 
+
+
+
+
+ Now go tell him again. 
+
+
+
+
+ "We need to dismantle the constitution to protect the constitution." - US Government 
+
+
+
+
+ #How can Snowden be a traitor when the programs he exposed are unconstitutional?
+
+
+##*My country, 'tis of thee,*  
+##*Sweet land of liberty,*  
+##*Of thee I sing;*  
+##*Land where my fathers died,*  
+##*Land of the pilgrims' pride,*  
+##*From ev'ry mountainside*  
+##*Let freedom ring!*   
+
+
+
+
+ [Interview with Al Gore](http://www.guardian.co.uk/world/2013/jun/14/al-gore-nsa-surveillance-unamerican?guni=Network%20front:network-front%20full-width-1%20Breaking%20news%20ticker:Breaking%20news%20ticker%20%28editable%29:Position1)
+
+I wanted to post this here to bring attention to a possible ally in the fight to restore the 4th. What would we need to do to get Al Gore, a former Vice President, to become an outspoken proponent of our cause. I dont know if I posted this in the correct place or whether you see relevance in this post. I just wanted to bring it to the attention of the sub.  
+
+
+
+
+ And to watch the President suggest that FISA Courts = Transparency just makes me sick to my stomach. 
+
+
+
+
+ I dont know why I always find myself watching the entire video when this happens. 
+
+
+
+
+
+
+
+
+
+ Swindler-in-Chief. 
+
+
+
+
+ The terrorists are winning
+
+FTFY 
+
+
+
+
+ CNN even rehashed the Newtown school shooting yesterday as their top story. 
+
+"pull the NSA story, quick... queue Newtown in 5....4....3...2...1.. and were back.." 
+
+
+
+
+ this is shameful.. 
+
+
+
+
+ yea... soo.... I have 1.5mb download speeds. Beat that! 
+
+
+
+
+ If we cant agree on the bill of rights, what hope do we have to keep our Republic intact as it was intended? 
+
+
+
+
+ The Constitution? 
+
+
+
+
+ Selfishness 
+
+
+
+
+
+
+
+
+
+ lol so logical 
+
+
+
+
+ He could change the default SMTP address or assign an alias. 
+
+
+
+
+ Good thing I got that 8 car garage for all my minivans. 
+
+
+
+
+ Forget to back up your Christmas photos? important documents? well worry no more. For the low cost of the 4th Amendment, your data will be automatically backed up with absolutely no setup.. Call your Congressman and inquire today. 
+
+
+
+
+ Distract the masses... 
+
+
+
+
+ the 2nd amendment is just as important as the 4th. 
+
+
+
+
+ Love that guy..  
+
+
+
+
+ "If someone wants to know why their own government has decided to go on a fishing expedition through every personal record or private document - through library books they've read and phone calls they've made - this legislation gives people no rights to appeal the need for such a search in a court of law. No judge will hear their plea, no jury will hear their case. This is just plain wrong." - Barack Obama 2005
+
+"Under the Obama administration, there has been a 60 percent increase in warrantless electronic surveillance" - ACLU
+
+He knew/knows damn well what is going on. He campaigned against it in 2008. 
+
+
+
+
+ i'm thinking alternator.. what youns thinkin? 
+
+
+
+
+ Boy, someone got their feelings hurt.  
+
+
+
+
+ Q: What's the difference between Obama and God?
+
+A: God doesn't think he is Obama 
+
+
+
+
+ Just another reason I regret voting for this swindler.  
+
+
+
+
+ But atlleast its my choice to sign up for their service or not.  
+
+
+
+
+ I do know about it though...  
+
+
+
+
+ I choose to sign up for a corporations services which in turn allows them to use that information. I did not choose to sign up for the NSA spy on American citizens program. 
+
+
+
+
+ ###George Washington would be proud of you, Edward Snowden.
+
+##*and the home of the braaaave.* 
+
+
+
+
+ I will agree that Reddit got a lil wild with the Boston Bombings. But lets be fair, all subs have their share of idiots. Thanks for sharing your story. 
+
+
+
+
+ gawddamn i am pissed off about this shit. 
+
+
+
+
+ I had no idea I wanted to say this same thing until you said it. 
+
+
+
+
+ I would love to.. 
+
+
+
+
+ ##Thats good to hear, fellow patriot. Thank you for your service. 
+
+
+
+
+ "What good fortune for governments that the people do not think." - Adolf Hitler 
+
+
+
+
+ "Great liars are also great magicians." - Adolf Hitler 
+
+
+
+
+ But will you fight for those same rights when our own government is trying to dismantle them? 
+
+
+
+
+ This is what tyranny looks like. 
+
+
+
+
+ "By the skilful and sustained use of propaganda, one can make a people see even heaven as hell or an extremely wretched life as paradise." - Adolf Hitler 
+
+
+
+
+ Someone tagged you as "CIA Disinfo Agent".. seems relevant.. 
+
+
+
+
+ ### Murica 
+
+
+
+
+ I will revolt with my vote. and what the hell do you mean "you people"? I am a gawddamn American that is Independent of either party and tired of the bullshit. 
+
+
+
+
+ I don't think I will ever understand the bubble you live in. But its your life and your bubble. Obama weakened himself. 
+
+
+
+
+ A considerable amount of damn commies in here. 
+
+
+
+
+ oh... well i guess we should all pack our bags and go home now. just give up everyone, its not worth it.  
+
+
+
+
+ A considerable amount of damn commies in here. 
+
+
+
+
+ I voted for Obama 2wice. But now that he is acting like a drunk dictator, I regret my decision. He was the first and the last Democrat I will ever vote for. As Bush was the last Republican I will ever vote for. 3rd party for me from here on out. and honestly, it feels good to let go of the party chains for good. I am sick of them both.  
+
+
+
+
+ The editorial board at the New York Times endorsed Obama in both elections. Stop being a blind parasite. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ### Thank you for your post, fellow patriot. Have an upvote. 
+
+
+
+
+ This is what tyranny looks like. 
+
+
+
+
+ I started taking 1 hour to myself everyday, after work, for "meditation" about 5 years ago and it has reduced my anxiety levels tremendously. Just collecting my thoughts, digesting the day, and have a moment to have my mind all to my self. Its glorious. 
+
+
+
+
+ I do not have a question. I just wanted to say hello and that I love your movies. Gattaca is still one of my fav sci-fi movies. Keep up the great work.
+
+Thanks,
+
+Jimmy 
+
+
+
+
+
+
+
+
+
+ Otterbox 
+
+
+
+
+ [The Human Centipede](http://www.imdb.com/title/tt1467304/) 
+
+
+
+
+ Listening to [Chocolate Starfish And The Hot Dog Flavored Water](http://www.youtube.com/watch?v=HSIK3UQyTow) right now. So many good memories. Still my fav LB album. 
+
+
+
+
+ [Its just one of those days  
+When you don't wanna wake up  
+Everything is fucked  
+Everybody sux  
+You don't really know why  
+But you want justify  
+Rippin' someone's head off  
+No human contact  
+And if you interact  
+Your life is on contract  
+Your best bet is to stay away motherfucker  
+It's just one of those days!!](http://www.youtube.com/watch?v=n4O_V_lZU04) 
+
+
+
+
+ I can confirm this.
+
+Source: I have shit during a 3 day weekend. 
+
+
+
+
+
+
+
+
+
+ ###A true Patriot defending FREEDOM till his last breath. Thank you for sharing, fellow patriot. 
+
+
+
+
+ That is just another great thing about FREEDOM.. you can wipe your ass with whatever you want... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I agree. The most effective change needs to be done on the State level. Which is how our country is supposed to work. We do not need a larger federal government making general policies for everyone without understand what effects it has on individual local economies. Everyones needs are different. Plus I do not think we grasp the problem enough to implement broad federal changes at this point.. Things need to be done on the state level and done with what is best for that States environment. The problem with this is citizens always try to make change on the federal level. The biggest impact we can have is starting local and seeing what works best for individual communities. Things that work will translate into general public policy.  
+
+
+
+
+ I agree. Its the nature of the beast. Automation will reign supreme in manufacturing. at some point. 
+
+
+
+
+ I apologize if I took your comment wrong. But increasing minimum wage overnight would be very damaging to the bottom line. I would love to increase pay for all of our workers. But there has to be a realistic option that would not cause businesses to close their doors or leave communities jobless because all companies have pulled out. It has to be a slow and methodical change. We just cant add millions of dollars to our costs overnight and not expect a catastrophic event.  
+
+
+
+
+ You seem to have no grasp on reality. If 1000 people lose their jobs that will be a much larger drain on the community than having people work, pay taxes, be provided health insurance, retirement plans (which we match), etc. Take that away and the local economy would be drained from all of the extra social services and less tax revenue. Tell your local commissioners to have all companies like mine shut there doors. Then come back and tell me what happens to your economy once this happens. You think its bad now it would be catastrophic doing things your way.  
+
+
+
+
+ I am not forcing anyone to keep their job. They choose to stay here and work. If they can find a better job or higher paying job whats stopping them from going to get it? I am not keeping them here against their will. Most of our employees are happy with their jobs. Plus we susbsidize our employees healthcare. Which costs us $millions$ a month. A MONTH. They pay a 1/4 of the total cost of their health insurance because we subsidize it for them. Like a lot of companies do. 
+
+
+
+
+ So you think the almost 1000 people we employ would be able to find another job when we are one of the largest employers in our region? lol It would just cause even worse conditions for people in the local economy. And I am not forcing anyone to work for me. They choose to work for us because we provide them with a job. Which is better than no job? Welcome to the world economy. Welcome to the giant sucking sound. Welcome to reality. 
+
+
+
+
+ I agree that automation will kill lots of jobs. Increasing wages forcefully will only accelerate the idea of automation. Businesses have to continue to create their products. We are a world economy and a balance must be met to compete. If Americans want higher wages that just means less jobs. So take your pick. Less pay more jobs or more pay less jobs. That is the reality.  
+
+
+
+
+ If my company went out of business almost 1000 people would lose their jobs and there is nothing in this area that would be able to fill them. So tell me how that would benefit the local economy or the overall economy? We are in the process of eliminating jobs with automation because margins are so thin as it is. You do realize US manufacturers have to compete with 3rd world countries correct? So we have to keep a balance or people will lose their jobs and be even worse off. This is not black and white. You cant just say *increase wages* and it not cause a ripple effect.  
+
+
+
+
+ We are. We are in the process of transition. Our company has increased automation by almost 20% in the last 5 years. 
+
+
+
+
+ No it wont. If I were to increase pay it would wipe out my margins leaving me selling my product at a loss and eventually shutting our doors. That would help the economy correct? Us shutting our doors taking health subsidies, jobs, and state federal taxes with it. Thats what you think is good for the economy? 
+
+
+
+
+ They are laborers. Labor is a direct business cost.  
+
+
+
+
+ My company doesnt provide a benefit? lol If my company went out of business almost 1000 people would lose their jobs and there is nothing in this area that would be able to fill them. So they would become an even more drain on the social system than they already are. If they want to make more money. They need to go get training and learn a skill that demands more money. And if increasing worker pay causes inflation to the point where the increase in pay is depleted by inflation cost in goods purchased then they would be in the same place they are now. Still requiring subsidies. On top of that my company pays out $millions$ in healthcare costs to subsidize the employees healthcare. Just like many businesses do. If we did not subsidize their healthcare they would be an even bigger drain on  social services.  
+
+
+
+
+ I can only pay what my company can afford. Businesses are in business to make money. Just like employees get up and go to work to make money. We pay our skilled laborers a decent wage. 
+
+
+
+
+ This is exactly what is happening or going to happen. Working smarter = less employees and more automation. So what would be the point of increasing wages if less people would be getting a wage? How does that help? We already pay our skilled workers a decent wage.  
+
+
+
+
+ Yes they are. This is why we are seeing manufacturing move to places like Vietnam or Mexico. 
+
+
+
+
+ Exactly. Increasing the minimum wage will only accelerate this from a Manufacturing standpoint.  
+
+
+
+
+ "Skilled" laborers make more than minimum wage. Machinists, electricians, plc programmers, etc. are paid above minimum wage for their skill.  
+
+
+
+
+ They wont pay more. If you force a company like mine to increase pay which hurts the company, we will just move our operations overseas and no one will have a job that relies on my company to provide for their family. We have done everything we could the last 6 years to decrease costs and compete with China. Increased labor costs would push us over the edge and require us to move our operations to keep our customers. Customers will not pay more if they know they can go somewhere else and get it cheaper. Which would happen. 
+
+
+
+
+ Well I can only speak from a manufacturing standpoint. And if I remember correctly we are trying to ramp up manufacturing in the States. This would cause us to lose out to countries with lower labor costs. The only heavy turnover I get is from people that just don't like to show up to work. Workers cant go get a better paying job doing the same thing at other manufacturers either. Cause they are in the same boat as me. We are actually replacing workers with machines to increase productivity. I will not create work ethic for someone else. If they want a job and work hard they will get hired. If they do well I will look for ways to promote them.  
+
+
+
+
+ Inflating cost of goods to give people more money is inflation. The same people I just gave the raise to would pay more for the products they were buying. Depleting any raise I gave them. Aside from that it would cause my company to lose business to manufacturers in other countries like China that have lower labor costs.  
+
+
+
+
+ I know the company I work for is the only manufacturer in the United States for the product we make. If we were to increase costs it would force our customers to look at manufacturing from other countries. We have done all we can to compete with other countries as it is. Increasing costs would cut our legs out from underneath us. 
+
+
+
+
+ Kind of hard to cut costs when you have already done that. The recession caused manufacturers to run lean and thin. They are already running lean and thin. Not much more room to cut. 
+
+
+
+
+ My margins are almost non-existent. What little profit we do make we use to increase production capacity or hire new workers when demand increases. With an increase in direct labor costs I would no longer be able to do that. In fact it would cause me to sell my product at a loss resulting in possible closure of my operation.  
+
+
+
+
+ I can tell you from experience. I manage a company that manufacturers goods. If I was forced to increase direct labor costs, with the thin margins I am already at, it would cause me to let workers go or increase the costs of my goods.  
+
+
+
+
+ No one said it is the only cause of inflation. It will just cause more inflation. Its apparent no one in this thread has ever owned or managed a business. You cant just pull money out of thin air. Companies have to compensate for this increase in labor costs. They will do this by letting workers go or increasing prices on their goods. This is basic economics. This will be passed on to the consumer.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It will cause inflation. 
+
+
+
+
+ Inflation 
+
+
+
+
+
+
+
+
+
+ I miss 'Dubya'.  
+
+
+
+
+ Shits about to go down... Putin style. 
+
+
+
+
+ [Proper Procedure for removing the windows.old folder](http://windows.microsoft.com/en-us/windows7/how-do-i-remove-the-windows-old-folder) 
+
+
+
+
+ AT T is the worst. 
+
+Source: AT T customer 
+
+
+
+
+ US Marines are in Mexico. US Marines train Mexican Marines. 
+
+
+
+
+ [Video](http://www.youtube.com/watch?v=IYl-f2uoltg) 
+
+
+
+
+ Since Reddit I have forgotten how to internet.  
+
+
+
+
+ Why can't we elect leaders like Eisenhower anymore? That guy was top notch.  
+
+
+
+
+ I am ashamed of both parties. 
+
+
+
+
+ It will fall when China allows it.  
+
+
+
+
+ Was going to ask a question but 'what difference at this point does it make?!' 
+
+
+
+
+ [r/politics:](http://www.reddit.com/r/politics/) Obamas left nut. 
+
+
+
+
+ Dream Act recipients 
+
+
+
+
+ *minorities...* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Classic Shell is free. 
+
+
+
+
+ Damn proud!
+
+Source: Am Southern folk 
+
+
+
+
+ Challenger, go at throttle up. *roger, go at throttle up.* 
+
+
+
+
+ You would think someone with a peace prize and lots of international clout would step up and say something. Guess its hard to say something when that someone is taking part in the construction of the finest police state in the world.  
+
+
+
+
+ Johnson always looks like he's unimpressed.  
+
+
+
+
+ [Avast Free Edition](http://www.avast.com/en-us/index) 
+
+
+
+
+ Close enough.  
+
+
+
+
+ Definitely Canadian.  
+
+
+
+
+
+
+
+
+
+ Dat ass... 
+
+
+
+
+ In theory, could it be biology thinning out the herd?  
+
+
+
+
+ *Catherine says he's been holding out for a management position* 
+
+
+
+
+ Only 43 when he died? Seems young. Anyone know cause of death? 
+
+
+
+
+ The other 4 out of 10 need their heads *examined*.  
+
+
+
+
+ Chicago loves to ban stuff.  
+
+
+
+
+ I stream Netflix over a 1.5Mbps connection just fine. Have for years. 6Mbps would be a major upgrade for me. 
+
+
+
+
+ Is it because their country has been through radiation therapy on 3 occasions?  
+
+
+
+
+ Theres a considerable amount of damn commies in this thread. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Sen. Paul will be discussing the lawsuit in an exclusive appearance on Fox News with host Eric Bolling at 10 PM ET on Friday." 
+
+Guess we will find out tonight if its true.  
+
+
+
+
+ Its just right across the map.  
+
+
+
+
+ A considerable amount of Republicans I know actually have no issue with "Civil Unions". They have an issue with "Gay *Marriage*". 
+
+
+
+
+ What kind of man allows himself to finish before his lady does?  
+
+
+
+
+ Well, to be fair, we voted for them. and of course its never *MY* Congressman. ever 
+
+
+
+
+ Am I the only one that noticed the subtle, and not so subtle, attacks on Snowdens character? Wasn't much said on the clear violations of the Constitution. I miss the days of journalism and the sense of responsibility they once felt to bring the truth, the real truth, to light. 
+
+
+
+
+ "I have already intimated to you the danger of parties in the State, with particular reference to the founding of them on geographical discriminations. Let me now take a more comprehensive view, and warn you in the most solemn manner against the baneful effects of the spirit of party generally.  
+  
+This spirit, unfortunately, is inseparable from our nature, having its root in the strongest passions of the human mind. It exists under different shapes in all governments, more or less stifled, controlled, or repressed; but, in those of the popular form, it is seen in its greatest rankness, and is truly their worst enemy.  
+  
+The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism. But this leads at length to a more formal and permanent despotism. The disorders and miseries which result gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction, more able or more fortunate than his competitors, turns this disposition to the purposes of his own elevation, on the ruins of public liberty."  
+  
+George Washington, Farewell Address - Letter written To The People of The United States 
+
+
+
+
+ *If you have nothing to hide what are you worried about?* 
+
+
+
+
+ *He hurt my feelings!!! Fire him!!!* 
+
+
+
+
+ Because I got to keep the same insurance I have always had? 
+
+
+
+
+ Damn straight! 
+
+
+
+
+ Hillary Clinton 2016!  
+Jeb Bush 2020!  
+Chelsea Clinton 2024!  
+George P Bush 2028!  
+  
+Now that is change you can believe in. Way to show the establishment, Americans. You showed them good! 
+
+
+
+
+ I currently pay $60 a month for health insurance. I priced out the same plan on healthcare.gov and would pay $280 a month if I got a plan through the site. and this is what people are excited about?  
+
+
+
+
+ What the fuck did I just watch?! 
+
+
+
+
+ When I purchase new machines through Dell I specify that I want an Office VLK with software assurance. It has downgrade rights to Office 2010 as well. Dell has a junk sku that will allow for 1 license instead of the 5.  
+
+
+
+
+ TIL 
+
+
+
+
+ That is a troubling statistic you have there. 
+
+
+
+
+
+
+
+
+
+ Guaranteed there was something from that 1st bday that embarrassed the shit out of your father.  
+
+
+
+
+ FUCK THAT BITCH! 
+
+
+
+
+ There is a considerable amount of damn commies in this thread.  
+
+
+
+
+ "if you want to test a man's character, give him power." 
+
+
+
+
+ I'm here for the rustling.. 
+
+
+
+
+ I read your username as 'The Yellow Pages' 
+
+
+
+
+ I didn't agree with all of his politics but the man was a statesman. 
+
+
+
+
+ Must not be much oil there. 
+
+
+
+
+ I blame every politician in Washington.  
+
+
+
+
+ I agree completely.  
+
+
+
+
+ Its not whether or not I am angry, its whether or not society deems it ok to be angry. If the hive mind of society doesn't have your back you will be labeled and monitored. That's where I was getting at.  
+
+
+
+
+ At what point, as an American, am I allowed to become angry? 
+
+
+
+
+ Today they would be tased, beaten, and tried as adults for resisting arrest and fleeing.  
+
+
+
+
+ Is this the same Gallup that had Romney winning the election? 
+
+
+
+
+ The building behind me serves as a moral compass, not only for our country but for the world. And over my dead body are we going to find trash pouring out of these trash cans, he said. At the end of the day, we are the stewards of these buildings that are memorials.
+
+Gawddamn, I want to shake this mans hand. 
+
+
+
+
+ Probably just needs a reboot.  
+
+
+
+
+ Doesn't Google run theirs a bit hotter because they realized it was cheaper for them to replace hardware than to cool the area? 
+
+
+
+
+ He is the greatest American to ever live, IMO. 
+
+
+
+
+ Can you give a lil background on this tool and what it is used for? 
+
+
+
+
+ Ok, thanks! I don't know where I heard that. But thats why I asked. 
+
+
+
+
+ Blind party support. from both sides. 
+
+
+
+
+ Can the President not hold an emergency session and make Congress fund the government? I was thinking there was something about this in the Constitution. I am asking. 
+
+
+
+
+ Did you include the militarization of local and state police forces and the inclusion of the DHS as a domestic police agency? I think you will find a huge increase in "security/defense" personnel. 
+
+
+
+
+ Just think about it for a moment..... we, the taxpayer, pay these companies for information so we can spy on ourselves. WTF is wrong with us? 
+
+
+
+
+ .gifs 
+
+
+
+
+ [H.R. 205: To amend the Internal Revenue Code of 1986 to clarify the treatment of certain retirement plan contributions picked up by governmental employers.](https://www.govtrack.us/congress/bills/113/hr205) 
+
+
+
+
+ I would still take Eisenhower over the swindlers we have had the last 40 years. 
+
+
+
+
+ I enjoy taking long drives in the country side. I enjoy the act of driving. 
+
+
+
+
+ Buyout candidate? 
+
+
+
+
+ Awesome!  
+
+I know this has nothing to do with this thread but I would love to see [North and South](http://www.youtube.com/watch?v=xnUQQF9yOQI) (TV Mini Series in mid 80s) come to theaters for a 2 week special screening or something like that. I just absolutely love that mini series and would love to see it on the big screen. 
+
+
+
+
+ There is a considerable amount of damn commies in this thread. 
+
+
+
+
+ Yuengling is the oldest operating brewing company in the United States, having been established in 1829, and is one of the largest breweries by volume in the country. 
+
+
+
+
+ Her constituents scare me the most.  
+
+
+
+
+ So that means I can expect a trickle? 
+
+
+
+
+ His grandson, S.I. Newhouse IV, was featured in the documentaries, ["Born Rich"](http://www.youtube.com/watch?v=4tmpuyiJYB4) and ["The One Percent"](http://www.youtube.com/watch?v=OEX0lSnMjaI) that were both directed by Jamie Johnson. Jamie Johnson is one of the heirs to Johnson and Johnson.
+
+Edit: links 
+
+
+
+
+ Tell them you would like the opportunity to be promoted. with pay increase. 
+
+
+
+
+ I will always blame the constituents.  
+
+
+
+
+ I hope they ranked Humans #1. 
+
+
+
+
+ I never could bring myself to unfriend/defriend him. 
+
+
+
+
+ |thanks to greed
+
+FTFY 
+
+
+
+
+ This guy just died. 
+
+
+
+
+ Centralize printing while you have the opportunity. I have had great luck with Canon and Savin. Look into leasing with a maintenance contract as well.  
+
+
+
+
+ Label your PCs with computer name. Put a physical label on each machine.  
+
+
+
+
+ [LogMeIn Free](https://secure.logmein.com/products/free/) 
+
+
+
+
+ [Avast Free Edition](http://www.avast.com/index) 
+
+
+
+
+ 9/11 Hijackers were Saudis. 
+
+
+
+
+
+
+
+
+
+ but but Syria..... Donald Rumsfeld.... 9/11 Flag... 
+
+
+
+
+ Thank you for the answer. I learned something new today.  
+
+
+
+
+ Where does "gut microbiota" come from? Is it genetic or is it something we gain over time depending on our habits? I am completely ignorant to the subject.  
+
+
+
+
+ Life... 
+
+
+
+
+ lol 
+
+
+
+
+ One of my dads customers was a Navy Seal Team instructor. He has been one of my dads customers for 10+ years. He gave my dad a Seal jacket with this particular mans Seal teams emblems on it. My dad wears it with pride. He brags about it all the time. "Did you see the jacket my customer gave me?" (with a big grin on his face) I couldn't imagine my father being treated this way for not being a Seal but wearing that  jacket.  
+
+
+
+
+ All I heard from Kerry yesterday is that we must "protect Israel".. How about we let Israel protect themselves for a change. We have had too many American brothers and sisters killed or maimed protecting Israel while the Israelis sit on their couch and watch. You are the Secretary of State for the United States of America, not of Israel. 
+
+
+
+
+ lol... no.... this guy.... lol 
+
+
+
+
+ Why didn't they stop him at the gate before he entered?  
+
+
+
+
+ As an American, I am tired of being the protector of Israel. Had too many American brothers and sisters killed or maimed protecting Israel while the Israelis sit on their couch and watch.  
+
+
+
+
+ "Preventive war was an invention of Hitler. Frankly, I would not even listen to anyone seriously that came and talked about such a thing." - Dwight D. Eisenhower 
+
+
+
+
+ Oh look someone spilled their Merlot.  
+
+
+
+
+ They took an oath to protect the Constitution, the United States, and its people. Standing up for the Constitution should not be looked at as activism. They are upholding their oath. It should be more widespread. Bombing Syria does nothing to protect the United States homeland, its people, or founding documents. 
+
+
+
+
+ Glad to see the military members not following orders blindly. Its against the law for service members to follow an unlawful order. They can be tried in a court of law for doing so.  
+
+
+
+
+ Americans standing on the tracks is the only way to stop this speeding train. 
+
+
+
+
+ You should do an AMA. 
+
+
+
+
+ [CutePDF Writer.](http://www.cutepdf.com/)
+
+PDF Printer driver. Allows printing to PDF format. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "Often the best source of information about waste, fraud, and abuse in government is an existing government employee committed to public integrity and willing to speak out. Such acts of courage and patriotism, which can sometimes save lives and often save taxpayer dollars, should be encouraged rather than stifled. We need to empower federal employees as watchdogs of wrongdoing and partners in performance. Barack Obama will strengthen whistleblower laws to protect federal workers who expose waste, fraud, and abuse of authority in government. Obama will ensure that federal agencies expedite the process for reviewing whistleblower claims and whistleblowers have full access to courts and due process." - ChangeDOTgov  
+
+This excerpt above was pulled from the site 2 days after the Snowden revelations.  
+
+Obama has used the Espionage Act to charge more whistleblowers than any past President combined.   
+
+
+
+
+ What are her views on the NSA disclosures? 
+
+
+
+
+ Came here for a 'deal with it' gif made from this video.. left disappointed.  
+
+
+
+
+ What are your ideas on how to fix the crumbling infrastructure?   
+How would you pay for the fixes needed?  
+  
+Thank you for the AMA. 
+
+
+
+
+ Where'd he go? 
+
+
+
+
+ The man is a dictator. 
+
+
+
+
+ Hold on there, cowboy, can you load the dishwasher? 
+
+
+
+
+ What the fuck did I just watch? 
+
+
+
+
+ Their voting record says different. 
+
+
+
+
+ What is her stance on the NSA disclosures? 
+
+
+
+
+ "Where the people fear the government you have tyranny. Where the government fears the people you have liberty." - John Basil Barnhill 
+
+
+
+
+ What this clerk did should be encouraged, not stifled.  
+
+
+
+
+ It's her constituents that scare me the most. 
+
+
+
+
+ Fuck that guy! 
+
+
+
+
+ Bang Bus van? 
+
+
+
+
+ Can't tell his lawyer? This can't be Constitutional... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ..or Green Berets.  
+
+
+
+
+ I hope I am as "dead broke" as the Clinton's someday.  
+
+
+
+
+
+
+
+
+
+ [This](http://i.imgur.com/eOIXO8I.png) was the vote count when I found this thread. Let freedom ring! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "I would say it is the most secretive White House that I have ever been involved in covering, and that includes  I spent 22 years of my career in Washington and covered presidents from President Reagan on up through now, and I was Washington bureau chief of the Times during George W. Bush's first term. I dealt directly with the Bush White House when they had concerns that stories we were about to run put the national security under threat. But, you know, they were not pursuing criminal leak investigations," she continued. "The Obama administration has had seven criminal leak investigations. That is more than twice the number of any previous administration in our history. It's on a scale never seen before. This is the most secretive White House that, at least as a journalist, I have ever dealt with." - Jill Abramson / Jan 2014
+
+The real reason she is no longer at NYT, IMO. NYT has become nothing more than a media arm of the Obama admin.  
+
+
+
+
+
+
+
+
+
+ And my original comment never said his point was invalid. I think your anger is really because I do not salivate at the thought of Harry Reid or Dick Cheney. I am not a Republican or Democrat. I was a person in the streets protesting the war. Protesting both parties for what they had done. I believe that both parties are culpable for our current state of affairs, including the Iraq debacle. Both sides disregarded many people from the international community that told us the intelligence was wrong. Both sides did not listen and got us involved in one the biggest foreign policy blunders in our nations history. I do not get caught up in the party paradigm so I guess its just easier for me to hold all elected officials accountable for their choices. I wanted the Bush administration investigated for war crimes. Thanks to the Obama administration we will never see that either. You fail to realize that both sides are to blame and so you come here and attack me for stating a fact. Whether his point was correct or not hes not really in a place to say anything as he is just as culpable. As I see you see things through a very biased set of eyes I feel this conversation continuing will get neither of us anywhere and just waste my time. I will forever hold both parties to blame for the Iraq debacle and nothing you say will change that. I lived it. I protested it.  
+
+
+
+
+ How is my comment not relevant? Harry Reid is bashing Cheney, and rightfully so, for Iraq yet Harry Reid is partly to blame. He voted to authorize the use of Military force in Iraq giving Bush and Cheney the green light for their pointless war. I just find it odd that someone who gave Cheney the authority to go into Iraq is bashing him for going into Iraq.  
+
+
+
+
+ So rational. You label me an asshole for pointing out a fact? ok.. I will take my downvotes with pride. 
+
+
+
+
+  When a Senator is presented with evidence that grossly misrepresented going to war in Iraq (any and all WMD evidence) are you really going to blame him for it?
+
+Yes, people should be held responsible for the decisions they make. Especially a Senator that has the power to hold those responsible for falsifying intelligence and lying to Congress yet fails to do so.
+ 
+
+
+
+
+ So if someone tells you that something is true and you base your decision on that you are no longer responsible for your choice? Ok... 
+
+
+
+
+ Harry Reid voted in favor of the Iraq war. 
+
+
+
+
+
+
+
+
+
+ You seem to not understand how mail servers, networks, and backups work. 
+
+
+
+
+
+
+
+
+
+ "I am very optimistic about -- about Iraq. I mean, this could be one of the great achievements of this administration. You're going to see 90,000 American troops come marching home by the end of the summer. You're going to see a stable government in Iraq that is actually moving toward a representative government," Joe Biden 2010 
+
+
+
+
+ Because I would expect r/politics to be unbiased views from all sides of the political spectrum. Instead r/politics has turned into r/democrats or r/obama. I am not a Republican or Democrat. I just like to see two sides of the debate. Which should be what r/politics is all about. But all you have to do is look through r/politics and understand what types of stories that are allowed to be discussed. Of course you may be biased yourself and not care or not see it. Everything in r/politics has a one sided bias towards politics. What does r/politics expect to get out of having an agenda? what do they expect to get out of everyone sitting around with the same opinions and ideas? I would call it a circlejerk. Its obvious to middle of the road people like myself. r/politics = r/democrats and if you believe otherwise you are either lying to yourself or you havent been here long enough. But you are right. Why do I continue to stay? I guess I just hoped at some point unbiased views would come along but when the moderators are so biased themselves and have their own political agendas its difficult to have have unbiased middle of the road political discussions. Moderators of r/politics flag posts right out of the gate if they do not align with the agenda of the left. Moderators downvote articles that do not necessarily break any rules but go against their personal agendas. Its sad really. I believe both sides of the political aisle are just as culpable for our current state of affairs. But you wouldnt know that reading r/politics. Not that the facts arent out there, its because anything that shows the left in a bad light gets shadow banned, pulled, or downvoted before a discussion can even take place. r/politics should promote both sides of the aisle and many opinions and ideas. If r/politics was the same towards the right I would have just as much of an issue with it. I cant stand political parties and it bewilders me how we can expect to move forward as a nation as long as we sit around in our own little circles pointing the finger at one particular party. But you have made me realize that no one in r/politics cares about the things i just mentioned so I guess you are right. I should unsubscribe and leave you all to your circlejerk.  
+
+
+
+
+ Abu Duaa was connected to the intimidation, torture and murder of local civilians in Qaim, says a Pentagon document. He would kidnap individuals or entire families, accuse them, pronounce sentence and then publicly execute them. 
+
+
+
+
+ The men that Obama funded, trained, and armed are leaving the "rebels" and joining ISIS. ISIS also has access to $billions$ of military hardware that the Obama admin decided to leave behind in Iraq. 
+
+
+
+
+ Biased? You would say anything is biased that doesn't show Obama in a good light. Everyone on Reddit, except r/politics, knows that r/politics is an Obama circlejerk. Obama would have had to authorize it.  
+
+
+
+
+ Abu Duaa was connected to the intimidation, torture and murder of local civilians in Qaim, says a Pentagon document. He would kidnap individuals or entire families, accuse them, pronounce sentence and then publicly execute them.
+
+Sounds like just the type of guy we should let go.  
+
+
+
+
+ Camp Bucca was a US military run installation.  
+
+
+
+
+ I do not need any "news" source to tell me Obama is not "honest and trustworthy". Are you blind? 
+
+
+
+
+
+
+
+
+
+ http://www.reddit.com/r/politics/comments/27saxb/when_bush_paid_terrorists_a_ransom/
+
+You mean like this post? Which seemed to be allowed no problem. But I understand that it fits into the r/politics agenda.  
+
+
+
+
+ So you have evidence of the said fiction? Not saying there is enough evidence for it be to fact either. 
+
+
+
+
+ "contact us for our FREE 3 hour intro to networking video, this will be sufficient to bring you up to speed with the basics of the Open Systems interconnect model."
+
+Can you send me this video you mention on your site? I look forward to your class in the future. Thanks 
+
+
+
+
+ How did you survive without Food Stamps or an IPhone? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Its the US or Iran. Take your pick. 
+
+
+
+
+ The House and Senate make up the Congress. Congressman can refer to a person from either house of Congress. 
+
+
+
+
+ [The World without US](http://www.youtube.com/watch?v=Py4jVOJDwXU feature=kp) is a compelling documentary that speaks to the exact question you ask. I would suggest you watch it. It is available on Netflix. 
+
+
+
+
+ Gross violations of our Constitution are not "minor issues" in my view. They are the most pressing issues IMO. Economic issues will work themselves out as both individuals will have a vested interest in our economy since they both rely on the economy to survive. I also believe they could find common purpose on economic issues. After what this country has gone through in terms of Constitutional violations in the last 14 years that has become my above all voting condition. Both parties have very similar overall views of economic policy. This is why policies have not changed very much in the last 30+ years. Its the issues such as Constitutional violations that have changed dramatically in the last 30+ years and have detrimental long term effects. Including on the economy. It is being speculated that the NSA revelations will cost American tech companies billions in lost revenue, annually. I believe these two men could find common purpose and do great things for the people and the Constitution of this wonderful nation. I just like to think outside the box. I mean what we have been doing surely isnt working for the people. So why not try something different? I am not a Republican or Democrat. I am just an American that cares about his country and I can see that something drastic and unrealistic may be our only chance at righting some of these wrongs. 
+
+
+
+
+ Who is VP or P does not concern me between the two. And I refuse to believe that two men like Sanders and Paul, who have deep love for their country, could not find a common agenda to seek together. My mom always told me, "Can't never could do anything." 
+
+
+
+
+ I find they have common ground on domestic issues including Constitutional violations. Of course there will be differences. But the goal is to go after some of the larger issues that encroaching on civil liberties. NSA, Patriot Act, Executive power, etc. 
+
+
+
+
+ Democrats would never be able to primary him out. His constituents love him. And why would you support such an ouster? Do you have something against bucking the establishment? 
+
+
+
+
+ "Brat, who raised less than $300,000 to the House majority leader's campaign war chest of $5.4 million, said, "It's not about David Brat winning tonight, it's about returning the country to its principles."
+
+That money is not as powerful in winning elections as others thought? 
+
+
+
+
+ If that is what they decided then great. I am more about the substance of what they stand for than whose name is on the ticket first. 
+
+
+
+
+ But when both men can find common issues where forward is very similar it could do wonders for our country. Establishment candidates are ruining our nation. Doing the same thing is ruining our nation. Voting for the same agendas is ruining our nation. I just thought it was worth the discussion and I would love to hear their views on the idea. I honestly believe they could pull a common agenda together and move forward. But again just thinking outside the box.  
+
+
+
+
+ To me it would not matter. I am just ready for a real change in politics. Thinking outside the box is something we need more of in terms of politics.  
+
+
+
+
+ So you believe that men that have two different core ideologies cannot find common ground move forward based on those common principles? Is that not the foundation of our government? Is Congress not setup to compromise different ideologies into one common goal or purpose. I reject the notion that just because they have different core ideologies that they couldnt come to a compromise on the best way to move the country forward. There are issues that need to be addressed such as NSA, Military engagments, NDAA, Patriot Act, etc where they could really lead the charge. The gross violations of our Constitution from both parties is appalling and I believe that as long as we continue to vote for the establishment we will get the same policies. I am just ready to think outside the box. We need men like Bernie and Rand to take on the political parties in this country. Both have a knack for going against the grain. I just believe as Americans we can do anything. We can find common ground and move our country forward. This is why I refuse to believe that these two could not find a common purpose. 
+
+
+
+
+ Bernie is an Independent. Whether that helps.  
+
+
+
+
+ That didn't stop Bernie Sanders and Ron Paul from being two of the closest allies in Congress. Why couldn't they work together as Americans and forget about party for a moment? Neither one toe their party lines to begin with. 
+
+
+
+
+ Ron Paul and Bernie Sanders were two of the closest allies in Congress. So can you elaborate on what you said? Of course I believe that there will be differences. But I also believe that where they are similar is where we need to be focusing our strengths at the moment. Plus it would be a huge tip of the hat to bipartisanship. I believe the two of them together would be a force to be reckoned with. I believe together they could do great things for the people. 
+
+
+
+
+ I really enjoy both of these Congressmen and what they stand for. I do not get caught up in the party paradigm. Just wondering what your thoughts are on it. Thanks! 
+
+
+
+
+ r/politics = r/democrats 
+
+You new here? 
+
+
+
+
+ The end of journalism can be traced back to the fact that the majority of major news outlets in the US are owned by just a handful of companies. I believe this is where the problems lie.  
+
+
+
+
+ Rehosted Content. But sense it follows the agenda of this sub it will be allowed.  
+
+
+
+
+
+
+
+
+
+ And where does 80% of the worlds poppy come from? ...Afghanistan. 
+
+
+
+
+ Thank you!  
+
+
+
+
+ Can you point me to the thread that was the same? I had done a search and did not see it. So I am just curious as to which post was identical. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I did not understand a damn thing she said. That is one stupid woman. How in the hell does she continue to win elections? I also found it disingenuous that she blamed the Bush admin, "The Bush admin went too far." Ummmm she voted for the Patriot Act, the Iraq war, and NDAA. So what in the hell is she talking about? 
+
+
+
+
+
+
+
+
+
+ Dell Latitude 
+
+
+
+
+ You will not find this story on CNN or MSNBC. I guarantee it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [](http://i.imgur.com/NnoGhN1.gif) 
+
+
+
+
+ My friend told me he thought about taking an online course once. 
+
+
+
+
+ Its the customers that are the problem. Stop shopping at Wal-Mart. 
+
+
+
+
+
+
+
+
+
+ How many Christians in Congress voted to fund space exploration up until now? Was JFK a Christian?Was Neil Armstrong? Buzz Aldrin? Scientists and/or Engineers at NASA? Just wondering.  
+
+
+
+
+ I salute you, fellow patriot. 
+
+
+
+
+ I actually enjoy Bing and Bing Maps. ^^Don't ^^hit ^^me. ^^I ^^am ^^only ^^being ^^honest. 
+
+
+
+
+ Rand Paul. Because he is not a Democrat and established Republicans don't like him. And he fights for the Constitution. 
+
+
+
+
+ If you want to kill money in politics, go after lobbyists.  
+
+
+
+
+ You do realize you can choose not to vote for someone, correct? Just because someone spends gobs of money does not mean you are forced to vote for them. For example: Newt Gingrich was bankrolled by billionaire Sheldon Adelson. He still could not win the election.  
+
+
+
+
+ "I would say it is the most secretive White House that I have ever been involved in covering, and that includes  I spent 22 years of my career in Washington and covered presidents from President Reagan on up through now, and I was Washington bureau chief of the Times during George W. Bush's first term. I dealt directly with the Bush White House when they had concerns that stories we were about to run put the national security under threat. But, you know, they were not pursuing criminal leak investigations," she continued. "The Obama administration has had seven criminal leak investigations. That is more than twice the number of any previous administration in our history. It's on a scale never seen before. This is the most secretive White House that, at least as a journalist, I have ever dealt with." - Jill Abramson / Jan 2014
+
+I was thinking she was ousted for this...  
+
+
+
+
+ Maybe because its not the schools... maybe its the people or culture? 
+
+
+
+
+ that don't involve gender or race? well those are the worst.  
+
+
+
+
+ Something is definitely odd about their deaths.  
+
+
+
+
+ Best comment. 
+
+
+
+
+ This weirds me out. Is this what we can expect from a liberal society? Appeasement of the minority to the point where the majority is not protected properly? 
+
+
+
+
+ So you are against the "hands-off approach"? You want the internet to be regulated? 
+
+
+
+
+ Its very vague.  
+
+
+
+
+ Was just genuinely curious what her views on the NSA disclosures were. Civil rights will always trump Student loans in my views.  
+
+
+
+
+ What are her views on the recent NSA disclosures?  
+
+
+
+
+ I like this Rand Paul guy. 
+
+
+
+
+ Are we really going to let his 1%er get away with this? 
+
+
+
+
+ Prison can change a man. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A considerable amount of Obama apologists in this thread. 
+
+
+
+
+
+
+
+
+
+ Are we really going to let his 1%er get away with this? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Says the guy that's too weak to take on his own Justice Department. 
+
+
+
+
+ Honestly, I hear that word from rappers and other artists more than anywhere else.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The Hope scholarship does not give you enough to pay for school in full. 
+
+
+
+
+
+
+
+
+
+ [McDonalds reaction.](http://i.imgur.com/5KjURfx.gif) 
+
+
+
+
+ I am an economic conservative Independent and I do no hate labor.  
+
+
+
+
+
+
+
+
+
+ Opinion can be found [here](http://www.supremecourt.gov/opinions/13pdf/12-536_e1pf.pdf). 
+
+
+
+
+ Opinion can be found [here](http://www.supremecourt.gov/opinions/13pdf/12-536_e1pf.pdf). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ To vote for the Constitution and not a party. 
+
+
+
+
+ There is still a war in Afghanistan? You wouldn't know it by reading the "news" every day. I am actually shocked that "news" outlets are posting this article. I hope they start covering this more often.
+
+with that said...
+
+So nice to hear that there were no troop deaths in March. Can't wait for this war to be over and to have our brothers and sisters back home in the States. 
+
+
+
+
+ "Students" 
+
+
+
+
+ Not a "GOP Supporter". I am an Independent. But for me its Rand Paul. 
+
+
+
+
+ From my conversations with Dell regarding this specific type of case - Windows 8 machine with Windows 7 downgrade - this is supposed to work.  The new Dells that are set up like this no longer come with Windows 7 COA License key stickers. (and of course Windows 8 keys are stored in the bios) Dell says to use the OEM Windows 7 disk so that it will auto-populate the license key when installing Windows 7. Of course I will also recommend creating the Dell recovery disc on first boot up. Dell recovery is the best way to recreate the system as it was from the factory. But if a disc must be used OEM should do the trick.  
+
+
+
+
+
+
+
+
+
+ What are her views on the NSA disclosures? or the attempt to relabel journalists? or the the attack on whistleblowers?  
+
+
+
+
+
+
+
+
+
+ RIP Layne. Song hits me right in the feels every time. Then I sit and listen to it on repeat for an hour.  
+
+
+
+
+ I just threw up in my mouth a lil. That burrito tasted better going down.  
+
+
+
+
+ That makes more sense.  
+
+
+
+
+ 9.5 Million? The Obama admin is saying only 6 Million have signed up? Of that 6 million 80% have actually paid for their coverage.  
+
+
+
+
+ If its Dell hardware you should be able to just use the Dell OEM Windows 7 recovery DVD you received and it should not ask you for a key. An MSDN disc would ask for key. A Dell OEM disc will not. 
+
+
+
+
+ I subscribed the shit out of that. 
+
+
+
+
+ Voting for a Democrat or a Republican *is* throwing your vote away. 
+
+
+
+
+ Thats with the assumption that people that vote 3rd party would have voted for someone else if a 3rd candidate was not running. Which you base on nothing. 
+
+
+
+
+ Obama is already in office. 
+
+
+
+
+ Welcome to /r/AdviceAnimals where the retarded roam like the fish of Capistrano. 
+
+
+
+
+ Obama is already in office. 
+
+
+
+
+ Voting for a Democrat or Republican *is* throwing your vote in the garbage. 
+
+
+
+
+ /r/politics should change its name to /r/democrats 
+
+
+
+
+ Clinton 2016!!
+
+Bush 2016!!
+
+We want change!!!! When do we want it? Never, apparently. 
+
+
+
+
+ Why? There is absolutely no need for the TSA or Armed Guards. 
+
+
+
+
+ Yes. The moderator that removed it, IMO, had a biased reason to do it. The link worked from the time I posted it. I didnt edit the post and I tested the link numerous times. Even after the moderators looked at it the link worked. This is my biggest issue with this sub. Its clearly biased towards one party which stifles conversation on a broad range of ideas. Feinstein is a Democrat. The moderator that removed it is surely a Democrat, Feinstein supporter, or trigger happy. 
+
+Happy Cake day!  
+
+
+
+
+
+
+
+
+
+ Link does work 
+
+
+
+
+
+
+
+
+
+ I would vote for a rabid dog before I would vote for her. 
+
+
+
+
+ Cold-blooded Murder!  
+
+
+
+
+ lol r/politics = Obamas left nut 
+
+
+
+
+ Snitches get stitches and wind-up in ditches.  
+
+
+
+
+ They why didn't you stand up before the Snowden leaks? poser 
+
+
+
+
+ And Obamas Foreign policy is like the second coming of Jesus Christ...  
+
+
+
+
+ So you didn't read the article I posted? I am not denying that Halliburton made tons of money at the beginning and during the war. After all the US military needed an Oil contractor to help with infrastructure needs. But when it was time to divvy up the oil contracts after it was over the US was hung out to dry.  
+
+
+
+
+ $25-30 Million for building a company with 1000s of employees = bad 1%
+
+$25-30 Million for verbally attacking the man who built a company with 1000s of employees = good 1%
+
+good ol Reddit 
+
+
+
+
+ Fantastic: extraordinarily good or attractive.  
+
+
+
+
+ [China Is Reaping Biggest Benefits of Iraq Oil Boom](http://www.nytimes.com/2013/06/03/world/middleeast/china-reaps-biggest-benefits-of-iraq-oil-boom.html?pagewanted=1 _r=0 hp) 
+
+
+
+
+ Farting. 
+
+
+
+
+ Being excited about his death makes you an equal to the people he represented. IMO  
+
+
+
+
+ The Chinese got most of the oil contracts. US companies were shut out. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Did they change the recipe sometime in the last couple of years? It seems like it has gotten sweeter or more syrupy? 
+
+
+
+
+ I made it through 4 replays before thinking 'wtf am I doing?'.. 
+
+
+
+
+ Dear American Patriots,
+
+This is how you protest.
+
+Sincerely,
+
+Your fellow patriot. 
+
+
+
+
+ China and Europe got most of the oil contracts. 
+
+
+
+
+ My apologies, fellow Patriot. I felt a sudden responsibility to put that damn commie in his place. I will, in the future, overlook this good-for-nothn pinko. Again, fellow Patriot, I would like to apologize for feeding such scum. 
+
+
+
+
+ I salute you, fellow Patriot. 
+
+
+
+
+ Hey OP ever been a principal of a school in the projects? no? 
+
+
+
+
+ I cannot force a company from overseas to continue to buy my product at an increased price. I can increase wages but I have contracts on product pricing. The customers that buy my products would buy from manufacturers overseas instead because they could get them cheaper. Does that make sense? We are not a US Economy. We are a world economy. My entire business is based on customers not based in the US. If my costs go up so does my product cost. My contracts would disappear leaving my company out of business and my employees out of a job. For the record Labor is one of the largest costs of making products. you seem to shove it aside as a non existent cost. 
+
+
+
+
+ lol What you fail to understand is that if my labor costs change overnight I will be out of business in a month. Labor costs would be immediate. Revenue increases would not. I would be out of business before I ever saw a revenue increase. But you fail to understand that if my labor costs increase so does the cost of my product. So if the cost of goods increases where is the increase in pay? They will just be paying more for goods which would deplete any increase in pay they were afforded. You think things are black and white.. they are not. You can make it look good on paper all you want. Reality is it would be detrimental to our economy. 
+
+
+
+
+ Why didn't he save the $1 Billion he just gave to Ukraine and use it for Science? 
+
+
+
+
+ So now you are comparing BO to GW as if they are the same person? and what in the actual phhuck does Russia have to do with it? Get the phhuck out of here you damn commie bastard.  
+
+
+
+
+ You act like they make it by ok on low margins. That is not the case. They have low margins on the products they sell but make up for it in membership fees. They wouldnt make it on low margins alone.  
+
+
+
+
+ I am sorry but how did GW have anything to do with the mosque not being built? As an American who lost friends in the towers I personally thought it was insensitive to try and build a mosque down the street from the towers. But I am not GW. And GW had nothing to do with it not being built. You some damn commie or something?
+
+"Ted Olson, former Solicitor General in the George W. Bush administration, whose wife, television commentator Barbara Olson, died in the plane that crashed into the Pentagon, has expressed support for the rights of the Park51 organizers to construct the new site." The only connection you will find between GW and Park51 
+
+
+
+
+ I understand that if my labor costs increase my company goes out of business killing almost 1000 jobs. I do not need you or some elitist at a desk to tell me this. I see it. I experience it. It will disrupt the economy and cause even more poverty. It will cause more strain on our services. You cannot add $millions$ to my labor costs overnight and not expect a catastrophic event. My margins are so thin it would wipe us out overnight. This is reality, pal. Not some idea thought up on a university campus. 
+
+
+
+
+ "Costco makes up for those low margins by charging a $55 annual membership fee of its 64 million members." 
+
+
+
+
+ A considerable amount of people in this country just need a good ass whoopin. People are increasingly getting to a point where they believe their actions do not have consequences. A few good ass whoopins could cure some of this.  
+
+
+
+
+ If we want to increase wages we must increase our investments in educating our work force for the new 21 century economy. There will be people that fall through the cracks but the change is coming whether we like it or not. We just have to make sure we are as ready as we can be. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "My People" - Eric Holder 
+
+
+
+
+ What evidence was left out? 
+
+
+
+
+ Strong-Armed Robbery is not a petty crime. Attacking a police officer in their car and attempting to take their gun is also not a petty crime. Seems you have built the wrong profile for Mr. Brown. 
+
+
+
+
+ It takes more evidence to convict someone than it does to indict someone. So, if there was not enough evidence to indict, how do you think there will be enough evidence to convict? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is /r/politics....everything is "Off Topic" unless its a glowing review of Obamas nutsack.  
+
+
+
+
+
+
+
+
+
+ "Why did I never hear about this?"
+
+It's your first day on the internet?  
+
+
+
+
+ Oh, look, its the guy that Michael "the Gentle Giant" Brown was [leading to Jesus Christ](https://www.youtube.com/watch?v=rhU28gAZf9c).  
+
+
+
+
+ Were the legal immigrants that waited in line for years to come to this country allowed to work, live, and send their kids to school in the US while they waited?  
+
+
+
+
+ Get out of here with your rational logic.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A *prison sentence*.. 
+
+
+
+
+ Everyone on HuffPo and /r/politics missed that part, apparently. 
+
+
+
+
+ Another reason Rand Paul gets my vote.  
+
+
+
+
+ "All the better to see you with, my net," grinned the President and NSA. 
+
+
+
+
+ I would gladly wait on Google Fiber until summer of '15. Be thankful. 
+
+
+
+
+ [Courtesy Of The Red, White And Blue](https://www.youtube.com/watch?v=ruNrdmjcNTc)
+
+[Made in America](https://www.youtube.com/watch?v=MaAF_3WMJGM) 
+
+
+
+
+
+
+
+
+
+ ####Damn commie! 
+
+
+
+
+ "If you want to test a mans character, give him power." 
+
+
+
+
+ Also, to add to your great explanation, Republicans are for States rights. Allowing the people of a State to determine whether the minimum wage increases is more in line with Republican ideals than a blanket federal increase. So, I do not see increased minimum wage on the State level as anything that would go against what Republicans believe in.  
+
+
+
+
+ Whiskey or whisky? 
+
+
+
+
+
+
+
+
+
+ lol 
+
+
+
+
+ Why did the money and jobs leave? 
+
+
+
+
+ I do see, from that link, that Fergusons violent crime averages are much higher than the US average. I would like to see 30 years of crime and demographic data on Ferguson. I have heard others mention that Ferguson was not a violent town until something changed. Jobs left and crime went on the climb.I wonder what changed to cause this shift.  
+
+
+
+
+ What were the demographics and violent crime rate of Ferguson in, lets say, 1990? What is the demographics and violent crime rate of Ferguson today? I am genuinely curious.  
+
+
+
+
+ wonder why all the jobs left.... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Anyone have any invites?  
+
+
+
+
+  If it's priced right, I will buy it. If it's overpriced, I won't buy it.
+
+Yet you buy Apple products....odd. 
+
+
+
+
+
+
+
+
+
+ But I thought Democrats were against money in politics? 
+
+
+
+
+
+
+
+
+
+ You have said nothing to explain your position. Just sensationalist headlines. Your comments are not based in reality. My comments are based from experience and the real world.  
+
+
+
+
+ The concept of false racism conjured up in your own mind? 
+
+
+
+
+ What? Locked out? How many more straws do you have left to grasp over there? I implore you to ask any IT manager how many resumes they get from minorities compared to whites. You have no idea what you are talking about.  
+
+
+
+
+ For example: Our company is looking for a new CIO. Not one minority has applied for it. Is it the CEOs fault that only white people have applied for the job? Lets say he got 200 resumes and out of 200 resumes only one was a minority. Should he hire that minority just because they are a minority?  
+
+
+
+
+ What race is the majority in the US? If there are more white people in the US I would suspect you would see more white 'bosses'. But what do I know. Its nice to see you generalize all white people and call them all racists. You believe that all white 'bosses' base their decisions on race instead of work ethic, education, and a desire to succeed. 
+
+
+
+
+ So what privilege are they losing? I see what you are saying. If a conservative does not agree with what Obama is doing he is a wacko righty. If the left does not agree with what Obama is doing...what were we talking about again? oh yea.. Bad righty good lefty.. 
+
+
+
+
+ "Obama's economic team chose Wall Street over 'families' " - Elizabeth Warren
+
+Never really heard EW called a conservative. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You are not looking hard enough, apparently. In recent days, Santa come early. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ **Top 17 contributors to the UN budget, 2013**
+
+* United States - 22.000% of UN budget
+* Japan- 10.833% of UN budget
+* Germany	 - 7.141% of UN budget
+* France - 5.593% of UN budget
+* United Kingdom - 5.179% of UN budget
+* China - 5.148% of UN budget
+* Italy - 4.448% of UN budget
+* Canada - 2.984% of UN budget
+* Spain - 2.973% of UN budget
+* Brazil - 2.934% of UN budget
+* Russia - 2.438% of UN budget
+* Australia - 2.074% of UN budget
+* South Korea - 1.994% of UN budget
+* Mexico - 1.842% of UN budget
+* Netherlands - 1.654% of UN budget
+* Turkey - 1.328% of UN budget
+* Switzerland - 1.047% of UN budget
+* Other member states 18.390% of UN budget 
+
+
+
+
+ Would they offer the same service to the average Jimmy? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ George Washington 
+
+
+
+
+
+
+
+
+
+ Evil 1% white devil! 
+
+
+
+
+ Difference being that if Americans truly wanted to change things they could, by force if need be. Australia? well, they're just pissing in the wind. Their government will never fear the people again.
+
+"Where the people fear the government you have tyranny. Where the government fears the people you have liberty." - John Basil Barnhill 
+
+
+
+
+ First they take your guns then they take....everything. 
+
+
+
+
+ Have any iOS devices in your network? Start there.  
+
+
+
+
+ [You ain't got no sugar?!](https://www.youtube.com/watch?v=OT-hzA6nE_A) 
+
+
+
+
+ Nothing is Obama's fault!                        ^^^/s 
+
+
+
+
+ /r/politics 
+
+
+
+
+
+
+
+
+
+ As well as the recipient and sender side of said emails. 
+
+*I mean, did everyone in the chain just happen to have a hard drive crash with no back up or server side copy?!* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Revisionists argue that so-called eyewitness testimony is not always reliable.
+
+So does [The American Psychological Association](http://www.apa.org/monitor/apr06/eyewitness.aspx). 
+
+
+
+
+
+
+
+
+
+ Will they stone you to death or give you lashes? 
+
+
+
+
+ Standards like the [fake newscast from Kuwait in 1990](https://www.youtube.com/watch?v=jTWY14eyMFg)? I have watched CNN since the late 80s and do not recall them ever having "standards".. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Can you point to some specific reasons why you were impressed with Clinton as Sec. of State? Just curious. 
+
+
+
+
+ But no one cares unless you are a violent felon and black.  
+
+
+
+
+ He's white so no one cares. His privilege is getting in the way.  
+
+
+
+
+ Who elects the city officials that oversee this?  
+
+
+
+
+ And no riots? No looting? No burning the city to the ground? What gives? I am sure Eric Holder is meeting with the parents and launching a full investigation.  ^^/s 
+
+
+
+
+ TIL Nirvana died. 
+
+
+
+
+ At one point Clinton had a chance to bomb UBL but backed out at the last minute because UBL was being visited by Saudi royalty.
+
+*I recall this from a documentary I watched on the history of UBL and Al-Qaeda. I believe the doc was on the History Channel. I may recall incorrectly* 
+
+
+
+
+ **Average Approval Rating of Presidents:**
+
+* Kennedy	- Average approval rating while in office: 70.1
+* Eisenhower - Average approval rating while in office: 65.0
+* Bush (G.H.W.)	- Average approval rating while in office: 60.9
+* Clinton - Average approval rating while in office: 55.1
+* Johnson - Average approval rating while in office: 55.1
+* Reagan - Average approval rating while in office: 52.8
+* Bush (G.W.) - Average approval rating while in office: 49.4
+* Nixon - Average approval rating while in office: 49.1
+* Obama - Average approval rating while in office: 48.0 *currently in office*
+* Ford - Average approval rating while in office: 47.2
+* Carter - Average approval rating while in office: 45.5
+* Truman - Average approval rating while in office: 45.4
+
+**List of Presidents that had an approval rating above 51% when leaving office:**
+
+* Eisenhower
+* Kennedy
+* Ford
+* Reagan
+* Bush (G.H.W.B)
+* Clinton 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Only white people can commit hate crimes...  ^^^/s 
+
+
+
+
+ * Eisenhower
+* Kennedy
+* Ford
+* Reagan
+* Bush (G.H.W.B)
+* Clinton
+
+List of Presidents that had approval ratings above 51% when leaving office. 
+
+
+
+
+ * Kennedy	- Average approval rating while in office: 70.1
+* Eisenhower - Average approval rating while in office: 65.0
+* Bush (G.H.W.)	- Average approval rating while in office: 60.9
+* Clinton - Average approval rating while in office: 55.1
+* Johnson - Average approval rating while in office: 55.1
+* Reagan - Average approval rating while in office: 52.8
+* Bush (G.W.) - Average approval rating while in office: 49.4
+* Nixon - Average approval rating while in office: 49.1
+* Obama - Average approval rating while in office: 48.0 *currently in office*
+* Ford - Average approval rating while in office: 47.2
+* Carter - Average approval rating while in office: 45.5
+* Truman - Average approval rating while in office: 45.4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ As someone who works 60-80 hrs a week, I would be thankful for a 40-hour work week. 
+
+
+
+
+
+
+
+
+
+ *..get a rope.* 
+
+
+
+
+ Who elected him? 
+
+
+
+
+
+
+
+
+
+ A role model for all ages. 
+
+
+
+
+
+
+
+
+
+ It was my subtle way of backing you up while spelling it out for omeezysheezy. I hope you are having an incredible day. 
+
+
+
+
+ Got you to work, allowed your favorite products to be made, allows you to post comments on Reddit, etc. but nothing you would be interested in. 
+
+
+
+
+ I will upvote this .gif every time its posted.  
+
+
+
+
+ You mad, bro? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It has not been proven false. In fact, the autopsy is actually in-line with the officers statements and that of other witness statements that said that there was a scuffle in the car and that Brown rushed the officer. The only place it has been proven false is in the minds of the many people that rushed to judgement and falsely convicted the officer in the court of public opinion. 
+
+
+
+
+
+
+
+
+
+ Yes but Brown was shot for assaulting an officer not walking down the street. 
+
+
+
+
+ I miss ol' Dubya. 
+
+
+
+
+ Why would "my gun rights" people rush the hill to defend people that are doing anything they can to strip them of their gun rights? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just as another option, [MXToolBox](http://mxtoolbox.com/Public/Content/Signup.aspx?page=subnet source=subnet action=blacklist:96.0.0.1) offers one free blacklist monitor when you sign up for a free account. 
+
+
+
+
+ baecaughtmelooting.jpg 
+
+
+
+
+ Animals. 
+
+
+
+
+
+
+
+
+
+ Traveling before I got ingrained in the rat race.  
+
+
+
+
+ Who continues to fund and lobby for it? 
+
+
+
+
+ Sorta...but now we know as the US government has confirmed it to be true. 
+
+
+
+
+ /r/politics = Obama's left nut. Everybody knows that. Why do you think they are not a default sub anymore?  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You come from a drive-thru society where you want everything to happen right when you want it to. That is not reality when it comes to politics or progress. Progress takes time. Meaningful progress takes generations.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No, I don't remember. I am someone that was in the streets protesting and remember millions of others protesting Bush, the Patriot Act, and the Iraq war. Bush was lambasted for the things he did. Are you too young to remember that or are you willfully forgetting? 
+
+
+
+
+ Nothing is Obamas fault. I thought you knew that. 
+
+
+
+
+
+
+
+
+
+ [Avast](http://download.cnet.com/Avast-Free-Antivirus-2014/3000-2239_4-10019223.html?part=dl-3001bpv2 pdl=1 ftag=DLA0c3d7d8) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hobby Lobby should stop subsidizing their employees health insurance all-together and give them something to really complain about.  
+
+
+
+
+
+
+
+
+
+ B-b-b-but, but Bush! 
+
+
+
+
+ Glad it worked for you. Enjoy your day! 
+
+
+
+
+ Have you tried [Revo](http://www.revouninstaller.com/revo_uninstaller_free_download.html)? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That's cute. Must have dropped his bottle.  
+
+
+
+
+
+
+
+
+
+ According to the article that is exactly what happened.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I read somewhere there were 23 Americans on board as well.  
+
+
+
+
+ And now you know why I am for smaller federal government. The larger the federal government is the harder it is to hold it accountable.  
+
+
+
+
+
+
+
+
+
+ I agree with you, but you are not helping the /r/politics anti-GOP circle jerk. /r/politics only likes anti-GOP comments, please and thank you. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ and we all know that Democrats do not do this. They are angels. I thank jeebus every day for Democrats. So trustworthy and always looking out for the best interests of the people.  
+
+
+
+
+ No, just Ted Cruz. The man is an embarrassment to himself. 
+
+
+
+
+ I wish that man would go back to Canada.  
+
+
+
+
+ What kind of answer are you expecting from a sub full of Democrats?  
+
+
+
+
+ and think of the property taxes that can be increased and the revenue that can generated. 
+
+
+
+
+ We are not a direct democracy. Direct Democracies, even when well-intentioned, can put minority groups who have less power at a disadvantage. 
+
+
+
+
+
+
+
+
+
+ The Islamic State of Sweden 
+
+
+
+
+ Looks like someone deserves a few weeks off with pay. 
+
+
+
+
+ [Great comment](http://i.imgur.com/KdHhVq6.gif) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

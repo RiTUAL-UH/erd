@@ -1,0 +1,30 @@
+ You should look into Systems Level programming. Personally I find it incredibly interesting and fun. 
+
+http://csapp.cs.cmu.edu/
+
+This is a pretty legit textbook to get you started, it also has like 7 labs in it to help you learn assembly, things like buffer overflow attacks, how to write your own malloc implementation and more. It is in C, not java - but still a great fucking book.  
+
+
+
+
+ As I was going to St. Ives,  
+I met a man with seven wives,  
+Each wife had seven sacks,  
+Each sack had seven cats,  
+Each cat had seven kits:  
+Kits, cats, sacks, and wives,  
+How many were there going to St. Ives?   
+
+
+
+
+ The proxy forwards all the headers shown above to the client.  
+
+
+
+
+ I don't think that is actually true... If he just works with them all on the stack. Isn't that true? Then he can just access them all as element.value rather than element-value 
+
+
+
+

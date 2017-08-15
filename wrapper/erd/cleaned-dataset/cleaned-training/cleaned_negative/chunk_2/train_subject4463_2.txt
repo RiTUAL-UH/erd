@@ -1,0 +1,919 @@
+
+
+
+
+
+ Anyone have any burnt out boards they plan on discarding?  Obviously shipping them across the USA is more expensive than just throwing them out, but I'd like some practice diagnosing and possibly fixing them.
+
+Printrboards being what I'm primarily interested in, seeing as they have on-board drivers, and are hard to repair if the driver blows.  They're hard, but not impossible, because they use the version of the A4982 driver that actually has exposed leads.
+
+I've got nothing to offer up - and I figure this won't get much attention, and if the worst that happens is some downvotes, I'm still in the positive for at least asking.  PM me for shipping address if you are so inclined. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think it was at an old E3, back when I was still into consoles.  Someone was demoing the graphical abilities of their console and had reported that everything in the video was done in real-time.
+
+If I remember correctly, it starts out with this large robot in the center of a platform, doing some pseudo martial-arts moves.  Eventually the robot stops...the chest cavity opens up, and a girl jumps out.  She ends up standing next to the bot, again, doing martial arts moves, with the robot in the background copying her every move.
+
+I thought it was the original xbox demo video, but for the life of me I cannot find it anywhere.  I'm looking for it because I remember being _so incredibly impressed_ and I want to take a look back to see how things have changed for me since then in regards to being able to criticize the environment.
+
+If you know what video I'm talking about, any extra information to assist me in finding it would be great.  What console it was for, what event it was at, clarification on the events in the video...anything... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ And isn't it kind of mean to make spike gag up messages all the time? 
+
+
+
+
+
+
+
+
+
+ I've got a 120v (edit: 90-115v on the , 2.25hp motor from an old treadmill that I'd like to utilize for a small powerwheels project.  The thing is, 120v DC is a pretty uncommon thing to control.
+
+What would be the best way to control this?  A custom H-bridge made out of power-mosfets?  Would I be better off with logic level fets or a gate driver?  I'm not really looking for any kind of PWM speed control, just forward/reverse.  If this isn't really feasible (or more trouble than it's worth), would it be suitable for a wind-power project?  Maybe hook it up to a suitable gas motor for backup power?  Project ideas would be helpful too.  It's got a pretty hefty flywheel on the thing - I can post pictures if that's of any help. 
+
+
+
+
+ Hey, has this ever happened to you? You wake up one morning not feeling so hot, you go to the bathroom to get ready for the day, turn on the light, look in the mirror, and find that you have pink eye?! Well what you may not know is that most pink eye is actually caused by a disgruntled ex-Intel engineer named Greg who is angry that hell lacks solder. Every now and then Greg's ectoplasm stretches and he gains access to our mortal plain. He takes out his anger by stabbing people in the eyes with hot soldering irons as they sleep, thus causing pink eye.
+
+Well, a study published in the peer reviewed journal 'The American Journal on Gullibility' showed that there was a strong correlation between soldering ability and the incidence of pink eye. The study found the stronger your soldering ability, the less incidence of pink eye you will develop. No mechanism has been found yet, but it is believed that a mutual assured destruction type standoff ensues, as Greg would not like pink eye on top of eternal damnation.
+
+So if you'd like to reduce pink eye and improve your soldering ability, learn to solder 10AM on September 8th at [FamiLAB](https://www.facebook.com/FamiLAB). With the $20 class, you will recieve a free Adafruit MintiBoost Kit (Normally $21.50!) to be able to charge your smart phone on the go!
+
+http://www.eventbrite.com/event/4112913836 
+
+
+
+
+ Given the most optimized code for both scenarios, which is more computationally intensive?  Why aren't hit-spheres used more often?  Does this change between 2D and 3D significantly?
+
+Edit: Mostly concerned with 3D implementations.  A cube vs sphere for collision geometry.  Not so much _how_ to do them, but some discussion on which is easier to implement, which is more efficient, etc. 
+
+
+
+
+ So, apparently someone was looking for an Ear, Nose, Throat doctor.
+
+http://www.reddit.com/r/orlando/comments/yg3fx/good_ents/
+
+Hilarity ensues. 
+
+
+
+
+
+
+
+
+
+ In the past, I was told about a series of scripts/programs that had the ability to take information and music from a streaming service (I think maybe it was spotify?) and automatically rip it, tag it, and organize it directly to your hard drive.  I checked it out at the time but didn't feel I had the need for it, and I'm having trouble finding it again.
+
+Does anyone know anything about this, where it can be obtained, etc?
+
+Found the program: It's called "Replay Music 3" - and what it does is records from your sound cards stereo output, and detects pauses in between songs.  (Much like MythTV does with commercials)  It then writes each "block" of sound over 30 seconds out to a file.  It also works on pretty much any and all music services that play through your speakers.  Pandora, Spotify, online radio stations, etc. 
+
+
+
+
+ Are there any WMs out there that provide _just_ window border decorations and buttons?  Maybe some hotkey (alt+tab, etc) support?
+
+Every WM I run across has some sort of application manager, or launcher, or other crap associated with it, instead of just...you know...managing windows.
+
+Edit: Thanks for all the suggestions -- I found my winner for the time being.  In the future I'll be expanding PLWM, seeing as the default arch install comes with python already and xlib is tiny. 
+
+
+
+
+ I've got some I2C and SPI devices, but everything I'm finding on this requires new kernels, etc and I really don't feel like mucking about with that.  Is there an image out there with I2C support already, and maybe a small how-to on interfacing with I2C devices? 
+
+
+
+
+ I'm sure the idea behind it is stupid simple, I just don't think I've ever run across a circuit like this.  I'm screwing around with my Raspberry Pi, and have dismantled a mintyboost I soldered about a year ago.  I'd like to have 2 D batteries as backup to the mintyboost, and a wall wart powering the mintyboost normally.  How do I allow this to happen without discharging into the batteries and blowing things up?
+
+Even a point in the right direction would help.  Am I going to need something like a voltage comparison to switch over, or can I do some cheap trick with resistors maybe?  I don't know...it's 1:15am and I can't brain right now. 
+
+
+
+
+ Working on my 3D printer, I'd really like a small connector for the heater/thermistor combo, but the most compact thing I can find is 2x2 crimp pin header.  You guys know of any connectors which have 4 pins (2 for power), small dimensions, protection against reversed/misconnected ends, enough beef to handle a handful of amps @ 12v on 2 of the lines (like, 3A), and optionally, some sort of clip that keeps it from coming disconnected?
+
+I was thinking a TRRS connector, and put the +12v on the tip (deepest ring on the female end) so that if it pulls out it doesn't short the thermistor? (thermistor leads are only 5v tolerant)  Though, even that is a little bulky I think.
+
+Mouser and Digikey are clearly _not_ good places for browsing connector types.  Lots of miscategorized things, missing info (and missing info causes things to get lost when you start filtering) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ There's only a set of 2 poses from [kp-shadowsquirrel on deviantart](http://kp-shadowsquirrel.deviantart.com/#/d3k5wig); I already have those.  They don't fit my purposes; multiple obj files compiled into a single one means that they don't export into a single solid properly...non manifoldness and all.  If somepony knows how to union the "all-in-one" OBJ files into a single non-overlapping object, that would help too. (Gotta get them into a manifold STL format)
+
+There are like 5 3D printers @ my hackerspace, and I'd _really_ like to find a good set of _manifold_ models to make a run of.
+
+[Here's one of the rainbow dash I did in black ABS.](https://plus.google.com/104012815742569035024/posts/QWSyizpjMWo) (Rainbow Dash Pose 1 from kp-shadowsquirrel)  Unfortunately the non-manifold model causes hollows behind the eyes, etc which makes her very very fragile.  She's still in one piece currently (luckily).
+
+Even if somepony who did clay models or something could scan their work with [123D Catch](http://www.123dapp.com/catch) that would be amazing.  (Bonus: Submit it to www.thingiverse.com so everypony with a 3D printer can print your model!)
+
+I've already printed up one of these: http://www.thingiverse.com/thing:21034 - Applejacks cider stand. :)
+
+And if you 3D model other things from MLP -- such as buildings, I'd love to print those too!  My hackerspace has the Orlando Mini Makerfaire that we're setting up and part of the event is that we're going to have a "3D printer farm" just showing off things.  If I'm going to be printing all day long, I might as well print ponies. :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So, last year I was diagnosed with Nodular Lymphocyte Predominant Hodgkins Lymphoma.  I live close to Apopka, in Lake county.  I do _not_ trust the doctors here, as my first radiologist wouldn't even explain to me the risks of radiation and gave me this "oh you're young, don't worry about it" attitude.  I moved my treatment to Shands up in Gainesville, and while I realize that yes, I probably have closer options, when dealing with something of this magnitude I'd really rather have the best people working on it.
+
+Problem is, it's a 2 hour drive.  I've gotta be at Shands @ 11:45 every morning.  Mon-Tues, for 3 1/2 weeks, starting next wednesday.  I looked @ the Hope Lodge, but they require you have a 'caretaker' and they _lock the doors at 9pm_.  You're not allowed to have food in your little apartment area, you have to share a community kitchen where it's trivial for someone to open a glass-front fridge and rummage through your food.  The place has really crappy internet, no wireless, and all around just plain sucks.
+
+I posted here figuring those from the area might have some better ideas.  Anyone have a mother-in-law apartment to rent out for a single month for 2 occupants? 
+
+
+
+
+
+
+
+
+
+ When I setup nginx/compiled from source on ubuntu, the compile flags specified a user:
+
+./configure --prefix=/opt/nginx --user=nginx --group=nginx --with-http_ssl_module    
+
+How do I change the user/group, configure/compile it?  -- Running Ubuntu 10.04 
+
+
+
+
+ I'm not quite a linux newbie, more like a novice at this point.  I'm running Arch, and I quite like the control it gives me over everything.  I'm also on a quite underpowered eee900a which, while fine for everyday stuff just kind of chokes on video, etc.  Since I'd like this to be a mix between some reddit browsing, occasional gmail checking, and actual learning, I'd like to be able to work mostly in the command line, and just be able to swap over to X when I start to feel uncomfortable.  I'd like to move as much as I can over to the command line though.  I'm a touch typer, and grew up on the dos command line so I'm familiar in the environment.  However, there are a couple of little niggles that I'd like to get out of the way.
+
+First; browser.  What are some good command line browsers?  I use Links, but is there any way to get framebuffer graphics on a command line browser?  Maybe some javascript support, etc?  What command line browsers do you recommend?
+
+Reddit client?  I've seen some reddit command line clients, is this worth even doing?
+
+Text editor? - I'm not very comfortable with vi yet.  I use nano for editing normally, Is there anything that's more similar to the GUI environment where I can use alt + f to get a file menu, etc?  I'm not averse to learning vi, but it's taking me a little longer than I'd like.  I haven't figured out how to copy and paste things from one file to the next very elegantly. (read: at all)
+
+What about multiple apps at the same time?  Do I use screen for this?  I'm starting to get familiar with it, is there something that others prefer?
+
+Console highlighting - worth doing?
+
+I'm using Wicd-curses right now to manage networks, that seems to work out perfect.  Any way of keeping data on-screen most of the time like battery, time, etc?
+
+Is it possible to do 90% of everything in the command line? - the reason I'm kind of submerging myself into this is because I really need to be familiar with remote-control of linux shells.  I saw a command line "window manager" - it was similar to dwm, or...based off of it I think?
+
+Either way, I appreciate any help anyone can give me.  The more familiar with the command line I can be, the more happy I'll be.  One day I might even be a sed/awk guru.
+
+Edit: also, is there a way to get a higher resolution framebuffer?  I did vga=ask in menu.lst, had it scan for more codes, and I only get 800x600x32 as my highest available option.  I guess there might be a way to start X with a full screen terminal for higher resolution maybe?  Since I'm using a netbook, unfortunately, the resolution is like 1024x600, which isn't very standard.  Any suggestions here? 
+
+
+
+
+ I'm of the opinion that things like LFG tool, Guild leveling, Derp-level pug raids have pretty much ruined the epic-ness of WoW.
+
+Are there any recent MMOs which put some of this back into the game?  I am still a huge fan of World of Warcraft, but after TBC they reigned back the "High Fantasy" environment.  Things are, I guess, more believable/closer to Norse mythology, but it has kind of killed a very vivid storyline for me.
+
+I very much wish to keep the swords/dragons/magic bit; I really dislike space/tech MMOs (Eve, and a couple I tried on Steam)
+
+Any suggestions? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've noticed skeinforge has profiles for a laser cutter, but has anyone ever done such a thing?  Full Spectrum Engineering are being real dicks to us regarding home-grown upgrades, insisting we buy a new v7 board and a bunch of new hardware in order to install end-stops (the only difference between v6 and v7 are end stops are broken out to headers).
+
+Since they've been so unkind, we're looking for something to generate the gcode from SVGs and provide the control we have with their software through other means.
+
+We do build parts for our repraps using the laser, so it is reprap related. :) 
+
+
+
+
+ Not for me, for a buddy of mine.  I don't want a link to xda developers, both of us already know how to find stuff there.  I'd like some personal experiences with roms other sensation owners are/have run in the past.  Friend is having issues with HyperSensation at the moment, so looking to move away from that rom.
+
+Not really looking for a full AOSP experience (Like peter alfonso's stuff), something CM7-based is best, and a working featureset as well. (No malfunctioning gps, etc) - Preferring a non-sense ROM. 
+
+
+
+
+ I'm getting close to the point where I'm going to need a hot end for my Prusa (I'm building it closer to the v1 spec) -- Now, I've played with 2 hot ends so far; a Makergear hotend, and a Budaschnozzle.  The Budaschnozzle seems much better than the makergear, and I was told the reason for that is the metal doesn't travel as far up the filament and start expanding it.  It seems to need less retraction than the makergear, and oozes less as well.
+
+Should I be looking for the least amount of heat-travel up the hot end?  What are some good mechanical properties of a hot end?  If there was no budget limitation, no engineering limitation, what would be the ultimate properties of a FDM hot end?
+
+I plan on using a cartridge heater for the hot end, and oversampling (because the temperature gradient is much higher, and thus much easier to overshoot) the temp readings.  Good or bad idea?  
+
+
+
+
+ Just got a lathe and mill (smaller ones) donated to my hackerspace.  Was hoping this was going to be a little more active.
+
+Are there any other subreddits that deal with mills, lathes, and general manufacturing, etc? 
+
+
+
+
+ I was going to write this nice little blurb here on why you should come visit us, but I guess our about page says it a lot better than I could: http://familab.org/blog/about/
+
+Also, read up on what a hackerspace is!: http://en.wikipedia.org/wiki/Hackerspace
+
+We got a brand new space that is OVER 4000!...sq/ft that is.  We want to show it off.  We want to show YOU what we have in store.
+
+The new space allows a lot more opportunity for us to teach classes we've wanted to teach for a long time.  You've seen me, or abyssknight post here telling you about our Arduino or Soldering classes, but we're going to be doing cooler stuff soon too!
+
+Here's a quick rundown of some ideas we've had for classes:    
+
+* Screen Printing
+* Welding
+* Laser Cutting (We own a laser cutter!)
+* HAM Radio
+* Analog circuitry
+* Photography
+* Python/Ruby classes
+* NodeJS classes
+* Metalworking classes (Lathe, CNC mill, Manual Mill)
+* Pottery? (We've got a kiln!)
+
+And some of our ideas for projects in the new space:
+
+* Retro Game Night! (Original NES, SNES, Playstation, N64, Sega)
+* Green Screen for video processing
+* Wheatley-style service rail with camera accessible from the internet.
+* Quadcopter battles
+* Solar/Wind power
+* DJ Booth
+* Maybe let an artist come in and paint the interior?
+
+The NEW address for FamiLAB is **1355 Bennett Drive #129, Longwood FL 32750** -- we're not at the dinky old 400 sq/ft place anymore!  We'll be holding our open house **December 6th at 8:00pm**.  There *will be cookies!*
+
+Come and check out the new place!  We're super excited about it, but even if you don't plan on making it out, post here on any ideas or thoughts you might have, or what kind of classes you might be interested in!  We're all about learning new things, teaching, and providing access to tools most people normally don't have access to.
+
+Also, this is for most ages!  Bring your middle/high school kids too!  We (and by we I mean one of our board members) also run a YoungMakers program which is geared toward teaching the younger generation how to make things!  It's fun for everyone!
+
+We're on IRC as well.  Freenode, #familab -- it's where the most devious of our members hang out. :)
+
+Oh yeah...and one more thing: [Spaaaaaaaaaaaaaacccceee!](http://spaaaaaaaaaaaaaaaaaaaaaaaccee.com/) 
+
+
+
+
+ I've got the base of a McWire Cartesian bot made as found here: http://www.instructables.com/id/Easy-to-Build-Desk-Top-3-Axis-CNC-Milling-Machine/
+
+I've got 2 pololu A4988s to drive the stepper motors that I have attached to the X and Y axis.  The thing is, a lot of the CNC software out there just bitbangs a parallel port for this kind of thing.
+
+Is there any software out there that supports step/dir/enable line that I can load up on an Arduino to fire out some test patterns with a marker?  I've got limit switches I can install as well.
+
+I'm planning on making this a 3D printer, + CNC dremel machine.
+ 
+
+
+
+
+
+
+
+
+
+ On XDA development forums.  Not going to link in an effort to keep the less technically inclined from flooding them, or doing stupid shit with their devices they have no business doing. 
+
+
+
+
+ Every curation of dubstep I end up putting into pandora for a 'station' focused on dirty, deep dubstep (datsik and the like) ends up giving me electronica, and rap-hop...
+
+wtf. 
+
+
+
+
+
+
+
+
+
+ Theme was a dark grey, with a thin brightly colored border at the top (it could be blue, orange, white, whatever color you wanted really), and at the rounded corners, the border followed the curve and got thinner until it was no longer visible.
+
+I'm pretty sure it's a common/popular theme, but these damn websites for gnome themes are so horrible to navigate I've given up.
+
+I'm actually going to be throwing Arch on my box again, and using pekwm/PyPanel, and wanted to recreate the theme for pekwm.
+
+It was almost like this, but not rainbow, and it kind of curved down a little on the sides:
+
+http://i.imgur.com/RA3ml.png
+
+It may even be a default theme in one of the distros, I can't remember. 
+
+
+
+
+
+
+
+
+
+ I'm posting this plenty early so nobody misses it.  Soldering is a skill that any respectable geek should have :)
+
+http://learn2solder.eventbrite.com/
+
+This is what you'll be putting together: http://www.adafruit.com/products/14 and you get to keep it of course!
+
+The cost of the class basically just covers the cost of the kit which we provide for you... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've been using an ATTiny45/ULN2003 as a unipolar stepper driver for 12v, 0.8a operation.
+
+Are there any ICs you guys could suggest for this?  I've seen many people say unipolar stepper drivers are easier to make, etc but all the ICs I can find are $10.  I've created this board for $1.50  Are there any cheap unipolar driver ICs out there that can drive 1.2A peak and maybe have step/dir/enable pins already? 
+
+
+
+
+ http://www.arduino.cc/en/Reference/StepperUnipolarCircuit
+
+I'm using that circuit for some stepper drivers that I've made with attiny45s + ULN2003a -- they're incredibly cheap $3 to make per stepper driver, but I'd like to compress the circuit a little by hiding the 1k ohm resistors under the socket for the ULN2003.  Will 1/8 watt resistors fit under there?  Could I go smaller? -- I'm not totally against surface-mount resistors.
+
+I'm using the top circuit, the 2-wire version.  I've been using 1/4 watt resistors (as is pretty standard with most things I throw on a perfboard) but there is no real current going through them.  It's just 5v logic. 
+
+
+
+
+
+
+
+
+
+ Beginners-level documentation on 3D printers is...well...lacking.
+
+Where can I find a rundown of what is going on with these things?
+
+I hear all about different types of firmware, pronterface, etc etc etc but nobody's seemed to actually explain what all these pieces to the puzzle are.  It may be english to those who have been in it for a while, but there's no rundown of what does what?
+
+FiveD, Teacup, Sprinter, etc...are firmwares, right?  They get loaded on the sanguino/arduino/etc?  The RAMPS board is just for ease of use with the pololu drivers?
+
+Pronterface, ReplicatorG are the software for driving the firmware?  They talk serial to the firmware and send GCode? (In some cases a compressed version of gcode?)
+
+How do you go about utilizing headless mode?  Which of these can handle different tool heads? (Extruder, Mill end, Laser cutter?) 
+
+
+
+
+
+
+
+
+
+ I know that all the Arduino IDE does is basically add header files, compile, and upload "sketches" to the Arduino.  I'm interested in exactly what this entails and how I can set up an environment without the arduino IDE using an AVR compiler.
+
+Does anyone have any resources on this?  What header files are added?  What compilers can be used?  What external program is/can be used to flash the ATMega328p? 
+
+
+
+
+ http://farm6.static.flickr.com/5170/5239143959_ef66843ab7.jpg
+
+It's the connector on the far-right marked ABCD.
+
+...I found the header it uses, here: http://www.mouser.com/search/ProductDetail.aspx?R=538-26-48-1245
+
+But I can't seem to find a terminal block that would fit that 3.96mm spacing in order to replace that piece on the board.  Will a 4 screw 3.81mm spaced terminal block work?
+
+Something like this: http://www.mouser.com/ProductDetail/TE-Connectivity-AMP/284392-4/?qs=sGAEpiMZZMvZTcaMAxB2AM0YT%252bRZsuh%2fU2JmhF1L2cE%3d ?? 
+
+
+
+
+ Classes are filled.  If you want to be waitlisted, please email classes@familab.org
+
+~~Get your ticket here: http://orlandoarduino.eventbrite.com/~~
+
+ In this "all ages"* beginners class, you will learn the basics of the Arduino hardware, and how to install and use the Arduino software. You will build simple circuits that can be controlled with the Arduino and explore shields that are available to expand the Arduino. Bring your own Arduino and components, or pre-order an Arduino Starter Kit which includes an Arduino Uno, a USB cable, a solderless breadboard, jumper wires, and an assortment of switches, potentiometers, LEDs and resistors.
+
+Members of [FamiLAB](http://www.familab.org)  - FREE (does not include hardware)    
+Non-Members - $20 (does not include hardware)    
+Optional Arduino Starter Kit (from adafruit industries) - $45    
+
+A laptop will be required to participate (in order to upload new programs to your Arduino). If you do not purchase the Arduino Starter Kit, you will need to bring Arduino hardware to participate. (I seriously recommend the kit though.)
+
+If you don't know what the Arduino is, or even why you might be interested in this class at all, check out this link: http://hacknmod.com/hack/top-40-arduino-projects-of-the-web/ 
+
+
+
+
+ Since /r/Arduino is larger than /r/Microcontrollers I figured I'd ask here.
+
+Some people at my local hackerspace want to create a waterfall printer, but rapidly gave up after seeing that solenoid valves were $13/pop and we would require a *lot* of them in order to get anything decent.
+
+We've had some crazy ideas thrown around, like modifying pens to be valves, etc...
+
+Even if you think your idea is stupid, mind throwing some my way on how I might be able to replace a solenoid valve with some mechanical/electromechanical process?  The only requirement is that it needs to keep the cost down... 
+
+
+
+
+ http://imgur.com/a/glxYC
+
+No, it wasn't a leaking pipe either.  The previous owner (no idea why) had actually cut the pipe off flush with the concrete block wall, and then drywalled over the cut pipe.
+
+As soon as I can I'll take some pictures, because the stove is in place, the outlets are wired up, the fluorescent light is installed again, and the countertop is installed (I managed to get the whole countertop for $50)...
+
+I had never hung cabinets, laid tile, or most of the other stuff I did to get this kitchen back in shape. :) 
+
+
+
+
+ Free:    
+https://market.android.com/details?id=com.jrummy.liberty.toolbox    
+
+Pro:    
+https://market.android.com/details?id=com.jrummy.liberty.toolboxpro    
+
+I didn't give this app much credit until I downloaded it today.  I will be removing Titanium Backup,  ROM Manager, and Font Changer in favor of this all-in-one.  On top of the stuff it provides from TB and RM, it also provides things like screen density changer, battery icon changer, font changer (with a pre-downloaded selection of fonts), zipalign on startup, boot animation disable/changer, ad blocking, set wifi-scan interval (saves battery)...
+
+Just all around this is an amazing app.  Pro will set you back $5, but Titanium Backup + ROM Manager together would set you back $13
+
+*edit: Someone correct me if I'm wrong, but it doesn't look as if the backup function actually backs up the user data, but rather only the apk?  So Titanium Backup is still better in this regard...but ROM Manager is $6, this is $5...so still something worth looking at.* 
+
+
+
+
+ Could someone give me some recommendations for a solution to playing sound clips?  I'd like to play something like 20 sound clips, each 10 seconds (max) length, and be able to easily just trigger them via the arduino.
+
+Just seems like paying $70 for a shield for the Arduino to play sounds is a bit overkill.  Surely there is something simple like this out there?  Or maybe could someone point me in the direction of an IC that might be able to do something like this? 
+
+
+
+
+ http://familab.org/blog/public-classes-events/
+
+FamiLAB offers some really awesome classes and host some amazing events as well.  Most of these fill up early, so I just wanted to post this up here early in case there was any interest.
+
+We've got an Open House on the Tuesday the 6th, but if that's not a good day for you, there can be a time setup for you to come out that's better suited to your schedule.
+
+FamiLAB is also hosting the Retro Arcade down at the history center through September 25th, so you can come check out the things we do there as well!
+
+It's not just for 18-35 year old male nerds either.  Sept 24th FamiLAB is doing a soft-hacking class with computer-aided sewing machines.  While that sounds incredibly chauvinistic, there are men interested in this kind of thing too and there's a good sized turnout expected.  (This one is free for everyone, so come on out! -- signup is at the link I provided at the top of this post)
+
+Some of the classes are free (to everyone), others are only free to members.  Come on out and meet us!  We're friendly people who are into learning and making.
+
+Some other cool classes FamiLAB hosts:    
+Soldering (MintyBoost kit provided)    
+Surface Mount Soldering (advanced soldering classes)    
+Arduino (a platform that can be used to build almost anything)    
+And many more will come, as we're setting up a system for anyone to host their own classes...
+
+http://www.familab.org for more information, or the link provided up top is a direct link to the classes we have scheduled this month.
+ 
+
+
+
+
+ A lot of times once something gets popular, everyone just hijacks replies to whatever the top-most voted thing is.  By adding a parent-only comment view, maybe those actually replying to the OP could get a little more love for using the system as it should be. 
+
+
+
+
+ https://market.android.com/details?id=org.adwfreak.launcher
+
+Web-market doesn't seem to have updated the "whats new" section yet, but I just received the update a minute ago.
+
+The dockbar that ADW has always had, is much like LauncherPros dockbar in that you can scroll it left and right, with the added functionality of being able to put as many shortcuts in the bar as you'd like.  Since this can now be set as the primary bar, those that were missing the feature from LP can now rejoice. :)
+
+There is also a new folder and dockbar popup functionality.  Native system folders will pop up much like SiMi folder [Example here](https://www.gstatic.com/android/market/com.th.android.widget.SiMiFolderPro/ss-480-2-8).  And by adding a custom launcher action of "Show Catalog [X]" you'll get the same functionality. 
+
+
+
+
+
+
+
+
+
+ The Teensy++2.0 seems to absolutely beat all over the Sanguino and the Arduino when it comes to flash/RAM/eeprom -- is there some major downside to this platform that I'm missing? 
+
+
+
+
+ I'm working on a "RapStrap" -- a 3D printer that isn't able to print its own parts, but can be used as the basis to print parts for other 3D machines.  Basically enabling me to 'bootstrap' whatever next machine I decide to build. (Primarily also because I'm poor and unable to afford the proper parts for a RepRap/Makerbot etc anyhow)  Some pictures of *roughly* what I'm trying to build are located here:  http://reprap.org/wiki/WolfStrap-English
+
+I built a 16"x16" wooden box, and to be quite honest, it was my very first time doing any type of carpentry whatsoever.  I'm actually very proud of myself for actually getting everything within an 1/8th an inch of perfect square.
+
+Here's the result of just the box I made: http://i.imgur.com/C9ERR.jpg
+
+Now, in the picture of my box, you can see the 2 drawer slides I bought.  Light-weight under-drawer slides.  They look about as close to the pictures on the reprap site as I could find.  After spending about an hour at Home Depot going through each of the slides and judging how much each one of them wobbled, these wobbled the least.  Well -- I'm now asking here for some suggestions.  You can guess why.  After attaching these to the edges of my frame, making sure they were perfectly parallel, and attaching the table as well, I feel that they are just *way way way* too stiff to be of any use.  I am going to be using the belt-drive version of this machine, so I won't have the added torque from the threaded rod. (the threaded-rod method has been reported to be way too slow for 3D printing, but good for CNC routing/dremeling)
+
+I've started my own design in Google SketchUp and would like some input on it.  I've already burnt $10 on the (failed) drawer slides, so I'm trying to bump the DIY up a notch and create my own.  Shoot holes in my design.  Give me suggestions.  Here's some pictures: http://imgur.com/a/ShYSB
+
+The idea is to take aluminum L-channel, and attach roller bearings as such that they grip the side of another piece of L channel, and also rest on the edge.  They won't be *super tight*, but they'll be snug.  Would it be better to grip from the outside, or inside like I have it?  Also, I figure if this design works ok, I can upgrade the edge-bearings to V bearings later on to maintain a little more stability.
+
+If anyone has any better ideas, I'd love to hear them.  Amount of force required to move, and cost are the primary concerns.  I'd like to keep enough accuracy to print 3D objects but that comes secondary to everything else (because the more accurate you get, the more expensive you get)
+
+A duplicate of this post is posted over on /r/DIY, but has had no answers, upvotes or downvotes even) after 12 hours so I figured I'd post here.  /r/DIY is more...home improvement-ish but I can't seem to find a reddit with a decent amount of eyeballs that would know anything about this kind of stuff.
+
+*Edit: *I found at least 1 major flaw in my design: It won't work for anything except a flat axis.  No rotating it up, it would just fall off.  Argh; I gotta find something cheap, simple, and sturdy. 
+
+
+
+
+ Palm-rejection is the ability for a capacitive touch screen to understand where the hand is resting on the screen and not register it.  For example when writing with a stylus, a capacitive screen without palm-rejection would think you had two fingers on the device. 
+
+
+
+
+ Trying to setup mingw32 as the default compiler so I can stop doing
+
+    python setup.py install build --compiler=mingw32
+
+And so pip will automagically use mingw32 as well.  (Since it just basically runs "setup.py install")
+
+Problem is, I've placed a distutils.cfg under D:\Python27\Lib\distutils and it doesn't seem to be picking up the change.  Here is the contents of that .cfg file:
+
+    [build]
+    compiler=mingw32
+
+What am I doing wrong?  Should this file be somewhere else?  If so, where?  (Windows 7 if that matters) 
+
+
+
+
+ I mean, seriously.  What...the...fuck.  I recently got "tagged" with this bug, and I am now sitting on a 2.1, stock, unrooted, 100% BONE FRESH SBF flash, and Android OS is sitting at 57% battery usage after 4 hours off of the charger and I'm down to 70% battery.  My battery doesn't last more than a 14 hour stretch anymore (I used to be able to go 3 days).
+
+As far as I'm aware nobody has had this bug until 2.3.4; and it's really infuriating.  What the fuck could persist SO HEAVILY as to completely and unforgivingly stick to the phone even after a full wipe like this?!
+
+I was on 2.3.4 for a pretty long time previously, and this thing hit me out of the blue one night, draining my battery fully overnight.
+
+Now, I *have* found a way to mitigate this bug: Turn off WiFi.  There's a problem I have with that: I don't have cell service on my Droid.  I've used it as a wifi-only device now for a year and a half.  I have never, ever had the Android OS process use more than...maybe 4/5% of my total battery.
+
+Sleep-modes for wifi don't help the situation either.  never, never when plugged in, and when screen turns off doesn't help at all.
+
+Being logged into google services also does not matter in the slightest, this is a bone-stock restore and I've done nothing except connect to wifi...there is no google account even associated with the device.  Therefore as well, there is no syncing going on.  No latitude.  Nothing.
+
+Can anyone suggest what the hell is going on here?  I just don't understand how this could persist through a full SBF flash!  What, if anything, isn't touched by a full flash?  And how could a 2.3.4 build of CyanogenMod trigger it?
+
+*edit:* Why the downvotes? O_o 
+
+
+
+
+ I keep just wanting to jump into the complicated stuff.  I'm not really able to keep my interest at a low enough level to work through the things I should probably be learning.
+
+I've done a lot of random crap.  I've implemented camera systems, I've toyed around with motion, etc but never really put anything together.
+
+Is there something out there which starts from the basics, with a solid set of goals/design parameters that you can strive to achieve on your own while working toward a more refined skillset?
+
+Like for example: 
+
+First game -- Implement a windowed game, with an image at the bottom controlled by keyboard, that will catch randomly falling objects.    
+Second game -- Instead of catching falling objects, bounce a ball into breakable blocks at the top of the screen
+Third game -- Implement a full screen game of pong, and add a trail of 5 balls to the master ball.    
+
+In short...I need some sort of curriculum to follow, preferably language-agnostic, with a gradual enough difficulty for me to figure out new problems on my own 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Doesn't look like your subreddit has any convenient links in the side bar.  Since I'm new to flashing the Wii, would someone kindly point me in a direction to get started? (Say, how to find out which system menu I have, etc?)
+
+I just recently bought the Wii that I have...at least within the past 6 months, so I suspect it's pretty up to date.  What will be my options for breaking this thing open? 
+
+
+
+
+
+
+
+
+
+ Long time player.  Played since beta, non-stop, through all expansions, waited in line for each of them except cataclysm (online distribution ftw).
+
+When blizzard introduced the dungeon finder, as a tank, I was absolutely ecstatic.  Obviously verses DPS this meant no more waiting and I could instant que for anything.  Days and days of dungeon running went by, and I even rolled many many alts and geared them up quickly because I didn't have to wait 3+ hours in order to get what I wanted to do, done.
+
+I was largely happy until recently.  Dungeon finder, over time, has caused a lot of the reason I played World of Warcraft to be diminished over time.  Sure, most people will say "WoW got boring and repetitive" or whatever excuse they may use, but I largely played WoW because I enjoyed the company of the people I met.
+
+Lately, I realized (after quitting WoW just prior to 4.2) that I didn't have any WoW friends anymore.  And it was getting continually harder to make them.  All of the friends that I had played with over the past 5+ years were gone now.  That wasn't a problem in the past, because largely, I made new ones regularly.  Except now, my friends list was barren, filled with a bunch of names but all grayed out, all the time.  I played way more often than I had in the past recently, so...why was I so lonesome?
+
+Then it hit me.  Even through the tediousness of getting groups together was off-putting back in the beginnings of Wrath of the Lich King, it also meant that in order to speed that process up, you would often need to keep in touch with people that were skilled and on at the same time as you.  As you ran more and more with these same people, friendships would grow and you'd have a fun time.  Oftentimes, this wasn't just how I met new friends, but was also the way that I found guilds that I fit in with.
+
+Ever since dungeon finder was released, I had no reason to group with my friends, and my friends no reason to group with me either.  When someone wanted to get something done, they just sat in the queue.  It was often much easier to press a button on the UI and wait your turn.  Over time, I feel a lot of people who played WoW for the social interaction, lost touch with those friends just as I have, and quit, often leaving yet more people without people to play with.
+
+The dungeon finder system was such a great idea, but ultimately it has a huge drawback.  You are depersonalized even moreso within the system because there is no need to ever communicate with the people you run dungeons with ever again.  This leads, ultimately I believe, to people quitting the game not because the game has somehow bored them, or because they've mastered it...but rather because there is no incentive for those friendships to exist.
+
+After playing, non stop -- without a single months missing revenue from me since the release of WoW, I have actually quit playing and cancelled my account.  I miss it, but not enough to come back.  I honestly think this is also why Blizzard is hemorrhaging so many customers at the moment.  However, I believe there is a way to change it.
+
+Blizzard has already altered the dungeon finder to attempt to find people from within your own realm, and match you with them.  This is a great start.  However I have a couple of ideas of my own as well.
+
+First off, the premium-feature for RealID inviting friends to a cross-realm group to queue for dungeons, should be changed to a non-premium, and friend based invite system which spans all realms.  The friend system should be expanded realm-wide much like the RealID system currently works.  This will work for blizzard better than the premium subscription based service and will ultimately foster friendships and more people playing WoW.  This works better, because I feel over time, more people will continue their subscriptions, and also transfer servers more often in order to join their newly found friends. (Thus resulting in more revenue than the premium-system would bring in)
+
+Secondly, I feel that grouping with people from a like-realm, should grant you some sort of 'head start' within the LFG system.  This may sound good in theory, but may not work in practice.  The first suggestion I had may solve the problems all by itself, rendering this idea worthless.
+
+I also feel the fact that it's almost impossible to form a new guild is causing a lot of the same problems, but I'll save that for another post.
+
+What are your opinions?  Have many of you stopped playing also because it seems harder to establish friendships within your realm?
+
+**tl;dr**: Dungeon finder makes it less of a necessity to acquire and establish friendships within your realm and thusly  is making a bunch of people "bored" and quit the game because they don't have any more friends to play with.  Blizzard should allow cross-realm group inviting and cross-realm friends lists in order to accommodate new friendships.  **Without an extra $3.99/month fee in order to use the new cross-realm inviting system, and without having to use RealID (which random people from LFD are reluctant to share)**
+
+*for idiots skimming:* I'm not saying dungeon finder is a bad thing (hell, it's quite possibly the best single feature that has ever happened to WoW at all), or *blaming* anything here...I'm merely saying they need to open up the LFD system for cross-realm inviting and they also need to make friending outright cross-realm as well for facilitation of that.  I've also done the raid thing basically my *entire WoW career*, I've cleared every raid WoW has available pre 4.2, to the point where the guilds I am in, log in on tuesday...clear everything...and didn't log in until the following tuesday.  You don't exactly make strong friendships in these types of guild.  It's raid...then you don't see anyone for the rest of the week. 
+
+
+
+
+
+
+
+
+
+ http://www.reddit.com/r/DIY/comments/iqwew/i_cant_poop_in_my_bathroom/ 
+
+
+
+
+ Most projects, engines, bindings, etc seem to get 1/2 way finished and then abandoned.  Any articles that do exist are way out of date.  Are there any worthwhile game engines (that actually have some documentation?!) that focus on 2D?  Why does this area of python programming seem like a ghost town?  Is there something I'm missing? 
+
+
+
+
+ or making an alternative to them?  I am far too stupid. (read: Uneducated in C, Pyrex, Cython, etc)  I managed to get as far as pyrex generating a .c file and then spewing 96 or so errors at me once I tried to compile it.
+
+Initially there was an error, "Cannot assign type float to short" so I changed line 525 from
+
+    decShorts1[i] = decFloats1[i]
+
+to
+
+    decShorts1[i] = shortdecFloats1[i]
+
+in the speex.pyx file.  It generated afterwards, but fuck if I know if that *actually* worked or not.
+
+Now I'm getting errors about missing python.h, bla bla bla, I'm sure I don't have the proper development environment setup for this, and I'm not sure I'd really even know where to start.
+
+I know most of you are very busy, and probably don't have the time on your hands for such a thing for a lowly peon such as myself, and I don't fully expect anyone to pick this up -- but I figured it couldn't hurt to ask.  Worst that happens is I get downvoted into oblivion.
+
+I'm using Python 2.7 on Windows, if that matters.  If anyone happens to take up the challenge, I thank you in advance.
+
+Source available here:
+
+http://www.freenet.org.nz/python/pySpeex/pySpeex-0.2.tar.gz
+
+Or if it's easier, an explanation of how to compile this myself wouldn't be bad either.  Maybe I can trod through it. 
+
+
+
+
+ http://pastebin.com/NcUURvXC
+
+Am I doing this right? (Ignore Iterator...it does nothing.)
+
+Is there a better way?
+
+If I split MainMenuState/IntroState into their own file, would it even be able to find the global variable? (I know global vars are bad.  Bad bad bad...)
+
+Can I allow my game states to change the state of the program without using a global?
+
+Edit: If possible, please don't just provide a link.  I've read a bunch of different state-machine stuff and it's just not clicking with me yet. :( 
+
+
+
+
+ Or is this something that doesn't work yet? -- I know Pyglet works, but I can't seem to find any information on getting PyGame installed (I've got pip installed, but it seems to error out on installing PyGame under PyPy)
+
+btw: Windows machine. 
+
+
+
+
+ EEEbuntu is pretty much dead (their repo has gone missing), so is the Aurora project.  I really don't feel like dealing with the hassle of running Arch on this thing, but what was really great about EEEbuntu/Aurora was the unified manager that was included.
+
+Are there any distros that properly sleep, properly hibernate, properly turn off the synaptic touchpad when typing, support the multi-touch functionality of the touchpad (pinch to zoom, etc), can toggle wifi without breaking it, actually have the function-keys usable, properly shuts off screen when lid is closed, etc? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The launcher is only one tiny little part of these manufacturer skins.  Just because you use LauncherPro, or ADW, or GoLauncher or whatever launcher you use -- doesn't mean the rest of your phone isn't affected by Sense/TouchWiz/Motoblur, etc.
+
+When manufacturers build these custom skins, they change a lot.  They change everything from graphics, to hardware level drivers, to the phone application, contacts, the underlying framework, notification bar, lock screen and even running services.  The only way to get rid of these is to install an AOSP (Android Open Source Project) based ROM (CyanogenMod is the most popular). -- Even if you use a custom dialer, custom contacts, custom music player, etc you still haven't gotten rid of that skin.  It will always run in the background.  Since it's part of the framework, you can't even get rid of these things individually if you so wished. (For example if you got rid of the phone application on a sense rom and replaced it with another dialer app, your phone app would force close)
+
+I've seen a ***LOT*** of people who don't quite seem to understand this in /r/Android and it just creates confusion and spreads misinformation.  I am just posting this in an attempt to clarify some android-related subject matter... 
+
+
+
+
+ What's the best way to "broadcast" something to multiple classes which inherit (for example) a move function?
+
+I'm trying to make it so in my RPG; if I press left, right, up, down -- each of the character objects gets passed in the event -- I am trying to be nice and clean with all my code, and I'm wondering if there is a way I can avoid having to call each instance of each class in order to send a message (so to speak).
+
+Or maybe there's a way to get a list of all the instances which inherit said superclass and go through a loop to pass the event/message? 
+
+
+
+
+ I've got a 2tb NAS box, that honestly, I just fill with whatever I can fill it with.  It's starting to get kinda full.  I don't know what to delete, or what not to delete and I'd honestly rather not even think about it.
+
+Are there any programs, or filesystems that would allow me to just throw files at this machine and have it automatically delete whatever is the oldest-accessed item or maybe the least-accessed? (I wouldn't want it to delete a movie I haven't watched in 5 months, but that has been watched every 6 months for 5 years previous for example) 
+
+
+
+
+ Disclaimer: Python/PyGame, Attempting to code a JRPG from scratch, No expectations on this being a small or quick project, No Engine, doing it for the learning experience.
+
+I know how to animate objects in pygame, I know how to do graphics in pygame, I know how to do basic collision detection and have worked through so many pong clone tutorials now that it's not even funny, but once I start getting into object-oriented territory I find myself hopelessly lost and there's really not any good information on the net in regards to how I would lay out a fully fleshed out game.  Everything I come across is imperative programming, with no object oriented-ness to it except in regards to inhereting the pygame sprite object and animating that way.
+
+Right now, I have a "Game" class, which has \_\_init\_\_, handle_input, update, render, and run (my game loop).  I know probably the first thing I need to start on is the game state management, but I'm not sure if I'm laying this out the right way.  I expect that I'm actually putting *too much* code into 1 class and not abstracting it enough.
+
+Here's a pastebin of what I've got so far : http://pastebin.com/kQTR2mB3 (hint: It's basically just the standard PyGame skeleton and nothing else). The hiccup I'm having is abstraction.  I've done OO a bunch, but haven't really done much inheritance (at least, not within my own code.  Inheritance I've had to deal with was just inheriting classes from an API such as wxWindows).  How do I go about laying this thing out?  I haven't even thrown fill/blit/update/flip calls into my code because I don't want to have to rearrange it all later.  I'm not really caught up on the "how do I actually make things work" part...but rather the..."How do I arrange this?" part...
+
+Any help would be appreciated on understanding how this is normally abstracted.  Ditto as far as game-state management goes as well...
+
+As far as characters in the game world, I've seen things done a bunch of different ways.  I've seen one person code their main character, then abstract out NPCs and even sub-characters from the main character...then in another game, I saw the exact opposite.  A general "Character" class, with NPCs being given their own 'wander' AI for wandering the city, the main character also inherited this class, but movement was keyboard driven.  I like the "Character" class, with the main character inheriting and extending this class but I'm not even to that point yet.  I need a better idea on how I should be organizing to facilitate game state management, etc... 
+
+
+
+
+ Just discovered these bad boys.  I am amazingly ANAL when it comes to box depth, the plugs sitting at the right depth, and the cover plate not floating or being tugged into the wall.
+
+Have been replacing the electrical in this 1960s house in my spare time for about a week now (while also re-building the kitchen, re-plumbing too) and have now replaced about 7 boxes.
+
+http://www.homedepot.com/buy/electrical-electrical-boxes-conduit-fittings-boxes-brackets/carlon-1-gang-21-cu-in-adjustable-electrical-box-182136.html 
+
+
+
+
+ https://market.android.com/developer?pub=Emulators+Games
+
+Shark SNES Emulator, Panther SNES Emulator, Hamster SNES Emulator, Eagle SNES Emulator, Scorpion GBC Emulator, Viper GBC Emulator, Tough SNES, Rough SNES, Hawk SNES, Jaguar SNES...the list goes on and on for about 7 pages
+
+Looks like a target to avoid...
+
+If any one knows of a good way to get this guy off the market, please attempt to. 
+
+
+
+
+ There are some really messed up things that sometimes happen in the hardware with Android phones.  Things like the Xperia Play having a headphone jack on the side of the device (which makes it horrible for pocketing when listening to music)
+
+What are some hardware guidelines that you would like manufacturers to follow?  I'll list a couple of my suggestions:
+
+* Headphone jack on top (or bottom) of device. (Pocketability)
+* Notification LED on all phones.  Nobody should be able to skip on this. (It adds virtually no cost and is one of the most useful features on Android!)
+* If there's a kickstand: Charging/USB-port on top or bottom of device. (Putting the port on the same side?  Wtf is with that?)
+* Recessed Sleep/Wake button (Prevent accidental power-ons in pocket.)
+* A unified Menu/Home/Back/Search layout would be nice. (but not really necessary.)
+
+For those of you saying Google shouldn't do any of this: Google already has both [Software and Hardware Guidelines](http://static.googleusercontent.com/external_content/untrusted_dlcp/source.android.com/en/us/compatibility/android-2.3-cdd.pdf) in place for manufacturers to adhere to. 
+
+
+
+
+ I have completely forgotten its name or any portion thereof, the best I can do is explain the gameplay of it:
+
+Back in the AOL days, when 28.8k modems were the best you could buy, I had what I'm guessing was a DOS game, because when I fired it up it swapped resolutions on Win 95/98.  This game was a flying game, but it was 2D, top down.  Graphics were slightly pixelated but you could have called them 'high res' for the time they were in.
+
+The game was amazingly smooth, and a lot like
+
+http://www.classicgamesarcade.com/game/21621/Raiden-Space-Ship-Game.html
+
+But better graphics, the controls were WASD + Mouse (wasd controlled propulsion of the ship), the mouse pointer controlled the rotation of the ship (ship pointed at a little targeting marker), and there were maps you had to go around and grab keys, or destroy enemies to get to the next zone.  The ship could either grab powerups, or they were purchasable (I can't remember that detail) but there were a LOT of them, I remember that much.
+
+A lot of the maps were jungle-themed...lots of trees, lots of little places where it didn't look like you could fly, but were able to fly 'under the canopy' to get to, usually by discovering the reverse side and seeing some empty spot.
+
+Does anyone else remember a game like this? -- I've searched for 3 years using varying terms, and cannot seem to find anything even remotely similar. 
+
+
+
+
+ Or anyone know of any libraries which would help me start making one?  Specifically some sort of speex binder library that's actually up to date? (The latest one I can find is nearly 8 years old.) 
+
+
+
+
+ I "know" python.  I'm still an amateur but I'm nowhere close to freshly minted anymore.  I'm really interested in diving deeper but I don't have any itches to scratch (which has typically fueled my learning expeditions) except for my love of gaming.  I know there are a couple of things I need to learn if I want to be a good coder:
+
+Code management.  SVN/Git or some sort of code management -- anything out there that isn't simply a list of commands but maybe teaches you some sort of work flow, how to deal with multiple maintainers, etc?  GIT is a preference, seeing as a ton of projects are migrating over to it from SVN...
+
+Code organization.  Most of my code has been single-file, less than 300 lines of code.  I know that upon scaling up I will need to organize and learn how to utilize code efficiently across multiple files -- this seems like a deeper understanding of python and I've run across some terms that I am pretty sure are part of this, such as "name mangling" (in order to avoid naming conflicts I assume) etc; Any good resources for this or once my code just gets unwieldy enough do I just start splitting portions off into their own .py and importing them?
+
+Math.  Gaming requires a lot of math -- I've done a bunch of stuff on Project Euler but none of it teaches me the concepts I really need, it just teaches me to think in a logical manner and figure out a problem.  Linear Algebra is what I've been told I need to learn (and obviously geometry as well later on) -- what is a good source for this in relation to python?
+
+Other actual game-related concepts/methods of operation, etc -- I know about InventWithPython -- I didn't learn via that method so implementing some of the earlier stuff is a bore and it kind of stops short of doing anything interesting.  I will go through it anyways and code up the examples but where's the juicy stuff as far as tutorials, and learning online?  Tile-based map handling (both character restricted to the grid and non-grid restricted movement)?  AI?  User Interface?  A couple of ideas are an RPG (how typical of me!), I've also thought of doing a [zuma](http://www.popcap.com/games/free/zumasrevenge) clone, maybe a [PvZ](http://www.popcap.com/games/free/pvz) clone, or a [Robot Unicorn Attack](http://games.adultswim.com/robot-unicorn-attack-twitchy-online-game.html) clone...libraries with good documentation for this kind of thing would help a lot as well.
+
+p.s. Posting in /r/Python because I tried /r/LearnPython and didn't even get the sound of crickets. 
+
+
+
+
+ Upgrading the panel in a house from the 1960s.  None of the panels available had a main shutoff breaker in them.  Is it  possible to add one separately to the panel I bought before I go and start rewiring this house? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

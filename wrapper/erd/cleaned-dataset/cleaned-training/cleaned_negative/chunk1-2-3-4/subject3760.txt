@@ -1,0 +1,4538 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm looking to upgrade a Mac Pro 4,1 with at GTX 970. Mac Pro has 2 x 6 pin power supply leads which provide 75 watts each, so I'm wondering if anyone is aware of a GTX 970 variant which accepts 2 6 pin power leads rather than a single 8 pin. 
+
+Have tried an ASUS Strix with a 6 pin to 8 pin converter, and it works but the card doesn't run anywhere near full power. Novabench scored it at 189 when other similar cards score in 1400 range. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Graphics card are not my strong suit, so I'm not certain if I should buy the [Palit](http://www.amazon.co.uk/Palit-Nvidia-GeForce-Graphics-Express/dp/B00NPRH3P0/ref=sr_1_4?ie=UTF8 qid=1423792473 sr=8-4 keywords=gtx+970), [MSI Twin Frozer](http://www.amazon.co.uk/MSI-GTX-970-Graphics-Express/dp/B00NOP536Y/ref=sr_1_1?ie=UTF8 qid=1423792473 sr=8-1 keywords=gtx+970), [Superclocked EVGA](http://www.amazon.co.uk/EVGA-GeForce-Superclocked-Cooling-Graphics/dp/B00NSXYEQW/ref=sr_1_5?ie=UTF8 qid=1423792473 sr=8-5 keywords=gtx+970), or [somthing else](http://www.amazon.co.uk/s/ref=sr_nr_p_76_0?fst=as%3Aoff rh=i%3Aaps%2Ck%3Agtx+970%2Cp_76%3A419158031 keywords=gtx+970 ie=UTF8 qid=1423792306 rnid=419157031). UK Buyer with c. 300 to spend.
+
+Not a daily gamer the main purpose is to drive a triple monitor setup for CAD and graphics work with a few hours Borderland 2 and similar. Other cards happily considered.
+
+Machine is a 12 core dual processor Xeon with SSD and 32Gb RAM. I currently have twin OC 9800 GTX+ in a non SLI setup, which lets the machine down these days. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ In an earlier post I mentioned that I'd been an F1 for the better part of four decades and that this period included Mansell vs Prost, Senna vs Prost, Hakkinen vs Schumacher, Villeneuve vs Pironi, Jones vs Reutemann, Hill vs. Schumacher and much more.
+
+Some of my favorite moments are [Mansell carrying Senna](http://www.f1fanatic.co.uk/wp-content/uploads/2011/07/1991_mans_asenn_silv.jpg) over the finish line in the 1991 British Grand Prix, [Hakkien overtaking Schui at Spa in 2000](http://youtu.be/-eE3gCy5zvM) and Lauda's title deciding 11th to 2nd comeback drive at [Estoril in 1984](http://en.wikipedia.org/wiki/1984_Portuguese_Grand_Prix)
+
+What are your favorite memories of seasons past? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Many people think that distribution of money is to blame for the troubles on the F1 grid. This is a brief explanation of how the money actually works (and why even distribution wouldn't make much difference to the mid-field teams).
+
+The profit is split 60/40 in favor of the teams (63% of 1.18 billion in 2012 and around 60% of 1.4 billion in 2013). The remainder is then split again into two types of payment and distributed among the 11 teams after Ferrari receive an ex-gratia payment ( this was $17.5 million in 2013).
+
+- Category 1 payments which are shared EQUALLY if you finish inside the top 10 for 3 years in a row.
+- Category 2 payments which are based on racing performance but require being in the top 10 WCC at the end of the season.
+
+**2013 Distribution**
+
+- In 2013 10 teams received $34.12 million in Category 1 payments. 
+
+- Marusia didn't get anything because it had not yet had three seasons in the top 10. 
+- Caterham didn't get any Category 2 money because it was outside the top 10. 
+
+
+- Of the teams allegedly in trouble now Sauber got $58 million, Williams $51.2 million, Force India $64.8 million, Lotus $71.62 million. 
+
+
+- Of the bankrupt teams Marussia got $13.6 million, and Caterham $34.12 million.
+
+
+**Equal shares**
+
+If the fund had been shared equally each team would have received $62 million - which is not enough to make a serious difference to Sauber, Force India or Williams - in-fact Force India and Lotus would have received LESS.
+
+This is a big difference for the bottom two teams, but not much difference for the mid-field ones. F1 teams don't go under for the lack of a few million, they go under for the lack of tens of millions.
+
+**2013 Prize Money List** 
+
+- Red Bull $98.97m 
+
+- Mercedes $88.72 
+
+- Ferrari $96m 
+
+- Lotus $71.62m 
+
+- McLaren $68.22m 
+
+- Force India $64.8m 
+
+- Sauber $58m 
+
+- Toro Rosso $54.6m 
+
+- Williams $51.2m 
+
+- Marussia $13.6m 
+
+- Caterham $34.12m
+
+
+To provide some idea of costs, Caterham is spending $60 million a year, Mercedes is spending $300 million. HAAS is entering in 2016 with a planned first season budget of around $200 million.
+
+The real problem is costs, and even then this only applies to teams that don't have any other underlying business backing the team. 
+
+
+
+
+ I'm in the market for secondhand card. 
+
+- It has to be NVidia (its destined for a Mac Pro and drivers are more widely available).
+- It has to be one card, or so cheap I can afford 2 - no SLI with OSX
+- It needs to support 3 monitor outputs.
+- I have a budget of 200.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've wanted a genuine Mac to replace my somewhat unreliable Triple Monitor Hackintosh for some time, and I've been looking at 2012 Mac Pro's for around 1300.
+
+However I found a 2009 4,1 2.66 GHz Quad Core Xeon/8Mb/GT 120 512Mb at a second hand store for 249, knowing they sell for 4 - 600 on eBay I snapped it up. 
+
+It benchmarks  around 8000, my existing system is around 12500. Because its the single core model the only economic upgrades right now are to the 4 core Westmere 3.33 W3580 and an NVIDIA GTX 780 6GB which come in at around 450 which means it will loosely match my Hackintosh minus USB3 and SATA 6Gb. 
+
+An upgrade to the 12 core model comes in at 500 with the graphics card and processor that tops out at 1050, at which point I may as well have bought the 2012 model which is better in some respects.
+
+Main pro is that it gives me a genuine Mac to fill in the gap while I save for a 2013 Mac Pro or better. Main con is the loss of SATA 6Gb and USB 3.0. 
+
+Help me out Reddit what would you do? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Confirmed by the [FIA](http://www.formula1.com/content/fom-website/en/latest/headlines/2015/3/germany-dropped-from-2015-calendar.html)
+
+- March 15 Australian GP
+
+- March 29 Malaysian GP
+
+- April 12 Chinese GP
+
+- April 19 Bahrain GP
+
+- May 10 Spanish GP
+
+- May 24 Monaco GP
+
+- June 7 Canadian GP
+
+- June 21 Austrian GP
+
+- July 5 British GP
+
+- July 26 Hungarian GP
+
+- August 23 Belgian GP
+
+- September 6 Italian GP
+
+- September 20 Singapore GP
+
+- September 27 Japanese GP
+
+- October 11 Russian GP
+
+- October 25 USA GP
+
+- November 1 Mexican GP
+
+- November 15 Brazilian GP
+
+- November 29 Abu Dhabi GP
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A decade of attempts to prosecute Patrick Head and Adrian Newey failed to clear up the cause of the accident - IMO we would have been better off without a prosecution looking for fault. In the years that followed the conspiracy theories surrounding the crash muddied the waters enough that anyone with a genuine interest in what happened couldn't ask even the simplest question about it and get a sensible answer. 
+
+The broad conclusion seems to be that the last minute modifications that Senna had requested to the steering column were badly executed, failed, and that caused the accident. Williams contend that the column failed on impact - but there was certainly some kind of cover up involved given what happened to the [black boxes](http://en.wikipedia.org/wiki/Death_of_Ayrton_Senna#Trial). That said there were certainly other factors both sporting and otherwise involved. At least three of the cars in that race, particularly the Benneton that Senna was racing, were running [illegal software](http://en.wikipedia.org/wiki/1994_Formula_One_cheating_controversy), there are some questions over the tyres and the condition of the circuit - but accidents are never caused by just one factor. 
+
+For me the worst part is that had the angle or speed of impact been fractionally different he probably would have survived, just as the 4 other drivers who had 180 mph crashes just there did. 
+
+The files from [the trial](http://www.ayrton-senna.com/s-files/trialidx.html) are worth a read, particularly the testimony from the 4 other drivers that crashed at Tamburello in the years preceeding the 94' accident, and its also worth reading [Beatris Assumpcao's](http://betisesportsworld.net/2014/05/01/senna-what-bernie-really-said-to-leonardo-senna/) (Ayrton's PR) first hand account of the conversation between Bernie and Leonardo Senna after the accident (bear in mind only one person in that room was a native English speaker). 
+
+
+
+
+ Well, its informative at least. The main point behind it was to highlight the cast of characters involved in the race - and it was a great race. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh pretty much. This same fight has been going on since the sport began. Complaints are always the same - costs too high, too many rules, bad rules, dominant driver 'boring', dominant team 'boring', rules making body evil, people in charge demonic, money/tyres/engines ruining the sport etcetera, etcetera.
+
+Its all happened before, and will happen again. 
+
+
+
+
+ At the point both of those were written no one would have predicted HAAS becoming a Ferrari B team. Things change. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The wisdom in this sub seems to be that HAAS will be back of the grid, but looking a Sauber's performance this year I'd suspect mid-field, and aiming to challenge Lotus in a couple of seasons. Heck looking at Sauber this year, they could buy their 2014 chassis and still be mid-field with the Ferrari engine.
+
+Equally interesting is the idea that they might partner with Dallara on a chassis - which could spell the beginning of a true customer car effort for F1.
+
+I can't see why Raikkonen would go there unless he is very desperate for a seat, I also can't see why HAAS would need to pay that much for an experienced driver when there are many cheaper experienced driver options. Then again Hill went to Jordan - stranger things have happened in F1. 
+
+
+
+
+ I agree, and I've advanced the same argument myself regarding family tickets because I'd love to take my kids to Silverstone. To do that I'm looking at 350 in tickets, 400 for accomodation, at least a 70 tank of fuel and spending money on top of that. All up it's around 1000 - 1200 for a race weekend. Average earnings are around 475 a week.
+
+A 1991 general admission ticket for Silverstone cost me 35, plus 60 travel, 50 for accommodation, and then spending money. At the time I was earning about 250 a week. 
+
+So the price has increased substantially, obviously, but it wasn't exactly cheap to begin with, and having worked at Silverstone for a decade marshalling stands I can't honestly say that motor racing fans in general are working class - we're not NASCAR.
+
+TV is expensive - 700 per year for a sky package - or 139.80 a season for Now TV, and I do think it puts fans off, but it also pays for the show. Its easy to make the argument that anything is too expensive, because everything is, but we do have to face the financial reality of the sport. 
+
+
+
+
+ He's a pretty good guy and loves the competition. He seems to be loving the competition with Alonso, even if the car sucks.
+
+Fascinating insight from him about Hamilton considering how closely they raced at McLaren. 
+
+
+
+
+ Theoretically, yes, but they still have to deal with this season's costs. They're not going to turn down sponsors and money. 
+
+
+
+
+ They just announced a 40 million loss, any revenue is helpful.
+
+I like Hulkenberg, but they have a tradition of pairing rookie's with more experienced drivers and, sad as I am to say it, I don't see what they would get from Hulkenberg that they couldn't get elsewhere for less money and the prospect of a longer career in the team. 
+
+
+
+
+ Godaddy is leaving NASCAR, and they'll be sponsoring her personally rather than the team she drives for after leaving. They're focussing more on international markets - which makes some interesting possibilities!
+
+I hope Speed stays where he is and I'd love to see JEV back in an F1 seat, but I suspect with the 600lb Gorilla that is Merc behind him that Wherlien will find a drive quickly. 
+
+
+
+
+ Thats a truly absurd one. 
+
+I'm quite interested in the idea of Danica Patrick to HAAS, would shake things up quite nicely. Certainly create some positive noise and controversy in the USA market, which will only help bring fans along.
+
+Mercedes are very keen on Pascal Wherlien since they funded Force India's testing to get him some kilometers - he'd have to be in the running if Bottas left Willams, or for the other HAAS seat. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "But you will see a more determined Lewis at the next race. I remember with Lewis that when we had a tussle in a race or there was an issue between us or with the team, he would have a really bad race and be quite outspoken and emotional. And at the next race he would destroy me. He would come back stronger than ever."
+
+"Initially, he is an emotional character, and he will be quite hurt, but he comes back strong. After a bad race he would arrive at the next one very quiet, and then go out and blitz it. He will do the same in Canada - he will probably be untouchable in Canada. And he likes the circuit."
+
+There are quite a few variations of partial quotes knocking around the media sphere but that's the most complete one I could find.
+
+http://www.ibtimes.co.uk/formula-1-button-predicts-hamilton-will-destroy-rosberg-canada-after-monaco-rift-1450272
+
+http://www1.skysports.com/f1/news/24181/9327816/jenson-button-feels-an-unhappy-lewis-hamilton-will-be-untouchable-in-canada 
+
+
+
+
+ This is the peak of Rosberg's F1 career - he has the best car, the best engine, the best team, and enough money to buy the best trainers and sports psychologists. 
+
+Every advantage you could want as a driver is his - his future is entirely in his own two hands. So, while I do feel some sympathy for his obvious difficulties, its not a huge amount. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ True. But its also not an uncommon setup Renault are based at Viry-Chtillon for example. Mostly I suspect they would want specialised facilities and a place to house their backroom staff in Europe. 
+
+
+
+
+ I suspect Lewis knows what's up already. As one commenter put it yesterday, he is in God Mode right now. 
+
+
+
+
+ Jensen said that if he beat Lewis, Hamilton would be quite emotional after the race, then simply "destroy" him the next time out. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Likely as not McLaren don't have the facilities they need - Mercedes did their engine development at a separate facility. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Why do you post so consistently like a Rosbergette then? 
+
+
+
+
+ I post positive and negative stuff about Rosberg, Hamilton and plenty of other drivers - there certainly is no 'campaign'! 
+
+You're just sore because the driver you like isn't winning the war. 
+ 
+
+
+
+
+ The team aren't allowed tell him where the button for that mode is anymore ;o) 
+
+
+
+
+ We all have. Hamilton's anger in losing is directed at himself and he uses that on the track the next time out, although sometimes it gets hold of him for long periods - but its an outward reflection of an inner disappointment.
+
+Rosberg gets pissed off at everyone else, does dumb stuff on track, plays tricks that backfire, and/or says something stupid, then lashes out looking for an external source to blame for his errors or lack of success. 
+
+Rosberg is supposed to be the engineer and thinker - but I can't see any evidence that is the case. As /u/cock-a-doodle-doo says, Lewis is in God mode at the moment, nothing Rosberg has in his arsenal is making a dent and blaming Lewis appears to be his only refuge right now. 
+
+
+
+
+ I'm beginning to think he has a preference for that type of car. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sad but true. Nico really needs figure out how to put up a proper fight or accept number two status - I don't think his head is anywhere near either of those things right now. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ See explanation here http://www.reddit.com/r/formula1/comments/33ozaa/are_you_enjoying_the_return_of_sparks_to_f1/cqn3cey 
+
+
+
+
+ "The purpose of making them out of titanium is threefold: Firstly, it's safer, because if they do come off they are about a third of the weight of the existing ones. Secondly, the titanium wears some 2-2.5 times more quickly than the metal currently used. Thus cars will have to be run a little bit higher to manage wear and teams won't be able to drag them on the ground quite as much as they have in the past. The third effect is that you will see a lot more sparks, which some people think will look a little more spectacular." **- Charlie Whiting** 
+
+
+
+
+
+
+
+
+
+ In the days without refuelling a car's weight would change drastically during the race. 
+
+To avoid damage to the underside of the car when it was heavy with fuel at the start of the race the teams employed magnesium strips between the rear wheels. These would wear away during the race leaving the correct floor profile once the car was light enough to run in optimum trim.  
+
+
+
+
+ Planks were introduced in 94' principally because of Senna's accident, the car's speed needed to be kept down for safety reasons. There are other factors too, no one really wants to fund the technology race stepped floors would bring with them.
+
+If you [look at the plank](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Honda_RC-F1_2.0X_bottom_Honda_Collection_Hall.jpg/1920px-Honda_RC-F1_2.0X_bottom_Honda_Collection_Hall.jpg) you'll see there are [metal parts in it](http://f1.imgci.com/PICTURES/CMS/24100/24139.jpg) - there have always been metal parts in it - its just that they didn't spark. 
+
+
+
+
+ We designed engines that output fantastic amounts of heat - the more powerful the engines became the more heat we had to deal with.
+
+Then we designed aero that streamlines the cars movement, but throws off extremely turbulent air.
+
+Then we discovered that a consequence of both was that you would destroy your tyres, and also your brakes, getting near the driver in front - you could barely establish tow anymore - so overtaking became impossible.
+
+DRS and narrower cars and rear wings are a technical solution to a technically generated problem. Push-to-pass is just another solution to the same issue. 
+
+
+
+
+ They simply changed the metal skid block in the planks to titanium rather than a heavier metal - it prevents the teams running the cars too low and it causes less punctures. 
+
+
+
+
+
+
+
+
+
+ I suspect he's thinking of the 60s and 70s when people would buy and old chassis and jump in for a couple of races.
+
+Would certainly enliven the driver market as it would open up a few more seats and allow some rookies to show their stuff. I don't think its a horrible idea.
+
+Caterham, Marussia, and similar teams have basically been in a separate F1 class for a very long time, improved reliability has robbed us of the heroic back of the grid podium drives that you used to get when the front four blew up or crashed out, so why not. 
+
+
+
+
+ According to [Charlie Whiting](http://en.espn.co.uk/fia/motorsport/story/167205.html) they're not just for show, the sparks are welcome side effect of a downforce reduction and safety measure.
+
+That said according to Brundle Sainz and Ricciardo have said you need to keep your visor shut when following other cars now - the sparks do seem more extreme than they used to be (edit: I'm wrong on this last [point](https://www.youtube.com/watch?v=OmgMxqZd9jw) thank you /u/AutoEngineer22 for the reminder).
+
+"To explain: the plank is the long bit of wood, the skids are bits of metal within the plank. The skids have formerly been made of a heavy metal, which has been very resistant to wear, and they put the skids around the points in the plank where thickness is measured. Planks have to start off at nominally 10mm thick and they can't be less than 9mm thick. However, we only measure them around certain holes in the plank. So they position the skids around those holes.
+
+"This metal is extremely heavy and when pieces detach they can be extremely harmful. We saw two punctures in Spa previously because of bits of this metal that lay in a kerb and caused damage. In a worst case scenario they could fly off and hit someone.
+
+"The purpose of making them out of titanium is threefold: Firstly, it's safer, because if they do come off they are about a third of the weight of the existing ones. Secondly, the titanium wears some 2-2.5 times more quickly than the metal currently used. Thus cars will have to be run a little bit higher to manage wear and teams won't be able to drag them on the ground quite as much as they have in the past. The third effect is that you will see a lot more sparks, which some people think will look a little more spectacular."
+
+edit: here is what [the plank looks like](http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Honda_RC-F1_2.0X_bottom_Honda_Collection_Hall.jpg/1920px-Honda_RC-F1_2.0X_bottom_Honda_Collection_Hall.jpg) on Honda's RC-F1 test car. Crashtor provides us with another example [here](http://f1.imgci.com/PICTURES/CMS/24100/24139.jpg). 
+
+
+
+
+ Its a cost reduction effort. One engine per race would quadruple the engine costs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I realise that's the meme on costs but where is the evidence that this is a new problem?
+
+Most say 'teams are going under' - since 1950 there have been 137 official F1 constructors, only 10 remain active and the median average constructor competes for 3 seasons, in 20 races, with 5 drivers wins nothing, and scores no points.
+
+'Costs are increasing' - In 2003 Jordan Ford's annual budget was around [$79 million](http://www.economist.com/node/2785546), in 2015 dollars thats $101 million, which is about the annual budget estimation for the mid-pack teams today, some are as low as $80 million. 
+
+Ferrari by comparison were spending $300 - $400 million in 2003, and they're spending around $250 million this year. 
+
+Overall that suggests that costs have slowed or remained the same rather than climbed as steeply as everyone seems to imagine.
+
+People also bang on about the race fee, but FOM has cut sweetheart deals for most of the old european circuits, and has covered Hockenheim's losses since 2009 to the tune of 27 million Euro. People act like the race fee is pure profit that is being drained out of the sport - again no evidence - F1's profits last year were $398 million on $1.6 billion revenue - most of the costs were money paid out to the teams. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Classic Senna move from Massa 
+
+
+
+
+ I honestly don't know how I missed it - first time I've ever been grateful for youtube follow up. 
+
+
+
+
+
+
+
+
+
+ Massa had the racing line and was more than half way alongside, Coulthard should have pulled out and gone for him at the next corner - he was running out of road and assumed Massa didn't want to crash. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "If he doesn't I'm going to kick three colours of shit out of the little bastard."
+
+Nice considering Coulthard drove into Massa. 
+
+
+
+
+ Everyone is a pay driver, its a distinction without meaning anymore, truth is it's been that way since the 70s. Getting sponsors, getting into a young driver programme, or both is now as much a part of the race as performing on the track. 
+
+Young drivers are having to form investment companies which sell portions of their future earnings to raise the cash to compete.
+
+Sponsors go to drivers and drivers bring them to teams for all but the top four. Alonso bought Santander to McLaren and Ferrari leaving them behind when he left. 
+
+
+
+
+ Which I've pointed out elsewhere in the thread. 
+
+But, the 5th engine was agreed in Malaysia according to Horner and is just a formal fax vote away. So in reality its going to be 3.8 (4) engines a race.  
+
+
+
+
+  20 races / 4 engines = 5 races per engine.
+
+German Grand Prix has been cancelled so its a 19 race season, not 20.
+
+ 
+
+
+
+
+ I imagine they were anticipating that coming along, and losing the German Grand Prix means they have one less race to manage, but that still means each engine has to last 3.8 races rather than 4.75 (obviously 4 and 5 races in practice).
+
+Its going to be very interesting to see how the end of the season plays out. 
+
+
+
+
+ Of new engines, sure, they'll still have re-conditions. 
+
+It also suggests that the might have some reliability concerns and some worries over Mercedes development rate. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Its actually quite a big difference in cooling. The helmet winglet disrupts airflow into the vents on the side of the airbox and the airbox itself, area's which have become very important since 2014. 
+
+RedBull actually tested wingless helmets this year to see if they could eliminate helmet lift some other way, but you could see the air displacement in flow-viz. 
+
+
+
+
+ http://www.reddit.com/r/formula1/comments/33dqa5/hondas_radical_formula_1_engine/ 
+
+
+
+
+ Yes, I missed the essential detail.
+
+People could always read the article, oh wait, this is reddit. 
+
+
+
+
+ Happy to see this story, many people tell me that drivers don't influence the design of F1 cars. Nothing could be further from the truth. 
+
+
+
+
+ Because they knew Ferrari had little chance of getting to Hamilton if he built a lead, but a 100% shot getting by Rosberg. Look at [the race strategy](http://www.jamesallenonf1.com/2015/04/could-raikkonen-have-won-bahrain-and-did-mercedes-leave-rosberg-at-vettels-mercy/) report, if Kimi had got into P2 in quali then he had a very decent shot a the win. 
+
+Nico wasn't racing Hamilton, or in with a shot at racing Hamilton.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ And Stuttgart. Marketing is marketing. 
+
+
+
+
+ It was McLaren's publicly stated intent to acquire another British driver, just as when Mercedes talked about buying a team they said they wanted an all German line up. 
+
+
+
+
+ Teams make marketing decisions, and its important within Germany that they're seen to be supporting German drivers. Its really no different than McLaren choosing an all British line up. 
+
+
+
+
+ They'll want at least one German driver, when they launched the team the thinking was an all German lineup, and Rosberg was the only available driver at the required level to partner Schumacher. If they replace Rosberg it'll be with Wehrlien assuming Vettel is unavailable. 
+
+
+
+
+ Equal status is about opportunity, not on track realities, it means the driver in front gets preferential treatment - the drivers job is to make sure he's the one in front. 
+
+Though, as we've seen in the last two races Rosberg has received pit priority when his strategy needed it, and so went ahead of Lewis. You don't hear Hamilton fans complaining about that... 
+
+
+
+
+ If you read the Nico [can't hide my 'disappointment' article](http://www.grandprix247.com/2015/04/22/rosberg-i-cant-always-hide-my-disappointment/) you'll find he says it is in his contract. Judging by his results against Schumacher it always has been. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He started from the pit lane and retired after thirteen laps. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Parade laps don't count you have to cross the start line after lights out . 
+
+
+
+
+ If you're bothered the information is on just about any F1 records site and on the wiki. Its hardly secret information. 
+
+
+
+
+ They'd seen the brake temperate issue from the very first lap, I don't know if they'd been told to expect it, but as I said, it wasn't that the didn't have any brakes, its that the brakes they had changed all of a sudden. 
+
+
+
+
+ Believe it or not he hasn't been in F1 long enough to break 150.
+
+His run started at Monaco 2008 and he's done 126 consecutive starts to date. 
+
+
+
+
+ Lewis, in his BBC interview, and Toto in his post-race on Sky, both said that the car does have brakes when the system is in failure mode, but that the pedal travel goes from short/hard to long/soft. 
+
+This is fine if you're expecting it, as you can drive to it, but Rosberg's went in the middle of the braking zone so he had no chance to adjust. Lewis remembered some kind of switch combination which managed to bring his back. 
+
+
+
+
+ Interestingly this is just about the only F1 top 10 that doesn't feature Schumacher, his runs at this record ended in:-
+
+- Italy 94' excluded for two races for ignoring stop go penalty and a black flag. 
+- France 96' with an engine failure on the formation lap.
+- Austria 99' missed 6 races with a broken leg. 
+
+
+
+
+ The mistake is at the website end - the quote in the title is from Max, I posted it earlier with the original title and got flak from the anti Jos circle jerk crowd, now I'm getting the opposite and downvoted to boot. Can't win! 
+
+
+
+
+ - Riccardo Patrese - 187 (BEL 1982  AUS 1993)
+- Jenson Button - 179 (FRA 2005  CHN 2015)
+- Fernando Alonso - 176 (FRA 2005  ABD 2014)
+- David Coulthard - 175 (BRA 1995  CAN 2005)
+- Nico Rosberg - 170 (BRN 2006  BRN 2015) active
+- Rubens Barrichello - 167 (GER 2002  BRA 2011)
+- Alain Prost - 160 (USW 1981  BRA 1991)
+- Mark Webber - 157 (FRA 2005  BRA 2013)
+- Lewis Hamilton - 152 (AUS 2007  BRN 2015) active 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yep:
+
+For the otherwise highly-impressive 17-year-old Max, it has been a frustrating start to his career with three car failures in four races.
+
+Maybe thats a record, the young Dutchman smiled wryly. Its a bit ridiculous. Of course Im worried about the future.
+
+I try to stay positive, but now my fist is hitting the table. This cannot continue, but I know they understand that too, Verstappen added.
+ 
+
+
+
+
+ I'm not disagreeing with your logic, but even the 'great' drivers have off years. There are a lot of reasons behind them, but I don't think you can genuinely separate driver from car from team.
+
+For me at least, its *team* sport - part of the race is getting into the good teams with the great cars and learning enough along the way to deliver on track. I've never bought the argument that you could stick any driver in a great car and they'd win - maybe because I've seen too many pairings that prove otherwise. 
+
+
+
+
+ Clark had his off year in 1966 coming 6th in the WDC with Team Lotus - he wasn't beaten by his teammate because he had 8 other drivers and three different engine manufacturers during the season. 
+
+Senna's worst year was 84', his first year, where he came 9th in the WDC. Just like Clark he had multiple teammates that year (3) so wasn't beaten by his teammate. 
+
+Teammate comparisons don't really hold, because its only recently teams have equivalence - most of Senna's teammate's were not anywhere near his class - just reliable number twos. 
+
+
+
+
+ I wish more people understood this point. 
+
+
+
+
+ James Allen produces a race report every tuesday after the race that contains this kind of information. Weirdly few people seem to be interested in it. 
+
+
+
+
+ Consequence of a powerful engine and fast car IMO some of the reasoning behind the new wing is keeping turbulent hot air away from the tyres. 
+
+
+
+
+ Toto also pointed out that they saw the brake temperature issue right from the start of the race, so keeping the pace down would likely help keep the brake temperature under control. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm beginning to think its part of their fairness strategy. 
+
+
+
+
+ Its going to make Canada very interesting. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Strongly suspect a commentary career beckons for Mr Button when he's done racing! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He said they were dangerous himself yesterday evening. When Williams started to best him in Q2 I thought he had some kind of problem - it's his favorite circuit so I was expecting him to beat Lewis this time around. 
+
+
+
+
+ I'd argue that when they have a WDC winner in the number one spot they look for a reliable second tier driver to back them up in the WCC stakes. 
+
+But as I've said elsewhere Ferrari seem to have realised that their own orthodoxy is getting in their way. All I'm really saying is that a younger generation's input into their engineering team would not be out of place - many other teams seem to benefit greatly from it. 
+
+
+
+
+ Actually a season long qualifying competition isn't a bad idea. There is a pole position trophy already so it might be fun to spice it up. 
+
+
+
+
+ So Hamilton took his 4th pole of the season and Rosberg got beaten by Hamilton, Vettel, Bottas and Raikkonen at various points in todays sessions. Ouch. 
+
+This happened at his favorite circuit and one he's been on pole at two years in a row. Double ouch. 
+
+
+
+
+ 'Shut up and drive' never had more meaning for an F1 driver. 
+
+
+
+
+ "I want the Ferrari's to be closer" - famous last words. 
+
+
+
+
+
+
+
+
+
+ I think, since its Williams Martini, rather than Martini Williams, that they're making a smaller contribution than one might expect. I'm certain they don't have an ownership interest in the company, as Williams is publicly listed. 
+
+
+
+
+ Ordinarily I'd agree, but I think Ferrari may have realised that 'their style' is actually a problem for them and so they need to question their own orthodoxy.
+
+Its been pointed out by a number of pundits and commentators that the new drivers have a somewhat different style, 'feel', and approach to racing lines than most of the senior field. I think some of that is down to their having grown up lionising the attacking styles of Hamilton and Vettel rather than the more fluid (in the corners) Schumacher. 
+
+Equally Red Bull and McLaren have done very well out of fast promotions, Ferrari not so much, so I suspect they'll be having a conversation about getting the next generation in the door early on. 
+
+
+
+
+
+
+
+
+
+ I've always thought that it wasn't bad luck that Alonso has ended up with the cars that he did but poor feedback from him, and a preference for difficult suspension geometry. 
+
+
+
+
+ I'm so disappointed that JEV didn't get an F1 drive!
+
+So yeah, I'd see him in a Ferrari seat alongside Vettel. It's going to be interesting to see who HAAS take and I can see Lotus abandoning Maldonado which would create some more seats.  
+
+
+
+
+ I'm sure he's also in the frame! It's not an exhaustive list. 
+
+
+
+
+ I didn't see any sector times in China that couldn't be explained by tyre deg or strategy. F1 isn't, and never has been, about pure speed, it's really about carrying speed through the corners better than the opposition. That's what Red Bull were very good at. 
+
+
+
+
+ Drivers have a lot more input into car development than most people on here seem to appreciate - drivers move car development as much, if not more so, than car development moves driving style. 
+
+It's also a challenge to build a team around you, as a driver, that can deliver reliability and win.
+
+ 
+
+
+
+
+ I don't think that's fair looking at 2008, and the number one driver situation at Ferrari has been true for decades. Any driver going in there knows where he stands.
+
+Kimi's 35, even he wasn't sure he wanted to race longer than 2015, and he's been happier at Ferrari than any other team. 
+
+
+
+
+ I'd like to see him outrace Massa consistently but he and Ricciardo  would definitely be in the frame. 
+
+
+
+
+ Too much is made of the Hamilton/Ferrari possibility. 
+
+There are plenty of other young drivers worthy of Ferrari's consideration, that Vettel would be compatible with, that would save money in the short term and deliver in the long term. Organisationally they are focussed on the next 5 years, not the next two. 
+
+Verstappen springs to mind, as do several GP2 drivers like Stevens and Wherlien. The younger generation of drivers are really quite different in style than the current senior generation and Ferrari need that input. 
+
+
+
+
+ I do. 
+
+Aside from the fact that Red Bull are *notorious* for making late decisions about driver line ups, there is a straight commercial advantage in ensuring drivers don't take their secrets to other F1 teams. Looking at the way they've played the Renault situation it also fits with the way they think about going racing.
+
+Leaks were a big concern of RBR's when Vettel left and Prodromou departed for McLaren - an entirely justified one as this season has demonstrated so far looking at McLaren's front wing and chassis - but its now obvious that Red Bull have problems deeper than the PU.
+
+It's also worth pointing out that the brain drain from Ferrari over the 2010 WDC benefited Mercedes enormously, and it's a straight line from there to Mercedes 2013 success - Mercedes real innovation was getting the chassis right. They already had the most powerful engine in the two years before 2013. 
+
+In essence Ferrari fired the wrong people in their rush to find someone to carry the can for their 2010 failure, and avoid blaming senior management or the drivers, as was finally noticed at the end of last year. Equally Red Bull appear to have a blame culture problem that extends from the very top of the organisation down. 
+
+
+
+
+ I can imagine Webber is - he never struggled for an opinion! 
+
+
+
+
+ Its a pity that you don't. Although I really enjoy Brundle's commentary I'm beginning to find Crofty at little irritating.
+
+Part of me hopes that Button will take up commentary when he retires - he always has sensible, well informed, things to say. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ He did, and as I say, I don't want to take away from Ricciardo's achievements, which are many and impressive. There is an unfortunate tendency these days to view saying that, for example, Hamilton is a 'historic' driver as implied criticism of Rosberg - when it isn't. A fast glance at the F1 driver record books is enough to settle that debate.
+
+I haven't lived in Aussie since 2005, but I do remember Murray Walker doing a Channel 10 special with Alan Jones on one of that era's races - perhaps it was just a special. Since I was travelling at the time I wasn't really in touch with TV. 
+
+
+
+
+  It's not just the recession, it's the fact that the budgets have climbed so high that nobody wants to pay for the majority of the budget through sponsorship.
+
+Nonsense. In 2003 Jordan Ford's annual budget was around [$79 million](http://www.economist.com/node/2785546), in 2015 dollars thats $101 million, which is about the annual budget estimation for the mid-pack teams, some are as low as $80 million. 
+
+Ferrari by comparison were spending $200 - $400 million in 2003, and they're spending around $250 million this year. 
+
+Which, overall, suggests that costs have slowed or remained the same rather than climbed as steeply as everyone seems to imagine. 
+
+
+
+
+ Yep, on a circuit with two long straights Merc were always going to win if they made the right strategy calls. I was hoping Rosberg would do a better job at the start though and get closer to Hamilton in the opening laps.
+
+Interesting reaction from Rosberg to the Ferrari threat though.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ His manager walked into the F1 paddock in Spain, was asked a respectful question, and answered it. 
+
+How is that hassling the family on any level? 
+
+
+
+
+ Pretty damning indictment of old Ferrari isn't it? I thought he had been kicked out, but I guess this changes my opinion. 
+
+
+
+
+ That's usually how it works, they don't give it away for free, there is a payment of some kind involved but its often a promotional trade off.  
+
+
+
+
+
+
+
+
+
+ The last tyre war wasn't very good for the drivers or the sport, so I'm not convinced thats a solution to a problem the sport has. 
+
+Pirelli were asked to get us to three stop races, and they've done a pretty good job of meeting that target. Speeds always increase through time as the teams find engineering solutions to the constraints of the rules. 
+
+
+
+
+
+
+
+
+
+ Higher than you'd think, its actually a relatively common occurrence - Brundle said something along the lines of 'we've all experienced that and learned the hard way to throw them clear of the car' toward the end of the Sky coverage.  
+
+
+
+
+ Pretty amazing work from Merc save for Hamilton's balance issues.
+
+Ferrari seem to have completely fluffed the upgrade cycle, left themselves with no idea what works and what doesn't, and not made the expected gains as result. 
+
+
+
+
+ They were the first to press, its a direct quote from the manager rather than the paper, and you can find the same story with the same quote in dozens of other publications right now. 
+
+
+
+
+ Read about any of the top driver deals over the last couple of decades, those are the common terms. Price range will be with the confines of the Vettel and Alonso deals, give or take performance bonuses etc.
+
+Jenson was able to keep the BGP car because it was in his contract for example. 
+
+
+
+
+ Increased wear = heat = expansion. They're bound to be using a material that keeps any expansion to a minimum but even a small amount could affect the seating of the gun on the wheel fastening. 
+
+
+
+
+ Somewhere in the 120 - 140 million over three years range including performance bonuses, keep the trophies, keep any WDC winning car, media and sponsor work to a minimum - typical stuff for top drivers. 
+
+
+
+
+ Looking at the media speculation Hamilton's team are seeking a deal similar to Alonso and Vettel, the Mercedes board seems to be choking on it a little bit. 
+
+
+
+
+ And you won't, because both of those things are extremely unlikely given the type and severity of the injury.
+
+Looking at the media stories there haven't been any similar quotes from her since December.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ She said
+
+"There are small improvements, but the road is still very long."
+
+This a woman who is extremely close to the family and who has spent each day since the accident fending off almost any media speculation or stories about Schumacher. So for her to actually comment and say something positive (however small) is really good news.
+
+With the type of injuries suffered by both Schumacher and Bianchi all you can really expect are (very) small improvements. A member of my family, sadly a child, suffered serious brain trauma and it took four years for any real progress to manifest itself. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Try deleting the app downloading it again and restoring the subscription. This worked for me. 
+
+
+
+
+ What kind of device do you have it on - are you relying on wifi or cellular data? 
+
+
+
+
+ You have a source for that? I thought I'd seen his post drive chat with Button - was there an interview I've missed? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ted K mentioned this in his [notebook](https://youtu.be/yufbj7NWojA?t=13m35s).  
+
+
+
+
+ Since the potential field only includes people with 6 - 10 billion to spend I'm not confident there is a good solution. 
+
+
+
+
+ IMO testing liveries don't count! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They were all pretty huge, although the angle of the photo accentuates the size. I believe that at the time you had more choice of [rim size](http://www.smcars.net/attachments/formulas-png.81696/) because there does appear to be a wide vairiation amongst the cars of that era.
+
+The innovation was the mounting of the engine at 3.5 degrees to assist ground effect - something [copied more sucessfully by the Ferrari F10](http://www.auto123.com/en/racing-news/f1-the-striking-1979-arrows-a2-that-inspired-the-2010-ferrari-f10?artid=115830). 
+
+
+
+
+ He does, and he's had career long bad luck! 
+
+But he's amazingly quick - the other guys at the front of the grid hadn't even hit puberty when Kimi got his first F1 drive. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 6th 
+
+
+
+
+ You've missed the point of the entire discussion that was taking place. 
+
+
+
+
+ True, but more recently the wind-tunnel issues demonstrated where their real problems lay. 
+
+The engineers said we need a new 60% scale wind tunnel, management said make do with what you have. Basically the next four years were a write off! Management simply didn't understand the needs of the team - using alternative facilities whilst fixing their own basically cost five times as much.
+
+It's one example, but it highlights the problem. The decision makers just didn't get it. 
+
+
+
+
+ The whole reason that Schui was trying to bully his way past Wurz was that he wanted to chase Mika, he certainly thought he was in with a shot! Hakkinen made mistakes and had brake problems, if Schui could have put him under pressure then he might have forced an error.
+
+Schui had start problems for years - it was one of the biggest problems in his early career and something he worked very hard on, especially after 1995.  
+
+
+
+
+ Absolutely! For the first time in 30 odd years of watching I actually like the team. 
+
+They seem to have finally addressed the internal power structure problems that have dogged them since the 90s - all it took was the racing team sinking the flotation. I guess these issues were easy to ignore when they were winning with Schumacher. 
+
+
+
+
+ Well, it's killed a few engine components and had a credible attempt at munching on Maldonado. 
+
+
+
+
+ 6 points is almost half the deficit! That Ferrari also wasn't as good as the McLaren in fast corners and was hard on its tyres. He could have won Monaco had he shown more patience.
+
+You also forget Schumacher stalled it on the grid in Japan before the puncture. As I said, if he and the Ferrari had performed better he would have sealed it, but the car let him down and he made too many unforced errors. The DC crash hurt, but he had plenty of chances. 
+
+
+
+
+ You are correct on the points. But reliability really cost him, he had the championship in his own hands that year. 
+
+
+
+
+ He finished the season ~~24~~ 14 points down. Arguably his over aggressive attempts to get past Wurtz at Monaco, two mechanical retirements, three thirds and a fifth cost him the WDC rather than anything DC did.
+
+He and Ferrari had the championship in their own hands. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think the feeling was mutual, much like the antipathy between [Schumacher and Alonso](http://www.jamesallenonf1.com/2010/03/alonso-and-schumacher-renew-hostilities/). But taking Damon Hill out etc - he had an angry streak for a very long time. 
+
+Even as late in his carrer in 2010 he almost put [Barrichello](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8875352.stm) into the wall. 
+
+
+
+
+ He was far from cool as ice in his younger days. Quite the hothead for a few years. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Considering Ferrari fired Aldo Costa because Alonso lost the 2010 championship, and he went on to be the Engineering Director responsible for the W05 and W06, Mercedes might discover a sudden need for catering staff! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ It is, but choosing a new engine, and having one blow up are quite different. 
+
+
+
+
+
+
+
+
+
+ Fascinating read, thanks for that link!
+
+ 
+
+
+
+
+ Several reasons:-
+
+- Voting for this may allow them to make a deal on something they want now, or in the future.
+
+- The extra engine might be helpful to Mercedes.
+
+- Sporting considerations - everyone wants a competitive series.
+
+- Having several teams able to test new engines (which may have upgraded components compared to race engines) allows Mercedes plenty of room for development and curing reliability issues.
+ 
+
+
+
+
+ I doubt Ferrari are a serious factor in Mercedes decisions on this one because they seem to have good reliability, and Merc want/need the competition for the sake of the show. 
+
+Its more likely that Mercedes would be influenced by their customer teams needs. Down grid, RBR and McLaren are a potential threat to Lotus and Williams - both teams where money plays a more significant role and data gathering is helpful (though not dramatically so). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks. I was beginning to wonder about him! 
+
+
+
+
+ That's wide of the mark. His results look more like Alonso's than anyone else's - 2nd in the WDC four times, 3rd three times.
+
+He was a *brilliant* driver just without that tiny little extra margin, and he hit his peak at the same time as Fangio which didn't help.  
+
+
+
+
+  James Allison tried his damndest to keep Alonso
+
+He and Alonso have a relationship going back to Renault, but [I always thought that](http://www.bbc.co.uk/sport/0/formula-one/22470411) it was Alonso that wanted Allison rather than the other way around.
+
+James Allison starting at Ferrari on Sept 1 as chassis tech direc will likely help pacify a certain Spaniard today, bet the phone's been hot - Martin Brundle
+
+Of course Vettel had a stated preference for Kimi.
+
+Id prefer Kimi. I need to be careful now. Nothing against Fernando, I respect him a lot as a driver but I think I respect Kimi on track and off track because hes always been very straight with me and from that point of view it might be a bit easier. 
+
+
+
+
+ Seb's always talked of being a Ferrari driver, even when he was in the German BMW formula, there is an interview somewhere but I can't lay my hands on the link.
+
+Interesting though, I'd long suspected that Ferrari had an informal deal with Vettel [because of his relationship with Schumacher, and Schumacher's dislike for Alonso] that when he was ready to move they would open the door. This also confirms that Ferrari left Alonso rather than the other way around.  
+
+
+
+
+ Ah, no worries! 
+
+
+
+
+ Rabid?! I'm very fair and balanced when it comes to Rosberg ;o)
+
+Although if you severed me in two I'm pretty sure that underneath Formula 1 it would read Senna - Mansell - Hill - Hamilton - Button, then England Rugby. 
+
+
+
+
+ Stevenage is mostly a *very* middle class post war new-town (concrete and unpleasant). Its actually about an hour and a half away from London by road or rail. 
+
+
+
+
+ Jeez what a mess! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That BMW's next test driver would be a 4 time WDC, and Alonso wouldn't win the championship in the next 8 years. 
+
+
+
+
+ Haven't NASCAR implemented a similarly weird system now - only x number of races count towards the championship? 
+
+
+
+
+
+
+
+
+
+ I only bothered to downvote because you were being an ass. 
+
+GM School Bus Yellow is a shade of orange, not yellow, so you were wrong about that too. 
+
+
+
+
+ Ferrari just seem to have pursued a completely different car concept. 
+
+If I understand RBR correctly they relied on the short nose solution to deal with the turbulent air over the front wheels, couldn't get it through the crash tests, and the car is a dog without it. Hence their thinking that they will see major gains now they have it working. 
+
+Ferrari appear to have focussed on unleashing last years aero-compromised engine, improving the suspension geometry, and getting the cooling right, rather than expending staff time and money on the nose. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nice work editing the original comment and then deleting and reposting your reply. As is obvious to you now the context wasn't clear, hence my response.
+
+In actual fact one owner was told by a former McLaren mechanic to use ['GM School Bus Yellow'](http://paintref.com/cgi-bin/colorcodedisplay.cgi?style=print type=paint paint=79904 ditzler=2785 syear=1975 smanuf=GM smodel= sname=School%20Bus%20Yellow cols=simple rows=150) on his M6A - as you can see from the link it is the correct colour. 
+
+
+
+
+
+
+
+
+
+ To Torro Rosso - CASIO, and Pepe Jeans to Red Bull but the links are all on the site that cannot be named!
+
+His first team was BMW Sauber. He had a slightly unusual route into F1 through several German series, but I believe it was actually BMW that funded his test driver seat because they wanted a German driver for their own F1 team. Of course by the time he was ready they were pulling out. 
+
+
+
+
+
+
+
+
+
+ Thing is I don't see that Hamilton is putting himself in the spotlight in the way you suggest. You can't have a relationship with a major celebrity and not be in the spotlight no matter how hard you try. If you look at what he puts on instagram or twitter its pretty standard fair 
+
+
+
+
+ It was Ron's second F2 team, Project 4, that took over McLaren rather than the other way around. The MP4 designation [originally meant](http://en.wikipedia.org/wiki/McLaren#Sponsorship.2C_naming_and_livery) 'Marlboro Project 4', and was later changed to mean 'McLaren Project 4'. This only goes to show how deep the relationship with Philip Morris was.
+
+Even now their current logo is a [stylised version of the Marlboro Chevron](http://i.kinja-img.com/gawker-media/image/upload/s--usxchzXG--/c_fit,fl_progressive,q_80,w_636/18z0w45eftossjpg.jpg) - because that's what they're most remembered for. 
+
+
+
+
+ I was surprised! I knew Damon, Eddie Jordan (and I think DC) used to play pub rock together in bars after the races but I didn't know he'd recorded anything. 
+
+
+
+
+ I think they only had two cameras and shared them around at each race - the damn things were so expensive back then. 
+
+
+
+
+ Sorry. I was referring to his first F2 outfit Rondel Racing and the context wasn't clear - but you're correct, I got his age wrong, he was 26 at the time. 
+
+
+
+
+ No problem - my context wasn't clear in any case.
+
+My partner is Black as is my closest friend and as a result I've become more aware of the subtleties of racism, or what could better be described as racially motivated criticism, than I otherwise might have been. 
+
+Much of the commentary directed at Hamilton carries a tone of 'otherness' with it - its seeking to highlight aspects of his character, tone, style, and personal behavior that are different than what is perceived to be the 'norm' if you see what I mean. If you want to undermine something you raise questions of validity and highlight things that are seen as outside the mainstream of opinion.
+
+For example. You could say that 'Schumacher was a great driver, but not a great sportsman' - if you wanted to acknowledge the greatness but undermine the validity of his considerable achievements by attacking his character. 
+
+
+
+
+ My example wasn't specific to Moss's comments - I had meant in general, sorry if that didn't come across. 
+
+I'm also not labelling *any* criticism directed at Hamilton racist, much of it clearly isn't and I share your feelings on this. But, there is quite a lot flak sent in his direction over the gold chain he likes to wear, certain celebrity friends, flat peaked baseball cap, 'hip hop' (i.e. not specifically music but black music), etcetera. I do feel has a racial motivation behind it because, broadly, its highlighting behavior or ways of dressing that are common in the black community but not in others, and the tone of such commentary is always critical.
+
+Equally when you compare the media and fan treatment of Mansell, Hill and Button (basically national treasures in this country) with the way Hamilton is spoken about the contrast is quite stark. Hamilton is arguably the most successful British racing driver ever to have hit an F1 track, yet the validity of his achievements is constantly questioned in a way that other recent British champion's haven't been. 
+
+
+
+
+ Umm, the owners were Bruce McLaren and Bruce McLaren. In fact the first McLaren cars to appear in orange were their CanAm series cars, although they did make some customer cars for the series. 
+
+
+
+
+
+
+
+
+
+ The point is that such things are used as a form of criticism of Hamilton, as /u/jimbodeeny demonstrated above when he said:
+
+Probably something more like a racing driver Dan Blizerian than #blessed hip hop star Hamilton.
+
+This kind of thing wouldn't be said in the same way about a white driver, its being used as a 'dog whistle' for less pleasant language and is clearly racially motivated. 
+
+Damon Hill, for example, played guitar with George Harrison and Def Leopard while he was driving, in fact he appeared on the opening track of Def Leopard's 'Demolition Man' album. He and Eddie Jordan regularly played music together at post race events - this was never used as criticism at the time or since. 
+
+
+
+
+ Schumacher [did not like Alonso](http://www.jamesallenonf1.com/2010/03/alonso-and-schumacher-renew-hostilities/) but respected him as a competitor. 
+
+
+
+
+ Completely agree. 
+
+
+
+
+ Yeah, it was interesting to learn Ferrari took a new engine for Bahrain. I don't think Mercedes are holding back, they're still learning the tyres and there is only so much power you can use at high temperature/humidity tracks without creating deficits elsewhere. RBR won with a relatively underpowered engine. 
+
+
+
+
+ Yep. Its not good, and it makes me very sad. 
+
+My grandparents lived into their mid-nineties and didn't say or believe things like this. Age doesn't make it acceptable to be sexist or racist - in my experience people who were remain so in old age. 
+
+
+
+
+ Its good PR, makes some noise and collects a few column inches. 
+
+
+
+
+ Nasr already has two junior championships a 2nd and two 3rds under his belt - those are better junior results than Rosberg (2 championships and one 2nd), and only one junior championship adrift of Schumacher (3 championships, one 2nd, one 3rd) at the same stage.
+
+Yet he gets branded a pay driver? 
+
+
+
+
+ Its the 'it's ok for old people to be a bit racist' argument. 
+
+But it isn't. 
+
+He's not dumb and he knows what he's saying is a long way out of touch with modern Britain. 
+
+
+
+
+ In sheer terms of the number of F1 driver records held, the only people ahead of Hamilton (52) are Schumacher (100) and Vettel (72). 
+
+He's already eclipsed Clark (36), Senna (37), Lauda (16), Prost (42), Mansell (29), Stewart (14), Fangio (37), Ascari (20), Hill (5), Hkkinen (17), Alonso (46) and many more. 
+
+If that doesn't make him one of the great drivers of the sport then I don't know what does.  
+
+
+
+
+ Yep. To be honest I'm disappointed in him, every time Moss opens his mouth on Lewis or women in motor racing something crass comes out. 
+
+When people like the English Defence League are putting your quotes on T-Shirts you should wonder if your views aren't a little out of touch. 
+
+
+"In those days we were proud to be English. It's different now, there's probably only about ten million of us Englishmen left. All the others have come in here from God knows where....."
+
+On women in motorsport:
+
+"We've got some very strong and robust ladies, but, when your life is at risk, I think the strain of that in a competitive situation will tell when you're trying to win. The mental stress I think would be pretty difficult for a lady to deal with in a practical fashion. I just don't think they have aptitude to win a Formula 1 race."
+ 
+
+
+
+
+ That happened [yesterday](http://www.reddit.com/r/formula1/comments/34szhw/arrivabene_why_do_i_need_hamilton_when_i_have/) 
+
+
+
+
+ Being in a development program doesn't relieve young drivers of the need to bring sponsors with them into the program, or into teams at higher levels in the sport.  
+
+
+
+
+ Lauda did the same thing! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I agree. Team principal of his own F2 outfit at 26, and the most experienced team leader in the sport today. Always interesting to listen to what he has to say on matters. 
+
+
+
+
+ 22 years. Interestingly it was Emerson Fittipaldi that bought his personal sponsor Philip Morris to the the team and thats what led to the Marlboro McLaren livery and all that history. 
+
+
+
+
+
+
+
+
+
+ Amazingly McLaren only used this livery for [four seasons](http://www.mclaren.com/formula1/blog/alan-henry/changing-face-mclaren-f1-car-liveries/) - yet its stuck in the fan consciousness.
+
+The colour scheme was shortlived: McLaren only ran in orange F1 livery between 1968 and 1971, incorporated a notional orange streak into its Yardley-liveried cars of 72 and 73 and phased it out completely when Emerson Fittipaldi brought the full red-and-white might of Philip Morris Tobacco onboard when he joined for 1974.
+ 
+
+
+
+
+
+
+
+
+
+ I thought he'd just lost the back on the straight, maybe hit some oil or a less grippy part of the track. As you say, odd.
+
+Stunningly lucky marshall. 
+
+
+
+
+
+
+
+
+
+ The more people know, the less happy they are. The curse of the information age. 
+
+
+
+
+ Alcohol. Actually very common at the time, but has some [extreme downsides](https://www.youtube.com/watch?v=Ku7TdLeEGsQ) 
+
+
+
+
+ You get that you're actually costing the teams money, not Bernie? He only has a 5% share, even the controlling interest amounts to less than 35% profit share.
+
+60% of all FOM revenue goes to the teams, which last year amounted to around $1.2 billion net. 
+
+
+
+
+ Cost 20, since I'm already paying 200 a year to watch the races, i threw down. I'm pleased with the results, its far from perfect, but a lot better than anything else Sky has to offer. 
+
+
+
+
+ If you subscribed then it works on your tablet and phone, just hit restore subscription on your other device. 
+
+
+
+
+ No, both driver and marshall survived. Bloody lucky the pair of them. 
+
+
+
+
+ I seem to have created a monster.  
+
+
+
+
+
+
+
+
+
+ I feel the same way about Bottas as I do about Magnussen, I just don't see them as contenders, their results on track don't seem to justify the hype. 
+
+Anyone want to fill me on the cause of all the fandom? 
+
+
+
+
+ The [video isn't any less terrifying](https://www.youtube.com/watch?v=x1pJo3sLpVk) than the photos.
+
+Only yesterday I was pointing out that of the 29 regular drivers that started the 1968 season alongside Jacky Ickx, 13 died racing or testing in the 7 or 8 years that followed (though only a few in F1). Driving was a brutal career in those days.
+
+They were: McLaren, Rindt, Clark, Solana, Schlesser, Rodrguez, Spence, Scarfiotti, Bianchi, Siffert, Bonnier, Courage, and Moser.
+
+In May 1967 Bandini was racing at the Monaco Grand Prix, running second to Denny Hulme on the 82nd lap, when he lost control of his car at the harbour chicane. He had just entered an S-turn when his Ferrari's left rear wheel hit the guard rail, sending him into an erratic skid. It impacted a light pole and overturned. The car hit straw bales which lined the harbour side, rupturing the fuel tank, and sparks ignited the fuel as the car rolled over, with Bandini trapped beneath it. Marshals flipped his car upright and pulled Bandini, unconscious, out from the flaming Ferrari. It is thought that, during the effort to right the overturned car, gasoline leaked on the hot brake line or the exhaust pipe and exploded. A second fire occurred when the gas tank exploded after Bandini had been pulled away from the Ferrari.
+
+Bandini's burns were extensive, with third degree burns covering more than 70% of his body. The worst burns were on his arms and legs with slight burns on his face. Doctors were forced to wait for twenty-four to forty-eight hours before resolving to move Bandini to a hospital in Lyon, France, which specialized in the treatment of burns. Other options considered, by the doctors, were flying in skin grafts from Italy or a specialist burns unit team from East Grinstead in England. The burns caused severe lesions. He also sustained a chest wound and ten chest fractures.
+
+Three days later, Bandini succumbed to his injuries. He died at Princess Grace Polyclinic Hospital in Monte Carlo. There were concerns about the promptness of Bandini's rescue. However, investigators from the Principality of Monaco ruled on 10 May "that the security operation had functioned properly." The straw bales, having been banned from all Formula 1 races in response to the accident, were replaced by an extended guard-rail the following year.
+
+Bandini was buried in Reggiolo on 13 May. 100,000 people attended the funeral. 
+
+
+
+
+ Thank you, I've fixed that!  
+
+
+
+
+ Mercedes dropping away, or other teams catching up on their development depending on how you view it, in general thats the long term effect of the rule changes on the engineering side. There is basically one or two good ways to get the best out of x rule inside x car concept, and the competition is to see who can find and balance that against the rest of the car more quickly.
+
+According to legend Hamilton was convinced by the factory tour, just as Alonso was by the same thing at Honda. Both appear have felt the engineering commitment sufficient to put them in contention for wins.
+
+30 odd years watching says you can never count Ferrari out (for the first time in those years I have a positive view of Ferrari), and they appear to be on track for a good 2016. Personally I don't take the potential move seriously - but you never know. 
+
+
+
+
+ Schumacher, Hamilton, Alonso, Button and a whole lot more all went to teams less successful than their previous one. Its not about the current season its about the next 3 - 5 years.
+
+Also its Ferrari, even Hamilton said that only a fool wouldn't consider driving for the most successful team in F1 history, no matter the circumstances.
+
+- Schumacher to Ferrari (Ferrari 3rd, Benetton 2nd in 1995)
+- Hamilton to Mercedes ~~(Mercedes 4th, McLaren 2nd in 2011)~~ (Mercedes 5th, McLaren 3rd in 2012)
+- Alonso to McLaren (McLaren 3rd, Renault 1st in 2006)
+- Button to McLaren (McLaren 3rd, Brawn 1st in 2009) 
+
+
+
+
+ Tell that to Seb, and Schumacher. But you're missing the point of what I said. 
+
+
+
+
+ Neither is more important than the other. If you want to watch a spec series, there are plenty to choose from. 
+
+
+
+
+
+
+
+
+
+ I'm really looking forward to this race, especially as its around the corner. Nice price too. 
+
+
+
+
+ I don't know. I wonder if they need to go back to the car concept drawing board, 2014 seems to have wrong footed them, its easy to blame the power unit, but their problems are self evidently more than skin deep. 
+
+The engine installation seems to be off, mapping, brakes, balance, the car seems to be a dog. I also have to say that IMO the attitude of the team management is helping their cause at all, and it may be time for a change.
+
+I do hope that you're right though. 
+
+
+
+
+ Absolutely, but it appears to me that its the power delivery rather than than the bhp that is the real difference. Merc had by far the best power unit in the two years preceding 2014, but didn't have the chassis to match it. But they were focussing on 2014 and little else.
+
+I'm not counting RBR out in the slightest and I believe they'll get a lot out of the B spec car, but I don't think they'll be racing at the front because of it. Will certainly enjoy finding out though. 
+
+
+
+
+ I disagree. Even now, after 14 years driving, Kimi is one of the fastest drivers in the business, and has driven 40+ of the fastest laps ever achieved in F1 races - he deserves his seat. 
+
+One year of bad performance doesn't erase his career. Especially when you consider he's racing three drivers who hadn't even hit puberty when he first got into F1. 
+
+
+
+
+ I've sat through the same [expletive deleted] arguments about Hill/Schumacher, Mansell/Hill, Hill/Coulthard, Prost/Senna and dozens of other driver competitions and team pairings. 
+
+You don't get to be a four time WDC winner and beat Webber consistently by accident.
+
+Seb is a great driver, and I'm having a lot of fun watching he and Kimi race.  
+
+
+
+
+ Indeed - that's what I mean - it appears that Ferrari chose to invest their time and money in other parts of the car rather than chase the short nose. You'd have to say that decision paid off for them.  
+
+
+
+
+ According to your underlying theory Seb couldn't handle a bad car and his results suffered (which was still 5th in the WDC, not shabby at all by anyone's standards), but Riccardo could drive the same bad car to success because he's the better driver.
+
+Hows that theory working out for you this season?  
+
+
+
+
+ I'll bet Ferrari are holding their updates until after Monaco - the package they have right now seems well optimised for the hotter races and could do very well there, especially with their excellent cooling setup. 
+
+Interestingly Ferrari don't seem [bothered by the short nose](http://www.espn.co.uk/f1/story/_/id/12622228/james-allison-explains-ferrari-nose-design). Red Bull were having issues with the crash tests and, I guess, built the car with that kind of nose in mind. Perhaps that's why they're expecting such large gains from it. Ferrari seem to created have a different car concept entirely, rather than investing a lot of staff time into a crash tests and such.
+
+I do wonder if there wasn't a price elsewhere on the RBR car for getting the short nose done. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Livery change confirmed. Hello Jennifer. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'd left Hulme out only because he lived to an age, even though he died racing, he survived his era so-to-speak. 
+
+Obviously you're correct. I'd tried to phrase it so it was clear-ish (i.e. racing or testing without qualifying the series) that relatively few died in F1 cars but didn't succeed! It was commonplace, even expected, in that era to drive in multiple series though. 
+
+Its an awful list, and that was just one season's drivers, almost all were dead before 1975. Sad. 
+
+
+
+
+ I bet it's ultra contemporary , non cluttered
+
+[Nope](http://virtualglobetrotting.com/map/ron-dennis-house/view/bing/) more castle like. 
+
+
+
+
+ That's because SAP is a team sponsor, but they're one of a shrinking number, and only three of 10 teams on the grid have a title sponsor right now (Sahara don't count as they own 40% of the team).
+
+What SAP specifically get is proof their cloud solution works in one of the worlds most data intensive professions, and their competitors in that field, Microsoft, also sponsor F1 extensively. But SAP's real involvement is with McLaren Technology group and their F1 and road car computer systems.
+
+However none of that is what we're talking about at all. Sponsors are increasingly funding younger drivers as a low cost, high value, route into the sport. Santander for example funded young Alonso - he took their personal sponsorship to McLaren (and left them there, where they picked up Button), and to Ferrari, where he again left them. Maldonado bought in PDVSA who are major sponsors of his old team and new one. Teams very often give slots on the car to drivers management to place, and increasingly so. 
+
+
+
+
+ Most of the drivers that competed alongside him died that way, in that era you had less than 40% shot at surviving your racing career. Many successful drivers walked away after a WDC win, not wanting to chance their luck any further.
+
+Ickx, started in F1 1968. Of the 29 drivers that completed more than one race in that season 13 died racing or testing in the years that followed - 46% of them. They were McLaren, Rindt, Clark, ~~Hill,~~ Solana, Schlesser, Rodrguez, Spence, Scarfiotti, Bianchi, Siffert, Bonnier, Courage, and Moser. 
+
+Edit: As /u/meowlong points out, not all of these drivers were killed in F1, but its worth saying that this is because it was commonplace at the time to race in multiple series. This isn't a comment on F1 safety specifically. 
+
+
+
+
+ Yeah. Its tricky to find pictures because most of the race photos are black and white or so grainy the grey/silver looks white. But I beleive thats him! 
+
+
+
+
+ Here's a shot of [Fangio driving the Mercedes W196](http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One#/media/File:Gro%C3%9Fer_Preis_von_Europa_-1954_N%C3%BCrburgring,_Juan_Manuel_Fangio,_Mercedes_(3)x.JPG) in the 1954 German Grand Prix. Fangio won two drivers championships with the team.
+
+The 'Silver Arrows' name came from their domination of the old Grand Prix series in the 1930s, and they entered F1 in 1954 with Fangio switching from Maserati to join the team and immediately dominated the 54' and 55' seasons winning everything in sight. Sterling Moss partnered Fangio in 1955.
+
+This should also sound familiar, past is prologue for Mercedes!
+
+Sadly it was the Mercedes-Benz 300 SLR that [went airborne and killed 79](https://www.youtube.com/watch?v=RMoh5hZAaZk) people after hitting the back of Lance Macklin's Austin-Healey at the 1955 Le Mans, their Magnesium Alloy body work increasing the severity of the post accident fire. The crash wasn't their fault, but they took the hit for it, and withdrew from all motorsport afterwards. 
+
+
+
+
+ He can, but most vary rather than change. 
+
+If you think that drivers have nothing to do with sponsors then you simply haven't been paying attention to how the sport actually works in this era. The whole point of sponsoring young drivers is to gain entry along with them to the top level of motorsport. 
+
+
+
+
+ Yes you can. Changing liveries is connected to sponsors, which funds more and better development, ergo liveries do have an impact on performance. 
+
+
+
+
+ I highly doubt it. Project 4 bought the McLaren team rather than the other way around, plus when you look back at the logos through the years its clear where the chevron came from 
+
+
+
+
+ [This car](http://www.historyofmotorsport.co.uk/wp-content/uploads/2013/05/lemans-1966.jpg) 
+
+
+
+
+  Who owns the Hill helmet config?
+
+Damon Hill - which is the point. The sport needs to improve driver branding, because that's the main method by which sponsors are coming to the sport these days.
+
+It's ridiculous no matter what excuse you use.
+
+Only if you have no idea how marketing actually works and how sponsors are coming to the sport.
+ 
+
+
+
+
+ More people does not equal better work or more productivity, in fact the adding more people just delays projects further. See the [The Mythical Man-Month](http://en.wikipedia.org/wiki/The_Mythical_Man-Month). 
+
+
+
+
+ It does today, but not [originally](http://en.wikipedia.org/wiki/McLaren#Sponsorship.2C_naming_and_livery). 
+
+
+
+
+ They [altered the meaning](http://en.wikipedia.org/wiki/McLaren#Sponsorship.2C_naming_and_livery) after Malboro left the team to McLaren Project Four, but it originally meant Marlboro Project Four (I beleive Marlboro funded the chasis development).
+
+Even today the Mclaren logo is a stylised version of the [Marlboro chevron](http://i.kinja-img.com/gawker-media/image/upload/s--usxchzXG--/c_fit,fl_progressive,q_80,w_636/18z0w45eftossjpg.jpg) 
+
+
+
+
+ Nope, that's failing to understand what Ron actually said.
+
+Why would the team go *back* to a livery that they have barely used in the modern era, in fact a livery that they only used for two years, and has little association with the team for most fans - what would it get them? 
+
+Even now their current logo is a [stylised version of the Marlboro Chevron](http://i.kinja-img.com/gawker-media/image/upload/s--usxchzXG--/c_fit,fl_progressive,q_80,w_636/18z0w45eftossjpg.jpg) - because that's what they're most remembered for.
+
+However, most people now associate the team with the silver/grey livery so they made a decision to stick with it and add in some Honda branding, the black appears to have been part of a deal with Johnnie Walker or SAP that fell through looking at their previous sponsor branding. But really the whole thing was a message to Honda and to sponsors - we're willing to change it, but you need to get on board and pay us in order to do so.
+
+FYI the silver colour is for Mercedes, West's branding always appears on a white background. 
+
+
+
+
+ Nope. They want drivers to have the same helmets because the drivers are the driving force behind team sponsorship these days (Alonso brought Santander in, Maldonado PDVSA, Hamilton got Bombardier and IWC in the door, Will Stevens has the sponsor slots at Manor). 
+
+Basically the driver's 'brands' have become more important to the sport than the team brands and one thing F1 can do to support that is increase the association between drivers and their helmets thus strengthening their brands. Fixed driver numbers is a tilt at the same thing. 
+
+
+
+
+ I find the commentary a bit difficult, always seems so casual to me compared to F1. 
+
+
+
+
+ Can you give me the 101 on what a superspeedway is exactly - I've never really understood the track types. 
+
+
+
+
+ If you like big numbers then this is the way to go, but it won't solve any of the problems that the sport actually has - only make them worse. 
+
+
+
+
+ At no point in F1's history has that ever been true. 137 official constructors since 1950, and only 10 remain. The vast majority of F1 teams are there surviving. The median average F1 team competes in 20 races for three seasons, uses 5 drivers, wins no races and scores no points. 
+
+
+
+
+ That livery was really the result of the Marlboro sponsorship - even the MP4 designation meant Marlboro Project Four at the time.
+
+Project Four was Ron Dennis's old team, he did a reverse takeover of McLaren.
+
+Edit: Downvoters, [you're wrong about this](http://en.wikipedia.org/wiki/McLaren#Sponsorship.2C_naming_and_livery), the meaning was altered after Marlboro left the team. Even today the Mclaren logo is a stylised version of the [Marlboro chevron](http://i.kinja-img.com/gawker-media/image/upload/s--usxchzXG--/c_fit,fl_progressive,q_80,w_636/18z0w45eftossjpg.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Love the attitude from Claire - every inch her father's daughter. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ We came close to doing that in 1994 - banned all of the traction and driver aids that 'purist' fans said were ruining the racing, and had little in the way of meaningful aero - look what happened. 
+
+Sincerely, the cars were simply too quick and powerful to be controllable in general, and even modestly safe when something went wrong. Senna's death disguises a [series](https://www.youtube.com/watch?v=XSI27en56tg) [of](https://www.youtube.com/watch?v=9yUxMLIbtIk) [terrifying](https://www.youtube.com/watch?v=Xumw9c5j-3A) [accidents](https://www.youtube.com/watch?v=xd-nSWjdpHI) and on track [incidents](https://www.youtube.com/watch?v=LvxMtYyNZ6Q) during 1994 that are rarely talked of anymore. The pit lane speed limits, and downforce reduction measures we see today all came from that season's racing.
+
+"Its going to be a season with lots of accidents, and I'll risk saying that we'll be lucky if something really serious doesnt happen." - Ayrton Senna, during the 94' pre-season.
+
+The 94' season left two drivers dead, one in a coma, one seriously injured marshall, five injured spectators, and a seriously injured ferrari mechanic. 
+
+
+
+
+ There never has been a period in F1's history where anything resembling unlimited racing occurred. 
+
+
+
+
+
+
+
+
+
+ Button to Mercedes confirmed ;o) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Frankly I'm not the one being a dick about it and straight downvoting other people's posts every day. If you have a problem with what I'm posting or the way I'm posting it then contact the mods, otherwise just move along and read someone else's content.
+
+But personally I'm very tired of hearing from you, you're *not* the content police. 
+
+
+
+
+ Its only a repost if you don't actually *read* the article, which you routinely don't.  
+
+But apparently I'm going through another /u/musef1 bitching phase. Nevermind, I can't be arsed with bitches today.
+
+/get off my lawn 
+
+
+
+
+ There were 4 other 180 mph crashes at Tamburello in the years leading up to Senna's crash - all drivers survived with the worst injury being a severe concussion. Its a flat out corner with a river behind it, hence the concrete wall. Arguably the severity of Bergers crash foreshadowed Senna's but all of the crashes involved some kind of technical failure, and all look very similar.
+
+- [Piquet 87'](https://www.youtube.com/watch?v=pLyAKkeA25Q); 
+- [Patrese 92'](https://www.youtube.com/watch?v=OCcf_aTuldY) ; 
+- [Berger 89'](https://www.youtube.com/watch?v=eVxnkaqqO2c); 
+- [Alboreto 91'](http://flatoutcombr.c.presscdn.com/wp-content/uploads/2014/05/alboretocrash.jpg). 
+
+Which is all by way of saying that Senna crash led to F1 managing downforce and thereby speed, but all of that was really a consequence of the driver aids ban. In many important respects the FW14B remains the most technically advanced F1 car ever created.
+
+Both deaths led to the HANS device as they were both on a [long list of drivers](http://en.wikipedia.org/wiki/HANS_device#History) that sustained basilar skull fractures. Senna's death wasn't caused by the skull fracture though. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,736 @@
+  It really isn't the entire 1% that's the issue. It's the 1% of the 1%.
+
+It's more of a philosophical issue, rather than an actual practical issue. The .01% should probably pay more taxes. However, the rate that they pay on average as a whole is still substantial. And their 'lack' of taxation does not negatively effect the middle class and lower class. It's not like we raise the tax on the poor when the rich don't pay enough. 
+
+It doesn't feel right - sure. But overall it shouldn't even be a top 10 issue in this country. However since it is an emotional appeal (appealing to anger, jealousy, resentment, and ignorance), it works well for politicians and pundits to dwell on the relative non-issue.
+
+.01% btw is 30,000 people. Not to mention that these are the type of people who would just leave the country if they started to get taxed more (or at least take 90% of their assets to another country).  
+
+
+
+
+ Private colleges? Republican owned? Public school tuition is just as big, if not more of a problem. Big state schools now cost almost $30k to attend. Leave the political Republican hating nonsense at the door. This isn't /r/politics.
+
+Irony you attack the bias/quality of the article, when you are clearly just as biased and ignorant. 
+
+
+
+
+ Wtf is wrong with this thread... 
+
+
+
+
+ Yea I think using a try catch might be the best option. Thanks. Sometimes I just can't get the obvious stuff. I'm doing the poker problem on euler. 
+
+
+
+
+ I have a method where I am passing an index of an array as a parameter. I then want to use that index (int value) to loop through the rest of the array. However the first line of the method is like this:
+
+     public int hasTwoPair(int index) {
+         if (cards[index].getValue() == cards[index + 1].getValue()) {
+         //problem because index + 1 might be out of bounds
+
+is there a way around this without adding an extra 'if' statement? 
+ 
+
+
+
+
+ Considering administrators are the highest paid staff in any given school system, this is probably a good thing. Wish we would seriously evaluate the usefulness of so much administration overhead.  
+
+
+
+
+ OP you need to work on your title creation abilities. Less is more my friend. 
+
+
+
+
+ If you want breakfast in bed - sleep in the kitchen. 
+
+
+
+
+ That's exactly what I am referring to... 
+
+
+
+
+ Should have left the Quaran not the bible, as that is what Hagar did to Ishmael.  
+
+
+
+
+  Probably because he started with "for (int I=0;"...
+
+Does that capital 'I' bother anyone else?  
+
+
+
+
+ NAME YOUR FLIPPING AXES 
+
+
+
+
+ It's only 5 cents more than some of the other pods... 
+
+
+
+
+     for (int i = 0; i  100; i++) 
+        System.out.println((i-100) * -1);
+    }
+
+You can do this with an incremental or decremental (thats not a word?) loop.
+
+EDIT: but if you want to use a decremental loop, it looks a little cleaner:
+
+    for (int i = 0; i  -100; i--) {
+        System.out.println(i+100);
+    } 
+
+
+
+
+ Interesting. Thanks! Pretty hard to find a good review of these limited editions when they come out. 
+
+
+
+
+ Upvoted for the title. 
+
+
+
+
+ Sure you get 5%, but you end up paying a 2.5% purchase fee - so at that rate, you are paying a 25x higher rate than the Amex cards I posted. 
+
+9000 pts would cost $9 with this discount.
+
+9000 pts with VCG purchase would cost $45-$50 in purchase fees (I can't remember if it is $4.95 or $5.95 purchase fee for the $200 gift cards).
+
+You save $36-$41 with this discount. Per 9000 points. And you don't have to make 5 trips to Staples/Officemax.  
+
+
+
+
+  He's absolutely loyal to his constituents, and a great voice for the Hispanic Community (Little Village in particular), as well as the Teacher's Union who essentially drafted him to run. Those constituents stand to gain the most if he's elected.
+
+That is the biggest problem.  
+
+
+
+
+ Oh man should I make another post about dibs? I'LL DO IT I SWEAR! 
+
+
+
+
+ That's my governor! 
+
+
+
+
+ Well lets say you are already maxing out your Redbird - is this worth it if you cash it out some other way? Not sure how. Maybe they can be used on Evolve and not get charged any fees? 
+
+
+
+
+ Not sure, that's kind of my question.  
+
+
+
+
+
+
+
+
+
+ The article is not talking about SNAP. The new proposed law does not effect SNAP at all (and it's not like you can use SNAP at the movie theater), so I'm not sure why you are talking about foodstamps. 
+
+
+
+
+ So it has an overall economic benefit, but that doesn't mean it's good for them - and that's who we are trying to help, right? 
+
+
+
+
+ The problem is there are people who will still drive 55-60mph. They will end up causing accidents. 
+
+
+
+
+  There is no way Fox is more biased than MSNBC
+
+Did you mistype? 'lol no, show me the link' - you can't use Google yourself?
+
+Anywhere you can read [here](http://www.politico.com/blogs/media/2013/12/is-msnbc-worse-than-fox-news-179175.html) 
+or [here](http://www.forbes.com/sites/jeffbercovici/2013/03/18/pew-study-finds-msnbc-the-most-opinionated-cable-news-channel-by-far/)
+
+They might be both quoting the same study.
+
+A quote - "But here's the thing, and I hope it doesn't ruin your dinner: MSNBC is certainly as bad as Fox News, in terms of presenting ideologically biased information and demonizing the opposition."
+
+[one more](http://articles.baltimoresun.com/2012-11-02/entertainment/bal-pew-study-suggests-msnbc-really-is-more-partisan-than-fox-20121102_1_pew-study-msnbc-fox-news) that shows how much more MSNBC was biased during the Presidential election. 
+
+
+
+
+ Reporting integrity and bias. Lesser of two evils when it comes to Fox, but MSNBC even more biased than Fox. You can Google it. 
+
+
+
+
+ You are comparing FOX to what exactly? Fox should be compared to MSNBC. And in that case, Fox comes out on top. 
+
+
+
+
+ What about Senator Warren who got into Harvard because she marked down that she was Native American? I guess NYT doesn't care about that... 
+
+
+
+
+ So when I do that. it puts a cursor everywhere in my file (what is Alt+Enter anyway?). not just that one string. 
+
+
+
+
+  Hit right and enter to give them each a line
+
+Not sure how this works. You mean hit right on my keyboard? Doesn't seem to do much. 
+
+
+
+
+ You should put this on /r/learnprogramming. A lot of readers there might not even know about ST 
+
+
+
+
+ Oh ok, I avoided it since it's Beta, but maybe I'll upgrade.  
+
+
+
+
+ How did you put a cursor between each character? Did you do that manually? I know in Windows you can just ctrl + left click to add a new cursor - but that would seem annoying for so many cursors. 
+
+
+
+
+ Wow. I just downloaded Sublime Text 2 recently, and so far I really like it. It might be worth the money. 
+
+
+
+
+ Why is this in /r/shittyprogramming? THIS IS BRILLIANT!! 
+
+
+
+
+ It was pretty easy in college as long as you have an internship or two - or some really good side work. 
+
+
+
+
+ You need to look up the String split function. Google something like "Java String split method".  
+
+
+
+
+
+
+
+
+
+ Thanks for the pods! Loved it! and you sent me some Maragogype too! You da bomb 
+
+
+
+
+ Who says they hate gay people? They didn't say "we won't serve gay people", they said, "we won't serve at gay weddings". Gays are more than welcome to come in and buy pizza. Doesn't sound like hate to me. 
+
+
+
+
+ From what I understand, you could buy gift cards to the flight. Also keep in mind this goes towards flight changes and other fees. I had to pay $75 to change a flight, and Amex covered it. Also drinks on the airplane would count for this as well.
+
+Also bear in mind that you can downgrade to a Amex Green card. You can get your points, downgrade, and get a pro-rated amount back. You might end up only paying $140 for the annual fee, but still get the bonus. Not to mention you also get TSA Pre for free as well ($100), plus free in flight wifi and Boingo at airports, and Priority Pass Select (free lounges!). 
+
+
+
+
+ I did. On the highway. It was quite scary. 
+
+
+
+
+ I received this offer, and I took it. The benefits that Amex gives you are worth quite a lot. I saved a lot of money on checked baggage and upgrading to economy plus.
+
+I haven't used the points yet, so they are still sitting in my account. Was going to fly to Israel with my wife, but she is due with a baby at the same time we wanted to go, so we will have to wait.
+
+Also my offer was for spending $15k total, *not* $20k. 
+
+
+
+
+ Eh no one? Could use some help on the PL/SQL side.  
+
+
+
+
+ Can I execute PL/SQL in Tableau?
+
+I basically need to write some PLSQL that returns a table, and pass that table to Tableau. I am copying my problem here:
+
+I am trying to do a query where I combine entries from the same table, but from different schemas. I can do a query to find which schemas in my DB I need to look at.
+I'm kind of new to PLSQL, so I'm not sure how to go about doing this. It would look something like this:
+
+Loop (over v_schema)
+
+   select * into myView from
+
+   v_schema.myTableIneed
+
+end loop
+
+so in the end, 'myView' will have the the entries from the table myTableIneed, from multiple schemas.
+The other issue, is that there is a chance that the table might not exist in every schema. That's ok, so I would need to handle that exception.
+Something like that. I guess I'm not sure how to properly loop, or how I get the list of schemas into the 'v_schemas' variable.
+
+Someone suggested that I use cursors with a procedure. However that might not help me, as I don't think calling a procedure from Tableau could work. I think what I need is an executable block of PLSQL. Please advise. 
+
+
+
+
+ I am trying to do a query where I combine entries from the same table, but from different schemas. I can do a query to find which schemas in my DB I need to look at.
+
+I'm kind of new to PLSQL, so I'm not sure how to go about doing this. It would look something like this:
+
+
+Loop (over v_schema)
+
+     select * into myView from
+
+     v_schema.myTableIneed
+
+end loop
+
+
+
+so in the end, 'myView' will have the the entries from the table myTableIneed, from multiple schemas.
+
+The other issue, is that there is a chance that the table might not exist in every schema. That's ok, so I would need to handle that exception.
+
+
+Something like that. I guess I'm not sure how to properly loop, or how I get the list of schemas into the 'v_schemas' variable. 
+
+
+
+
+ Agreed. Daley really screwed us. 
+
+
+
+
+ So because it's a stylesheet it doesn't belong in shittyprogramming?it's funny, and it's a comment that claims there is shitty programming. Sounds like a great candidate for that sub. It's not a serious sub. 
+
+
+
+
+ ? 
+
+
+
+
+ Any thought's on LIQD? I bought at $.37 
+
+
+
+
+ Lol that's hilarious, but post this in /r/shittyprogramming 
+
+
+
+
+ There is a special place in hell for those who DDOS attack Github. 
+
+
+
+
+ Yea for some reason that was their intended look. I'm not sure why they felt the flat look was better.  
+
+
+
+
+  The tides come in, the tides go out, you can't explain that
+
+haha ok thanks. 
+
+
+
+
+ I have to pluck my eyelashes every week or so. I take out about 10 eyelashes per week. If I don't, they get bunched up or too long, and get in my eye. I am a guy btw, and it is not intentional. I just have lots of eyelashes. 
+
+
+
+
+
+
+
+
+
+ Also to note, make sure you don't use your own credit card with your name on it. That will get you flagged. Use an AU or a spouse's card. 
+
+Also Square is helpful for accepting payments when selling on Craigslist. I've even benefited by charging 3% extra to use a credit card (when selling on Craigslist) - so I end up making more money, even with the fees. 
+
+
+
+
+
+
+
+
+
+ And rational normal liberals also still vote for shit candidates. So what's the difference? 
+
+
+
+
+ ? Umm the gravity of the moon... I'm not sure I understand your joke/statement/sarcasm? 
+
+
+
+
+ Yea but I think some cases of refusing service are legitimate. For example if you are a web developer - and you are asked to make the website 'TheBibleIsAllLies.com" - i think that it's fair to refuse to do this service as it directly goes against your beliefs. The problem is there is no way to distinguish between that and, "I won't serve you a burger cause you're a fag". 
+
+
+
+
+   this was held up in court and created a psuedo R
+
+Thanks for the info. Seems like the bill is too open. "I'm not going to serve you a burger cause your hair isn't covered" is a possibility. Although I think there is a bit of an overreaction as if there is going to be rampant baseless discrimination. Business aren't going to just start refusing all gay people service just because. It would yield too much of a backlash. Maybe I'm just not pessimistic enough 
+
+
+
+
+ Can someone explain the actual problem with this bill? Like what does it say that would increase discrimination and allow people to be biggoted? I don't understand. Not sarcasm, I just don't know what the fuss is about. 
+
+
+
+
+ I wouldn't touch a suzuki with a 10 foot pole. What pieces of shit. 
+Subaru is the best value on this list affordable to most people.
+
+EDIT: There are 5 idiots out there who like Suzukis.  
+
+
+
+
+ Kind of lame since I already have both checking and savings with Chase. 
+
+
+
+
+ I didn't say no cell phones tv or computer. That's not what I said at all. First of all, I said no smartphones. I never said I wouldn't have a computer in my home. I also am not completely forbidding my kids from using/seeing such things. TV just will not be in my home. 
+
+
+
+
+ As I mentioned in another comment, their peers will have parents who have similar viewpoints to myself. If I sent then to public school, then yes it would be quite problematic. 
+
+
+
+
+ I posted on here a while back that I wanted to get some information from my fantasy league on ESPN.com. I spent some time learning some HTML and PHP basics and started trying to figure out how to post a login on [ESPN here](http://games.espn.go.com/frontpage)
+
+I tried using the code from [this](http://stackoverflow.com/questions/11171713/scrape-a-site-content-with-a-secure-login) StackOverflow post, but to no avail.
+
+The problem I think is that the login is actually a popup (or is 'frame' the correct term here?). I'm not sure what to do here. Noob web developer here, so any help is appreciated.  
+
+
+
+
+ My website has a title, a subtitle, and a picture. I like the way it looks on my browser. However on my mobile phone (Note 4), the text is not center adjusted, and is way too small. [Here](http://askyourlor.com) is the website.
+
+I am asking this in /r/learnphp because it will have php in it, and /r/learnhtml is a ghost town. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I work in Chicago, and I see a few people asking for money everyday. I really don't see anyone giving, and I think part of that is because very few people carry cash around nowadays. I can't remember the last time I even had change. It's kinda sad, and there isn't much we can do about it - or is there? 
+
+
+
+
+ I committed, and pushed (although I inturrupted it eventually, i think most of the file was pushed) a 200 MB file. Since then, I reduced the size of the file to 2 MB, and comitted/pushed that change.
+
+From what I understand, anytime someone clones (or do a pull for the first time since my change), they will have to download the entire file anyway - since it is part of the changeset.
+
+How can I eliminate this large file entirely? Cloning now takes much longer.  
+
+
+
+
+
+
+
+
+
+ So I was thinking that it might be difficult to get the gold Macbook a few weeks after its release. Why not buy a few and then resell them? Even if you resell at the same price, you can easily get a few thousand points. 
+
+Thoughts? 
+
+
+
+
+
+
+
+
+
+ In theory, I should be able to to CVS and buy a $500 Paypal load card for $502.95. I should then be able to load that money onto my paypal account. Then, I should be able to use my Paypal Business Debit Mastercard to pay my bills on EvolveMoney.com - without paying an extra fee (since it is a debit card from a large bank).
+
+Can anyone confirm this? I just got my debit card and don't want to load my paypal account unless I know this works. 
+
+
+
+
+ What is the difference here? A variable has to be public or private (correct?), and I think when you declare a class variable, and you don't specify public or private - then the default is public. 
+
+So if I change my declaration from 'public static final String...' to 'static final String...', then is anything different?  
+
+
+
+
+ I was so unbelievable disappointed that I missed the special edition cubania (strength 13). It sold out so quick. Can we make some sort of alert/sticky when it is available again? It's on Ebay, but it's double the price now. 
+
+
+
+
+ I wanted to make my own website to further my career. I plan on using it for tech blogging, resume, projects I've done, to give me a greater 'presence', etc. 
+
+Of course myname.com is taken ('myname' being my real name). So is firstname-lastname.com. However firstname-lastname.net is not taken. **Any reason I would not want to use the .net domain?** It's only $10 a year, and there is no strange spelling. 
+
+This is in /r/cscareerquestions because this website is for the purpose of advancing my CS career down the line. 
+
+
+
+
+ I started doing some PHP development (just started) on the side. I installed PHPStorm and a few other things. Is it ethical to be doing this on my work laptop? My job doesn't require any of these skills, it is purely for personal development. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They were going to have financials released yesterday but delayed. Not sure when they will be released. Looks like a good time to buy. 
+
+
+
+
+ Tmobile will pay **up to** 1/2 of your phone when you upgrade. However, this is only after you have paid 1/2 of your phone.
+
+Basically they are saying, "We will buy your phone off of you for 50% its original price, 1 year after you bought it".
+
+The truth is, you can simply resell your phone for the same amount, if not more. All JUMP is providing you an easy way to sell your phone. That's all. Sounds pretty worthless to me, especially since my phone might be worth even more than they are giving me.  
+
+
+
+
+
+
+
+
+
+ [The Complete Web Developer Course - Build 14 Websites](https://www.udemy.com/complete-web-developer-course/?hb=endless10 couponCode=endless10 utm_source=email_adhoc utm_campaign=endless utm_medium=10deal utm_content=2015-02-25-endless-10deal-lgpromo-3day dl=1)
+
+Above is the link to a fantastic web development course. It's been recommended here before, just linking again because of the sale. Just bought the course myself! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Just trying to start learning PHP on my own. I got phpStorm - and I downloaded (and installed?) WampServer. I am looking at [this](http://code.tutsplus.com/tutorials/php-101--pre-73284) tutorial. I get the error message "PHP Interpreter is not configured". What am I supposed to do? I just want to run PHP locally for the time being. What file is the interpreter?
+
+Actually I just opened a command window and typed 'php' and it said command not found, so I must have done something wrong. 
+
+I know this is super-noob. Would appreciate any help. I feel embarrassed to ask people I know how to do this.
+
+EDIT: Haha I figured it out! Found the php.exe file and pointed to that, and voila! Cool stuff!  
+
+
+
+
+ I got my gas bill this month, and it was more than half of my bill from Dec - Jan. I'm comparing both bills, and you can see [here: snapshot of both bills](http://i61.tinypic.com/e1dv81.jpg), there is an extra line in my last month's bill called 'supplier charges' for an extra $189. What is that from last month? Any ideas? 
+
+Edit: tried calling earlier but got hung up now. At work and wanted to know if anyone had a similar issue. I have Spark Energy as a 3rd party provider (not sure how that works), but I didn't drop them or anything - and they shouldn't be charging me more than PeoplesGas. That's the whole point of switching to them.
+ 
+
+
+
+
+ **My background:** I am a recent CS grad, currently working at a large company doing Java/SQL only (for the time being). I have spent most of my time with Java, but I am familiar with C as well. I dabbled in Python and Haskell as well. Sadly, I have absolutely ZERO experience in HTML, CSS, Javascript, PHP, or really anything having to do with web development.
+
+Right now I want to create a webpage based on data that I would pull from my Fantasy Football league on ESPN's website. From what I know, there is no API available from ESPN to access this data. Furthermore, the data I need is specific to MY league - meaning I need to login into my ESPN account to get  this info. I want to take this info, do some simple algorithm, and then simply display a text box on a website.
+
+My question is, what are my options for implementation? I would want to know what would be a way I can implement this, with or without Java. I'm open to learning something new, but I know so little about web development that I honestly don't even know where to start. 
+
+EDIT: To explain what I want to do - I want to create an alternative ranking system for my league. What I would need to be doing is taking the total points scored by each team (each week) - and then run an algorithm to create a NEW ranking/point system. So where on ESPN's website, you might be ranked 3rd, on my ranking system you might be ranked 5th. In order to get this info, I need to access my league and see how many points each team has scored. ESPN's stats and news API is not helpful because I need to know how the teams in **MY** league scored. 
+
+Second Edit: Thanks so much everyone! Looking forward to maybe trying more than 1 way to do this. Just telling me I need a 'scraper' helped. None of this ever came up in school, at all. 
+
+
+
+
+ Anyone have any good suggestions on what to get on Amazon with Subscribe and Save? Trying to save 15% by subscribing to 5x things, but I haven't found that many items that are actually cheap. Paper towels seem to be waaay too expensive.  
+
+
+
+
+ I have a query that is like:
+    select ... from ... where ... x=y (+) and a=b(+)
+
+What is the **(+)**? 
+
+
+
+
+ I've been reading that a lot of you recommend newcomers to go to a pro shop. I was just wondering if stand alone pro shops tend to be better than pro shops inside a Brunswick zone. I live on the very north side of Chicago (Touhy/Western) if anyone has any suggestions for that area that'd be great. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No more dibs.
+The snow storm was a week ago.
+90% of parking spots are clean.
+Get your junk off the street.
+Don't be a selfish jerk.
+No more dibs. 
+
+
+
+
+ What is the best forum to post a code review? I know stackExchange has a codereview page, but it seems significantly less populated than other sites. Is this a page I could post a code review? Are there some places I might not be aware of? I am mostly interested in Java for the time being. 
+
+
+
+
+ I've downloaded emulators in the past, but they were always riddled with terrible malware. Any legit and clean emulators for older game consoles?  
+
+
+
+
+
+
+
+
+
+ http://oi62.tinypic.com/2ufw0ab.jpg
+
+If you look at the picture above, the main folder is labeled as 'main.src'. I had to change the names as this is happening in my project at work.
+
+src is a subfolder of main - but it's showing in the project view as if I have a folder called 'main.src' that has certain contents. How do I prevent Intellij from coupling a sub directory with its parent directory? 
+
+
+
+
+ I know there is not a native way to do this in Windows 7. I Googled and found many links - however I'm not sure which ones to trust, and this is a work computer so I need to be certain that the download is legitimate. Any consensus on safe .iso to USB utilities?
+
+I found this http://www.pendrivelinux.com/yumi-multiboot-usb-creator/ 
+
+which seems really cool if it works.
+
+I am also fairly new to Reddit ( 2 months), so please be nice. if I made some sort of faux-pas 
+
+
+
+
+ So I compared my Galaxy Note 4 (LOVE IT) to my wife's iphone 6 plus (thank heavens I don't have to look at that tiny 4 inch screen anymore), and I was a bit shocked at what I noticed.
+
+When looking at something that is supposed to be white, for example, the background of Facebook, I found that my Note 4 is considerably less white. In fact, the parts of the screen that are supposed to be white, look more like 'off-white' or maybe even a slightly yellow tint. 
+
+Has anyone compared their Note 4 to an iPhone 6 plus and noticed this? It made me quite sad. I'm hoping its a defect - although it's been 3 weeks since I bought the phone.
+
+I read a lot of iPhone 6 plus vs. Galaxy Note 4 reviews, and no one mentions this.
+
+Also to note, this is my first time using Reddit. If I have violated reddiquette in some way, please be nice - point it out, but don't get pretentious about it.  
+
+
+
+

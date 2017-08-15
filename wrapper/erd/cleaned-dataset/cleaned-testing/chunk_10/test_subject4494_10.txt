@@ -1,0 +1,1228 @@
+
+
+
+
+
+ Except the particular change he linked to was also [opposed by Gavin](https://github.com/bitcoin/bitcoin/pull/6231#issuecomment-108892765).
+
+ 
+
+
+
+
+
+
+
+
+
+  I state you haven't learned anything new, because before waking up, according to the game, you know with 100% certainty that you WILL wake up, and you do.
+
+That's not what you said above; you said the probability was either 100% or 200%. If in the analogous case where you wake up 1% of the time waking does tell you something new, and you're using the exact same model but in reverse in the 200% case, why don't you accept that waking tells you something new as well?
+
+IE; if I played the game, I would know, well before going to bed, and long after, that the probability is, was, and forever shall be, 1/3, upon my waking.
+
+How does that statement imply anything about whether waking is new information? You could make a similar statement about anything you update on that "after it happens, you know the probability in advance".
+
+ 
+
+
+
+
+ I agree with 1 and 2, but not 3, as I've explained.
+
+That said, if you're using numbers greater than 1, you should probably come up with a word other than probability to describe it. 
+
+
+
+
+  given that he's visited you
+
+His visit itself doesn't reveal anything
+
+I think you're confused about what those words mean. If we condition on X happening, and that causes us to change our probabilities, then observing X is teaching us something. How do you simultaneously say that we're updating on something, yet then turn around and say that it's not actually teaching us anything?
+
+Now let's change the probabliities.
+If heads, the doctor will visit you 100% of the time.
+If tails, the doctor will visit you 200% of the time.
+
+I said pretty much this somewhere else in this thread, although I'm a tiny bit uncomfortable with probabilities greater than 1, and would prefer some model that does the same but without those probabilities. 
+
+
+
+
+ I'm not changing the question, though. The question is always "what was the coin on its first flip?"
+
+In your example, the question changes from "what was the flip today" to "if tails yesterday, tails, otherwise what was the flip today". 
+
+
+
+
+  Because Beauty cannot differentiate between what scenario she is in, she cannot use that to inform her decision on whether or not heads was rolled.
+
+That doesn't follow. Just because she can't know for sure which scenario she's in doesn't mean she doesn't know anything at all about it. It's probabilistic knowledge, like I said.
+
+I'm not sure what you mean. She knows a coin was flipped, and she knows that a heads flip means one awakening while a tails flip means a million awakenings. Except none of that matters because Sleeping Beauty cannot ever, in the course of the experiment, know she has been awakened any more times than one (because each time she is put back to sleep, she forgets having been wakened) and because she knows that she is awakened at least once in either scenario. In other words, Beauty acquires no new knowledge in either scenario.
+
+The new knowledge is that she woke up *today*. That has a different prior probability depending on whether it was head or tails. If it was heads, then half of the days she won't wake up at all. If it was tails, then she wakes up every day. So P(awake|tails)=P(awake|heads)*2, and a Bayesian update on awake changes the probabilities. She doesn't need to know that she'd been awakened multiple times; the fact that she was awakened once is what she'd updating on. Yes, this would happen at least once either way, but the fact that it happens more than once in some cases is evidence for those cases.
+
+That's probably not too convincing, so let me frame this differently.
+
+Before she goes to sleep, there are 4 possibilities for the future, all equally likely. H/Mon, H/Tue, T/Mon, and T/Tue. True, she'll never see H/Tue, but it's still there. As soon as she awakens, she finds out that it isn't H/Tue, so now there are only 3 cases, all with equal probability.
+
+Or like this:
+
+If instead of being awoken 2 times on T, she's awoken less than 1 times, e.g. .5 times by flipping another coin after tails on Tuesday and waking on one outcome, then the Bayesian update is straightforward and it changes the probabilities. As the number of times increases towards one, the update becomes smaller and smaller, until at 1 it's nothing. I claim that when the number goes above 1, we should do the same update as when it's under 1. 
+ 
+
+
+
+
+ Say the coin is flipped before she goes to sleep, but she doesn't see it. We ask her "what does the coin say"? This is exactly what's being asked later, so there definitely is temporal change in that probability from her perspective. 
+
+
+
+
+  actual probability
+
+Please define this. When I'm talking about probability, I mean subjective confidence. You seem to agree that from her perspective the answer is 2/3 (which is the entire claim here). I agree that from anyone else's perspective the answer is 1/2. Is there anything left we disagree on? 
+
+
+
+
+  She will gain the knowledge that she wakes exactly once, for all intents and purposes, in either scenario.
+
+I don't see why that matter. Yes, it's a single update (possibly done multiple times), but why does that make it invalid?
+
+When she wakes, she knows she is in the experiment--but she also knows that she cannot know which scenario she is in.
+
+I never said she can know; she has probabilistic knowledge, not definite knowledge. 
+
+
+
+
+ When you say "answering correctly", you're strongly implying that it has nothing to do with probability. 
+
+
+
+
+   Beauty gains no new information each time she wakes
+
+She gains the information that she wakes. This has different probabilities depending on the coin flip, therefore it is evidence for the coin flip.
+
+https://en.wikipedia.org/wiki/Sleeping_Beauty_problem#Halfer_position:
+
+Nick Bostrom argues that Sleeping Beauty does have new evidence about her future from Sunday: "that she is now in it," but does not know whether it is Monday or Tuesday, so the halfer argument fails. In particular, she gains the information that it is not both Tuesday and Heads was flipped. 
+
+
+
+
+  The two distinct probabilities will remain half and third, before and after waking
+
+Then there must be something you're updating on in between. In this case, it's the fact that you woke up. If you don't know that you woke up (for example, you're someone else), then the probability stays at 1/2. 
+
+
+
+
+ So we agree, then. The probability of heads occurring without any additional information is 1/2, the probability of heads after waking up is 2/3.
+
+I wouldn't call P(T|B) "the probability of tails being the right answer". It's the probability of heads, given that you have awoken. 
+
+
+
+
+  She still doesn't learn anything -- she knows Tuesday + heads wasn't a possibility to begin with.
+
+Of course it's a possibility; if heads is flipped, and a day passes, it will be Tuesday+heads. The point is that the very fact that she woke up tells her that it isn't Tuesday+heads. 
+
+
+
+
+  Based on the premise I think we're assuming "Beauty" has no fucking idea what day it is.
+
+If the coin was heads, then she doesn't get woken on Tuesday, so she knows that it isn't Tuesday+Heads.  
+
+
+
+
+ If you agree with that, then it should be trivial to work backwards to the thirder position.
+
+We want to know P(T|B). We can decompose this into P(T|B, Monday) and P(T|B, Tuesday), and add them together after multiplying by P(Monday|B) and P(Tuesday|B) respectively, since they're mutually exclusive and exhaustive
+
+P(T|B, Monday)=P(B, Monday|T)P(T)/P(B, Monday) 
+
+=P(B, Monday|T)(1/2)/P(B, Monday) 
+
+P(B, Monday) is equal to P(Monday|B)*P(B), which is 1/2.
+
+So those cancel out above, leaving P(B, Monday|T) equal to P(T|B, Monday)
+
+P(B, Monday|T) is easily seen to be 1/2, so P(T|B, Monday) is too.
+
+P(T|B, Tuesday) is obviously 1.
+
+So P(T|B)=P(Monday|B)P(T|B, Monday)+P(Tuesday|B)P(T|B, Tuesday)
+
+=(2/3)(1/2)+(1/3)(1)=**2/3**. (The 1/3 for P(Tuesday|B) is 1 - the 2/3s for P(Monday|B), since they're exhaustive)
+
+
+By the way, you can remove all of the |Bs from this to make it simpler, and just take it as background. 
+
+
+
+
+  There is no new information. The "new information" is the set-up. The experimenter reveals to you that he visits twice as often when it's tails.
+
+I think waking up *is* new information; you learn that it isn't Tuesday+H, as [Bostrom says](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem#Halfer_position). 
+
+
+
+
+  I'm looking at one destroyed car. If the coin turned up heads, that car would have been destroyed. If the coin turned up tails that car would have been destroyed.
+
+If there are 20 cars in total, then given any one car, the chance it would have been destroyed on heads is 1/20, while on tails, it's 1. 
+
+
+
+
+ While I agree with this and am a thirder myself, halfers will disagree with "The likelihood the coin was heads given the fact that you were woken up is 33%" on the grounds that waking up isn't new information. I gave some responses to that elsewhere in this thread, but it's a reasonable position even if wrong. 
+
+
+
+
+ What is your definition of the event B, not its value?
+
+"I have awoken today".
+
+P(Monday|B)=P(B|Monday)P(Monday)/P(B)
+
+P(B|Monday)=1
+
+P(Monday)=1/2(assuming the only possible days are Monday and Tuesday)
+
+P(B)=3/4(I awaken 3 out of 4 possible days)
+
+Multiplying those indeed results in P(Monday|B) being 2/3. 
+
+
+
+
+  But I'm not seeing how this tracks back to the original problem. In the original problem, you wake her no matter what you flip. Being awake is therefore not itself evidence for any particular outcome. Thus, since she has no information she did not have when she went to sleep, her answer should not change--the probability of your flipping (or now having flipped) heads remains 1/2.
+
+That's a fair argument. Let me quote from https://en.wikipedia.org/wiki/Sleeping_Beauty_problem#Halfer_position
+
+Nick Bostrom argues that Sleeping Beauty does have new evidence about her future from Sunday: "that she is now in it," but does not know whether it is Monday or Tuesday, so the halfer argument fails. In particular, she gains the information that it is not both Tuesday and Heads was flipped. 
+
+
+
+
+  It does not matter how many times you ask the question -- the probability is always still 1/2.
+
+This is trivially false. If I ask the question 0 times on tails, then the probability of the coin being heads, given that SB was asked the question, is ~1. If I ask the question .5 times (meaning I ask only half of the times that I get tails), then the probability of heads also clearly goes up, because being asked the question is Bayesian evidence for heads. So if I'm asked the question 2 times, shouldn't we be doing the same calculation? 
+
+
+
+
+ 2/3. Each state is equally likely, there are 3 states, thus each has probability of 1/3. 
+
+
+
+
+  The numbers are so large that I would probably be incredibly old upon waking up making it more difficult to imagine and make my intuitions less accurate.
+
+To fix that particular barrier to intuition, you can use the [incubator](http://lesswrong.com/lw/891/anthropic_decision_theory_i_sleeping_beauty_and/) version of Sleeping Beauty. In a nutshell, instead of being woken multiple times, you are cloned and put in separate rooms. 
+
+
+
+
+  But yeah, I'm pretty much in agreement with what someone else here said - we're all arguing semantics.
+
+It could be much of the argument here is semantics, but the actual SB argument isn't. There are several differing views that I don't think can be put down to semantics (see the various views on https://en.wikipedia.org/wiki/Sleeping_Beauty_problem for the kinds of arguments I'm refering to).
+
+As phrased in the video, the answer to the question, "what's the probability the coin came up heads," is 1/2. If we're talking about the probability of SB guessing correctly, if she's asked each time she's woken up, the probability is 1/3 that she would be correct in guessing that heads was flipped.
+
+There's a third question; what is her subjective probability that the coin was heads? The halfers and thirders disagree on that exact question, no semantics involved.
+
+Maybe read through https://en.wikipedia.org/wiki/Self-indication_assumption and https://en.wikipedia.org/wiki/Self-sampling_assumption, and you'll agree that it belongs in philosophy and isn't solely about semantics.
+
+(someone said the odds are 1/2, 1/4, 1/4)
+
+That's the default halfer position. 
+
+
+
+
+ 
+
+P(awake monday|T)=1 If they flip tails you will always be awakened on Monday no matter what.
+
+There's some misunderstanding here. The probability of her being woken on a Monday is one, but the probability I'm referring to is "is today Monday?", which is less likely.
+
+ 
+
+
+
+
+ Also, https://en.wikipedia.org/wiki/Sleeping_Beauty_problem#Halfer_position links to http://www.anthropic-principle.com/preprints/beauty/synthesis.pdf and says
+
+Nick Bostrom argues that Sleeping Beauty does have new evidence about her future from Sunday: "that she is now in it," but does not know whether it is Monday or Tuesday, so the halfer argument fails
+
+which may answer your question. 
+
+
+
+
+ /u/Brian did a great job explaining what I meant by "Probability is subjective", so I'll just focus on the rest of your points. (Also see http://lesswrong.com/lw/oj/probability_is_in_the_mind/ and http://lesswrong.com/lw/s6/probability_is_subjectively_objective/, which might help clear up some confusion).
+
+Like, if they got tails, they wake her up on monday, ask her which she thinks it is, then wake her up on tuesday and ask her what she thinks it is?
+
+Yes, and they wipe her mind in between so she doesn't remember being asked.
+
+Let me restate the problem, because you asked:
+
+SB is put to sleep. A coin is flipped. If it is heads, SB is woken up on Monday, asked what she thinks the coin was, then put to sleep forever. If it is tails, SB is woken up on Monday, asked what she thinks the coin was, then put to sleep. We then give her some memory pill so that she is reset to the state she was in at the beginning of Monday. On Tuesday, we wake her up again, asked her what she thinks the coin was, then put her to sleep forever. 
+
+See https://en.wikipedia.org/wiki/Sleeping_Beauty_problem for more.
+
+There's the probability of h v t
+
+If you want to know the probability from the subjective view of someone not in the experiment, then yes, it's 50/50. We're talking about her subjective probability expectation, which is allowed to be different. 
+
+
+
+
+  She is not asked what is the probability of saying heads will be correct, she is asked the probability the coin landed heads.
+
+And the answer is necessarily subjective, because it's a probability. See [this article](http://lesswrong.com/lw/oj/probability_is_in_the_mind/) and perhaps [this wiki page](https://en.wikipedia.org/wiki/Probability_interpretations#Subjectivism) if you want to understand the subjective claim better.
+
+If by probability you mean what that last page calls "physical probability" (which you seem to), then yes, nobody disputes that. We're talking about the subjective expectation of SB. Bayesian updating works on subjective expectations.
+
+Bayes theorem is hard probability and math, so applying it to "subjective confidence" is not very useful.
+
+You misunderstand at least one of these concepts. Could you explain what you *do* think Bayesian updating is, with some toy example? What is being updated, if not subjective confidence?
+
+Your counter example does though have conditionals, the conditional that she has evidence of the toss. The SB problem is not set up as such. she has literally no new evidence, all she knows is she has awoken.
+
+That's exactly what she learns, though; that she has awoken. That has different probabilities in the two different worlds. To be sure, the probability that she awakens *at least once* is equal; but the probability that she awakens is twice as much in a tails world than a heads one.
+
+If you concede that her probability of waking is different in each world, i.e. P(awake|H)!=P(awake|T), then she can't think it's 50/50 anymore. If you're fine with an example where P(awake|H) is 1 and P(awake|T) is .01, then you already agree with that. So your complaint is that P(awake|T) is 1 and equal to P(awake|H). My claim is that P(awake|T)=2 if she awakens twice.
+
+Getting back to my example above, if you are correct and P(awake|T)=1, then P(T|awake,Monday) (she is told that it's Monday) must be (by Bayes)
+
+P(T|awake,Monday)=P(awake,Monday|T)P(T)/P(awake,Monday)
+
+=P(awake,Monday|T)(.5)/P(awake,Monday)
+
+Now, P(awake,Monday) should equal P(Monday), and that's 3/4 under your theory (1*.5 for H, and .5*.5 for T)
+
+so
+
+P(T|awake,Monday)=P(awake,Monday|T)(.5)/(3/4)
+
+Now, P(awake,Monday|T) should be 1/2, so plugging that in
+
+P(T|awake,Monday)=(1/2)(1/2)/(3/4)=**1/3**
+
+This means that learning that it's Monday causes SB to think that the coin was tails only 33% of the time, and is a direct consequence of your view.
+
+Now, if I modify the problem so that she *only* gets woken up on Monday, then presumably her probability of tails is now 50%. You need to explain why the *possibility* of her awakening on Tuesday affects her probability estimates, even though she knows that it didn't happen. What causality can there be there?
+
+Your example simply institutes a test which is completely solvable, and therefore a tautology. P(X|X) is always 100% and isn't seemingly a very useful insight.
+
+I'm trying to motivate a model where the likelihood of her awakening matters. If it matters for sub-1 probabilities, then it should matter for over-1 as well. Those might not be standard probabilities, but they do seem to work. 
+
+
+
+
+  Me saying heads 100 percent of the time does not imply that the probability of a tails event occurring is absolute, just that it is the only thing I will observe.
+
+We're not talking about some abstract property of the coin, called "probability". We're talking about what she will observe, if she goes and checks the coin.
+
+If I only show you the coin when it lands on heads, then my telling you that I'm about to show you the coin is evidence which causes you to update your probability to ~1 of heads. Yes, the prior probability remains unchanged, priors never change (barring updates to prior selection policy, but let's ignore that). The posterior does change on new information.
+
+ Finally for Bayesian updating to be relevant at all, SB would need some information to condition her expected probability on. The problem is set up so that no matter when she is asked she will not have any info that changes her assumptions on the mean of the population being observed.
+
+This *is* one of the harder parts to accept about SIA. You can model the new information as "she wakes up", which has probability 1 if heads and probability 2 if tails (because she wakes up twice). That *should* produce all the claims of SIA.
+
+You haven't answered my reverse example, where she lives on tails only 1% of the time. In that case, clearly the fact that she lived is evidence for heads. If you gradually increase the rate at which she lives on tails, you gradually decrease the evidential import of her learning that she lives. I see no reason to stop at one; if she has 2 lives, their probabilities should add (if you deny this, I could cook up other scenarios that should force this kind of anthropic thinking on pain of paradox, like cloning her and then killing one copy with some probabilities).
+
+I think there's also a terminological difference between us. You're referring to the "mean of the population" as the probability. The problem with that is that different people will calculate different means. When I say probability I mean subjective confidence. You need to take into account all information you have to get the probability.
+
+(If your dichotomy matches mine, then we already agree, but I'm not sure if it does). 
+
+
+
+
+ Intuition breaks down with such large numbers (see: Pascal's Mugging). Your brain can't represent 1000000 and rounds it down (see: scope insensitivity).
+
+So while I share that particular intuition (and the related one in the Presumptuous Philosopher problem), I think it's a feature of those large numbers messing up our intuitions. (There's also the issue of uncertainty; if you're not completely sure of all aspects of the scenario, that can easily change the answer with these sized numbers, and while the problem is stated with surety, the brain "knows" that things are uncertain. To be explicit, your intuition refuses to assign a super-low probability to something that started out with a probability of 1/2, possibly in part because of uncertainty over whether any mistakes were made. If the probability of a mistake being made (or of SIA being wrong) is even 1/1000, that still makes for a far higher probability than your 1 in a trillion. So it's possible that you're doing a similar calculation subconsciously, and therefore rejecting something because of intuition despite the intuition not really applying.) 
+
+
+
+
+   Even if she did know, Bayesian updating would only alter her strategy to answer correctly. The probability of answering correctly only has to do with the test parameters, which do not change the physics and resulting probabilities of a coin toss.  
+
+Nobody's saying it changes the physics. Anyway, I'm struggling to understand how you understand Bayesian updating. I understand it as directly updating probabilities, but you seem to think it doesn't? Surely one can obtain evidence for any particular outcome without impacting physics?
+
+You also seem to be using probability in some sense of "a priori". Which definition of probability are you talking about?
+
+edit: from another of my comments:
+
+ I lock SB in a room and put her to sleep. I flip a coin. If heads, I let her out. If tails, I pick a random number from 1-100 with a rng, and for all numbers except 100, I kill her in her sleep. If I picked 100, I wake her up. You are SB, you wake up. 
+
+What would be her subjective probability that I got heads?
+
+What if I always kill her on tails? If you concede in that case, it's a pretty straight line back to the original case.
+
+ 
+
+
+
+
+ Well, the point of SIA is that you're more likely to exist in worlds with more of you. So if there are three possible copies of you, two in world a and one in world b, then you're more likely to be in a than in b. Your probability of being in b is 1/3, then.
+
+It's important to remember that all these probabilities are subjective. Either the coin landed on heads or on tails (multiverses aside), the reason we assign probabilities to things that won't happen is because we *don't know* what will happen/has happened, i.e. uncertainty. So it's perfectly fine for different people to have different probabilities for something (for an extreme case, imagine I saw the coin land and you didn't, or the coin is biased but only one of us knows.)
+
+Also, what I was getting at above is that you don't avoid the problems by halfing. If you learn the day is Monday, then your probabilities must change by Bayes theorem, but that seemingly should be equivalent to the case where she's only woken up on Monday, in which case it should obviously be 50/50. 
+
+
+
+
+ So if I see the coin land on heads, I should still think there was a 50% chance that I imagined it, because math? Or, perhaps, evidence *can* change probabilities.
+
+To give a more intuitive case: I lock SB in a room and put her to sleep. I flip a coin. If heads, I let her out. If tails, I pick a random number from 1-100 with a rng, and for all numbers except 100, I kill her in her sleep. If I picked 100, I wake her up. You are SB, you wake up. Does your "math" say that the probability of heads was equal to tails? This is pretty much the negative version of the problem.
+
+Or as I've said elsewhere in this thread, consider her posteriors after learning that it's Monday. She can't still think heads and tails are equally likely, but you would naively claim she still should. 
+
+
+
+
+ So you deny Bayesian updating as correct, then? Mind telling me what problems you've got with Bayes' Theorem?
+
+A simple application of Bayes to learning the day says that the probability cannot be 50/50 both before and after. 
+
+
+
+
+ They answer two different questions. If the exact question is "What is the probability that the coin came up heads?" the answer is 1/2 and if the question is "What is the probability that you would be correct if you guessed the coin came up heads?" the answer would be 1/3.
+
+Probability is inherently subjective, the first question is meaningless unless it means the second question.
+
+If you disagree, explain what this "probability" you speak of means without referencing any individuals' experiences.
+
+(If you mean "is the coin fair" in the frequentist sense, then obviously the answer is still yes; I wouldn't call that probability until it was turned into expectations, and anyway that's not what is meant by probability here. I think you're actually conceding that the basic reasoning is correct but you're using different definitions or something. 
+
+
+
+
+  The probability of the original event i.e. the toss, is still one half. 
+
+Why? What happens if SB finds out it's Monday and does a Bayesian update, according to you?
+
+ 
+
+
+
+
+ its a silly notion at best. The probability of the coin being heads or tails is always 1/2. Unless i seriously misunderstood this, then the probability of the coin being heads or tails is 1/3rd because there are 3 possible outcomes from the observers perspective. The silliness here is assuming that because there is an unknowing observer, then the probability changes from the perspective of the observer. Personally I think this is wrong, the probability of heads or tails is the same. I also think its wrong from the observers perspective. I think that there is still a 1/2 chance of it being heads or tails, but from the point the question is asked the probability of it being monday is 3/4's and the probability of it being Tuesday is 1/4. If i've missed anything i hope someone lets me know. Who knows, this kind of thing might lead somewhere one day, I wonder what the probability of that is. 
+
+So if she is told that it's Monday, what is her posterior on heads after a Bayesian update? How is that case different than when she's only woken on Monday regardless of coin flip? 
+
+
+
+
+ Probability is subjective. You're right that from anyone else's perspective, that probability is 1/2, but for SB, it's 1/3. 
+
+(Also, consider her Bayesian update upon hearing that it's Monday. If she should previously think that heads/tails were equally likely, then she'd need to think differently then, but that seems inconsistent with the same naive intuition that's leading you to insist the probabilities must be equal. 
+
+
+
+
+ /u/CMAuGaming already recognizes that the probability of the sleeper being woken/asked in a scenario where the coin landed heads is truly only 1/3. But the question of probabilty of the coin landing heads is still simply 1/2.
+
+Probability is subjective. If you concede that the subjective probability is 1/3 (I.e conditioning on being awake and being asked a question), what do you mean by saying the probability is 1/2? Do you think there's some objective "fact" that something has a probability of happening even if it doesn't happen? 
+
+
+
+
+ Except Dumbledore wasn't sure if Q had a time-turner. See the Azkaban arc. 
+
+
+
+
+ Frankly, considering the history of US-Iran relations, the real question is why they should trust us
+
+I don't think they should trust us. That said, the argument "they shouldn't trust us, therefore we should give in" is disingenuous. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wow, it's true. This will make signing in on my phone a lot easier, thank you. 
+
+
+
+
+ Hm, manually saving keeps the achievement. 
+
+That's still a bug though, reset should automatically save first. 
+
+
+
+
+ Those are specifically to gmail, which is obviously going to be higher simply because we know one side supports encryption then.
+
+Besides, if hostgator didn't use encryption, it doesn't matter how many others did, like I said above. 
+
+
+
+
+ Got a source for that? It's not actually relevant in this case, because the article explicitly says that it wasn't encrypted
+
+Not only did HostGator send keys in plain text via e-mail, it also appears to have sent them over an unencrypted channel. 
+
+
+
+
+ It just only increases the wind at our backs to continue organizing around the **70%** of Americans who are with us on this issue, said Sasha Bruce, a national coordinator for NARAL Pro-Choice America, referring to the **63%** of the public that supports abortion rights, a rate that has remained steady for decades.
+
+So, in other words, she lied. 
+
+
+
+
+ First, very few emails now days are sent in plain text unencrypted.  Almost all users have started using TLS, which means the emails would be transmitted encrypted in transit.  
+
+You missed the point. It doesn't matter if the user accesses his email securely, because the emails themselves are sent over the internet unencrypted. Any server that processes the email (of which there are many "hops") can see it.
+
+On the third point, if you have the key, then you have to be able to see the traffic between the site and the user in order to decrypt it.  That means you have to be tapped in very close to the server or very close to the end user.  Neither of those are easy, most require physical connections at the location.  True a proxy server would be a great way to go, but the user would still need to be using the proxy server.
+
+It is simply too much work to steal an SSL key and then try to get that traffic.  Sure, if it were Amazon or Bank of America, then yea, go for it, having a key like that might be really useful.  Having a key for Bob's Putty Store who sells putty to 20 people a month isn't going to be as useful.
+
+Bob's putty store doesn't need HTTPS if he doesn't need the security of HTTPS. This effectively reduces the security model of HTTPS to HTTP+email interception.
+
+If you signed up for HTTPS, you should expect your keys to be safe.
+ 
+
+
+
+
+ Could you give examples?  
+
+
+
+
+ Do you know of any research that finds a link between drones and recruitment, or is it all just speculation? 
+
+
+
+
+  Drones symbolize a failed war that is based on false pretences and lies, which are creating more terrorists rather than eradicating terror.
+
+http://patrickjohnston.info/materials/drones.pdf
+
+We find that drone
+strikes are associated with decreases in the incidence and lethality of terrorist
+attacks, as well as decreases in selective targeting of tribal elders.
+
+...
+
+A systematic analysis of the data reveals that drone strikes have succeeded in
+curbing deadly terrorist attacks within the targeted territory in Pakistan. Specifically,
+the key findings of our study show that drone strikes are associated with substantial
+short-term reductions in terrorist violence along four key dimensions. First, drone
+strikes are generally associated with a reduction in the rate of terrorist attacks. Second,
+drone strikes are also associated with a reduction in the number of people killed as
+a result of terrorist attacks, i.e., the lethality of attacks. Third, drone strikes are
+also linked to decreases in selective targeting of tribal elders, who are frequently
+seen by terrorist groups as conniving with the enemy and acting as an impediment
+to the pursuit of their agenda. Fourth, we find that this reduction in terrorism is
+not the result of militants leaving unsafe areas and conducting attacks elsewhere in
+the region. On the contrary, there is some evidence that drone strikes have a small
+violence-reducing effect in areas near those struck by drones.
+
+If you've got actual data showing that it creates more terrorists, as opposed to some disgruntled former officials, let me know. 
+
+
+
+
+ Have you seen http://patrickjohnston.info/materials/drones.pdf ? 
+
+
+
+
+ And remember http://gawhsi.com/commexppage_light :
+
+viagra online cheap 
+
+
+
+
+ I reset right after getting the Uniception achievement, and didn't have it afterwards. Is this a known bug? I can provide the export if needed, it's reproducible.
+
+             
+
+
+
+
+ That video seems to be blocked in the US, weird. 
+
+
+
+
+ What's the answer to this paragraph?:
+
+The trouble is that the third criterion makes little sense. Jupiter is dogged by asteroids called Trojans, Earth has the moon following its every move and Neptune crosses orbits with Pluto. 
+
+
+
+
+ Except obviously whether Pluto is or is not a planet is a non-factual question, and is entirely dependant on your definition of planet. 
+
+
+
+
+  While it sounds all insecure, really, there are far easier ways of doing that attack that don't require hacking an email, then finding and setting up an MITM style attack or snooping on a connection.
+
+First of all, you don't need to hack an email; these are sent in *plain text unencrypted*, so anyone on the network path it was  on can see them. Second, if it's so useless, why don't you publish all your SSL keys for all the websites under your control?
+
+Third, what "easier" method is there for passive decrypting https connections or actively mitming an https connection than this? 
+
+The end user would need to be identified, then a MITM attack or network snooping setup on them.
+
+Or set up a proxy server, then mitm all https connections through it that you've got the key for. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Guess someone only read the title ... 
+
+
+
+
+ Yes. https://www.google.com/search? q=how+to+go+to+the+moon+in+pokemon+ruby, lots of results. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Get an Apple watch and use Time Travel 
+
+
+
+
+ why not get a touch + mobile charger/case? 
+
+
+
+
+ been like that for a while. 
+
+
+
+
+ It used to be 8gb 
+
+
+
+
+ Hashers 
+
+
+
+
+ Ever heard the Ruby moon one? 
+
+
+
+
+  research
+
+ can't consent to sex with adults. 
+
+*someone* mixed up their is and oughts ...
+
+That's a moral claim, and research establishes facts.
+
+ 
+
+
+
+
+  However, if a 21 year old is getting nudes from a 14 year old, then yeah they should be thrown in lockup. 
+
+CP laws are not necessary for such scenarios; you could be prosecuted for abuse directly. CP laws would only be relevant where the person *didn't* abuse anyone.
+No-one under the age of consent can consent. No-one under 18 can make the decision to be in pornography that gets distributed to others. 
+
+Why can they consent to sex but not to porn?
+
+ 
+
+
+
+
+ What do you mean by illegal but no jail?
+
+And how do you define "young"? 
+
+
+
+
+ If you take the position that gore videos should be illegal to possess, fine, at least you're consistent. 
+
+
+
+
+ So any CP recorded with consent of the kid would be fine? That's already a big step from currently. 
+
+
+
+
+ That reaction is why he sourced his claim. His link is http://www.newsmill.se/artikel/2011/01/14/stoppa-myndigheters-vergrepp-p-barn, seems to be down but archived [here]( http://web.archive.org/web/20131118214840/http://www.newsmill.se/artikel/2011/01/14/stoppa-myndigheters-vergrepp-p-barn)
+
+You can use Google translate. 
+
+
+
+
+ So then you *do* support changing current CP laws to be more lenient. 
+
+
+
+
+ 
+
+ cp is always recorded by a perpetrator.
+
+Uh, nope. Kids have been arrested for taking pictures of themselves. See https://falkvinge.net/2012/09/11/child-porn-laws-arent-as-bad-as-you-think-theyre-much-much-worse/ (his first article https://falkvinge.net/2012/09/07/three-reasons-child-porn-must-be-re-legalized-in-the-coming-decade/ is also worth reading) 
+
+
+
+
+ The point is that the above argument is just as valid against currently legal things like gore, thus making current laws inconsistent. 
+
+
+
+
+ What age are you referring to? 
+
+
+
+
+ So you'd consider kicking out a 30 year old who has no money child abuse just the same, then? 
+
+
+
+
+ But gore videos are perfectly legal. 
+
+
+
+
+ Not legally, no. Or do you think something *should* be illegal while at the same time parents shouldn't be concerned that their kids are doing it? 
+
+
+
+
+ I'll definitely say that the term child abuse can't be applied for 18 and up. Your last sentence is a semantic game and doesn't reflect what the term is used for.
+
+Whether sending out a 16 year old is abuse or not is a more complicated question, and might depend on a lot of factors (are there easily accessible places for them to move, how self-sufficient are they, etc). 
+
+
+
+
+ If we're talking about 13 year olds, then making it acceptable for them to have sex means lowering the age of consent. They denied that's what they wanted, so presumably they're talking about someone older. 
+
+
+
+
+   Child abuse includes being kicked out on the street because you don't share the same religious views as your parents which could be sex before marriage for example.
+
+If you're old enough to be having premarital sex, surely you're old enough for it not to be called "child" abuse?
+
+
+ 
+
+
+
+
+ 
+
+
+Nobody even thought these priests were abusing children untill the word got out so you can't truly know the actual rate of abuse the Catholics are only out because they were caught. 
+
+You haven't provided any evidence of that. Surely you see the fallacy involved in going from "we can't know" to "one is definitely higher than the other".
+
+Have you got any reason to believe that priests' abuse is less likely to be reported than other people?
+
+I couldn't find a study of how many children were kicked out of their parents house onto the street because they had different religious beliefs (or none at all), so this is very much a hidden rate of child abuse (and yes this happens frequently in more conservative states and countries).
+
+That's a very different problem than what you originally said, and requires different solutions. I fail to see how allowing premarital sex would address that at all.
+
+
+ 
+
+
+
+
+ But you're not their expected attacker. They're trying to keep out generic bots. 
+
+
+
+
+ If religious people don't have a higher rate of abuse, then religion can't be responsible for more abuse, right? 
+
+
+
+
+ #  
+
+
+
+
+ ##  
+
+
+
+
+ They don't have a higher rate of abuse than average http://www.newsweek.com/priests-commit-no-more-abuse-other-males-70625
+
+So there's not even a correlation there, let alone causation.
+
+edit: also, might be misreading you but are you proposing lowering the age of consent as a way to reduce child abuse? 
+
+
+
+
+ If you don't know in advance which kind of question it will be, then that works fine. Those sites are usually small, and are just trying to stop bots not specifically targeting them. 
+
+
+
+
+ They saw the chair pulled out and didn't have enough time to notice that they didn't fall. You can't think fast unprepared. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ They're reporting something from the Iranian government, so it's less likely that it's made up. 
+
+
+
+
+
+
+
+
+
+ It's not based on assuming that everyone is rational all the time (which is unrealistic and wrong), but even if it was, that wouldn't create a duty for anyone to do anything in particular. 
+
+
+
+
+ Uh, no, there's no duty to act in your own self interest, that's not how stuff works. 
+
+
+
+
+ I thought it was against bigger blocks ... 
+
+
+
+
+
+
+
+
+
+ I'm interested in suing for money, not just stopping the emails. 
+
+
+
+
+ Any luck with *email* spam from real companies under CAN-SPAM? 
+
+
+
+
+ So why am I leaving? Ultimately, the board asked me to demonstrate higher user growth in the next six months than I believe I can deliver while maintaining reddits core principles.
+
+Hm, funny coincidence. 
+
+
+
+
+  One of the things I'm interested in is good-enough heuristics for when we don't have the time or ability to evaluate arguments. 
+
+My heuristic is "if the idea isn't mainstream, and additionally I don't care enough to evaluate it, it's probably wrong, but keep an open mind about it seeing as you haven't looked at the arguments in depth".
+
+And if the idea *is* mainstream, the reverse; accept that it's likely true, but keep an open mind about rethinking it should you suddenly start caring enough to do research.
+
+The trick here is to get good definitions of mainstream. (Left as an exercise to the reader.)
+
+There's also the point that even if you don't *know* that people believe something, they often will. You sort of get this intuitively once you've happened across enough worldview-challenging moments, and then you really *get* on some level that almost every viewpoint has some really strong arguments for it, and you should just be skeptical about things you can't research yourself.
+
+I think that diminishes the usefulness of the heuristic, because you don't *have* first-person knowledge of what people believe.
+
+ I would argue that getting some sense of what people believe in, even if it's not exact, is actually pretty efficient relative to argument evaluation (for most argument-person pairs).
+
+In some cases, but only when you're explicitly not interested in being able to defend your conclusion, and are willing to accept a lower level of confidence. Also, I think the vast majority of the weight of evidence will come from a binary isMainstream.
+
+(As for mainstream definition, you could say "mainstream among experts", but that can get complicated sometimes. [This post](http://nostalgebraist.tumblr.com/post/119000645209/slatestarscratchpad-nostalgebraist-my) is kind of related.) 
+
+
+
+
+  I mean, I think "people believing in it" isn't just "at least one person believing it"; if more people believe in something, that's informative.
+
+This might be more useful if we used specific examples. My standard one when talking about these kind of stuff is UFOs and aliens (which was also mentioned in another comment here). So, fine, the fact that people believe in them is evidence that they exist; but this is extremely low evidence.
+
+Now, take an example where fewer people believe something. I can't actually give any examples, because if I've heard of it, probably a number of other people have as well, and some people believe everything they hear that agrees with their worldview (yes, really, read through comments on conspiracy websites until you're convinced of this). But if we imagine something that isn't that convincing to such [people, and therefore has fewer believers, is that reason to assign the evidence lower weight? Maybe, but the numbers are so small here that it doesn't really matter.
+
+Some other things to factor in: maybe we should calculate (number of people hearing X)/(number of people believing X), to adjust for more people believing things that more people have heard of; you should also adjust in the other direction for correlation between popularity as opposed to belief, and truth.
+
+
+In the end, I think other methods of finding truth are far more efficient; finding out how many people believe something requires you to do a survey, and if it's already been done, then chances are there's enough info about the topic to make a judgement anyway.
+
+You also need to make sure you don't double-count this evidence; if people's beliefs are based on arguments, then conditioning on those arguments partly screens off those beliefs, and it's probably really hard to properly adjust for that. 
+
+
+
+
+ Yes, but very weakly. In general, if a question even comes up and you're thinking about it, *someone somewhere* believes each side.
+
+In your example, if nobody had ever believed in god we would never even ask the question! So as a heuristic, this seems useless, because it doesn't distinguish between anything you'll actually deal with.
+
+(Put differently, the selection of possible beliefs you happen on already adjusts your implicit priors, making the question moot.) 
+
+
+
+
+  Based on the research conducted by the Tor Project in conjunction with tier researchers, around 1.5% of Tor traffic is to hidden services and of that 1.5%, and 2% of that 1.5% is thought to be connected to child porn. Of the child porn sites, 9 out of 10 sites are thought to be honey pots run by law enforcement. (This was in one of the Tor Project's Weekly News Blog segments.)
+
+Could you link to that? (And these honeypots actually host files? Is that legal?) 
+
+
+
+
+ Even though we have spent three plus years begging merchants to accept bitcoin as a payment network (with some major wins, Overstock, Dell, Microsoft, purse.io, Gyft).
+
+And how many of these are accepting payments *only* on-chain? 
+
+
+
+
+
+
+
+
+
+ I edited the post to include the source and full quote. 
+
+
+
+
+ See http://www.kitguru.net/components/hard-drives/anton-shilov/shipments-of-hard-disk-drives-hit-multi-year-low-in-q1-2015/, and the chart therein http://www.kitguru.net/wp-content/uploads/2015/05/hdd_shipments_q1_2015_asps.png. As you can see, prices haven't recovered from the rise in 2012 due to the https://en.wikipedia.org/wiki/2011_Thailand_floods
+
+Edit: the dram taiwan quake was even earlier, in 1999. That also had nothing to do with Windows 8. 
+
+
+
+
+ No, it was before Windows 8 came out. 
+
+
+
+
+ Not literally, I think it meant out of the ones that get debated for long enough or something. 
+
+
+
+
+ Saw a quote once that said that most arguments end in a disagreement over who has the burden of proof. 
+
+If you think you're right, you'll automatically think the burden of proof is on the other side. You need more subtle and robust ways of determining things. 
+
+(Also, for any non-completely-batshit-crazy view, there will be a decent amount of "proof", and as it takes 10 times as much effort to disprove bs than to say it, you'll quickly need far more efficient heuristics for sorting through claims. Logical fallacies are good for debates with people who make them, but if you have any real debates they have diminishing returns.)
+
+Edit: source is http://www.cawtech.freeserve.co.uk/pond_ap.2.html, full quote is
+
+Modern man is so committed to empirical knowledge, that he sets the standard for evidence higher than either side in his disputes can attain, thus suffering his disputes to be settled by philosophical arguments as to which party must be crushed under the burden of proof. 
+
+
+
+
+ "Your Honor, while my client does not deny that he reached his hand into the store and took the stolen goods, he is not his hand and I fail to see how you can punish his entire body for the actions of a single limb"
+
+"I agree. I sentence this man's hand to jail, yet I state explicitly that he is by no means required to accompany his hand to prison."
+
+The man smiled broadly, removing his prosthetic hand and leaving the courtroom. 
+
+
+
+
+ He didn't make the offer directly to her or her agent, therefore it's invalid.
+
+IANAL 
+
+
+
+
+ I knew /u/SarnXero was sarcastic, I just wanted my karma. 
+
+
+
+
+ That may be true under the Popperian line of thinking, but Bayesian thinking doesn't differentiate between falsification and confirmation. You can easily prove things don't happen, they can however be overturned by greater proof that it does, in much the same way as proof that something happens can be overturned by an alternate hypothesis. 
+
+
+
+
+ Jaden Smith Reference Whoosh? 
+
+
+
+
+ Top Ten Sites To Block From Your Facebook Feed! Number One Will 
+
+
+
+
+ What if there really is an organization in Nigeria selecting random internet users as lottery winners? 
+
+
+
+
+ I noticed that vuln a couple years ago, although I didn't write a brute-forcer 
+
+Once had an iPod that needed something like 3,085,456,309 seconds to be unlocked. Lots of fun. 
+
+
+
+
+ Can you elaborate on these phishing defences? If you mitm successfully, it would be coming from facebook.com. 
+
+
+
+
+ If you mitm before they can redirect, it will work. Not sure if you mean HSTS, but even that only works for preloaded sites or if you've already visited the site. 
+
+
+
+
+ He specifically said, "trust me, I'm police", when people were hiding. 
+
+
+
+
+ IIRC the Oslo shooter a few years ago was dressed as a police officer. 
+
+
+
+
+
+
+
+
+
+ Not being able to predict the cost in advance doesn't mean they don't understand the value; you don't know if it takes 5 minutes or 2 hours. 
+
+
+
+
+  He was like "that's too much. I don't wanna pay that."
+
+he doesn't understand the true value of skilled labor.
+
+That quote doesn't demonstrate that. Just because someone may be worth X amount doesn't mean he's willing to pay. If the value for him is less than the cost, it won't get done. That's fine. 
+
+
+
+
+     On a computer you can type  amp;amp;hellip; for an ellipsis,  amp;amp;ldquo; and  amp;amp;rdquo;
+
+Yeah, that's not *easy* on a computer, and it's also not easy on mobile.
+
+Obviously typing several letters sandwiched between two symbols is particularly long-winded and annoying on a mobile keyboard.
+
+I write stuff in italics all the time on mobile, not a big deal after getting used to it. That requires a star, then letters, then another star.
+
+Whereabouts is the ellipsis on yours?
+
+Bottom right, after pressing shift.
+
+ 
+
+
+
+
+ and people will take the easiest route to something unless they're trying to prove a point.
+
+I use that ellipsis whenever I want one on mobile, while on a computer I don't even have that option on any of my keys.
+
+Do you use proper quotation marks, or do you just use the double prime? ""
+
+I use '"', but I'm now on a computer, and doing the same. Again, there are no keys that would allow me to type the fancy quotation marks on my keyboard. 
+
+
+
+
+ I'm  on  mobile  
+
+
+
+
+ "Don't mess with me, or I'll send back a robot to kill your mother before you were born" 
+
+
+
+
+ I think you may have misunderstood me. I'm asking, if you shouldn't avoid any views, then you shouldn't be worried about people being racist. And if you concede that racism *is* a problem, then you can't claim that you aren't afraid of any view.
+
+ 
+
+
+
+
+ Just got me wondering if this can be applied to racism as well. If not, how can you justify that on ideological grounds? 
+
+
+
+
+ Yes. 
+
+
+
+
+ IDK, it never really felt *that* dark as a kid. The rest of the books are so over-the-top in a way that your mind can't really take those details seriously.
+
+The key point is "implied" violence, if done right it won't be too scary for kids.
+
+There was only one book (not ASOUE) I was really freaked out by as a kid; don't remember the name, but it had a kid die, I think after their leg was cut off by accident in a forest or something. Anyone know what book that was? Think it was a classic. 
+
+
+
+
+ I'd bet that the majority at least of Fortune 500 CEOs are in the top 5%. Most elites really are smart. There may be a few that just got there with connections, but not most.
+
+That doesn't mean they make good decisions, of course, that's a different kind of smart.
+
+As to your point of smart people having bad jobs: I still feel that if they wanted to, in most cases, they could get a good one. Many smart people don't think all too much about applying their intelligence to the task of getting a good job. Also, lots of smart people are in academia and making very little, for what I believe are altruistic reasons. 
+
+
+
+
+ If their value to the company is significantly more than their pay, why can't they get a better job elsewhere? Or put differently, what causes a free market failure in jobs? Are switching costs too high? Are companies colluding to keep wages down? If not, why isn't there a bidding war for these underpaid workers?
+
+(I'm asking seriously, not very familiar with the job market). 
+
+
+
+
+ I think sometimes smart people forget how dumb the average person is. Yeah, if you're in the top 5% in terms of brains, it's probably not all that hard to get a good paying job, but 95% of people are not like that. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Takes a few hours to learn, download a guide from somewhere and work through it. Or do it the hard way and figure it out yourself. 
+
+
+
+
+ Changing v2 to v3 would still change the block, and a new nonce would need finding. If that wasn't the case, versions would be useless as voting. 
+
+
+
+
+  I've sold to them before without having any issues. 
+
+But were the cards previously sold by saveya?
+
+Try cardpool! Offering $80 for a $100 Hollister card.
+
+I only have a code, no physical card :(
+
+Was expecting saveya to work fine. 
+
+
+
+
+ I was looking over giftcardwiki prices when I saw that there was an apparent arbitrage opportunity on hollister cards; https://giftcardzen.com/buy/130/Hollister was selling online cards for 19% discount, while saveya and giftcards.com were offering 80%. So any credit card with greater than around 1% rewards meant profit, and since everything was online there's almost no risk of the price changing.
+
+I ordered 3 $100 cards, then tried to sell them to saveya. A few minutes later I got this from saveya:
+
+We experienced an issue during balance verification for the following gift cards that you have submitted.
+
+and
+
+This code was previously acquired from this seller
+
+listed as the reason.
+
+So apparently you can't sell cards to saveya that saveya already sold at one point in time. I couldn't find anyone saying this, a [search](https://www.google.com/search?q="This+code+was+previously+acquired+from+this+seller") for the message turned up 0 hits, and I can't call saveya today because it's Sunday. Tried on giftcards.com, got a "security error".
+
+Anyone have this experience? Anyone had this and succeeded after calling? Are there other buyers that will reject cards they've seen before? 
+
+
+
+
+  In investing, if you don't think something has intrinsic value and I do, I win.
+
+I'm not sure what you mean by winning here, but why is the default to assume intrinsic value without proof?
+
+Besides, if we accept your claim that all you need to show that something has intrinsic value is someone claiming it does, then bitcoin *does* have intrinsic value, contra your above claim. ([Here's an example of someone who thinks it does have such value](https://bitcoinmagazine.com/12846/you-say-bitcoin-has-no-intrinsic-value-twenty-two-reasons-to-think-again/)). 
+
+
+
+

@@ -1,0 +1,68 @@
+ The content is gzipped but I have no idea how to take this into account - 
+
+    HTTP/1.1 200 OK
+    Date: Thu, 27 Nov 2014 19:28:48 GMT
+    Server: Server
+    Set-Cookie: skin=noskin; path=/; domain=.amazon.com
+    pragma: no-cache
+    x-amz-id-1: 0S2HDHT0TMQDGEBVGKRG
+    p3p: policyref="http://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR     DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC " 
+    cache-control: no-cache
+    x-frame-options: SAMEORIGIN
+    expires: -1
+    x-amz-id-2: KpHu9PwKipnS/K0+EpWrGmUnz0QUTo93VLVtTBdqhidh99vboouWHDB0EJMUAbYe
+    Vary: Accept-Encoding,User-Agent
+    Content-Encoding: gzip
+    Content-Type: text/html; charset=UTF-8
+    Set-cookie: x-wl
+    uid=19Av/nk2LAh+FAIVuUFTXvzn9LY8foEsI5aeIB2XC9fdU+037CfOTPpK6GhppgneqrjEV8rJ7sIM=; path=/;     domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+    Set-cookie: session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+    Set-cookie: session-id=186-2888736-1072859; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT
+    Connection: close 
+
+
+
+
+ The cost of removing an element in a linked list is definitely less than rewriting an entire array. Worst case linked list search is O(n) time, but uses no resources, and fixing pointers is O(1) time with what, 2 writes? 
+
+Meanwhile, copying and writing to a new array is what, 2n - 1 read/write operations? This is way more expensive in terms of resources. 
+
+
+
+
+ So, I'm not sure what is going on here but consider this.
+
+    output_greaterequal-first-next = pointer;
+    temp =output_greaterequal-first-next;
+    temp-next=NULL;
+
+So imagine this is not the first element being put in your list. It is over the threshold, and there is already something in the list. You set the next element of the list to be the pointer so you could have had this to begin with:
+
+First-A-B-C-NULL 
+
+or something like that.
+This means first-next is A. But now, you set first-next to pointer (P). So, now your list looks like this.
+
+First-P
+
+and then temp is also set to P, and then it looks like this.
+
+Temp = P-NULL
+
+and now the value is NULL so we break out but your list was messed up in the process it seems?  
+
+
+
+
+ I'm not totally sure what you are trying to do but if you are trying to compare digits of numbers you can use % to get specific digits right, since modular arithmetic would get rid of the rest of the number? 
+
+ex. 13 % 10 = 3
+
+To get the 10's digit would be a bit different,
+
+134 for example would be (134 % 100) / 10
+134 % 100 is 34, and 34 / 10 is 3.  
+
+
+
+

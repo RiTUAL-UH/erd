@@ -1,0 +1,626 @@
+childs:
+- childs: []
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  representation: EnumRepresentation.CSA
+  terms:
+  - filters_terms:
+    - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+    id_term: '1'
+- childs: []
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  representation: EnumRepresentation.SOA2
+  subclassing: {clusterer: KMEANS, k: 2, mode: intra-class, processors: 4}
+  terms:
+  - filters_terms:
+    - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+    id_term: '1'
+- childs: []
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  representation: EnumRepresentation.SOA2
+  subclassing: {clusterer: KMEANS, k: 4, mode: intra-class, processors: 4}
+  terms:
+  - filters_terms:
+    - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+    id_term: '1'
+- childs: []
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  representation: EnumRepresentation.SOA2
+  subclassing: {clusterer: KMEANS, k: 8, mode: intra-class, processors: 4}
+  terms:
+  - filters_terms:
+    - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+    id_term: '1'
+- childs: []
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  representation: EnumRepresentation.SOA2
+  subclassing: {clusterer: KMEANS, k: 16, mode: intra-class, processors: 4}
+  terms:
+  - filters_terms:
+    - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+    id_term: '1'
+filters_terms:
+- {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+terms:
+- corpus: NOSERIALIZED
+  filters_terms:
+  - {fixed_top: 10000, type_filter_terms: EnumFiltersVocabulary.FIXED_TOP}
+  id_term: '1'
+  lazy: false
+  mode: 0
+  raw_string_normalizers:
+  - {type_raw_string_normalizer: EnumDecoratorRawStringNormalizer.TO_LOWER}
+  regexp: "\\#+[\\w_]+[\\w\\'_\\-]*[\\w_]+|@[\\w_]+|[a-zA-Z'\xC1\xC9\xCD\xD3\xDA\xE1\
+    \xE9\xED\xF3\xFA\xF1\xD1\xFC\xDC]+-*[a-zA-Z'\xC1\xC9\xCD\xD3\xDA\xE1\xE9\xED\xF3\
+    \xFA\xF1\xD1\xFC\xDC]+|[a-zA-Z'\xC1\xC9\xCD\xD3\xDA\xE1\xE9\xED\xF3\xFA\xF1\xD1\
+    \xFC\xDC]+|[<>]?[:;=8][\\-o\\*\\']?[\\)\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*]|[\\\
+    )\\]\\(\\[oOdDpP/\\:\\}\\{@\\|\\\\3\\*][\\-o\\*\\']?[:;=8][<>]?|[.]+|[/,$?:;!()&%#=+{}*~.]+"
+  source: NOSERIALIZED
+  string: " i think it's disgusting, i do not want people to have it, but then i do\
+    \ not rule the world so who am i to talk. it were to become reality though, i'd\
+    \ still be against it. but it's still an opinion and you can only do so much with\
+    \ an opinion.  \r\n\n\r\n\n\r\n oh ok i didn't understand that last part. but\
+    \ yeah i agree. cartoon porn with lisa simpson is disgusting. if you're familiar\
+    \ with video games, there was a cartoon porn feature ellie from the last of us,\
+    \ having sex with joel. yeah. ruined the entire game for me. it's just wrong and\
+    \ sick. \n\nsorry i was literally writing those while holding a baby and i couldn't\
+    \ believe that someone who want children to be sexualized whether fiction or reality.\
+    \ i still can't but. yeah. i shouldn't want to force you to change your opinions.\
+    \  \r\n\n\r\n\n\r\n ok you're right on that one. i am trying to change your opinion.\
+    \ this is bad. but you are doing it too. opinions can't be bad if they're opinions,\
+    \ and if they're good, they're facts. \n\nand i have no idea what you just said.\
+    \  \r\n\n\r\n\n\r\n i can't wait to experience that myself.  \r\n\n\r\n\n\r\n\
+    \ it's not an argument about anything, i am expressing an opinion. how i feel\
+    \ and see things. goodness. \n\nand yo hentai is not illegal anywhere and we've\
+    \ all watched it. please. you're just making a thing i said about children all\
+    \ twisted so it fits your initial argument. i think, like many people, children\
+    \ should no be represented in such environments. point blank. simple. \r\n\n\r\
+    \n\n\r\n i do not approve of 25% of anime, no. it's perverted \n\nand i don't\
+    \ know what happened in batman. in what way was this represented? was the kid\
+    \ shot like you would shoot a deer while hunting? probably not. so it's something\
+    \ else. i specifically chose gta v as an example because you can shoot anyone\
+    \ you wish, for no reason. and there are no kids in this game. wonder why? \n\n\
+    it's just an opinion. kids should not be presented in perverted situations. if\
+    \ you think otherwise, i don't understand you. maybe you care less about children\
+    \ than i do. you wouldn't want a 3d porn star based on how you look and act? right?\
+    \  \r\n\n\r\n\n\r\n yes, like i said before, i read too fast. however, i still\
+    \ believe that there is a lot of hypocrisy when dealing with islam since it's\
+    \ not like they're the single worst thing on earth. what muslim preaches is being\
+    \ preached everywhere else. thinking otherwise would be foolish. yet people rather\
+    \ talk about islam. \r\n\n\r\n\n\r\n \"most\" people do, and those who don't are\
+    \ in prison? in what country you live in? please help me get my citizenship. \n\
+    \nand my point was that children should not be represented in situations where\
+    \ there is senseless violence, sexual behaviours and other form of abuse. the\
+    \ innocent should remain innocent, and not involved in such\n'entertaining' indecent\
+    \ things. even if it's fiction.  \r\n\n\r\n\n\r\n but violence is still represented!\
+    \ people are still seeing it! you think all humans think \"oh. it's fake. shouldn't\
+    \ happen in real life\" when they see a movie, game, book, etc. about something\
+    \ that is inherently bad? you think so?  \r\n\n\r\n\n\r\n ok then. violence in\
+    \ video games is not violence since it's not real then.  \r\n\n\r\n\n\r\n a quick\
+    \ google search will give you answers. lately, the problem has been to educate\
+    \ people on the differences between abuse and bdsm because people do not know\
+    \ when to stop. \n\nand you are missing my point here. i'm not talking about banning\
+    \ the sexual orientation or whatever. i am not talking about banning violent things\
+    \ because there are sick people out there. i am talking about not involving children\
+    \ in any type of sexual environment (not quite the word i want). that is all.\
+    \ they're kids, for christ's sake. \n\nkind of like how in gta v there are no\
+    \ kids. because you shouldn't involve kids in such things. because they're ...\
+    \ kids!  \r\n\n\r\n\n\r\n if you are speaking of a matter you did not study, i\
+    \ don't even understand why you're getting all pumped up about it. geez. congratulations\
+    \ you turned out bad, but that means nothing.  \r\n\n\r\n\n\r\n what if you don't\
+    \ have the money?  \r\n\n\r\n\n\r\n but opinions mean nothing when there are facts.\
+    \ all you need is a basic psychology class and you'll know the facts and how the\
+    \ human brain, especially at that age, works.\n\nagain, bad =/= everyone will\
+    \ be negatively affected. abuse is bad. not every abused person is having a terrible\
+    \ life.  \r\n\n\r\n\n\r\n your example, bdsm. some people see it, get a girl,\
+    \ abuse the crap out of her and call it a day. because bdsm is legal.\n\nsame\
+    \ with computer generated porn for pedophiles. sick people will see this, think\
+    \ it's okay since they have a legal alternative. \n\nanyway do not sexualize children\
+    \ at all. it's just not right. which is unfortunately the 'problem' with pedophilia.\
+    \  \r\n\n\r\n\n\r\n it does give this false impression that it's okay though.\
+    \ sick people are everywhere and if they want something, they will have it. \r\
+    \n\n\r\n\n\r\n i don't think it's quite the same, because i do think spanking\
+    \ is inherently bad. something can be bad yet never really affect you personally.\
+    \ it does not make it good. \r\n\n\r\n\n\r\n the thing with this debate is that\
+    \ you will find both sides. kind of like if you google whether vaccines gives\
+    \ autism, you will find thousands of pages 'scientifically proving' it does. however,\
+    \ if you take parenting classes from accredited psychologists (like i did, which\
+    \ is my source), they will talk about punishment and how it affects children.\
+    \ it's not rocket science though.  \r\n\n\r\n\n\r\n goodness. i said this in high\
+    \ school (16-17 year olds in my class at the time), and i was looked down on for\
+    \ many days. people don't differentiate pedophaelia the sexual orientation and\
+    \ the action fo raping children. i even said that homophobia used to be the pedophaelia\
+    \ of today. it was a crime, seen as a sickness ... etc.\n\nhowever, no cgi porn.\
+    \ no. still children. never use the image of children in porn or other sexual\
+    \ environment, whether it's a doll, a drawing, or a real person. it will lead\
+    \ to the sexualization of children, sick people will get their hands on it, children\
+    \ will be abused even more ... no. terrible idea.  \r\n\n\r\n\n\r\n because the\
+    \ person went on a year-long field trip to visit every black human being on earth,\
+    \ invite them to dinner, ask them to pay and see if they tipped?  \r\n\n\r\n\n\
+    \r\n it's not because individuals are fine after a relativity bad experience that\
+    \ everyone should go through it. some rape victims are turn out normal, some victims\
+    \ of physical assault, people getting shit multiple times ... some survive and\
+    \ lead normal lives.  \r\n\n\r\n\n\r\n that second half of your comment is true,\
+    \ but there are facts out there proving that other methods are way more effective\
+    \ than spanking, and that spanking can lead children to negative behaviour as\
+    \ adults. other methods just require more work, and people are lazy. anyway people\
+    \ seldom put time into parenting their own children anymore ... \r\n\n\r\n\n\r\
+    \n not saying there are no valid reasons to dislike islam, i am saying most people\
+    \ disliking christmas only knows was sensationalist media says about it. not islam\
+    \ is not bad because others are bad, i'm saying it's dumb to always point at one\
+    \ when everyone is at fault, as if it's impossible to blame more than one grow\
+    \ of persons. a pet-peeve of mine.  \r\n\n\r\n\n\r\n i read too fast, sorry. however,\
+    \ i met say that this hate towards islam is irrational and 100% driven by the\
+    \ media because that's all the general population knows about. i'm not saying\
+    \ that was you said is false, however muslim is not the only religion with extreme\
+    \ view points and fanatics.  \r\n\n\r\n\n\r\n my bad. yeah i read too fast i think.\
+    \  \r\n\n\r\n\n\r\n but christmas has stopped being a religious holiday though.\
+    \ some muslims and jewish (among others) people exchange gifts with family and\
+    \ friends around that time, which is what christmas is about now. heck,  some\
+    \ christians only care about that part, too, or go to church by tradition and\
+    \ not really because they care. \r\n\n\r\n\n\r\n maybe because technically, it's\
+    \ not a new addition? the child was considered family long ago so they're not\
+    \ a \"new' addition. : ) \r\n\n\r\n\n\r\n you get downvoted because you are grouping\
+    \ extremists and decent people in one group. extremists are a minority, but they\
+    \ speak the loudest. it's like saying americans are the number one problem about\
+    \ our modern world. not really, they're just the loudest.  \r\n\n\r\n\n\r\n you\
+    \ get heavily downvoted especially if you call it lazy parenting. it's like everyone\
+    \ feel personally insulted, or part of them knows it may be true.  \r\n\n\r\n\n\
+    \r\n the same maybe in terms of taking days off (not really because you shouldn't\
+    \ just stop having your kid as a priority and as the president, you would have\
+    \ to). however, the public would be so unforgiving, which could make it difficult.\
+    \ \r\n\n\r\n\n\r\n \"the interview\" is a hot topic, and it's annoying. dumb people\
+    \ are getting into this bandwagon probably because it's such a popular topic right\
+    \ now. i'm against it, for many reasons i've said so many times, it's discouraging\
+    \ to even have to say it. to know that people don't see the problem is quite depressing.\
+    \ anyway. \n\neven my college, from montreal canada (full of kids 17-21) is into\
+    \ it and one of their pages has promoted an event happening in my city where they\
+    \ would attempt to screen the movie. \n\nthey blocked me for expressing my opinion.\
+    \ on a post advocating freedom of expression. \n\nso much for freedom of expression.\
+    \ i give up. \n\nupdate: i thought the guy behind the event would be nice enough\
+    \ to ask me why they're censoring people against said event ... my comment got\
+    \ deleted.  \r\n\n\r\n\n\r\n my thoughts exactly. people are all over this dumb\
+    \ movie who will probably poke fun of the most miserable human beings on earth.\
+    \ north koreans and foreign prisoners are still being executed, and maybe this\
+    \ movie will prompt more executions. kim jong-un is already the most paranoid\
+    \ fucker on earth, killing anyone he thinks is against him or whatever. if he\
+    \ can't take out the big guy, he'll take out the individuals as he wishes since\
+    \ he can. oh but because it's not happening on american soil, it's all good though.\
+    \ we get to have our movie from seth rogen oh my god comedy genius! not only america\
+    \ won, freedom won! we did it! freedom of speech, liberty, cia is raping people\
+    \ but that's not what this is about... we.did.it. \r\n\n\r\n\n\r\n if you wanna\
+    \ go there, we're all from africa. \r\n\n\r\n\n\r\n most black people i've seen\
+    \ in american tv are portrayed as sassy fat secretaries who make people laugh\
+    \ all the time though.  \r\n\n\r\n\n\r\n you fail to understand that it's not\
+    \ because the grand jury and the general public have access to the same information\
+    \ that said information is the cold hard truth. judges are not gods. they are\
+    \ humans presented with evidences made by humans, some false, some true. they\
+    \ do not know more than you and i do. their job is not really to find the truth\
+    \ since it's impossible, their job is to take what they have and guess what happened,\
+    \ to punish accordingly. it is why sometimes murderers can get away with murder:\
+    \ if there is no evidence (even if everyone knows in their guts he did it), the\
+    \ judge cannot put the guy in prison.\n\nno one knows shit. we were not here.\
+    \ only witnesses, wilson and brown know what you truly. so stop speculating, and\
+    \ stop using this situation to be racist.  \r\n\n\r\n\n\r\n i am not discrediting\
+    \ /u/obviousassassin. everything he said is the truth. however, most of us do\
+    \ not live in a world where are biological predispositions matter. so it's very\
+    \ irrelevant to modern humans, except when it comes to competitive sports.  \r\
+    \n\n\r\n\n\r\n there are women in battle right now i don't think i understand\
+    \ your point.  \r\n\n\r\n\n\r\n the thing with some white people though is that\
+    \ they don't stop at the critic. they want to test their limits and see how offensive\
+    \ they can get without getting in trouble. if it's rational, backed up with facts\
+    \ and all, it's cool. but then when you have half the population acting like ten-year-old\
+    \ who just used a curse word, then no. don't talk.  \r\n\n\r\n\n\r\n people don't\
+    \ really care. maybe your family will because they feel like that's their job\
+    \ and responsibility (so it's not as genuine as we'd want it to be), same for\
+    \ your friends, but people do not care. this is why \"how are you?\" is said out\
+    \ of politeness in many nations, and not because the person actually cares. do\
+    \ talk to people though, because yeah you'll get insane if you don't. but don't\
+    \ expect them to be there for you at all times because chances are you're not\
+    \ a priority.  \r\n\n\r\n\n\r\n many people here missed the word \"best\" in the\
+    \ question. they just think of the most socially unacceptable thing, turn it into\
+    \ an \"advice\", and wait for upvotes.  \r\n\n\r\n\n\r\n men whine. and when they\
+    \ do, they never shut up.  \r\n\n\r\n\n\r\n fun fact! our ancestors started living\
+    \ together as 'couples' because they knew that by 'being a family' they would\
+    \ not have to share food with the rest of the tribe! \n\nit's human to be selfish.\
+    \ that's how we've survived for so long.  \r\n\n\r\n\n\r\n i like how you're talking\
+    \ about tribes when this does not apply to most of the world anymore. those physical\
+    \ differences in men and woman are only relevant in sports now.  \r\n\n\r\n\n\r\
+    \n what men say they want versus what they actually want is often very different,\
+    \ especially in younger and more immature women.\n\nunless it's sex. that's all\
+    \ men know they want.  \r\n\n\r\n\n\r\n exactly. so many people, even people online,\
+    \ are using this even to either spew hate, cause trouble or just to feel \"cool\
+    \ and anarchist\". it's really sad and annoying.  \r\n\n\r\n\n\r\n can you stop\
+    \ with this hollywood bullshit? is this all americans have on their tv? do people\
+    \ know there are informative documentaries out there you can use as sources to\
+    \ form an opinion? has that ever occurred to you there is information out there\
+    \ one can look for, and you can even look for them! i thought your country's pride\
+    \ was the well-trained individuals you have in the army and such. but you don't\
+    \ even know what they are capable of doing. what a shame.  \r\n\n\r\n\n\r\n great!\
+    \ thanks for the link!  \r\n\n\r\n\n\r\n psst. get out your mom's basement once\
+    \ in a while. you'll see the world is different when you look at it with your\
+    \ own eyes.  \r\n\n\r\n\n\r\n except no one is willing to do that. it costs too\
+    \ much money and no government would give money just to be nice. it would be considered\
+    \ a waste. so unless people are willing to donate or have their taxes go up, nothing\
+    \ will happen. because i swear, you go in those countries and you know women want\
+    \ birth control. they are tired of having children, being raped by their men (but\
+    \ what can they do about that? that's another unfortunate reality), and then being\
+    \ left alone with three crying kids. \r\n\n\r\n\n\r\n that's a childish way of\
+    \ reacting, honestly. i could write the name of about half a million middle eastern\
+    \ kids, too. what would be my point? some cases don't get news attention. it has\
+    \ nothing to do with race, it has an awful lot to do with sensationalism and the\
+    \ fact that there are millions of people dying unjustifiably yearly. get over\
+    \ it.  \r\n\n\r\n\n\r\n never, because i won't put myself in a situation i can't\
+    \ handle, and two, i do not have the proper training for that!! i was not born\
+    \ bough like 99% of people, therefore if i wanted to be bough and take down bears,\
+    \ i would train! not saying i would become invincible, but i wouldn't take my\
+    \ gun out because someone slightly bigger than me is \"threatening me\". but i'm\
+    \ an average person, not a police officer. i mean, being able to respond to emergencies\
+    \ like this is not my job.  \r\n\n\r\n\n\r\n if you don't know what physical training\
+    \ can do, you're missing out on so much about life. also, last time i checked,\
+    \ police officers don't just have a gun. so he could have used other weapons to\
+    \ immobilize him too. i don't see why you're making this so much more complicated\
+    \ than it is. the gun should have been his last result. excuse me, living in canada\
+    \ and all, but americans are too trigger-happy for me. it's ridiculous.  \r\n\n\
+    \r\n\n\r\n i don't see why you have people who are actually trained for this in\
+    \ the military but you wouldn't put those same people in the streets of places\
+    \ you'd judge hostile.  \r\n\n\r\n\n\r\n i agree with you. i think that as the\
+    \ police, they should be trained for that type of situation. we're not talking\
+    \ about mall cops in suburban calgary here. we're talking about people who should\
+    \ be the first to response to any type of emergency, especially in a country where\
+    \ anyone can own a gun, especially in hostile neighbourhoods.  \r\n\n\r\n\n\r\n\
+    \ be happy, i'm not in america right now and i'm glad i am not. how can shooting\
+    \ someone can ever be right? i mean not shooting, but murdering them. he's a cop!\
+    \ he should be trained for this kind of situation!  \r\n\n\r\n\n\r\n so you're\
+    \ saying american coops were not given good training. i honestly agree.  \r\n\n\
+    \r\n\n\r\n if you think the name is the issue, then clearly you have not been\
+    \ reading much about feminism. it's just a name, for crying out lout. a name with\
+    \ a history behind it.  \r\n\n\r\n\n\r\n in other words .... if this kid should\
+    \ have died or not. because you can fire you weapon once or twice at most. there\
+    \ are so many spots you can aim at to weaken your enemy without killing them.\
+    \  \r\n\n\r\n\n\r\n you think they know better though? most of the world is just\
+    \ uneducated. they literally cannot know better. what are you blaming them for?\
+    \ if you know about contraception is because you learned this in school. it's\
+    \ not something you can just figure out.\n\nalso, unlike condoms that seem to\
+    \ be given like free candy, contraceptives made for women are expensive! and i\
+    \ swear women will take it. no one likes being pregnant and then having to take\
+    \ care of all kids anyway. however fewer men will wear condoms because \"it doesn't\
+    \ feel good\". that's the real problem. educate the masses, especially males who\
+    \ seem more stubborn than females.  \r\n\n\r\n\n\r\n seems like it. a 12-year-old\
+    \ was shot for playing with a bb gun. while not too long a go, a man was walking\
+    \ around kids with a real gun, waving it around at people, and he is still alive\
+    \ and well.  \r\n\n\r\n\n\r\n this case was basically about deciding whether or\
+    \ not some guy deserved to die or not. doesn't that shock anyone but me? and i\
+    \ thought i was heartless.  \r\n\n\r\n\n\r\n police officers are trained individuals\
+    \ who should know how to react in any possible given situations. they aren't your\
+    \ every day suburban wife who feels threatened when they hear an unusual sound\
+    \ coming from a window.  \r\n\n\r\n\n\r\n my mother just gave me a tablet. randomly.\
+    \ that is, a day after knowing that my father would send us a tablet he got for\
+    \ free. a couple of days ago, she bought me the fancy type of headphones (that\
+    \ i gave to my father instead for a number of reasons). and a week prior, she\
+    \ bought me small speakers. i am not thankful though. instead, i can't help but\
+    \ think about the cost of all of those things. money has become an obsession for\
+    \ me, especially since we're not really well-off, yet my mother spends money like\
+    \ we're part of the upper class. second, do i deserve those things? i certainly\
+    \ don't. i am not a child my family is proud of, especially my mother who you\
+    \ can tell just hates the person i'm becoming. so why spend money we don't necessarily\
+    \ have on me? now it feels like i owe her my life. \n\ncall me ridiculous but\
+    \ it's giving me a great deal of anxiety. i do not like to be given things, especially\
+    \ when i don't deserve them. i can't be thankful.  \r\n\n\r\n\n\r\n never said\
+    \ the opposite.  \r\n\n\r\n\n\r\n i understand. it is my first time seeing that\
+    \ kind of humour in this subreddit. usually i see people either commenting on\
+    \ how unusual/unjustified/avoidable/etc. is. never saw any attempt at that kind\
+    \ of humour (not like there has been none, but this kind is my first time experiencing\
+    \ it (. \r\n\n\r\n\n\r\n :'( \r\n\n\r\n\n\r\n since we were dealing with death,\
+    \ i thought it was the most appropriate word. \r\n\n\r\n\n\r\n i don't see how\
+    \ horrible things can be funny at all, and i don't see how yourself don't understand\
+    \ that some people don't find humour in everything. excuse my terrible english,\
+    \ but some things just ... are. you don't need to find it funny or sad. \n\nsociopaths\
+    \ are unable to feel empathy. people here seem to lack of it. it is why i used\
+    \ that word.  \r\n\n\r\n\n\r\n oh no! :( i'm such a loser now. \r\n\n\r\n\n\r\n\
+    \ yeah i agree with you. i just sometimes get the impression that there are a\
+    \ few here who don't get it though. \r\n\n\r\n\n\r\n the subreddit was created\
+    \ to watch people die. i did not think i was in a sociopath anonymous group. \
+    \ \r\n\n\r\n\n\r\n i am not saying to care, not at all. but i mean people here\
+    \ sometimes sound like death is some kind of game. excuse me for repeating myself,\
+    \ but they act like they're in a video game and they just saw someone headshot\
+    \ an ai! maybe humour was not the right way of describing it because as you said,\
+    \ it is subjective. however even the most morbid people understand that death\
+    \ is not a game. while here, not so much.  \r\n\n\r\n\n\r\n i'm not the kind of\
+    \ person who think a shrine should be made for every dead person that ever existed,\
+    \ but making video games references when seeing someone die is pretty much what\
+    \ a sociopath sounds like. death is not \"funny\" or \"no big deal\". \r\n\n\r\
+    \n\n\r\n i honestly don't get the humour of this subreddit. sometimes people sound\
+    \ like sociopaths with no feelings whatsoever. i think the \"150+ score\" is a\
+    \ little disrespectful. \r\n\n\r\n\n\r\n google won't admit they know more than\
+    \ your mailing address * \r\n\n\r\n\n\r\n i see what you mean. i guess i read\
+    \ it with the wrong tone (if that makes any sense).   \r\n\n\r\n\n\r\n he did.\
+    \ he is justifying this revenge, which would be a genocide if it had happened,\
+    \ by saying (and i quote) \"it's a very human response to a very inhuman situation.\"\
+    \ \r\n\n\r\n\n\r\n i'm sorry i did not provide you enough material to ridicule\
+    \ me.  \r\n\n\r\n\n\r\n not at all.  \r\n\n\r\n\n\r\n didn't know you were the\
+    \ ambassador for 7 billion people but ok.  \r\n\n\r\n\n\r\n a 12 month old baby\
+    \ is too different from a 15 month old to just refer to it as a \"one year old\"\
+    . same with two year olds. there is a difference between a 24 month old and a\
+    \ 30 month old, hence why \"and a half\" is used with children aged 2 to ~6. \
+    \ \r\n\n\r\n\n\r\n there are huge differences between a one year old and an 11\
+    \ month old. up until their 2nd birthday, children change monthly (and after that,\
+    \ they go through huge changes every 3 months or so). so there is a big difference\
+    \ between a 12 month old (1 year old), 11 month old, 13 month old ... etc.  \r\
+    \n\n\r\n\n\r\n i wake up at 6:30 too and so does most people so it's not really\
+    \ an achievement. i said 5:00 because that would be commitment. \r\n\n\r\n\n\r\
+    \n not offended at all. i understand i am part of a minority here.  \r\n\n\r\n\
+    \n\r\n hey, i actually do! i find it really useless when it's done for aesthetic\
+    \ reasons.  \r\n\n\r\n\n\r\n i just find it very unnecessary. like i said, you\
+    \ would not step on an ant for fun, or cut a three because you felt like it. if\
+    \ you would, why?! \r\n\n\r\n\n\r\n yes, exactly what i meant. sorry i failed\
+    \ to express myself properly.  \r\n\n\r\n\n\r\n yes, why would you cut down a\
+    \ tree for your own enjoyment? my argument remains the same. just don't do shit\
+    \ unnecessarily.  \r\n\n\r\n\n\r\n so? why purposely have them go through something\
+    \ that would be painful? that's like stepping on ants for fun. it's not damaging\
+    \ per se, but doing it on purpose is just dumb.  \r\n\n\r\n\n\r\n i am a female,\
+    \ i have no desire to be another sex or gender, but i feel extremely uncomfortable\
+    \ knowing what is between my legs. it's odd, because from what i know, only people\
+    \ who have been molested and raped feel the way i feel, but i have never been\
+    \ touched inappropriately (from what i know and recall \u2014 i am 18, by the\
+    \ way). i feel disgusting, repugnant, sometimes i wish i could just cut it out.\
+    \ i react as if i have been violated, it feels wrong and gross to clean that area\
+    \ (even when i'm wiping after using the bathroom \u2014 and ironically i sometimes\
+    \ excessively wipe), and it's always on my mind. i don't think i'll ever go see\
+    \ a gynaecologist even though i really need one. the thought of it makes me shudder.\
+    \ \n\ni don't find other females repulsive for being females, but seeing a vagina\
+    \ really makes me uncomfortable. i even dread changing a girl's diaper for that\
+    \ specific reason. i do not know what to do, i do not want to do anything because\
+    \ i would feel impure. not because of the vagina, because of me (does that make\
+    \ sense?)\n\ni was wondering if anyone could relate to this, and if there is a\
+    \ reason behind this mindset. thank you!  \r\n\n\r\n\n\r\n i was raised to believe\
+    \ that life isn't about how good you feel about yourself, but how good society\
+    \ sees you.i was raised to believe i should fear failing a course more than i\
+    \ should fear my suicidal thoughts. i was raised to believe that my depression\
+    \ should be put on hold to focus more on schoolwork. i was raised to believe i\
+    \ didn't matter now: my worth will come from my academical and professional achievements\
+    \ in the future. \n\ni was encouraged to postpone my happiness, or maybe cancel\
+    \ it, because i needed to make my parents proud by becoming someone they approved\
+    \ of, and by giving them bragging rights. because i don't matter now. maybe i'll\
+    \ never matter. i'm living for them, and they're living through me. \n\nfuck it.\
+    \ i will work hard for myself, towards my own goals. i need no one as no one really\
+    \ needs me. i'll become selfish for my own good.  \r\n\n\r\n\n\r\n i am no supernanny,\
+    \ and i obviously haven't done everything there is to do. however, i'm feeling\
+    \ quite down and discouraged. a couple of weeks ago, i asked for ideas on how\
+    \ to entertain a two-year-old. all responses were great and i am so thankful!\
+    \ i was hyped and eager to try some of the things with the toddler. however, she\
+    \ was not interested. playdough? was good for a minute. cardboard things like\
+    \ tubes and such? was interesting only because it came out of my bag (my backpack,\
+    \ to them, is full of treasures and she especially enjoys seeing what i bring,\
+    \ but her curiosity stops there). yesterday i took her out to a biodome, and she\
+    \ did not care much. i tried getting her excited about fish especially since she\
+    \ seems to enjoy water, but after understanding she could not touch the water\
+    \ trough the glass, she lost interest. \n\ni noticed that she enjoys holding on\
+    \ to things. i purposely bought a lunchbox (those 'vintage' ones shaped like a\
+    \ rectangle, usually made of metal) and as predicted, she enjoyed holding on to\
+    \ it. she also wanted to hold a plastic bag i had diapers and wipes in. i once\
+    \ bought a bag of pompons she could pass through a tube taped to the wall, and\
+    \ she only cared about holding on to the bag, and would (mildly) panic whenever\
+    \ a pompon would fall off. that has been her favourite thing to do so far. for\
+    \ instance, the playdough was fun for a few seconds while holding on to it. then\
+    \ big brother wanted to play with it and she lost interest. same with carboard\
+    \ tubes ... the only thing she has been using has to be markets. oh, and she enjoys\
+    \ tv.\n\nwhat do you in a situation like this?  \r\n\n\r\n\n\r\n my self-worth\
+    \ vanished today. i have lost something that was given to me: headphones.\n\n\
+    yes, i can buy new ones. no, it was not at an exorbitant price (about forty dollars)\
+    \ and yes, it was given a while ago (10 months ago in two days), but it hit me\
+    \ hard to know money was spent on me, and my forgetfulness made it a waste. \n\
+    \ni'm pretty sure i will find them either tomorrow or next monday, but in the\
+    \ mean time, in the midst of a mild panic attack, i cried. not only have i disturbed\
+    \ my routine (i do not cope well with unforeseen events), but i've wasted someone's\
+    \ resources. i seem to be pretty good at it. if it's not money i'm wasting, it's\
+    \ time. always someone's time. and i'm not worthy of any of it.\n\nwhat to do?\
+    \ should i stay home tomorrow? how can i waste people's time tomorrow after wasting\
+    \ someone else's resources? would that be fair? would that be wise? i want to\
+    \ stay home tomorrow. and maybe the next week, and the week after. i'm panicking.\
+    \ i will stop now. but i needed to say this.   \r\n\n\r\n\n\r\n i am looking after\
+    \ two children, but usually the two-year-old is left alone with me. \n\ni'm used\
+    \ to looking after children, but now i'm a little out of my comfort zone. the\
+    \ mother i am helping out is not very fortunate, so her children do not have any\
+    \ toys besides markers (and i'm not too fond of them since the little one likes\
+    \ to draw on herself) and a couple of bikes. also, i don't think i'll be able\
+    \ to leave their house since the mother only has one set of keys, and she needs\
+    \ them. i am afraid of bringing rented things (books, movies) because the two-year-old\
+    \ can and will draw on them, rip them apart, eat them ... buying them things is\
+    \ also tricky because not only i am a student on a budget, but since i'm working\
+    \ for an agency, one rules says i can't give them anything (unless they make something\
+    \ out of it, like paper, pencils). \n\nthey are of a different culture, and the\
+    \ little girl is just two, so she only knows what her mother does. she's not familiar\
+    \ with many games and activities we'd consider \"basic\" for kids her age, and\
+    \ there's obviously the language barrier. the only thing that could keep her entertained\
+    \ for hours is either making a mess with water or being thrown in the air (but\
+    \ i'm too unfit to do that for more than 45 seconds). \n\ni'm okay with buying\
+    \ very cheap stuff, but she seems to not quite understand what can be done with\
+    \ these things and she doesn't understand me, so she loses interest immediately.\n\
+    \nany suggestions? \nthanks in advance! \n\n** thank you for all for your suggestions!\
+    \ i'm very thankful for your replies! i will give boxes a try, since it's cheap\
+    \ (even free at some places!) and start from there. playdough is obviously a close\
+    \ second. i'll try making my own if that turns out to be better. really, thank\
+    \ you very much!  \r\n\n\r\n\n\r\n when you look for articles about self-help,\
+    \ 99% of tips are written assuming the person has either a good life, or is capable\
+    \ of finding the good in their situation. \n\nstop assuming.\n\nwhen people want\
+    \ to prevent suicide for instance, they will talk about how family and friends\
+    \ will miss them. not everyone has that supporting group of people who truly care\
+    \ about them, and certainly not everyone is capable of judging whether or not\
+    \ this group of people even exists. (and why live for others?!)\n\nin websites\
+    \ sharing tips on how to prevent unhealthy coping mechanism, they always assume\
+    \ the person is aware of the positive in their life. they always talk about \"\
+    reaching out to someone who makes them feel good\" or \"doing something that will\
+    \ make them feel better\". it's a statement that always bothers me because literally\
+    \ what makes the person feel better is that unhealthy or damaging thing they're\
+    \ doing. and again they always assume the person feels worse after doing whatever\
+    \ they're doing. not always. some people do it, feel better, fall asleep and tomorrow\
+    \ ends up being a better day. and in desperate situations, you either can't tell\
+    \ who is on your side or not, or you have no one on your side, which seems to\
+    \ baffle some as if everyone is born with a great family and amazing friends that\
+    \ are there for them. \n\ni find those ridiculous. i needed to say that somewhere.\
+    \  \r\n\n\r\n\n\r\n just so you know how terrible my memory is, for the past year\
+    \ or two, i've been struggling speaking even my mother tongue (french) because\
+    \ i couldn't remember words.\n\ni am learning russian and german at school right\
+    \ now. i'm doing okay with german, memorizing-wise (though it could be better,\
+    \ but i shouldn't be complaining). however, after 6 full weeks of russian, my\
+    \ vocabulary is still limited to about a dozen words, at most 20. \n\ni can read\
+    \ and write cyrillic just fine, but when i am reading a word i am trying to memorize,\
+    \ my brain just goes into \"decrypting mode\", which doesn't include memory. i\
+    \ can't seem to stop it from doing that. i have tried memorizing the latinized\
+    \ words, nothing. what's odd is i did not have any difficulty learning mandarin\
+    \ chinese words and script. \n\nis this a common thing, and what should be done\
+    \ to fix it? \n\nthank you in advance.  \r\n\n\r\n\n\r\n september of last year,\
+    \ i met someone i considered to be one of the greatest person i ever met. a year\
+    \ later, i managed to have a (very short) conversation with them. after two minutes\
+    \ of silence from my part (minutes spent trying to recompose myself), the conversation\
+    \ died out. i have tried initiating it again, without success. \n\nsounds benign,\
+    \ doesn\u2019t it. here\u2019s more.\n\nat the age of 12 or 13, i met whom i thought\
+    \ would be my greatest friend ever. we were so close, for the longest time i thought\
+    \ i was in love with them. since the age of 15, they have been drifting away from\
+    \ me. i barely talk to them. last time i heard from them, it was still winter\
+    \ (it is now the beginning of autumn). i still love them the way i did six years\
+    \ ago. \n\ni am a burden to the people i care the most for. it\u2019s not just\
+    \ them, it\u2019s basically everyone i ever met, including my family. at the age\
+    \ of 13, almost overnight, i became asocial and introversive. since then, i have\
+    \ failed to be worthy of anyone\u2019s attention. that second person must have\
+    \ pitied me for staying around until i turned 15, when i emotionally crashed,\
+    \ became depressed and suicidal, and everything in between. \n\nit\u2019s selfish,\
+    \ but i do want them in my life. i am willing to do anything to gain their attention\
+    \ and love back. i want to give them everything i have (which unfortunately is\
+    \ nothing for the moment). i am willing to sacrifice my life and put theirs as\
+    \ my priority. it\u2019s obsessive and delusional, but i unfortunately feel this\
+    \ way. and now to have them both trying to, what looks like, shut me out of their\
+    \ life, it hurts. i can understand though. i\u2019m not loveable. i am not interesting.\
+    \ they deserve better.  \n\nafter six months free of suicidal thoughts, i now\
+    \ secretly wish i had successfully killed myself last time i tried. i\u2019m too\
+    \ much of a burden. i was not meant to be alive. i was not meant to be involved\
+    \ in social situations. i\u2019m too big of a burden for too many people.  \r\n\
+    \n\r\n\n\r\n i was unfortunately born a female. \n\nnow being a female itself\
+    \ is alright, but when nature chooses you to carry the burden of procreation,\
+    \ that's when it sucks. and it is to happen for at least 40 years, 12 times a\
+    \ year, 6 days a month. \n\ni honestly never made a big deal out of it the first\
+    \ time, even the second time, but then it became excessively painful. being anemic,\
+    \ i would lose consciousness all the time, miss school, vomit ... it was terrible.\
+    \ for the past year though, it has been better. no loss of consciousness (though\
+    \ i do feel dizzy from time to time), less vomiting (though now everything is\
+    \ coming out \u2014 at the same speed i should say \u2014 at the other end), and\
+    \ no missing scheduled activities. however one thing has not changed: i feel gross.\n\
+    \ni am not even affected by how society views this \"normal and healthy\" part\
+    \ of a female's life. whatever people say, periods are gross. it smells, it's\
+    \ uncomfortable, it's messy, and there's no way to control it. i'm pretty sure\
+    \ if once a month, the anus decided to evacuate on its own for six days straight\
+    \ and all you could do is sit in a diaper at all time, it would feel the same\
+    \ way. \n\none week a month, i stop working. i lose my appetite, i lose my motivation\
+    \ and my energy. i lose my focus and my memory as well. all my movements feel\
+    \ automated. i hate leaving my room when it happens. all i do is go back-and-forth\
+    \ between there and the bathroom. being in college and all, i obviously have to\
+    \ leave my house almost every day, but i spend most of my time worrying about\
+    \ leakage and smell. no amount of good hygienes will change the fact that as i'm\
+    \ sitting down in the middle of 30+ people, blood is coming out of my vagina,\
+    \ and i'm sitting in it. i could shower thrice a day, change my pad every hour\
+    \ or empty a bottle of perfume on my nether region, nothing would change. \n\n\
+    i am amazed at how very few females seem affected by their period. i applaud those\
+    \ women. unfortunately i am not at their level. i cannot stop thinking about what\
+    \ is happening between my legs because i can feel it. i don't like this feeling\
+    \ of uncleanness, as if i haven't wiped in a year. i cannot deal with this smell\
+    \ i can't seem to detach myself from, even though now i've learned it's all in\
+    \ my head. i can't deal with the fact that it leads to my inactivity, as if my\
+    \ body is slowly shutting down on me. \n\nit's been nearly a decade and i still\
+    \ haven't gotten my shit together. i've failed mother nature.  \r\n\n\r\n\n\r\n\
+    \ i understand why websites like care.com require you to pay for full access to\
+    \ their website (we're talking about parents potentially trusting strangers with\
+    \ their children, after all). however, i hate how empty one's profile looks when\
+    \ they do not have a premium account. i'm 18. i cry whenever i buy school manuals.\
+    \ you think i'd pay for a website account?\n\nmany times, i would contact one\
+    \ or more parent, then i'd see that the exact number of parents i've contacted\
+    \ have visited my page. i know it's them. but then, i get no answer. nothing.\
+    \ i know i can't receive messages from all of them, so i used to put my e-mail\
+    \ address at the bottom of my messages, but apparently that screams scam (especially\
+    \ when your name is in the email address, which is ridiculous but whatever). so\
+    \ i started putting my phone number, home and mobile, which i thought made me\
+    \ look more legit since it's personal information. i thought maybe if parents\
+    \ were paranoid enough, they would check a website like canada411 and see if my\
+    \ postal code matched the number. \n\nwhy can't care.com be like some french website\
+    \ i fell upon? to confirm your identity, they ask you to submit a picture id (it\
+    \ was secure) that not only proves your identity, but your general location. i\
+    \ know it's not perfect, but still. it allowed genuine people to have a better\
+    \ chance at finding willing parents. \n\ntoday it bothered me so much because\
+    \ i found the perfect match. i'm free three days a week, and this lady (who lives\
+    \ less than a kilometre away from me \u2014 according to care.com) needed someone\
+    \ for those three days. i really need a job, and i desperately want to start babysitting\
+    \ again. she was a match sent from heaven! well i check my profile (haven't been\
+    \ on the website for a couple of weeks before today), and surprisingly, maybe\
+    \ an hour after sending her a message, i have one profile view. it has to be her!\
+    \ but ... nothing. i'll wait another 24 hours before breaking into tears (hyperbole)\
+    \ and giving up on online stuff. however i'm pretty sure she will not give me\
+    \ a call.\n\ni mean i know sometimes, parents are just not interested, but how\
+    \ can they be if most can't contact me, and my profile is empty?! even if i try\
+    \ to include as much information or try to sound super interesting in messages\
+    \ i send them, nothing. \n\noh well. it hurt. \n\n** sometimes i get so paranoid\
+    \ about it. maybe it's my age, which is fine. maybe it's my race even ... who\
+    \ knows. it would actually hurt.  \r\n\n\r\n\n\r\n i am an 18 year old female,\
+    \ currently in my 2nd year of post-secondary education, from canada. in the summer\
+    \ of 2015, i want to momentarily put my education on hold to become an aupair\
+    \ for a year or two. my dream locations would be france, germany, belgium, england\
+    \ or the netherlands. i can also consider the united states and canada, but my\
+    \ passion for foreign languages and cultures push me towards western europe.\n\
+    \nbasically, i want to know what i should do in order to be a great aupair. childcare\
+    \ is a passion i want to exploit. i babysat, like most teenage girls, for about\
+    \ two years (until i moved out). i want to start again this year, but before looking\
+    \ for families, i will be taking an 'emergency childcare first aid and cpr' course\
+    \ with the canadian red cross. it will take place next week.\n\nwhat else can\
+    \ i do to be an impressive candidate?\n\nthank you in advance!\n\n** i did post\
+    \ this on /r/nannies and wanted to ask here right after, but for some reason,\
+    \ i was not allowed to do so earlier. \r\n\n\r\n\n\r\n i am an 18 year old female,\
+    \ currently in my 2nd year of post-secondary education, from canada. in the summer\
+    \ of 2015, i want to momentarily put my education on hold to become an aupair\
+    \ for a year or two. my dream locations would be france, germany, belgium, england\
+    \ or the netherlands. i can also consider the united states and canada, but my\
+    \ passion for foreign languages and cultures push me towards western europe. \n\
+    \nbasically, i want to know what i should do in order to be a great aupair. childcare\
+    \ is a passion i want to exploit. i babysat, like most teenage girls, for about\
+    \ two years (until i moved out). i want to start again this year, but before looking\
+    \ for families, i will be taking an 'emergency childcare first aid and cpr' course\
+    \ with the canadian red cross. it will take place next week. \n\nwhat else can\
+    \ i do to be an impressive candidate? \n\nthank you in advance!  \r\n\n\r\n\n\r\
+    \n i could add calgary to the list, too but i'm not sure about it honestly.\n\n\
+    i live in montreal and i love my city, but for um, reasons, i would prefer moving\
+    \ elsewhere. \n\n* i should add that i'm frugal. i've read some statistics and\
+    \ montreal happens to be the cheapest city. i'm wondering which one, despite the\
+    \ high price of basically everything, is livable?\n\n* hostile behaviour is not\
+    \ to happen here. that's not very canadian of you (alright that was bad). \n\n\
+    * to those who seem to have serious eye-sight problems: those four cities are\
+    \ where my dream job is in serious demand. yes, frugal people also care about\
+    \ the job market.  \r\n\n\r\n\n\r\n i heard/saw americans, canadians, quebecers\
+    \ and the french do it. i have a feeling it's quite a popular thing to do elsewhere\
+    \ as well.  \r\n\n\r\n\n\r\n i am 18, a female and i have anemia. i do not take\
+    \ iron supplements for x and y reasons. \n\ni have daily headaches. it's been\
+    \ like this for a couple of years, maybe more. i believe they are migraines. usually,\
+    \ i feel my temples pulsating, which per se is not always painful but always so\
+    \ disconcerting. if i concentrate enough, i can get rid of the pain but the unsettling\
+    \ part is always there. lately, for the past week or so, it's been worse. i feel\
+    \ as if my head splits in two (a physical head and a more \"spiritual\" one, if\
+    \ that makes sense) at each pulse, the pain goes all the way to my neck, and sometimes\
+    \ (for a short period of time), to my left arm. \n\nwhat is it? i googled my symptoms\
+    \ but it's always so dramatic. i rather describe my symptoms myself and see what\
+    \ other people think. also, i am overseas right now so i can't go see a doctor\
+    \ quite yet. i think i foremost want to know how common that is. \n\nthank you!\n\
+    \n** i must add, right now, it feels like a brain freeze. not sure what a brain\
+    \ freeze really feels like (never had one) but if it's a slightly paralyzing head\
+    \ ache, then yes. \r\n\n\r\n\n\r\n and i've noticed that sometimes, commercials\
+    \ during shows in france are related to the channel they're been broadcasted on.\
+    \ a france 2 show will have commercials featuring other france 2 shows, for instance.\
+    \  \r\n\n\r\n\n\r\n i'm like so close from crying right in the middle of my school's\
+    \ student lounge. two people are less than two meters away from me. funny thing\
+    \ is, they wouldn't even notice. they never did. not my first time crying in this\
+    \ school and no one notices. \n\ni kind of want to keep hope, but i'm not sure\
+    \ if it's an option anymore. i tried killing myself once but now my body rejects\
+    \ any type of attempts. \n\nwould someone mind noticing me? no? \r\n\n\r\n\n\r\
+    \n"
+  term_path: ./representation_files
+  type_term: EnumTermLex.REG_EXP

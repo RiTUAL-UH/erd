@@ -1,0 +1,113 @@
+ Here's the abstract from the [original paper](http://www.sciencedirect.com/science/article/pii/S0019103515002079)
+"Relatively recent cometary impacts at the Moon could leave unique traces of their origins: high impact velocities and volatile abundances, combined with the presence of a dust- and ice-laden coma, may thermally and mechanically process the lunar surface in ways distinct from the impact of an asteroid. Here we analytically and numerically assess the consequences of a cometary impact at the Moon by considering the combined effects of a collision by the nucleus and inner coma. Our results show that cometary impacts entrain the finest fraction of lunar soil grains (10 m) over regional scales (1001000 km), produce large masses of vaporized material, and likely generate transient magnetic fields that could exceed the Earths surface field strength by a factor of 104. This combination of processes is consistent with a mechanism to generate lunar swirls: the diffuse, meandering disturbances in brightness and regolith texture that curl across much of the lunar far-side and are also commonly (but not exclusively) associated with magnetic anomalies. Previous observations of swirl features indicate that bright regions also possess a peculiar, altered regolith structure, which can be produced by the removal of fine soil grains. Regional scouring by an impacting comet explains both the structure and albedo variations: large dynamic pressures entrain the smallest grains within a near-surface flow of dusty plasma, disrupting the backscattering, fairy-castle structure of lunar soils in equilibrium with the airless environment. The resulting surface is brightened by compaction of the previously open, porous macrostructure. Darker lanes observed within swirl regions are interpreted as possible melt and/or vapor deposits. Finally, the intense magnetic fields generated during high-speed cometary impacts provide an explanation for correlations between swirl locations and magnetic anomalies." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Never trust people who do yoga. 
+
+
+
+
+ ...and they've believed no studies since then. I'm not optimistic either. 
+
+
+
+
+ Here's the [original study](http://jama.jamanetwork.com/article.aspx?articleid=2275444) published today in JAMA. Excerpt:
+"A retrospective cohort study using an administrative claims database associated with a large commercial health plan. Participants included children continuously enrolled in the health plan from birth to at least 5 years of age during 2001-2012 who also had an older sibling continuously enrolled for at least 6 months between 1997 and 2012...In this large sample of privately insured children with older siblings, receipt of the MMR vaccine was not associated with increased risk of ASD, regardless of whether older siblings had ASD. These findings indicate no harmful association between MMR vaccine receipt and ASD even among children already at higher risk for ASD." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Original Source:
+"Case 1: An Amputation Cover-Up. The Treatment: A new stem cell therapy that promises to restore blood flow in damaged legs. The Claim: All 26 patients in the study reported no significant clinical changes in either of their legs, beyond those caused by the stem cell treatment. The Fraud: FDA documents show that one of the patients had an entire foot amputated two weeks into the study. Thats a pretty serious omission, and it definitely constitutes a significant clinical change in the leg. No one bothered to correct or retract the faulty study, and the trial was considered a success.
+
+[Stem Cell Trial](http://www.ncbi.nlm.nih.gov/pubmed/22079876):
+"This phase II clinical trial shows that the use of a combination cell therapy is safe and effective in increasing blood flow in the ischemic legs of patients with limb ischemia."
+ 
+
+
+
+
+ Sort of. But not entirely.  
+Our results demonstrate that the GNSS and INS navigational sensors built into consumer devices such as smartphones are capable of detecting surface displacements from moderate and larger earthquakes.
+
+...what we generally call "cell phone GPS" is really a Global Navigation Satellite System (GNSS...one type GNSS is GPS) plus Inertial Navigation Systems (INS). So the thing that most people think of as "GPS" include INS. In your cell phone, INS gets its position and velocity from the GPS satellite receiver and then calculates its own position based on motion sensors.
+
+
+TL;DR: "Smartphone GPS"= GPS + INS.  
+
+
+
+
+ Here's the abstract from the [original study](http://www.vocativ.com/culture/science/early-earthquake-warnings-smartphones-gps/):
+Earthquake early warning (EEW) can reduce harm to people and infrastructure from earthquakes and tsunamis, but it has not been implemented in most high earthquake-risk regions because of prohibitive cost. Common consumer devices such as smartphones contain low-cost versions of the sensors used in EEW. Although less accurate than scientific-grade instruments, these sensors are globally ubiquitous. Through controlled tests of consumer devices, simulation of an Mw (moment magnitude) 7 earthquake on Californias Hayward fault, and real data from the Mw 9 Tohoku-oki earthquake, we demonstrate that EEW could be achieved via crowdsourcing. 
+
+
+
+
+
+
+
+
+
+ Yeah, a lot of what you just said is wrong.
+ 
+*Tidally locked*: No. Atmospheres can keep a planet twirling. Source: http://www.popularmechanics.com/space/deep-space/a33/earth-like-exoplanets-around-dwarf-stars/
+
+*Strong magnetic fields*: This is often claimed alongside the 'fact' that Red Dwarfs also have more violent reactions. But both are only true for young Red Dwarfs. And those stars last for an incredibly long time, compared to our own star. 
+
+
+
+
+ Goddamit!!! I confused browser tabs and accidentally deleted this post when it had 1,000 upvotes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

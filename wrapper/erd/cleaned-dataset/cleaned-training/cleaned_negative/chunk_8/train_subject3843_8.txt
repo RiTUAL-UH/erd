@@ -1,0 +1,397 @@
+
+
+
+
+
+
+
+
+
+
+ Yea I've been thinking about stretching my budget and getting the heritage, was hoping for a $400 set with head and fork.  Suppose I could hold off on new wheels, just feel weird about putting my dumpster depot retrospec wheels on a halfway decent frame. 
+
+
+
+
+ Thanks for the heads up about blb,  Don't really need anything save the frame fork headset and wheels.  Picking up wheels from velomine, and if I only get a frame I'll be getting the fork at retro-gression.  So I'm hoping to find something at cg. 
+
+
+
+
+ Yea it's a great price for a solid frame, good luck with your beater build! 
+
+
+
+
+
+
+
+
+
+ If you are dropping that much on parts and it's your first build make sure you don't forget the grease.  
+
+
+
+
+ Beautiful contrast.  Keep it up! 
+
+
+
+
+ Hey I got a gift card to citygrounds, and I'm looking for a cro-mo frameset, or frame.
+
+I am never gonna ride track, and new England roads aren't good.  So I'm assuming aluminum wouldn't be my best best.  My only problem is their cromo selection isn't very good.  I'm not sure if it's just a weird time of year before the 2015s start coming in.
+
+I really dig the blb lo-pro frameset, but they don't have any in my size.  I would buy the fuji feather complete but they don't ship.  The pake rumrunner seems to be my best option at the moment, but I'd rather get something double-butted.
+
+Should I settle on the pake, wait, or does anyone have an opinion? Flexible on price, and I don't need anything immediately.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yea I hate the fact that it's been in sale albeit in early access for what seems like almost 2 years, and it's still virtually unplayable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I really hope so. 
+
+
+
+
+
+
+
+
+
+ Samsungs is cheap because it's not worth it.  It has extremely limited applications bottlenecked by underpowered handheld devices.  Not to mention it has no head tracking opposed to stream vr/sony vr/Oculus. 
+
+
+
+
+ At this point it's like every big release, of which we really haven't gotten many new console exclusives. 
+
+
+
+
+ Nah, no confirmations yet.  Hoping it's under 300. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Wheelchair ass jimmy. 
+
+
+
+
+ Panforte looks super, thanks for the list. Awful lot of all-caps though. 
+
+
+
+
+ Currently at work in a print shop thinking "the printing press is my printing press.."  Good job to Wheeler though. 
+
+
+
+
+ More polygons are more polygons regardless of resolution.  There isn't much of a crazy difference, or a noticeable difference.  Unless you are playing the same game on ps4 and ps3 at the same time on tv's next to each other. 
+
+
+
+
+ Sounds good man,  yeah I haven't been home much the past few days so I haven't even seen the current state of the game, but I'll check it out tonight.  I have the same name on Skype, so feel free to use that and our pass it around if you have any artists that want to bounce around ideas. 
+
+
+
+
+ 86, probably Licensed to ill.
+
+Not really into pre 90's rap though. 
+
+
+
+
+ Let me know if you need any ui assets/menu pages.  Trying to build up a decent portfolio anyhow. 
+
+
+
+
+ We'll see, he earned it regardless.  Although I don't see him doing the label and avoiding being a feature. 
+
+
+
+
+ Nope, I could see a 1st person viewing camera for spectators at some point.  I don't see valve doing another tf, cs, or dota.  Their fan base just has way to much money invested in those games.   
+
+
+
+
+ I like the concept,  But it gets a bit weird to read especially the u and v.  Did you think of maybe breaking the individual triangles into 3 smaller triangles so you would have a bit more placement options? 
+
+
+
+
+ How did you wind up in your mom's cousins roommate's basement?  And why did this person have games in the basement?   
+
+
+
+
+ Hmm would fall-out work? 
+
+
+
+
+ The ps4 wasn't announced at e3. 
+
+
+
+
+ good find, trying to check out. super slow 
+
+
+
+
+
+
+
+
+
+ I'd like to see naughty dog doing something new, all though at this point naughty dog isn't really even naughty dog anymore.  After all the devs that left last year at least. 
+
+
+
+
+ I used this tutorial series to make sliders for my interface ( https://www.youtube.com/watch?v=vzIV_c81ovk ), and I want to somehow link my vertical slider to control scrolling the room up/down.  Essentially my background is 1280X1400, and my view/port is 1280X720.
+
+I tried something along the lines of if x is at bottom of bar move_to_position(0,1400,spd)  just to see if I could get the screen to scroll at all.  Instead the slider sprite just hopped off the bar and went to that position.
+
+any help would be greatly appreciated..
+
+edit : not sure if I could if (X=50%  of slider position.  move_to_xview, 0, move_to_yview,1400, spd)
+sorry new/bad at coding, and cant find anyone else that has done anything similar. 
+
+
+
+
+ Because he is extremely popular.  Just about anyone who has a passing interest in rap music knows Kanye.  If 50,000,000 have heard his music and 1,000,000 think he is a genius you will hear these peoples opinions more regularly than some underground guy that might only have 20k fans that all think he is a genius. 
+
+
+
+
+ Nice style for sure, but I'd chill with the floor boards.  Unless it's an integral part of the game.  Thinking Bastion where the world is shaping around the player. 
+
+
+
+
+ Just maintain aspect ratio and run it 16:9 with black box's.  Don't see why they would allocate resources for something less than 1% of players want. 
+
+
+
+
+ The 290 is pretty solid.  Personally I wouldn't go with an i3,  maybe look into an amd chip.  Not sure what your best bet is amd wise but they can be really solid and are generally much cheaper than Intel chips. 
+
+
+
+
+ If you are remotely technically savvy I'd pay 4-500 for a pc.  If you want to strictly use your tv then you save on buying a monitor, and you can get a 360 wireless dongle which will support 4 players on wireless 360 controllers.  Plus buying games on steam will probably save you money in the long run.
+
+Not to mention if you get used to putting computers together and trouble shooting after college you can reward yourself with baller computer parts.
+
+Edit: a console isn't a bad option now a days if you don't feel like getting in over your head.  Both have their subscription plans with free games monthly. 
+
+
+
+
+ It's a beautiful case, and you are paying 2k for a beautiful custom case.  It's a solid computer, but not a $2000+ computer. 
+
+
+
+
+ I don't think this is the right demographic. Try /r/gaming maybe? 
+
+
+
+
+ http://www.gamefaqs.com/vita/732136-monster-hunter-frontier-g/answers/377075-can-you-play-monster-hunter-frontier-g-ps-vita-in-the-us 
+
+
+
+
+ Technically you could put the old break levers on the flats if you want it quick and cheap.  Riding drops might get a little scary though. 
+
+
+
+
+ Heat is real bad about gun shots and quiet dialog, but I don't watch a ton of blu-rays so I can't attest to all of them. Figure I'd give a warning anyhow 
+
+
+
+
+ Depending on if op is talking about pleveling or just leveling.  Either way if you are killing mobs slowly in torment 1 it's more or less a judgement call on trying for torment only legendary items vs working up to efficient torment farming. 
+
+
+
+
+ You are killing more mobs faster on master increasing the opportunity for good loot to drop. 
+
+
+
+
+ Microsoft should just force business owners into a subscription plan. (Kidding)
+
+But really the company I work for has ~400 terminals with Windows xp.  I'm guessing that isn't an uncommon thing, they need to find a way to incentivize businesses to upgrade their software.
+
+I think Apple as of the last few years is a crazy anomaly that hinges on consumers far to much.  I don't think either company is going away, they will probably even out in the coming years.  But man these past few years of witnessing the scrappy apple comeback has been crazy. 
+
+
+
+
+ A. Internet speed=/= net neutrality.
+
+B.  Replace old switches, or better yet run fiber lines.  Congestion problems are gone, and everyone gets faster service.  They have no problem charging a ~$5.00 rental fee for a 10 year old docsis 1.0 modem for literally ever, and they can't spend a dime on improving their offered services. 
+
+
+
+
+ Couldn't you just play the mkv in your web browser and cast that. 
+
+
+
+
+ Not my size, but good luck to entrants.  Thanks for the giveaway! 
+
+
+
+
+ A lot of pros that have been playing cs for years are probably used to playing in 4:3, plus everyone has a position and is watching each others backs.  So they don't need to be bothered looking at the edges. Then a minuscule performance bump.  If you are pugging I don't see any true benefit to playing 4:3. 
+
+
+
+
+ Apparently one can never not survive. 
+
+
+
+
+ meh, in that case hearthstone is pay to win.  Pay for a booster pack that might have something nice.  I'm sure they will balance it if people are getting crazy amounts of guns.
+
+Granted I don't need another zombie survival bs game so it's whatever to me, hope it works out for the people who were waiting. 
+
+
+
+
+ http://www.designsbytue.com/-ezp-5.html
+
+In the about us section they state "Ran Ban" Sun glasses a whole lot. 
+
+
+
+
+ I saw that video where he was Jesus once.  It was dumb as hell. 
+
+
+
+
+ None 
+
+
+
+
+ An entire year? Really?
+
+ Edit: Destiny released the first day of 2014 in Adelaide? Sure.. 
+
+
+
+
+ I think it's a problem with your ssd.  I have a cheap 60gb Kingston from 3 years ago that hasn't had any of those problems..
+
+Edit: you didn't format it did you?  Not that formatting one should cause that many redundancy errors.  Especially not for a decent modern ssd. 
+
+
+
+
+ Longer inseam, smaller leg opening.  But I wouldn't expect them to stay while being active. 
+
+
+
+
+ Neither of those pictures show someone riding a bike, or sitting.  You could try never bending your knees.. 
+
+
+
+
+ An expensive purse, individually hand made using top notch materials.  Generally loses value or maintains the same value once taken out of the store.
+
+A knife made once and cloned however many times are deemed necessary.  Increases in value about 200% once taken out of the store.
+
+I understand that they both serve a purpose, and are luxury items.  But any high fashion generally holds a value beyond supply and demand.  Such as materials and man hours.  (I don't know how many hours a designer puts into making a knife) 
+
+
+
+
+ Learning to narrate what you are doing is a good skill to have. 
+
+
+
+
+ I think it's $30 with the purchase of a ds4 
+
+
+
+
+ Home/games/psplus/free games 
+
+
+
+
+ Park avenue cap-toe, iron rangers, cdb's. 
+
+
+
+
+ Of 2014..  
+
+
+
+

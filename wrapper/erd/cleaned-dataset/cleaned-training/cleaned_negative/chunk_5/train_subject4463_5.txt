@@ -1,0 +1,660 @@
+ The best alternative to iTunes is anything other than iTunes.  Seriously...syncing music?  Who the fuck thought that was a good idea?
+
+Plug your device in, drag and drop your music over to the Android device, unplug, fire up Google Music and go. 
+
+
+
+
+ Can you choose a background other than black or white on Windows Phone yet? 
+
+
+
+
+ It's not you.  Jellybean had "Project Butter" which aimed to make animations, etc more smooth without interrupting the main thread.
+
+KitKat had an aim to reduce memory usage, and allow Android to still perform well on devices with 512mb of memory.  My ORIGINAL Galaxy S has a build of Android KitKat and it's perfectly usable today...4 years later. 
+
+
+
+
+ I'm actually using a bluetooth OBDII app, and an app that allows the widgets to be set to non-interactive and float over every app that I bring up so that when I'm in the car I can see the data while my GPS app is up.  I can also float things like my Pandora widget so that I can thumbs up/down/next track while in any other app.  Tons of other things I can do with Gesture-Control app like swiping from the edge of the screen to bring up specific groups of widgets, etc.
+
+And this is something that doesn't require root at all.  I can also float my app windows on the tablet, or tile them so one app is up top, and another is down below.
+
+I also have Wireless charging, NFC, etc. 
+
+
+
+
+ The author of the framework has a preliminary build working on L, since the release.  He's simply not releasing it yet in case something major changes in the ART libraries that he's gotta account for.  He'll also be discontinuing support for dalvik because it basically requires handling two very different code bases. 
+
+
+
+
+ Active series got recalled because of their claim about water resistance up to X depth.  The USB cover was badly designed and could still let water in.  Still a great phone otherwise. 
+
+
+
+
+ You can get WiFi modules for $4 for the Arduino.  The ESP8266 has some active development going on for it, but you'll need to make sure you supply it with 3.3v and not blow it out with 5v. 
+
+
+
+
+ Ah, so you're one of those.  Not only do you downvote people who have differing opinions, you stalk them to other threads!  That's awesome!  Good on you! 
+
+
+
+
+ I'm not sure. :( 
+
+
+
+
+ Holy fuck, that was 7 years ago?!  Good fucking god...I remember that whole fiasco pretty well.  It was awesome seeing the community rise up against the very admins of the site it was using to post that.  Eventually they folded. 
+
+
+
+
+ Honestly, that's how digg ended up crashing and burning in a big ball of flame. 
+
+
+
+
+  For instance, how do we know Vastra and Jenny are together? Its not because they act like a loving couple its because they tell each other they are married every 30 seconds.
+
+I thought that was merely put in for people who weren't already fans, just watching the show on-a-whim with someone else so they could keep up. :[
+
+I hated crap like BattleStar galactica because I could never catch up to what was what, who was who, why anything was going on, etc.  If I would have started from the beginning, maybe that would be different, but I didn't have that luxury at the time I was interested in it. 
+
+
+
+
+ So, you're saying he's too obvious, but he's too complex...how does that even make sense? 
+
+
+
+
+ I don't see any of that in moffat's stories.  I see very multidimensional characters which span in development over the course of entire seasons. 
+
+
+
+
+ What _exactly_ is everyones problem with Moffat anyways? 
+
+
+
+
+ Explosion at [7:17](http://youtu.be/5t6deOZloBU?t=7m17s) 
+
+
+
+
+
+
+
+
+
+ $3.80 for a screen brightness changer?  Jesus fuck.  I would have bought it if it were $1.99 but yikes. 
+
+
+
+
+ http://i.imgur.com/xPnq9gF.jpg 
+
+
+
+
+ Aww...I thought he was going to crawl in. 
+
+
+
+
+ Feminazi: "RAPE CULTURE!" 
+
+
+
+
+ Better than the lady that decided to follow the car in front of her, get in a right hand turning lane, as I get over, she decides "oh wait, I'm not turning after all!" and slowly drifts back into the lane she was in only to pull down her window and frantically curse me out.
+
+I was fucking watching you the whole god damn time lady, don't you even start with me.
+
+So I've started to not give people the middle finger salute, but instead I've been making this motion: http://30.media.tumblr.com/tumblr_l4voc82s121qb3riko1_250.gif 
+
+
+
+
+ They are the same in terms of severity, especially in this case.  Not being able to consent, is not being able to provide consent.  Regardless.  If someone were semi-drunk and didn't technically say no, they've probably got equal mental state to some hormone ridden teenage boy. 
+
+
+
+
+ The 3D printed castle was not this week, it was 2 weeks ago: https://plus.google.com/103120178378541114779/posts
+
+(This is a link to where it was announced, by the inventor/author of this particular technique) 
+
+
+
+
+ When people clamor on about Ruby, they generally aren't gushing over the language itself, but are rather focused on the "Rails" portion of "Ruby on Rails".  
+
+Python has tons of equivalents but as /u/stahlous has stated, there's so much now going on at the client side that it matters much less what server-side language you use.  Pick whichever one you feel most comfortable with, especially if you're just learning. 
+
+
+
+
+ Yeah, don't know why out of ALL the pictures on that page, reddit chose to put THAT one as the thumbnail.  I was trying to post something that was neutral (honestly knowing that most people are going to be voting yes).
+
+But yeah, vote yes on 2! 
+
+
+
+
+ Also, important dates - don't forget to vote!
+
+http://elections.mytimetovote.com/dates/florida.html
+
+It's still a ways off, but elections generally have a lower turnout on non-presidential election days.  Which means that your vote is worth even more.  Don't let them hoodwink you into not voting either.  There are going to be some nasty tricks this year (as there have been every year).
+
+*Edit* Don't know why reddit chose "vote no on 2" for the thumbnail...obviously people should be voting yes. :D 
+
+
+
+
+
+
+
+
+
+ [](/chibipinkie) We must dig deeper! 
+
+
+
+
+ PLA is already UV resistant.  It's the IR spectrum that causes heat.
+
+ABS, it's just easier to use black, though a UV spraypaint on colors is an awesome idea! :D 
+
+
+
+
+ How much C and how much Java do you know? You need to be proficient in both.  
+
+
+
+
+ Being PLA out in the hot sun, I doubt it will last very long - but still, awesome work!  Worst that happens is it melts/breaks off and you print it in a better material (Black ABS, specifically black because the carbon protects the ABS from UV light which can cause it to degrade in the sun) 
+
+
+
+
+ I never did get that _amazing_ spellcaster dagger from Kara on my mage.  Eventually stopped farming it, and got accepted into a guild that was farming The Black Temple and had much better passed to me on an alt run (my main was a prot pally that tanked for them)
+
+We exploited the hell out of Kara too, by walljumping over near Nightbane and skipping most of the instance. 
+
+
+
+
+ It didn't hurt that my wife was a healer, and I was a tank.  I didn't suffer through the crap like most people complain about.  Tanking and healing was a much more skilled affair than DPS anyways.  It was never difficult to stay out of the fire while keeping a rotation going.
+
+We got to the point where I would just pull ahead of her while she was drinking, I'd chain-pop cooldowns to ease up the strain, and when she caught up she'd top me off.  Most of my experience in vanilla was chain-pulling, never stopping, and finishing instances in the same 15 minutes you got when someone had to go eat dinner.
+
+My wife and I were far more popular in WoW than we are while away from the computer for that very reason.  And yet another reason for me loving the old days.  I built a reputation as a fucking amazing tank (and she as a healer), and people would always be dependent on me for getting shit done.
+
+Eventually I went all the way to Vanilla Naxx on my warrior, sunwell on my paladin (prot back then was SO overpowered), and downing 25 lich king HM on my warrior again.
+
+I quit after that because suddenly most of the user base wasn't interested in hard modes.  They got to see the pretty places, and didn't care much for actual challenges... 
+
+
+
+
+ I enjoyed the grinds, and enjoyed the days when they made content that only the best players could see.  Sunwell was an excellent example.  You only saw it if you were good.  Sure - you might be able to see it once the next expansion came out, but you never got to benefit from it at that point.
+
+Always having something to strive for, kept me playing.  Now, 99% of the userbase plays the LFR version, that's been stripped down with no mechanics and suddenly...well, they've seen the content.  So they stop playing.  They stop striving for something better.  There's no locked out content that drives players to strive for more. 
+
+
+
+
+ The older players that were leaving the game, were leaving the game for the exact reasons you say they were changing it to get new players in.
+
+It was all downhill from the point they added the LFG auto-matching tool, and auto-ported everyone in and out of the instance.  They tried making it so you at least had to visit the instance first, but now you don't even have to do that.
+
+Did spamming /LFG suck?  Yes, it did.  But it sucked enough that people friended one another, got to know each other, and didn't just kick you out of a group for nothing.  The sense of community and friendship was much stronger back then.  Now, nobody talks, it's difficult to make friends on there, and you just kind of log in...click a button for a group, and log back out again. 
+
+
+
+
+ thepiratebay - they've stood the test of time against lawsuits and every other fucking government agency. 
+
+
+
+
+ Actually, the suggestion here is wearing plate armor on your legs.  That's basically what VPN is.  It's an encrypted shell around your normal traffic which Comcast doesn't see as Netflix traffic. 
+
+
+
+
+ This goes the same for police "Internal Affairs".  They aren't there to actually make sure the police are following the laws...they are there to make sure the precinct doesn't get sued. 
+
+
+
+
+ Darude - Sandstorm 
+
+
+
+
+ Here we go with the false equivalence again. 
+
+
+
+
+ There are quite a few of us out on the internet that have extensive expertise in image manipulation, etc.  It would be rather easy to spot.  Go look at all of the fake jennifer lawrence nudes, and you'll see the tell-tale signs in all of them.  Lighting differences, compression artifacts, etc.
+
+These are real. 
+
+
+
+
+ You know, by being celebrities they kind of took it with the job title.  They know damn-well the risks associated. 
+
+
+
+
+ Conversely, we can use this to get celebrities on-board and talking about the issue and start having encryption put in place and measures become the default so these things are less likely to happen everywhere. 
+
+
+
+
+ This is exactly why my long term goal in life is to eventually become completely solar/wind powered with an electric vehicle. 
+
+
+
+
+ Technically, gay marriage in Florida is legal.  By the overturning of a ban on gay marriage: http://www.miamiherald.com/2014/08/21/4301754/federal-judge-florida-gay-marriage.html 
+
+
+
+
+ They typically only fail ungracefully whenever you try to use whatever said feature required the permission that you've taken away.  So there's that. 
+
+
+
+
+ Yeah, I'm sorry - but this isn't the worlds first either.  3D Printed bump keys existed easily a year ago.  I don't think I still have the one I made, but it's certainly not a new thing. 
+
+
+
+
+ [](/chibipinkie) Their shirts remind me of someone... 
+
+
+
+
+ GFYCAT ftw! 
+
+
+
+
+ [](/gummy) I much prefer gummy alligators. 
+
+
+
+
+ Same shit happened to me, I told the fucking woman that when the adults told her to "go play in the street", they were hoping she would die, and it wasn't supposed to be taken literally! 
+
+
+
+
+ Mind sharing the link to what you bought?  Pretty cheap for working wifi! 
+
+
+
+
+ Ohhhh, you said working "wireless" - I was thinking wifi automatically (derp).  Yeah, the nRF24L01 is amazingly cheap! 
+
+
+
+
+ Get your hands on any of the new wireless chips that hackaday mentioned?  I've got like 6 of them on their way.  $5 for wifi?!  YES PLEASE! 
+
+
+
+
+ http://i.imgur.com/2XrTU21.gif 
+
+
+
+
+ What is it currently doing autonomously? 
+
+
+
+
+ Known more commonly as a portuguese man-o-war. 
+
+
+
+
+ It's a very **realistic** outlook, and I'm not democrat, republican, or libertarian.  I'm actually registered Pirate Party.
+
+Anyone with 2 brain cells to rub together can realize that this man is nothing more than another politician - no better than the ones we currently have, except his ideas are out into the extreme and political measures from other divisions (federal and state) will keep him accomplishing them.
+
+The fact that you throw out "libertarian" like it's an insult is a testament to your thought process as well.  Party names mean jack-fucking-squat.  You're still in that "us vs them" mindset.  It's not democrats vs republicans vs green party vs libertarian.  It's people vs politicians.  There are a million, million, million ideas out there on how to solve things.  Person A cannot only encompass a defined _set_ of those ideas and then be labeled "democrat" and that's it.  That's not how ANY of this works!  You're looking at a party label, and toeing the line.  A line that doesn't exist, but you somehow perceive.
+
+I somehow believe you wouldn't be supporting this man at all if he was labeled a libertarian or a tea-party republican. 
+
+
+
+
+ 3 my tighty whities.  Keeps your junk all nice and tucked away.  Otherwise your balls stick to your leg. 
+
+
+
+
+ swamp-ass. 
+
+
+
+
+ http://investmentwatchblog.com/comparison-chart-of-the-economic-concepts-employed-by-political-parties/#1Hh63Z3gJEZUl0gp.99
+
+Written by him, it's a bunch of scare tactic bullcrap.  Apparently having Democrats in office, leads to socialism!  Republicans lead to Corporate Socialism!  And Libertarians lead to economic CHAOS!!!  When people use such definitive statements like this, it's pretty obvious that it's a bunch of bullshit.
+
+Then, he uses that article to shill for his website http://www.zerocosteconomy.com/
+
+Where we get things such as: 
+
+Located on this page: http://www.zerocosteconomy.com/description.html
+Every day the costs that we must pay every month increase. Most people are not able to save money and invest for a decent retirement.
+
+Where is the research backing this statement up?
+
+Then the last half of it, is literally a bunch of bullshit "what if" questions, which sound like they're GREAT, but cannot happen simply with a governor taking seat.
+
+Not to mention, it's basic economics that if things are deflationary, which he proposes, that it stagnates the economy and creates reasons for everyone to save, puts everyone out of jobs, etc.
+
+Then, we get other bullshit on this page: http://www.zerocosteconomy.com/problem.html
+
+The biggest and the most immediate threat to the economy of the United States and, for that matter, of the entire world, isn't global warming or the depletion of natural resources, because the direst effects of these phenomena aren't immediately imminent. (**Experts believe** we won't see the full impact of global warming for 50 to 100 years.)
+
+More weasel-words.  Which experts?  Why not link to the studies if said experts believe these things?
+
+ Unless this devastating trend is halted and reversed immediately, vigorously, and effectively, our good days will soon be over.
+
+Fear-mongering bullshit.
+
+I mean, there's so much of it I'd have to basically copy-paste his whole fucking website.  He uses the extreme views of zealots in order to try and basically give us a false dichotomy (http://en.wikipedia.org/wiki/False_dilemma) in order to argue a point that he's not even making very well.
+
+There are even _DIRECT_ false dichotomies on that very page:
+
+ As Americans, we have two choices: listen to the usual rhetoric and empty promises, or help achieve economic security as explained in Towards a Zero-Cost Economy
+
+Oh, and he wouldn't be a good politician if he didn't mention "THE CHILDREN!"  This is exactly how all politicians scare-monger and push crap through the system.
+
+ Making the right choice is no trifling matter. Your own futureand your children'sare at stake.
+
+Oh, and that's right - you wanted to know which statements were lies.  Which statements specifically?  Well, there's even more...how about this juicy crap here:
+
+ Our economic and political systems simply can't continue in their current state. No matter how one looks at or interprets the situation, it's clear that costs are the root of our economic woes.
+
+Costs are not the reason for our economic woes.  Bullshit spending is.  You cannot simply "freeze" costs, because businesses will move elsewhere.
+
+And how about this entire page here: http://www.zerocosteconomy.com/economic.html
+
+"Carefreeism"...you're fucking joking me right?  He wants zero-interest financing.  FREE energy.  No taxes on owned homes.  Outlaw of subprime loans.  Everyone gets to retire at 50.  Deflation, our money is worth more!
+
+And then he paints everything else as completely unsustainable.  Except we're not "purebred" socialism.  We're not purebred capitalism.  We have a fine mix of socialistic and capitalistic tendencies.  Painting everything as black and white is just downright bullshit when you get down to it.
+
+And you were talking about Crist 'devolving' into tactics of just attacking one another?  You get this: https://www.facebook.com/fkhavari/posts/721903684526059
+
+YEP!  Charlie Crist TOTALLY didn't appear at the Bartow, FL rally because he was _SCARED_ of Farid Khavari!  I mean, it has nothing to do with the fact that Farid Khavari has only like 5% of the support from voters that Crist has.
+
+And while Crist is Republican (don't even begin to tell me he's not), he actually left the state in pretty good shape when he was governor.  Is he perfect?  Fuck no.  Not by a long shot.  But he has a proven track record, and he was a better governor and Rick Scott. 
+
+
+
+
+ You're fucking joking, right?
+
+Where are all these Farid Khavari supporters coming out of the woodwork?  This guy is just as bad as the rest of the politicians out there.  "Let's make everyone sustainable by putting solar panels on everyones houses!" -- If you do your research, he stands to gain a lot because he _owns a fucking solar panel company_.  How is this any different than any of the other bullshit every politician has done before him?
+
+His website is full of a bunch of made up statements, lies, and bullshit.  Utopian dreams, spread as gospel and believed as truth by the gullible. 
+
+
+
+
+ I've done my best trying to get my hackerspace to donate to the cause.  I'll continue posting in the large communities that I frequent! 
+
+
+
+
+ Naw man, [this](http://s29.postimg.org/ezooddkmf/s01_RTR2_OHGH.jpg) is dark. 
+
+
+
+
+ 12v @ 16.5A = 200W
+
+You're tripping your power supply.  Get a beefier one.  Also, if you suspect it's tripping some max value, look at your terminal window to see.  It'll spit out an error message if it does. 
+
+
+
+
+ Why in fuck is a zipper company fighting against ISIS?!
+
+http://pkk.gmc.globalmarket.com/ 
+
+
+
+
+ Ken, is this space planning on being hackerspace-esque?  If it is, throw it up on hackerspaces.org (wiki) as a planned space and link there too.  The community is growing very rapidly, and I'm sure you'll get some hits from there. 
+
+
+
+
+ No, but from within the USA there are a lot less laws and bullshit politics you've gotta deal with regarding trade agreements which were put in place by companies that reside in the USA for their protection, so suddenly you've got a big inefficient government agency paying lots of workers for a mediocre job of scanning things that cross the border, yadda yadda yadda.
+
+Not only that, but they charge it "because they can"; basically what they believe people will tolerate, etc.  Lots of factors at play.
+
+The USA has a huge advantage in that federal laws are generally that govern interstate commerce, so there's only 1 set of them you've gotta abide by.  It's simple, it's cheap, not a bunch of oversight.  Whereas whenever something goes international, then you've gotta deal with a whole bunch of politics.  Dealing with politics costs money.
+
+I don't know how China manages to get shipping to us so cheaply.  I'd certainly love to know. 
+
+
+
+
+ The problem is, you're shipping a lot of weight.  You're shipping nearly 3kg (6lbs), and shipping companies charge extra for that.  You really can't blame Taulman, or anyone other than the shipping companies for that.
+
+DeltaMaker got caught up in that too.  We had people slip in international orders for our first tiers at $500, and when we had to tell them shipping such a large, heavy package overseas was going to be $300 through DHL, they actually asked for a refund.  Nevermind $800 was still a _FAN fucking tastic_ deal, it still nearly doubled the price. 
+
+
+
+
+ https://www.pjrc.com/teensy/projects.html - Just a sample of the different kind of stuff you can do with the Teensy and a modicum of electronics knowledge.  Many projects, people document enough that you wouldn't even need programming knowledge and could just duplicate by following along. 
+
+
+
+
+ Honestly, a Teensy is worth having anyways.  It's useful for _way_ more than just hacking your Chromecast.  It can emulate USB devices, you can communicate with I2C/SPI chips for data logging, etc. 
+
+
+
+
+ This is a _highly_ misleading statement, as
+
+ Most reversals are estimated to take between 1,000 and 10,000 years.
+
+source: http://en.wikipedia.org/wiki/Geomagnetic_reversal
+
+The way you put it makes it sounds like it should just flip overnight.  It doesn't. 
+
+
+
+
+ The pH levels of your water are off, and probably highly chlorinated.  What you're seeing is the result of pitting caused by corrosion of the metal inside the faucet:
+
+http://www.toolbase.org/Building-Systems/Plumbing/copper-pinhole-leaks
+
+If the rest of your piping is copper, you're likely going to start seeing these leaks elsewhere too.  You see this kind of thing in pool systems all the time, especially when pool pump housings aren't built and you get lots of UV reacting with the chlorine in the water pump. 
+
+
+
+
+ I've also seen this in areas where water is over chlorinated.  Chlorine attacks and corrodes practically any metal, and it's likely that this pinhole formed over time from a pit on the inside of the nozzle. 
+
+
+
+
+ Really hard to give you an answer without knowing what kind of power supply, what it's rated for, etc...... 
+
+
+
+
+ The top didn't say "getting a haircut".  It said "asking the hairdresser".  You're inferring the haircut and it's getting in the way of the joke. 
+
+
+
+
+ Taulman has been an awesome member of the community for some time now, releasing some of the first Nylon filaments ever available for printing use.  He's now got 6 more formulations he's trying to raise money for.  Unlike most kickstarters, he's already got a successful business selling Nylon filament. 
+
+
+
+
+
+
+
+
+
+ You went from a state with the "worst morning commutes" to "highest pedestrian fatalities": http://time.com/106155/pedestrian-deaths-traffic/ 
+
+
+
+
+ http://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution#Computer_passwords
+
+ However, in February 2012 the Eleventh Circuit ruled otherwise - finding that requiring a defendant to produce an encrypted drive's password would violate the Constitution, becoming the first federal circuit court to rule on the issue.[69][70] In April 2013, a District Court magistrate judge in Wisconsin refused to compel a suspect to provide the encryption password to his hard drive after FBI agents had unsuccessfully **spent months trying to decrypt the data.**[71][72]
+
+That's also why you use sentence-based passwords.  The problem is that a lot of people use weak-sauce easily cracked passwords.  http://xkcd.com/936/
+
+So your reply doesn't come off rude, as much as ignorant.  My TrueCrypt containers, for example use a sentence-based password with at least 2 non-dictionary words and AES-256 bit encryption.  The passwords are _very_ easy to remember, and near-impossible to crack without my express knowledge.
+
+And it does keep the ISP from seeing your traffic (SSH is not cleartext traffic).  Problem with SSH tunneling is that it's TCP-only.  It pretty much breaks any and all traffic monitoring from residential ISPs.  Try it out if you don't believe me.
+
+http://chamibuddhika.wordpress.com/2012/03/21/ssh-tunnelling-explained/ 
+
+
+
+
+ That's funny, works fine on Chrome on my Nexus 5.  Not to mention, given that Mobile has such tight data restrictions, you'd be stupid not to want gfycat posted.  Reddit News' internal browser also displays it just fine. 
+
+
+
+
+ uncompressed gif: 9M
+
+HTML5 gif: 1M
+
+Also, GFYCAT is faster, works great on any modern smartphone (whereas gifs regularly don't), etc. 
+
+
+
+
+ http://gfycat.com/FriendlyGrotesqueKitty
+
+Please do the internet a favor and use gfycat. 
+
+
+
+
+ Invest a little more money in a non-logging VPN (added $3-10 a month) and set your router up to push all traffic through the VPN.  You'll get around all of their logging/throttling, etc.  BTGuard is a good one though you might want to find one with a US server, because a lot of content can be blocked via IP geolocation.
+
+And quite honestly, in this day and age you'll want to learn how to do this.  Even if you have nothing to hide.  Simply because they sell you "the internet", and they're doing their best every damn day to divide the internet up and charge you for "packages".  It's your internet, you should be free to use it however the hell you want.
+
+Furthermore, if you're really paranoid - it's even better to set up your own private VPS and roll your own VPN solution because BTGuard and others _do comply with law enforcement_ whenever asked.  They'll roll over faster than a trained dog.  Whereas if you're rolling your own VPN, you choose exactly what is logged, you can verify it, and you can also encrypt your data, meaning law enforcement cannot get to it due to the 5th amendment.
+
+Encrypt all the things! 
+
+
+
+
+ Not only the points system, but real-time reporting of traffic events, such as speed traps.  I've _easily_ saved myself $1k in traffic tickets and points thanks to Waze.  It also adds ETA and group tracking (when multiple friends have the same destination, it'll show ETA for everyone)
+
+It's not for everyone.  It would be _way_ too easy to get distracted with a lot of the things you can do with Waze - but it's more than just Google Maps with a point system. 
+
+
+
+
+  superior Waze
+
+FTFY 
+
+
+
+
+ Generally just a cylindrical object next to the piece for it to work on while the original part cools that's the same height as the object you're printing.
+
+In some slicers, (KISSlicer) it literally has just a checkbox to enable this feature and does it for you automatically. 
+
+
+
+
+ Weld-on #4. 
+
+
+
+
+ Well, that guy is as good as dead. 
+
+
+
+
+ You're not a woman.  You're a unicorn.  That's how rare you are. 
+
+
+
+
+ On newer automatics, they've been kind of moving them all over the place.  They aren't always down low in the center anymore: 
+
+http://gearhungry.com/wp-content/uploads/2013/05/Automatic-Link-for-Smartphone.jpg.jpg    
+http://www.motoraccessories.in/wp-content/uploads/2013/08/Hyundai-i10-Automatic-Gear-Transmission.jpg    
+etc.    
+
+
+
+
+ The woman has a cold and is sniffling. 
+
+
+
+
+ This can be solid advice in some situations, but it's not always a solid solution.  Primarily because radiant heat from the heater block can hover over finished layers for too long, actually re-softening them and making the problem worse in some circumstances. 
+
+
+
+
+ Who are you kidding, women don't know how to drive manual. 
+
+
+
+
+ Either add another object to print, or add a cooling tower.  
+
+
+
+
+ By chance do you have a download link that's less of a hassle?  MMF wants me to register for their site, only gives 5 "free" downloads, etc 
+
+
+
+
+ And now you know why the obesity rate in America is soaring through the roof.  Our food is just so damn tasty! 
+
+
+
+
+ Fantastic, now this sub is going to be a bunch of fluffy carebear crap because the mod will ban you otherwise.  :/ 
+
+
+
+

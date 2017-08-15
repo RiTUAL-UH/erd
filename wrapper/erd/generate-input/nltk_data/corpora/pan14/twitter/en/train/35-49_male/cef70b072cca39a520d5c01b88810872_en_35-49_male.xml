@@ -1,0 +1,3001 @@
+@mikehadlow i've been in erlang for the last 6 weeks. Not missing the static typing much at all.    
+    
+    
+    @mikehadlow the class of bugs that the compiler catches are easily found with the tests, which i need anyway    
+    
+    
+    @chadmyers with EC2, you are charged for running instances, regardless of usage    
+    
+    
+    @chadmyers @sbohlen ec2 pricing starts at 2c per hour, so about 15 bucks a month    
+    
+    
+    @mikehadlow alas, all under nda at the mo, but it is a *very* productive environment    
+    
+    
+    @mhenders might be interested in one of the macbooks for the in-laws - what are the specs and how much you looking for?    
+    
+    
+    Stupid windows with your slashes round the wrong way    
+    
+    
+    @adlanelm Bash, emacs etc. Should be on linux really, but one of our dependencies is windows-only :(    
+    
+    
+    @tanukidata Do you guys supply hardware components? I'm in need of a power supply for a motherboard….    
+    
+    
+    @tanukidata cool, where are you? Could I drop by sometime tomorrow?    
+    
+    
+    @tanukidata Hey Joey, having problems with that ram module - any chance you'd be able to drop by my office so we can test the others?    
+    
+    
+    @tanukidata I've already left for the day, but should be in anytime after 9.30 tomorrow    
+    
+    
+    Thanks to @tanukidata for sorting out my hardware woes this week :)    
+    
+    
+    Not tweeted for ages, been insanely busy. System goes live in less than a week, going through final acceptance tests. All looking good :)    
+    
+    
+    @joe_carney we've been building a large cloud-based audio transcoding and archiving system for Reuters, been under nda the whole time    
+    
+    
+    @joe_carney but they've just filed a patent on the technology used, so guess it's official public domain now ;)    
+    
+    
+    @joe_carney you on the coast at the mo or travelling? If the former, we should grab a coffee sometime    
+    
+    
+    @tanukidata @joe_carney I think it'll be cold by the time I get there :)    
+    
+    
+    @joe_carney @tanukidata so if you're midway through, that means you'll be wanting a break midweek - coffee on Wednesday?    
+    
+    
+    @joe_carney that's where my office is, so works for me :) sometime in the morning?    
+    
+    
+    @joe_carney @tanukidata not sure yet, depends on kids and school    
+    
+    
+    @hhariri @joe_carney go on dude, you know you want to :)    
+    
+    
+    @hhariri Welcome back :)    
+    
+    
+    @awashtell Got the S, not the S2. Hate it.    
+    
+    
+    @awashtell Not used a 2, so perhaps it's much better. It needs to be, mine was pretty crap out of the box, very slow, very laggy    
+    
+    
+    @awashtell Installing a custom rom helped, but I really don't expect to have to mess about with such things. Roll on iPhone 5 for me    
+    
+    
+    @incongruousm @awashtell The problem with the S wasn't hardware, it was the screwed up Android install that samsung did    
+    
+    
+    @seanparsons @awashtell @incongruousm guess they sorted out the filesystem they were using, or the h/ware is *so* fast it doesn't matter :)    
+    
+    
+    @RoyOsherove TeamViewer works ok    
+    
+    
+    @NJenman I'm on a custom one, not one of Samsung's.  About 9 months old now, but not sure I can be arsed to go through the upgrade pain :)    
+    
+    
+    @NJenman way too busy to spend time upgrading phones, particularly when it should have worked without the upgrade :)    
+    
+    
+    @tanukidata Hey, do you have any laptop drives in stock? Friend of mine has just had one die in his MBP...    
+    
+    
+    @tanukidata no need to reply, he's on the phone with you right now :)    
+    
+    
+    @joe_carney @hhariri so you boys up for a coffee tomorrow?  Place and time?    
+    
+    
+    @lazycoder take a look at "Not Even Wrong" for an alternative view on string theory. It is a bit heavy going though, quite a lot of theory    
+    
+    
+    «@RonJeffries «@zeminlu UNIX' Russian Roulette: sudo [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo “You live”»»    
+    
+    
+    @joe_carney quick lunch before you head to nueva andalusia? You know anywhere good? I'm up at the copper-tower end of town    
+    
+    
+    @joe_carney that'll work, the port is about 10mins from my office    
+    
+    
+    @joe_carney looks good, call me when you're near and I'll meet you there    
+    
+    
+    @hhariri @joe_carney we'll have to sort out tapas one night #keepsayingthat    
+    
+    
+    Been using backbone.js today, quite liking it but surprised how much boilerplate code needed in a collection view's render method    
+    
+    
+    @joe_carney you anywhere nearby? Just sat down for a coffee at trilla    
+    
+    
+    @joe_carney hope you get things working and get some sleep :) Catch you Friday    
+    
+    
+    @joe_carney We good for lunchtime?    
+    
+    
+    Just leaving for gatwick. Short week in the uk coming up...    
+    
+    
+    @MarkNijhof @ade_oshineye @ecomba a cup of coffee?    
+    
+    
+    Thinking that a hot curry two hours before the flight perhaps wasn't such a great idea    
+    
+    
+    Fancy infinite storage? http://www.bitcasa.com/beta-signup?share=2513632736 … Tempting to pipe /dev/random to them and see how it goes ;)    
+    
+    
+    First experience of Win8 "Your internet security settings prevented the file from being opened". This is a file on a CD. #fail    
+    
+    
+    @srstrong Being fair to Win8, looks like it might have been a VM issue    
+    
+    
+    @martinstillman doubt the great unwashed would be installing in a VM in the first place :)    
+    
+    
+    @martinstillman that said, I was very un-impressed. Been installing early windows betas since Win95, and this one was the least exciting    
+    
+    
+    @martinstillman busy :)    
+    
+    
+    @NeilRobbins not used it, been doing all our templating on the client. Zotonic makes heavy use of erlydtl which implements django templates    
+    
+    
+    @petebouch any idea where the fire is? Lots of choppers flying over us as well but no smoke visible    
+    
+    
+    An evening with backbone.js, backbone.memento and backbone.modelbinding.  This stack feels *very* nice.    
+    
+    
+    @dagda1 it goes straight to the ast, there's no hql string generation going on    
+    
+    
+    @dagda1 @jagregory it is an hql ast, so i guess you could claim that you werr right all along ;)    
+    
+    
+    @jagregory @dagda1 lol :)    
+    
+    
+    @hhariri ouch :(    
+    
+    
+    @neil_rees @awashtell not sure t gsa t the cassini licence allows you to redistribute; I'd check if it was for commercial use    
+    
+    
+    @neil_rees @awashtell there's also something with either webmatrix or lightswitch that is similar, but don't recall the details    
+    
+    
+    @jamesogden @neil_rees @awashtell that's the chap    
+    
+    
+    Anyone know of a place for rent in Chamonix over Christmas / New Year, ideally 3 bedrooms...    
+    
+    
+    @hotgazpacho teamviewer and skype, works really well both on win & osx    
+    
+    
+    Forgot how much fun the underground is on a Monday morning    
+    
+    
+    @tommyjmquinn at Olympia at a streaming media conference where we are exhibiting. Checkout www.streamappliance.com    
+    
+    
+    @tommyjmquinn how you doing? Still at rbs?    
+    
+    
+    @tommyjmquinn here until Wednesday,  fly back Thu morning. What you doing after rbs?    
+    
+    
+    @tommyjmquinn not today, just doing setup :) tomorrow or wednesday would be fine    
+    
+    
+    @gbzrce hi Rob, long time! We're doing this www.streamappliance.com    
+    
+    
+    @gbzrce doing quite a bit in the streaming space and saw a hole in the market. Fingers crossed :)    
+    
+    
+    Launched yesterday www.streamappliance.com - it's been a busy few weeks :). Lots of early interest, so will sleep well tonight!    
+    
+    
+    Anyone in London fancy a couple of beers? #geekbeers    
+    
+    
+    @tommyjmquinn check in at around 6am - guessing that's a bit early :)    
+    
+    
+    @seanparsons arse, should have tweeted earlier!    
+    
+    
+    @tommyjmquinn yes, it would indeed. With the launch, this week has been pretty mental, hopefully the next trip will be more sane    
+    
+    
+    Any opinions on low-cost website load test tools?    
+    
+    
+    @Ben_Hall nice one, thanks :)    
+    
+    
+    @Ben_Hall @mikehadlow @Keith_bloom thanks for the suggestions chaps :)    
+    
+    
+    Proper thunderstorm going on, had no power for about an hour now    
+    
+    
+    @joe_carney forgot to turn on the API server yesterday; bit tricky now with no power!    
+    
+    
+    @joe_carney :)    
+    
+    
+    An afternoon of webmachine, monads and mongo :)    
+    
+    
+    Big new function added, big refactor done to support it, and all the tests are passing again. I'll take today :)    
+    
+    
+    @tommyjmquinn Now that sounds like a plan :)    
+    
+    
+    Any ideas for a good Sunday lunch on the costa?    
+    
+    
+    @joe_carney how much a head?    
+    
+    
+    @joe_carney iphone got ordered yesterday btw ;)    
+    
+    
+    @philiphendry groan ;)    
+    
+    
+    @NeilRobbins good luck, let's hope you don't regret that tomorrow ;)    
+    
+    
+    @joe_carney taken your advice :) http://twitpic.com/7874sg     
+    
+    
+    Beef. Lamb. Pork. Turkey. Ham. Damn, that was a good lunch, now bring on the apple pie :)    
+    
+    
+    @joe_carney most excellent, thx for the tip    
+    
+    
+    @philiphendry disappointed there was no duck ;)    
+    
+    
+    @adymitruk @dagda1 +1 for zeromq, a breathe of fresh air after the complexities of most of the others    
+    
+    
+    Tweet about a good lunch and some checky sod sends me a link to a diet website. These bots have no social skills!    
+    
+    
+    @dagda1 rabbit is pretty good, used it extensively on the last project. But really like the simplicity of zeromq, very appealing    
+    
+    
+    @marknijhof how do you find the bookbook? Enough space in it for cards etc? New iPhone on the way, so in the market for a good case...    
+    
+    
+    @sermoa Ooo, looks lovely, be very interested in one of them when they get released :)    
+    
+    
+    @MarkNijhof Oh, that's pretty cool, didn't look like it would take that much stuff. Very tempted :)    
+    
+    
+    monthly invoicing run done.  Accounting is *very* dull, but the numbers look good at the end :)    
+    
+    
+    @hhariri @marknijhof just remember to take the iPhone out first ;)    
+    
+    
+    Lunch :) http://twitpic.com/79c5j0     
+    
+    
+    @hhariri hehe, forgot all about that! Of course, I don't work there anymore so not my problem ;)    
+    
+    
+    @hhariri I'll remind Mr. Watson and get him to sort something    
+    
+    
+    @hhariri fine by me, just send in the invoice and see what happens :)    
+    
+    
+    @hhariri lol :) think you might be right!    
+    
+    
+    @intellectdk very spoilt :)    
+    
+    
+    Yay, new iPhone is here. Can finally turn of my samsung hunk of junk :)    
+    
+    
+    @tommyjmquinn that is a fine question sir.  And one I'd rather you didn't ask ;)    
+    
+    
+    Friday night, and I'm in ikea. Damn, I really know how to party.    
+    
+    
+    @joe_carney going well thanks, you? Wed would be great but alas I'm in the uk all week :(    
+    
+    
+    @kkozmic wouldn't call myself a guru, but it looks safe to me    
+    
+    
+    @hhariri please say you're joking :)    
+    
+    
+    Yesterday was our first end to end test of our erlang system, big customer demo due on wednesday, all looking good :)    
+    
+    
+    I'm guessing that a C# version of what we're building would be 2-4 times as much code    
+    
+    
+    @ironshay :)    
+    
+    
+    @gmciw ask adrian about it, it's our favourite new toy :)    
+    
+    
+    @ironshay learning the lang is pretty simple, but on it's own it looks a bit nasty; some of the syntax is plain horrible    
+    
+    
+    @ironshay I'd say it's taken about 4-6 weeks on a real project to get properly up to speed and to really appreciate the lang/vm/libraries    
+    
+    
+    @ironshay and I think I'd only try on a project that needed it (distributed and fault tolerance are the 2 key aspects of my current project)    
+    
+    
+    @ironshay trying to learn it on a project where you don't get the full benefits would probably be quite frustrating    
+    
+    
+    @ironshay that said, now I know it I can't really imagine using anything else for server-side code    
+    
+    
+    @ironshay I'd be happy to    
+    
+    
+    England. And it's pissing it down. #noraincoat #stupid    
+    
+    
+    I just unlocked the "JetSetter" badge on @foursquare! Bon Voyage! http://4sq.com/uEAWDt     
+    
+    
+    @hhariri you might get a call from a company in London that I've been helping out this week - they are in need of some IntelliJ love...    
+    
+    
+    Crazy week in london. Heading home now, thank goodness. Although would be better if I didn't have to perform a system upgrade tonight!    
+    
+    
+    Having spent a couple of days deep in java, j2ee, ejb's etc, looking forward very much to be back in world of erlang next week    
+    
+    
+    @tommyjmquinn we really aren't timing this well ;)    
+    
+    
+    @hhariri no probs. we should do tapas sometime ;)    
+    
+    
+    We appear to be taking off. Guess I should turn on flight mode...    
+    
+    
+    I just ousted @niconlyone as the mayor of Marbella British School on @foursquare! http://4sq.com/b7e67A     
+    
+    
+    Have a contact in Gibraltar who's looking for a senior java dev (strong c# skills would be fine as well) - ping me if interested, please rt    
+    
+    
+    @hhariri you know any good java or web front end chaps down here that might be interested in a gig in gib?    
+    
+    
+    @intellectdk at this stage, employment. If they fail to find anyone, then contract maybe an option    
+    
+    
+    @joseph_carney stood somewhere on your street. Turns out I don't have your number...    
+    
+    
+    @nicchick Not of the top of my head - guess I still need to write that thing I promised you months ago...    
+    
+    
+    @joseph_carney @calendapp (blush)    
+    
+    
+    @joseph_carney plenty of space in the office if you ever wanted to camp here for a bit :)    
+    
+    
+    @joseph_carney :)    
+    
+    
+    Not sure I've ever been this busy, loads of very fun projects underway and less than 24 hours before flying to the alps. Happy days :)    
+    
+    
+    Parsing / writing binary formats in #erlang is *so* much easier than any other language I've ever used - I'd almost call it pleasurable!    
+    
+    
+    Wondered what the sauce was that's on the table at the Chinese. So dipped my finger in and had a suck. Now have an inferno in my mouth...    
+    
+    
+    Think it was some form of molten lava    
+    
+    
+    @nicchick Nope, in the UK I'm afraid :(    
+    
+    
+    I just unlocked the "Superstar" badge on @foursquare! http://4sq.com/AgdAH4     
+    
+    
+    @hhariri :) damn them for tweeting without asking!    
+    
+    
+    @hhariri btw, it's 0615 on a Sunday - what the hell are you doing reading twitter?!    
+    
+    
+    @martinstillman yeah, early flight out of Geneva, did suck somewhat!    
+    
+    
+    @joseph_carney this morning, I call myself "knackered"    
+    
+    
+    Just signed up for SourceNinja, anyone got access to it? Does it work? Subscribe link is http://www.sourceninja.com/sign-up.html?ref=hkm3w …    
+    
+    
+    @awashtell don't do it. Life is too short...    
+    
+    
+    @dagda1 I feel your pain; now that the honeymoon period is over, I feel much the same about my galaxy s    
+    
+    
+    @joseph_carney :)    
+    
+    
+    @joseph_carney for the right job, I think it's fantastic. It's not perfect for everything, and the learning curve is pretty steep    
+    
+    
+    @joseph_carney but  for the right problems it's a great tool    
+    
+    
+    Anyone in London fancy beers? #shortnotice    
+    
+    
+    @oakinger yeah, thinking 9:30 was probably too late to be asking ;) Next time maybe...    
+    
+    
+    Been with a potential blue chip client tonight.  Apparently they do "agile". Their sprints are 9 months long. Go figure :D    
+    
+    
+    @neil_rees :) that was #ReallyShortNotice - back at my desk in Spain now    
+    
+    
+    @neil_rees how r things going with u? Having fun with the new venture?    
+    
+    
+    @neil_rees hehe, yeah, was a bit of a flying visit this one.  And I know what you mean ;)    
+    
+    
+    I just became the mayor of La Fishita on @foursquare! http://4sq.com/wy6d31     
+    
+    
+    @NeilRobbins it is indeed :)    
+    
+    
+    I just ousted @josema_ms as the mayor of Aqua Wellness Center on @foursquare! http://4sq.com/qo963e     
+    
+    
+    @oakinger a friend of mine is running Ubuntu as the host; he's looking forward to getting a mac to get a better ui...    
+    
+    
+    @oakinger I do 75% of my dev in osx, then switch to an Ubuntu vm for the remaining; it feels pretty painless and gets the bobw    
+    
+    
+    @oakinger I barely use the mouse, but then I spend pretty much all day in iterm and emacs. What kbd shortcuts were you missing?    
+    
+    
+    @oakinger that I can understand. I pretty much avoid java where possible; much prefer a language that is portable ;) #erlang    
+    
+    
+    @NJenman I thought that when I got mine a couple of months back; would gladly swap for an iphone now. How r u guys?    
+    
+    
+    Just fixed a bug that I've been chasing for three days.  Fix involved changing 3 bits.  Glad I'm not measured by loc/day...    
+    
+    
+    @Ben_Hall done a couple - pretty basic, not sure I'd go as far as calling them applications, but they are certainly a single page    
+    
+    
+    @NeilRobbins best coffee in the world. Only had bad coffee here once; it was in an English restaurant...    
+    
+    
+    Arrived in gib early for my meeting. 25 1/2 hours early, to be precise    
+    
+    
+    @tommyjmquinn @neilrobbins @s_delcroix well, it certainly won't cost you much on bleach :p    
+    
+    
+    Boo, #uksnow  has scuppered my plans to get to the company xmas party :( Going for a ruby instead    
+    
+    
+    @ampgt @MarkNijhof people get distracted because they are human. Addressing that root cause is, um, complicated :)    
+    
+    
+    Merry xmas & cheers to all at iMeta from Elaine :) http://plixi.com/p/64460217    
+    
+    
+    So frikin' lame when a website emails me my password :(    
+    
+    
+    Spent the last two months porting a large windows system to Linux, don't think I've ever worked so hard. One subsystem left, the end of...    
+    
+    
+    ... the tunnel is in sight :)    
+    
+    
+    Any good java devs out there that would be interested in a gig in London? Please rt...    
+    
+    
+    @seanparsons lol :)    
+    
+    
+    @seanparsons @awashtell @tpeplow guess I could stick out a call for average-to-poor java devs and see how that goes... ;)    
+    
+    
+    @mikehadlow Ouch :( Hope you're feeling better soon    
+    
+    
+    For the first time since January, we just did a successful end-to-end run of our system. Linux port almost there :)    
+    
+    
+    @nicchick i think it got thrown out of court as ridiculous. No reference for you though, so might be imagining it    
+    
+    
+    My daughters is eating chips with chocolate spread. It's so wrong.    
+    
+    
+    @colinramsay chips as in fries. Really wrong, in my book    
+    
+    
+    @JFXJames cheeky sod :)    
+    
+    
+    Carrot, mince pie and a glass of juice prepared for Santa. Quick check with NORAD on progress, now time to get the girls to bed...    
+    
+    
+    @DavidGouge tell me about it. We suggested something "stronger" but the kids insisted :(    
+    
+    
+    @tommyjmquinn Think I missed the "happy birthday" thing - hope you had a good one!    
+    
+    
+    If the compiler's so damn smart at spotting my typos, why doesn't it fix them?    
+    
+    
+    To the person that came up with the idea of using wire to package kids toys - I HATE YOU. Happy xmas btw :)    
+    
+    
+    Splendid xmas lunch, happy xmas folks!    
+    
+    
+    writing multi-thread C blows so many chunks after being in #erlang for the last 2 years!    
+    
+    
+    @tommyjmquinn *might* be in town Thursday lunchtime - fancy a coffee?    
+    
+    
+    @tommyjmquinn cool :) got a meeting near bishopsgate at 11am, suspect I'll be done in an hour or so. Where are you based?    
+    
+    
+    @tommyjmquinn how would a late lunch work? 2ish?    
+    
+    
+    @tommyjmquinn Cool - whereabouts?  Heading towards picadilly is no problem...    
+    
+    
+    @tommyjmquinn now that sounds like a plan :) dm me your mobile so I can let u know if I'm running late    
+    
+    
+    Great to see some of the iMeta chaps tonight, a great bunch and I really miss them.    
+    
+    
+    @Godders83 there was Simon, James W & James A, Stavros, Phil & Ben. 'twas good to catch up :)    
+    
+    
+    @tommyjmquinn twitter's managed to loose your dm, so don't have you number. Stood by the entrance to lillywhites...    
+    
+    
+    Mmm, Saturday evening in the company of Wireshark.  It's just *so* rockstar...    
+    
+    
+    @thisisspain since xmas and boxing day fell on the weekend, the bank holidays carry over to mon & tue. Back to normal tomorrow    
+    
+    
+    Looking for someone for a dev support role based in Marbella - ideally keen and young, we will provide the training / mentoring, please RT    
+    
+    
+    Role will involve web and erlang dev and support - prior experience not needed, but huge enthusiasm is a must! Degree etc not needed    
+    
+    
+    @MarkNijhof nope, you're not too old, just too expensive ;)    
+    
+    
+    @hhariri :)    
+    
+    
+    @hasankhanbilal nope, applicants would need to be able to work in Spain/EU    
+    
+    
+    @MarkNijhof :)    
+    
+    
+    @neil_rees there we go. What twat thought that was a good idea?    
+    
+    
+    Off to NYC in a week - somehow, I've never been before so quite excited :)    
+    
+    
+    @hhariri odd that he feels he should ban something that he believes is impossible in the first place. Bunch of idiots. #landofthefree    
+    
+    
+    Something very wrong in uk education - currently at a geek party in NYC and about 40% of the attendees are women...    
+    
+    
+    In the UK, I'd be real surprised if the number was half that, to the detriment of the industry    
+    
+    
+    Galaxy S has been away from it's charger for 5 whole hours now. Guess I shouldn't be suprised that it's about to die :( #sucks    
+    
+    
+    If anyone wants to swap a factory-unlocked iPhone4 for a galaxy s, we should talk ;)    
+    
+    
+    Apologies for the superflous "'" in a previous tweet; I hate it when I do that    
+    
+    
+    @agross ah, maybe it was that seti thing I installed ;)    
+    
+    
+    @oakinger www.currenciesdirect.com - I use them all the time and find them very good    
+    
+    
+    @silverSpoon No bloatware here - I'm running a 2.2 rom without any operator crap at all.  I can get 3-4 days no prob.  If I don't use it.    
+    
+    
+    @oakinger I've always been happy with them.  No commission and typically a better exchange rate than you get from the bank    
+    
+    
+    @silverSpoon I'd normally get a day - I think something went rogue this morning; it got quite warm for an hour or so, but never tracked...    
+    
+    
+    @silverSpoon down which app was at fault. Rebooted it and back to normal, but the damage was done.  On charge now, it'll be happy soon :)    
+    
+    
+    Anyone on the costa-del-sol know where to get guitar strings from?    
+    
+    
+    Griff Rhys Jones looking much better with shorter hair and goatee beard type thing    
+    
+    
+    Modkit Micro: The Easiest Way to Program Microcontrollers by Modkit — Kickstarter http://kck.st/JZwGkR  via @kickstarter    
+    
+    
+    @kkozmic I think I'd tend towards false    
+    
+    
+    @hhariri @kkozmic but perhaps it's *not* incorrect design; perhaps it's reasonable for the calling code to have a null key    
+    
+    
+    @hhariri @kkozmic where the api can do something semantically sensible (in the case, returning false), then I'd avoid the exception    
+    
+    
+    @hhariri @kkozmic not really the place of api's to second guess if I'm writing bugs or not    
+    
+    
+    @hhariri @kkozmic for something like Add, where the api can't sanely deal with a null key, then throw is clearly the right choice    
+    
+    
+    @NJenman other way round, switched from iphone to gakaxy s. Don't much like it, can't wait for contract to renew so i can switch back :(    
+    
+    
+    Happy 2011!    
+    
+    
+    @Daneel3001 so far, 2011 appears to be much the same ;)    
+    
+    
+    Gotta say London, those are some good fireworks    
+    
+    
+    @awashtell Maybe they'll let you pay the 2d price if you don't take in the funny glasses...    
+    
+    
+    Mmmm, 16GB of retina goodness on its way to Spain :)    
+    
+    
+    @Imaji stood in a very slow queue at the airport. Nothing to do and then the apple store came back online :)    
+    
+    
+    @Imaji didn't go for the fastest processor, 250 for an extra .1 GHz seemed excessive; also didn't bother with the 750GB disk    
+    
+    
+    @Imaji yeah, but it's tax-deductible which helps a lot :)    
+    
+    
+    Mmm, weather in London is delicious today :( But this time I *do* have my umbrella :)    
+    
+    
+    @hhariri do you remember that really good burger menu that we found when we were at the science park?    
+    
+    
+    @hotgazpacho much much clearer    
+    
+    
+    @neil_rees über-cool :)    
+    
+    
+    @jagregory been using sparrow for a few weeks, quite liking it    
+    
+    
+    @jagregory throw erlang into the mix. 4 months now and still loving it    
+    
+    
+    @alfredapp Since Sep 29, 2010, @alfredapp has been shown 1,084 times. Average 11.3 times per day    
+    
+    
+    @alfredapp and I'm using way more now than I used too, so the average is probably misleadingly low    
+    
+    
+    @jagregory sure - I'm using html/js/jquery templates and access the server via a rest interface using webmachine (a nice rest framework)    
+    
+    
+    @jagregory we're using mnesia but have pretty modest needs. Woyld use couch if needed something bigger    
+    
+    
+    @jagregory no real reason, mongo would be fine as well. It's also got apis available for mysql etc if you need relational    
+    
+    
+    @jagregory No probs, let me know if you do use any - I'm pondering a .net to erlang course and will need guinea pigs ;)    
+    
+    
+    @Ben_Hall @jagregory cool, I'll keep you posted :)    
+    
+    
+    @jagregory guessing it won't be as easy - the learning curve is a bit steep but i think the benefits are enormous (imo, of course!)    
+    
+    
+    @jagregory you on osx? If I recall, they were pretty straightforward - install erlang, bit wm and mochiweb from bitbucket, run make...    
+    
+    
+    @jagregory but it was some time ago, so may be forgetting some steps. Don't bother trying on windows until you're used to things :)    
+    
+    
+    @jagregory versioning is fun (as always) I've got clones of wm & mw here http://j.mp/gIPmRo - suspect they're out of date, but they work    
+    
+    
+    @jagregory good plan, I've been building everything from source and found that relatively painless    
+    
+    
+    @hotgazpacho sure, works just fine    
+    
+    
+    @hotgazpacho need to have the mac on, at least on y setup I do...    
+    
+    
+    @hotgazpacho agreed, that would be much better. Think it only works like that for music at the mo, although not tried that    
+    
+    
+    @hotgazpacho ooo, interesting - will need to lookout for those. You had to buy DVDs for those? (but presumably not need to rip them)    
+    
+    
+    @hhariri sounds like the world is attempting to recreate lisp, yet again :)    
+    
+    
+    @hhariri hehe :)    
+    
+    
+    @ecomba how often are you in madrid vs winchester?    
+    
+    
+    @mhenders my 2012 mbp can see USB devices on my thunderbolt display just fine. Doubt that helps you much though :(    
+    
+    
+    @mhenders that sucks :( you would have thought they'd have tested that combo a bit more    
+    
+    
+    @IntelMediaSDK adding my vote for QuickSync SDK on Linux. Some positive news on this would be great    
+    
+    
+    @HowardvRooijen @hhariri the mistake some make is to think that they are the same. Hosting gives SLAs, cloud gives flexibility but    
+    
+    
+    @HowardvRooijen @hhariri typically at the expense of any useful SLA. If the flexibility is of value, you have to engineer your own SLA    
+    
+    
+    @HowardvRooijen @hhariri our biggest cloud deployment to date (which maxed at 768 active servers) didn't even notice the AWS problems    
+    
+    
+    @HowardvRooijen @hhariri and yes, it is hosted on AWS before you make wisecracks :)    
+    
+    
+    @hhariri @howardvrooijen yup, i'd agree with that for sure    
+    
+    
+    @HowardvRooijen @hhariri also agree - we're spread across 5 of the AWS data centers    
+    
+    
+    @HowardvRooijen @hhariri and when we find another provider that can do what we need, we'll be using them as well :)    
+    
+    
+    @oakinger imagine how England would have looked!    
+    
+    
+    @oakinger yeah, good point :)    
+    
+    
+    @kkzmc I tend to switch caps-lock (which I never use) and Ctrl (which I use all the time).  Take a day or so to get used to, but works well    
+    
+    
+    @tanukidata There's a restaurant there that does a really good chips + chilli.  Can't remember the name tho, so that's not much use :)    
+    
+    
+    @adymitruk @adronbh bah, recently been working on a project that had over 6000 lines in a stored proc.  Truly horiffic!    
+    
+    
+    @adymitruk @adronbh sad thing is that some folk didn't see what the problem was :(    
+    
+    
+    @tanukidata yup, in atlanta. Spent some time there a few years ago    
+    
+    
+    @tanukidata stone mountain park is nice, and it's a great walk up to the top    
+    
+    
+    @tanukidata the 6-flags theme park isn't bad, and rafting on the chatanooga river is a blast (on the border with south carolina)    
+    
+    
+    @HowardvRooijen Looking good :)    
+    
+    
+    @HowardvRooijen Very well thanks, yourself? A Ringwood sounds like a fine plan - I'm over next week but fully booked, perhaps in Feb?    
+    
+    
+    @JohnnoNolan *nothing's* gonna help that code ;)    
+    
+    
+    @Ben_Hall Try redirecting the output (ruby -e 'puts "\342\202\254"' > o.txt).  Suspect if you then open o.txt in notepad it'll look ok    
+    
+    
+    Any suggestions for good food near victoria?    
+    
+    
+    @tpeplow you know that I don't drink. Oh, ok then, just this once. Tue, wed or thu eve next week?    
+    
+    
+    @hhariri I've used it on occasion and found it useful    
+    
+    
+    My Twitter BFFs: @hhariri @fabiomaulo @ben_hall @neilrobbins @nathangloyn @fransbouma @tpeplow. Find yours @ http://twitterbffs.com    
+    
+    
+    @tpeplow Not sure I'm planning a trip into town this time, so Southampton would be preferable    
+    
+    
+    @seanparsons Southampton for this trip, not sure I'll be making it into town    
+    
+    
+    @garyshort Pretty sure that the can only see the 3.6GB.  Feel free to send me the other 12GB that you're not using :)    
+    
+    
+    @neil_rees @null_loop @AntGardiner Have fun you guys, feel like I know half the company :)    
+    
+    
+    @adean Ick, thought you'd been quiet.  Hope you're feeling better now, I guess I won't ask if you had a good xmas!    
+    
+    
+    @alfredapp and it's installed already :)  BTW, any thoughts of putting task switching stuff in, ala Witch?    
+    
+    
+    @neil_rees lol :)    
+    
+    
+    @ironshay I'm using touiteur which is ok. How you finding battery on you galaxy? Mine sucks :(    
+    
+    
+    @scottkowalczyk I think I gave up and moved to nunit.  If I get chance I'll spin up a project and see if it's started to behave    
+    
+    
+    anyone know how to dynamically add a node to an erlang distributed application? #erlang    
+    
+    
+    @greengar any plans for your whiteboard app to support collaboration over the Internet not just a LAN?    
+    
+    
+    @awashtell just bind to the local address, then no one external will be able to even see you. Much like the casini web server does    
+    
+    
+    @hhariri yeah, i think you're probably right :-)    
+    
+    
+    @davidsb @hhariri lol :-)    
+    
+    
+    @awashtell yeah, that would be the whole site. Nothing to stop you hosting multiple sites though, one public one private    
+    
+    
+    @awashtell they could share either via back-end database or just transfer info via the request/response. Session would be harder :)    
+    
+    
+    #olympicceremony nice one Mr Atkinson :)    
+    
+    
+    #olympicceremony do they still need hard hats? Is the stadium not really finished?    
+    
+    
+    #olympicceremony that, frankly, is the dogs    
+    
+    
+    @gregyoung agreed, been playing with it for a week and it is very good    
+    
+    
+    Installing the desktop experience feature on my Windows Server. Why? Because the flash encoder *command line* app needs it    
+    
+    
+    The flash encoder GUI app works just fine without it. Adobe really are just shockingly crap.    
+    
+    
+    @alfredapp Wow! Looks like you've had a busy day, but it's well deserved since Alfred rocks :)    
+    
+    
+    To anyone with a Galaxy S, it's worth installing the One Click Lag Fix from the market. Awesome stuff, much faster    
+    
+    
+    @mikehadlow Yeah, sorry about that :( It's top of my list    
+    
+    
+    If anyone from the SQL Server Setup team is listening: I HATE YOU. That's all, bye.    
+    
+    
+    @metcarob Yup, but the OneClickLagFix app includes a root function, so it should be pretty simple    
+    
+    
+    Off to UK tomorrow, and Galaxy S now successfully unlocked. No roaming charges for me :)    
+    
+    
+    Plus, helpfully there's just enough space between the case & the battery to stash the other sim card    
+    
+    
+    Guess my warranty is shot to bits now.  Rooted, new rom + unlocked. Thinking that a warranty from telefonica ain't worth much anyhow :)    
+    
+    
+    Had been playing with differencing disks on VirtualBox to save some disk space (Win7Base -> Dev Env -> Customer Dev Env)    
+    
+    
+    It was working fine.  Until it decided to forget the differences. Loading up my Customer Dev Env to find vanilla Win7 was a real shame :(    
+    
+    
+    @developerluke Yeah, had done that. The setup has been working for weeks, just decided to through a hissy fit this morning :(    
+    
+    
+    @Daneel3001 I like it. It needed a few tweaks to get it running properly, but now I've done them it's running really nicely    
+    
+    
+    @Daneel3001 I'd say that it's not quite as polished as an iphone, but it's great for a techy    
+    
+    
+    @tpeplow No probs, will try to do a London evening on next trip    
+    
+    
+    @incongruousm For now, just a stock Samsung rom (2.1); wanted to get rid of all the carrier crap that it came with    
+    
+    
+    Morning coffee at malaga airport. Feel like I've been mildly robbed    
+    
+    
+    working on tfs-backed project whilst offline. Preparing myself for world of pain later    
+    
+    
+    @hhariri what you need is a secure voting platform :)    
+    
+    
+    Bloody french airtraffic strike is going to waste at least 3 hours of my life stuck in malaga airport. Wonder if I can sue them...    
+    
+    
+    Looks like I get to fly today, only 3 hours late    
+    
+    
+    @tommyjmquinn if all goes well, will be in the office soon after 5    
+    
+    
+    London. Lappy battery lasted whole flight :)    
+    
+    
+    @joe_carney :) was actually coding in a vm, very surprised it lasted    
+    
+    
+    @jagregory until friday, but in southampton for most of the time    
+    
+    
+    @jagregory Looks good, nice one :)    
+    
+    
+    @jagregory Pex might help out if you want to test behavioural aspects.  But if doing so makes you rich, remember poor old me :)    
+    
+    
+    @hhariri There's a yotel a T4 heathrow.  Don't know which side of security, but I'm sure http://www.yotel.com  will tell you    
+    
+    
+    @hhariri @dbelcham Came up as 67quid when I tried; that's about what I normally pay at Gatwick    
+    
+    
+    @tweetmarbella more hours in the day would be good!    
+    
+    
+    @tweetmarbella don't think there's an "techy appeal" prob, for me it's just a lack of time    
+    
+    
+    Wish Amazon AMI images built a bit quicker.  Seem to have spent most of the last couple of days imaging machines :(    
+    
+    
+    @jagregory lol :)    
+    
+    
+    Any recommendations for an free SSH server for Windows? There seem to be a number to choose from...    
+    
+    
+    @KeithSpitalnick what do you need? Got some desks & chairs, a filling cabinet and a meeting table + chairs    
+    
+    
+    @jagregory @jeremyskinner I also run everything in OSX other than VS, SQL etc which are in VMWare. VM's have between 1 & 1.5GB. Works fine.    
+    
+    
+    One song would have been enough George, just one song.    
+    
+    
+    @philiphendry at least he stopped when he did!    
+    
+    
+    Wonder how much Liam pays his hair stylist?    
+    
+    
+    They've let a fucking gun in!! Where was security??    
+    
+    
+    It's official. Eric can sing better than Macca.    
+    
+    
+    Fabulous :)    
+    
+    
+    @JeremySkinner @jagregory :)    
+    
+    
+    @MarkNijhof fantastic read :)    
+    
+    
+    @NJenman very jealous :)    
+    
+    
+    @NJenman guess there's nothing that travels to Aus that can take that sort of weight ;)    
+    
+    
+    Awesome, got erlang running on my phone :)    
+    
+    
+    @CAMURPHY those off-by-one bugs are the worse    
+    
+    
+    @JeremySkinner one word. Emacs.    
+    
+    
+    @jagregory @JeremySkinner i wasn't really joking about emacs. If you're going to spend the time to learn a new editor, might as well (cont)    
+    
+    
+    @jagregory @JeremySkinner learn one that is on many sysyems. That pretty much narrows it down to emacs or vim; both are excellent editors    
+    
+    
+    @jagregory @JeremySkinner ditto; always found the overhead of unity unnecessary    
+    
+    
+    @AndaluciaWD that does look cool :)    
+    
+    
+    @hotgazpacho teamviewer is the best i've found    
+    
+    
+    @markrendle :)    
+    
+    
+    @radtech Just seen the wavejamr - very cool.  Do you know if it works with the Audi MMI system?    
+    
+    
+    Senior developer? Looking for a new challenge? Does this sound like a dodgy ad? :) We (iMeta) are recruiting, so if you're interested...    
+    
+    
+    @NathanGloyn Nope, you don't need to send it again, and Nick (the chap who runs with such things) will be in touch shortly to have a chat :)    
+    
+    
+    To those asking where to send CV's, sstrong at imeta dot co dot uk will work just fine.    
+    
+    
+    And for those asking for job descriptions, we're looking for a senior role. Coding, design, test, talking to customers etc would all be...    
+    
+    
+    part of it. Trying to write that sort of thing in a doc is to restrictive imo, and I'd much rather just have a chat about what we need...    
+    
+    
+    ... what you could bring and then we both see if the overlap is good or not. Make sense? :)    
+    
+    
+    @MarkNijhof Way better than my effort :)    
+    
+    
+    @mikehadlow Hum, yeah, Spain might be tricky.  And alas I've never yet managed to work from the beach. Must aim to do that next year :)    
+    
+    
+    @MarkNijhof LOL You're hired, when can you start :)    
+    
+    
+    Just bit the bullet and tried to take my TFS solution back online. Guess what? It screwed up :(    
+    
+    
+    @JYoung1756 The feeling is mutual    
+    
+    
+    @averyj Not that I've found; if you find something please let me know!    
+    
+    
+    @FransBouma thanks for the RT :)    
+    
+    
+    Backup dir. Delete workspace. Create new workspace. Get latest. Point winmerge at backup and new dir. Merge. Run tests. Commit. Thanks TFS.    
+    
+    
+    RIP Neil Armstrong :(    
+    
+    
+    Any Ember experts fancy taking a look at this http://stackoverflow.com/questions/12186089/nested-view-not-being-destroyed-when-transitioning-to-parent … ?  Thanks for any help :)    
+    
+    
+    Any #emberjs experts got time to take a read of this http://stackoverflow.com/questions/12186089/nested-view-not-being-destroyed-when-transitioning-to-parent … and see if I'm on the right track? #noob    
+    
+    
+    Good meeting in london and great food at the mango tree nr victoria. Now to gatwick for the flight home    
+    
+    
+    @joe_carney I've stayed at the Art hotel in budapest, which was just fine.it was a few years back tho and don't remember if it had wifi    
+    
+    
+    Just put a region in my code.  Shoot me now.    
+    
+    
+    OH: OData - more bloated than video    
+    
+    
+    Splendid day of remote pairing.  Although not perfect, VNC appears to be much better than SharedView    
+    
+    
+    @jagregory Maybe they need some more memory...    
+    
+    
+    Editing my .emacs file with Vim.  Doesn't feel right, somehow    
+    
+    
+    The girls have topped the chips & chocolate sauce fiasco. Tonight's delight is naan bread with strawberry angel delight. Feel quite sick.    
+    
+    
+    @WendyRees @neil_rees now that's plain nasty :)    
+    
+    
+    @JeremySkinner yup, i also see the same    
+    
+    
+    @JeremySkinner @jagregory Exactly the same here, need to quit it to get it to refresh automatically    
+    
+    
+    @hhariri What's problem?    
+    
+    
+    @alfredapp Installed, initial "smoke" test looks just fine    
+    
+    
+    I've said it before and I feel it's time to say it again. I'm not a big fan of OData. #beingPolite    
+    
+    
+    @adjames Not so much Atom, more the model when developing a custom provider.  It's just horrible.    
+    
+    
+    @adjames Now that would be hard to describe in chunk of 140 chars :)  I'll happily email you if you want...    
+    
+    
+    Hmm, might be pulling our little one out of school today; they seem to be doing some very odd things. #difficultDecisions    
+    
+    
+    @hhariri Lucy. They have got too many kids and rather than creating a new class or putting some on a waiting list    
+    
+    
+    @hhariri they are instead cramming kids of all ages into the classrooms. Lots of very upset parents at the mo    
+    
+    
+    @tweetmarbella cool, I like that one :) cc: @jfxjames    
+    
+    
+    @nicchick they are messing around with class sizes and she ranges. And not consulting with Amy of the parents. Pretty dumb, imo    
+    
+    
+    @GoodCoffeeCode it does suck but fortunately there are dome good alternatives. Just hassle that we could do without though    
+    
+    
+    @grahunt private :(    
+    
+    
+    @nicchick I think it's a bit worse than disorganized, plus the current problems are more the final straw rather than the only issue    
+    
+    
+    @grahunt @hhariri agreed, I think that's exactly what's happened    
+    
+    
+    @JeremySkinner i've found nothing as goog as wlw. I use ecto, but it's not great    
+    
+    
+    @nicchick if only I did always know best, life would be so much easier :)    
+    
+    
+    @hhariri yup, I think it's sorted. Its been quite a couple of days, definitely getting the beer out tonight    
+    
+    
+    @youeee if you want to read books, get a kindle. If you want to read, play games, watch movies, browse the web, get an ipad    
+    
+    
+    @hhariri yup. Just had a chat with the head; she's out of there    
+    
+    
+    @hhariri looking like the British school marbella, she starts monday    
+    
+    
+    @hhariri @garyshort I've stopped playing and just left it to itself; seems to work best that way http://bit.ly/cy6JdW    
+    
+    
+    @KeithSpitalnick if the weather's nice we will probably head in early (2 young girls, so can't be late!)    
+    
+    
+    @olivers @shanselman I don't think lynx has it yet ;)    
+    
+    
+    Looks like I'll be moving my office to marbella next week, will be just 5 mind walk from Lucy's new school. Quite excited!    
+    
+    
+    Wow. Head out for a kiddies birthday party and a chinese meal, and return to find a minor war taking place in the twitterverse.    
+    
+    
+    Spent most of the day telling Elaine "tonight I must do xxx", "tonight I must do yyy". Now it's tonight, and I can't remember a single thing    
+    
+    
+    "Microsoft Visual Studio 2010 has stopped working"  Guess I will as well then, at least for the next few minutes.    
+    
+    
+    Wish that my monthly UK trip had conincided with the Winchester #coderetreat, would love to have gone to that    
+    
+    
+    Don't see that a Guaro #coderetreat is all that likely.  At least, not one with > 1 attendees    
+    
+    
+    Trying to remember the last time I saw Emacs / VIM crash...    
+    
+    
+    @Daneel3001 Chad & Scott having a slightly heated, um, discussion    
+    
+    
+    @NathanGloyn pretty much my entire stream for the last hour has been occupied by 2 people. Quite an entertaining debate though :)    
+    
+    
+    @chadmyers @adymitruk But we do have France right next to us... ;)    
+    
+    
+    @Daneel3001 Ouch, hope you're ok :(    
+    
+    
+    @nmerrigan Scott and Chad having, um, let's call it a discussion :)    
+    
+    
+    @nicchick Splendid!  I knew if I waited long enough someone would do the thing that I'd promised you :)    
+    
+    
+    @nicchick doesn't that website do what you need?    
+    
+    
+    My first Ruby project just shipped.    
+    
+    
+    Just to clarify, My first Ruby "project" consisted of one file. It just outputs some values from an XML file. Little acorns and all that :)    
+    
+    
+    Although a little more seriously, the next big project that I'm about to embark on will be my first non-.Net commercial proj for ~10 years    
+    
+    
+    @NeilRobbins :)    
+    
+    
+    So what are the good dev podcasts at the mo? Not just .net, anything would be good    
+    
+    
+    @ironshay dude, a Turing machine could build the same website, but who would want to program that ;)    
+    
+    
+    @emadb Lost would be too strong a word; 90% of what we do is still pure .Net / Windows stuff    
+    
+    
+    @emadb But we are about to embark on a big project (>200k) that may well not have a line of .Net in it, which is a big change for us    
+    
+    
+    Contract signed for new office, move in on Wednesday :)    
+    
+    
+    Well, that's some butt-ugly code I've just written.  Need to sleep on it then tidy it up in the morning.  It does work, though :)    
+    
+    
+    @hhariri Dude, quick question - if I've got a big TFS CI setup, how hard to migrate that to TeamCity?    
+    
+    
+    @neslekkim Written in Ruby & Java, I believe. Claims to be cross-platform    
+    
+    
+    Love it when sql schema files can just be run over & over, and they just work.  Removes lots of pain.    
+    
+    
+    That said, the very last thing this project needs is a schema, but the customer gets what the customer wants.    
+    
+    
+    Hmm.  My Windows VM appears to have hung whilst installing updates during a reboot.  Reset it, and risk the wrath of Redmond, or wait...    
+    
+    
+    And ever now and then, it flashes it's virtual disk light #teasing    
+    
+    
+    Phew, the VM came back.  That took *ages*    
+    
+    
+    Off to #dotnetdevnet tonight, just need to stay awake on the M4    
+    
+    
+    Somewhat ashamed that my last NHibernate commit was the 7th July. How do folk find enough time for OSS projects?    
+    
+    
+    @jagregory I neglected physical wellbeing some time ago    
+    
+    
+    @jagregory It's got to be incompetence. I'm gonna leave OSS for a bit and build that darn time machine. It doesn't matter how long it takes.    
+    
+    
+    @NeilRobbins Isn't that some green bird with a blokes hand up its arse?    
+    
+    
+    @NeilRobbins :)    
+    
+    
+    Finally done some Linq-NH work.  Now time for sleep    
+    
+    
+    Loving the new office :)    
+    
+    
+    So what's the story for async coding in #ruby?  Can I do async web requests? Would rather not be spinning off threads by hand...    
+    
+    
+    can't believe the size of the node.js ecosystem http://github.com/ry/node/wiki/modules So much stuff for one so young!    
+    
+    
+    Hitting the road for #dotnetdevnet...    
+    
+    
+    @neil_rees Here's a couple: Software Engineering Radio, Herding Code, DotNetRocks (if you can stand it), This Developers Life    
+    
+    
+    @GuySmithFerrier just thought, I've only got a dvi cable - if the projector is VGA do you have an adapter?    
+    
+    
+    McVitie's Jamaica Ginger Cake is awesome    
+    
+    
+    @WendyRees just straight from the packet :)    
+    
+    
+    @GuySmithFerrier yup, Mac with mini-display port. I've got a display port to dvi adapter    
+    
+    
+    Crazy indeed. But then... RT @MarkNijhof Blogged: A Crazy Idea: http://cre8ivethought.com/blog/2010/09/22/a-crazy-idea/    
+    
+    
+    It appears that I am in the process of joining a 5-a-side football team. Those that know me will appreciate how ridiculous that is.    
+    
+    
+    Fizzler rocks. But still can't get over the amount of stuff written for node.js. Really highlights the poor state of .net oss    
+    
+    
+    @neil_rees cheeky sod :)    
+    
+    
+    tree processing code is sometimes *so* elegant. It can also get shockingly bad    
+    
+    
+    Anyone want Lock Modes in Linq to NHibernate?    
+    
+    
+    @Daneel3001 just implementing a .LockMode extension method.  Fun bit is working out exactly what you want to apply the lockmode to    
+    
+    
+    @GuySmithFerrier no worries, got it sorted :)    
+    
+    
+    Successful evening, actually got some NH work done.  Commit tomorrow if all goes well    
+    
+    
+    Looking for one or maybe two contractors for a short term project (~6weeks). Anyone interested?    
+    
+    
+    @jasondentler Congrats!    
+    
+    
+    The Nissan juke. That's one *ugly* car. Sort of thing that only its designer could love    
+    
+    
+    @robconery whatever's best to solve the problem, assuming I know it enough to not f*** it up    
+    
+    
+    @CAMURPHY agreed. Everytime I see an X6, I almost feel sorry for the mug that just spent a packet on it.    
+    
+    
+    @theprogrammer you going to post it? Would be interested to see what makes the grade    
+    
+    
+    @tigermain If he can send me a CV + contact details, that would be cool.  sstrong at imeta dot co dot uk    
+    
+    
+    @fabiomaulo Happy Birthday!    
+    
+    
+    @kkozmic there's one big difference - MS. Ruby doesn't have that and I think it makes a difference    
+    
+    
+    @hhariri ? Not aware I wad blaming anyone for anything. Simply commenting on why I think oss is less well adopted    
+    
+    
+    @hhariri and oss is only half the story; ms has all the other stuff (vs, biztalk, sqlserver etc)    
+    
+    
+    @hhariri I for sure object when any big corp buys a smaller company just to squash them.    
+    
+    
+    @hhariri so you're talking about when ms (or any other company) produce a product similar to one that's already commercially available?    
+    
+    
+    @hhariri like, for example, reproducing r# functionality inside vs    
+    
+    
+    @hhariri cos if so, that's very different to oss. With oss, Ms can adopt. They can't do that with commercial software    
+    
+    
+    @chrissie1 well, that depends. If the deal was "here's a pile of cash, now go away" then that is of course just fine    
+    
+    
+    @chrissie1 if the deal is "love your product, we're going to put lots of effort into it" and then it gets killed, not so good    
+    
+    
+    @hhariri agreed. I well understand why ms don't adopt oss more, and I don't even think they are being "evil"    
+    
+    
+    @hhariri I do think that their lack of oss adoption, with their preference to rebuild, has an impact on the oss ecosystem    
+    
+    
+    @hhariri never said evil, you're putting words in my mouth.    
+    
+    
+    @hhariri with oss they *could* adopt, they just choose not to (which is their right)    
+    
+    
+    @hhariri with commercial, they have much less choice    
+    
+    
+    @hhariri :)    
+    
+    
+    @ironshay you still struggling with it? I just mount it as a mass storage device...    
+    
+    
+    @ironshay settings / about phone / USB settings    
+    
+    
+    @hhariri @joseph_carney :)  so you boys doing lunch sometime?    
+    
+    
+    @AntGardiner Oh crap, that doesn't sound much fun :(    
+    
+    
+    @HowardvRooijen the guy on the Segway is a freaking loon!    
+    
+    
+    Someone's cooking toast #smellsSoGood    
+    
+    
+    @NathanGloyn Glad you enjoyed it!  Thanks for a great night, hope the new job goes well    
+    
+    
+    Love it when customers send me server logons with passwords via email #securityFail    
+    
+    
+    love some folks idea of comments.  Class name = "TableOperationRequest", comment = "request for table operations". Awesome, thanks for that.    
+    
+    
+    Even more awesome, just found a single class spread over 29 different files! SoC people, SoC!!!    
+    
+    
+    @rogue_code :D    
+    
+    
+    @MarkNijhof Luckily for him, no, not one of ours    
+    
+    
+    @RobAshton @Daneel3001 Oh, they use #region too.  Some of the 29 partial classes are just a bit too big to be seen in one go :(    
+    
+    
+    @nicchick :(  Gonna be in Germany then.  Maybe the November one...    
+    
+    
+    @ironshay cool, so the code I wrote 10 years ago is back in fashion :)    
+    
+    
+    @tomasekeli well, a good map would help no end to find my way around the code :)    
+    
+    
+    @Daneel3001 How are they doing that?    
+    
+    
+    @Daneel3001 Yuck, that's nasty.  Really poor form.    
+    
+    
+    Random Question: Anyone know of a UN speaker that does talks to primary schools?    
+    
+    
+    Changing the case of a directory under git control is slightly dull in Windows    
+    
+    
+    @jagregory @adlaneelm Seems to have worked - renamed to a temp name, commited changes, renamed again, commit again. Phew :)    
+    
+    
+    Good evening's work.  Added about 20% more function to the project with 2% more LoC.    
+    
+    
+    @kkozmic I agree; I find that even well written unit tests make refactoring hard. Of course, maybe my idea of "well written" is at fault :)    
+    
+    
+    @alfredapp No idea if they have an API available, but if so getting Spotify support into the Powerpack would be great    
+    
+    
+    @alfredapp Nice, I missed that.  I've added my vote :) And as a paid-up Megasupporter, I expect it tomorrow ;)    
+    
+    
+    I change 4 .cs files, and TFS thinks I've deleted a .xml & changed all the .csproj files.  Nice.    
+    
+    
+    @alfredapp Ouch, that's a mess. Hope the whiplash clears quickly    
+    
+    
+    Simply one of the most exciting days I've had in my life. And no, I can't tell you why. Watch this space...    
+    
+    
+    @ironshay used it some time ago    
+    
+    
+    @hhariri One word. Yotel. Cheaps rooms by the hour in the South Terminal...    
+    
+    
+    @ironshay I actually thought it was quite a good model, it just never got adoption.    
+    
+    
+    Apparently 2 pancakes wasn't enough for breakfast #soHungry    
+    
+    
+    @sarkie_dave Done that. Now I need a pee    
+    
+    
+    @alfredapp Nope, keep 'em coming :)    
+    
+    
+    Seem to have spent way too many days pounding a square peg into a round hole.  Nearly there though...    
+    
+    
+    @dagda1 It does indeed; hql can handle way more than ICriteria    
+    
+    
+    @hhariri Which I've never heard of, so guess we don't use it as often as you do :)    
+    
+    
+    Thanks to Julian Maughan for his constant work in #NHibernate's #JIRA (via @fabiomaulo)    
+    
+    
+    Awesome! RT @alfredapp Biggest new feature for 0.7.2 is persistent (through reboot) / searchable Clipboard History for Powerpack users! :)    
+    
+    
+    @hhariri what's up with the lappy?    
+    
+    
+    @HowardvRooijen i'm using ecto, but it's not a patch on wlw    
+    
+    
+    @hhariri doh, that's a bit of a shocker :(    
+    
+    
+    @incongruousm Congrats :)    
+    
+    
+    NHibernate 3.0 Cookbook is published!  http://bit.ly/9kxHK6  Table of contents & a sample chapter are online. (via @jasondentler)    
+    
+    
+    Late night, and off to Germany tomorrow.  Time to pack...    
+    
+    
+    Malaga airport. 1st leg to gatwick, then on to munich. Roll on the weekend!    
+    
+    
+    @tanukidata  I see you're at the airport, fancy a coffee?    
+    
+    
+    @neil_rees good picky :)    
+    
+    
+    @tanukidata :) No probs.  I actually work in Marbella near the Copper Tower and am always up for a coffee if you're passing    
+    
+    
+    Ok, 12 sausages was too many last night...    
+    
+    
+    @WendyRees No such luck - 3 days of meetings. And 12 sausages in one sitting *is* too many :)    
+    
+    
+    @elainestrong hehe, since when did you start reading twitter? :)    
+    
+    
+    OH: question: What do Microsoft call their pre-alphas? answer: Releases    
+    
+    
+    Office I'm at this week has got a 4Gb internet link; quite mental :)    
+    
+    
+    Tax returns done with a full 2 weeks to spare :)    
+    
+    
+    Finally home. That's been quite an intense week but got tons done    
+    
+    
+    @tanukidata now that sounds like a plan :)    
+    
+    
+    @hhariri 2.5 hour delay for me, but looks like we might be about to leave    
+    
+    
+    Hmm.  Gone midnight, and we're editing the Erlang VM. Probably should be stopping about now...    
+    
+    
+    @serialseb oh that sucks badly, bastards :(    
+    
+    
+    @kkozmic mikogo works ok for that    
+    
+    
+    Anyone out there used the ec2 create-tags command through the Query API? Can't get the damned thing to work and google is failing me...    
+    
+    
+    @srstrong Nailed it - the library I was using had the version number wrong    
+    
+    
+    Our first WP7 app goes public http://bit.ly/c0ic8f    
+    
+    
+    My Twitter value is $266.95, according to http://www.twalue.com ... What about yours? #twalue    
+    
+    
+    @pollingj Versions is very pretty, but I tend to just use svn from the command line    
+    
+    
+    @neil_rees Nice one :)  How was the first day?    
+    
+    
+    @gmciw I remember you gordon :) it's been a long time, how are things?    
+    
+    
+    Got an mp3 file open in emacs, so much fun :)    
+    
+    
+    Highly recommend the Food Poisoning diet, lost 6 pounds in 2 days. Side effects are a bit shitty though    
+    
+    
+    Anyone on the costa del sol want a desktop case with cpu, memory & graphics? Just needs power + disks to work as far as i know    
+    
+    
+    @GaryTapp it was a media center, so aluminum case, core 2 CPU, 2gb ram, good motherboard & gpu    
+    
+    
+    @GaryTapp should make a good pc, should easily play hd movies. Probably not up to the latest games    
+    
+    
+    @hhariri lol :)    
+    
+    
+    @NeilRobbins it's more like 7 languages in 7 hours, but still a good intro to them    
+    
+    
+    @jagregory Second one. At least I'd know where I stood    
+    
+    
+    @jagregory 1st. If you do the second, you're probably breaking everything    
+    
+    
+    @jagregory Assuming, of course, that the system supports incremental change    
+    
+    
+    @jagregory In my experience, incremental changes offer better consistency    
+    
+    
+    @jagregory Depends on the changes, depends on the system. Do I sound like a consultant?    
+    
+    
+    @jagregory lol :)    
+    
+    
+    @hhariri Mmm, insulated walls, double glazing, central heating. I'm toastie.  Must get gas later though, or the heating bit might stop :)    
+    
+    
+    Thinking how much time I've wasted today scrolling past a certain conversation. Wonder how much time they've, um, spent on it    
+    
+    
+    Awesome. Rackspace Cloud Servers API is currently unavailable. But they do apologize for the inconvenience, which is nice.    
+    
+    
+    Wonder how long the #rackspace API will be down. Not seen this behaviour on AWS...    
+    
+    
+    Anyone looking to relocate? http://www.facebook.com/photo.php?fbid=4448655807027&set=a.1069593052570.12456.1008396985&type=1&theater …    
+    
+    
+    @GaryTapp Graphics card is Gigabyte ATI Radeon 2600    
+    
+    
+    @GaryTapp CPU is a Core 2 Duo 6600 if I recal    
+    
+    
+    @GaryTapp And yes, as far as I'm aware it just needs a power supply + hard disk, everything else is, I think, fine    
+    
+    
+    @GaryTapp It was a media center pc, but I've not had the time to fix it and I don't really need it now (Sky+ kind of took over)    
+    
+    
+    @GaryTapp And I don't need another PC, so it's just sat in the shed. If no one wants it, it'll end up in the bin but that seems a shame    
+    
+    
+    @GaryTapp I'm not looking for any cash or anything, just to put it to use rather than dumping it    
+    
+    
+    @Ben_Hall I normally throw or log it in the Finalizer is Dispose wasn't called    
+    
+    
+    @ben_hall is == if    
+    
+    
+    @GaryMcAllister No, no nested stuff; kind of hard to do in HQL. Of course, if your entities have nested stuff then they will work just fine    
+    
+    
+    @GaryMcAllister Getting full nested support is something that is/was on my wish list, but it's pretty hard to do    
+    
+    
+    @ironshay @hhariri siesta? I wish!    
+    
+    
+    @GaryTapp and disks, don't forget the disks! Based in marbella    
+    
+    
+    Anyone know where i can buy stamps in marbella on saturday?    
+    
+    
+    Missing #ddd9 :( Hope you all have a great time    
+    
+    
+    @awashtell don't know tbh    
+    
+    
+    id3as are recruiting:  https://docs.google.com/a/id3as.co.uk/document/d/1Z0_A36vflXbgcbj-7fY4ZPzmE0zqNiwc7yuQwbo4pJ0 … and https://docs.google.com/a/id3as.co.uk/document/d/1kD-iN5V5rEOmKfEO6ieKeUnO61WhMWvdh2Ikh6FoSeY …    
+    
+    
+    @NeilRobbins @ferventcoder been using ec2 for some time, current project scales up to 300 concurrent servers. Not seen any big issues    
+    
+    
+    @hhariri @jagregory i'm with James; mbp is 2 1/2 years old and i still get a good two hours when working it hard in a vm    
+    
+    
+    @NeilRobbins :) It's a sweet one, for sure. Can't wait for the nda to lift so i can talk about it properly    
+    
+    
+    @EhsanGhanbari @adean I remote-pair all the time.  Desktop sharing still a bit flacky; best is probably TeamViewer if you're happy to pay    
+    
+    
+    @EhsanGhanbari @adean the other one we've started using is Chrome Remote Desktop; not quite as good at multi-monitor support but is free    
+    
+    
+    Been playing with sql server, postgres, zootonic & websockets. Hugely frustrating at times, but the result rocks    
+    
+    
+    @Imaji I found both 2009 & 2010 to be excellent; 2009 I paid for myself and didn't regret it    
+    
+    
+    @Imaji I doubt I'll be going, although would like to. Compared to TechEd or PDC, I'd definitely go for NDC    
+    
+    
+    @Imaji That said, if you go & 2011 is crap, don't blame me ;)    
+    
+    
+    @Imaji :)    
+    
+    
+    @hhariri btw, how's that chair you bought?    
+    
+    
+    @hhariri what make/model is it?    
+    
+    
+    @hhariri Might be interested, but want to sit in several first to see what suits best - where around here stocks this kind of thing?    
+    
+    
+    @MarkNijhof I think I'd find that tough :)    
+    
+    
+    @JeremySkinner I think I'd call that an adapter.  But I do like the answer from @FransBouma :)    
+    
+    
+    Mmmm, access violations (c0000005) from SQL Server. Gotta love it :(    
+    
+    
+    Although, to be fair, this is an unpatched Sql 2000 install. Off to see if some service pack somewhere sorts it out...    
+    
+    
+    @hhariri I quite like my holidays :)    
+    
+    
+    long shot - anyone got distributed transactions working between SQL 2000 & Postgres 9?    
+    
+    
+    @hhariri awesome :)    
+    
+    
+    @hhariri LOL! Yes, I really hope you're kidding!    
+    
+    
+    Can't beat an evening curled up on the sofa with a good hex editor patching broken video files by hand :)    
+    
+    
+    And in other news, welcome aboard to @MarkNijhof who has singlehandedly increased our head count by 33%    
+    
+    
+    @hhariri @MarkNijhof pretty far? It's a mere stroll down the road ;) seriously, whilst mark's here we should do lunch - how r u next week?    
+    
+    
+    @MarkNijhof http://emacsformacosx.com/     
+    
+    
+    @MarkNijhof Being fair, never tried the brew install version.  But that web link always has pretty much the latest...    
+    
+    
+    tmux rocks.  That's all.    
+    
+    
+    @joseph_carney not on osx (although 'brew install tmux' works well) - using it when ssh'd into servers since it survives lost connections    
+    
+    
+    @Daneel3001 Congrats!    
+    
+    
+    @alfredapp @sparrowmailapp awesome! Love both apps :)    
+    
+    
+    Any recommendations for good accountants on the costa del sol, ideally near Marbella?    
+    
+    
+    @martinstillman I know them, but they don't do dull stuff like tax returns, just looking for a basic book-keeper down here    
+    
+    
+    @hhariri Happy Birthday Dude!    
+    
+    
+    @Daneel3001 @hhariri ROTFL! :)    
+    
+    
+        
+    
+    
+    @MarkNijhof :)    
+    
+    
+    @hhariri I'm sure I told the fricking thing to not tweet it    
+    
+    
+    Apologies for the foursquare tweet, I'll try not to do it again ;)    
+    
+    
+    @AdrianRoe :)    
+    
+    
+    Excellent. Plane parks at south terminal. Bus now taking me to north terminal. Where I can then get the train back to south to get my car.    
+    
+    
+    Oh yeah, it's frickin freezing as well. I think Spain has made me softer(er)    
+    
+    
+    And for a technical tweet, tdd sucks, never could get on with it. bdd, however, rocks. Amazing what a subtle shift in thinking does.    
+    
+    
+    The platform for the gatwick monorail would benefit from patio heaters.    
+    
+    
+    @joe_carney what are you after?    
+    
+    
+    Quite a day. After almost 11 years, I just made public my resignation from iMeta.    
+    
+    
+    Still a director & shareholder and still very excited about the direction the company is heading in, but for day to day stuff...    
+    
+    
+    ... I can add more value elsewhere. Emotional but also very exciting times.    
+    
+    
+    @NeilRobbins thanks, me too :)    
+    
+    
+    @joe_carney does the back end *have* to be php?    
+    
+    
+    @joe_carney lol :) my preferred back-end is Erlang, it's just crazy-productive...    
+    
+    
+    @joe_carney if that's an option then perhaps we should have a chat. If it needs to be php, then that puts me out since i've never used it!    
+    
+    
+    @tpeplow thanks :)    
+    
+    
+    @FransBouma new startup, suspect I'll get a blog out with details in the next week or two when the dust has settled    
+    
+    
+    @joe_carney fly back Friday night, around most of next week. My office is in marbella    
+    
+    
+    @JeremySkinner @mikehadlow thanks guys :)    
+    
+    
+    @NathanGloyn details in a few days I should think, there's certainly a lot going on!    
+    
+    
+    @joe_carney sounds good - Wednesday work for you?    
+    
+    
+    @andyboyne lots lined up, shall probably blog about it sometime soon    
+    
+    
+    @sbohlen thanks, fun times ahead :)    
+    
+    
+    @mikeblakeuk really gonna miss the #footballthursday ;)    
+    
+    
+    @HowardvRooijen excellent post. We must try to fit a beer in on my next trip    
+    
+    
+    @HowardvRooijen yeah, exciting times ahead :)    
+    
+    
+    @neil_rees hehe, something like that ;) We must do a curry or something soon, it would be great to catch up    
+    
+    
+    @AdrianRoe @neil_rees now now, let's not be rude    
+    
+    
+    @neil_rees yeah, suspect I'll be over fairly often still. You don't get rid of me that easy :)    
+    
+    
+    @incongruousm Thanks :)    
+    
+    
+    @JYoung1756 All in good time :)    
+    
+    
+    First patent application filed, bottle of beer opened :)    
+    
+    
+    @MarkNijhof glad you're enjoying it :)    
+    
+    
+    @MarkNijhof have we presented any evidence to date of being polite? I suspect not :)    
+    
+    
+    @tommyjmquinn @marknijhof You fucking cheeky bastard ;)    
+    
+    
+    webex, why are you so shit?    
+    
+    
+    @philiphendry thanks! It's been a long time - things good with you?    
+    
+    
+    @mikehadlow wouldn't say it's focused on erlang, but for server side code I can't imagine choosing anything else at the mo    
+    
+    
+    @mikehadlow more the approach to distributed processing and resilience, the functional nature is just an extra bonus    
+    
+    
+    #github problems again?  Status page says all is good, my command line says otherwise :(    
+    
+    
+    #github and now the status page is updated.  Somehow it feels better that it's not just me :)    
+    
+    
+    Seriously, if you have the ability and inclination to do a big DDoS, aren't there more interesting targets than #github?    
+    
+    
+    Really hoping that the DDoS attack isn't me hitting Cmd-R in my browser...    
+    
+    
+    @darrenkopp hehe, entirely possible :)    
+    
+    
+    @awashtell Loctite?    
+    
+    
+    @MarkNijhof you bastard. I'm so tired now. @docker, you rock, love it :)    
+    
+    
+    My god, what a day.  QA tests are passing though, and system goes live tomorrow :)    
+    
+    
+        
+    
+    
+    First inter-cloud failover from Amazon to rackspace done today - distributed erlang ftw :)    
+    
+    
+    And yes, the customer was worried about the whole of Amazon going offline, hence the need to transparently failover to another cloud!    
+    
+    
+    @FransBouma Hehe, yes, it is quite funny :)    
+    
+    
+    Really wish one could image cloud VMs faster. Takes about 30 mins, which sucks when you're testing first-time-boot code    
+    
+    
+    So that's probably about the 300th amazon server spun up today.  Stress testing this stuff is fun :)    
+    
+    
+    @hhariri iPhone?    
+    
+    
+    @hhariri Currently got a galaxy s.  Can't wait to switch back to iPhone    
+    
+    
+    @incongruousm @hhariri Just don't like it much, nothing specific. It's nothing like as fast as it should be :(    
+    
+    
+    @hhariri For the first month, it was great, but I think it was just "new toy" syndrome. Lacks the polish of iphone, imo.    
+    
+    
+    @MarkNijhof it's good exercise :) We've only just got in, suspect there will be two grumpy girls up here tomorrow!    
+    
+    
+    @ironshay I'd swap mine for an iPhone without hesitation :(    
+    
+    
+    First auto-failover of telephone call worked like a treat - even when listening really carefully, could barely hear the transition    
+    
+    
+    And none of your fancy high-speed lans here, the failover was from a rackspace server in Chicago to an Amazon one on east coaat    
+    
+    
+    @tpeplow hehe, nay, patent quite unrelated. This is a customer project, but the details are all under nda so can't tweet details    
+    
+    
+    @tpeplow Cheeky bugger ;)    
+    
+    
+    @hhariri LOL :)    
+    
+    
+    Loving our new website, thanks to @MarkNijhof.  For the first time in my career, it's a website I'm happy with :)    
+    
+    
+    @MarkNijhof damned TTLs - no id3a what ours is set to...    
+    
+    
+    Stunningly good day today, excellent meetings and interesting times ahead methinks    
+    
+    
+    @awashtell @incongruousm It could be argued that benefiting the employer is an (indirect) benefit to the employee    
+    
+    
+    @awashtell @incongruousm Although I would agree that there is relatively little direct benefit to the employee    
+    
+    
+    @AmbientJobs I'd like to have a chat about that IT developer / manager role that you tweeted about earlier...    
+    
+    
+    Windows Explorer is truly a piece of shit. Tried to copy a small directory from a share, and it just sits there "discovering"    
+    
+    
+    after 5 minutes, it discovered that I could click the cancel button, and do the same job from the command line in ~10 seconds    
+    
+    
+    Really not quite sure how you can get it that badly wrong    
+    
+    
+    @NeilRobbins currently rewriting a c++ app in c - it's now *so* much easier to read. Although that may be c++'s fault rather  that OO ;)    
+    
+    
+    @awashtell hehe :) Agreed on pretty much all points    
+    
+    
+    @MarkNijhof now that's just cheeky :) Not ignoring you, just been insanely busy this week. Maybe a Skype chat next week?    
+    
+    
+    @nmerrigan alas no; would have liked to but have no spare time at the mo. Maybe next year, if they'll have me back    
+    
+    
+    @nmerrigan gonna feel very jealous in june watching the tweet stream :(    
+    
+    
+    @StClairJohn @nmerrigan :)    
+    
+    
+    @robinhoodinn when do you guys open?    
+    
+    
+    @ironshay there is a Mac equivalent, a sort of grey transparency style thing. Same reasons, but osx makes it look pretty    
+    
+    
+    @jagregory *very* nice :)    
+    
+    
+    @AmbientJobs Hi, not spoken to anyone yet - I'm guessing Karl is the chap I need to speak to - what's the best number & time?    
+    
+    
+    @hhariri I believe that would influence most things negatively :)    
+    
+    
+    @dagda1 you getting some erlang love as well?    
+    
+    
+    @hhariri suspect chip and pin is going to cause them some problems in europe!    
+    
+    
+    @hhariri makes me sick, these people who steal all our good ideas ;)    
+    
+    
+    @hhariri we really should do some tapas soon. We can come up with some more ideas and then watch others do them :)    
+    
+    
+    @hhariri "ideas" - now that's just a fantastic name for a company    
+    
+    
+    @joseph_carney @hhariri hehe; we try not to focus on that bit on the letterhead :)    
+    
+    
+    @hhariri @joseph_carney @MarkNijhof is it day or evening?    
+    
+    
+    @hhariri @joseph_carney @MarkNijhof maybe up for that - @AdrianRoe is here as well, so depends if we've done enough work    
+    
+    
+    @dagda1 Been heavily into it for the last 5 months now. My biggest issue with it is that I didn't start using it 10 years earlier    
+    
+    
+    @dagda1 More the distributed & resilience characteristics, although soft-realtime side is a happy side-effect    
+    
+    
+    @dagda1 What we've really found is the "crash early" approach dramatically changes code, very much for the better    
+    
+    
+    @adymitruk Windows 2000 upwards: http://technet.microsoft.com/en-us/sysinternals/bb896768 …    
+    
+    
+    Success. After a day of rebuilding the boiler, we have hot water again :)    
+    
+    
+    @MarkNijhof my bad, crazy busy week.  But I've not forgotten :)    
+    
+    
+    @MarkNijhof latency is really bad here :)    
+    
+    
+    learning Dvorak. Slow going at the mo!    
+    
+    
+    @MarkNijhof was that post that set me off; going for dvorak since there's more support for it. I remote a lot, so want a common layout    
+    
+    
+    @MarkNijhof cos if I go for colemac, i'd need to install a keyboard layout on each machine i remote into. And I remote a lot!    
+    
+    
+    @MarkNijhof plus, for a couple of erlang files that i analyzed, the difference between colemac & dvorak was minimal    
+    
+    
+    @MarkNijhof :)    
+    
+    
+    @philiphendry hehe, not vi, I'm an emacs person :)    
+    
+    
+    Is anything open on the coast today? #costadelsol    
+    
+    
+    So MS kill Axum http://blogs.msdn.com/b/maestroteam/archive/2011/02/28/the-state-of-axum.aspx … - the only thing they had in the pipe that looked really interesting. Bad call, I'd say.    
+    
+    
+    Just hit 20 words per minute on the new keyboard layout. It's starting to gel nicely :)    
+    
+    
+    @jamesogden rsi :( hoping that moving away from querty might help a little    
+    
+    
+    @petebouch love that place, looks real sci-fi    
+    
+    
+    @jamesogden throwing my code at some analysis software suggested that Dvorak or colemak would reduce finger movement by 50%    
+    
+    
+    @jamesogden yeah, passwords could be fun :)    
+    
+    
+    @AdrianRoe @jamesogden ooo, a zero *in the middle* Damn, that's gotta be some heavy stuff you're protecting to go to that trouble    
+    
+    
+    @AdrianRoe @jamesogden um, potential customers will never ever read this, right?    
+    
+    
+    Insanely busy. Barely time to read tweets, let alone post any. Current project is NDA'd, which is a shame, since it rocks    
+    
+    
+    @NathanGloyn still alive :)  Things actually v.good, just completely snowed under. Not that I'm complaining, prefer busy to the alternative    
+    
+    
+    @NathanGloyn Looking forward to it.  Really must prepare that soon :)    
+    
+    
+    4 weeks with no IDE, no debugger and no type safety. Can't say I'm missing it, feeling very productive    
+    
+    
+    +1 Love it! RT @joefeser: Great Image found on the Github blog entry about dropping the database. ;)  http://yfrog.com/jwr3xp (via @hhariri)    
+    
+    
+    @derickbailey We're having a lot of success with TeamViewer; trivial setup and seems pretty fast    
+    
+    
+    @NathanGloyn Using Erlang, which is helping enormously.  Nothing against .Net, btw, just not a good fit for this project    
+    
+    
+    @seanparsons Got runtime safety :)    
+    
+    
+    @diegose Still a .Net-head, just this one project that's doing something different.  It's requirements don't really fit the .Net model well    
+    
+    
+    @NathanGloyn It's not the prettiest language in the world; it's syntax for records truly stinks. But the combo (lang + runtime + libs) rocks    
+    
+    
+    @MarkNijhof Erlang.  Still very much a noob, but enjoying it a lot    
+    
+    
+    @awashtell :)    
+    
+    
+    @seanparsons Erlang    
+    
+    
+    @NathanGloyn Maybe, depends if I've got anything demo-able :)    
+    
+    
+    @NathanGloyn could maybe do a 10-minute session if there's time. Hello World is tricky, since it doesn't really show the strengths    
+    
+    
+    @sermoa I'll let you know how I get on; inspired by your blog post, so you get the credit!    
+    
+    
+    @JakCharlton I'd say they've pitched it about perfect; leapfrog the competition without pissing off existing users    
+    
+    
+    @hhariri you went to europapark last year, right? How would it be for 3-5 year olds? Suitable or waste of time?    
+    
+    
+    @serialseb @hhariri we're both still here - if you manage to pass by, would be great to grab a beer    
+    
+    
+    @serialseb Really sorry to hear that, that sucks. There're some right twats in this world    
+    
+    
+    TeamViewer just rocks    
+    
+    
+    @sbohlen congrats!    
+    
+    
+    @bitterSTAR really? We're getting really good perf, way better than anything else we've tried. What are you using?    
+    
+    
+    @joe_carney just a quicky, you got any recommendations for osx programming resources (books etc)? Ideally low-level stuff rather than UI    
+    
+    
+    @bitterSTAR Ah, the ipad app is indeed slower.  We're primarily on Windows & OSX, where it seems to work fine    
+    
+    
+    If anyone's got either a high speed cloning process or a timemachine, please get in touch #fuckmeimbusy    
+    
+    
+    @hyrmn lol :)    
+    
+    
+    @Imaji awesome, let me know when you're done    
+    
+    
+    Can't wait!: R15 may have structures (an alternative to records)! #euc2010 (via @samuel_rivas)    
+    
+    
+    Damn you erlang.  I'm now sticking full stops at the end of my lines of C code.  Compiler getting really pissy with me :)    
+    
+    
+    full stops changed to semicolons, C compiler now happy.  Lots of code done today, big integration tomorrow. This is *so* much fun    
+    
+    
+    @Imaji ipad is currently 3.something; 4.2 due out in the next few days    
+    
+    
+    @nicchick went to one a couple of years ago, total waste of time imo.  Plus, quite funny that their website has "lorem ipsum" on it :)    
+    
+    
+    Initial impressions of firefox 4 are good, particularly like the tab groups. Only shame is the memory usage which is insanely high    
+    
+    
+    Cracking morning with our designer, really liking the stuff she's doing. Hopefully soon be able to put something decent on the website    
+    
+    
+    Really wish Rackspace could image & launch new servers faster. Testing first-time-boot code is tedious in the extreme    
+    
+    
+    @rjamestaylor @mwilbanks I doubt there's much you can do here, I know that imaging etc takes time. Just wish it were faster!    
+    
+    
+    @rjamestaylor @mwilbanks One thing you can talk to me about though is why I get so many failures when launching a new server from an image    
+    
+    
+    @rjamestaylor @mwilbanks I've had 2 failures tonight so far, having only successfully launched 5 or 6. Not a great success rate    
+    
+    
+    @rjamestaylor @mwilbanks Good to hear :) My current scenario is some code that only runs on first boot.  So to test it, I need to (cont)    
+    
+    
+    @rjamestaylor @mwilbanks edit the code, burn a new image, launch a server from the image, check the results (cont)    
+    
+    
+    @rjamestaylor @mwilbanks Turn around time is about 30 minutes, which is really dull.  A faster way to replicate first-boot conditions (cont)    
+    
+    
+    @rjamestaylor @mwilbanks would be cool!    
+    
+    
+    @rjamestaylor @mwilbanks Currently working on a really big system (around 300 servers at it's peak) with a blue-chip customer    
+    
+    
+    @rjamestaylor @mwilbanks email sent, looking forward to seeing where this goes!    
+    
+    
+    @MarkNijhof Not forgotten, just me being crap :(    
+    
+    
+    @MarkNijhof A kicking was deserved, I'd say.  I'll try harder :)    
+    
+    
+    After an initial tweet for something that isn't really their problem, Rackspace are being very responsive and engaging in good conversation    
+    
+    
+    Steve's Law: Big bugs are always found < 24 hours before a big demo    
+    
+    
+    Debian or Ubuntu? Or another? For a headless-server.  Any opinions out there?    
+    
+    
+    gotta love c: "warning: no return statement in function returning non-void" - how can that only be a warning?!    
+    
+    
+    @jasonleegodwin Hey mate, long time! I've got a friend who uses your email service - is it possible for her to get her iphone to connect?    
+    
+    
+    @jasonleegodwin I tried to guess a couple of settings, but no luck; can't see anything on the website - help!    
+    
+    
+    @jasonleegodwin we must do lunch as well; I'm in marbella now so should be easier, be great to catch up    
+    
+    
+        
+    
+    
+    @MarkNijhof ping. You on Skype? Showing you offline at the mo    
+    
+    
+    anyone had problems with the query slider (v1.8.11)? I'm getting really weird values from it, it looks pretty broken    
+    
+    
+    @hhariri What was the joke? The natural language compile or php storm? :P    
+    
+    
+    @hhariri :)  Drove almost pass your place today, if I hadn't been running late I'd have called in for a coffee.  We must do the tapas...    
+    
+    
+    @hhariri Ah, coffee with your wife would have be even better :D    
+    
+    
+    Twitter has just suggested that I'm similar to @martinfowler. That's either a huge compliment, or an indication of how flawed they are :)    
+    
+    
+    @fulljames Done :)    
+    
+    
+    I though the sql server install was bad. Turns out the intellisense support is even worse    
+    
+    
+    Mmmm, emacs has a sql-ms mode.  Goodbye, Management Studio...    
+    
+    
+    @neil_rees Have you seen emacs ;)    
+    
+    
+    @NeilRobbins No need for cygwin, it works just fine on its own http://ftp.gnu.org/gnu/emacs/windows/emacs-23.3-bin-i386.zip …    
+    
+    
+    @gmciw it's owned by some friends, so got to help with the publicity. Plus they are going to have real beer :)    
+    
+    
+    @JeremySkinner thought it was in xcode 3 as well    
+    
+    
+    Sat in the notary. Very bored, this is taking forever :(    
+    
+    
+    Still in notary. Wonder how many man-hours are wasted doing this each day?    
+    
+    
+    @hhariri @DeveloperDame other than asserts of course ;)    
+    
+    
+    @hhariri Trying to setup team city with github - you wouldn't have 2 ticks would you?    
+    
+    
+    @hhariri Any chance you can ping @AdrianRoe and lend him 2 mins - think it's just noob stuff and suspect you'll get a thru it in no time    
+    
+    
+    @stack72 Thanks for the offer - luckily for you Hadi showed :)    
+    
+    
+    @MarkNijhof Happy Birthday!    
+    
+    
+    Up at 4am to get to airport. Going to be a very long day    
+    
+    
+    Spent the weekend in France, ate far too much bread and cheese, played with the kids lots and worked on my driver code. Perfect :)    
+    
+    
+    @NeilRobbins what sort of probably are you having?    
+    
+    
+    @NeilRobbins lol! Frickin autocorrect mis-correcting my typos :) was wondering what problems you were having with f#...    
+    
+    
+    @NeilRobbins @Imaji ah, that makes sense :)    
+    
+    
+    @hotgazpacho not many options :( try Mars edit or exto, they seem the best. Last time i blogged, I just used textmate...    
+    
+    
+    1 hour sat in this damn queue. Gib & Spain really need to sort out the frekin border    
+    
+    
+    Wonder if I can invoice gib or Spain for the time they have wasted?    
+    
+    
+    Now parked right in the middle of the runway. Let's hope there are no flights due    
+    
+    
+        
+    
+    
+    @hhariri also, suspect Spain couldn't afford to pay :)    
+    
+    
+    Yeah! Across the border :)    
+    
+    
+    @NeilRobbins not been to Belgium for sometime; trips to landing are still fairly frequent - you ever back there?    
+    
+    
+    @NeilRobbins let me know when you have dates and I'll try to sync my trips, would be good to have a jar or two.    
+    
+    
+    One hell of a storm up in these mountains tonight, lightning flashing all around and some stonkingly loud cracks of thunder    
+    
+    
+    One hell of a storm up in these mountains tonight, lightning flashing all around and some stonkingly loud cracks of thunder    
+    
+    
+    Quite amusing reading some of the #aws stories. People, if you want resilience you *have* to be geographically distributed    
+    
+    
+    Don't go bellyaching when one AZ goes down; you'll see there are 4 others, all of which were working fine    
+    
+    
+    Only using one? Then I think the problem is more yours than Amazon's. I know a good little consultancy shop that may be able to help you ;)    
+    
+    
+    @hhariri It's just their US East region that is having problems. US West, EU West and both APACs regions are fine    
+    
+    
+    @hhariri If you care about resilience, you should have servers in more than one region    
+    
+    
+    @philiplaureano It's not all down, not even close    
+    
+    
+        
+    
+    
+    @mikehadlow Erlang (full vm, language, database etc) comes in at 85MB. No IDE, but emacs is only another 35MB :)    
+    
+    
+        
+    
+    
+    @mikehadlow @hadleyhope But the main reason for that is I'm running OSX Lion, and Fusion does't work on that yet    
+    
+    
+    @ironshay I use crashplan, seems to work well    
+    
+    
+    The sun is finally out again, and the wife and kids should arrive home tomorrow :)    
+    
+    
+    @ironshay I use it for about 5 computers; got a big external drive in my office that they all backup to    
+    
+    
+    @ironshay us-east is still having problems, although improving. everything else is fine    
+    
+    
+    Whoops http://blog.us.playstation.com/2011/04/26/update-on-playstation-network-and-qriocity/ …    
+    
+    
+    @jamesogden Really quite spanky isn't it.  They really should get sued for negligence.    
+    
+    
+    @NathanGloyn Damn glad they've not got any of my info!    
+    
+    
+    @darachennis Beer will help, ei is lots of fun :)    
+    
+    
+    Daughter has just asked the difference between spots & polka dots - um, help!    
+    
+    
+    @RobGibbens @dylanbeattie awesome, thanks guys :)    
+    
+    
+    @hhariri ooo, shall give that a spin layer on    
+    
+    
+    @NeilRobbins Guess you like it then :)    
+    
+    
+    @NeilRobbins That would be an interesting exercise, wonder how well the concepts would map over...    
+    
+    
+    @NeilRobbins Also no clue, done almost no F#.  And yes, I'm sure you'd learn loads!    
+    
+    
+    EC2 deployments now completely automated through some erlang scripts, working like a peach and going to save a ton of time :)    
+    
+    
+    @mteper for scripting ec2? Almost no advantages, just that the rest of the system is erlang so it keeps things consistent    
+    
+    
+    Got webmachine running behind nginx doing authentication with client certs, another job ticked off the list :)    
+    
+    
+    First real load test today; at the peak we had around 750 servers running on EC2    
+    
+    
+    @MarkNijhof can't say until it's gone live :(    
+    
+    
+    Marmite man rocks!    
+    
+    
+    Off to the beach    
+    
+    
+    @KeithSpitalnick just down the road from you at El Rosario. What a fantastic day :)    
+    
+    
+        
+    
+    
+    Using Knockout.js.  Simply awesome.  Great job @stevensanderson, I owe you a beer    
+    
+    
+        
+    
+    
+    @ironshay dude, I know it's late but...    
+    
+    
+    Little one managed to fall off the slide this morning, so now down the hospital :(    
+    
+    
+    @d2consulting lol :)    
+    
+    
+    What a week. One horrific system-killng bug after another. Except now it's Friday, and they are all fixed. A beer tonight, methinks    
+    
+    
+    @mworrell very cool, really impressed with the activity on the zotonic mailing list of late, lots of great progress    
+    
+    
+    Can't believe I missed #tweetmarbella again, sounded like a good one. Maybe next month    
+    
+    
+    @TimBarcz surely around 50% of (integer) results are multiples of 2 ;)    
+    
+    
+    @martinstillman that one made me smile :)    
+    
+    
+    @JakCharlton been running lion for about three months now, and even the dev upgrades have been painless    
+    
+    
+        
+    
+    
+    Any thoughts on a good advanced Javascript book?    
+    
+    
+    @seanparsons A happy coincidence - made an otherwise dull journey most enjoyable. Hope you have a good week off, and say Hi to Tom tomorrow    
+    
+    
+    TeamCity rocks.  That's all.  Night night folks.    
+    
+    
+    @ismangil Are you still involved with pjsip?    
+    
+    
+    @ismangil Thought so :)  Would you have a few minutes to talk about some jitter problems? We'll be buying a commercial licence etc    
+    
+    
+    @ismangil Email on its way :)    
+    
+    
+    @sermoa it's a good book, I think you'll have fun going through it    
+    
+    
+    @sermoa shout if you need any help on the erlang chapter    
+    
+    
+    @joe_carney new one on me. First impressions?    
+    
+    
+    @joe_carney interesting stuff, shall take a look next week    
+    
+    
+    @tommyjmquinn mail in lion is reasonable, the other one I quite like is sparrow, which is great for gmail    
+    
+    
+    @NeilRobbins how goes the erlang experience?    
+    
+    
+    @Daneel3001 pretty sure they'll got swapped to disk if needed, can't think why they'd need to be fixed in physical memory    
+    
+    
+    @NeilRobbins eunit does take some getting used to, but it appears to do the job, pretty much all we're using for all our tests    
+    
+    
+    @NeilRobbins it took me around 2-4 weeks to start getting comfortable with it, quite a lot longer than other languages    
+    
+    
+    @NeilRobbins that sounds like a job for foldl,  comprehensions rock but sometimes aren't the right tool    
+    
+    
+    @NeilRobbins yeah, that was pretty much full time; I'm a slow learner though. Worth every hour, imo,  wish i'd learnt it years ago    
+    
+    
+    @awashtell hehe, yeah, access is what you want :) that said, used properly Access isn't all that bad for simple stuff    
+    
+    
+    @awashtell depending on your version, there's also SQL reporting services out of the box    
+    
+    
+    @NeilRobbins How about https://gist.github.com/1023313     
+    
+    
+        
+    
+    
+    @srstrong erlang prefers to add to the head of the list; that's very fast    
+    
+    
+        
+    
+    
+    @NeilRobbins much as the fold version is smaller, for this problem I think a straight recursive fun is easier to read https://gist.github.com/1023380     
+    
+    
+    @awashtell Doesn't sound mental, but also something I've never needed to do :)    
+    
+    
+    @NeilRobbins https://gist.github.com/1023631  :)    
+    
+    
+    @NeilRobbins BTW, don't for one instance take my solutions to be best practice! I'm still learning myself :)    
+    
+    
+    @NeilRobbins it's not as bad as it looks - the bit that prepares the initial list and turns it into a square is a bit nasty,    
+    
+    
+    @NeilRobbins is fairly straightforward. Thinking of a better way to make the square, since I don't much like that fun :)    
+    
+    
+        
+    
+    
+    @MarkNijhof @neilrobbins lol :)    
+    
+    
+    @nicchick thanks!    
+    
+    
+    @joe_carney ouch ;)    
+    
+    
+    @ironshay @hhariri @jagregory @joe_carney @jongalloway first one lasted about a year. I expect the 2nd will fail as well sometime soon    
+    
+    
+    @ironshay @hhariri @jagregory @joe_carney @jongalloway but it's so freakin fast that I wouldn't switch back. My backup rocks as well :)    
+    
+    
+    Excellent sunday lunch at the robin hood inn, although it's blowing a gale down here on the coast    
+    
+    
+    Hmm, seem to have clocked up almost 188,000 hours of Amazon compute time in the last two months #itsureaddsup    
+    
+    
+    @hhariri @NeilRobbins hehe, yes, that would be a shocker :)    
+    
+    
+    @hhariri probably cos it's a wmv...    
+    
+    
+    @hhariri oops, forgot about that! I'll try to find out when it needs to be in the uk. In-laws are driving up in August so maybe take it then    
+    
+    
+        
+    
+    
+    @hhariri :)    
+    
+    
+    @pdincau what's your blog's URL?    
+    
+    
+    @pdincau cool, thx    
+    
+    
+    @AntGardiner sounds like a blast :)    
+    
+    
+    @philiphendry @tommyjmquinn you swapped from git to svn? Say it ain't true ;)    
+    
+    
+    @tommyjmquinn @philiphendry But presumably not to move to svn ;p    
+    
+    
+        
+    
+    
+    @JYoung1756 @tommyjmquinn Now that's almost libellous :)    
+    
+    
+    Distributed database and hot-spare clustered application researched, prototyped and deployed in under 3 hours. #erlang #rocks    
+    
+    
+    Today has been distributed databases. Tomorrow is direct show filters and serial port control.software. Love the crazy variety in my job :)    
+    
+    
+    Gecko in the house. Damn, those things are fast :)    
+    
+    
+    @AndaluciaWD no chance of getting rid of it, have no clue where it raced off to :)    
+    
+    
+    My little girl just won the school prize for Spanish #soproud :)    
+    
+    
+    I may have broken my body #kitesurfing #firstlesson. Tons of fun though :)    
+    
+    
+    Should be at customer site. Actually sat outside garage waiting for mechanic to arrive. Car not happy. Me not happy.    
+    
+    
+    The customer visit was to do some sharepoint work. Perhaps the car is trying to save me.    
+    
+    
+    @GaryMcAllister it wouldn't be my first choice, but the customer has it already so no real option to throw it out    
+    
+    
+    Found a 7MB sharepoint config database.  With a 12GB logfile!!!    
+    
+    
+    @karlseguin for concurrency, distributed systems and fault tolerance, go erlang. If perf is all you care about, try C ;)    
+    
+    
+    To the man next to me in the traffic jam - why would you buy a *brown* Aston Martin? Lovely car, but brown???    
+    
+    
+        
+    
+    
+        
+    
+    
+    @duomark send me some id's please - I've not found many erlangers to follow on g+ yet!    
+    
+    
+    @duomark I'm srstrong at gmail    
+    
+    
+    @neil_rees getting into github? We're about 9 months in and I'd rather stick pins in my eyes than go back to tfs :)    
+    
+    
+    Fighting with a soundcard on some custom hardware we're building - any opinions on the best Linux distro for broad soundcard support?    
+    
+    
+    @sermoa lettuce soup is fantastic :)    
+    
+    
+    Anyone running 8gb on a late 2008 unibody MBP (15", 2.8GHz)? If so, where did you buy it?    
+    
+    
+    @wannabe_goddess If reading in bright sunlight is a must, get the kindle.  Otherwise (ignoring price) get the iPad; it's just awesome!    
+    
+    
+    Geez.  Just signed up to a website that thought this was a weak password: cot2on7ju6wok8 - what the hell constitutes a string one?    
+    
+    
+        
+    
+    
+    @Imaji Plenty of places with the ram, just trying to see how much I can cram in; seems to be vague as to whether mine will take 8 or not...    
+    
+    
+    @jamesogden Dude! It's 14 long! 36^14 should be enough for anyone :)    
+    
+    
+    Currently downloading winamp on an EC2 server.  Finding it quite odd    
+    
+    
+    @stevemgentile Ah, ok. Google seems to suggest that although yours can take 8gb, mine is probably limit to 6    
+    
+    
+    An evening of audio codecs, decompression, bit rates yadda yadda. Slowly getting my C foo back.  Not sure if that's a good thing...    
+    
+    
+    @mikehadlow i've been in erlang for the last 6 weeks. Not missing the static typing much at all.    
+    
+    
+    @mikehadlow the class of bugs that the compiler catches are easily found with the tests, which i need anyway    
+    
+    
+    @chadmyers with EC2, you are charged for running instances, regardless of usage    
+    
+    
+    @chadmyers @sbohlen ec2 pricing starts at 2c per hour, so about 15 bucks a month    
+    
+    
+    @mikehadlow alas, all under nda at the mo, but it is a *very* productive environment    
+    
+    
+    @mhenders might be interested in one of the macbooks for the in-laws - what are the specs and how much you looking for?    
+    
+    
+    Stupid windows with your slashes round the wrong way    
+    
+    
+    @adlanelm Bash, emacs etc. Should be on linux really, but one of our dependencies is windows-only :(    
+    
+    
+    @tanukidata Do you guys supply hardware components? I'm in need of a power supply for a motherboard….    
+    
+    
+    @tanukidata cool, where are you? Could I drop by sometime tomorrow?    
+    
+    
+    @tanukidata Hey Joey, having problems with that ram module - any chance you'd be able to drop by my office so we can test the others?    
+    
+    
+    @tanukidata I've already left for the day, but should be in anytime after 9.30 tomorrow    
+    
+    
+    Thanks to @tanukidata for sorting out my hardware woes this week :)    
+    
+    
+    Not tweeted for ages, been insanely busy. System goes live in less than a week, going through final acceptance tests. All looking good :)    
+    
+    
+    @joe_carney we've been building a large cloud-based audio transcoding and archiving system for Reuters, been under nda the whole time    
+    
+    
+    @joe_carney but they've just filed a patent on the technology used, so guess it's official public domain now ;)    
+    
+    
+    @joe_carney you on the coast at the mo or travelling? If the former, we should grab a coffee sometime    
+    
+    
+    @tanukidata @joe_carney I think it'll be cold by the time I get there :)    
+    
+    
+    @joe_carney @tanukidata so if you're midway through, that means you'll be wanting a break midweek - coffee on Wednesday?    
+    
+    
+    @joe_carney that's where my office is, so works for me :) sometime in the morning?    
+    
+    
+    @joe_carney @tanukidata not sure yet, depends on kids and school    
+    
+    
+    @hhariri @joe_carney go on dude, you know you want to :)    
+    
+    
+    @hhariri Welcome back :)    
+    
+    
+    @awashtell Got the S, not the S2. Hate it.    
+    
+    
+    @awashtell Not used a 2, so perhaps it's much better. It needs to be, mine was pretty crap out of the box, very slow, very laggy    
+    
+    
+    @awashtell Installing a custom rom helped, but I really don't expect to have to mess about with such things. Roll on iPhone 5 for me    
+    
+    
+    @incongruousm @awashtell The problem with the S wasn't hardware, it was the screwed up Android install that samsung did    
+    
+    
+    @seanparsons @awashtell @incongruousm guess they sorted out the filesystem they were using, or the h/ware is *so* fast it doesn't matter :)    
+    
+    
+    @RoyOsherove TeamViewer works ok    
+    
+    
+    @NJenman I'm on a custom one, not one of Samsung's.  About 9 months old now, but not sure I can be arsed to go through the upgrade pain :)    
+    
+    
+    

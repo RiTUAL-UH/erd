@@ -1,0 +1,1232 @@
+ My claim was that fiat doesn't have intrinsic value. When challenged, I found a source. 
+
+Incidentally, I feel symmetrically about your last sentence.
+
+Your argument is entirely based on using the wrong definition of intrinsic. 
+
+
+
+
+ You said that you're qualified because you make a lot. That's kind of ridiculous, and is the same argument Trump made.
+
+What exactly did I get wrong, and what is your proof that it's wrong? Don't use a non-standard definition and think you've won. 
+
+
+
+
+ Let me guess, you think Trump is the most qualified presidential candidate because he's the richest? 
+
+
+
+
+ Whether they are different categories is the open problem. They're different definitions, but we can't prove they aren't equivalent yet. 
+
+
+
+
+ He's not even bothering to argue that P isn't NP in that paper (except a very short summary of the field), that's not really controversial in computational complexity theory.
+
+He has written a lot on it elsewhere, though. Pretty much anything he writes is a good read if you're interested, so I'll just leave these here:
+
+http://www.scottaaronson.com/blog/?p=1720
+http://www.scottaaronson.com/blog/?p=459
+http://www.scottaaronson.com/blog/?p=122
+http://www.scottaaronson.com/papers/pnp.pdf
+http://www.scottaaronson.com/blog/?p=458 
+
+
+
+
+
+
+
+
+
+ According to the [same person](http://www.scottaaronson.com/papers/npcomplete.pdf), it's likely that nothing will be able to solve NP-complete problems quickly. He even thinks it could be like a fundamental physical law. 
+
+
+
+
+
+
+
+
+
+  A true qbit can be in an infinite number of states at a single time. This is what would make true quantum computing so powerful.
+
+Not really. What would make scalable quantum computing powerful is the existence of algorithms that solve certain problems faster than on classical computers. To elaborate would take some time, but this article does a good job http://www.scottaaronson.com/blog/?p=208. 
+
+
+
+
+ (Full paper is at http://advances.sciencemag.org/content/1/6/e1500031.full)
+
+Note the next sentence:
+
+**Although the particular machine presented here is eventually limited by noise**
+
+See http://www.scottaaronson.com/blog/?p=2212 for an explanation of why that cannot be fixed.
+
+Wake me up when they've released the RSA numbers. 
+
+
+
+
+ And [Scott Aaronson's response](http://www.scottaaronson.com/blog/?p=2212) 
+
+
+
+
+ Nope, sorry. See http://www.scottaaronson.com/blog/?p=2212 for the reasons it doesn't work.
+
+If it is true that they can solve NP-complete problems in polymnomial time, it would be trivial to prove it; just release all the https://en.wikipedia.org/wiki/RSA_numbers
+
+The "problems" with their machine are not fixable, they're fundamental to the problem they're trying to solve. 
+
+
+
+
+
+
+
+
+
+ This is headed for frontpage of /top. Wonder why it's not there now, has more points than the last one there and top is supposed to sort only by number of votes iirc.
+
+Edit: it's not even in https://www.reddit.com/r/all/top/?sort=top t=week. 
+
+
+
+
+ http://fanfilms.net/c/harrypotter
+
+https://www.youtube.com/watch?v=wTHn5oFPmi8 
+
+
+
+
+ Nope. 
+
+
+
+
+ It has been, but I haven't read all of it, and much of my thinking has been independant.
+
+You can see http://lesswrong.com/lw/19d/the_anthropic_trilemma/ for starters, and go through the posts in http://lesswrong.com/r/lesswrong/tag/anthropics/ (will take some time). Maybe read http://www.anthropic-principle.com/?q=book/table_of_contents
+
+I also elaborated in this thread a bit. 
+
+
+
+
+  There is no audience here.
+
+Maybe you should consider the possibility that I'm being honest here, then.
+
+You showed up, feigned ignorance and produced a ludicrously biased study, and then 10 more that supported it.
+
+I just went through all my comments on this issue. The ones which had any non-reddit links at all were https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csntdkm?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csntkmg?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csnu5xt?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csnwoqc?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csny3kd?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csnzrly?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/cso821h?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/cso92m3?context=3 https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/cson1qu?context=3 
+
+After excluding the ones on law or otherwise irrelevant to this particular issue, and duplicates, the only sources I quoted were
+
+http://www.hoover.org/sites/default/files/uploads/documents/0817938923_51.pdf
+
+http://www.cato.org/publications/briefing-paper/what-would-school-voucher-buy-real-cost-private-schools
+http://onlinelibrary.wiley.com/doi/10.1002/pam.20113/abstract
+http://educationnext.org/debunking-a-special-education-myth/ (which I didn't use as a source, but to start a discussion)
+http://www.wsj.com/articles/SB10001424052748703864204576313572363698678
+
+The other sources were *all* from https://nces.ed.gov/, and were raw data as opposed to analysis. I don't think there's much room to accuse me of bias in looking those up and linking them.
+
+The four (not 10) sources that I did quote were generally the first analysis to come up on searching for the topic in question, each time. For example, seaching for https://www.google.com/search?q=who+uses+vouchers brings up Hoover as the first relevant result, searching for https://www.google.com/search?q=private+school+vouchers+costs brings up cato as the first result, the peer-reviewed study was written by the same authors as the hoover paper and was found while researching that one. For the WSJ link, I was actually trying to find out whether buses are included in certain public numbers, and specifically if private school buses were, so I searced for https://www.google.com/search?q=public+school+costs+include+busing. The first two links are local, so I ignored them, the third is governmental and I linked it, the fourth didn't quite break down what I was looking for, the fifth was irrelevant. When I came across the wsj one, I realized it contradicted the comment I was replying to, so I used that and stopped looking for what I'd been looking for before then. (I think this is reasonably accurate, but it is based on memory, so it might not be 100%.)
+
+That should hopefully be sufficient to show that
+
+You showed up, feigned ignorance and produced a ludicrously biased study, and then 10 more that supported it. Basically the only 10 studies extant, that in isolation could shore up a view that is categorically false.
+
+is not an accurate description of what I did.
+
+That's possible, but as it turns out, I'm not starting with an ideology and then seeking data to ram into the hole I've shaped because of it and ignoring everything that doesn't fit.
+
+On the other hand, you don't have good reason to believe I am, except for your belief that "someone disagrees with me" implies "that person is deliberately wrong, no one could be mistaken, especially not me". I've laid out parts of my reasoning process throughout, and I never said I'm believing anything for ideological reasons.
+
+Other posters have raised some of the obvious issues, and your responses have been...at best....suspect. "Sure, busing is an externality included in public budgets, ignored by most private schools..but um, I know some with buses!" etc.
+
+They said that *all* public schools provide buses for free, and all private schools don't; I correctly pointed out that it was wrong. I wasn't saying any other aspect was wrong there.
+
+I don't know what the thinking error is for you, and frankly I'm not really that interested in finding out.
+
+Remember that your only justification that I am making a thinking error at all is private knowledge you've refused to tell me. It's possible my tentative conclusions are wrong, I didn't put in the amount of research required to have strong confidence in the results, but I did enough for "reddit-quality" comments. Your argument would be a lot stronger if you could point to specific evidence that I'm rejecting.
+
+(By the way, I've updated slightly in the other direction after reading through the great lakes report someone else linked, as well as some follow up discussion between the author and someone from cato.) 
+
+You think teacher's unions are a problem? You think free markets are always the best approach to public policy? 
+
+I haven't studied the teachers' union very much, so I don't have much of an opinion. As for 2, definitely not.
+
+Whatever it is, smashing the evidence until it finally complies with what you want to be true works for you, I'm sure.
+
+Again, in order to claim that you need to point to specific evidence that I've ignored, which you refuse to do. (Also, if we consider your rejection of the cato study above as enough to not be called "ignoring it", then anything I've engaged with to that level was also not ignored. Or you could use your double standard.)
+
+I'm hopeful you gain the ability to think critically and do exceptionally basic research.
+
+I can kind of see how you think I wasn't thinking critically, but you kind of misunderstood some of my points here. I'm not saying that the sources I've linked are sufficient to prove that private schools are objectively better. I know I haven't done nearly the amount of research required to be confident in the results, (and even if I was, I wouldn't adopt your position of no longer paying attention to the evidence after being convinced). When I link such an article, my objective is firstly, to introduce the idea in case the other commenters haven't seen and, and secondly, if there's any major problems with it, someone will point them out and I'll get more info. I'm in no way considering the conclusion conclusive, and in fact I've updated after reading the replies; I still think school choice is important (for a number of reasons unrelated to cost), but am unsure or less sure of a cost decrease.
+
+
+If this isn't enough to convince you, what would? 
+
+
+
+
+  I'm asking precisely for a justification of Occam's razor.
+
+Not getting into that, but you can read http://lesswrong.com/lw/s0/where_recursive_justification_hits_bottom/.
+
+This is a very involved question, though, and reddit is perhaps not the best format for it.  
+
+
+
+
+ On what authority do you disagree with the economic professor at Harvard whose book I quoted?
+
+Here are some more sources that say fiat has no intrinsic value:
+
+http://www.investopedia.com/terms/f/fiatmoney.asp
+
+Most modern paper currencies are fiat currencies, have no intrinsic value and are used solely as a means of payment.
+
+http://economics.about.com/od/money/a/Types-Of-Money.htm
+
+Fiat money is money that has no intrinsic value
+
+
+Do you understand what intrinsic means?
+ 
+
+
+
+
+ You're not doing a very good job of making your case, or showing you even know what intrinsic means. Backing is not intrinsic.
+
+In fact, one of the definitions of fiat money is that it's intrinsically valueless!
+
+https://en.wikipedia.org/wiki/Fiat_money#Definition
+
+Intrinsically valueless money used as money because of government decree.[2]
+
+[2] http://books.google.co.uk/books?id=3ubKAgAAQBAJ pg=PA220 lpg=PA220 dq=%22Fiat+money+money+without+intrinsic+value+that+is+used+as+money+because+of+government+decree%22 source=bl ots=7XHHm0VBBD sig=Me-Z6eaFICWEZYb97lO_SDBGCb0 hl=en sa=X ei=8qwRU6SzEY7whQeK5oC4CA ved=0CC8Q6AEwAA#v=onepage q=%22Fiat%20money%20money%20without%20intrinsic%20value%20that%20is%20used%20as%20money%20because%20of%20government%20decree%22 f=false 
+
+
+
+
+ You're saying all this stuff was concretely known and discussed with the mainstream public for a "reall long time". The OP and I are saying that's not true.
+
+That's not what I said; my claim was that it was discussed in the mainstream *media*, which is true. Of course public opinion has changed due to snowden, I never claimed otherwise. 
+
+
+
+
+ From https://en.wikipedia.org/wiki/National_Security_Agency#George_W._Bush_administration
+
+On December 16, 2005, The New York Times reported that, under White House pressure and with an executive order from President George W. Bush, the National Security Agency, in an attempt to thwart terrorism, had been tapping phone calls made to persons outside the country, without obtaining warrants from the United States Foreign Intelligence Surveillance Court, a secret court created for that purpose under the Foreign Intelligence Surveillance Act (FISA).[216]
+
+One such surveillance program, authorized by the U.S. Signals Intelligence Directive 18 of President George Bush, was the Highlander Project undertaken for the National Security Agency by the U.S. Army 513th Military Intelligence Brigade. NSA relayed telephone (including cell phone) conversations obtained from ground, airborne, and satellite monitoring stations to various U.S. Army Signal Intelligence Officers, including the 201st Military Intelligence Battalion. Conversations of citizens of the U.S. were intercepted, along with those of other nations.[217]
+
+The article referred to is http://www.nytimes.com/2005/12/16/politics/16program.html 
+
+
+
+
+ Occam's Razor. 
+
+
+
+
+ There are links there to mainstream media stories from over 10 years ago. Snowden was not the first. 
+
+
+
+
+ So you can't even tell the dfference between backing and intrinsic value? 
+
+
+
+
+ Clapper lying does not mean it wasn't known earlier. Look at the NSA page on Wikipedia, at least. 
+
+
+
+
+ You've offered none, so you couldn't know that even if true.
+
+You also seem to subscribe to the claim that nobody is ever wrong by mistake, which has the two implications of
+
+1. You can never be wrong, since you know you aren't deliberately lying and
+2. Anyone who disagrees with you is stupid.
+
+These are some extremely dangerous views to hold, and it can lead to you to ironical situations like this where you refuse to defend your view because you think it can't possibly be wrong *and* anyone else can see that as well, yet criticize me when you *think* I would do the same.
+
+I don't have much hope of changing your mind about epistemology, but I'll try one more time.
+
+You clearly profess the belief that one should change one's mind on encountering evidence. You (incorrectly) think I don't possess that, and therefore you consider it a waste of time to introduce facts. I don't see a good way to convince you otherwise; I could make a list of previous views I've changed my mind about, but you could dismiss that as dishonest anyway.
+
+Anyway, given that one should respond to evidence, under what circumstances would you change your mind? You believe that when you're sufficiently sure of something, it's impossible to arrive at an incorrect conclusion by mistake, so wouldn't that mean *you* should reject all new evidence? If that's the case, then you do consider it rational to disregard evidence in some circumstances. 
+
+
+
+
+ And "real" currencies have intrinsic value because? 
+
+
+
+
+ That's uncomputable, hence prior of zero. 
+
+
+
+
+ After controlling for age the effect gets much smaller, though. 
+
+
+
+
+ What about immortals? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The point of my post was that (1) yes and no results are valuable, and (2) the search space of possible is large so that we could test indefinitely and still not be certain.
+
+I agree with 1. As for two, just because you can't be certain doesn't mean you should give up. You can also give complexity penalties, and testing all the simple answers may be possible.
+
+Also, I really wasn't trying to be smug here.  
+
+
+
+
+ It's trivial to come up with something that distinguishes "always increases" from your alternate hypothesis.  
+
+
+
+
+
+
+
+
+
+  The proposed solution sounds horrendous - an overlapping patchwork of different jurisdictions with different rules and not even any attempt at high-minded universal application.
+
+I actually thought it sounded pretty close to the real world. 
+
+
+
+
+ My claim would be that the moral outrage is believed to be true by (many of) those who proclaim it. Whether you want to call it "fake" or not similar to "belief in belief" is your decision. 
+
+
+
+
+ This title is my equivalent of clickbait.
+
+I think the title accurately described the content, though? 
+
+
+
+
+ That was poorly phrased; what I meant is that most people, even most smart people, don't think that way. The existence of some who do doesn't mean all do (and the observation that many people think a certain way *is* useful). 
+
+
+
+
+ http://www.wpxi.com/news/news/national/cost-police-body-cameras/nkr3J/
+
+One company VieVU advertises its police body cameras cost $199, plus $55 a month per camera for data storage.
+
+You know, if you can do it for much less, why not start a company? Capitalism, after all! 
+
+
+
+
+  Sighh..... Another good thinker lost to the wiles of propositional logic. The real world doesn't have Boolean truth-values! It has real-valued measurements. I'm sure everyone on this subreddit has heard the term "probability" before.
+
+He's not saying they must be Boolean, he's saying *others* believe that, and that they are wrong.
+
+Nobody is actually shocked. Feigning shock and horror just makes for good rhetoric in favor of changing policy: we are all used to the world being wrong, but we also carry an inner sense that we ought to be shocked and appalled, that however cynical we may be, the right thing is still that a Clean Air Act ought to clean up the air.
+
+I think you're overestimating how smart people actually think.
+
+Actually, I have to say, my responses were colored entirely by what little I know (ie: what they taught me when I volunteered with a Civil Liberties Union once) of how the Supreme Court has ruled on these matters before.
+
+The article says
+
+On the basis of your personal understanding of this sentence's meaning (not your knowledge of constitutional law)
+
+So you shouldn't have done that. 
+
+
+
+
+  "Invasion of privacy"? Seriously? You're a public servant. It's not like they have to wear them home.
+
+You misunderstood that one; the problem is the invasion of *other's* privacy. For example, if I call the police and they come into my house, my house will be recorded.
+
+"The cost of maintaining cameras and footage" seems kind of ridiculous, as it would probably save them MOUNTAINS in legal fees.
+
+Let's look at NYC for an example. [This](http://newyork.cbslocal.com/2010/10/14/nypd-paid-nearly-1-billion-to-settle-lawsuits/) puts the total paid in lawsuits at around $100 million a year. http://www.scpr.org/news/2015/03/30/50678/7m-annual-cost-for-lapd-body-cameras/ says a camera costs around $1000 per cop yearly, NYPD has ~34,000 cops so that would come to $34 million. Lawsuits would need to drop by 34% to make it worth it, and it isn't obvious that the drop will be that large.
+
+The public does not decide your fate.
+
+The public has influenced prosecutors to charge before even when they knew they wouldn't win. 
+
+
+
+
+ It does have a fictional government subplot. 
+
+
+
+
+  as far as I can tell, has no drawbacks
+
+Did you read the article, which mentioned some of the reasons given for opposing it? 
+
+
+
+
+  Here's how this works: Extraordinary claims that are odds with reality and the consensus view of experts require evidence.
+
+The trouble of course being how you define consensus, and how you determine what's at "odds" with reality without begging the question. (Also, non-extraordinary claims require evidence as well; firstly they require evidence of their non-extraordinary-ness, and secondly they require evidence of their correctness. You're mixing up the [extraordinary claims quote](https://en.wikipedia.org/wiki/Marcello_Truzzi#.22Extraordinary_claims.22))
+
+Stating that consensus view does not.
+
+You need to at least show that it's consensus, and even then, all you have is an argument from authority.
+
+"The Earth moves around the sun": Doesn't require evidence.
+
+Actually it does; it so happens to be that people *did* find evidence, and that debate is pretty much settled. (See http://www.wired.com/2014/04/how-do-we-know-the-earth-orbits-the-sun/ and https://physics.stackexchange.com/questions/10933/why-do-we-say-that-the-earth-moves-around-the-sun and https://physics.stackexchange.com/questions/55444/what-made-us-think-that-earth-moves-around-the-sun). But put it a different way; imagine you meet an alien who has no knowledge of the whole debate on Earth over how it moves. In order to convince them the Earth moves around the sun, you'd need to give them evidence. If you say "oh, our scientist agree that this is true", then the hypothetical alien needs to *trust* you, or you could easily fool them by claiming *anything* is "consensus".
+
+So, no, I'm not going to offer you 'evidence' of reality.
+
+Then why should I change my mind? If you feel you have sufficient justification that you don't want to share, fine, but you can't convince someone like that unless they implicitly trust your rationality and honesty.
+
+I don't know who you usually engage with
+
+I engage with almost anyone who's debating in good faith, and sometimes others, depending on whether I feel there's a benefit to the debate (like if the other appears knowledgeable about the topic). You've pretty much departed from that already (by refusing to offer evidence and assuming it wouldn't be acknowledged anyway).
+
+but I'm not someone who is going to pitch you studies that reflect the consensus view
+
+Then you'll have a hard time changing any rational person's mind
+
+while you offer increasingly ludicrous and banal 'refutations' of them.
+
+I haven't offered any refutations, I haven't been offered any studies! Where does this bad faith presumption on your part come from?
+
+You just continue to play pretend, as you would regardless of me linking 100000 studies
+
+More bad faith assumptions with no evidence offered
+
+and I'll keep laughing at your ludicrous attempts at "look, this is real, The Association for Marketing For Profit Schools says that at least .000001% of charter schools don't actively injure students!"
+
+The cato study was the first result on searching for https://www.google.com/search?q=private+school+vouchers+costs, but you'll note that I then found government statistics that said the same. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You're missing the point. The law already says you can't sell to a felon, the problem is that even when you know they aren't a felon, you still need to do a background check, which would be useless. 
+
+
+
+
+ Is that true in all states? 
+
+
+
+
+ Sweet dreams.
+
+Remember the fight over whether Michael Brown's video of robbing a store was real? 
+
+
+
+
+ Cops *do* want cameras in very high numbers.
+
+http://www.policeone.com/police-products/body-cameras/articles/7790682-Poll-Results-Cops-speak-out-about-body-cameras/
+
+67.7 percent of those polled said despite some of the drawbacks, they would equip their department with body cameras if the decision was up to them.
+
+There are some reasons why not there if you want to look.
+
+(Interestingly, the number among the general public is much higher, among many different groups http://www.huffingtonpost.com/2015/04/16/body-cameras-poll_n_7079184.html) 
+
+
+
+
+ But still, wouldn't a paper with all those qualities but slightly more accuracy eventually win out? Can the general public *really* not notice how wrong the papers are, and wouldn't notice a better one?
+
+Or is the point that it's precisely inaccurate stuff that sells, or that you can't get sensationalist without inaccuracy? 
+
+
+
+
+  I do disagree with the valuation of other iterations of myself as equally valid from a selfish perspective, because even if they are outwardly identical I am still only one of me and I determine my utility functions from that perspective. But while this is the part that initially struck me as odd, there's no reason why someone can't define their own self as they please and it at least makes more sense than people who define themselves as only part of a larger whole (in which case their "self" is the entire group, be it a nation or a religion or whatever).
+
+I do believe you're missing the point. If I actually met my clone, I might not give a damn about them; but at the point where we have the same experiences, I claim *there is no meaningful sense in which I'm only one of them*! After we diverge, of course there is, but then I *should* expect to end up as any of them with equal probability (insert a bunch of caveats here). Hopefully you can see why I would care in that circumstance; all those "selves" are potentially *me* in the future.
+
+If there are two groups, A containing 1 iteration of myself and B containing 2 iterations of myself, and I, the person whose eyes I'm looking out of, were in group B, and if a coin were flipped for each group and on tails that group was killed, I would say that I have a 50% chance of being killed (I hope I'm setting this up correctly, the example given on Wikipedia doesn't quite work for people who exist before the coin flip). Whereas under your definition, all of the subjects are you, and so you have only a 25% chance of dying (if both coins are tails).
+
+The assumption is that all these are *completely identical copies*. So in what sense is each "unique", and in what sense is only one of them "you"?
+
+By the way, we can construct a much simpler case that makes the same point you're making here. I clone you, then I kill one of you. According to you, that has a 50% chance of killing you, while I would say it doesn't kill you at all. You think that there is some sense in which a clone is \*not\* you, while I don't.
+
+The only part I still don't understand about your position is the limitations on the use of the anthropic principle. If you can improve your average result by constraining your later options, then you should burn your bridge. The only constraint I can see on the use of this decision making strategy is that failure must result in death (and therefore the inability to ever experience failure), but this is a fairly easy constraint to add. Deciding to die is something you have absolute control over, after all, living requires some amount of positive effort. So why not get an A on every multiple choice test by generating the most random numbers you can manage (I understand random.org is quite good), using that to geverate a set of random answers to all the questions, and resolve to kill yourself if you don't get 100%? Suicide has zero net utility under this set of assumptions, while any positive gain that can be obtained by chance can be obtained with certainty by every extant iteration of yourself by this strategy. You mention heavy limitations on this strategy a couple of times, but I'm not seeing them.
+
+Here's a quick list of limitations, may not be exhaustive:
+
+1. Requires that the suicide doesn't change my cardinality. This implicitly assumes that the multiverse is infinite. To whatever extent I am uncertain, the reward must be that much greater to outweigh the huge loss if I'm wrong.
+2. Requires selfishness, which already rules out a bunch of people (but we're talking about someone who is, so this isn't a big deal)
+3. As the reward is quite low, the risk must be low as well; almost any epistemic doubt about a number of things could throw that off. Doubt about whether this theory of anthropics is right, doubt about multiverse as in 1, doubt about the relative likelihood of whatever outcome I want versus likelihood of a failure in the suicide attempt (this is not trivial, the priors on suicide succeeding are ~1/25 is [this source](http://www.suicide.org/suicide-faqs.html) is to be believed, and even conditioning on my intellegence I don't think I could get it too high, especially if I'm trying to force it as in the next one), doubt on whether I can actually precommit to harm myself, if not I'd need to enforce it, which also presumably lowers the chance of success (I'm also assuming that a suicide failure is worse than nothing), even doubt on whether my utility function is valued correctly.
+
+ 
+
+
+
+
+ Why don't papers with standards have a competitive advantage? How can bad papers last so long? 
+
+
+
+
+  I'm aware of the concept: if we do not exist, then we cannot observe anything, therefore if we do exist, then we can be certain that no set of circumstances that would prevent us from existing can have come about. 
+
+That's the epistemology part, not the decision theory part. Applying the epistemology consistently should lead you to all the decision theory parts, but I don't know if that can be made rigorous.
+
+But I still do not understand why you consider it the way you do when projecting forward.
+
+My argument is roughly:
+
+1. Measure doesn't matter for utility, given that the cardinality stays the same (i.e. I am indifferent between my "measure" being A or B if both A and B are the same cardinality, even if they otherwise differ, like the reals and [0,1], or the integers and the odds, or something similar.)
+2. Worlds that I don't exist in have zero utility (selfishness assumption; if you don't accept it, this may not be valid)
+3. [Self Indicating Assumption](https://en.wikipedia.org/wiki/Self-indication_assumption) (I'm not going to argue for it, but I do consider it obvious, and you seem to be accepting it) (I'm also not sure if this is quite needed to carry my argument here)
+4. All copies of me that I cannot distinguish between can be identified as "me"; there is no sense of "I'm this person and not that person", if both people are having identical experiences.
+5. Given 1, 2, and 3, and 4 (insert handwave) the expected result of eliminating some worlds is an increase of probability in the other worlds from "my" subjective perspective, and the *average* utility of my surviving selves is what matters.
+
+I'm not even sure that you believe what you're saying, since if you did then any rational iteration of yourself should be dead in most universes.
+
+This is besides the point; you can't dismiss an idea by saying the proponent doesn't really believe it. But anyway, I already addressed this above: there are a whole bunch of conditions required for that to be a reasonable decision! (And for the record, if we live in a multiverse then the vast majority of worlds do not contain me.)
+
+While you're at it, why don't you read https://en.wikipedia.org/wiki/Quantum_suicide_and_immortality ? 
+
+
+
+
+  Then any choice based on probability is meaningless.
+
+Under certain conditions, naive probability will fail. That's kind of the whole point of anthropic reasoning.
+
+ Under that logic, only the best possible outcome of any probabilistic event should be considered. Have you invested all of your money into high risk/high yield penny stocks? If the investment goes poorly, you can just kill yourself, and then you'll never experience a universe in which you didn't get lucky and invest early in the next Apple or whatever.
+
+There's a very specific kind of multiverse that would make this correct; there are also a number of other conditions that would need to apply. I've thought about this in great depth, and I could go over each prerequisite if you'd like.
+
+but it's very strange to assign zero utility to any situation that is not exactly the best possible.
+
+The system you refer to isn't assigning zero utility to those situations, it's recognizing that pre-committing to certain actions will change your probabilities of getting higher utility. It's utility agnostic after taking certain selfish and counterfactual non-caring assumptions.
+
+How familiar are you with anthropic reasoning in general? 
+
+
+
+
+ Oh, thought this was on the /r/tumblr (which is considerably more active) post. My bad. 
+
+
+
+
+  So if you could press a button that has a 10% chance of giving you $10 and a 90% chance of killing you instantly, would you press it? You can never be aware of having pressed the button and not received money either way.
+
+If I was sufficiently certain of a (certain kind of) multiverse, yes. 
+
+
+
+
+  Before you actually try it, you have no way of knowing whether you are in one of the 99 universes that will be destroyed by looking or in the 1 in 100 that won't.
+
+That's meaningless, in my understanding. If all universes look the same to you, there's no sense in which you're "in" one or the other. As long as the destroying happens instantly, there's no reason to worry. 
+
+
+
+
+ Was there enough evidence for it at the time he dismissed it? Note that he did come around eventually. 
+
+
+
+
+ If the basis of that is the anthropic principle, then you're literally destroying countless universes just to ensure that in at least one of the remaining universes you know where the target is. That has exactly the same probability of working in a particular universe as the strategy of firing in a random direction does, and without the possibility (indeed probability) of destroying that universe.
+
+Don't see any problem with the strategy. Who cares about other universes that don't exist? 
+
+
+
+
+
+
+
+
+
+ Except the people pushing the idea of AI risk are heavily criticising how Hollywood portrays it. 
+
+
+
+
+ Why not both? 
+
+
+
+
+ How do people find my old posts like that? 
+
+
+
+
+  Because they are pretend?
+
+Sources 2 and 3 are both government sources, why don't you explain who's making stuff up there?
+
+I'm not going to waste time here explaining why a cato study's methodology shockingly skewed towards arriving at a pre-determined result, but, honestly, why bother with 'evidence' if it's going to compare wildly disparate data sets?
+
+You've so far offered absolutely no evidence, so maybe get some of your own before criticising something you disagree with.
+
+The only benefit to private education is paying much more than public school costs to afford your children an advantage.
+
+Again, you haven't offered any reason to believe that.
+
+Private schools do not provide better education per dollar than public schools. The opposite has been shown to be true in every large study.
+
+Can you show me them?
+
+It's a settled debate if you care about evidence.
+
+Lol "settled", when you can't provide any evidence and need to dismiss whatever is shown just to justify your beliefs. 
+
+
+
+
+ I went over this in [this comment](https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csnu5xt?context=3). What don't you like about those numbers? 
+
+
+
+
+ http://givingpledge.org/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Even Forbes still valued him in the billions. Nobody credible thinks he's worth *less* than his inheritance as far as I know.
+
+See http://therealdeal.com/issues_articles/the-8-billion-dollar-man/ 
+
+
+
+
+  He has less now than what he started with, supposedly.
+
+He inherited in the millions and is worth in the billions. 
+
+
+
+
+ Look, in any situation, there's at least *some* chance a death will result in high costs (whether it's lawsuits or bad press or something else).
+
+Minimizing deaths does not seem obviously a \*bad\* strategy for the company to follow. The "fault" issue may not outweigh that. 
+
+
+
+
+ It can be extended to any situation in which a jury can be persuaded the car did something wrong. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  a human driver would not be held responsible for casualties caused by mechanical failure, and so there is no reason that a machine driver would
+
+But the car *manufacturer* can be held liable, and in that case, it would gain if fewer people died. 
+
+
+
+
+ That's not the dilemma addressed in the article. Read it again. 
+
+
+
+
+ Google started developing their car how many years before expected public sale date?
+
+That's what I thought. 
+
+
+
+
+ This content was removed at the request of Bitstamp Ltd 
+
+
+
+
+ No. But I would expect that, because someone that *isn't* "into" science is probably less likely to look at these at all.
+
+And I'd argue that if you aren't going to do any of the work required to see whether stuff is actually true, you aren't better off being "into" science but taking things uncritically. 
+
+
+
+
+ Because overall, it would kill less people, which itself should lead to less lawsuits. 
+
+
+
+
+ I'm not saying it does; I'm saying the reasoning isn't fallacious. 
+
+
+
+
+ That doesn't change my point (and I was copying their wording; you can replace it with "deciding to take no action carries lower ethical import").
+
+There are even epistemological arguments like Chesterton's Fence that would imply similar decisions. 
+
+
+
+
+  If it makes people care more about science and scientific research, and that is reflected in how are tax money is spent.
+
+This is a good reason, if true. 
+
+
+
+
+  The big cost for bussing.
+
+Huh? Are you considering this under-$1000 a "big cost"? 
+
+
+
+
+  You don't need to know everything about science to apprecaite the idea of it.
+
+I'm not saying you do; I'm saying you should understand why exactly the idea works, and don't think you understand something from popularizers.
+
+Yes, you can't know everything, and that's why you should be uncertain about things you haven't studied. 
+
+
+
+
+ [Nope!](http://xkcd.com/1545/) 
+
+
+
+
+  Not everyone is an expert. That's fine, let people enjoy their sciency nonsense.
+
+Don't be an expert, but then don't think you actually understand it. You can enjoy something even if you know you probably misunderstand it. 
+
+
+
+
+  History has shown time and time again that as a group scientists hate being told they are wrong.
+
+Could you elaborate? Given that part of the whole point of science was to be able to admit when you're wrong, and many advancements have been made precisely *because* scientists figured out they were wrong, I don't think that claim is warranted. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  It's not like they think the word "science" actually means firefighting or decoupage.
+
+If they think they "know" something is "science" because they've read some pop-sci, then yes, they misunderstand the scientific method. No, you cannot get understanding by outsourcing your thinking to popularizers.
+
+These are the people that will read a news article (or sometimes just a headline) on one new study, and assume it's true without even reading the actual study.  
+
+
+
+
+  that is where the big cost comes from
+
+https://nces.ed.gov/fastfacts/display.asp?id=67 puts the cost per student at under $1,000
+
+Also, it seems an unfair comparison to include fees from private schools but not public ones, [which charge many of those as well](http://www.wsj.com/articles/SB10001424052748703864204576313572363698678)
+
+Public schools offer busing to their whole district by law
+
+No, as the article above says and gives counter-examples. 
+
+
+
+
+  How could you possibly sell a car that would have a subroutine to try and kill you, even if it was for a better cause?
+
+Closed-source, of course. People buy binaries all the time. 
+
+
+
+
+ http://lesswrong.com/lw/2k/the_least_convenient_possible_world/ 
+
+
+
+
+  It's based on the fallacy that refusing to make a decision isn't a decision.
+
+When put that way, sure, it's a fallacy, but the weaker non-fallacious claim that refusing to make a decision carries lower ethical import is sufficient to carry that argument. 
+
+
+
+
+ Then the holder of the Eye can easily tell where any True Cloaks are, just by checking where he can't look. 
+
+
+
+
+ Better in what sense? How specifically does society gain if more people think science is good while misunderstanding what science is? 
+
+
+
+
+ Josh Duggar. 
+
+
+
+
+ I know private schools with their own buses, though. 
+
+
+
+
+
+
+
+
+
+  Do you have any ideas?
+
+Well, if you aren't releasing the source code until the end of the summer, any ideas may not be worth thinking of until then.
+
+That said, the first thing that comes to mind is that a node could have constant "check-ins", and if it fails one, it's automatically removed and its money refunded. If it's in the middle of a computation, maybe it could have some "debt" to the network of one computation or something before it gets back those coins. 
+
+
+
+
+
+
+
+
+
+  I know first hand that tuition is only part of the cost of private school, a lot often coming from endowments or donations
+
+If a private school can reduce costs by donations and endowments while a public school cannot, that *itself* is a reason to prefer the private one. Those shouldn't be included, because no one is forced to pay them. The mandatory donations you referred to do matter, though, but you haven't sourced that, I think.
+
+Also, what do you think of this argument?http://educationnext.org/debunking-a-special-education-myth/ :
+
+This estimate likely overstates by a fair margin the additional cost of serving disabled students in private schools. It assumes that the cost of serving a privately placed student would be the same as the cost of serving the average student with the same disability. But we have good reason to believe that most privately placed students are more severely disabled and therefore more expensive to educate than the average student in the same disability classification. An emotionally disturbed student who requires private placement, for example, is likely to be more challenging and expensive to educate than the average emotionally disturbed student who remains in public schools. With the laws emphasis on providing services in the least restrictive environment, the severity of the disability is likely to increase the probability of private placement.
+
+Anyway, I'm too tired to do math right now, if you want to recalculate the public-private split using my numbers but your special needs numbers, go ahead. Intuitively it seems that the 10% isn't enough to make public come out better, but I can't say for sure. 
+
+
+
+
+  A document published by a conservative organization
+
+Also, this was on hoover.org, which appears to be run by Stanford University. One author is a [Professor at Harvard](http://scholar.harvard.edu/peterson/publications/who-chooses-who-uses-participation-national-school-voucher-program), and they published a [peer-reviewed paper](http://onlinelibrary.wiley.com/doi/10.1002/pam.20113/abstract). 
+
+
+
+
+ EC2 didn't go down, it was an [external Internet provider issue](http://status.aws.amazon.com/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Private schools don't score worse on standardized tests, and often do better. Please source your claim. (I sourced this in one of my other comments). 
+
+
+
+
+ They made an assertion, they need to back it up. I didn't assert otherwise, just asked for a source.
+
+And again, the government actually gains by implementing vouchers, because private schools cost less. For every parent switching their kid out of public school, the government makes more by lower public school costs than it would pay in vouchers. So there's no more taxes than you're paying now. 
+
+
+
+
+ Private schools have a lower cost per student than public ones. This is well documented (and I went over the numbers elsewhere in this thread).
+
+Why do you think that isn't the case? Do you have any specific criticism of methodology? 
+
+
+
+
+ On your first point, I asked for a source for the parent comment's assertion, and quoted a study that went a bit into the numbers. If you have anything better, I'd like to hear it.
+
+On your second point, this isn't your tax dollars; it's those parents, who also pay school taxes. Also, if they're charging less than public school costs, then the aspects that aren't part of public schools can be thought of as for "free".  
+
+
+
+
+ I went over this in another comment, look at my recent comments (search for .gov).
+
+Private schools overall are around $1,000 less than public, while religious ones are several thousand less. That's a lot to be covered by donations. 
+
+
+
+
+ First of all, there's no reason it can't cover all of tuition; as private schools cost less per kid than public, that would still be a gain. Second, the "less funding" comes along with even lower costs, becaus there are less students. 
+
+
+
+
+  any public school that teaches that is breaking the law.
+
+That's just not true.
+
+https://en.wikipedia.org/wiki/Academic_Freedom_bills
+
+Many of those haven't been struck down. 
+
+
+
+
+  the public suffers when children are taught evolution isn't real, global warming is just God's plan, and the earth is only 6000 years old.
+
+Are you willing to ban such teachings? If not, why does it matter? Also, plenty of public schools teach (some) of that as well. 
+
+
+
+
+ That's pretty much equivalent to the voucher program in terms of money flows. 
+
+
+
+
+ I'll try to explain this better.
+
+Child-free adults don't get a rebate because they're paying for the benefit of "free education for all". (I seemed to remember the court case saying something about "society benefits", but can't find it.)
+
+The reason the parents should get a rebate is that they're using it to pay for this "free education". It's part of the benefit. 
+
+
+
+
+  yes i support vouchers for non-religious schools.
+
+So shouldn't you at least support *some* money for religious schools, at whatever you think their *actual* cost of providing the non-religious education is? Some of that can be calculated, as I've mentioned; transportation, salaries for non-religious teachers, food, etc.
+
+and it isn't really the parent's tax money, it is just made to look like it. lets say everyone pays $10k in taxes for the sake of simplicity. $1k of that goes to public education for all american children regardless of whether that person has children or not. then person A wants to send their kid to a religious school with a tuition of $1k. If we reimburse them $1k so they can can give that money to the religious school, person A has still spent $10k, but now they have given nothing to the public schools like everyone else has and the religious school gets $1k. The religious school has taken $1k from the public school pool of money.
+
+But their kid is no longer in the public system, so the public system has $1k less of costs. For every person that leaves, the public schools save.
+
+And if (as is the case) private schools cost less on average per student, then the government will actually save. 
+
+
+
+
+ I understand that, but still, those schools are providing religious *and* not religious education for a lower cost than public schools, and students don't suffer in test scores. The government would be getting a good deal even paying for the whole thing, and surely when only paying for the "secular" classes. 
+
+
+
+
+ It's more complicated than that; the Supreme Court ruled that one doesn't need to benefit from spending to have to pay a tax (see https://supreme.justia.com/cases/federal/us/199/194/case.html; I thought it was more recent, but couldn't find the case I seemed to remember, and stopped looking).
+
+My point is that they should be able to choose which service they want, given that they're entitled to these services. 
+
+
+
+
+  giving the parents a tax-rebate on their tuition is effectively the same thing as giving the school money. everyone can see that, it is just a loophole to make it seem like the taxpayers money isn't going directly to the school. Tax money is going to the school, the middle person doesn't change this fact.
+
+But this is the parents' tax money.
+
+And anyway, as I argued above, the school is performing almost everything the public school is providing. They should get at least some from the government; it's unreasonable to think that their costs of providing regular education is zero.
+
+Also, for the record, do you support school vouchers for non-religious private schools? 
+
+
+
+
+ We're talking about giving the parents money, which you haven't addressed.
+
+And not giving someone money they would otherwise deserve because they would then have more money to spend on religious items is discrimination, and itself problematic. As I said above, that reasoning can be applied to eliminate tax breaks from anyone religious as well. 
+
+
+
+
+ Does that count as being rick-rolled? 
+
+
+
+
+  i am okay with tax-dollars going to private schools with non-religious curriculums.
+
+So then you should be fine with tax dollars going to fund all the non-religious curriculum/ transportation/ food/ etc of religious private schools as well, as long as it doesn't go for the religious parts.
+
+And it is everyone's tax money. Everyone pays for public schooling even people who don't have children.
+
+The point here is that private school parents are paying twice. Paying these taxes should give you the right to a free education for your kids, and the government should at least pay for the private non-religious education parts.
+
+Look, private schools are definitely not spending *all* the money on religious stuff, or they'd get much lower marks in standardised tests, which [doesn't happen](http://nces.ed.gov/nationsreportcard/pubs/studies/2006461.asp)
+
+If it costs a public school X to provide an education, and a private school can provide religious education *and* non-religious education and do as good as the public schools in standardised tests, then the private school is providing at least X in value per kid. As private schools tend to have lower costs than public schools, the government would still be getting a good deal even if it paid the entire tuition, so surely if they pay only the aspect calculated as non-religious they'll come out ahead. 
+
+
+
+
+ Except the actual bill says only 21 and up, among other restrictions. 
+
+
+
+
+ Bill seems to be http://openstates.org/nd/bills/64/HB1195/, text [here](http://www.legis.nd.gov/assembly/64-2015/documents/15-0393-05000.pdf?20150630144422), and says:
+
+An individual twenty-one years or older possessing a valid concealed weapons
+license from this state is authorized to carry a firearm concealed on school property, if the individual is on private school property and has the approval of the private school to carry a firearm concealed or if the individual is on public school
+property and has the approval of the public school to carry a firearm concealed.
+
+The rest of that makes it pretty clear that it's talking about a guard, they need training, assessments, and so on.
+
+Don't see anything to support "student", the only time that might even apply would be a college as it's for 21 and up. 
+
+
+
+
+  A state legislator, by default, speaks for the state.
+
+https://popehat.com/2015/06/15/partial-victory-in-pattericos-free-speech-case-before-ninth-circuit/
+
+In a published decision that will be significant for public employees who blog, the Ninth Circuit agreed that Mr. Frey didn't blog as a "state actor" for purposes of Section 1983 just because he's a county employee. The Court agreed that Naffe had not stated any facts giving rise to a reasonable inference that Patrick was blogging as part of his official responsibilities. "Frey is a county prosecutor whose official responsibilities do not include publicly commenting about conservative politics and current events." The Court also rejected Naffe's argument that Patrick's blogging was related to his work as a county prosecutor because he discussed criminal law issues. 
+
+and
+
+Crucially, the Ninth Circuit confirmed that a state employee can talk about the nature of their work without transforming their speech into state action. That's key for the free speech rights of all public employees. The Court noted "if we were to consider every comment by a state employee to be state action, the constitutional rights of public officers to speak their minds as private citizens would be substantially chilled to the detriment of the 'marketplace of ideas.'"
+
+ 
+
+
+
+
+  I think it isn't a good idea because as a taxpayer I don't think my money should go towards religious education.
+
+First of all, the money can go for non-religious education. Not all private schools are religious, and even those that are have many non-religious classes. There are also many costs unrelated to religion.
+
+Second, this isn't \*your\* tax money. This is the tax money of those parents. Without vouchers or similar, parents that send to private schools pay twice; once for taxes that go to fund public schools, and once for tuition at private schools. Vouchers would just pay back those parents for the second payment out of their payment of the first, which they currently get nothing out of.
+
+In fact, the government would save money, because private schools cost less per student than public ones.
+
+I think the states money shouldn't be spent on brainwashing children into believing what their parents believe.
+
+That's pretty much what the public school system is, though, as curriculum is set by local school boards usually made up of parents. 
+
+
+
+
+ This is because the religous schools don't actually hire teachers.
+
+What are you talking about?
+
+I agree that our public school system is trash right now(for the most part), but spending tax dollars on teaching our children myths isn't going to help anyone.
+
+Again, vouchers wouldn't be spending tax dollars, because the government saves more than it would pay for public when someone switches to a private school. That's the whole point of my previous comment. Vouchers can be for the portion of costs that are of non-religious studies, for food, busing, etc. 
+
+
+
+
+ Why is it a bad idea? Maybe you should explain before ending the discussion? 
+
+
+
+
+  i believe spending taxpayers dollars on religious schools is not a good idea regardless of the 5 supreme court justices that disagreed with me.
+
+I think you misunderstand the purpose of law. The justices decided whether it was legal, not a good idea. Anyway, you haven't made a case for why it's not a good idea, just tried to proxy that by appealing to the constitution. 
+
+
+
+
+ http://www.cato.org/publications/briefing-paper/what-would-school-voucher-buy-real-cost-private-schools
+
+In fact, Education Department figures show that the average private elementary school tuition in America is less than $2,500. The average tuition for all private schools, elementary and secondary, is $3,116, or less than half of the cost per pupil in the average public school, $6,857. 
+
+That was from some decades ago, so here are [more recent figures](https://nces.ed.gov/programs/digest/d13/tables/dt13_205.50.asp)
+
+Average tuition charged in 2011-2012 was $10,940 for private schools. (Note that religious schools charged far less; this seems to be skewed by non-religious "elite" schools.)
+
+https://nces.ed.gov/programs/digest/d14/tables/dt14_236.15.asp
+
+Cost per pupil in average daily attendance (ADA) in 2011-2012 was $11,590 for public schools.
+
+So this is definitely not a "significantly greater" amount for private schools, and when you only look at religious schools, the private schools actually cost significantly less. 
+
+
+
+
+ Because with this loophole tax payers money is being spent on religious education and that is unconstitutional.
+
+First of all, it's not unconstitutional on the federal level, see https://en.wikipedia.org/wiki/Zelman_v._Simmons-Harris and http://www.edchoice.org/getattachment/School-Choice/School-Choice-FAQs/Is-school-choice-constitutional.pdf
+
+Second, we're talking about whether something should be done or not, which is orthogonal to whether it's constitutional. Slavery was constitutional for a long time; was it right to own slaves at that time? If something is unconstitutional, that doesn't make it a bad idea, just a more difficult idea to implement (and by using "loopholes", it can often be done.)
+
+The core issue is whether it's a good idea or not, whether it's constitutional shouldn't be part of that discussion. 
+
+
+
+
+ Dogma much? 
+
+
+
+
+  I don't see this being the case in the long run. After the initial introductory pricing, a private school is going to do what every private business does...jack up prices or cut costs. Then you'll have a school that is costing taxpayers more than the equivalent public school, and/or provides sub-standard education due to cost-cutting. The lack of profit motive is actually a benefit in the public school system.
+
+The voucher could be fixed to some percentage of public school costs. If the private school raises its prices, it will lose customers, and it can never cost taxpayers more than public school would. And given that they're still competing with completely free public schools, they couldn't slash service *too* badly, and they still need to meet accreditation standards.
+
+But it's far more likely that vouchers will be used as a separation mechanism to keep poor kids in declining public schools and rich kids in their own education bubble.
+
+You're really going to need to source this. I'm not going to accept this assertion. http://www.hoover.org/sites/default/files/uploads/documents/0817938923_51.pdf seems to imply that isn't correct.
+
+They could easily hide the costs for their religious classes or lie about what they consider religious teaching. 
+
+If they manage to teach all the mandated curriculum for less than the public schools they're competing with, I don't really care how they do it, frankly.  
+
+
+
+
+  That is just a loop hole to get public funding into a religious school.
+
+Why does the fact that something is a loophole make it wrong? What's the *actual* argument against?
+
+You have the option to go to public school like the rest of us. Or pay extra and to a private school of your choice.
+
+That doesn't actually address the argument I raised above. 
+
+
+
+
+  I grew up going to private Christian schools. Only Christian teachers were allowed.
+
+For the record, I grew up going to a private Jewish school, and non-Jewish/non-religious teachers were allowed for the "secular" classes.
+
+Many of those classes had zero mention of religion; e.g. math. They used state-mandated textbooks IIRC. 
+
+
+
+
+ So what would you say to an education tax discount for anyone who has a kid and pays for a private school?
+
+(Incidentally, some of the proposals for school choice have focused around tax credits for scholarship funds donations.) 
+
+
+
+
+ [Replied in sibling comment here](https://www.reddit.com/r/news/comments/3bm7fp/colorado_court_rules_use_of_public_funds_for/csnsgal?context=2) 
+
+
+
+
+ The government isn't providing postal service for free. USPS charges.
+
+Analogy fails. 
+
+
+
+
+  It takes money away from the public schools
+
+It also takes away students, and the money the public schools save on having less students is greater than the money given to the private schools. (Or at least I've seen some proposals for vouchers of a lower amount than the public school cost per kid.)
+
+which the low and middle income students have to use, and gives it to the private schools, which only the rich kids can afford anyways.
+
+Why can't a low income student use the private school? Now, because it costs a lot, and even then plenty of poor people go to private schools, but with vouchers the cost would come down.
+
+Also, many of the voucher proposals were only for low-income parents.
+
+Also there's the fact that many of these private schools are religious, and I sure as hell don't want my taxpayer dollars paying for little Billy's bible class.
+
+This is easily solved by only paying for the portion of school that isn't religious. 
+
+
+
+

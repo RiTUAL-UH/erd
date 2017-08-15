@@ -1,0 +1,68 @@
+ Free access paper:
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120012 
+
+
+
+
+
+
+
+
+
+ Link to paper: http://hmg.oxfordjournals.org/content/24/7/2035
+
+Abstract:
+
+Myotonic dystrophy type 1 (DM1), the most prevalent muscular dystrophy in adults, is characterized by progressive muscle wasting and multi-systemic complications. DM1 is the prototype for disorders caused by RNA toxicity. Currently, no therapies exist. Here, we identify that fibroblast growth factor-inducible 14 (Fn14), a member of the tumor necrosis factor receptor super-family, is induced in skeletal muscles and hearts of mouse models of RNA toxicity and in tissues from DM1 patients, and that its expression correlates with severity of muscle pathology. This is associated with downstream signaling through the NF-B pathways. In mice with RNA toxicity, genetic deletion of Fn14 results in reduced muscle pathology and better function. Importantly, blocking TWEAK/Fn14 signaling with an anti-TWEAK antibody likewise improves muscle histopathology and functional outcomes in affected mice. These results reveal new avenues for therapeutic development and provide proof of concept for a novel therapeutic target for which clinically available therapy exists to potentially treat muscular dystrophy in DM1. 
+
+
+
+
+
+
+
+
+
+ Antibiotics can have similar negative effects on chloroplasts and plants.
+Source: http://www.publish.csiro.au/paper/FP03149.htm
+
+It depends on the mechanism of how the antibiotic works, if it targets translation pathways like several antibiotics do then it most likely doesn't matter if the target is eukaryotic or prokaryotic as those mechanisms are largely conserved. 
+ 
+
+
+
+
+ It's interesting that tetracycline (and neomycin in the linked study) causes weight gain, I was a bit surprised by that claim so looked to see if it was true - http://www.ncbi.nlm.nih.gov/pubmed/15905446
+
+It'd be interesting to know if the increase in mass is due to fat accumulation and what the meat quality is like. Tetracycline inhibits protein synthesis ( a lot more effectively in bacteria than mammalian cells) and so do aminoglycoside antibiotics like streptomycin and neomycin (by blocking calcium channels). Streptomycin blocks the signaling pathways that lead to muscle growth and also inhibits mitochondrial function preventing the adaptation to chronic exercise in muscle. That suggests that less muscle will be made due to less protein synthesis and perhaps more fat accumulation due to mitochondrial dysfunction.
+
+I'd be surprised that using less energy to fight infection was the reason for the increase in weight but I might be underestimating how often livestock get infections - probably quite high with the battery farms and similar "maximize animal density type farms". 
+
+
+
+
+ Link to paper http://www.sciencemag.org/content/early/2015/03/11/science.aaa2958
+
+Abstract:
+
+After central nervous system (CNS) injury, inhibitory factors in the lesion scar and poor axon growth potential prevent axon regeneration. Microtubule stabilization reduces scarring and promotes axon growth. However, the cellular mechanisms of this dual effect remain unclear. Here, delayed systemic administration of a blood-brain barrier permeable microtubule stabilizing drug, epothilone B (epoB), decreased scarring after rodent spinal cord injury (SCI) by abrogating polarization and directed migration of scar-forming fibroblasts. Conversely, epothilone B reactivated neuronal polarization by inducing concerted microtubule polymerization into the axon tip, which propelled axon growth through an inhibitory environment. Together, these drug elicited effects promoted axon regeneration and improved motor function after SCI. With recent clinical approval, epothilones hold promise for clinical use after CNS injury.
+ 
+
+
+
+
+
+
+
+
+
+ Link to the paper: http://www.sciencemag.org/content/347/6227/1265
+
+Abstract:
+
+Circadian clocks orchestrate periods of rest or activity and feeding or fasting over the course of a 24-hour day and maintain homeostasis. To assess whether a consolidated 24-hour cycle of feeding and fasting can sustain health, we explored the effect of time-restricted feeding (TRF; food access limited to daytime 12 hours every day) on neural, peripheral, and cardiovascular physiology in Drosophila melanogaster. We detected improved sleep, prevention of body weight gain, and deceleration of cardiac aging under TRF, even when caloric intake and activity were unchanged. We used temporal gene expression profiling and validation through classical genetics to identify the TCP-1 ring complex (TRiC) chaperonin, the mitochondrial electron transport chain complexes, and the circadian clock as pathways mediating the benefits of TRF. 
+
+
+
+

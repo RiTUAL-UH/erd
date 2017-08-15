@@ -1,0 +1,596 @@
+ The inverse of this (for nice little old ladies who are exceptionally polite and friendly): when they ask for the senior discount and present their senior's card, I take the card and squint at it and bring it close to my eyes and then look between the card and the old lady and say "I don't know.... you don't look like a senior to me." with a wink to go with it. Always gets a chuckle from them.  
+
+
+
+
+ I think the comment was deleted because it revealed personal information about the guy. You can still see the comment on his userpage (http://www.reddit.com/user/connor-lj) 
+
+
+
+
+ You can manually flash the update without having to root.  
+
+
+
+
+ Its not really about the physical issues that arise, its a matter of principle. Nothing quite says "I think you're white trash and you don't have the right to touch me." than people deliberately avoiding your hand to place the money on the counter. You have obviously never worked in sales/hospitality because you would understand it if you had. 
+
+
+
+
+ You'd be surprised at the amount of customers that will actually go around the hand you're holding out just to put it on the counter. If I'm in a particularly foul mood I'll hold the change/receipt out as if I'm going to put it in their hand, wait a moment, and then place it on the counter. 
+
+
+
+
+ Its been explained time and time again, but people like you keep using the wrong argument. Skins exist not because manufacturers don't like the look of stock android and think they can do better. They exist to create brand loyalty. Blur only exists on Motorola devices, and if someone's mom only feels comfortable with blur and everything else looks different and confusing, what do you think her next phone is going to be? 
+
+
+
+
+ How about just an update to Drive itself. Where is my automatic camera upload?! Literally the only thing holding me back from switching from Dropbox. 
+
+
+
+
+ uhh, I think that's the point? 
+
+
+
+
+ Being introverted and having no friends aren't the same thing.  
+
+
+
+
+ Isn't this an android issue, not cm? 
+
+
+
+
+ Perhaps when someone wants to try or install a Linux distro? Just a guess. ;) 
+
+
+
+
+ Holy shit, this was TWO YEARS AGO?! 
+
+
+
+
+ CM comes with this ootb, fyi. :) 
+
+
+
+
+ So what's wrong with just installing the latest nightly and updating when you feel like it? 
+
+
+
+
+ Why are you being down voted? This is accurate.  
+
+
+
+
+ Why not install onto a virtual machine directly from an iso file? 
+
+
+
+
+ ...except none of the money goes to the content creators, which is the point here.  
+
+
+
+
+ Wtf? Did anyone else get redirected like five times? 
+
+
+
+
+ Or solid explorer.  
+
+
+
+
+ Have you tried this using the Beta? Once the site is fully loaded its pretty damn smooth.  
+
+
+
+
+ I'd suggest the following alternatives that I feel are better:
+[Reddit News Free](https://play.google.com/store/apps/details?id=free.reddit.news feature=search_result#?t=W251bGwsMSwxLDEsImZyZWUucmVkZGl0Lm5ld3MiXQ..) instead of RiF for reddit browsing and [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5lc3Ryb25ncy5hbmRyb2lkLnBvcCJd) for a file manager. It is also free and has more features than the one suggested above.
+
+Onavo Count is useless since 4.x+ comes with a built-in data monitor (Settings  Data Usage) 
+
+
+
+
+ Community channel. 
+
+
+
+
+ Where does it say what movie this is from? 
+
+
+
+
+ If you read the comments on the post about the Bug's Life one, it turns out that the colors were selected and put in order of a rainbow purposefully - as in, it still took the colors from the frames, but not in the same row of pixels each time. 
+
+
+
+
+ Replying for later 
+
+
+
+
+
+
+
+
+
+ Gameboid 
+
+
+
+
+
+
+
+
+
+ The userscript also adds a link directly to the .torrent file as well. 
+
+
+
+
+ You can disable them in the messaging app.  
+
+
+
+
+ This functionality is available on torrentz.eu using a user script. (Search for magnet links for torrentz.eu user script) 
+
+
+
+
+ Facebook, for one. 
+
+
+
+
+ I think a lot of it works with the calendar as well. So maybe if you create an event "Dinner with Michael"  it'll pop up with a card for restaurants at that time? idk 
+
+
+
+
+ This doesn't actually kill the app like the hold-back-to-kill does, it simply politely asks it to close. If the app is coded poorly it can still run in the background, but the back button method will kill it no matter what.  
+
+
+
+
+ Misleading title. Ubuntu for Android and Ubuntu for phones are two different things.  
+
+
+
+
+ The group messaging used by iphones and 4.2+ android devices uses MMS to attach additional info such as other contacts included in the message. 
+
+Ie if you send a group message as a normal SMS the recipients won't be able to see the other recipients and when they reply it will only go back to the original sender, not everyone in the group. Think of it like individual SMS versus a Facebook-like group message.  
+
+
+
+
+ You don't hate Touchwiz? You should probably ditch this subreddit.  
+
+
+
+
+ I actually really enjoyed this movie. It seemed to close to reality and just had this raw feeling about it.  
+
+
+
+
+ Replace the battery and if that still doesn't work, get a knife or a needle or something and push the middle sticky-outy thing in the microusb up a little bit, make sure it doesn't contact the outer edges of the port at all. I had this same issue and this resolved it. Just be careful not to snap it off. 
+
+
+
+
+ * Do a nandroid and a titanium backup.
+* Download desired cm10 ROM and equivalent gapps (remember, cm10 uses a different gapps package than cm10.1) from get.cm or goo.im or wherever else and place on SD card/internal storage
+* Wipe caches, flash cm10, flash gapps, flash anything else you desire (kernel, init.d scripts etc), wipe caches again to be sure and fix permissions
+
+You should boot up and it should bring up the "optimising apps" screen. If you start getting force closes or get stuck in a bootloop then perform a data wipe and restore only user applications and data from titanium. 
+
+
+
+
+
+
+
+
+
+ This is an alternative. https://play.google.com/store/apps/details?id=com.tvshowfavs 
+
+
+
+
+ I did the same thing for my two sisters.
+
+http://www.flickr.com/photos/lukeboland/7970256258/in/photostream
+
+You can see how one takes after my father and takes after my mother. 
+
+
+
+
+ Looks really slick, but for some reason separates my sent and received messages from each contact into two different conversations (one with all the ones that I have ever sent to the contact and one with all the messages I have received from the same contact). It also crashes when I try to send a message. :/ 
+
+
+
+
+ Anecdotal evidence.  
+
+
+
+
+ Have you seen Wicked? It's a musical about exactly this. Definitely worth a watch next time it comes to a theatre near you.  
+
+
+
+
+ blemish removal, curves, black and white filter, sepia tone, crop, content-aware scale and fill. (you could probably do a better job if you took the time to manually clone the bushes so it looks a little bit more organic)
+
+http://i.imgur.com/N9b8C.jpg 
+
+
+
+
+ Yes but from where? There are no 10.1 downloads on get.cm.  
+
+
+
+
+ Wait what? 4.2? How? 
+
+
+
+
+ "I'm just a swinging mess of sad~anger." Suggests otherwise.  
+
+
+
+
+ Physical... 
+
+
+
+
+ I disagree. It goes against Apple's walled-garden philosophy and for an app like Tasker to have full functionality it would literally require a full re-write of some aspects of the OS. You will never see an app with the level of control and automation of Tasker on iOS, ever. 
+
+
+
+
+ Tasker is a 3rd party app not implemented by Google, so I don't see why Apple would be expected to implement something similar? While you're right about alternative apps and widgets, NFC is something that Apple are highly likely to introduce in the next iPhone. They would be silly not to. 
+
+
+
+
+ I don't get why everyone is saying this... OP is talking about a combination of NFC and Tasker, the things he has automated are done with tasker and NFC is just a way to trigger those. Even if Apple were to implement NFC, there would never be a way to imitate this behavior on iOS. So yeah, this is a perfectly valid reason to never switch back. 
+
+
+
+
+ An honest karma whore. They are quite rare.  
+
+
+
+
+ Its prettier. Not much else.  
+
+
+
+
+ It usually costs $20 - 30 less if you buy it online from certain sites. That's if you're okay with the extra week wait.  
+
+
+
+
+ That's what I'm saying, a google search would have taken less time than a comment. 
+
+
+
+
+ Implying that anything anyone posts on Reddit is posted for purposes other than internet points.  
+
+
+
+
+ Wide angle lens on both eyes for use? Haha.  
+
+
+
+
+ Holy shit I have been here way too long.  
+
+
+
+
+ Follow the guide I posted.  
+
+
+
+
+ You have to root your phone to install cyanogenmod. Why didn't you just Google it? http://wiki.cyanogenmod.org/wiki/Samsung_Galaxy_S:_Full_Update_Guide 
+
+
+
+
+ Stock is what comes with the device as default (stock firmware). In this case its Touchwiz. For an AOSP device like a Nexus device, stock would be AOSP because that's what it comes with as stock.   
+
+
+
+
+ AOSP != stock. 
+
+
+
+
+ flash a stock rom. otherwise no. 
+
+
+
+
+ Can someone explain to me why this ROM is popular? Its buggy, slow and bloated.  
+
+
+
+
+ http://wiki.cyanogenmod.org/wiki/Samsung_Galaxy_S_II:_Full_Update_Guide 
+
+
+
+
+ Its called bloat ware, and is the main reason why so many of us use and advocate custom ROMs. Welcome to android.  
+
+
+
+
+ http://wiki.cyanogenmod.org/wiki/Samsung_Galaxy_S_III:_Full_Update_Guide 
+
+
+
+
+ Its not about predictions, its about shortcuts. On the iPhone you can have @email be typed and automatically replaced with your user-defined email. Now amount of predication can do that.  
+
+
+
+
+ I think its just referencing the movie "Inception", where there is "a dream within a dream". The word has also become synonymous with "mindfuck". 
+
+
+
+
+ imo what you just said then directly opposes the original comment. he just said its bad if you smoke it daily. the fact that you say you NEED marijuana every morning is a really bad sign. 
+
+
+
+
+ Wow, TIL, thanks.  
+
+
+
+
+ You last checked for an update on 01/01/1970
+
+Wut. 
+
+
+
+
+ Perhaps it just means another M release? 
+
+
+
+
+ Create a folder on SD card called "ringtones" and put any songs you want there. They will show up in the same list as the default ringtones. 
+
+You can share directly to Gmail from both Dropbox and Drive.  
+
+
+
+
+ Yeah lol, userscripts/extensions for this have been around for a long time. 
+
+
+
+
+ [Cyanogenmod](http://get.cm/?device=i777).
+
+Stable, professional, customizable, frequent updates. It's basically stock+. Cannot go wrong. 
+
+
+
+
+ You continued to watch it, all the way to climax?  
+
+
+
+
+ Am I the only one that can only go down on a girl if they're shaved? I hate getting hair all up in my mouth. That's the only reason I ask my SO to do it - it doesn't bother me if I'm not going down there though. 
+
+
+
+
+ Photoshop.  
+
+
+
+
+ If Google pushes source to AOSP before the release of the phone then there will probably be ROMs the day of, if not before release. If not, maybe a few days after (CM will probably get there first). 
+
+
+
+
+ http://goo.gl/ypZk0 
+
+
+
+
+ Just the 4.2 camera/gallery apk. There's been a [flashable zip](http://forums.androidcentral.com/verizon-galaxy-nexus-rooting-roms-hacks/220830-jelly-bean-4-2-camera-20.html#post2283346) available for a few days. 
+
+
+
+
+ I really want to use it and uninstall Reddit News but I find Reddit News' comment navigation superior. That and the lack of being able to share/copy a link to a reddit post.  
+
+
+
+
+ Are you joking? Reddit sync lacks so many features compared to Alien blue. Its comparable to using res on the desktop and many people I know who have it on their iPad would actually prefer to use Alien Blue than their desktop browser. 
+
+Reddit sync is good, and so is Reddit news (RN is better IMHO) but neither of them even come close to Alien Blue.  
+
+
+
+
+ fyi, [app2zip](https://play.google.com/store/apps/details?id=scd.app2zip feature=search_result#?t=W251bGwsMSwxLDEsInNjZC5hcHAyemlwIl0.) provides this functionality for free. :) 
+
+
+
+
+ /r/mildlyinteresting  
+
+
+
+
+ This is frequently discussed in this subreddit and various other related forums. For devices that don't come stock with AOSP, the stock ROM will *always* have superior camera quality. This is simply due to the fact that the manufacturer has access to hardware binaries that indie devs do not. There is nothing you can do. If image quality is important to you, then you best switch to a stock-based ROM. 
+
+/thread 
+
+
+
+
+ What specifically do you dislike about it? I personally think it looks beautiful. 
+
+
+
+
+ I like your style. 
+
+
+
+
+ You went in your pajamas? 
+
+
+
+
+ The ROM doesn't matter so much, since nandroids backup and restore the /system partition anyway.  
+
+
+
+
+ We celebrated the Nexus One, G1 and now the actual inception of Android itself (I believe anyway). While they all seem the same, they are all completely different, exceptionally important milestones for Android and Google alike. 
+
+
+
+
+ a few good multis for yall;
+
+[nsfw multi](http://www.reddit.com/r/pornvids+boobies+jailbait+legalteens+nsfw+nsfw_nospam+ass+xsmall+pornography+milf+nipples+Blowjobs+Celebs+beach+Bondage+Jailbait_NoSpam+teens+GirlswithGlasses+showusyourtits+Bottomless_Vixens+girlskissing+fapfapfap+Orgasms+nudistbeach+Amateur+legs+Amateur_girls+Upskirt+racequeens+hugeboobs+hardbodies+vagina+booty+Sexy_Facebook_Girls+voyeurs+PunkGirls+Bad_ass_girlfriends+EroticArt+bitches+Teen_tits+The_nude+Ass_and_Titties+Exhibitionist) (obviously very nsfw)
+
+[softcore babes multi](http://www.reddit.com/r/Sexy+EmmaWatson+HIPSTERGURLZ+VolleyballGirls+gentlemanboners+PrettyGirls+AlisonBrie+realasians+bikinis+nextdoorasians+oliviawilde+happygirls+christinahendricks+ScarlettJohansson+RashidaJones+shorthairedhotties+SexyAthletes)
+
+[the "sfw porn network"](http://www.reddit.com/r/EarthPorn+VillagePorn+CityPorn+SpacePorn+WaterPorn+AnimalPorn+HumanPorn+BotanicalPorn+AdrenalinePorn+DestructionPorn+BookPorn+MapPorn) (landscapes, room porn etc.)
+
+[stoner multi](http://www.reddit.com/r/Drugs+trees+woahdude+trippy+saplings) 
+
+
+
+
+ The miui launcher also has this feature.  
+
+
+
+
+ /r/Android is a no-piracy zone
+
+But just use browser + google? Why do you need to use a dedicated app? 
+
+
+
+
+ Not really. You can see where it loops after the 7th throw. 
+
+
+
+
+ I didn't actually read the post. The whole issue doesn't actually bother me at all, I for one love the idea of including a File Manager and I'm in love with the UI. I was just providing the opposing opinion for the sake of discussion - and to say that bloat doesn't always mean a large filesize (although the two often go hand in hand). 
+
+
+
+
+ Bloat doesn't necessarily mean size, although I get where you're going with that. It more about whether or not its necessary. CM has functioned fine without a file explorer for all this time and nobody has complained or asked for one (that I've heard of anyway). I personally don't mind but its about the philosophy that cm has had up until now - people put cm on their phones to *remove* bloat and only have the absolute bare necessities on a fresh install, with the ability to install what they need/want afterwards. Including a file manager in cm assumes that *every single person that uses cm* will want and use it. Its not a safe assumption to make.
+
+Plus, when do you draw the line? Would having a lightweight PDF viewer be considered bloat? How about a full-fledged eBook reader and manager? By adding a file manager to the default install, cm have changed their stance about bloatware from very clear to blurry and uncertain. Its not about the file manager, or the size of the apk. Its confusing their philosophy.  
+
+
+
+
+ Unzip the flash able zips with an archive manager. The apks will be inside.  
+
+
+
+
+ Its an unreleased version that's been hacked to work on a version of android it wasn't intended to. There are going to be bugs. 
+
+
+
+
+ I doubt its a problem with the actual alarm app and more with the fact that we're flashing a system app from an unreleased version of Android on a version of Android it wasn't made to run on.... The app will be fine on 4.2 release.  
+
+
+
+
+ Direct quote from the link in your own comment:
+Android 4.1, Jelly Bean, is the fastest and smoothest version of Android yet. Jelly Bean improves on the simplicity and beauty of Android 4.0, and introduces a new Google search experience on Android.
+
+Everything in Jelly Bean feels fast, fluid, and smooth. Moving between home screens and switching between apps is effortless, like turning pages in a book.
+Jelly Bean features improved performance throughout the system, including faster orientation changes, faster responses when switching between recent apps, and smoother and more consistent rendering across the system through vsync and triple buffering.
+Jelly Bean has more reactive and uniform touch responses, and makes your device even more responsive by boosting your device's CPU instantly when you touch the screen, and turns it down when you don't need it to improve battery life.
+
+JB definitely *did* bring system-wide optimisations. It was the entire point of the release - to speed things up. Did you not hear anything about "Project Butter?" there was a 15 minute keynote on the damn thing.... JB should *definitely* be noticeably snappier. 
+
+
+
+
+ short answer: no
+
+long answer: nope. 
+
+
+
+
+ Post a screen shot of settings  about? 
+
+
+
+
+ Its supposed to be a 3d viewable image, navigated in a way similar to street view on Google maps.  
+
+
+
+
+ Depends on your device and the dev community it has. Siyah kernel for the i9100 has dual boot capabilities. Check out the xda forum for your device.  
+
+
+
+
+ yeah. haha? 
+
+
+
+

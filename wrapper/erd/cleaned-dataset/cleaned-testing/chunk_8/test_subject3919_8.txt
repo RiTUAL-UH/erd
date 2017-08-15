@@ -1,0 +1,697 @@
+ I stopped playing the game recently (will come back to it, just into other games now) and I'm seeing a lot of posts about a bad update. What was so bad about it? 
+
+
+
+
+ *Squirming intensifies* 
+
+
+
+
+
+
+
+
+
+ Here's my resume!
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes 
+
+
+
+
+ No don't get me wrong he is absolutely my favorite YouTuber (well just the grump family in general) but he plays to the person of "total and utter hilarious d-bag" 
+
+
+
+
+ Yeah but you're almost supposed to kinda hate Arin
+ 
+
+
+
+
+ I personally enjoyed it! I think it's definitely worth 8 bucks if you're into stealth. 
+
+
+
+
+ I can say they thats not use for skateboarding in normal cases 
+
+
+
+
+ So I guess skaters can't trip.... 
+
+
+
+
+ I added the language as an edit (vb) 
+
+
+
+
+ I am putting the output into a label, it's just giving me the data like how I stated in the post 
+
+
+
+
+ Added as an edit 
+
+
+
+
+ So I have a random number generator and the code is like this
+
+    lbl1.Caption = Int(1 + Rnd * 10)
+    lbl2.Caption = Int(1 + Rnd * 10)
+    lbl3.Caption = Int(1 + Rnd * 10)
+
+
+    int1 = lbl1.Caption
+    int2 = lbl2.Caption
+    int3 = lbl3.Caption
+
+    
+    intTotal = int1 + int2 + int3
+
+
+
+
+and say the numbers were 4, 5, 9. I get 459 not 18. What am I doing wrong?
+
+Edit: sorry Visual Basic 
+
+
+
+
+ Disproving evolution with the "some are still the same today is like" statement is like saying if a slice of meat is on a sandwich then slices of meat can't be off a sandwich by themselves therefore sandwiches aren't real. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Made it a [Wallpaper](http://imgur.com/cWausHM) 
+
+
+
+
+ So i tried my own code (I can't use your code) and It won't work
+   
+     Dim strUserSentence, strWord1, strWord2, strNewSentence As String
+   
+     strUserSentence = txtUserInput.Text
+
+     strWord1 = txtUser1Word
+
+     strWord2 = txtUser2Word
+
+     strNewSentence = strUserSentence.Replace(strWord1, strWord2)
+
+     lblOutput.Caption = strNewSentence
+
+I get runtime error 424: Object required. how can I fix it?
+ 
+
+
+
+
+ Oh okay thank you! 
+
+
+
+
+ My directions:
+
+Write a program that asks the user to input:
+
+	A sentence
+
+	A word found in the sentence 
+
+	Another word to replace the first word that was selected
+
+When the New Message button is clicked, the original sentence will be displayed with the users first word replaced by the second word.
+
+For example, if the user types Learning to write computer programs is easy. into the first textbox, then easy and challenging into the second and third textboxes, the following message will be displayed, as shown in the interface below
+
+http://imgur.com/IBmgqIc
+
+
+
+I'm really struggling with this one and I am constantly having errors. How should I approach this? 
+
+
+
+
+ Using the longnail usually avoids this because if they have sheilds while they die they seem to never do it. (longnail avoids sheilds) 
+
+
+
+
+ "thank you it was cold on the floor" 
+
+
+
+
+ looks like a backpack strap fastener 
+
+
+
+
+ Shit! it's 4:05 I'm gonna be late! 
+
+
+
+
+ Darksouls PVP is good if you're into that 
+
+
+
+
+ I used 2 layers. I put my wallpaper underneath and the space on top then wrote text over it. I merged the text with the space wallpaper then selected it and delete it to expose the  alt-j wallpaper underneath.
+ 
+
+
+
+
+ sorry life's been crazy and I could never get around to it. [here it is.](http://imgur.com/DDlGnqZ) if its not right say so I don't mind fixing it 
+
+
+
+
+          better shut up        
+
+
+
+
+ Now I can't go back and get the ones I wanted because of this BS. We should start a petition for them make them spawn. 
+
+
+
+
+ Still want it 
+
+
+
+
+ I know it's usually lvl 48 but I have heard of lvl 50 versions out there
+
+this is me http://steamcommunity.com/profiles/76561198032854822 
+
+
+
+
+ Of course! I'm at work but how would you like it to look? 
+
+
+
+
+
+
+
+
+
+ Magic mirror from shrek 
+
+
+
+
+ Male orgasm = HHHNNNNNGGGGG! ahhhhhhhh...... 
+
+
+
+
+ rat/boston terrier?
+ 
+
+
+
+
+
+
+
+
+
+ mice neme 
+
+
+
+
+ That my problem, she has been the only girl I've had eyes for. 
+
+
+
+
+ Try r/indiegames maybe 
+
+
+
+
+ damn I'll miss her but it was mutual and on pretty good terms.
+It needed to happen. 
+
+
+
+
+ Can we please stop with the, "Can we please stop with the, "can we please stop with" posts?" 
+
+
+
+
+ [I made you one, but only because you've got a nice booty](http://imgur.com/iuxAeBl) 
+
+
+
+
+ Well your comment is here now so I guess you could go to your reddit profile. Or use the save feature on reddit. 
+
+
+
+
+
+
+
+
+
+ It's all John Ames on the boarder. I'm actually friends with david coon's daughter we were in our local schools drama club together. I think right now they're abundant because he lives in Fredericton. 
+
+
+
+
+ Nah this is just the icloud leaking 
+
+
+
+
+ Building one yourself would give you the best performance and price
+ 
+
+
+
+
+
+
+
+
+
+ **NOICE** 
+
+
+
+
+ until you do something incorrect then they glare at you 
+
+
+
+
+ I'm all for fallout tattoos, BUT WHY THE FUCK WOULD YOU GET THAT TATTOOED ON YOURSELF?!  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (   ) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nice! 
+
+
+
+
+
+
+
+
+
+ alright! 
+
+
+
+
+ Its supposed to be hard to read they stylize lots of their art like that
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ try nail polish remover on a cotton swab it may remove the paint 
+
+
+
+
+ There's a a sub for it and everything. It's pretty mesmerizing. 
+
+
+
+
+ Put in as an edit 
+
+
+
+
+ I'm looking for a upgrade for my graphics card and I was wondering which one I should get that would preform well along side my processor with out being too much or too little. My processor is a AMD FX-6300 Six-Core Processor 3.50 GHz and My current card is a GTX 650.
+
+edit: Budget $300
+       PSU 600w 
+
+
+
+
+ [Here you go baby cakes](http://imgur.com/sW32Vju) 
+
+
+
+
+ Canadian servers... 
+
+
+
+
+
+
+
+
+
+ You realize they still use calculators........ right? 
+
+
+
+
+ well I assure you there is more than 1 black thing so you need to be more specific 
+
+
+
+
+ [Dog Whelk Egg?](http://cache2.artprintimages.com/lrg/29/2909/M2OPD00Z.jpg) 
+
+
+
+
+ Yes dude it happened, calm down 
+
+
+
+
+ On the bright-side I don't see Nether there 
+
+
+
+
+ holy night....... 
+
+
+
+
+ happiness :( 
+
+
+
+
+ thak stoolboy 
+
+
+
+
+ k 
+
+
+
+
+ I AM REAL MODERATOR.
+ARE YOU REAL CHOOSE FLAIR? 
+
+
+
+
+ could just be a [Yellow Baby Tomato](https://www.google.ca/search?q=yellow+baby+tomatoes rlz=1C1CHMO_enCA576CA576 espv=2 tbm=isch tbo=u source=univ sa=X ei=XYPWU6_BJoKXyATckYKQAQ ved=0CBsQsAQ biw=1920 bih=912) 
+
+
+
+
+ #####*k* 
+
+
+
+
+
+
+
+
+
+ I know for a fact that it's possible to have a dual purpose one
+
+source: mine is (   ) 
+
+
+
+
+ Yes! a boston -peekapoo 
+
+
+
+
+ ####*ALRIGHT* 
+
+
+
+
+ That is the Bay of Fundy in New Brunswick 
+
+
+
+
+
+
+
+
+
+ But in all seriousness PC gaming is a very intelligent turn is your console dies on you 
+
+
+
+
+ I'm in tim's right now reading this. This good damned oreo ice cap is so good 
+
+
+
+
+ Yeah, but on the bright side you found a $99 dollar piece of equipment 
+
+
+
+
+ guess the magnet's not too good if you found it in the street 
+
+
+
+
+
+
+
+
+
+ #####*WHAT GOOD MEME-ING LOLOLOL* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [*69* **-Short People**](//#derpbraff) 
+
+
+
+
+ #####*THIS IS WHAT MAKES REDDIT GOOD* 
+
+
+
+
+ ##*SMAPLE TEXT* 
+
+
+
+
+ Maybe of of an old [chest?](http://www.franceera.com/Franceera_photos/Antique-French_Louis_Xv_Chest_of_Drawer_815_g.jpg) 
+
+
+
+
+ [*weed?* **yes.**](//#couragewolf-comicsans!-green) 
+
+
+
+
+ If you're in St. Stephen there's the chocolate museum. 
+
+
+
+
+ Praise be to GabeN! 
+
+
+
+
+ thak 
+
+
+
+
+ Somebody needs to go to some garage sales... 
+
+
+
+
+ thank mr skeltal 
+
+
+
+
+ I'd like to win this for my dad who has put in more hours than anyone I know into skyrim, sadly he's done it on an old PS3 and I know he would love to be able to have a nice pc (his is still win xp) 
+
+
+
+
+
+
+
+
+
+ [Sorry people were being butts about it and down-voting you. Here's one](http://imgur.com/HTa0HEC) 
+
+
+
+
+ Par-a-diddle^Par-a-diddle^Par-a-diddle^Par-a-diddle 
+
+
+
+
+ [reminds me of this](http://i.imgur.com/zpQSAev.png) 
+
+
+
+
+ You should put that as edit #3 
+
+
+
+
+ Later. 
+
+
+
+
+ coffee 
+
+
+
+
+ Then use the ring of binding, or help another player fight a boss (that will make you human and give you a lot of souls) 
+
+
+
+
+ this is beautiful, this belongs in a museum or some public place  
+
+
+
+
+ Classic Troven! 
+
+
+
+
+ god damn it, I wanna scream 
+
+
+
+
+ [*cough](http://www.amazon.com/GC-Controller-Adapter-PC/dp/B0089NVTDM) 
+
+
+
+
+ money holder possibly? or just papers in general? 
+
+
+
+

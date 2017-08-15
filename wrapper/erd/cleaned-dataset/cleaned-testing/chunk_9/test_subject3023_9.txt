@@ -1,0 +1,164 @@
+ k 
+
+
+
+
+ Oh wow, I haven't played with that mod in so long, I completely forgot that you could get it from sources other than ore xD 
+
+
+
+
+ Well, since things like the furnace result in you getting the same EMC out that you got in (ex cobblestone goes in with an EMC of one, comes out as stone with an EMC of one), I'd make them relatively the same as the beginning ones.
+
+* Manasteel: 256
+* Mana Pearl: 1024
+* Mana Diamond: 8192
+* Elementium (which iirc is two manasteel - one elementium): 512
+* Terrasteel: 9472
+* The gaia drop thingy name: 1024
+* Gaia Spirit Ingot: 13568 
+
+
+
+
+ * Marble: 1
+* Limestone: 1
+* Andesite: 1
+* Diorite: 1
+* Granite: 1
+* Prismarine: 1
+* Basalt: 1
+* Teslatite: 32
+* Nikolite (does this still exist?): 32
+* Copper: 128
+* Tin: 128
+* Aluminium: 128
+* Zinc: 128
+* Certus Quartz: 256
+* Osmium: 1024
+* Ferrous (Nickel): 1024
+* Lead: 1024
+* Silver: 1024
+* Charged Certus Quartz: 2048
+* Tungsten: 8192
+* Shiny (Platinum): 8192
+
+Manasteel, Elementium, and Terrasteel shouldn't have an EMC value, as I'd imagine it's something /u/vazkii would be against 
+
+
+
+
+ The point of the mod-of-the-month pack is to build a pack around one specific mod. If you're expecting another kitchen sink, you're in for a shock :P 
+
+
+
+
+ I'm pretty sure it'd be hard to base a pack around Decocraft haha :P 
+
+
+
+
+ I'm perfectly cool with it - I try to help people understand configs and scripts and such. All of the Phoenix Team packs have their configs available on github for anyone to use them, just for the purpose of helping people learn. So long as they aren't copying an entire pack, I'd be happy to let people use my configs as their own. 
+
+
+
+
+ :) 
+
+
+
+
+
+
+
+
+
+ No idea what happened there, but you appear to have spawned above the bedrock of the Erebus. Kind of like how you can get above the bedrock in the Nether. I recommend just going into creative and breaking some of the bedrock so you can get down there. 
+
+
+
+
+ We actually have a person dedicated to changelogs - that'd be /u/VikeStep. Normally we get the packs to him earlier, but he's a little busy with education things right now, so the changelogs will be a little late. 
+
+
+
+
+
+
+
+
+
+ Neat 
+
+
+
+
+ The old one should work fine with the new system 
+
+
+
+
+
+
+
+
+
+ http://paste.feed-the-beast.com/view/433593b0 
+
+
+
+
+ \_()_/ 
+
+
+
+
+ Oh, you can certainly make it a mother lode. Make sure it's large vein size. That allows you to set it to as high of a vein size as you want. I've got motherlodes with vein sizes upwards of 100. Nearly solidly fill a whole chunk of stone. 
+
+
+
+
+
+
+
+
+
+ Lookit that handsome face. 
+
+
+
+
+ It seems to really just be the first big accomplishment. I work for FTB, and I've still got the Running Red flair. 
+
+
+
+
+ My point? It's different. Surely you complained about the first pack you played that had Hunger Overhaul, or Iguana's Tweaks for Tinkers (hardcore style), or not allowing you to sleep through the night. This is a challenge just like those, it just hasn't been done before. However, apparently every other person who's played Pathfinder has felt that the inventory restrictions were unsatisfactory.
+
+And yet, over 50,000 people have played Jaded's Agrarian Skies 2. Which has the exact same inventory mod. Out of those 50,000, I've only found two that complained in the slightest about it. Yet for Pathfinder, almost everyone does. 
+
+
+
+
+ Is it just any combination of mods thrown together? Does it need to have no config changes? Would you classify [Phoenix Reborn](http://forum.feed-the-beast.com/threads/1-7-10-phoenix-reborn-tech-magic-progression-ores.59301/) as a Kitchen Sink pack, or [Dark Trilogy](http://forum.feed-the-beast.com/threads/1-7-10-the-dark-trilogy-public-beta.51854/)? Does something like [Infinitech 2](http://forum.feed-the-beast.com/threads/1-7-10-infitech-2-modpack-v2-1-8-1-gregtech-balanced-hard-mode-modpack-updated-4-2-2015.50185/) count? [Blood N Bones](http://forum.feed-the-beast.com/threads/public-pack-blood-n-bones.31815/)? 
+
+
+
+
+ https://docs.google.com/spreadsheets/d/1u78NM9SceTnTaSKMu25___zD35XCCfEtxY0hgkUlguY/pubhtml 
+
+
+
+
+ The beauty of this is that it doesn't need to rely on timers to do it - it gets activated when there is Livingrock/wood available. No errors made there, without the need for CC, OC, or SFM. 
+
+
+
+
+ Obviously for Livingwood - input logs into the system and replace the Livingrock under the Rannuncarpus with Livingwood.
+
+Bluepower could of course be replaced with Project:Red or even vanilla wiring, but who likes that. The Block Placer could be replaced with another Rannuncarpus, and the Terrain Smashers with Mana Spreaders with the Boring Lens. 
+
+
+
+

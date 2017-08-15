@@ -1,0 +1,4912 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hey guys I am glad we have set up camp in a new subreddit, but I am wondering how we can take control of the original subreddit again. If we can oust the rogue mod. I would personally volunteer to mod the astrophysics page. I just hate to see some troll take over like that.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hey I have had an idea, what if every week or every month or something we posted a city or area that we want to map and then everybody works together to map that area for the week.  We can make it fun by taking a before and after screenshot or something.  I just think it would be a fun way to make a lot of progress on specific areas to help and make the map better.  
+
+
+A lot of times there it just feels like you can map for days and days but not much progress is being made.  I think this would be a fun way to realize a lot of progress in a specific area very quickly, and help keep people enthused.
+
+
+PS: Please submit your thoughts. 
+
+
+
+
+
+
+
+
+
+ A few days ago this ask reddit post asking about divorse made it to the front page. (https://www.reddit.com/r/AskReddit/comments/2mk3kp/divorced_redditors_why_did_you_get_divorced/)
+
+
+Here Huffington Post article from 3 days ago literaly going through and copying the top comments.  At least they cited Reddit with hyper links. (http://www.huffingtonpost.com/2014/11/21/why-people-get-divorced-_n_6200210.html?utm_hp_ref=mostpopular) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have read the osm wiki on it but I still feel like it is a bit vague on when you should use one over the other.  Does anyone have an opinion on which to use, and when? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I recently decided to take the leap from the ID editor into JOSM I expected it to be a difficult transition but I didn't expect it to be almost impossible.  I have enjoyed editing in the ID editor, but it does have its moments of frustration,  it lags when you haven't saved for a while, you cant zoom out to get the big picture which can get claustrophobic and make large edits hard to impossible, and it wont load large objects completely, which can get confusing. For all of these reasons I decided it was time to try JOSM.  
+
+I expected things to be different and more complicated, but after finally booting up JOSM and trying it out I have found I have trouble even drawing a simple road, much less getting back to the power editing i am used to.  I cant figure out how to pan the the view and every time i try i just end up drawing a new way.  The list goes on. 
+
+What I have discovered is what I really want is the simplicity of the ID editor paired with the ability of JOSM to edit large areas.
+Is there anything like this out there?  
+
+I feel like i am stuck in the middle, where the ID editor is starting to feel confining and limiting, but JOSM is so complicated, that i end up spending 5 minutes just trying to trace a simple road.
+
+
+Edit: thanks for all the help the shortcuts make a huge difference, thank you for all the help guys. 
+
+
+
+
+ So i am trying to buy a motor and ESC's and it was recomended to me [here](http://www.reddit.com/r/Multicopter/comments/2le7uo/trying_to_build_quad/clu1ha0) to use a motor that has a max draw of around 6-8 amps with a 10 amp esc, you can see the links.  The problem is the ESC's are out of stock.  Is there any problem (besides extra weight) with going with a [20 Amp ESC](http://www.myrcmart.com/rcx-20a-sky-simonk-brushless-esc-for-multicopter-24s-p-8063.html) instead of the recommended [10 Amp ESC](http://www.myrcmart.com/product_info.php?products_id=6994)?
+
+
+Edit:sorry The motor is this one here http://www.myrcmart.com/zmr-1804-2400kv-micro-outrunner-brushless-motor-clockwise-p-6281.html 
+
+
+
+
+ I am trying to build a quad for as cheap as possible.  I have a 4 channel transmitter and receiver but that is it.  I am wondering what combination of ESC's, motors, and logic boards would be cheapest.  Please be specific I have flown quads and planes before but they have always been RTF or minimal assembly. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So I have been doing a lot of mapping in southern Mexico and Guatemala  There is this one spot of complete forrest, but it is gigantic.  I am wondering how to go about mapping this? one giant polygon? many small polygons?  Are there other options?  As you can see I have already drawn two relatively large polygons.  
+
+
+Forrest area I am referring to [here](http://www.openstreetmap.org/#map=13/16.1448/-91.0193).
+
+
+Ps: Also if anyone is looking for a project this area is almost completely unmapped. Would love help if anyone is interested. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ How did you deal with it?
+
+
+Did it end up breaking you up?
+
+
+What would you watch out for? 
+
+
+
+
+ For anyone else playing the Volvo Ocean Race Game do you know what the wind change scheduel is?  It seems to be every 12 hours but it seems to be slowly shifting over time. 
+
+
+
+
+
+
+
+
+
+ So we know now that comet [Siding Spring](http://en.wikipedia.org/wiki/C/2013_A1) is not going to hit Mars, just give it a close shave.  When it was first discovered though we were not sure. My question is If the comet were to impact Mars how would that affect the two rovers, [Curiosity](http://en.wikipedia.org/wiki/Curiosity_rover) and [Oportunity](http://en.wikipedia.org/wiki/Opportunity_rover), that are currently on mars? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I just finally updated to .24, and while the new boosters are really cool, they seem like they are just a bit too powerful for the game. What I mean is with my very first rocket I managed to build a single stage to orbit. All I did was put two large fuel tanks and the super powerful quad engine on and tada I made it to orbit with fuel to spare.  That just seems too easy and defeating the purpose of the game. 
+
+
+Edit: To clarify I am talking about the new super powerful engines and super large tanks not the little white SRB's. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So I am mapping in the middle of nowhere in Chiapas Mexico and i come across this little town (http://www.openstreetmap.org/edit#map=17/16.48792/-91.30753) unlike many of the other towns that I have seen in the local area, this one seems to have a cleared out area at the center of the town which looks an awful lot like a runway.  What do you guys think?  Is it a runway?
+
+
+Edit: (http://www.openstreetmap.org/edit#map=17/16.56118/-91.36165) This is another example this one seems much more likely to be a runway but would like to know for sure before i go runway mapping crazy.
+
+
+Edit2: Now that I am getting way farther into the back country I am seeing this a lot more.  I am seeing a lot of towns that also don't seem to have any roads leading to them which would make it seem very likely that these are grass runways, which seems to be a common phenomenon in jungle villages of Central and Southern America .
+
+
+Edit:3 This is a real thing, many central american towns do not have any roads, and their main connection with the outside world is through small bush planes.
+
+
+Examples:
+
+
+*https://www.youtube.com/watch?v=pSUbcFGzc4s
+
+
+*https://www.youtube.com/watch?v=9YIzR9TisUg 
+
+
+
+
+ I have seen so many posts where the two different posts are linked to the same content, but one has made the front page while the other has 3 votes.  How is it that links to the same thing can have such different results?
+
+Edit: Example the first two went big
+*http://www.reddit.com/r/technology/comments/2i0gyu/what_its_like_to_fly_ultrafirst_class/
+*http://www.reddit.com/r/travel/comments/2hw3x7/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/POLITIC/comments/2i1qrv/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/news/comments/2i1qpb/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/Luxury/comments/2i145p/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/ifiwonthelottery/comments/2i0f44/iiwtl_id_fly_in_the_23000_singapore_airlines/
+*http://www.reddit.com/r/aviation/comments/2hz7gd/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/Photoessay/comments/2hyor4/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/TravelPorn/comments/2hyoqs/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/truetravel/comments/2hyk6o/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/woahdude/comments/2hyar1/what_a_23000_one_way_flight_will_get_you/
+*http://www.reddit.com/r/RedditForGrownups/comments/2hxwef/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/NotYourMothersReddit/comments/2hxgol/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/NotYourMothersReddit/comments/2hxgol/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/pics/comments/2hx5wq/higher_than_first_class_23000_singapore_airliens/
+*http://www.reddit.com/r/aviation/comments/2hx3yk/what_its_like_to_fly_the_23000_singapore_airlines/
+*http://www.reddit.com/r/Damnthatsinteresting/comments/2hw8oh/what_its_like_to_fly_on_the_most_expensive_class/
+*http://www.reddit.com/r/singapore/comments/2huw34/what_its_like_to_fly_the_23000_singapore_airlines/ 
+
+
+
+
+ If you zoom you can see that the whole state of Georgia has been mapped with forrest and farms where the surrounding states are the normal blank color.  http://www.openstreetmap.org/#map=8/33.103/-83.647 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have seen it come up a couple times about relations.  I have looked it up(http://wiki.openstreetmap.org/wiki/Relation:multipolygon), but it still doesn't make sense to me. 
+
+
+
+
+
+
+
+
+
+ For people that are from places with stricter islamic law how do you date?  I know some of these countries are pretty restrictive on how males and females are allowed to interact. 
+
+
+
+
+
+
+
+
+
+ I have noticed the county line in my area is drawn in the wrong location. About ten years ago the county obtained a significant amount of land moving the boundary 3-4 miles how do we get this changed?
+
+Edit:Here is the county in question http://www.openstreetmap.org/relation/2528711#map=10/35.7632/-80.7063
+Here is a link to how the county should be drawn http://www.co.iredell.nc.us/Departments/Planning/images/officialzoningmapbig.jpg
+The south western Corner is obviously different the new county line includes the end of the peninsula. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I understand that the computers in an airbus will not let the airplane preform beyond its minimums and maximums for example the computer will not let the plane stall.  I have heard that these computer imposed limits make it so that the pilot can not cross control an airbus i was wondering if this was true? 
+
+
+
+
+ I just watched a movie called The Snow walker, it was a great movie, I would definitely suggest it if you haven't seen it.  
+For those that have seen it, what did you guys think, especially about the ending?
+
+[**Warning spoilers**]
+
+I thought the ending was so sad I was wondering what the meaning of her foot steps ending, and the white owl were.  
+In my opinion I really wish that they both had made it, it was so sad when she disappeared to die, and the scene of him creating a tomb for her and him putting her things inside, was almost more sad for me than when he couldn't find her. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I have seen quite a few videos of kerbals walking around without their helmets.  How do you do this? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hello Everyone My friend who is a little person is thinking about taking flight lessons.  I was wondering how he would be able to accommodate for his short stature.  I think the main issue would be reaching the rudder pedals.  Does anybody know what is typical for something like this. 
+
+
+
+
+ Hello I am trying to decide wether to install the Ferram Aerospace Research mod and i was wondering if anybody who had done it before had any opinions what are the advantages, disadvantages, annoying things.  Right now I am running remote tech and Mech Jeb. 
+
+
+
+
+
+
+
+
+
+ Hello I am a private pilot and earned my license about 8 months ago, so I am still pretty new.  I was wondering if there were any recourses on the procedure for interacting with class B and C airspace, so I could study.  I have worked with a  control tower before but have not had the chance to go into class B or C space and wanted to study up so I don't screw it up when I do need to fly into controlled space like this. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ok so yesterday I hit a few caches and found a couple trackables.  Neither were in the inventory of the caches online.  When I went to log them it let me grab the trackable but now it will not let me drop it off it only gives me the option discovered it and write a note when i try to log it.  Anybody know whats going on? 
+
+
+
+
+ I am playing the in career mode and am currently sending some landers to Minmius to get a bunch of science.  The only problem is because Minmius has lower gravity, the thrust to weight ratios change in their SOI.  I have given them very small Engins with low TTWR but I am afraid when I get there the engine might still be too powerful (lowest power setting is still too much).  Is there any way to calculate the change without actually going to Minmius?  Basically TWR of 1 on Kerbal is equal to x TWR on Mun and x TWR on Minmius.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am in the career mode and currently have a rocket with a very low thrust to weight ratio 1.3-2.5 depending on what stage I'm on.  When this is the case is it better to fly higher than normal (normal = 10,000m) before starting my gravity turn? does it make any difference? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I just put the title from Youtube, I have since learned it was a compressor stall ... maybe.   
+
+
+
+
+ I am really looking forward to when we go a whole year without a hull loss.  It's only a matter of time. 
+
+
+
+
+ That is so cool the edge of the picture makes the sky look like a sunset, but then you realize the sun is still high in the sky.  you should post a second picture once the moon is out of the way so you get an idea of what the sky looked like once the sun was out. 
+
+
+
+
+ I think the rudder action is really cool.  As soon as the engine goes you can see the rudder inputs to keep the plane straight. 
+
+
+
+
+ The biggest problem with this is especially at higher speeds, a grate is not going to do a lot, more likely you will suck the bird and the grate through the engine.  Plus as /u/ericvas said it would be a lot of weight drag and create problems with airflow going into the engine. 
+
+
+
+
+
+
+
+
+
+ You are ignoring the fact that going west would be a huge waist of energy to get to pretty much the same place.  Plus going into a polar orbit would be a big waist of energy because you would not be able to take advantage of any of the energy you used to get to LEO because you would be making a 90 degree plane change to start your burn to Mars.  
+
+
+
+
+ This would possibly be kind of correct, if you were launching direct to Mars, but it is most likely they will launch to LEO and then to Mars.  But even direct to Mars you would still gain some energy by launching closer to the equator.   
+
+
+
+
+ I think this is because west coast launches are
+
+1. At a higher latitude than the east coach making the launches less efficient (You need a bigger rocket to get the same mass to the same place.).
+2. Need to depart over the pacific ocean for range safety which is perfect for polar launches, but not so great for anything trying to go into LEO, or LEO transfer to Mars because now you are overflying land and people.  
+
+idk these are my best guesses why the west coast tends to be less popular.  Anybody knows more please tell me. 
+
+
+
+
+ I am not sure how to feel about this. I could go either way. 
+
+
+
+
+ Who are they? 
+
+
+
+
+ That's a little weird.  
+
+
+
+
+ Yea i can understand i always thought that rule was about keeping people from asking the same question 50 times not about limiting the amount of articles.  I feel like a lot of times articles from more than one source can be a good thing. 
+
+
+
+
+ yea sorry about that 
+
+
+
+
+ I didn't see any other posts about the rescheduling until after I posted, and whats the big deal, its an interesting article god forbid we have two articles about the same topic. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Any idea why they put the helicopter up on the bow like that?  It seems like a bad spot to put something it is just going to get pummeled. 
+
+
+
+
+ Wait so you were on this ship during that storm? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The plane in this video is just getting bathed in sea water, how do they keep it from totally ruining the airplane?
+
+https://www.youtube.com/watch?v=OalYOmBvgpk 
+
+
+
+
+ The doors were locked.  People don't realize the doors back then were not the thick impenetrable things we have today, in fact back then the doors were frequently made so that they could be kicked in incase there was an emergency and the pilots needed to escape or be saved, but the door would not open. 
+
+
+
+
+ And I am not laughing anymore. Really sad to hear about that man. 
+
+
+
+
+ ohh i wasn't around back then I am only a 2 year old account, and i didn't join these subreddits until later.  Either way i feel like this is genuine, and its nice to see the old subreddit going back to the good old way it used to be. 
+
+
+
+
+ But the problem with this logic is it assumes people who vote know the issues and people who don't don't.  Right now there are plenty of people that vote that have no idea about any of the issues they just vote because the heard a comercial, or thats what the party is said to do.  You cant pick and choose who votes, and in my opinion I think requiring you to vote might influence some of those less informed people to actually pay attention and understand the issues a little better. 
+
+
+
+
+ I think the big thing here i when teaching students they need to start off learning how to use the less intuitive instruments like the VOR just as with most things in flying it is important not to get overly dependent on one thing.  The problem with the GPS is it is so easy especially for beginners to become over reliant on what the GPS says.  If the GPS were to cut out they would be completely lost.  That is why it is important to not over rely on the GPS, not because it is not a good and effective tool, but because it can make you a worse pilot in terms of ability if you let it. 
+
+
+
+
+ Very Cool 
+
+
+
+
+ I was just saying the truth.  I didn't like the pink just like most of the old community.  I like this subreddit, and its nice that it looks like its supposed to again.  I don't think anything I have been saying has been hateful or slanderous towards the subreddit or you.  I have just been saying the truth.
+
+Read the context of the posts I have made and I think you will see that most cases I have even defended your recent actions putting the subreddit back the way it was.  
+
+I am sorry if there was any confusion.  Sometimes words can sound different when you are writing them than when someone else reads them. 
+
+
+
+
+ I feel like this article is a little bit sensationalist.  Is the dawrf galaxy really made of dark matter?  it seems more likely that this galaxy just has significantly more mass than expected so we think it probably has some sort of dark matter. 
+
+
+
+
+ Yea I agree he's a real person.  I talked to him a couple times and it seems like his main reasons behind the trolling was just boredom and apathy.  He says he didn't even make the changes, univerneema did.  He just didn't bother taking them down or getting rid of them.  
+
+I think the trolling was probably fun for a while, but now he is just trying to make things right.  I guess we will see. 
+
+
+
+
+ They apologized before? 
+
+
+
+
+ it wasn't inactive before all the pink crap happened, we were getting about 2 posts a week.  It was a pleasant discussion subreddit.  I hope it gets back the way it was. 
+
+
+
+
+ Well at least i can look at the screen now without my eyes hurting. 
+
+
+
+
+ yea i agree if you want to be serious, its time to un-ban everyone. 
+
+
+
+
+ Yea, they could still store some fuel on the barge to refuel the helicopters out at sea, it is just working out he logistics of what needs to be on the platform when. 
+
+
+
+
+ There seems to be some discussion saying they need two helicopters, could they not catch both fairings using the same helicopter?  Catch the first one, and then chase after the second one and catch it? 
+
+
+
+
+ If only there was some large platform that had space for a helicopter or two to land.  If only they could land they could transport the helicopters downrange on this platform, and then when launch is imminent take off catch the fairings and fly back to land leaving this large platform available for some other sort of landing event.  If only.  
+
+LOL
+ 
+
+
+
+
+ Also hourly wage after taxes can change depending on how much you make.  You can receive no taxes, or you can get into higher tax brackets, it all depends on the amount you made at the end of the year. 
+
+
+
+
+ It seems like some of these people knew what they were looking for, is it possible that some people are geocaching, and trashing the cache when they get there? 
+
+
+
+
+ Thats hilarious somebody has to post a picture of that green dragon. 
+
+
+
+
+ True but you can have the CG too far forward. The only way to fix it is to put more weight in the back further adding weight to the plane.  
+
+
+
+
+ And it would significantly move the center of gravity forward. 
+
+
+
+
+ Do you know how much 12 inches of metal would weigh.  That would be crazy heavy.  Like over 1000 lb 
+
+
+
+
+ lol 
+
+
+
+
+ It is not necessarily the people fault for believing it.  Most people are not that into space stuff, and would not be able to tell the difference between a legitimate organization like NASA and a bogus one like Mars One.  It is really the media's fault.  It would have taken 20 minutes of research to figure out Mars One was sketchy at best and more likely a scam.  But as usual these days.  it seems like the media did zero research before publishing exactly what Mars One told them.  And they wonder why people are not bothering to watch anymore. 
+
+
+
+
+ Yea my bad, I was having a hard time figuring out if it was a cost per unit or a cost for both.  That was so cool when they launched two rovers back to back. 
+
+
+
+
+ Yea and the sad part is the only reason this would happen is because the media has done such a crappy job doing any investigation into the claims Mars One is making.  
+
+Mars One = We will have colonists on mars in 10 years.  No real explanation how.
+
+SpaceX = We are currently working on developing cheaper reusable rocket technology, as well as a larger more capable rocket that will be able to go to mars.  If everything keeps going well we will be looking at developing a more firm Mars plan in a few years.
+
+Huge difference, although the media wont really care. 
+
+
+
+
+ Yea i do like the discussions that get going in the tweets but sometimes I wish that there was more meat to the original post than just the headline. 
+
+
+
+
+ I saw someone complain on the last thread about how we keep linking to tweets instead of actual news articles.
+
+http://www.reddit.com/r/spacex/comments/2z9spn/higherpower_f9_variant_to_debut_this_year_wont/cphb85n
+
+So I went over to Spacenews.com and saw they had a news article.  I thought I would post the news article instead of just a tweet. 
+
+
+
+
+ Wow that is awesome, trains are so cool. 
+
+
+
+
+
+
+
+
+
+ Have you ever seen/been on a working steam engine, or is it just Diesel?  Also what are some innovations happening in the train world?  I have heard of things like Hybrid electric diesel engines (although I think those are already a thing).  Are there any big things coming up in the train world? 
+
+
+
+
+ Thats awesome.  Just wanted to say that I loved trains when I was little, I wanted to be an Engineer.  Ironically from your post now I am working to become a pilot. lol  I still love trains, I think they are so cool, I wish we would use them more for passenger transport and not just cargo but we are getting there.  
+
+
+
+
+ I doubt it the upgraded core is not going on Turk.  In fact at this stage Turk should be getting ready to be mounted and rolled out, they only have less than a week before scheduled launch. 
+
+
+
+
+ I know what you mean, but I don't know if anyone is going to write a news article about engine upgrades.  Its kind of like breaking news, and then a couple days later you get a well thought out article about it from spacenews.com its give and take, and I don't mind because the comments are usually pretty interesting. 
+
+
+
+
+ I think the whole trick with the BFR is the reusability aspect.  I think SpaceX is planning on having reusability completely worked out before they go to the BFR specifically because they can afford to be throwing away a rocket that expensive. 
+
+
+
+
+ What is a common misconception people have about engineers? 
+
+
+
+
+ Yea I almost felt bad for the people.  There was one girl from the US that was actually making plans with her husband about what they would do when she had to leave for Mars.  I just felt embarrassed for her.  I was just so obvious that none of it was going to happen, and by some act of god if it did, she would be amazingly unprepared, and in the hands of completely incompetent Mars One. 
+
+
+
+
+ That is a great quote because it is so true of Microsoft.  Although i think now Microsoft is having trouble capitalizing on new trends, like smartphones, and tablets.  Unless they figure something out, I see them going the way of BlackBerry in the next 20 years.  It will take a lot longer though because Microsoft is so ingrained into the market compared to BlackBerry. 
+
+
+
+
+ Well actually the rockets are a little bit of the problem, because right now they are too expensive for it to be practical to send people there and support them. 
+
+
+
+
+ hahahaha  
+
+
+
+
+ Where did you get that quote?  If that is true, that is epic. 
+
+
+
+
+ Ohh yea Microsoft has never really innovated, but what I was trying to say is microsoft took advantage of the market and widely distributed the personal computer across the market.  Ask and you will find the majority of peoples first computer was a Microsoft. 
+
+
+
+
+ Thanks I am quite comfortable with both JOSM and ID.  I doubt I'll have time this week, but hopefully I can contribute something. 
+
+
+
+
+ It is sad how true this is the media just wants to build this up so when it inevitably falls on its face they can get even more traffic.
+
+Notice how often the media does this, the will build something or someone up, and then wait for them to implode, and tear them apart. 
+
+
+
+
+ the sad part is it hasn't been obvious to a lot of people, including the media in the USA who has done zero critical thinking about anything Mars One says. 
+
+
+
+
+ So what exactly do we do, and how should we get started? 
+
+
+
+
+ Yea thats how I feel, it is so refreshing to see the progress being made, and after years of getting used to the leisurely to snail pase of NASA's R D, it is amazing and almost takes your breath away to see how fast SpaceX is developing new technology.  
+
+Don't get me wrong, I love NASA, they are doing a lot of cool stuff, like [STEREO A and B](https://en.wikipedia.org/wiki/STEREO) (Where all our cool sun pictures come from), [Opportunity Rover](https://en.wikipedia.org/wiki/Opportunity_\(rover\)), [Curiosity Rover](https://en.wikipedia.org/wiki/Curiosity_\(rover\)), [Dawn Ceres mission](https://en.wikipedia.org/wiki/Dawn_\(spacecraft\)), [Messenger Mercury mission](https://en.wikipedia.org/wiki/MESSENGER), [Cassini Saturn Mission](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens), [Juno Jupiter Mission](https://en.wikipedia.org/wiki/Juno_\(spacecraft\)), and the big one coming up in only a couple months, [New Horizons Pluto](https://en.wikipedia.org/wiki/New_Horizons)!!! :D  and those are just the main active missions, there are tons that have come and gone in the last 5 years.   
+
+But I feel like as of late they have been progressively been getting more and more starved for cash, and politics has been really affecting their ability to get things accomplished.  I hope that SpaceX pushing the limits will indirectly help NASA get out of the funk its in. 
+
+
+
+
+ What do you mean?  I feel like bill gates made some huge revolutions in the technology market.  I feel like microsoft even though it is kind of clunky was the bridge between computers in the early 90's and the computer we have today.
+
+Computers early 90s = No internet doesn't do much.
+
+Computers today = internet, google earth, tablet computers, smartphones, indirectly the Ipod, and basically every other personal electronic.
+
+Plus in the 90's computers were not that common and internet looked like a middle schooler made all the web pages.  Today virtually every household has a computer, and the internet is the place it is today.
+
+I would say he had a huge impact.
+
+ 
+
+
+
+
+ Yea I understand what you mean about it not quite being realistic but it had an accomplishable objective and it did it.  Mars One was just ridiculous. 
+
+
+
+
+ Yea Mars 500 was just a case study of how people would handle the isolation and having to live with others for 500 days.  Mars One was actually saying they were going to set up a full out colony in 10 years.  Pretty rediculous 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hello I came across [this 1973 Beetle](http://auto.mercadolibre.com.ec/MEC-406684146-volkswagen-escarabajo-1973-_JM) here in Ecuador.  I have been tossing around the idea of buying the car and driving it back to the USA as an awesome road trip, and also because it seems like a great deal.  
+
+I am wondering what I am going to have to do to legally buy this car in Ecuador so that I can drive it on this road trip?  I am an American on a student visa if that affects anything.
+
+I also found an excellent website detailing the logistics of the road trip part of the journey. http://wikioverland.org/Pan_American_Highway
+
+Edit: I posted this over at /r/beetle here is the link to my other post http://www.reddit.com/r/beetle/comments/2y9zvb/interested_in_driving_beetle_from_ecuador_to_usa/ 
+
+
+
+
+ Hello I came across [this 1973 Beetle](http://auto.mercadolibre.com.ec/MEC-406684146-volkswagen-escarabajo-1973-_JM) here in Ecuador.  I have been tossing around the idea of buying the car and driving it back to the USA as an awesome road trip, and also because it seems like a great deal.  
+
+I wanted to know if anyone has any experience "importing" a classic beetle like this what kind of paper work will be necessary at the border?  Are there any issues I might not anticipate?  
+
+I am mostly concerned with the logistic issues of getting it into the US and having it be street legal.  
+
+Edit: Found an excellent website detailing the logistics of the road trip part of the journey. http://wikioverland.org/Pan_American_Highway
+
+Edit2: I posted this over at /r/ecuador here is a link to the article over there.  http://www.reddit.com/r/ecuador/comments/2yamiv/comprando_un_coche_en_ecuador/ 
+
+
+
+
+ Que pasaste al nombre del subreddit? y porque /r/puebla esta privada? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ http://i.imgur.com/3YbWIb4.png
+
+Follow up are they dangerous to fly through/near? 
+
+
+
+
+ Hey I am looking for this Bike https://m.youtube.com/watch?v=OjIhM-iuXTI 
+
+Its pretty old 1976 I am just trying to see if anyone knows about it or has one.  
+
+
+
+
+
+
+
+
+
+ https://www.youtube.com/watch?v=rfoxjNg-eg0
+
+They are getting this model glider up to some pretty ridiculous speeds, how are they doing it?  and what kind of maneuver are they flying?  its just hard to understand where the energy is coming from to accelerate the plane like this.  I understand it has to do with the way the wind is hitting the ridge, but i don't get what it is that is actually happening. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hello I was commenting on a thread over in /r/Multicopter  and a dispute began about whether you are allowed to take aeriel pictures and sell them with a PPL.  I wanted to find a third party to decide who is right.  Here is a link to the thread.  
+http://www.reddit.com/r/Multicopter/comments/2uykpp/fly_commercially_legal_with_this_multirotor_tether/cod7e07
+
+/u/terrymr brings up some good points, and I was wondering what people here thought?  I was not aware of the FAA ruling mentioned in the last post.
+
+Please help resolve this dispute.
+
+
+Edit: I fixed Aerial /u/deadlyfalcon89.  Thanks for pointing out my atrocious spelling skills.  To bad I can't fix the title [\(facepalm\)](http://i1.kym-cdn.com/photos/images/original/000/001/582/picard-facepalm.jpg).
+ 
+
+
+
+
+ I have been working on space planes lately, and i want to make a high capacity one, but i find every time i try to build the wing sections the game acts like i have a bunch of little wings real close together instead of one giant solid wing.  basically in the hanger it looks like a big solid wing, but when i go to fly one part of the wing will flex independently of another.  How do you get the game to recognize that all the wing panels are connected? 
+
+
+
+
+
+
+
+
+
+ I have found a joystick, the Genius Maxfighter f-31u Vibration. But before I buy it I want to know if it will work with Mac? does anyone have experience with Genius joysticks? I have been looking online for drivers, but the only ones I can find are for PC. I am planning on using it to play Xplane10. Does anyone have any experience or suggestions? 
+
+
+
+
+ I have found a joystick, the Genius Maxfighter f-31u Vibration. But before I buy it I want to know if it will work with Mac? does anyone have experience with Genius joysticks? I have been looking online for drivers, but the only ones I can find are for PC. I am planning on using it to play Xplane10. Does anyone have any experience or suggestions? 
+
+
+
+
+ I have found a joystick, the Genius Maxfighter f-31u Vibration. But before I buy it I want to know if it will work with Mac? does anyone have experience with Genius joysticks? I have been looking online for drivers, but the only ones I can find are for PC. I am planning on using it to play Xplane10.  Does anyone have any experience or suggestions? 
+
+
+
+
+ Sorry to be spamming the subreddit, but i have an update from my last question.  Amazingly I have found a joystick, the Genius Maxfighter f-31u Vibration.  But before I buy it I want to know if it will work with Mac?  does anyone have experience with Genius joysticks?  I have been looking online for drivers, but the only ones I can find are for PC.  Any suggestion?
+ 
+
+
+
+
+ Hello I have gotten xplane10, but unfortunetally where i am right now there are zero joysticks available.  I am wondering if anyone has experience using a ps3 controller or other normal videogame controller on xplane10.  I am on a mac, fully updated to yosemite,  and have access to many different types of gaming controlers, just not a joystick.  Any tips or experience is much apreciated,  I would like to start flying, but that is impossible until i fins some sort of controller.  and dont want to go out just willy nilly buying controllers. 
+
+
+
+
+ From the point of view of one of the objects, what would the other object look like when you pass it?  Each object is moving at 99% the speed of light, How would the blue shift and then redshift appear to the observer?  What Else Would happen?  
+
+
+For fun what would happen if the two objects (lets say they are sun sized stars) were to hit directly head on during this encounter?  
+
+Even more fun other celestial objects, like neutron stars, or planets? 
+
+
+
+
+
+
+
+
+
+ When You pull out onto the runway and the pilot gives the engines take off power they make a very specific sound which I can only describe as the sound of a sports car or something. What causes the engines to make this noise?
+
+
+http://youtu.be/AYnGQZplJEw?t=30s
+
+
+I linked to a video of the sound. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So I enjoy reading, and I enjoy airplanes, I am reading "Fate is the Hunter" by Ernest Kellogg Gann.  It is a great book for anyone who hasn't read it.  I was wondering if anybody has found some other books that are interesting and about flying like Fate is the Hunter is?
+
+Edit: http://en.wikipedia.org/wiki/Fate_Is_the_Hunter
+
+Edit2: http://www.amazon.com/FATE-THE-HUNTER-Ernest-Gann/dp/0671636030 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Elon Musk made a bet to get to mars http://spacexstats.com/#9  do you guys think he will make it to mars to win the bet?
+
+Edit:In April 2009, Michael S. Malone revealed, while interviewing Elon Musk, that the two had a bet that SpaceX would put a man on Mars by "2020 or 2025". Musk has continued to reiterate this rough timeframe since. No pressure, Elon 
+
+
+
+
+ Is it just me or does it seem like a lot of crimes in the USA that are not that serious require jailtime.  In light of the recent TIl about fathers not paying child suppor tgoing to jail, and the news about getting jail time for not being able to pay court fees, it is starting to seem like you can get sent to jail for some non violent crimes that really dont seem jail worthy.  Why does the USA send so many people to jail? 
+
+
+
+
+ So I saw some stuff on the internet about electric airplanes, and i wanted to see what you guys thought.  It seems like they could be quite promissing if the price of batteries were to come down and range extended slightly.  what are your guyses thoughts?
+
+http://evworld.com/news.cfm?newsid=28964
+
+Here is an article about an electric Cessna, does anyone know what happened to it?  Are they still developing it? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I think the point of the documentary was not to come out with any crazy new revelations about Scientology, but to bring the information to the masses.  
+
+Before the movie I knew scientology was weird, and they harassed their former members and stuff, but i did not realize how messed up it really was.  Extorting people of money, keeping people confined through mental abuse.  I think there are many people like me that sort of knew a little bit about Scientology and that it was weird, but didn't really know about the really truly crazy stuff it has done.
+
+ 
+
+
+
+
+ I imagine this would make getting to the ISS a lot easier considering Tony's suit seems to have an unlimited amount of DeltaV, and pressure capability.
+
+That would actually be an awesome movie Iron Man in space. 
+
+
+
+
+ the issue is not equalizing pressure, this would only take a minute or two.  The issue is making sure they have a good seal. 
+
+
+
+
+ There is plenty of propellant on the Soyuze to facilitate multiple deckings.  Propellant would not be a limiting factor. 
+
+
+
+
+ Thats what I was going to say as well, I believe that the hollow point of the bullet is creating the super cavitation reducing drag on the bullet and letting it maintain enough speed to penetrate the second jug of water.  It would be interesting if he used a hollow point rifle round to see what it would do. 
+
+
+
+
+ Me too, I thought it was so cool that he got to vote. 
+
+
+
+
+ I just watched going clear this video on top of it just makes it that much more creepy and scary.  Started off today thinking scientology was some weird cult that harassed people who quit.  Ended thinking "Damn Scientology you really scary." 
+
+
+
+
+ Dude get your facts strait.  Your quote is completely out of context.
+
+When you actually read what he was saying you realize it is not that ridiculous.
+
+It is time to leave the call of violence and the politics of division behind. On so many issues, we face a choice between the promise of the future, or the prisons of the past. And we cannot afford to get it wrong. We must seize this moment. And America stands ready to work with all who are willing to embrace a better future. 
+
+The future must not belong to those who target Coptic Christians in Egypt  it must be claimed by those in Tahrir Square who chanted, "Muslims, Christians, we are one." The future must not belong to those who bully women  it must be shaped by girls who go to school, and those who stand for a world where our daughters can live their dreams just like our sons. 
+
+The future must not belong to those corrupt few who steal a country's resources  it must be won by the students and entrepreneurs, the workers and business owners who seek a broader prosperity for all people. Those are the women and men that America stands with; theirs is the vision we will support. 
+
+**The future must not belong to those who slander the prophet of Islam. But to be credible, those who condemn that slander must also condemn the hate we see in the images of Jesus Christ that are desecrated, or churches that are destroyed, or the Holocaust that is denied.** 
+
+Let us condemn incitement against Sufi Muslims and Shiite pilgrims. It's time to heed the words of Gandhi: "Intolerance is itself a form of violence and an obstacle to the growth of a true democratic spirit." Together, we must work towards a world where we are strengthened by our differences, and not defined by them. That is what America embodies, that's the vision we will support.
+
+The rest of the speech is here (https://www.whitehouse.gov/the-press-office/2012/09/25/remarks-president-un-general-assembly)
+
+And a video of the part of the speech you are referring to (https://www.youtube.com/watch?v=T6uZFSj_ueM)
+
+Before you go shouting out these quotes, you should look and see where they come from and see what they actually mean in the context that they were spoken. 
+
+
+
+
+ What does Muslim sympathizer mean?  Are there such thing as Christian sympathizers, Jewish sympathizers or Hindu sympathizers? 
+
+
+
+
+ Obama is christian dude.  This is the same thing as people thinking he was born in Kenya. 
+
+Ted Cruze was born in Canada yet nobody seems to care because his a natural citizen due to his mom being from the US.  Well even if Obama wasn't born in the US(which he was) he is still a natural citizen due to his mom being a US Citizen. 
+
+
+
+
+ You cant claim that every news site but Fox has agenda.  The important thing is to question what you are seeing.  cross check what you see on one site against others, did what they said hold water?  Politifact might have a slant but that does not mean what they are saying is not true, just like Fox has a slant, but that does not mean what they are saying is not also true.  
+
+Also it concerns me just as much when MSNBC tells half truths or blatant lies, as when Fox does it.
+
+Edit: I just wanted to say I don't watch MSBC I get tired of feeling like I am being lied to, even if I do agree with what they are saying. 
+
+
+
+
+ I can't tell if this is sarcastic or not. 
+
+
+
+
+ I would guess that it would be handled similarly to refusing to pay your taxes, or refusing to pay a ticket. 
+
+
+
+
+ This was my thoughts put a nosecone in there to protect the interstage. 
+
+
+
+
+ Why not just stick a nosecone over the interstage like the side boosters for falcon heavy?  Then the 1st stage stays aerodynamic after separation.  
+
+
+
+
+ I don't think it would take that much effort to design a nosecone to go over the interstage, and fit in the trunk of dragon 
+
+
+
+
+ I want my flair 
+
+
+
+
+ I understand your opinion, but you should try to phrase it better in order to contribute to the discussion.  Calling people parasitic and clueless just makes you sound like a jerk, maybe say uninformed voters who support more public spending.  It will go a long way to making your opinion herd and more convincing. 
+
+
+
+
+ This assumes that the people who vote now are informed.  There a bunch of people that vote right now that have no understanding of the issues, and only vote one way or another because of an add they saw or the way the party has told them to vote. 
+
+
+
+
+ There is also early voting.
+
+Also on another point, I do not understand why early voting is not available on weekends, it seems silly. 
+
+
+
+
+ In US only about [50% of people vote](https://en.wikipedia.org/wiki/Voter_turnout_in_the_United_States_presidential_elections) in presidential elections, and for midterms(the elections in-between presidential elections) that numeber is [more like 30-40%](http://time.com/3576090/midterm-elections-turnout-world-war-two/).  So it is a big problem here.
+
+As for taxes you have a fair point and I agree with you, taxes are necessary, but in the US a lot of people see forcing people to pay taxes as against their rights.  
+
+As for Jury Duty, this is actually very interesting to me, how does Sweden get people to come to jury duty if it is not mandatory?
+
+And to address the police question, as I said in the post you would receive a fine, police would not arrest people for not voting.
+
+ 
+
+
+
+
+ We enforce plenty of things right now that many would consider worse than voting.  Jury duty and taxes just to name two, so it is not unprecedented to require voting.  
+
+
+
+
+ Like I said it is not that it is not possible, but it is much more work for a poor person than a rich person. A rich person does not have to wait 6 months in order to go get an ID. 
+
+
+
+
+ I addressed this in the post.  You do not have to fill out the ballot, you can leave it completely blank if you want to.  
+
+This is not any different than how it is now.  When you get your ballot you could make a vote for every single thing on the sheet, one, or none.  There is no law that says you have to fill out the whole ballot. 
+
+
+
+
+ I am just basing this off of other countries and what they do.  You need some sort of incentive, and a fine is the most practical. The idea is the amount of people paying the fine should be very small, less than 1% of the population.
+
+Also you could make the fine proportional to your income. So a rich person would pay a much larger fine than a poor person.   
+
+
+
+
+ See but I believe it should not matter what kind of job you hold.  I know plenty of people that have very successful careers, but are on hourly pay.  For instance carpenters or other labor workers.  Hourly workers are not just in the service industry. 
+
+
+
+
+ Sorry I will add this to the post.  I will assume that this would only be for national and state Elections to begin with, basically president and midterms.  not primaries and other stuff.
+
+Although I think there should be a national election day for primaries and county stuff too to standardize it, and make it less confusing.
+
+Edit: Sorry National and State. 
+
+
+
+
+ It is not just about getting fired, what I am saying is many poor people can not afford to loose 4 hours of pay or whatever it would take to get an ID.  If you are in a salaried position that is one thing, but as an hourly worker this could mean coming up short at the end of the week.  
+
+Don't mistake me I am not saying it can not be done.  A person can make sacrifices, but my problem is a poor person has to make significantly more sacrifices in order to vote than a rich person does. 
+
+
+
+
+ A few things first.  In order to avoid unnecessary arguments.
+
+* You do not have to vote for anyone if you do not want to.  This is the case now and would theoretically continue to be the case.  You would go get your ballot, and if you wanted to you could leave it completely blank.  The point is you showed up. 
+* Taking examples from other countries, the penalty for not voting would be a fine.
+* We are assuming there would be sufficient early voting times and possibly make election day a national holiday.
+
+I don't know if there is anything I missed.  I would like to hear what people think.
+
+Personally I support mandatory voting, as it would eliminate a lot of the problems we have now like poor people not having the time/money to go vote, and disenfranchisement of parts of the population.
+
+Edit: /u/DeShawnMann brought up a good point to start this would only be for national and state elections.
+ 
+
+
+
+
+ The problem is a lot of times voting doesn't require effort, it requires money.  A poor person can not afford to take a day off work to go wait at the DMV to get an ID.(many states do not have DMV's open on weekends.) A rich person can. 
+
+
+
+
+ I believe voter ID is fine, if you give everyone an ID.  There are plenty of countries were ID's are required to vote, but they also issue ID's to everyone in the country for free starting at a very young age.  
+
+Basically if you want to require ID's you better make sure everyone has an ID. 
+
+
+
+
+ Are you just going to make it look good, or are you wanting to make it flight capable? 
+
+
+
+
+ There are plenty of people out there that do not support interracial marriage.
+
+My point is, would you support Memories Pizza if they said we have decided not to cater black or interracial weddings because of their religious beliefs?   
+
+
+
+
+ I think that it is important to understand this is a bit of a grey zone.  What happens if a place says we will not serve black people because of our religious belief?  That seems a lot like Jim Crow to me, especially if a lot of businesses are doing it.
+
+People do have a right to religious freedom, but when does refusing service go to far?  It is not quite clear. 
+
+
+
+
+ Possibly, but I think that they want to keep the hatch open so the crew can enter it quickly in an emergency.  But who knows what they would do. 
+
+
+
+
+ I was assuming the defect was with the seal on the Soyuze 
+
+
+
+
+ Wanted to report a bug, when you loose internet connection the extension will continue to count down even after connection returns.  Eventually it goes into negative numbers, and just keeps gong until you quit Crome and reopen.  It would be nice if you could fix this so it resets automatically or you can reset it manually when this situation happens.
+
+My internet goes out frequently, but returns seconds to minutes later, and it is annoying that the extension continues to count down even once i have internet again. 
+
+
+
+
+ Not immediately, but astronauts have been evacuated to the Soyuze capsules during problems or high risk times.  Usually they are evacuated to Soyuze and then they wait for further info and directions from the ground.  In Soyuze they are pretty safe, because the capsules are capable of providing life support to the astronauts, and landing capabilities if that becomes necessary.  No sense being hasty and landing all the astronauts when the problem is small and can be easily fixed.  
+
+I just realized your question was about air leaks immediately after docking.  I suppose it matters how bad the air leak is, and what is causing it.  It might just be the seal didn't line up very well during docking, in this case just dock again and see if the seal is better.  On the other hand if there is a physical defect in the rubber seal that can not be fixed, I suppose NASA would be left with no options but to land.  In the mean time Soyuze has enough resources to sustain the three people in the capsule for at least a few days it is likely that NASA would use at least a couple days to work on a solution before sending Soyuze back to earth. 
+
+
+
+
+ In general if their is an air leak you want to be in a vehicle that is equipped to land.  There is really no point to letting the astronauts in and then doing the leak check, because if something goes wrong you are trapped outside your capsule. 
+
+
+
+
+ https://www.youtube.com/watch?v=nsNnGZZusiQ 
+
+
+
+
+ Tone it down Zaheer, you are still chained up in a mountain.
+
+
+Also just for chuckles
+https://www.youtube.com/watch?v=JjYRYUVjhEg 
+
+
+
+
+ How did you get the blades to spin around the central axis if this is with stock parts? 
+
+
+
+
+ Yea this is true. 
+
+
+
+
+ I didn't say that it would be safer, far from that. I just don't think Iran is going to be too trigger happy.  There is no incentive for them to use the nuclear weapon on the US if they did have one, North Korea is proof of that. 
+
+
+
+
+ What would Iran do with a nuclear weapon even if they did get one?  North Korea has had nuclear capabilities for years and they have not used them.  These governments are not stupid if they used these weapons, or accidentally on purpose let them get into terrorist hands that would be the end of their government. 
+
+
+
+
+ I think the bigger question is could we afford another war that drags on for that long.  The Iraq war is estimated to have cost almost [4 trillion dollars](http://www.reuters.com/article/2013/03/14/us-iraq-war-anniversary-idUSBRE92D0PG20130314).  And in your argument you say we should have stayed longer.  How long were we supposed to stay?  Was Obama supposed to keep troops in Iraq for another 8 years?  I don't think the US could have afforded to stay much longer.
+
+Other points:
+
+* Iran is much larger than Iraq, and would require more resources to effectively control than Iraq did.  
+* We would receive even less support for an Iran invasion than we did for Iraq.  This would mean higher costs and back lash from the international community which might lend substance to the arguments of some other countries like Russia, and possibly lead to unforeseen consequences and backlash.
+* On the subject of cost our debt is already in somewhat of a precarious situation.  adding to it by trillions would not help, and possibly if circumstances were not favorable push the United States to a default.
+
+
+My last point and in my opinion what i think is our best course of action.
+
+Many younger Iranians have become somewhat disillusioned with the ultra conservativeness of their government.(enforcing headscarves, no dancing with the opposite gender outside your family, restrictions on western clothing...) There is a good chance this will lead to political change within the country if we give it time.  Invading would most certainly destroy these political movements.  It would play right into the hands of the government who has been preaching for years about how the US is horrible and they will attempt to destroy us if we give them the chance.  Right now the government is becoming the bad guy for many young Iranians.  Invading preemptively would fulfill the Iranian governments predictions, and make us the bad guys.  
+
+It might be best if we let the foundations of the government slowly erode and let these social movements work over time while holding Iran to the terms of the agreement.  It's not like we our blind US intelligence will almost certainly find out if Iran begins working on building nuclear weapons and if they do we can act accordingly.
+
+Edit: I realized after rereading that I didn't quite address your argument.  Basically I am saying yes Iraq was relatively stable compared to a few years before, but at what cost?  It is likely that no matter when we puled out Iraq was going to have problems. Were willing to continue to spend over 400 billion dollars a year just to keep a country stable?   and are we willing to create that situation for ourselves all over again? 
+
+
+
+
+ You know I understand the sentiment, it is quite possible that Iran could obtain a nuclear weapon.  But what other options do we have?  A preemptive war?  
+
+As we can see with Iraq, those have not been going so well.
+ 
+
+
+
+
+ I completely agree it's not acceptable on either end.  I am glad they suspended him. 
+
+
+
+
+ What is the reference here? 
+
+
+
+
+ I would guess it was do to a degradation in the quality of the posts.  From the daily dot article i read, it sounds like /r/atheism was just becoming a place with a lot of loud atheist bigots.  As for /r/politics which i still go to, it is undeniable that it has a very democratic lean.  I even feel weird reading over the comments there, because even though i agree with most of the stuff, I am realizing more and more that it is an echo chamber of liberal ideology and politics.  So i am guessing they got rid of /r/politics because it was becoming less about politics and more like /r/democrats.  
+
+You have to remember this is what everyone sees when they visit reddit without an account, and are automatically subscribed to when they create an account.  I am sure they are conscious of the image they are projecting, and want to do their best to keep the default site as neutral as possible.  
+
+Basically if you like that content on reddit you can find it but the people in charge don't want that stuff to be the first thing you see. 
+
+
+
+
+ Awesome, thanks.  I wouldn't be looking to do it on a per second basis anyway most likely i would just be doing daily(martian day) changes. 
+
+
+
+
+ I thought that the part about the Fukushima nuclear meltdown was a little off base.  Yea sure the fish are not that bad, but there is an exclusion zone where the ground is radioactive now, and can cause long term health problems like cancer, and that is not going to change for decades or centuries just like Chernobyl. 
+
+
+
+
+ They think that making taxes zero is the only thing businesses care about.  I just hope NC doesn't go the way of Kansas, that would be sad. 
+
+
+
+
+ I saw somebody with a blue circle instead of purple and it said 45 seconds. 
+
+
+
+
+ I am tempted to hit the button just so i might get a trophy for it later. 
+
+
+
+
+ I have recently created a subreddit called /r/opportunityrover I t has a slot for the martian sol date and other things i the sidebar, but as i recently learned CSS is incapable of updating these times automatically.  I read this post over at CSS http://www.reddit.com/r/csshelp/comments/2xu2fd/how_do_i_add_a_clockthe_time_in_the_sidebar_like/  and the commenter explained you needed a bot to update the time.  Can someone explain to me or give me the code i need to get a bot to do that.
+
+PS: I am supper noob at this.  I am still sort of confused how bots even work so sorry ahead of time. 
+
+
+
+
+ you are saying this while your up and down vote icons are anchors lol 
+
+
+
+
+ It is possible to release the trunk before you cut the engines which would give sufficient separation. 
+
+
+
+
+ It's really too bad this is not true.  CNN would have way better sources and less hysteria.  
+
+Also I love the poking fun at /r/aviation.  It's funny because it is true. 
+
+
+
+
+ lol its cool. 
+
+
+
+
+ i meant the Lisa Akoya would cost 300k
+ 
+
+
+
+
+ You should check out the Lisa Akoya.  I ran across it recently.  It uses hydrofoils instead of the more typical hull.  Evidently this helps a lot with gas.  They claim it gets 3 gph.
+
+https://www.youtube.com/watch?v=VwSCR0LoAyo
+
+Fast forward to 7 minutes to see it actually flying and stuff.
+
+Unfortunately the plane is supposed to cost around 300K. Which is just crazy expensive. 
+
+
+
+
+ I don't think that is true. 30 years ago flying was significantly cheaper than what it is now and not everyone was becoming pilots.  A cheaper airplane would be good for everyone. 
+
+
+
+
+ can you explain that one too.  Again I have no idea what that was. 
+
+
+
+
+ Sorry i never seem to get sarcasm on here. 
+
+
+
+
+ Thanks i just switched it back. 
+
+
+
+
+ ohh sorry my mistake, but same idea. 
+
+
+
+
+ Well fire would because it is hot obviously.
+
+http://s3.supplyhouse.com/images/products/zoom/815628602-1.jpg
+
+You can see the clear little bulb at the end of the red stick, that is the glass plug i am talking about. 
+
+
+
+
+ This is silly you don't need to take pilots out of the cockpit and completely automate the plane, you just need to fix your procedure.  make it so the pilot is not alone in the cockpit.  Thats what they do in the US.  When one pilot goes to the bathroom a flight attendant goes into the cockpit.
+
+This is just people not thinking.  its like saying we need to design cars without tires because we got a flat one time.  Maybe it is more practical just to take along a spare.  You don't need to completely reinvent the wheel.  Not to mention I would be way more concerned about my plane being completely flown by a computer rather than two very capable pilots.   
+
+
+
+
+ I would disagree, he likely created a lot of water damage, and especially if the administration saw the video, it is pretty apparent that he is being an idiot.  It doesn't matter who you are, if your neglagence creates a few thousand dollars in damage your job is likely in question, not to mention that the fire department was called, thats probably even more money. 
+
+
+
+
+ Yes thank you, interesting fact, what actually activates the sprinkler is a small glass ~~wax~~ plug covering the opening that is designed to melt at a specific temperature.
+
+Edit: http://s3.supplyhouse.com/images/products/zoom/815628602-1.jpg
+
+You can see the glass ~~wax~~ plug at the end of the red stick on the sprinkler head.
+
+Edit2: ~~Wax not glass, thanks /u/bostonfire15~~
+
+Edit3: /u/sfall showed proof that /u/bostonfire15 was incorrect.  Thanks /u/sfall. 
+
+
+
+
+ http://www.reddit.com/r/AdviceAnimals/comments/310a3t/say_hello_to_no_fucks_francis/
+
+Your Wish has been granted. 
+
+
+
+
+ It's so cool how jagged the rocks are they are so un eroded. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I just love how people took back the subreddit that is so awesome. 
+
+
+
+
+ How did they manage to pull this off? all the posts are from the opposite subreddit. 
+
+
+
+
+ In other news /r/AdviceAnimals has transformed into /r/funny ohh the irony. 
+
+
+
+
+ Man that seems like so much fun I wish we could have something like that again. 
+
+
+
+
+ Can anyone explain orangered vs periwinkle. I joined like a month after that.  
+
+
+
+
+ Sorry to hear about that. Didn't know bout the dips. I have never driven through the prairie of Canada before.  
+
+
+
+
+ What in the movie made you question the religion?  Was there anything that stuck out? 
+
+
+
+
+ That is true.  Still i feel like 90-100 MPH is not unreasonable.  God just look how strait it is. 
+
+
+
+
+ wow cool 
+
+
+
+
+ When do they get sealed?  They always motor out of port. 
+
+
+
+
+ yea if you pull out your sectional you will notice that a ton of the runways in an area will all point the same way. 
+
+
+
+
+ Yea I was going to suggest you get some meds to relax you during the flight.  My aunt has big anxiety issues on flights she pops a pill before the flight and it calm her down and the flight is alright for her.  You need to watch out though sometimes the pills can make you a little nutty, like if you have had to many mussel relaxants. 
+
+Evidently one time my aunt ate her neighbors sandwich and was saying crazy stuff but hey it makes it so you can go to your friends weddings and stuff so its a trade off. 
+
+
+
+
+ Are there any rules about using the engine? 
+
+
+
+
+ I feel like you should be allowed to go whatever speed you want through there. 
+
+
+
+
+ What are they going to do until they get to port?  it looks like the bottom of the mast is good, if they can get some of the supporting cables hooked up again to the starboard side of the mast. 
+
+
+
+
+ Sorry :) 
+
+
+
+
+ yea I get it now I didn't get it before. 
+
+
+
+
+ Sorry I suck at titles. (not sorry) 
+
+
+
+
+ I thought about this, does best picture count? 
+
+
+
+
+ ok i get it now i didn't pick up on him being tied up so he couldn't mess with the airplane.  and no i was not joking.
+
+I was just like why is the copilot tied up? 
+
+
+
+
+ Tell us more, what did he do? 
+
+
+
+
+ Why is the Copilot tied up then?  That is what I don't get.  What statement is it making? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Can someone explain the comic.  I don't get it.  I understand its related to the german wings crash, but i don't get what it is trying to say. 
+
+
+
+
+ Yea I chose to ignore the title. 
+
+
+
+
+ I can understand that, but i still feel like the overarching plot could allow for more character development. 
+
+
+
+
+ They are just kind of nutty, and i wasn't just talking about quiverfulls the religious crap in general is getting ridiculous. 
+
+
+
+
+ Fair point. 
+
+
+
+
+ God what is wrong with our country? 
+
+
+
+
+ I think Mods need to start deleting stuff that is labeled NFSW but not NFSW it is just starting to get ridiculous, and ruin the point of the tag. 
+
+
+
+
+ Why is this NFSW? 
+
+
+
+
+ The problem with the Palin choice is it reflected bad on McCain's decision making, and also made it seem like he was not in control of his campaign.  The decision just didn't seem to make any sense.  It only got worse when it started to show that she had no idea what she was doing.
+
+I would compare the Palin decision to Clint Eastwood talking to the chair and the RNC.  It was so much of a distraction that nobody remembers what the candidate said.  
+
+
+
+
+ I am not quite understanding your logic.  Who would win? 
+
+
+
+
+ Because with the two party system we have, you are actually making it more likely the guy you like the least will win. 
+
+
+
+
+ Just wondering, what is everybody's thing against Hillary?  I am just wondering what are some specific things people don't like about her. 
+
+
+
+
+ I agree you should see her bit on the Daily Show about public schools.  It is so true.  
+
+
+
+
+ The difference is Dianne Feinstein is not running for president, Ted Cruze is. 
+
+
+
+
+ He compared climate scientists to flat earth's while comparing himself to Galileo.  The crazy fact is it is not only completely ironic, but he got his history completely wrong.
+
+http://www.washingtonpost.com/blogs/the-fix/wp/2015/03/25/ted-cruz-compares-climate-change-activists-to-flat-earthers-where-to-begin/ 
+
+
+
+
+ Yea I hate it when they do that.  This show isn't as bad but they do turn up the drama sometimes which is kind of annoying.   
+
+
+
+
+ Yea I understand why they had to do it.  I still wish once they knew there was going to be more seasons they would have developed a bigger multi season plot. 
+
+
+
+
+ A little Dramatic in parts, but compared to TV shows in the US it is pretty mello on the danger stuff.  I liked it and liked how they let the pilots do most of the talking. 
+
+
+
+
+
+
+
+
+
+ I just kept thinking they cant come up with another rime to mess up.  
+
+reminded me of this.
+
+https://screen.yahoo.com/b108-fm-busty-rhymes-000000543.html 
+
+
+
+
+ Yea I felt like that is my biggest disappointment with Korra there is no overarching plot from season to season.  In ATLA every season was working towards the eventual confrontation with Ozai.  Because of that you got to see a lot more character progression, on the part of the good guys, but more importantly, on the part of the bad guys.  Ozai starts off as this shadow and you never even see his face.  By the 3rd season he is completely menacing, and there has been a ton of back story on his relationships to other characters. There were still minor villans and seasonal plot points, like Zaho attacking the north, and Azula taking over the Earth kingdom, but they were made that much deeper because they had significance towards the final plot of beating Ozai.
+
+In Korra on the other hand each season has to completely introduce you to a new set of villans and a new plot objective each season, which really takes away from the sieres as a whole, because each season is pretty insignificant to the next.
+
+I would have liked to see some sort of overarching plot like ATLA. 
+
+PS: I think one of the best opportunities they had with Korra was with her loosing all her bending but her airbending.  I feel like they could have made the whole next season about her developing her Airbending skills to mastery and eventually getting back her other bending skills.  I felt disappointed that she basically lost her skills, and then got them right back, it was a huge missed opportunity for a great plot, and a really interesting opportunity to develop her character more.  ohh well. 
+
+
+
+
+ American companies are notorious for penny pinching and treating employees like machines and resources rather than real people.  Would you give the delivery truck vacation time? Would you give the computer vacation time?  Why should we give the employees vacation time?  Unless there is some sort of financial incentive that is easy to calculate on an excel doc the company does not care.
+
+This is what is bad about penny pinching and trying to make the bottom line.  You end up making the employees your enemy.  In a company that has the employees back, the employees will defend the company , and put in the extra effort.  At companies that focus on the bottom line and treat their employees like crap, you will have a whole army of employees that bad mouth the company when they are off work, and will never put the extra effort in to help out. 
+
+It also tends to piss everyone off that the employees will take a pay-cut, and then the CEOs get raises for increasing profits.  It is just ridiculous. 
+
+
+
+
+ I didn't think about that.  It could go either way, the hydrofoils might perform better in chop. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I wonder if this article takes into account that it is a lot easier to find planets that are very close to their stars rather than far away ones.  This would certainly account for their being so many planets close to their stars we just don't have the ability yet to see the others. 
+
+
+
+
+ Can you link to the discussion? 
+
+
+
+
+ yes please I am learning so much about different fuels just from this thread, I didn't realize hypergolic fuels were inefficient. 
+
+
+
+
+ Couldn't they stick an engine bell on the super Draco to increase efficiency?  I thought it was so inefficient, because the way it is designed now it has no engine bell so it can fit right in on the side of the dragon.
+
+Are there other reasons for the Draco being inefficient? 
+
+
+
+
+ Wow that was close I almost got put in repost jail.  Thank goodness because I don't have enough money to repost bail. 
+
+PS: I found the video on my own and posted it, I don't consider that a repost.  I am not going to waist my time looking through the whole history of /r/flying on the off chance someone posted the same video 2 years ago.
+ 
+
+
+
+
+ What game is this referring to? 
+
+
+
+
+ OP What has brought you to these dire straits?!?!?!
+ 
+
+
+
+
+ The thing on the tv is a really bad scene from the absolutely horrible  movie who's name [must not be written](https://en.wikipedia.org/wiki/The_Last_Airbender).  
+
+It is so bad that I almost wish they would make a remake just so we could permanently delete this movie.  And I didn't like the idea of a movie adaptation to begin with.  That is how bad this movie is I almost wish they would make one that is less bad just to get rid of this one... almost.  
+
+Honestly idk why they had to make a live action version, I think it wold have been so much better to make an animated movie that continued the plot.  I really hope they don't make a live action Korra.  Just stay animated, that way you can keep the same voices and everything.  That or make a live action about a completely different story line, maybe about earlier Avatars or something.  When you try to make a live action about a story line that is already animated, you have a 95% chance of disappointing everyone.  It's like movie adaptations of books, except much much worse. 
+
+
+
+
+ I think you have to watch how much you skip in series like this.  A lot of times you don't realize it but there was character development going on that you didn't even realize was happening.  even insignificant episodes can help you get attached to a character.  
+
+(TLDR):Skipping episodes only makes the series worse for yourself because you miss small things that end up adding to the overall plot.
+
+Edit: There are some times in some series when skipping episodes is necessary because the episode significantly hurts the series.  Avatar is not one of them. 
+
+
+
+
+ Quite possibly runways are very long. 
+
+
+
+
+ I forgot about ice buildup, that would be a big reason not to have it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Cool I still thought they were using two different cores, one with attachment points and one without.  It makes sense though that they would merge them and just not attach the legs, since they are all about simplification and keeping things as uniform as possible. 
+
+
+
+
+ Yea I would guess something went wrong too, but it would be nice to hear something official from SpaceX.   
+
+
+
+
+ Wait so do all the cores have leg attachment points now? 
+
+
+
+
+ takeoffs are optional, landings are mandatory
+
+I love that quote its a great truism from the aviation industry.   
+
+
+
+
+ While it is true that the successful burns after entry are signs that no catastrophic damage is taking place, until they can do more thorough testing you can not rule out the possibility that the engines are experiencing stresses during entry that they would not experience otherwise.  Weather or not these stresses would affect the life of the engine is also unknown.  
+
+Exploring new frontiers in engineering and rocketry is fun. 
+
+
+
+
+ Do we have any ideas why SpaceX has not released anything on CRS-4? 
+
+
+
+
+ That is true 
+
+
+
+
+ You are mistaken, this is only the second landing attempt for the drone ship.  The first one was [CRS-5](https://vine.co/v/OjqeYWWpVWK) where the grid-fins ran out of hydraulic fluid.  The second was [CRS-6](https://www.youtube.com/watch?v=BhMSzC1crr0) that happened just a few days ago.  There was supposed to be a try back in Febuary, on the [DSCOVR Launch](https://www.youtube.com/watch?v=OvHJSIKP0Hg) but due to heavy seas the [Drone Ship was Disabled](https://www.youtube.com/watch?v=aKhwGOVGWUs). SpaceX instead just did a soft water landing on where the drone ship was supposed to be if it had not been disabled.  Elon said that the booster landed within 10m of where it was supposed to. I think that might be where your confusion came from about the booster missing the drone ship, but in reality they were not trying to land on the drone ship, because it had been damaged.   
+
+
+
+
+ Check out www.crewbay.com you might be able to find what you are looking for. 
+
+
+
+
+
+
+
+
+
+ You also have to remember that there is throttle control, so if the computer calculates that the rocket will reach 0 vertical velocity too high or to low, it can throttle to move that goldilox zone to the correct altitude. 
+
+
+
+
+ They have a good point but they forgot about things like Juno 
+
+
+
+
+ How did you do that? 
+
+
+
+
+ It is cool when you think about it. 
+
+
+
+
+ Ok I will address your points. Starting with your last one.  Yes police can do this if you were the first person to buy it but if you bought the gun from a pawn shop or at a gun show or other places where sales are not tracked, it is basically impossible to figure out where the gun came from besides where it was originally sold.
+
+Addressing your points about stolen guns.  It is not hard to think of a way to remedy this.  Simply have a place to report when your gun is stolen.  I do not think that it is unreasonable to require people to report a stolen gun in a timely manner after all it is a weapon and it is dangerous, the police should know if it has fallen into the wrong hands.  Even if you didn't it does not necessarily mean you would go to jail.  A fine or a small misdemeanor charge for failing to report your gun as stolen would be fair and not very burdensome.  
+
+As for the gun store being robbed thing.  I would think if they dont do this already, a gun store would have an inventory of what weapons they have in stock as well as the serial numbers associated with all those weapons.  Simply go through the inventory and figure out which guns were stolen and then make sure that it is noted in the registry.  When those guns start to turn up at crime scenes you can interrogate the criminals about where they got the guns from, and start to make connections and possibly figure out who the people who robbed the store are, if you haven't already caught them from security footage and other evidence from the crime scene.
+
+I do not think that a gun registry would fall apart from a few stores or people getting robbed.  I think the bigger problem for a gun registry would be the huge amount of guns on the market right now that are not registered.  But this could also be addressed with some simple but effective measures.  You don't have to require everyone to come register all their guns now or go to jail.  You could simply start requiring that all sales and transactions from a certain date forward must be logged and imputed into the registry.  Then its as simple as targeting seller that are not following the regulation.  Over time the registry would grow as new guns enter the market and old ones are bought and sold and are added to the registry.  
+
+Now obviously there will be a black market, but there is already a black market for guns.  The idea is over time with more and more guns will be registered it will steadily make it easier to keep track of how guns are getting from stores to crime scenes.
+
+You can imagine a lot of these regulations like regulations on owning a car.  In fact owning and driving a car is much harder than owning and using a gun in most circumstances.  For a car in order to own and drive it you must have a drivers liscence, the car must be registered to you, you must re-register each year and pay apropriate taxes and your car must be inspected each year there are tons of things like this for cars.  What I am proposing here for guns is only one small part of the tons of stuff you already have to do for a car.  All you would have to do is register the gun in your name, and when it is sold to someone else you must report them as the new owner.  the same way that when you sell someone a car the ownership must be transfer to their name. 
+
+
+
+
+ Dude chill out we are having a nice discussion here no need to explode.  
+
+Let me explain.  In my opinion what I said is constitutional.(It's just my opinion it's not a big deal)  I don't think that the second amendment was ever intended to cover things like cannons, mortars, RPGs, and automatic weapons.  I also think that the 2nd amendment does not mean that reasonable regulations can not be placed upon the sale of firearms.  I think basic things like background checks and a nationally regulated gun registry are perfectly reasonable regulations.  I also feel the about hand guns the same way that you feel about explosives that you should be able to get them but it should not be as easy as a rifle.  
+
+I am trying to explain that it is not that our beliefs are completely different, We are just at different parts of the spectrum.  One end of the spectrum is ban on all fire arms/weapons, and the other end is buy whatever weapon you want without restrictions.  
+
+As for the Second Amendment, the constitution was designed to be able to be modified.  I don't necessarily think it should be, but the second amendment is not the end all be all.  After all the 18th amendment bans alcohol, but obviously that got changed.  The Constitution was designed to be difficult to change not impossible, and the Founding fathers made it with the full intention that it would change in the years to come.
+
+Just to be clear I am not saying we should get rid of the 2nd amendment.  I just wanted to make that clear. 
+
+
+
+
+ That is what is important to understand here
+
+That is where you draw your line, Explosives.  The same way you feel about explosives is the way I feel about hand guns.  Hand guns is where I draw my line. 
+
+
+
+
+ Ok what about a missiles? Should people Be able to buy a Javelin a patriot, or a cruise missile?
+
+And why do you want to keep the laws on explosives? 
+
+
+
+
+ Right now you have to go through a lot of paperwork though.  You said you wanted to get rid of that.  I am saying would you want to make it so that anyone who wants to could buy an RPG no restrictions just like you said above? 
+
+
+
+
+ Would you support people being able to buy RPG's and Bazookas? 
+
+
+
+
+ With this innovation, how long would it take to go into production if they started developing an electric or hybrid 172 right now. 
+
+
+
+
+ Not quite right now  the Solar panels can't keep up with the draw.  But it is getting better and better 
+
+
+
+
+ Would you support people being able to buy new machine guns? 
+
+
+
+
+ I think you don't understand what innocent until proven guilty is.  IUPG means they can't put you in jail until they actually convict you with a crime.  Basically you can not be labeled a murderer until they actually convict you of the murder.
+
+In this case they would charge you with not doing the gun registration correctly, and then it would go to court and you would either be convicted or not convicted.  
+
+Until you actually are convicted they **can not** put you in jail and hold you indefinitely. 
+
+
+
+
+ I am not saying it would be 100 percent perfect, but having a gun registry would make it much easier to see where guns are going at least on the legal side.  As I said above.  Yea one stolen gun would not be something that a gun registry would work well against but if the gun registry has tracked a bunch of stolen guns back to you over time it starts looking a lot like those guns were not stolen by accident (AKA straw buyer.).  The point is not that it would be perfect, but it would make a huge difference with keeping track of guns and how they are they are ending up at crime scenes.  Imagine if you are arrested for a drug crime and they find a gun all they have to do to check if it is legally bought or not is go to the gun registry and see if you are the legal owner.  Right now they pretty much have no idea how you got it. 
+
+
+
+
+ Of course gun registration would not be very effective against one guy but when they have tracked down 5 guns to you you start to look a bit more suspicious.  
+
+Also about existing laws that are similar to gun registration.  They are a joke.  Usually only the first sale needs to be logged or is logged and some of the laws say that the log is not allowed to be kept on a computer, which is crazy.  Plus I believe none of them are interstate which makes them almost pointless. 
+
+
+
+
+ I feel like the advantage to the rules I mentioned is they are much easier to enforce compared to things like laws against concealed carry and stuff.  Although I support these rules. 
+
+
+
+
+ yea I agree 
+
+
+
+
+ Trying to grow the sub quickly before the New Horizons Space Probe encounter with Pluto in June.  
+
+We need to people to help out posting updates, and plug the subreddit in other subs to try to grow it in popularity.  Please come over to /r/New_Horizons and check it out even if you are not interested in modding. 
+
+
+
+
+ Wow that was a crazy attack I didn't realize that plane was still around. 
+
+
+
+
+ Go you. 
+
+
+
+
+ I saw an article recently saying we should send a rover to Pluto, how big and costly would this be? 
+
+
+
+
+ oops i don't know how that happened.  I thought i linked to the picture. 
+
+
+
+
+
+
+
+
+
+ I support what you said about handguns.  Although I don't feel like you should get rid of them I feel like it should be much harder to get them. 
+
+
+
+
+ The problem is the way they are worded now is so ambiguous that a lot of times whoever shoots first is in the right.  That is very dangerous because where does it stop.  Defining what is a threat to you can be very ambiguous. 
+
+
+
+
+ I don't agree with that statement.  I support gun control but I do not support a total ban. 
+
+
+
+
+ Ok I hope you see this, because this is important to me.  
+
+I support more gun control.  I am not one of those guys that has never touched a gun.  I personally own a 20 gauge Remington 1100 shotgun, and a my family has a 410 as well as a rifle and an antique double barrel shotgun.  I have shot guns on many occasions I have shot pistols, rifles, and shotguns.  I enjoy skeet shooting although I have not had the time to go lately.  
+
+That said I support significantly more restrictions on guns than what we have now.  I am not saying we should get rid of guns, but it should not be as simple as going to a pawn shop or gun convention and just handing over the cash.  
+
+These are weapons not toys and can kill you and others.  That is the first thing you ever learn when learning to handle a gun.  Yet in many cases buying gun is easier and requires much less time or over-site than buying a car.
+
+I support some very basic but effective forms of gun legislation.
+
+1. A national gun registry.  The reason for this is simple.  If you start tracking who owns which guns it will be easier to track down who the last legal owner was.  Gun advocates like to say criminals will not follow the laws, and that is true, but 99% of guns originate from a legal source.  Some guy buying a gun in a gun store or a gander mountain or something.  The trick to reducing the amount of illegal guns is tracking down who is buying them legally and then selling them illegally(straw buyers).  A gun registry would create a history for a gun and then it would be as simple as going to the last legal owner and asking what happened to the gun afterwords.  Perhaps asking why he or the guy he sold it to did not go through the correct procedures of registering the gun with the new owner.  
+The problem is right now the police find a gun at a crime scene, and they don't even know where it came from.  It could have originated from practically anywhere and that makes it incredibly hard to track down who these straw buyers are.  
+2. Secondly I support universal background checks for all sales private or public.  If you want to buy a gun we should make sure you are sane, and not a criminal, its that simple.
+3. Last, and this is not as important as the first two, I support significantly more restrictions on handguns compared to shotguns and rifles.  They are small and concealable and that makes them much more dangerous.  If you want to own one I think you should have to jump through a few more hoops.  The fact is it is a lot easier to commit a crime with a hand gun than a rifle.
+
+Now I understand that these would not be 100% effective off the bat.  But the idea is over time you would be reducing the amount of illegal weapons and keeping much better track of the ones out there. As well as making it harder for criminals and crazy people to get ahold of them.  
+
+Please tell me what you think I'd like to know what you think about the things I proposed. 
+
+
+
+
+ God this made me laugh so hard. 
+
+
+
+
+ Interesting fact Mark Hamilton played Fire Lord Ozai in Avatar the Last Airbender 
+
+
+
+
+ Wow I am amazed that guy didn't get his arm torn off. 
+
+
+
+
+ Dude we should send this to Google it would be so easy for them to add this support.  Compared to foreign languages this would be a breeze to program for. 
+
+
+
+
+ I think we need to get Peter to do an AMA. 
+
+
+
+
+ I understand that we do not host content.  By carful I mean not get into the habit of supporting leaked material.  /r/spacex should not be the place to get the latest inside unauthorized scoop on SpaceX. 
+
+
+
+
+ That is awesome its too bad there is not a ATLA video game 10/10 would play. 
+
+
+
+
+ Yea I hope nobody ever does anything that stupid.  It would be bad for everyone involved on so many levels. 
+
+
+
+
+ Yea I am not saying the videos or the community are bad, but we just need to be careful.  I am glad the Admins are already on top of this and ready incase a bigger more serious leak happens. 
+
+
+
+
+ Well that was weird.
+
+Serious question how did they get a 3D model of Korra?  Is that how they do all of the animation for Avatar? 
+
+
+
+
+ Yea I feel like it is becoming very dangerous how Terrorism charges are thrown around these days.  It's starting to become a charge that you can apply to anything.  It's starting to become like thought police. Did he want to hurt America? Than he is a terrorist.   
+
+
+
+
+ Yea I like the videos, but I feel like this is not good for them to be getting leaked like this.  I really hope SpaceX keeps releasing the videos.  
+
+I remember somebody mentioning that SpaceX will continue to support /r/spacex and the fan community until they become a thorn in their side. I feel like leaks like this are starting to make us look more like a liability rather than just a fun fan site.  It does not seem like much but Imagine if someone posted detailed engine schematics or something I doubt that SpaceX would continue to support us.    
+
+
+
+
+ While that would be fun, I think SpaceX would not want to take the risk of its competitors figuring something out from said wreckage.   
+
+
+
+
+ Its crazy how similar they look to smoke from a  fire, and volcano eruptions just a lot slower. 
+
+
+
+
+ Perhaps he needs to find a new committee to chair. 
+
+
+
+
+
+
+
+
+
+ Put it in the sidebar than.  This is awesome. 
+
+
+
+
+ Where was the antique roadshow reference? 
+
+
+
+
+ Wow that was awesome I wonder if the engines and legs might still be on the deck? 
+
+
+
+
+ good thinking 
+
+
+
+
+ That would be great.  The guy has a great message (campaign finance reform), and form the video interview the Tampa Bay times did it sounds like he has his head on strait(Ignoring the fact he flew into DC that is pretty crazy).  He didn't just fly it up there, he did a lot of planning, and it sounds like he did his best to alert authorities of his plans, kind of amazing no one stopped him. 
+
+
+
+
+ I love the [video at the bottom](http://launch.newsinc.com/share.html?trackingGroup=69016 siteSection=tbtimes videoId=28895951) of the [Washington post article](http://www.washingtonpost.com/news/local/wp/2015/04/15/a-gyrocopter-just-landed-on-the-capitol-lawn/).  he does not sound like a crazy nut job at all, he is trying to make a statement about campaign finance.  What a great thing to make a statement about. 
+
+
+
+
+
+
+
+
+
+ god this video is great  
+
+http://www.washingtonpost.com/posttv/national/protesters-describe-gyrocopters-capitol-descent/2015/04/15/a9527df2-e3a6-11e4-ae0f-f8c46aa8c3a4_video.html
+
+These guys are just having a great time not the freaked out crap you usually see 
+
+
+
+
+ I wonder what they are going to do with the gyrocopter?  Will it end up on one of those government auction sites? 
+
+
+
+
+ I didn't realize the pictures before were in black and white. 
+
+
+
+
+ You should post this at /r/New_Horizons. 
+
+
+
+
+ If you guys are interested in this should come check out /r/New_Horizons. It is dedicated to posting updates about New Horizons as it gets closer to Pluto. 
+
+
+
+
+ If you guys are interested in this should come check out /r/New_Horizons. It is dedicated to posting updates about New Horizons as it gets closer to Pluto.   
+
+
+
+
+ If you guys are interested in this should come check out /r/New_Horizons. It is dedicated to posting updates about New Horizons as it gets closer to Pluto. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Trying new things makes a girl very cool.  I don't mind if a girl has not done something before, what makes her very uncool in my mind is when she is completely unwilling to try it. 
+
+Example, I like camping.  I don't mind if a girl has never been camping before but before you say no you should at least come camping with me and try it, before saying you don't want to.  who knows you might find something you like.  
+
+TLDR: Trying new things makes you very cool. 
+
+
+
+
+ wow a 7 digit phone number those were the days. 
+
+
+
+
+ Wow that was silly.  
+
+
+
+
+ I don't think that any of the User tagging features are working. 
+
+
+
+
+ http://static.comicvine.com/uploads/original/11117/111175529/4102706-3453564798-Right.jpg 
+
+
+
+
+ Any idea when it is going to become available? 
+
+
+
+
+ lol It will be interesting to see what /u/spkr4thedead51 thinks about this. 
+
+
+
+
+ Did we figure out who won?  It did sort of land on the barge yet there is not currently a rocket on the barge. 
+
+
+
+
+ I think your logic is good, but it looks like the problem here was not landing, but moving too fast sideways while landing.  They landed right in the center of the the drone ship.  
+
+Plus with your C130 option assuming you could make it so a C130 could carry the first stage, how would you detach the 1st stage so the C130 could land? 
+
+
+
+
+ http://www.reddit.com/r/spacex/wiki/faq/reusability
+
+Yes they want to bring it back to land.
+
+Yes it uses a lot of fuel, but its not that bad actually. 
+
+
+
+
+ I found the NASA live stream here https://youtu.be/XfJoDxX0m7s 
+
+
+
+
+ Yea Challenger happened because they said what is the big difference between 20 degrees and 40.  Pushing the boundaries and saying what is the big difference, is how you loose a rocket. 
+
+
+
+
+ I think the nasa live stream had way better shots than the SpaceX one. 
+
+
+
+
+ We have to do this lol 
+
+
+
+
+ There are a lot of variables but Echo has it right they could post the video in hour or two a couple days or sometimes the videos never get released.  My best guess it they will release the video within the next couple days especially since the quality is pretty good. 
+
+
+
+
+ https://twitter.com/elonmusk/status/588082574183903232
+
+pictures from landing!!! 
+
+
+
+
+ Its too bad this did not get more upvotes, it is amazing. 
+
+
+
+
+ It will be interesting to see if they can find another objet to do a flyby of. 
+
+
+
+
+ I think there is a strong chance the OP is making this up. 
+
+
+
+
+ Are there really crop dusting jobs available out west? 
+
+
+
+
+ I think those are fine and the mods will let them through, because they are original and interesting.  I think the mods are try to stem the flow of the boring guy in a 172 pictures.  They all look the same, and the only thing they really are is a random guy sitting in a 172. 
+
+
+
+
+ I agree I am kind of getting tired of the look I am flying pics and its just a dude in a 172.  The selfies are fine as long as they are interesting. 
+
+
+
+
+ thats awesome so informative 
+
+
+
+
+ wow I cant believe how ~~fat~~ fast that happened. lol  Go you
+
+Edit: LOL 
+
+
+
+
+ Your official SpaceX youtube link just reroutes to /r/spacex I didn't know if you knew 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ did you see color changer thing also had a malicious button pushing script when the date is more than 11 
+
+
+
+
+ thanks for this 
+
+
+
+
+ Can you be more descriptive, is that the extension that puts the button on chrome?
+
+i want to know if i have it or not 
+
+
+
+
+
+
+
+
+
+ wow very cool thanks for the information I am sure i will have more questions. 
+
+
+
+
+ All of these things have been building, there is a significant amount of the population that has cameraphones now compared to the mid 2000s when it was still a novelty.  Second police did not suddenly get better armed, and start pushing the limits of their authority immediately after 9/11, it has been a slow and gradual process.  Eventually people get tired of it though.  
+
+Many people forget that moments like this take a long time, the main part of the civil rights movement took over a decade.  
+
+Police have been pushing the limits for a while now.  and with recent revelations about overreaches in areas like civil forfeiture, and police brutality, people are starting to push back. 
+
+
+
+
+ Thanks thats what I thought, but I wasn't quite sure.  
+
+Also follow up question could you give me a brief summary of satellite receivers.  
+
+I understand they serve as a backup to your main receiver, but I don't really understand, and I don't understand how they work.  
+
+
+
+
+ Hello everyone, I googled, but could not find a definitive answer to my question.  Recently I bought a Spektrum DX-8 transmitter i am looking for some receivers.  My question is if it says in the description of the receiver that it is DSM2/DSMX compatible, does that mean it will be compatible with my Spektrum transmitter?  
+
+I understand Spektrum transmitters use DSM2 and DSMX but I want to be sure they will be compatible before I buy. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am so excited for June 
+
+
+
+
+ It wasn't meant to be personal.  But your proposal is a little bit out there.  What are you an engineer in? 
+
+
+
+
+ The fairings are already made of carbon-fiber which is inherently hi-temperature resistant and probably would not require much additional material to survive Mars entry.
+
+You don't know what you are talking about.  Making the fairings into heat shields would require major modifications, and  add a great deal of weight.  Saying they are both carbon while sort of true, excludes the fact, that they are manufactured completely differently.  The fairings are made of an aluminum carbon honeycomb, meaning most of the volume is air.  Heat shields on the other hand tend to be thick, relatively dense compared to the fairings, and designed to ablate away when reaching high temperatures.  In order to get a fairing to not melt and break up when entering at the extreme velocities from orbit and beyond orbit, you would basically need to attach a giant heat shield to your fairing.
+
+What does this mean for your theory?  You would need to attach a heat shield to the outside of the whole fairing in order to make it even plausibly into a heat shield.  Which makes you think why are we attaching a giant heavy heat shield to the entire outside of this fairing instead of just to our spacecraft.
+
+The benefits are not there,  why would you use the fairings which you will have to heavily modify when you could just take along a heat shield that is specifically designed for the purpose.
+
+Read the other posts too they offer other good more plausible reasons to why they would want to recover the fairings. 
+
+
+
+
+ We will be posting updates about the mission, and all the cool pictures that New Horizons will start sending back in the coming months when it gets closer to Pluto. 
+
+
+
+
+
+
+
+
+
+ Thanks for the suggestion I will definitely post it there int the next few days once there is more content. 
+
+
+
+
+ You literally just made all three of those subs in the last day _ 
+
+
+
+
+ I messaged you. 
+
+
+
+
+
+
+
+
+
+ Yea its really to bad spirit got stuck.  Spirit had it tough with wheel motors going bad and stuff. 
+
+
+
+
+ Lol, thanks for the enthusiasm, but I am looking for one of those three things.  
+
+If you are really interested in modding just keep looking.  I had never modded before either until only a few months ago.   
+
+
+
+
+ we need to get assigned our position automatically, because i have no idea which one i am in. 
+
+
+
+
+ I have very basic CSS experience, I have been mostly working off of the template over at /r/redplanet that some other guy made. But I have been getting more experienced. 
+
+You can see my version at /r/opportunityrover and /r/New_Horizons  If you are interested in either of them I can make them work on /r/AvailableSubs. 
+
+I can change some basic stuff in this template like the height and color of the header, and the size font and color of the name of the Sub.  
+
+I can work on adding other stuff if you are interested, just tell me what you want and I'll see if I can to it.  Like I said I am still a bit of a beginner.
+
+Edit: I was looking at /r/startups and it is a variation of the /r/naut/ theme if you want I can work on installing the /r/naut theme for you as well.
+
+Edit2: I was looking around and found some other themes that you may be interested in.  Take a look at /r/MindasHQ, /r/edurne, /r/boxed, and /r/flatblue if you are interested, i should be able to do any of these themes as well. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Looking for Mods for /r/New_Horizons a subreddit about the [New Horizons space mission to Pluto](https://en.wikipedia.org/wiki/New_Horizons).
+
+The objective is to grow this Subreddit quickly and make it the place for updates about the mission. 
+
+***
+I am looking for some Mods that can be active and help post updates about the mission.
+
+I am looking for people that are interested in space stuff and have already been active in other space subreddits.
+
+
+***
+If you have experience with CSS that is great, I am looking for someone that can make the subreddit look better than the basic CSS editing I have done so far.
+
+***
+Please come have a look at
+
+https://www.reddit.com/r/New_Horizons/
+
+Post if you are interested 
+
+
+
+
+ Chill dude, it was just a thought experiment.  There is no way this is happening any time soon. 
+
+
+
+
+ Yea I subscribed because I wanted a more whole picture of politics, and not just the liberal side.  Then I found out that they really were crazy.  They still have theories about how Obama [lost his citizenship in Indonesia](http://www.reddit.com/r/Conservative/comments/31ft1a/arabic_is_most_common_language_of_refugees_in/cq1owxa) and that he is a ["Muslim sympathizer"](http://www.reddit.com/r/Conservative/comments/31ft1a/arabic_is_most_common_language_of_refugees_in/cq1bzu6). 
+
+
+
+
+ That is so cool you guys built that.   
+
+
+
+
+ Don't worry go over to /r/Conservative and they still think its about to happen.  
+
+http://www.reddit.com/r/Conservative/comments/31ft1a/arabic_is_most_common_language_of_refugees_in/cq17q4v
+
+ 
+
+
+
+
+ It seemed to me that those were tiny rockets at the end of his boots and hands. 
+
+
+
+
+ Captain english lol 
+
+
+
+
+ Epic reply man.  
+
+
+
+
+ Lets see pictures of the boat. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I really wish Aang and Katara could somehow reunite in the spirit wold.  It's to bad Aang didn't make the same journey into the spirit world as Iroh.  Plot twist maybe he did.  That would be so awesome. 
+
+
+
+
+ I honestly found my self routing for Zuko to turn good way more than i was routing for team avatar in book 2 ATLA.
+
+The evolution of and depth of those two characters is what makes them so great. 
+
+
+
+
+ Well I did not say that it is affordable. I just said that you don't need to to go for all the bells and whistles.  Going to an instate school full time can cost close to 20k a year.  It is really not possible to work your way through school with that kind of price tag.  
+
+You do the math and you figure out the only way you can pay for that is if you have a full time job that pays much more than minimum wage.  I don't know how anyone could hold a full time job while also going to school full time.  
+
+If you think part time is the answer than get ready to be going to school for the next 12 years of your life.  I really doubt that is practical.
+
+Once you figure all that up you realize why so many kids are taking out loans to pay for college.  It is a smart calculation based on opportunity cost. 
+
+
+
+
+ Cool 
+
+
+
+
+ What kind of plane is that? and where is the tail number it it that tiny thing on the rudder? 
+
+
+
+
+
+
+
+
+
+ Yea you do have a point.  What do you get for your 300 dollar meal plan, that is pretty cheap. 
+
+
+
+
+ Welcome to the hobby they call these things drones to make them sound scary.  I like this video that shows how hard it is to actually see anything from a drones camera.
+
+https://www.youtube.com/watch?v=xnVjrIz0xrc
+ 
+
+
+
+
+ Thats good.  I like how the news article makes it clear that it was a toy and how tiny it actually was.  I thought it was a very reasonable article 
+
+
+
+
+ I know The next part is really cool, it talks about how they recovered Mir using the Soyuz.
+
+Edit: Somebody posted a link below  but it is not available in my country :( 
+
+http://www.bbc.co.uk/iplayer/episode/p02863gw/horizon-19971998-mir-mortals 
+
+
+
+
+ It's not that hard, Live off campus, don't get a meal plan, and I am pretty sure you can opt out of the Rec centers at some colleges as well. 
+
+
+
+
+ Well considering they still have telemetry there is still a decent chance.   
+
+
+
+
+ Dang now i feel like an idiot.  I really did't know who Al Sharpton was, I have just heard his name before.  I guess my point stands but obviously not Al Sharpton.  
+
+Your joke completely went over my head and i am a complete idiot. 
+
+
+
+
+ ~~That is good and I think that can help the movement, but i don't think he is it's representative or leader, at least not yet.  Its not like news stations call up Sharpton to ask what his plans are for the future of the movement.~~  Think about it if somebody wanted to talk to the head of the movement, who would they talk to.  In my opinion there is not currently a true head of this movement.  The biggest thing that could make a difference to this movement is if they got a leader like MLK was to the civil rights movement in the 60's.  They need a guy that can e the face of their cause and give it a voice and a direction.  So when people think of the movement, they automatically think of that guy.
+
+Edit: I am an idiot who did not know who Al Sharpton is. 
+
+
+
+
+ Yea that does seem plausible, but from what i have read the guys neck was really badly injured not some fracture 
+
+[His family say he lapsed into a coma after his spine was 80% severed at his neck and his voice box was injured.](http://www.theguardian.com/us-news/2015/apr/20/baltimore-officers-suspended-death-freddie-gray)
+
+I think what people are tired of is you do not see white people getting shot in the back while they run away, or white people having their necks become mysteriously broken while in police custody. 
+
+
+
+
+ I also agree I feel like riots happen when frustration reaches a breaking point.  People are can only put up with so much before they say enough is enough.  This is especially true when they feel like conventional means for getting things done are just giving them the run around.  People get tired of the BS.  
+
+Whats too bad is the current movement lacks any real leadership.  This lack of leadership means there is nobody to give the cause a single voice.  This makes the movement disorganized easy to criticize (because there is no representative to defend the movement) and prone to violence and when violence does break out, it comes across as pointless and just people that are looking for an excuse to destroy stuff and steal things, not people mad over social injustice.  
+
+Edit: Grammar 
+
+
+
+
+ Exactly that is not how are justice system operates.  Police can not act as the Judge Jury and Executioner. 
+
+
+
+
+ See when I saw that I was under the impression that is was the same Raava being reborn from within Vaatu. 
+
+
+
+
+ There is a difference between being innocent until proven guilty and being above the law.  Innocent until proven guilty means they can't put you in prison until they have proven you guilty of a crime in court.  Investigating and charging someone with a crime does not make them guilty.  The media seems to have a hard time understanding this, that just because you have been arrested does not make you guilty.
+
+I am saying that it is ridiculous that this kind of thing gets swept under the rug and no investigation is launched and no charges are made when it is obvious that there was wrong doing.  A guy getting a broken neck while sitting in jail does not just happen.  If this happened anywhere else it would be considered a murder and investigated as such.  Why does the same not hold true in a jail cell.
+
+Expecting an investigation and calling this a murder is not in contradiction to innocent until proven guilty. 
+
+
+
+
+ Yea that is what is so ridiculous about this, obviously the guys neck was not broken when he got to jail, and necks don't jut break themselves.  There is definitely fowl play here, but the police are still sticking to the line that they don't know what happened.  Thats total BS they know exactly what happened. 
+
+
+
+
+ Maybe, but i still feel sad that Aang and Wan basically got deleted. 
+
+
+
+
+ Nothing is impossible in fiction, it is quite possible they could come up with some story for how Korra reconnects with the past Avatars.
+
+I choose to believe it is possible to reconnect to the past avatars.  Korra has just not figured it out yet. 
+
+
+
+
+ We don't know Aang's fathering was that bad.  There was some resentment, but that does not mean he was a bad father.  It's obvious they all loved him. 
+
+
+
+
+ That still does not make breaking his neck acceptable.  We can't just forgive this police brutality because it was done to a guy that has a history of crime.  Innocent until proven guilty. 
+
+
+
+
+ That is actually how the one is mounted in the picture lol 
+
+
+
+
+ MEXICO IS THE BEST!!!!! 
+
+
+
+
+ This is a great summary thankyou 
+
+
+
+
+ God that is ugly it looks like a big bumper sticker. 
+
+
+
+
+ How can I check to make sure the esc i am getting has this feature? 
+
+
+
+
+ Is this what you mean by a low voltage alarm? 
+
+http://www.hobbyking.com/hobbyking/store/__18987__On_Board_Lipoly_Low_Voltage_Alarm_2s_4s_.html 
+
+
+
+
+ So I am getting into the hobby, I purchased a used quad a few months ago and enjoy flying it, but now i want to do some airplanes as well.  With my quad the KK2 board has an alarm and voltage meter hooked in so when the voltage gets low the alarm starts to ring and i know to land.  My question is how do you keep from under volting your LIPO on an airplane, that does not have a control board?  
+
+I am looking into getting some of these Lemon Rx Receivers http://www.lemon-rx.com/shop/index.php?route=product/product path=59 product_id=92 
+
+
+
+
+ I was going to say it looks too short and too wide. lol 
+
+
+
+
+ I have not, I have sailed Lasers, Sunfish, 420s, and FJs.  Slightly larger boats I have sailed have been Flying Scotts and Thistles.  Out of those  I would say Sunfish is my favorite but I am also biased.  If you have sailed 420's or FJ's I would say both the Sunfish and the Laser feel like a faster more agile boat than either of those.  The 420 is like driving a truck, where the Laser and Sunfish are more like go-karts.  I saw somebody suggest going and borrowing or renting them and seeing what they are like.  I think that is a good suggestion.  Again though, make sure they are in good condition otherwise it wont give you he right impression of the boat.
+
+As for the downsides of the two boats, the Laser is tipsy because of its round hull and when sailing especially in heavy wind, you never really get a break.  The Laser is also not that great for carrying more than one person, because the coordination gets hard with the boat being tipsy.  I would say the Sunfish is good on both of these points.  
+
+The Sunfish on the other hand is slightly slower than the laser, and due to the lateen rig can not point quite as high.  Both of these are really only noticeable when you are sailing next to a Laser or maybe if you have gotten used to the characteristics of sailing a laser.
+
+Thats really all I can think to tell you.  You probably all ready know this but when buying a sunfish or a Laser, you should not bother with a boat that has any leaks.  I know in the sunfish the foam on the inside and the fiberglass absorbs the water and really weigh the boat down, even after you have drained it.  The hull on a new sunfish weighs 120 pounds so if you go look and a Sunfish and it weighs a ton than it is not worth buying, a Sunfish should be easy to pick up with two people.
+
+Thats really all I can think of, is the Laser Pico similar to the 420 or the FJ?  What other boats have you sailed maybe I can help give you a compassion. 
+
+
+
+
+ ohh i misread the comment oops. 
+
+
+
+
+ yea I saw that after it makes sense.  An interface with dragon would be easier. 
+
+
+
+
+ I found my first randevu/docking so much more satisfying than landing on the Mun.  I actually couldn't use docking ports on my first docking because it was a rescue mission to a spacecraft that didn't have docking ports.  I made this awesome clamp out of landing legs as this was .20 and successfully saved my Kerbals. =D 
+
+
+
+
+ Dude you haven't seen it?  It is awesome!!!!! 
+
+
+
+
+ *"gooseneck" not a yoke
+
+I rig mine by myself all the time.  I think the trick is raising  the gooseneck first, then pulling the halyard, it takes all the tension off the halyard and makes the whole process a lot easier. 
+
+
+
+
+ An important thing with getting a sunfish, is making sure you get a good one. You can buy a sunfish for 800 bucks, but it is going to leak be heavy, and sail slow.  I love Sunfish, but i have sailed ones like this and they suck.  Even with good wind they just sit there.  On the other hand a Sunfish in good condition sails great.  They are fast, and even plain on reach in good wind.  Make sure if you get a Sunfish it is in good condition, and i would suggest looking for one with a racing rig as they have some features that make them go faster.  
+
+The main thing is don't get those cheap Sunfish.  They will be a big disappointment, and i would hate to see you get a bad impression of the boat because you got one of those crappy water logged ones. 
+
+
+
+
+ The apples to apples comparison is with the sail attached to the spars.  No sunfish sailor ever takes the sail off the spars you put the spars and the mast together and roll the sail, and then the whole thing goes into the bag.  That is how everyone does it.  Sunfish sailors are taking perfectly good care of their sails.  Your example of wrapping the sail around the mast would be comparable to leaving rig and sail on the boat and just putting the sail beneath the boat cover.
+
+With lasers it makes more sense to take the sail off the mast because it just slips off the top. 
+
+
+
+
+ If you have never sailed a Sunfish before, the sail is attached to the spars with either plastic clips, or small ties.  Anybody i have ever met just puts the spars together and rolled up the sail.  It would be pretty silly to take the sail off the spar every time you de-rigged.  It would take at least an hour, and then you would have to reattach it again the next time which would take another hour.  Because you would have to go through and undo every one of those ties/clips.  There really is no downside to leaving the sail attached either, if you roll the sail right, it should not be detrimental to the sail.  you do not wrap the sail around the spars, you roll it up next to the spars, so there is really no wrinkles or pressure points on the sail. 
+
+
+
+
+ I agree I like the Sunfish for its simplicity and it's ruggedness.  I have sailed both the Laser and the Sunfish, but I still love the Sunfish. 
+
+
+
+
+ What in your opinion makes a Sunfish more complicated?  I own a sunfish with a racing rig, and it doesn't see hard at all. 
+
+
+
+
+ I would think the Sunfish are just as easy to rig.  Step the mast, and pull on the halyard. 
+
+
+
+
+ It seems like there are a lot of people that like lasers on here.  I am a fan of Sunfish, I have sailed both, and it is true that lasers are fast.  What I like about sunfish though is they are not so much work to sail.  The more square hull makes them much more stable than a laser and not so much of a work out.  Also in my opinion the Sunfish is a tougher boat than the Laser.  The Laser is all about speed, and because of that the hull is thinner, and also rounded.  I have had collisions while racing Sunfish that probably would have punched a hole in a Laser,  I can't even find a ding on the gelcoat on my sunfish afterwords.  As to speed, the sunfish is not slow in my opinion, but it is slower than a Laser.  
+
+To sum things up if you like speed and are looking for a sports car the Laser is probably better.  If you are looking for a more laid back fun boat that is easier to rig, more about sailing, and less about fine tuning everything, the Sunfish might be better.  That laid back atmosphere continues to the people who sail them.  Some of the nicest sailers i have met have been other sunfish sailers. 
+
+
+
+
+ Sunfish are a bit easier to rig in my opinion mostly because there are less lines and they are less complex. 
+
+
+
+
+ can someone explain what LV-N is and it needing oxidizer, and not needing it now? 
+
+
+
+
+ yea i agree, I almost wish there were more cool terrain artifacts like this. 
+
+
+
+
+ Mech Jeb is also excellent for giving you data on your rocket like delta-V and TWR honestly I barely ever use it for autopilot, i mostly just use it to figure out more data on my rocket. 
+
+
+
+
+ Yea you do, they are hydrofoils and create a lot of their downforce by moving through the water.  Also, speculating here, but i would bet that the ASDS doesn't have as much deck roll as people think.  It is a very big ship, and unlike many shipping boats, that are small and need these weights stabilize the boat,  the sheer size and mass of the ASDS is quite stabilizing on its own. 
+
+
+
+
+ would it be very hard to add an interface to allow the solar panels to charge the second stage?  It seems like it would just be adding some wires and connecting them to the batteries in the second stage.  You would also need to add point where the ires could disconnect when the dragon needs to disconnect from the second stage. 
+
+
+
+
+ that could be easily fixed with some solar panels. 
+
+
+
+
+ Wow that was a great answer 
+
+
+
+
+ The problem is OSHA can afford to sue companies many employees can not. 
+
+
+
+
+ I think they had problems with certain components freezing, like the fuel lines.  And they would probably need to add some solar panels to the side like the V2 trunk to keep it powered. 
+
+
+
+
+ I have seen in other places in these comments that SpaceX may try to fix this and use the upgraded upper stage to show that they are capable of relights after long amounts of time. 
+
+
+
+
+ I am pretty sure google lunar X prize is contracted for a different Falcon Heavy mission. 
+
+
+
+
+ If the pilot is incapacitated, if the pilot goes crazy, if someone decides to try and break their way in...   its not hard to think of reasons why its a god idea to have two people there. 
+
+
+
+
+ You mean no school bus? :(  
+
+Lol I think i would be just as excited for a mars mission as a school bus in space. 
+
+
+
+
+ Lol i can't spell 
+
+
+
+
+ Yea but as we can see, there are other reasons to always have two people in the cockpit. 
+
+
+
+
+ Are you referring to MH370 and German Wings as the two crashes caused by pilots?  There is no proof right now that MH370 was caused by the pilots.  Second I think especially in the case of German Wings, the problem was procedure.  In the US there are always 2 people in the cockpit.  This is for safety reasons when opening the door.  The pilot is supposed to check to see that is the pilot asking to be let in, but if he is the only one in the cockpit how can he without leaving nobody at the controls. You can never fully screen out crazy people from the system, that is why smart procedures are important.  In many crashes it is very simple to just blame the pilots even when there is evidence that it was not the pilots fault. (http://en.wikipedia.org/wiki/United_Airlines_Flight_811#Personal_investigation,
+
+Video explaining the latch issue and how Boeing blamed ground handlers: https://youtu.be/7n8JIbMF0og?t=31m58s
+
+
+http://en.wikipedia.org/wiki/Boeing_737_rudder_issues This is a list of incidents caused by faulty valves for the rudder causing the rudder to go hard over.
+
+Many of these crashes were originally blamed on the pilots, including a few that were blamed on pilot suicide.
+
+I am not saying German Wings was caused by the pilots, but often times it is much easier and there is a financial incentive for the investigation to find the pilots at fault. 
+
+
+
+
+ Ok I was not aware of that. 
+
+
+
+
+ Maintenance does not have to erase the recorder, there is a button in the cockpit that you push.  If you push and hold the button for two seconds, provided the plane is on the ground and the parking break is engaged, it will erase the flight voice recorder, but not the data recorder.  
+
+I could be a little out of date now, but from what i understand this feature was hard fought by unions when voice recorders were being introduced.  The unions wanted to make sure the voice recorders would only be used in crash investigation, and not be used by management to police pilot performance.  So if you are parked at the gate after the flight you can erase the voice recorder.
+
+You wanted a source, This is where I remember first reading about the ability to erase the voice recorder after a flight, but I have heard it from other airline pilots as well.
+At one station, two women are assembling control panels for cockpit voice recorders. Theres the erase button, says John Kerwin, vice president of operations. Ive never met a pilot yet who believes it works, but it does. And that illuminates one major problem with the idea of streaming data from aircraft in flight, at least as it pertains to cockpit audio: the near certainty that pilots will never stand for it. By law, cockpit voice recordings may be accessed only by investigators after an accident. When a flight arrives safely at the gate, the pilot hits the erase button. (It wont work in flight or during taxiing.) In the event of an accident, transcripts may be released as part of a report but not, as a rule, the actual recording. This is partly a matter of professional pride, partly to spare the feelings of pilots families if they are killed. But primarily it seems to be a labor-management issue. The Air Line Pilots Association, the aviators union, mobilized last year to fight a bill that would allow airlines to use voice and data recorders to evaluate the performance of cockpit crews
+
+http://www.wired.com/2011/06/ff_blackboxes/ 
+
+
+
+
+ I believe that for some carriers it is standard to erase the voice recorder at the end of the flight once you are parked at the gate. 
+
+
+
+
+ But the voice recorder is erased at the end of each flight. 
+
+
+
+
+ I saw a post over at /r/MH370 talking about how they were disappointed that even if the plane was found and black boxes recovered, it was likely that the voice recorder would not say much because it will have most likely looped over.  My question is why is the loop on the voice recorder so short?  Wouldn't it make sense to have the loop be 10 or maybe even 20 hours so that it is impossible for it too over write during a normal flight?  
+
+It just seems like this has happened a few times where the voice recorder has over written and it makes it a lot harder to understand what happened.  
+
+It also seems like storage space should not be an issue, new micro SD cards are as large as 120 GB so even with special designing to make the hard drive crash resistant, it seems like it should not be that hard to get a hard drive that has enough space for a few hours of audio recording.
+ 
+
+
+
+
+
+
+
+
+
+ I would guess that it can.  Often times it is human nature to underestimate objects like foam that seem harmless, because we are not used to dealing with them at their extremes.  Like when an [object is moving very fast](https://youtu.be/2eTRaJGDe-8?t=1m30s), or when there are [large amounts of something.](http://en.wikipedia.org/wiki/Boston_Molasses_Disaster)
+
+My guess is if the hangar collapsed it could create damage to the airplanes.  Just because of the weight of it all.  the question is how extreeme the damage would be. 
+
+
+
+
+ I remember reading in "Fate is the Hunter" about how you can drop your flaps real quick in an emergency if you need to gain some altitude real quick.  This would be a perfect example of where it could have worked.  But realistically he probably should have had some flaps before he even started the takeoff.  
+
+
+
+
+ Actually in many cases Thunder cells extend well above the capabilities of an Airliner,  and even if they don't technically go above the airliners capabilities sometimes you need to be flying lower.  For instance if the Plane is getting ready to start their decent into an airport, you can not be flying as high as the airplane can go, you need to be lower and getting ready to descend. 
+
+
+
+
+ I know that is what I am saying we knew almost exactly where Air France 447 went down, and it took 2 years to find it.  MH370 is more than likely going to take much much longer. 
+
+
+
+
+ oops lol 
+
+
+
+
+ That might have been true a week or a month after the crash.  But considering it has been a year, the probability has pretty much reached zero.  There is always a .0000001% chance but eventually .000000... just becomes zero. 
+
+
+
+
+ I was waiting for the Castaway reference. 
+
+
+
+
+ Well now we pretty much know exactly what happened to Air France 447 because we have recovered the plane and its black boxes.  
+
+Before we actually found the plane we had a basic idea.  We knew that the weather had been kind of stormy and that in the events leading up to the crash the plane had sent automated messages saying there were certain problems onboard like the pitot tubes(the sensors that say your airspeed) were not functioning properly.  So the best guess was somehow the stormy weather had brought down the plane.  We also found debris on the ocean confirming that it had crashed.    
+
+After finding the plane and recovering the black boxes a much more complete picture was created revealing that the storm had caused the pitot tubes to freeze over causing erroneous airspeed readings and causing the plane to send the automated messages.  that was just the seed of the crash.  The events that actually caused the crash stemmed off of that and were much more complicated.  Most of the reasons for the crash were the pilots being confused about what the planes instruments were actually telling them and what the plane was actually doing (the plane never said airspeed reading bad it just gave them erroneous readings) bad design of the cockpit(the joysticks for the two pilots in an airbus plane can move in two different directions at the same time unlike almost every other aircraft made.  During the crash one pilot was holding back the his joystick which was overriding the imputes from the other pilot the pilots did not realize this was happening for a long time, and only added to their confusion.) and many more factors
+
+read the wikipedia article.  https://en.wikipedia.org/wiki/Air_France_Flight_447
+
+Edit: Pitot not peto 
+
+
+
+
+ Thats what I am saying. Even when we found debris and knew pretty much exactly where it went down, it still took 2 years to find Air France 447. 
+
+
+
+
+ Did you find the Panama to Colombia Car ferry xpress? 
+
+http://www.ferryxpress.com/
+
+As soon as I watched this I was like ohh shoot this would help him out there.
+
+Also how long till you are in Quito? 
+
+
+
+
+ It could take a very long time to find MH370 if we find it at all.  It took 2 years to find [Air France 447](https://en.wikipedia.org/wiki/Air_France_Flight_447) and we knew almost exactly where it went down. 
+
+
+
+
+ No just a search and recovery, everyone is definitely dead. 
+
+
+
+
+ The plane of the rotor can be angled so that it is at an angle to the oncoming air.  In this case if you angle the blades all the way back the air coming off the prop hits the rotors spooling them up, even while you are stationary.
+
+Notice when she is taxing the rotor is parallel to the ground and the rotor is not spinning. But when the rotor starts spinning it is now at an angle. 
+
+
+
+
+ They work off of the same principal as an autorotating helicopter.  The little engine in the back gives it forward speed so air keeps moving over the rotor. 
+
+
+
+
+ Well Propulsive landing has been shown to be a viable option.  
+
+I would probably go with that, my runner up would be a lifting body shaped second stage with an heat shield plug for the top of the second stage  for landing you could go with something as simple as skis, or perhaps small landing gear.  the lifting body could even be efficient if you put the rp1 in the edges that can't keep pressure as well, and put the LOX in the center tank. 
+
+
+
+
+ I agree 
+
+
+
+
+ What happens if you try to reenter with a completely ablated heat shield? 
+
+
+
+
+ http://i.imgur.com/1FqRbm3.png 
+
+
+
+
+ Take a deep breath, and ask her if she want's to go do something together. 
+
+
+
+
+ I think vertical separation is an issue.   
+
+
+
+
+ Can you link to it here? 
+
+
+
+
+ You guys are so cool.  You should post more updates and pictures here like this. Maybe some pictures out the window and so on.  Good luck on the Pacific. 
+
+
+
+
+ Why do they do that?  it seems like putting the whole second stage in a fairing adds a lot of weight. 
+
+
+
+
+ Yea I agree I am getting pretty sick of privatization.  In theory it can work but in reality it usually just means that people at the top make a bunch of money and ruin what ever was privatized.  
+
+Imagine privatizing education.  We have seen how well that has worked with for profit colleges. 
+
+
+
+
+
+
+
+
+
+ Just wanted to say I don't agree or disagree with the article, I just thought it was interesting. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You guys are nuts.  At dominos all 10s and 20s go in the safe immediately.  I doubt our registers have more than 100 dollars in them ant any one time. 
+
+
+
+
+ No lol.  But I have been there when somebody makes a joke and it does not make sense so I figured I would cut out the middle man and help out the new redditors that don't get it. 
+
+
+
+
+
+
+
+
+
+ For some reason when I read that it sounds like a valley girl saying it in my head. 
+
+
+
+
+ lol I know that feeling.
+
+http://i.imgur.com/DRDrtmL.png 
+
+
+
+
+ ["It's got the stuff the country craves"](https://www.youtube.com/watch?v=-Vw2CrY9Igs) 
+
+
+
+
+ I never thought about bird strikes and tree strikes, that makes sense.    
+
+
+
+
+ You have a good point. 
+
+
+
+
+  Needs props
+
+That still cracks me up
+ 
+
+
+
+
+ http://3.bp.blogspot.com/-gG4S_v2pTQI/T0hP5t0pr2I/AAAAAAAAGFA/nUSK_PoZ-rg/s1600/washing_machine_brick_face.gif 
+
+
+
+
+ This might be silly, but why are airplane propellers not designed like boat ones.  Boat propellers have a nylon ring on the inside so that when your prop hits something the nylon breaks, breaking the connection between the prop and the motor preventing it from ruining your engine.  All you have to do then is go buy a new prop.  
+
+Edit: Didn't think about all the things that might hit your propeller besides a runway. lol 
+
+
+
+
+ Besides the tons of errors about flying(No you don't lay the hammer down going through a storm, quite the opposite), it perpetuates the fictitious belief that pilots are a bunch of unprofessional hotshots.  The kind of behavior that Denzel showed in the movie (sleeping while flying, drunk, doing drugs) would not make it anywhere in the airlines.  That kind of stuff is taken seriously if the other pilot can smell alcohol on you or suspects that you are drunk they can and are expected to report it immediately.  
+
+Pilots are professionals and you don't get to that level in aviation without being skilled, professional and a little luck.  It is extremely hard and only the best make it. 
+
+
+
+
+ He sexually Identifies as an Attack Helicopter.
+
+For anyone that does not know the context
+
+http://www.reddit.com/r/OutOfTheLoop/comments/2whf11/what_is_with_the_sexually_identifies_as_an_apache/ 
+
+
+
+
+ Yea I wish they would drive up there just for the heck of it though.  The pictures would be so cool like when spirit went up a mountain.  
+
+http://www.jpl.nasa.gov/images/mer/2005-09-01/pia04183-browse.jpg 
+
+
+
+
+ I wish they would drive the rover to the top of mount sharp 
+
+
+
+
+ Do we have clearance Clarence? 
+
+
+
+
+ You are right about the reentry burn pushing off the shockwave, but i disagree about the velocities.  The first stage is nowhere close to orbital velocity, LEO is close to 8 km/s  at MECO 1 the craft is only doing around 1.8-1.9 km/s so no where close to the velocities of LEO and what a reentering spaceship would be. 
+
+
+
+
+ Yea what gets me is there have not been any changes.  The same exact thing could still happen.  How hard would it be to add some feedback motors to the joystick so that both move the same way. 
+
+
+
+
+ http://www.asias.faa.gov/pls/apex/f?p=100:95:0::NO::P95_EVENT_LCL_DATE,P95_LOC_CITY_NAME,P95_REGIST_NBR:11-APR-15,FORT%20PIERCE,N7502S
+
+http://www.trade-a-plane.com/detail/aircraft/Multi+Engine+Piston/1970/Aerostar/601/2076612.html 
+
+
+
+
+ This is such a stupid design by airbus.  This could not happen on practically any other airplane because when you move one control column the other one moves with it. So there can never be any confusion about what the inputs are.  Besides the freezing of the peto tubes I think this dangerous design was what propagated the confusion and caused the crash of Air France.  
+
+They blame the pilots for not understanding the situation, but imagine how confusing it is for everything to be going haywire, and on top of that the inputs you think you are giving the plane are not actually what the plane is receiving.  It pisses me off that they just swept that under the rug. 
+
+
+
+
+ The co-pilot and the pilot are both completely capable of flying the airplane.  One of them is always the pilot flying. 
+
+
+
+
+ 400 feet is actually not that much for an airliner, and I can completely understand him being confused.  An oncoming plane would look like a bright star until only seconds before a collision. 
+
+
+
+
+ Yea I have not gotten to complex airplanes yet, but I feel bad for this guy.  Quick thinking by the guy, but I would be very worried about the damage done to the airplane doing a go around like that, very lucky in my opinion. 
+
+
+
+
+ I listened to it without sound the first time.  With sound it is way worse. 
+
+
+
+
+ A guy landed with his gear up and realized it just as his belly touched the runway, so he added power and went around.  Obviously that makes it sound a lot simpler than what he did in the video. 
+
+
+
+
+ They might be but I doubt it.  You also have to remember that the heating that the booster is experiencing is quite low, it does not even need a heat shield compared to the heats that the engines experience during a burn, the heat from reentry is much less significant.  
+
+The reason the heat is so much lower is because the rocket is moving much more slowly than a vehicle entering from orbit.
+
+Most of the stresses the booster experiences on its way to a landing are actually aerodynamic stresses not thermal. 
+
+
+
+
+ Creo que este video necesita el NFSW 
+
+
+
+
+ Exactly many people think that if we spend enough money, we can make this countries borders impermeable, and make ourselves completely save from terrorism/violence but no matter how much we spend you can never do it. 
+
+
+
+
+ It is not that hard to do it correctly.  A perfect example is the Saturn 5 compared to an atlas rocket, or even more extreme the Saturn 5 compared to a rocket the size of the Falcon 1.  The Falcon 1 would be way more inefficient launching the same amount of mass than one large Saturn 5.  And yes the things you mentioned above do make it harder but certainly not anywhere close to impossible the Saturn 5 is an example of that.  
+
+When I say do it correctly I am referring to to rockets like the Soviet moon rocket that was poorly designed and because of this lost the advantages from it being larger. 
+
+
+
+
+ See I never did those calculations partly because i did not know how.  So what ended up happening is a lot of times I would design a completely over powered ship.  But I can see what you are saying. 
+
+
+
+
+ I think part of the reason he was able to make the trip without getting killed was because of the gyrocopter he was flying.  Wether he planned it that way, or it was just luck, by using the gyrocopter(which is very small), and flying it very low and slow he was able to avoid a lot of the safety features that are used in that area.  
+
+If he had been in a normal small plane, he would have been picked up on radar, and he would have been intercepted, it has happened many times mostly from people accidentally entering restricted airspace by accident.  Jets would have come and intercepted him warned him to change course and follow instructions, and if he had continued they would have shot him down.
+
+Air traffic control even said that they saw him, but because his gyrocopter was so small and moving so slow they thought it was a flock of geese.
+
+So this brings up the final point while we could probably spend billions more dollars and get a radar system in the DC area that can pick up insects.  The question is why do we need to?  A gyrocopter this small is barely capable of carrying any weight, and even if he had had malicious intent and flown it into the capital it probably would have done barely any damage to the building.  You can see [this crash of a much larger small plane](https://en.wikipedia.org/wiki/2002_Tampa_airplane_crash) barely did any damage to the building.  
+
+So yea it does not look great that this guy  managed to fly his gyrocopter to the capital but considering that the risk he posed to the public was minimal I don't think that we should be going and spending even more money trying to lock down the DC are even more than it already is. 
+
+
+
+
+ You also have to remember that a lot of times especially lately in the house, they schedule votes on stuff that has no way of going anywhere just so they can say they voted on it.  It got ridiculous with Obama care.  A couple times a month the house would vote to repeal Obama care just so they could say in the next election that they had voted to repeal Obama care.  A lot of the knowing how your congressman has voted has just created a lot of political theater. 
+
+
+
+
+ Because of vaccinations :| 
+
+
+
+
+ The thing that makes me question this, is vaccines bruise you for a few days.  Its hard to imagine the mom would not notice.  If the kid is a baby than the mom would probably see the bruises and if the kid is a todler or something its hard to image the kid would not mention it, like "my arm hurts" or something like that. 
+
+
+
+
+ https://www.youtube.com/watch?v=3nhgfjrKi0o 
+
+
+
+
+ I understand what you are talking about, but that is only if you use the auto pilot.  Mechjeb is not just about auto pilot though.  Mechjeb gives you a ton of data like DeltaV, thrust to weight ratio, exactly how many seconds more of fuel you have, and a lot more, and you can break the data down by stage so when you are building your rocket you can see if your stages have the appropriate thrust  and such.  Thats the kind of stuff I use Mech Jeb for anyway, I think I have only done an auto launch once or twice because I wanted to see if Mechjeb would actually do it. 
+
+
+
+
+ This is sort of true, there are definitely engineering problems with scaling up, but when you do it correctly, scaling up can actually lead to a much more efficient rocket, because a larger percentage of the mass of the rocket is fuel compared to smaller rockets. 
+
+
+
+
+ Actually a lot of these things were in the works leading up to the Colombia disaster.  They were developing liquid fueled boosters, and they were also developing more powerful versions of the solid rocket boosters.  After Colombia though NASA questioned what the purpose of the shuttle was and decided to stop developing new technology for the shuttle, and use that money to begin developing a new rocket.  In fact they might have decided to bring the shuttle to an end earlier, but they needed it to finish building the ISS. 
+
+
+
+
+ You guys should come check out /r/New_Horizons its all about New Horizons and the upcoming encounter with Pluto  
+
+
+
+
+ They restart 4 times and while they are limited on how many times they can restart, if they wanted to restart more times they could just add more TEA-TEB to the next mission 
+
+
+
+
+ You are right they restart 4 times. 
+
+
+
+
+ Actually I am pretty sure that the Falcon 9 restarts its center Merlin engine 4 times.  Once for launch, once for retrograde burn to limit its downrange distance and eventually in the future bring it back to shore.  Once for reentry burn to limit its speed so it does not break up when it enters the thicker lower atmosphere, and finally the suicide burn that brings it in for landing. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ video is not working
+ 
+
+
+
+
+ I don't think they kissed in the tunnel. 
+
+
+
+
+ All he had to do was use a little flaps.  Correct procedure makes a big difference. 
+
+
+
+
+ What were they doing? 
+
+
+
+
+ Where did the guy go so quickly?  he only had a few seconds and then explosion and tones of debris.
+
+Edit: Just realized they cut it right after he left you can see the lighting shift just a little. 
+
+
+
+
+ wow that is an amazing theory.  but wasn't she using that moon tea and wouldn't they have noticed while she was in prison and when she was walking naked through kings landing? 
+
+
+
+
+ What makes you think she is pregnant? 
+
+
+
+
+ I think that came after or only a tiny bit before the red wedding though. 
+
+
+
+
+ Which passage are you talking about?  I would love to see that. 
+
+
+
+
+ Yea and it can be cost effective for the airport, I don't know why more of them are not doing it. 
+
+
+
+
+ I just noticed in that video he says "slightly below nominal" right after he reads off the altitude. 
+
+
+
+
+ Can't forget with the suborbital Mercury flights they were pulling around 10g's I think. 
+
+
+
+
+ Yo encontre esta mapa de las rutas de autobuses en Puebla. 
+
+
+
+
+
+
+
+
+
+ Thats how I feel Nobody really knows what to expect. 
+
+
+
+
+
+
+
+
+
+ Can someone explain what we are seeing? Are the early cutoff those plumes of smoke? 
+
+
+
+
+ There was a slightly early cutoff? 
+
+
+
+
+ Does anyone else think that it landed really close to shore?  
+
+It looks like they could have used a crane to recover it and if there had been crew inside they could have walked/swam to shore. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Astronomers can do a suprising amount with Earth based observations. For instance they have made accurate estimations of the [mass of Pluto and Charon](https://en.wikipedia.org/wiki/Pluto#Mass_and_size) by obserbing the orbital periods.  Using [spectroscopy](https://en.wikipedia.org/wiki/Spectroscopy) they can also learn things like the composition of the atmosphere.  All of these things are great, but all of them can be improved on greatly through a mission like that of New Horizons.  First of all you can measure things that are not possible to measure with ground based operations, like wether Pluto has a magnetic field.  You ask what is so important about a magnetic field?  Well the properties of a magnetic field can give you a great deal of information about the interior structure of a planet.  One of the biggest things a close up mission like this can do is give you clear pictures of what the body actually looks like.  This gives you a lot of science on its own.  Up until now this [picture taken by Hubble](https://upload.wikimedia.org/wikipedia/commons/9/91/Pluto_animiert_200px.gif) is the best one we have had of Pluto.  The flyby wil give us incredibly clear images of the planet that should give us all kinds of information.  Since this is the first Kuiper Belt object we will fly by we don't really know what to expect.  That is part of what makes this mission so amazing, for the first time in decades we are getting ready to fly by an object we know very little about.  It is comparable to the first time we flew by Mars with [Mariner 4](https://en.wikipedia.org/wiki/Mariner_4), the first time we flew by Jupiter [Pioneer 10](https://en.wikipedia.org/wiki/Pioneer_10), or the first time we flew by Uranus and Neptune with [Voyager 2](https://en.wikipedia.org/wiki/Voyager_2). 
+
+TLDR:  There is no substitute for close observations of a planet and with the different instruments on board we should be able to extrapolate a lot not only about Pluto and its past, but about many other Kuiper belt objects. 
+
+
+
+
+ /r/Puebla esta abierta horita. 
+
+
+
+
+ Venga a /r/Puebla horita esta abierta. 
+
+
+
+
+ Come check out /r/New_Horizons we are posting updates all the time. 
+
+
+
+
+ /r/Puebla es la nueva lugar de este Subreddit / /r/Puebla is the new location for this subreddit. 
+
+
+
+
+ Hola todos y Bienvenido a /r/Puebla!!! Esta es el primer anuncia del subreddit y Qu mejor da para abrir esta subreddit de Cinco De Mayo! 
+
+
+
+
+ Yea I understand that.  If it does pass I sure hope that it gets struck down. 
+
+
+
+
+ I strongly believe that when punishment starts to become disproportionate to the crime people loose confidence in the system.  It is hard to believe that someone might get jail time for this and that they would have to register as sex offenders.  These rulings are proof that our judicial system is broken. 
+
+
+
+
+ Happy Cinco De Mayo Everyone.  If anyone has any questions, comments, theories about Pluto, please post them.  This will be our first comment thread. 
+
+
+
+
+ yea i found the tarantino one after i made this post. 
+
+
+
+
+ I don't get how this is constitutional? 
+
+
+
+
+ Wow I did not know that, thanks. 
+
+
+
+
+ Yea I get that and i have been throwing caution to the wind more lately. 
+
+
+
+
+ Where did this rule come from? 
+
+
+
+
+ I thought she was married? 
+
+
+
+
+ I have about 70 hours and I got my PPL about 2 years ago.  Its a bunch of fun.  
+
+My best advice to you as a new pilot is never get complacent.  Be exact and precise and most of all be cautious.  When you start to feel like you have got it all down and start to push the envelope is when it will come and bite you in the butt.  Their are old pilots and their are bold pilots but their are no old bold pilots. 
+
+
+
+
+ Can you link them? 
+
+
+
+
+ That was pretty good for your first landing.  I had a "death grip" on the controls according to my instructor during my first lesson.  I probably could not land it like that until I had 10-15 hours under my belt.
+
+You should post this over at /r/flying.  We love to see new pilots over there. 
+
+
+
+
+ Yea I just pulled 5 off the top of my head.  
+
+but if you have feelings for a girl, show/tell her. You'll find out quick whether she feels the same.
+
+I have been realizing this more and more.  I have been going with the theory that i have nothing to loose and it has been working out for the most part. 
+
+
+
+
+ But sometimes either a guy just does not realize a girl is interested, or they value the friendship more than the 5% chance they might become their girlfriend. The least a girl can do is give bit more hints. 
+
+
+
+
+ I think any of the basic three emergency services (police, ambulance, firefighters) really should never ever be denied to someone no matter the fees or insurance or whatever. They're emergency services, surely you can fight about money after the emergency has been dealt with.
+
+Those things are great, but they are not free.  Who would pay for them?  I understand why you think this is messed up, but no one would pay if they could just pay when their house is burning.
+
+The problem you have here is a classic [Tragedy of the Commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons).  If you were to play the good guy and put out the fire for free, than word would spread and everyone would stop paying their fee.  You may say well maybe they could pay a big fine afterwords for putting out the fire without paying the Fee.  That would not solve the problem for two reasons.  One the Fire Department needs a regular source of income to stay operational.  You might go years without a fire in a rural area like that and without a source of income the fire department would close for lack of funds.  But the very next year you could have 10 fires and nobody to fight them.  The second is I bet many of these people living in these rural areas would not be able to or unwilling to pay the fine which would be huge on the order of a few thousand dollars.  They would say "All they did is spray some water! Why does that cost 10,000 dollars?"
+
+I think the obvious solution here is to change the $75 fee into a tax.  That way everyone pays for something that is beneficial to everyone.  This is precisely why we have taxes, to fund basic things that everyone needs but would not pay for on an individual basis if they were not forced to.  Everything you do everyday is paid for by your taxes roads, schools, bridges, police, and yes Fire departments.  I think this is a perfect glimpse of the kind of things that happen in a country with "small government" and little to no taxes.  Imagine if we lived in a country like that where we let peoples houses burn down because they didn't pay a silly fine.  Imagine if we lived in a country where we let people die because they could not afford health insurance...  ohh wait we do.
+
+Edit: I would honestly like to know how you think we should pay for these public services? 
+
+
+
+
+ Exactly what is cheaper building a new rocket or cleaning up and fixing an old one.  This is why Elon puts so much emphasis on rapidly reusable.  If you have to refurbish the whole thing before the next launch it gets to be just as or more expensive as new rockets and you have to start to question why you don't just make a new one.  Fingers crossed for good results from landed booster when they go to test it.  Rapid reusability could change everything. 
+
+
+
+
+ This is exactly the problem with public companies.  A lot of times it does not matter how much money you make in the next year, it matters how much you will make 5-10 years from now.   
+
+
+
+
+ https://www.youtube.com/watch?v=oZIzreiseMk
+
+Actually the scene was a little bit plausible lol. 
+
+
+
+
+ Yea I am just surprised that this is not included.  It would be like if we gave people felonies just for being arrested, and then they were felons until they got the proven not guilty in court. 
+
+
+
+
+ Yea in the US it is the other extreme.  Business is king. 
+
+
+
+
+ How do you learn to fly one of those? Do they have trainer versions? 
+
+
+
+
+
+
+
+
+
+ I read [this story recently](http://www.opposingviews.com/i/society/crime/colorado-woman-sentenced-lying-police-about-kidnap-and-rape-never-happened) about how a man was falsely accused and because of it lost his job and was not able to find a new one because of the accusations.  This is not the first time I have heard of this happening to people, where they face retribution at work for crimes that they have not been convicted of.
+
+My question is how is it legal to fire someone for a crime they have not been convicted of?  What has happened to innocent until proven guilty?  It is not like this is in the shadows, many companies even have policy of not hiring anybody that has charges pending against them.  It sounds like now even getting accused of a crime is enough for a business to fire you.  They don't even wait to see the results of a trial. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I know where I work the driver who you tip keeps the tips.  There is no tip pool or anything like that.  So if you decide you want to give a driver a 10 dollar tip he gets to keep it and you have really made his day. 
+
+
+
+
+ I was under the impression that Mellisandre was just a temporary POV which we have seen GRRM do a few times in the recent books.  And when I mean central character I mean central to the overall plot of the series.  He has killed off main characters like Catlyn, Robb, Joffrey, Robert, and Ned.  But those characters while central and important, were not the same as Characters like Daenerys and in my opinion Jon Snow.  In my opinion the books are about certain characters more so than others.  I think Daenerys is obviously the main character of the whole series and on the second level I think Jon Snow, Tyrion, Arya, and Bran, are all central characters to the overall plot of the books.  I am not saying that these characters could not die, but I am saying that in my opinion these five characters are much less likely to get killed off than other main and POV characters who are more incidental to the plot of the books. 
+
+
+
+
+ Yea I understand that OSM is not trying to be the next Google, But i feel like if we are going to get people to start using OSM it not only needs to have the data, but it needs to be convenient to find that data and use it.  I think OSM has been doing a great job at improving the quality of the maps, but I feel like the different applications to make that data useful to the average person, are still lacking. 
+
+
+
+
+ Wow That is a little suspicious lol.  That might explain the scared/rushedness lol. 
+
+
+
+
+ Not really during launch and assent,  there were barely any options for abort,  add that to the risk of foam and ice hitting your heat shield like what happened with Columbia.  A great of example of the lack of abort options was shown with Challenger.  If that had happened to Apollo than the abort system would have kicked in and the crew may have survived.  Challenger did not have any abort options during that part of the flight. 
+
+
+
+
+ How does having the door come open cause that? 
+
+
+
+
+ I still think he is not dead.  I don't think GRRM would kill off Snow he is one of the central characters, and the only POV at the wall right now.  I thought Tyrion was dead when he got pulled into the river.  GRRM Likes to leave you on cliff hangers. 
+
+
+
+
+ I also remember them mentioning that Stannis tied some deserters to a trebuchet and was prepared to launch them out of Storm's End while it was being sieged. 
+
+
+
+
+ I feel like the number one reason that i don't use OSM for my everyday map searches and stuff is because the search function in OSM is so bad.  Unless you type the name exactly as it is the search comes back wrong.  Usually i will do my searches in google just because it is so inconvenient to try and figure out why OSM is not giving me the correct results.  Does anyone else have this problem?  How can we fix it? 
+
+
+
+
+ I agree I have a hard time believing that the Governor of Texas is this stupid.  I feel like there has to be some other motivation.  Maybe he feels like this will help him in election season.  He can say he stuck it to Obama and protected Texas. 
+
+
+
+
+ That is a whole other matter.  I am so done with money in politics. 
+
+
+
+
+ What will be the stupidest possible outcome, it if they ban the lantern thing because of this.  I am so sick of things getting banned or heavily regulated because of some silly accident.  Life isn't safe or perfect it seems like everyone else in the world knows that why can't we figure it out in the US? 
+
+
+
+
+ I really wonder how far it will go.  I think eventually if it does not stop the Republican party will either split, or become irrelevant.  In the case of the latter the Democratic party will move more and more right until it eventually splits basically returning things to the norm.
+
+That is my theory anyway. 
+
+
+
+
+
+
+
+
+
+ That makes me smile, I don't know why. 
+
+
+
+
+
+
+
+
+
+ http://www.msnbc.com/rachel-maddow-show/cruz-tries-blame-obama-2008-crash?CID=forwardprogressives 
+
+
+
+
+ How did you do? 
+
+
+
+
+ Progress and ATV are both capable of docking where the ATV is shown in the diagram.  All the ports are the same on the Russian side.  In fact when progress comes its more or less default location is the rear docking port where the ATV is in the diagram.   
+
+
+
+
+ Ohh i get what you are saying, dragon is attached to the bottom front not the front.  I forgot about that.  I guess you could move the docking adapter and attach dragon to the end, but that would be a bunch of extra work. 
+
+
+
+
+ Thats what gets me whenever people say that it is facing the wrong way to do a boost, The station is not stationary, they can and they have flipped it around, it would not be unheard of to turn the station backwards in order to preform the boost.  
+
+
+
+
+ Dude you need to spell check. 
+
+
+
+
+ I honestly feel like taking a company public in this day and age is like giving it poison.  It might not kill it in a year or even 10 years, but it seems like companies always begin to go downhill after they go public.  It becomes all about increasing profits and not about the product anymore and it just seems like these days all investors care about is sucking money out of your company, and when it dries up they move on to the next one.  
+
+Although I would love to invest in them, I am super glad that Elon has made the decision to not take SpaceX public.  Investors would turn it into another ULA and completely kill off development in anything that did not show the potential to be profitable within 5-10 years.  It would completely kill what makes SpaceX SpaceX.  I think Elon has even hinted in interviews that he knows that this wold happen if he were to go public.  He just uses more polite language. 
+
+
+
+
+ I would say the Dragon V2 reveal and now the Tesla Power wall have both been big hits.  I think they have been doing a pretty good job.  You also have to weigh in the fact that Elon is becoming a bit of a star so people will naturally want to hear what he says.  Just having him him do the presenting creates hype around whatever it is he is presenting.  Even if he stammers here or there, the enthusiasm shows through, and it feels genuine.  Personally I thought the Dragon V2 reveal was great, and while the Tesla today wasn't as smooth, it was just as exciting. 
+
+
+
+
+ I thought progress could refuel Zvezda?  Is that wrong? 
+
+
+
+
+ I recently read an article where they were talking about how they actually have been having a little too much water lately, and have been having to store it for longer and longer amounts of time. 
+
+
+
+
+ So why don't they try to utilize it more?  Unless I am wrong NASA pays the same amount weather the Trunk is empty or full, and adding some unpressurized boxes with food would not cost practically anything to develop. 
+
+
+
+
+ I completely agree I think the central problem to our system right now is the money, and probably gerrymandering.  I think if you get rid of the money suddenly a lot of issues will no longer be issues, like climate change. 
+
+
+
+
+ So in light of the recent events with Progress M-27M there has been a lot of talk around the subreddit about there being more pressure on SpaceX because of the lack of very many alternative cargo vessels.  There have been many questions about why SpaceX can not re-boost the station or carry more supplies and so on. My question is, why does SpaceX not try and utilize it's trunk more on Dragon?  
+
+I feel like there are a lot of possibilities for how the trunk could be used, like a propulsion module for giving the station re-boosts which could be either fired up while still attached to dragon, or removed and attached to a better spot on the station.  Maybe just some fuel tanks that can be used to refuel the Zvezda module, or stored externally on the station until they are needed.  
+
+I also think a pressurized container to go inside the trunk would maybe work.  The Canada Arm could take it out and attach it to a different docking port allowing for the transfer of more materials.  You could even go with a simple unpressurised container that you would take out using the Canada arm and store externally on the station, retrieve on a space walk, and bring in the through the airlock.  This could be stuff like freeze dried food, where it does not really matter if it travels unpressurized.
+
+So why are some of these ideas not viable?  It has been shown that the Falcon 9 can carry more weight and still land the first stage, and with the v1.2 they will have even more available mass.  On more than one occasion the trunk has gone completely empty, which just seems like a waste.  What are the reasons behind not trying to utilize trunk more? 
+
+
+
+
+ Yea or some sort of propulsion module that could be taken out and attached to the proper place to boost the station. 
+
+
+
+
+ Honestly it would not be a surprise.  After all pad abort was supposed to happen in December.  
+
+
+
+
+ Yea that too, it's just embarrassing.  I honestly think that some of this stems from Obama being black.  I think part of the reason many people don't respect him and don't trust him is because he is black and continuously or subconsciously this makes them view him differently.
+
+its just crazy when you here things like people thinking Obama is the biggest threat to the USA and getting ready to create shariah law, or dissolve the government or something crazy.  
+
+
+
+
+ Yea I think I can agree with you there.  Ironically though that hasn't stopped the right from calling him a monarch and a dictator. 
+
+
+
+
+ While this may be true, I have to argue that some of the stuff is legitimate stonewalling, like immigration, and comprehensive climate change reform. 
+
+
+
+
+ Yea before i thought she was just a charlatan, but after that chapter i realized she was completely committed to her beliefs, and some of her magic actually works.  That was a big deal to me because up to that point i thought she was faking everything.  Now I realize she just fakes some of the more flashy stuff but at least from her point of view the bigger and more difficult stuff is completely real, which is kind of terrifying. 
+
+
+
+
+ your comment implies tyrion 
+
+
+
+
+ That's weird it is working for me. 
+
+
+
+
+ Yea I was going to say when was that last updated, he is way more done with book 6 than that. 
+
+
+
+
+ Yea I thought the one chapter from the POV of the Melisandre was great.  It really added a lot of depth to her character that I did not realize was there.   
+
+
+
+
+ I don't even remember that lol.  I guess this is where it is good i watched the 1st season of the show before i started reading the books.  
+
+I have not watched any other seasons of the show. 
+
+
+
+
+ Spoiler!!! [Tyrion is not dead](#s) 
+
+
+
+
+ I am going to pop the hype bubble a little bit, and ask...
+
+What would change if Bernie Sanders was president?  The Republicans have shown that they can stonewall pretty much anything Obama wants, and Obama is much more center than Bernie.  There were some big campaign promises given by Obama, that congress pretty much shut down, like ending Guantanamo.  
+
+I really want to know, how would Bernie be able to govern more effectively than Obama?  I think he is great, but how is he going to be able to get anything done with congress the way it is? 
+
+
+
+
+ Yea, that is how I feel I don;t get why we are hiring this company which will get a huge percentage of the profits.  I think that if they do build it they should put the tolls towards improving public transit. 
+
+
+
+
+ How would United Airlines make that kind of mistake?  Is it a tactical decision? 
+
+
+
+
+ You should come subscribe to /r/New_Horizons. We post updates all the time. 
+
+
+
+
+ ~~This would not be a problem except the footprint of the wheels of curiosity are not siginificantly larger than Spirit/Opportunity so the pounds per square inch is much larger on the wheels than Spirit/Opportunity.~~
+
+Edit: I was wrong. 
+
+
+
+
+ you should post this over at /r/New_Horizons  
+
+
+
+
+ I really hope the state changes things in 2016. 
+
+
+
+
+ This is also why safety nets and welfare are a good thing.  When a worker knows that he won't starve or loose his stuff he is more likely to quit and try and find a better job.  By giving people the option of welfare they are less likely to put up with the crap from a bad employer. 
+
+
+
+
+ What most people that want to get rid of the minimum wage seem to forget about, is that many people that work for minimum wage are already receiving public assistance.  This basically means businesses are shifting their labor costs onto the government.  So by getting rid of the minimum wage businesses would most certainly pay workers less which is effectively just shifting more of their labor cost onto the government.  
+
+Walmart does this in mass, and the irony is many of those workers turn around and spend their government assistance, like food stamps, at you guessed it, Walmart.  Walmart has pretty much made a business out of being the place to spend your government assistance like food stamps. 
+
+
+
+
+ I need a banana 
+
+
+
+
+ Those electronics might still be good, if it all works I would estimate you have about $50-$100 worth of electronics there. 
+
+
+
+
+ I can't tell whos subreddit it is so i don't know if they have been active or not, but they have not responded to my messages.  I would like to make the subreddit public and make it about the Mexican state of Puebla 
+
+
+
+
+
+
+
+
+
+ I have tried reading it, but i was super bord with it, does it get more interesting as you read? 
+
+
+
+
+ lol 
+
+
+
+
+ My problem is I feel like the writing degraded and I felt like the plot was rushed.  When comparing the first and last book, the plot of the last book is so much less developed than the first.  The PTSD thing was interesting though. 
+
+
+
+
+ http://www.troll.me/images/waiting-skeleton/waiting-skeleton.jpg
+
+Still waiting for Winds of Winter 
+
+
+
+
+ I have started to realize that he kills off all his characters to continue the plot.  Many authors jump through all these hoops to keep everyone alive.  For George R.R. Martin if a characters death is necessary than he does it.  When you go back and look at everyone who has died, you begin to see that many of the deaths had lasting effects for the story line.  One of the largest such deaths was the death of Ned Stark.  Ned's death basically began all the events for the next 4 books.  Kahl Drogo's death set in motion Daenery's story line.  The examples go on and on.   
+
+
+
+
+ Thats How I always feel when I make posts.  A little while later somebody comes along and gets all the karma. 
+
+
+
+
+ You should post this at /r/New_Horizons 
+
+
+
+
+ You guys should come check out /r/New_Horizons 
+
+
+
+
+ Come check out /r/New_Horizons 
+
+
+
+
+ You should post this over at /r/New_Horizons 
+
+
+
+
+ You should post this over at /r/New_Horizons 
+
+
+
+
+
+
+
+
+
+ You guys would come subscribe to /r/New_Horizons. We post updates and everything else related to New Horizons.  
+
+I am totally pumped for the flyby in June 
+
+
+
+
+ Well obviously not, they are specifically built so the front does not fall off. 
+
+
+
+
+ Something i have wondered is why don't they use something like Methane, natural gas, or propane to pressurize the tanks?  I understand that helium and N2 are inert and everything, but without an oxidizer, what is the difference? 
+
+
+
+
+ Why can't they get rid of Helium on Falcon? 
+
+
+
+
+ In your picture Cygnus seems more on par as far as size compared to dragon.  I don't think they are the same size in your picture as they are in the post. 
+
+
+
+
+
+
+
+
+
+ If there was a mod like this it would be awesome with remote tech 2 
+
+
+
+
+ Also you do not just pull the pants up and call it a day, that would be uncomfortable. You have to tuck the boxers down your pant legs like you tuck in a shirt. That way the boxers lay flat with the pants and are not a big wad at the top. 
+
+
+
+
+ Also you do not just pull the pants up and call it a day, that would be uncomfortable.  You have to tuck the boxers down your pant legs like you tuck in a shirt.  That way the boxers lay flat with the pants.  
+
+
+
+
+ Best music ever. 
+
+
+
+
+ I think they said in the AMA that they are not planning on adding any more planets for the time being.  But honestly i would love it if they added a saturn like gas planet 2 
+
+
+
+
+ Or it would be really cool if you could build space telescopes to make them un blurry. 
+
+
+
+
+ What do you mean? 
+
+
+
+
+ Yea my first rescue mission was with a space capsule that did not have a docking port.  It was also my first time randevuing.  The funny thing is I did not think to eva everyone lol.  I built this cool claw contraption using landing legs to keep the craft I was pushing in the line of thrust, and de-orbited it :D.  Then I turned around and thrusted to put my rescue craft back into orbit so it would not get deleted in the atmosphere.  One of my most satisfying moments in KSP.
+ 
+
+
+
+
+ That is SpaceX's niche. There are some customers that need that full 100% and that is where many other rocket company's make their money. 
+
+
+
+
+ Silly question, but why can't they just design an engine that is very similar to the RD-180?  They have tons of them couldn't they just reverse engineer them and make some changes. 
+
+
+
+
+ F9 is my wild guess.
+
+Secondly how do you account for it crossing squares during reentry? 
+
+
+
+
+ Yea but you also have to remember that the political situation has changed a lot since then.  The country as a whole is definitely moving left and as many have mentioned the electoral college favors the Democrats.  I think it will be interesting to see how Republicans react if they do loose in 2016. 
+
+
+
+
+ They economy has gotten a lot better in the last 2-4 years, but you would not know it watching Fox News or listening to the GOP leaders. 
+
+
+
+
+ Yea i hate when they charge you a fee so they can give you money you can only spend on campus it is a total rip off.  At least at my college you can use that money at some of the local businesses. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+ Could you perhaps try
+
+     String.format("%02d:%02d:%02d", hour, minutes, seconds); 
+
+
+
+
+ I would consider using python! Python is a scripting language and is pretty easy to pick up and learn and you can do a lot with it - that's why it is used as an intro language for lots of CS courses. 
+
+There are also a lot of modules you can use to help you create nice things such as PyGame etc. I would definitely consider giving it a look.  
+
+
+
+
+ http://i.groupme.com/400x300.jpeg.d8af482b085f4adfa98a846fa1d0e385 
+
+
+
+
+ my first thought  
+http://img3.wikia.nocookie.net/__cb20130331234508/aladdin/images/e/e1/Genie.jpg 
+
+
+
+

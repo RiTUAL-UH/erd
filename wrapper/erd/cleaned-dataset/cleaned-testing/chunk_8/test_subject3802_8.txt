@@ -1,0 +1,566 @@
+ But... It does. When you say "overlap" it just sounds like a duplication of features when it is simply not the case, if they have different implementations then they will break and neither gravity box's nor the ROMs implementation of that particular feature will work (see: quick settings on omnirom) 
+
+
+
+
+ An alternative is to use light flow, it can do this for you and then you can use any messaging app you want.  
+
+
+
+
+ ...well, yeah. You were the one that said that it won't "interfere" with the ROM, I was just pointing out that it will (and thereby do more than just "overlap") 
+
+
+
+
+ Well... Yeah it does. It broke omniroms quick settings before the gravity box dev added an option to disable tweaks individually. And if you install it on cm and enable pie controls in both it breaks that. Its really only meant for stock.  
+
+
+
+
+ That's because they strip a lot of stuff though. Factory images for nexus devices are typically 400mb+ 
+
+
+
+
+ No, it really is that bad. As a non-american I notice at least 2 carrier posts on the front page at any given time. I simply down vote and hide them but it is somewhat annoying - it makes as much sense as posting about ISPs in /r/windows or /r/Linux since that's how they access the internet.  
+
+
+
+
+ I think the problem with that is that there are some girls that will offer to pay for things but expect you to not let them do so, and if you don't you're not being a gentleman. (or perhaps I've just been going on dates with shitty girls) 
+
+
+
+
+ How does using a different ROM affect the screen? 
+
+
+
+
+ The point is, the exploit they "burned" was one that many jailbreak developers used to find other, more difficult to discover vulnerabilities, since the exploit was apparently a very easy one that has worked on every iOS version since comex discovered it. Now that they've used it, it will be patched, causing any and all jailbreak efforts from here on in to take a significantly longer amount of time. You're probably right about them sitting on an exploit until iOS 8 or 8.1, but the problem is that now, they may not even find an exploit in 7.1 to sit on until 8, meaning the community will have to wait much longer. This also affects all future iterations of iOS, not just 7.1 and 8. 
+
+
+
+
+ Question: how did the photographer get such a paper-thin dof? 
+
+
+
+
+ Xposed automatically creates an xposed-disabler.zip on the sdcard upon installation. No need to download it.  
+
+
+
+
+ Best I could do with such a low quality image. http://i.imgur.com/Jxt9T3i.jpg 
+
+
+
+
+ http://i.imgur.com/u6Z4FWE.jpg 
+
+
+
+
+ http://i.imgur.com/9HzBTFm.jpg 
+
+
+
+
+ If you're going to root may as well just use appopsxposed 
+
+
+
+
+ Unless you side loaded the apps, which doesn't require having a Google account.  
+
+
+
+
+ Have the 20d, can vouch. 
+
+
+
+
+ How is this even remotely helpful? 
+
+
+
+
+ Yeah and it works just as well as PA.  
+
+
+
+
+ Make sure busy box is installed and that  /system is mounted as RW 
+
+
+
+
+ Do you have any more pics? 
+
+
+
+
+ I believe there us a dictionary all that you can install where you can highlight text in any all and then share it to the dictionary app for a definition.  
+
+
+
+
+ Actually its a font set by the guy that took the screenshot. In touch wiz you can apply systemwide fonts. Look at the clock.  
+
+
+
+
+ He probably had a legitimate reason to fall over, I really doubt there was a sni- 
+
+
+
+
+ I had this problem for ages on my old Samsung device. I wiped my phone, flashed new firmware on my router, did everything I could but it consistently happened. A data wipe would fix it for a bit but it would simply happen again. The only way I was able to fix it was using an app called Mac Changer, which changes your device's MAC ID so your router thinks it's a different device. Every time the obtaining IP address thing happened I'd generate a new Mac address and it would work for another day or so. Only thing is, the app requires root.  
+
+
+
+
+ Omnirom nightlies with Gravitybox is an awesome experience. Been rocking them for a while with no issues.  
+
+
+
+
+ Didn't they say that when 4.4 dropped though? They probably just hid it again.  
+
+
+
+
+ Not sure but it probably would have been a smarter idea to cover all your bases before just giving up. 
+
+
+
+
+ Did you make sure that /system was mounted in recovery? Do you have the latest version of your recovery and supersu? These are all things to check.  
+
+
+
+
+ "away" 
+
+
+
+
+ I've been using a combination of Omnirom and Xposed modules for things like Quicksettings customisation and lockring targets and its working quite well, you should give it a go. 
+
+
+
+
+ All of them. Omnirom are focusing on their original features (namely active display and their new incoming call screen) before they start porting over the more common ones. This means that features you have come to expect from custom roms (since they are in almost all of them) are not present, such as lockring targets and quicksettings customisation. In the mean time, I'm using Xposed with Gravitybox to bring those features to my device. Active Display alone is worth flashing for. 
+
+
+
+
+ No. 
+
+
+
+
+ Yeah xhalofloatingwindow can do this.  
+
+
+
+
+ Search parameters work on YouTube:
+
+"Song name -cover -acoustic" 
+
+
+
+
+ Just FYI: you can hide people from appearing in your news feed. Just go to their profile, clicks the "friends" button and untick "show in news feed" from the drop down options.  
+
+
+
+
+ Official nightlies haven't dropped but they are actively working on the KitKat branch (CM11) so anyone can build for their own device. There are heaps of unofficial builds on xda, just have a look around, but I'd suggest euroskank's KitKang - it has a bunch of cherry picks and customizations that aren't found in other builds.  
+
+
+
+
+ Uhh, are you aware that that's a downgrade? 4.4 - 4.3 will probably mean that the radio and possibly bootloader won't work, so you'll have to downgrade those first. You can do this by flashing the 4.3 factory image. 
+
+
+
+
+ Its a separate activity in the same app. Its the same way that g+ used to have an icon for messenger even though it was just apart of g+.  
+
+
+
+
+ Tasker? 
+
+
+
+
+ you have to have stock recovery to install OTAs. TWRP is what is causing the issue. 
+
+
+
+
+ Gravity box.  
+
+
+
+
+ I remember having many nights like this with my ex girlfriend, its a connection that runs so deep and something that I will never forget. That feeling of someone truly getting you and you getting them, it's indescribable. I'm in tears now because I am so afraid of never having that ever again. I miss it so much.  
+
+
+
+
+ Best bet is to flash the [factory image](https://developers.google.com/android/nexus/images#occamkrt16s). This will get you a working device on the latest possible stock. 
+
+
+
+
+ I think Cataclysm   Omnirom have this. 
+
+
+
+
+ People are more likely to come to reddit with issues than "everything is fine" posts. Its a vocal minority - the update is fine. 
+
+
+
+
+ Because Android runs on all sorts of hardware, its difficult to write native code that will play nicely on all the devices its available to. So, to combat this, Android ships with a VM - the Dalvik VM. This means that developers can write their apps in Java which are then translated into native code on the fly for the device. This extra compatibility comes at a cost: performance. ART is Google's effort to help lower that cost and increase performance. Instead of compiling the apps at runtime, ART completely pre-compiles all the apps on your phone (theoretically) making them faster to launch.
+
+^ this is a very basic understanding and something that could have been Googled. 
+
+
+
+
+ It has new more original features than other Roms but not any of the ones you've gotten used to (quick settings   lock screen customization for one). Will definitely be keeping an eye on nightly progress though.  
+
+
+
+
+ Yeah I think its more likely that people are going feature phone - android phone than iPhone - android.  
+
+
+
+
+ **THE LIBRARY** 
+
+
+
+
+ This is already implemented in a bunch of 4.4 ROMs, and has been for a while. 
+
+
+
+
+ Apex and Nova both offer this feature. 
+
+
+
+
+ This was on the front page of reddit yesterday.  
+
+
+
+
+ You have to be rooted. 
+
+
+
+
+ There is a noticeable performance increase. It's marginal, but still there. 
+
+
+
+
+ I've got it working with Advanced Reboot Menu (CM doesn't come with reboot to recovery or bootloader options, which I use a lot), but a lot of the modules don't work properly since a lot has changed in AOSP. 
+
+
+
+
+ It's a framework that hooks into the Android system files that allow the changing of those files on the fly (versus flashing or overwriting the files for individual mods). This has many benefits such as ease of use, and increased mod compatibility - such as two different mods that make changes to systemui - instead of having to choose between the two mods (since installing one on top of the other will only make the last-installed one active) they can now be implemented side-by-side. 
+
+
+
+
+ 4.4 brings systemwide emoji  
+
+
+
+
+ The issues TWRP had with flashing 4.4 ROMs have been fixed in the latest version (2.6.3.3). 
+
+
+
+
+ Just FYI that's a 4.3 build. 
+
+
+
+
+ Currently on [gearheadcustoms' CM11 build](http://fitsnugly.euroskank.com/?rom=cm11 device=mako). Has pretty much all the features I was missing from 4.3 ROMS (customisable quick settings, lock ring   nav ring targets, hold back to kill app - to name a few) and very quick with ART enabled. Haven't run into any issues thus far. 
+
+
+
+
+ Try clearing data for Snapchat maybe? I was having frequent crashes on 4.3 but since updating to 4.4 I haven't had a single one (and I use snapchat every day). 
+
+
+
+
+ http://forum.xda-developers.com/showthread.php?t=2527806 
+
+
+
+
+ We'd rather have Abbott fight climate change.  
+
+
+
+
+ To receive the ota update you have to be 100% stock (stock ROM, stock recovery, unrooted). I don't see PA pushing a build anytime inside a month tbh.  
+
+
+
+
+
+
+
+
+
+ There is no such thing as group SMS. Group SMS is always an MMS.  
+
+
+
+
+ Has anyone tried cataclysm? My friend is running it on his n5 but I'm not sure if its worth trying out on the n4 since the dev doesn't actually have the device.  
+
+
+
+
+ Everything is pretty bare bones at this stage in the game, however, I found slimkat to be a little bit laggy in comparison to the others.  
+
+
+
+
+ Running 4.4 and I am unable to reproduce this bug.  
+
+
+
+
+ You can't post a text post and a link at the same time, if that's what you're trying to do.  
+
+
+
+
+ There are quite a few kitkat ROMs already (well, for the N4 anyway) and you have to realize that the majority of Kitkat talk is coming from Nexus 5 users, of which there are quite a lot in this sub. 
+
+
+
+
+ Purity now has a 4.4 release. :) 
+
+
+
+
+ Ok.  
+
+
+
+
+ You can't unless you are rooted or running a custom ROM. Transparent notification bar and nav bar are 4.4 features that the GEL takes advantage of, not the other way around.  
+
+
+
+
+ Downgrading from 4.4 to 4.3 requires you downgrade the radio, otherwise WiFi stops working.  
+
+
+
+
+ It's an experimental feature that hasn't been fully fleshed out. **You are going to have issues.** Disable it.  
+
+
+
+
+ I think there is a HTC device called G2.  
+
+
+
+
+ Not the factory image. When someone uploads the OTA .zip you'll be able to sideload it. Lurk around XDA, it will surely be posted there soon. 
+
+
+
+
+ You cannot send and receive MMS on Google Voice unless the MMS is sent from a T-mobile number. 
+
+
+
+
+ Its an intentional design decision. The circle isn't meant to be in the center because of other icons that go around it http://www.imgur.com/cpZuWGL.png 
+
+
+
+
+ Crashes on N4 when I hold both. If I just hold the app drawer and tap an app it simply opens the app.  
+
+
+
+
+ No. You will still have to use Google voice. Do not remove the app.  
+
+
+
+
+ You can't.  
+
+
+
+
+ Try changing it to another language and then back to us English.  
+
+
+
+
+ A factory reset won't touch anything on the sdcard or internal (user) storage. It only wipes /data, so the only thing you lose is apps.  
+
+
+
+
+ Can't change a link after its posted, just post the fixed link in the comments.  
+
+
+
+
+ Make sure the version corresponds with your android version.  
+
+
+
+
+ I use Common Sense 2013. Its free and doesn't come with any toolbars or nonsense.  
+
+
+
+
+ Nothing that happens to you before 30 matters, in the grand scheme of things; it just doesn't. The sooner teens and 20 somethings accept that, the better off they will be, and the less suicides and depression will occur.
+
+While I agree with you somewhat, let me also tell you why I disagree with you invalidating the way people feel as well. Life is proportional... as you get older, things that may have previously seemed huge to you are not quite as big. This is simply because you have experienced more. Take this [crudely made pie chart](http://i.imgur.com/U59ok5I.png). Say you've been in a relationship for 3 years. For an 18 year old, it is *proportionally* larger than what it would be for a 30 year old. That relationship ending, if we were to scale it, would feel the same way it would for a 30 year old to lose a relationship of ~5 years. It's a bit poorly explained, but hopefully you do get where I'm going with that.
+
+The point is, just because things are insignificant to you does not mean that the validity and strength of the feelings that a person experiences is not real. I say this because at 18 years old, I have been through a bit of shit. And maybe it's trivial. Looking back now, I can see that what was going on was stupid and dumb, but hindsight is always like that. If I could go back to my past self and try to explain it, I wouldn't listen. The vastness of my feelings wouldn't go away because I told myself that it was insignificant (I even did so at the time).
+
+So; I do agree with you. But you should never, ever invalidate someone's feelings. Because that will cause more suicides than people "taking what they go through far, far too seriously". 
+
+
+
+
+ Ahh posted this before I saw your comment. Such a moving song. 
+
+"I held on as tightly as you held on to me." ;-; 
+
+
+
+
+ [The Cinematic Orchestra - To Build A Home](http://www.youtube.com/watch?v=QB0ordd2nOI feature=player_detailpage)
+
+tears, every time. 
+
+
+
+
+ The Play Store version won't be 2.0. Reinstall the .apk you have. Google rolls out big updates like this slowly based on your device's IMEI and country, so not everyone gets 2.0 at the same time (even though the app's description says so).
+
+Edit: to understand, go to hangouts in the play store, expand the description and look at the current version. Mine is still 1.2 ( http://www.imgur.com/6kLfCTf.png ) 
+
+
+
+
+ Have you tried reflashing the 4.3 factory images? Might be a bit of a pain but if you could get everything back to 100% stock it might fix your problem. 
+
+
+
+
+ You did something wrong then. Whenever you flash a ROM, it always comes with a kernel, because otherwise it wouldn't boot (well, it might, but ROMs always come with a kernel that the developers KNOW is compatible to ensure that it actually boots). Franco kernel doesn't even support 4.4 yet, so if you actually did have it on 4.4, you would either not be able to boot or see a shit tonne of graphical glitches. 
+
+
+
+
+ No, as in, you don't have to do anything special. When you flash the ROM (in fact, any ROM - even the same one) the files that xposed modifies get overwritten. 
+
+
+
+
+ No.  
+
+
+
+
+ I don't really understand how I'm biased... I made the decision to get a Nexus 4, and part of the consideration was the softkeys. I previously used a Galaxy S II for a year, and when I compare the two, I much prefer the softkeys. I could have chosen any number of other smartphones available. 
+
+
+
+
+ My university has a similar implementation and my device (Nexus 4) has no issues with jumping from AP to AP.  
+
+
+
+
+ I don't really understand the question.  
+
+
+
+
+ And how exactly would you know what other phones I have had? I had a galaxy s2 before my n4 and it had hardware keys, and I much prefer onscreen ones. Especially since my home button needed a push so hard I was blistering my thumb from extended use.  
+
+
+
+
+ Well... Yeah. Because you already have hardware keys. Hardware + software keys at the same time don't make sense. 
+
+
+
+
+ While I agree with many of the points you made, I think that a lot of people in this thread are jumping to conclusions. I think its a safe assumption to make that Google were rushed with the nexus 5 release, and have only had the resources to get KitKat optimized for the nexus 5. I'm not going to promise to eat my dick but I'd bet good money that the factory images that drop for the nexus 4 will start with 4.4.1.  
+
+
+
+
+ What code are you talking about? 
+
+
+
+
+ It didn't do nothing, he just didn't reach it in time.  
+
+
+
+
+ Because the official app was released, it met my needs and I felt more comfortable giving them my account info since it was 1st party.  
+
+
+
+
+ As far as I'm concerned, content-aware fill is black magic.  
+
+
+
+
+ My only opinion of women as a whole is that I will never understand them. Everything else is on a girl-by-girl basis.  
+
+
+
+
+ Not gonna lie, that looks absolutely delicious.  
+
+
+
+
+ With the sizes of screens these days, does it really matter that such a tiny % of the screen is taken up with software buttons? I've had my Nexus 4 for about 4 months now and never have I thought "Gee, I wish I didn't have onscreen buttons so I could have about 40 more vertical pixels"... There's plenty of room on the screen. 
+
+
+
+

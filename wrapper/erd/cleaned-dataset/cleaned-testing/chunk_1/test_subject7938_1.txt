@@ -1,0 +1,149 @@
+ There's a remote sensing lab in Russell? I feel like I should have known that. 
+
+
+
+
+
+
+
+
+
+ Don't get me wrong, bees are expensive and any responsible grower would not use a practice that seriously and quickly harms the bees. But if a grower is getting hammered by a pest right at time of pollination there are tricks to get around injuring the bees. 
+
+
+
+
+ Bees are also diurnal. Crops that require herbivore insect rpotection during fowering can be sprayed at night when the bees are holed up in thier hive. 
+
+
+
+
+ Not quite. It's more like gnats can get through a screen that will stop mosquitoes. 
+
+
+
+
+ Oh! And try not to muck up the teflon tape around the threads of the nozzle head. Although it's easy enough to replace if you do.  
+
+
+
+
+ Looks like it! Although, now that it's been used it is filled with plastic. That glues it in place. That makes unscrewing it a huge pain. What I've done in tha past was to turn the heat on to melt that plastic, then quickly unscrew it with a small crescent wrench. Be really careful or wear thin gloves. Extruders get crazy hot.
+
+If you can figure out another way to get it off go for it. I'd also like to know.  
+
+
+
+
+ A bb gun doesn't have the umpf needed to get DNA-coated gold nanoparticles into cells. The original gene gun was a .22. Also, HEPA air purifiers are useless for this kind of thing. They don't come close to removing enough contaiminants and they do not direct air in a laminar flow. A real flow hood filter is about 6 inches thick.
+
+If you want a real hood, try searching for those used by mushroom cultivators. They run at least $400 and up. 
+
+
+
+
+ Maybe, I've never tried it. You could easily strip your filament doing that but that's not a big problem. 
+
+
+
+
+ It essentially has to do with the arrangment and behavior of electrons in materials. Depending on the energy of a photon (or wavelength, they are related), it changes how the electron(s) react or if they react. For instance, microwaves tend to make atoms or molecules rotate, this heats water up. The same home microwave does nothing at all to dry ice (frozen CO2) because the bonds in the molecule are different lengths. 
+
+But! There are materials that are transparent to visible light, like glass. But again, long infrared cannot penetrate glass well but can penetrate crystals of some salts (including table salt).  
+
+
+
+
+ It sounds like you may have a plugged nozzle. It happens to the best of us. Try soaking the tip in acetone if it was an ABS print. For PLA, try boiling the nozzle in water and reaming the tip with a fine needle.  
+
+
+
+
+ Carbohydrate and fats, primarily. I ran the math once for a biochem class. All that water is formed at the end of the electron transport chain. 
+
+
+
+
+ In fact, an average adult produces about a liter of water a day from this source. 
+
+
+
+
+ About a year ago we one of our's found two VHS tapes of porn on a railroad track. Trail treasure is in the eye of the beer holder. 
+
+
+
+
+ I replaced the infrared filter in a canon powershot with a infrablue filter from [infragram (public labs).](http://infragram.org/). It's a near infrared because the CCD is not designed to detect the lower energy infrared light. Essentially because of the [photoelectric effect](http://en.wikipedia.org/wiki/Photoelectric_effect). It's not a thermal imaging camera because again it was not designed to detect those faint signals.
+
+The reason I converted the camera is because I'm a grad student in plant pathology. This summer I plan to try to do some remote detecting of plant health in Ag fields. Chlorophyll (like the pine in the photo) show up as very bright in infrared and very dim in blue light. The opposite is true for plants low in chlorophyll. Using both can map general plant health.
+
+Oh, and I processed it in [Fiji](http://fiji.sc/Fiji) using a [plugin](https://github.com/nedhorning/PhotoMonitoringPlugin/tree/master/downloads) for this kind of photo.
+
+Fun stuff. Can't wait 'til summer. 
+
+Edit: Added the processing info. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ What's a phone book? 
+
+
+
+
+ No known trees are older than about 9,000 years. There may be or may have been trees this old but none are known to science. 
+
+
+
+
+ [Corers](http://www.youtube.com/watch?v=phd-du6DW1A) can be used to get a small cylinder of wood going through the tree. These are then glued to a larger piece of wood and scanned into a computer. The software will straighten the curved rings and align them to a preestablished tree ring library for dating.
+
+Interestingy, since trees of a species in an area will grow similarly each year. If a tree dies but does not decay, those ring widths can be aligned going back farther than any of the trees are alive. This is called [dendrochronology.] (http://en.wikipedia.org/wiki/Dendrochronology) The current maximum for this method is around 11,000 years, even though none of the trees are that old.  
+
+
+
+
+
+
+
+
+
+ This gets a little complicated. A common method is called [Isochron.](http://en.wikipedia.org/wiki/Isochron_dating)
+
+Essentially, an igneous rock will contain a handful of different specific minerals. Think granite. In any mineral solidifying from the source, two different isotopes of, say, strontium, will be incorporated at a constant proportion. The isotopes of Strontium 86 and 87 react chemically identically. In this way, initial proportion becomes fixed in all minerals within a given rock. This is like how blue m m's and green m m's taste the same, but are a little different.
+
+Rubidium and strontium will act chemically different. A mineral may contain more or less of each and that ratio will change mineral to mineral within a rock. Green m m's and green skittles do not taste the same. 
+
+Rubidium 87 decays to strontium 87 over time. At the initial formation, the Sr 87/86 ratio was fixed. As Rb 87 changes to Sr 87, and as initial Rb 87 varied in the minerals, the proportion of Sr87/86 will change AND change differently for each mineral within a rock. This can be [plotted](http://www.tulane.edu/~sanelson/images/rb_sr_isochron.jpg) to project an age to a volcanic rock.
+
+What's notable, is that initial concentration of parent isotope doesn't need to be know. However, it can be calculated after the fact. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

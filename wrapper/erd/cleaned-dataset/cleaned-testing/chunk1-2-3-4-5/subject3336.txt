@@ -1,0 +1,3775 @@
+ Holy Mother of God! They are sooo beautiful  
+
+
+
+
+ I like Australis among the flaws that several have reported.  
+
+One thing that totally breaks up the user experience is the sliding tab movement.  
+
+What I've noticed it that is as long as the mouse pointer stays in the tab's area, then movement is smooth and perfect as usual; but the moment i go a bit down and over the Awesome bar or anything in vicinity, the drag movement abruptly stops.  
+Honestly, its a total ruin because nobody can be so precise in maintaining the drag movement in such a small area.  
+
+Please borrow idea from the competition and extend the drag-able area to the Awesome Bar also.  
+Only then during fast browsing session can people feel the speed, mainly due to lack of disruption. 
+
+
+
+
+ Ah yes, I did read about this, my Seagate cable has the usual plastic covering around it.  
+I feel it was the driver problem though, after installing the proprietary drivers all seems fine :)  
+
+
+
+
+ firefox creates a  new profile after install.  
+better do the above mentioned method for fixing your problem. 
+
+
+
+
+ Nightingale - though its a media player, it can browse the web too  
+http://getnightingale.com/
+ 
+
+
+
+
+ 98 is just perfect!  
+i really wish they rid of all the blue color for the icons, The original colors(Gold, greens etc.) have to be brought back.  
+and i personally found the less curvy tabs more beautiful.  
+Just wish they bring back what people need.   
+
+
+
+
+ F1 cards 
+
+
+
+
+ im installing it, do i need to uninstall the driver that comes along with fedora? if yes, do you know the package name?
+
+EDIT-  
+Ive installed(broadcom-wl;akmod-wl) and uninstalled nothing. Everything seems to be working fine and im able to connect my hard disk and browse for now :D :D :D   
+
+THANK YOU! For your time and help! :D :D :D
+
+Why cant the open source driver just be as good O_O?   
+
+
+
+
+ I so wish they do this to DOWNLOADS. i hate a new window 
+
+
+
+
+ yeah! :D i wish this gets implemented somehow 
+
+
+
+
+ Sorry for the confusion  
+
+i meant that an upward scroll of a few lines and "all the way up"scroll will reveal this toolbar menu.( if you use the new Facebook app you'll probably understand much easier) :)  
+
+At the top position of the page the toolbar should be shown as default
+ 
+
+
+
+
+ Since most of the highly used buttons of a browser are tucked away and accessing them requires more click or taps, i felt a disappearing toolbar area just like the way the new Facebook app does with 'Status|Photos|Activity' bar on the bottom would be great.  
+
+Screenshot - https://imgur.com/Efav1kc
+
+For  once you start scrolling down, it neatly hides its self, and only reveals when your are scrolling all the way up or are already at the top of the page.  
+This way you still get back all the screen space and the most used buttons are always available to the users upfront. 
+
+
+
+
+ unfortunately there is no debug file in b43 folder :/ 
+
+
+
+
+ TouchPal is actually quite popular and free! Please do check it out :) 
+
+
+
+
+ i've had this issue more profound on TouchPal keyboard. After i switched to SwiftKey, its kinda less, maybe RAM freed up?  
+
+
+
+
+ its probably got to do with the google search suggestions thing.  
+ 
+
+
+
+
+ 1) I'm using the ones that came default with the Fedora install. I havn't modified the WiFi drivers in anyway so far.  
+2) http://pastebin.com/4eL8pc9p
+
+EDIT - the SSL thing is probably the https everywhere addon. And it include the normal browsing phase, HD connecting and internet inactive phase, and the back to normal phase once i disconnect the HD 
+
+
+
+
+ 1) 09:00.0 Network controller: Broadcom Corporation BCM4313 802.11bgn Wireless Network Adapter (rev 01)  
+2) where do i find the logs to copy paste? 
+
+
+
+
+ Wifi works on windows 7 after connecting the external HD.  
+It seemed fine in ubuntu(long back) 
+
+
+
+
+ ive got a seagate external usb hard disk and for some reason my Wifi stops working once i connect it. I browse through my android phone and the internet work super smooth at these times.
+The current fix is only to disconnect the hard disk and continue browsing.  
+
+Its a Dell N5110 15R system with Fedora 20 completely updated. Any way to fix this issue?   
+
+
+
+
+ just try uninstalling/reinstalling the font support package via fedy itself. Fedy installs infinality http://www.infinality.net/ package for better font rendering. 
+
+
+
+
+ i guess ill have to buy a new good phone without a physical menu button :D XD  
+
+Yeah that's true, its just that it would be great if important buttons are laid out like the desktop version....hey! wait, is it possible to have a disappearing menu/button bar area, just like the new facebook app which has "status | photos | activity" that disappears while scrolling down and re-appears while upward scroll? 
+
+
+
+
+  If the phone has a physical menu button, no menu should be displayed, unless the app has an outdated Manifest (might be the case for Twitter for all I know).  
+
+Yeah that's it, the tradeoff between physical/virtual menu button. i feel it'll be best left to the user if he/she wants to enable the 3 dot menu button on phones with a physical menu button. 
+
+i feel the most important buttons such as back, forward, refresh should be in a much more easily accessible location on the screen, instead of going through a menu.  
+
+
+And thank you for the mention of gestures- will get an add on right away :D  
+
+ 
+
+
+
+
+ on large screen phones, while holding it one hand, reaching the menu key to refresh or reload the page is painfully annoying.   
+People need to shift the phone position just to do a simple refresh.  
+And on large screen size phone's the 3 dot menu is not provided(due to design guidelines by google), but the Twitter app has still provided it. Some sort of fix or user choice enable/disable menu/custom button should be provided near the tab count icon. 
+
+
+
+
+ The earth also, but we don't share it very well like the internet  
+
+
+
+
+ Found that the twitter app on my phone has the menu option enabled - https://imgur.com/UfPwUUN
+
+Guess sometimes user-experience comes first. 
+
+
+
+
+ but at-least leaving an option in something like about:config would have helped lots of users out, instead of just disabling this menu button completely. :( 
+
+
+
+
+ Its a Micromax A110 Canvas 2.
+Yes it is has capacitive buttons on the bottom of the screen.
+
+But the lack of a Soft-Menu button is a deal-breaker :(  
+Since this is a phablet type(5-inches) device moving the finger from the screen to the bottom just to access menu button is quite frustrating. 
+
+The FF team should have provided this option to the users to enable/disable the virtual menu button :( :(
+
+Edit - runs on stock android jelly bean 4.1.1 
+
+
+
+
+ I love it! 
+
+
+
+
+ I Use the latest version Firefox Beta 29 (android) on a Micromax A110 Canvas 2 Device which runs on Jelly bean.  
+I've noticed a three dotted menu button in various screen shots and other devices, but i do not have one :/  
+
+Screenshot - https://imgur.com/cWb8yKn  
+
+It kinda ruins the browsing experience because it is such a big phone and reaching down to access the capacitive buttons is totally a mess.  
+
+Anyone know of a fix?   
+
+
+
+
+ It is in the works, a project called Electrolysis  
+
+https://www.youtube.com/watch?v=7YkWWAAglJ8 
+
+
+
+
+ :) 
+
+
+
+
+ happy to help! :) 
+
+
+
+
+ well, if you have a no-history state, then you can pin in all the sites you enter the first few times. You can Drag and re-order them too.  
+
+You can also pin the bookmarks by dragging and dropping them on any of the thumbnail.
+
+Or maybe this add-on could help you - https://addons.mozilla.org/en-US/firefox/addon/tile-tabs/  
+There 
+
+
+
+
+ well copying of features works vice-versa in the open-source world.  
+That's why good things spread and progress happens :)  
+
+Custom tiles as in? 
+
+
+
+
+ Great going! :) 
+
+
+
+
+ The power that governments have these days can be misused.  
+Take a look at Syria, Turkey, UAE, Saudi Arabia, China etc.  
+Forget the internet in places like North Korea.  
+
+This is the why Mozilla has taken a stand to support a free and open web among other things.  
+
+
+
+
+ Over the past few year, so many policies and controlling measures have come in to the world on controlling internet usage.  
+
+We have seen SOPA, PIPA, NSA, NETRA(india), CMS(India) etc. that have been proposed to control the flow of content and hamper sources over the internet.  
+This Clearly breaks the foundation of free speech, privacy among various other issues.  
+
+Please take a stand and Join the effort - http://mzl.la/QQRcMM
+
+YOU are the change and YOU are in charge!  
+
+Our voice maybe tiny but it definitely leaves an impact in the world community, which the internet truly is, a global one.  
+
+NOTE - Though you may or may not be a user of the Firefox browser. Please consider sharing this piece of info of your fav. social networks!  
+It is no way a campaign to download the latest Re-designed version of the Firefox Web Browser(but if you do download/use, thank you for keeping the community strong)   
+
+
+
+
+ Beautiful 
+
+
+
+
+ Felt the same way too :D 
+Good move Mozilla by launching Firefox and this on the same day 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I've made a newbie linux guide. Hopefully you should find it useful! :)  
+https://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/
+
+Share it with your friends, family if you would like to. Peace! :) 
+
+
+
+
+ oh, thats bad :/
+
+But if someone could figure out something like the new linear loading bar, it would be awesome! ;) 
+
+
+
+
+ Thanks a lot for help and time! :) 
+
+
+
+
+ ah yes it is indeed an external mouse. i've used it before without problems, but probably some update package has caused this :/ 
+
+
+
+
+ THIS IS SO GOOD :D  
+
+
+
+
+ I've noticed when I access the Options to tap-click things likes sync, customize, Mozilla etc. there this certain animation of one screen closing and the tap-clicked option opening up.  
+Thing is on low powered(512MB) devices, there is a noticeable lag while this switch takes place. 
+
+Is there anyway to disable this animation? 
+
+
+
+
+ Me too!  
+
+
+
+
+ Im having an issue while using the scroll wheel on my mouse.
+If im scrolling down a page, sometimes out of nowhere, it bounces lightly and scrolls upward a bit.
+This is mighty frustrating on long webpages when, i have to go through this effect every few lines that get scrolled.
+The mouse works perfect and I've tested it in windows too without any problems. 
+
+Anybody have a solution? 
+
+
+
+
+
+
+
+
+
+ i use the nightly and the beta, the rounded back button still doesn't seem to pushed into beta yet.  
+Hope it comes soon, makes the interface equal and standard over different platforms. 
+
+
+
+
+ like the new website idea a lot! :) 
+
+
+
+
+ i initially thought it was a gnome desktop with lots of beautification. 
+
+
+
+
+
+
+
+
+
+ http://imgur.com/sXoizoK
+
+Mag lines travel in a particular direction, if im not wrong, so wont this cause and upward force, considering the force lines flow from bottom to top?  
+this is what i meant, just wanted to know if its possible. 
+ 
+
+
+
+
+ Well if that's the case, then keeping one magnet fixed and the other in a container above the stationary one, the magnet should float or hover right? 
+
+
+
+
+ I'd like to know if magnets on their own or using some combo can produce repulsive force of order like 1000N or so? 
+What factors hamper such things, like area, material etc? 
+
+
+
+
+ Personal BeliefCompany PolicyWhat i want to do with my money!
+
+Edit-I don't care about the down votes and all, but I wouldn't hate America or Americans because Obama or George W. Bush was the President.  
+
+
+
+
+ Twitter follows the emoji pack - https://twitter.com/Support/status/451399393850052610 
+
+
+
+
+ i'm not seeing the Anti-Firefox page now.
+But the damage has been done. A big one i believe. 
+
+
+
+
+ Time to boycott OkCupid.
+There are thousands of people who may or may not support the LGBT groups, but seriously WTF is it got to do with a non-profit that makes a pro-privacy browser?
+
+Edit : They(OkCupid) have to publicly apologize and make up for all the lost Firefox users. 
+
+
+
+
+ They should get sued!  
+
+
+
+
+
+
+
+
+
+ You'll have the Segoe UI Symbol Fonts i guess 
+
+
+
+
+ well, technology evolves.  
+But yeah i agree, there isn't much consistency over these symbols on different platforms 
+
+
+
+
+
+
+
+
+
+ Just found that these two packages are available for Emoji support for Fedora Linux - gdouros-symbola-fonts   google-android-emoji-fonts
+
+Made a blog post to help stranded users - http://test_subject3336.wordpress.com/2014/03/29/emoji-on-fedora-linux/
+
+Also color emoji support might come soon if Noto Color Emoji comes upstream 
+
+
+
+
+ thanks a lot, i hope something similar exists on fedora :) 
+
+
+
+
+ The logo instead of the 'O' in fox - awesome! :D 
+
+
+
+
+ I get these  - boxes with number's when i see an Emoji. Is is because im on Linux or is it the browser issue?  
+Some of them are rendered pretty though. 
+
+
+
+
+ Good Going! I Just hope more people are aware about this project! :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ah yes, just saved the the top result on google ^ _ ^ ' 
+
+
+
+
+
+
+
+
+
+ yeah thats also nice! :D 
+
+
+
+
+ create a new profile 
+
+
+
+
+ i just made a rendition of mine http://imgur.com/FDM2nkz 
+
+
+
+
+ its the flat-look effect.  
+can we have a Firefox logo somewhere? 
+
+
+
+
+ http://rpmfusion.org/Configuration/
+
+This link is all you need at first. Install the repo's there and if you like terminal do a - "yum install vlc"  
+
+
+
+
+ Bang-on! Prefect hit all those points.
+Though i love the whole shift to Australis, the issues above are worth pondering and acting upon 
+
+
+
+
+ www.nsa.gov 
+
+
+
+
+ The Direction looks stunning in the trailer 
+
+
+
+
+ oh okay :)
+Ive been trying to solve an issue involving these option, so just wanted to know if there was a manual page.  
+Thanks! :) 
+
+
+
+
+ This is the newer version that works for me(Some inconsistencies are present):
+
+    @namespace url(http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul);
+
+        #urlbar {-moz-appearance: none !important; background-color: #FFFFFF; border-radius: 20px !important;}
+        #search-container textbox {-moz-appearance: none !important; border-radius: 20px !important;}
+
+Edit - The code lines posted by @shortkey work perfectly on Firefox for Windows.  
+The above lines are for Linux versions of Firefox 
+
+
+
+
+ hey can i know from where you find out parameters like #urlbar and its associated options? 
+
+
+
+
+ Nothing is. NSA clearly has an upper hand now.  
+All we as common people do is enforce encryption in the services we use.  
+It only increases computation time to break codes then. 
+
+
+
+
+       they have to be manually changed I guess.
+ 
+ Yes this would be most serious roadblock. Also I am not sure if different drivers would be available for these totally different kind of old hardware presen
+
+Installing Linux takes 10 Minutes. Legacy Hardware support is quite good. 
+
+
+
+
+ If its new Machine orders, manufacturers take care of preloaded OS.  
+If its in use they have to be manually changed I guess. Once the switch is made OTA updates are possible to upgrade Linux Distro's.
+
+Survival of Fittest.  
+
+
+
+
+ Distro Dev's are contributors to Kernel Codes. 
+
+
+
+
+ The post was about Linux not Unix. Out of the blue a Unix Kernel talk came and its reached so far. I'm done talking.
+
+Have a Good Day.  
+
+
+
+
+ Error Reports dont just go out in the name of UNIX. It goes back to the developers(Here apple and FreeBSD).
+If its somebody else who developed the UNIX variant, it goes back to them. 
+
+
+
+
+ Please go use a new good Linux Platform, you'll understand the way in which bugzilla works these days by auto uploading your bug-reports, even without you providing any details of the bug. All you need to provide is your email and password during the initial setup of the bug reporting tool.  
+
+SER as you says only collects and gives to Micro - true, but whats the use if you pay for an OS that doesn't fix your problem??? Why are people wasting $ on a company that chooses if it has to fix your problem or not?  
+
+This whole topic was on Linux and Windows.  
+I did mention a bit above that Linux and Unix are two different things.
+ 
+
+
+
+
+ This whole forum was on Linux.  
+
+And as for Unix, FreeBSD a variant of it does the above. Also does Mac OS X which is a derivative of Unix, they do it well too. 
+
+
+
+
+ It does, it does!
+
+My error was on my end, not the mechanism 
+
+
+
+
+ Damn you've got to be kidding me.  
+
+Linux has Bug report systems like ABRT, Bugzilla. And they do a Better job than Send Error Report(which i haven't seen fix any errors).  
+
+I dont know if you mean Autodesk 3ds Max, Maya, CATIA  as poorly designed apps. But ive got a heck load of problems when i used to work with them. 
+
+And as for so called "unix distros don't have any central company to supply updates"  
+Maybe you should use Ubuntu or Fedora and see how wonderful they handle updates.(That includes core kernel updates without breaking the system).
+Also you're able to Upgrade the entire OS to the latest version from these central repositories. 
+
+I use windows for my gaming, i love it for that. Its the only place it shines.  For work its Linux, because its reliable and stays solid
+
+ 
+
+
+
+
+
+
+
+
+
+ Since Fedora is a community based Distro, i feel it'll be great to have some feedback from them itself for the Fedora Project to be leaders again in the Free Linux OS field.
+
+I've been using Linux dating long back to Redhat Linux 7 and onwards.
+There have been amazing changes. Since ive used Linux so long, its real hard for me to go back to my Windows OS.
+
+Here are few areas i feel Fedora Project need to pay more attention to:
+
+1. Looks:  
+We have all the icons and everything is symbolic. Its perfect. But where it lacks is that its not aesthetically pleasing. People always tend to judge a product by its finish and looks. One amazing example here is Apple - Im sure most mac buyers don't go into the details of the OS or its usage and purpose, but just give into the looks of the product. The color palette needs a refresh i feel. 
+Currently its functional not pleasing (from the eyes of a normal user)
+
+2. Tutorials:  
+We need to provide the common user an OFFICIAL source of Text and Video based tutorial regarding things like installation, Music, Movies, App Installation etc. It should be clean and no Gimmicks. And the best way to host them would be TORRENTS! 
+
+3. Default Packages:  
+This is one part im a bit sad about. Previous version of Fedora came with the big guns of open source like GIMP, games etc. but most of it is removed these days. 
+Normal people wont want all the other packages(they consider it junk) just like all the those preloaded android phone apps from manufacturer's.
+
+4. Do NOT scare the new user   
+New users Judge a product within 30 seconds i feel. If they feel its complex, they leave, if its too simple, they question and wonder. Just provide what is needed. FAQ are the best way to address.
+
+5. Bug Reports  
+This is daunting for a new user. They go through this unknown thing called ABRT, then Bugzilla, (GOD WHAT's Happening :O) They have been scared to death already now. We need to simplify this process. And make them understand how things work on the open source end.
+
+6. Customization  
+This was what Linux is all about.  
+Fedora needs to point users to where they can find new content like themes, icons (that's what a normal user cares to find)  
+
+7. Proprietary Package  
+I know this is the No! NO! but normal user eventually need them for their Graphic Cards etc. The community should make people understand that its OK for them to install but the packages are responsibility of the company providing them. A video might help clear the air. 
+
+8. Media, Formats etc  
+Another important area where we should educate users that they can watch their favorite movies, or listen to songs in Open Source Formats, BUT, since half the world moves on mp3, avi etc, options are always available to install player like VLC etc.
+
+9. Social Media  
+Maybe the open world doesn't agree with Facebook but that's where users are and that's where users share their content. We need to make a definite presence.
+
+10. Presentation  
+Easy to understand, clean and visually beautiful. Hit them right and i guess the world will start following.
+
+We have YouTube/Torrents to share all this Tit-bits of knowledge for free!
+
+Do share in  your views! :)
+
+ 
+
+
+
+
+
+
+
+
+
+ I would like the make the Awesome bar rounded on the ends, also the Search bar. How can this be done? I've looked into add-ons, sadly didn't find any.   
+
+
+
+
+ Thanks for the update to the nightly channel.
+
+The white outline surrounding the icons, like the bookmarks, home etc. really help visibility! :D. Hope it comes to the actual release!
+
+If you guys could just make the close button rounded like the new "back" navigation icon, it'll just be an epic win!
+
+Go Australis! 
+
+
+
+
+
+
+
+
+
+ Does anyone know what's the difference between drivers provided by Intel graphics installer and the original ones that come with the distribution? 
+
+
+
+
+ I used a fully updated Fedora 20 Distro on a laptop with an Nvidia 525M Card. Its Optimus technology based.
+I've read that kernel 3.13 comes with inbuilt power management features, so do i need bumblebee here after?
+I've tried uninstall and reinstall the packages and drives using "yum reinstall bumblebee bbswitch bumblebee-nvidia" to no avail.
+Anybody else here in the same boat?
+*the bbswitch package was updated to ver. 8 
+
+
+
+
+ I've noticed that firefox always needs to download the persona to display after launching the browser, this might be (just) okay on the desktop but on mobile its quite a resource hog and slows the start up performance of the browser.
+There is a severe lag, when the connection is slow.
+
+Why cant it be stored in the SD-Card or the Hard disk and be loaded straight from there?   
+
+
+
+
+ i would like to know about your favourite clients on xmms2, do you still use the old or the new version and much more, Considering these were(or maybe still is) the best music player Linux will ever have!
+To the Devs of xmms2 - please a standard out-of-the-box GUI _/\_ 
+
+
+
+
+ Here's the link to the trailer - http://www.youtube.com/watch?v=ZrudC0STJ0U
+
+Its not on the Soundtrack of the film :( It comes from some other source.
+
+From a post on last.fm i found a few words of the lyrics
+
+The lyrics appear to be -- "don't you worry ... about the flight yeah ..." ... "careful and true... we've flown..." ..."sing for the way we've grown... we grow..."
+last.fm post -  http://www.last.fm/forum/5/_/527438
+
+It might be an Australian band too, the film comes from Australia.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ how do i know what chords can be played with what notes? I mean to ask if there is any rule that states that so and so notes and only be played using these chords?
+And also how do i develop my chord knowledge. Thanks! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ i've put up a logcat long back on the page.
+What more info is needed? i'll try to provide max details :) 
+
+
+
+
+ i've tried all, beta, stable and nightly...but its still present. Hoping it gets resolved soon :) 
+
+
+
+
+ i did try it out, still a major WIP but a real good effort :D 
+
+
+
+
+ ah yes, very true that opera handles much of the processing on the server side.  
+
+But i've had extremely good browsing experience on both dolphin and the stock android browser. I feel they dont disapper off because they are very lightweight in nature.   
+
+If Firefox has just a bare browser thing on android, it would be awesome.
+
+4.1.1 device here :)   
+
+
+
+
+ it actually doesnt involve particular pages.
+For eg. scrolling through general sites like Facebook, Complex just close the browser down. (i did file a bugreport on this issue - https://bugzilla.mozilla.org/show_bug.cgi?id=1041968)  
+
+Heavily noticed this happening while scrolling when the page is loading. 
+
+
+
+
+ I've noticed a lot on low RAM devices(=512), the browser just disappears after a light usage run. I mostly suspect an Out of memory situation is the cause of it.  
+
+But if a really light version like the something in the likes of a opera mini version happens then firefox can surely run stable on low end mobile hardware. 
+
+
+
+
+ https://bugzilla.mozilla.org/show_bug.cgi?id=1056875 
+
+
+
+
+ i think its the problem with this new switching graphics tech.  
+Hopefully someone will give a solution :) 
+
+
+
+
+ Song to Siren - Candy soundtrack 
+
+
+
+
+ ah nope
+only H-title, video downloadhelper and downthemall 
+
+
+
+
+ i've tried chrome, and things remain almost constant.  
+I've tried on fresh profile, and all addons and plugins disabled.  
+Guess ill open a bug report.   
+
+
+
+
+ i really have a strange GPU issue while using firefox.  
+My system dell n5110 has an Intel i3 and nvidia 525M optimus(Hybrid) running with bumblebee(Proprietary drivers) on Fedora Linux 20  
+Every time i use Firefox, the GPU fan goes on and off over and over after a certain time of operation.  
+My normal laptop temp is around 48-54C but when i use the browser its slowly rises above 60.  
+The Processor clock jumps from 101MHz-1200MHz  
+The Graphics clock jumps from 50MHz-600Mhz  
+
+I've tried switching off Hardware Acceleration but this still happens.   
+
+
+
+
+
+
+
+
+
+ thanks a lot for your time :) _/\_ 
+
+
+
+
+ there's a lot of speculation that it could be Shirley Mansion of garbage 
+
+
+
+
+ ah its not, song to the siren is a different one :/ 
+
+
+
+
+ The song appears in the candy trailer - https://www.youtube.com/watch?v=ZrudC0STJ0U  
+The songs appears at 1:15  
+Most believe its some unknown Australian Song.  
+It's not present on the OST.  
+
+Few of the words in the songs are:  
+don't you worry  
+about the flight yeah  
+careful and true... we've flown  
+sing for the way we've grown... we grown  
+ 
+
+
+
+
+ thanks a ton, _/\_ it sounded so familiar!
+i've listened a lot to this and yet it slipped away from my head  
+
+
+
+
+ https://www.youtube.com/watch?v=mtIzADkd504
+
+Could anyone let me know the song playing in the background? 
+
+
+
+
+ This post should be stickied 
+
+
+
+
+ lib-ray-off-is 
+
+
+
+
+
+
+
+
+
+ Instabug, you guys should get intouch with Facebook, their android app kinda seems like hopeless now. 
+
+
+
+
+ your issue is strange, try browser reset or new profiles (proceed with caution to back up data first).  
+And check for updated sound card drivers.  
+Incase its still faulty, then please do file a bug report.  
+
+EDIT- webm and vp9 are implemented in Firefox but still needs smoothing out. So if youtube is serving you in these formats, then thats most likely the problem. 
+
+
+
+
+  che, the issue disappears. But it appears again in a while.
+ 
+ I should mention that I am usi
+
+do you have mediasource enabled in about:config? 
+
+
+
+
+ if you're on the stable release, try reinstalling flash and see.  
+it looks more of a connection problem.  
+
+If you feel its a browser problem, then try clearing cache.  
+Still plauged with the problem, try a browser reset or a new profile.   
+
+
+
+
+ your issue on linux? 
+
+
+
+
+  #tabbrowser-tabs tab:not([selected="true"]) .tab-close-button {
+  display: none !important;}
+
+Hey thanks @shortkey :D :D :D
+i just needed to change display: inline :D 
+
+
+
+
+ try clear cache? 
+
+
+
+
+ but i guess voting can bring about a perspective on the yays and nays of new features(mainly UI changes).  
+Core technologies should be done as per firefox devs, which is much better in their hands.
+
+ 
+
+
+
+
+ https://bugzilla.mozilla.org/show_bug.cgi?id=856427 
+
+
+
+
+ Why does the close button have to disappear just after 8 tabs?  
+Its kinda annoying. Chrome allows upto 18 tabs with the close button present.  
+
+Im kinda sure people have more than 8 tabs opens in a normal browsing session.  
+Pic - http://imgur.com/01Eop1T  
+
+Anybody know of a permanent way on keeping them on? 
+
+
+
+
+ All the best to the new man!  
+Hope we sail strong through the internet! 
+
+
+
+
+ i guess a simple webpage where people vote yes/no on a new ui change or so could be an easy task for Mozilla, and better for Firefox progress as well. 
+
+
+
+
+ Browser - firefox  
+Arts - blender, Inkscape and GIMP  
+Audio video - audacious, VLC, Winamp  
+
+
+
+
+ Honestly changes are great as it happens.  
+But then there are certain ones which are kinda very different, and need a lot of talking back and forth and agreeing to.  
+For eg. the tab screen is really starting to look weird in nightly :/  
+Is there any such forum or place where normal people can interact with the firefox development community? 
+
+
+
+
+ also the rounding
+ 
+
+
+
+
+
+
+
+
+
+ Lots of unticks on Chrome and Firefox even when they do support different things. 
+ 
+
+
+
+
+ search for this 'media.mediasource.enabled' and enable it in about:config.  
+its still a bit buggy when playing vp9 encoded videos - plays fine thought -test it out. you might like it.   
+
+edit - To check if its on visit http://www.youtube.com/html5 
+
+
+
+
+ if you really want to take some extreme steps delete the .mozilla folder in your home directory.  
+Im also a fellow Fedora user with 2 Firefox versions, stable and nightly, and both are working fine for me.   
+
+
+
+
+  d the Google Talk Plugin, and I've installed NoScript consistently with each new profile.
+ 
+ Fair point though, a bit of digging says SIGABRT is triggered by angry libraries? I'll tinker with profiles (add-ons) in mind. Thanks. 
+
+ill suggest a totally non-addon approach first on new profiles. check if that helps.
+Or else remove it via yum and reinstall and see if that helps 
+
+
+
+
+ Thats true. But I've faced similar playback issues on Vimeo as well.
+The content would have already streamed ahead by the player will start playing for a few seconds, stop and if it wish continue playing more or until i click the play button again.  
+
+Also the loading(buffering) bar keeps going out of its limits into infinity and beyond.
+ 
+
+
+
+
+
+
+
+
+
+ sadly chrome is much smoother in video playback on linux 
+
+
+
+
+ Try a complete system update and reboot or Try reset the browser.
+If thats not helping create a new profile. 
+
+
+
+
+ i would include all video sites in general. 
+
+
+
+
+ codec for playing most web content - http://www.openh264.org/ 
+
+
+
+
+ its happening on both Youtube and vimeo for me. Can't make a switch.  
+HTML5 here we come! 
+
+
+
+
+ ah the kernel 3.15.4-200.fc20.x86_64  
+and Fedora 21 is still away
+
+EDIT- GNOME yes they havnt updated, they'll be pushing it out on the next version with wayland support 
+
+
+
+
+ oh okay, not much familiar. i'll just shut my mind :| 
+
+
+
+
+ But pretty much everyone installs them anyway, because otherwise your video players don't work.
+
+thats true, but i guess mozilla is trying for an out of box working option.  
+
+
+and also, i think might be better if a software runs with its own set of stuff, than pulling stuff from the OS every now and then 
+
+
+
+
+ i guess most distro's don't ship the bad and ugly versions of gstreamer.  
+Also Windows tech is proprietary  
+
+
+
+
+ i saw this after the latest update 
+
+
+
+
+ Thanks for the link! :) 
+
+
+
+
+ Fedora 20  
+Gnome 3.10.2 
+
+
+
+
+ Seriously wish it had a fill background option too. 
+
+
+
+
+ and thank you guys for making a great browser! :D    
+i wish i knew how to code properly and contribute. i only know bits and pieces of C++ 
+
+
+
+
+
+
+
+
+
+ Is it possible to extend a persona theme as a complete background onto the speed dial area? Im not wanting a background addon that allows me to choose a background image, but something that just utilizes the persona theme itself or the colors in it to give a good back ground 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You just need this and all's good https://www.google.com/tools/dlpage/hangoutplugin
+
+ 
+
+
+
+
+ Do try out the beta or nightly version. They kinda work better than the stable version for me.File bugs too when crashes happen. 
+
+
+
+
+ It has performed much better in recent times but things like chrome displaying the page as soon as it loads, kind of create a better illusion of speed.
+Things need to feel very smooth for the users.
+Even the tab movement area is much smoother and of larger area in chrome that in Firefox. Miss the area and you create a new window while reordering the tab. 
+
+
+
+
+ maybe chrome might use google dns built in(not sure).
+
+But since the android app is also not working, it needs to be a DNS issue. Bombard BSNL! xD 
+
+
+
+
+ the instances ive got crash reports, ive submitted, but this as you found out was different  
+
+
+
+
+ thank you for the link! :D 
+
+
+
+
+ yes...you too? 
+
+
+
+
+ Sad state :/  
+something good needs to be done to thwart that drm cancer. 
+
+
+
+
+ hmm probably true, i use like a normal user, i'll have apps that maybe running in the background without me knowing also.
+
+ill shall try find the log file and submit soon 
+
+
+
+
+ I don't see how Shumway will allow Firefox to get users back. Most people don't exactly use Flash voluntarily. They need it because video sites require use of patented codecs (H264) and DRM.
+
+Linux users are fed up with Adobe flash(no new versions-except security updates), and most crashes happen due to flash or some flash based content on webpages. Plus lots of people use YouTube and other video based sites a good part of usage, having something inbuilt and stable like shumway like the way Google does with Pepper, it should probably improve the reliability of the browser. 
+
+
+
+
+  Can you please file bugs about these issues? This sounds really strange, should absolutely not happen, and we don't know of any current issues like that. Do you have some task killer or anything installed that's nuking Firefox while it runs?
+
+Sure i shall file a bug, but i just have no content to attach to a report sadly :/
+It'll just close down without any message while browsing. And i dont use any task killer.
+ 
+ It already uses very little memory, and will work well on any Android phone with as little as 384M RAM (Firefox uses FAR FAR less, but your other apps will eat up most of that!).
+
+i do know it does uses very less, but when other apps are also present, then things get slow, like using swiftkey, whatsapp, facebook and firefox one after the other :/
+  
+
+
+
+
+ i think some DNS server is at fault.  
+Unless someone fixes it, it'll be the same situation for people who are routed through that server or ISP.  
+
+The bigger problem is that YouTube is not aware of this issue. Some thing similar happened to WhatApp users in india connected to a particular ISP. Only after the social media and news exploded was the service fixed.  
+
+People need to inform YouTube about the issue! Attack Social Media! 
+
+
+
+
+ Hats off to the developer community for all the work they've done all these years. Truly, its been a great product. And i keep hoping for more good stuff from you guys! _/\_ MASSIVE RESPECT    
+
+A little focus on more important things will probably show a positive change eventually. It will take time to fight back whats lost to chrome, but im sure a good number of them will be Firefox users who are wanting to come back to where they felt at home before.   
+
+I guess Firefox also needs to increase its social media presence, Google can do it for Chrome through their ads system, but Firefox has to fight it out without spending much on Facebook, Twitter etc.
+
+Once Firefox fixes up electrolysis and Shumway, that coupled with the privacy, peace of mind and the add on ecosystem, it will be a great combo to make some groundbreaking ad to get back whats lost, and add more new users.  
+
+it will take time, but these should be worked on with a great pace now, coz time costs everything these days.   
+
+
+
+
+ i agree the attitude of the common man is hopeless.  
+
+only few of us try to make a valid change. I try a lot to convince people to shift to Firefox. Some do but others just stick it to the other competition because it works out of the box and without any trouble.  
+
+I still feel Firefox has every chance to grab back the market it lost, if it starts focusing on the current basic essentials to web browsing.  
+
+Back to square one is the need of the hour. 
+
+
+
+
+ i feel the browser should focus on delivering speed, lower memory usage, per Tab process and shumway.  
+
+Honestly i don't think normal people do care if a browser is super developer friendly with all the features it provides; The general crowd wants the content or webpage to load super fast and with very little to no problems.  
+
+I've tired Firefox Beta on Android and the Nightly versions too, but there are lots of performance issues, when compared to others in the market. Ive got lots of instances when the browser will just close without even a Crash Pop-up to send an error report.  
+Plus Firefox Mobile needs to make use of less resources(RAM etc.) of low end phones, since most of them are 512 MB RAM mediatek chipsets.
+
+Its been a really long wait from the browser that was a game changer back then :( 
+
+
+
+
+ i think its a DNS issue, lots of people are facing this, but in certain locations, or based on the browser.  
+
+Cause chrome is able to go through. But the YouTube android app is totally failing to play and same with Firefox.  
+
+Using google dns solves this problem :D
+YouTube or your ISP(im not sure whom) has to fix this problem.  
+
+https://developers.google.com/speed/public-dns/
+
+ 
+
+
+
+
+ enabled as default. still no change on Firefox PC version.  
+
+i've also noticed that the android YouTube is also failing to play videos.  
+This is totally weird, since its working perfectly on chrome(desktop).   
+
+
+
+
+ same issue, works on chrome.
+latest nightly build. FF33.0a1 Linux 
+
+
+
+
+ same state unfortunately :/  
+But please do spread the news if you can to others who could help out. :)    
+
+Lots of apps have language support problems because there not enough user contribution   
+
+
+
+
+ i also have a horrible problem on vimeo, where the video stars playing, streams ahead but the player automatically stop and ive got to hit the play button again. Very annoying!
+Linux Build.  
+
+
+
+
+ Since the keyboard is now free and everyone can download from the Google Play Store, it would be great to have Malayalam language support for those like typing in Malayalam on their smartphones.
+
+Kindly contribute to testing if you could. Or spread the message!
+
+http://vip.swiftkey.net/index.php?/forum/531-malayalam-feedback/ 
+
+
+
+
+
+
+
+
+
+ same, i was deeply interested in the Gary McKinnon case but everything seems to have disappeared.  
+I also feel that's there a lot of classified technology that could be used for the greater good but haven't been made public for political or monetary reasons. 
+
+
+
+
+ Hello 
+
+UFO, aliens and any other cover ups, Still speculation or is such info being suppressed?  
+
+
+
+
+ yea, plus the 400 word message after the limit is just a fantastic move to communicate if all goes well.
+
+Its about as poetic as apps come. It should feel like postcards rather than letters, 
+
+
+
+
+
+
+
+
+
+ Thank you for understanding - the editors of the original article updated the title to something more appropriate some time after the post was made. 
+
+
+
+
+ They(theregister.co.uk) have updated the title to:
+"SpaceX's Elon Musk: I'll put HUMAN BOOTS on MARS by 2026"
+
+The time at which this news was published, the post title and news headline were one and the same. Sadly reddit doesn't allow for a Post title edit/change :/
+ 
+
+
+
+
+ http://www.reddit.com/r/worldnews/comments/28ga35/elon_musk_forget_nasa_and_2035_ill_put_humans_on/ciatgdw 
+
+
+
+
+ http://www.reddit.com/r/worldnews/comments/28ga35/elon_musk_forget_nasa_and_2035_ill_put_humans_on/ciatgdw 
+
+
+
+
+ Maybe you are unaware, how popular their hardware is outside China.
+The MIUI version of android is a highly sought after custom ROM on xda. 
+
+
+
+
+ http://www.reddit.com/r/worldnews/comments/28ga35/elon_musk_forget_nasa_and_2035_ill_put_humans_on/ciatgdw 
+
+
+
+
+ True - they(theregister.co.uk) have updated the title to:  
+"SpaceX's Elon Musk: I'll put HUMAN BOOTS on MARS by 2026"
+
+The time at which this news was published, the post title and news headline were one and the same. 
+Sadly reddit doesn't allow for a Post title edit/change :/ 
+
+
+
+
+ maybe that's one reason he bought a solar panel manufacturing company recently for energy needs.
+Ofcourse i agree to your comment that doubts will be raised, but so far he's been the only person trying his best to cast them away. 
+
+
+
+
+ same reaction :D 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I am a beautiful person who is the best of luck to you by the way to get the best of luck to you by the way to get the best of luck to you by the way to get the best best best to keep the same time as a result result of the most important thing is that the company is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money on the other hand is a good time to time and money  
+
+
+
+
+
+
+
+
+
+ Give This Man(Elon Musk) A MEDAL! 
+
+
+
+
+ so many low cost devices suffer due to thier old policies 
+
+
+
+
+ its sad if its a flash issue :|  
+i hope Shumway comes through fast.  
+But then all sites have this problem to a varying extent, leaving me totally clueless on what/why its happening :( 
+
+
+
+
+ yeah, they had been horrible with kernel support.  
+hope that will change soon for the better 
+
+
+
+
+
+
+
+
+
+ I've been noticing this for quite some time now, video's even though fully loaded tend to stutter a lot during playback.
+It was more profound on vimeo, when the playback stop and the video  button changes from the pause button to play button. The video was fully loaded though - http://vimeo.com/48043470 - this was the video, while this thing was happening.  
+
+Its also present on facebook videos, though to a lesser extent, and least on YouTube.  
+
+
+I played the same vimeo video in another browser(chrome) and it was playing very well, even while streaming without any stutters.
+
+Fedora 20 Linux, Latest Updated Nightly. 
+
+
+
+
+ Well, it's like an iTunes clones visually, with support for themes and add-ons. It's good for managing music when you have a large library. It's got SoundCloud, last.fm integration among others. Auto scrolling lyrics support. And the most important of all, it still works as a browser.  
+I use it and am definitely happy. Of course there are minor bugs here and there bug for a normal user I don't think it'll be a problem.   
+It's the open source version of the now abandoned Songbird media player.  
+
+
+
+
+ its more of an annoyance when people are trying to get work done fast.  
+Something like ad pop-up windows ruins your internet browsing flow 
+
+
+
+
+ maybe a few millisecond time delay if you hover over the bookmarks icon, to add to bookmarks, can fix that issue i guess 
+
+
+
+
+  't been fixed yet, along with some tab-tearing and tab-pinning visualization, when Australis is all about "beauty" and "sleek-ness". I guess it's because Firefox ships with tabs on top by default, which makes the lack of this "tab sliding movement" almost unnoticeable (or less painful) in maximized state, because you can just press your pointer against the top of your monitor and when moving the tab (that is
+
+It is however a pain on Gnome shell, because on the main panel on the top, so even if you move up a bit, your off the main firefox window, and eventually create a new Firefox window.  
+This exists on the latest Nightly too. 32.0a1  
+Opera is simply sweet in that gif you've uploaded! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ HTC tattoo  
+
+
+
+
+ if you could, please contribute more info on the bug page :) 
+
+
+
+
+ incase its a similar bug and if you have time to spare, please contribute more info here - https://bugzilla.mozilla.org/show_bug.cgi?id=1041968 
+
+
+
+
+ it'll be good if a HTML5 video related thread is stickied for a small time 
+
+
+
+
+ Hey there, would recommend you download fedora 21 Linux and burn the ISO file to a USB pendrive using LiLi 
+
+
+Also here's an easy guide to help you out 
+https://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/
+
+Hope it helps  
+
+
+
+
+ Firefox is getting its own flash like chrome by a project called Shumway. It's being worked on.  
+
+
+
+
+
+
+
+
+
+ Thank you :) That seems like a fine solution, but it would have been nice if the favicon could be used as a thumbnail pic.  
+
+
+
+
+ im wondering if you could replace the tile screenshot's on the new tab page with something like the site's logo or so? Is there any way? Because it kinda seems privacy intrusive when people can actually see image content of sites like facebook and the like, when you open a new tab.  
+
+Also i've noticed most elements are not captured in the screen shot, its like some content has been captured and show and the rest where ignored/left out.
+ 
+
+
+
+
+ html5 video(mediasource) is currently under intensive work.  
+You can follow the progress here https://bugzilla.mozilla.org/show_bug.cgi?id=778617  
+
+If you find your issue very unique or specific to some url, please do file a bug-report. As far i can tell you youtube/vimeo videos play, but with issues at times. 
+
+
+
+
+ thats true :), but since this app doesnt do something out of the box and several other facebook and twitter clients work just fine, i dont understand why its a big problem for them to optimize for the lower end.  
+FB plans to put itself everywhere, then it should concentrate that its a problem free experience on mobile. 
+
+
+
+
+ it is kitkat minimum requirement. i've got a higher Ram phone. Just that FB app was never optimized to run on lower end
+
+Edit - all the other apps ran very fine, and i noticed once i got rid of the facebook app, my phone was much faster and smoother 
+
+
+
+
+ If your phone is 512mb ram. Have a good day on using it smoothly or more importantly without closing  
+
+
+
+
+ very true, i was just mentioning the javascript stuff.  
+i'd really love more battery efficiency. Most browsers usage does give a sure hit. 
+
+
+
+
+ Even if u take benchmarks, it recently beat everyone at their own benchmark index.  
+
+
+
+
+
+
+
+
+
+ 4 models, all with the best spec possible, and no TouchWiz, 2 year solid OS updates.    
+1. low budget  
+2. mid budget  
+3. Supremely high budget  
+4. Phablet - mid to high budget pricing 
+
+
+
+
+ Press and hold the link - pop-up menu appears - Select open with app 
+
+
+
+
+ still unable to sort photos according to date creation :( but date loaded onto device 
+
+
+
+
+ i have a STRONG feeling this is because of the FACEBOOK app.  
+Even on my old micromax a110 512mb ram device this happened when facebook was installed.  
+
+Once i uninstalled my facebook app, phone was butter smooth.  
+Same thing with the Moto G 2ng Gen.   
+
+EDIT - not on the forums. but you could try this out and just report it there to help us ALL! 
+
+
+
+
+ i have a STRONG feeling this is because of the FACEBOOK app.  
+Even on my old micromax a110 512mb ram device this happened when facebook was installed.  
+Once i uninstalled my phone was butter smooth.  
+Same thing with the Moto G 2ng Gen.   
+
+
+
+
+ Forever alone just reached a new level  
+
+
+
+
+ You should probably try the beta or the normal stable version. Nightlies are test oriented  
+
+
+
+
+ Guess you should disable the e10s mode for normal use 
+
+
+
+
+
+
+
+
+
+ google needs to do something about this.
+They have the most customizable OS, a theme manage will be an absolute delight! 
+
+
+
+
+ Theme manager  
+
+
+
+
+ Hehe, get the aLogcat or catLog app from the play store  
+
+
+
+
+ maybe a logcat contribution could help the devs, i've tried contributing more info, but nothing fruitful has been found to solve this issue. :(  
+
+Please do contribute to the bug post if you find time :)
+ 
+
+
+
+
+ Does it crash without a send crash report?  
+because if you are experiencing this random crashes a bug is already open https://bugzilla.mozilla.org/show_bug.cgi?id=1041968  
+Contribute if you can! 
+
+
+
+
+ ah yes! thanks for correcting me :)  
+"generating its search results from key crowdsourced sites such as Wikipedia and from partnerships with other search engines like Yandex, Yahoo!, Bing, Wolfram Alpha and Yummly." - wiki 
+
+
+
+
+ i hope it is true, it'll be a real nice way to have broad financial independence, since DDGO gives ~~google~~ results with the additional privacy features. 
+
+
+
+
+ ORBOT by EFF - fight internet censorship! 
+
+
+
+
+ Any income from DuckDuckGo to Firefox? by searches? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Try creating a new profile, in-case you haven't.  
+Whats your OS? Audio card brand/driver? 
+
+
+
+
+ PLEASE bring this to Firefox as an add-on, or even better try talk to the devs and integrate within the browser! :D  
+Its something awesome and more people need it now, especially on desktop browsers  
+
+
+
+
+ Same :( Never found a solution 
+
+
+
+
+ me too 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ actually lots of site including news.google.com look weird with chrome's rendering mechanism.  
+Thanks :) but I've tried that extension, it helps to a little extent. 
+
+
+
+
+ chrome only - http://imgur.com/6sv8BWE 
+
+
+
+
+ is there any way to improve font rendering in chrome on linux? 
+its so bad, jagged. Some sites are beautiful but most are just meh. 
+
+
+
+
+ audacious for music - with xmms theme  
+vlc for rest 
+
+
+
+
+ i guess yes! 
+
+
+
+
+
+
+
+
+
+ The HUGE title bar of gnome windows 
+
+
+
+
+ ah that means you need a dark adwaita theme or the gtk3 firefox version(under development) 
+
+
+
+
+ Op's GNOME theme - https://addons.mozilla.org/en-US/firefox/addon/adwaita/ 
+
+
+
+
+ kinda yes - https://addons.mozilla.org/en-US/firefox/themes/
+
+Edit: i guess it'll replace your adwaita theme - not sure 
+
+
+
+
+ You could do away with the color problem by installing a Persona(lightweight themes) of your own choice after installing the HTitle add-on 
+
+
+
+
+ i use the HTitle add-on to maintain the Australis look :)  
+Does a neat job on GNOME! 
+
+
+
+
+
+
+
+
+
+ incase you want to follow the progress - https://bugzilla.mozilla.org/show_bug.cgi?id=577084 
+
+
+
+
+ ah yes i get what your trying to say :)  
+i have a couple of emoji font installed on my system to help me out.  
+I just felt this could be better since the user doesn't need to do any-end work 
+
+
+
+
+ ah i've noticed on http://getemoji.com/ that you can copy paste emojis from there. 
+Its the way i do currently on Firefox when i need to add some emoji. 
+
+
+
+
+  and paste as if they were regular text which is a shame. Another option is to not use these and include a web font 
+
+ah i dont quite understand, maybe im wrong here, but its really easy to copy-paste emoji's from http://getemoji.com/  
+Just select and copy! :)
+
+Font support is good, but colors are still an issue. Since this seems like it has SVG support, it can work quite well i guess.
+
+Third option is actually what i felt would be good, cross platform OS based or software based support.  
+Since Firefox doesn't have a way to input emojis directly into text fields, i felt this could do very well for those who want emoji inputs. 
+
+
+
+
+
+
+
+
+
+ im not sure of the emoji one thing - recently stumbled across it.  
+But if its not supported then fall back to ":smile:" for 
+Thing is if this is implemented at an OS font or so, end users don't have to go searching for fonts etc. 
+
+
+
+
+ i see a lot of emoji hate, but its much better to have something than those black boxes everywhere. 
+
+
+
+
+ ah i guess i saw an SVG implementation on their github.  
+Also since this can be used as a standard cross-platform Emoji Support since its open-source(CC    MIT license),based on Unicode, and thus help in correct rendering of Emoji's.  
+Good for the users i guess :) 
+
+
+
+
+
+
+
+
+
+ This will actually be a boost to both parties.  
+Lots of users can get around internet censorship with Tor quite easily. 
+
+
+
+
+ Use the Tor Browser Bundle - you get everything of Tor, Firefox and free access 
+
+
+
+
+ May this come super soon! _/\_ 
+
+
+
+
+ What Kind Of Sorcery Is This :O 
+
+
+
+
+  re you're not running into an unintended bug? I vaguely recall seeing that they've been working on one word searches in Windows lately, so maybe I'm wrong.. (I'm on Linux right now)
+ 
+ah im kinda having this issue, on the word - help  
+Rest all words work fine :| 
+
+
+
+
+ oh okay :) 
+
+
+
+
+ https://support.google.com/plus/answer/1216376?hl=en - Supports firefox 
+
+
+
+
+ ah this? https://www.google.com/tools/dlpage/hangoutplugin 
+
+
+
+
+ the story is underwraps so far.  
+In a interview "He(lead actor) said that the movie is about modeling industry when a model enters the field not by his own wish, but on compulsion."  
+
+According to rumours(NOT Confirmed) - "it revolves around five persons, a model (Amy Jackson) a doctor(Upen Patel) and three other people who get affected by a poisonous chemical. Reports add Chiyaan(Vikram) will sport a look which will depict a person with his face affected by such chemical."  
+
+Its a teaser, so the plot is still off.
+As for the lead actor, he's versatile and professional. An old film of his - http://www.youtube.com/watch?v=7zRVTV1Wy8E
+
+ 
+
+
+
+
+ yes,  
+http://en.wikipedia.org/wiki/I_(film)  
+
+ 
+
+
+
+
+
+
+
+
+
+ i tried the same slowest was around 30fps but it did hit 60fps at some points. But was constantly shifting between 38-50fps
+
+Edit - Fedora 20, nvidia gt525M  
+Score: 4693
+Total CPU Time: 38.79s, Total Lag: 161ms 
+
+
+
+
+
+
+
+
+
+ ah yes! didn't elaborate properly! was too excited xD 
+
+
+
+
+
+
+
+
+
+ they're just trying to keep the same design language across all their products 
+
+
+
+
+ yes, i use the beat version v-33.  
+but the general google search is still the same :( 
+
+
+
+
+ The news.google.com site started appearing in cards format on Firefox android
+
+edit - http://imgur.com/3gihk5N 
+
+
+
+
+ i just noticed the news.google.com site displays in the cards format on Firefox for Android!
+
+edit - http://imgur.com/3gihk5N 
+
+
+
+
+ Hopefully this should help you out too http://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/ 
+
+
+
+
+ Ah okay, thanks for the info :)  
+
+
+
+
+ Nightingale ?
+ 
+
+
+
+
+ try looking for a proprietary driver, if the open sourced one is at fault.
+
+http://wireless.kernel.org/en/users/Drivers/b43
+http://www.broadcom.com/support/802.11/linux_sta.php
+
+One of these should help your situation :)
+
+Edit:- i searched more through the interwebs:
+Enable RPM Fusion repo, or install them if you havn't
+Try doing a "yum install kmod-wl" 
+
+ 
+
+
+
+
+ Try LiLi. Worked best in my experience http://www.linuxliveusb.com/ 
+
+
+
+
+ im not sure, might be a stupid guess too, but if your network card has a proprietary driver you could try install that and see if your thing works.  Check in windows or so to know your manufacturer  
+
+Also you could try disabling IPv6 support and see if you find some luck  
+
+Edit: Try ifup and ifdown to switch individual cards.
+
+ lspci can list out all the detected cards etc. 
+
+
+
+
+ i really wish the variable stroke path width comes in fast to Inkscape.
+
+It's of real and great importance to people who draw and illustrate on the computer 
+
+
+
+
+ whats you said is true too, since people use their mobile devices a lot to type online, the emoji habit will also show up in text fields. 
+
+
+
+
+ ah, i guess, in your case the system is missing the Segoe UI font or some other emoji color/noncolor supported font; which is why you're seeing boxes 
+
+
+
+
+
+
+
+
+
+ :) you're welcome 
+
+
+
+
+ i think this might be website enabled - http://www.fileformat.info/info/emoji/browsertest.htm  
+
+Still black and white; colored ones are images.  
+Why didnt emoji's get made in SVG?
+
+EDIT:
+Also
+https://en.wikipedia.org/wiki/Emoji
+
+Edit 2:
+I think its because you are on Windows and have a color emoji support font installed on the system, My Linux system still shows b w :/ 
+
+
+
+
+ twitter did mention on a tweet long back that they started supporting color emoji's 
+
+
+
+
+ that write up is just brilliant! hahaha xD 
+
+
+
+
+ Firefox's edge is with the add-ons it has, thats one thing millions of users love. But yes e10s is highly needed to have that edge over chrome again.  
+
+Sometimes i feel e10s should have been a much higher priority in the past itself. FF wouldn't have lost out a good amount of users to chrome. Also risking the add-ons will be a blow to the already using FF users. I think with proper co-ordination and fast paced interaction within the Firefox community can make both e10s and add-on compatibility a great success.  
+
+http://arewee10syet.com/ -- the working add-on list shows good promise, even though there are lots of buggy ones and non tested ones too. 
+
+
+
+
+ my dog starts barking loud! its like he's yelling around im hungry im hungry!  
+
+
+
+
+ get the spice fire one - has an additional camera, and feels better from the youtube reviews too 
+
+
+
+
+ ah yes, and once the update comes through, same issue.  
+Tried new profiles and reset.  
+my goto method on linux was disable the e10s autostart on launch thing in about:config and delete the updates folder and relaunch. Somehow it used to update.  
+
+Now it doesnt though :( 
+
+
+
+
+ so it wasnt just me on linux O_O 
+
+
+
+
+
+
+
+
+
+ Im sorry to hear that you're having troubles with Firefox.  
+I've been using firefox since it's version 1.0+ days.  
+
+My best guess is that you try out to get the latest stable version. Incase you've had it installed, try a browser reset or start a fresh profile.  
+
+https://support.mozilla.org/en-US/kb/reset-firefox-easily-fix-most-problems
+
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles 
+
+
+
+
+ krita is mainly meant for the artists, GIMP was like the OSS response to photoshop.  
+
+
+
+
+ Driver 2 
+
+
+
+
+ i use both gimp and inkscape alternatively as a combo :) 
+
+
+
+
+ the ones ive mentioned are mostly GNU GPL licensed and FOSS 
+
+
+
+
+ http://test_subject3336.wordpress.com/2013/09/22/linux-a-newbie-desktop-users-guide/ 
+
+
+
+
+ Firefox, GIMP, Inkscape, Blender, Fedora Linux, Ubuntu Linux, Audacity, Krita, Birdie, Pidgin IM, Audacious, FBReader,  VLC  
+
+Edit -  forgot Libreoffice 
+
+
+
+
+ could you try some other browser and see something similar is happening or not? 
+
+
+
+
+ it could also be your OS downloading updates in the backgroud.  
+
+in case its on mobile, you can restrict background data usage on android in Data usage settings.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ can you provide some info on the black bars in Frames?  
+I dont know if its common to everybody but, hitting next on Every photo in an album on facebook always results in disk activity and also scrolling down the news feed for stories in the past also leads to disk activity. 
+
+
+
+
+ Yes, because they develop it and test it out for maximum performance with chrome. 
+
+
+
+
+ Yes, chrome does play html5 YouTube much better and smoother, because they implemented it first and launched it. Now everybody else is playing catch-up. Sick marketing move.  
+
+
+
+
+ i still feel Flash is horrible on chrome. It does play better than Firefox on Linux but it takes a couple or more of "refresh" page to get the video to load in the first place.  
+im hoping that these sites convert once html5 video gets a little more traction.  
+And yes the awful works-on-Chrome mentality is more than bearable these days _ 
+
+
+
+
+ Yeah true but kinda feels bad that people still mention it as if he was forced to resign and they are using that as a reason to abandon :(  
+Hope they get some sense into their heads soon and firefox goes far ahead from the current catch-up situation.
+ 
+
+
+
+
+ most news channels/popular sites still use some form of flash player :/  
+i wish they convert 
+
+
+
+
+ eh? Java works fine on all my OS's. Whats your issue? 
+
+
+
+
+ Strange, people are still talking of the Brenden Eich issue. :/  
+Mozilla needs to address this again.  
+
+
+
+
+ emojione is trying to address these issues.  
+they could probably make a font with the work they have done but that hasnt happened yet.  
+they welcome devs to use all the content that is open-sourced  - http://emojione.com/  
+
+
+
+
+ so far gimp in comparison to PS.  
+Other than that krita, mypaint, inkscape, synfig  
+
+
+
+
+ Apple emojis are proprietary.  
+The only open sourced emoji I've known so far is Google's, and emojione.com  
+Emoji One is a better answer than both of them,  but is Web based.  
+Edit -  Firefox does support emoji, you might be missing the font files on your system. Get the symbola font from unicode or segoe ui if your on windows 8 
+
+
+
+
+ This isn't an animation software :/  
+SynFig could help you 
+
+
+
+
+ okay even more recent(as far as possible) xD - https://twitter.com/OrmrTheEditor 
+
+
+
+
+ they are active here though - https://www.facebook.com/OrmrTheEditor  
+
+Linux beta is out as of - 3 December 2014 - http://www.getormr.com/download 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if its real bad, i think you have to reset your browser or create a new profile. back up before proceeding.  
+Reset - https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+New profile - https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles   
+
+
+
+
+ Get rid of ad block for a while and check if you find a difference. 
+Also try safe mode.  
+
+
+
+
+ Broke my heart :'( , Linux is secondary everywhere  
+
+
+
+
+ its so beautiful  
+
+
+
+
+ You'll have to wait on the white page, I get it too, the site loads fine after the small wait.  
+If it doesn't I think it's because of connection trouble  
+
+
+
+
+
+
+
+
+
+ Few things come with a user manual these days. Many people struggle using a smart phone. Too much clutter and confusion. 
+
+
+
+
+
+
+
+
+
+ Ah true, people are influenced by what they see around them, but devs could have a final say on the matter  
+
+
+
+
+ The right click isn't an issue, it the way it should work.   
+If you've high end cad programs like catia or so, it's right click everywhere  
+
+
+
+
+  The problem is with the open source community is that they too content with what they have, they don't see lack of good GUI tools on Linux a problem because they use the command line anyway
+
+Dont feel that way, we wanted Office, we've got LibreOffice and OpenOffice.  We wanted a alternative to 3ds max/Maya(though maya runs on Linux) we got blender and its going places. Alternative to Autodesk Sketchbook, we've got Krita and MyPaint. Corel Draw/Illustrator - Inkscape, SynFig.  
+There is an abundance of good software, i'll admit some of these having a learning curve but they are worth the time spent!   
+The community has never kept quiet, we've kept demanding, its just the commercial bigshots are ignorant, and the community had to figure out its own version of things.
+ 
+
+
+
+
+ im downloading the new dev built right now :D 
+
+
+
+
+ hehe wish it was as simple :D 
+
+
+
+
+ wow you've done a whole load of work. :O :O :O  
+Maybe you could ask people here or at /r/linux or similar sub reddits for help? Collab with people on git hub if you like? 
+
+
+
+
+ and it will positively impact the Linux culture and base if its picked up and worked upon.  Many people just wish Photoshop runs on Linux so that they could convert. That hasn't happened so far. :/  
+The open source community is good, just that sometimes, things are out of focus or pressing issues are not addressed 
+
+
+
+
+ oh okay! Awesome :) 
+
+
+
+
+  Contests for UI and UX do not work (that is what "everyone feels qualified to criticize the UI and suggest improvements" would be). 
+
+i think if mock-ups are shown to the public or demo-ed, then people can vote on the best implementation.  
+Also people who have a better concept should be given consideration and voted along with the other concepts.  
+GIMP has quite a long release cycle, so this should be possible.
+
+ 
+
+
+
+
+ yup!  
+I just wish changing opacity, brush size, colors, could be done on the go. Krita does an almost amazing job at this. A artist who's drawing something doesn't have to constantly switch between the keyboard and tablet/mouse much. 
+
+
+
+
+ true, but i feel blender provides more co-ordination while using that rule, and you don't have to remember most of the commands or dig the menu's, the space bar/search gives everything!   
+
+
+
+
+ and the new engine :D! 
+
+
+
+
+ just to clarify, i meant a wacom drawing tablet :) 
+
+
+
+
+ Ah yes I agree about the issues with preview  
+
+
+
+
+  vector  
+I guess it's a typo 
+
+GIMP ui currently is way better than what Blender was in the initial days. But blender has picked up, polished it self and has a much better UI today but the most important thing is that it's still Blender.  
+There is a learning curve to both these software's, but something about UI/UX is important to have a really smooth work flow.  
+Love blenders rule - one hand on keyboard and one on mouse  
+
+
+
+
+
+
+
+
+
+ No love for Russia? 
+
+
+
+
+ if you have a tablet, you can sketch using the pencil tool.  
+Afterwards use the node tools, simply the path(Ctrl+L), and keep tweaking and adjusting!   
+
+
+
+
+  We'll help you to flesh out your idea and promote it to a larger community. 
+
+Okay that felt awesome to read! :D  
+I think with some proper co-ordination this could be possible and hopefully big! 
+
+
+
+
+ MSE is quite usable on the Nightlies for sometime now. Some bugs are left and some new ones pop up too, so unless every known issue is dealt with its better to keep them in testing.  
+Would also be a negative backlash when you ship something thats only partially working 
+
+
+
+
+ xD well something can be done to make it non-capitalistic  
+
+
+
+
+ Yes but the scale has been low I feel :/ 
+
+
+
+
+ I believe contributors will show up, because most people don't want to shell out huge $ on a legal version of Photoshop. If there's an alternative that works just as good, then it's well worth contributing something for such a cause.  
+The UI could use a fix, many other features can be smoothened out, yes Photoshop and Gimp are different, that should remain, but there are things like cmyk etc. that still haven't happened. A drive like this should enable users to vote on a set features they want to see implemented in time frame.  
+
+
+
+
+ oh yeah :/ missed that.  
+But still the possibility of such an event would be wild and awesome  
+
+
+
+
+ Yup true! But i guess the team could also use the money to hire part time/full time programers for the project  
+
+
+
+
+ I've outline a few steps normal user's can take up to ensure that their privacy is protected with the different softwares one uses on a computer or smartphone.  
+Here the link [Short Guide on Privacy/Safety tech for your Browser, Smartphones and OS](https://test_subject3336.wordpress.com/2015/02/26/short-guide-on-privacysafety-tech-for-your-browser-and-os/)  
+Do read and please leave your feedback here or on the page :)  
+Hope it helps! 
+
+
+
+
+ Yes very true! Many people I've known would want to use gimp, but they aren't very comfortable once they start using. If a campaign to fund and improve gimp happens then I guess lots of contributions will pour in.  
+Especially the fact being it's open source and free!  
+
+
+
+
+ We all know that there is no Photoshop on Linux and I dont think Adobe has any plans to make one.    
+GIMP is the best thing available but IMHO it hasn't reached that level of perfection we would like. Yes, it does a lot of things Adobe can do and sometime even better but theres a feel that something's missing.    
+Krita another OSS app went for a successful Kickstarter funding recently(https://krita.org/item/krita-2-9-0-the-kickstarter-release/) and its helped the software and the community pretty well.  
+Im sure lots of users out there would like GIMP to reach the top, many want a true Photoshop alternative thats simple to use and looks good.  
+What are your thought /r/gimp ?  Wouldn't such a funding campaign help GIMP progress as the app we want? 
+
+
+
+
+  Am I just pulling stuff out my ass or do you guys notice a correlation  
+
+ah well its true, but i dont think because its because they are branded as OSS. Its mostly the look of the app, and the ease of usability that matters to an end user.     
+
+
+
+
+ Yes! i wish GIMP also goes with some move like this!  
+We could possibly have a perfect alternative to Photoshop! 
+
+
+
+
+
+
+
+
+
+ Darth Vader:
+http://www.wolframalpha.com/input/?i=Darth+Vader+curve 
+
+
+
+
+
+
+
+
+
+ Darth Vader:  
+http://www.wolframalpha.com/input/?i=Darth+Vader+curve 
+
+
+
+
+ http://aviationweek.com/space/russia-quit-iss-2024-build-space-base-leo 
+
+
+
+
+ Please do post this in /r/firefox 
+
+
+
+
+ can confirm on Fedora 21 on some sites even after having freetype subpixel rendering and anti-aliasing enabled.  
+Chrome renders extremely thin fonts, still looking for an answer.  
+One solution is to use your own custom fonts by changing the browser settings. 
+
+
+
+
+ ive done it all, even gstreamer(both versions) is installed, and the test case at http://www.quirksmode.org/html5/tests/video.html plays the MP4/H264 but YouTube wont show green :( 
+
+
+
+
+ there is opensouce http://emojione.com/  
+Its meant for the Web, but it could to be implemented in distro's with some mods  
+Nobody has shown interest in color emojis on Linux so far  
+
+
+
+
+ amd actually is more better with their driver support and openness, but yes a pain to find and install.  
+Its similar with nvidia when u have new things like Optimus tech and all happening.  
+Some looking around(RPM Fusion) should help you, orelse get the drivers from the AMD website itself. Its the best possible source. 
+
+
+
+
+ its because your middle mouse click has been activated, by some key combo mostly.  
+Autoscroll allows you for 4 way scrolling. 
+
+
+
+
+ oh yea, ive noticed in the YouTube html5 page MSE   H264 still appears disabled :(  
+wishing things work out! 
+
+
+
+
+   the puzzle.
+ 
+ Mozilla is starting with Facebook video as they're rolling out Shumway, so if Facebook suddenly eliminated their use of Flash it would be...
+
+oh awesome! :D  
+Hoping Shumway rolls out to linux soon :D   
+
+
+
+
+ Try booting into safe mode!  
+It disables rest of the apps, if thats causing some interference and also try wiping "cache" in recovery    
+
+
+
+
+ /u/Alhaitham_I corrected me, its an instagram embed facebook. 
+
+
+
+
+ ah yes true, i didnt see/might've missed the instagram overlay.  
+Thanks for correcting me! :) 
+
+
+
+
+ im on Nightly 38.0a1 (2015-02-22) and its so far appeared for that video in the screenshot, guess it was some kind of momentary test run 
+
+
+
+
+ :) Check your omtc status in 'about: support'  
+
+
+
+
+ Bad UI, pricing, minimum marketing and no guaranteed updates across the entire android range.  
+
+
+
+
+ Ah I meant for Linux  
+I guess in Windows it's already enabled by default, if not you just need to enable the omtc option and not the one I've mentioned here.  
+I'm not sure of the technicalities of the property I mentioned to be enabled but without it omtc on Linux remains disabled.  
+
+
+
+
+ also this - layers.acceleration.force-enabled 
+
+
+
+
+ ah yes true that method will work.  
+I was served this version without spoofing the user agent on linux. 
+
+
+
+
+ On mobile yes, but not on desktop i think.  
+Never saw the html player on Facebook before 
+
+
+
+
+ i think it hasn't been implemented properly, i was lucky to get this in html mp4, others have been using flash X_X 
+
+
+
+
+
+
+
+
+
+  Ah, so there's several patents covering Cleartype, I didn't know that.
+
+yeah! its also the same case H264 and many audio/video formats 
+
+
+
+
+ oh you should have mentioned Debian  
+"Xft.lcdfilter: lcddefault" is what you need i feel. Check out this link for more info:  
+http://www.reddit.com/r/debian/comments/1ofgl7/howto_better_looking_fonts/
+
+EDIT - about the Liberation Sans, i think its wise to file a bug report to debian to make them aware of the issue on the choppiness of the font, so that they can rectify it! 
+
+
+
+
+ Lcdfilter will enable sub-pixel rendering. Great font rendering on lcd screens.  
+
+
+
+
+ From Wiki:  
+"Microsoft has several patents in the United States on subpixel rendering technology for text rendering on RGB Stripe layouts. This had caused FreeType, the library used by most current software on the X Window System, to disable this functionality by default.[4]
+
+Apple was able to use it in Mac OS X due to a patent cross-licensing agreement.[12]
+
+The patents 6,219,025, 6,239,783, 6,307,566, 6,225,973, 6,243,070, 6,393,145, 6,421,054, 6,282,327, 6,624,828 were filed between 1998-10-07 and 1999-10-07, thus should expire in 2019-10-07" 
+
+
+
+
+ http://www.reddit.com/r/Fedora/comments/12jetj/you_dont_need_infinality_for_pretty_text/  
+http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html  
+Any of these 2 methods will drastically improve font rendering, Infinality will also mimic other OS's font rendering mechanism.  
+And your browser is also responsible, for some unknown reason Chrome is sub-par at font rendering, do try out Firefox, its simply good these days.  
+Also the Liberation Sans font is choppy(if on fedora[maybe other Linux's too] - reported bug but no action has been made yet)
+
+EDIT - There are patents preventing these from enabled by default which is why its left to the users choice 
+
+
+
+
+ Restart and power off phone would be nice  
+
+
+
+
+ This does seem as the issue "Liberation Sans"  
+I have it installed on my system (fedora 21) but even in LibreOffice the font is not properly anti-aliased/hinted. Something wrong i guess with the font, will try find a fix for that!  
+Thank You for narrowing this problem down :) 
+
+
+
+
+ I have my font rendering correctly setup on Linux,  
+It's strange because every other site renders fine except this 
+
+
+
+
+ I do have anti aliasing enabled to rgb, sub-pixel rendering on, and freetype installed. 
+
+It's only this site that has messed up font rendering, everything else is amazing  
+
+
+
+
+
+
+
+
+
+ If your graphics card is nvidia Optimus  hybrid technology, then Google for the bumblebee project and install on your os 
+
+
+
+
+ Why so serious?  
+   
+Docking!  
+
+
+
+
+ In Address bar - "about:config" - Search for "mediasource" and double click to set the options "True"  
+Also: 
+http://www.ghacks.net/2014/07/25/enable-mse-h2-64-support-youtube-firefox-right-now/  
+
+Just for your info, MSE(HTML5 videos) is under super heavy development, so there are bugs, if you find 'em, report them :) 
+You can follow this for more:   
+https://bugzilla.mozilla.org/show_bug.cgi?id=778617  
+ 
+
+
+
+
+ You should be on nightly for the webM , the other ignore_codecs is added by the user 
+
+
+
+
+ ah yes that's my last resort :) 
+
+
+
+
+ im thinking of fallback mode.  
+EDIT - i just read on some page that pc's made withing the last 3-5 years could work fine.  
+On my current machine(i3 4gb ram) - its below 120 MB 
+
+
+
+
+ Thank you for the info! :D  
+Just what i wanted to know :D  
+Its my first time with debain and just didn't want a bad experience. Thank you Again :) :D 
+
+
+
+
+ ah yes, i did try those links out before coming here, but i couldn't find what i was looking for, luckily the r/debian community has helped me out.  
+Thank you for additional info too :D 
+
+
+
+
+ yeah ive been thinking about it too, im just hoping gnome can be used fine with a 512mb ram environment. It used to run the old version of Fedora pretty well and its been a long time(4+ years) since i upgraded it.  
+New fedora has a huge minimum req. and ive been wanting to get debian for a long while.  
+just hoping it works out fine :)  
+
+
+
+
+ thanks for the live image Readme - help me clear up a bit of the confusion :) 
+
+
+
+
+ what bout these live cd's/usb version(1GB or so i think)?  
+the thing thats confusing me is the standard edition and gnome edition. Does the standard have no Desktop Envirnoment? 
+
+
+
+
+ Thank you for the link and answer, but what if I'm without internet? 
+
+
+
+
+ Hello r/debian  
+im almost on the verge to get debian for my old system as i found out it will run on hardware(512MB Core Duo) a few years back.  
+But as i went to download the live installation media, i found out 2 version's - gnome and standard?  
+Whats the difference between those two?  
+I'm looking for a gnome desktop as natural because ive been used to it with Fedora a long time.   
+Does the standard ship with the gnome desktop or do i have to get the gnome iso as such.   
+Also is the installation text based or GUI?   
+
+EDIT - SOLVED - i got the info i wanted to know! Thank you kind people of /r/debian ! :D  
+If you do have more info to share, please do! :) 
+
+
+
+
+ VIDEOS!!!  
+Ubuntu Phone OS - https://www.youtube.com/watch?v=TShKZLeZzWE feature=youtu.be  
+Promo - https://www.youtube.com/watch?v=-dpfHYpfEXY feature=youtu.be 
+
+
+
+
+
+
+
+
+
+  I do not know what infinality is :D
+
+http://www.infinality.net/blog/  
+http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html 
+
+
+
+
+ good going :D  
+its good to see people donating to opensource projects  
+
+
+
+
+
+
+
+
+
+ Yes moto g or moto x any day!  
+
+
+
+
+ I feel so sad for him. 
+Stay strong. 
+May your dog Rest In Peace  
+
+
+
+
+ glad it helped, its hard to live without the app though, i just wish they made it better to use the RAM efficiently  
+
+
+
+
+ Google has made an amazing blunder of the update mechanism. 
+Why don't they approach the update system just like other Linux systems  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * Chrome and Firefox security i feel is almost at par with each other.  They both get owned at Pwn2Own and every other contest, so its just evolution. Multiprocess(Electrolysis) is coming to Firefox soon.    
+* Chrome is quite ahead on HTML5 support true, but Google has a lot of "only works on chrome" going that will hurt the open web for the future. Google being in a more dominant position also tries to make switch which is in their favor at times (eg. recent HTML5 switch on YouTube - Media Source Extensions )  
+* UI customization. Hands down. Nobody comes close to Firefox.
+* I think Firefox also wins here with the support of Firefox Sync, and it is cross-platform(iOS version coming soon). But each to his own.  
+* Privacy - Cant stress this enough to matter because people just DON'T want to value it; Went you get Chrome from Google, there is and always will be some form of Privacy trade off.   
+Firefox is for pro-privacy and supports DO NOT TRACK tech. Chrome is just a blind NO to this question. 
+Mozilla doesn't want your data but Google will surely want it some how.    
+* READER MODE! :D (i love this on android now, will come soon to Desktop)  
+* Extension support - I personally feel Firefox rules this (maybe the fanboy in me)  
+* Firefox on Top of the [Browser GrandPrix](http://www.tomshardware.com/reviews/chrome-27-firefox-21-opera-next,3534-12.html).  2013 yes - didn't find a new one :( .  
+Also beat chrome out on [benchmarks](http://arewefastyet.com/) - Lower is better.  
+* Personally hate the new "Works on Chrome" or "works on webkit" views. If you're a dev YOU SHOULD ensure your site works everywhere. Another reason i stick to Non-Webkit browsers.  
+
+EDIT - Chrome is Tetsuo aka RAM hog :(  
+As for "apps" on Firefox - https://marketplace.firefox.com/ 
+
+
+
+
+ Button's a clean driver. Alonso gets real aggressive once he finds a sweet spot. 
+
+
+
+
+ after staying in the 11th floor of a building in Pune with little-no coverage; i had enough with airtel! 
+
+
+
+
+ BSNL 3g speed is good! I was kinda surprised when it touched 1000kbs while i was in Andhra. Went to a forest reserve recently and only BSNL had coverage there too. 
+I like Docomo too; they have better 2g speed that the rest 
+
+
+
+
+ Nope, it's a separate company, they only use the search part and ands protection layers over it so that everything is encrypted and not tracked.  
+
+
+
+
+ "toll-free"*  
+*-Introductory offer. Subject to market conditions 
+
+
+
+
+ you dont have to go directly to google - look into https://startpage.com/ ;) 
+
+
+
+
+ look into https://startpage.com/ ;) 
+
+
+
+
+ Alonso should never be blamed for switching teams; its his life and he had to turn it around; being second best is nothing in this sport where winner takes it all.  
+It was Frustrating as a Ferrari fan to see ferrari not deliver for many years in a row. Im now happy that Ferrari is doing something and i wish Alonso's future also brightens up 
+
+
+
+
+ apple's apps and the apps using internet is a very different thing. Surprised he cant see that stark difference. 
+
+
+
+
+ Flipkart maybe be run by Indians in India, but works out of Singapore  
+
+
+
+
+
+
+
+
+
+ pipelight or the original crap flash from Adouche 
+
+
+
+
+ i do understand that part; everybody is competing, i just hope some miracle happens to McLaren 
+
+
+
+
+ im hoping for a reverse BrawnGP :'(
+ 
+
+
+
+
+  I just can't see Honda get their act together. 
+
+They've been catching up seconds; they have finally started completing a race. Its hard to play catch-up when you've been out of f1 for long. Matter of time.
+ 
+
+
+
+
+ i think McLaren has a chance to go to the top; Ferrari was trailing far behind from the Mercs until the safety car came;  
+The only champion car on the grid is the Merc and every thing else doesn't matter, Alonso saying if they(Ferrari) are not on the top, his move was fine, seems alright to me now.  
+
+disclosure: Ferrari Fan(even though i support Alonso) 
+
+
+
+
+ you need the proper Gstreamer 0.10   1.0 version codecs for h264 to work properly 
+
+
+
+
+ you sir are awesome! 
+
+
+
+
+ It certainly is possible, you just need the right color palette.   
+Digital Painting isn't that bad with gimp. Once you get a hang of the brushes and brush settings your work flow will be smoother.   
+Path tool can help you with sharp edges or strokes.  
+Also use layers, definitely helps and saves time on mistakes.   
+
+If you're trying to Make something of the face mash thing like the images you posted, know how to cut out images properly. Use layers, set warmth tones, use curves, blur and clone tool. 
+
+Edit - combine multiple software like krita, mypaint and Gimp, you'll finish much faster  
+
+
+
+
+ yup! they have to pay for this!   
+Also do consider - http://www.reddit.com/r/india/comments/31vvf2/fight_for_net_neutrality_the_way_forward/cq7yfta 
+
+
+
+
+ Do share on your Social media accounts! 
+
+
+
+
+
+
+
+
+
+ Guy's I've created free media content for more awareness!  
+Please feel free to use them! We need to win this fight! 
+[Link](https://test_subject3336.wordpress.com/2015/04/10/free-media-content-for-net-neutrality-india-netneutralityindia/)
+
+EDIT: Share on all your social media accounts! :) 
+
+
+
+
+ Airtel deserves this more 
+
+
+
+
+ You don't worry on not having close friends.  
+You have a family here at reddit.  
+Happy Birthday. Bless you! :) 
+
+
+
+
+ i did file a [bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1041968) on this, nothing has happened so far though :(  
+Still happens on my Stock 5.0.2 lollipop Moto G at times, after consistently browsing for some time. Most reproducible when i repeatedly use the search fields of some sites.(more crash prone in private browsing mode)
+
+ 
+
+
+
+
+ That article is shitting people with that bunch of links 
+
+
+
+
+ There's an option in the setting's to get the enter key long pressed for emojis 
+
+
+
+
+ lower is better for all.  
+You can choose the different systems under "Machines"  
+ 
+
+
+
+
+ ah nope not everywhere http://arewefastyet.com/ 
+
+
+
+
+ Snoop Using Linux OS;  
+The foot icon belongs to GNOME - an Open-source Desktop Environment - the most common/default on most Linux distros 
+
+
+
+
+ You would have like it better if you had watched it in the theater though; i saw the IMAX and non-IMAX version, and i must say IMAX is truly miles ahead. Its very immersive when you get the IMAX scenes, and the sound/music shakes up everything!   
+
+
+
+
+ linux :'( 
+
+
+
+
+ get ublock. its highly efficient, OSS, and light on memory compared to others 
+
+
+
+
+ scrolls pretty well for me 
+
+
+
+
+ its on nightly and aurora firefox 
+
+
+
+
+ ah i've had this at times, reduced when i switched from a Micromax to Moto G, please do contribute to this bug with info/logcat etc. - https://bugzilla.mozilla.org/show_bug.cgi?id=1041968 
+
+
+
+
+ cough cough http://www.ghacks.net/2015/03/31/firefox-37-find-out-what-is-new/  
+WebM support will be on its way soon now :) 
+
+
+
+
+ yes you can https://support.mozilla.org/en-US/kb/how-do-i-set-up-firefox-sync 
+
+
+
+
+ Its coming soon! If you want to try it out get the Nightly Versions ;) 
+
+
+
+
+ i like it a lot, personally.  
+Its improved a *hell lot* from where it started.  
+Yeah there maybe a couple of bugs here and there, but its been a good experience overall :)  
+For me - uBlock, themes, Firefox Sync, privacy and a neat UI - cant ask for anything more. 
+
+
+
+
+
+
+
+
+
+ i guess you could use "ifup"/"ifdown" 
+
+
+
+
+ I feel bad for both kimi and alonso. Both of them have hard quite a rough time for a long time now.  
+
+
+
+
+   no technology can locate a phone that is switched off.
+
+NSA does this; its possible. 
+
+
+
+
+ yes please do; Worst part is most Indians don't bother about Political/Law situation unless they are bought onto the their TV screens. By the time they act it will be too late. 
+
+
+
+
+  My BP is rising after reading each question.  
+
+So per minute call charges; Customer Care charges(treat you like shit too); Monthly Data Packs charges(when internet is actually cheaper tech); No HD voice calls(except DoCoMo); Poor connectivity, Roaming charges etc.  
+And out of the world profit for them - OKAY  
+Nil R D - OKAY  
+Next - separate per app plans! - OKAY   
+
+Same; its a monopoly draft that's been prepared.  
+I really don't understand these folks. How much money do you want to eat?  
+ 
+
+
+
+
+ yes please do! 
+
+
+
+
+
+
+
+
+
+ Fernando Alonso resembles Che Guvera :D 
+
+
+
+
+ Why don't you try some other project like pipelight or so. They run on the latest flash version. See if that helps  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ IIRC it refers to the situation in the Tie Fighter game  
+
+
+
+
+ Why is this not on the Front PAGE? :O   
+ITS AWESOME! 
+
+
+
+
+
+
+
+
+
+ Ah I'm on nightly 
+
+What im saying is without MSE, the playback with HTML5 video playback on Linux is bad, stuttering. With MSE it is better(but yeah bugs are present). 
+
+
+
+
+ For me Man of steel - the mythology part was just perfect(Everything about it) _/\_  
+The suit was good, cast was good, but the destruction oh god(but yeah it gives him reason).  
+I felt in lacking in the depth with Supes and the Villain.  
+BUT I LOVED IT :D
+
+EDIT - Yes! im coming back to type this - HANS ZIMMER - BRILLIANT SCORE(gives you a feeling of supes anytime you listen to it)  
+ok bye! 
+
+
+
+
+ Does look like emoji, you'll need to get the right fonts for your particular OS. 
+
+
+
+
+ i was on Infinality for a while, Switched to Freetype later.  
+I wasn't able to stick to a specific rendering style for long xD 
+
+
+
+
+ Still no luck:  
+MIME Type: video/mp4; codecs="avc 1.42001e mp4a.40.2"  
+DASH: no(18)  
+
+Just to clarify, tried this out on a fresh profile.  
+I only have the top 3 box's (HTMLVideoElement, H.264, WebM VP8) enabled on the YouTube HTML5 page and the rest disabled. MSE disabled by default.  
+If i do enable MSE then vp9 kick's in most of the time, but it currently has A/V sync issue's among others which let the devs to disable MSE on Linux. 
+
+
+
+
+  onts still seemed somewhat blurry). I didn't know about Infinality, I'll have to try it one of these days. The fact that it includes "Windows" presets seems to be promising.
+
+yeah i think Infinality is better for your use(has Mac styles too).  
+Im on Freetype though, serves me the best :) 
+
+
+
+
+ chrome used a technique called *Head fake* to give you an illusion of speed.   
+Undoubtedly, this has been adopted by others too.  
+http://www.computerworld.com/article/2519182/desktop-apps/mozilla-designer-touts-tricks-to-give-firefox-the-illusion-of-speed.html
+
+Edit - word 
+
+
+
+
+  I can put Firefox on Linux and Windows side-by-side, and the one that hurts my eyes is not on Windows.  
+
+Please do try out freetype-freeworld or Infinality(there's nothing better than this in the world)   
+[Freetype](http://www.reddit.com/r/Fedora/comments/12jetj/you_dont_need_infinality_for_pretty_text/)  
+[Infinality](http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html)
+ 
+
+
+
+
+  ou should confirm what codec YouTube is using for the video you watch.
+
+For me its always - avc 1.42001e mp4a.40.2 and it feels horrible :'( 
+
+
+
+
+ He opens his mouth, but the words won't come out 
+
+
+
+
+ ah yes, saw this, i just wish basic support is added to gnome-release for now.
+Edit - looks like very little activity there 
+
+
+
+
+ sorry for your time! didnt understand properly first time. 
+
+
+
+
+ oh okay, understood it wrong.
+Thanks for correcting me 
+
+
+
+
+ ah! dont know bout that, you'll have to stick to one 
+
+
+
+
+ yup it does! :)
+
+Edit - watch comment below 
+
+
+
+
+ export chrome desktop data - Firefox  
+Use Firefox sync for cross platform sync. 
+
+
+
+
+ Also long press a video and 'Open with App'  and choose vlc - perfection  
+
+
+
+
+ I'm not sure. I haven't reported one.  
+Hoping this issue on the radar.  
+
+
+
+
+ I've got gstreamer 0.1 and v1 both installed.(hopefully believe I have the right packages)  
+Firefox should mention somewhere on the help what all packages are needed for a user.  
+
+And everything is at default, YouTube html5 shows a tick mark on h264. Mse disabled.  
+
+
+
+
+ h.264 is bad on Linux :(
+No Smooth buffering, and playback stops at times. 
+
+
+
+
+ I had something similar while closing tabs, but I had filed a bug report and it was resolved.  
+Are you on the latest version of Firefox? If yes and this continues to persist better file a bug report.  
+
+
+
+
+ Yup it is.  
+
+
+
+
+ They have to use what apple provides, nothing much from the outside 
+
+
+
+
+ Felt the same. I think because few people use Yahoo, their page-ranking system is bonkers. But its quite decent for day to day use :) 
+
+
+
+
+ Second this. Should be mentioned on the Play Store itself. 
+
+
+
+
+ People do use it, emoji became an article on [OMGUbuntu](http://www.omgubuntu.co.uk/2014/11/see-install-use-emoji-symbols-ubuntu-linux)  
+hmm...wish i knew how its done and understand other peoples code 
+
+
+
+
+ Ah im not sure if this is gonna help you, but with bumblebee installed and running, you could use "optirun -b auto nvidia-settings -c :8" to activate nvidia-settings and create specific Application Profiles.  
+
+Other option could be to use the Nvidia proprietary drivers(incase you're still on nouveau).  
+In PowerMizer set to Max Performance.  
+
+Also check out these guides, might help you:
+http://developer.download.nvidia.com/compute/cuda/6_5/rel/docs/CUDA_Getting_Started_Linux.pdf  
+http://www.quantstart.com/articles/Installing-Nvidia-CUDA-on-Ubuntu-14-04-for-Linux-GPU-Computing  
+
+Hope you find a solution! 
+
+
+
+
+ i think your app should be able to use GPU when needed automatically.  
+Maybe if your look around you could set some parameter/command to permanently run the app with a GPU. Or the Nvidia Settings Manager could be of help.  
+As far as i know the battery drains as fast as the usage. When your hooked to the power port, it just lets current pass through, nothing more i feel.   
+
+
+
+
+ well since you've turned off optimus, your power consumption has shot up. Your only other way around is to disable the GPU In BIOS if it does support such a feature.  
+Me currently using bumblebee and its your best shot for proper power management. I think its better than the nvidia-prime thing.  
+https://wiki.ubuntu.com/Bumblebee
+ 
+
+
+
+
+ okay, i dont understand a thing on that page. :/  
+Im gonna quietly wait for this. :'( 
+
+
+
+
+ There's lots open source emoji projects like [EmojiOne](http://emojione.com/) but none have made into the Linux Desktop.    
+Every other OS now has support for color emoji's and emoji input as well.  
+Why's it taking so long? Emoji has gone mainstream and is used a lot these days. 
+
+
+
+
+ https://support.mozilla.org/en-US/kb/import-bookmarks-google-chrome?redirectlocale=en-US redirectslug=Importing+bookmarks+from+Google+Chrome  
+https://support.mozilla.org/en-US/kb/import-bookmarks-data-another-browser
+
+EDIT - passwords are still WIP - https://bugzilla.mozilla.org/show_bug.cgi?id=589589 
+
+
+
+
+ Yup Everything will be like a new firefox!  
+
+
+
+
+ if you card is Optimus based, i think you should definitely use [Bumblebee](http://bumblebee-project.org/); it takes care of power management very well. 
+
+
+
+
+ Yes! Create a separate profile - https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles  
+Now. Enjoy. 
+
+
+
+
+ awesome :D 
+
+
+
+
+ It is!
+Maybe just check the menu and see the  settings of your addons if it's enabled  
+
+
+
+
+ Synfig  
+
+
+
+
+ Firefox + ublock addon will help you!  
+
+
+
+
+ Firefox sync provides sync capabilities  across platforms.   
+Install the hangouts plug-in. I use it, works pretty good  
+
+
+
+
+
+
+
+
+
+ time based sort should be extended individual albums 
+
+
+
+
+
+
+
+
+
+ Since MSE is disabled on the Linux Nightlies, i've been served video's on YouTube with the codec "avc 1.42001e mp4a.40.2" but the playback is extremely choppy and stalls every now and then.  
+Other than enabling MSE(which i currently avoid due to A/V sync issue); anyone know what could be the trouble or a fix for it?
+
+EDIT - also no DASH support 
+
+
+
+
+ Check these tools - http://www.nirsoft.net/password_recovery_tools.html 
+
+
+
+
+ Maybe F3 is the alternative key for you. Im not sure why Ctrl+F isnt working out, but its fine for me on my Fedora. Try checking out in Gnome Setting - Keyboard - Shortcuts 
+
+
+
+
+ Giant title bar - get HTitle addon  
+
+
+
+
+ Triangle - Very Unique 
+
+
+
+
+ recommend you to create a fresh separate profile for nightly 
+
+
+
+
+ ah well depends, sometimes the updates in Nightly are small 3-4MB or 7-10MB.  
+You get the 45MB+ updates when you haven't updated for a few days time.
+
+EDIT - yes mostly once a day, unless something of critical importance breaks(quite rare) 
+
+
+
+
+ Is your system a Dell/Asus? They use something similar to that name for updates or something(if im not wrong) 
+
+
+
+
+ i think you need to reset your browser:  
+https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+
+Or create a new profile(Backup - data first!):  
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles   
+
+
+
+
+ i use beta, wasn't working on beta. Thank You for the info :) 
+
+
+
+
+ I remember trying out Chrome when it launched, its was good then, but i continued using FF.  
+After a while i started reading about all the amazing headfake techniques chrome uses(like faster animations) to make people believe its faster. Once android came, i knew Chrome would rise to a peak and so much control to a corporate wasn't good i felt.  
+And NSA happened too.  
+
+Stuck with Firefox all these years(From version 1.3 or 1.5) and i still love this browser! I hope once they launch the iOS version soon, Mozilla will get a better hold of the mobile market, and also if they launch on Windows Phone it will be a win too. 
+
+
+
+
+ Had a canvas 2, i used it for 2 years, pretty good phone, even though it was big.  Somehow adjusted and got used to the size. I gave up on them when no sources were released and no further OS updates by Micromax. Also a horrible Service center experience.  
+
+Switched to the Moto G 2ng Gen. (2014).  
+Its well designed, has the same screen size of 5 inches like the Canvas 2 but the curved back, the thinner screen edge bezels, super comfortable to hold and with a feel-good material Motorola has won me over completely.  
+Also Brilliant Hardware performace and Awesome reliability on Software Update and love for almost-Stock Android experience.   
+
+
+
+
+ Thank God this is being addressed(Voted!), browsing unknown sites on mobile is a pain with all the ads auto opening in new tabs and random downloads. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Good. Maybe this will make companies think twice before using our private communications to mine them and sell ads against that private information. 
+
+
+
+
+ Theme engine. 2 major OS version updates + 1 year of security updates for a total of 3 years support, as rumored. But I'd like that for *all* phones not just Nexus. 
+
+
+
+
+ Isn't the GPS automatically enabled on iOS, too? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ You invest in the companies most likely to win (usually, but not always, the leaders/first movers). 
+
+Unfortunately the companies likely to succeed in VR are also already massive companies where investing in them won't give you a huge ROI over the next few years.
+
+It would've been much better if Oculus had stayed independent from that point of view. 
+
+
+
+
+ I only really care about Sense ID (if it is as good as it sounds in theory, at least). 
+
+
+
+
+ I'm only upvoting this so more people remember their promise when they inevitably try to *break* net neutrality rules or at least lobby against changing them. 
+
+
+
+
+ Nvidia console as the official Android TV box. 
+
+
+
+
+ Thank you, Microsoft PR Department! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Can't wait for DLC in DRM-ed self-driving cars!
+
+Want protection for a 2nd passenger? That would be $200 extra. 
+
+Want our car to stop before it crashes into pedestrians? That's $500 extra. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I don't know about that but there is a lot of Microsoft fanboism on r/Android lately, that's for sure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Yeah, I've seen "I, Robot", too. That one doesn't end well, either. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I really like that rumored 2+ years of OS updates (so 2 major versions in this case) + another year of security updates after that.
+
+That seems quite optimal and I hope other OEMs follow that. Unfortunately even if they do it, it will only be for high-end devices. That's why Google still needs to push a plan to update *all* devices, at the very least for security updates if not features. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ But I thought he was already "winding down" the program and such. 
+
+So...no then? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ So if Microsoft quietely admitting Windows Phone is dead? Why doesn't it just come out and say it, rather than play this "oh WP is totally alive, we're just going to put 10x more resources on the other 2 platforms - that's all".
+
+WP users should be the most upset about that, as they'll be lied for years more by Microsoft that the company will totally continue to support the platform, while in reality it will focus more on Android and iOS and starve Windows Phone/Mobile of development resources, until it goes out with a whimper rather than a bang.
+
+I just feel it's very dishonest and unfair to do that to current *and future* Windows mobile users by misleading them this way. 
+
+
+
+
+ Yeah, can you imagine how many people would be sent to prison? 
+
+
+
+
+ This is certainly not happening because they *can't* do that (strong encryption). They just refused to do it, possibly because they don't think the Belgian law applies to that. 
+
+
+
+
+ Intel still has a lot of "x86 baggage". You know how we can find that out? It's easy.
+
+ARM chips:
+
+1) cost less per die area
+
+2) same performance or better (usually better) at high-end for instance, or mid-range or whatever level you want to compare
+
+3) yet they are like 1-2 process nodes *behind* Intel's process nodes.
+
+How is it possible for ARM chips to cost significantly less, have at least as much performance at a given level, and yet do all that on a 1-2 generations old process node? It's possible because Intel's chips are bloated. 
+
+If Intel would put the latest high-end ARM core on its own 14nm process and compare it with latest Atom, at the same power envelope, it wouldn't even be close. The ARM core would be like 2x faster, while still costing half as much. 
+
+
+
+
+ Not really. Intel is not competitive on a "performance per price" metric. Not even close. The only way it has been able to *look* like it's competitive on that metric so far is because it would heavily subsidize its chips with profits from the PC chip business.
+
+Now they've said they won't do that anymore, but it will be hard to verify since they've just unified the 2 divisions (mobile and PC). However, there was already an announcement that for the next version or something of the Zenfone 2, Asus would use a *lower performance* Snapdragon 615. 
+
+Why? Because Intel is not selling that Atom or its successor at the *same price level as the Snapdragon 615* as it's doing now. So if Intel raises its prices, Asus can't sell a "mid-range phone with a high-end chip" for $250 anymore. It will have to buy a mid-range chip for a *real* price, not a subsidized one.
+
+And if Intel has to compete with other high-end chips in high-end phones with real prices, it loses, because high-end Arm chips like the Snapdragon 820 for instance will have better performance for *half the price* of a high-end Atom (Cherrywell or whatever they are calling the new one). 
+
+
+
+
+ What's with the Microsoft circlejerk on r/Android lately? 
+
+
+
+
+ They could still pass a last-minute renewal this Sunday.
+
+Remind your Senators not to do it:
+
+http://fight215.org/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tegra X1 should be pretty sweet. Hopefully it's not still on a 28nm process...in summer. 
+
+
+
+
+ It would be a smart choice not just from a battery perspective (if it's an efficient modern panel that is, not a 1080p panel from 3 years ago which probably uses 50% more power than the current 1440p one) but also from a cost perspective, as that will probably be the $350 variant, and I'd rather they put a better camera in there than a higher resolution screen anyway. 
+
+
+
+
+
+
+
+
+
+ Except for the part where it's not open source, like the Gallery is.
+
+Either way, hopefully Google doesn't constantly nag you about "signing into it" or worse, automatically sync all of your photos online. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "To kill or not to kill humans - that is the question", said the robot. 
+
+
+
+
+ But GMOs are totally cool...except for the companies that seem to own them and which will eventually control the world's food production with their patented food.
+
+Reminds me a bit about the "nuclear is perfectly safe...except for all the things humans can do to screw it up to cause global catastrophy" discussion. 
+
+
+
+
+ This is exactly why *unaccountable* spying is so dangerous. The government can start using "secret evidence" against you or they can twist that evidence however they want to charge you with stuff. The more this is allowed to happen, the more it will corrupt judges as well (not necessarily in a direct sense, but in the sense that judges will start getting used to it, too, and allow secret evidence to exist "to protect methods of investigation" or some other bullshit reason). 
+
+
+
+
+ He does recommend it, but he likes BoringSSL a little more because he knows the people working on it better:
+
+https://news.ycombinator.com/item?id=9594259 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ When you're outdoors you pretty much have to keep it all maxed out on brightness to get a *decent* experience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Coming later in September, Skylake-H will roll out, which will address high-performance notebooks and some Xeon segments
+
+Lol, I like how the H-series is now "high-performance". Up until IVB and until Intel decided to *lower* mainstream notebook performance with the ULV/U chips, the H-series (then called the M-series) was in all "mainstream" laptops, even the $500 ones. Now they're pushing the low-performance U chips and the *even lower performance* Y/Core M chips in mainstream laptops. 
+
+
+
+
+ Except they haven't cut the funding yet. Also, weren't the Snowden documents saying there is like a $50 billion "black budget" (across NSA, CIA and others)?
+
+Even without that, they could just ask for a "bigger budget" for some *other programs* in the future (without actually telling the whole Congress what they are - after all even the Intelligence Committee doesn't know about most of them, as per Dianne Feinstein) and then use that budget to restart it under some other name and authorization. 
+
+
+
+
+ How many times have they "closed" programs in the past, only to rename them to something else and not only keep doing it, but *expanding* it.
+
+Room 641a (AT T cable tapping) comes to mind where they got "caught", promised to shutter it, and yet the Snowden revelations show us that they have *cable access* to *all* traffic in the US.
+
+Anyway, this isn't even their largest program - not even close. The Patriot Act accounts to less than 5% of their mass spying. The rest is done through the FISA Amendments Act Section 702 (bound for renewal in 2018 I think) and the Executive Order 12333.
+
+The Patriot Act Section 215 was *mainly* about phone records (although they probably interpreted it to mean Internet records too in some cases), but the FAA 702 and EO1233 allows them to capture *all web traffic*, including content, which also includes your Skype calls, emails, SMS, chats and so on. Those are far my dangerous than the Patriot Act 215. 
+
+
+
+
+ Well the UK doesn't even have a Constitution..so yeah. 
+
+
+
+
+ If *it is* because something like this, they probably wouldn't want to tell us anyway, because that would show how reckless and incompetent the airline companies were to connect the entertainment systems to the critical systems, even if there is a "firewall" between them (because hackers have never bypassed those before...).
+
+This is precisely what worries me *greatly* about "smart" cars and self-driving cars. If the companies don't *completely* separate the two types of systems through an air gap, and give *absolutely no network connection* to the critical system, we could see a lot of hacks happening, even mid-driving.
+
+ The "no network access" part probably won't happen, though, as with self-driving cars they will be pushing V2V technology, which means for it to be effective the critical system that includes breaks and engine and whatnot will need to communicate with that network. But at least I hope they put the two systems on *different chips*. 
+
+Make no mistake, though, the vast majority of "self-driving car accidents" won't happen because the self-driving AI is not good enough. They'll happen because of hacks into people's cars. 
+
+Combine that with virtually unaccountable spy agencies (not just US, but everywhere) and that future is quite terrifying indeed, considering we only know about most of their hacks from a whistleblower, not because they were *detected* after the fact. 
+
+
+
+
+ What are the most likely battery technologies to succeed in the next 5-10 years, though?
+
+From what I've read there are [quite](http://www.forbes.com/sites/aarontilley/2015/01/28/your-smartphone-battery-sucks-this-mit-startup-could-change-that/) a few [startups](http://www.scientificamerican.com/article/secretive-company-claims-battery-breakthrough/) that promise to "commercialize solid state batteries" by 2018. Both [Apple](http://revolution-green.com/solid-state-batteries-apple-and-toyotas-next-big-thing/) and [Google](http://www.slashgear.com/google-is-working-on-solid-state-batteries-that-last-longer-than-typical-batteries-12378543/) also seem to be researching them and Apple wants to launch its electric car in 2020 or so. 
+
+Solid state batteries also seem to have 50-100% higher density (up to 1200Wh/liter) than regular li-ion batteries, higher life cycles, and they are safer too (due to lack of liquid electrolyte), which could be great for electric cars.
+
+I can't find the link now but there was some li-ion Nobel prize winner or something also working on solid state batteries. 
+
+
+
+
+
+
+
+
+
+ My guess? Using the technology for space mining (mostly) as Google could get trillions in revenue from that, but perhaps also for manufacturing and other more mundane stuff. 
+
+I'm just hoping they will keep their promise from last year and won't become a Defense contractor. I'd rather the robots that will inevitably be sent to kill people in the Middle East or Africa in the future won't have the Google brand on them, the way the Stark brand was on the missiles in the Iron Man movies. 
+
+
+
+
+ It's for the same reason I don't put much trust in face or iris unlocking of phones or computers. It's just a matter of time before they get the biometric "code" out of your online photos or from CCTVs. 
+
+
+
+
+ Hopefully it's 3 years or at least 2.5 years. Most people use their phones more than 2 years. They should be supported accordingly. The carrier contract time-line is irrelevant (people also leave their old phones to family or sell them to others who use them a couple of years more) and Google should not bound itself to it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That was kind of the point of the article. The US is too focused to pass a law for itself instead of working within an international body to set space mining standards.
+
+The US has no plans to mine the moon currently for instance, and this new law doesn't even apply to the moon, only asteroids. China has already announced that it plans to go to the moon soon, and as the article says it could say "that whole land where water is on the moon is OURS". 
+
+
+
+
+
+
+
+
+
+ I wonder if the government will just interpret that as "we can continue collecting data for everyone on which we have data since before 2005" - which could be most people.
+
+After all they already seem to consider the data of 3-hop Americans (millions of people) as "relevant" to a terrorist investigation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Until they pass a mandatory minimum 10 year sentence for anyone shooting "one of the government's drones" down, or some similar law. Then what? 
+
+
+
+
+ I'm inclining more and more to believe that Tor needs to become P2P where everyone is an exit node.
+
+That seems to have worked pretty well for torrenting/piracy. Imagine if torrents didn't work the way they do now and only a few "special" nodes would upload the content to others. That would make those targets much more appealing to law enforcement and seeders wouldn't be able to "hide within the masses" as they do now.
+
+This has turned out to be such an insurmountable probable for the anti-piracy guys that they just prefer to focus on other *centralized* places such as websites that keep the torrents.
+
+So we already have proof that such a P2P strategy "works", despite the fear of many that they don't want "all the illegal stuff" to go through their computers. 
+
+Also, perhaps the client could make everyone an exit node by default, but somewhere deep in the settings it could still allow people to disable their client from being an exit node and make it only a relay node. Then those who are really terrified about the prospect of being an exit node can just turn that off. Win-win right?
+
+The current strategy of having a few thousand nodes will never work, and it's only going to become worse as NSA increases its budget and capabilities. Those thousand nodes will be overwhelmed by NSA's own nodes.
+
+Even if we turn millions of relay nodes into exit nodes I'd still worry the NSA has the capability to mess with that, but at least it would be a much smaller chance. Also, if Tor ever gets to something like 100 million users (you never know, especially with more oppressive countries going online in the next decade) that should make it almost impossible for any agency to cryptanalize the Tor traffic - but only if we make everyone an exit node. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Whoops, it seems that the records for 95% of our targets have gone under water in a pipe leak. 
+
+
+
+
+
+
+
+
+
+ You called?
+
+[Security Analysis of Estonia's Internet Voting System](https://www.youtube.com/watch?v=JY_pHvhE4os) 
+
+
+
+
+
+
+
+
+
+ Reminds me of the "debate" on climate change:
+
+"I'm no scientist - but all those 99.9% scientists have no idea what they're talking about!" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Glad to see they are thinking about more transparency...at their secret summit in their secret mansion. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hopefully next time many here on Reddit won't be so quick to accuse companies or people who disclose bugs publicly.
+
+I remember the shitstorm Google got when it made public a Windows bug "only" 90 days after it had told Microsoft about it. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ No. Privacy Badger is weaker than Disconnect and others, too. But it might be better for "first-timers" and computer newbies as it may break fewer things and even if it does break something, you can easily  configure it.
+
+Otherwise I'd use ublock origin's privacy settings. 
+
+
+
+
+ Not quite. Everyone does a lot of stuff on the web on a daily basis for which they want privacy. Buying stuff (you wouldn't want your neighbor to know what you bought, why would you want the government?), watching porn, searching for embarrassing health related issues, and so on.
+
+I'd wager Tor should be used for *most* of your browsing activity, and only use something else when you log-in to Facebook, Twitter and other places where you're identity is completely tied to the service. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm saying support for obsolete protocols should be *dropped* at some point (in this case by browser vendors, but it could be OpenSSH maintainers, and so on). Those who drop it should announce ahead of time, but after that it's everyone else's responsibility.
+
+If as you say the problem is some incompetent IT admin configured the security to use an old protocol and didn't pay attention to the latest security news, then eventually he should notice that his sites just stop working. However that *didn't happen*, for example in the case of 512-bit DHE, which should've been dropped a *long time ago*. 
+
+People in charge of security at browser vendors decided to "be easy" on the incompetent IT admins and leave 512-bit DHE in there for another 10 years, even if it could be broken with a few PCs. 
+
+
+
+
+ Rand Paul and Ron Wyden have some good amendments they want to pass for the USA Freedom Act, however unless they really convinced the others to pass the amendments in order to not kill the USA Freedom Act as well, those amendments will have a very slim to none chance of passing. 
+
+
+
+
+ And which has end-to-end encryption like iMessage but without automatic backup to Google's servers (unlike iMessage). 
+
+
+
+
+ What bothers me most about decisions such as "Well, we can't dump this protocol yet because 30% of the servers still use it" is that they don't also present a deadline for when they'll stop supporting that protocol.
+
+Fine, keep 1024-bit DHE support now. But where's the deadline for when you'll drop it? Maybe they didn't want to rush such a decision and perhaps we'll still see Google announce a plan like they did for SHA1.
+
+However, I really do believe that's how the security industry needs to think from now on. Will a protocol start to look weak in 5 years? Prepare a 3 year plan to get everyone off it. Is the protocol *already too weak* to be considered very secure? Create an even more aggressive plan to phase it out. 
+
+This kind of mentality needs to permeate everything security related on the web from now on. No more using 2 decades old broken crypto because it just happened to remain in the software and nobody bothered to push it out "because it might break some things". That excuse would not be valid if the security industry was a little more pro-active. 
+
+
+
+
+ Holla if you Jolla! 
+
+
+
+
+ Uh huh. Sure. Hey everyone, that's it. NSA ended ALL OF ITS SPYING.
+
+Not. 
+
+
+
+
+ Yeah, because we're just going to build 100,000 robots, send them to a war zone and say..."Uh...so do what you guys do best...alert us when you're done. "
+
+Or option 2) we're still going to control the robots by giving them the algorithms which they're supposed to use to kill people (kind of like how the CIA kills people now with drones based on NSA's metadata/SIM card location information).
+
+Which do you think is more likely?
+
+Also another side of this:
+
+https://www.youtube.com/watch?v=pMYYx_im5QI 
+
+
+
+
+ And it's happening under the right-wing control in UK and Canada. It doesn't matter much when it comes to spying on your own people. 
+
+
+
+
+ Not if UK can get there first!
+
+It's ok, Canada - you can still be the runner-up. 
+
+
+
+
+ "Nuclear is perfectly safe technology!" - except for all of those times humans can completely screw it up and cause global catastrophes. 
+
+
+
+
+ And just like Napster, Popcorn Time will end up inspiring a whole industry (this time Hollywood). 
+
+Where's your "thank you, and may I have some more?", MPAA? 
+
+
+
+
+ Hybrid cars give you tiny sub-10KWh batteries. There's not much you can do with them, especially in the U.S. where many people have to commute tens of miles a day.
+
+At *best* they are a transitional technology that won't last more than a decade before fully electric cars take over. Personally, I think they are not even worth the money today. 
+
+
+
+
+ Think of the children! 
+
+
+
+
+ Protecting dat freedom. 
+
+
+
+
+ Games will run less efficiently since ARM native code has to be emulated under x86 and it may kill the battery faster, too. 
+
+
+
+
+ You might want to take a look at:
+
+https://github.com/ricochet-im/ricochet
+
+https://pond.imperialviolet.org/
+
+Both work only over Tor, but they are still experimental. Otherwise see if you can find something you like here:
+
+https://www.privacytools.io/
+
+And you might want to give Peerio a try. It uses https://minilock.io/ to encrypt everything on the client side, and keeps the data for easy access on Peerio's servers (kind of like Spideroak in that regard, except it's a messaging/email-like client).
+
+On mobile Signal/TextSecure is your best bet. 
+
+
+
+
+ Not just big corporations but under the control of their own governments too. 
+
+Internet.org is essentially the **Great Firewall on steroids**, and that's how people should be referring to it. China could only dream at such a "curated" Internet for its own citizens. 
+
+
+
+
+ Intel really is pushing this phone. They've been sending out the press releases themselves for the Zenfone (rather than Asus). 
+
+
+
+
+ Is it worth mining with a laptop? 
+
+
+
+
+ [ublock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)'s privacy features are quite nice, too. 
+
+
+
+
+ It's why all countries are trying to control the Internet now and spy on everyone everywhere. They want to try and "contain" that frustration before it builds up (not by actually fixing the issues, but by "eliminating" the trouble makers). 
+
+
+
+
+ NIST has a budget of a [billion dollars](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology) a year, and *somehow* it still ends up recommending *shit crypto*. I wonder why that is. 
+
+
+
+
+ Or just a type-C USB port. 
+
+
+
+
+ Or just a type-C USB port. 
+
+
+
+
+ The same could be said about the solar/battery combo. 
+
+
+
+
+ "They *can* talk about it - we're just going to destroy their lives if they do. Simples, really." 
+
+
+
+

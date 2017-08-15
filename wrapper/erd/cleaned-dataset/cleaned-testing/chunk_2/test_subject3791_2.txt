@@ -1,0 +1,734 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Good offer. Useless for me, since I already have free lifetime subscriptions for Lastpass and Xmarks :-). Lastpass rulez  
+
+
+
+
+
+
+
+
+
+ Posted before, but link died. Here is a working link.
+ 
+Also, on the same matter, just from the opposite side:
+
+http://www.theguardian.com/world/2014/jul/18/arms-trade-israel-attack-gaza
+http://www.theguardian.com/film/2014/jul/30/penelope-cruz-javier-bardem-pedro-almodovar-israel-palestine-gaza 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Contacts+ already have access to SMS messages, but, because it's a wifi tablet, these apps doesn't support SMS functionality.
+
+I'm looking for something like Market Helper i think that could be a solution for installing SMS apps and allowing access to pushed messages.
+
+http://forum.xda-developers.com/showthread.php?t=2146216
+
+I don't want to use Market Helper, since it's asking for some Google permissions that i don't know what they do (so, it's a security concern for me). 
+
+
+
+
+ So, Pushbullet is successfully mirroring my SMS messages from my Nexus 5 to my Nexus 7 2013 (WiFi edition). But, since it's a wifi edition, i don't have an app to view them and can only view the message from the notification (Evolve SMS is not compatible, Contacts+ wont show it's SMS features).
+
+Is there any solution for that?
+
+Thanks! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ More info:
+
+http://en.wikipedia.org/wiki/Freddy_Heineken
+http://www.telegraph.co.uk/news/obituaries/1380400/Freddy-Heineken.html
+http://www.imdb.com/title/tt2917388/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I can stop a hiccup just by concentrating on something else. 
+
+
+
+
+ Japan wants to host the first Olympic Games for robots in 2020. What's your opinion? Is this something that could/should happen?
+
+http://www.theverge.com/2014/7/22/5927879/japan-pm-shinzo-abe-wants-robot-olympics-2020 
+
+
+
+
+
+
+
+
+
+ And last. Don't think that will see them in Europe or USA. 
+
+
+
+
+
+
+
+
+
+ Reddit Gold? Where? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Bitcoin will always have a bad smell for me. Don't know why. 
+
+
+
+
+ I like the open nature of Linux and that's why I've been using it. It's part of a different philosophy, ideology, part of a different way of life. And life is not easy for everyone. But it's good. Linux is not easy. But it's also good :-).  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Something like that I guess..  
+
+
+
+
+ Yes. They are unable to do something about it.
+
+The only way I found that blocks them is the "I'm under attack mode" on Cloudflare. It totally blocks them. But if I turn it off (or set it to any other mode) they just come back..
+
+And Cloudflare is unable to help me more, if I don't pay for a premium subscription... 
+
+
+
+
+ Yes, I'm using WordPress, secured in many ways. 
+
+
+
+
+
+
+
+
+
+ Nope, only GETs. 
+
+
+
+
+ There is. They are accessing my homepage. Some stop there, some others access content on my wp-content/uploads and wp-content/themes. That's all. they like. Mostly images.
+
+Others stop when accessing my pixel.gif, which i have created by following http://kb.site5.com/security/how-to-block-bots-that-dont-respect-your-robots-txt-file/. They don't get block, they just stop. 
+
+
+
+
+ Unfortunately, yes. 
+
+
+
+
+ I have blocked several countries using Cloudflare, so every visitor from these countries must now complete a captcha to proceed. They are unable to (since, i guess, they are bots) and i'm now on sustainable levels, but this is not a solution. Every country that is not blocked keeps on hitting me.
+
+Nope, no exploits on my site. 
+
+
+
+
+ Hello everyone. Starting yesterday, i'm facing a major problem with my website: even though, for the last 3 months, i was having a very small number of visitors (most of them from my country), the number exploded yesterday and now i'm getting several hundreds of hits. This could have been a good thing, if they werent real visitors acting like bots.
+
+So, here is the pattern:
+
+- Hits from every country imaginable, from multiple IPs. If i block their country using Cloudflare, they dont come back (so they are unable to solve a captcha).
+- Analyzed some of the IPs, they seem legitimate, no spam or bot records, nowhere.
+- Each and everyone of these IPs has a useragent in the lines of Mozilla/5.0 (compatible; MSIE 9.11; Windows NT 6.1; WOW64;
+Trident/6.0. Some of them have different versions of MSIE or Trident. But they all have this agent.
+- Every hit is to my index page. I believe that some of them hit my naked domain, because i see a redirect. They get to my main page, and from there, some of them, hit a few .js, .css or images. But the majority does nothing, stays for 0 seconds and leaves.
+- Hosting provider cant help, since they believe that all those hits are from legitimate visitors (so, someone wants to convince me that users from Vietnam, Cambodia, Singapore, Senegal, Iraq etc suddenly type the address of my greek blog to their browsers, pay a visit of 0 seconds and the leaves. Nah...).
+- No refferal, since they are all direct hits.
+
+This is causing me problems, since im on a limited shared hosting account. They also hit my Adsense (no hits, just impressions), so i decided to remove it temporarily (in case Google blocks it for malware activity and fake hits).
+
+The only thing i could associate with this situation is some hits im getting from a bot. They are a distributed computing project, so they
+might direct all those IPs to my site. I contacted them (waiting for
+answer) and blocked their bot using robots.txt. No difference.
+
+Some of the hits from my logs:
+
+- 46.130.101.177 - - [05/Jul/2014:12:01:28 +0300] "GET / HTTP/1.1" 301
+138 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1;
+Trident/4.0)" 
+- 46.130.101.177 - - [05/Jul/2014:12:01:30 +0300] "GET / HTTP/1.1" 200
+20742 "-" "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1;
+Trident/4.0)" 
+- 89.152.206.67 - - [05/Jul/2014:12:01:34 +0300] "GET / HTTP/1.1" 301
+138 "-" "Mozilla/5.0 (compatible; MSIE 9.11; Windows NT 6.1; WOW64;
+Trident/6.0)" 
+- 89.152.206.67 - - [05/Jul/2014:12:01:34 +0300] "GET / HTTP/1.1" 200
+20742 "-" "Mozilla/5.0 (compatible; MSIE 9.11; Windows NT 6.1; WOW64;
+Trident/6.0)" 
+- 78.174.87.179 - - [05/Jul/2014:12:09:15 +0300] "GET / HTTP/1.1" 301
+138 "-" "Mozilla/5.0 (compatible; MSIE 9.11; Windows NT 6.1; WOW64;
+Trident/6.0)" 
+- 78.174.87.179 - - [05/Jul/2014:12:09:15 +0300] "GET / HTTP/1.1" 200
+20742 "-" "Mozilla/5.0 (compatible; MSIE 9.11; Windows NT 6.1; WOW64;
+Trident/6.0)" 
+
+You get the pattern. There is a long list that looks like this.
+
+Has anyone else experienced this situation? Is there a solution?
+
+Any help is appreciated. Thanks in advance. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sorry. Been having this problem with sharing links from Verge using my tablet. They should implement an automatic redirection. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "New icons, including a beautiful new launcher icon. The rest of the icons on your home screen will be jealous of its good looks. They will plot to get rid of it. They will scheme in the night, when your screen is off. They will try to convince you to just leave it in the app drawer, or relegate it to a distance home screen page you rarely visit. Don't let them do that - you know that Trello is the one you want, no matter what the other apps say."
+
+https://play.google.com/store/apps/details?id=com.trello hl=enANDROID 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ That's right, that's what i told. Link Bubble allows you to share the bubble without even opening it, something that saves me tons of time. ;)
+
+But Javelin looks promising. If it implements a way to share bubbles faster, maybe i'll use it as my main browser. 
+
+
+
+
+ Just tried javelin. It's good but, from what I see, you are not able to quickly share a page by dragging the bubble to another bubble. You have to open the full browser page, then open menu, go to share etc. Am I wrong? 
+
+
+
+
+ Link Bubble. It really changed the way I work with my Android devices. Also, right now there is a 50% off for a limited time on the pro version.
+
+https://play.google.com/store/apps/details?id=com.linkbubble.playstore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Every man, woman, and child alive should see the desert one time before they die. Nothin' at all for miles around. Nothin' but sand and rocks and cactus and blue sky. Not a soul in sight. No sirens. No car alarms. Nobody honkin' atcha. No madmen cursin' or pissin' in the streets. You find the silence out there, you find the peace. You can find God
+
+http://www.imdb.com/title/tt0307901/quotes 
+
+
+
+
+ Extremely pretty women going the wrong and dangerous way. Boring and predictable. 
+
+
+
+
+ You are beautiful,i love you
+
+www.youtube.com/watch?v=MLDm4-ALuk8 
+
+
+
+
+ The government of which country? Or government in general? 
+
+
+
+
+ That's easy. Lost. 
+
+
+
+
+ I live outside of the USA, so theres no T-Mobile for me. But looking at those Uncarrier events and John Legeres bold comments, im wondering how do US citizens / mobile subscribers view him and his company. So, what do you think? 
+
+
+
+
+
+
+
+
+
+ Official photos: http://phx.corporate-ir.net/phoenix.zhtml?c=176060 p=irol-imageproduct33 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Like Syberia, Amerzone, Grim Fandango and The Longest Journey. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ My mobile sent the mobile view of the page. Sorry for that. Here is the full page:
+
+http://www.theverge.com/2014/6/15/5811904/scooby-doo-actor-and-radio-legend-casey-kasem-dies-at-82
+
+Also, i didn't modify the headline, it's the original title from The Verge. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Destination Brazil: Bing Predicts, Schedules, Scores and More
+http://blogs.bing.com/blog/2014/06/11/destination-brazil/ 
+
+
+
+
+
+
+
+
+
+ TIL that 100 years ago, people were facing fines and jail for downloading music and movies. 
+
+
+
+
+ How was it like working with Al on 88 Minutes? 
+
+
+
+
+
+
+
+
+
+ I'm not from Taiwan.
+
+And i'm not a pop star (i think :p). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Maybe 9 means June 9 (today)? Or September? Notice it's "Nexus. 9" not "Nexus 9" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

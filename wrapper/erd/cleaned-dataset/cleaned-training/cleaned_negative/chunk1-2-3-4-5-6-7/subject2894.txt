@@ -1,0 +1,597 @@
+ That's the point.
+They treat others how they would like to be treated. #TrueHeros 
+
+
+
+
+ Found the issue! CPU-Z is saying the Multiplier keeps jumping from x16.0, all the way down to x4.0 - which is bottlenecking the GPU, now what's causing the CPU Multiplier to drop?
+
+Edit: 'Underclocking' the CPU seems to of solved the issue. Hm. Could it be PSU related I wonder? 
+
+
+
+
+ I've looked at any recently installed programs and removed them all - Issue persists. :( 
+
+
+
+
+ Hmm. My long guess is that the GPU 'crashing' aka no signal caused by GTA has upset something in the windows files, as I've had to force the computer to shut down, due to having no display.
+
+Hmm. I'll try booting windows disk and checking for any issues. Thanks for the brainwave.
+
+Edit: No issues found 
+
+
+
+
+ Hmmm. Nothing installed recently, I'm also running windows 7 in Aero mode, and have turned off all unnecessary processes and services. =o 
+
+
+
+
+ Any game, any settings - Issue persists :( 
+
+
+
+
+ That's what I was thinking, but then I remembered that it was working fine a few days ago... With the same CPU, so there has to be an issue somewhere. :\ 
+
+
+
+
+ **Edit: FIXED. I don't know exactly how this resolves it, but I noticed the CPU temps going high, and the CPU multiplier bouncing all over the place, so I 'underclocked' the CPU to x12 instead of x16, and it seems to of solved the issue. I'm not sure how this fixes it... but It did =o**
+
+[THE ISSUE (Reddit didn't wanna link)](https://imgur.com/JOHznwS)
+
+Okay, hey guys, so I'm having an issue with my GTX 980, as are some others, and I just can't figure it out. It was working flawlessly a few days ago. #Sadface
+
+This has happened before, I just switched the power cables to the ones provided with the GPU, and it was solved. But now it's back.
+
+
+As you can see, there are multiple drops that keep reoccurring every X seconds. It happens in every game on any settings.
+
+****
+**Things I've tried so far:**
+
+* Set Nvidia power settings to performance
+
+* Set windows to performance
+
+* Set pre-rendered frames to 3
+
+* Turned off Vsync and put everything to low (still happens)
+
+* Ran Microsoft Troubleshooter.... hah just kidding.
+
+* Ran it at different resolutions
+
+* Looked for Driver updates (even though it was working fine on the same update before)
+
+* Running on Win 7 Aero
+
+* Shut off services and processes that are not needed
+
+* Full defrag on all hard drives (except SSD)
+
+* Checked over wires, nothings lose
+
+* Ran Windows 7 Disk searched for errors - none
+
+* Removed recently installed programs
+
+****
+**Computer Information:**
+
+[SPECCY LINK](https://imgur.com/DIUpnQ4)
+
+[CPU LINK](https://imgur.com/p0lP0Y9)
+
+****
+Extra note : Problem seemed to have started when the GPU crashed a few times on GTA (the system kept running, the GPU was turned off though, no signal.)
+I'll post the solution when I figure out what's up, for anyone else having this issue.
+****
+*P.s. Razer Krappen 7.1s have ~~great~~ terrible audio quality. Don't buy. Would recommend anything other than a Kraken.* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm with you here. 
+
+
+
+
+ Hello Timmy,
+
+What specs are you using, more specifically, your motherboard name.
+
+Try the following
+
+* Ensure that your hard drives inside of your computer case are **properly connected.** Look for the name of the hard drives as well for the next possible solution.
+
+
+* In the BIOS boot sequence, make sure that the hard drive with your operating system installed on it is first in the boot sequence. If you are not sure how to do this, it may be in your "advanced bios features". or you can boot up the computer and spam (usually) F8, depending on your motherboard, to tell it which hardware you want it to boot up from (select your OS hard drive)
+
+
+* If you find this too confusing, try unplugging all your hard drives and optical readers, except for the one with your OS installed. And ensure your HDD is first in the BIOS boot sequence.
+
+
+* If the boot sequence is not the issue, then I'd recommend updating your BIOS, simply google your motherboards name and look for the latest BIOS drivers. You may need another computer and a USB stick in order to do this. There are many tutorials on how to do this. Check your BIOS version and write it down before doing so, in order to save time, incase it's the newest version.
+
+
+* Finally, if all else fails, try clearing the CMOS, this can either be done in the BIOS menu somewhere, or usually there is a small black button on the motherboard itself. Press it while the computer has turned on, and it will restart, hopefully fixing your issue.
+
+
+Goodluck! Any help you need, ask away! 
+
+
+
+
+ Windows 10 :s.
+
+I don't think there will be any privacy on Windows 10. NSA. 
+
+
+
+
+ You should get some sort of monitor [bracket](http://www.amazon.com/Mount--Freestanding-Widescreen-Monitors-Horizontal/dp/B00FQU7CPU/ref=sr_1_14?ie=UTF8 qid=1433086085 sr=8-14 keywords=monitor+bracket), will save alot of desk space! :) 
+
+
+
+
+ Or the one after that... 
+
+
+
+
+ The more you pre-order and buy stupid things like EA's BF4 PREMIUM. (Aka buy the game twice to play) The more they'll do it, and you help ruin the quality of games. 
+
+
+
+
+ Also the GCHQ/NSA are spying on you, just saying like. Nothing too important. x) 
+
+
+
+
+ Still searching...
+Nothings came through yet. :( 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ God damn, just spent all this time trying to install it, finally I install the damn thing, then the network adapter is being a complete dick. It says it's in there somewhere, but whenever I run ifconfig, wlan0 isn't there, there no enable wifi in the connections menu, and it's not doing anything. ugh.
+
+Edit: fixed after running around with an ethernet cable :) 
+
+
+
+
+ Doing it! :D 
+
+
+
+
+ Already got Debian, Kali and Ubuntu in a VM :D I was just unsure whether or not to go for a dual boot. I think I'm going to use Windows as gaming / production boot, and Ubuntu Linux as personal / files / general internet browsing :D I love the fact how secure Linux is, and how you can set it up to do anything! 
+
+
+
+
+ Aha, very clear, I'll look into WINE and see if it can run the programs I'd like! :D Thanks for your reply :)
+
+Edit: wow, runs everything I use on Windows apart from 1 or 2 things. *starts downloading Ubuntu* 
+
+
+
+
+ Download [Speccy](http://www.filehippo.com/download_speccy) (by clicking that blue link)
+
+Run it, and then click on Summary to the left, then click file  save as text  open it up  copy and paste the bit under Summary, all the way down to Audio. And post it to us.
+
+Then we'll find you updated drivers, as it looks like a driver issue. 
+
+
+
+
+ How on the earth have you got 200mbps interwebs? Teach me senpai. 
+
+I'm sat here with a 6mb ADSL2+ connection crying at the sight of this screenshot.
+ 
+
+
+
+
+
+
+
+
+
+ The catch - Your privacy belongs to the NSA.
+
+No thanks! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ A game of thrones, The Name Of The Wind, The Blade Itself, LOTR 
+
+
+
+
+ 1) Don't learn about CPU, GPUS, MBS or anything that's actually about computers.
+
+2) Learn everything about Microsoft office to show you're a trainable monkey who can work in an office one day.
+
+For real. 
+
+
+
+
+ This should be absolutely fine. 
+
+I play Arma 3 myself, and know how CPU intensive it can be when online, the chosen CPU should be able to handle it without losing performance, and can possibly be overclocked if needed. (Arma 3 coding is terrible, I'd stick with that cpu he's chosen.)
+
+In my humble opinion, I'd say lose the windows 7 OS and *cough* ~~*cough*~~ buy it from *cough* [**somewhere else**](http://wallpoper.com/images/00/40/56/34/pirates-jolly_00405634.jpg) *cough* - sorry I've got a cold.
+
+Nice computer case. If you drop the OS, you can buy some lights to put inside it, which will automatically *make everything run at least 3.4 times faster.* 
+
+
+
+
+ * Speccy
+* CPU-Z
+* GPU-Z
+* MSI Afterburner
+
+And umm... some others! 
+
+
+
+
+   Rebooting won't fix your shit
+
+Found this out the hard way. x) 
+
+
+
+
+ Um, I'm running Linux now and can confirm, for Ubuntu at least, it's apt-get, same on Debian too.
+
+It may vary depending on what distro you're using :) 
+
+
+
+
+ Just installed Ubuntu, and holy cow was that one hell of an epidemic. CPU failed initialization before I'd even installed it, required ethenet cable to download adapter drivers which should of already been pre-installed, and then the video drivers almost destroyed the entire OS, I'm hoping it's all fixed now. Took me 4 hours just to get the damn thing up and running properly. xD 
+
+
+
+
+ Alot more secure than the new Windows 10. 
+
+The NSA slapped their backdoors in last second before release. You can see the vunerabilities of Windows 7 simply by using Linux tools such as metasploit, most of them are listed there, and MOST, but not all, can be prevented with simple precautions such as anti-viruses and firewalls. Not only this, encrypt everything and your golden.
+
+Now then, Windows 10 is going to be alot less secure with the NSA in mind from the very beginning is it not? Would you like Windows 7 or Windows 10? I'm using Linux as my personal OS, dual bootcamped with Windows 7 for games / production. GG NSA. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Oh good thing you've spotted a Wikipedia page about insects and plants we **literally have all over the country.**
+
+
+*Thank god these little bugs aren't confined to a small island that has upcoming plans to be bombed on. That'd be stupid now wouldn't it? :) Wouldn't want these species to die out in one go now would we?*
+
+
+Americans trying to be clever again. 
+
+
+
+
+ [Notice how we do it in a plain that LITERALLY has no wildlife in it?](http://static.panoramio.com/photos/large/7081236.jpg) 
+
+
+
+
+ There's so much detail in this post I've decided to give you a detailed reply.
+
+* Is it plugged in? 
+
+
+
+
+ With all this debate about Windows 10, it'd be wise to sit back and see what happens. Personally I think it's not going to have any privacy whatsoever due to the NSA, but we'll see. Reserve by all means, but I'll be upgrading (or not) if I know it's 'safe'.
+
+If it has any privacy threat whatsoever, it can gtfo. 
+
+
+
+
+ Depends what brand, go to the brand's website and contact them about it.
+
+
+I know Corsair will do RMA, they did with me, PSU broke before Christmas, they sent me a freakin entirely different model worth 25% more than what I paid for! A modular upgrade!! 15/10 best customer service ever. Corsair all the way. 
+
+
+
+
+ Why not just drop blank shells instead. Sorted.
+
+* **Target Practice, not explosive demolition practice** *to see how many species we can wipe out in under 20 seconds, just because we can, f#ck the environment, we wanna blow sh#t up cos 'murica.*
+
+Let's blow up an island instead of advancing biological understanding of biodiverse islands. 'murica. I'm so glad to be from the UK. 
+
+
+
+
+ As if we aren't killing nature enough, nah lets just go drop some nukes here and there. Totally can't just use blanks now can we, nooo noo, that'd be common sense. 
+
+
+
+
+ Causing a blackout...
+
+Dick move. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ If it's saying your graphics driver crashed, then it'll be your video drivers. Try updating them or installing a different version. 
+
+I have a 980 too, I haven't updated to the latest version yet (that hit yesterday). And you're a good example of why I don't update everything the second it's out. 
+
+
+
+
+ With the computer being years old, I'd **strongly reccommend changing the MB** out for a newer one, even if it isn't very good.
+
+From personal experiance, older boards tend to catch fire MUCH EASIER. Mine set fire due to a very small (and I mean very small) amount of dust which overheated a capacitor, blew it up and caused an internal fire. If i'd of left it running while I was out, my house would be gone.
+
+Not only this, but it may not be up to date with the hardware it's running, check and see if the MB manufacturer are still putting updates out for it and get the latest one ASAP.
+
+Other than that, epic upgrade! ;) 
+
+
+
+
+ The GCHQ is also working with the NSA, and are doing the exact same things in the UK, yet no one here is batting an eye lid? Why? 
+
+
+
+
+ Are you new to cable management too? :D 
+
+
+
+
+ Shocking. 
+
+
+
+
+ Nah, I'm boring.
+
+Albeit I'm mediocre at making factual and logically thought out points though. 
+
+
+
+
+ The irony is strong in this one. Was fun talking with you. GG. Bye. 
+
+
+
+
+ **Better give everyone even more guns.**
+*That'll solve it...*
+10/10 logic 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ yeah 14.04, think I'll give 15.04 a shot, I was actually going to get 15.04 at first, but ironically chosen 14.04 so I could avoid the bugs...  
+
+
+
+
+ But I don't like the NSA and all the third party anti privacy backdoor stuff that comes with it :( 
+
+
+
+
+ Computer is all new. I've got to reinstall the whole thing now, simply because I can't login or open terminal, which means getting the ethernet cable out and going through all that pain again. All I wanted to do was install Ubuntu. I'll try again probably tomorrow... thanks for the tip! :P 
+
+
+
+
+ I've ran it in a Virtualbox with no problems. 
+
+But dual booting it, it seemed to want to throw everything that could possibly go wrong at me.
+
+Totally broken the OS now, like straight up broke it. Can't login, can't open terminal cos it goes black when I do. Fml. 
+
+
+
+
+ The usb wasn't bad, it was another usb (LEDS.... some freakin lights....) that was causing the issue. Ubuntu thought the CPU had died...
+
+Nvidia GTX 980, went onto the additional drivers menu, chose one of them (xorg), broke everything, selected another (532), partly works but buggy as hell. 
+
+
+
+
+ A nightmare.
+
+* - Spent 2 hours figuring out why it wouldn't boot the installer, it was caused by another usb.
+* - Spent another 2 hours trying to connect to the internet, I used an ethernet cable in the end to get the drivers needed for the adapter to work (WHY THE FUCK WEREN'T THEY FUCKIN INCLUDED IN INSTALLATION?!?! WTF GOOD LOGIC.)
+* - The wifi adapter kept going on and off, I fixed it finally though, somehow after half a day.
+* - Spent over 3 hours trying to get the freakin video drivers to work, I'm running on a GTX 980.
+* - Installed video drivers, buggy as fuck. Tried fixing the bugginess, broke the operating system.
+* - There is no logical method of finding out what video drivers you need.
+* - Couldn't login, would go black and return to the login screen. Opened the terminal and fix it that way.
+* - Ran some updates. Broke it again.
+* - Tried to login again, same thing as before.
+* - Me being super wise thought I'd just put the backup I made in earlier. There's no option to do so via recovery.
+* - Thought I'd repair broken packages in recovery, did literally nothing. Like enter ubuntu is now afk
+* - Currently uninstalling this disease.
+
+
+And they call this Linux with learning wheels?
+
+Rating: 2/10. Very shiny. Requires a degree in space rocket launch sequences to get it simply in a running state. (And this is all using fairly popular hardware...)
+
+Going to go cry in a corner now.
+
+Edit: Installed 15.04 instead of 14.04. Installed flawlessly. Maybe there's hope? :O 
+
+
+
+
+ ***EVERYTHING!!!*** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

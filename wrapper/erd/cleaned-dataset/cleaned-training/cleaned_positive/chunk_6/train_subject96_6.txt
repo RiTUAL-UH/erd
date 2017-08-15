@@ -1,0 +1,5 @@
+ If you go to account details and then hit store transactions, it'll show a list of your recent purchases.  The one problem with that is if you buy multiple games at a time, it shows the total purchase price instead of the cost for each individual game.  But I'm pretty sure you can see the cost for each game by checking the confirmation email steam sends when you buy something. 
+
+
+
+

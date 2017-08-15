@@ -1,0 +1,615 @@
+ Alternative news write-up: [Smithsonian.com](http://www.smithsonianmag.com/science-nature/dna-search-first-americans-links-amazon-indigenous-australians-180955976/)
+
+Skoglund et al. Reich, 2015, Nature: [original paper](http://www.nature.com/nature/journal/vnfv/ncurrent/full/nature14895.html)
+
+Raghavan et al. Willerslev, 2015, Science: [original paper](http://www.sciencemag.org/content/early/2015/07/20/science.aab3884) 
+
+
+
+
+
+
+
+
+
+  undergraduates don't know jack shit. 
+
+
+
+
+ Find the one person who's deathly allergic to grapes.
+
+Hey, you only said I had to kill *someone*. 
+
+
+
+
+ Sing a duet with it. 
+
+
+
+
+ I'm not. It's just same old same old. 
+
+
+
+
+ In the first case, why then do coin flips tend toward 50-50, or why do the number of heads in n trials come out to be binomially distributed? 
+
+
+
+
+ I wouldn't say arbitrary, but heuristic. Scientists reject hypotheses that cannot be disproved, support hypotheses which have historically been successful at prediction, choose between different models by null hypothesis testing, AIC, BIC, maximum likelihood, maximum parsimony, maximum a posteriori probability, various regularization methods, and have heuristics such as Occam's Razor. As a culture, scientists converge on particular epistemological heuristics for assessing potential models. 
+
+
+
+
+ Approximate Bayesian Computation? 
+
+
+
+
+ Coalescent theory is fun. The branch of population genetics that kills me though is diffusion theory. Partial differential equations, stochastic differential equations, and continuous-time markov processes. Ech. 
+
+
+
+
+  In other words, all it takes any other hypothesis that makes the same prediction and the two hypotheses would be impossible to distinguish.
+
+But the space of potential models is infinite. You have to have some kind of model selection criteria. 
+
+
+
+
+
+
+
+
+
+ Not just hard work, but successful people usually come from backgrounds where they have safety nets, connections, resources, and opportunities. 
+
+
+
+
+ That would be the response of a rational healthy person, but addicts are neither rational nor healthy. They have a mental and physical illness which needs to be treated, regardless of how they got into the mess.
+
+I think the money would be better spent supporting rehabilitation programs. Finding out who's an addict and denying them welfare doesn't help them. 
+
+
+
+
+  And the institutions that were testing them had far more resources and funding than the Oklahoma welfare department. Yeah, that hurts the argument for testing, I get that, I'm just laying everything out here.
+
+Uh, except they *also* have far more resources and funding and motivation to do their best to pass drug tests. Since these are at odds, there's no a priori reason to favor either way. 
+
+
+
+
+ That was a terrible anti-joke. 
+
+
+
+
+ Great premise and action. Terrible pacing, characters, story, recaps. 
+
+
+
+
+ there are plenty of markets that are not saturated yet.
+
+*plenty*
+
+for example, for women porn. 
+
+
+
+
+ It took you 5 minutes? 
+
+
+
+
+ Filthy casual. 
+
+
+
+
+ Learning how to use ipython, numpy, and pandas for research. 
+
+
+
+
+ At least it wasn't anthrax...
+
+But seriously, best of luck to you moving forward. 
+
+
+
+
+ Stopping yourself from crashing into a manure truck. 
+
+
+
+
+ Grad student. Beer and tv. 
+
+
+
+
+ Thanks! 
+
+
+
+
+ Without clicking through the jupyter directory or opening a different text editor. 
+
+
+
+
+ Wait what's the turning off utilities about? 
+
+
+
+
+ INVADER ZIM. DOOOM. 
+
+
+
+
+ Ruby's sink, Saphire's float. 
+
+
+
+
+ And inside *that* body is Zim the Invader. 
+
+
+
+
+ Oh I misunderstood your comment, I thought the point of contention was whether she was a human or a gem. 
+
+
+
+
+ Battlestar Galactica. 
+
+
+
+
+ What is this Battlestar Galactica? 
+
+
+
+
+ no, she has stevens gem 
+
+
+
+
+ We called them oompa loompas back in high school. 
+
+
+
+
+ Out of character. Steven would say "Have a nice weekend!" 
+
+
+
+
+ Titled "Hard Problems" iirc. 
+
+
+
+
+ I qualified for USAMO twice, though was never good enough to move beyond that. I started in between 7th and 8th grade, it took me 1 year to qualify for Mathcounts Nationals, and 1 year to narrowly miss the USAMO cutoff (was 1 AIME problem away). Didn't do well the following year, but qualified for USAMO the next two. My best Putnam performance was my first year in college, and declined after that since I got more rusty over time. I'm from a non-competitive region, so Art of Problem Solving was my main resource.
+
+The first two years were spent going through the first two volumes of Art of Problem Solving, participating in the forums, doing practice tests, and doing competitions like AMC12, AIME, ARML, USAMTS, AoPS mock tests. AoPS has done a great job of democratizing the math scene by giving access to people who don't have local resources like math circles or strong math teams. I spent hours every day those first two years practicing or learning theory and tricks. I'd say it takes about 2+-1 year to get to a level where you can qualify for USAMO and maybe even solve 1 or 2 questions on USAMO, but to get the point where the first 1 or 2 questions on USAMO can be done in a few minutes so you have enough time to solve the rest of them, and can do it consistently with speed, takes years of additional practice. The people who are USAMO winners and IMO team members have probably put in a good 4-7 years of hard practice and over 10,000 hours.
+
+Solving Olympiad problems is a matter of building requisite insight. The problems cover geometry (euclidean, projective, inversive), number theory, inequalities, probability, algebra, trigonometry, complex numbers, combinatorics and a few other subjects; calculus, statistics, and higher (undergraduate+graduate) mathematics are not required, though they can certainly be useful. Some of these topics aren't covered in high school or even many undergraduate curriculums. There's a kinda standard corpora of theorems and tricks and problem construction ideas that are common in contest problems, ranging from necessary even at the lowest level competitions to fairly advanced or obscure. However, combining these techniques to solve Olympiad problems is non-trivial and requires experience and insight. There is a kinda meta-gaming in that, unlike research problems, Olympiad problems have a solution of an expected level of difficulty, and there is kinda a limit to the breadth of problems that can be proposed, so familiarity with lots of problems is definitely helpful. At the same time, Olympiad contest writers must think of newer problems which aren't as easily solved by knowing similar past problems, so the meta-game moves forward over time--the present is always the time where the most past problems are available to students to study. The best problem-solvers have built great depth and breadth in the techniques, theorems, and problems they have in the back of their minds over many years of practice. They're self-motivated to do well and very passionate and generally start early, but there have been some people who have started later who have done very well. 
+
+
+
+
+ Jamie Nanefuas slapping Jamie Jamies butts 
+
+
+
+
+ *woosh* 
+
+
+
+
+ Opening and closing their stomata in public. 
+
+
+
+
+ Steve Jobs or Mark Zuckerberg outfit. 
+
+
+
+
+ This was only mildly interesting OP. 
+
+
+
+
+ That 21 year old's gonna be on a list. 
+
+
+
+
+ OH GOD SHE'S UNDER 15?!
+
+*I'm going to jail.* 
+
+
+
+
+ If only the movie had this many colored actors. 
+
+
+
+
+ Sure, but to generate the stimuli, you'd need an advanced model of the physical world. Which in and of of itself could be interesting to explore. 
+
+
+
+
+ Sure, but this article isn't about cross-contamination, or political economy, or intellectual property laws. It's in the title, this article is specifically about the health allegations against GMO of anti-GMO organizations and the hypocrisy in their public statements.
+
+Sorry, I just don't like when people criticize work for not being about something else. If every article on GMOs were comprehensive reviews, all we'd be reading would be 200+ page tomes. 
+
+
+
+
+  Things should be labeled for what they are.
+
+Yup. But there are dozens of labels that are more informative and therefore should be prioritized over GMO labelling. The irony of your comment is that saying something is that labelling something as GMO or Non-GMO is very ambiguous. From the article: 
+
+ GMO labels dont clarify whats in your food. They dont address the underlying ingredientspesticides, toxins, proteinsthat supposedly make GMOs harmful. They stigmatize food thats perfectly safe, and they deflect scrutiny from non-GMO products that have the same disparaged ingredients. 
+
+
+
+
+ But then why stop there? If companies should be transparent, they should QR code all products with hundred page documentation. Why should we prioritize GMO-labelling when there are dozens of other labels that would be more informative to the user? 
+
+
+
+
+  Patents and stopping farmers from planting seeds from crops they grow are the more scary side of the GMO industry.
+
+But this is true of hybrid crop seed as well, farmers in general have been using commercial seed since before the discovery of DNA.
+
+  the whole article seems to fall foul of the same cherry picking it accuses others off and seems to imply all GMO products are safe and the health benefits/risks seemed overplayed.
+
+To quote the thesis of the article:
+
+ The more you learn about herbicide resistance, the more you come to understand how complicated the truth about GMOs is. First you discover that they arent evil. Then you learn that they arent perfectly innocent. Then you realize that nothing is perfectly innocent. Pesticide vs. pesticide, technology vs. technology, risk vs. riskits all relative. The best you can do is measure each practice against the alternatives. The least you can do is look past a three-letter label.
+
+So I think your claim is unfair, the article is arguing for nuance, and exposes hypocrisy in the dogma of a particular brand of anti-GMO organization. The article addresses the main classes of GMOs, of which there aren't actually that many: there are insecticide producing GMs, herbicide resistant GMs, individual disease immune GMs, and humanitarian efforts to increase yield, nutrition, and drought resistance. The only type of GM that I can think of off the top of my head that wasn't covered are the FlavrSavr tomatoes with increased shelf-life from the 90s. 
+
+
+
+
+ Ugh, I hadn't noticed how Pearl's just *clutching* her stomach. The SU crew really know how to animate those bodily cues. 
+
+
+
+
+ ...alien invader from high tech caste-based race bent on domination of Earth. Checks out.
+
+Also, obligatory DOOOOOOOM 
+
+
+
+
+ Question: Is holo Peridot a ship ability or a Peridot ability?
+
+Either way, there are a lot of parallels between Peridots and Pearls in their form and function. 
+
+
+
+
+ More like administrative, information relay, role. 
+
+
+
+
+ As much as I love the Peridot foot pun jokes, has anyone else noticed the implications of that scene? Gem bodies are supposed to be illusions, so why does a detached foot remain in existence instead of going poof? I think her body may not be an illusion in the way other gems are, but fully mechanical. 
+
+
+
+
+ Congrats on the threesome! 
+
+
+
+
+ Also remember that she's young enough to be baffled by "archaic" Gem tech. 
+
+
+
+
+ Take THAT Gravity Falls. 
+
+
+
+
+ That's because we're all now years into adulthood at least. *Please die Spongebob*. 
+
+
+
+
+ *High Six* 
+
+
+
+
+  I don't want to support companies like Monsanto that use this technology to make crops that won't reproduce and force farmers to buy new grains from them every year.
+
+But this isn't a GMO-specific concern. Non-replantable commercial seed has been the norm for farmers since the earliest commercial hybrid crops from the early 20th century. 
+
+
+
+
+ But they're not informed choices. If you want informed choices, you need a better set of labels than "GMO" vs "Non-GMO". 
+
+
+
+
+
+
+
+
+
+ "I'll drink your milkshake. I'LL DRINK IT UP." The entire ending scene of No Country for Old Men. 
+
+
+
+
+ A nice way to see this is a geometric interpretation of multiple regression. Let there be N samples, and M predictors X1, ..., XM, and response Y. Each of X1, ..., XM and Y are vectors in the vector space V = R^N. The M predictors X1, ..., XM span a subspace U with at most M dimensions (if linearly independent) but possibly less. The estimator Yhat is the vector in U that minimizes the euclidean distance to Y, i.e. it's the orthogonal projection of Y onto U. Since Y = Yhat+residual, the residual vector lies in the orthogonal complement of U, which has dimension at least N-M (equal to N-M if linearly independent); this is the degrees of freedom.
+
+Source: The Geometry of Multivariate Statistics, by Wickens 
+
+
+
+
+ Note the fact that Steven never had a placenta--he has a gem for a belly button! 
+
+
+
+
+ Love it, we had Sardonyx, then we had a Garnet ep, an Amethyst ep, and a Pearl ep. Looks like the team is ready to get back together tomorrow!
+
+*And they will go through hell.* 
+
+
+
+
+ And then what happened? 
+
+
+
+
+ DNA Digivolution? 
+
+
+
+
+ Greg, Vidalia, Sadie's Mom, and Nanefua on an adventure. 
+
+
+
+
+ Twitch Plays Heart Surgery. 
+
+
+
+
+ Lipotransfer dual surgery. 
+
+
+
+
+ perfect comedic timing, and perfect to end on 
+
+
+
+
+ probably an inside joke 
+
+
+
+
+ ...my god it's recursive. 
+
+
+
+
+ All the gems in tuxedos. 
+
+
+
+
+ Eh, the anime industry sucks right now. 
+
+
+
+
+ Yes. 
+
+
+
+
+ Get your women in *line*. 
+
+
+
+
+ Last one was pretty good. 
+
+
+
+
+ ? Wot. 
+
+
+
+
+ Pearl kills him in order to bring back Rose. It doesn't. 
+
+
+
+
+ ...So it's been about 4-6 months since the future vision episode which was during winter. 
+
+
+
+
+ Read as
+
+ I would always see her in the corner of the living room crouching behind the couch, making feces. 
+
+
+
+
+ It's buttered *noodles*. 
+
+
+
+
+ Theory: Amethyst and Vidalia have totally banged. 
+
+
+
+
+ Definitely more uncomfortable. 
+
+
+
+
+ Lol, probably... 
+
+
+
+
+ We're not talking about species, we're talking about individuals. If you are better managing your limited intake of resources by not investing in superfluous tissues and organs, than you'll be fitter than me. Such traits would spread. 
+
+
+
+
+ IIRC, since 2011, USA IMO team selection is based on a year-long series of tests for a small group of people who did well on USAMO and the TSTST the *previous* year. 
+
+
+
+
+ There's probably a lot of talent that slips through, but that's true of any competition, whether sport, music, or math. Local opportunities (good high school math teams, good local math circles, high concentrations of mathletes) is a big factor. The online community ArtOfProblemSolving has done a lot to democratize the process, it's much easier for students in non-competitive areas to join the community. The most important factor is still practice and determination.
+
+The selection process is pretty complicated:
+
+ The American Invitational Mathematics Examination (AIME) is a 15-question 3-hour test given since 1983 to those who rank in the top 5% (or score at least 100) on the AMC 12 high school mathematics contest (formerly known as the AHSME), and starting in 2010, those who rank in the top 2.5% (or score at least 120) on the AMC 10.
+
+https://en.wikipedia.org/wiki/American_Invitational_Mathematics_Examination
+
+ AMC 12 based indices are determined by taking AMC 12 Score + 10*(AIME Score). AMC 10 based indices are determined by taking AMC 10 Score + 10*(AIME Score). Cutoffs, based on AMC 12 indices, are determined so that approximately 260-270 students qualify for the USAMO. Cutoffs, based on AMC 10 indices, are determined so that approximately 230-240 students qualify for the USAJMO. If a student took the AMC 10 and 12 (i.e. AMC 10A and 12B or AMC 12A and 10B) and qualified for both the USAMO and USAJMO, the student must take the USAMO.
+
+https://en.wikipedia.org/wiki/United_States_of_America_Mathematical_Olympiad#Present
+
+ The main purpose of MOP, held since 1974, is to select and train the six members of the U.S. team for the International Mathematical Olympiad (IMO). Students qualify for the program by taking the United States of America Mathematical Olympiad (USAMO). The top twelve American scorers from all grades form the "black" group. The approximately eighteen next highest American scorers among students from 11th grade and under form the "blue" group. In 2004, the program was expanded to include approximately thirty of the highest-scoring American freshmen and sophomores each year, the "red" group; this was later split into two, forming the "green" group, which consists of approximately fifteen of the highest-scoring freshmen and sophomores who have qualified through the USAMO, and the "red" group, which consists of those who have qualified through the USAJMO. The colorful designations of these groups were adapted from Karate. In 2013, the red and green groups were unified. Also, with the new system the Black Group includes more or less only the IMO team, which is not necessarily all USAMO winners.
+
+ Until 2011, only Black MOPpers were eligible for the selection to the USA IMO team, determined by combining USAMO results with results of a similar exam called the Team Selection Test (TST). From 2011, a new test called the Team Selection Test Selection Test (TSTST) was established; this test is open for any of the participants of MOP, and along with results from the USAMO, determines the students who take the TSTs. This ultimately, along with the USAMO and MOP tests, determines the IMO team.
+
+https://en.wikipedia.org/wiki/Mathematical_Olympiad_Summer_Program 
+
+
+
+
+ The people who are USAMO winners probably are past the 10,000 hour rule for experts. 1000 hours for USAMO qualifier seems about right to me. 
+
+
+
+
+ Also in Russia, and other Eastern European countries like Romania, are where the traditions of math olympiads and math circles originated. 
+
+
+
+
+ Check the artofproblemsolving.com community boards. 
+
+
+
+
+ I love the idea of seeing science in action. The POV perspective, time lapse, and music choice make it pretty exciting. Would love to see more people do this. 
+
+
+
+
+ It takes resources to maintain a body part that isn't useful, energy and resources that could be better used for building and maintaining other tissues and organs. So it's better to lose them, or coopt them for a new function. Neutral variation is more common at the molecular level. Development is all about trade-offs. 
+
+
+
+
+  toe the line
+
+I feel like you're using this idiom wrong. 
+
+
+
+
+ It says that the child is legally the father. 
+
+
+
+
+ Grass or Toast. It's like 20 questions but better. 
+
+
+
+
+ 20 year limits on term sentences for all offenses. 
+
+
+
+
+ Azula as Grey Delisle. 
+
+
+
+
+ Laser tag, as in the Battle Room in Ender's Game. 
+
+
+
+
+ Document 12-571-3570 
+
+
+
+
+ Fear of death. 
+
+
+
+
+ So is just a week of celebration? 
+
+
+
+
+ Please, I have a wife and kids. 
+
+
+
+
+ Doctors With Borders. 
+
+
+
+
+ Plan A. 
+
+
+
+

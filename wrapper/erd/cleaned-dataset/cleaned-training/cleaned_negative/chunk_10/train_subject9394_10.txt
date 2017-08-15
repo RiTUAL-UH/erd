@@ -1,0 +1,1016 @@
+ I looked at the Robot class before making my comment, because I prefer the stuff I tell people to be the truth, so I made sure. Hence the link. None of its methods are suitable for what you say can be done with the Robot class.
+
+Assuming that you are not lying: You must see how improbable it is for any programmer to implement what you said via these methods. But instead of actually giving the people here information, you just toss claims around in short words as to sound cool-ish, add your signature, and that's it. Hence my suggestion that you should just leave this place. Now you replied in a way that completely fits that pattern *again*.
+
+Will you now offer an explanation, as you *should* if you comment here, or what will it be? 
+
+
+
+
+ Ok, didn't know that. But can you support your claim that Java has the same problem? 
+
+
+
+
+  I reject that assertion. I'll leave it as an exercise for you to think about.
+
+Ok, the result of my exercise: You're taking your novelty account too far and should hence take it off of this subreddit. 
+
+
+
+
+ Was this on the official Sun JVM? Personally, I didn't notice GC lag on mature Java games (e.g. Minecraft) on Windows (standard JRE). 
+
+
+
+
+ All of reality has a different shape for the length contracted (and time dilated) object, so it isn't actually compressed. The object is at rest (if it's not accelerating). It is only contracted in comparison to other reference frames.
+
+The contraction/dilation is not one aspect that is different for the object, it's rather symptomatic for *all* of its reality. 
+
+
+
+
+ Russell Glasser of the Atheist Experience suggested this approach for checking if some of your peers are secretly atheist, or for how dangerous coming-out could be:
+
+At some opportune point, make a dismissive statement about a very extreme religious point of view or extreme practice, one that most moderates would agree is BS. Look at the reactions. If things look good, try again (Possibly not right away.) with less extreme stuff, and so forth.
+
+Side-note:
+
+DO NOT come out if you're dependent, that's the rule of thumb. It can go over well, but too often we see adolescents in the various atheism subreddits say that their parents grounded them and much worse stuff. Also don't underestimate how information can travel - don't tell your siblings or friends, your parents will probably get a whiff eventually. Obviously, don't put it on Facebook etc.
+
+It's not a hard rule, but it should be adhered to in case of doubt. Just think about what you have to lose vs what you have to win by coming out. 
+
+
+
+
+ What's so hard? You do not want to do this, so don't do it. How do you do something that you don't want to do? We're not talking about a chemical addition like nicotine. However you solve the specific problem at hand: I think you have a general "impurity of will" problem. Basically, everybody has this problem, but the scales vary, and yours seems to be significant. In case it's really not yet clear that I mean by "purity of will": If you want to do X and not Y, you would do X and not Y if your will were pure. The more impure your will is, the more what you actually do will diverge from what you kind of wanted to do.
+
+But ok. You don't want to fall into this trap. How about you lay down a strict rule for yourself not to use a webbrowser while playing a game? Or maybe you need some replay-therapy: Play a game you played before, but be sloppy about it. A shooter like Half-Life 2 would do the trick nicely, because this one basically drowns you in health kits etc.
+
+Some games require min-maxing, but you should try to learn that the people who make the games for us to enjoy often choose to not be so strict: They don't require us to use every resource to get through the experience. Or maybe they do - if you choose to play "hard mode". Always choose normal difficulty, except if you have good reason not to, but usually you won't have that reason.
+
+Maybe part of the min-maxing reason is that you try to milk the most out of games, and since they often offer very little interaction, you try to make the most out of the few kinds of interactions you have - e.g. you try to pick up every last object / medkit.
+
+Part of the problem might also be your diet. Do you happen to ingest soft drinks with sugar and caffeine and also sugary "food"? That could lead you to become systematic instead of following your natural flow. 
+
+
+
+
+ It looks even a lot nicer with a lambda:
+
+    public static void main(String[] args){
+        SwingUtilities.invokeLater(ClassName::new);
+
+This is how I usually begin my Swing programs. I put this main method at the *very* top of the Main (here: ClassName) class, so that this is out of the way and all subsequent stuff is on the AWT event dispatcher thread.
+
+Java 8 brought a few things besides Lambdas, for example *method references*. Extremely useful. E.g. think about the method Runnable uses: The run method - no parameters. You can just take *any* method that also doesn't have any parameters and use it in a call that would usually require a Runnable interface, e.g. in the constructor of Thread: `new Thread(myClassOrClassInstance::someMethod);`
+
+But this isn't Runnable-specific, and the method doesn't have to have no parameters - it just has to have the same profile as the method expected in whatever place you're using this. 
+
+
+
+
+ If you're only dealing with H:M:S and not days/months etc., you can just store time frames via amount of seconds and do all math in this way. All you need in addition is methods to convert from this to readable time and vice versa. But you could also use the math functions of the various built-in date/time classes. 
+
+
+
+
+ Probably super-cooled Helium or something like that. A super-fluid has zero viscosity. (Still has surface tension, though.) 
+
+
+
+
+ I would make only one Scanner(System.in) and make it static and public, as long as the respective application only/primarily uses one thread. Several reasons: You wouldn't open the same file twice for reading just because another class wants to read, too (assuming that the position both readers use is the same, or the analogy doesn't work). And *closing* a Scanner(System.in) also closes System.in for good - you can't open it again afterwards (except with considerable effort), so even if you have 10 such Scanners, in a way you still only have one, so why not just use one from the get-go? It's also less code. Java is bloated enough as it is.
+
+Speaking of bloated: I almost never see anyone use the `final` keyword even though it's very useful. I make all my variables, even in method heads, final. I've never stumbled over accidents like "Oops, assigned the empty class variable to the constructor parameter instead of the other way round.", because the compiler wouldn't let me. Making everything final of course makes you spam that keyword all over the place, which is I guess why people don't do it and why IDEs almost not at all help here. I wish there was a compiler flag that would allow to invert the situation: Instead of "final" to lock stuff down, I'd rather use "var" to make stuff variable. But alas ... - Well, I suggest to make all variables (incl. in method heads) final, as far as possible. It prevents bugs, it *expresses intention* (Very important. You'll learn to appreciate this aspect of coding a lot.), it gives you confidence because your code is less like leaves in the wind.
+
+Making the Scanner(System.in) static and public opens it up for accidentally being overwritten (not that this is a likely event), so making it final in addition is a great usage example of that keyword.
+
+You should try to keep your methods small, especially the `main` method. Part of the reason is again to express intention. What does your program do? If your `main` would call "gameLoop()" right away, this would say: 1) This is a game. It runs as a loop like most games. Let's get to it. 2) The variables defined in the gameLoop() method are required locally. Currently, the variables declared (in the main method, where your game loop currently is) could be for any other use.
+
+This would also suggest *to you* a structure akin to "initialize, run, shutdown": You might have to do some clean-up at the end (e.g. close the Scanner - technically not necessary, but it should be done because cleanliness; then do System.exit(0) which is often not necessary but should absolutely be done regardless). You *could* of course just write this stuff right underneath your current code, but if you intend to encapsulate tasks (Make small methods etc.), you *do* realize that this would be part of the "shutdown" stuff, not part of the "gameloop". It should also give you a neat feeling of tidiness, of having things under control. Justified confidence is important in programming. It enables you to go further with your mind.
+
+You should realize: Just like int, double, String etc., classes you define are just *types*. You are basically defining new variable types! In the same way, writing a method is like the creation of a new Java command. So, when you make a main method that says "initialize();", "gameLoop();", "shutdown();", you are saying in your own words what you want the computer to do, *and it will do that*. That's awesome, that's part of what makes programming fun. It also fits greatly into paradigms like encapsulation, cleanliness, expression of intention etc. 
+
+
+
+
+ Assuming that your Windows is 64 bit:
+
+The first two Google hits (and I don't mean to complain, just trying to help):
+
+https://www.java.com/en/download/help/error_1603.xml
+
+http://www.adminarsenal.com/admin-arsenal-blog/beat-java-error-1603-when-deploying
+
+In case that doesn't solve the problem, you could also try https://singularlabs.com/software/javara/ (JavaRA = "Java Remove All"), which doesn't just allow to remove all Java remains but also to download Java versions. 
+
+
+
+
+ Pure Java is not suitable for making games. You can "extend" it by using libraries (Something that is quite normal for Java, anyway.), which allowed to make [Minecraft](https://minecraft.net/), [Delver](http://store.steampowered.com/app/249630/), and others - but pure Java can only be used for game prototypes, experiments, or games that look like they're from the 1990s. That said, I love to try to use Java to make games without additional libraries for some reason. 
+
+
+
+
+ How would you use the [Robot](https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html) for this? You can't scan for open programs or open windows of other applications or if they are not minimized or where on screen they are ... - It would be possible to do something like OP wants to do with the Robot, but the situation would have to be set up very specifically. E.g. how would you click into the right Excel cells? The suggestion to use third party libraries to read Excel files is way better. 
+
+
+
+
+ No, I didn't mean to say "Don't extend JFrame!", it can be a good idea, I'm just saying that I don't think it is one in this case or in most cases. 
+
+
+
+
+ I absolutely agree. Not just for booting: Starting any program is so much faster! IntelliJ IDEA for example starts in only a few seconds instead of taking 20+.
+
+An SSD is a *meaningful investment*, not a luxury. 
+
+
+
+
+ WTF! I looked at that church photo like 10 times yesterday. Why did they remove it? That's weird.
+
+...
+
+I surveyed the original thread and found (a slightly altered version of) the photo: https://i.imgur.com/LX9X0Fa.jpg 
+
+
+
+
+ Altered version:
+
+https://i.imgur.com/LX9X0Fa.jpg 
+
+
+
+
+ No. My comment has been downvoted, so I know that I am not welcome. The audience does not deserve to hear what I have to say. Believe what you want. (Oh, the irony.) 
+
+
+
+
+ The key question would be: How did the doctor know about the metal bits? Are there examinations for such a thing before deciding over an MRI? In case there aren't and the doctor decided based on knowing about the patient's life: Have there been cases where a patient was hurt or killed by an MRI? If so, what are the statistics? 
+
+
+
+
+ Translation: "The statements made by this person are to be taken with a bucket of salt."
+
+That btw. is also true for all those Internetizens who make statements like "This is the best movie ever!" and who abuse the word "literally" to mean "Not quite literally, I just mean to emphasize my statement unreasonably." 
+
+
+
+
+  To investigate bizarre insurance claims that transpired in either accidents, death or both, a former cop and an insurance investigator travel throughout the country to look at the cases up close. 
+
+
+
+
+ Gone.
+
+ This video is no longer available because the YouTube account associated with this video has been terminated.
+
+ Sorry about that.
+ 
+
+
+
+
+ Well, hitting the brakes could leave it on: Just keep hitting the brakes until you've stopped, just like you would do it in the normal mode when you want to stop. 
+
+
+
+
+ Ye, but if the universe is an unbounded-infinte space, it didn't become that from a bounded-infinite space. So, I don't see why you mentioned that. 
+
+
+
+
+ https://www.reddit.com/r/explainlikeimfive/comments/3e1hl2/eli5_why_is_it_that_a_fully_buffered_youtube/ctavoxj 
+
+
+
+
+ Thanks, I will dig deeper into this later. 
+
+
+
+
+ I can try this one day, but my condern is that if I do e^x, the volume will effectively range from 0% to 270% of the original material. This can be amended, of course, by dividing by e in the end.
+
+But I guess this won't work. Just look at this:
+
+e^1 (Full volume.) = sound multiplied by 2.7, divided by 2.7 = factor 1. Good. But now:
+
+e^0.5 (Slider half down.) = 1.64, divided by 2.7 = factor 0.61
+
+So, instead of bending the curve downwards to make the higher slider values be more expressive/effective, we have achieved *the opposite*, because an actual slider value of 0.5 is now like an unmodulated slider value of 0.6 - This approach is clearly wrong! 
+
+
+
+
+ I am completely aware of what I said, incl. that my mathtard-assumption "If e^x is its own derivative, this might be the reason that e is the sweet-spot." doesn't *seem* to make sense given that I do x^e here. It might or might not make sense - I don't know. I don't give a fuck, though. I trust my observations. Also, a parallel subthread developed that you probably didn't see:
+
+https://www.reddit.com/r/explainlikeimfive/comments/3e1hl2/eli5_why_is_it_that_a_fully_buffered_youtube/ctav7wd?context=10 
+
+
+
+
+  So as we go back towards the big bang - a time of incredible energy packed into a small space - time asymptotically approaches zero.
+
+I haven't heard this interesting thought yet even though I do keep my ears open (e.g. via /r/askscience), but I also disagree with it: The universe may be infinite as measurements of the last 10 or 15 years have shown, so it would have been infinite right from the start (because you can't get from finite to infinite in a non-discrete process), so the density would not have been infinite. And the temperature also was not infinite but just very high, so high that a certain symmetry wasn't broken yet. (That was a really interesting askscience comment that I saved a while ago, would have to search a bit.) Anyway: This would mean that even if time moved at a different speed, it wouldn't go to the extremes you describe, so it doesn't solve the "How did time begin?" conundrum.
+
+My personal take is that, like so many things in reality, an emergence effect occurred that resulted in a hard step from some blurry undefined thing to the first concrete universe situations. 
+
+
+
+
+ All that may be true, but the fact is that the situation is vastly improved if one goes through the incredible effort of treating the sound like this, and almost nobody does it, apparently. 
+
+
+
+
+ Did you move on from babbies?
+
+In any case: Whenever enough mass accumulates in one place, the weight-pressure will overpower the nuclear forces so that the structures can not be upheld, so while the mass stays the same, the space it requires is reduced, which even increases the weight-pressure because the mass is spread out less. Ultimately, it all collapses enough to occupy less space than its Schwarzschild radius (Every bit of mass has such a radius, but this radius is normally well below the material's radius.), so now you have a Black Hole. It's hypothesized that the mass inside takes no space at all, that it is collapsed into a point. 
+
+
+
+
+ That guy made a good joke that I didn't know yet. Don't know if I'm part of a minority and the rest upvoted because "Yeah, that. I know that." 
+
+
+
+
+ A bag in which someone keeps and carries around feces. Indeed. 
+
+
+
+
+ No, I mean it like I wrote. Made a small game in Java recently (The sound is realtime-synthesized, so the volume is applied directly in the sample data, so I certainly wasn't blindfolded by some driver's behavior.) that had the same problem at first. And it's logical that you have to do it this way round: Let's say we use 2 instead of e or something. A user input of 0.5 becomes 0.25. So, we are simulating that the user's slider is already way lower. This obviously works effectively against the problem that the upper range doesn't do much. It kind of expands the whole lower part of the slider and compresses the upper part.
+
+Any number above 1 will work, yes, but 1.2 etc is much too weak to fix the problem, and if you go too high, you get the opposite problem: You'll not have any change in the lower ranges, and you'll also get too quickly to a quiet volume when going down from 100%. I fiddled with this, and about 2.7 seemed to be apt. Since it's close to Euler's Number, I figured that there might even be an objective reason to use e here. After all, e^x is its own derivative, so as a complete mathtard, I thought that this symmetrical behavior might be related to about 2.7 being a good middle ground regarding the volume behavior manipulation. 
+
+
+
+
+ Well, you could possibly make a little weedery close to the roof. All that heating churches do so that the people on the ground have a nice climate must result in quite some heat up there.
+
+But does weed need heat at all? That might be a wrong assumption due to the heat of growing-lamps, which I heard can nowadays be replaced with LEDs, so it would be a lot less extra-warm. 
+
+
+
+
+ Well, that history sure sounds as if the person enjoys to offend. But with that in mind, it feels as if something like Poe's Law applies. Is OP trolling us, or is it just that OP's diet is questionable? 
+
+
+
+
+ That might even be the fucking reason. I just opened a video, explicitly switched to 720p, let it cache for a while, stepped forward within the cached range a few times - it did (apparently) NOT download any of that again.
+
+Just did the same with another video that was on auto-480. No re-caching.
+
+I am sure that I had re-caching problems with the YouTube player in recent months, then I stopped caring. Maybe they changed something. I am sure that its behavior was as super-retarded as OP's question insinuates. 
+
+
+
+
+ That's a nice way to become blind to the actual reality. If the observed behavior is obviously wrong, then someone fucked up. *If* (Not meaning to claim that this actually works, but I *guess* so.) you can open a YouTube link, let it cache completely, cut your Internet connection and watch the video completely, then it's completely retarded coding if clicking somewhere on the position bar requires new caching.
+
+Take Portal 2 by Valve, for example: The volume sliders don't work properly, just like in almost all other games. They obviously manipulate the audio in a linear fashion, which is not how acoustics work. When you reduce the volume down from 100%, you hear almost no change until you're at about 60%.
+
+Some games do this correctly by raising the user's input value (From 0 to 1.) to the power of Euler's Number (about 2.7) or something like that.
+
+Valve's developers sure should know this better, no? And hence the perception of all users is wrong. Is that really how you think? 
+
+
+
+
+ *We* would have to accelerate to something like that and then slow down again for *him* to have experienced more time than us once we're back together. Rule of thumb: The space traveler dude is the one who misses out. 
+
+
+
+
+ I remember rebooting my machine in mini-LANs while I still had Win98. Took at least two minutes. 
+
+
+
+
+ "You can have depictions of the color spectrum, but not while you have pink window borders because we construe that intentionally suggest a certain interpretation." 
+
+
+
+
+ We take these lies and make them true somehow. 
+
+
+
+
+ Except it starts with the same initial. 
+
+
+
+
+ Original post: https://np.reddit.com/r/childfree/comments/3dy101/well_thats_terrifying/ 
+
+
+
+
+
+
+
+
+
+ This is more like it:
+
+http://www.nowykurier.com/toys/gravity/gravity.html 
+
+
+
+
+ 2nd codepen thing today I see that doesn't work in Firefox (39.0), so I tried successfully in Chrome. 
+
+
+
+
+  Shyamalamadingdong *
+
+Racist. 
+
+
+
+
+  Directed by M Night Shamalamama.
+
+Racist. 
+
+
+
+
+ My face when people try to explain the Bible to me:
+
+https://i.imgur.com/b9h1qQV.png
+
+Besides, I find the reactions you listed to be quite aggressive. Do you happen to regularly meet such idiotic believers so that such reactions are stimulated? E.g. their question in 1) sounds 90% harmless to me, definitely not deserving of the quality of your demo-answer. 
+
+
+
+
+ Personally, I believe it will be gone in less than three years. Not one religious person will be left. I won't discuss this, so just ignore me and remember me in three years. 
+
+
+
+
+ The bug is back. I was at this URL
+
+https://www.reddit.com/r/pics/comments/3e115c/ive_spent_35_years_trying_to_get_this_photo_it/ctaq6cp?context=3
+
+and typed out a response, simultaneously I edited the comment the link responded to. I saved the edit, and my response-text was gone.
+
+Firefox 39.0 Windows 7 Pro 64bit 
+
+
+
+
+ Vacation days like any working person. ... Just edited to regard weekends, too. 
+
+
+
+
+ [Next](http://www.imdb.com/title/tt0435705/) (2007, Nicolas Cage, Julianne Moore, Jessica Biel) is generally an entertaining movie that can be recommended with confidence, but *you* should *definitely* watch it.
+
+I suggest not to read the summary because it gives too much away. Just watch a movie where a guy has a neat superhuman ability. 
+
+
+
+
+ I wonder why they don't add an input option where pressing forward on the keyboard doesn't just rev the engine but effects that the car *keeps* driving at that speed. So you can freely adjust your speed by pushing forward or backward, without the bunny hopping effect. 
+
+
+
+
+ First thing I did in GTA4 was to be annoyed that I couldn't pick up and dispose of trash that was floating by. I just felt immersed and wanted to turn that emotion into action.
+
+That's what these games have too little of: Interaction possibilities. They draw a beautiful 3D painting, then you're mostly whizzing past it in a vehicle, reducing your mental perception to the key information (traffic, next junction, ...) - You do see the full graphics with your eyes, but your consciousness in your brain isn't looking at those, it's looking at useful data. Many are not aware of this problem, because it requires you to be aware of your awareness, but you could also be aware of your awareness of your awareness etc., so where does it stop? Many seem to not be all that aware of their awareness.
+
+Btw., I've noticed that walking slower in games (e.g. by crawling) gives a much stronger and more spatial impression of your immediate environment, e.g. when you're moving through some corridor in a shooter. If only more games had freely adjustable movement speed like the old Splinter Cell games. At least, don't force us to *hold* a slow-key to move slowly. 
+
+
+
+
+ Even the cammer expected it. (vertical phone) 
+
+
+
+
+ Islam and Hugo. 
+
+
+
+
+ I was thinking about turning churches and mosques etc. into museums and libraries once religion is gone. 
+
+
+
+
+ ----
+
+**https://i.imgur.com/6tI9fcG.jpg**
+
+----
+
+x-post from /r/pics
+
+Original post: https://np.reddit.com/r/pics/comments/3e026a/an_abandoned_church_in_france/ 
+
+
+
+
+ In any case, I am convinced that OP did not invest (365-20)\*3.5\*8 hours of effort on finally getting this done.
+
+EDIT: rather (365-125)\*3.5\*8 because weekends 
+
+
+
+
+ Still on it. Good experience. Informative (I hope - am not American, don't know how accurate the information is). Gives perspective.
+
+Some things seem wrong. E.g. half into the month, I have a cell phone bill of 75$. Why would someone low on money pick the absolute luxury space age plan? I had no choice here.
+
+Later, I can get an Internet plan at home for $60 which is ridiculously expensive. Is it really that high in the USA? Costs about 30 in Germany. Also, I *do* have a smartphone, no? Those do have Internet access. Otherwise the plan wouldn't be so ridiculously expensive. So, whatever advantage the Internet-PC would bring, to a smaller degree I have that already via the smartphone.
+
+Another thing that's unrealistic: Things are popping up out of nowhere. My decision whether or not to pay something (or what quality to choose) would be relative to what I can expect to happen next, e.g. "fee to get car road-legal". I could know these in advance and plan ahead.
+
+Also, what about $1,500 to get your car back? I've been parked in the wrong place a few times in Germany, each time it cost me about 150 to get the car back.
+
+I heard that many people in the USA have *two* jobs. While that's a harsh fact, a person as much attacked *from all fucking sides* with bills as the guy in this imho a bit exaggerated game would consider taking two.
+
+After one failed attempt, I made it through the month with unpaid car registration pending. All in all, an appreciated product, informative etc., but it left me wanting, and I think it's exaggerated. 
+
+
+
+
+ My *very unpopular* way of handling this - so, probably better not take this as advice - is to befriend the null. Instead of trying to avoid it (which can't work in all cases, anyway), make use of it as a meaningful expression of information whenever you can. This way, your null-checks are not a protective measure, they are just part of your normal situation evaluation code, and you will also be completely aware of the fact that something can be null at all times, you won't forget it.
+
+I can't think of a good example right now, though. But I've done this often. 
+
+
+
+
+ Man, will they *EVER* fix this subreddit's style sheets? The line numbering is completely useless.
+
+To go through 6 guesses, you need to assign "6" to your guess variable and decrease -- it by one directly after your if-block. Then you need to wrap the lines starting with `int number = in.nextInt();` and ending with the decrease line into a while loop that keeps running as long as your guess variable is above 0.
+
+But you also need to move `int randomNum = 1+num.nextInt(100);` up outside the loop, you don't want this number to be recreated every time. 
+
+
+
+
+ I disagree. Extending JFrame and such should only be done if it brings a considerable advantage or is required, because those objects come with a ton of methods. So even if an IDE lists one's own "custom" methods at the top in the autocomplete list, it's still an impure solution. There are no hard reasons that speak against your suggestion, though.
+
+On a different note: If OP can use Java 8, they should make use of Lambdas. IntelliJ and other IDEs automatically suggest such a change, so they teach a programmer about those possibilities. Example:
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                new Main();
+            }           
+        });     
+    }
+
+becomes
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(Main::new);
+    }
+
+ 
+
+
+
+
+ I had the very same problem yesterday, if I understand you correctly: Every step was digital, a teleportation from point A to point B, except there were no grid places between A and B.
+
+This was ok for the relatively fast (and crappy) action game I'm making, but then I had the great idea to not show the whole level at all times but to instead only show a local excerpt, giving a weak "1st person" and mystery exploration feeling. It did wonders, but the whole screen was now stepping. Solution: See what chiguireitor said. Except I do those usually with an adjustable scaler. Example:
+
+    currentPos = (targetPos + currentPos) / 2
+
+is the same as
+
+    currentPos = (1-0.5) * targetPos + 0.5 * currentPos
+
+If we use a variable for the 0.5, we can adjust the smoothness.
+
+    currentPos = (1-movementSmoothing) * targetPos + movementSmoothing * currentPos
+
+`movementSmoothing` is a value between 0 and 1. If it's e.g. 0.9, then the position resists the change but eventually gives in. 0.99 and such can also make sense.
+
+I applied this to the *whole screen*, so that it scrolls considerably softened while the player still moves in steps. Works very well. 
+
+
+
+
+ E.g. while the download connection is being established. 
+
+
+
+
+ Here, I turned the photo into something much more presentable:
+
+https://i.imgur.com/8HEQBwB.jpg 
+
+
+
+
+ Even *if* you were just making this up: On a planet with 7.2 billion people, it's almost *certain* that someone out there had an almost identical experience. So, we might as well treat *your* account as the real one, for the sake of discussion. Anything else is unproductive/unreasonable. It's not like you're getting free blowjobs for this. 
+
+
+
+
+ I think someone pondering something and coming to a conclusion is less crazy than someone who does not dare to challenge themselves on these questions. 
+
+
+
+
+ (OP [took](https://www.reddit.com/r/atheism/comments/3dzgg5/a_few_days_ago_someone_tried_to_rob_me_it_has/cta7i10?context=10) the knife away. This knife, at least.) 
+
+
+
+
+ At the time Frodo said that Gollum should die and when Gandalf said "Rather nope.", Frodo still had a part of his path ahead 1) that Gollum's death would not have spared him 2) and Gollum greatly helped with the completion of that path, *probably* made the completion possible in the first place.
+
+So, Gandalf, to me, seems to have been exactly correct. 
+
+
+
+
+ Possibly because we have more than one sex. 
+
+
+
+
+ It is entirely proper to state truth. If you disagree, you fight for evil.
+
+I am God, by the way. You have expressed that you would go against me, so I demand that you give up your position as moderator. The alternative is that when Judgment Time strikes, I will not give you eternal life and let you die. Choose.
+
+But we both know what your choice will be, right. 
+
+
+
+
+ They hear their own voice. They sense their imaginary-friend-center agree, nod, appreciate. They feel additional dopamine.
+
+They are drug addicts. The only difference to classic drug addicts is that they only use their brain to obtain and ingest the drug instead of going to some place and eventually eating, inhaling, or injecting it. The damage is real nonetheless. 
+
+
+
+
+ Original is 1:37, video is 1:20 but has credits and beginning. Must have a part missing or must be sped up. - **[ALTERED]**
+
+Aspect ratio looks weird, but it almost fills the screen vertically, and original is 2.35 : 1, so a bit of VideoLAN magic would fix this. But I get the feeling (NOT SURE.) that parts of the image might be missing.
+
+Video quality is quite wanting. I'll pass. 
+
+
+
+
+ I guess that's indeed the explanation for the crowd shown in the video. 
+
+
+
+
+ Lest it rises from the ashes like the phoenix. 
+
+
+
+
+ They can do something akin to cell-division on full body level. While that's not quite what's really going on, it makes it a bit easier to understand why a pregnancy is so demanding. 
+
+
+
+
+ A beautiful example of something where people would just *know* that it's wrong, and they'd be fervent about it. Then this bit of information is thrown at them, and you can hear the air escape the balloon. (I'm not talking about Chucklet.)
+
+People should be aware of this more, because there is rarely someone there who hands them the key info. 
+
+
+
+
+ Btw., for those who don't know: http://www.charitynavigator.org/
+
+I don't know if it's good, legitimate, etc. - but assuming that it is, it should be known. 
+
+
+
+
+ Why didn't they just translate "gottglubig" with "theist"? 
+
+
+
+
+ Which I'll never understand, because to get such a glorious male specimen, it takes a female who basically creates them from scratch. I mean, she's turning food into people. Males only turn food into poop. 
+
+
+
+
+ I wonder what your take is on [these](https://www.reddit.com/r/atheism/comments/3dwxps/saudi_woman_to_get_200_lashes_for_being_raped/ct9ok5t?context=10) guys. (3:43 YouTube video) 
+
+
+
+
+ https://www.youtube.com/watch?v=1le8KiPqt5I 3:43
+
+ Norway - All Muslims agree Stoning is OK - "Moderate" Muslim "Peace" Conference 
+
+
+
+
+ I think you just rekindled something. (Came here via frontpage.) Gotta play me some ETS2 while listening to some discussions and such (AETV, comedians, ...)
+
+Btw., I didn't know such a collision could lift a car in the air. Was there a significant physics upgrade in the last two years? 
+
+
+
+
+ Thanks for the details.
+
+ We get next to no calories from leaves and other plant parts that are mainly cellulose.
+
+Is there any mechanical or chemical way in which we could prepare such plants (e.g. grass) so that ingestion *would* meaningfully feed us? 
+
+
+
+
+ Richard, son of Nick. 
+
+
+
+
+ Or waiting for processing in the chest freezer. 
+
+
+
+
+ Es reibt die Lotion auf seine Haut, oder es bekommt die Hose wieder. 
+
+
+
+
+ That's an interesting form of racism. Africans (Black, I assume.) who have attained the USAmerican citizenship by birth or otherwise are in your opinion (like) monkeys, but Australians or Indians are not. What's your problem with Africa? 
+
+
+
+
+ And how are they formed? 
+
+
+
+
+ If God took a rib from Adam, why does Adam still have ribs? 
+
+
+
+
+ Have you ever felt the heat of the sun on your face when you stepped out of a shadow? 
+
+
+
+
+ Those struggling with infinity should make an effort to replace the brain's substitution of infinity with "A DAMN LOT!" instead with "Always *more*." because "infinite" means "with out end", so in the case of e.g. space or numbers, it would mean "ongoing".
+
+Once this is done, one's mental dealing with "infinity" starts to change into a more useful form. 
+
+
+
+
+  Changing diet (going from herbivore to carnivore or vice-versa) is a huge evolutionary change.
+
+Does that imply that being able to eat both (Being omnivore, like humans.) is hence a significant evolutionary advantage? 
+
+
+
+
+  Honestly, I can't think of any arguments for binary over ternary beyond "one took off, the other didn't".
+
+Here's one:
+
+https://www.reddit.com/r/askscience/comments/3ds1oa/why_we_use_binary_numeral_system_instead_of_more/ct9mcdd?context=10
+
+ There is one threshold between two values so you need one comparator. To differentiate between 3 values you need 2 comparators because there are at least two thresholds. But with 2 comparators you can also process 2 bits.  
+
+
+
+
+ Why? 
+
+
+
+
+ Didn't know the term (but the thing). From the Wikipedia article:
+
+ Not invented here (NIH) is the philosophical principle of not using third party solutions to a problem because of their external origins. False pride often drives an enterprise to use less-than-perfect invention in order to save face by ignoring, boycotting, or otherwise refusing to use or incorporate obviously superior solutions by others.
+
+Though "reinventing the wheel" isn't necessarily a pride problem or somesuch. E.g. I always see people in /r/javahelp and /r/learnjava using Scanner(System.in) and struggling with the intricacies of using methods other than just .nextLine(). I never use those methods, so I don't have to ponder all that for a second. I just use .nextLine() and do any required parsing/checking in utility methods that I made over time.
+
+Another example are cases where you just prefer to do things a certain way, but the available libraries do it differently, so either you adapt (which might not always be easily possible), or you make your own. Also, there might be solutions that you just don't happen to hear about. 
+
+
+
+
+     if(liveOn) {
+    } else {
+    }
+ 
+
+
+
+
+ Both sound like something HR would say. 
+
+
+
+
+ [http://www.bay12games.com/dwarves/](http://lmgtfy.com/?q=so%2C+where+can+I+get+Dwarf+Fortress+for+free%3F l=1) 
+
+
+
+
+ Well, it keeps getting beta. 
+
+
+
+
+ Looks like if I snap my fingers in it, I'll hear the consequences for half a second, though. 
+
+
+
+
+ Hm. Just thought up a rule of thumb to remember this: (probably not actually new)
+
+URANus is closer to Sol and Earth than PLUTOnium. The celestial object and the subtance are easier to "reach". The detonation mechanism is also simpler. 
+
+
+
+
+ To make it more expensive, they could custom-program a game that the kids attending the wedding can play over the projector on the cake. Something making good use of its shape. 
+
+
+
+
+ Reminds me of my Java Steam game library ("SlaloM"). It automatically reads the whole Steam library from HD, and within its little sandbox, you can tag games, filter the tags with AND/OR/NOT (in that filter-order), there's a complete second such tag system to manage the primary tags, you can *rename* games, it shows the Steam screenshots prominently and with original colors etc., can launch games, can trigger uninstall, can call the store page, shows AppID, keeps track of game time (in its own crude way), allows sorting by "last played" or "date first seen by program", file format is ascii so you could kinda adjust values ...
+
+I've just never gotten to make a repository out of this, made that thing before using repositories. I'm the only user xD 
+
+
+
+
+ Wouldn't have been better if they had been Instagrammies. 
+
+
+
+
+ Rather looks like a knock-off movie cover. 
+
+
+
+
+ Also, the passenger might use that very phone, which they can't if it's locked. 
+
+
+
+
+  A phone is less distracting than separate devices each doing their own thing.
+
+I don't disagree with your general stance, but I think you're wrong about this one. The station buttons and volume knob on a built-in radio are fixed in 3D space - always in the same place, they don't go away behind a different screen and have to be retrieved, and they also don't move around with your hand/phone.
+
+That's just one device example. Though there might be others that go in the opposite direction, and who knows what you had in mind (e.g. setting the multi band equalizer via menu and other buttons), so this argument goes both ways. But for general radio use, my point stands. 
+
+
+
+
+  You can't make a system built on shitty posting anymore worse than it already is. It isn't possible.
+
+This is broken on so many levels that I just comment this here and turn off Inbox responses. Everything you said in this post is so *wrong* ... you are a phenomenon. I am certain that nothing you respond to this could not cause even more pain in the brain. 
+
+
+
+
+ You can even do 3D stuff with Java 8 (JavaFX) - see this example that uses even *less* code:
+
+https://www.reddit.com/r/java/comments/2out3f/did_you_know_pure_java_8_can_do_3d/ 
+
+
+
+
+ I believe people who do not care about the well-being of the average person (or "most people in general") are not actually higher than those.
+
+"Feeding" people who don't deserve it - yep, I agree, that's not quite it. But what you describe sounds to me as if the *opportunity* for the average person to prosper - not to rise to the top, but to prosper - would be taken away, leaving you with slave ants ruled by nobles. I would find that abhorrent. 
+
+
+
+
+ Yes, and nothing in the source code either (in case you didn't mean that). 
+
+
+
+
+ Oh. Well, then I guess you have no choice but to put them like in your screenshots. (And I disagree with the idea to hide "competing" effects, because not only would it be confusing but what if the effects are of different strength? E.g. their power might fade out over time.)
+
+I think the solution is to simplify the symbols. They "look too good", they are too fancy. They should be as simple as symbols used in traffic signs, and they shouldn't use more than one color. Ideally, all colors would be the same, but I guess that adding a fitting color to the effect (stronger = green, weaker = red, ...) does make sense. 
+
+
+
+
+ In case you haven't yet, you definitely should watch the animated movie [Ratatouille](http://www.imdb.com/title/tt0382932/) (2007) by Brad Bird and Jan Pinkava.
+
+ A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession. When fate places Remy in the sewers of Paris, he finds himself ideally situated beneath a restaurant made famous by his culinary hero, Auguste Gusteau.
+
+It's a very entertaining movie, and it might give you a deeper emotional grasp of the onset of your game idea. 
+
+
+
+
+ I think you could place them at the bottom of the screen, horizontally centered. (I guess the player is at the center of the screen.) This would keep it easy to take a glimpse at them without losing track of the game itself. The order from left to right should be the order in which they had been acquired, assuming that they will run out in time. 
+
+
+
+
+ Since it's on topic: "it's deep symbolism" should have been "its deep symbolism". 
+
+
+
+
+ Your link: https://en.wiktionary.org/wiki/Appendix:Unicode/Miscellaneous_Symbols_and_Pictographs
+
+Draw a symbol, get fitting search results (offline since yesterday, have used it for months): http://shapecatcher.com/
+
+Useful character tables: http://copypastecharacter.com/ 
+
+
+
+
+ About: http://graphemica.com/%F0%9F%97%BF 
+
+
+
+
+ Someone saying "fuck science" over an IT device needs to be ignored instantly. 
+
+
+
+
+ Case in point:
+
+ this whole life is a test. its going to be a prison for the belivers and fun for the disbelivers
+
+So, their experience in the world tells them: "Your way is **WRONGGH!**", and they take that as evidence that it is right and the other people's way is wrong instead. With that kind of crowbar, they can turn everything upside down.
+
+They completely fail at evolution, which "tried" to make us fit to maximize our survivability by understanding our environment properly. 
+
+
+
+
+ In case you're serious: You can see a user's profile by clicking on their name. 
+
+
+
+
+ Thanks for explaining it in detail. Good luck. 
+
+
+
+
+ Looking at something you commented or posted with a different (= not logged in) browser would have been sufficient. 
+
+
+
+
+ Thanks for the suggestion. I bought MLLR during the Summer Sales and played quite a lot of it. Am not through yet, because I play stuff on and off. But I like it a lot. 
+
+
+
+
+ The force would be the threat of millions of people who want to smack them in the face. 
+
+
+
+
+ I got a "forbidden" error for the 2nd image. Hitting Return in the address bar (Faking not to be referred.) solved it. 
+
+
+
+
+ There was a bee, too, I think. Was there a bee too, or was there not a bee too? 
+
+
+
+
+ Yeah, Sodom. What's funny is that the innocent left Sodom Gomorrah before it was smitten from the sky. I suggest the same should happen here. 
+
+
+
+
+ It's easier to justify why someone is an atheist than why someone is a Christian or Muslim or Mormon etc., because being atheist or non-atheist is just a choice between "not sufficient evidence" and "sufficient evidence".
+
+However, being a Christan/Muslim/etc. is a choice of the very specific type of theism, and all of these have the same amount of evidence speaking for them, plus the majority of religious people share the religion of their society which suggests a good level of arbitrariness regarding the "choice".
+
+In this light, not only can an atheist say "I didn't see sufficient evidence.", they can even say "I couldn't decide which religion to follow, so I followed none of them." 
+
+
+
+
+ No, you hand the boy the fake hand, which calms him down, then you saw off HIS hand for real, which he will somehow try to get through, knowing that it'll only be a fake hand. 
+
+
+
+
+  This video has been removed as a violation of YouTube's policy against spam, scams, and commercially deceptive content.
+
+ Sorry about that.
+
+It's a CAM, YouTube! not a SCAM! 
+
+
+
+
+ So, you don't like feminism and hence like Islam. That is so wonderfully honest, it makes me smile.
+
+As for the rest: I value truth above all. You don't. It wouldn't make sense to discuss with you, since the discussion would itself be about what's true, and you already decided that you don't quite care about that. I pity you. 
+
+
+
+
+  How about you write an essey
+
+Obligatory: https://www.youtube.com/watch?v=83nfRx6nf0s 
+
+
+
+
+ Deep down, Ken Ham knows that he is making shit up, but he chooses not to realize it.
+
+Am I right? Is he right? Nobody knows. So, why care. 
+
+
+
+
+ Same here. I have 900 games on Steam alone, and this one is unique in a positive way. 
+
+
+
+
+ You played it again? I didn't consider that so far, because I don't want to change anything about my savegame. Also (in case that's a non-argument because there are other slots - don't know), the *impact* of the story would be diminished for me if I'd play other variants before experiencing the whole thing once for real. 
+
+
+
+
+  By that logic judaism would be god knows how many years ahead of christianity. 
+
+Well, it *is!* Because there are almost no Judaists left by now. :) 
+
+
+
+
+ still in the \*throes 
+
+
+
+
+ \#There are other valuable \`formatting tips\`
+
+\* too, but let's \^\^not \*\*unwrap\*\* \*all\* presents \~\~at once\~\~.
+
+\[Right?\](#s "Right.")
+
+I added a \\ before all key characters to disable reddit's interpretation of those.
+
+And you should consider making use of the `save` feature that exists for posts and comments. Your user section has a page for your saved stuff. Gold members can even categorize those upon saving. 
+
+
+
+
+ ... which spreads the plant-specie further, increasing the likelihood of its perpetuated existence, so plants which happened to make their fruits a little more attractive/tasty/digestible had that bonus going for them. 
+
+
+
+
+  No one has seen the face of God and lived.
+
+https://i.imgur.com/VU7ZhtY.jpg 
+
+
+
+
+ Is the proprietary https://www.teamviewer.com considerably better? What are some good reasons *not* to use it? 
+
+
+
+
+ My question was supposed to mean: "Why do you say 'I'm in athens, it was crazy, [...]' when the topic is about an event in Chattanooga? What does Athens have to do with anything?" 
+
+
+
+

@@ -1,0 +1,805 @@
+ People are just pissed that everyone but Ripley dies at the very beginning.  Couple that with the well-documented studio tampering and tinkering with Fincher, and you get an under-performing movie that everyone remembers as way worse than it is.  But, you're right, it is just fine.
+
+I'll tell you what - if *Terminator: WeCan'tSpell*, *Star Wars: The Force*, and *Jurassic The Lost World Park World* are half of what Alien 3 was, then the 2015 blockbuster season will have over-performed.
+ 
+
+
+
+
+ If only our teams weren't playing on the same day, I would have considered going with you, for sure. 
+
+
+
+
+ This would indeed be the darkest timeline.
+
+ 
+
+
+
+
+ What about on [Year Day] (http://en.wikipedia.org/wiki/International_Fixed_Calendar)? 
+
+
+
+
+ If it makes you feel any better, my past interactions with you have led me to tag you essentially just that, so I am never confused when you say good things about the Peyton-led Broncos. 
+
+
+
+
+ Groovy, man.  My wife got me a bottle of the 18 for Christmas - I'll have a dram in your honor tonight. 
+
+
+
+
+ Go Panthers!  I want you cats to make some noise over there in the NFC! 
+
+
+
+
+ I have had multiple bottles of both.
+
+The 10 is very strong on the peat, extremely smokey and a little harsh.  There is also a clear medicinal character that comes through.
+
+The 18 is very much the same idea, but I feel like the proportions are slightly different:  the peat is still up front and strong, but it is a little more rounded and smooth than the 10.  And the medicinal quality is the same, if not slightly stronger.
+
+Recommendation:  get the 10; it is about 50-60% of the price, and will not be subtle about anything.  If you hate it, you probably won't like the 18, and if you love it you'll want to try the 18 later anyway.  If you try it and are on the fence, you might consider the 18 if you just want something a little smoother or less in-your-face. 
+
+
+
+
+ You don't deserve watching your team play in the playoffs. 
+
+
+
+
+ Yeah, I only have the fragmented paper backup - I restore the wallet from the paper fragments whenever I make a spend transaction from the cold storage.  You *could* keep a digital version too, but I don't.  I *might* decide to keep a USB with it encrypted - but that introduces a very weak single point (someone steals the USB).  They'd still need to break the encryption, though, so I am not sure.  I do have the fragment files encrypted and in the possession of four individuals who have good data storage practices.  So, if my paper fragments get lost in simultaneous fires, floods, etc, I CAN restore from a digital source, but it takes a number of additional steps (I have to collect the fragments from my buddies, decrypt them, and THEN restore the wallet).
+
+Armory has an option for making fragmented paper backups.  The Armory website has lots of very good tutorials for that kind of thing (and lots more). Be sure to use the SecurePrint option to prevent someone from spying on your printer (or, write the fragment seeds by hand). 
+
+
+
+
+ Yes.  You only need to know two Star Wars things:
+
+1.  Laser Swords ("Lightsaber" in the parlance of the Star Wars) are awesome.
+
+2.  You can lightning people, freeze people, choke people, and push/throw people.  In this game it isn't magic or mana.  It is "The Force".
+
+Enjoy. 
+
+
+
+
+ No worries, buddy. 
+
+
+
+
+ Didn't I allow for bitcoin-based solutions to deferred payments in my second paragraph?
+
+What in particular do you think I am incorrect about?  I definitely think that the solutions and points you made are right on.  Maybe you think I am giving Mr. CEO too much credit for his shortsighted opinion?  
+
+
+
+
+ Exactly right.  Very important thing to keep in mind.  In fact you wouldn't even need a card - just flip your hardware wallet into credit mode with a button! 
+
+
+
+
+ A Few tips:
+
+1.  Don't mine.  Others have linked you to hardware specs and mining calculators, but for the most part the only people who can mine (profitably) are dedicated outfits with cheap electricity, cheap hardware, or both.  In general, as the hashing difficulty increased, it too more and more specific hardware to mine profitably.  So, it went from CPU - GPU - ASICs pretty quickly.  Now you certainly need ASICs.  If you're a big hardware geek, you might like putting together a mining rig as a hobby, however, so that's up to you.
+
+2.  Do not day trade bitcoin.  It is too easy to lose money there.
+
+3.  Figure out if you like the technology enough to buy some bitcoins for savings, or whether you'd rather just use it to pay for things / experiment.
+
+4.  Educate yourself on good security practices.
+
+5.  **If you do not own the private keys, you do not own the bitcoin**. 
+
+
+
+
+ This seems like a reasonable enough opinion to me.  Credit cards are fine at deferring payment (never mind that they charge a *ridiculous* percentage of the amount for this "service").  And the "market share" of Credit, Cash/Debit, Bitcoin, if you want to call it that makes plain that there is lots of money out there and it is unlikely that Bitcoin will destroy or replace everything.
+
+But, a bitcoin protocol could just as easily delay payment, and probably with less overhead and thus fewer ineffciencies.  I respect where this guy is coming from (different people have different payment needs; there's lots of room for many alternatives), but don't be surprised if Bitcoin is capable of performing the tasks that you figured were only the domain of the established payment systems. 
+
+
+
+
+ Mycelium Wallet lets you import addresses by scanning a WIF QR code. (BIP32, too, I think). 
+
+
+
+
+ The Armory website has a lot of nice tutorial videos for doing all kinds of things with that software.  Offline transactions are explained pretty well!   
+
+
+
+
+ I'll help you out a bit by giving you an overview of the process that I have pieced together from a couple of different sources.
+
+First, this is fairly time-consuming, but really only happens when I am legitimately moving a lot of bitcoins out of savings and into something else.  Ultimately, I like the setup because I feel like there are multiple redundant protections.  I like to imagine a virus called, "The Perfect Bitcoin Thief" or PBT, for short:  this virus can read all of your files and the clipboard, plus logs all of your keystrokes and will keep them in any available memory until it has an internet connection.  This is probably paranoia, but it helps me think in a worst-case kind of way.
+
+So, like you, I have armory running a full client on a computer connected to the internet.  On here I have a general-spending wallet which is encrypted.  I don't keep many bitcoins in that wallet, it is mostly for a way to move coins on my PC (like, if I am buying a plane ticket from expedia or something).  The other wallet I have is a Watch Only Savings wallet, so I can't spend from it on the online machine at all.  This "Savings" wallet is backed up with a 3-of-4 fragmented paper backup.  I have the different fragments stored in distinct places (both within my residence and without), as well as encrypted digital backups I have sent friends/family members in case of some weird total loss.
+
+So, to spend from my watch-only wallet, I boot an offline machine into TAILS from a USB stick with nothing else on it.  Then I can create an unsigned transaction with the watch only, transfer to the TAILS machine, sign it, and transfer it back to broadcast.  It all ends up looking like this:
+
+1.  Create Unsigned transaction from watch-only wallet.
+
+2.  Boot up TAILS from a live USB stick.
+
+3.  Use another *virgin* USB stick which **never touches a machine that sees the internet** to load the offline bundle of Armory.  You *can* have a wallet file on this USB, too, but I just rebuild it from my paper fragments, as that reduces the risk.
+
+4.  Sign transactions and move the signed transaction file between the TAILS system and the full Armory system.
+
+5.  Broadcast the transaction from the full Armory computer.
+
+So, how does PBT fair against my setup?
+
+1.  The watch-only wallet with the funds has no private keys on the computer with connection to the internet.  PBT can have this wallet file - it does no good.  
+
+2.  The only system which *ever* sees the fragmented backups (and hence the private keys) is TAILS without an internet connection.  Once I have the wallet, I load up the unsigned transaction, sign it, and eject the USB.  Unless my USB somehow downloads PBT, there's no way in.  TAILS wipes itself clean after every shutdown, so there's nowhere for the private keys to be stored, either.
+
+3.  When connecting the USB with the signed transaction, do so with the Armory computer unconnected to the internet.  Then you can unload the signed transaction file and disconnect the USB, keeping it cleaner.  Be sure to look over your signed transaction before you broadcast it to make sure things are going where you want them too, just in case.
+
+So that's it!  The main point of failure is (admittedly) the fragmented paper backup.  If someone was to steal three of the four fragments, they could reconstruct my wallet from scratch, and start spending those funds.  But, in a situation where one is in my home safe, one is in a security deposit box at a bank, one is at a family member's house, and one is in a file in my file cabinet at work (called something innocuous like "Group B Meeting Minutes, 2004"), I think this is an acceptable amount of risk.  Note:  these are only examples; I didn't just tell the internet where my paper backup fragments are!
+
+If you wanted to make this a little more secure, you could run the 2-of-3 Lockbox into the same kind of system - only signing transactions on an offline TAILS machine.  I think you can do that, anyway.  Not sure.  I hope that helps.  I have been struggling with finding a system that makes me feel at ease, and I think this one is my favorite so far.  
+
+
+
+
+ To be fair, I am pretty confident that if my house cat was the size of a serval or caracal (to say nothing of a lion or tiger), she'd kill me too, one of these days. 
+
+
+
+
+ I see you've been in *1989* for too long, too. 
+
+
+
+
+ Ooh, I have been toying with hate-watching "God is ^not Dead" for a while now.  How drunk should I get to make it entertaining? 
+
+
+
+
+ There's some good, technical answers here, complete with some nice links, but the ELI5 is this:
+
+Every bitcoin transaction needs to FULLY SPEND the funds in an address.  The amount you "want" to spend goes to the address you wanted, and the remainder is returned as change. 
+
+
+
+
+ Is *Nymphomaniac* another example of this, or did Lars von Trier want it to be two parts? 
+
+
+
+
+ As the article suggests, there may be some relationship between having very large gaps in between primes and some cryptographic algorithms, but I seriously doubt that this will affect much in a practical sense.
+
+Different cryptographic systems take advantage of the properties of large prime numbers in different ways (difficulty of factoring the product of two large primes, arithmetic modolo a large prime, etc, etc), but largely these algorithms don't choose the prime numbers to use based off of the gap size between the adjacent primes.  Like, if you wanted to use the first of a twin prime for the modulo arithmetic of RSA - you could (I don't know if you would want to, though - the twin primes are kinda special so many very large ones are well-known, slightly reducing your randomness).
+
+Ultimately, it seems to me that this work is largely academic (and very interesting, don't get me wrong!) but it likely has only slight application to most cryptographic systems.
+
+If someone with a little more background in the nuts-and-bolts of these disciplines (Number Theory and Cryptography) believes that I have missed something critical, I'd love to hear about it, as I am merely an armchair prime number enthusiast.  
+
+
+
+
+ Our elite corner already said this.  Get your own material, Sherman!
+
+[Source] (https://twitter.com/brandonspano/status/539911905511735297)
+
+ 
+
+
+
+
+ sick.  bookmarked. 
+
+
+
+
+ Maker's (and Maker's 46) have the quality of being slightly sweeter and lighter than a lot of bourbons (it comes from being so heavily made from wheat).
+
+Other great options in the Maker's price range which could have slightly different tastes are Buffalo Trace, Eagle's Rare, Four Roses, Bulleit (both bourbon and rye) and even slightly nicer things like Woodland Reserve (which I don't really care for, personally - but lots of folk dig).
+
+You go up a price point and you get Willett (Rye is awesome, bourbon's fine, too), Blanton's, and a bunch more.  Feel around with different profiles, definitely try out a rye or two for the spicy character (Bulleit Rye for the low end, Willet or Whistlepig for the high end) and see where it takes you.
+
+Oh man.  And then there's scotch . . . 
+
+
+
+
+ This is one of those crazy coincidences that makes life so cool!  I was thinking about this exact problem for the last few days, but it was on a much more abstract level as I am not trained as a computer scientist.  As a Bitcoin enthusiast, though, I was focusing on utilization blockchain-like technology to get it done, so I am excited to read your stuff.
+
+I am going to enjoy reading this thoroughly; thanks for the full text!
+
+It isn't easy completing an advanced degree (March '14 for me).  Have a beer on me as a congratulations! /u/changetip  
+
+
+
+
+ I count in base 12 all the time (dozenal).  It's pretty sweet. 
+
+
+
+
+ No shit.  Do you sex and money? 
+
+
+
+
+ You are Spartacus!
+
+(By the way, this *should* be the response when some group or another tries to threaten a select few - everyone stands in opposition.  It should have happened with the Danish Cartoons, and it should have happened here.) 
+
+
+
+
+ Hmm.  What's the difference between jam and jelly? 
+
+
+
+
+ Calmer than you are. 
+
+
+
+
+ I took your comment at face-value, assuming that you meant that ESPN anchors would literally be sitting in a circle, jerking each other off in a communal masturbatory fantasy focusing on Tebow and Manziel as they scramble and throw mostly off-target passes.
+
+They could get a new plexiglass desk so you could get a real good view of all the cranking going on down there.  
+
+Who do you think has the biggest cock?  I'm a homer, so I'd like to think the TJ has a nice, strong, veiny one - even in his old age.  Though it is always the unassuming guys like Schefter who have the pythons.
+
+Okay, I'll stop now. 
+
+
+
+
+ [Relevant xkcd] (http://xkcd.com/37/) 
+
+
+
+
+ All right then.  They've got the 9ers next week, they should be push-overs.
+
+ 
+
+
+
+
+ Please game-plan as if Manning is hurt.  Seriously.  Put 8 in the box, because he can't beat you 40-yards down-field between the numbers, at all.  
+
+If there are coordinators who seriously do think this, they should probably be fired. 
+
+
+
+
+ Probably all of those things at once.  Some folk will be more savvy, some less.
+
+The article claims that there are some businesses already accepting, and have been even before the announcement of the Bitcoin Bowl.  So, you'd assume that the earlier folk know what they're doing. 
+
+
+
+
+ Or [Coywolves!] (http://en.wikipedia.org/wiki/Coywolf)
+
+Thanks, nature.
+
+ 
+
+
+
+
+ This is exactly why the #5 seed in the NFC isn't going to cakewalk through the first round.
+
+Of course, the Panthers, Saints, and Falcons are having sub-par years (all at once!), but would you really like for your first playoff game to be against Drew Brees or Matt Ryan in a dome?  Sure, they looks very, very bad for a long time.  But you only get to play one game.  It sure would be unfortunate if you ran into a buzzsaw. 
+
+
+
+
+ Likewise.  I had basically already written off NY state - I just "knew" they were going to fuck up and get something wrong.
+
+Glad to be wrong!
+ 
+
+
+
+
+ You're right there, and the next step is actually just an "Eureka!!!" moment:
+
+You don't remove the incentive!
+
+You want to move house deeds, car titles, AirBnB keys, notarized documents, etc, etc over a blockchain?  Then the "miners" who are securing this chain get transaction fees (in bitcoin).  Alternatively, you could be rewarded with a different cryptocurrency, which may have its own value (either within this particular blockchain, or through exchanging it for bitcoin).
+
+Simple example:  I want a blockchain which allows the movement of car titles.  Whenever someone wants to sell a car and transfer the title, they hop on CarCoin, broadcast the transaction (Title 1:  Owner A -- Owner B, agreed price, etc, etc) to the network.  At set interval, all transactions are placed into the next block, mining happens, and someone wins the race, the blockchain is extended, miner's fees are given to the miners (this could even be in bitcoin!), and CarCoin reward is given to the miner who won the race.  
+
+Maybe CarCoin can be exchanged for bitcoin.  Maybe CarCoin can buy cars outright.  Maybe the transaction fees (in bitcoin) provide enough of an incentive, particularly because this mining would be less difficult than bitcoin mining.
+ 
+ 
+
+
+
+
+ I'm gonna tell him . . . 
+
+
+
+
+ Look up the Dutch Tulip bubble.  It was one of the weirdest and clearest examples of a financial bubble in the preindustrial world.  Basically tulip bulbs became huge stores of value until one day it just popped.
+
+First comment is saying Bitcoin is a bubble.  Second person is saying that argument is old and worn out.
+
+ 
+
+
+
+
+ Yup.  Worked out just fine!  Thanks!  
+
+
+
+
+ Pretty cool.  How many brick-and-mortar joints in Chicago accept bitcoin?  I did a search about two months ago on one of the store finders and found nothing. 
+
+
+
+
+ The other woman (Anne Sullivan) was the miracle worker.  Helen Keller was the one who got miracled on.  
+
+
+
+
+ Yeah, he was a solid punter in college.   
+
+
+
+
+ Yeah, he did in college, and also in preseason with the Titans (I believe).
+Will edit with source.
+
+edit:  [Source](http://www.giants.com/team/roster/Brandon-McManus/68d3ec74-2f8e-4dde-80df-3638a4063651).  Very reasonable punter in college, not clear if he punted in NFL preseason from this blurb. 
+
+
+
+
+ Yeah, that's the idea.  He punted in college (and I believe early in his pro career with Tennessee in preseason games or something).
+
+This would also clear some more monies off the cap for next year.
+
+edit:  in three years punting in college he had averages of 42.3 (on 4 punts) 45.8 (on 46 punts) and 45.1 (on 54 punts).  That seems pretty reasonable to me, right?  It isn't like punting is that much different between pro and college levels. 
+
+
+
+
+ Looks like Barth will be on a short leash regarding kickoffs.  I would say if he has another poor showing on kickoffs this week (especially in Denver), then we can expect one of two moves:
+
+1.  McManus is signed to the active roster as a kickoff specialist / long FG kicker. Room is made by dropping an end-of-bench player to the practice squad.  
+
+2.  McManus is signed as a Kickoff specialist / Punter.  Britton Colquit is waived.  This is the more extreme of the two moves. 
+
+
+
+
+ Largely, the differences are cosmetic, I admit.  But Mastercard is explicitly attacking something that I believe in (albeit very poorly), so they have given me a reason.
+
+Ideally, I could bail on all of them (Master, AmEx, and Visa) and relegate my relationship with them to zero or close to zero.  At the moment, it is a step in the right direction to reduce my footprint, so to speak. 
+
+
+
+
+ Groovy, thanks a bunch, will continue thinking about this.
+
+Here's 1000 bits for your trouble! /u/changetip
+
+ 
+
+
+
+
+ How has this gone for you?  Not asking about RoI or anything like that, more about how the process went, whether it was difficult and if so where the sticking points were.  Happy with it?  Would you do it again (for example, if a spouse or sibling wanted to set one up)? 
+
+
+
+
+ I think I am going to close my MasterCard account.
+
+They make me call them up to do it.  I have never really had the impetus to actually go forward with it (yay inertia!), but I think this might do it.
+
+If they ask me why, I think I will tell them that it is because their stance on Bitcoin is blatant protectionism and ultimately destructive. 
+
+
+
+
+ The Broncos did it in '85, too.  Admittedly it was easier then as only 5 teams made the playoffs, but there were also fewer automatic berths (3 vs the 4 we have now).  So, you can say that both the '85 Broncos and '08 Patriots were third in the Wild Card race at 11-5.  Pretty crazy. 
+
+
+
+
+ I came up with all kinds of schemes like this, but here's the problem:
+
+Division A B C (in AFC) and Division D E F (in NFC).
+
+Let's say that first year it is A vs B, C vs D and E vs F (this is the most difficult case - we both seem to understand that it is easy when it is only cross conference years).
+
+In your system, A and B play each other, meaning that to get their last two games they have to play 1 game against the similar finish from C, and one game against the similar finish from D (for A) and E (for B).  This is what you call "same division but cross conference".  Unfortunately, while E is fine with this, D is not.  D is already playing a full division cross conference (C), so their schedule is easily filled with the two like-finishing teams from their conference (E and F)
+
+See, the trouble that I always ran into was that with only 6 divisions, if they all didn't play cross-conference, then you'd have a mixed split:  4 divisions would play within the conference, and two wouldn't.  Making symmetric schedules with that happening causes sad problems!
+
+More and more I like a 5-year rotation where you play every team in the division.  The final two games will always be the teams with like finishes in your conference, resulting in some years where you play a home-and-home against a non-divisional conference foe.  I like that a lot, actually.
+
+So, in our example from above, A vs B, C vs D, and E vs F we get the following: C and D are cross conference, so their schedules are easy, they just play like finishes from their conference.  A and B play each other, the similar finish from C, and the similar finish between A and B again (E and F are similar).
+
+Could you imagine Broncos/Patriots with a home-and-home?  Or Green Bay/Seattle?  The potential for a third game in the playoffs?  That's pretty awesome. 
+
+
+
+
+ Yeah, that was something that I really didn't like.  The trouble is, if you decide to play an entire division on a rotating schedule, it becomes nontrivial to schedule those last two games (because when you play in your conference, you don't have only two opponents at like finishes - you have four.
+
+Any ideas? At first I thought you could  have a cycle using two divisions (like now).  But because there are only 6 divisions, nothing matches up.
+
+My favorite solution (and possibly most elegant) is that when you play an entire division in your conference, you still play the teams in your conference with like finishes.  This creates scenarios where two teams in the same conference but from different divisions play each other twice (home and home).  Would be great for playoff positioning. 
+
+
+
+
+ Winning one more game then NE from here on out is hardly "a miracle".
+
+Both Broncos and Patriots play a home game against Buffalo, and a Road game against San Diego.
+
+The Patriots then get @Jets and Miami, whereas Denver gets @Cincy and Oakland.
+
+Sure, their schedule is a little easier than ours, but Miami already beat them once, and the Jets lost on a last-second FG.  Recall that it was the exact same scenario last year, and the Patriots lost to the Dolphins to give up the #1 seed.
+
+Also, one scenario that very few of the talking heads mention, is that in the case of a 3-way tie (or more) at the top of the conference, they no longer rely on head-to-head records as the tiebreaker.  So, even though New England beat us, Cincy, and Indy, that tiebreaker only matters if they are trying to break a single tie.  For example, if Denver, New England, and Cincinnati all lose one more game and Indianapolis wins out, those teams will be 12-4, 12-4, 11-3-1, and 12-4, respectively. But, the tiebreaker doesn't go to the Patriots (for beating Indy and Denver head-to-head) - it goes to the Broncos for having the better conference record (in this case, 10-2, the Pats and Colts already have lost 2 and 3 AFC games, respectively).
+
+My point is:  we have a fairly good chance, especially with the way we are playing! 
+
+
+
+
+ Definite feature of this realignment.  Also, it will be very, very unlikely that a division can be run away with in a six team setup - at least two teams will be very good most of the time.
+
+edit:   I mean, let's just pretend that the expansion teams are all garbage for now, and you still have six ultra-competative divisions:
+
+The AFC West is the same:  Broncos, Chargers, Chiefs at the top within 2 games.
+
+The AFC Central is mind-boggling, as you have the Bengals at 8-3-1, Colts at 8-4, Steelers, Browns, Ravens at 7-5.  
+
+The AFC East is the weakest, with the Patriots having a 2-game lead on everyone.
+
+NFC is pretty much the same, largely because the NFC South is underperforming this year.
+
+ 
+
+
+
+
+ How often does she tease you about Favre? 
+
+
+
+
+ Yeah, we're really close.  It really just comes down to what you'd like to preserve:  rivalry, or geography, and I can see arguments for both. 
+
+
+
+
+ My thoughts were similar, but I decided to completely preserve the East/North/West divisions.  It's cool to see just how close we were to each other. 
+
+
+
+
+ I'm going to give my try at this, too.  I love Nate Silver and read his piece when it came out, so I will stay with London, Toronto, Mexico City, and Los Angeles as the expansion cities.
+
+I think that the best way to actually add new teams isn't to stir up everything as much as possible to make "geographic sense", but to make small tweaks while preserving age-old rivalries.  Hence, I will be working with two Conferences (AFC and NFC; if you want to change the "National Football Conference" to the "International Football Conference" that would be fine, too, but I'll keep them the Same.
+
+**American Football Conference**
+
+ East |  Central |  West
+------------|--------------|-------------
+New England | Pittsburgh | Denver
+Miami | Cleveland | Kansas City
+New York Jets | Cincinnati | Oakland
+Buffalo | Indianapolis | San Diego
+Jacksonville | Tennessee | Houston
+Toronto | Baltimore | Mexico City
+
+and
+
+**National Football Conference**
+
+East | Central | West 
+----------|-----------------|-----------------
+Dallas | Green Bay | San Francisco
+Philadelphia | Chicago | Seattle
+Washington | Minnesota | Arizona
+New York Giants | Detroit | St. Louis
+Carolina | Tampa Bay | New Orleans
+London | Atlanta | Los Angeles
+
+
+For the most part, I like this re-alignment.  I am a little pissed that New Orleans has to be in the NFC West, and that Atlanta and Tampa moved to the Central, but there are just SO MANY east coast teams that some of them had to go somewhere.  I was basically able to keep every East, West, and North division together, then got to sprinkle in members of the South with new teams where they made (at least some) sense. This is *kind of* disrespectful to the AFC and NFC South, but frankly if you were to choose a division in each conference to break up, these are the most recently created, and harm historical rivalries the least.  Indy/Tennessee and Tampa Bay/Atlanta get to bring a buddy with them, but the Saints, Panthers, Texans, and Jaguars are not so lucky.  But, except for the Saints, these are all relatively recent expansion teams, so it seams like the way to do the least harm.
+
+So, there's my two cents:  we preserve the most storied rivalries, add two new teams to each conference in geographically sound divisions, and are even fairly immune to moves by the Rams, Raiders, or Chargers (i.e., the geography still makes sense if they go to LA, San Antonio, etc).
+
+As for the schedule - we bump it up to 20 weeks with two bye weeks and two preseason games (so, 22 game-weeks, vs. the 21 we have now).  The byes can either be strategically placed to allow teams to travel internationally / play on Thursday, *or* can be set up so that each team gets a bye in the first half and second half of the year.  
+
+The scheduling would be a little complex, but I think very cool:  10 games against your division (home   home, obv), 6 games against another division from the opposite conference, and 2 games against those in your conference who finish at a similar ranking as you. This reduces the number of game that you play within your conference, unfortunately, but I don't see another option.  I would be glad to hear others' thoughts on this one. 
+
+Camps can start a little earlier to allow for joint practice sessions and/or additional talent evaluation.  Because 12/36 playoff teams is equal to the percentage of teams that currently make the playoffs in baseball (with the WC play-in game it is now 10/30, the same ratio), you could choose to keep it to 12 teams, or you could bump it up to 14, where the top seed in each conference gets a bye.  I am also a fan of moving towards a seeded bracket with no regard for conference, but that is a different discussion.  
+
+No Thursday night games unless both teams are coming off of a bye!  Late in the season (after College Football's regular season is done), you can schedule two games on Saturday to highlight additional playoff-potential games.  These could be scheduled in advance with the opportunity to flex, as the Sunday night games are now.
+
+Thoughts?
+
+tl;dr - Keep West/East/North largely intact, sprinkle members of the South and new teams throughout those.  Go to 20 weeks (18 games), and possibly add two more playoff teams.
+ 
+
+
+
+
+ In addition, there were those two plays (first Tamme, then DT) where the receiver dropped a sure touchdown that hit him in the hands.  This led to our first FG.
+
+Then to close the 2nd half, DT tried to shake-and-bake and ended up with a 3rd-and-1 instead of a 1st-and-Goal with ~20 seconds left (no timeouts).  That is the difference between one shot at the endzone, and three.  This was our second FG.
+
+No doubt, there are always near-misses in the red zone which downgrade TDs into FGs, but these seemed to be out-of-character for our team. 
+
+
+
+
+ FUCK!  I knew that sounded funny.  Oh well.  Leaving it because mistakes are important. 
+
+
+
+
+ Personally I agree with you that it isn't a "Stellar Human Hall of Fame" but a lot of people think that character plays a factor.  Keeping a bad human in the Hall of Fame isn't hypocritical by itself, of course.
+
+But promoting a "No More" campaign against domestic violence while a man who murdered his ex-wife is in your Hall of Fame?  That's a little harder for me to swallow.
+
+(For what it is worth, the NFL claims that its Hall of Fame is privately run and so they can't decided who is in and who is out.  Which I am sure is true.)
+
+
+ 
+
+
+
+
+ That's fucking gross!
+
+I'll take the Crab Juice. 
+
+
+
+
+ But not gamblers!  We can't have those sick fucks gracing the glory of Springfield, MA!
+
+Although, to be completely fair, a bronze bust of Mr. Orenthal James Simpson still sits in Canton to this day. 
+
+
+
+
+ I think it was more about bringing him on one or two weeks before a game against his former team.  I really didn't care much, because I doubted that he even had very much info, but some folk were calling for rule changes here (so a coach couldn't be hired until the off season). 
+
+
+
+
+ Yeah, that was exactly why I avoided blends - seems a ploy to make more cheap stuff with hints of the more scarce, expensive stuff. 
+
+
+
+
+ Very cool stuff.  I don't think I have had a blended American Whiskey before that I really enjoyed. 
+
+
+
+
+ I do like those things.  I shall investigate. 
+
+
+
+
+ If the Pats lose *one* more game in this last quarter of the season than do the Broncos, the #1 seed belongs to the Broncos.
+
+Your team offers one of the two best chances at a Patriots loss (the other being Miami).
+
+Also, we get to take care of you ourselves in two weeks.  We already flubbed that one @ New England. 
+
+
+
+
+ I just moved to Wisconsin for the first time! 
+
+It's been fine.  Cheese curds are cool.  Need to buy some cognac.  You know any good cognac? 
+
+
+
+
+ What's the opening line, Horsefriend?  I would relish seeing Felipe Rios ravage Mr. Bellichick and his Patriots. 
+
+
+
+
+ I am pretty sure that Fox was back from his heart thing by the last week of the year (@ Oakland, week 17), but he did miss @San Diego (1 week after the bye, when he learned of his heart dealie), and I think that @Kansas City was the last game he missed.
+
+Regardless, those games where there are interim coaches with the HC out for injury are *generally* credited as HC wins for both the interim coach (so, Jack of the River) and the head coach.  Which is weird.
+
+So, *technically* he is 11-0.  But he actually only coached in 9 of those games. 
+
+
+
+
+ Yeah, that's what I meant - McDaniels left the Rams and joined the Patriots for that post-season, slightly more than one-year removed from being fired by Denver.  It was argued (by some) that it was a little shady, although I don't think it matters all that much. 
+
+
+
+
+ I have a perfect example of this!
+
+I was a with a group of friends about 5 or 6 years ago down in Tampa (went to school in Gainesville), and we were going to a Crepe joint before seeing a Cirque du Soleil show.  Anyway, on our way out of the restaurant, I saw a family with two young kids: one was probably 9 or 10, and the other maybe 1-2 years younger.  The older one was proudly sporting a new Buccaneers jersey (I do not recall which player), whereas the younger one had on a Tom Brady jersey.
+
+When I tried to explain to my friends that the younger child was very likely a scum-of-the-Earth bandwagoner, and his older brother/friend the true champion and deserving of our praise, I was judged as being far too harsh.  Perhaps I shouldn't have gone so far as to say that I "hated" the little bastard - but I calls 'em like I sees 'em. 
+
+
+
+
+ Didn't he get fired at the end of the season, and the Bellichick brought him in as an "offensive consultant" just before the Tebow Broncos had to go to New England?  I remember Woody Paige bitching about it (he does that a lot, though). 
+
+
+
+
+ Oh god, NO!  I attended UF for graduate school (and my wife for both undergrad and grad school!).  *We must not suffer this abysmal man to coach another of our beloved blue   orange teams!* 
+
+
+
+
+ Well, I guess it makes sense that the Niners fan doesn't know about him.  He was only targeted five times (two receptions for 9 yards!) in the San Francisco game.
+ 
+
+
+
+
+ Damn, you're right - my head was somewhere else.
+
+My point stands - bowling ball. 
+
+
+
+
+ Low center of gravity.  He's like 5'8" and 180ish.  He's like a fucking bowling ball. 
+
+
+
+
+ Let's see:
+
+Last week (Mia)
+
+The week before (St. Louis)
+
+The week before that (Oakland)
+
+And the week before that (New England).
+
+
+ 
+
+
+
+
+ Looks good to me.  I was concerned about Barth's kickoffs (as that was the one part of McManus's game that was *very* strong), but this is encouraging! 
+
+
+
+
+ Does it make me an asshole to take this piece less seriously because the author makes multiple grammar mistakes throughout?  Here's one sentence (fragment!) early on:
+
+A world that is experience(sic) the side effects of rampant climate change, a country where we would rather spend $11.50 on a movie ticket then(sic) spend that much per year, per person to adequately fund the National Aeronautics and Space Administration (NASA). 
+
+I know good grammar, diction, spelling, etc are not the most important things in the world, and these could just be honest mistakes.  But if your goal is to persuade readers with cogent arguments, shouldn't you be really careful about these things?  It just comes off as lazy, sloppy, and frankly ill-informed.  If Mr. Manser doesn't take the time to proofread his piece (or simply doesn't know the difference), how confident am I supposed to be in the more high-level analysis and opinions that he puts forth? 
+
+
+
+
+ "I can't swim". 
+
+
+
+
+ So, after a little bit of reading, I have come to understand that these molecules (in their liquid state) *are not flammable*.  So, I couldn't just take a torch to the hydrocarbon lake and burn the whole thing up, right? 
+
+
+
+
+ I want the Falcons to go undefeated in the division and windless outside of the division. 
+
+
+
+
+ I am afraid of Julius Thomas becoming a Raider next year. 
+
+
+
+
+ If you want to look only at last year, then you can do that, but I'd rather not base my evaluation of a player on his extreme outlier, career year.   
+
+
+
+
+ Yeah, as far as I know, Dustin is fine.  I am not sure what his cap hit is, but with a team built like the Chiefs (more T.O.P controlly, willing to play the field position game with an Alex Smith), there is more of a reason to have a higher-paid punter than there is with a Peyton Manning offense. 
+
+
+
+
+ There is no metric by which you can consider Prater "one of the best kickers in the league", unless you look only at his one stellar season (2013, where he went 25-for-26), or perhaps "Longest FG", for which he of course owns the record.  His work as a whole is fairly average. [Here] (http://www.pro-football-reference.com/leaders/fg_perc_career.htm) you'll see that he is 31th all-time in career FG%, ranking 20th among active kickers.  So, there are 19 kickers currently playing that are more accurate.  I will grant you that he is stellar from 50+ (24/32 or 75%), but that is tempered by his 40-49 (37/58 or 63.7%).
+
+Ultimately, I think releasing Prater was the correct choice, due to the money issue and the potential off-the-field issue.  Perhaps McManus was the wrong replacement, but the small sample size make me want to see more of him, despite the funk he is in.  Maybe his confidence is just completely gone, but kickers go through funks all the time, and he is still a rookie.
+
+ 
+
+
+
+
+ ooh, I like sneaky intra-division moves/rumors. 
+
+
+
+
+ Exactly my point.  With the money the Broncos could save on just these two players, they could, for example, pay Julius Thomas's franchise tag next year (or very close to it, depending on the value), if they decide to go that way.  Even if the impact isn't quite *that* high, the highest return on that money cannot be Prater or Colquitt, even if they are top 5 at their position (which they are not). 
+
+
+
+
+ I don't think they regret releasing Prater.  They may regret signing McManus (and subsequently losing a 7th round draft pick to the Giants), but getting Prater's money off of the books was a very smart idea.  I believe that the same thing will happen with Colquitt (punter) next year. 
+
+
+
+
+ This is slightly false - The 33 yard FG was missed while we were down 4, true.  But, the defense actually forced a stop and punt - which Isiah Burse fumbled.  The resulting short field led to the touchdown and the 11 point lead (assisted by a defensive holding on a 3rd down stop). 
+
+
+
+
+ Fuck you you dirty pirate criminal. 
+
+
+
+
+ I mean, Oreo line is OP. 
+
+
+
+
+ I mean, Oreo line is OP. 
+
+
+
+
+ Yeah, totally am used to it.  I can't say I agree with these views, but realistically how bad can being super Christian really be?  I always figured I'd rather have Tebow preaching than Big Ben raping, Rae Carruth murdering, or Adrian Peterson/Ray Rice beating. 
+
+
+
+
+ Von Miller you really should move to Denver.  That commute must kill you. 
+
+
+
+
+ No kidding, right?
+
+"I play for my lord and I play for my teammates".
+
+Seems fine to me. 
+
+
+
+

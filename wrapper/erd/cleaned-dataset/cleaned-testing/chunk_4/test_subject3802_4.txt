@@ -1,0 +1,591 @@
+ What's the advantage of using this over chrome2phone? 
+
+
+
+
+ It doesn't even have cut/move functionality... 
+
+
+
+
+ Even so its pre-release, unfinished, leaked software. Your complaints are not "legit" because for all you know, the final product could be completely different.  
+
+
+
+
+ Its for any aosp based ROM.  
+
+
+
+
+ Don't rely on anyone. Everyone fucks you over eventually. And I'm only 17... 
+
+
+
+
+ I've found that app2zip doesn't properly backup some data for apps, so I unless you're just backing up for the sake of not having to download all your apps again, I'd recommend titanium.  
+
+
+
+
+ It works fine for me on an S2 w/ clockwork 6.0.2.something 
+
+
+
+
+ Not at the moment. Reddit news and a few other clients can filter nsfw posts, but nothing like res functionality. Hopefully in the near future.  
+
+
+
+
+ I think OEMs have to pay a fee to Google to include gapps on their phones. The Goophone Y5 received root and the ability to flash gapps a few weeks after release, thanks to the (small) community, perhaps the i5 will receive the same treatment? 
+
+
+
+
+ $20 + a 10fps increase in average fps (according to tomshardware benchmarks).  
+
+
+
+
+ yeah sorry not exactly the same price but thereabouts, and I'm willing to spend ~[$140](http://www.umart.com.au/pro/products_listnew.phtml?id=10 id2=247 bid=4 sid=99233) on it. According to /g/ I'd be better off getting a 2nd hand 560ti? (http://www.tomshardware.com/reviews/geforce-gtx-560-ti-448-core-benchmark,3082-4.html) which go for around ~[$140](http://www.ebay.com/itm/ZOTAC-ZT-50303-10M-GeForce-GTX-560-Ti-Fermi-1GB-256-bit-GDDR5-PCI-Express-2-0-/170845275785?pt=PCC_Video_TV_Cards hash=item27c72c0689) also. 
+
+
+
+
+ Would the [GTX 650ti](http://www.umart.com.au/newindex2.phtml?bid=4) be the better choice at the same price? (based on http://www.tomshardware.com/reviews/geforce-gtx-650-ti-benchmark-gk106,3318-5.html)  
+
+
+
+
+ changed the OP to a gtx 550. its a little better than the 7770 (http://www.hwcompare.com/11894/geforce-gtx-550-ti-vs-radeon-hd-7770/) 
+
+
+
+
+ I'm really new at this. I'm not using pcpartpicker.com because I'm in Australia and the prices are a little bit off (total cost varies by ~$100 because of special deals and stuff on the website I'm looking at - umart.com.au if any Aussies are interested.)
+
+Anyway this is what I have so far: http://i.imgur.com/xaUZ4.png
+
+I know the graphics card isn't exactly top notch but I'd rather be underbudget than over, and I'm really really new at this so I'm pretty much clueless. Any advice would help.
+
+Its also my first time posting here, so please let me know if I'm doing something against etiquette/subreddit rules.  
+
+
+
+
+
+
+
+
+
+ ...because **there is no quality control/copyright filter**. 
+
+
+
+
+ Cyandelta updater only downloads what's changed in between nightlies and builds a flashable .zip for you. ie, instead of having to download ~120mb .zips, you only have to download ~9mb between nightlies (obviously the longer you leave between the nightlies, the more there is to download). It makes staying on the latest nightly a little easier. 
+
+
+
+
+ http://www.dummies.com/store/product/Android-Application-Development-For-Dummies.productCd-047077018X.html 
+
+
+
+
+ Is the widget not working for anyone else? 
+
+
+
+
+ Blacklist functionality exists already in Droidwall. To switch, press the top part where it says "Mode: whitelist". 
+
+
+
+
+ Thatsthepoint.jpg 
+
+
+
+
+ Not a universal one though. eg Apple iOS word processing app (Pages? I believe) can send to dropbox but not to Google drive (or any other alternative apps), even if they are installed, because there is no universal "share" list. The developer of the app that's being shared from has to manually add an entry for every possible app - which just isn't feasible with the amount of apps out there. 
+
+
+
+
+ As someone with depression, this whole thread is just making me think "yikes" over and over again. I've been this person - and its arguably worse because I'm a guy and I'm expected to just be able to handle things.  
+
+
+
+
+ How on earth are there still kernels being released with this bug? 
+
+
+
+
+ On a good day: like seeing the world in black and white. On a really bad day: a big black cyclone inside and around my head.  
+
+
+
+
+ http://www.flickr.com/photos/lukeboland/ 
+
+
+
+
+ That's because your phone is being mounted via MTP. Your **internal storage** yes, **internal, *not* SD card** is mounted at this directory ON YOUR PHONE: /storage/sdcard - **the Android OS treats your internal storage *like* an SD card because that is just simply how Android works.** Your **INTERNAL STORAGE** can be wiped by going into mounts and storage from the recovery menu and choosing "format internal storage" or "format /sdcard" (it depends on your recovery). 
+
+
+
+
+ Stock Gingerbread can't. 
+
+
+
+
+ Screenshot capability wasn't added to stock/AOSP android until 4.0. Any devices that are running versions below that with this capability have had it added through the manufacturer's custom firmware. 
+
+
+
+
+ Perhaps longtime lurker is a homosexual man who was previously in a heterosexual marriage? 
+
+
+
+
+ S2 has only been supported by AOKP since JB build 3, afaik. I don't think many people realize it has official support, since there are a lot of unofficial ports on the XDA forums and they all have quite a bit of following. 
+
+
+
+
+ Why shouldn't there be? Nexuses (Nexii?) are arguably the easiest device to develop for. 
+
+
+
+
+ Yup, so am I. The Galaxy S2's internal storage is mounted on /sdcard and the external sdcard is mounted on /sdcard/externalsd (or something similar). 
+
+
+
+
+ When I had posted that comment they were only up to the Verizon Galaxy S3.  
+
+
+
+
+ Data wipe/factory reset only wipes /data and /cache, everything else is untouched - the internal sdcard is stored on a partition called /sdcard, which isn't touched in a data wipe, mostly because the sdcard won't have any affect on boot or apps and almost never causes problems. That and the fact that clockworkmod backups are stored there, as well as flashable zips. It doesn't make sense to wipe it, there really is no need. If you really want to wipe the internal sd card, reboot into recovery, choose mounts and storage, and then choose "format /sdcard".
+
+For your other problem - it sounds like a gapps issue. Do you have the latest gapps? (gapps from 2012/07/06 won't work with CM10 nightlies from 18/10 onwards due to the 4.1.2 code merge) - the latest gapps can be found [here](http://goo.im/gapps). Download the latest ones, flash them and reboot, and it should work fine. 
+
+
+
+
+ Do AOKP have a build bot or do they build for every device manually? The wait for i9100 is killing me. 
+
+
+
+
+ The problem is that WTF is subjective. To me, the last frame of this comic is very WTF. Maybe not to you, but what gives your opinion a higher value than mine or anyone else's on this subreddit? I'm not saying you shouldn't downvote - downvote the content you don't want to see and if enough people agree with you then it won't even make it to the front page (it is evident that you are in the minority here, given how many upvotes this submission has), but don't post stupid comments like this that don't add to the discussion. 
+
+
+
+
+ Even phones with removeable batteries often have a hard reset button combo. My sgs2 does, and I much prefer doing that than a battery pull (the battery cover is a bitch to get off and on again)  
+
+
+
+
+ Its not wtf until someone complains about it not being wtf. You sound like one of those people on 4chan calling everyone newfags. R/wtf was never good. There was no good days. You're an idiot. Find a good shock site and stay there.  
+
+
+
+
+ Xda will be your best bet. If the builds on there are buggy than its just going to be buggy. developers aren't hiding secret ROMs that people on Reddit are privvy to. Its just how the development scene is for some phones.  
+
+
+
+
+ Backup locally and upload to Dropbox... 
+
+
+
+
+ I 100% agree with you, just pointing out that there is a (tiny) amount of merit to people saying AOKP is built on "stolen" code. 
+
+
+
+
+ In terms of actual device code, for many devices (not all!) This is actually the truth. Official AOKP builds for the i9100, for example, are built entirely off cm code because they were the first to get JB to a usable state on this device.  
+
+
+
+
+ The [apk](http://i.imgur.com/osZYS.png) is still there for me in system/apps (its called GoogleEars.apk) but the widget isn't available for me. Cm10 on the latest 10/18 nightly.  
+
+
+
+
+ Clear data for the play store and Google services framework, reboot. That used to be an old trick anyway. Why are you afraid of downloading / installing the new apk? Its signed by Google - it wouldn't allow you to just install it over the existing store if it wasn't, it'd give you an error. If someone opened up the apk and inserted something malicious, they would have to resign it and it would give an error before installing (because the signatures don't match). Its 100% safe. 
+
+Either that or you could just download and flash the newest gapps package, which has the new store included: http://goo.im/gapps/gapps-jb-20121011-signed.zip 
+
+
+
+
+ The development scene for the Desire C is unfortunately pretty much nonexistent. There seems to be only 3 ROMs for your phone, one of which hasn't been updated since August. http://forum.xda-developers.com/showthread.php?p=29295672 
+
+
+
+
+ Root using this guide: http://www.theandroidsoul.com/how-to-root-xwjvh-android-2-3-3-rom-for-galaxy-s-i9000/
+
+Then find an ICS/JB ROM that you like from here: http://forum.xda-developers.com/forumdisplay.php?f=665
+Download and flash. Welcome to ICS.  
+
+
+
+
+ [Inverted Gmail apk.](http://forum.xda-developers.com/showthread.php?t=1797717) 
+
+
+
+
+ Just an FYI, I'm currently getting 28mb usage for Nova.  
+
+
+
+
+ http://www.reddit.com/r/GalaxyS3/comments/11c5nq/galaxy_s_iii_jelly_bean_where_the_fuck_are_you/ 
+
+
+
+
+ What does bitesms have that other SMS replacement apps don't? (Admittedly all the replacement apps are pretty shit, but they don't lack features. I myself use the stock SMS app.  
+
+
+
+
+ Would love this feature. Have you submitted it on the github yet? 
+
+
+
+
+ I'm talking exclusively in terms of the i9100
+
+yup :) haha 
+
+
+
+
+ There is no official ROM for JB for the i9100. 
+
+
+
+
+ Adding a small amount of noise helps too, especially on the face where they sorta appear like pores from the distance. 
+
+
+
+
+ Not at all. Is it merely coincidence that all ROM devs were floundering around after JB dropped until codeworkx posted his first CM build? And then suddenly everyone else's builds started to work... I'm talking exclusively in terms of the i9100, which has had huge hurdles in terms of hardware to get it to the smoothness its at at the moment. This isn't just bullshit... its fact. You can look at the git pulls and commits yourself if you'd like. 
+
+
+
+
+ No worries. Builds include 4.1.2 code as of 10/10.  
+
+
+
+
+ They changed to the model # instead of name (i9100 vs sgs2) for the latest builds - I think it was because people were flashing ROMs for the incorrect device (there's about 3 or 4 variations of the s2). Latest nightlies can be found [here](http://download.cyanogenmod.com/?device=i9100 type=nightly) 
+
+
+
+
+ Previously (4.1.1) you needed two fingers to expand a notification. Now its just one.  
+
+
+
+
+ Yeah I have. Its not the greatest but I'm usually on the bleeding edge of custom ROMs so I'm used to charging my phone every night, its decent for my needs (gets me through a full day of school. I can push it to 16 - 18 hrs but that's with switching data off when I don't need it. I only have WiFi on when I'm at home.  
+
+
+
+
+ In all honesty, nothing to brag about. :/ I don't have any tweaks or under voting, just whatever stock settings Siyah has, and it usually gets about 12 hours with about 2 hours screen on time. I have BLN enabled but I think the impact on battery life for that is negligible. 
+
+
+
+
+ I don't have that charger problem. The latest nightlies broke custom kernels, that's correct (I'm using an experimental version of Siyah) but this is not because of a failure on cm's part; they simply updated their code and custom kernels haven't caught up yet. The new code is Mali drivers, which means we are one step closer to having full butter (current 10/10 nightly is the SMOOTHEST this device has ever felt).
+
+I don't know about dual booting. I do recall some people in the forums having issues. Here's a [link](http://sourceforge.net/projects/cm10i9100vsync/files/vsync_sysfs/) to the latest experimental kernel anyway. 
+
+
+
+
+ You realize you can flash any kernel you like over any ROM? You flash the ROM  flash the kernel. Done. I'm using siyah right now. CRT off is here but its not toggle able. Its just on. I can customize my status bar plenty, what features are you looking for in particular? And I'm charging my phone as I type this on it, no probs here. What was the issue you faced? 
+
+
+
+
+ Cm focus on stability and quality rather than quantity. Since cm7 was such a clusterfuck of options and crazy levels of customisation, a lot of users didn't even know about many of the features it had. Since cm9 the cm team have decided to focus their efforts on producing a professional aftermarket os - they're aiming to make it feel as though this is the software that should have come with your phone.
+
+I prefer cm10's simplicity over what I personally feel as buggy, although "feature-packed". (Please note that I used ics AOKP from build 31 onwards until cm10 came out).
+
+Besides, what features does AOKP have that cm doesn't? 
+
+
+
+
+ Memleak is patched in latest nightly. Yay. :D 
+
+
+
+
+ The cm10 nightlies work just fine... I just meant for the monthlies.
+
+And pretty much all JB ROMs have used CM as a base, so the smoothness is thanks to them. 
+
+
+
+
+ On the plus side, there's an app called [app2zip](https://play.google.com/store/apps/details?id=scd.app2zip) that does exactly what you describe. :) 
+
+
+
+
+ You should still be doing CWM backups in case something goes wrong with your ROM. 
+
+
+
+
+ Still no intl SGS2 love. :( 
+
+
+
+
+ Only thing of note is the ability to expand notifications with one finger (instead of two). Otherwise its basically just an incremental update to cater for new iterations of the Nexus 7. 
+
+Edit: as for custom ROMs getting the new update, cm10 is having the changes merged as we speak, and they should be in the next nightly (depending on your device). After cm merges the code, most ROMs will follow suit pretty quickly (AFAIK most ROMs are based off cm in some way) 
+
+
+
+
+ Not to mention the S2! 
+
+
+
+
+ http://db.tt/9NCsvWj7
+
+That's a copy of the free version. Can't give you the paid one for obvious reasons.  
+
+
+
+
+ Its not a Reddit sync issue, its a Google play issue.  
+
+
+
+
+ Force stop and clear data for the play store and Google services framework. If that doesn't work, wipe cache, dalvik cache and fix permissions in recovery.  
+
+
+
+
+ HAHA BECAUSE GAMERS DONT HAVE GIRLFRIENDS MIRITE? UPVOTES TO THE LEFT 
+
+
+
+
+ Not really. What OP is talking about is full hardware support of Project Butter - which some devices don't have given that JB builds are unofficial for them with no source code from manufacturers. (Eg my sgs2 has jb but Project Butter isn't really in full effect because they haven't managed to port hwcomposer from ICS) 
+
+
+
+
+ I think that's a Gnex exclusive.  
+
+
+
+
+ I think he's more worried about the lynch mobs found on Reddit, such as SRS. I'm sure the commentor now has an inbox filled with hate about how much of a racist fuck he is because he used the word "nigger". 
+
+
+
+
+ http://code.google.com/p/cyanogenmod/issues/list 
+
+
+
+
+ Wipe cache, dalvik and fix permissions. If your volume doesn't work than how do you use a recovery...? 
+
+
+
+
+ Even so, that's still digital zoom. OP is talking about having an 8 MP camera, zooming in and having the resulting photo still be at 8 MP (instead of a cropped portion of the original image). I honestly don't see how this could be achieved without moving parts. 
+
+
+
+
+ Don't most, if not all phones have an "extended battery" available from the manufacturer? I think this is the best of both worlds - the people that want more battery life at the cost of form factor can do so with just a little out of pocket (extended battery + casing for my SGS2 was ~$8). 
+
+
+
+
+ Same with 10. 
+
+
+
+
+ Probably not. There's one for unified Google Voice and SMS: https://play.google.com/store/apps/details?id=com.mdrtools.apps.gvintegration 
+
+
+
+
+ It sorta depends on what device you have.  
+
+
+
+
+ What's the difference? 
+
+
+
+
+ Nova has it. Settings  drawer  drawer style 
+
+
+
+
+ Why is an honest question being down voted? God some of you people in here are so elitist...
+
+No, you don't. But you have to be rooted to take advantage of the widget functionality (drag n drop widgets from the drawer to the home screen). You can still place widgets without root but it just uses a dialogue similar to Gingerbread.  
+
+
+
+
+ It does. Settings  developer options  kill app with back button (its all the way down the bottom) 
+
+
+
+
+ Doesn't work for casual subreddits.  
+
+
+
+
+ That codeworkx fiasco that's been going on, there's about three posts on the front page ATM of it. It only affects the international (exynos) version though.  
+
+
+
+
+ http://en.wikipedia.org/wiki/Confirmation_bias 
+
+
+
+
+ Easy A. Emma Stone, Good humor, Emma Stone, plenty of memorable one-liners, Emma Stone, and... did I mention Emma Stone? 
+
+
+
+
+ It does. I just meant it looks/behaves differently than the TW ones that OP would be used to. 
+
+
+
+
+ Have you tried a data wipe? 
+
+
+
+
+ Just an fyi: OP has the international SGS2 - not the epic 4g touch. If s/he flashes this rom, it will probably brick their phone.  
+
+
+
+
+ Isn't that basically what Paranoid Android does? Why are AOKP trying this, their implementation is horrible... 
+
+
+
+
+ Wow. Is that based on Android? 
+
+
+
+
+ If you don't already have a reason to root then there really is no need to root. When you want to do something specific that requires rooting, do it then. Don't root and then try to find reasons to justify it afterwards.  
+
+
+
+
+ CM themes are system wide - they theme the status bar and system assets such as buttons and highlights, a launcher can only theme the home screen. CM brings a bunch of features, custom lock ring targets, customizable notification toggles, weather and your next calendar event on your lock screen, status bar changes such as center clock and battery percentage, and custom hardware button mappings ( http://i.imgur.com/ISI09.png). 
+
+The main reason people use CM is because its based on AOSP, which is (arguably) better looking - its what Google intended Android to be. It also allows you to be on the latest version of Android - ie I am currently running Jelly bean thanks to CM10, whereas stock SGS2 is stuck on ICS.
+
+You will lose any touchwiz features. I haven't used Touchwiz in a very long time but things like the stopwatch and alarm clock and the notes app won't be present in CM. 
+
+Anyway, the only way you can decide if you like a ROM is to try it yourself. Make a nandroid backup and give it a whirl for a day or so. 
+
+
+
+
+ A good relationship with an understanding partner can provide this.  
+
+
+
+
+ This is arguably a feature of a good relationship too... 
+
+
+
+
+ The past few months have helped me *really* get to know myself, and I've discovered that a huge character flaw of mine is that I just love helping people... almost to the point where I cannot feel happiness on my own, but I have to be making someone else happy to even feel okay. 
+
+I've always been the guy that people talk to and I love giving out advice and taking care of my friends. I care way too much about people that don't care about me and its resulted in me getting burned time after time. I try to not let it change me into someone uncaring, because I'm only 17 and I know that I'm the nice guy at heart. I'm a little less trusting now though. 
+
+So thanks, your words hit home and mean a lot to me. :) 
+
+
+
+
+ I know that feel bro. :( The only thing that ever really helped me was medication, and even though I feel I have it under wraps at the moment, it still resurfaces fairly frequently, and it only helps to increase my depressive thinking. I hope you find a solution that works for you. 
+
+
+
+
+ That's really nice to hear, and is definitely the reason I posted this. Hopefully my story inspires others to seek the help they need. :) Good luck. 
+
+
+
+
+ Thank you so much. :) I'm sorry for your downvotes, I have no idea why anyone would do that on this subreddit for such an uplifting comment! 
+
+
+
+
+ No, it wasn't easy. I didn't just wake up one morning and was suddenly ok. This is the result of *three years* of struggling, and I am still in the midst of an ongoing battle. Everyone's experience with depression is different, because its caused and triggered differently and affects everyone in a unique way. The steps that I took to get me back on my feet may not work as well or at all for you. I understand and appreciate that, but there is no need to undermine what I feel is an accomplishment on my part.
+
+I also understand that depression can also incite feelings of anger or hate towards anyone that is remotely happy - I felt this myself and for a long time I hated everyone around me simply because they didn't feel the pain that I did. 
+
+
+
+
+ For me it increased the severity of my low points (my depression seems to come in waves, and when I started medication these waves were suddenly 100x more intense). But yes I think it also gives you a lot more energy and motivation, unfortunately fueling those suicidal desires. 
+
+
+
+
+ Thanks, good luck. :) 
+
+
+
+
+ Thanks, updated! 
+
+
+
+

@@ -1,0 +1,838 @@
+ what all is enabled in www.youtube.com/html5 ? 
+
+
+
+
+ Try browsing in safe-mode and see if its happening. If not you have to disable individual add-ons and check 
+
+
+
+
+ you could reduce the zoom to fit all the tabs into your view though;  im not sure why it happens, for me it shows all properly even with the search bar.   
+probably you could file a bug on this   
+
+
+
+
+ Only Williams deserved; everybody else just got lucky :'(  
+Why Williams why? :'(
+
+I condemn you Ferrari and Merc for today :( 
+
+
+
+
+ Check your zoom level on that page, maybe resetting it to 100% could help 
+
+
+
+
+ nope. you need both but a higher level of R D.  
+ 
+
+
+
+
+ yup :D 
+
+
+
+
+ Saying "I know, right!"  
+If you know it then shut up! 
+
+
+
+
+  The lack of trained professionals is a global HR issue with a circular solution.  
+
+True but as long as organization who just want trained talent without any training, things will not progress. 
+
+
+
+
+ True we don't lack talent.  
+The problem is freshers aren't being recruited or are not giving any form of training after getting out of an engineering college.   
+Without that skill the talent is wasted and you have a massive unemployment.  
+Big firms want people with experience and where do you get experience from the new talent pool or without any training?  
+Small firms also want people with experience because they need a solid direction and skills to survive.   
+Hope things get better.    
+
+
+
+
+ For you probably a [new profile](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles) would work out.  
+Remember to back up data, create a new profile and let it run, and if things are going smoothly try replacing with the backed up files(if you really need them)  
+
+As OP edited post - a refresh worked out for him :) 
+
+
+
+
+ china got its stuff because they hacked out the pentagon http://rt.com/news/223947-snowden-pentagon-china-hack/  
+On their own creative standards they are far behind.  
+That being said they know how to make quality things for the cost they get paid to manufacture.  
+
+
+
+
+  The helicopter lands, and it looks like a model/mini helicopter. Totally distracted me
+
+Yes
+
+ 
+
+
+
+
+ I dont think they'll give away military tech. Very few countries and companies do that.  
+From what it looks like we are just going to be a manufacturing hub and they can benefit from the low cost here, and we could probably benefit from a employment perspective.  
+Actual R D wise its hard to say we are heading for an improvement.  
+R D is critical or else we end up like China - a manufacturing giant 
+
+
+
+
+ now It would be great if people here are hired   
+2012,2013,2014... 
+
+
+
+
+ Moto g user, I love it.   
+No one seems to have a better optimized spec that Motorola to run android smooth on 1gb 
+
+
+
+
+ Ah nope XD   
+Lots of pages I visit don't have the share button's, some are placed at the top and some at the bottom or sometimes under a tiny menu of different social networks.  
+So this button does come in handy.  
+
+
+
+
+ refresh is the better soultion for now.  
+Or else your best bet will be a new profile(keep a back up of the old one also, and try replacing the required files after things work out) 
+
+
+
+
+ ive edited just check it out! 
+
+
+
+
+ what OS are your on?  
+problem is something went off in about:config
+
+EDIT(in-case on Windows/similar for Linux):  
+Have these values set to "True":  
+"media.mediasource.enabled";"media.mediasource.format-reader.mp4";"media.mediasource.mp4.enabled"  
+
+And these too:  
+"media.format-reader.mp4";"media.fragmented-mp4.enabled";"media.fragmented-mp4.exposed"  
+
+If things dont work out Try Help-Troubleshoot Info-Refresh; you'll lose your add-ons but mostly data will be safe.  
+ 
+
+
+
+
+ Preferences-Content-Fonts: Advanced- check "Allow pages to choose their own fonts, instead of my selections above" 
+
+
+
+
+ Yeah better search results will help the users!  
+
+
+
+
+ quite useful! Have an easy to click button instead of searching the whole webpage for a share button 
+
+
+
+
+ in about:config set "media.mediasource.webm.enabled" to true.  
+Warning - playback will be buggy. Its better to use the mp4 instead.  
+
+Verify on youtube.com/html5   
+and rightclick video's to know what format you are being served   
+
+
+
+
+ save for webM it actually works pretty good once you enable in about:config 
+
+
+
+
+ you might have a faulty OS install or a bad Network card.  
+I had this driver getting uninstalled thing because the network card was busted and worked when it wanted to work :|  
+
+Also check for antivirus or malware   
+
+
+
+
+ it can mostly be attributed to graphic card. Have you installed the proper driver?  
+You could use powertop to control different stuff to increase battery life as well 
+
+
+
+
+ you could also look into MyPaint and Krita as well.  
+Practice now and be better at it later :) 
+
+
+
+
+ yeah i hangout there at times :) 
+
+
+
+
+ Does it happen is safe mode as well? 
+
+
+
+
+ OMG YOU'RE THE PERSON WHO DREW THE MAHARAJA :D :O :D   
+I was sure i've seen this somewhere and boom it hit me - kickstarter!   
+I've been talking with a Pro-Artist _/\_    
+Massive respect to you.  
+Love what you have linked here!   
+
+
+
+
+ same :D 
+
+
+
+
+ sweet! :D  
+My only issue has been CMYK but there are work-arounds for that :)   
+
+
+
+
+ :) 
+
+
+
+
+  here was some project called Ironhyde to replace it IIRC but it still had issues. Decided to return the machine for
+
+Ironhide seems to be outdated. Progress has been happening on [bumblebee](http://bumblebee-project.org/).   
+Been working great for me :)  
+
+
+
+
+ another tip is to fix a particular channel on your router.   
+wifi analyzer on android could help to find the best wifi channel for your router.   
+
+
+
+
+  Intel - N 7260  
+
+There seems to be a driver here - https://wireless.wiki.kernel.org/en/users/Drivers/iwlwifi   
+Im guessing if you're on the latest kernel things should be smooth.  
+
+I have a rather strange issue when i got my ext. HD connected, wifi becomes choppy. Some signal interference by the HD.  
+
+HiDPI:  
+ah i can understand, hopefully a complete fix shall come in soon!   
+Firefox and Chrome have been adapted for this but i guess you have to pass some parameters.   
+
+
+
+
+ Ah true :) Goodluck :) 
+
+
+
+
+ i'd suggest bumblebee for Optimus stuff - pretty easy to configure! 
+
+
+
+
+ who makes your wifi card? 
+
+Photography:  
+http://www.darktable.org/  
+https://www.digikam.org/  
+
+HiDPI - im pretty sure GNOME3 and KDE support it by now.  
+You can use gnome-tweak-tools to adjust HiDPI scaling.   
+
+
+
+
+ Not sure hopefully these could help for DAW:    
+http://ardour.org/  
+https://lmms.io/  
+http://www.rosegardenmusic.com/  
+http://qtractor.sourceforge.net/qtractor-index.html  
+
+and if you like DJ'in http://www.mixxx.org/
+ 
+
+
+
+
+ you could use [pipelight](http://pipelight.net/cms/installation.html) or [fresh-flash player](http://www.webupd8.org/2015/01/fresh-player-plugin-sees-new-release.html)  
+
+Pipelight works pretty good. havnt tried fresh Flash player though 
+
+
+
+
+ Menu-Preferences-Search-Add More Search Engines  
+
+or else:
+go to a search engine homepage and click the '+'search icon on the search bar 
+
+
+
+
+ Only and only if Adobe just gets some sense into their heads and puts out Linux stuff, things would be much much better.  
+
+Photoshop runs awesome on android, i still dont understand why they can't port to desktop Linux.  
+The cloud move was nice but browser/network reliability seems to be an issue.  
+ 
+
+
+
+
+  Of course it's been ruling the internet server space and now mobiles for sometime. W00t!  
+
+hehe yeah! :D  
+[Elemetary OS](http://elementary.io/) has done a major major job on polishing Linux for the mainstream - they still need work on the marketing though  
+KDE 5 is still with the Shiny shiny graphics(I love it) but i've moved onto GNOME3(which is more flat in look and switching between apps fast is just out-of-the-world)  
+There are still polishing touches required in GNOME3 but i can live and work with it without any problems.
+
+I still stick with [Fedora](https://getfedora.org/) because it suits be well and has everything latest.  
+Ubuntu and Debain are pretty good in terms of usability and stability(Debian is KING)   
+
+
+
+
+ keep a look out on steam, there a lot coming in.  
+They are spear-heading the Linux Gaming movement.  
+You might like this too - https://www.gamingonlinux.com/ 
+
+
+
+
+ For me it all 'just works' works now.   
+My initial install only involves partitioning and hitting next-next-next on the installer screen.  
+Its really a breeze these days.  
+Graphic card is the only addition work I do.(windows also requires nvidia drivers)   
+Since nvidia is going for optimus(Hybrid cards) i use the bumblebee package; for other nvidia cards a package from RPM fusion is all it needs.  
+Fedora 22 pretty much identified everything on its own wifi, camera etc. Hell even my wacom tablet works - plug and play style.  
+
+The other fine tuning i do which isn't system level stuff is install vlc, freetype-freeworld(for MacOS like font rendering) and apps like MyPaint, Krita, GIMP and Inkscape for drawing and Blender for 3D.   
+Have VirtualBox also incase i need a Win environment within Linux for testing and Wine for some stupid windows only apps(which i rarely use these days)  
+
+Have another system with Ubuntu and it works great as well :)   
+
+
+
+
+ Some suggestions:  
+Do take a look at your router settings, could be a source.  
+Or check the TCP/IP   DNS settings in Network settings of the system.  
+If you want other DNS service:  
+[Google DNS](https://developers.google.com/speed/public-dns/)  
+[OpenDNS](https://www.opendns.com/)  
+
+For Firefox:  
+Preferences-Advanced-Network-Connection: Settings-Auto/System  
+
+Final options:  
+Try [Refresh Firefox](https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings) or [New Profile](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles) (back up data)
+ 
+
+
+
+
+
+
+
+
+
+ 15 years and still rocking Linux!  
+ 
+
+
+
+
+ Preferences-Advanced-Network-Connection: Settings-Auto/System  
+
+Also try [Refresh Firefox](https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings) or [New Profile](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles) (back up data)
+ 
+
+
+
+
+ DJ:  
+www.mixxx.org  
+https://lmms.io/  
+http://www.rosegardenmusic.com/   
+
+
+
+
+ the official project has sadly been stopped for now :( - https://wiki.mozilla.org/Mobile/Janus   
+
+
+
+
+ also install freetype-freeworld for better rendering.  
+    sudo dnf install freetype-freeworld 
+
+
+
+
+ Hopefully this should help - http://www.reddit.com/r/firefox/comments/3a14oj/psa_on_fixing_flash_use_this_one_trick/?ref=share ref_source=link 
+
+
+
+
+  To Release Win64 in GA before the end of 2015 in order to offer our users better experience with improvements in stability, performance, and security.
+
+it should 
+
+
+
+
+ i think a possible work around would be a user-agent switcher add-on.  
+Website dev's should do the hard-work to make their sites on multiple browsers well. We are going back to the IE trend with "works on Webkit/Chrome" these days. Do ping them when you come across such a situation.  
+
+APZC development into Firefox should also help the browsing experience.  
+ 
+
+
+
+
+ 4 years yes!  
+
+
+
+
+ ah true thing. i always felt a lag when pipelight runs. Mostly because wine has to load up first. Wondering how Fresh Player compares wrt that. 
+
+
+
+
+ how is this in comparison to pipelight? 
+
+
+
+
+ NEVER FORGET BING BONG! :') 
+
+
+
+
+ Try to reset Firefox or create a new profile.(Remember to back up data).   
+One of these will surely help. 
+
+
+
+
+ there is a Replicant OS - android  
+http://www.replicant.us/ 
+
+
+
+
+ Next they need to maintain/improve that logo for the modern age  
+
+
+
+
+ The TestTube feature does work on the Nightly Linux. Can personally confirm that. And it works pretty good too.   
+
+For YouTube Center it's better to get the developer edition from github, but you may run into bugs. There's another new one called YouTube plus that works as good as it.   
+
+And ensure you have webM disabled in www.youtube.com/html5 or else you'll be subject to choppy performance.  
+
+
+
+
+ I guess it might have been a mandatory condition to be 'selected'.  
+Anyway I don't think Mozilla will compromise on cross-platform support.   
+They are one of the few companies that do cross-platform pretty great. Hoping it comes soon 
+
+
+
+
+ Here https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/ 
+
+
+
+
+ sorry but i guess all you can do is wait for it now man.  :(   
+There are more high priority things that people want to see in the release version faster.  
+You could always write a patch if you can though :) 
+
+
+
+
+ i think its a system setting, Nautilus also uses the same for navigation.  
+https://help.gnome.org/users/gnome-help/stable/keyboard-shortcuts-set.html.en 
+
+
+
+
+  fonts  
+
+Consider freetype-freeworld packages or infinality for better rendering.  
+
+ 
+
+
+
+
+  And if they decide "fuck it. Not worth it" then what? What can Mozilla do them?
+
+Probably court i guess. Things like this might have a legal background.   
+
+I understand your frustration. No one with good tech knowledge wanted DRM on the web, but there was no viable alternative at that time too, even now.   
+Plus one for-good; do-good organization standing up against behemoths of the industry can't win the fight, its quite obvious.  
+
+Problem is normal people don't care about ethics and whats good for all as long as it work. They are willing to sacrifice privacy, good-will etc. as long as "it works"  
+
+And yea Mozilla still maintain its anti-DRM stance with a non CDM verison of firefox. So up to you as a user to suit your needs.  
+They dont force you and you still have a choice.  
+
+ 
+
+
+
+
+ They should, it was the basis of the agreement to implement DRM on firefox  
+
+
+
+
+ Adobe has to release the CDM on Linux. Mozilla made it mandatory they do so, only a  matter of time. 
+
+
+
+
+ if you do heavy streaming, games and YouTube, you can empty in no time 
+
+
+
+
+ Vote for it and wait  
+
+
+
+
+ Device error? That's strange. What device are you using?  
+
+Yeah it's behind In a way compared to chrome, but everything will match up in the next few versions.  
+It's a people contributed project so things like this take some time.   
+
+
+
+
+ a last test could be to clear cache from recovery or rebooting into safe mode and coming back to normal mode.  
+Caution - you may have to re-login into some apps   
+
+
+
+
+ different problem? well good it worked out :)  
+webM is still under development, so you can expect playback issues.  
+itll be enabled once its finished 
+
+
+
+
+ The dark knight - opening act  
+The place beyond the pines - opening act  
+Drive - robbery!  
+Ghost in the shell - opening  
+Samsara - meat industry  
+Predestination - climax   
+
+
+
+
+ Check if the issue occurs without the add-on.   
+If it's fine, then you'll have to report the issue to the add-on developer.   
+Also the translucent layout maybe because YouTube is rolling out the new layout or you have activated the TestTube feature.   
+An alternative addon might be the YouTube Center addon DEV edition.  
+Also ensure webM is disabled on YouTube.com/html5.  
+
+ 
+
+
+
+
+ I'd suggest you try the beta incase you're on stable.  
+
+
+
+
+ Glad that it helped!   
+Edit - 60fps is supported by MP4 itself  
+
+i heard the dev version of Youtube Center is a lot better.  
+You might want to check into that.   
+I've not used it personally, but its pretty good for YouTube. 
+You might run into issue's though since its dev edition.   
+
+
+
+
+ not now if you want smooth YouTube playback.  
+It'll be enabled by default once its ready   
+
+
+
+
+ :)   
+webM is still under development, so unless you want to take it out on a test drive to find bugs etc. its better to turn it off. 
+
+
+
+
+ goto about:config and set "media.mediasource.webm.enabled" to false 
+
+
+
+
+ what all do you have enabled on www.youtube.com/html5 ? 
+
+
+
+
+ I use a Wacom one. Plug and play.  
+For me it works as good as Windows.  
+And krita+gimp great combo!   
+
+
+
+
+ For flash:
+http://www.reddit.com/r/firefox/comments/3a14oj/psa_on_fixing_flash_use_this_one_trick/?ref=share ref_source=link  
+
+Youtube:
+how many boxes are ticked on www.youtube.com/html5 ? 
+
+Try one of these steps:  
+Reset/Refresh - https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles  
+Refresh resets the browser to default without harm to user data(!deletes add-ons!), while new profile gives a brand new experience(Back up imp. data if you want to)
+
+Also what OS and FF version 
+
+
+
+
+ Ctrl+K or Ctrl+L  
+Hope that eases things 
+
+
+
+
+ im not saying your issue isn't true, its just that i wasn't able to reproduce this.  
+I tried on both chrome and FF and things seemed fine to me.  
+I'll attach a few bug reports I found on this issue, and please do comment with all the info you can provide.  
+
+I'm not sure of the sign-in factor, you could highlight that info when you comment on the bug.   
+
+A/V sync - https://bugzilla.mozilla.org/show_bug.cgi?id=1138786   
+LipSync - https://bugzilla.mozilla.org/show_bug.cgi?id=1140075  
+https://bugzilla.mozilla.org/show_bug.cgi?id=1154896   
+
+
+
+
+ For safe mode - press hold power button, till you get power off, and then press-hold the Power-off pop-up on the screen. That'll get you into safe mode.  
+
+For Recovery, just follow the guide on moto site for your device.
+
+Caution - Be careful in the recovery.  Also you may have to relogin into some apps 
+
+
+
+
+ i dont think there's a delay, could you verify with a non anime/cartoon video if you find these issues 
+
+
+
+
+ That's good.  I'll check on it soon and report back.  
+If it's a genuine issue you'll have to file a bug  
+
+
+
+
+ Some app is causing your troubles.   
+Boot into safe mode and see.    
+Else clear cache from recovery.    
+
+
+
+
+ Boot into safe mode and check if it works out.   
+Also ensure your wifi router channel is below 10.   
+Else clear cache from recovery and check  
+
+
+
+
+ Clear your cache from recovery  
+
+
+
+
+ Do u have webM enabled on YouTube.com/html5?   
+ 
+
+
+
+
+ Not sure, but clear form history should do it  
+
+
+
+
+ Try one of these steps first:  
+https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles  
+Refresh resets the browser to default without harm to user data(deletes add-ons too), while new profile gives a brand new experience(Back up imp. data if you want to)  
+
+For flash:  
+http://www.reddit.com/r/firefox/comments/3a14oj/psa_on_fixing_flash_use_this_one_trick/?ref=share ref_source=link
+ 
+
+
+
+
+  but I honestly think android devs have given up on trying to be as efficient as they can.
+
+exactly my point
+ 
+
+
+
+
+ Yes I agree to what you've said.  
+People can hopefully afford the cost bump also.   
+
+But bumping up ram to accommodate apps is not the right approach to this problem.   
+Min requirements for Android or a Linux based desktop environment is 512Mb and I think it should stay as such.   
+Optimization should be carried on the apps that consume a lot of memory.   
+More stringent testing and restrictions should be made to ensure apps run on the minimum requirements before being released into the public.   
+
+
+
+
+ Well... Programs should be designed to run on low memory environment.   
+There a heck load of junk in a browser that's absolutely unnecessary and nothing is being done to address that. 
+If a browser and an additional app require the full resource of the ram, then it's not the ram availability that's to be blamed but the program itself.    
+
+
+
+
+ Maybe because  chrome is the memory hog!  
+I don't understand the we want more ram deal here much.   
+512mb was hard on heavy android usage but 1 gig is totally fine.   
+It's a phone not a desktop computer *_* 
+
+
+
+
+ Easter egg, :)  
+
+
+
+
+ I think i wasn't clear.  
+I'll take the example of moto g here, its perfectly engineered.  
+Solid build, great plastics, and amazing design. It fits in your palm without any effort and stays there perfect.   
+Software and battery life is highly optimized because they choose the best components on the market and assemble them.  
+No heating issue's because again great engineering.  
+ROM is highly optimized. Goes on for weeks without restarting.  
+Great call quality(i only find this in moto) and network range. - Decades of experience.  
+
+I don't care much from which place a phone is manufactured be it india china etc. I want good quality for the price i pay.  
+
+I had the Micromax canvas 2 a110 before, that thing had a massive battery drain, lack of OS updates, build quality was okay when compared to the moto g, touch screen ghost touches when connected to a charger. Also had a visit to the service center to get the touch fixed and had a wonderful(/s) time there.    
+These problems don't get addressed really well when you rebrand a phone, because you had no say in the manufacturing. You just put a stock rom with bloatware and ship for a good price.  
+
+So in-short rebranding is okay, but as a company you will never grow.  
+And atleast if you are rebranding optimize, optimize and optimize the Software.  
+Thats the least you could do if you sell a rebranded phone.  
+
+EDIT - the cam in the canvas 2 was good though! :)   
+
+
+
+
+ I'm okay with what they do.  
+It's just a personal choice that I'll not buy another rebranded product. Would buy the original source itself if I wanted too.   
+They did capture the market for a long time now and it's time to up the game.    
+Tag line Nothing like anything, but there is something like it elsewhere XD    
+
+
+
+
+ i noticed a variation of this but i really cant reproduce it now.  
+Few days back i had a stable wifi connection but without internet and firing up Nightly41 would take sooooo loooong for the window to show up.   
+
+
+
+
+ Micromax has NO engineering.   
+If it was their company introduction products this approach was fine. Since it's been a looooooong time they've been In the market, they better start doing some shit of their own instead of rebranding stuff.   
+Completely fed-up with this.  
+
+
+
+
+ hopefully this helps, no native way to do it for now - https://support.mozilla.org/en-US/questions/992152 
+
+
+
+
+ 3 dots menu - Star button  
+Swipe on the main screen to right to access bookmarks 
+
+
+
+
+ have you tried, resetting the browser or creating a new profile(Backup data)?
+
+https://support.mozilla.org/en-US/kb/refresh-firefox-reset-add-ons-and-settings  
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles  
+  
+ 
+
+
+
+
+ You can try out the beta 64bit release for now https://www.mozilla.org/en-US/firefox/beta/all/  
+It can be used as a daily driver.   
+
+
+
+
+ Cost, specs and updates   
+Also good open source record and custom roms.  
+
+
+
+

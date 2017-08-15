@@ -1,0 +1,253 @@
+ I just lose interest if I don't check immediately. Still, I guess I should ignore most of them like you say, since it makes reading books I'm interested in feel like a task. 
+
+
+
+
+ I'm Portuguese, and until a couple months ago I hadn't touched a book for years. Not by my choice, anyway.
+
+ I like the English language and I feel pretty comfortable with it. I learned it by reading/writing stuff online, watching movies and TV series, playing video games, etc, and I usually understand nearly everything I read/hear. Until... I decided to start reading books in English. I  bought **The Richest Man in Babylon** and **The Old Man and the Sea**. I can understand the plot, but damn, there are sooooo many words I've never heard of and have no idea of their meaning.
+Lots of times I immediately check an online dictionary, and feel uncomfortable if I don't because then I'll never expand my vocabulary and this problem will never be fixed.
+
+
+I'm sure most people who read in foreign languages felt this at some point. So... do you have any tips?
+
+Thanks :) 
+
+
+
+
+ Congrats, detective. 
+
+
+
+
+ Now they were forced to release **[Game Dev Tycoon: Shareholders Edition DLC](http://www.greenheartgames.com/2013/04/01/announcing-first-expansion-for-game-dev-tycoon/)** to get some extra money :/ 
+
+
+
+
+ Well, at least we got the objective, right? :) 
+
+
+
+
+
+
+
+
+
+ We tried once, and some people other than us did join, but not many, so when we left, the server died :/ 
+
+
+
+
+ Well, I hadn't thought of that. It makes a lot of sense. I'll tell him. Thanks! :) 
+
+
+
+
+ I know, most of the time at least one of these European 32 player Obliteration servers are populated, often with some PTFO, IOP clan members (and more clans, of course):
+
+* [Cubitus Salatbar by G-Portal.de](http://battlelog.battlefield.com/bf4/servers/show/pc/7108b7e0-b02d-4404-8334-8794b4d27082/Cubitus-Salatbar-by-G-Portal-de/) 
+* [FPSNews.net #9 | All Maps - Obliteration | by Nitrado.Fr]
+(http://battlelog.battlefield.com/bf4/servers/show/pc/ede0d5f0-e7fc-45ec-9c53-9979cf77a4db/FPSNews-net-9-All-Maps-Obliteration-by-Nitrado-Fr/) 
+* [#3/5 Official SCAN.co.uk \[32 Players\] Obliteration]
+(http://battlelog.battlefield.com/bf4/servers/show/pc/0985621e-e2ea-4871-85e4-656017b3efde/3-5-Official-SCAN-co-uk-32-Players-Obliteration/) 
+
+The thing is, my clan is pretty much only American. Though considering the only Obliteration populated server in the US is the one in my original post, it seems like Obliteration ain't as popular in America.  
+
+
+
+
+ I didn't even mention my friend's server... you sure it was  **[Oblit1 - Home of the Bomb](http://battlelog.battlefield.com/bf4/servers/show/pc/995dca1e-2b34-4561-a171-c19b2d3119ca/Oblit1-Home-of-the-Bomb/)**? And while I'm sure 24/7 Locker Obliteration would work, Locker is the worst possible map for Obliteration, and there are too many Locker servers already. Still, thanks for the suggestion. 
+
+
+
+
+ A friend of mine has a 30 player Obliteration server in the USA, but even though it's set as "Official", no one joins. Sometimes we have a few players there to help populate the server, but it's no help.
+
+In fact, the only US-based Obliteration server that is ever populated is  **[*=SAS=* SASKLAN.COM 24/7 Obliteration TrinityGames](http://battlelog.battlefield.com/bf4/servers/show/pc/f04dd74b-3f45-415c-af42-6206474c6e62/SAS-SASKLAN-COM-24-7-Obliteration-TrinityGames/)** . My guess is that most people who join this server have added it to the favorites? I don't know.
+
+Do you guys have any tips on how to help a server grow? And what would you like to see in an Obliteration server? DLC maps? Increased time limit? Autobalance? 
+
+
+
+
+ It's not uncommon to find these BitDefender 6 month/9 month trials. In fact, although that one works fine, here's [another 6 month link.](http://www.bitdefender.com/media/html/adware-removal-tool/) 
+
+
+
+
+
+
+
+
+
+ Since there are keygens for Malwarebytes (yes, they're legit, I've tested them), that's probably where the "free" keys are coming from. Honestly, I dunno why they allow this. It would be incredibly easy to lock database updates to legit keys only.  
+
+
+
+
+ My antivirus tried deleting my keygen. Guess who got deleted instead? :D
+
+I  think this happens because sometimes exclusions only apply to either scans or real time protection, but not both. 
+
+
+
+
+ I'm sure it still offers better protection that Norton :) 
+
+
+
+
+ Honestly it's more like crapware. Sometimes I have fun infecting my VM with stuff from malc0de, MDL, etc, and more than a couple times this 360 Internet Security kept getting installed (maybe it was in a PUP installer?). Then it started detecting other malware in the VM (lol), and I had to uninstall it, which was hard, as the uninstaller was in Chinese, so I had to try different button combinations. 
+
+
+
+
+ The crack will much likely be a loader, the protection won't actually be removed. At best, you're gonna play like legit users. Though at some point devs will fix the issue. But don't expect the crack soon. It's denuvo, after all. 
+
+
+
+
+ It's even worse when none of them switch to the losing team. Sucks to play modes like Obliteration when the enemy team plants the 3 bombs in under 10 minutes. 
+
+
+
+
+ RemindMe! 3 days 
+
+
+
+
+ GFT is sorta accessible, it loads the home page and stuff, but eventually I get a CloudFlare site offline error. It's been like... a month now? 
+
+
+
+
+ Agent 47? 
+
+
+
+
+ Still down omg. 
+
+
+
+
+
+
+
+
+
+ Fun fact: RELOADED releases some silly games under the group DOGE. 
+https://www.reddit.com/r/warezscene/comments/2xow33/reloaded_releasing_movies_under_doge/ 
+
+
+
+
+ What do you mean? 
+
+
+
+
+ I've recently found this program that is pretty much VirusTotal but a PC antimalware software. It scans your PC with [68 malware engines.](https://www.herdprotect.com/engines.aspx)
+
+**It's cloud based.** Scanning is really fast (2 minutes-ish), but it can be slower since some suspicious [PE](http://en.wikipedia.org/wiki/Portable_Executable) files (like .exe, .dll) and non-PE stuff like browser extensions can get uploaded. But I mean, these days many antiviruses rely on cloud technologies, so there's probably no reason to be paranoid. And PE files aren't usually huge, though if there are a lot of them to be uploaded and your connection is slow... could take a bit more).
+It's kinda like [Hitman Pro](http://www.surfright.nl/en/hitmanpro/), but with more engines. 
+
+After the scan is complete it shows the detected files, and if you click them you can see which antivirus engines detected it. **Keep in mind there could be a lot of false positives**, since it uses 68 engines. If you have a lot of cracked software, like I do, keep an eye out before blindly removing everything. But I think it has an option to "hide possible false positives", though it's far from perfect.
+
+Anyway, I figured this could be useful to you guys. I'll still use MBAM and Emsisoft as the big guns to clean infected PCs, but this could be used as a way to make sure you got rid of everything.
+
+
+Cheers!
+
+edit: "herdProtect - 68 engine antimalware scanner" is probably more correct. Ehhh.. what the heck. 
+
+
+
+
+ That oil originated from dinosaurs. 
+
+
+
+
+ I'd use it. As long as there's absolutely **no DRM at all**. 
+
+
+
+
+ **Crysis.2.v1.9.Update.incl.DX11.Ultra.and.HiRes.Texture.Packs-SKIDROW**
+                                                                          
+ While the light is not flaming as it used to be!                        
+                                                                          
+  While the gun has no more bullets for another quality reload!           
+                                                                          
+  **While the blade isn't sharp after too many cuts!**                        
+                                                                          
+  Skid Row continue to work in the dark!            
+
+Funny that it got nuked. Lol.           
+Long life to the blade :)            
+
+
+
+
+ Yhup, demodivision released something not so long ago :) https://www.youtube.com/watch?v=xi5Awxd_9DY 
+
+
+
+
+ [These tutorials](http://thelegendofrandom.com/blog/sample-page) are also great for absolute beginners. They teach you what reverse engineering is, really basic ASM stuff, how to use Ollydbg and some other tools... The little I know about RE was from those tutorials. You'll be able to crack (really) basic shareware protections by the end of the series.
+
+But to crack games... much more experience and ASM knowledge is needed, and for today's protections I don't think there are many openly available tutorials. Cd checks (old Securom, Safedisc) and Steam emulation tutorials are probably the best you can get. 
+
+
+
+
+ I actually failed it on purpose to see if there was any easter egg-ish dialog, but nope :( 
+
+
+
+
+ Set Shader Quality to very high. It enables Paralax mapping or something like that, that makes rocks and stuff look tessellated . 
+
+
+
+
+ lol :p 
+
+
+
+
+ LOL GET REKT https://www.reddit.com/r/PiratedGTA/ 
+
+
+
+
+ That didn't work for me, I had to change it in 3dmgame.ini 
+
+
+
+
+ TIL Reloaded, Razor and Codex are Russian. 
+
+
+
+
+ Oh, I think I finally got it. It loaded the old save because the recent autosave one you had was ahead of the spoofed system time, and replaced your recent autosave. Ah... damn :/   
+
+
+
+
+ I don't get it, don't you have a up-to-date autosave now?  
+
+
+
+
+ But was there any error? 
+
+
+
+

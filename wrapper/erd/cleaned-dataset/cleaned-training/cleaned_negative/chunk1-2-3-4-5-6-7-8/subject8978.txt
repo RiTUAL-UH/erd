@@ -1,0 +1,8906 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    1. Load www.theglobeandmail.com
+   2. Input u,u,d,d,l,r,l,r,b,a,enter.
+   3. Press shift+space to bring up the console.
+   4. Type "help" followed by enter.
+   5. Type "contra" followed by enter.
+
+ 
+
+
+
+
+ 1.	Load www.theglobeandmail.com
+2.	Input u,u,d,d,l,r,l,r,b,a,enter.
+3.	Press shift+space to bring up the console.
+4.	Type "help" followed by enter.
+5.     Type "contra" followed by enter.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Because I think he's an utter turd as a director. He hasn't made a good movie let alone a great one. Clerks was okay at the time, but trying to watch that again recently was painful. I didn't really like Chasing Amy, I thought it had a few funny bits but was very pretentious...and the rest of his catalogue looks like one piece of shit after another. A lot of my friends agree, but he definitely has an audience he's tapped into who think he's really great. Can anyone explain?? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Superb. I'm not a huge Fishbone fan but this is a great song and a great performance.
+ 
+
+
+
+
+ Sadly, I think you're right, things are going to have to get worse before they get better. 'They' will fight and the fight will be ugly, but that's the only way things will, eventually, get better. How many more men will have to be destroyed by family "law" before we, collectively, wake up? Not sure, but marriage is certainly taking a serious hit and the more men that opt out the better
+
+http://www.the-spearhead.com/2010/01/08/the-end-of-marriage-2/
+ 
+
+
+
+
+ It occurs to me that the (disputed) Gandhi quote: "First they ignore you, then they laugh at you, then they fight you, then you win." is very much applicable to the Men's Rights movement. Twenty years ago, the men's rights movement basically didn't even exist, or existed in a very small, marginalized form. Today, it seems as though we're transitioning from the "laugh at you" to the "fight you" stages. Make no mistake, it's still a marginalized movement, but it is a recognized movement that feminists now feel the need to fight (i.e. Warren Farrell at U of T). There are more people every day who are realizing that the current feminist-dominated culture simply isn't working. Let's keep it up.
+ 
+
+
+
+
+ Is it just me, or does that picture from 1999 say it all? Fraser's face is all "Please help." and her's is "I'm gonna take this motherfucker for every dime he's worth." 
+
+
+
+
+ [Hard Boiled.](http://www.youtube.com/watch?v=iEnJO0ylXPU)
+
+Watch the first ten minutes, up until Chow Yun Fat spits out his toothpick.
+
+
+ 
+
+
+
+
+ If you like that, check out Trinity and Beyond: The Atomic Bomb Movie. A history of nuclear testing, with stunning footage, a superb soundtrack and narrated by Shatner!
+
+http://en.wikipedia.org/wiki/Trinity_and_Beyond
+
+Truly awesome movie.
+ 
+
+
+
+
+
+
+
+
+
+ Shoah.
+
+Ten hour documentary about the holocaust with no historical footage, mostly interviews with survivors. Incredibly difficult to watch, but essential.
+ 
+
+
+
+
+ Oh man, this is a very difficult movie to watch. Really don't think I'd want to go through this twice, but it is a masterpiece.
+ 
+
+
+
+
+ He did it last Thursday:
+
+http://www.reddit.com/r/IAmA/comments/182fth/i_am_matt_taibbi_politics_writer_for_rolling/
+ 
+
+
+
+
+
+
+
+
+
+ Richard Wolff helps explain the situation:
+
+http://www.youtube.com/watch?v=TZU3wfjtIJY
+
+ 
+
+
+
+
+ ....and will find that after a thorough and exhaustive re-examination of all the facts, that they were completely and totally right in the first place.
+
+ 
+
+
+
+
+ Because oil.
+ 
+
+
+
+
+ "Slavery with a chance of medical care." Good one!
+ 
+
+
+
+
+ Actually, the manliest thing he ever did was work with the brilliant but psychotic Klaus Kinski...more than once!
+ 
+
+
+
+
+ Google: Self-driving cars in 3-5 years.
+
+
+Feds: Yeah, sure, totally...as soon as we work out a scheme of kick-backs, illegal campaign donations and tax schemes so we can get what's ours. 
+
+
+
+
+ Pizzey.
+ 
+
+
+
+
+ 1971 Dodge Challenger from [Vanishing Point](http://www.youtube.com/watch?v=pA4ymmXa8rs). 
+
+
+
+
+ Tarantino's scripts are fantastic, and always worth checking out if you like his films. Check out the script for Django Unchained and Kill Bill, esp. I think they would've been better movies (especially the ending in Django) if he had stuck to his scripts more closely.
+ 
+
+
+
+
+ I can quit anytime I want.
+ 
+
+
+
+
+ Quite the contrary. You're going to see how feminist theory influences Family Law first-hand. I worked at a state AG office for two years, it was a real eye-opener as to how feminist theory dominates public policy.
+ 
+
+
+
+
+ Don't even get me started on The Black Eyed Peas.... 
+
+
+
+
+ Logic...critical thinking...rational decision making...game theory....identifying logical fallacies....I apply lots of the philosophy I learned every single day.
+ 
+
+
+
+
+ [Tuco in the bath](http://www.youtube.com/watch?v=iCB3fnXDzew)
+ 
+
+
+
+
+ My two favorite shots are both from the same movie and come immediately after each other. Kagemusha goes immediately from [this shot](http://www.ropeofsilicon.com/Images/stories/2009/may/kagemusha1.jpg) to [this shot](http://www.ropeofsilicon.com/Images/stories/2009/may/kagemusha2.jpg). Fucking beautiful. 
+
+
+
+
+ Hands down, my favorite performance of all time is Eli Wallach as Tuco in The Good, The Bad and The Ugly. As a performance, it is simply magic to watch. The character is so well-realized it's easy to forget that there's even an actor there, all you see is the character. I will never get tired of him or this movie.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+http://www.youtube.com/watch?v=Fc8WN3q4VKs
+
+ 
+
+
+
+
+ "Is it worth learning about Nietzsche at some point in my life? "
+
+It's worth learning about Nietzsche at some point in everyone's life. Seriously, one of the most important, and one of the most entertaining philosophers ever. Do it, you won't regret it.
+ 
+
+
+
+
+ Ha, true about both sides of his personality. I heard about it from When We Were Kings where Plimpton talks about trying to get it into the GBOWR as the shortest poem ever, and it seemed that in the context, in front of a crowd, it was more a "we" thing. Whatever, good job with the design! 
+
+
+
+
+ Awesome design....but pretty positive it's "Me, We" as in we're all part of the same human family instead of "Whee!" which is a little too silly for the greatest of all time! 
+
+
+
+
+ It's not what you did, it's how you did it.
+ 
+
+
+
+
+ TIL Mark Zuckerberg is even an asshole on his business card.
+ 
+
+
+
+
+ Holy crap, Minecraft is huge!!
+ 
+
+
+
+
+ Dude, my apartment building burned to the ground last August. Lost everything except the clothes on my back and my wallet. I feel for you. Good luck.
+ 
+
+
+
+
+ [The Motorcade Sped On](http://www.youtube.com/watch?v=JjyFwbSNh4o)
+ 
+
+
+
+
+
+
+
+
+
+ Pixies version:
+
+http://www.youtube.com/watch?v=BXSmYHEpn7w
+
+ 
+
+
+
+
+
+
+
+
+
+ God, tigers are so stupid!
+ 
+
+
+
+
+ Always interesting to see Warren Farrel. Unfortunately the host of this show, Michael Coren, is basically a right-wing Christian dick, which is why he's on Sun News. 
+
+
+
+
+ Thanks for the offer!
+ 
+
+
+
+
+ Further proof, Lennon does the same thing to Zappa:
+
+http://www.youtube.com/watch?v=FjCSZR4dM_c 
+
+
+
+
+ Don't know anything he did other than Transmet. What are some other good Ellis books?
+ 
+
+
+
+
+ The Fall.
+
+Currently have 17 albums with 4 star ratings or higher on Allmusic.
+ 
+
+
+
+
+ Funny, I have the same attitude towards Transmet. If you're a fan of Hunter S. Thompson at all, it comes across as a truly shitty comic book version of that man's much more interesting books/life. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ With no preparation, you go back immediately with only the information about the event that's currently in your head. This is pre-9/11 so nobody is really going to take this threat seriously, how would you play it? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ...be defenseless in the face of one of the most cruel beasts that has ever taken a people into captivity. That's this American white man. And they have proved it throughout the country by the police dogs and the police clubs. A hundred years ago they used to put on a white sheet and use a bloodhound against Negroes. Today they've taken off the white sheet and put on police uniforms, they've traded in the bloodhounds for police dogs, and they're still doing the same thing. And just as Uncle Tom, back during slavery, used to keep the Negroes from resisting the bloodhound, or resisting the Ku Klux Klan, by teaching them to love their enemy, or pray for those who use them spitefully, today Martin Luther King is just a 20th century or modern Uncle Tom, or a religious Uncle Tom, who is doing the same thing today, to keep Negroes defenseless in the face of an attack, that Uncle Tom did on the plantation to keep those Negroes defenseless in the face of the attacks of the Klan in that day." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ "The Theory and Practice of Oligarchical Collectivism" by Emmanuel Goldstein...the book that Winston Smith is reading in Orwell's "Nineteen Eighty-Four". 
+
+
+
+
+ "The essential act of war is destruction, not necessarily of human lives, but of the products of human labour. War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent. Even when weapons of war are not actually destroyed, their manufacture is still a convenient way of expending labour power without producing anything that can be consumed. A Floating Fortress, for example, has locked up in it the labour that would build several hundred cargo-ships. Ultimately it is scrapped as obsolete, never having brought any material benefit to anybody, and with further enormous labours another Floating Fortress is built. In principle the war effort is always so planned as to eat up any surplus that might exist after meeting the bare needs of the population. In practice the needs of the population are always underestimated, with the result that there is a chronic shortage of half the necessities of life; but this is looked on as an advantage. It is deliberate policy to keep even the favoured groups somewhere near the brink of hardship, because a general state of scarcity increases the importance of small privileges and thus magnifies the distinction between one group and another." 
+
+
+
+
+ These women need to quit. They must be the worst bounty hunters in America. 
+
+
+
+
+ Escalate, escalate, escalate! 
+
+
+
+
+ Approach, approach, approach!
+ 
+
+
+
+
+ Have to agree. After Dead Man, which I thought was a masterpiece, I was really hoping Ghost Dog would be better, and it left me feeling a little cold. I liked it, but didn't think it was up to Jarmusch's standards. And you're right, Limits of Control was basically unwatchable.
+ 
+
+
+
+
+ Another film to check out would be Branded To Kill. Branded To Kill, Le Samourai and Ghost Dog all have essentially the same plot: a hitman is given a job, a woman is left alive as a witness and as a result, his bosses decide to take out the hitman leading to a showdown. 
+
+
+
+
+ This specific technique was discussed by the Nazis at Wannsee:
+
+http://www.youtube.com/watch?v=tPIctGbAZEQ t=41m11s
+
+ 
+
+
+
+
+ Surprised nobody has mentioned The Stone Roses. If you want to talk about a group that achieved the most in the shortest amount of time, it's them. They completely changed music and ushered in a new sound that is still relevant today with one single album.
+ 
+
+
+
+
+
+
+
+
+
+ What's even better than this? [This.](http://www.youtube.com/watch?v=646KtkEcPm8) 
+
+
+
+
+ If you liked school, you'll love work.
+ 
+
+
+
+
+ Where are all the redditors complaining about white people? If she had been black, the racist comments would have been fast and furious. 
+
+
+
+
+ Seems like it:
+
+http://rationalwiki.org/wiki/Cathy_Brennan
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Scott Feschuck, the unfunniest man in Canada. 
+
+
+
+
+ ...then they fight you, then you win. 
+
+
+
+
+
+
+
+
+
+ Just posted this in another thread...the superb Frontline documentary "The Tank Man":
+
+http://www.pbs.org/wgbh/pages/frontline/tankman/view/
+ 
+
+
+
+
+ The superb Frontline documentary "The Tank Man" about Tiananmen Square:
+
+http://www.pbs.org/wgbh/pages/frontline/tankman/view/ 
+
+
+
+
+ [The increasingly crappy career of M. Night Shyamalan.](http://en.wikipedia.org/wiki/M._Night_Shyamalan#Critical_reception)
+
+ 
+
+
+
+
+ My people, my people, what can I say; say what I can. I saw it but didn't believe it; I didn't believe what I saw. Are we gonna live together? Together are we gonna live? 
+
+
+
+
+
+
+
+
+
+ Wow! Great post, thanks!
+ 
+
+
+
+
+ Excellent.
+ 
+
+
+
+
+ Blood Meridian by Francis Ford Coppola  
+
+
+
+
+
+
+
+
+
+ lol....imagine how stressful that was for her!! 
+
+
+
+
+ or maybe like the KKK in the USA
+
+ 
+
+
+
+
+ I think it would be cooler if they decided that they needed two people because it was set up that only if they BOTH decide to do X, then X executes, i.e., throw a punch, lift up left leg, etc.. That way, they're connected and you get the "drift" thing, but then there's also a logical reason, some redundancy, they need both pilots to agree to do a certain action.
+ 
+
+
+
+
+ This is my surprised face.
+ 
+
+
+
+
+ /s
+ 
+
+
+
+
+ Thanks!
+ 
+
+
+
+
+ Well, that sounds a little harsh....
+ 
+
+
+
+
+
+
+
+
+
+ Joe Rogan on the issue:
+
+http://www.youtube.com/watch?feature=player_embedded v=k6_7BOGUXHM
+
+tl;dw: She has a clear and obvious competitive advantage. 
+
+
+
+
+ I think there's a good chance they're going to make it, still 6 days left.
+ 
+
+
+
+
+
+
+
+
+
+ There's seems to be some agreement on Lawrence of Arabia, 2001, Playtime and Apocalypse Now. Can't disagree, but I would have to add [Ran](http://www.youtube.com/watch?v=AbbfDntoRRk). 
+
+
+
+
+
+
+
+
+
+ Not as good as the original, but still worth watching if you liked BR. Worth it for the beach landing scene alone!
+ 
+
+
+
+
+
+
+
+
+
+ One of my favourite opening tracks to one of my favourite albums.
+ 
+
+
+
+
+
+
+
+
+
+ Non-denial denial.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I guess that kid should've had a gun.
+
+Edit: Reddit's sarcasm meter is broken again.
+
+ 
+
+
+
+
+
+
+
+
+
+ Let me guess, there will be rivers of blood any day now right? How long before the black man has the whip hand over the white man??? You're using the term segregation incorrectly. Segregation is imposed by one group over another. This is voluntary because of mass immigrant populations creating their own communities. Good for them.
+ 
+
+
+
+
+ First of all fuck the Daily Mail.
+
+Second of all, there are approximately [24,372](http://www.education.gov.uk/popularquestions/a005553/how-many-schools-are-there-in-england?) schools in England, which means that 0.34% of schools currently have no British pupils. While I'm sure Enoch Powell is rolling over in his grave, it's not exactly shocking. 
+
+
+
+
+ http://www.bostonglobe.com/ideas/2013/05/11/boston-strong-phrase-that-rallied-city/uNPFaI8Mv4QxsWqpjXBOQO/story.html
+ 
+
+
+
+
+ Yeah, cool. Liked it the first time when it was called...
+
+http://en.wikipedia.org/wiki/Planetes
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fortunately, TYT viewers regularly call them out on bullshit videos like this one.
+ 
+
+
+
+
+ Yeah, it really is an overlooked gem!
+ 
+
+
+
+
+ Midnight Run. The trailer is utter crap, but if you've seen it, you know it's one of the best American movies of the 80s. A genre action/comedy, it's really worth checking out....despite the trailer:
+
+http://www.youtube.com/watch?v=B1_N28DA3gY
+ 
+
+
+
+
+ Once Upon A Time in the West.
+ 
+
+
+
+
+ I love that bit. I thought he was absolutely hilarious in IM2 and Galaxy Quest ("Don't open that! It's an alien planet! Is there air? You don't know!") and really, really good in *Moon*. I'm going to have to hunt down some more of his work, that man is seriously talented. 
+
+
+
+
+
+
+
+
+
+ Here's the original story. Such a brutal case:
+
+http://www.cbc.ca/news/canada/story/2013/05/03/bc-cyber-stalking.html
+
+ 
+
+
+
+
+ Carbon-based life-form vibrates vocal chords in proximity to CMOS.
+ 
+
+
+
+
+ Mammal intones near technology.
+ 
+
+
+
+
+ Oh come on, reddit is just a bunch of unprofessional nobodies shooting their mouths off, posting whatever flatters their own biases, engaging in petty infighting and cluttering up the world with a lot of timewasting nonsense...holy shit, it really is like the mainstream media. 
+
+
+
+
+ Couldn't agree more. Specifically, there's no contest between the final battle scenes. The ending of Iron Man 2 was just spectacular. Plus Iron Man 2 had Sam Rockwell. Damn that dude is funny.
+ 
+
+
+
+
+ Yes. Especially since Molson isn't a Canadian company.
+ 
+
+
+
+
+ Totally. I thought it was better than the first one.
+ 
+
+
+
+
+ America: Guilty until proven innocent.
+ 
+
+
+
+
+
+
+
+
+
+ True. Hardly one of the worst movies ever made as is often claimed. Not a masterpiece, but it has a bunch of funny scenes.
+ 
+
+
+
+
+ Nikola Tesla, the man who invented the 20th century.
+ 
+
+
+
+
+ Listen again. I love the Stooges and the MC5...kind of ambivalent about the Dolls...but Death is doing something completely different.
+ 
+
+
+
+
+ Excellent choice. The whole album is great, but the closer is just stunning. I don't think anybody was making music like this in 1974. Bad Brains is still three years away! 
+
+
+
+
+ He earned his dollar that week.
+ 
+
+
+
+
+ Waterloo Park! Because it's right downtown, you'd get spectators, the area is big enough. They play cricket there on Saturdays, but other than that it should be a good place.
+ 
+
+
+
+
+ Some more information on the end of marriage:
+
+The National Marriage Project at the University of Virginia publishes an annual report titled The State Of Our Unions which includes data on US marriage rates since 1960. From 1970 through 2008, the US marriage rate has declined from 76.5 to 37.4 marriages per 1,000 unmarried women  see the chart below:
+
+http://www.the-spearhead.com/2010/01/08/the-end-of-marriage-2/
+ 
+
+
+
+
+ Probably two shots to the head like Gary Webb.
+ 
+
+
+
+
+ The age of the story affects its relevance how? You mean to say all the corruption has gone away since then? I think it makes the point more relevant. What's the problem with the source? The New York Times not good enough for you? Maybe Chemical_Monkey's links will satisfy.
+ 
+
+
+
+
+ So, uh, it doesn't count? All the corruption is cleared up now? Well, maybe Chemical_Monkey's links will count. 
+
+
+
+
+ Here, let me google that for you:
+
+44 Officers Are Charged After Ohio Sting Operation
+
+In what may be the largest and widest ranging police corruption investigation in the country in recent years, 44 officers from five law-enforcement agencies were charged today with taking money to protect cocaine trafficking operations in Cleveland and northern Ohio, Federal authorities said.
+
+http://www.nytimes.com/1998/01/22/us/44-officers-are-charged-after-ohio-sting-operation.html
+ 
+
+
+
+
+ So, does this mean the XBox 720 (or whatever it's going to be called) IS going to be backwards compatible? This comes out Sept. 17, the 720 won't be out until the end of the year...
+ 
+
+
+
+
+ Unrelated to Ali, but if you want to see how much talk shows have changed, check this out, Norman Mailer and Marshall McLuhan on the CBC in the same year:
+
+https://www.youtube.com/watch?v=PtzxWR-j1xY
+
+The really don't make 'em like they used to.
+ 
+
+
+
+
+ Video: http://www.youtube.com/watch?v=6-FDiiiW3QY
+
+ 
+
+
+
+
+ Sexy Beast.
+ 
+
+
+
+
+ I would say that was his second best speech. That was before the fight, here's him after he won:
+
+http://www.youtube.com/watch?v=J6Hey54O6Qs
+
+Then again, these are his best boxing-related speeches. He also went on the lecture circuit and the talk show circuit when the government stripped him of his title because he refused to go to Vietnam, giving some excellent speeches and interviews. Here's him holding his own against William F. Buckley:
+
+http://www.youtube.com/watch?v=vxNqJLx3L3U
+ 
+
+
+
+
+ Yeah, they're similar, showing many of the same tests, but with Trinity you get Shatner narrating! Actually, I'm in the process of putting together a DVD collection of all the nuke-related material I could find:
+
+http://thenuclearfiles.blogspot.ca/
+
+ 
+
+
+
+
+ I've probably watched Trinity and Beyond ten times, it just absolutely fascinates me. The Burj Khalifa is 2,722 ft., Everest is 29,029 ft., Castle Bravo: **130,000 ft.** That's insane!!! 
+
+
+
+
+ If you liked that, you'll love this, Trinity and Beyond: The Atomic Bomb Movie:
+
+http://www.youtube.com/watch?v=g7MKd_sGKls
+
+ 
+
+
+
+
+ I got it!
+ 
+
+
+
+
+ Is there no help for the widow's son?
+ 
+
+
+
+
+ Miserable failure.
+ 
+
+
+
+
+ Speaking of football hooliganism, here's 1989's "The Firm" starring Gary Oldman (apparently modeled on West Ham United). Great film:
+
+http://www.youtube.com/watch?v=ZPJLD7aLCIs
+ 
+
+
+
+
+
+
+
+
+
+ Full video online:
+
+http://video.pbs.org/video/2364990501
+ 
+
+
+
+
+ One of Bob Dylan's greatest songs.
+
+
+Think about that. 
+
+
+
+
+ Who should be on the set list?
+
+Bands that agree to play for free.
+
+ 
+
+
+
+
+ Sounds like a [remake.](http://www.youtube.com/watch?v=yJTVF_dya7E) 
+
+
+
+
+
+
+
+
+
+ That was fantastic.
+ 
+
+
+
+
+
+
+
+
+
+ Wikipedia has a pretty good annotated list:
+
+http://en.wikipedia.org/wiki/Boxing_in_the_1970s
+
+ 
+
+
+
+
+ Miserable failure.
+ 
+
+
+
+
+ This is a superb documentary and should be mandatory viewing for kids in school today. Hell, it should be mandatory viewing for all of America. I see so many comments on reddit about how black people should just "pull themselves up by their own bootstraps" etc. etc. If they knew half of what is in this doc, they wouldn't make such ignorant statements. America has been working against African-Americans since day one, and as this documentary makes clear, very little has changed.
+ 
+
+
+
+
+ Or they might try to [Jew you up.](http://www.youtube.com/watch?v=q0h5FvIPITE) 
+
+
+
+
+ Typical, not surprising since 59% of Quebecers say they're racist:
+
+http://www.cbc.ca/news/canada/story/2007/01/15/mtl-racism.html
+
+ 
+
+
+
+
+ If 4chan figures this out before the FBI, our society is seriously fucked.
+ 
+
+
+
+
+
+
+
+
+
+ Good post....but chicks love beards.
+ 
+
+
+
+
+ Yep, reddit is crazy for TBL. It's a mediocre comedy at best, nowhere near the Coens' best.
+ 
+
+
+
+
+
+
+
+
+
+ The Big Lebowski.
+ 
+
+
+
+
+
+
+
+
+
+ That was so real.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SUPERB documentary. Please check this out if you haven't before.
+ 
+
+
+
+
+ Yeah, I get that...but how many times can we do it? Hey, look at the hypocrisy of feminism over here! And over here! And over here! And over here as well! Hey guys, did you see the hypocrisy of feminism over here? Like I said, I get it, I just think this subreddit does it too much.
+ 
+
+
+
+
+ Sorry, not trying to be rude, but I have no idea what you're trying to say.
+ 
+
+
+
+
+ I'm surprised at how much time MRAs spend talking about the close-mindedness of feminist subreddits. It's like complaining about not being allowed into a club you don't want to join. I seem to see this complaint, or something similar, fairly regularly. There are far more interesting topics for us to discuss.
+ 
+
+
+
+
+ Lol....that's the reaction I get every time. [I thought the poem was more well known.](https://www.google.ca/search?q=if+only+we+might+fall ie=utf-8 oe=utf-8 aq=t rls=org.mozilla:en-US:official client=firefox-a#hl=en client=firefox-a hs=I8O rls=org.mozilla:en-US%3Aofficial sclient=psy-ab q=if+only+we+might+fall+like+cherry+blossoms+in+the+spring oq=if+only+we+might+fall+like+c gs_l=serp.3.0.0i22i30.3067.3624.0.4582.7.2.0.5.5.1.201.314.0j1j1.2.0...0.0...1c.1.7.psy-ab.LjGhLCJvt-E pbx=1 bav=on.2,or.r_cp.r_qf. bvm=bv.44442042,d.b2I fp=81967cf0171041d8 biw=1136 bih=614) 
+
+
+
+
+ If only we might fall
+
+Like cherry blossoms in the spring
+
+so pure and radiant
+ 
+
+
+
+
+ How do you get to Carnegie Hall? Practice!
+ 
+
+
+
+
+ I wish Ali had retired after the third Frazier fight.
+ 
+
+
+
+
+ It's a really good album, the track after this one, "31 Flavors" is one of Flav's best in a while:
+
+http://www.youtube.com/watch?v=Q1jA6x6mrqI
+
+ 
+
+
+
+
+ Rammstein makes some awesome videos. Check out...
+
+
+Links 234:
+http://www.youtube.com/watch?v=uIiMhSvtrGc
+
+
+Ich Will:
+http://www.youtube.com/watch?v=f4K6ZxDwi34
+
+
+Keine Lust:
+http://www.youtube.com/watch?v=Y1st6O1tqII
+ 
+
+
+
+
+ Better than you think. Keep watching.
+ 
+
+
+
+
+ Yes, let us keep linking to Business Insider for up to date information on this topic or subject.
+ 
+
+
+
+
+ Just another day in America.
+ 
+
+
+
+
+ Chael Sonnen can be hilarious:
+
+http://www.youtube.com/watch?v=wh_eO2QoeCM
+
+ 
+
+
+
+
+ A masterpiece! If you haven't checked this out, please do so. Truly great.
+ 
+
+
+
+
+ Again, I think you're trying to have it both ways. The law is stupid and unjust, and the prosecution was politically motivated....but really there's no problem because it was all legal. It's this vacillation I object to. Again, that it was in keeping with the law doesn't work because it was selective prosecution, re: the other seed distributors. I think this was without any doubt a strictly political maneuver and neither justice nor the law was served. 
+
+And sorry, not be a dick, but you are being naive about the power structure behind the war on drugs. There are very, very powerful interests at work that have absolutely no interest in seeing marijuana decriminalized here and the economic repercussions would be so horrendous, no government could actually enact it up here. Being defeatist is acceptance of defeat without struggle. That's not what I'm advocating, the struggle should go on, but if you're not aware of just how powerful the anti-drug lobby is in the U.S. you're kidding yourself. I have to agree with David Simon, the U.S. drug war is a holocaust in slow-motion and if they're willing to live with that, what makes you think Canada is going to change their mind? We follow their lead because we have to.
+ 
+
+
+
+
+ It is possible for something to be both politically motivated and in the in best interests of justice.
+
+Theoretically, but does that apply in this case? Hardly. 
+
+
+
+
+ Wait a minute, you can't have it both ways. Are you trying to claim that it was both politically motivated AND the case was pursued in the interests of justice? That's absurd. The arrest and conviction of Emery has, of course, done absolutely nothing to halt the marijuana or marijuana seed trade in the U.S., it was strictly done for political purposes and you clearly know that. If not, why didn't the DEA go after the Vancouver Seed Bank or Kind Seed or Vancouver Island Seed Company or Liberty Seeds? Well, when they get big enough, they will because it's politically motivated. Some prosecutor will be looking for a feather in their cap.
+
+But back to my original point, you originally claimed that "Canada is a sovereign nation, the US can't disallow us from doing anything." But that's kind of naive, don't you think? The U.S. drug apparatus, from money laundering banks like HSBC to the police to the lawyers to the judges to the private prisons all have way too much at stake and will not allow Canada to mess that up. Which is why we HAVEN'T decriminalized marijuana in the last thirty years. We keep talking about it, but until the U.S. changes its mind, which it might eventually, we will follow the American lead. 
+
+
+
+
+ Wow. Never seen someone actually try to claim the Marc Emery case wasn't politically motivated. Not even the DEA Administrator who prosecuted the case:
+
+"Today's DEA arrest of Marc Scott Emery, publisher of Cannabis Culture Magazine, and the founder of a marijuana legalization group -- is a significant blow not only to the marijuana trafficking trade in the U.S. and Canada, **but also to the marijuana legalization movement**."
+
+Also, you're misunderstanding the case. He wasn't charged with any crimes in the U.S. all the alleged crimes occurred in Canada and police here never charged him with anything. This is about as clear a case as you can get of the U.S. drug policy trumping Canadian laws, whether you want to admit it or not.
+ 
+
+
+
+
+ Not defeatist at all, it's completely realistic. Look up the Marc Emery case to see how U.S. drug policy trumps our laws:
+
+http://en.wikipedia.org/wiki/Marc_Emery#2005_arrest_and_extradition_proceedings
+ 
+
+
+
+
+ It's still illegal federally and federal law trumps state law. You're a long, long way from it being legalized and taxed in the U.S. or Canada, and if you don't think the U.S. has heavily influenced Canada's attitudes towards marijuana legalization for years, you're way underestimating the influence U.S. drug policy has up here.
+
+ 
+
+
+
+
+ Don't be too impressed. Wait until he's in a position to do something about it and reverses his position like everyone else. This is just pandering to the youth vote, the U.S. will never allow Canada to tax and legalize it.
+ 
+
+
+
+
+ Keep watching until after the credits for a brief documentary.
+ 
+
+
+
+
+ This is a great adaptation. Watch for the Orson Welles cameo! I usually hate remakes, but this really is ripe for a big budget remake. 
+
+
+
+
+ That website is hilarious. Like stepping into a time machine.
+ 
+
+
+
+
+ Chris Rock on Winnie Mandela:
+
+http://www.youtube.com/watch?v=stjSK0efE-w
+
+ 
+
+
+
+
+ Classic. Perhaps the most existential car movie ever made.
+ 
+
+
+
+
+ Oh, it's definitely normal, but hardly "new".
+
+Also, "Delinquencies On Student Loans Surpass Those On Credit Card Debt":
+
+http://www.zerohedge.com/news/2013-02-28/delinquencies-student-loans-surpass-those-credit-card-debt 
+
+
+
+
+
+
+
+
+
+ Alejandro Jodorowsky - Dune.
+
+http://www.geeksofdoom.com/2012/02/14/jodorowskys-dune-will-give-us-a-mind-blowing-glimpse-into-the-greatest-sci-fi-film-never-made 
+
+
+
+
+ My new wallpaper.
+ 
+
+
+
+
+ One of the greatest basslines of all time.
+ 
+
+
+
+
+ Seems like weird pro-copyright propaganda. 
+
+
+
+
+ If you're interested in this topic, check out Wings of Defeat:
+
+http://www.youtube.com/watch?v=jwPuKup7NGw
+ 
+
+
+
+
+ Personally, I think that on average, Can is the greatest band in the history of rock. 
+
+
+
+
+ How long before I can use the 3D scanner to scan the 3D printer and make a 3D printer with the 3D printer? 
+
+
+
+
+ Great place, great people, great food. Can't wait til the patio opens!
+ 
+
+
+
+
+ Who gives a fuck, this is bullshit.
+ 
+
+
+
+
+ Awesome. I waited a week for that!
+ 
+
+
+
+
+ Perhaps his most haunting song. Ethereal, beautiful. 
+
+
+
+
+ It's Spud (Ewen Bremner) from Trainspotting.
+ 
+
+
+
+
+
+
+
+
+
+ Exhibit b: Crackers. Too bad it's illegal to run  them over in the streets for acting like that. A few have to die so they learn. 
+
+
+
+
+ Yeah. Right here. Say what?
+ 
+
+
+
+
+ The Stanley Cup Riots weren't senseless nonchalant destruction? What an absurd argument.
+ 
+
+
+
+
+ For all you pieces of shit blaming this on black people, [go fuck yourselves](http://en.wikipedia.org/wiki/2011_Vancouver_Stanley_Cup_riot).
+ 
+
+
+
+
+ New Country.
+ 
+
+
+
+
+ "It all began around 4:45 p.m. Saturday after a large crowd had gathered at Ford City Mall for an autograph session by the music group Mindless Behavior."
+
+You couldn't make that shit up. 
+
+
+
+
+ That's the intersection where a girl was killed last fall and there have been quite a few other pedestrians hit by cars in Waterloo.
+
+http://www.therecord.com/news/local/article/824595--university-of-waterloo-student-identified-as-victim-of-fatal-colision
+ 
+
+
+
+
+ And still nothing will happen to them.
+ 
+
+
+
+
+ Desolation Row.
+ 
+
+
+
+
+
+
+
+
+
+ KANEDA!!!!!!!!!! 
+
+
+
+
+ I see what you're saying but pretty much the same thing can be said about lots of technology that reaches the consumer stage. It's a commercial application of an industrial technology that, in order to have mass appeal, specializes and reduces the capabilities of that original design. The technology in an iPad is actually pretty old. We've had a device that can be programmed to carry out a set of operations with a CPU and memory to run applications for a long time. But the innovation of the application of that technology counts for something. You could say the same thing about the iMac and compare it to a CRAY or whatever, you know what I mean. But the fact that 3-D printers are "crappy" cnc mills that use "shitty" mitres that only cut plastic is actually really important and definitely could have a serious impact on the way we produce goods. 3-D printers are "cheap" cnc mills that use "cheap" miters that use one of the most common and versatile substances on the market. That's very handy and, I hope, going to be cool! They'll constantly work to reduce the waste and improve it, but I think it looks very promising. I'm going to make my driverless Google car look like the Batmobile or something. Hopefully I can just download the plans!
+ 
+
+
+
+
+ Exactly my first thought. People couldn't wait to post their "It take a gajillion hours!" comments. Yes, well, improved means of production and economy of scale, kids. I think this is great. We'll have 3D printed driverless cars in no time. 
+
+
+
+
+ FYI, subway attendants in Toronto are not like this.
+ 
+
+
+
+
+ [The Shining](http://www.youtube.com/watch?v=sfout_rgPSA) 
+
+
+
+
+ Hmm, might have to do a bit of digging...just so happens Ive been brushing up on my JFK research over the last few months and have seen a few docs, but mostly assassination-related and nothing that sounds like what you're describing. Good luck, if you find it, post it! 
+
+
+
+
+ Hmmm, could be this one....
+
+http://www.youtube.com/watch?v=_5tZQss8OJQ
+
+ 
+
+
+
+
+ Might have been "At The Brink":
+
+http://www.youtube.com/watch?v=v5H-Byt1GZs
+
+ 
+
+
+
+
+ Okay, if you haven't read the wiki entry, you're only getting the half of it. This is one of the most pathetic things I've read yet:
+
+http://en.wikipedia.org/wiki/Anita_Sarkeesian#Kickstarter_campaign.2C_subsequent_harassment
+
+ 
+
+
+
+
+ Still my favorite, Salt'n'Pepa Push It with The Stooges' No Fun:
+
+http://www.youtube.com/watch?v=2H4_7DF70_w
+
+ 
+
+
+
+
+ "The wife did not participate in the hearing."
+
+Unfuckingbelievable. She doesn't even have to be there! Sort of a reverse of the Nicole Ryan Doucet case where they didn't call her husband as a witness. Whatever...WHATEVER...lets the woman off the hook is okay in a court of law these days. 
+
+
+
+
+ Overhyped but worth watching once.
+ 
+
+
+
+
+ 59% of Quebec says they're racist:
+
+http://www.cbc.ca/news/canada/story/2007/01/15/mtl-racism.html
+
+ 
+
+
+
+
+ Radiohead - [Just](http://www.youtube.com/watch?v=-_qMagfZtv8) 
+
+
+
+
+ They both won.
+ 
+
+
+
+
+ I had to check to make sure this was written in 2013. The NYT is just figuring this out now? The job market is brutal. Soon, you'll need a Masters degree to work at Burger King.
+ 
+
+
+
+
+ Looks like he provided a halo for the lettering so it stands out a bit more.
+ 
+
+
+
+
+ Robocop.
+ 
+
+
+
+
+
+
+
+
+
+ The original terrorist, Stan The Man:
+
+http://www.youtube.com/watch?v=CMIM0OWnkVM
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I can't believe that Google hasn't considered all of this. No doubt half of their driverless car initiative involves lobbying to change liability laws. Plus, you want to sue Google on the basis that their hardware/software wasn't good enough? Good luck with that.
+ 
+
+
+
+
+ Underachievers, attack at your leisure.
+ 
+
+
+
+
+ Bin Laden truly was like some goddamn James Bond supervillain. He took on the Soviet Union and (with lots of U.S. help) the Mujahadeen slowly bled the USSR dry and helped speed up its collapse. It wasn't the main cause, but it didn't help them. Then he turned his sights on the U.S. and with 19 hijackers set the U.S. on a course of war for over a decade, slowly bleeding them of trillions of dollars. Now the USA sits as a virtual police state, bailing out banks while the middle class disappears. He was an asshole, but he was a smart asshole.
+ 
+
+
+
+
+
+
+
+
+
+ Awesome, thanks for the info. I've been on a Godard kick over the last week and have been reading up on him a fair bit. Just can't get enough Godard these days, a truly unique and fascinating filmmaker.
+
+ 
+
+
+
+
+ Orwell did: "All animals are equal but some animals are more equal than others." 
+
+
+
+
+
+
+
+
+
+ Thomas Frank has an excellent piece in the new Baffler about this:
+
+http://thebaffler.com/past/academy_fight_song
+
+Political scientist Benjamin Ginsberg tells the sorry tale in his 2011 book, The Fall of the Faculty. Back in the day, Ginsberg tells us, American universities were governed by professors, who would take time out from their academic careers to manage the institutions business affairs. Today, however, the business side of the university has been captured by a class of professionals who have nothing to do with the pedagogical enterprise itself.
+
+Administrators: Their salaries are generous, their ranks expand year after year, and their work requires no peer review and not even much effort. As Ginsberg reminds us, most of them dont teach courses, they dont squabble like English professors at the MLA, and no one ever suggests replacing them with adjuncts or temps. As tuition balloons, it is administrators who prosper. In fact, their fortunes are an almost exact reverse image of the tuition-indebtedness of the young. 
+
+
+
+
+ Exactly. The kamikaze was a desperation tactic and a terrible one at that. Check out "Wings of Defeat", excellent documentary on the kamikaze and shows how pitiful it was. 
+
+
+
+
+ Au contraire. You'll still have to pay insurance, but with less accidents, the companies will pay out less.
+ 
+
+
+
+
+ Have you seen the 2008 Tyson documentary? Pretty self-serving on the one hand, but quite honest as well. Just the way he admits to all his faults, admits to all the stuff he's done, yet absolutely refuses to admit any wrongdoing in the Washington case pretty much convinced me. Plus, it makes no sense. Why would he do it? He's Mike Tyson, the heavyweight champion of the world. He can get any one of a million women with a snap of his fingers, yet he has to rape someone? I don't buy it. It makes absolutely no sense.  
+
+
+
+
+ "Now then, Dmitri, you know how we've always talked about the possibility of something going wrong with the Bomb...The Bomb, Dmitri...the *Hydrogen* Bomb..." 
+
+
+
+
+ I do not believe he raped Desiree Washington. 
+
+He has copped to so much shit, admitted it, tried to come clean. He has absolutely nothing to lose by admitting the truth, yet it is one thing he absolutely refuses to apologize for. I believe him. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ [TIME Announces New Version Of Magazine Aimed At Adults](http://www.youtube.com/watch?v=4TT81o4hL4c) 
+
+
+
+
+ Next month's International Edition: The Syrian Question - Why Obama had to take action and the dangerous new American war.
+
+Next month's American Edition: Girl Gone Wild - Has Miley Cyrus Gone Too Far This Time? 
+
+
+
+
+
+
+
+
+
+ Thanks.
+
+ 
+
+
+
+
+ In common useage (sic), "not guilty" means "legally innocent."
+
+Not guilty means that there was not enough evidence to move a juror beyond a reasonable doubt. That is all. The jury CAN NOT find him innocent.  
+
+
+
+
+ I wonder how [Tim Uppal](http://www.timuppal.ca/), M.P. for Edmonton-Sherwood Park and Minister of State for Multiculturalism will react. 
+
+
+
+
+ The downvotes you're getting is a clear example of some redditors' acute misunderstanding of the law. Not guilty =/= proven innocent. It's a simple fact yet one so few here can grasp.
+ 
+
+
+
+
+ Naked Lunch and This Nation's Saving Grace.
+ 
+
+
+
+
+ Was thinking about Blood Meridian with Joy Division, but this is better. Godspeed would probably go well with a lot of Cormac McCarthy.
+
+ 
+
+
+
+
+ I've seen this story about ten times on reddit this weekend, but this one gets my up vote for the awesome headline.
+ 
+
+
+
+
+ The White Stripes.
+ 
+
+
+
+
+ Yes, I understand what you're saying but if you don't understand the importance of race in the problems of America, you don't understand the problem at all. 
+ 
+
+
+
+
+ Right and wrong. People are responsible for their actions, but systemic problems have to be taken into consideration. The fact that white America kills every black man who stands up for his rights like Medgar Evers, Martin Luther King, Malcolm X and Fred Hampton probably has something to do with it.
+
+http://www.youtube.com/watch?v=vdv08c0aiTE
+
+ 
+
+
+
+
+ http://www.youtube.com/watch?v=vdv08c0aiTE
+ 
+
+
+
+
+ Some more facts:
+
+http://www.youtube.com/watch?v=vdv08c0aiTE
+
+Of course I know you won't watch this because you don't want to be proven wrong, but until white America recognizes the cause of the black community's problems, nothing will change.
+ 
+
+
+
+
+ Right here. This is exactly what Reddit thinks and you couldn't be more wrong. If you want to be proven wrong, watch this:
+
+http://www.youtube.com/watch?v=vdv08c0aiTE
+
+But it's okay, I know you won't. 
+
+
+
+
+ Reddit's race-baiting begins anew. Because white people don't commit crimes.
+ 
+
+
+
+
+
+
+
+
+
+ Do you think your Wu-Tang sword can defeat me? 
+
+
+
+
+ Hunter S. Thompson was an important, entertaining journalist who deserved much, much better than Ellis' weak-ass Spider Jerusalem. I don't think I've ever disliked an homage/parody as much as Spider. 
+
+
+
+
+ Fair enough. But it IS an interesting look inside Hollywood. If he wasn't such a dick, it would be a great rags to riches story.
+ 
+
+
+
+
+ War is peace.
+
+Freedom is Slavery.
+
+Ignorance is Strength.
+ 
+
+
+
+
+ Seriously, check out Overnight. I think you'll be surprised at exactly how much of a complete and utter shitbag Troy Duffy really is. I mean, there are scumbags and then there are scumbags and then there's Troy Duffy. The article doesn't even tell the half of it. So full of himself it's unbelievable. If he had just fucked himself over, that would be one thing, but he fucks over his friends, and then he tries to fuck over Harvey Weinstein. Big mistake. Big, big mistake.
+ 
+
+
+
+
+ The story behind this movie is better than the movie:
+
+http://www.theguardian.com/film/2005/jul/01/1
+
+ 
+
+
+
+
+ Yeah, I think you're right. In The Firm, Bex obviously is a bit of a nutter and he "needs the buzz" but a lot of the other guys just want to be a part of something. "It's about belonging" says one guy at the end. They want to be a part of something and the violence is how they qualify themselves. We all have aggressive tendencies but you have to be a bit of a sociopath to make hooliganism part of your life. Fighting is one thing, slicing people's mouths open with razor blades is something else. 
+
+
+
+
+
+
+
+
+
+ There's a film about the group of photographers of which Carter was a member called [The Bang Bang Club](http://www.thebangbangclub.com/). Manic Street Preachers also wrote a song about him called [Kevin Carter](http://www.youtube.com/watch?v=hLDr0QNCUd4). 
+
+
+
+
+ There are lots and lots of other factors involved, and Taibbi addresses many of them. In fact, he doesn't even make the claim anywhere in the article that the high cost of college is in any way, shape or form the federal government's responsibility.
+ 
+
+
+
+
+
+
+
+
+
+ I had a friend who worked in the publishing industry, among people who worked in said industry, romance novels were known as "rape fiction". 
+
+
+
+
+ Lindsay Lohan, take note.
+ 
+
+
+
+
+ Thank you. This movie is mediocre at best. The Firm is superb.
+ 
+
+
+
+
+
+
+
+
+
+ "How far can you take it? Trick or treat...bang bang!"
+ 
+
+
+
+
+ My fave: [Bald asshole.](http://www.youtube.com/watch?v=AUdfdzm0EpU) 
+
+
+
+
+ Roxy Music - [Love is the Drug](http://www.youtube.com/watch?v=0n3OepDn5GU) 
+
+
+
+
+ Check out his channel, he's got a bunch of other really funny reviews, the Saturn 3 one is my fave:
+
+http://www.youtube.com/user/strontiumcrypt
+ 
+
+
+
+
+ A friend of mine did a hilarious review of this on youtube:
+
+http://www.youtube.com/watch?v=78cWW5BhYUw
+
+ 
+
+
+
+
+ Resisting arrest.
+ 
+
+
+
+
+ Better call Saul. 
+
+
+
+
+
+
+
+
+
+ Quite simply, one of the most stunning shots in the history of the medium.
+ 
+
+
+
+
+ While he wrote many plays and poems, Oscar Wilde only wrote one book, The Picture of Dorian Gray.
+ 
+
+
+
+
+ Couldn't have put it better myself. My guess, this link will just disappear and Reddit will go back to its usual race-baiting at the earliest opportunity.
+ 
+
+
+
+
+ Blood Meridian. If you've read it, you know it's one of the most disturbing endings to any book ever. 
+
+
+
+
+ Typical redditors. Bitch about Walmart's shit wages, then come up with bullshit excuses as to why it's okay to pay a millionaire movie star's body double the same shit wage. It's called fairness, look it up.
+
+Edit: [I'm not talking about rules. I'm talking about manners.](http://www.youtube.com/watch?v=mu_cYrDFU18) 
+
+
+
+
+ It just all sounds the same to me at this point. I'm certainly never surprised by him. I'm thinking primarily of the work he's done with Tim Burton. I can recognize it from the first couple of notes and it just grates on me. Stuff like the [Alice in Wonderland theme](http://www.youtube.com/watch?v=s5VcWD2LI7U) is just so hackneyed.  
+
+
+
+
+ Likewise. I was a little shocked at how...goddamned stupid...a lot of the comments were. Of course, a lot of those are from 60-year-olds who won't be around in 50 years so they just don't give a shit. Jesus, we are so screwed. 
+
+
+
+
+ There is probably no composer I love more than Ennio Morricone.
+
+There is probably no composer I loathe more than Danny Elfman.
+ 
+
+
+
+
+ Keanu Reeves is so awful in everything it's not even funny. His popularity is all out of proportion to his "talent." He does do a good vacant, empty idiot. I'll give him that. He's the anti-Gary Oldman.
+ 
+
+
+
+
+ Stop making shit movies you fucking hack. 
+
+
+
+
+
+
+
+
+
+ Everything O'Reilly's Saying ~~About Race~~ Is "Easily Debunked With About 20 Minutes Of Googling". 
+
+
+
+
+ I've probably watched the whole thing...er...four or five times. Yeah, I'm addicted, it's just too good. Your Apocalypse Now analogy is perfect. I don't want to be one of those guys who pushes it on people, but I always say that it's an entire piece, like five chapters of a book and you have to watch the whole thing to "get" it. Ever read Simon's blog? Some good stuff there: http://davidsimon.com/
+ 
+
+
+
+
+ How far into The Wire are you now? 
+
+
+
+
+ Excellent rule. I ain't so much as touched a burner in a year. 
+
+
+
+
+ Directed by Sren Kragh-Jacobsen.
+ 
+
+
+
+
+ From his comments on youtube:
+
+"No. Didnt promise anything at all. In fact, I had worked 60 hours that week and told her all week that saturday was my day to get stuff done around the house. But as usual she threw a fit about it. She has broken doors off the jambs at our house. Needless to say, that was the last day I lived in our house. I have moved out and filed a restraining order against her." 
+
+
+
+
+ Whoa, whoa, whoa...not an ounce of bitterness in my sentiment at all. Just calling it like I see it. It's the way things are but that doesn't mean you can't try and do something about it. By all means fight for what you think is right, but don't delude yourself as to how things are.
+ 
+
+
+
+
+ Get used to it. Welcome to the new normal.
+ 
+
+
+
+
+ Sigh.
+
+Can a "boy" beat up a grown man to have such injuries as Zimmerman had? It's not slander if it's true and shows evidence that's relevant, such as showing that Trayvon was perfectly capable of violence.
+
+You mean the ["very insignificant"](http://news.yahoo.com/zimmerman-trial-judge-tells-jury-ignore-detectives-description-163625943.html) injuries? Here we have the crux of the issue. Zimmerman was a coward. He had 25 pounds on Trayvon! Yet he couldn't handle him, and instead of fighting like a man, he shot an unarmed 17-year-old like a bitch. You just accept without question that Zimmerman shot in self-defense. I don't. 
+ 
+
+
+
+
+
+
+
+
+
+ Anything to slander a dead boy. Pathetic. You're more concerned about the PHOTO of a gun on a cellphone than the ACTUAL GUN Zimmerman used to murder him. Absurd. If your hero George had just been minding his own business, none of this would be an issue. Instead, he played cop and ended up murdering an unarmed 17-year-old. As a result, he will live the rest of his life in fear. Good.
+ 
+
+
+
+
+ More proof that Robert is a piece of shit:
+
+http://www.nydailynews.com/news/crime/zimmerman-brother-unleashes-twitter-rant-martin-case-article-1.1299501
+ 
+
+
+
+
+ More proof that Robert is a piece of shit:
+
+http://www.nydailynews.com/news/crime/zimmerman-brother-unleashes-twitter-rant-martin-case-article-1.1299501
+ 
+
+
+
+
+ Jesus, hadn't seen that before. Pathetic.
+ 
+
+
+
+
+ People can watch the entire interview and decide for themselves. What makes his answer particularly disgusting is that, as Cenk pointed out, he was being asked a question about how to bring people together, how to bring some healing to this situation. And he answers by bringing up the guns and drugs, which is just disgusting in the extreme. Perhaps the worst answer he could have given.
+
+That George Zimmerman will live the rest of his life in fear, looking over his shoulder, bothers me not in the slightest. That's what you get for stalking and murdering an unarmed person. Fuck him. 
+
+
+
+
+ Yes, all of that came out during the trial. You just don't seem to understand why it is wrong to slander a dead boy that your brother murdered. The links you provide are not evidence that he was growing marijuana nor that he was seriously trying to purchase a gun. How many 17-year-olds' cellphones have pictures of weed and guns? Probably most of them, but that is not evidence, and certainly not the kind of evidence that you would need to justify slandering a dead boy that your brother murdered after he got away with murdering him. 
+
+
+
+
+ Nowhere in your typo-riddled diatribe do you actually manage to defend Robert's words. So you must agree, back to the parent, that it is absurd to suggest that Robert has been "articulate and well mannered." His answer at the end was, quite simply, petty and disgusting. Perhaps it runs in the family.
+ 
+
+
+
+
+ Please do.
+ 
+
+
+
+
+ Yes. Do you? This isn't a case of that. [Here's the full interview.](http://www.youtube.com/watch?v=-ePcLS5f7jw) Please show me where he says something that mitigates the slander of a dead boy that his brother murdered. Where does he say something that justifies his drugs and guns comment? How is Cenk's analysis wrong? Please place that comment in context. 
+
+
+
+
+ Yes, fuck you as well.
+
+In this case, this is strictly ad hominem. It makes absolutely no difference who the host of the show is, the only thing that matters is did Robert say those things? Yes, he did, ergo he is a disgusting piece of shit. Q.E.D.
+ 
+
+
+
+
+ That both brothers are pieces of shit? Yeah, that truth must hurt.
+ 
+
+
+
+
+ Right back at you.
+ 
+
+
+
+
+ It makes no difference how polite he was in the rest of the interview if he also spewed that nonsense about drugs and guns. What kind of utter piece of shit do you have to be to badmouth a guy after he's dead and your brother got off on the charge? A Zimmerman piece of shit, I guess. 
+
+
+
+
+ "Robert has been nothing but articulate and well mannered through out this."
+
+[You must be joking.
+](http://www.youtube.com/watch?v=_-fxth4wKhQ)
+ 
+
+
+
+
+
+
+
+
+
+ [Back during slavery, there were two types of slaves...](http://www.youtube.com/watch?v=znQe9nUKzvQ) 
+
+
+
+
+
+
+
+
+
+ Liz clearly suffers from [bitchy resting face](http://www.youtube.com/watch?v=3v98CPXNiSk). 
+
+
+
+
+ Jesus fucking christ, take a fucking pill. Is this just an internet thing where people are rushing to take offense? First of all, sorry to hear you lost your job, second of all, if you're at all skilled, you'll find something else, third, Sun Media sucks shit. The end.
+ 
+
+
+
+
+ Wouldn't they just torture him to find out who the other people are, and then torture them to get each piece of the secret? 
+
+
+
+
+ Yes, yes, yes... 
+
+
+
+
+ :) 
+
+
+
+
+ It was a joke, son.
+
+BTW, I've been working in Canadian media for many years. I know what it takes to put out a newspaper.
+ 
+
+
+
+
+ Not 360 Sun Media jobs. I could understand if they were actual journalists and reporters, now that would be different....
+ 
+
+
+
+
+ Hilarious clip. 
+
+Terrible headline.
+ 
+
+
+
+
+
+
+
+
+
+ Still my favorite Wes Anderson movie. One of the best coming-of-age films ever made.
+ 
+
+
+
+
+
+
+
+
+
+ If only someone had told this to George Zimmerman.  
+
+
+
+
+ [Griselda Blanco](http://en.wikipedia.org/wiki/Griselda_Blanco). I thougth CC 1 was great, haven't seen 2 yet. 
+
+
+
+
+ In the state of Florida, the season on African-Americans now runs year round. Come one, come all.  And bring a handgun. The legislators are fine with this blood on their hands. The governor, too. One man accosted another and when it became a fist fight, one man  and one man only  had a firearm. The rest is racial rationalization and dishonorable commentary.
+
+If I were a person of color in Florida, I would pick up a brick and start walking toward that courthouse in Sanford. Those that do not, those that hold the pain and betrayal inside and somehow manage to resist violence  these citizens are testament to a stoic tolerance that is more than the rest of us deserve.  I confess, their patience and patriotism is well beyond my own.
+
+Behold, the lewd, pornographic embrace of two great American pathologies:  Race and guns, both of which have conspired not only to take the life of a teenager, but to make that killing entirely permissible.  I cant look an African-American parent in the eye for thinking about what they must tell their sons about what can happen to them on the streets of their country.  Tonight, anyone who truly understands what justice is and what it requires of a society is ashamed to call himself an American. 
+
+
+
+
+
+
+
+
+
+ [Posner's answer]( http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html):
+
+**Q: Can you explain what the House Select Committee on Assassinations (1978-79) found out in the acoustic evidence, and what happened afterward concerning the issue of the reliability of the evidence?**
+
+A: The House Select Committee on Assassinations used sound experts to listen to a Dallas police Dictabelt. They concluded with a 95 percent certainty that there was a fourth shot fired at Dealey Plaza, and it came from the grassy knoll.
+
+The National Academy of Sciences reviewed their work and found a multitude of errors and omissions. The most serious of which was that at the time that the Select Committee experts thought the shots were, [it] actually, [was] one minute after the assassination had actually taken place.
+
+Dealey Plaza is a veritable echo chamber, and it makes it very difficult sometimes to analyze the acoustic testimony. However, by looking at the statements of a witness who gave an opinion as to the source of the shots, we can see certain trends.
+
+Eighty-eight percent of the 179 witnesses who expressed an opinion said there were three shots and three shots only. The largest group that identified a location, 28 percent, said they came from the book depository. Only four witnesses, 2 percent of all the witnesses at Dealey, heard shots coming from more than one location. 
+
+
+
+
+ Watch [Kids](http://www.youtube.com/watch?v=Pkjj7MlvIyI). It's a modern masterpiece. Seriously, a terrific movie. Don't know how much Korine "wrote" since it's pretty cinema verite, but well worth checking out.
+
+ 
+
+
+
+
+ Yes, but it's one that makes sense and has evidence backing it up. The multiple shooter theory just requires too many assumptions. 
+
+
+
+
+ I honestly don't see any holes in the Oswald theory. One of the books I read was *Oswald's Tale* by Norman Mailer, an exhaustive, 800+ page biography. By the time he was 24, Oswald had: joined the marines, gotten court-martialed, become a Marxist, defected to Russia, gotten married, moved back to the States, started a pro-Castro group, attempted to assassinate a General, shot the president and killed a cop. It was a crazy life that all points to a nobody who wanted to be a somebody and Kennedy's visit gave him the opportunity. Don Delillo probably put it best:
+
+
+
+*"Oswald would not have walked two blocks to shoot at the president. The president had to come to him, and this is what happened, ruinously, on Nov. 22. This was an act of naked desperation. Oswald abandoned his claim to history and became the first of those soft white dreamy young men who plan the murder of a famous individual -- a president, a presidential candidate, a rock star -- as a way of organizing their loneliness and misery, making a network out of it, a web of connections."* 
+
+
+
+
+ I don't know. It was traveling fast enough that it broke the bone I suppose. 
+
+
+
+
+ How about anything. Anything at all. Any shred of proof of a conspiracy. Other than hearsay there isn't anything. 
+
+
+
+
+ If you don't buy Posner's argument, you don't buy it, nothing i can do about that. 
+
+Conspiracies exist. Who killed David Kelly? Who killed Gary Webb? I don't know.
+
+But you have yet to show me one single shred of evidence of any kind whatsoever. As I've said before, if Kennedy was killed by some conspiracy, it was the single most successful conspiracy in the history of mankind. So successful that every single piece of evidence about that conspiracy has been kept secret for 50 years. Not one single witness, not one piece of evidence has been revealed. That seems highly unlikely. 
+
+
+
+
+ lol...at least it's not Osamalives6493. That guy is crazy! 
+
+
+
+
+ Not necessarily. 
+
+
+
+
+ [There was no magic bullet. It travelled in a straight line.](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html)
+
+**Q: Can you give me the conventional conspiratorial descriptions of the "magic bullet's" movement, and what the four commissions which investigated the assassination concluded?**
+
+A: Critics claim that the bullet came through President Kennedy, hesitated for a second and a half in mid-air, deciding where to go, then made a right turn, went over and hit Governor Connally in the right shoulder, came out of his right nipple, made another right turn to move over and hit Governor Connally's wrist. Then when it came out of here, decided "Where should I go?" and made a left turn, a 90-degree turn, and went into his thigh. Four government commissions all concluded that's absolutely false, that, in fact, it was a straight line right through the two men.  
+
+
+
+
+ Suspicious, yes. But that just doesn't mean there was a conspiracy. There just isn't any evidence of any kind. Not even a little bit. It's all just conjecture.
+ 
+
+
+
+
+ Sure, it's suspicious. Things seem weird. It doesn't add up...all of this falls far short of any hard evidence. If there was any evidence of any kind whatsoever, you'd have some kind of argument for a conspiracy, but there just isn't any evidence at all of any kind. 
+
+
+
+
+ Damn! You figured it out!!! My plans are ruined!!!
+
+But seriously, not sure where it is online, but if you can find it, well worth watching.
+ 
+
+
+
+
+ [From the Posner interview:](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html)
+
+**On the night of Nov. 22, where is Ruby emotionally?**
+
+I view Ruby as very agitated from the night of the assassination, Friday. It continues to build through Saturday. A number of events take place that sort of seem to propel him at even a faster rate into what I view as this emotional deterioration.
+
+One of them is the belief that the Jewish community in Dallas is going to be blamed for the assassination, based upon an ad that had run the day the president arrived, signed by a Jewish name. Another is when he comes across a billboard that says, "Impeach Earl Warren." [He believes] that it may be part of a right-wing plot connecting the billboard to the anti-Jewish campaign, furthering his excitability.
+
+The third is that he runs into a stripper and a policeman together in a car on Saturday night. They talk to him for about an hour, and they carry on that Oswald should be taken and quartered; that if it was England, he would be carried through the streets, and he would be dead.
+
+Ruby gets very worked up into this very anti-Oswald feeling. He is really at the edge of this emotional stability by the time Saturday rolls into Sunday.  
+
+
+
+
+ [From the Posner interview:](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html)
+
+**On the night of Nov. 22, where is Ruby emotionally?**
+
+I view Ruby as very agitated from the night of the assassination, Friday. It continues to build through Saturday. A number of events take place that sort of seem to propel him at even a faster rate into what I view as this emotional deterioration.
+
+One of them is the belief that the Jewish community in Dallas is going to be blamed for the assassination, based upon an ad that had run the day the president arrived, signed by a Jewish name. Another is when he comes across a billboard that says, "Impeach Earl Warren." [He believes] that it may be part of a right-wing plot connecting the billboard to the anti-Jewish campaign, furthering his excitability.
+
+The third is that he runs into a stripper and a policeman together in a car on Saturday night. They talk to him for about an hour, and they carry on that Oswald should be taken and quartered; that if it was England, he would be carried through the streets, and he would be dead.
+
+Ruby gets very worked up into this very anti-Oswald feeling. He is really at the edge of this emotional stability by the time Saturday rolls into Sunday.  
+
+
+
+
+ What's not to buy? It's physics. If you shoot something from the back, the explosion, the force, comes out of the front, pushing the head back.  
+
+
+
+
+ From the [Posner interview](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html):
+
+**Q: Describe Lee Harvey Oswald's shooting ability.**
+
+A: Just three weeks after joining the Marines, he's trained in the use of an M-1 rifle. He shoots on a rifle range [a score of] 212, which means he qualified for the second-highest position in the Marine Corps, that of a sharpshooter.
+
+Near the end of his stay in the Marines in 1959, after being court-martialed twice and his morale was low, he went back to re-qualify himself in the range -- still shot a 191, and still qualified as a marksman. That meant that he could hit a 10-inch target eight times out of ten from 200 yards away. 
+
+
+
+
+ Nope. It's suspicious as hell. As was the murder of Malcolm X, David Kelly, Gary Webb, and a whole host of others. Conspiracies exist. But the thing with JFK is this: in 50 years, not one single shred of hard evidence has come to light. Not one. Not even a little bit. Other than hearsay and conjecture, there simply is not one single piece of hard evidence at all. You know why? Because it doesn't exist. Seriously, check out "Oswald's Ghost." Excellent documentary.
+ 
+
+
+
+
+ Sigh. The big one. Here's the thing. If you shoot someone in the back of the head, the bullet hole going in is small. The shot coming out is big. The explosive force out of the front is going to push the head back.
+
+
+From the [Posner](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html) interview:
+
+**Q: The head wound. Everyone looks at the backward motion of the president's head and says, "That's got to mean the shot came from the front and shoved the head back."**
+
+A: When I first saw the Zapruder film, I thought that it was evidence of a shot from the front. ... I asked the experts, "What does that mean, that backwards head movement?" What they told me is, several things are happening. First, as the cortex of the brain is destroyed, a neuromuscular response shoots down the spine, sending a seizure through the body. The body's muscles twitch, with the large muscles in the back predominating.
+
+Remember, Kennedy's wrapped into a back brace. It's wrapped right underneath his breast all the way down and wrapped around his legs. You can't tell from that seizure where he's going to move in the car. But then something happens. Out the right side of his head, an explosion takes place. On the [enhanced Zapruder film](http://www.youtube.com/watch?v=gPdBXh-ltaA), you can see a cloud, a red mist of brain and blood tissue moving forward. It's almost a jet effect. As that propels out his head, it has much more force than the force of the bullet moving in, and it shoots him in the opposite direction. It shoots out to the right front and left, violently.
+
+Two things. As the president's brain is destroyed, he goes into a neuromuscular seizure. His body starts to stiffen up. At the same time that the wound explodes out the right front side of his head and as that blood and brain tissue moves out, it forces him in the opposite direction, the jet effect, back and to the left, violently.  
+
+
+
+
+ Jack Ruby?
+ 
+
+
+
+
+ I don't deny for a second that conspiracies exist. COINTELPRO and Watergate prove it. I know my Malcolm X really well and know the FBI and NYPD had a hand in it. (John Ali, the NOI's national secretary was an FBI agent.) But the problem with Kennedy is that there is no actual, real, hard, concrete evidence. None. At all. Not even a little bit. Just some hearsay. In 50 years not one single shred of hard evidence has come to light. It's because there isn't any. Seriously, check out Oswald's Ghost, probably the best documentary on the assassination. It answers a lot of these questions. 
+
+
+
+
+ Just ramblings. Inject him with cancer cells? Really? If "they" wanted him dead because of what he'd reveal, he'd be dead. Again, no evidence at all, just conjecture.
+ 
+
+
+
+
+ Why wouldn't he just want to get away with it so that, you know, he didn't go to jail for the rest of his life?
+
+I highly, highly recommend watching [Oswald's Ghost.](http://www.pbs.org/wgbh/amex/oswald/) 
+
+
+
+
+ How is the secret service going to close every single window in Dallas?
+
+JFK had enemies, but again, there is simply no evidence of any kind that there was a conspiracy. If it was, it was the most successful conspiracy in the history of the world. Occam's razor works here. The Oswald theory requires no assumptions, the conspiracy angle requires about a million.
+ 
+
+
+
+
+ Conspiracies certainly exist. The FBI had a hand in Malcolm X's assassination as well, COINTELPRO was a vicious operation, but when you study the JFK assassination, there's just no evidence whatsoever. If it was a conspiracy, it was the most successful conspiracy in the history of the world. Not a single piece of evidence has ever been uncovered.
+ 
+
+
+
+
+ Grrrr. That makes me upset. I've read about four different translations of the book and know it fairly well. Would love to see a good documentary based on it, exploring how various generals did or did not apply the lessons of the book throughout history...but I guess this isn't it. 
+
+
+
+
+ No.
+ 
+
+
+
+
+ Two weeks past his 17th birthday, yes. I'm not assuming he didn't start the confrontation, but there is no proof he did and, I think, plenty of proof of how aggressive Zimmerman was: "Fucking punks", "Assholes", driving around with a loaded gun, following Trayvon (even after he was asked not to). Only if you give Zimmerman every benefit of every doubt does his story make sense, which I won't do. Not with Trayvon dead.
+
+The thing is, even if every aspect of Zimmerman's story is true and we believe every single thing he says, I still think he should go to jail. If we let Zimmerman go, then it's just open season on people. It means I can go around with a gun, provoke people, yell "Help!", kill them and then claim self-defense. That's insanity.
+
+[The war on drugs is a war on black people.](http://drugwarfacts.org/cms/?q=node/64#sthash.diwVnr9b.dpbs)
+
+Have you seen [The Wire](http://www.youtube.com/watch?v=RDMoKfvPe70)? I cannot recommend it highly enough. (The link is just to some scenes from the third season. A good action sequence but doesn't give an idea of the show's entire message.) The best show in the history of television. David Simon, the show's creator, put it best. [The drug war is a holocaust in slow motion.](http://www.guardian.co.uk/world/2013/may/25/the-wire-creator-us-drug-laws) 
+
+
+
+
+ Posner addresses that in the interview linked above:
+
+"The House Select Committee on Assassinations used sound experts to listen to a Dallas police Dictabelt. They concluded with a 95 percent certainty that there was a fourth shot fired at Dealey Plaza, and it came from the grassy knoll.
+
+The National Academy of Sciences reviewed their work and found a multitude of errors and omissions. The most serious of which was that at the time that the Select Committee experts thought the shots were, [it] actually, [was] one minute after the assassination had actually taken place.
+
+Dealey Plaza is a veritable echo chamber, and it makes it very difficult sometimes to analyze the acoustic testimony. However, by looking at the statements of a witness who gave an opinion as to the source of the shots, we can see certain trends.
+
+Eighty-eight percent of the 179 witnesses who expressed an opinion said there were three shots and three shots only. The largest group that identified a location, 28 percent, said they came from the book depository. Only four witnesses, 2 percent of all the witnesses at Dealey, heard shots coming from more than one location." 
+
+
+
+
+ Other communities face robberies yet unarmed sixteen-year-olds don't get gunned down because they don't have Zimmermans walking around.
+
+Saying your life is in danger after the fact doesn't make it so. A few scratches and a bloody nose doesn't make it so. I think Zimmerman overreacted and a boy is dead. He should suffer the consequences.
+
+Having a half-black man in the White House doesn't mean a thing for the majority of black people in the U.S. [The war on drugs is a disguise for a war on black people](http://davidsimon.com/a-fight-to-the-last-mexican/).
+
+"One of every nine black families has a close relative in prison over aggressive arrests done by US law enforcement. Even though usage of illegal drugs are roughly the same along racial lines, the Drug Policy Alliance Network shows that blacks constitute 13 percent of drug users, but are 38 percent of people arrested for drug offenses, and 59 percent of those convicted. The Human Rights Watch supported this claim as well, stating that of blacks convicted of drug crimes 71% are incarcerated, compared with 63% of convicted whites. US laws have a much higher penalty for possession and distribution of crack cocaine, a frequently used drug among African Americans and this affects the Black community as well." - Wiki
+
+ 
+
+
+
+
+ See, I just think you're giving Zimmerman way too much benefit of the doubt. The way you're presenting him is as a dutiful citizen going about his business and helping the neighborhood. From his comments about fucking punks and assholes always getting away and his suspicion of Trayvon (which in hindsight was 100% wrong), I think it's clear he's on the prowl looking for trouble. Why follow him? He was looking for trouble. Why have a gun? He's looking for trouble. If he was a neighborhood watch good guy, the police would've been called and that would be that. But Trayvon's dead and Zimmerman killed him, we can agree on that, and the idea that unarmed 16-year-old Trayvon posed such a threat that Zimmerman was within his rights to blow a hole in his chest is just absurd to me.
+
+Frankly, if Zimmerman gets off scott-free, there *should* be riots in Florida. Black people are still second-class citizens in the U.S. 
+
+
+
+
+ Actually, I took an interest in the JFK assassination a while back and after reading quite a few books on the topic, and watching several documentaries, I would have to say that I am more convinced than ever that Lee Harvey Oswald acted alone. Crazy, I know, but I think you'll find all of the conspiracy theory is just that, theory. No concrete evidence of a conspiracy has ever been uncovered in the last 50 years because no evidence exists. This [Gerald Posner](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html) interview is pretty good at answering a lot of the questions around the assassination. Also, check out ["Oswald's Ghost"](http://www.pbs.org/wgbh/amex/oswald/). It makes an extremely strong case for Oswald acting alone. They also make clear that Jim Garrison was a loon. 
+
+
+
+
+ No, it hasn't been settled. There are arguments on both sides. I think here is a clear case of reasonable doubt. The prosecution interpreted it as "fucking punks", you think it's "fucking cold", I think it's "fucking coons". Reasonable doubt.
+
+[Prowl](http://www.thefreedictionary.com/prowl): "To roam through stealthily, as in search of prey or plunder." That's what he was doing.
+
+[Vigilante](http://dictionary.reference.com/browse/vigilante): "One who takes or advocates the taking of law enforcement into one's own hands." That's what he was.
+
+[Fake-ass](http://www.urbandictionary.com/define.php?term=fake-ass): "Describing or pertaining to one's inability to accomplish their motives. When one tries to be something they are not." That one's from the Urban Dictionary, but I think it applies pretty well!
+
+I am using that quote to show his frame of mind, not who initiated the confrontation. His frame of mind was clearly, obviously, already confrontational. As for Trayvon's "drug use", that's the weakest shit I've heard about this entire case. The idea that marijuana is at all relevant is just more pro-Zimmerman nonsense. Besides, whether or not he was "on drugs" is different than if he had marijuana in his system, and I understand the latter to be the case.
+
+Watch the O'Donnell clip, it's good.
+
+So, we just have to agree to disagree. I think it's unreasonable doubt. I think he's going to get off scott-free and Florida will explode. We'll see.
+
+As an aside, you seem like a reasonable person, doesn't it bother you that you're throwing your lot in with the FOX News/Breitbart/anti-black crowd? They're pretty much wrong 100% of the time. 
+
+
+
+
+ If the prosecution didn't use it, it's probably because they didn't think it was clear enough to help their case. That's not proof he didn't say it. Maybe he said goons? Maybe it was tunes? Maybe it was dunes? Maybe.
+
+Zimmerman WAS on the prowl. He WAS a vigilante. He WAS a fake-ass cop. Those aren't emotional terms. They're facts. What else could you possibly call him? His own words condemn him. "This guy looks like he's up to no good, or he's on drugs or something. These assholes, they always get away. These fucking punks." and, quite likely, "[fucking coons](http://www.youtube.com/watch?v=1IKKqnF0WlE)". (A different link than the previous one. Lawrence O'Donnell takes apart the argument that it's "goons.")
+
+I think the "reasonable doubt" standard is what we disagree upon. To me, to suggest Zimmerman should get off scott-free could only be arrived at by invoking unreasonable doubt. 
+
+
+
+
+ You're letting yourself get emotional and sarcastic, that doesn't really help the discussion.
+
+You're talking about one audio expert, I'm providing you with the fact that it was 16 degrees Celsius and he had a jacket on and the actual recording of what he said. You can continue to believe whatever you want, but I think you're stretching the facts past the breaking point. It wasn't cold and it's certainly possible, is it not, that he said coons? Surely there's some reasonable doubt there.
+
+Again, he was on the prowl with a loaded gun and followed Trayvon, an altercation ensued and Trayvon is dead. Somehow, you're putting all of this together to the point of exculpating Zimmerman. You're not even allowing the possibility of him being responsible for the murder he committed. I haven't said any of those things about Trayvon, yet you're basically saying them about Zimmerman. Proud and noble defender of justice saving us all from the house-robbing darkies. More like fake-ass cop following people with a loaded gun who got in over his head and committed murder. But in America, you can get away with murder as long as it's black people you're killing. That's been true for a long time, and you refuse to see America's racial history as playing a part in this story. That's being willfully obtuse in my book.  
+
+
+
+
+ I highly, highly doubt it sounds like cold to you. I think you can obviously hear him saying coons but your bias won't let you admit it. The thing is, it *wasn't* cold. [It was over 16 degrees Celsius at the time he made the call](http://www.wunderground.com/history/airport/KSFB/2012/2/26/DailyHistory.html?req_city=Sanford req_state=FL req_statename=Florida) *and* Zimmerman had a jacket on! "Cold." Bullshit.
+
+The whole issue of who made the confrontation physical is a matter of pure conjecture. Trayvon is dead so we only have one side of the story. You don't know who made it physical and neither do I. All we know is that a self-appointed vigilante driving around with a gun murdered an unarmed 16-year-old. The majority of people on reddit think he should get off scott-free. That's fucking insane.
+
+I'm not making this racial, it is racial. Black people are disposable in the U.S. and have been for a long time. This is just another example of it. As I said, if Trayvon was white and Zimmerman was black, this case would be open and shut. That's America.
+
+
+
+
+ 
+
+
+
+
+ White men kill black men and black men kill white men all the time. The reason Trayvon's murder is getting play is because he was an unarmed 16-year-old murdered by a man who wasn't even charged at the time. They took his word for it and that was that. That is the value America puts on the life of black men. Hopefully all four of those black guys go away for a long, long time. But to suggest that America places more emphasis on white on black crime is absurd. [Frankly, I think if the races were switched, we wouldn't even be having this conversation.](http://i.imgur.com/wFMPKKy.jpg) 
+
+
+
+
+ How about ["Fucking coons"](http://www.youtube.com/watch?v=eGuctYqCDvo)? Sounds racial to me.
+
+There is no reasonable doubt as to who blew a whole in Trayvon's chest. I also think that the guy driving around with a loaded gun following people is clearly the one making the confrontation physical. Only in America is the guy walking back from the store with Skittles the one to blame. [Again, if Trayvon was white and Zimmerman was black, we wouldn't be having this conversation.](http://i.imgur.com/wFMPKKy.jpg) 
+
+
+
+
+ What does a totally unrelated news story have to do with this? Who's saying the Marietta murder wasn't racially motivated? Looks like it was. So what?  
+
+
+
+
+ Your bias is showing. The self-appointed vigilante George Zimmerman blew a hole in an unarmed 16-year-old's chest after following him after he had been told not to and looking for a confrontation. "Fucking punks. These assholes. They always get away." When the bitch-ass Zimmerman started getting his ass beat he went for his gun like a coward. Hope he goes away for life. If Zimmerman was black and Trayvon was white, Zimmerman would have been locked away a long time ago. 
+
+
+
+
+ I just can't believe how many people on reddit have no problem with what Zimmerman did. If he gets off scott free, the message is out: it's open season on black people. Hunt them down and provoke them into a fight and you can murder them and nothing will be done. Disgusting and disappointing in the extreme.  
+
+
+
+
+ The death spiral continues...
+ 
+
+
+
+
+ Graphic displays melt the steel like blacksmiths 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fucking reddit. So smart when it comes to most issues, so fucking stupid when it comes to matters of race. You can't break a man's legs and then complain that he isn't running fast enough. Every single person who commits a crime is responsible for their actions and should be punished accordingly. I repeat, **every single person who commits a crime is responsible for their actions and should be punished accordingly** but if you don't know your history, you won't know why we are where we are. Of all our studies, history is best qualified to reward our research. I'm going to keep posting this video in every thread where reddit rears its knee-jerk racism:
+
+http://www.youtube.com/watch?v=vdv08c0aiTE
+
+ 
+
+
+
+
+ Harold Bloom does the same thing in the Modern Classics introduction to Blood Meridian. Kind of ridiculous. 
+
+
+
+
+ Came across it a couple of years ago, it's actually Japanese:
+
+http://io9.com/5723698/a-massive-cross+section-map-of-the-walled-city-of-kowloon
+
+http://www.deconcrete.org/2010/03/30/un-real-estate-kowloon/
+ 
+
+
+
+
+ As long as hip hop exalts people like Drake over groups like The Roots, it will remain a disposable medium full of disposable people broadcasting a disposable message.
+ 
+
+
+
+
+ A cross-section: [inside the walled city](http://www.rioleo.org/kowloon/crosssection.jpg).
+
+
+ 
+
+
+
+
+ Malcolm X has to be up there. Which is a shame only because so few rappers (Dead Prez aside) actually know anything about him. I think he'd be disappointed in how the black community and hip-hop have essentially rejected his philosophy in favor of bank rolls and hos. 
+
+
+
+
+ Man, good question, there really are a ton of great scenes. I like the old guy explaining anarchism, I like the JFK buff "I'm going to call it either Profiles in Cowardice or Conspiracy a Go-Go", I like the black dude on the street, "Remember, terrorism is the surgical strike capability of the oppressed...can I interest you in a t-shirt?". I also like the guy who thinks we've been on the moon since the 50s. Damn, I can't choose, too many hilarious moments! 
+
+
+
+
+ I fucking love this movie. One of the best indie films ever made. 
+
+
+
+
+ Couldn't agree more. I think this is true of films in general, I like to go into them blind, but it applies even more for The Holy Mountain because it's such a mindbending experience.
+ 
+
+
+
+
+ I do see what you mean, but I also think it's a valid psychological tactic. Risky, as we've just seen, but I wouldn't classify it as "classless shenanigans". He's trying to mess with the other guy's head and if it makes the other guy lose his cool, or throws him off his game plan, which it certainly can do, I think it's a valid part of the game. Here's [Emanuel Augustus](http://www.youtube.com/watch?v=wvkRpykP6mQ) explaining his game. 
+
+
+
+
+ This is EXACTLY the kind of movie you don't want to know anything about before watching for the first time. Worry about "understanding" and "appreciating" it later. You only get to watch this for the first time once, and it is best to go into it knowing nothing. The analysis can come later.
+ 
+
+
+
+
+ If I had to describe the way I survive its like vice squeezin
+
+The reason I'm black and still breathin
+
+Heathens will breed heathens so
+
+Everybody's suspect I must check your ID
+
+Cuz you lookin sheisty you might be intelligence
+
+Someone that Del's against
+
+Opposite or positive
+
+When I drop the law against nature be faithful
+
+Why should I hate you we ain't that different
+
+We may act differen't in some ways
+
+But we still grouped together like a fuckin survey
+
+Sufferin and fuck em all's the motto
+
+I'm trapped in a bottle
+
+My music's gettin hollow
+
+That's what happens when humanity you follow
+
+Where every leak or info is hard to swallow
+
+Sell your Marlboros and car insurance
+
+Put niggas on the moon and can't pay your burdens
+
+I smoke herb and rock a turban
+
+Meditate on the world and whats occurrin
+
+A lot of white boys like the style and copy
+
+Dig in something deeper and youll peep that were not free
+
+It's not about the seperation its about the population
+ 
+
+
+
+
+ Here's why:
+
+http://www.youtube.com/watch?v=vdv08c0aiTE
+ 
+
+
+
+
+ There is an excellent documentary on the Mafia called "Excellent Cadavers." I saw it a few years ago and thought it was quite good. Here's a NYT review:
+
+http://movies.nytimes.com/2006/07/12/movies/12cada.html?_r=0
+ 
+
+
+
+
+ Thanks! Very much looking forward to an overview of the 71-75 period, my favorite Miles era.
+ 
+
+
+
+
+ What a two-faced hypocrite...from wiki:
+
+"In April of 2010, Fathers4Justice members backed Caroline Nokes for election as her party backed Fathers4Justices' campaign for change to family law. Nokes campaigned along side Fathers4Justice for her election, once elected in 2013 Nokes broke ties with Fathers4Justice and their campaign." 
+
+
+
+
+ Another great Public Enemy album.
+ 
+
+
+
+
+ The best action movie ever made. Sheer genius!
+ 
+
+
+
+
+ God, who'd wanna be such an asshole? 
+
+
+
+
+ Great writeup, good job! Just have to mention one of my absolute favorite Manics tracks, Found That Soul:
+
+http://www.youtube.com/watch?v=-uwacLOnyKA
+
+ 
+
+
+
+
+ No, that won't work. Reverse the polarity.
+ 
+
+
+
+
+ That must sting.
+ 
+
+
+
+
+ Word. Couldn't agree more. If only he'd had that budget. If only I trusted someone today to do it today...someone working with HBO? Fortunately, between the manga and the anime, what we have is a modern sci-fi story that stands among the best the 20th century has to offer. It's as good as Star Trek, Star Wars, Blade Runner, etc. Thanks Katsuhiro! Also, Domu is brilliant!
+ 
+
+
+
+
+ It's not you. I'm a huge, huge fan of Akira, but I honestly believe you have to read the comic to truly understand it. 
+
+
+
+
+ I really, really hate to be THAT GUY, but as a huge fan of the anime, I just have to say, if you liked the movie, you'll LOVE the manga. As a comic book fan for many years prior to reading Akira, I was blown away. I just can't recommend it enough. I truly believe it will enhance your enjoyment of the film. 
+
+
+
+
+ Central Park:
+
+http://www.youtube.com/watch?v=qy1hXDOenOY
+ 
+
+
+
+
+ Hell no.
+ 
+
+
+
+
+ If you haven't seen it before, watch this. Bjork, All is Full of Love:
+
+http://www.youtube.com/watch?v=EjAoBKagWQA
+
+ 
+
+
+
+
+ "I know what I am talking about when I am talking about the revolutions. The people who read the books go to the people who can't read the books, the poor people, and say, "We have to have a change." So, the poor people make the change. And then, the people who read the books, they all sit around the big polished tables, and they talk and talk and talk and eat and eat and eat. But what has happened to the poor people? They're dead! That's your revolution! So, please, don't tell me about revolutions! And what happens afterwards? The same fucking thing starts all over again!" 
+
+
+
+
+ People shouldn't be afraid of their government. Governments should be afraid of their people. 
+
+
+
+
+ Yes!
+ 
+
+
+
+
+ War is god.
+ 
+
+
+
+
+
+
+
+
+
+ And the private prison industry laughs.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Despite the videos, he's actually a pretty cool character. But, to be honest, the show really isn't that great. Check out the new [BSG](http://en.wikipedia.org/wiki/Battlestar_Galactica_%282004_TV_series%29) if you haven't already, much better show. 
+
+
+
+
+ [Here you go.](http://www.youtube.com/watch?v=nXrlhN9rPoc) 
+
+
+
+
+
+
+
+
+
+ This article in the Daily Beast was written on January 27, 2014 and does not address the claims made by Dylan Farrow in the New York Times on February 1st, 2014.
+ 
+
+
+
+
+ Prove it.
+ 
+
+
+
+
+ Is Kevin O'Leary as much of an asshole in real life as he seems to be on television?
+ 
+
+
+
+
+  "I expect a certain level of professionalism and respect."
+
+
+Justifying a petulant, angry, pathetic answer by appealing to "professionalism and respect." Awesome.
+ 
+
+
+
+
+ http://en.wikipedia.org/wiki/What%27s_the_Matter_with_Kansas%3F
+ 
+
+
+
+
+
+
+
+
+
+ Blood Meridian. So savage and violent with such a brutal ending. A masterpiece.
+ 
+
+
+
+
+ Here's the Gawker story:
+
+http://defamer.gawker.com/here-are-plot-details-from-quentin-tarantinos-leaked-1507675261
+ 
+
+
+
+
+
+
+
+
+
+ Here's the wikipedia page on it, pretty horrifying really:
+
+http://en.wikipedia.org/wiki/1961_Goldsboro_B-52_crash
+
+ 
+
+
+
+
+ Thank you. So sick of hearing the "So you wanna gets rid of all techmology, huh???" argument.
+ 
+
+
+
+
+
+
+
+
+
+ Romani ite domum! 
+
+
+
+
+ Congratulations! Good luck with your new job!
+ 
+
+
+
+
+
+
+
+
+
+ [Jeepers Creepers.](http://www.youtube.com/watch?v=Bxfxfh9w44g) 
+
+
+
+
+ Yeah, the whole series is nuts, but there's something extra special about DW3. Just can't get enough of it, it's so perfectly crazy.
+
+ 
+
+
+
+
+ If you haven't seen [Death Wish 3](http://www.youtube.com/watch?v=h0ZP4S3xZgE), you don't know what a good bad movie is. A crappy 80s sequel that turns out to be a complete masterpiece of hackery. Absolute Must See, better than every flick mentioned in the post.
+ 
+
+
+
+
+ Sounds like my father.
+ 
+
+
+
+
+ "The closest thing to a perfect movie that I have ever seen." - John Woo
+ 
+
+
+
+
+ ALL THESE WORLDS
+
+ARE YOURS EXCEPT
+
+[EUROPA](http://www.youtube.com/watch?v=38EDhpxzn2g t=2m)
+
+ATTEMPT NO
+
+LANDING THERE 
+
+
+
+
+ It's a really fun game and one that really rewards getting good at it. Once you're actually good at it and can pull off the various moves easily, it becomes quite the cinematic experience and more fun. Plus shooting people from a distance in slow-mo never gets tired. Have fun!
+ 
+
+
+
+
+ I love this Harold Bloom quote about it:
+
+"The first time I read Blood Meridian, I was so appalled that while I was held, I gave up after about 60 pages. I dont think I was feeling very well then anyway; my health was going through a bad time, and it was more than I could take. But it intrigued me, because there was no question about the quality of the writing, which is stunning. So I went back a second time, and I got, I dont remember 140, 150 pages, and then, I think it was the Judge who got me. He was beginning to give me nightmares just as he gives the kid nightmares."
+
+ 
+
+
+
+
+ That book is a joy compared to Blood Meridian. 
+
+
+
+
+ Say what you want about Lennox Lewis, the man was a great champion. He may not have been the most exciting fighter but he was patient, fought his way to the top, put up with a lot of shit and when he finally got his chance, cleared up the Heavyweight division. He beat Holyfield, Tyson and Klitschko. I always loved his [knockout against Michael Grant](http://www.youtube.com/watch?v=FpdGFK_mqZI). 
+
+
+
+
+
+
+
+
+
+ What a bitch.
+ 
+
+
+
+
+ It's hyped beyond all belief, to be sure, but it is quite excellent. But when you do eventually check it out, do yourself a favor and make sure you get a good copy, have some time set aside, turn off phones, etc. Oh, and remember, The Godfather is one movie in [two parts](http://www.youtube.com/watch?v=3KD8c5MHrn4). (Not three!)
+ 
+
+
+
+
+ When you have to shoot, shoot. Don't talk.
+ 
+
+
+
+
+ Buckley came out in favor of legalizing drugs almost 20 years ago:
+
+http://www.thirteen.org/openmind/the-law/on-legalizing-drugs%E2%80%A6with-william-f-buckley/181/
+
+ 
+
+
+
+
+
+
+
+
+
+ [The Tank Man.](http://www.famouspictures.org/wp-content/uploads/2013/05/Tank-Man1.jpg) 
+
+
+
+
+ That's Wellesley.
+ 
+
+
+
+
+ "Wu-Tang is for the children." It doesn't even rhyme yet it's one of the best hip hop lines ever.
+
+ 
+
+
+
+
+ *"The essential act of war is destruction, not necessarily of human lives, but of the products of human labour. War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent. Even when weapons of war are not actually destroyed, their manufacture is still a convenient way of expending labour power without producing anything that can be consumed. A Floating Fortress, for example, has locked up in it the labour that would build several hundred cargo-ships. Ultimately it is scrapped as obsolete, never having brought any material benefit to anybody, and with further enormous labours another Floating Fortress is built. In principle the war effort is always so planned as to eat up any surplus that might exist after meeting the bare needs of the population."* 
+
+
+
+
+ Here's  a documentary about his atrocities:
+
+[White King, Red Rubber, Black Death](http://www.youtube.com/watch?v=aUZLtkLA0VE) 
+
+
+
+
+ I scream, you scream, we all scream for ice cream!
+ 
+
+
+
+
+ Sounds cool. I liked JA but you're right, I didn't really use a lot of the fancy moves. Damn that shit was fun.
+ 
+
+
+
+
+ Never got a chance to play it. Did you like it more than Academy? I really got into Academy, some levels were really fun to play over and over. Plus the mod community for it was really good.
+ 
+
+
+
+
+ Jedi Academy was actually pretty cool.
+ 
+
+
+
+
+ cf. Rob Ford
+ 
+
+
+
+
+ A much better movie on football hooliganism, The Firm starring Gary Oldman:
+
+http://www.youtube.com/watch?v=VznoshagNbI
+
+ 
+
+
+
+
+ For those looking for a vegetarian option, The Jane Bond across from the old Princess Cinema has some of the best food in town. Specifically, try their eggplant sandwich, unbelievably good.
+ 
+
+
+
+
+ Yeah, it wasn't so bad. Quite a few problems with it for sure, but overall, it had enough cool stuff to keep me entertained.
+ 
+
+
+
+
+ "In the end they will lay their freedom at our feet and say to us, Make us your slaves, but feed us." 
+
+
+
+
+ Rob Ford DOES kind of remind me of the Penguin....
+
+http://www.youtube.com/watch?v=bgJ5AcsXp4M
+
+ 
+
+
+
+
+ For sure, overseas and American banks. Matt Taibbi had a good piece about this a while ago:
+
+http://www.rollingstone.com/politics/blogs/taibblog/outrageous-hsbc-settlement-proves-the-drug-war-is-a-joke-20121213
+
+ 
+
+
+
+
+ Wikipedia says 180,000 feet. 56km! So insane....
+ 
+
+
+
+
+ Banks...
+ 
+
+
+
+
+ Yeah, totally. It was supposed to be 6 megatons and ended up being 15! So it was 250% bigger than they expected. As a result it was the worst radiological accident in American history. There's an excellent writeup about it on this page:
+
+http://blog.nuclearsecrecy.com/2013/06/21/castle-bravo-revisited/
+
+ 
+
+
+
+
+ Exactly. Follow the money. There are so many vested interests that want it to stay illegal because that's how they earn their living. Cops, judges, lawyers, prison guards, etc. etc. etc.
+
+
+ 
+
+
+
+
+ Thanks dude, hopefully I'll find out next week. Would be a nice Xmas present!
+ 
+
+
+
+
+ Yeah, it really is a great movie and, unlike lots of other flicks, quite historically accurate.
+ 
+
+
+
+
+ As someone who's been unemployed for 15 months and just had his third interview with a company yesterday, I really hope I get that fucking job.
+ 
+
+
+
+
+ Doing the same thing and this scene was a total surprise. Can't believe how young he looks.
+
+To be honest, I found the first season kind of underwhelming, but the second season much better. The female actors in this series are absolutely fantastic. Livia, Janice and Carmella are just brilliant.
+ 
+
+
+
+
+ I've been obsessed with this movie for a while, probably seen it a dozen times. Really worth watching the whole thing. A note about [Castle Bravo](http://www.youtube.com/watch?v=yEje927dygM) that always blows my mind:
+
+Burj Khalifa: 2,722 feet
+
+Mt. Everest: 29,029 feet
+
+Castle Bravo: 130,000 feet in less than ten minutes.
+
+Fuck.
+
+ 
+
+
+
+
+  Stop caring so much about what people are saying or their misconceptions, and focus on yourself. 
+
+Boom. Solution to the issue at hand turns out to be a cardinal rule of the seduction community!
+ 
+
+
+
+
+ You that never done nothin
+
+But build to destroy
+
+You play with my world
+
+Like its your little toy
+
+You put a gun in my hand
+
+And you hide from my eyes
+
+And you turn and run farther
+
+When the fast bullets fly 
+
+
+
+
+
+
+
+
+
+ Here's the full video from which this was taken:
+
+http://www.youtube.com/watch?v=DNttT7hDKsk
+
+ 
+
+
+
+
+ It's called the Toronto attitude. People here think that's how people in NYC/LA/Tokyo/London act so they act like that. Yeah it's sad.
+ 
+
+
+
+
+ [We are The Fall.](http://www.youtube.com/watch?v=wygQmJ59E4Q) 
+
+
+
+
+ Yeah, I'm a big Orwell fan and I've just failed to read anything from him where I'm not all, "Damn Orwell, you right again."
+
+ 
+
+
+
+
+ Antihostile's Law: Orwell is always right.
+ 
+
+
+
+
+ Hilarious...that's exactly what I started doing. First season was kind of underwhelming to be honest, but the second season has been really good so far.
+ 
+
+
+
+
+ I think it was something to do with the simplicity of the story: get to the space hospital to cure the radiation. Not exactly the most compelling story. I have to care about the guy in the first place. But I did love the fact that he got beaten by the robot cops and worked in the robot cop factory. That was pretty funny.
+ 
+
+
+
+
+ Considering how awesome this is, was really disappointed with Elysium. Looked really good but the story just didn't grab me.
+ 
+
+
+
+
+ Another vote for Mogwai. [My Father My King.](http://www.youtube.com/watch?v=U4WYnSFqh6k) 
+
+
+
+
+ Some of the stuff on the Nas/DM album was fantastic. "As we enter" "Nah Mean" and "Patience" were just so great.
+
+ 
+
+
+
+
+ Exactly. That moment was stunning.
+ 
+
+
+
+
+ Just love the Marx Brothers. Should be more of them on reddit. Here's my favorite Harpo, Chico piano bit from The Big Store:
+
+http://www.youtube.com/watch?v=ZYxgjJK7kD0
+
+ 
+
+
+
+
+ Love Camus, absolutely brilliant philosopher, brilliant writer. My favorite is probably The Fall.
+
+ 
+
+
+
+
+ I hate, hate, hate Steely Dan.
+
+Sorry, just had to get that off my chest.
+ 
+
+
+
+
+ No, Lee Harvey Oswald didn't kill him.
+ 
+
+
+
+
+ Redditor Reveals Who Really Killed JFK:
+
+It was Lee Harvey Oswald.
+ 
+
+
+
+
+ He killed both of them. He also took a shot at Edwin Walker. Busy guy.
+ 
+
+
+
+
+
+
+
+
+
+ Sorry, I prefer [the black album](http://en.wikipedia.org/wiki/White_Light/White_Heat)...released 12 months earlier. 
+
+
+
+
+ As an aside, I've been reading the New Yorker for many years and it is the best general interest magazine in America.
+ 
+
+
+
+
+ [The Motorcade Sped On.](http://www.youtube.com/watch?v=JjyFwbSNh4o) 
+
+
+
+
+ "[Weapons giveaway program.](http://www.youtube.com/watch?v=dKRK8Y4gyew) It's like one of those government programs. Just come and fuckin' get anything you want. We're gonna give away all the fuckin' automatic weapons. All the side-loaders, clip-loaders, shoot-em-backs... Saturday night specials... Colt. 45s, shotguns. Anything you want, chains, knives, straight razors... bottles, brick bats, baseball bats... and big kind of slanted jagged kind of things. I wanna see a goddamn big motherfuckin'... shoot 'em up, kill 'em, bang, stab 'em, crush... slice, kill, motherfuckin' boilin' oil. Catapults throwin' rocks and shit and blowin' up. Undercover shit, yeah. So I wanna see people putting secret things in fuckin' cars... and fuckin' explodin' and see the people explodin'. I wanna see knife cuttin', slice cuttin' choppin' and blowin' up. Hah-aaah yeah. That's right. A free fuckin' weapons give away program. I see it. Gonna solve all these goddamn problems." 
+
+
+
+
+ One hell of a slow burner. Just watch it.
+ 
+
+
+
+
+ I bet Rob Ford knows Trevor.
+ 
+
+
+
+
+ Been asking myself the same question. Is it because he's a G-Man and shit would really hit the fan if he turned up dead or disappeared? If Nucky finds out, and I think he will, he's definitely dead.
+ 
+
+
+
+
+ I tell you whut.
+ 
+
+
+
+
+ Jeff Bridges played Cogburn in the Cohen bros. remake. It's as though he could be related to the Dude in that movie universe. The way this old guy in BE could be related to Butchie in The Wire. I think that's what he means. It's not a great analogy.
+ 
+
+
+
+
+ I bet a couple more are gonna show up. An army of [field negroes](http://www.youtube.com/watch?v=znQe9nUKzvQ) taking out the ultimate house negro, Dr. Narcisse. 
+
+
+
+
+ I love it, it's one of my favorite books, mainly because it's so damn funny. It is absolutely hilarious. There's pretty much a laugh-out-loud moment on almost every page. Very, very funny book.
+ 
+
+
+
+
+
+
+
+
+
+ aka ["You come at the king, you best not miss."](http://www.youtube.com/watch?v=WP-lrftLQaQ) 
+
+
+
+
+ Garrison was a nutjob. Watch [Oswald's Ghost](http://www.pbs.org/wgbh/amex/oswald/). Garrison was certifiable and the majority of his "evidence" was useless conjecture. So Clay worked with the CIA? So what? The Kennedy Assassination is a million pieces of string that go nowhere. Fifty years later, still no hard evidence, just "Clay worked with the CIA" or "Oswald went to Russia." Yes, yes, but so what? Now that we know that, what do we know? As for the HSCA, here's an excerpt from an excellent [interview with Gerald Posner](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html):
+
+**Q: Can you explain what the House Select Committee on Assassinations (1978-79) found out in the acoustic evidence, and what happened afterward concerning the issue of the reliability of the evidence?**
+
+*A: "The House Select Committee on Assassinations used sound experts to listen to a Dallas police Dictabelt. They concluded with a 95 percent certainty that there was a fourth shot fired at Dealey Plaza, and it came from the grassy knoll. The National Academy of Sciences reviewed their work and found a multitude of errors and omissions. The most serious of which was that at the time that the Select Committee experts thought the shots were, [it] actually, [was] one minute after the assassination had actually taken place. Dealey Plaza is a veritable echo chamber, and it makes it very difficult sometimes to analyze the acoustic testimony. However, by looking at the statements of a witness who gave an opinion as to the source of the shots, we can see certain trends. Eighty-eight percent of the 179 witnesses who expressed an opinion said there were three shots and three shots only. The largest group that identified a location, 28 percent, said they came from the book depository. Only four witnesses, 2 percent of all the witnesses at Dealey, heard shots coming from more than one location."*
+
+
+Check out the whole interview, it's quite good. And really, Oswald's Ghost is excellent as well.
+ 
+
+
+
+
+ Americans love their conspiracy theories, but I have to say, Oswald did it. After fifty years there is no hard evidence of a conspiracy to kill JFK, but a mountain of evidence that says Oswald acted alone.
+ 
+
+
+
+
+ It's right on the first page of his letter.
+ 
+
+
+
+
+ Exactly what it's supposed to do:
+
+The essential act of war is destruction, not necessarily of human lives, but of the products of human labour. War is a way of shattering to pieces, or pouring into the stratosphere, or sinking in the depths of the sea, materials which might otherwise be used to make the masses too comfortable, and hence, in the long run, too intelligent. 
+ 
+
+
+
+
+
+
+
+
+
+ Seems like a lot of people have trouble getting into it the first time, including [Harold Bloom](http://www.avclub.com/articles/harold-bloom-on-blood-meridian,29214/):
+
+"The first time I read Blood Meridian, I was so appalled that while I was held, I gave up after about 60 pages. I dont think I was feeling very well then anyway; my health was going through a bad time, and it was more than I could take. But it intrigued me, because there was no question about the quality of the writing, which is stunning. So I went back a second time, and I got, I dont remember 140, 150 pages, and then, I think it was the Judge who got me. He was beginning to give me nightmares just as he gives the kid nightmares. And then the third time, it went off like a shot. I went straight through it and was exhilarated. I said, My God! This reminds me of Thomas Pynchon at his best, or Nathanael West. It was the greatest single book since Faulkners As I Lay Dying. In fact, I taught it for several years in a class I gave here at Yaleinterestingly enough, in a sequence starting with Faulkners As I Lay Dying, moving on to Miss Lonelyhearts, then The Crying of Lot 49, and the fourth in the sequence was Blood Meridian." 
+
+
+
+
+ IMHO, one of the greatest speeches of the twentieth century, rivals anything by MLK, JFK, Gandhi or Churchill. A truly powerful moment.
+ 
+
+
+
+
+
+
+
+
+
+ The Autobiography of Malcolm X.
+ 
+
+
+
+
+ Not innately, but if that's the goal, it's a step in the right direction.
+ 
+
+
+
+
+ Well, my online activity is pretty transparent, so it wouldn't bother me that much, but in this case, I'm using a separate youtube account which is linked to my G+ account, it works for me, and I'm seeing a lot more activity recently which has worked for me.
+ 
+
+
+
+
+
+
+
+
+
+ Love it. Increase G+ adoption in a real way and start cleaning up youtube comments at the same time. Good idea.
+ 
+
+
+
+
+ I've been looking into the Kennedy Assassination for over a year now. In my mind, there's simply no doubt that Oswald did it. Fifty years after the assassination there is absolutely no hard evidence of a conspiracy whatsoever. But there is a mountain of evidence against Oswald. Some good resources:
+
+
+[PBS Documentary Oswald's Ghost.](http://www.pbs.org/wgbh/amex/oswald/) 
+
+[PBS Documentary Who Was Lee Harvey Oswald.](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/) 
+
+[Interview with Gerald Posner debunking some of the conspiracies.](http://www.pbs.org/wgbh/pages/frontline/shows/oswald/interviews/posner.html) 
+
+[Norman Mailer's 800-page biography, Oswald's Tale.](http://www.amazon.com/Oswalds-Tale-An-American-Mystery/dp/0345404378) 
+
+[Conspiracy theorist Mark Lane interviewed by William F. Buckley.](http://www.youtube.com/watch?v=fI7GwBtTRvc) 
+
+
+
+
+ "Who put this thing together? Me, that's who! Who do I trust? Me!" 
+
+
+
+
+ Totally. Coked out tough guy talking shit.
+
+"Hey, hey who the fuck you think you're talking to huh? You wanna fuck with me? Who the fuck you think I am, your fucking bellboy? Come on, you wanna go to war, we take you to war, okay??" 
+
+
+
+
+ I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry. I was drunk. I am sorry... 
+
+
+
+
+ Sometimes. Sometimes, believe it or not, I know this might be hard to believe....the claim is denied. It's true.
+ 
+
+
+
+
+ Yeah, because insurance companies are known for paying out lots of money to claimants.
+ 
+
+
+
+
+ Also, check out Ali's post-fight interview. IMHO, the greatest post-fight interview in the history of boxing (and considering we're talking about Ali, that's saying something!):
+
+http://www.youtube.com/watch?v=J6Hey54O6Qs 
+
+
+
+
+  I could go into great detail the power of various nuclear weapons and what they do
+
+Please do. I've been fascinated by nuclear weapons for years, ever since I saw "Trinity and Beyond." Footage of Castle Bravo still sends chills up my spine. Any information here or in another thread would be much appreciated. Thanks in advance.
+ 
+
+
+
+
+ A fine line between MRA/MGTOW/RedPill. But I think it's definitely a useful read for this subreddit. Thanks for posting the 15 impossible things.
+ 
+
+
+
+
+ True, Wikipedia has its own bias to be sure, but it's a decent introduction. Thanks for posting the link.
+ 
+
+
+
+
+ Woah! Hadn't even considered that. Could he do it? Would he do it? Interesting scenario.
+ 
+
+
+
+
+ Yeah, totally. You know Nucky's not going down. Maybe Nucky sees to it that Eli bites it and takes Willy under his wing out of some sort of guilt? Farewell Daddy...
+ 
+
+
+
+
+
+
+
+
+
+ Yeah, I don't know if Nucky will actually kill him, but I think he's going to die.
+ 
+
+
+
+
+ Larry Smith was my econ professor at UW, both micro and macro. Smart guy, funny. He actually had/has a solid reputation well before TEDx. I guess he's the exception that proves the rule.
+ 
+
+
+
+
+  Spearmint
+
+Just noticed, that song is playing in the background when Knox confronts Eli.
+ 
+
+
+
+
+ My guess: Willy is gonna die.
+
+They've sort of set him up as a quasi-Jimmy Darmody. Now that he's mixed up with gangsters, he's going to have some serious problems. I think they're foreshadowing it with Willy staying in Eddie's room. Now, with the Feds on Eli, Willy is directly mixed up in everything. We know that if Nucky has to kill Willy to save himself, he will. Plus, it would just be so incredibly tragic for Eli, it's the thing he cares about and when Nucky finds out Eli is ratting on him (and he will), Nucky will do whatever it takes to save himself, even if it means killing his brother's son, or letting him die. FWIW, the last episode of the season is called "Farewell Daddy Blues". 
+
+
+
+
+ Loved that bit. Really well done. 
+
+
+
+
+ "Hyperbole is the use of exaggeration as a rhetorical device or figure of speech. It may be used to evoke strong feelings or to create a strong impression, but is not meant to be taken literally."
+ 
+
+
+
+
+ That was so unfunny it makes crack babies dying of AIDS seem hilarious.
+ 
+
+
+
+
+ Driving cars will be illegal in 20 years. I have no problem with that.
+ 
+
+
+
+
+ I want...
+
+
+...IN.
+ 
+
+
+
+
+ I'm not absolving him of anything, specifically I just wanted people to note that it didn't start under him. 
+
+
+
+
+ Obama deserves criticism for a lot of things, but before everyone goes blaming this on him:
+
+"The NSA memo seen by the Guardian was written **halfway through George W Bush's second term**, when Condoleezza Rice was secretary of state and Donald Rumsfeld was in his final months as defence secretary." 
+
+
+
+
+ Obama deserves criticism for a lot of things, but before everyone goes blaming this on him:
+
+"The NSA memo seen by the Guardian was written **halfway through George W Bush's second term**, when Condoleezza Rice was secretary of state and Donald Rumsfeld was in his final months as defence secretary." 
+
+
+
+
+ True.
+
+http://www.livescience.com/39911-as-superbugs-rise-new-studies-point-to-factory-farms.html
+
+ 
+
+
+
+
+
+
+
+
+
+ You answered your own question. America doesn't close military bases because America is in the business of opening military bases. 
+
+
+
+
+
+
+
+
+
+ [Oh come on, it's not that much of a mystery.](http://musiccourt.files.wordpress.com/2010/08/robert_smith.jpg) 
+
+
+
+
+
+
+
+
+
+ Yeah, gimmicky is the right word in my book...on the other hand, I really did like Memento (more than Inception) despite the obvious gimmick of that movie as well. 
+
+
+
+
+ I feel like I'm the only person who didn't love love love this movie. It was okay. Wouldn't watch it twice.
+ 
+
+
+
+
+ Welcome to /r/MensRights/
+
+ 
+
+
+
+
+ "Instead of getting married, I'm going to find a woman I don't like and buy her a house."
+ 
+
+
+
+
+ Damn this is a great show. My favorites:
+
+
+Larry gets high:
+http://www.youtube.com/watch?v=t3lwPd-GGn4
+
+
+Larry at Hallowe'en:
+http://www.youtube.com/watch?v=AUdfdzm0EpU
+
+
+ 
+
+
+
+
+ It's called [The Paranoid Style in American Politics.](http://en.wikipedia.org/wiki/The_Paranoid_Style_in_American_Politics) 
+
+
+
+
+  The sooner they stop acting like part of the problem and start being part of a solution, the better.
+
+Sadly, never going to happen. As far as they were concerned, the shutdown was part of the solution. 
+
+
+
+
+ When you're opposing something like healthcare on a nebulous right-wing propaganda term like "big government" you've definitely gone full retard. America is such a great place, polluted by this 38% of slack-jawed troglodytes.
+
+  
+
+
+
+
+ Ha! Mine was Love Over Gold.
+ 
+
+
+
+
+ Best music documentary ever made.
+ 
+
+
+
+
+
+
+
+
+
+ Yeah, same here. The first one was experimental and weird enough that it was a truly crazy, unique experience. It couldn't be duplicated, even by the same director.
+ 
+
+
+
+
+
+
+
+
+
+ Read the article and find out.
+ 
+
+
+
+
+
+
+
+
+
+ Well, then you're missing out on a brilliant take down of what makes the Tea Party tick. Your loss.
+ 
+
+
+
+
+ Uh, did you read the article? That's exactly the point he's making. 
+
+
+
+
+
+
+
+
+
+ We can only hope!
+ 
+
+
+
+
+ http://www.youtube.com/watch?v=bgJ5AcsXp4M
+
+ 
+
+
+
+
+ Even better, Gary Oldman in The Firm:
+
+http://www.youtube.com/watch?v=VznoshagNbI
+ 
+
+
+
+
+
+
+
+
+
+ Here's a documentary about him, "The Day After Trinity":
+
+http://www.youtube.com/watch?v=P1DhWglFeLU
+ 
+
+
+
+
+
+
+
+
+
+ If you don't think this happens to black people a lot more than white people, you're living in a fantasy land.
+ 
+
+
+
+
+ Damn I'm jealous. I'd give almost anything to be able to watch this for the first time again.
+ 
+
+
+
+
+
+
+
+
+
+ Uh....why would we do something stupid like that?
+ 
+
+
+
+
+ That's not how I remember ROTJ at all! Stupid robot!
+ 
+
+
+
+
+ Ha, that's exactly what I thought. "Jesus, we're closer to nuclear terrorism than I thought." Whenever I see any footage of any hydrogen bombs, I'm just like, nope, we should not have these. Just way, way too dangerous for mankind.
+ 
+
+
+
+
+ We shouldn't even be doing things like this:
+
+http://www.youtube.com/watch?v=fd1IFjBNNVo
+
+Just saw Countdown to Zero, good doc on nuclear arms proliferation:
+
+http://www.youtube.com/watch?v=n12Y7mo7fqM
+ 
+
+
+
+
+ Jesus Christ, two 3.8 Megaton bombs. Here's roughly what that would have looked like:
+
+http://www.youtube.com/watch?v=ncT9du2KDXQ
+
+(Castle Romeo, March 27, 1954, expected yield of 4 Megatons, actual yield, 11 Megatons) 
+
+
+
+
+ Please, please, I can't stand all this fighting, have my seat.
+ 
+
+
+
+
+ Remember, women want what other women want.
+ 
+
+
+
+
+ One of Peckinpah's best and that's saying something. Warren Oates is perfect. One of the greatest 70s movies ever made.
+ 
+
+
+
+
+ Why don't we get to even see Jabba the Hutt? They talk about him, but you never see him. They should totally fix that.
+ 
+
+
+
+
+ Combine this with the massive construction disruption from the LRT and Waterloo is going to be hurting for a few years.
+ 
+
+
+
+
+ Obligatory 'the manga is better' comment here....but it is! The manga is the full story, the anime, as much as I like it, is a truncated version created before the story was done. 
+
+
+
+
+ Christoher Hitchens had an excellent piece on North Korea back in the day: ["Worse Than 1984: North Korea, slave state."](http://www.slate.com/articles/news_and_politics/fighting_words/2005/05/worse_than_1984.html)  
+
+
+
+
+ Courtesy of Popul Vuh:
+
+http://en.wikipedia.org/wiki/Popol_Vuh_%28German_band%29
+ 
+
+
+
+
+ If you have never seen this before, do yourself a favor and just watch the first fifteen minutes. Make sure you're sitting down.
+ 
+
+
+
+
+ Crazy idea here, keep your nose out of my business.
+ 
+
+
+
+
+ a) A lot of people who get philosophy degrees end up getting law degrees and b) philosophy prepares you for a wide variety of careers because it educates you in logic, critical thinking, rational decision making, game theory, etc. Those kinds of skills are useful in a wide variety of jobs. 
+
+
+
+
+ As an aside, philosophy graduates do very well in the long run:
+
+http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html
+
+For starting salaries, engineering and things like nursing are pretty strong, but the list reorders further into peoples careers. If you looked at the pay of people 15 years out, philosophy is actually in the top 10%.
+ 
+
+
+
+
+ I guess I'm the only one who would like to see this fight and thinks Hopkins would have a chance. So be it.
+ 
+
+
+
+
+ A woman who complains about [gender roles in videogames.
+](http://en.wikipedia.org/wiki/Anita_Sarkeesian) 
+
+
+
+
+ Echoes by Pink Floyd.
+ 
+
+
+
+
+ Sister Ray
+ 
+
+
+
+
+
+
+
+
+
+ Handy!
+ 
+
+
+
+
+ Considered that, maybe just a longer delay like 24 hours would help. The thing is that voting does provide some value, as a general rule (the article notwithstanding) interesting, informative comments do get upvotes and stupid, offensive ones do get downvoted. But let's face it, upvote = agree and downvote = disagree, that's just how the game is played around here.
+ 
+
+
+
+
+ Definitely under the "No shit, Sherlock" category, but this is why I appreciate the fact that Reddit now has a time delay on showing the up/downvotes for comments. At least the people running the show are thinking about this and doing something about it. 
+
+
+
+
+ Excellent article. Fascinating and disturbing.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Bingo. Not like ISIS has trained military commanders or anything....
+
+www.pbs.org/wgbh/pages/frontline/losing-iraq/
+ 
+
+
+
+
+ If you're interested in this topic, I highly recommend Tom Wolfe's The Painted Word:
+
+http://en.wikipedia.org/wiki/The_Painted_Word
+ 
+
+
+
+
+
+
+
+
+
+ How do you make a list about big events in 1914 and forget to include WWI?
+ 
+
+
+
+
+ Also, put the chips in the freezer and they won't get stale.
+ 
+
+
+
+
+ I thought there was one about six months or so ago, but I just can't remember the source. I'll see if I can dig it up. Thanks for the link.
+ 
+
+
+
+
+ Wasn't there another quite study recently that said pretty much the same thing? 
+
+
+
+
+ So, it'll probably make a billion dollars?
+ 
+
+
+
+
+ Thanks! This is something I've been working on for a while and just decided to try and run a kickstarter on it. I think if you can show that level of interest and make it a personal story, that helps. 
+
+
+
+
+ I really didn't know what to expect and honestly didn't expect to raise anything for what was a personal project for me. I've been studying Malcolm X for about ten years and wanted to put together a 1,500 page collection of speeches, debates and interviews. After about a week, it's been successfully funded! I've still got three weeks to go, so hopefully I'll raise some more. My only tip: Social media was actually quite helpful in spreading the word.
+
+[Malcolm X: Collected Speeches, Debates and Interviews](https://www.kickstarter.com/projects/1252814726/malcolm-x-collected-speeches-debates-and-interview) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This show was phenomenal, Del was on point and the crowd was really into it. Superb.
+ 
+
+
+
+
+
+
+
+
+
+ Yes.
+ 
+
+
+
+
+ All this corruption and violence is directly or indirectly due to the insatiable U.S. demand for drugs, particularly cocaine, heroin and now methamphetamines. 
+
+End the drug war now.
+ 
+
+
+
+
+
+
+
+
+
+ My friends are making a documentary about this very issue:
+
+https://www.youtube.com/watch?v=RZxvZxF-TiA
+
+ 
+
+
+
+
+ "You know, I think that you've gotten the wrong impression about me. I think in all fairness, I should explain to you what it is that I do. For instance, tomorrow morning I'll get up nice and early, take a walk down over to the bank and walk in and see you, and if you don't have my money for me, I'll crack your fuckin' head wide open in front of everybody in the the bank. And just about the time that I'm comin' out of jail, hopefully, you'll be comin' out of your coma. And guess what?  I'll split your fuckin' head open again. Because I'm fuckin' stupid. I don't give a fuck about jail. That's my business. That's what I do." 
+
+
+
+
+ What a terrible, terrible movie. But not as bad as JFK. Oliver Stone is one of the worst directors America has ever produced.
+ 
+
+
+
+
+ Bingo.
+ 
+
+
+
+
+ Dave Chappelle looks smarter and smarter every year. 
+
+
+
+
+ I haven't had cable for ten years and I think the only thing I've missed is a decade's worth of commercials. If something like Walking Dead or Breaking Bad or Game of Thrones is good enough, it hits your radar. Sucks not being able to watch live sports events, but there's ways around that as well. 
+
+
+
+
+ Who the fuck still pays for cable?
+ 
+
+
+
+
+ Seconded.
+ 
+
+
+
+
+ A masterpiece. A disturbing, haunting and terrifying masterpiece.
+ 
+
+
+
+
+ Agreed, they compliment each other very well...and it would just be so great to see Otomo go back with a serious chunk of cash and make his manga into a trilogy!
+ 
+
+
+
+
+ That's mostly me.
+ 
+
+
+
+
+ Can't wait until TIME releases the [new version of its magazine for adults](http://www.theonion.com/video/time-announces-new-version-of-magazine-aimed-at-ad,17950/).
+ 
+
+
+
+
+ Two points:
+
+Without fail, there's someone in every Akira thread who has to make the point that if you like the movie, you'll love the Manga. This time, I'm that guy. As much as I like the movie, the ending is fairly opaque and lots of the story is necessarily missing. Again, I like the movie, a lot, but the Manga, to me, is where Otomo really shines as a genius. That he wrote and drew it is a major, serious artistic achievement. It's a lot more mature because it's able to flesh out the characters and the plot. Just check out Volume 1, you won't regret it.
+
+Second, here's [Godspeed You! Black Emperor](https://www.youtube.com/watch?v=wG5d_eeGQxE), a movie about Japanese bike gangs that documents a phenomenon that I'm sure was an influence on Akira. 
+
+
+
+
+ Part Two: https://www.youtube.com/watch?v=YPoY6jNGqKc
+ 
+
+
+
+
+
+
+
+
+
+ [About 1,500.](https://www.youtube.com/watch?v=mPxGA11hcMU) 
+
+
+
+
+ ITT: People not much smarter than Karl Pilkington.
+ 
+
+
+
+
+ "Be peaceful, be courteous, obey the law, respect everyone, but if someone puts his hand on you, send him to the cemetery."
+
+Malcolm X 
+
+
+
+
+ True, but "The Real Africa" struck me as kind of boring. This piece is probably the first thing I've ever agreed with David Brooks about. 
+
+
+
+
+
+
+
+
+
+ A quinzillion dollars.
+ 
+
+
+
+
+ [Hi Jerem!](http://www.reddit.com/r/videos/comments/24iowz/30_rock_had_a_one_off_character_jerem_that/) 
+
+
+
+
+ The Annex: We have sushi. 
+
+
+
+
+
+
+
+
+
+ The problem I have with the Bechdel Test is that it's simply a quantitative and not a qualitative judgment. Whether or not a film passes the test says nothing about the quality of a film, only whether or not it passes some arbitrary gender rule. Having established that passing or failing the test does not say anything about a film being good or bad makes the test completely and totally irrelevant in my book (see: Reservoir Dogs, Lawrence of Arabia, The Wild Bunch, My Dinner with Andre or 12 Angry Men.) What's next? Let's see if the film has two named black characters who talk to each other about something other than a white person. Let's see if the film has two named LGBT characters who talk to each other about something other than a straight character. Whatever. How about you make an engaging story in an interesting way. That's the only test I care about. 
+
+
+
+
+ "I've got everything under control."
+- Rob Ford, April 2014 
+
+
+
+
+ Yeah, looks great, where is Fallout 4?
+ 
+
+
+
+
+ I love Miike's work, he's one of the most original and hard-working directors of the last few decades. With a bit of googling, you can easily come up with a list of films to watch as his filmography can be pretty intimidating. Definitely check out [Izo](https://www.youtube.com/watch?v=1I2k4r9YAMg), it's one of my favorite films of all time. 
+
+
+
+
+ Goodbye construction industry as we know it.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Is that crazy or what? I had never heard of it until a few weeks ago. Would love to see this televised in the future. Can't think of a more demanding test of your physical and mental ability.
+ 
+
+
+
+
+ Pretty sure [this](https://www.youtube.com/watch?v=kK5TQSKmS3o) is the greatest sport in the world. 
+
+
+
+
+
+
+
+
+
+ ...and then come the insults. Always a hallmark of the conspiracy theorist. Congratulations.
+ 
+
+
+
+
+ A perfect example of what I'm talking about. I'm sure it's an interesting book, but there's not one single shred of hard evidence in your post. Everybody who has even a passing interest in JFK's assassination knows who Mohrenschildt was. Mailer's book spends chapters on him. But conspiracy theorists always assume everyone else is a moron. Let's put aside all of the evidence of Oswald's life, the witnesses who heard the shots coming from right above them in the book depository, Oswald's attempt on Edwin Walker, the murder of Tippit and all the other evidence and keep going down the rabbit hole...
+
+
+http://www.pbs.org/wgbh/pages/frontline/biographies/oswald/interview-gerald-posner/
+ 
+
+
+
+
+ I've said it before and I'll say it again: the problem with the JFK conspiracy theories is that in 50 years, there is not one single shred of hard evidence suggesting that there was any kind of conspiracy. On the other hand, there is a mountain of hard evidence that Lee Harvey Oswald did it. Every conspiracy theory is simply conjecture and hypothesis with no hard evidence whatsoever. It's fun to speculate, but that's all it will ever be, speculation. Evidence and reason and logic all point to Lee Harvey Oswald.  
+
+
+
+
+ As if it ever went away.
+ 
+
+
+
+
+
+
+
+
+
+ Yeah, because we'll probably only hit the exact people we want to kill and certainly not kill any innocent people thus creating more people who hate us and want to kill us or anything like that.
+ 
+
+
+
+
+ [Nobody in Power Cares What You Think Unless Youre Rich.](http://iacknowledge.net/its-official-nobody-in-power-cares-what-you-think-unless-youre-rich/) 
+
+
+
+
+ Hey guys, looks like you missed the landing strip.
+ 
+
+
+
+
+
+
+
+
+
+ Her wikipedia page is just plain fucking weird:
+
+http://en.wikipedia.org/wiki/Sarah_Thomson_%28publisher%29
+
+"She has attempted to brand herself as one of the first to introduce retail stores to service stations." 
+
+
+
+
+ Tip #7: Put a link to your website in the first line of the description. It will always show up (as opposed to the rest of the description that has to be expanded to be read) and will show up as a clickable link!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fucking Jeanne Moos, what a pathetic waste of space. This is what old people think is funny.
+ 
+
+
+
+
+ Sorry, you can't, you have to download the movie and use them with VLC.
+ 
+
+
+
+
+ If voting could change anything, it would be illegal.
+ 
+
+
+
+
+ Even less shocking. Some drug addicts can quit.
+ 
+
+
+
+
+ Apparently, [he's broke.](http://www.sbnation.com/longform/2013/11/20/5119180/manny-pacquiao-vs-brandon-rios-fight-2013-profile) 
+
+
+
+
+ English subs: http://subscene.com/subtitles/bullet-in-the-head-die-xue-jie-tou/english/338812
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Subs:
+
+http://subscene.com/subtitles/the-legend-of-drunken-master-aka-drunken-master-ii-jui-kuen-ii/english/230519
+ 
+
+
+
+
+ Glad you like it! Pre-Cerebus, published in 1975. 
+
+
+
+
+
+
+
+
+
+ Very similar to Dave Sim's Life Suit:
+
+http://momentofcerebus.blogspot.ca/2013/08/life-suit.html
+ 
+
+
+
+
+ This is more like the stuff that's in the toilet holding public office.
+ 
+
+
+
+
+ That's how they do it in Canada. Well, Ontario at least.
+ 
+
+
+
+
+ Same here. It took me a year to read Norman Mailer's "Oswald's Tale"...but I finished it goddammit!
+
+ 
+
+
+
+
+ John Gray noted this in Straw Dogs. He said something to the effect that we don't have to worry about the machines we create, we have to worry about the machines that are created by the machines we create.
+ 
+
+
+
+
+ ...which is exactly why it won't happen. Those millions are spent on cops, lawyers, judges, prison guards and a whole host of entrenched interests who will make sure the government keeps giving them money in the name of saving the children. 
+
+
+
+
+ Mystery of Chessboxing (international title Ninja Checkmate) is a kung fu film released in 1979 and directed by Joseph Koo, starring Mark Long, Jack Long and Lee Yi Min. This movie is the inspiration for the Wu-Tang Clan song "Da Mystery of Chessboxin'" on the album Enter the Wu-Tang (36 Chambers). Wu-Tang Clan member Ghostface Killah also takes his name from the film's distinctive villain. 
+
+
+
+
+
+
+
+
+
+ I agree and I don't think there's anything wrong with treating books and records as *objets d'art*. They can be beautiful creations that have merit as physical objects that digital files simply can never replicate. 
+
+
+
+
+ Haven't you seen Pulp Fiction?
+
+https://www.youtube.com/watch?v=dBP0Mbc7VFw
+ 
+
+
+
+
+ "My girlfriend's a vegetarian, which pretty much makes me a vegetarian." 
+
+
+
+
+ The only crime is getting caught.
+ 
+
+
+
+
+ You are completely wrong about John Woo. I'm guessing...just guessing here...that you've never seen Hard Boiled or The Killer? His Hollywood movies are mediocre compared to those two. Hard Boiled is probably the best action movie ever made. Neither of them are brainless. Also, check out Red Cliff. Stunning.
+
+ 
+
+
+
+
+ Dude, I could not agree more. Eraserhead is unique and fascinating, especially for the time it came out. Blue Velvet is a brilliant anti-Reagan film (not literally, but it puts the lie to the whole small-town America myth). I actually really like Dune. I think it's one of the best sci-fi movies of the 80s. The special effects hold up 30 years later.
+
+The rest of his oeuvre leaves me cold. Lost Highway was almost unwatchable. Mulholland Dr. was just meh. Same with Twin Peaks. He relies way too much on: a) very slowly paced scenes to create "atmosphere" and "tension" that end up just dragging the whole film to a screeching halt, b) breaking the rules of reality in a way that empowers the "it's whatever you want it to be" crowd instead of presenting a cogent story and c) a repetitive attempt to parody a mythological view of America with a fake-50s style that just seems hackneyed after the 10th time he does it.
+
+It's not a technical incompetence, it's just the choices he makes to tell his stories that do nothing for me. Other people like him. Fine. But to put him in the pantheon of Great Directors seems a stretch to say the least. Pretty sure I'll never bother with one of his movies ever again.
+ 
+
+
+
+
+ Agreed. But still a good track!
+ 
+
+
+
+
+ You mean, [The Great Cull](https://www.youtube.com/watch?v=MPN7EvbrCp0)! 
+
+
+
+
+ [Cerebus.](http://en.wikipedia.org/wiki/Cerebus_the_Aardvark) 
+
+
+
+
+ I posted [Godspeed You! Black Emperor](https://www.youtube.com/watch?v=wG5d_eeGQxE) a few days ago, I think it provides an interesting background to the world Otomo grew up in and would have informed Akira. 
+
+
+
+
+ Good idea. I'm sure I'll watch Plinkett's reviews again eventually, just as I'm sure I'll never watch the prequels again.
+ 
+
+
+
+
+ You want to know [How to Photograph an Atomic Bomb](http://en.wikipedia.org/wiki/How_to_Photograph_an_Atomic_Bomb). Also, check out [Atomic Filmmakers.](https://www.google.com/search?q=tomic+Filmmakers%3A+Behind+The+Scenes. ie=utf-8 oe=utf-8 aq=t rls=org.mozilla:en-US:official client=firefox-a channel=sb#channel=sb q=Atomic+Filmmakers%3A+Behind+The+Scenes rls=org.mozilla:en-US:official tbm=vid) 
+
+
+
+
+ [Trick the boiler.](https://www.youtube.com/watch?v=zNqcuzUleNQ) 
+
+
+
+
+ Cool. Just seems like EVE has destroyed all the other Space Sims. I played Freespace2 back in the day and loved it. I just want to fly around and blow shit up but it doesn't seem like there are a lot of those types of games around these days.
+ 
+
+
+
+
+ Yeah. Exactly.
+ 
+
+
+
+
+ No problem! You'll love it, it's a classic, and surprisingly relevant even 40 years later. 
+
+
+
+
+ Do you play? I can't right now, but I would love to get into it one day. Seems like it would be pretty intimidating to noobs, though.
+ 
+
+
+
+
+ Exactly. As if Microsoft, Apple, Sony, and everyone else isn't already working on their own proprietary VR.
+ 
+
+
+
+
+ ["There is no America. There is no democracy. There is only IBM, and ITT, and AT T, and DuPont, Dow, Union Carbide, and Exxon. Those are the nations of the world today. We no longer live in a world of nations and ideologies. The world is a college of corporations, inexorably determined by the immutable bylaws of business. The world is a business. It has been since man crawled out of the slime."](https://www.youtube.com/watch?v=zI5hrcwU7Dk) 
+
+
+
+
+ Yeah, it does actually work. I've had a couple of interviews (but no job) from jobs I applied to with indeed.com, including some "easy apply" ones. Keep trying, you're a pretty pony, someone will hire you.
+
+ 
+
+
+
+
+
+
+
+
+
+ She's gotten better, but I still can't really watch her, can't put my finger on it, but I like my news as serious as a heart attack and she just seems kind of smug and amateurish.
+ 
+
+
+
+
+ Rachel Maddow tries to be Jon Stewart and Ed Murrow at the same time and it is awful.
+ 
+
+
+
+
+ You're looking for objective reasons for value judgments, and it just doesn't work like that or else there would be no disagreement about artistic works. I can't "objectively" convince you his films are bad, and you won't "objectively" convince me his films are good. You already said what I don't like about his films, you like, we like different things. Art is like that. I dislike the fact that I don't see a coherent vision in his work and I think they move too slowly and you like that. We don't have to like the same things. I hate Rothko, other people find merit in his work. That's fine. 
+
+
+
+
+ It's art, the criticism is going to be subjective. When you're analyzing a movie, you're doing it from your point of view. Reasonable people can disagree about things.
+ 
+
+
+
+
+ Godspeed You! Black Emperor (Goddo Supdo Y! Burakku Enper) is a 1976 Japanese black-and-white 16 mm documentary film, 90 minutes long, by director Mitsuo Yanagimachi, which follows the exploits of young Japanese motorcyclists, the "Black Emperors". The 1970s in Japan saw the rise of a motorcycling movement called the bszoku, which drew the interest of the media. The movie follows a member of the "Black Emperors" motorcycle club and his interaction with his parents after he gets in trouble with the police.
+
+The Canadian post-rock band Godspeed You! Black Emperor took their name from the film. 
+
+
+
+
+
+
+
+
+
+ In general, with artistic endeavours, we get out of it what we put into it, and for me, Lynch just doesn't fit that mould. I get less out of it than I put into it. He just doesn't work for me at all. I don't have a problem with ambiguity or surrealism, I love Jodorowsky's work, but I think there still needs to be a cogent vision in the work for it to have merit. If it's largely indecipherable, I find it tedious. I don't think that's the case for his early work, but as is usually the case, directors just don't get better with age. As I said, having just seen Lost Highway and Mulholland Drive, bits of which I enjoyed, I just think he's well past his prime. 
+
+
+
+
+
+
+
+
+
+ No, I don't have a problem with ambiguity in art in general, but ambiguity and meaninglessness are two different things. Saying that something is "open to a wide array of interpretations" seems like a bit of a cop-out. I think Lynch is less "open to interpretation" and more "no real intention or meaning or serious thought or actual ideas". Again, I don't think he's completely shit as a director, but more like the emperor with no clothes. To me, there's just no there there and to place him anywhere near Kurosawa or Kubrick or Wilder or Scorsese or Leone or whoever seems like a stretch to say the least. 
+
+
+
+
+ This suggests, by definition, that his movies have no meaning. That's a problem in my book.
+ 
+
+
+
+
+ On the topic of David Lynch in general...Eraserhead is original and interesting, but hardly a masterpiece. Blue Velvet is excellent, and Dune is actually pretty good. But in general, David Lynch is a second-rate director whose reputation far, far outweighs his actual contribution to the medium. Lost Highway was almost unwatchable and Mulholland Drive, like most of his movies, isn't interesting enough to warrant further research to actually find out what it's about. His over-dedication to atmosphere means most of his movies are too long and generally pretty fucking boring. 
+
+
+
+
+ His reviews of the prequels are better than the prequels. 
+
+
+
+
+ This was a superb book, highly recommended for everyone. 
+
+
+
+
+ Relevant:
+
+https://www.youtube.com/watch?v=F1Xx3XGCZsY
+
+ 
+
+
+
+
+ Good. Fowler had no problem with it, don't see why it should ever have been an issue.
+ 
+
+
+
+
+ It's more than nine.
+ 
+
+
+
+
+ Can I not go too?
+ 
+
+
+
+
+ The dearth of Fallout 4 news is infuriating. Can. not. wait.
+ 
+
+
+
+
+ [Trinity and Beyond: The Atomic Bomb Movie.](http://en.wikipedia.org/wiki/Trinity_and_Beyond) 
+
+
+
+
+ It's like he's been taking pointers from Rob Ford.
+ 
+
+
+
+
+ Holy Mountain gets all the attention, but for me, this is Jodorowsky's best film. Best to watch in the highest quality version you can find. A true masterpiece. Unique cinema.
+ 
+
+
+
+
+ "About as much fun as painting a wagon."
+ 
+
+
+
+
+ [The Bet](http://www.eastoftheweb.com/short-stories/UBooks/Bet.shtml) by Anton Chekhov. 
+
+
+
+
+ Another great Chris Rock bit about marriage/divorce:
+
+http://www.youtube.com/watch?v=PsSD7CP5hxQ
+
+ 
+
+
+
+
+ Blood Meridian.
+
+*"Men are born for games. Nothing else. Every child knows that play is nobler than work. He knows too that the worth or merit of a game is not inherent in the game itself but rather in the value of that which is put at hazard. Games of chance require a wager to have meaning at all. Games of sport involve the skill and strength of the opponents and the humiliation of defeat and the pride of victory are in themselves sufficient stake because they inhere in the worth of the principals and define them. But trial of chance or trial of worth all games aspire to the condition of war for here that which is wagered swallows up game, player, all.*
+
+
+*Suppose two men at cards with nothing to wager save their lives. Who has not heard such a tale? A turn of the card. The whole universe for such a player has labored clanking to this moment which will tell if he is to die at that mans hand or that man at his. What more certain validation of a mans worth could there be? This enhancement of the game to its ultimate state admits no argument concerning the notion of fate. The selection of one man over another is a preference absolute and irrevocable and it is a dull man indeed who could reckon so profound a decision without agency or significance either one. In such games as have for their stake the annihilation of the defeated the decisions are quite clear. This man holding this particular arrangement of cards in his hand is thereby removed from existence. This is the nature of war, whose stake is at once the game and the authority and the justification. Seen so, war is the truest form of divination. It is the testing of ones will and the will of another within that larger will which because it binds them is therefore forced to select. War is the ultimate game because war is at last a forcing of the unity of existence. War is god."* 
+
+
+
+
+ You don't recover that easily from [this](http://www.youtube.com/watch?v=fd1IFjBNNVo).
+ 
+
+
+
+
+ I had to watch the BBC series again just to get it out of my system. They hold up remarkably well.
+ 
+
+
+
+
+ Just reporting back. Finally saw HHGG. Sam Rockwell was great as always but that was easily one of the worst movies I've ever seen. Horrific. The directors should be ashamed. Absolutely terrible.
+ 
+
+
+
+
+ The answer will vary on who you ask. The documentary [Waco: The Rules of Engagement](http://www.youtube.com/watch?v=-4scgRAJxWc) answers some questions.
+ 
+
+
+
+
+ Relevant:
+
+http://www.youtube.com/watch?v=znQe9nUKzvQ
+ 
+
+
+
+
+
+
+
+
+
+ This fall, it'll be 20 years since Pulp Fiction!
+ 
+
+
+
+
+ It's  a solid documentary. A little too much focus on ODB (for obvious reasons) but well worth a watch.
+ 
+
+
+
+
+ Ha, a friend of mine said exactly that last night. Didn't like the movie, but really liked Sam as Zaphod. I'm becoming a bigger and bigger Sam Rockwell fan every time I see him, I'm going to have to check it out just for him. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Love your comics dude, keep it up!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Which is exactly my point. He's popular, he has a large audience, CNN would benefit by hiring him and Stewart would benefit by moving to a better time slot with a global audience. Why do you think Stewart would lose viewers?
+
+ 
+
+
+
+
+ I think this quote from the story accurately sums up the problem with Morgan:
+
+*"Crossing an ocean for a replacement for Larry King, who had ratings problems of his own near the end, was probably not a great idea to begin with. For a cable news station like CNN, major stories are like oxygen. When something important or scary happens in America, many of us have an immediate reflex to turn on CNN. When I find Mr. Morgan telling me what it all means, I have a similar reflex to dismiss what he is saying. It is difficult for him to speak credibly on significant American events because, after all, he just got here."*
+
+And this is not just some knee-jerk anti-British reaction (Personally, I'd like to see Russell Brand take his spot!) but let's be real, if you're going to have a prime-time American news show talking about American events, it would help to have an American in that chair. Maybe now they'll stop fucking around and give the job to Jon Stewart like they should have in the first place. 
+
+
+
+
+ Lawrence O'Donnell explains why sitting out the midterms is a TERRIBLE move for Dems:
+
+http://www.youtube.com/watch?v=iZQww4xm5Os
+ 
+
+
+
+
+ I love Taibbi's takedown of Friedman:
+
+http://nypress.com/flathead/
+
+ 
+
+
+
+
+  You are completely white washing his statements about Jews. 
+
+No, I'm not and I resent the charge that I would, for some reason, defend an anti-Semite. Again, take a look at the videos I've posted on youtube, find even one that you could call anti-Semitic. The closest you're going to get is the interview with [Dr. Kenneth Clark](http://www.youtube.com/watch?v=T9C_e0EUbas) where he is defending the NOI from charges of antisemitism.
+
+Likewise, I'd be happy to email you (or anyone else) the 800-pages of speeches, debates and interviews that I compiled. You will not find one single instance of antisemitism. Not. One. In fact, what you will find are statements like this:
+
+*"If you have read what the Honorable Elijah Muhammad has written and he has written much, I dont think you can find an article where he has ever pointed out the Jew as an exploiter of the black man. He speaks of the exploiter. Period. He doesnt break it down in terms of Frenchmen or an Englishmen or a Jew or a German, he speaks of the exploiter and sometimes the man who is the most guilty of exploitation will think you are pointing the finger at him and put out the propaganda that youre anti-this or anti-that, we make no distinction between exploitation and exploiter." (Debate with Bayard Rustin, 1960)*
+
+Later, after he left the NOI, he stated:
+
+"Since I learned the truth in Mecca, **my dearest friends have come to include all kinds  some Christians, Jews**, Buddhists, Hindus, agnostics, and even atheists! I have friends who are called capitalists, Socialists, and Communists! Some of my friends are moderates, conservatives, extremists  some are even Uncle Toms! My friends today are black, brown, red, yellow, and white!" (Autobiography of Malcolm X, p. 375)
+
+You are confusing Malcolm X with Farrakhan who I think, quite clearly, is an anti-Semite.
+
+ In the meantime, may I ask what those people being Jewish had to do with his claim that they were taking advantage of the black community? 
+
+Are you denying that some of the people who exploited black people were Jewish? Are you denying that some of them were Italian? Some were Polish? Some were black? It's a simple fact that some black people were exploited by some Jewish people and some Italians and some Poles and some Blacks. The fact that they were Jewish does not make them immune to criticism. I get the impression that you think any criticism of anyone who is Jewish is automatically antisemitism. It is not. 
+
+
+
+
+ As someone who has uploaded [several hours](http://www.youtube.com/user/train_subject8978) of Malcolm X speeches and debates to youtube and compiled an Ebook of over [800 pages](http://malcolmxfiles.blogspot.ca/p/malcolm-x-e-book.html) of speeches, debates and interviews, I think it's safe to say that I'm fairly familiar with Malcolm X. Thus, it seems absurd to suggest that I'm not familiar with his beliefs when he was in the Nation of Islam. You can hear Malcolm X repudiate his previous position [here](http://www.youtube.com/watch?v=wgqIek2TYvg), [here](http://www.youtube.com/watch?v=VHDQ2EKmc3g) and [here](http://www.youtube.com/watch?v=3xXB48l-OlE). You can read my own take on it [here](http://malcolmxfiles.blogspot.ca/p/the-men-who-killed-malcolm-x.html). You can criticize him for beliefs that he rejected if you like, but that seems like cherry-picking facts in order to make a point, which seems fundamentally dishonest to me. 
+
+
+
+
+ Sorry, but that's complete nonsense. You can take a look at either the [several hours of footage that I've uploaded](http://www.youtube.com/user/train_subject8978), or if you like, you can ask for a copy of the free Ebook that I created with over [800 pages of speeches, debates and interviews](http://malcolmxfiles.blogspot.ca/p/malcolm-x-e-book.html), and I challenge you to find this "outspoken anti-semitism". This is just more of the same slander that's been going on for almost fifty years. There are some speeches were he is critical of Jewish people who own buildings where black people were being charged exorbitant rent, but that was about the exorbitant rent, not the fact that they were Jewish. In fact, in several speeches, he uses Jews as a model for black people, when he was arguing for a separate black state. The claim that Malcolm X was an outspoken anti-semite is ridiculous. BTW, [Manning Marable's book was crap](http://mxmission.blogspot.ca/2011/04/paper-tiger-manning-marables-poison-pen.html). 
+
+
+
+
+ wikibot who is Billie Holiday?
+ 
+
+
+
+
+
+
+
+
+
+ Yes he did. But events like the bombing of the 16th Street Baptist Church made him start questioning his 'love thy enemy' philosophy. Towards the end he started aligning himself with organizations like the SNCC which also advocated self-defense.
+ 
+
+
+
+
+ I do not understand your claim.
+ 
+
+
+
+
+ Contrary to popular belief, Malcolm X NEVER preached violence. He preached self-defense. If someone comes at you with a gun or a knife or a rope with the intention of doing you harm, you have the right to defend yourself. This was, unfortunately, a novel concept in 1960. If you read up on MLK, you will see that he was becoming more and  more aligned with Malcolm X and vice versa. It is a fallacy to suggest that they were on opposite sides of the fence. Thanks for the comment.
+ 
+
+
+
+
+ It is disappointing, to say the least, that the perception of Malcolm X as a racist and a hatemonger remains. It is unsurprising that someone as intelligent as Malcolm X could easily forsee this viewpoint. As he wrote in his autobiography:
+
+*"I want you to watch and see if I'm not right in what I say: that the white man in his press, is going to identify me with "hate." He will make use of me dead, as he has made use of me alive, as a convenient symbol of "hatred"and that will help him to escape facing the truth."* 
+
+While I certainly understand the internet's general bias against self-promotion, I must post [this essay that I wrote](http://malcolmxfiles.blogspot.ca/p/the-men-who-killed-malcolm-x.html) several years ago. Perhaps it will help change the minds of people who still identify him with 'hate'. At the very least, if you're going to slander him, you should read his autobiography and get your facts straight. I run the largest collection of [Malcolm X videos on youtube](http://www.youtube.com/user/train_subject8978). I would suggest that those who think Malcolm X was a racist and a hatemonger listen to the man himself and see that any such depiction is absurd, insulting and simply wrong. He was certainly a vocal opponent of white hate while he was in the NOI, but he repudiated some of those views after he left. I maintain that many of those criticisms of White America were valid then and are valid now.
+
+Thanks to the OP for the post. 
+
+
+
+
+ Yeah, just a bad film joke...
+ 
+
+
+
+
+ To really and truly understand Taxi Driver you have to also watch The Deer Hunter and The King of Comedy as they are essentially a trilogy about a vietnam veteran who comes back from the war, drives a taxi for a while and then realizes his dream of becoming a standup comic. 
+
+
+
+
+ Oliver Stone's JFK is an abomination.
+ 
+
+
+
+
+ Putting aside 50 Shades, take a look at the whole Harlequin Romance industry. A friend of mine worked in the publishing industry for a while, the informal term for HR was "rape fiction".
+ 
+
+
+
+
+  "how would you change the government" 
+
+You can't. No matter who you vote for, the government always wins.
+ 
+
+
+
+
+ Blood Meridian.
+ 
+
+
+
+
+ "I insist that the irrelevance of black life has been drilled into this country since its infancy, and shall not be extricated through the latest innovations in Negro Finishing School. I insist that racism is our heritage, that Thomas Jefferson's genius is no more important than his plundering of the body of Sally Hemmings, that George Washington's abdication is no more significant than his wild pursuit of Oney Judge, that the G.I Bill's accolades are somehow inseparable from its racist heritage. I will not respect the lie. I insist that racism must be properly understood as an Intelligence, as a sentience, as a default setting which, likely to the end of our days, we shall unerringly return." 
+
+
+
+
+
+
+
+
+
+ [Here](http://www.subtitleseeker.com/0227912/Kozure+%F4kami/Season-1-Subs/) are some, but not all, of the subtitles.
+ 
+
+
+
+
+ The channel has all three seasons of Lone Wolf and Cub as well as every (I think) Zatoichi movie.
+ 
+
+
+
+
+
+
+
+
+
+ Let it go dude.
+ 
+
+
+
+
+ Now you know what they mean when they say, "It's a women's prerogative to change her mind." 
+ 
+
+
+
+
+
+
+
+
+
+ *Rorschach for example is not the "incorruptible definition of integrity." he's a psychotic individual who cannot conceive of any sort of complexity his thinking. Rorschach is stuck thinking in dualistic terms Good vs. Evil.*
+
+Yeah, this is definitely one of the main problems. He's sort of made to be the protagonist of the movie, but in the book he's clearly unhinged. One of the problems in the movie is that he's got that sort of cool, gravelly voice that makes him sound like Clint Eastwood or something, but in the book his voice is described as completely monotone, devoid of any emotion, because he's severely disturbed. He's also a proto-fascist, who identifies very strongly with the right-wing. BTW, he's based on Ditko's [Mr. A](http://ditkocultist.files.wordpress.com/2011/08/graphic-illusions-mr-a0001.jpg). 
+
+
+
+
+ As a big fan of the comic book, I just don't think they could've made a Hollywood movie that would satisfy me. I'm just too much a fan of the comic as it is. Having said that, there were two things that the movie did brilliantly, one was The Comedian, they really nailed him. The other was Dr. Manhattan. His flashback sequence explaining his origin with the quiet, calm narration and the Philip Glass music was really, really well done. 
+
+What would be great is Terry Gilliam doing the comic as a miniseries for HBO.
+ 
+
+
+
+
+
+
+
+
+
+ [Single page.](http://www.rollingstone.com/politics/news/the-vampire-squid-strikes-again-the-mega-banks-most-devious-scam-yet-20140212?print=true) 
+
+
+
+
+ The answer is blowin' in the wind.
+ 
+
+
+
+
+ Damn, can't believe I missed this. Thanks for the heads up.
+ 
+
+
+
+
+ Good point.
+ 
+
+
+
+
+ While Burroughs is obviously known as a writer, this is a well-written, fairly in-depth piece exploring his musical experiments which provide an excellent companion to his written work. From Steely Dan to The Soft Machine to Genesis P-Orridge to David Bowie to The Disposable Heroes of Hiphoprisy to Lou Reed to Patti Smith to Ministry to Kurt Cobain, Burroughs' influence on contemporary music is considerable. 
+
+
+
+
+
+
+
+
+
+ That would be awesome...at least I couldn't be any worse than Jay Leno!
+ 
+
+
+
+
+  Saying Jimmy Fallon is funnier than Jay Leno, is like saying a plane crash is funnier than the Rape of Nanking.
+
+Best line I've heard on reddit in a while!
+ 
+
+
+
+
+ [Death Wish 3](http://www.youtube.com/watch?v=h0ZP4S3xZgE) 
+
+
+
+
+ lol...I watched it when it was on, but just find I can't go back to it at all. Counselor Troi is annoying, Worf was always getting his ass kicked, Wesley was dumb. Just can't watch it anymore. But, I always liked Data. And the Borg were cool.  
+
+
+
+
+ Dude, the first couple of seasons are superweak. It gets marginally better but it has not aged well at all.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

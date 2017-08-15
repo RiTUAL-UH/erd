@@ -1,0 +1,163 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ FYI - I'm building the website myself and I am not using a content management system like wordpress. 
+
+
+
+
+ Rosberg is 1.5 inches taller than Hamilton - how long would that save Hamilton in a qualifying lap? 
+
+
+
+
+ Name: **Food Finder**
+
+Website: **[foodfinder.io](http://www.foodfinder.io)**
+
+I have made a restaurant recommendation website. I know what you're thinking...not another one!?!.
+
+I'm hoping this will be a little different. I want to create an amazing user experience and I want to only feature excellent restaurants. To do this I'm working on creating a very strong food community.
+
+In the meantime, it would be great if I could get some feedback on user experience.
+
+Website: [foodfinder.io](http://www.foodfinder.io) 
+
+
+
+
+ Thanks! It's just a bunch of hacked together Javascript and boring old css/html 
+
+
+
+
+ **Name:** **[Food Finder](http://www.foodfinder.io/)**
+
+
+**Website:** [www.foodfinder.io](http://www.foodfinder.io/)  
+
+
+**Elevator Pitch:** Helping foodies find and share amazing restaurants in London.
+
+We want to make it ridiculously easy for foodies to find and share great food. We are going to achieve this by creating an amazing user experience and providing the very best restaurant recommendations.
+
+We're not focused on commissions or advertising which means we can work relentlessly to provide an amazing platform for the foodie community.
+
+
+**Looking for:** As much feedback as we can get our hands on!
+
+**Background:** I am a venture capitalist, physicists and weekend entrepreneur. I originally started [Food Finder](http://www.foodfinder.io) as a small side-project as my friends and I love food but we were not satisfied with the existing restaurant discovery websites.
+Since then the website has grown to include hundreds of amazing restaurants around London. I now want to continue to grow the foodie community and improve the user experience. Which is why I would love as much feedback as possible! 
+
+
+
+
+ Thanks to feedback from the entrepreneur subreddit my latest startup - [FoodFinder.io](http://www.foodfinder.io) is looking great with a much improved user experience.
+
+Thank a lot people!
+
+Joe
+
+
+Website: [FoodFinder.io](http://www.foodfinder.io) 
+
+
+
+
+ Cheers Sev,
+
+People have been really positive and the site is starting to get quite good traction in London. I'm going to keep working hard and listening to all the feedback I can get my hands on. Then I'll expand it to another city and bring some people on board in a more formal capacity.
+
+I'll keep you updated! 
+
+
+
+
+
+
+
+
+
+ **[www.FoodFinder.io](http://www.foodfinder.io)**
+
+
+I've just released [Food Finder](http://www.foodfinder.io) into an incredibly crowded space. There are a couple of things I want to achieve with [Food Finder](http://www.foodfinder.io) to make it different to the competition.
+
+
+They are:
+
+* Every restaurant on [Food Finder](http://www.foodfinder.io) needs to be amazing
+
+* [Food Finder](http://www.foodfinder.io) will be powered by the foodie community by enabling users to post great restaurants to the site
+
+* I want to make an incredible user experience similar to City Mapper where things are simple and just work.
+
+There's still quite a way to go and [Food Finder](http://www.foodfinder.io) has only been released in London so far but I'd love your feedback on the user experience.
+
+
+
+Thanks,
+
+Joe
+
+
+Name: Food Finder
+
+URL: [foodfinder.io](http://www.foodfinder.io)
+
+My Bio:
+
+I'm a VC, physicist and (weekend) entrepreneur living and working in London. Food Finder was originally a weekend project but has been adopted by a lot of my friends. Now I want to grow the community and improve the platform. 
+
+
+
+
+ Hey Mikkom,
+
+If you click on one of the restaurant images it'll open up a 'more info' board with a map, streetview, city mapper and uber integration!
+
+Give it a try and let me know what you think,
+
+Joe 
+
+
+
+
+ Thanks for pointing out Aqua Nueva! The quote is actually referring to one of their other restaurants, Aqua Kyoto, but I agree that it's a little confusing. I'll edit the quote tonight. In the future if you come across something you'd like to edit you can click the 'edit' button in the bottom right hand corner and submit a change :)
+
+Adding a full menu is definitely on my to-do list. I don't suppose you know a nice API that is able to provide restaurant menu's? I think there are a few out there which I'll review once I've made a few other changes.
+
+Thanks a lot for your feedback,
+
+Joe 
+
+
+
+
+ Thanks for taking the time to write feedback contechual.
+
+In the very long-run I may consider adding some sort of booking system or promoted restaurants as a form of monitisation but for the time being I'm happy on growing the community and hopefully providing a nice product. I'm not a fan of banner ads so I don't think I would ever consider adding them to the site.
+
+I agree with you that the site was looking a bit cluttered. I've made a few changes following other user comments so hopefully the site will look a little cleaner now. Still a way to go but getting there!
+
+You're right that there's quite a bit of empty space on the left-hand side when a foodie opens a restaurant but I'm hoping this adds to the simplicity of the website. I'll have a play around tonight to see if I can make it cleaner with a wider 'more info' board.
+
+Thanks again for your feedback,
+
+Joe 
+
+
+
+

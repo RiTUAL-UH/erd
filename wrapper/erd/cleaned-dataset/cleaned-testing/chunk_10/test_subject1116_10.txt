@@ -1,0 +1,106 @@
+
+
+
+
+
+ First, what do you mean by power? And how can we compare the power of both? 
+
+
+
+
+ I used the Toshiba CB2 FHD this past semester for my OOP Java and OOP C++ classes and it worked out ok for me. Eclipse was a bit laggy, but I usually found myself working in Sublime Text 3.  This summer I've been using it to program in Python (using IPython notebooks) and R (using RStudio) and it has been working well for me.  My main issue is the limited on board storage, even though I've got a 64GB sd which does help a bit, I would have loved to have had 32GB in onboard storage vs the 16GB .  Oh I'm running elementaryOS Luna (Ubuntu 12.04) via crouton. 
+
+
+
+
+ You could also use [chrome magic actions](http://www.chromeactions.com/) and enable MP4/AVC.  That should get rid of the stutter, plus you get a bunch of other useful features. 
+
+
+
+
+ [Here is the link to the study.](http://archpsyc.jamanetwork.com/article.aspx?articleid=2319711) 
+
+
+
+
+ It wasn't just the media.  Main push actually came from the players.  If the NBA didn't do anything there was a good chance the players would protest and not play. 
+
+
+
+
+ Do you have any reading suggestions that do a good job blending theory and practice? I'm starting my summer break so I would love to do at least one summer project involving computer vision (and motion/speed tracking).  
+
+
+
+
+ Everything works well if you have the right extensions set up.  I made a thread regarding fixing some of the stuttering for Youtube videos here: https://pay.reddit.com/r/chromeos/comments/34p7ru/fix_for_youtube_60fps_stuttering/
+
+Check it out it you are interested.
+
+I've been using since about the end of November and it has done everything I've needed it to do.  I installed a linux distro to use for my programming course this semester.  It's been fine running everything I need.  I've only had some lag issues with one of IDE's (Eclipse) I've used in class.
+
+The main complaint I have is that the build quality is not good.  The two corner screws under the laptop, by the screen, are gone.  They would constantly become unscrewed. I lost the first two that came with the laptop and two others that I replaced them with.  So now I just don't even bother.  
+
+But that screen.  Can't find a laptop with a better screen at this price.  Just a heads there can be some color shifting when viewing it from certain angles, like from the top left or top right.  Looking at the screen directly from the left or right doesn't really cause any serious color shifting. 
+
+
+
+
+ Should have been a tech and Bulls ball: http://www.nba.com/analysis/rules_12.html?nav=ArticleList 
+
+
+
+
+ How about this: https://automatetheboringstuff.com/ 
+
+
+
+
+ FGM seems to be a problem in that part of the world.  
+Check out the data from unicef: http://data.unicef.org/child-protection/fgmc 
+
+Does anyone have data for other parts of the world? 
+
+
+
+
+ The youtube stream also allowed for easy chromecast playback. 
+
+
+
+
+ O'Reilly has put up [these](https://beta.oreilly.com/learning) interactive tutorials if anyone is interested.  They seem pretty interesting. 
+
+
+
+
+ Silicon Valley 
+
+
+
+
+
+
+
+
+
+ Not sure if this will help as it pertains to hiring scientists, but maybe you can get some ideas from it: http://treycausey.com/hiring_data_scientists.html 
+
+
+
+
+ It may not be as speculative, but it is just as petty.  As much as we all love football, it's still an entertainment business.  Both TMZ and Schefter both report information regarding the entertainment world, it's just that TMZ reports on a wider variety of entertainment businesses while Schefter focuses on the NFL. 
+
+
+
+
+ I was using Magic Actions to force flash player on youtube, that resolved most of the stuttering.  Thanks for the tip about turning MP4/AVC on, I'll check it out. 
+
+
+
+
+ I don't have any issues with Netflix. 
+
+
+
+

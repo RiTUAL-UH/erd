@@ -1,0 +1,18 @@
+Experiment_name: weka_exp_0
+Base_path: ./representation_files
+Space_path: ./representation_files/weka_exp_0/sub_space_1
+Categories: ['chunk_1', 'chunk1-2', 'chunk1-2-3', 'chunk1-2-3-4', 'chunk1-2-3-4-5-6-7-8-9-10', 'chunk1-2-3-4-5-6-7-8-9-10-negative']
+Test_corpus_config: <CategorizedPlaintextCorpusReader in u'/home/aplm/next-step/nltk_data/corpora/eRisk/test'>
+corpus_file_list_test: 
+1    chunk1-2/test_subject9450_1.txt     2    chunk1-2/test_subject9451_1.txt     3    chunk1-2/test_subject9565_1.txt     
+4    chunk1-2/test_subject9579_1.txt     5    chunk1-2-3/test_subject9527_1.txt   6    chunk1-2-3/test_subject9533_1.txt   
+7    chunk1-2-3/test_subject9582_1.txt   8    chunk1-2-3/test_subject9585_1.txt   9    chunk1-2-3-4/test_subject9304_1.txt 
+10   chunk1-2-3-4/test_subject9306_1.txt 11   chunk1-2-3-4/test_subject9320_1.txt 12   chunk1-2-3-4/test_subject9355_1.txt 
+13   chunk1-2-3-4/test_subject9371_1.txt 14   chunk1-2-3-4/test_subject9446_1.txt 15   chunk1-2-3-4/test_subject9450_1.txt 
+16   chunk1-2-3-4/test_subject9451_1.txt 17   chunk1-2-3-4-5-6-7-8-9-10/test_subject8977_1.txt 18   chunk1-2-3-4-5-6-7-8-9-10/test_subject8980_1.txt 
+19   chunk1-2-3-4-5-6-7-8-9-10/test_subject8981_1.txt 20   chunk1-2-3-4-5-6-7-8-9-10/test_subject9029_1.txt 21   chunk1-2-3-4-5-6-7-8-9-10/test_subject9069_1.txt 
+22   chunk1-2-3-4-5-6-7-8-9-10/test_subject9085_1.txt 23   chunk1-2-3-4-5-6-7-8-9-10/test_subject9096_1.txt 24   chunk1-2-3-4-5-6-7-8-9-10/test_subject9098_1.txt 
+25   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject7864_1.txt 26   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject7878_1.txt 27   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject7921_1.txt 
+28   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject7934_1.txt 29   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject7987_1.txt 30   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject8020_1.txt 
+31   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject8039_1.txt 32   chunk1-2-3-4-5-6-7-8-9-10-negative/test_subject8049_1.txt 
+

@@ -1,0 +1,94 @@
+ If you want to program locally it is best to install crouton and then install eclipse.  As for an online IDE you can try this: http://ideone.com/ but I can't vouch for how good it is as I haven't used it. 
+
+
+
+
+ I'm not saying that there isn't a connection between the two. I do think that there is a high probability that there is some connection.  I just wanted to point out that other sports are experiencing a similar decline and that there are other possible factors in play that have led to a decline in the participation rates of those sports. 
+
+
+
+
+ perhaps... 
+
+
+
+
+ It's not helpful to just show info regarding one youth football league without comparing it to other leagues and other sports. There's been a general decline in youth sports, not just football.
+
+http://www.wsj.com/articles/SB10001424052702303519404579350892629229918
+
+[Chart form the article.](http://si.wsj.net/public/resources/images/P1-BO944A_YOUTH_G_20140130180004.jpg)
+
+
+ 
+
+
+
+
+ The ref data on basketball reference just indicates the effects of the whole crew that a ref happened to be a part of.  Keeping track of individual ref calls or non calls would allows us to get a better idea of the tendencies of each individual ref.  I just think having that information would be nice and would lead to some interesting analysis.  And I don't know about the whole mob material thing, if a ref does perform poorly he/she should be criticized the same way players are when they perform poorly.   
+
+
+
+
+ Would be nice to know the name of the official who made the call. 
+
+
+
+
+ It's a step in the right direction but why limit it to only the last 2 minutes of close games? 
+
+
+
+
+ I can't start elementary OS. I keep getting the error: X: cannot stat /etc/X11/X (No such file or directory), aborting.
+
+This happened after I updated my Chrome OS.  Could the update have broken my chroot?   
+
+
+
+
+ I'd agree with you, but [Joey Crawford](https://www.youtube.com/watch?v=a2SYIrUnf5Y t=1m24s) exists [so...](https://usatthebiglead.files.wordpress.com/2012/12/tim-duncan-tony-paker-guns-joey-crawford1.jpg) 
+
+
+
+
+ Is there a website or dataset that keeps track of the funding for scientific studies/publications? 
+
+
+
+
+ On the Tosihiba CB2 FHD Netflix doesn't give me any problems.  Youtube tends to stutter during the first couple of seconds and then is fine.  However Youtube videos that run at 60fps are unplayable.
+
+EDIT:  In regards to the youtube stuttering, using magic actions for youtube, I enabled flash player playback which got rid of all the stuttering, even 60fps 1080p videos. 
+
+
+
+
+ This is pretty cool.  Is there a an easy way of scraping the shot charts data?  I know it's possible, the guy who made [this](http://peterbeshai.com/buckets/app/#/playerView/201935_2014) was able to do it. 
+
+
+
+
+ I was just trying to figure out how to do this as well and found the solution.
+
+1. To change the default open the file manager app on chrome os. 
+
+2. Then click on the pdf you want to open, but don't actually open it. 
+
+3. On the bottom right of the file manager app there should be a drop down menu that allows you to select which pdf viewer to use.  You can  also change the default pdf viewer from the same menu as well.
+
+ 
+
+
+
+
+ Yes! 
+
+
+
+
+ Glad you enjoyed. And yeap he was real bad. 
+
+
+
+

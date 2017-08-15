@@ -1,0 +1,499 @@
+
+
+
+
+
+ Access to the paper can be seen here:
+
+https://www.researchgate.net/publication/264984751_The_effect_of_serum_origin_on_tissue_engineered_skeletal_muscle_function
+
+Cow serum (FBS or FCS) is used to grow cells in a dish and is known to be highly variable which can effect cell growth and proliferation. This paper takes serum from different continents and finds that they alter muscle phenotype which is pretty surprising as that is hard to modify. 
+
+They don't identify what might cause this but speculate that differences in how cows are treated (e.g. growth hormone administration to cows is not permitted in the EU) and resulting hormone changes may be responsible.
+
+It's unclear how drinking milk or eating meat might effect people and it was an in vitro study but I thought it was interesting. 
+
+
+
+
+
+
+
+
+
+ People are going to have a spectrum of adverse reactions (from minimal/few to severe) which is shown in the paper and at the moment can't be predicted. The only way to know how you'd react is to take the drug. 
+
+It should be noted that the extra year survival is compared to those who only take one antibody (i.e. trastuzumab and docetaxol). and is not compared to a no treatment control. The treatment that caused this extra year (i.e. pertuzumab,  trastuzumab and docetaxol) costs $120K/yr, A 2006 study showed that trastuzumab alone cost 70K/yr (see end for source), not sure what it is now but I assume a little less given the costs in this study. The antibodies are the expensive part of the treatment due to how they are manufactured and the associated research costs. If you have no treatment with this aggressive form of breast cancer you;re looking at 6-12 months, old school chemo gives you 18 months, trastuzumab gives you 36 months and this one 48 months - so in a way it's $120K/yr for 3yrs survival. 
+
+"Am I suffering in that last year of life?" - Yes in that last year as the adverse effects of cancer get stronger you will suffer but that is the same as if you didn't have treatment. There is some anecdotal evidence (based on discussions with oncologists and personal experience) that some of these targeted cancer therapies (i.e. the antibody) can result in a more rapid last stage of death which would decrease the time suffering at the end stage of cancer (that is based on renal carcinomas treated with sunitinib a VEGFR and PDGFR inhibitor). If that is true (it's anecdotal/based on doctors observations not saying it's fact) then you would expect to spend less time in a hospital or hospice in your last year compared to no treatment.
+
+"Does the last year bankrupt my family or financially burden them?" - Possibly but you're not forced to have the treatment and is something you'd have to discuss with your family prior to starting treatment. The cost of these treatments are amazingly high, particularly in the US due to the healthcare system (i.e. direct hospital/physician costs) and the cost of the drugs themselves (due to research costs of the drug and to cover the costs of other drugs which don't make the grade). In the UK (where I'm from), there is debate about providing these treatments on the NHS (i.e. for free) and a "postcode lottery" sometimes exists where a treatment is available in some areas but not others. The cost effectiveness of trastuzumab treatment in France can be seen here: http://www.ncbi.nlm.nih.gov/pubmed/19487912
+
+The cost-benefit of this remains to be seen and unfortunately it won't be available for all due to the cost. Really, it's another treatment tool that can be used and in time as the costs decrease will be more widely available -  just like any other treatment.
+
+2006 cost study:
+http://muse.jhu.edu/login?auth=0 type=summary url=/journals/hastings_center_report/v036/36.3fleck.pdf 
+
+
+
+
+ They used 2 antibodies (pertuzumab and trastuzumab also known as herceptin) which both block HER-2. HER-2 is found at higher levels in more aggresive breast cancer tumours (it's thought to increase/cause tumour cell proliferation) and it's level is associated with poor survival. The 2 antibodies bind to different areas of HER-2 and have been shown to act synergistically to decrease tumour growth. 
+
+Docetaxel stabilises microtubules which are important for a range of cellular processes including cell proliferation. 
+
+Basically the antibodies inhibit growth factor signaling pathways that promote cell growth, proliferation and survival. Docetaxel stops part of the machinery that is required for cellular function. By targeting different mechanisms you're in theory going to increase cancer death which is what they saw. 
+
+
+
+
+ I think by "genetically predisposed" theathlete46 was referring to type I diabetics, who cannot produce insulin which is required to increase glucose uptake in muscle and brain. This treatment may help lower the dose of insulin they need to inject themselves with by increasing insulin sensitivity but they will still need to inject insulin to see the benefits of this potential treatment.
+
+In terms of being predisposed and developing a disease being different things then I totally agree with you, I just interpreted the previous commentators differently :) 
+
+
+
+
+ Like many drugs or compounds that effect metabolism there is potential for huge side effects, particularly with prolonged use. A preview to the paper states 2 possible side effects from the data in the paper: 1. May promote cancer cell growth - via the Warbug Effect/hypothesis. 2. May increases risk of CVD and stroke as the drug leads to intracellular accumulation of homocysteine - a known risk factor for CVD and stroke.
+
+The link for the preview:
+http://www.sciencedirect.com/science/article/pii/S1550413115000650 
+
+
+
+
+ As far as I'm aware there's no info regarding how MOTS-c is controlled naturally. Given its role in this paper it is likely that exercise increases its levels and release (exercise can increase transcription of the mitochondrial genome which is where this protein is coded for).
+
+The use of high-fat diets was to induce an obese and type-2 diabetic state as is often done in these studies and induces mitochondrial dysfunction - which likely decreases the levels of MOTS-c but wasn't tested for. In the paper they showed that fasting decreases MOtS-c levels but that was the only "natural level" they measured - everything was injecting the peptide into animals and drug treatments in vitro. The high fat diet was likely 60% fat, 20% protein and 20% carbs and the same calorie intake as controls, control diets are 10% fat typically and 70% carbs - this is based on the typical HFD model which was probably used.
+
+In terms of diet for strength training, protein content and quality is more important for protein synthesis. The peptide in the paper activates AMPK which inhibits protein synthesis so you wouldn't want to inject it before you work out!  This is a good article linking the molecular level changes to diet but it does only focus on protein. 
+
+http://www.gssiweb.org/en/Article/sse-123-nutrition-and-the-molecular-response-to-strength-training 
+
+
+
+
+ It's most likely the best way to engineer a muscle but the force measurements were from single-fibres and not the whole muscle. Tissue engineered muscle has poor transfer of force to the extracellular matrix and is less dense than native muscle and this way of testing force doesn't allow you to test those properties. Still a good study but findings a little over-hyped 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thanks for letting me know the sentence. The sentence states:
+
+Consistent with these observations, we demonstrated that siRNA knockdown of the PI3KCD isoform, but not other PI3K isoforms, was senolytic in preadipocytes.
+
+The vast majority of drugs are not specific and have multiple targets. When researchers find a drug has an effect they want to know why/how it's working.  What they are referring to in this sentence is an experiment which they performed in cells in a dish (not an animal) to see what molecular target is causing the effect that they are seeing with the drug therapy. What they used was a small interfering RNA (siRNA). These can be made/designed by any researcher and are extremely specific to a target. Researchers look at the genome and find the nucleotide sequence for the protein of choice, find a unique nucleotide sequence in this sequence (so it's specific to the protein of choice), make this sequence which when put into a cell results in degradation of the mRNA of the protein of choice. This stops the protein being made and therefore is a way to stop it being made and used in the cell - this process is a really good tool for a researcher and figuring out the process resulted in Andrew Fire and Craig Mello getting the Nobel Prize in Physiology or Medicine in 2006 only 8 or 9 years after they published their paper on the process (that's a REALLY short time from publishing to getting a nobel prize).  
+
+In this case, they are interested in PI3K, which is involved a range of processes including cell growth and cell death but specifically interested in the PI3KCD isoform which is known to help cancer cells resist cell death and therefore may help senescent cells survive. For the experiment they treated the cells (preadipocytes in this case) with the siRNA for PI3KCD and nothing else (i.e. no dasatanib or quercertin was used). They found that the siRNA had the same effect as the drug treatment suggesting that the drugs could be acting by inhibiting PI3KCD. They used siRNA for a lot of other proteins as well to find a few molecular proteins that act as senolytics. Identifying these proteins will help target future drug therapies and research directions.
+
+In short, the drugs aren't attached to an RNA but a specially designed RNA was used to figure out how the drugs might be working. In theory you could use the siRNA as a drug but it would be unbelievably expensive. Hopefully that helps! 
+
+
+
+
+ They gave the drugs orally to the mice so in theory delivery shouldn't be an issue. The first issue would be the dose of the drugs, quercertin shouldn't be an issue though it is quite a big dose. Dasatnib would be the issue with the dose they gave. It's used as a chemotherapy drug and is suggested to be used at 100mg/day in humans which some people cannot tolerate and there are number of side effects. They gave the mice 5mg/kg body weight, it's often assumed that the average guy weighs 70kg so that's 350mg - how well that could be tolerated remains to be seen.
+They did find that a one off treatment was sufficient which might make any side effects, which I guess would be pretty horrible, worth it in the long-term. 
+
+It's a proof of concept study really, that if you eliminate senescent cells then you can improve/maintain organ function for longer. I doubt this treatment would be used in a clinic in the future but it'll mean that more research is focused on this type of treatment which may lead to a better drug combination or technique in the future. 
+
+
+
+
+ In the animal studies they used an oral garage which is basically a tube that delivers the drug directly to the stomach. Dasatanib was at a concentration of 5mg/kg and quercertin at 50mg/kg body weight, most likely they were dissolved in water but it might have been with a different solvent. That info is from page 8 of the paper.
+
+There's no need to bind it RNA which I can't see making any difference unless it prevents it from degradation, if you let me know where it says that then I'll have a look as I skimmed through the paper to find the dosing info.
+
+ 
+
+
+
+
+ You seem to know what you're talking about! I'm a bit swamped at the moment, I'll try and get back later but this review might help you:
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2849637/
+
+In a nutshell, it's too simplistic to just look at ATP requirements as I was trying to point out in point 1 of my last reply. So in terms of ATP being needed for synthesis of nucleotides and amino acids, that's true but so are carbon chains, ribose etc. which come from glucose. So are other metabolites from glycolysis (NADH, NADP etc) and you still get ATP (albeit lower levels). The increase in glycolytic flux and glycolytic capacity (i.e. glucose uptake proteins and enzymes) means that in some instances the total ATP generating capacity from glycolysis is higher than that from the mitochondria - so even though it's less efficient more ATP can be generated.
+
+The other point to take into consideration which you allude to with "I don't see how a hypoxic tissue can continue to proliferate for long." is that this isn't a "perfect" metabolism shift that overcomes hypoxia. Cancer cells do die and become necrotic and they aren't immune to excessive levels of lactate accumulation or hypoxia. They are better able to cope with the harsh environment and the stresses placed on the cells further ramps up their metabolism and anti-apoptotic abilities, "super-charging" them even more - in essence the harsh environment induces a selection process for cells that are more glycolytic, more resistant to cell death which seem to promote metastasis and more aggressive tumors. 
+
+It should also be noted that not all cancer cells show this preference for glycolysis/Warburg Effect and there is a broad spectrum in cancer metabolic phenotype just to make it more complicated!
+
+In terms of the mechanism of this treatment in causing cancer cell death/longer survival it's not actually due to changing cancer cell metabolism or ROS production. They showed that using a potent antioxidant, which would inhibit ROS production, had no effect on tumor survival. Instead it's due to activation of the immune system, as deletion of immune cells prevent the positive effect of hyperoxia and that the treatment causes an increase in the relevant immune cells (T and NK cells). In hypoxic environments cells release adenosine which dampens the immune system and consequent removal of cancer cells. The first post covers this in more detail. 
+
+
+
+
+ Fermentation does yield less ATP/energy compared to aerobic respiration (2 ATP vs 36 ATP) but cellular function is more than generating ATP. 
+
+1. For cell proliferation, glycolysis is actually more effective because it generates other intermediates, acetly-CoA for fatty acids, glycolytic intermediates for non-essential amino acids and ribose for nucleotides with the latter 2 only available from glucose/sugars. This is actually put to use when cells are grown in a dish, most nutrient medias contain high levels of glucose and glutamine which increase cell proliferation rates in both normal and cancer cells compared to media that favors oxidative phosphorylation - this is one reason why in vitro drug screens are pretty crap because the cells don't rely upon aerobic respiration and drugs that are toxic to mitochondria are only found when used in an animal (the Crabtree Effect).
+
+2. ATP inhibits phosphofructokinase, the rate-limiting step of glycolysis so aerobic respiration would decrease glycolysis, due to high ATP production,which is required for maximal/optimal cell proliferation as explained in 1.
+
+3. If the niche/environment is hypoxic then using glycolysis allows cell proliferation to continue which is better than waiting for vascularization. Having more cells will also increase the signal for vascularisation so it is likely to occur faster than by waiting for it to happen. Once vascularized and oxygen is more abundant the lactate can then be used as an aerobic fuel source by the cancer cells (cancer cells are still capable of aerobic respiration). Also lactate induces acidosis which limits healthy tissue growth and favours cancer cell growth (they are more resistant to the negative effeccts of high lactate).
+
+4. A lot of the genetic mutations that cause cancer (e.g. PTEN, mTOR, LKB1) result in activation of glycolytic pathways and activation of a protein called PKB/Akt which increases the glycolytic enzymes but also increases proteins that reduce apoptosis/promote survival. 
+
+5. Aerobic respiration also induces reactive oxygen species to which cancer cells are more sensitive to than healthy cells.
+
+6. Aerobic respiration is used/found more in a differentiated tissue than in single proliferating cells which is what cancer cells are. This is because DNA replication and cell membrane synthesis are required at much lower levels than during cell proliferation. The advantages of aerobic respiration can then be utilized
+
+Hopefully I stayed on track with the answer! Although it seems counter-intuitive it does kinda make sense! 
+
+
+
+
+ This is a summary and link of the paper (it's open access):
+
+Summary
+The healthspan of mice is enhanced by killing senescent cells using a transgenic suicide gene. Achieving the same using small molecules would have a tremendous impact on quality of life and burden of age-related chronic diseases. Here, we describe the rationale for identification and validation of a new class of drugs termed senolytics, which selectively kill senescent cells. By transcript analysis, we discovered increased expression of pro-survival networks in senescent cells, consistent with their established resistance to apoptosis. Using siRNA to silence expression of key nodes of this network, including ephrins (EFNB1 or 3), PI3K, p21, BCL-xL, or plasminogen activated inhibitor-2, killed senescent cells, but not proliferating or quiescent, differentiated cells. Drugs targeting these factors selectively killed senescent cells. Dasatinib eliminated senescent human fat cell progenitors, while quercetin was more effective against senescent human endothelial cells and mouse BM-MSCs. The combination of dasatinib and quercetin was effective in eliminating senescent MEFs. In vivo, this combination reduced senescent cell burden in chronologically aged, radiation-exposed, and progeroid Ercc1-/ mice. In old mice, cardiac function and carotid vascular reactivity were improved 5 days after a single dose. Following irradiation of one limb in mice, a single dose led to improved exercise capacity for at least 7 months following drug treatment. Periodic drug administration extended healthspan in Ercc1-/ mice, delaying age-related symptoms and pathology, osteoporosis and loss of intervertebral disc proteoglycans. These results demonstrate the feasibility of selectively ablating senescent cells and the efficacy of senolytics for alleviating symptoms of frailty and extending healthspan.
+
+http://onlinelibrary.wiley.com/doi/10.1111/acel.12344/abstract 
+
+
+
+
+
+
+
+
+
+ Hypoxia may actually drive tumours to be more aggressive and promote metastasis. The lack of oxygen converts their metabolism to be glycoyltic (which allows them to better survive without vascularization), upregulates anti-apoptotic genes/proteins, promotes release of factors (i.e. VEGF and PDGF etc.) that promote blood vessel growth into the tumour and may help keep the cells in an undifferentiated state, which in turns helps to keep them proliferating. 
+
+There's a review here that shows providing oxygen doesn't seem to stimulate tumour growth and talks about the role of hypoxia in tumour progression and phenotype
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3510426/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Free access paper:
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120012 
+
+
+
+
+
+
+
+
+
+ Link to paper: http://hmg.oxfordjournals.org/content/24/7/2035
+
+Abstract:
+
+Myotonic dystrophy type 1 (DM1), the most prevalent muscular dystrophy in adults, is characterized by progressive muscle wasting and multi-systemic complications. DM1 is the prototype for disorders caused by RNA toxicity. Currently, no therapies exist. Here, we identify that fibroblast growth factor-inducible 14 (Fn14), a member of the tumor necrosis factor receptor super-family, is induced in skeletal muscles and hearts of mouse models of RNA toxicity and in tissues from DM1 patients, and that its expression correlates with severity of muscle pathology. This is associated with downstream signaling through the NF-B pathways. In mice with RNA toxicity, genetic deletion of Fn14 results in reduced muscle pathology and better function. Importantly, blocking TWEAK/Fn14 signaling with an anti-TWEAK antibody likewise improves muscle histopathology and functional outcomes in affected mice. These results reveal new avenues for therapeutic development and provide proof of concept for a novel therapeutic target for which clinically available therapy exists to potentially treat muscular dystrophy in DM1. 
+
+
+
+
+
+
+
+
+
+ Antibiotics can have similar negative effects on chloroplasts and plants.
+Source: http://www.publish.csiro.au/paper/FP03149.htm
+
+It depends on the mechanism of how the antibiotic works, if it targets translation pathways like several antibiotics do then it most likely doesn't matter if the target is eukaryotic or prokaryotic as those mechanisms are largely conserved. 
+ 
+
+
+
+
+ It's interesting that tetracycline (and neomycin in the linked study) causes weight gain, I was a bit surprised by that claim so looked to see if it was true - http://www.ncbi.nlm.nih.gov/pubmed/15905446
+
+It'd be interesting to know if the increase in mass is due to fat accumulation and what the meat quality is like. Tetracycline inhibits protein synthesis ( a lot more effectively in bacteria than mammalian cells) and so do aminoglycoside antibiotics like streptomycin and neomycin (by blocking calcium channels). Streptomycin blocks the signaling pathways that lead to muscle growth and also inhibits mitochondrial function preventing the adaptation to chronic exercise in muscle. That suggests that less muscle will be made due to less protein synthesis and perhaps more fat accumulation due to mitochondrial dysfunction.
+
+I'd be surprised that using less energy to fight infection was the reason for the increase in weight but I might be underestimating how often livestock get infections - probably quite high with the battery farms and similar "maximize animal density type farms". 
+
+
+
+
+ Link to paper http://www.sciencemag.org/content/early/2015/03/11/science.aaa2958
+
+Abstract:
+
+After central nervous system (CNS) injury, inhibitory factors in the lesion scar and poor axon growth potential prevent axon regeneration. Microtubule stabilization reduces scarring and promotes axon growth. However, the cellular mechanisms of this dual effect remain unclear. Here, delayed systemic administration of a blood-brain barrier permeable microtubule stabilizing drug, epothilone B (epoB), decreased scarring after rodent spinal cord injury (SCI) by abrogating polarization and directed migration of scar-forming fibroblasts. Conversely, epothilone B reactivated neuronal polarization by inducing concerted microtubule polymerization into the axon tip, which propelled axon growth through an inhibitory environment. Together, these drug elicited effects promoted axon regeneration and improved motor function after SCI. With recent clinical approval, epothilones hold promise for clinical use after CNS injury.
+ 
+
+
+
+
+
+
+
+
+
+ Link to the paper: http://www.sciencemag.org/content/347/6227/1265
+
+Abstract:
+
+Circadian clocks orchestrate periods of rest or activity and feeding or fasting over the course of a 24-hour day and maintain homeostasis. To assess whether a consolidated 24-hour cycle of feeding and fasting can sustain health, we explored the effect of time-restricted feeding (TRF; food access limited to daytime 12 hours every day) on neural, peripheral, and cardiovascular physiology in Drosophila melanogaster. We detected improved sleep, prevention of body weight gain, and deceleration of cardiac aging under TRF, even when caloric intake and activity were unchanged. We used temporal gene expression profiling and validation through classical genetics to identify the TCP-1 ring complex (TRiC) chaperonin, the mitochondrial electron transport chain complexes, and the circadian clock as pathways mediating the benefits of TRF. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The usual limitations of studies in mice and how that applies to humans apply here as it was performed in mice (i.e. differences in metabolism/physiology, a cell therapy working in mice for 6 months doesn't mean it'll work for years in a human etc.). My guess is that the model of diabetes they used is questionable.
+
+In this study they used a mice (SCID mice) that did not have a functioning immune system - which is commonly used when implanting human cells as they did here to prevent rejection. The problem this has is that the immune system plays a key role in the development of type 2 diabetes, so if this is done in a human the immune system **might** prevent any positive effects. 
+
+Another implication of using the SCID mice is that they had reduced circulating fatty acids in their blood and more fat deposition in the kidney and liver when fed a high-fat diet - this is not seen in humans and lipid induced resistance is thought to be a key cause of insulin resistance. It is possible that high levels of fatty acids in the blood will prevent this treatment from working in humans or the mechanisms by how this treatment work do not work to counteract the effect of lipid induced insulin resistance.
+
+When fed a "western diet the SCID mice showed "a more mild phenotype in terms of obesity, fasting hyperglycemia, insulin resistance, and leptin levels" than the high fat mice, which isn't seen in mice with a fully functioning immune system. The authors actually say that in comparison to traditional models of diabetes:
+
+other mechanisms may be involved in the development of insulin resistance in this animal model.
+
+It's unclear and impossible to predict how it will translate to humans. Despite differences to the traditional models, those models do not fully replicate human diabetes so perhaps it will be a better model (unlikely in my opinion).  The study helps give insight into what role the immune system may play in the development of type 2 diabetes and will guide future research efforts. Additionally, it's a proof of principle study as it has been shown recently that treating with high levels of insulin can help manage type 2 diabetes in people and this method of increasing insulin may help offset those limitations, technical challenges and unwanted side effects. For your question, it's really the first step toward a new treatment, it may not work, it could work amazingly but it's a new avenue to go down. 
+
+
+
+
+ Children with Type 1 would benefit from this and is what Viacyte VC-01 treatment is targeted at and where they have started clinical trials:
+
+http://viacyte.com/clinical/clinical-trials/
+
+Type 1 diabetics don't produce insulin due to autoimmune-induced loss and dysfunction of beta cells. Type II diabetes is characterized by insulin resistance - i.e. insulin is produced but glucose uptake from the blood is diminished/not as effective. Most research has focused on increasing/restoring insulin sensitivity with drugs and exercise and this enables the condition to be managed in many cases and disease progression to be slowed. However, over time and in more severe cases the beta cells start to not function as well (i.e. release less insulin) and start to die (decreasing insulin levels more). A couple of recent studies have shown that injecting high levels of insulin in type II diabetics can help manage the disease and improve the symptoms, like this one in patients:
+
+http://www.ncbi.nlm.nih.gov/pubmed/18502299
+
+In this study they showed that injecting beta cells alone helped improve insulin sensitivity and glucose tolerances in animals fed a high fat diet which is used to induce insulin resistance. However, the tissues which uptake glucose would still be less insulin sensitive than healthy tissues so they tested the effect of combined cell therapy and traditional drug therapy. When they added drugs that improve insulin sensitivity in those tissues (i.e. normal drug treatments for type 2 patients) they found that the cell transplant and drug treatment worked synergistically and improved outcomes more than either treatment alone. 
+
+
+
+
+ Here's the link to the paper it's open access so everyone can view it.
+
+http://www.cell.com/cms/attachment/2027503261/2045933681/mmc2.pdf 
+
+
+
+
+ How did you go from the British Empire to blindly supporting the US Government? 
+
+
+
+
+ The difference between the EU and U.S. Cattle feed, antibiotic and hormone use has been shown to effect serum (basically blood without cells) and can impact biology research. 
+
+For example, In this paper tissue engineered muscles exposed to EU cow serum became fast muscle and US serum resulted in a slow muscle, though the specific factors causing the change were not identified.
+
+http://www.ncbi.nlm.nih.gov/pubmed/25146978 
+
+
+
+
+ Yep that's the one!
+
+Here's a youtube playlist of it:
+https://www.youtube.com/watch?v=XQDxtzf-FDM list=PLE077061F6C197D71 
+
+
+
+
+ By his peak I mean that I've not heard or seen a better performance than that show from him but sure he may go on to top that performance. In terms of him writing great stuff since I don't disagree and he'll go on making great music for a long time.
+
+I've seen him twice since that show (last time in June 2014) plus several uploads on YouTube and music sites. The performances of Slow Dancing in a Burning Room, Belief and Vultures are far beyond any other versions I've heard him do since (obviously this is all subjective and I've not heard every live performance since then). Also the people he performed with that night Robbie McIntosh, Steve Jordan, Pino Palladino etc. and the chemistry he had with them was in my opinion something very special and would be incredibly hard to top but hopefully I'm wrong!
+
+ 
+
+
+
+
+ Came here to say John Mayer. I always thought he was some teen pop artist but goddam can he play a guitar! For anybody unsure of him watch or listen to Where the light is - Live in LA. it shows off his diversity, talent and in my opinions him at his peak. 
+
+
+
+
+ They embedded cells in matrigel for their "mini lungs", no directional or guided tension cues were given so no macroscopic lung structure would have been formed. The image quality is poor for their more detailed analysis of their 3D cultures so it's hard to gleam anything from it. That coupled with it being a supplemental figure in the paper and the key finding being the differentiation of human foregut stem cells to distal lung epithelium makes it a poor, yet typical, PR piece. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This is a response to both your comments and a general overview of the paper for everyone, the points I make are generalized but to help understand what might be going on:
+
+The paper (see here, open access: http://ehp.niehs.nih.gov/wp-content/uploads/advpub/2015/1/ehp.1408698.acco.pdf) wanted to see if the beneficial effects of exercise on mortality were changed if exercise was performed in a more polluted area. The basic findings were that exercising (mainly cycling in this paper) decreased your mortality risk regardless of how polluted the air was compared to those who did not exercise. They did some analysis on the amount of exercise done (supplementary table 1)  but they didn't have enough data to take anything from it really due to the nature of the questionnaire, so really this is a general exercise vs. no exercise.
+
+Acute exposure to polluted air can decrease lung and vascular function (see pg 4 and 5 of the paper for refs) and chronic exposure is linked/causes increased respiratory and cardiovascular illness and mortality. In this paper they termed high pollution as over 19ug/m2 of NO2, which can cause oxidative stress in cells. 
+
+The benefits of exercise can include increased strength, mitochondrial density and endurance, additionally the mitochondria and cells are better able to resist oxidative stress (http://hyper.ahajournals.org/content/54/6/1206.full that's free access not the best source as it refers more to exercise with people with hypertension but the same effects are seen in healthy people). The better resistance to oxidative stress will enable you to better "resist" the pollutants in the air, improve vascular function etc.
+
+There is obviously a balancing act, too much pollutant vs the benefits of exercise. The key thing to take into account is how long the exercise takes and how much your breathing rate increases. The intensity of exercise wasn't taken into account but if you say 15 breaths per min at rest and 45 breaths per min with exercise (that's intense exercise levels, 30 breaths per min might be a better number). In a week, you would have 151200 breaths with no exercise and 158400 breaths if you exercise for 4hrs at a very high intensity which is 4.75% more breaths/wk. That's a relatively small increase in breath no. for exercising intensely as a whole and given the more you exercise the better your cells should be able to resist oxidative stress it's not surprising that the benefits of exercise outweigh the slight increase in air intake. (Breath volume would increase with exercise too but that's really variable in people and the intense exercise breath rate should hopefully account for that).
+
+An interesting study they reference is this one from Hong Kong http://www.ncbi.nlm.nih.gov/pubmed/17291575
+
+Here the high levels of pollution are 6-times that in this study (120ug/m3 NO) and their minimum levels are the high level in the Copenhagen study. They see the same effect, exercise keeps you healthy even where smog is very high. It should be noted that they didn't specify that all exercise was outside in the smog but some of it would have been and they were exposed to way high levels. They also looked at what air pollutants correlate to disease, NO3, O3 and particulates below 10um had the most negative effects. The benefits of exercise were more pronounced with the high levels of pollution than the lower levels in the Copenhagen study.
+
+**TL;DR:** The basic message is that exercise will keep you more healthy compared to not exercising. The benefits of exercise seem to increase in more polluted areas. If you can exercise somewhere away from pollution great but if you can't it shouldn't put you off because you think you might inhale more pollutants. 
+
+
+
+
+ This is an opinion piece by a professor at UC Davis about his own experiences during his career only. It's good to see this kind of article published in an actual journal despite it just being an opinion article (i.e. it's not based on reviewing employment practices at multiple institutes). 
+
+
+
+
+
+
+
+
+
+ Hmm it'll be interesting to see how this plays out. A couple of points about how this might affect the process:
+
+1. There is a $1495 publishing fee already, **if** your paper is accepted - the high cost is because it is an open access journal - I.e. No paywall. The cost (unclear to what that is) for the sped up process would be mandatory if the paper was accepted or refused
+
+2. The journal aims for a decision within 30 days already - this is not a guarantee, I've submitted to journals with this aim and had to wait up to 10 weeks for the initial decision. Having a guaranteed decision time is great for the submitting authors (assuming it is peer-reviewed correctly etc.)
+
+3. It seems that this process will use reviewers employed an external company. Typical peer review is sent to somebody (ideally 3 reviewers) in the field of study who review it free of charge - it's something that at least in academia you are expected to do. The downside of this is that reviewer may be time pressed due to work commitments which results in either a delayed response time or a poor review. I've had a review where only comments on the abstract were made and took 10 weeks to get, the paper was accepted but I wouldn't class that as a peer review (there was one other reviewer who did a slightly better job). It's interesting that scientifc reports says they only guarantee one reviewer, which I think is complete bullshit. There should be 3 reviewers to enable the editor to make an informed decision and get a more representative view. Hopefully they do send it out to 3 reviewers and it's more of a legal thing by guaranteeing one reviewer as sometimes a reviewer can accept a paper but not return it in time.
+
+4. The main concern would be what level of reviewers this company has. Are they up to date in the field of the study? Is the field their speciality or just given to them as they have some form of biology background? What level of education do they have? 
+
+5. The benefits of the reviewers from this company is that they may have the time and pressure to submit a good detailed review (I.e. If there are complaints about the review they may receive less work). If they have more time they may read up on the specifics of the paper which will let them perform a more detailed, nuanced review. As an academic, if I was to give a rubbish review as I volunteered to do it nothing would be said to me. Perhaps the editor may put an asterisk to my name to not send me a review again (which is what a good editor would do) but I doubt many do this (I know of one who does, other editors seems to have its a luck of the draw thing based on my letter to the editor following the peer review of my abstract).
+
+6. The extra fee should, in theory, go to the external reviewing company and not NPG (though they probably will take a small cut - based on my cynical business views!). The company will pay the reviewers a fee for doing the job on time and take a cut themselves. The people reviewing the document shouldn't really care if it's accepted as they get paid regardless, same with the company. Scientific reports will in the vast majority of cases go with the reviewers decision so they won't care if you've paid or not.
+
+In short, if the company has good quality reviewers then this may be a good thing. If they don't then the integrity of the journal could take a hit if poor papers are accepted and poor papers will be released into the community (this happens anyway for some of the reasons I've given above). 
+
+
+
+
+ The link is to the open access paper. Here's the abstract anyway:
+
+The molecular mechanisms behind aging-related declines in muscle function are not well understood, but the growth factor myostatin (MSTN) appears to play an important role in this process. Additionally, epidemiological studies have identified a positive correlation between skeletal muscle mass and longevity. Given the role of myostatin in regulating muscle size, and the correlation between muscle mass and longevity, we tested the hypotheses that the deficiency of myostatin would protect oldest-old mice (2830 months old) from an aging-related loss in muscle size and contractility, and would extend the maximum lifespan of mice. We found that MSTN+/ and MSTN/ mice were protected from aging-related declines in muscle mass and contractility. While no differences were detected between MSTN+/+ and MSTN/ mice, MSTN+/ mice had an approximately 15% increase in maximal lifespan. These results suggest that targeting myostatin may protect against aging-related changes in skeletal muscle and contribute to enhanced longevity. 
+
+
+
+
+
+
+
+
+
+ The paper is open access but here's the abstract:
+
+The molecular mechanisms behind aging-related declines in muscle function are not well understood, but the growth factor myostatin (MSTN) appears to play an important role in this process. Additionally, epidemiological studies have identified a positive correlation between skeletal muscle mass and longevity. Given the role of myostatin in regulating muscle size, and the correlation between muscle mass and longevity, we tested the hypotheses that the deficiency of myostatin would protect oldest-old mice (2830 months old) from an aging-related loss in muscle size and contractility, and would extend the maximum lifespan of mice. We found that MSTN+/ and MSTN/ mice were protected from aging-related declines in muscle mass and contractility. While no differences were detected between MSTN+/+ and MSTN/ mice, MSTN+/ mice had an approximately 15% increase in maximal lifespan. These results suggest that targeting myostatin may protect against aging-related changes in skeletal muscle and contribute to enhanced longevity. 
+
+
+
+
+
+
+
+
+
+ In this paper, Collagen isoforms 10, 13 and 120 were shown to increase longevity to a similar amount and combining them didn't have an additive effect. 
+
+Collagen isoforms such as collagen IV and VI and are implicated in cancer, these help form basement membranes which help promote angiogenesis (blood vessel growth). These collagen isoforms may also bind to growth factor receptors on cancer cells and promote growth of the cancer cells themselves. Other collagen isoforms like collagen I may prevent tumor progression but may be implicated in the negative aspects of aging.
+
+In terms of what you saw it may be what I'm referring to but it could be approaches that scientist use to study cancer in vitro. It's increasingly common for scientist to grow cancer cells (and other cell types) in a 3D extracellular matrix as this better models the in vivo environment and the cells behave more like they do in the body. This **should** reduce the number of artifacts (it's not perfect and needs improving further) from cell culture experiments and help scientist better understand the physiology and biology of cells. Collagen is often used, as is Matrigel which is a basement membrane matrix (rich in collagen IV among others) isolated from a mouse tumor and can promote cancer phenotypes in healthy and cancer cells.
+
+Like with most studies that get reported on this is the first step so knowing what to do or eat is hard to extrapolate without taking into consideration that this is in worms! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

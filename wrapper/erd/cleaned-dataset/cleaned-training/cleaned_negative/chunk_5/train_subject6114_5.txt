@@ -1,0 +1,20 @@
+ yeah, i send emails to an address like that all the time but when i try to send it form IFTTT it seems to just chop off the beginning.  
+
+
+
+
+ The email I am trying to send is to a dlist and the format of the email is something like +dlist+~orgname/dlist/group@school.edu however, when ifttt sends it to gmail it gets sent as group@school instead of the entire dlist. 
+
+
+
+
+ Perhaps you could do a cascading sort of notification system where if it is raining in a certain area it triggers an event, and that event will always trigger an iOS notification that has the zip code it will be raining in. Not sure if it will work but just a thought. 
+
+
+
+
+ As title says, the trigger is the start of a calendar event but the recipe has never been run and many events should have triggered it. It is on a shared calendar could this be the reason it is not working?  
+
+
+
+

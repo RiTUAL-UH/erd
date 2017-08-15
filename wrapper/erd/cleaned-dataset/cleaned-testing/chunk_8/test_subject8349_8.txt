@@ -1,0 +1,210 @@
+ Mods don't remove this please, just making fun of the current state of GTA V "cracks" :) 
+
+
+
+
+
+
+
+
+
+ I'm sure it did. 
+
+
+
+
+ Lol. Try hovering over PlayGTAV.exe. http://i.imgur.com/R7fyIvh.png
+Can't even tell if it's virus, or just a troll. 
+
+
+
+
+ Not sure if making them public here would be smart. Though I'd also love to know some. 
+
+
+
+
+ Fake. The settings menu looks different from the [legit version.](http://www.pcgamer.com/gta-5-pc-graphics-options-in-full/) 
+
+
+
+
+ Clearly you've never heard of private trackers. You don't really have to download 60GB from ThePirateBay @ 100kb/s 
+
+
+
+
+ Pretty much... the game will be released in 4 days... we've waited years, a few days isn't so bad. 
+
+
+
+
+ I have a 60MB download internet connection. I could download a scene release of GTA V in 150 minutes at full speed from a private tracker.  
+
+
+
+
+ Maybe the game .exe is tied to the launcher for DRM stuff. I don't know. 
+
+
+
+
+ Keygen? I think it uses online activation. And I have no clue if the launcher unpacks the .exe or something, but in GTA IV, if I remember correctly, the game .exe and the launcher were separate files.  
+
+
+
+
+ Aside from spending hours trying to bypass the messagebox in the setup, not really. Someone with much more experience could probably start snooping around that launcher, though. Maybe I'll turn on my VPN and create a fake account to test it.   EDIT: oh. 
+
+
+
+
+ So, here's what I "found". I couldn't run the setup properly because of the "You don't have the game installed" messagebox. BUT, they're using some crap installer with content you can extract with Winrar/7zip. [It's 2 DLLs \(setup-related I think\), and the GTA V launcher.](https://onedrive.live.com/redir?resid=1DA9308D1CF31D10!566 authkey=!AP4BLF7E0XbqRr4 ithint=folder%2cexe) You can run it. It downloads and installs Social Club, and then asks you for login (not sure what happens after). I tried using PEiD to check if it's protected, but it says "Not a valid PE file". I loaded it into IDA, and checked the strings, it's obvious it's packed (well, that was expected). 
+
+
+
+
+ "uploading"
+LOL. These blogs lie, but usually upload legit stuff. Not this time, I guess.
+Wonder that they're uploading xD 
+
+
+
+
+ Same. The last groundbreaking stuff from them was **The_Settlers_7-Razor1911**, maybe **Starcraft_II_Wings_Of_Liberty_Proper-Razor1911** too. DRM-wise, of course. 
+
+
+
+
+ Could you PM me that day one patch link? Frankly, I don't think Rockstar would be stupid enough to include all necessary files (even if they're DRM files) in the retail copies/preloads, though I'm still hoping they are.  
+
+
+
+
+ I'd say that can be done. With the retail copies floating around + steam preload, there's no doubt some group already has it, and might be working on the crack. This shouldn't have denuvo, nor any complicated crap. 
+
+
+
+
+ I bet the guy behind this is crying of laughter. Damn sceners. 
+
+
+
+
+ Yhup, and marked as spam [here](http://pre.corrupt-net.org/index.php?q=group:Razor1911). God, I was so hyped.  
+
+
+
+
+ That's great, but this is about the pre "Grand_Theft_Auto_V-Razor1911". Please don't flood this thread with "y'all should buy dis it's gr8 gaem m8" posts like this. 
+
+
+
+
+ First you'd need the release... which isn't available anywhere... (yet?). And it might be spam. 
+
+
+
+
+ Since it was pre'd almost an hour ago and no scene tracker seems to have it yet, I think it might have been pre spam/fake. So probably none of that yet... :( 
+
+
+
+
+ Like 5 mins after it got pre'd the "SKIDROW FANS" facebook page updated the crack status to "coming up". Well, I'm surprised these people know what a pre database is :p 
+
+
+
+
+
+
+
+
+
+ Are the colors in colorblind mode or something? 
+
+
+
+
+ Alright, thanks for replying! 
+
+
+
+
+ If the games are stored in big files (let's say, lot's of 1GB ones) though, wouldn't it be better if I used the external with faster sequential reading/writing? 
+
+
+
+
+ The external HDD is faster in sequential reading/writing, but a bit slower in everything else. Should I install big games like GTA V in the external or the internal?
+
+Here's a CrystalDiskBench for comparison:
+http://i.imgur.com/4s3nYH4.png
+
+Thanks! :) 
+
+
+
+
+ I don't think there is a crack yet. Anyway, here's a great piece of advice: **DON'T RUSH INTO THE FIRST P2P RELEASE YOU SEE.** Wait for a **SCENE RELEASE**. 
+
+
+
+
+ Hardline is fun to some extent. My point is that what they charge for it (even 40) is too much for what you get.  
+
+
+
+
+ If you mean key store sites... I got BF4 Premium from G2A it worked fine. But after the Ubisoft fiasco (I wasn't affected), I became skeptical about these sites. I know you'll argue "but it workz 4 me!", but to me buying from G2A/Kinguin/etc is no different than buying a cheap DVD from a street seller and praying it works fine. 
+
+
+
+
+ Same. I bought in a local retail store. I don't think I can have a refund either. 
+
+
+
+
+ I do.
+Well. Let me get this straight. I payed 60 for this at launch (March 20). I got:
+
+* Way less weapons than BF4
+
+* Standard edition. BF4 had that special edition for the SAME price (60) and it included the China Rising DLC with 4 new maps.
+
+* Poorer performance than BF4. It's PunkBuster? It's my PC that sucks? I don't care what's the excuse. It runs on the same engine as BF4 and the game feels choppy, specially in 64 players. Believe me, I tried capping the FPS, messing around in NVIDIA Control Panel. BF4 always runs smooth.
+
+* Clusterfuck Call of Duty maps. I used to consider myself an infantry guy, but my god. It always feels like TDM in the main modes (Blood Money   Heist). ***Spawn. Dead. Spawn. Dead.***  If I try to play the objective I kinda enjoy it a bit. But it gets boring after a while.
+
+* Boring and pointless campaign. I know Battlefield never was about singleplayer, but they promised us a "Visceral-quality campaign", and what did we get? The same boring crap.
+
+The launch was somewhat smooth because this is a Battlefield 4 rip off. Yet they still managed to fuck up Punkbuster.
+
+As if that weren't enough, it's now for sale on Origin, two weeks after the release, for **39.99!**
+
+I feel like an idiot. But well. EA won't fool me again. I learned my lesson. **They charge 60 because that's what people are willing to pay for the game.** 
+
+
+
+
+ What about [Boonzi](http://www.boonzi.pt/)? Seems to support online banking and everything. And it's a national product :) 
+
+
+
+
+ still cheapa dan my peasant pc freind he pay $5000 for gtx 550 and core2quad and cant even run theorder1886 lel 
+
+
+
+
+ Yhep. I loved the freecam on Debug mode. It was fun going to that secret room with all the NPCs, visiting Hagrid's hut underground... and griffindor's challenge. HP2 for PC was one of the best games I've ever played. 
+
+
+
+
+ Happened to me recently, thought it was because of the patch. 
+
+
+
+
