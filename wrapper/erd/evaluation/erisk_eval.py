@@ -35,6 +35,11 @@ def erde_evaluation(goldenTruth_path, algorithmResult_path, o):
 			neg_decisions = len(merged_data[risk_d==0])
 
 			# Count of how many of them are actually true positive cases
+			tpusers = merged_data[(t_risk==1) & (risk_d==1)]['subj_id']
+			tnusers = merged_data[(t_risk==0) & (risk_d==0)]['subj_id']
+			fpusers = merged_data[(t_risk==0) & (risk_d==1)]['subj_id']
+			fnusers = merged_data[(t_risk==1) & (risk_d==0)]['subj_id']
+
 			pos_hits = len(merged_data[(t_risk==1) & (risk_d==1)])
 
 			neg_hits = len(merged_data[(t_risk==0) & (risk_d==0)])
@@ -54,6 +59,27 @@ def erde_evaluation(goldenTruth_path, algorithmResult_path, o):
 			print '__0__|  {0}  |  {1}  |'.format(fp_hits,neg_hits)
 			print 'undecided : {0}'.format(undecided)
 			print 'total : {0}'.format(total_users)
+			print ' writing user categories to files for comparison '
+			print '$$$$$$$$$$$$$$$$$$$$$$$$$$ Users-TP.txt Generated $$$$$$$$$$$$$$$$$$$$$$$$$'
+			with open('Users-TP.txt','w') as out:
+				for u in tpusers:
+					out.write(u)
+					out.write('\n')
+			print '$$$$$$$$$$$$$$$$$$$$$$$$$$ Users-TN.txt Generated $$$$$$$$$$$$$$$$$$$$$$$$$$$$'
+			with open('Users-TN.txt','w') as out:
+				for u in tnusers:
+					out.write(u)
+					out.write('\n')
+			print '$$$$$$$$$$$$$$$$$$$$$$$$$$ Users-FP.txt Generated $$$$$$$$$$$$$$$$$$$$$$$$$$'
+			with open('Users-FP.txt','w') as out:
+				for u in fpusers:
+					out.write(u)
+					out.write('\n')
+			print '$$$$$$$$$$$$$$$$$$$$$$$$$$ Users-FN.txt Generated $$$$$$$$$$$$$$$$$$$$$$$$$$$'
+			with open('Users-FN.txt','w') as out:
+				for u in fnusers:
+					out.write(u)
+					out.write('\n')
 			print '#############################################################################'
 
 			# ERDE calculus
