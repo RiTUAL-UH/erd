@@ -25,14 +25,36 @@ def erde_evaluation(goldenTruth_path, algorithmResult_path, o):
 			# Count of how many true positives there are
 			true_pos = len(merged_data[t_risk==1])
 
+			#Count of how many true negatives there are 
+			true_neg = len(merged_data[t_risk==0])
+			
 			# Count of how many positive cases the system decided there were
 			pos_decisions = len(merged_data[risk_d==1])
+
+			# negative by system
+			neg_decisions = len(merged_data[risk_d==0])
 
 			# Count of how many of them are actually true positive cases
 			pos_hits = len(merged_data[(t_risk==1) & (risk_d==1)])
 
+			neg_hits = len(merged_data[(t_risk==0) & (risk_d==0)])
+
+			fp_hits = len(merged_data[(t_risk==0) & (risk_d==1)])
+
+			fn_hits = len(merged_data[(t_risk==1) & (risk_d==0)])
+
 			# Total count of users
 			total_users = len(merged_data)
+
+			undecided = total_users - (pos_hits+neg_hits+fp_hits+fn_hits)
+
+			print '############################# CONFUSION MATRIX #############################'
+			print '_____|___1___|___0___|'
+			print '__1__|  {0}  |  {1}  |'.format(pos_hits,fn_hits)
+			print '__0__|  {0}  |  {1}  |'.format(fp_hits,neg_hits)
+			print 'undecided : {0}'.format(undecided)
+			print 'total : {0}'.format(total_users)
+			print '#############################################################################'
 
 			# ERDE calculus
 			for i in range(total_users):
