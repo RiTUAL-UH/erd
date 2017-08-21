@@ -71,14 +71,18 @@ if __name__ == '__main__':
 	shuffle(destination_folders)
 
 	start = 0
-	end = folder_capacity 
+	end = folder_capacity
 
-	for folder in destination_folders:
-		for file in source_files[start:end+1]:
-			copy(file,folder)
-		start +=folder_capacity
+	divided_files = []
+	while len(divided_files) < (folder_count-1):
+		divided_files.append(source_files[start:end])
+		start=end
 		end+=folder_capacity
 
+	for idx in xrange(len(divided_files)):
+		for to_move in divided_files[idx]:
+			copy(to_move,destination_folders[idx])
+			
 	# write the random residual files to the last randomly chosen folder
 	last_folder = destination_folders[-1]
 
