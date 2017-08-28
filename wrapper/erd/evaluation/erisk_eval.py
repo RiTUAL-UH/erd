@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 import argparse
+import math
+import sys 
 import traceback
 
 	# To calculate the metrics of the classification algorithm
@@ -92,7 +94,6 @@ def erde_evaluation(goldenTruth_path, algorithmResult_path, o):
 					erde.ix[i] = 1.0 - (1.0/(1.0+np.exp(k[i]-o)))
 				elif(risk_d[i] == 0 and t_risk[i] == 0):
 					erde.ix[i] = 0.0
-
 			# Calculus of F1, Precision, Recall and global ERDE
 			precision = float(pos_hits)/pos_decisions
 			recall = float(pos_hits)/true_pos
