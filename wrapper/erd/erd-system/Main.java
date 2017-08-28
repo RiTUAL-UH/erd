@@ -74,6 +74,7 @@ public class Main{
 					if(IsExhaustive.equals("yes")){
 					
 						Builder.RunEarlyRiskClassificationExhaustive(Manager,10);
+						//Builder.RunEriskWithRl(Manager,10);
 
 					}
 					else {

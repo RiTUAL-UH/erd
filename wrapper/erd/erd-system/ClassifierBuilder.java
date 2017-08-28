@@ -350,58 +350,65 @@ public class ClassifierBuilder{
 
 				double [] Predictions = MyClassifier.distributionForInstance(TestData.get(InnerIndex));
 
+				/*System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+				System.out.println(TestData.classAttribute().value(0));
+				System.out.println(TestData.classAttribute().value(1)); 
+				System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@"); */
+				//boolean Written = false; 
 
-					boolean Written = false;
-
-					/*if(positiveSubject.equals(SubjectNames.get(InnerIndex)))
-					{
-						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-						System.out.println("positive subject ");
-						System.out.println(Predictions[1]);
-						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-					}
-					if(negativeSubject.equals(SubjectNames.get(InnerIndex)))
-					{
-						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
-						System.out.println("negative subject ");
-						System.out.println(Predictions[1]);
-						System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+			    /*if(positiveSubject.equals(SubjectNames.get(InnerIndex)))
+				{
+					System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+					System.out.println("positive subject ");
+					System.out.println(Predictions[1]);
+					System.out.println(Predictions[0]);
+					System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+				}
+				if(negativeSubject.equals(SubjectNames.get(InnerIndex)))
+				{
+					System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
+					System.out.println("negative subject ");
+					System.out.println(Predictions[1]);
+					System.out.println(Predictions[0]);
+					System.out.println("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 					}*/
+				
 
-					if(Predictions[1] > Predictions[0]){
+				if(Policy(Predictions[1]) ){
 
-						if(Policy(Predictions[1])){
+						Writer.AppendToOutput(SubjectNames.get(InnerIndex),1);
+				}
+				else{
+						
+					if(Policy(Predictions[0])){
 
-							Writer.AppendToOutput(SubjectNames.get(InnerIndex),1);
-							Written = true;
-						}
-					}else if (Predictions[0] > Predictions[1]) {
+						Writer.AppendToOutput(SubjectNames.get(InnerIndex),2);
 
-						if(Policy(Predictions[0])){
-
-							Writer.AppendToOutput(SubjectNames.get(InnerIndex),2);
-							Written = true;
-					   }
 					}
-					if(!Written)
-					{ 
-							Writer.AppendToOutput(SubjectNames.get(InnerIndex),0);
-					} 
-
-
+					else{
+						
+						Writer.AppendToOutput(SubjectNames.get(InnerIndex),0);
+					}
+				}
+			
 			}
 
 		}
 
 	}
 	
-/*
-	Experimental do not use 
+	public void RunEriskWithRl(ChunkManager manager,int howManyChunks) throws Exception{
 
-	public void RunEarlyRiskClassificationExhaustiveWithCache(ChunkManager manager,int howManyChunks) throws Exception{
+		// value of the wait,positive and negative states for each subject
+		HashMap<String,Double [] > V = new HashMap<String,Double [] > ();
+		// cache positive state rewards
+		HashMap<String,Double> Cache = new HashMap<String,Double> ();
+		final int WaitState  = 0;
+		final int PositiveState = 1;
+		final int NegativeState = 2;
+		Double Alpha = 0.5;
 
-		HashMap <String,Integer> Cache = new HashMap <String,Integer> ();
-
+		
 		for(int OuterIndex=1; OuterIndex<=howManyChunks; OuterIndex++){
 
 			manager.GoToNextChunk(OuterIndex);
@@ -410,27 +417,102 @@ public class ClassifierBuilder{
 
 			Instances TestData = manager.GetDataFromCurrentChunk();
 
-			// Get console output for no policy #weka metrics 
-			//EvaluateAgainstTestSet(TestData,OuterIndex);
-
 			CsvWriter Writer = new CsvWriter("./ritual_"+Integer.toString(OuterIndex)+".txt");
+
+			//need to initialize v once for all subjects
+			if(OuterIndex == 1){
+
+				for(int Idx=0; Idx < TestData.numInstances(); Idx++){
+
+					V.put(SubjectNames.get(Idx),new  Double [] {0.8,0.0,0.0});
+				}
+
+			}
 
 			for(int InnerIndex =0; InnerIndex < TestData.numInstances(); InnerIndex++ ){
 
 				double [] Predictions = MyClassifier.distributionForInstance(TestData.get(InnerIndex));
 
-				Double Prediction = MyClassifier.classifyInstance(TestData.get(InnerIndex));
+				String UserName = SubjectNames.get(InnerIndex);
 
-
-		
-//					Writer.AppendToOutput(SubjectNames.get(InnerIndex),0); 
+				// need to update the V , V(s) <- V(s) + alpha * [ V(s') - V(s)]
 				
+				// get V(s) for all s
+				Double WaitValue = V.get(UserName)[WaitState];
+				Double PosValue  = V.get(UserName)[PositiveState];
+				Double NegValue  = V.get(UserName)[NegativeState];
+				
+				// prepare the rewards for each s
+				Double RewardWait , RewardPos, RewardNeg;
+
+				if( OuterIndex > 1){
+					RewardWait = Math.abs(PosValue-Cache.get(UserName));
+				}
+				else{
+					RewardWait = 0.0;
+				}
+				Cache.put(UserName,PosValue);
+				
+				RewardPos = Predictions[1];
+				RewardNeg = Predictions[0];
+				
+				// calculate the updates
+				Double UpdatedWait , UpdatedPos , UpdatedNeg;
+				
+				UpdatedWait = WaitValue + Alpha * ( RewardWait - WaitValue );
+				UpdatedPos =  PosValue + Alpha * (RewardPos - PosValue);
+				UpdatedNeg = NegValue + Alpha * (RewardNeg - NegValue);
+
+				//make the update
+				V.put(UserName,new Double [] {UpdatedWait,UpdatedPos,UpdatedNeg});
+
+				// time to give decision
+				int ArgMax = GetMaxIndex(V.get(UserName));
+
+				if (ArgMax == PositiveState ){
+
+					Writer.AppendToOutput(SubjectNames.get(InnerIndex),PositiveState);
+
+				}
+				else if (ArgMax == NegativeState){
+
+					Writer.AppendToOutput(SubjectNames.get(InnerIndex),PositiveState);
+				}
+				else if (ArgMax == WaitState){
+
+					Writer.AppendToOutput(SubjectNames.get(InnerIndex),PositiveState);
+				}
 
 
 			}
 
+			if ( OuterIndex % 2 == 0){
+
+				Alpha -= 0.1;
+			} 
 		}
 
-	} */
+	}
+
+	private int GetMaxIndex(Double [] myArray){
+
+		int Idx = 0;
+		Double Largest = - Double.MAX_VALUE;
+
+		for(int i=0; i < myArray.length; i++){
+
+			if ( myArray[i] > Largest){
+
+				Largest = myArray[i];
+
+				Idx = i;
+			}
+		}
+
+		return Idx;
+
+	}
+
+
 
 }
