@@ -1,6 +1,8 @@
 from textstat.textstat import textstat
 import argparse
 import os
+import numpy as np
+
 """
      Given a path to a dir containing chunk folders 
      generate a file for every chunk folder such as:
@@ -11,12 +13,24 @@ import os
 """
 lwf = lambda x: textstat.linsear_write_formula(x)
 fog = lambda y: textstat.gunning_fog(y)
+join = lambda g,z : os.path.join(g,z)
+isfile = lambda z: os.path.isfile(z)
+isdir = lambda z: os.path.isdir(z)
 
 def get_chunknames(path):
 
 	for direc in os.listdir(path):
-		if os.path.isdir(direc):
-			yield direc 
+		if isdir(direc):
+			yield direc
+
+def process(path,chunkname):
+
+	subjects = [ file for file in os.listdir(join(path,chunkname)) if isfile(join(join(path,chunkname),file))]
+	subforid = [ list(z) for z in subjects]
+	for z in subforid:
+		z[-4] = '_'
+	subforid = [ ''.join(s for s in z) for z in subforid]
+
 
 if __name__ == '__main__':
 
@@ -24,4 +38,5 @@ if __name__ == '__main__':
 	parser.add_argument('-p','--path',help='folder contatining chunk folders',required=True)
 	args= vars(parser.parse_args())
 
-
+	for chunk in get_chunknames(args['path']):
+		process(args['path'],chunk)
