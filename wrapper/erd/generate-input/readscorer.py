@@ -26,10 +26,9 @@ def get_chunknames(path):
 def process(path,chunkname):
 
 	subjects = [ file for file in os.listdir(join(path,chunkname)) if isfile(join(join(path,chunkname),file))]
-	subforid = [ list(z) for z in subjects]
-	for z in subforid:
-		z[-4] = '_'
-	subforid = [ ''.join(s for s in z) for z in subforid]
+	chunkid = chunkname.replace('-','_') + '_'
+	ids = [  chunkid + z.replace('.','_') for z in subjects]
+	print ids[:3]
 
 
 if __name__ == '__main__':
@@ -39,4 +38,5 @@ if __name__ == '__main__':
 	args= vars(parser.parse_args())
 
 	for chunk in get_chunknames(args['path']):
+		print chunk
 		process(args['path'],chunk)
