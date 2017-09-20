@@ -31,7 +31,7 @@ def process(path,chunkname):
 	ids = [  chunkid + z.replace('.','_') for z in subjects]
 	avg_fogs,avg_lwfs = get_scores(path,chunkname,subjects)
 
-	with open('./readscores_'+chunkname+'.txt') as out:
+	with open('./readscores_'+chunkname+'.txt','w') as out:
 		for idx in xrange(len(subjects)):
 			out.write('{} {} {}'.format(ids[idx],avg_fogs[idx],avg_lwfs[idx]))
 			out.write('\n')
@@ -50,8 +50,9 @@ def get_scores(path,chunkname,subjects):
 		with open(read_path) as to_read:
 			lines = (line.rstrip() for line in to_read)
 			posts = list(line for line in lines if line)
-			fogs = [ fog(post) for post in posts]
-			lwfs = [lwf(post) for post in posts]
+			fogs = [ fog(post) for post in posts if fog(post) != None ]
+			lwfs = [lwf(post) for post in posts ]
+
 
 		avg_fogs.append(np.mean(fogs))
 		avg_lwfs.append(np.mean(lwfs))
@@ -66,4 +67,4 @@ if __name__ == '__main__':
 
 	for chunk in get_chunknames(args['path']):
 		process(args['path'],chunk)
-		break
+		
