@@ -7,14 +7,18 @@ viz input arffs to erd-system produced by feature space tree
 NOTE: for now manually add @attrs in output file as it is weird to do it in a single pass 
 """
 
-def get_attrs(attr_file):
+def get_attrs(attr_file,istest):
 
 	with open(attr_file) as af:
 		id_fog_lwf = [tuple(line.split()) for line in af ]
-		attrs = { item[0] : (item[1],item[2]) for item in id_fog_lwf}
+		if istest == 'no':
+			attrs = { item[0] : (item[1],item[2]) for item in id_fog_lwf}
+		elif istest == 'yes':
+			#id_fog_lwf = [tuple(x[x.find('s'):-4],y,z) for x,y,z in id_fog_lwf ]
+			attrs = { item[0][item[0].find('s'):-4] : (item[1],item[2]) for item in id_fog_lwf}
 		return attrs
 
-def add_attrs(attrs,arff_file,output_file):
+def add_attrs(attrs,arff_file,output_file,istest):
 
 	with open(arff_file) as af:
 		data_flag = False
@@ -25,7 +29,14 @@ def add_attrs(attrs,arff_file,output_file):
 				pieces = line.split()
 
 				if data_flag:
-					fog_lwf = attrs[pieces[-1]]
+
+					if istest == 'no':
+						fog_lwf = attrs[pieces[-1]]
+					elif istest == 'yes':
+						testkey = pieces[-1]
+						testkey = testkey[testkey.find('s'):-4]
+						fog_lwf = attrs[testkey]
+
 					pieces.insert(-2,fog_lwf[0]+',')
 					pieces.insert(-2,fog_lwf[1]+',')
 					out.write(' '.join(s for s in pieces))
@@ -40,10 +51,11 @@ def add_attrs(attrs,arff_file,output_file):
 
 if __name__ == '__main__':
 
-	parser = argparse.ArgumentParser(description='USAGE :   python attradder.py --attr <> --arff <> --out <> ')
+	parser = argparse.ArgumentParser(description='USAGE :   python attradder.py --attr <> --arff <> --out <> --test no')
 	parser.add_argument('-a','--attr',help='path to ids and attributes  file',required=True)
 	parser.add_argument('-b','--arff',help='path to arff  file',required=True)
-	parser.add_argument('-o','--out',help='output file name',required=True)	
+	parser.add_argument('-o','--out',help='output file name',required=True)
+	parser.add_argument('-t','--test',help='if test file type yes else no',required=True)	
 	args= vars(parser.parse_args())
 
-	add_attrs(get_attrs(args['attr']),args['arff'],args['out'])
+	add_attrs(get_attrs(args['attr'],args['test']),args['arff'],args['out'],args['test'])
