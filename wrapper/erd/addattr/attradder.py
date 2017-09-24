@@ -4,7 +4,6 @@ import os
 """ adds attributes from readscorer's output to arff files 
 viz input arffs to erd-system produced by feature space tree 
 
-NOTE: for now manually add @attrs in output file as it is weird to do it in a single pass 
 """
 
 def get_attrs(attr_file,istest):
@@ -14,7 +13,6 @@ def get_attrs(attr_file,istest):
 		if istest == 'no':
 			attrs = { item[0] : (item[1],item[2]) for item in id_fog_lwf}
 		elif istest == 'yes':
-			#id_fog_lwf = [tuple(x[x.find('s'):-4],y,z) for x,y,z in id_fog_lwf ]
 			attrs = { item[0][item[0].find('s'):-4] : (item[1],item[2]) for item in id_fog_lwf}
 		return attrs
 
@@ -42,7 +40,13 @@ def add_attrs(attrs,arff_file,output_file,istest):
 					out.write(' '.join(s for s in pieces))
 					out.write('\n')
 				else:
-					out.write(line)
+					if len(pieces) > 1 and pieces[1] == 'categories':
+						out_this = ['@attribute fog numeric      %% real name: \'fog scores\'',
+									 '@attribute lwf numeric      %% real name: \'lwf scores\'',
+									 line]
+						out.write('\n'.join(s for s in out_this))
+					else:
+						out.write(line)
 
 				if pieces[0] == '@data':
 					data_flag = True
