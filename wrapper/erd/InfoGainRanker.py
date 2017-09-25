@@ -3,6 +3,8 @@ import numpy as np
 from sklearn.tree import DecisionTreeClassifier as DT 
 import argparse
 import pandas
+from operator import itemgetter
+from copy import deepcopy
 """
 Given an arff file rank attributes by info gain """
 
@@ -14,6 +16,7 @@ def read(path):
 	cols = list(meta)[:-1]
  	ds = pandas.DataFrame(data_nolabels,columns = cols )
 	return ds,labels
+
 if __name__ == '__main__':
 
 	parser = argparse.ArgumentParser(description='USAGE :   python readscorer.py --path <> ')
@@ -36,15 +39,33 @@ if __name__ == '__main__':
 
 	while k:
 		end = k.pop()
-		clusters[end/6] = feature_imps[start:end]
+		clusters[end/6] = set((u,v) for u,v in feature_imps[start:end])
 		start = end
 
-	for key in clusters.keys():
+	fimps = deepcopy(feature_imps)
+	fimps.sort(key=itemgetter(1),reverse=True)
+
+	print 'printing attributes ranked by info gain'
+	counter = 1
+	print 'index num_of_clusters feature info_gain'
+	for name,imp in fimps:
+		which_clustering = None
+		for key in clusters.keys():
+			if (name,imp) in clusters[key]:
+				which_clustering = key
+				break
+		print '{0}) {1} {2} {3}'.format(counter,which_clustering,name,imp)
+		counter+=1
+
+
+	"""for key in clusters.keys():
 		print 'number of clusters : {0}'.format(key)
 		print 'feature importances are as follows, feature_name : info_gain'
 		for x,y in clusters[key]:
 			print '{0} : {1}'.format(x,y)
-		print '########################################################'
+		print '########################################################'"""
+
+
 
 
 
