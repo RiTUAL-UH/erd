@@ -20,5 +20,7 @@ if __name__ == '__main__':
 	parser.add_argument('-p','--path',help='path to arff file',required=True)
 	args= vars(parser.parse_args())
 	train,truth = read(args['path'])
-	print train
-	print truth
+	clf = DT(criterion='entropy',splitter='best')
+	clf = clf.fit(train,truth)
+	for name,imp in zip(train.columns,clf.feature_importances_):
+		print '{0} : {1}'.format(name,imp)
