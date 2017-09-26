@@ -39,31 +39,28 @@ if __name__ == '__main__':
 
 	while k:
 		end = k.pop()
-		clusters[end/6] = set((u,v) for u,v in feature_imps[start:end])
+		clusters[end/6] = feature_imps[start:end]
 		start = end
 
-	fimps = deepcopy(feature_imps)
-	fimps.sort(key=itemgetter(1),reverse=True)
+	maxlist = []
+	for cl in clusters.keys():
+		clusters[cl].sort(key=itemgetter(1),reverse=True)
+		maxlist.append((cl,clusters[cl][0][0],clusters[cl][0][1]))
 
-	print 'printing attributes ranked by info gain'
-	counter = 1
-	print 'index num_of_clusters feature info_gain'
-	for name,imp in fimps:
-		which_clustering = None
-		for key in clusters.keys():
-			if (name,imp) in clusters[key]:
-				which_clustering = key
-				break
-		print '{0}) {1} {2} {3}'.format(counter,which_clustering,name,imp)
-		counter+=1
+	maxlist.sort(key=itemgetter(2),reverse=True)
+	print 'importance among different clusterings'
+	print 'no_clusters feature info_gain'
+	
+	for u,v,w in maxlist:
+		print '{0} {1} {2}'.format(u,v,w)
 
-
-	"""for key in clusters.keys():
+	print '###########  now attribute importance irrespective of clustering group ##########'
+	for key in clusters.keys():
 		print 'number of clusters : {0}'.format(key)
 		print 'feature importances are as follows, feature_name : info_gain'
 		for x,y in clusters[key]:
 			print '{0} : {1}'.format(x,y)
-		print '########################################################'"""
+		print '########################################################'
 
 
 
