@@ -4,7 +4,8 @@ from sklearn.tree import DecisionTreeClassifier as DT
 import argparse
 import pandas
 from operator import itemgetter
-from copy import deepcopy
+from sklearn.metrics import f1_score,make_scorer
+from sklearn.model_selection import cross_val_score
 """
 Given an arff file rank attributes by info gain """
 
@@ -12,7 +13,7 @@ def read(path):
 
 	data,meta = arff.loadarff(path)
 	data_nolabels =np.asarray( [np.asarray(list(item)[:-1]) for item in data])
-	labels = np.asarray([ item[-1] for item in data])
+	labels = np.asarray([ int(item[-1]) for item in data])
 	cols = list(meta)[:-1]
  	ds = pandas.DataFrame(data_nolabels,columns = cols )
 	return ds,labels
@@ -24,6 +25,14 @@ if __name__ == '__main__':
 	args= vars(parser.parse_args())
 	train,truth = read(args['path'])
 	clf = DT(criterion='entropy',splitter='best')
+
+	scores = cross_val_score(clf,train,truth,scoring = make_scorer(f1_score,average='binary',pos_label=1),cv=10)
+
+	print 'f1 scores on 10 fold cross validation'
+	for x in xrange(len(scores)):
+		print '{0}) {1}'.format(x+1,scores[x])
+	print '########################'
+
 	clf = clf.fit(train,truth)
 	# clustering 
 	k  = [x for x in xrange(1,33) if x%2 == 0]
@@ -50,7 +59,7 @@ if __name__ == '__main__':
 	maxlist.sort(key=itemgetter(2),reverse=True)
 	print 'importance among different clusterings'
 	print 'no_clusters feature info_gain'
-	
+
 	for u,v,w in maxlist:
 		print '{0} {1} {2}'.format(u,v,w)
 

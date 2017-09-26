@@ -1,0 +1,275 @@
+f1 scores on 10 fold cross validation
+1) 1.0
+2) 0.983606557377
+3) 1.0
+4) 1.0
+5) 1.0
+6) 1.0
+7) 1.0
+8) 1.0
+9) 0.982456140351
+10) 0.964285714286
+########################
+importance among different clusterings
+no_clusters feature info_gain
+1 6_attr_chunk1_2_3_4_5_6_7_8_9_10_negative 0.810267548498
+30 175_attr_chunk1_2_3_4_5_6_7_8_9_10_8 0.0913879873043
+22 126_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_7 0.0818911026583
+4 16_attr_chunk1_2_3_4_5_6_7_8_9_10_1 0.0164533615392
+32 181_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_4 0.0
+2 7_attr_chunk_1_0 0.0
+6 25_attr_chunk1_2_2 0.0
+8 37_attr_chunk1_2_3_4_5_6_7_8_9_10_2 0.0
+10 49_attr_chunk1_2_0 0.0
+12 61_attr_chunk1_2_3_4_0 0.0
+14 73_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 0.0
+16 85_attr_chunk_1_6 0.0
+18 97_attr_chunk1_2_3_2 0.0
+20 109_attr_chunk1_2_3_4_6 0.0
+24 133_attr_chunk_1_6 0.0
+26 145_attr_chunk1_2_8 0.0
+28 157_attr_chunk1_2_3_4_0 0.0
+###########  now attribute importance irrespective of clustering group ##########
+number of clusters : 32
+feature importances are as follows, feature_name : info_gain
+181_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_4 : 0.0
+182_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_5 : 0.0
+183_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_6 : 0.0
+184_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_7 : 0.0
+185_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_8 : 0.0
+186_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_9 : 0.0
+187_attr_chunk_1_0 : 0.0
+188_attr_chunk_1_1 : 0.0
+189_attr_chunk_1_2 : 0.0
+190_attr_chunk_1_3 : 0.0
+191_attr_chunk_1_4 : 0.0
+192_attr_chunk_1_5 : 0.0
+########################################################
+number of clusters : 1
+feature importances are as follows, feature_name : info_gain
+6_attr_chunk1_2_3_4_5_6_7_8_9_10_negative : 0.810267548498
+1_attr_chunk_1 : 0.0
+2_attr_chunk1_2 : 0.0
+3_attr_chunk1_2_3 : 0.0
+4_attr_chunk1_2_3_4 : 0.0
+5_attr_chunk1_2_3_4_5_6_7_8_9_10 : 0.0
+########################################################
+number of clusters : 2
+feature importances are as follows, feature_name : info_gain
+7_attr_chunk_1_0 : 0.0
+8_attr_chunk_1_1 : 0.0
+9_attr_chunk1_2_0 : 0.0
+10_attr_chunk1_2_1 : 0.0
+11_attr_chunk1_2_3_0 : 0.0
+12_attr_chunk1_2_3_1 : 0.0
+########################################################
+number of clusters : 4
+feature importances are as follows, feature_name : info_gain
+16_attr_chunk1_2_3_4_5_6_7_8_9_10_1 : 0.0164533615392
+13_attr_chunk1_2_3_4_0 : 0.0
+14_attr_chunk1_2_3_4_1 : 0.0
+15_attr_chunk1_2_3_4_5_6_7_8_9_10_0 : 0.0
+17_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 : 0.0
+18_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_1 : 0.0
+19_attr_chunk_1_0 : 0.0
+20_attr_chunk_1_1 : 0.0
+21_attr_chunk_1_2 : 0.0
+22_attr_chunk_1_3 : 0.0
+23_attr_chunk1_2_0 : 0.0
+24_attr_chunk1_2_1 : 0.0
+########################################################
+number of clusters : 6
+feature importances are as follows, feature_name : info_gain
+25_attr_chunk1_2_2 : 0.0
+26_attr_chunk1_2_3 : 0.0
+27_attr_chunk1_2_3_0 : 0.0
+28_attr_chunk1_2_3_1 : 0.0
+29_attr_chunk1_2_3_2 : 0.0
+30_attr_chunk1_2_3_3 : 0.0
+31_attr_chunk1_2_3_4_0 : 0.0
+32_attr_chunk1_2_3_4_1 : 0.0
+33_attr_chunk1_2_3_4_2 : 0.0
+34_attr_chunk1_2_3_4_3 : 0.0
+35_attr_chunk1_2_3_4_5_6_7_8_9_10_0 : 0.0
+36_attr_chunk1_2_3_4_5_6_7_8_9_10_1 : 0.0
+########################################################
+number of clusters : 8
+feature importances are as follows, feature_name : info_gain
+37_attr_chunk1_2_3_4_5_6_7_8_9_10_2 : 0.0
+38_attr_chunk1_2_3_4_5_6_7_8_9_10_3 : 0.0
+39_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 : 0.0
+40_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_1 : 0.0
+41_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_2 : 0.0
+42_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_3 : 0.0
+43_attr_chunk_1_0 : 0.0
+44_attr_chunk_1_1 : 0.0
+45_attr_chunk_1_2 : 0.0
+46_attr_chunk_1_3 : 0.0
+47_attr_chunk_1_4 : 0.0
+48_attr_chunk_1_5 : 0.0
+########################################################
+number of clusters : 10
+feature importances are as follows, feature_name : info_gain
+49_attr_chunk1_2_0 : 0.0
+50_attr_chunk1_2_1 : 0.0
+51_attr_chunk1_2_2 : 0.0
+52_attr_chunk1_2_3 : 0.0
+53_attr_chunk1_2_4 : 0.0
+54_attr_chunk1_2_5 : 0.0
+55_attr_chunk1_2_3_0 : 0.0
+56_attr_chunk1_2_3_1 : 0.0
+57_attr_chunk1_2_3_2 : 0.0
+58_attr_chunk1_2_3_3 : 0.0
+59_attr_chunk1_2_3_4 : 0.0
+60_attr_chunk1_2_3_5 : 0.0
+########################################################
+number of clusters : 12
+feature importances are as follows, feature_name : info_gain
+61_attr_chunk1_2_3_4_0 : 0.0
+62_attr_chunk1_2_3_4_1 : 0.0
+63_attr_chunk1_2_3_4_2 : 0.0
+64_attr_chunk1_2_3_4_3 : 0.0
+65_attr_chunk1_2_3_4_4 : 0.0
+66_attr_chunk1_2_3_4_5 : 0.0
+67_attr_chunk1_2_3_4_5_6_7_8_9_10_0 : 0.0
+68_attr_chunk1_2_3_4_5_6_7_8_9_10_1 : 0.0
+69_attr_chunk1_2_3_4_5_6_7_8_9_10_2 : 0.0
+70_attr_chunk1_2_3_4_5_6_7_8_9_10_3 : 0.0
+71_attr_chunk1_2_3_4_5_6_7_8_9_10_4 : 0.0
+72_attr_chunk1_2_3_4_5_6_7_8_9_10_5 : 0.0
+########################################################
+number of clusters : 14
+feature importances are as follows, feature_name : info_gain
+73_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 : 0.0
+74_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_1 : 0.0
+75_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_2 : 0.0
+76_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_3 : 0.0
+77_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_4 : 0.0
+78_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_5 : 0.0
+79_attr_chunk_1_0 : 0.0
+80_attr_chunk_1_1 : 0.0
+81_attr_chunk_1_2 : 0.0
+82_attr_chunk_1_3 : 0.0
+83_attr_chunk_1_4 : 0.0
+84_attr_chunk_1_5 : 0.0
+########################################################
+number of clusters : 16
+feature importances are as follows, feature_name : info_gain
+85_attr_chunk_1_6 : 0.0
+86_attr_chunk_1_7 : 0.0
+87_attr_chunk1_2_0 : 0.0
+88_attr_chunk1_2_1 : 0.0
+89_attr_chunk1_2_2 : 0.0
+90_attr_chunk1_2_3 : 0.0
+91_attr_chunk1_2_4 : 0.0
+92_attr_chunk1_2_5 : 0.0
+93_attr_chunk1_2_6 : 0.0
+94_attr_chunk1_2_7 : 0.0
+95_attr_chunk1_2_3_0 : 0.0
+96_attr_chunk1_2_3_1 : 0.0
+########################################################
+number of clusters : 18
+feature importances are as follows, feature_name : info_gain
+97_attr_chunk1_2_3_2 : 0.0
+98_attr_chunk1_2_3_3 : 0.0
+99_attr_chunk1_2_3_4 : 0.0
+100_attr_chunk1_2_3_5 : 0.0
+101_attr_chunk1_2_3_6 : 0.0
+102_attr_chunk1_2_3_7 : 0.0
+103_attr_chunk1_2_3_4_0 : 0.0
+104_attr_chunk1_2_3_4_1 : 0.0
+105_attr_chunk1_2_3_4_2 : 0.0
+106_attr_chunk1_2_3_4_3 : 0.0
+107_attr_chunk1_2_3_4_4 : 0.0
+108_attr_chunk1_2_3_4_5 : 0.0
+########################################################
+number of clusters : 20
+feature importances are as follows, feature_name : info_gain
+109_attr_chunk1_2_3_4_6 : 0.0
+110_attr_chunk1_2_3_4_7 : 0.0
+111_attr_chunk1_2_3_4_5_6_7_8_9_10_0 : 0.0
+112_attr_chunk1_2_3_4_5_6_7_8_9_10_1 : 0.0
+113_attr_chunk1_2_3_4_5_6_7_8_9_10_2 : 0.0
+114_attr_chunk1_2_3_4_5_6_7_8_9_10_3 : 0.0
+115_attr_chunk1_2_3_4_5_6_7_8_9_10_4 : 0.0
+116_attr_chunk1_2_3_4_5_6_7_8_9_10_5 : 0.0
+117_attr_chunk1_2_3_4_5_6_7_8_9_10_6 : 0.0
+118_attr_chunk1_2_3_4_5_6_7_8_9_10_7 : 0.0
+119_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 : 0.0
+120_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_1 : 0.0
+########################################################
+number of clusters : 22
+feature importances are as follows, feature_name : info_gain
+126_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_7 : 0.0818911026583
+121_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_2 : 0.0
+122_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_3 : 0.0
+123_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_4 : 0.0
+124_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_5 : 0.0
+125_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_6 : 0.0
+127_attr_chunk_1_0 : 0.0
+128_attr_chunk_1_1 : 0.0
+129_attr_chunk_1_2 : 0.0
+130_attr_chunk_1_3 : 0.0
+131_attr_chunk_1_4 : 0.0
+132_attr_chunk_1_5 : 0.0
+########################################################
+number of clusters : 24
+feature importances are as follows, feature_name : info_gain
+133_attr_chunk_1_6 : 0.0
+134_attr_chunk_1_7 : 0.0
+135_attr_chunk_1_8 : 0.0
+136_attr_chunk_1_9 : 0.0
+137_attr_chunk1_2_0 : 0.0
+138_attr_chunk1_2_1 : 0.0
+139_attr_chunk1_2_2 : 0.0
+140_attr_chunk1_2_3 : 0.0
+141_attr_chunk1_2_4 : 0.0
+142_attr_chunk1_2_5 : 0.0
+143_attr_chunk1_2_6 : 0.0
+144_attr_chunk1_2_7 : 0.0
+########################################################
+number of clusters : 26
+feature importances are as follows, feature_name : info_gain
+145_attr_chunk1_2_8 : 0.0
+146_attr_chunk1_2_9 : 0.0
+147_attr_chunk1_2_3_0 : 0.0
+148_attr_chunk1_2_3_1 : 0.0
+149_attr_chunk1_2_3_2 : 0.0
+150_attr_chunk1_2_3_3 : 0.0
+151_attr_chunk1_2_3_4 : 0.0
+152_attr_chunk1_2_3_5 : 0.0
+153_attr_chunk1_2_3_6 : 0.0
+154_attr_chunk1_2_3_7 : 0.0
+155_attr_chunk1_2_3_8 : 0.0
+156_attr_chunk1_2_3_9 : 0.0
+########################################################
+number of clusters : 28
+feature importances are as follows, feature_name : info_gain
+157_attr_chunk1_2_3_4_0 : 0.0
+158_attr_chunk1_2_3_4_1 : 0.0
+159_attr_chunk1_2_3_4_2 : 0.0
+160_attr_chunk1_2_3_4_3 : 0.0
+161_attr_chunk1_2_3_4_4 : 0.0
+162_attr_chunk1_2_3_4_5 : 0.0
+163_attr_chunk1_2_3_4_6 : 0.0
+164_attr_chunk1_2_3_4_7 : 0.0
+165_attr_chunk1_2_3_4_8 : 0.0
+166_attr_chunk1_2_3_4_9 : 0.0
+167_attr_chunk1_2_3_4_5_6_7_8_9_10_0 : 0.0
+168_attr_chunk1_2_3_4_5_6_7_8_9_10_1 : 0.0
+########################################################
+number of clusters : 30
+feature importances are as follows, feature_name : info_gain
+175_attr_chunk1_2_3_4_5_6_7_8_9_10_8 : 0.0913879873043
+169_attr_chunk1_2_3_4_5_6_7_8_9_10_2 : 0.0
+170_attr_chunk1_2_3_4_5_6_7_8_9_10_3 : 0.0
+171_attr_chunk1_2_3_4_5_6_7_8_9_10_4 : 0.0
+172_attr_chunk1_2_3_4_5_6_7_8_9_10_5 : 0.0
+173_attr_chunk1_2_3_4_5_6_7_8_9_10_6 : 0.0
+174_attr_chunk1_2_3_4_5_6_7_8_9_10_7 : 0.0
+176_attr_chunk1_2_3_4_5_6_7_8_9_10_9 : 0.0
+177_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_0 : 0.0
+178_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_1 : 0.0
+179_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_2 : 0.0
+180_attr_chunk1_2_3_4_5_6_7_8_9_10_negative_3 : 0.0
+########################################################
