@@ -228,7 +228,7 @@ test_subject6092  1  0
 test_subject6167  1  0
 test_subject6208  1  0
 test_subject6246  1  1
-test_subject625  1  1
+test_subject625  0  1
 test_subject6267  1  0
 test_subject6305  1  1
 test_subject6308  0  0
@@ -259,7 +259,7 @@ test_subject6884  0  0
 test_subject6894  1  0
 test_subject6899  1  0
 test_subject6945  1  0
-test_subject6948  0  1
+test_subject6948  1  1
 test_subject6974  1  0
 test_subject7026  1  0
 test_subject7070  1  0
